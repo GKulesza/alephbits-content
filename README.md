@@ -109,7 +109,8 @@ Individual packs carry their own licenses in `license.md`. Always check per-pack
 
 ## Related documents
 
-- [Reading Pack Authoring Format](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md)
+- [Author workflow (app docs)](https://github.com/alephbits/alephbits/blob/main/docs/content/AUTHOR_WORKFLOW.md)
+- [Tooling roadmap](https://github.com/alephbits/alephbits/blob/main/docs/content/TOOLING_ROADMAP.md)
 - [Compile pipeline](docs/COMPILE_PIPELINE.md)
 - [Delta update philosophy](docs/DELTA_UPDATES.md)
 - [Manifest field reference](docs/MANIFEST.md)
