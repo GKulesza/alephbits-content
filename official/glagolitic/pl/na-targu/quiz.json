@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie odbywa się opisywany targ?",
+      "answers": [
+        "W Elblągu",
+        "W Nowym Targu",
+        "W Krakowie",
+        "W Budapeszcie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam jedzie na targ w Nowym Targu na Podhalu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego na stoiskach gastronomicznych podawano ceny w euro?",
+      "answers": [
+        "Bo euro jest oficjalną walutą Polski",
+        "Bo Węgrzy i Słowacy nie chcieli przeliczać złotówek",
+        "Bo bankomaty nie działały",
+        "Bo sprzedawcy nie znali polskiego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sprzedawca wyjaśnia, że klienci z Węgier i Słowacji wolą widzieć ceny w euro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym na końcu opowieści handluje Adam?",
+      "answers": [
+        "Kaszmirem i swetrami",
+        "Skórzanymi kurtkami i butami",
+        "Elektroniką i magnetowidami",
+        "Warzywami i wędlinami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam ma własne stoisko ze skórzanymi kurtkami i butami."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
   "generatedAt": "2026-07-07T00:00:00Z",
-  "officialPackCount": 1,
+  "officialPackCount": 2,
   "supportedLanguages": ["pl"],
   "supportedWritingSystems": ["glagolitic"],
   "categories": [
@@ -73,13 +73,13 @@
       "id": "starter_shelf",
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
-      "packIds": ["polish_demo_lesson"]
+      "packIds": ["polish_demo_lesson", "polish_na_targu"]
     },
     {
       "id": "first_reads",
       "title": "First Reads",
       "description": "Best introductory texts for new readers.",
-      "packIds": ["polish_demo_lesson"]
+      "packIds": ["polish_demo_lesson", "polish_na_targu"]
     }
   ],
   "packs": [
@@ -95,6 +95,20 @@
       "categories": ["travel", "demo"],
       "difficulty": 3,
       "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_na_targu",
+      "bookId": "na-targu",
+      "path": "official/glagolitic/pl/na-targu",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Na targu",
+      "version": "1.0.0",
+      "categories": ["travel", "short_story"],
+      "difficulty": 4,
+      "estimatedReadingTime": 25,
       "featured": true
     }
   ]

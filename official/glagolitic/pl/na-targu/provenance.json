@@ -1,0 +1,22 @@
+{
+  "packId": "polish_na_targu",
+  "bookId": "na-targu",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-08",
+  "lastReviewedAt": "2026-07-08",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Founder-authored prose from Collection Zero vault."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Original AlephBits narrative (Na targu)"
+    }
+  ],
+  "revisionNotes": "First Collection Zero migration via compile_pack dogfooding sprint."
+}
