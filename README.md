@@ -110,6 +110,7 @@ Individual packs carry their own licenses in `license.md`. Always check per-pack
 - [Reading Pack Specification](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_SPECIFICATION.md)
 - [Delta update philosophy](docs/DELTA_UPDATES.md)
 - [Manifest field reference](docs/MANIFEST.md)
+- [Validation policy](docs/VALIDATION_POLICY.md)
 =======
 # alephbits-content
 Official Reading Pack library for AlephBits. Multilingual educational content with transparent sources and editorial metadata.
