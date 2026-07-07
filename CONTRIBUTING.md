@@ -5,8 +5,8 @@ Thank you for helping build a calm, trustworthy reading library.
 ## Before you start
 
 1. Read [README.md](README.md) — repository and editorial philosophy.
-2. Read the [Reading Pack Specification](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_SPECIFICATION.md).
-3. For AI-assisted authoring, see the [LLM Reading Pack Specification](https://github.com/alephbits/alephbits/blob/main/docs/content/LLM_READING_PACK_SPECIFICATION.md).
+2. Read [Reading Pack Authoring Format](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md) — **write `reading-pack.md` first**.
+3. Copy [reading-pack.template.md](docs/reading-pack.template.md) or the [demo pack](official/glagolitic/pl/spacer-po-krakowie/reading-pack.md).
 
 ## Your first Reading Pack
 
@@ -18,34 +18,41 @@ Thank you for helping build a calm, trustworthy reading library.
 | Community | `community/<handle>/<slug>/` | Finished packs for public sharing |
 | Official | `official/<writing_system>/<language>/<slug>/` | AlephBits Editorial only — do not self-submit |
 
-### 2. Copy the template
+### 2. Author `reading-pack.md`
 
-Use `official/glagolitic/pl/spacer-po-krakowie/` as the reference layout:
+**Preferred workflow (Phase 23+):**
 
 ```
 your-pack/
-├── lesson.json       # Required — metadata + reading text (+ optional inline quiz)
-├── text.txt          # Recommended — diff-friendly prose (must match lesson.json text)
-├── quiz.json         # Optional — must match lesson.json quiz if both exist
-├── license.md        # Required — human-readable license
-├── provenance.json   # Required for official — editorial audit trail
-└── manifest.json     # Optional — book-level manifest for future translations
+├── reading-pack.md     # SOURCE — edit this
+├── lesson.json         # GENERATED (commit during transition)
+├── text.txt            # GENERATED
+├── quiz.json           # GENERATED
+├── license.md          # GENERATED
+└── provenance.json     # GENERATED
 ```
 
-### 3. Fill required metadata
+Copy [docs/reading-pack.template.md](docs/reading-pack.template.md) or `official/glagolitic/pl/spacer-po-krakowie/reading-pack.md`.
 
-`lesson.json` must include at minimum:
+Future: `dart run scripts/compile_pack.dart` generates JSON from Markdown.
 
-- `id` — unique across the repository (snake_case)
-- `title` — reader-facing title
-- `language` — BCP 47 code (`pl`, `en`, …)
-- `text` — full reading text (v1 apps load inline text)
+### 3. Required sections in reading-pack.md
 
-Recommended fields: `description`, `author`, `license`, `recommendedWritingSystem`, `difficulty`, `estimatedReadingTime`, `translation`.
+See [READING_PACK_AUTHORING_FORMAT.md](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md):
 
-### 4. License
+- **Metadata** — title, pack id, difficulty, language, genres
+- **Editorial Transparency** — license, AI disclosure, revision history
+- **Sources** — every source with license and retrieval date
+- **Text** — complete reading prose (plain Markdown)
+- **Quiz** — comprehension questions with explanations
 
-Every pack needs `license.md` with:
+### 4. Legacy: direct JSON editing
+
+Until `compile_pack` ships, you may edit `lesson.json` directly. New packs should still create `reading-pack.md` as the editorial source.
+
+### 5. License
+
+Every pack needs a license in **Editorial Transparency** (compiled to `license.md`):
 
 - License name
 - SPDX identifier if applicable
@@ -53,15 +60,15 @@ Every pack needs `license.md` with:
 
 Do not submit copyrighted material without clear permission or public-domain status.
 
-### 5. Provenance (official packs)
+### 6. Provenance (official packs)
 
-`provenance.json` must document:
+**Sources** and **Editorial Transparency** sections must document:
 
 - Who edited the pack
 - Whether AI was used and how it was reviewed
 - Source of the text (original, public domain, licensed, adaptation)
 
-### 6. Validate locally
+### 7. Validate locally
 
 ```bash
 dart pub get
@@ -70,11 +77,11 @@ dart run scripts/validate_pack.dart
 
 Fix all reported errors before opening a PR.
 
-### 7. Update the manifest
+### 8. Update the manifest
 
 Add your pack to `manifest.json` under `packs` with correct `path`, `tier`, `writingSystem`, and `language`. Update `supportedLanguages`, `supportedWritingSystems`, and `officialPackCount` if applicable.
 
-### 8. Open a pull request
+### 9. Open a pull request
 
 CI runs `validate_pack` on every PR. Include in your PR description:
 

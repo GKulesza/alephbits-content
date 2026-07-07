@@ -61,6 +61,8 @@ See the main app docs for the full editorial playbook: [EDITORIAL_PLAYBOOK.md](h
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
+**Author in Markdown:** copy [docs/reading-pack.template.md](docs/reading-pack.template.md), fill sections, compile to JSON (future), run `validate_pack`.
+
 Quick start for your first pack:
 
 1. Fork this repository.
@@ -107,7 +109,8 @@ Individual packs carry their own licenses in `license.md`. Always check per-pack
 
 ## Related documents
 
-- [Reading Pack Specification](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_SPECIFICATION.md)
+- [Reading Pack Authoring Format](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md)
+- [Compile pipeline](docs/COMPILE_PIPELINE.md)
 - [Delta update philosophy](docs/DELTA_UPDATES.md)
 - [Manifest field reference](docs/MANIFEST.md)
 - [Validation policy](docs/VALIDATION_POLICY.md)
