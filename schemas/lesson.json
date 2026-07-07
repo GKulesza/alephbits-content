@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://alephbits.org/schemas/lesson.json",
+  "title": "AlephBits Reading Pack Lesson",
+  "description": "lesson.json — pack metadata and v1 inline reading text.",
+  "type": "object",
+  "required": ["id", "title", "language", "text"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "language": { "type": "string", "minLength": 2 },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "updated": { "type": "string", "format": "date" },
+    "description": { "type": "string" },
+    "author": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 }
+      }
+    },
+    "license": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "format": "uri" },
+        "spdx": { "type": "string" }
+      }
+    },
+    "source": { "type": "string" },
+    "recommendedWritingSystem": { "type": "string" },
+    "recommendedProfile": { "type": "string" },
+    "recommendedLevel": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 10 },
+    "estimatedReadingTime": { "type": "integer", "minimum": 1 },
+    "translation": { "type": "string" },
+    "text": { "type": "string", "minLength": 1 },
+    "textRef": { "type": "string" },
+    "quiz": { "$ref": "quiz.json" },
+    "quizRef": { "type": "string" },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" },
+          "description": { "type": "string" }
+        }
+      }
+    }
+  }
+}

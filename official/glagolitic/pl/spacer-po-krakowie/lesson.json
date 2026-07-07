@@ -1,0 +1,73 @@
+{
+  "id": "polish_demo_lesson",
+  "title": "Spacer po Krakowie",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-06",
+  "description": "Krótka lekcja czytania z prostym tekstem o spacerze po Krakowie. Tekst jest w domenie publicznej.",
+  "author": {
+    "name": "AlephBits Contributors"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Original AlephBits demo content",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": ["demo", "polish", "beginner", "krakow"],
+  "difficulty": 3,
+  "estimatedReadingTime": 8,
+  "translation": "A short walk through Kraków — an introductory reading lesson for progressive script learning.",
+  "text": "Wczesnym rankiem wyszedłem na ulicę i poczułem świeże powietrze miasta. Słońce dopiero wschodziło nad dachami kamienic, a Rynek Główny był jeszcze cichy i pusty.\n\nPrzeszedłem obok Sukiennic i dotknąłem chłodnych kamieni muru. Myślałem o setkach lat historii, które widziały te same brukowane ulice i te same dzwony kościołów.\n\nNa Małym Rynku zatrzymałem się przy studni. Woda w niej była ciemna i spokojna jak lustro. Ptaki śpiewały w koronach drzew, a ja słuchałem ich głosu i odpoczywałem chwilę.\n\nPotem skręciłem w boczną uliczkę i zobaczyłem małą kawiarnię. Zapach świeżej kawy mieszał się z aromatem pieczonego chleba. Kupiłem bułkę i jadłem ją powoli, patrząc na przechodniów.\n\nW drodze do Plant usłyszałem grajków. Grały na skrzypcach starą melodię, którą znałem z dzieciństwa. Ludzie zatrzymywali się, uśmiechali i wrzucali drobne monety do otwartej walizki.\n\nZa murami miasta poszedłem w stronę Wisły. Rzeka płynęła spokojnie, niosąc odbicia chmur i mostów. Łodzie cumowały przy nabrzeżu, a wiatr poruszał flagi na masztach.\n\nNa wzgórzu zobaczyłem Wawel. Białe mury zamku świeciły w słońcu, a kruki krążyły nad wieżami. Poczułem dumę, że mogę mieszkać tak blisko tak ważnego miejsca.\n\nZszedłem z powrotem do centrum i wszedłem do muzeum. W salach wisiały obrazy przedstawiające dawne życie miasta. Każdy obraz opowiadał inną historię o ludziach, którzy tu mieszkali.\n\nWieczorem wróciłem na Rynek. Latarnie zapalały się jedna po drugiej, a kamienice nabierały złotego blasku. Miasto tętniło życiem, a ja czułem się częścią tej wielkiej opowieści.\n\nTego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać nowe znaki. Każde słowo staje się mostem między językiem, który znam, a pismem, którego się uczę.",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gdzie autor zatrzymał się przy studni?",
+        "answers": [
+          "Na Małym Rynku",
+          "Na Wawelu",
+          "Na Plantach",
+          "Przy Wiśle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Autor pisze: „Na Małym Rynku zatrzymałem się przy studni.”"
+      },
+      {
+        "type": "single_choice",
+        "question": "Co autor kupił w kawiarni?",
+        "answers": [
+          "Kawę",
+          "Bułkę",
+          "Wodę",
+          "Ciastko"
+        ],
+        "correctIndex": 1,
+        "explanation": "W tekście pada zdanie: „Kupiłem bułkę i jadłem ją powoli.”"
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaki wniosek wyciąga autor na końcu lekcji?",
+        "answers": [
+          "Czytanie o znanym miejscu pomaga zapamiętać nowe znaki",
+          "Najlepiej uczyć się tylko w muzeum",
+          "Kraków nie ma historii",
+          "Grajkowie przeszkadzają w nauce"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ostatni akapit podsumowuje korzyść z czytania o znanym miejscu."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Kraków — Wikipedia",
+      "url": "https://pl.wikipedia.org/wiki/Krak%C3%B3w",
+      "description": "Informacje o historii i zabytkach miasta."
+    }
+  ]
+}

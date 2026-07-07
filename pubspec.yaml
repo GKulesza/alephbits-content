@@ -1,0 +1,9 @@
+name: alephbits_content
+description: AlephBits official reading pack content repository.
+publish_to: none
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  path: ^1.9.1

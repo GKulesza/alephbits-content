@@ -1,0 +1,20 @@
+{
+  "packId": "polish_demo_lesson",
+  "bookId": "spacer-po-krakowie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-06",
+  "lastReviewedAt": "2026-07-07",
+  "editors": ["AlephBits Editorial"],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Original human-authored demo content for AlephBits."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Original AlephBits demo content"
+    }
+  ],
+  "revisionNotes": "Migrated from app bundle to alephbits-content as the first official pack."
+}

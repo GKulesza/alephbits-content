@@ -1,0 +1,24 @@
+{
+  "bookId": "spacer-po-krakowie",
+  "currentVersion": "1.0.0",
+  "title": "Spacer po Krakowie",
+  "defaultLanguage": "pl",
+  "supportedLanguages": ["pl"],
+  "availableTranslations": {
+    "pl": {
+      "path": ".",
+      "version": "1.0.0",
+      "title": "Spacer po Krakowie"
+    }
+  },
+  "writingSystem": "glagolitic",
+  "genres": ["travel", "demo"],
+  "revisionHistory": [
+    {
+      "version": "1.0.0",
+      "date": "2026-07-06",
+      "note": "Initial official release."
+    }
+  ],
+  "dependencies": []
+}

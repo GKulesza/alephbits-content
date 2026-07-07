@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://alephbits.org/schemas/book-manifest.json",
+  "title": "AlephBits Book Manifest",
+  "description": "Per-book manifest.json separating book identity from language variants.",
+  "type": "object",
+  "required": [
+    "bookId",
+    "currentVersion",
+    "title",
+    "defaultLanguage",
+    "supportedLanguages",
+    "availableTranslations",
+    "writingSystem"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "bookId": { "type": "string", "minLength": 1 },
+    "currentVersion": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "title": { "type": "string", "minLength": 1 },
+    "defaultLanguage": { "type": "string", "minLength": 2 },
+    "supportedLanguages": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 2 },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "availableTranslations": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["path", "version", "title"],
+        "properties": {
+          "path": { "type": "string" },
+          "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+          "title": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "cover": { "type": "string" },
+    "writingSystem": { "type": "string", "minLength": 1 },
+    "genres": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "revisionHistory": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["version", "date"],
+        "properties": {
+          "version": { "type": "string" },
+          "date": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "dependencies": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

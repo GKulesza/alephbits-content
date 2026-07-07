@@ -1,0 +1,101 @@
+{
+  "repositoryVersion": "1.0.0",
+  "schemaVersion": "1",
+  "minimumAppVersion": "0.5.0",
+  "generatedAt": "2026-07-07T00:00:00Z",
+  "officialPackCount": 1,
+  "supportedLanguages": ["pl"],
+  "supportedWritingSystems": ["glagolitic"],
+  "categories": [
+    {
+      "id": "travel",
+      "title": "Travel",
+      "description": "Journeys, places, and exploration."
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "description": "Historical narratives and context."
+    },
+    {
+      "id": "science",
+      "title": "Science",
+      "description": "Popular science and natural world."
+    },
+    {
+      "id": "fairy_tale",
+      "title": "Fairy Tale",
+      "description": "Classic and original fairy tales."
+    },
+    {
+      "id": "legend",
+      "title": "Legend",
+      "description": "Folklore and legendary stories."
+    },
+    {
+      "id": "article",
+      "title": "Article",
+      "description": "Short non-fiction articles."
+    },
+    {
+      "id": "biography",
+      "title": "Biography",
+      "description": "Lives and memoirs."
+    },
+    {
+      "id": "dialogue",
+      "title": "Dialogue",
+      "description": "Conversational texts for natural speech."
+    },
+    {
+      "id": "instruction",
+      "title": "Instruction",
+      "description": "How-to and procedural texts."
+    },
+    {
+      "id": "short_story",
+      "title": "Short Story",
+      "description": "Fiction in compact form."
+    },
+    {
+      "id": "mythology",
+      "title": "Mythology",
+      "description": "Myths and sacred narratives."
+    },
+    {
+      "id": "science_fiction",
+      "title": "Science Fiction",
+      "description": "Speculative and futuristic fiction."
+    }
+  ],
+  "featuredCollections": [
+    {
+      "id": "starter_shelf",
+      "title": "Official Starter Shelf",
+      "description": "The first curated collection of AlephBits official reading packs.",
+      "packIds": ["polish_demo_lesson"]
+    },
+    {
+      "id": "first_reads",
+      "title": "First Reads",
+      "description": "Best introductory texts for new readers.",
+      "packIds": ["polish_demo_lesson"]
+    }
+  ],
+  "packs": [
+    {
+      "id": "polish_demo_lesson",
+      "bookId": "spacer-po-krakowie",
+      "path": "official/glagolitic/pl/spacer-po-krakowie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Spacer po Krakowie",
+      "version": "1.0.0",
+      "categories": ["travel", "demo"],
+      "difficulty": 3,
+      "estimatedReadingTime": 8,
+      "featured": true
+    }
+  ]
+}
