@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlephBits Content
 
 The official open content repository for [AlephBits](https://github.com/alephbits/alephbits) — a calm, private reading library for discovering new writing systems through real books.
@@ -109,3 +110,7 @@ Individual packs carry their own licenses in `license.md`. Always check per-pack
 - [Reading Pack Specification](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_SPECIFICATION.md)
 - [Delta update philosophy](docs/DELTA_UPDATES.md)
 - [Manifest field reference](docs/MANIFEST.md)
+=======
+# alephbits-content
+Official Reading Pack library for AlephBits. Multilingual educational content with transparent sources and editorial metadata.
+>>>>>>> 74e434635b761147a697a0605c848a2aaa92ee52
