@@ -6,6 +6,8 @@ import 'dart:io';
 
 import 'package:path/path.dart' as p;
 
+import 'package:alephbits_content/reading_pack/compile_runner.dart';
+
 /// Validates the alephbits-content repository.
 ///
 /// Usage:
@@ -215,6 +217,18 @@ void _validatePackDirectory(
   }
   if (!licenseFile.existsSync()) {
     errors.add('$prefix missing required license.md');
+  }
+
+  final readingPackFile = File('${packDir.path}/reading-pack.md');
+  if (readingPackFile.existsSync()) {
+    final compileResult = compileAndCheckDirectory(packDir.path);
+    if (compileResult.parseError != null) {
+      errors.add('$prefix reading-pack.md parse error: ${compileResult.parseError}');
+    } else if (compileResult.hasDrift) {
+      for (final drift in compileResult.drift) {
+        errors.add('$prefix compile drift in ${drift.file}: ${drift.message}');
+      }
+    }
   }
 
   final lesson = _readJsonObject(lessonFile, errors, '$relativePath/lesson.json');

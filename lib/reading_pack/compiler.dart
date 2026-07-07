@@ -1,0 +1,301 @@
+import 'package:path/path.dart' as p;
+
+import 'json_writer.dart';
+import 'parser.dart';
+
+class CompiledArtifacts {
+  CompiledArtifacts({
+    required this.lessonJson,
+    required this.textTxt,
+    required this.quizJson,
+    required this.provenanceJson,
+    required this.licenseMd,
+  });
+
+  final String lessonJson;
+  final String textTxt;
+  final String quizJson;
+  final String provenanceJson;
+  final String licenseMd;
+
+  Map<String, String> asFileMap() => {
+        'lesson.json': lessonJson,
+        'text.txt': textTxt,
+        'quiz.json': quizJson,
+        'provenance.json': provenanceJson,
+        'license.md': licenseMd,
+      };
+}
+
+class ReadingPackCompiler {
+  CompiledArtifacts compile(ReadingPackDocument doc, {required String packDirPath}) {
+    final tier = _detectTier(packDirPath);
+    final bookId = _bookId(doc, packDirPath);
+    final text = _normalizeText(doc.text);
+    final quiz = _buildQuiz(doc.quiz);
+    final lesson = _buildLesson(doc, text, quiz);
+    final provenance = _buildProvenance(doc, tier, bookId);
+    final license = _buildLicense(doc);
+
+    return CompiledArtifacts(
+      lessonJson: encodeJsonPretty(lesson),
+      textTxt: '$text\n',
+      quizJson: encodeJsonPretty(quiz),
+      provenanceJson: encodeJsonPretty(provenance),
+      licenseMd: license,
+    );
+  }
+
+  String _detectTier(String packDirPath) {
+    final normalized = p.normalize(packDirPath);
+    final parts = p.split(normalized);
+    for (final tier in ['official', 'community', 'experimental']) {
+      if (parts.contains(tier)) return tier;
+    }
+    return 'community';
+  }
+
+  String _bookId(ReadingPackDocument doc, String packDirPath) {
+    final fromMetadata = doc.metadata['Book ID'];
+    if (fromMetadata != null && fromMetadata.isNotEmpty) {
+      return fromMetadata;
+    }
+    return p.basename(packDirPath);
+  }
+
+  String _normalizeText(String text) {
+    final paragraphs = text
+        .split(RegExp(r'\n\s*\n'))
+        .map((p) => p.trim())
+        .where((p) => p.isNotEmpty)
+        .toList();
+    return paragraphs.join('\n\n');
+  }
+
+  Map<String, dynamic> _buildLesson(
+    ReadingPackDocument doc,
+    String text,
+    Map<String, dynamic> quiz,
+  ) {
+    final metadata = doc.metadata;
+    final transparency = doc.transparency;
+    final license = _parseLicense(transparency['License'] ?? '');
+
+    final lesson = <String, dynamic>{
+      'id': metadata['Pack ID'] ?? '',
+      'title': metadata['Title'] ?? doc.title,
+      'language': metadata['Original language'] ?? '',
+      'version': metadata['Version'] ?? '1.0.0',
+      'updated': _earliestRevisionDate(doc.revisions),
+      'description': metadata['Blurb'] ?? '',
+      'author': {
+        'name': transparency['Created by'] ?? '',
+      },
+      'license': {
+        'name': license.name,
+        'url': transparency['License URL'] ?? '',
+        'spdx': license.spdx,
+      },
+      'source': _primarySourceTitle(doc.sources),
+      'recommendedWritingSystem': metadata['Writing system'] ?? '',
+      'recommendedProfile': metadata['Recommended profile'] ?? '',
+      'recommendedLevel': metadata['Recommended level'] ?? '',
+      'tags': _splitList(metadata['Tags'] ?? ''),
+      'difficulty': _parseDifficulty(metadata['Difficulty'] ?? ''),
+      'estimatedReadingTime': _parseReadingTime(metadata['Estimated reading time'] ?? ''),
+      'translation': metadata['Translation summary'] ?? '',
+      'text': text,
+      'quiz': quiz,
+    };
+
+    final references = _buildReferences(doc.sources);
+    if (references.isNotEmpty) {
+      lesson['references'] = references;
+    }
+
+    return lesson;
+  }
+
+  Map<String, dynamic> _buildQuiz(QuizSection? quiz) {
+    if (quiz == null || quiz.questions.isEmpty) {
+      return {
+        'title': '',
+        'questions': <Map<String, dynamic>>[],
+      };
+    }
+
+    return {
+      'title': quiz.title ?? '',
+      'questions': quiz.questions.map((q) {
+        return {
+          'type': 'single_choice',
+          'question': q.question,
+          'answers': q.answers,
+          'correctIndex': q.correctIndex,
+          if (q.explanation != null && q.explanation!.isNotEmpty)
+            'explanation': q.explanation,
+        };
+      }).toList(),
+    };
+  }
+
+  Map<String, dynamic> _buildProvenance(
+    ReadingPackDocument doc,
+    String tier,
+    String bookId,
+  ) {
+    final metadata = doc.metadata;
+    final transparency = doc.transparency;
+
+    return {
+      'packId': metadata['Pack ID'] ?? '',
+      'bookId': bookId,
+      'editorialStatus': tier,
+      'createdAt': _earliestRevisionDate(doc.revisions),
+      'lastReviewedAt': _parseHumanReviewDate(transparency['Human reviewed'] ?? ''),
+      'editors': _splitList(transparency['Editor'] ?? ''),
+      'aiAssistance': {
+        'used': _parseBool(transparency['LLM assisted'] ?? 'no'),
+        'tools': <String>[],
+        'humanReview': _humanReviewNote(doc),
+      },
+      'sources': _buildProvenanceSources(doc.sources),
+      'revisionNotes': _revisionNotes(doc),
+    };
+  }
+
+  String _buildLicense(ReadingPackDocument doc) {
+    final title = doc.metadata['Title'] ?? doc.title;
+    final license = _parseLicense(doc.transparency['License'] ?? '');
+    final url = doc.transparency['License URL'] ?? '';
+    final dedication = license.name.contains('CC0') ? ' (public domain dedication)' : '';
+
+    return '''# License
+
+**$title** is released under **${license.name}**$dedication.
+
+- SPDX: `${license.spdx}`
+- Full text: $url
+
+You may copy, modify, and distribute this work for any purpose without asking permission.
+''';
+  }
+
+  List<Map<String, dynamic>> _buildReferences(List<SourceEntry> sources) {
+    final references = <Map<String, dynamic>>[];
+    for (final source in sources) {
+      if (source.deprecated) continue;
+      if (source.url == null) continue;
+      if (source.availability != 'licensed') continue;
+
+      final ref = <String, dynamic>{
+        'title': source.title,
+        'url': source.url,
+      };
+      final description = source.referenceDescription ?? source.editorNotes;
+      if (description != null && description.isNotEmpty) {
+        ref['description'] = description;
+      }
+      references.add(ref);
+    }
+    return references;
+  }
+
+  List<Map<String, dynamic>> _buildProvenanceSources(List<SourceEntry> sources) {
+    final entries = <Map<String, dynamic>>[];
+    for (final source in sources) {
+      if (source.deprecated) continue;
+      if (!_isProvenanceSource(source.availability)) continue;
+      entries.add({
+        'type': source.availability,
+        'description': source.title,
+      });
+    }
+    return entries;
+  }
+
+  bool _isProvenanceSource(String availability) {
+    return availability == 'original' ||
+        availability == 'public_domain' ||
+        availability == 'adaptation';
+  }
+
+  String _primarySourceTitle(List<SourceEntry> sources) {
+    for (final source in sources) {
+      if (source.deprecated) continue;
+      if (_isProvenanceSource(source.availability)) {
+        return source.title;
+      }
+    }
+    return sources.isNotEmpty ? sources.first.title : '';
+  }
+
+  String _humanReviewNote(ReadingPackDocument doc) {
+    for (final source in doc.sources) {
+      if (source.availability == 'original' && source.editorNotes != null) {
+        return source.editorNotes!;
+      }
+    }
+    return doc.transparency['Editorial notes'] ??
+        doc.metadata['Editorial notes'] ??
+        '';
+  }
+
+  String _revisionNotes(ReadingPackDocument doc) {
+    final explicit = doc.transparency['Revision notes'];
+    if (explicit != null && explicit.isNotEmpty) {
+      return explicit;
+    }
+    if (doc.revisions.isNotEmpty) {
+      return doc.revisions.last.note;
+    }
+    return doc.metadata['Editorial notes'] ?? '';
+  }
+
+  String _earliestRevisionDate(List<RevisionEntry> revisions) {
+    if (revisions.isEmpty) return '';
+    final dates = revisions.map((r) => r.date).where((d) => d.isNotEmpty).toList()
+      ..sort();
+    return dates.isNotEmpty ? dates.first : '';
+  }
+
+  String _parseHumanReviewDate(String raw) {
+    final match = RegExp(r'(\d{4}-\d{2}-\d{2})').firstMatch(raw);
+    return match?.group(1) ?? '';
+  }
+
+  int _parseDifficulty(String raw) {
+    final match = RegExp(r'(\d+)').firstMatch(raw);
+    return match != null ? int.parse(match.group(1)!) : 1;
+  }
+
+  int _parseReadingTime(String raw) {
+    final match = RegExp(r'(\d+)').firstMatch(raw);
+    return match != null ? int.parse(match.group(1)!) : 0;
+  }
+
+  bool _parseBool(String raw) {
+    return raw.trim().toLowerCase().startsWith('yes');
+  }
+
+  List<String> _splitList(String raw) {
+    return raw
+        .split(',')
+        .map((s) => s.trim())
+        .where((s) => s.isNotEmpty)
+        .toList();
+  }
+
+  _LicenseInfo _parseLicense(String raw) {
+    final spdxMatch = RegExp(r'SPDX:\s*([^\)]+)\)').firstMatch(raw);
+    final spdx = spdxMatch?.group(1)?.trim() ?? '';
+    final name = raw.replaceAll(RegExp(r'\s*\(SPDX:[^)]+\)'), '').trim();
+    return _LicenseInfo(name: name.isEmpty ? raw : name, spdx: spdx);
+  }
+}
+
+class _LicenseInfo {
+  _LicenseInfo({required this.name, required this.spdx});
+  final String name;
+  final String spdx;
+}

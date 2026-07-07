@@ -41,7 +41,8 @@
 **LLM model:** *(none)*  
 **Human reviewed:** yes — 2026-07-07  
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
-**License URL:** https://creativecommons.org/publicdomain/zero/1.0/
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Migrated from app bundle to alephbits-content as the first official pack.
 
 ### Revision history
 
@@ -72,6 +73,7 @@
 **Retrieval date:** 2026-07-06  
 **Availability:** licensed  
 **Deprecated:** no  
+**Reference description:** Informacje o historii i zabytkach miasta.  
 **Editor notes:** Background reference for editors; not reproduced in text.
 
 ---

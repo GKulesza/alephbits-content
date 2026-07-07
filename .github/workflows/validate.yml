@@ -1,0 +1,21 @@
+name: Validate content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: '3.12.0'
+      - name: Install dependencies
+        run: dart pub get
+      - name: Check compile drift
+        run: dart run tools/compile_pack.dart --check --all
+      - name: Validate packs
+        run: dart run scripts/validate_pack.dart

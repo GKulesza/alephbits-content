@@ -1,7 +1,7 @@
 # Compile Pipeline (`compile_pack`)
 
-**Status:** Design only — **not implemented.**  
-**Phase:** 23
+**Status:** **Implemented** (Phase 25).  
+**Phase:** 23 (design) → 25 (implementation)
 
 **Canonical authoring format:** [READING_PACK_AUTHORING_FORMAT.md](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md)
 
@@ -36,17 +36,13 @@ Repository root `manifest.json` is updated separately (future: `build_manifest.d
 
 ---
 
-## CLI design (future)
+## CLI (implemented)
 
 ```bash
 # Compile one pack
-dart run scripts/compile_pack.dart official/glagolitic/pl/spacer-po-krakowie/
+dart run tools/compile_pack.dart official/glagolitic/pl/spacer-po-krakowie/
 
-# Compile all packs with reading-pack.md
-dart run scripts/compile_pack.dart --all
-
-# Check mode — fail if JSON drifts from Markdown (CI)
-dart run scripts/compile_pack.dart --check official/glagolitic/pl/spacer-po-krakowie/
+# Flags: --check, --overwrite, --dry-run, --all
 ```
 
 ### Exit codes
@@ -80,12 +76,12 @@ dart run scripts/compile_pack.dart --check official/glagolitic/pl/spacer-po-krak
 
 ---
 
-## CI integration (future)
+## CI integration (implemented)
 
 ```yaml
-# .github/workflows/validate.yml (addition)
+# .github/workflows/validate.yml
 - name: Check compile drift
-  run: dart run scripts/compile_pack.dart --check --all
+  run: dart run tools/compile_pack.dart --check --all
 - name: Validate packs
   run: dart run scripts/validate_pack.dart
 ```
