@@ -17,5 +17,7 @@ jobs:
         run: dart pub get
       - name: Check compile drift
         run: dart run tools/compile_pack.dart --check --all
+      - name: Check manifest drift
+        run: dart run tools/build_manifest.dart --check
       - name: Validate packs
         run: dart run scripts/validate_pack.dart

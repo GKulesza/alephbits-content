@@ -2,55 +2,21 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-07T00:00:00Z",
+  "generatedAt": "2026-07-08T00:00:00Z",
   "officialPackCount": 2,
-  "supportedLanguages": ["pl"],
-  "supportedWritingSystems": ["glagolitic"],
+  "communityPackCount": 0,
+  "experimentalPackCount": 0,
+  "supportedLanguages": [
+    "pl"
+  ],
+  "supportedWritingSystems": [
+    "glagolitic"
+  ],
   "categories": [
     {
-      "id": "travel",
-      "title": "Travel",
-      "description": "Journeys, places, and exploration."
-    },
-    {
-      "id": "history",
-      "title": "History",
-      "description": "Historical narratives and context."
-    },
-    {
-      "id": "popular_science",
-      "title": "Popular Science",
-      "description": "Popular science and natural world."
-    },
-    {
-      "id": "fairy_tale",
-      "title": "Fairy Tale",
-      "description": "Classic and original fairy tales."
-    },
-    {
-      "id": "legend",
-      "title": "Legend",
-      "description": "Folklore and legendary stories."
-    },
-    {
-      "id": "article",
-      "title": "Article",
-      "description": "Short non-fiction articles."
-    },
-    {
-      "id": "biography",
-      "title": "Biography",
-      "description": "Lives and memoirs."
-    },
-    {
-      "id": "dialogue",
-      "title": "Dialogue",
-      "description": "Conversational texts for natural speech."
-    },
-    {
-      "id": "instruction",
-      "title": "Instruction",
-      "description": "How-to and procedural texts."
+      "id": "demo",
+      "title": "Demo",
+      "description": ""
     },
     {
       "id": "short_story",
@@ -58,14 +24,9 @@
       "description": "Fiction in compact form."
     },
     {
-      "id": "mythology",
-      "title": "Mythology",
-      "description": "Myths and sacred narratives."
-    },
-    {
-      "id": "science_fiction",
-      "title": "Science Fiction",
-      "description": "Speculative and futuristic fiction."
+      "id": "travel",
+      "title": "Travel",
+      "description": "Journeys, places, and exploration."
     }
   ],
   "featuredCollections": [
@@ -73,30 +34,45 @@
       "id": "starter_shelf",
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
-      "packIds": ["polish_demo_lesson", "polish_na_targu"]
+      "packIds": [
+        "polish_na_targu",
+        "polish_demo_lesson"
+      ]
     },
     {
       "id": "first_reads",
       "title": "First Reads",
       "description": "Best introductory texts for new readers.",
-      "packIds": ["polish_demo_lesson", "polish_na_targu"]
+      "packIds": [
+        "polish_demo_lesson",
+        "polish_na_targu"
+      ]
     }
   ],
-  "packs": [
-    {
+  "libraryStatistics": {
+    "totalPacks": 2,
+    "totalWords": 2761,
+    "totalEstimatedReadingTimeMinutes": 33,
+    "languageCount": 1,
+    "writingSystemCount": 1,
+    "categoryCount": 3,
+    "largestPack": {
+      "id": "polish_na_targu",
+      "bookId": "na-targu",
+      "wordCount": 2501
+    },
+    "newestPack": {
+      "id": "polish_na_targu",
+      "bookId": "na-targu",
+      "updated": "2026-07-08"
+    },
+    "oldestPack": {
       "id": "polish_demo_lesson",
       "bookId": "spacer-po-krakowie",
-      "path": "official/glagolitic/pl/spacer-po-krakowie",
-      "tier": "official",
-      "writingSystem": "glagolitic",
-      "language": "pl",
-      "title": "Spacer po Krakowie",
-      "version": "1.0.0",
-      "categories": ["travel", "demo"],
-      "difficulty": 3,
-      "estimatedReadingTime": 8,
-      "featured": true
-    },
+      "updated": "2026-07-06"
+    }
+  },
+  "packs": [
     {
       "id": "polish_na_targu",
       "bookId": "na-targu",
@@ -106,9 +82,29 @@
       "language": "pl",
       "title": "Na targu",
       "version": "1.0.0",
-      "categories": ["travel", "short_story"],
+      "categories": [
+        "travel",
+        "short_story"
+      ],
       "difficulty": 4,
       "estimatedReadingTime": 25,
+      "featured": true
+    },
+    {
+      "id": "polish_demo_lesson",
+      "bookId": "spacer-po-krakowie",
+      "path": "official/glagolitic/pl/spacer-po-krakowie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Spacer po Krakowie",
+      "version": "1.0.0",
+      "categories": [
+        "travel",
+        "demo"
+      ],
+      "difficulty": 3,
+      "estimatedReadingTime": 8,
       "featured": true
     }
   ]

@@ -9,13 +9,16 @@
 | `repositoryVersion` | string (semver) | yes | Version of the catalog as a whole. Bump on collection releases. |
 | `schemaVersion` | string | yes | Manifest schema contract version. Increment when field shapes change. |
 | `minimumAppVersion` | string (semver) | yes | Lowest AlephBits app version that can consume this manifest. |
-| `generatedAt` | string (ISO 8601) | yes | When this manifest was last generated or manually updated. |
+| `generatedAt` | string (ISO 8601) | yes | Derived from the newest pack `updated` date — deterministic, not wall-clock time. |
 | `officialPackCount` | integer | yes | Count of packs with `tier: "official"`. Must match indexed packs. |
+| `communityPackCount` | integer | yes | Count of packs with `tier: "community"`. |
+| `experimentalPackCount` | integer | yes | Count of packs with `tier: "experimental"`. |
 | `supportedLanguages` | string[] | yes | BCP 47 codes with at least one published pack. |
 | `supportedWritingSystems` | string[] | yes | Writing system IDs matching AlephBits engine assets. |
 | `categories` | object[] | yes | Discovery categories (genres) available in the library. |
 | `featuredCollections` | object[] | yes | Curated shelves for discovery surfaces. |
 | `packs` | object[] | yes | Flat index of every published pack. |
+| `libraryStatistics` | object | yes | Aggregate metrics: word counts, reading time, largest/newest/oldest pack. |
 
 ## Category object
 
@@ -68,4 +71,13 @@ Machine-readable contract: [`schemas/manifest.json`](../schemas/manifest.json).
 
 ## Regeneration
 
-Today the manifest is maintained manually. Future `scripts/build_manifest.dart` will scan pack directories and regenerate entries. Always run `validate_pack` after editing.
+**`manifest.json` is generated — never edit by hand.**
+
+```bash
+dart run tools/build_manifest.dart --overwrite
+dart run tools/build_manifest.dart --check   # CI drift detection
+```
+
+`validate_pack` fails when the committed manifest differs from `build_manifest` output or when packs on disk are missing from the index.
+
+Category vocabulary and featured-shelf templates live in `lib/manifest/catalog.dart` — edit there when adding new discovery categories or shelves.

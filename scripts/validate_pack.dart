@@ -4,9 +4,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:path/path.dart' as p;
-
+import 'package:alephbits_content/manifest/builder.dart';
+import 'package:alephbits_content/manifest/manifest_runner.dart';
 import 'package:alephbits_content/reading_pack/compile_runner.dart';
+import 'package:alephbits_content/repository/pack_discovery.dart';
 
 /// Validates the alephbits-content repository.
 ///
@@ -20,6 +21,7 @@ void main(List<String> args) {
   }
 
   final errors = <String>[];
+  _validateManifestDrift(repo, errors);
   _validateRepositoryManifest(repo, errors);
   _validateAllPacks(repo, errors);
 
@@ -42,6 +44,27 @@ void _fail(List<String> errors) {
   exit(1);
 }
 
+void _validateManifestDrift(Directory repo, List<String> errors) {
+  try {
+    final drift = checkManifestDrift(repo.path);
+    if (drift != null) {
+      errors.add('manifest.json: ${drift.message}');
+    }
+
+    final manifestFile = File('${repo.path}/manifest.json');
+    if (manifestFile.existsSync()) {
+      final manifest = _readJsonObject(manifestFile, errors, 'manifest.json');
+      if (manifest != null) {
+        for (final item in validateManifestCoverage(repo.path, manifest)) {
+          errors.add('manifest.json: ${item.message}');
+        }
+      }
+    }
+  } on ManifestBuildException catch (e) {
+    errors.add('build_manifest: $e');
+  }
+}
+
 void _validateRepositoryManifest(Directory repo, List<String> errors) {
   final manifestFile = File('${repo.path}/manifest.json');
   if (!manifestFile.existsSync()) {
@@ -58,10 +81,13 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
     'minimumAppVersion',
     'generatedAt',
     'officialPackCount',
+    'communityPackCount',
+    'experimentalPackCount',
     'supportedLanguages',
     'supportedWritingSystems',
     'categories',
     'featuredCollections',
+    'libraryStatistics',
     'packs',
   ]) {
     if (!manifest.containsKey(field)) {
@@ -127,6 +153,32 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
     );
   }
 
+  final declaredCommunity = manifest['communityPackCount'];
+  if (declaredCommunity is int) {
+    final communityCount = packs.where((p) {
+      return p is Map<String, dynamic> && p['tier'] == 'community';
+    }).length;
+    if (declaredCommunity != communityCount) {
+      errors.add(
+        'manifest.json: communityPackCount is $declaredCommunity but '
+        '$communityCount community packs are indexed',
+      );
+    }
+  }
+
+  final declaredExperimental = manifest['experimentalPackCount'];
+  if (declaredExperimental is int) {
+    final experimentalCount = packs.where((p) {
+      return p is Map<String, dynamic> && p['tier'] == 'experimental';
+    }).length;
+    if (declaredExperimental != experimentalCount) {
+      errors.add(
+        'manifest.json: experimentalPackCount is $declaredExperimental but '
+        '$experimentalCount experimental packs are indexed',
+      );
+    }
+  }
+
   final collections = manifest['featuredCollections'];
   if (collections is List) {
     for (var i = 0; i < collections.length; i++) {
@@ -150,48 +202,36 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
 void _validateAllPacks(Directory repo, List<String> errors) {
   final seenPackIds = <String>{};
   final seenBookPaths = <String>{};
+  final manifestPackIds = _manifestPackIds(repo, errors);
 
-  for (final tier in ['official', 'community', 'experimental']) {
-    final tierDir = Directory('${repo.path}/$tier');
-    if (!tierDir.existsSync()) continue;
-
-    for (final packDir in _discoverPackDirectories(tierDir, tier)) {
-      final relativePath = _relativePath(repo.path, packDir.path);
-      if (!seenBookPaths.add(relativePath)) {
-        errors.add('Duplicate pack directory: $relativePath');
-      }
-      _validatePackDirectory(repo, packDir, tier, seenPackIds, errors);
+  for (final pack in discoverPacksWithLesson(repo.path)) {
+    final relativePath = pack.relativePath;
+    if (!seenBookPaths.add(relativePath)) {
+      errors.add('Duplicate pack directory: $relativePath');
     }
+    _validatePackDirectory(
+      repo,
+      Directory(pack.absolutePath),
+      pack.tier,
+      seenPackIds,
+      manifestPackIds,
+      errors,
+    );
   }
 }
 
-List<Directory> _discoverPackDirectories(Directory tierDir, String tier) {
-  final results = <Directory>[];
-
-  if (tier == 'official') {
-    for (final ws in tierDir.listSync().whereType<Directory>()) {
-      if (p.basename(ws.path) == 'starter-shelf') continue;
-      for (final lang in ws.listSync().whereType<Directory>()) {
-        for (final pack in lang.listSync().whereType<Directory>()) {
-          if (File('${pack.path}/lesson.json').existsSync()) {
-            results.add(pack);
-          }
-        }
-      }
-    }
-    return results;
-  }
-
-  for (final entity in tierDir.listSync(recursive: true)) {
-    if (entity is Directory && File('${entity.path}/lesson.json').existsSync()) {
-      final parentHasLesson =
-          File('${p.dirname(entity.path)}/lesson.json').existsSync();
-      if (!parentHasLesson) {
-        results.add(entity);
-      }
-    }
-  }
-  return results;
+Set<String> _manifestPackIds(Directory repo, List<String> errors) {
+  final manifestFile = File('${repo.path}/manifest.json');
+  if (!manifestFile.existsSync()) return {};
+  final manifest = _readJsonObject(manifestFile, errors, 'manifest.json');
+  if (manifest == null) return {};
+  final packs = manifest['packs'];
+  if (packs is! List) return {};
+  return packs
+      .whereType<Map<String, dynamic>>()
+      .map((p) => p['id'])
+      .whereType<String>()
+      .toSet();
 }
 
 void _validatePackDirectory(
@@ -199,6 +239,7 @@ void _validatePackDirectory(
   Directory packDir,
   String tier,
   Set<String> seenPackIds,
+  Set<String> manifestPackIds,
   List<String> errors,
 ) {
   final relativePath = _relativePath(repo.path, packDir.path);
@@ -244,6 +285,9 @@ void _validatePackDirectory(
   } else {
     if (!seenPackIds.add(id)) {
       errors.add('$prefix duplicate pack id "$id"');
+    }
+    if (!manifestPackIds.contains(id)) {
+      errors.add('$prefix pack id "$id" missing from manifest.json');
     }
   }
 

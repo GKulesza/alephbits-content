@@ -10,10 +10,13 @@
     "minimumAppVersion",
     "generatedAt",
     "officialPackCount",
+    "communityPackCount",
+    "experimentalPackCount",
     "supportedLanguages",
     "supportedWritingSystems",
     "categories",
     "featuredCollections",
+    "libraryStatistics",
     "packs"
   ],
   "additionalProperties": false,
@@ -41,6 +44,16 @@
       "type": "integer",
       "minimum": 0,
       "description": "Number of packs under official/ indexed in packs."
+    },
+    "communityPackCount": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of packs under community/ indexed in packs."
+    },
+    "experimentalPackCount": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of packs under experimental/ indexed in packs."
     },
     "supportedLanguages": {
       "type": "array",
@@ -70,9 +83,56 @@
       "type": "array",
       "items": { "$ref": "#/$defs/packEntry" },
       "description": "Flat index of all published packs."
+    },
+    "libraryStatistics": {
+      "type": "object",
+      "description": "Aggregate library metrics for discovery and editorial dashboards.",
+      "required": [
+        "totalPacks",
+        "totalWords",
+        "totalEstimatedReadingTimeMinutes",
+        "languageCount",
+        "writingSystemCount",
+        "categoryCount",
+        "largestPack",
+        "newestPack",
+        "oldestPack"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "totalPacks": { "type": "integer", "minimum": 0 },
+        "totalWords": { "type": "integer", "minimum": 0 },
+        "totalEstimatedReadingTimeMinutes": { "type": "integer", "minimum": 0 },
+        "languageCount": { "type": "integer", "minimum": 0 },
+        "writingSystemCount": { "type": "integer", "minimum": 0 },
+        "categoryCount": { "type": "integer", "minimum": 0 },
+        "largestPack": { "$ref": "#/$defs/packStatRef" },
+        "newestPack": { "$ref": "#/$defs/packDateRef" },
+        "oldestPack": { "$ref": "#/$defs/packDateRef" }
+      }
     }
   },
   "$defs": {
+    "packStatRef": {
+      "type": "object",
+      "required": ["id", "bookId", "wordCount"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "bookId": { "type": "string" },
+        "wordCount": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "packDateRef": {
+      "type": "object",
+      "required": ["id", "bookId", "updated"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "bookId": { "type": "string" },
+        "updated": { "type": "string", "format": "date" }
+      }
+    },
     "category": {
       "type": "object",
       "required": ["id", "title"],
