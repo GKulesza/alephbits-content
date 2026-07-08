@@ -1,0 +1,22 @@
+{
+  "packId": "polish_jak_bor_z_jasnego_nieba",
+  "bookId": "jak-bor-z-jasnego-nieba",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (YouTube editorial)"
+    }
+  ],
+  "revisionNotes": "Tekst stylizowany na podcast; źródłem jest materiał wideo, nie oficjalny dokument BOR."
+}

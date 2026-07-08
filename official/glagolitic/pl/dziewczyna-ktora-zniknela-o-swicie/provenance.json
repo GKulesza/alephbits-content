@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dziewczyna_ktora_zniknela_o_swicie",
+  "bookId": "dziewczyna-ktora-zniknela-o-swicie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (YouTube editorial)"
+    }
+  ],
+  "revisionNotes": "Inspirowane realnymi mechanizmami śledztw; postacie i dialogi są fikcją literacką."
+}

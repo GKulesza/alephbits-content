@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki jest główny problem w relacji Magdy i Grześka według opowiadania?",
+      "answers": [
+        "Magda nie chce się przytulać po powrocie z pracy",
+        "Oboje unikają szczerej rozmowy o swoich potrzebach i winie",
+        "Grzesiek nie kupuje mleka mimo prośby",
+        "Magda nie lubi jazzu, który słucha Grzesiek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst wielokrotnie pokazuje, że oboje reagują urazą zamiast nazwać swoje uczucia i przeprosić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda zrozumiała po historii opowiedzianej na spotkaniu Kapci?",
+      "answers": [
+        "Że powinna częściej kupować mleko",
+        "Że udawała zainteresowania, by przypodobać się Grześkowi",
+        "Że Grzesiek jest idealnym partnerem",
+        "Że jazz jest lepszy od popu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przypomniała sobie, jak udawała zainteresowanie spacerami i jazzem z lęku przed odrzuceniem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się opowiadanie w odniesieniu do relacji Magdy i Grześka?",
+      "answers": [
+        "Rozstają się po spotkaniu Kapci",
+        "Zaczynają mówić wprost o potrzebach i pracować nad komunikacją",
+        "Grzesiek wyjeżdża do Krakowa",
+        "Magda wraca do udawania zainteresowań"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog opisuje, że rozmawiają o problemach, Grzesiek zapisuje prośby, a Magda mówi wprost, czego potrzebuje."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Żuk wyjaśnia różnicę między żołnierzem a operatorem BOR?",
+      "answers": [
+        "To zupełnie różne zawody bez wspólnych elementów",
+        "To w praktyce to samo, lecz ze względu na specjalizacje mówi się o operatorze",
+        "Operatorzy nigdy nie używają broni",
+        "Żołnierze nie przechodzą szkoleń specjalnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Żuk mówi, że to tak naprawdę to samo, tylko ze względu na specjalności używa się określenia operator."
+    },
+    {
+      "type": "single_choice",
+      "question": "W jakim kontekście toczy się rozmowa w tekście?",
+      "answers": [
+        "W sali sądowej",
+        "W studiu podcastu „Bez Sekretów”",
+        "Na poligonie wojskowym",
+        "W telewizyjnym studiu informacyjnym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piotr i Marcin rozmawiają w studiu podcastu „Bez Sekretów”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co tekst sugeruje o tematach związanych z jednostką?",
+      "answers": [
+        "Można o wszystkim mówić publicznie bez ograniczeń",
+        "Są rzeczy w jednostce, o których narrator nie będzie mógł powiedzieć",
+        "BOR nie istnieje w Polsce",
+        "Wszyscy operatorzy chcą udzielać wywiadów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Już w podtytule pada zdanie o rzeczach, o których nie można mówić."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dziewczyna_z_jelania",
+  "bookId": "dziewczyna-z-jelania",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (YouTube editorial)"
+    }
+  ],
+  "revisionNotes": "Collection One migration (Phase 39). Trust: Fiction."
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki problem Kadysz nazywa w otwarciu listu?",
+      "answers": [
+        "Brak czasu na czytanie książek",
+        "Ciągłe postanawianie sobie rzeczy, z których nic nie wynika",
+        "Zbyt wiele spotkań w biurze",
+        "Brak dostępu do internetu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cytowany fragment pyta, jak często postanawiamy sobie coś, z czego nic nie wychodzi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Według listu, co dzieje się, gdy dajemy sobie wybór?",
+      "answers": [
+        "Umysł natychmiast znajduje wymówki, by czegoś nie zrobić",
+        "Zawsze wybieramy najtrudniejsze zadanie",
+        "Motywacja rośnie bez limitu",
+        "Nie ma to wpływu na działanie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kadysz pisze, że przy zastanawianiu się umysł szybko znajduje tysiąc wymówek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Łukasz robi zamiast pracować, gdy zaczyna się wątpić?",
+      "answers": [
+        "Szuka w internecie nowych aplikacji i metod",
+        "Idzie spać przez cały dzień",
+        "Dzwoni do szefa po urlop",
+        "Sprzedaje komputer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamiast pracować czyta o pracy — nowe aplikacje i lifehacki."
+    }
+  ]
+}

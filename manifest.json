@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-08T00:00:00Z",
-  "officialPackCount": 2,
+  "generatedAt": "2026-07-09T00:00:00Z",
+  "officialPackCount": 13,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -14,9 +14,44 @@
   ],
   "categories": [
     {
+      "id": "article",
+      "title": "Article",
+      "description": "Short non-fiction articles."
+    },
+    {
+      "id": "biography",
+      "title": "Biography",
+      "description": "Lives and memoirs."
+    },
+    {
       "id": "demo",
       "title": "Demo",
       "description": ""
+    },
+    {
+      "id": "dialogue",
+      "title": "Dialogue",
+      "description": "Conversational texts for natural speech."
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "description": "Historical narratives and context."
+    },
+    {
+      "id": "instruction",
+      "title": "Instruction",
+      "description": "How-to and procedural texts."
+    },
+    {
+      "id": "popular_science",
+      "title": "Popular Science",
+      "description": "Popular science and natural world."
+    },
+    {
+      "id": "science_fiction",
+      "title": "Science Fiction",
+      "description": "Speculative and futuristic fiction."
     },
     {
       "id": "short_story",
@@ -35,8 +70,19 @@
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
       "packIds": [
+        "polish_cien_skrzydel_nad_oceanem",
+        "polish_cisza_przed_burza",
+        "polish_domysl_sie",
+        "polish_dziewczyna_z_jelania",
+        "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_jak_bor_z_jasnego_nieba",
         "polish_na_targu",
-        "polish_demo_lesson"
+        "polish_prolog_wiatru",
+        "polish_siedem_gor_i_jeden_ocean",
+        "polish_demo_lesson",
+        "polish_trzynascie_zasad",
+        "polish_zakazana_energia",
+        "polish_zasady"
       ]
     },
     {
@@ -45,26 +91,37 @@
       "description": "Best introductory texts for new readers.",
       "packIds": [
         "polish_demo_lesson",
-        "polish_na_targu"
+        "polish_na_targu",
+        "polish_trzynascie_zasad",
+        "polish_zasady",
+        "polish_domysl_sie",
+        "polish_dziewczyna_z_jelania",
+        "polish_prolog_wiatru",
+        "polish_siedem_gor_i_jeden_ocean",
+        "polish_zakazana_energia",
+        "polish_cien_skrzydel_nad_oceanem",
+        "polish_jak_bor_z_jasnego_nieba",
+        "polish_cisza_przed_burza",
+        "polish_dziewczyna_ktora_zniknela_o_swicie"
       ]
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 2,
-    "totalWords": 2761,
-    "totalEstimatedReadingTimeMinutes": 33,
+    "totalPacks": 13,
+    "totalWords": 16818,
+    "totalEstimatedReadingTimeMinutes": 168,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 3,
+    "categoryCount": 10,
     "largestPack": {
       "id": "polish_na_targu",
       "bookId": "na-targu",
       "wordCount": 2501
     },
     "newestPack": {
-      "id": "polish_na_targu",
-      "bookId": "na-targu",
-      "updated": "2026-07-08"
+      "id": "polish_cien_skrzydel_nad_oceanem",
+      "bookId": "cien-skrzydel-nad-oceanem",
+      "updated": "2026-07-09"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -73,6 +130,108 @@
     }
   },
   "packs": [
+    {
+      "id": "polish_cien_skrzydel_nad_oceanem",
+      "bookId": "cien-skrzydel-nad-oceanem",
+      "path": "official/glagolitic/pl/cien-skrzydel-nad-oceanem",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cień skrzydeł nad oceanem",
+      "version": "1.0.0",
+      "categories": [
+        "article",
+        "popular_science"
+      ],
+      "difficulty": 7,
+      "estimatedReadingTime": 13,
+      "featured": true
+    },
+    {
+      "id": "polish_cisza_przed_burza",
+      "bookId": "cisza-przed-burza",
+      "path": "official/glagolitic/pl/cisza-przed-burza",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cisza przed burzą",
+      "version": "1.0.0",
+      "categories": [
+        "history",
+        "article"
+      ],
+      "difficulty": 8,
+      "estimatedReadingTime": 12,
+      "featured": true
+    },
+    {
+      "id": "polish_domysl_sie",
+      "bookId": "domysl-sie",
+      "path": "official/glagolitic/pl/domysl-sie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Domyśl się",
+      "version": "1.0.0",
+      "categories": [
+        "short_story",
+        "dialogue"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 12,
+      "featured": true
+    },
+    {
+      "id": "polish_dziewczyna_ktora_zniknela_o_swicie",
+      "bookId": "dziewczyna-ktora-zniknela-o-swicie",
+      "path": "official/glagolitic/pl/dziewczyna-ktora-zniknela-o-swicie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dziewczyna, która zniknęła o świcie",
+      "version": "1.0.0",
+      "categories": [
+        "history",
+        "article"
+      ],
+      "difficulty": 8,
+      "estimatedReadingTime": 13,
+      "featured": true
+    },
+    {
+      "id": "polish_dziewczyna_z_jelania",
+      "bookId": "dziewczyna-z-jelania",
+      "path": "official/glagolitic/pl/dziewczyna-z-jelania",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dziewczyna z Jełania",
+      "version": "1.0.0",
+      "categories": [
+        "short_story",
+        "travel"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_jak_bor_z_jasnego_nieba",
+      "bookId": "jak-bor-z-jasnego-nieba",
+      "path": "official/glagolitic/pl/jak-bor-z-jasnego-nieba",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Jak Bor z jasnego nieba",
+      "version": "1.0.0",
+      "categories": [
+        "article",
+        "biography"
+      ],
+      "difficulty": 7,
+      "estimatedReadingTime": 14,
+      "featured": true
+    },
     {
       "id": "polish_na_targu",
       "bookId": "na-targu",
@@ -91,6 +250,40 @@
       "featured": true
     },
     {
+      "id": "polish_prolog_wiatru",
+      "bookId": "prolog-wiatru",
+      "path": "official/glagolitic/pl/prolog-wiatru",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Prolog wiatru",
+      "version": "1.0.0",
+      "categories": [
+        "short_story",
+        "biography"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_siedem_gor_i_jeden_ocean",
+      "bookId": "siedem-gor-i-jeden-ocean",
+      "path": "official/glagolitic/pl/siedem-gor-i-jeden-ocean",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Siedem gór i jeden ocean",
+      "version": "1.0.0",
+      "categories": [
+        "travel",
+        "article"
+      ],
+      "difficulty": 6,
+      "estimatedReadingTime": 14,
+      "featured": true
+    },
+    {
       "id": "polish_demo_lesson",
       "bookId": "spacer-po-krakowie",
       "path": "official/glagolitic/pl/spacer-po-krakowie",
@@ -104,6 +297,57 @@
         "demo"
       ],
       "difficulty": 3,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_trzynascie_zasad",
+      "bookId": "trzynascie-zasad",
+      "path": "official/glagolitic/pl/trzynascie-zasad",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Trzynaście zasad",
+      "version": "1.0.0",
+      "categories": [
+        "instruction",
+        "article"
+      ],
+      "difficulty": 4,
+      "estimatedReadingTime": 18,
+      "featured": true
+    },
+    {
+      "id": "polish_zakazana_energia",
+      "bookId": "zakazana-energia",
+      "path": "official/glagolitic/pl/zakazana-energia",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Zakazana Energia",
+      "version": "1.0.0",
+      "categories": [
+        "science_fiction",
+        "short_story"
+      ],
+      "difficulty": 6,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_zasady",
+      "bookId": "zasady",
+      "path": "official/glagolitic/pl/zasady",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Zasady",
+      "version": "1.0.0",
+      "categories": [
+        "instruction",
+        "article"
+      ],
+      "difficulty": 4,
       "estimatedReadingTime": 8,
       "featured": true
     }

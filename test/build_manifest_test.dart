@@ -9,11 +9,11 @@ void main() {
   final repoRoot = p.normalize(Directory.current.path);
 
   group('build_manifest', () {
-    test('generates manifest with both official packs', () {
+    test('generates manifest with all official packs', () {
       final manifest = ManifestBuilder().build(repoRoot);
       final packs = manifest['packs'] as List;
-      expect(packs.length, 2);
-      expect(manifest['officialPackCount'], 2);
+      expect(packs.length, greaterThanOrEqualTo(13));
+      expect(manifest['officialPackCount'], packs.length);
       expect(manifest['communityPackCount'], 0);
       expect(manifest['experimentalPackCount'], 0);
     });
@@ -32,8 +32,8 @@ void main() {
     test('library statistics include word counts', () {
       final stats = ManifestBuilder().build(repoRoot)['libraryStatistics']
           as Map<String, dynamic>;
-      expect(stats['totalPacks'], 2);
-      expect(stats['totalWords'], greaterThan(2000));
+      expect(stats['totalPacks'], greaterThanOrEqualTo(13));
+      expect(stats['totalWords'], greaterThan(14000));
       expect(stats['largestPack'], isA<Map<String, dynamic>>());
     });
   });

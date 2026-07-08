@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jakie podejście Rejewski proponuje wobec Enigmy?",
+      "answers": [
+        "Analizować wyłącznie przechwycone teksty",
+        "Zrozumieć działanie urządzenia — to matematyka, nie język",
+        "Czekać na komputer cyfrowy",
+        "Zignorować dokumentację z Francji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rejewski mówi, że trzeba zrozumieć maszynę, bo to matematyka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką słabość Niemców odkrywa Rejewski w schematach?",
+      "answers": [
+        "Losowe połączenia bez powtarzalności",
+        "Porządek alfabetyczny w połączeniach",
+        "Brak wirników",
+        "Używanie tylko jednego klucza rocznie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst wskazuje, że konstruktorzy wybrali najprostsze rozwiązanie — porządek alfabetyczny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym jest „bomba kryptologiczna” w tekście?",
+      "answers": [
+        "Bronią palną używaną przez wywiad",
+        "Elektromechanicznym urządzeniem symulującym wiele Enigm",
+        "Meteorologicznym instrumentem",
+        "Książką instruktażową dla żołnierzy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bomba symuluje działanie kilku Enigm i automatycznie sprawdza kombinacje."
+    }
+  ]
+}

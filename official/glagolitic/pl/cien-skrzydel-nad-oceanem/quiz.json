@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim był James M. Huston Jr. według tekstu?",
+      "answers": [
+        "Niemieckim żołnierzem z II wojny",
+        "Pilotem amerykańskiego lotnictwa morskiego zabitym w 1945 roku",
+        "Lekarzem z Luizjany",
+        "Konstruktorem Enigmy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst identyfikuje go jako pilota US Navy zabitego 3 marca 1945 nad Chichi Jimą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje Jamesa budzi u matki w maju 2000 roku?",
+      "answers": [
+        "Spokojny sen po kolacji",
+        "Koszmar z krzykiem o płomieniach i zablokowanej kabinie",
+        "Radość z nowej zabawki",
+        "Prośbę o wodę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Andrea budzi się na ryk przerażenia; James krzyczy o ogień i zablokowaną owiewkę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak tekst opisuje wiedzę Jamesa o poprzednim życiu?",
+      "answers": [
+        "Rodzice od razu mu o tym opowiedzieli",
+        "Po prostu wiedział, choć nikt mu tego nie powiedział",
+        "Wynika wyłącznie z lekcji w przedszkolu",
+        "Jest wymyślona przez dziennikarzy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst podkreśla: „Ale nikt mu tego nie powiedział. Po prostu wiedział.”"
+    }
+  ]
+}

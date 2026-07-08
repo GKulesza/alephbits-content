@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się utwór, wokół którego toczy się opowieść?",
+      "answers": [
+        "„Kaze no Prologue”",
+        "„Cisza przed burzą”",
+        "„Zakazana Energia”",
+        "„Prolog wiatru” bez tytułu piosenki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko słyszy i nagrywa teledysk do „Kaze no Prologue”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie odbywają się zdjęcia teledysku?",
+      "answers": [
+        "Na plaży w Chiba o świcie",
+        "W studiu w Los Angeles",
+        "Na dworcu w Warszawie",
+        "W górach Hokkaido zimą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Menedżer pisze o plaży w Chiba o 5:00 rano."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie przesłanie niesie piosenka według Yumiko?",
+      "answers": [
+        "Że wiatr zawsze wieje i można zacząć od nowa",
+        "Że należy unikać wiatru",
+        "Że kariera muzyczna się kończy",
+        "Że plaża jest niebezpieczna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tekst mówi, że piosenka dodaje sił i mówi o nowym początku przy otwartym oknie."
+    }
+  ]
+}

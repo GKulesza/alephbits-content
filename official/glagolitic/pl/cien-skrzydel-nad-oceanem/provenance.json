@@ -1,0 +1,22 @@
+{
+  "packId": "polish_cien_skrzydel_nad_oceanem",
+  "bookId": "cien-skrzydel-nad-oceanem",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (YouTube editorial)"
+    }
+  ],
+  "revisionNotes": "Opowieść oparta na publicznie opisywanym przypadku; nie jest tekstem naukowym ani sądowym."
+}

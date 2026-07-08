@@ -1,0 +1,22 @@
+{
+  "packId": "polish_prolog_wiatru",
+  "bookId": "prolog-wiatru",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (YouTube editorial)"
+    }
+  ],
+  "revisionNotes": "Inspirowane realnym utworem i kontekstem kultury J-pop; sceny są literacką rekonstrukcją."
+}

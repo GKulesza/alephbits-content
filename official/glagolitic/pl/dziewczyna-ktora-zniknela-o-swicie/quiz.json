@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co wskazuje Joanna na nagraniu monitoringu o stanie Agnieszki?",
+      "answers": [
+        "Idzie wesoło kontynuować imprezę",
+        "Idzie do domu ze spadkiem czujności — fałszywy syndrom bezpiecznego progu",
+        "Jedzie taksówką",
+        "Rozmawia przez telefon przez cały czas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joanna mówi o fałszywym syndromie bezpiecznego progu i spadku czujności."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Joanna uważa, że pierwsze godziny zostały zmarnowane?",
+      "answers": [
+        "Bo nie było żadnego zgłoszenia",
+        "Bo sprawę potraktowano jak standardową ucieczkę nastolatki",
+        "Bo Agnieszka sama zadzwoniła na policję",
+        "Bo monitoring działał bez przerw"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi o standardowej procedurze w sezonie wakacyjnym i braku zabezpieczenia nagrań."
+    },
+    {
+      "type": "single_choice",
+      "question": "O której godzinie kamera rejestruje ostatni obraz Agnieszki?",
+      "answers": [
+        "2:00 w nocy",
+        "4:12 nad ranem",
+        "Południe",
+        "22:30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sekcja „Punkt zero” podaje godzinę 4:12."
+    }
+  ]
+}
