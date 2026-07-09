@@ -1,0 +1,1329 @@
+{
+  "version": "1",
+  "defaultFamily": "nature",
+  "families": {
+    "biology": {
+      "id": "biology",
+      "displayName": "Biology",
+      "title": "Biology",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "biology",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/biology",
+          "thumbnailPath": "covers/biology/cover-01.jpg",
+          "sourcePath": "covers/biology/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/biology",
+          "thumbnailPath": "covers/biology/cover-02.jpg",
+          "sourcePath": "covers/biology/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/biology",
+          "thumbnailPath": "covers/biology/cover-03.jpg",
+          "sourcePath": "covers/biology/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/biology",
+          "thumbnailPath": "covers/biology/cover-04.jpg",
+          "sourcePath": "covers/biology/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/biology",
+          "thumbnailPath": "covers/biology/cover-05.jpg",
+          "sourcePath": "covers/biology/cover-05.jpg"
+        }
+      ]
+    },
+    "economics": {
+      "id": "economics",
+      "displayName": "Economics",
+      "title": "Economics",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "economics",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-01.jpg",
+          "sourcePath": "covers/economics/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-02.jpg",
+          "sourcePath": "covers/economics/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-03.jpg",
+          "sourcePath": "covers/economics/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-04.jpg",
+          "sourcePath": "covers/economics/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-05.jpg",
+          "sourcePath": "covers/economics/cover-05.jpg"
+        }
+      ]
+    },
+    "everyday_live": {
+      "id": "everyday_live",
+      "displayName": "Everyday Live",
+      "title": "Everyday Live",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "everyday_live",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-01.jpg",
+          "sourcePath": "covers/everyday_live/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-02.jpg",
+          "sourcePath": "covers/everyday_live/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-03.jpg",
+          "sourcePath": "covers/everyday_live/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-04.jpg",
+          "sourcePath": "covers/everyday_live/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-05.jpg",
+          "sourcePath": "covers/everyday_live/cover-05.jpg"
+        }
+      ]
+    },
+    "fairy_tales": {
+      "id": "fairy_tales",
+      "displayName": "Fairy Tales",
+      "title": "Fairy Tales",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "fairy_tales",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-01.jpg",
+          "sourcePath": "covers/fairy_tales/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-02.jpg",
+          "sourcePath": "covers/fairy_tales/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-03.jpg",
+          "sourcePath": "covers/fairy_tales/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-04.jpg",
+          "sourcePath": "covers/fairy_tales/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-05.jpg",
+          "sourcePath": "covers/fairy_tales/cover-05.jpg"
+        }
+      ]
+    },
+    "fantasy": {
+      "id": "fantasy",
+      "displayName": "Fantasy",
+      "title": "Fantasy",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "fantasy",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-01.jpg",
+          "sourcePath": "covers/fantasy/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-02.jpg",
+          "sourcePath": "covers/fantasy/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-03.jpg",
+          "sourcePath": "covers/fantasy/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-04.jpg",
+          "sourcePath": "covers/fantasy/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-05.jpg",
+          "sourcePath": "covers/fantasy/cover-05.jpg"
+        }
+      ]
+    },
+    "geography": {
+      "id": "geography",
+      "displayName": "Geography",
+      "title": "Geography",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "geography",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/geography",
+          "thumbnailPath": "covers/geography/cover-01.jpg",
+          "sourcePath": "covers/geography/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/geography",
+          "thumbnailPath": "covers/geography/cover-02.jpg",
+          "sourcePath": "covers/geography/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/geography",
+          "thumbnailPath": "covers/geography/cover-03.jpg",
+          "sourcePath": "covers/geography/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/geography",
+          "thumbnailPath": "covers/geography/cover-04.jpg",
+          "sourcePath": "covers/geography/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/geography",
+          "thumbnailPath": "covers/geography/cover-05.jpg",
+          "sourcePath": "covers/geography/cover-05.jpg"
+        }
+      ]
+    },
+    "history": {
+      "id": "history",
+      "displayName": "History",
+      "title": "History",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "history",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-01.jpg",
+          "sourcePath": "covers/history/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-02.jpg",
+          "sourcePath": "covers/history/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-03.jpg",
+          "sourcePath": "covers/history/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-04.jpg",
+          "sourcePath": "covers/history/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-05.jpg",
+          "sourcePath": "covers/history/cover-05.jpg"
+        }
+      ]
+    },
+    "languages": {
+      "id": "languages",
+      "displayName": "Languages",
+      "title": "Languages",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "languages",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-01.jpg",
+          "sourcePath": "covers/languages/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-02.jpg",
+          "sourcePath": "covers/languages/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-03.jpg",
+          "sourcePath": "covers/languages/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-04.jpg",
+          "sourcePath": "covers/languages/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-05.jpg",
+          "sourcePath": "covers/languages/cover-05.jpg"
+        }
+      ]
+    },
+    "law": {
+      "id": "law",
+      "displayName": "Law",
+      "title": "Law",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "law",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/law",
+          "thumbnailPath": "covers/law/cover-01.jpg",
+          "sourcePath": "covers/law/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/law",
+          "thumbnailPath": "covers/law/cover-02.jpg",
+          "sourcePath": "covers/law/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/law",
+          "thumbnailPath": "covers/law/cover-03.jpg",
+          "sourcePath": "covers/law/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/law",
+          "thumbnailPath": "covers/law/cover-04.jpg",
+          "sourcePath": "covers/law/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/law",
+          "thumbnailPath": "covers/law/cover-05.jpg",
+          "sourcePath": "covers/law/cover-05.jpg"
+        }
+      ]
+    },
+    "legends": {
+      "id": "legends",
+      "displayName": "Legends",
+      "title": "Legends",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "legends",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-01.jpg",
+          "sourcePath": "covers/legends/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-02.jpg",
+          "sourcePath": "covers/legends/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-03.jpg",
+          "sourcePath": "covers/legends/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-04.jpg",
+          "sourcePath": "covers/legends/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-05.jpg",
+          "sourcePath": "covers/legends/cover-05.jpg"
+        }
+      ]
+    },
+    "mathematics": {
+      "id": "mathematics",
+      "displayName": "Mathematics",
+      "title": "Mathematics",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "mathematics",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/mathematics",
+          "thumbnailPath": "covers/mathematics/cover-01.jpg",
+          "sourcePath": "covers/mathematics/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/mathematics",
+          "thumbnailPath": "covers/mathematics/cover-02.jpg",
+          "sourcePath": "covers/mathematics/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/mathematics",
+          "thumbnailPath": "covers/mathematics/cover-03.jpg",
+          "sourcePath": "covers/mathematics/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/mathematics",
+          "thumbnailPath": "covers/mathematics/cover-04.jpg",
+          "sourcePath": "covers/mathematics/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/mathematics",
+          "thumbnailPath": "covers/mathematics/cover-05.jpg",
+          "sourcePath": "covers/mathematics/cover-05.jpg"
+        }
+      ]
+    },
+    "medicine": {
+      "id": "medicine",
+      "displayName": "Medicine",
+      "title": "Medicine",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "medicine",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/medicine",
+          "thumbnailPath": "covers/medicine/cover-01.jpg",
+          "sourcePath": "covers/medicine/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/medicine",
+          "thumbnailPath": "covers/medicine/cover-02.jpg",
+          "sourcePath": "covers/medicine/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/medicine",
+          "thumbnailPath": "covers/medicine/cover-03.jpg",
+          "sourcePath": "covers/medicine/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/medicine",
+          "thumbnailPath": "covers/medicine/cover-04.jpg",
+          "sourcePath": "covers/medicine/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/medicine",
+          "thumbnailPath": "covers/medicine/cover-05.jpg",
+          "sourcePath": "covers/medicine/cover-05.jpg"
+        }
+      ]
+    },
+    "nature": {
+      "id": "nature",
+      "displayName": "Nature",
+      "title": "Nature",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": true,
+      "sourceFamily": "nature",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-01.jpg",
+          "sourcePath": "covers/nature/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-02.jpg",
+          "sourcePath": "covers/nature/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-03.jpg",
+          "sourcePath": "covers/nature/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-04.jpg",
+          "sourcePath": "covers/nature/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-05.jpg",
+          "sourcePath": "covers/nature/cover-05.jpg"
+        }
+      ]
+    },
+    "philosophy": {
+      "id": "philosophy",
+      "displayName": "Philosophy",
+      "title": "Philosophy",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "philosophy",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/philosophy",
+          "thumbnailPath": "covers/philosophy/cover-01.jpg",
+          "sourcePath": "covers/philosophy/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/philosophy",
+          "thumbnailPath": "covers/philosophy/cover-02.jpg",
+          "sourcePath": "covers/philosophy/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/philosophy",
+          "thumbnailPath": "covers/philosophy/cover-03.jpg",
+          "sourcePath": "covers/philosophy/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/philosophy",
+          "thumbnailPath": "covers/philosophy/cover-04.jpg",
+          "sourcePath": "covers/philosophy/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/philosophy",
+          "thumbnailPath": "covers/philosophy/cover-05.jpg",
+          "sourcePath": "covers/philosophy/cover-05.jpg"
+        }
+      ]
+    },
+    "psychology": {
+      "id": "psychology",
+      "displayName": "Psychology",
+      "title": "Psychology",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "psychology",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-01.jpg",
+          "sourcePath": "covers/psychology/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-02.jpg",
+          "sourcePath": "covers/psychology/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-03.jpg",
+          "sourcePath": "covers/psychology/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-04.jpg",
+          "sourcePath": "covers/psychology/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-05.jpg",
+          "sourcePath": "covers/psychology/cover-05.jpg"
+        }
+      ]
+    },
+    "science": {
+      "id": "science",
+      "displayName": "Science",
+      "title": "Science",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "science",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-01.jpg",
+          "sourcePath": "covers/science/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-02.jpg",
+          "sourcePath": "covers/science/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-03.jpg",
+          "sourcePath": "covers/science/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-04.jpg",
+          "sourcePath": "covers/science/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-05.jpg",
+          "sourcePath": "covers/science/cover-05.jpg"
+        }
+      ]
+    },
+    "science_fiction": {
+      "id": "science_fiction",
+      "displayName": "Science Fiction",
+      "title": "Science Fiction",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "science_fiction",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/science_fiction",
+          "thumbnailPath": "covers/science_fiction/cover-01.jpg",
+          "sourcePath": "covers/science_fiction/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/science_fiction",
+          "thumbnailPath": "covers/science_fiction/cover-02.jpg",
+          "sourcePath": "covers/science_fiction/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/science_fiction",
+          "thumbnailPath": "covers/science_fiction/cover-03.jpg",
+          "sourcePath": "covers/science_fiction/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/science_fiction",
+          "thumbnailPath": "covers/science_fiction/cover-04.jpg",
+          "sourcePath": "covers/science_fiction/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/science_fiction",
+          "thumbnailPath": "covers/science_fiction/cover-05.jpg",
+          "sourcePath": "covers/science_fiction/cover-05.jpg"
+        }
+      ]
+    },
+    "survival": {
+      "id": "survival",
+      "displayName": "Survival",
+      "title": "Survival",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "survival",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-01.jpg",
+          "sourcePath": "covers/survival/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-02.jpg",
+          "sourcePath": "covers/survival/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-03.jpg",
+          "sourcePath": "covers/survival/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-04.jpg",
+          "sourcePath": "covers/survival/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-05.jpg",
+          "sourcePath": "covers/survival/cover-05.jpg"
+        }
+      ]
+    },
+    "technology": {
+      "id": "technology",
+      "displayName": "Technology",
+      "title": "Technology",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "technology",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/technology",
+          "thumbnailPath": "covers/technology/cover-01.jpg",
+          "sourcePath": "covers/technology/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/technology",
+          "thumbnailPath": "covers/technology/cover-02.jpg",
+          "sourcePath": "covers/technology/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/technology",
+          "thumbnailPath": "covers/technology/cover-03.jpg",
+          "sourcePath": "covers/technology/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/technology",
+          "thumbnailPath": "covers/technology/cover-04.jpg",
+          "sourcePath": "covers/technology/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/technology",
+          "thumbnailPath": "covers/technology/cover-05.jpg",
+          "sourcePath": "covers/technology/cover-05.jpg"
+        }
+      ]
+    },
+    "travel": {
+      "id": "travel",
+      "displayName": "Travel",
+      "title": "Travel",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "travel",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/travel",
+          "thumbnailPath": "covers/travel/cover-01.jpg",
+          "sourcePath": "covers/travel/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/travel",
+          "thumbnailPath": "covers/travel/cover-02.jpg",
+          "sourcePath": "covers/travel/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/travel",
+          "thumbnailPath": "covers/travel/cover-03.jpg",
+          "sourcePath": "covers/travel/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/travel",
+          "thumbnailPath": "covers/travel/cover-04.jpg",
+          "sourcePath": "covers/travel/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/travel",
+          "thumbnailPath": "covers/travel/cover-05.jpg",
+          "sourcePath": "covers/travel/cover-05.jpg"
+        }
+      ]
+    },
+    "article": {
+      "id": "article",
+      "displayName": "Article",
+      "title": "Article",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "everyday_live",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-01.jpg",
+          "sourcePath": "covers/everyday_live/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-02.jpg",
+          "sourcePath": "covers/everyday_live/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-03.jpg",
+          "sourcePath": "covers/everyday_live/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-04.jpg",
+          "sourcePath": "covers/everyday_live/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/everyday_live",
+          "thumbnailPath": "covers/everyday_live/cover-05.jpg",
+          "sourcePath": "covers/everyday_live/cover-05.jpg"
+        }
+      ]
+    },
+    "biography": {
+      "id": "biography",
+      "displayName": "Biography",
+      "title": "Biography",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "history",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-01.jpg",
+          "sourcePath": "covers/history/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-02.jpg",
+          "sourcePath": "covers/history/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-03.jpg",
+          "sourcePath": "covers/history/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-04.jpg",
+          "sourcePath": "covers/history/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/history",
+          "thumbnailPath": "covers/history/cover-05.jpg",
+          "sourcePath": "covers/history/cover-05.jpg"
+        }
+      ]
+    },
+    "demo": {
+      "id": "demo",
+      "displayName": "Demo",
+      "title": "Demo",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "nature",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-01.jpg",
+          "sourcePath": "covers/nature/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-02.jpg",
+          "sourcePath": "covers/nature/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-03.jpg",
+          "sourcePath": "covers/nature/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-04.jpg",
+          "sourcePath": "covers/nature/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/nature",
+          "thumbnailPath": "covers/nature/cover-05.jpg",
+          "sourcePath": "covers/nature/cover-05.jpg"
+        }
+      ]
+    },
+    "dialogue": {
+      "id": "dialogue",
+      "displayName": "Dialogue",
+      "title": "Dialogue",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "languages",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-01.jpg",
+          "sourcePath": "covers/languages/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-02.jpg",
+          "sourcePath": "covers/languages/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-03.jpg",
+          "sourcePath": "covers/languages/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-04.jpg",
+          "sourcePath": "covers/languages/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/languages",
+          "thumbnailPath": "covers/languages/cover-05.jpg",
+          "sourcePath": "covers/languages/cover-05.jpg"
+        }
+      ]
+    },
+    "fairy_tale": {
+      "id": "fairy_tale",
+      "displayName": "Fairy Tale",
+      "title": "Fairy Tale",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "fairy_tales",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-01.jpg",
+          "sourcePath": "covers/fairy_tales/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-02.jpg",
+          "sourcePath": "covers/fairy_tales/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-03.jpg",
+          "sourcePath": "covers/fairy_tales/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-04.jpg",
+          "sourcePath": "covers/fairy_tales/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/fairy_tales",
+          "thumbnailPath": "covers/fairy_tales/cover-05.jpg",
+          "sourcePath": "covers/fairy_tales/cover-05.jpg"
+        }
+      ]
+    },
+    "instruction": {
+      "id": "instruction",
+      "displayName": "Instruction",
+      "title": "Instruction",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "survival",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-01.jpg",
+          "sourcePath": "covers/survival/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-02.jpg",
+          "sourcePath": "covers/survival/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-03.jpg",
+          "sourcePath": "covers/survival/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-04.jpg",
+          "sourcePath": "covers/survival/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/survival",
+          "thumbnailPath": "covers/survival/cover-05.jpg",
+          "sourcePath": "covers/survival/cover-05.jpg"
+        }
+      ]
+    },
+    "legend": {
+      "id": "legend",
+      "displayName": "Legend",
+      "title": "Legend",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "legends",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-01.jpg",
+          "sourcePath": "covers/legends/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-02.jpg",
+          "sourcePath": "covers/legends/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-03.jpg",
+          "sourcePath": "covers/legends/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-04.jpg",
+          "sourcePath": "covers/legends/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-05.jpg",
+          "sourcePath": "covers/legends/cover-05.jpg"
+        }
+      ]
+    },
+    "mythology": {
+      "id": "mythology",
+      "displayName": "Mythology",
+      "title": "Mythology",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "fantasy",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-01.jpg",
+          "sourcePath": "covers/fantasy/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-02.jpg",
+          "sourcePath": "covers/fantasy/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-03.jpg",
+          "sourcePath": "covers/fantasy/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-04.jpg",
+          "sourcePath": "covers/fantasy/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-05.jpg",
+          "sourcePath": "covers/fantasy/cover-05.jpg"
+        }
+      ]
+    },
+    "popular_science": {
+      "id": "popular_science",
+      "displayName": "Popular Science",
+      "title": "Popular Science",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "science",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-01.jpg",
+          "sourcePath": "covers/science/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-02.jpg",
+          "sourcePath": "covers/science/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-03.jpg",
+          "sourcePath": "covers/science/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-04.jpg",
+          "sourcePath": "covers/science/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/science",
+          "thumbnailPath": "covers/science/cover-05.jpg",
+          "sourcePath": "covers/science/cover-05.jpg"
+        }
+      ]
+    },
+    "short_story": {
+      "id": "short_story",
+      "displayName": "Short Story",
+      "title": "Short Story",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "fantasy",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-01.jpg",
+          "sourcePath": "covers/fantasy/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-02.jpg",
+          "sourcePath": "covers/fantasy/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-03.jpg",
+          "sourcePath": "covers/fantasy/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-04.jpg",
+          "sourcePath": "covers/fantasy/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/fantasy",
+          "thumbnailPath": "covers/fantasy/cover-05.jpg",
+          "sourcePath": "covers/fantasy/cover-05.jpg"
+        }
+      ]
+    }
+  },
+  "customCovers": {
+    "krakow_walk_flagship": "travel/cover_02"
+  }
+}
