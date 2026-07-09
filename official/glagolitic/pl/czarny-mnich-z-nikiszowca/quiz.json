@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Tomek jako dziecko czuł się w Nikiszowcu obco?",
+      "answers": [
+        "Bo nie znał języka śląskiego",
+        "Bo nowe osiedle i jego układ wydawały mu się pułapką z czerwonej cegły",
+        "Bo od razu chciał pracować w kopalni",
+        "Bo nie lubił kościołów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na początku tekst podkreśla przeprowadzkę, obcość miejsca i poczucie uwięzienia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Tomek po raz pierwszy widzi postać Czarnego Mnicha?",
+      "answers": [
+        "Na dworcu w Katowicach",
+        "Przy kościele Świętej Anny, w cieniu bramy",
+        "Na dachu familoka",
+        "W kopalnianej windzie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsze spotkanie ma miejsce przy kościele Świętej Anny, obok jednej z bram."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką rolę pełni w tekście kopalnia Gisze/Wieczorek?",
+      "answers": [
+        "Jest tylko tłem bez znaczenia",
+        "Stanowi matkę żywicielkę i źródło losu mieszkańców",
+        "Jest muzeum odwiedzanym przez turystów",
+        "Zostaje opisana jako prywatna galeria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi wprost, że kopalnia dawała pracę, mieszkania i decydowała o życiu mieszkańców."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza gest Mnicha podczas drugiego spotkania z Tomkiem?",
+      "answers": [
+        "Zaproszenie do zejścia pod ziemię",
+        "Wskazanie na kościół i pamięć miejsca",
+        "Groźbę wobec mieszkańców",
+        "Prośbę o pieniądze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mnich wskazuje kościół, a Tomek odczytuje to jako znak pamięci o tych, którzy odeszli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak zmienia się stosunek Tomka do Nikiszowca pod koniec opowieści?",
+      "answers": [
+        "Nadal chce stamtąd uciec",
+        "Zaczyna widzieć w nim dom i przewodnika po własnej historii",
+        "Postanawia sprzedać mieszkanie rodziców",
+        "Przestaje wierzyć w jakiekolwiek legendy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Z miejsca-pułapki Nikiszowiec staje się dla niego domem i nośnikiem pamięci."
+    }
+  ]
+}

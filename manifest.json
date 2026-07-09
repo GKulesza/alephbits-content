@@ -3,7 +3,7 @@
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
   "generatedAt": "2026-07-09T00:00:00Z",
-  "officialPackCount": 13,
+  "officialPackCount": 25,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -44,6 +44,11 @@
       "description": "How-to and procedural texts."
     },
     {
+      "id": "legend",
+      "title": "Legend",
+      "description": "Folklore and legendary stories."
+    },
+    {
       "id": "popular_science",
       "title": "Popular Science",
       "description": "Popular science and natural world."
@@ -70,14 +75,26 @@
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
       "packIds": [
+        "polish_boliewicz",
+        "polish_cena_widoku",
         "polish_cien_skrzydel_nad_oceanem",
         "polish_cisza_przed_burza",
+        "polish_czarny_kodeks",
+        "polish_czarny_mnich_z_nikiszowca",
+        "polish_czarny_rynek_tokenow",
+        "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
         "polish_domysl_sie",
         "polish_dziewczyna_z_jelania",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
         "polish_jak_bor_z_jasnego_nieba",
+        "polish_koniec_epoki_pudelek",
+        "polish_kontrolowana_halucynacja",
+        "polish_mamy_trupa_i_co_dalej",
+        "polish_metoda_feynmana",
+        "polish_misja_ktora_pekla",
         "polish_na_targu",
         "polish_prolog_wiatru",
+        "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
         "polish_trzynascie_zasad",
@@ -94,33 +111,45 @@
         "polish_na_targu",
         "polish_trzynascie_zasad",
         "polish_zasady",
+        "polish_czarny_mnich_z_nikiszowca",
         "polish_domysl_sie",
         "polish_dziewczyna_z_jelania",
+        "polish_koniec_epoki_pudelek",
+        "polish_mamy_trupa_i_co_dalej",
         "polish_prolog_wiatru",
+        "polish_cena_widoku",
+        "polish_czarny_rynek_tokenow",
+        "polish_misja_ktora_pekla",
+        "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_zakazana_energia",
+        "polish_boliewicz",
         "polish_cien_skrzydel_nad_oceanem",
+        "polish_czarny_kodeks",
+        "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
         "polish_jak_bor_z_jasnego_nieba",
         "polish_cisza_przed_burza",
-        "polish_dziewczyna_ktora_zniknela_o_swicie"
+        "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_kontrolowana_halucynacja",
+        "polish_metoda_feynmana"
       ]
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 13,
-    "totalWords": 16818,
-    "totalEstimatedReadingTimeMinutes": 168,
+    "totalPacks": 25,
+    "totalWords": 33008,
+    "totalEstimatedReadingTimeMinutes": 270,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 10,
+    "categoryCount": 11,
     "largestPack": {
       "id": "polish_na_targu",
       "bookId": "na-targu",
       "wordCount": 2501
     },
     "newestPack": {
-      "id": "polish_cien_skrzydel_nad_oceanem",
-      "bookId": "cien-skrzydel-nad-oceanem",
+      "id": "polish_boliewicz",
+      "bookId": "boliewicz",
       "updated": "2026-07-09"
     },
     "oldestPack": {
@@ -130,6 +159,40 @@
     }
   },
   "packs": [
+    {
+      "id": "polish_boliewicz",
+      "bookId": "boliewicz",
+      "path": "official/glagolitic/pl/boliewicz",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Boliewicz",
+      "version": "1.0.0",
+      "categories": [
+        "biography",
+        "history"
+      ],
+      "difficulty": 7,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_cena_widoku",
+      "bookId": "cena-widoku",
+      "path": "official/glagolitic/pl/cena-widoku",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cena widoku",
+      "version": "1.0.0",
+      "categories": [
+        "short_story",
+        "article"
+      ],
+      "difficulty": 6,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
     {
       "id": "polish_cien_skrzydel_nad_oceanem",
       "bookId": "cien-skrzydel-nad-oceanem",
@@ -162,6 +225,73 @@
       ],
       "difficulty": 8,
       "estimatedReadingTime": 12,
+      "featured": true
+    },
+    {
+      "id": "polish_czarny_kodeks",
+      "bookId": "czarny-kodeks",
+      "path": "official/glagolitic/pl/czarny-kodeks",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czarny Kodeks",
+      "version": "1.0.0",
+      "categories": [
+        "history",
+        "article"
+      ],
+      "difficulty": 7,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_czarny_mnich_z_nikiszowca",
+      "bookId": "czarny-mnich-z-nikiszowca",
+      "path": "official/glagolitic/pl/czarny-mnich-z-nikiszowca",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czarny mnich z Nikiszowca",
+      "version": "1.0.0",
+      "categories": [
+        "legend",
+        "history"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_czarny_rynek_tokenow",
+      "bookId": "czarny-rynek-tokenow",
+      "path": "official/glagolitic/pl/czarny-rynek-tokenow",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czarny rynek tokenów",
+      "version": "1.0.0",
+      "categories": [
+        "article"
+      ],
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+      "bookId": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+      "path": "official/glagolitic/pl/dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?",
+      "version": "1.0.0",
+      "categories": [
+        "popular_science",
+        "article"
+      ],
+      "difficulty": 7,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -233,6 +363,90 @@
       "featured": true
     },
     {
+      "id": "polish_koniec_epoki_pudelek",
+      "bookId": "koniec-epoki-pudelek",
+      "path": "official/glagolitic/pl/koniec-epoki-pudelek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Koniec epoki pudełek",
+      "version": "1.0.0",
+      "categories": [
+        "article"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_kontrolowana_halucynacja",
+      "bookId": "kontrolowana-halucynacja",
+      "path": "official/glagolitic/pl/kontrolowana-halucynacja",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kontrolowana halucynacja",
+      "version": "1.0.0",
+      "categories": [
+        "popular_science",
+        "short_story"
+      ],
+      "difficulty": 8,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_mamy_trupa_i_co_dalej",
+      "bookId": "mamy-trupa-i-co-dalej",
+      "path": "official/glagolitic/pl/mamy-trupa-i-co-dalej",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Mamy trupa i co dalej",
+      "version": "1.0.0",
+      "categories": [
+        "instruction",
+        "article"
+      ],
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_metoda_feynmana",
+      "bookId": "metoda-feynmana",
+      "path": "official/glagolitic/pl/metoda-feynmana",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Metoda Feynmana",
+      "version": "1.0.0",
+      "categories": [
+        "popular_science",
+        "article"
+      ],
+      "difficulty": 8,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_misja_ktora_pekla",
+      "bookId": "misja-ktora-pekla",
+      "path": "official/glagolitic/pl/misja-ktora-pekla",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Misja która pękła",
+      "version": "1.0.0",
+      "categories": [
+        "article",
+        "instruction"
+      ],
+      "difficulty": 6,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
       "id": "polish_na_targu",
       "bookId": "na-targu",
       "path": "official/glagolitic/pl/na-targu",
@@ -263,6 +477,23 @@
         "biography"
       ],
       "difficulty": 5,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_pudelko_po_ciastkach",
+      "bookId": "pudelko-po-ciastkach",
+      "path": "official/glagolitic/pl/pudelko-po-ciastkach",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Pudełko po ciastkach",
+      "version": "1.0.0",
+      "categories": [
+        "short_story",
+        "article"
+      ],
+      "difficulty": 6,
       "estimatedReadingTime": 10,
       "featured": true
     },

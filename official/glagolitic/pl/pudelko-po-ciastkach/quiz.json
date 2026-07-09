@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Krzysztof interpretuje początkowo stan mieszkania matki?",
+      "answers": [
+        "Jako świetnie zorganizowany magazyn",
+        "Jako przytłaczający chaos budzący wściekłość i załamanie",
+        "Jako projekt artystyczny",
+        "Jako dowód na ukrytą zamożność"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsze wejście do mieszkania wywołuje szok, bezradność i gniew."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki głębszy sens zaczyna dostrzegać w gromadzeniu rzeczy przez matkę?",
+      "answers": [
+        "Wyłącznie chęć inwestowania",
+        "Strach przed powrotem biedy i potrzeba kontroli po doświadczeniu niedoboru",
+        "Zabawę w kolekcjonerstwo",
+        "Próbę ukrycia majątku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nocne wspomnienie PRL-u pozwala mu odczytać rzeczy jako zabezpieczenie przed dawnym lękiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po co w opowieści pojawia się Ola od declutteringu?",
+      "answers": [
+        "Żeby tylko fizycznie wyrzucić odpady",
+        "Żeby pomóc połączyć porządkowanie rzeczy z rozumieniem emocji i pamięci",
+        "Żeby sprzedać mieszkanie za wyższą cenę",
+        "Żeby wycenić antyki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola nie działa jak firma sprzątająca, lecz jak przewodniczka po żałobie i znaczeniach przedmiotów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego pudełko po ciastkach okazuje się tak ważne?",
+      "answers": [
+        "Bo zawiera pieniądze na remont",
+        "Bo przechowuje listy i ślady codziennej miłości matki oraz ojca",
+        "Bo jest najdroższym meblem w domu",
+        "Bo należy do sąsiadów"
+      ],
+      "correctIndex": 1,
+      "explanation": "To w pudełku znajdują się rzeczy od razu odczytane jako naprawdę ważne."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki końcowy ruch wykonuje Krzysztof wobec przeszłości matki?",
+      "answers": [
+        "Wyrzeka się jej całkowicie",
+        "Zaczyna rozumieć jej lęk i świadomie puszcza ciężar, którego ona nie umiała puścić",
+        "Przestaje rozmawiać z córką",
+        "Postanawia zachować wszystko bez zmian"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zakończenie pokazuje przejście od gniewu do zrozumienia i nowego początku."
+    }
+  ]
+}

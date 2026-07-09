@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Anna opisuje swoje pierwsze doznania po urazie?",
+      "answers": [
+        "Czuje wyłącznie ból fizyczny",
+        "Odczuwa obcość własnego ciała i wrażenie, że ręka do niej nie należy",
+        "Natychmiast pamięta cały wypadek",
+        "Nie ma żadnych objawów psychicznych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsze sceny skupiają się na zaburzonym poczuciu własnej cielesności."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po co doktor Marek proponuje mikrofenomenologię?",
+      "answers": [
+        "Żeby mierzyć ciśnienie krwi",
+        "Żeby badać strukturę doświadczenia Anny, a nie tylko wyniki skanów",
+        "Żeby zastąpić rezonans magnetyczny",
+        "Żeby nauczyć ją medytacji religijnej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metoda ma pomóc opisać samo doświadczenie świadomości i percepcji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką myśl wnosi Marta w rozmowie o iluzji i 'ja'?",
+      "answers": [
+        "Że takie pytania nie mają sensu",
+        "Że nawet jeśli doświadczenie jest iluzją, pozostaje przeżywane jako własne i realne",
+        "Że trzeba natychmiast wyłączyć wszystkie maszyny",
+        "Że świadomość to wyłącznie religia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta podkreśla wagę przeżycia jako własnego, nawet jeśli ma charakter konstrukcji umysłowej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak doktor Marek rozróżnia inteligencję i świadomość?",
+      "answers": [
+        "Uznaje je za to samo",
+        "Mówi, że inteligencja może istnieć bez subiektywnego odczuwania",
+        "Twierdzi, że świadomość jest łatwo mierzalna",
+        "Uważa AI za już w pełni świadome"
+      ],
+      "correctIndex": 1,
+      "explanation": "To kluczowy wątek etyczny w rozmowie o AI."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do jakiego wniosku dochodzi Anna w epilogu?",
+      "answers": [
+        "Że znalazła ostateczną definicję świadomości",
+        "Że pytanie o 'ja' może być ważniejsze niż gotowa odpowiedź",
+        "Że nie chce już pisać o nauce",
+        "Że uraz niczego jej nie zmienił"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcówka zostawia problem otwarty i podkreśla wagę samego pytania."
+    }
+  ]
+}

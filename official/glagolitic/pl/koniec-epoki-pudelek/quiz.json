@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co uruchamia główny konflikt w opowieści Adama?",
+      "answers": [
+        "Premiera nowej konsoli Nintendo",
+        "Informacja, że Sony kończy produkcję płyt dla nowych gier od 2028 roku",
+        "Podwyżka cen telewizorów",
+        "Zamknięcie serwerów Steam"
+      ],
+      "correctIndex": 1,
+      "explanation": "To nagłówek o końcu nowych fizycznych wydań budzi jego reakcję."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego zdanie o „odwoływalnej licencji” tak mocno działa na Adama?",
+      "answers": [
+        "Bo nigdy nie kupował gier cyfrowych",
+        "Bo uświadamia mu różnicę między dostępem a faktycznym posiadaniem",
+        "Bo chce handlować licencjami",
+        "Bo dotyczy wyłącznie filmów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam łączy to z ryzykiem utraty dostępu do kupionych treści."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką pierwszą konkretną decyzję podejmuje Adam po ogłoszeniu Sony?",
+      "answers": [
+        "Sprzedaje wszystkie gry na płycie",
+        "Anuluje subskrypcję PlayStation Plus",
+        "Kupuje dodatkową konsolę",
+        "Przestaje używać internetu"
+      ],
+      "correctIndex": 1,
+      "explanation": "W sekcji o subskrypcji wchodzi w ustawienia konta i rezygnuje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką szerszą stawkę dostrzega Adam po wypowiedziach Ybarry i Mélenchona?",
+      "answers": [
+        "Spór o kolor pudełek",
+        "Pytanie o prawa konsumentów i przyszłość cyfrowej własności",
+        "Wyłącznie francuską kampanię wyborczą",
+        "Wojnę między PC a mobilkami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Od fanowskiej złości przechodzi do sporu o własność cyfrową i kulturę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co wyraża wiralowy post Adama pod koniec?",
+      "answers": [
+        "Złość na wszystkie gry sieciowe",
+        "Gotowość rezygnacji z przyszłej konsoli, jeśli model własności się nie zmieni",
+        "Prośbę o darmowe gry od Sony",
+        "Plan otwarcia sklepu z płytami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisze, że nie kupi PS6, jeśli Sony zrealizuje ten plan."
+    }
+  ]
+}

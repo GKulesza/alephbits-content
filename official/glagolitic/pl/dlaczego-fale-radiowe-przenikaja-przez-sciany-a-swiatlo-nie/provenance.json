@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+  "bookId": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Tekst popularyzuje fizykę przez obrazy i metafory; wymaga ręcznej oceny kilku kosmologicznych uproszczeń."
+}

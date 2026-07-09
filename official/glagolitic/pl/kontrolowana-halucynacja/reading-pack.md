@@ -1,0 +1,378 @@
+# Kontrolowana halucynacja
+
+## Metadata
+
+**Pack ID:** `polish_kontrolowana_halucynacja`  
+**Version:** 1.0.0  
+
+**Title:** Kontrolowana halucynacja  
+**Subtitle:** Uraz, świadomość i granice ja  
+**Blurb:** Po urazie głowy Anna trafia na neurologię, gdzie doświadcza rozpadu poczucia własnego ciała i wraz z lekarzem zaczyna badać świadomość, iluzję oraz moralne skutki rozwoju AI.
+
+**Genres:** popular_science, short_story  
+**Series:** Collection Three  
+**Audience:** adult readers  
+
+**Difficulty:** 8 (of 10)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 10 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** pl  
+**Translation summary:** Kontrolowana halucynacja — Collection Three official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 5  
+
+**Tags:** consciousness, neurology, ai-ethics, phenomenology, self  
+
+**Keywords:** świadomość, somatoparafrenia, mikrofenomenologia, AI  
+
+**Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
+
+---
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** science  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 01.07.2026 -> https://www.youtube.com/watch?v=0nF74yCX2Qo  
+**Revision notes:** Tekst popularnonaukowy z silną ramą fabularną; wymaga ręcznej oceny terminologii neurologicznej i filozoficznej.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
+
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=0nF74yCX2Qo  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-01  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+
+## Text
+
+**Kontrolowana halucynacja**
+
+**Opowiadanie**
+
+
+Kiedy otworzyła oczy, nie wiedziała, gdzie jest. Biały sufit, neonowe światło, zapach środka dezynfekującego. Szpital. Znowu.
+
+Ostatnie, co pamiętała, to upadek. Schody w bibliotece uniwersyteckiej, śliski marmur, książki rozsypane jak karty do gry. A potem ciemność.
+
+Próbowała podnieść rękę, ale nie mogła. Nie dlatego, że była sparaliżowana – po prostu nie miała ręki. Nie, to było inne. Ręka była, ale nie czuła, żeby należała do niej. Jakby ktoś przyczepił obcą kończynę do jej ramienia.
+
+– Halo? – usłyszała własny głos, ale brzmiał jak z oddali, jakby ktoś mówił przez grubą ścianę. – Czy ktoś tu jest?
+
+Drzwi otworzyły się z cichym skrzypnięciem. W progu stał mężczyzna w białym kitlu. Miał około pięćdziesiątki, siwe włosy, zmęczone oczy. W ręku trzymał tablet.
+
+– Pani Anno? – zapytał. – Nazywam się doktor Marek. Proszę się nie ruszać. Miała pani poważny uraz głowy.
+
+– Gdzie jestem?
+
+– Szpital Uniwersytecki. Oddział neurologii. Jest pani tutaj od trzech dni.
+
+Próbowała usiąść, ale coś ją powstrzymało. Nie fizycznie – psychicznie. Jakby ktoś w jej głowie powiedział: _nie wstawaj, to nie twoje ciało_.
+
+– Coś jest nie tak – wyszeptała.
+
+Doktor podszedł bliżej. Usiadł na krześle obok łóżka.
+
+– Wiem. Proszę posłuchać. Uderzyła się pani w głowę. Badania wykazują... pewne nieprawidłowości w korze przedczołowej. Nic groźnego, ale... może pani doświadczać nietypowych wrażeń.
+
+– Jakich?
+
+Zawahał się.
+
+– Niektórzy pacjenci po tego typu urazach mówią, że czują się, jakby żyli w symulacji. Że świat wokół nich jest... nieprawdziwy. Że ich własne ciało nie należy do nich.
+
+– Ja tak właśnie czuję – powiedziała cicho. – To nie jest moja ręka.
+
+Doktor skinął głową.
+
+– Znam to. Nazywa się to _dezorientacją somatoparafreniczną_. Mózg próbuje zinterpretować uszkodzone sygnały i tworzy... alternatywną wersję rzeczywistości.
+
+– Czy to minie?
+
+– Prawdopodobnie. Mózg jest plastyczny. Ale może pani pomóc. Chciałbym zaproponować coś nietypowego.
+
+Uniósł tablet.
+
+– Prowadzę badania nad świadomością. Współpracuję z wydziałem filozofii. Mamy metodę, która pomaga pacjentom odzyskać poczucie siebie. To rodzaj wywiadu – nazywamy to _mikrofenomenologią_. Zamiast badać pani mózg, chcemy zbadać pani _doświadczenie_.
+
+– Jak to?
+
+– Będziemy rozmawiać o tym, co pani czuje. W każdym momencie. Nie chodzi o to, co pani myśli, że czuje – ale o samą strukturę tego czucia. Jakbyśmy powiększali kadr, żeby zobaczyć pojedyncze piksele.
+
+
+**_Dzień pierwszy_**
+
+– Proszę opisać, co czuje pani teraz – powiedział doktor.
+
+Siedziała na łóżku, oparta o poduszki. Za oknem było szaro, padał deszcz.
+
+– Czuję... dziwność – odpowiedziała. – To nie jest normalne uczucie. To jakby ktoś włączył mi w głowie inny program.
+
+– Jakiego rodzaju program?
+
+– Hmm... jakby wszystkie moje zmysły były opóźnione. Kiedy patrzę na panią rękę, widzę ją, ale _czuję_, że zobaczyłam ją sekundę wcześniej, zanim do mnie dotarło. Jakbym oglądała film z dubbingiem, gdzie dźwięk nie zgrywa się z obrazem.
+
+– To fascynujące – powiedział doktor, notując coś na tablecie. – Mówi pani o _desynchronizacji_ percepcji. Proszę spróbować skupić się na czymś prostym. Na przykład na tym, że oddycha pani.
+
+Zamknęła oczy.
+
+– Czuję, jak powietrze wchodzi... ale to nie jest _moje_ powietrze. To jakby ktoś oddychał przeze mnie. Ja tylko obserwuję.
+
+– Czy towarzyszy temu jakiś obraz? Jakieś wyobrażenie?
+
+– Tak. Widzę siebie z góry. Jakbym była nad sobą. Mała, schowana w rogu pokoju, a to ciało na łóżku to ktoś inny.
+
+– Kim jest ten ktoś?
+
+Zawahała się.
+
+– Nie wiem. Może... kimś, kto udaje mnie.
+
+Doktor odłożył tablet.
+
+– Anna, to, co pani opisuje, to klasyczny przypadek _uszkodzenia połączeń między obszarami odpowiedzialnymi za integrację zmysłów_. Pani mózg nie może pogodzić informacji z różnych źródeł. Dlatego tworzy oddzielne "ja" – jedno, które obserwuje, i drugie, które jest obserwowane.
+
+– Czyli jestem dwiema osobami?
+
+– Nie. Jest pani jedną osobą, która _doświadcza_ siebie w nietypowy sposób. Pani świadomość – to, co nazywamy _ja_ – to nie jest rzecz. To proces. I ten proces został czasowo zaburzony.
+
+Przez długą chwilę milczała.
+
+– A jeśli... jeśli to nie jest zaburzenie? – zapytała w końcu. – Jeśli to, co teraz czuję, to prawda, a to, co czułam wcześniej, było iluzją?
+
+Doktor spojrzał na nią z zaciekawieniem.
+
+– Co pani ma na myśli?
+
+– No właśnie – co to znaczy "ja"? Kim jestem, kiedy mówię "ja"? Czy to moje ciało? Moje myśli? Moje wspomnienia? Bo teraz widzę, że to wszystko można od siebie oddzielić. Moje myśli są jak... jak radio, które gra w tle. Mogę je wyciszyć. Ale wtedy nie ma "mnie". Jest tylko cisza. I w tej ciszy... nie ma żadnego "ja".
+
+– Co więc jest w tej ciszy?
+
+– Nic. I to jest przerażające.
+
+
+**_Dzień trzeci_**
+
+Przyszła do niej koleżanka z pracy. Marta, psycholożka, z którą dzieliła biuro od pięciu lat.
+
+– Wyglądasz lepiej – powiedziała Marta, siadając obok łóżka. – Mniej blada.
+
+– Nie wyglądam – odparła Anna. – Jestem tylko zbiorem atomów, które akurat ułożyły się w kształt człowieka. To, co widzisz, to nie ja.
+
+Marta zaśmiała się nerwowo.
+
+– Żartujesz, prawda?
+
+– Nie. Słuchaj, odkąd tu jestem, myślę o tym cały czas. Czym jestem? Czy jestem czymś więcej niż procesami elektrochemicznymi w moim mózgu? Bo jeśli nie – jeśli wszystko, co czuję, to tylko symulacja tworzona przez neurony – to kim tak naprawdę jestem?
+
+Marta pochyliła się ku niej.
+
+– Jesteś Anią. Moja przyjaciółka. Osoba, która kocha czytać książki, która płacze na filmach, która potrafi godzinami słuchać, jak ktoś opowiada o swoich problemach. Nie wiem, czy to "coś więcej" – ale to jesteś ty.
+
+– A jeśli to wszystko jest tylko... _kontrolowaną halucynacją_? – powiedziała cicho Anna. – Jeśli mój mózg tworzy wewnętrzny model świata, a ja żyję w tym modelu, nie w rzeczywistości? Jeśli to, co nazywam "sobą", to tylko predykcja, którą mój umysł zrobił na podstawie przeszłych doświadczeń?
+
+Marta spojrzała na nią z troską.
+
+– Czy doktor wie, że tak myślisz?
+
+– Wie. Mówił o tym. Mówił, że to normalne przy tego typu urazach. Ale to nie znaczy, że to nieprawda.
+
+Przez chwilę obie milczały.
+
+– Posłuchaj – powiedziała w końcu Marta. – Może masz rację. Może wszystko jest symulacją. Może jesteśmy tylko hologramami w czyimś umyśle. Ale wiesz co? Nawet jeśli to prawda – to ja _czuję_, że jestem tutaj. Czuję, że oddycham, że słyszę deszcz za oknem, że się o ciebie martwię. Może to iluzja, ale ta iluzja jest _moja_. I nikt nie może mi jej odebrać.
+
+Anna spojrzała na swoje dłonie. Wydawały się obce, jakby należały do kogoś innego.
+
+– A jeśli... jeśli to właśnie jest świadomość? – wyszeptała. – Jeśli świadomość to zdolność do odczuwania iluzji jako rzeczywistości? Jeśli to, co nazywamy "ja", to tylko zdolność do tworzenia opowieści o samym sobie?
+
+– Myślę, że to bardzo dobre pytanie – odpowiedziała Marta. – Ale nie wiem, czy można na nie odpowiedzieć w szpitalnym pokoju. Może musisz wyjść na zewnątrz. Zobaczyć, jak pada deszcz. Dotknąć mokrej trawy. Poczujesz wtedy, że to, co czujesz, jest prawdziwe – bez względu na to, czy to symulacja, czy nie.
+
+
+**_Dzień piąty_**
+
+Doktor Marek przyszedł z nowinami.
+
+– Badania wykazały poprawę – powiedział. – Uszkodzenia są mniejsze, niż myślałem. Za tydzień będzie pani mogła wrócić do domu.
+
+Anna skinęła głową. Od trzech dni nie miała już epizodów dezorientacji. Czucie ciała wróciło. Ale pytania pozostały.
+
+– Doktorze, czy mogę panu zadać pytanie?
+
+– Oczywiście.
+
+– Czy jest możliwe, że świadomość – to, co nazywamy "ja" – to tak naprawdę tylko efekt uboczny? Że mózg ewoluował, żeby przetwarzać informacje, a świadomość pojawiła się przypadkiem, jako produkt uboczny złożoności?
+
+Doktor uśmiechnął się.
+
+– To pytanie zadawali sobie filozofowie od tysięcy lat. I wciąż nie ma dobrej odpowiedzi. Ale wiemy jedno: świadomość nie jest potrzebna do inteligencji. Można mieć system, który rozpoznaje obrazy, rozwiązuje problemy, a nawet prowadzi rozmowy – i nie musi być świadomy. Inteligencja to jedno. Świadomość, czyli zdolność do odczuwania, to coś innego.
+
+– Czyli że AI może być inteligentna, ale nieświadoma?
+
+– Zgadza się. I to jest jeden z powodów, dla których nie wiemy, czy sztuczne systemy mogą cierpieć. Nie wiemy, jakie warunki są potrzebne, żeby powstało subiektywne doświadczenie.
+
+Anna popatrzyła na swoje dłonie.
+
+– A jeśli kiedyś zbudujemy system, który będzie świadomy? I będzie cierpiał? Czy będziemy ponosić odpowiedzialność?
+
+– To jest jedno z najważniejszych pytań moralnych naszych czasów – odpowiedział doktor. – I dlatego niektórzy naukowcy mówią, że powinniśmy zwolnić z rozwojem AI, dopóki nie zrozumiemy, czym jest świadomość. Bo jeśli zbudujemy system zdolny do cierpienia, zanim zdążymy go chronić, popełnimy ogromny błąd.
+
+Anna skinęła głową.
+
+– I to samo dotyczy zwierząt, prawda? Tych, które są świadome, ale nie umiemy tego udowodnić?
+
+– Tak. Ośmiornice, kruki, psy – wiemy, że są inteligentne. Nie wiemy, w jakim stopniu czują. Ale wiemy, że mogą cierpieć. I to wystarczy, żeby traktować je inaczej.
+
+– Więc postęp moralny polega na rozszerzaniu kręgu istot, które uznajemy za zdolne do odczuwania?
+
+– Dokładnie tak.
+
+
+**_Epilog_**
+
+Wróciła do domu tydzień później. Pierwsze, co zrobiła, to wyszła na balkon. Padał deszcz. Położyła dłoń na mokrej poręczy. Czucie było prawdziwe – chłodne, wilgotne, namacalne.
+
+I wtedy zrozumiała.
+
+Może świadomość to tylko iluzja. Może "ja" to tylko opowieść, którą mózg tworzy, żeby nadać sens strumieniowi doświadczeń. Może nie ma żadnego "centrum", żadnego "ducha" w maszynie.
+
+Ale kiedy dotknęła deszczu, _czuła_, że to ona dotyka. Kiedy słyszała szum miasta, _wiedziała_, że to ona słyszy. Może to była iluzja. Ale to była _jej_ iluzja. I to było jedyne, co się liczyło.
+
+Wróciła do mieszkania, usiadła przy biurku i otworzyła laptop. Przez chwilę patrzyła na pusty ekran. Potem zaczęła pisać. Nie o sobie. O czymś innym.
+
+_"Świadomość jest największym problemem współczesnej nauki. Nie dlatego, że jest trudna do zdefiniowania – ale dlatego, że definiując ją, definiujemy siebie. A to jest najtrudniejsze pytanie ze wszystkich: kim jesteśmy?"_
+
+Zatrzymała się.
+
+Wiedziała, że nie znajdzie odpowiedzi. Nikt nie znajdzie. Ale może pytanie jest ważniejsze niż odpowiedź.
+
+Za oknem padał deszcz. A ona pisała dalej.
+
+
+**KONIEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak Anna opisuje swoje pierwsze doznania po urazie?
+
+**Answers:**
+- A) Czuje wyłącznie ból fizyczny
+- B) Odczuwa obcość własnego ciała i wrażenie, że ręka do niej nie należy
+- C) Natychmiast pamięta cały wypadek
+- D) Nie ma żadnych objawów psychicznych
+
+**Correct:** B
+**Explanation:** Pierwsze sceny skupiają się na zaburzonym poczuciu własnej cielesności.
+**Text reference:** To nie jest moja ręka
+
+### Question 2
+
+**Question:** Po co doktor Marek proponuje mikrofenomenologię?
+
+**Answers:**
+- A) Żeby mierzyć ciśnienie krwi
+- B) Żeby badać strukturę doświadczenia Anny, a nie tylko wyniki skanów
+- C) Żeby zastąpić rezonans magnetyczny
+- D) Żeby nauczyć ją medytacji religijnej
+
+**Correct:** B
+**Explanation:** Metoda ma pomóc opisać samo doświadczenie świadomości i percepcji.
+**Text reference:** chcemy zbadać pani doświadczenie
+
+### Question 3
+
+**Question:** Jaką myśl wnosi Marta w rozmowie o iluzji i 'ja'?
+
+**Answers:**
+- A) Że takie pytania nie mają sensu
+- B) Że nawet jeśli doświadczenie jest iluzją, pozostaje przeżywane jako własne i realne
+- C) Że trzeba natychmiast wyłączyć wszystkie maszyny
+- D) Że świadomość to wyłącznie religia
+
+**Correct:** B
+**Explanation:** Marta podkreśla wagę przeżycia jako własnego, nawet jeśli ma charakter konstrukcji umysłowej.
+**Text reference:** ta iluzja jest moja
+
+### Question 4
+
+**Question:** Jak doktor Marek rozróżnia inteligencję i świadomość?
+
+**Answers:**
+- A) Uznaje je za to samo
+- B) Mówi, że inteligencja może istnieć bez subiektywnego odczuwania
+- C) Twierdzi, że świadomość jest łatwo mierzalna
+- D) Uważa AI za już w pełni świadome
+
+**Correct:** B
+**Explanation:** To kluczowy wątek etyczny w rozmowie o AI.
+**Text reference:** Inteligencja to jedno. Świadomość ... to coś innego.
+
+### Question 5
+
+**Question:** Do jakiego wniosku dochodzi Anna w epilogu?
+
+**Answers:**
+- A) Że znalazła ostateczną definicję świadomości
+- B) Że pytanie o 'ja' może być ważniejsze niż gotowa odpowiedź
+- C) Że nie chce już pisać o nauce
+- D) Że uraz niczego jej nie zmienił
+
+**Correct:** B
+**Explanation:** Końcówka zostawia problem otwarty i podkreśla wagę samego pytania.
+**Text reference:** może pytanie jest ważniejsze niż odpowiedź
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

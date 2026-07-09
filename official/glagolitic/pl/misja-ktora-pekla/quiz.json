@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaką sprzeczność Marek dostrzega, patrząc na własną firmę po latach?",
+      "answers": [
+        "Między biurami w różnych miastach",
+        "Między pierwotną misją a rzeczywistością działania nastawioną coraz bardziej na wypłatę i wzrost",
+        "Między papierowymi a cyfrowymi dokumentami",
+        "Między IT a sprzedażą"
+      ],
+      "correctIndex": 1,
+      "explanation": "To pęknięcie między ideą a praktyką uruchamia całą opowieść."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego historia OpenAI tak mocno porusza Marka?",
+      "answers": [
+        "Bo chce kupić akcje Microsoftu",
+        "Bo widzi w niej odbicie własnego konfliktu między misją a biznesem",
+        "Bo planuje zwolnić zarząd",
+        "Bo nie lubi startupów"
+      ],
+      "correctIndex": 1,
+      "explanation": "W wydarzeniach wokół Sama Altmana rozpoznaje własne pytania o sens i odpowiedzialność."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym w tekście jest AI Brain Fry?",
+      "answers": [
+        "Nowym algorytmem rankingowym",
+        "Zmęczeniem psychicznym wynikającym z ciągłego żonglowania narzędziami AI",
+        "Programem do automatyzacji pracy",
+        "Rodzajem awarii serwera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Raport i rozmowa z Agnieszką definiują to jako przeciążenie poznawcze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie rozwiązanie Marek proponuje wobec chaosu narzędzi AI?",
+      "answers": [
+        "Śledzić każdą nowinkę jeszcze szybciej",
+        "Wybrać kilka narzędzi naprawdę ważnych i odpuścić FOMO",
+        "Zakazać AI w firmie",
+        "Oddać decyzję wyłącznie działowi HR"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jego receptą jest ograniczenie liczby narzędzi i wspólna strategia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką rolę odgrywa „kontekst” w ostatniej części tekstu?",
+      "answers": [
+        "Jest nazwą nowego produktu firmy",
+        "Przypomina, że rozwiązania trzeba dopasować do skali, rynku i realiów własnej firmy",
+        "Oznacza tylko sytuację polityczną USA",
+        "Służy do wyjaśniania księgowości"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek tłumaczy, że wiedza z wielkich korporacji nie działa automatycznie wszędzie."
+    }
+  ]
+}

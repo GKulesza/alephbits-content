@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaką podstawową sprzeczność przeżywa narrator pracujący w hotelu?",
+      "answers": [
+        "Ma za dużo wolnego czasu",
+        "Obsługuje luksus sprzedawany gościom, wiedząc o ukrytych awariach i niskich realiach pracy",
+        "Nie chce pracować nocą, bo lubi poranki",
+        "Nie rozumie regulaminu hotelu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrast między cenami apartamentów a warunkami pracy i jakością usługi jest osią tekstu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego rozmowa z tajemniczym mężczyzną na tarasie jest przełomowa?",
+      "answers": [
+        "Bo dostaje propozycję awansu",
+        "Bo słyszy od projektanta, że problemy hotelu były znane i ukrywane od początku",
+        "Bo poznaje nowego gościa VIP",
+        "Bo znajduje zgubiony telefon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mężczyzna ujawnia, że system od początku był wadliwy i że ktoś o tym wiedział."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co narrator wie już wcześniej, zanim mężczyzna to nazywa wprost?",
+      "answers": [
+        "Że hotel za miesiąc się sprzeda",
+        "Że wewnętrzne maile potwierdzały ignorowanie ostrzeżeń technicznych",
+        "Że media wszystko zmyśliły",
+        "Że klimatyzacja jest idealna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Widział notatki techników, które lądowały w koszu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką decyzję podejmuje narrator po powrocie z tarasu?",
+      "answers": [
+        "Postanawia skasować wszystkie maile",
+        "Pisze list i kontaktuje się z kimś, kto może opublikować prawdziwą historię",
+        "Wyjeżdża od razu nad ranem bez śladu",
+        "Prosi o podwyżkę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kulminacją jest list do dyrekcji i telefon z prośbą o publikację prawdy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza epilog z podróżą do Japonii?",
+      "answers": [
+        "Że hotel odnosi wielki sukces",
+        "Że narrator odzyskuje sprawczość i zamyka etap życia opartego na udawaniu",
+        "Że wraca do tej samej pracy po remoncie",
+        "Że chce projektować klimatyzację"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyjazd symbolizuje wyjście z toksycznego układu i początek nowego rozdziału."
+    }
+  ]
+}

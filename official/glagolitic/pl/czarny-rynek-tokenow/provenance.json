@@ -1,0 +1,22 @@
+{
+  "packId": "polish_czarny_rynek_tokenow",
+  "bookId": "czarny-rynek-tokenow",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Tekst łączy edukację bezpieczeństwa z narracją społeczną; warto ręcznie sprawdzić brand-specific details and phrasing."
+}

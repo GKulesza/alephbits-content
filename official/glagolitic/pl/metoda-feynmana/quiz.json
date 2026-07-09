@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co uruchamia rozważania Marka w tej opowieści?",
+      "answers": [
+        "Awaria laboratorium",
+        "Komentarze widzów pytających o zło, świadomość i fizykę",
+        "List od noblisty",
+        "Nowy grant badawczy"
+      ],
+      "correctIndex": 1,
+      "explanation": "To komentarze pod jego filmem wytrącają go z naukowej rutyny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką granicę Marek zaczyna dostrzegać jako fizyk?",
+      "answers": [
+        "Że matematyka nigdy nie działa",
+        "Że wzory nie wystarczają do pełnego wyjaśnienia pytań moralnych i egzystencjalnych",
+        "Że nie da się mówić o atomach publicznie",
+        "Że świadomość można już dokładnie zmierzyć"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst pokazuje napięcie między ścisłym opisem a pytaniami o sens."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do czego prowadzi Marka powrót do notatnika z młodości?",
+      "answers": [
+        "Do odrzucenia całej fizyki kwantowej",
+        "Do spekulacji o związku myśli, częstotliwości i świadomości",
+        "Do napisania pracy o ekonomii",
+        "Do zakupu nowego radia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stare notatki przywracają mu intuicję łączenia fal i umysłu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek uznaje za ważne przesłanie fizyki wobec śmierci?",
+      "answers": [
+        "Że można empirycznie dowieść reinkarnacji",
+        "Że materia i energia nie znikają, lecz się przekształcają",
+        "Że śmierć jest wyłącznie błędem biologii",
+        "Że atomy przestają istnieć"
+      ],
+      "correctIndex": 1,
+      "explanation": "W filmie tłumaczy zachowanie energii i obieg atomów po śmierci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego ten tekst wymaga ostrożnej lektury jako materiał popularnonaukowy?",
+      "answers": [
+        "Bo nie zawiera żadnych naukowych pojęć",
+        "Bo przechodzi od fizyki do metaforycznych i filozoficznych interpretacji, których sam Marek nie może dowieść",
+        "Bo zaprzecza istnieniu atomów",
+        "Bo opisuje wyłącznie religię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Narracja świadomie przesuwa się od nauki do spekulacji i autorefleksji."
+    }
+  ]
+}

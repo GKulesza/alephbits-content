@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaka podstawowa teza otwiera wyjaśnienie różnicy między radiem a światłem?",
+      "answers": [
+        "To dwa całkiem różne zjawiska",
+        "Oba należą do widma elektromagnetycznego i różnią się częstotliwością",
+        "Radio jest falą mechaniczną",
+        "Światło nie ma związku z energią"
+      ],
+      "correctIndex": 1,
+      "explanation": "Autor opiera wyjaśnienie na wspólnej naturze fal elektromagnetycznych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak tekst opisuje twardość materii na poziomie atomowym?",
+      "answers": [
+        "Jako efekt stykania się pełnych kulek materii",
+        "Jako skutek odpychania pól elektromagnetycznych między chmurami elektronowymi",
+        "Jako działanie grawitacji w stole",
+        "Jako właściwość drewna i betonu niezależną od atomów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyjaśnienie twardości odwołuje się do odpychania elektronów, nie do zwartej bryły."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po co w tekście pojawia się równanie E = h × f?",
+      "answers": [
+        "Aby policzyć wagę ściany",
+        "Aby pokazać, że energia fotonu rośnie wraz z częstotliwością",
+        "Aby wyjaśnić temperaturę wrzenia wody",
+        "Aby opisać ruch planet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Równanie Plancka tłumaczy różnicę energetyczną między fotonami radiowymi i widzialnymi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego fale radiowe przechodzą przez wiele ścian łatwiej niż światło widzialne?",
+      "answers": [
+        "Bo są szybsze od światła",
+        "Bo ich fotony mają zbyt małą energię, by pobudzić elektrony materiału",
+        "Bo ściany zawierają tylko metal",
+        "Bo radio omija budynki dzięki grawitacji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sedno wyjaśnienia polega na niedopasowaniu energetycznym do poziomów elektronów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką szerszą lekcję o rzeczywistości wyciąga tekst z tego przykładu?",
+      "answers": [
+        "Że świat jest iluzją i nic nie istnieje",
+        "Że ludzka percepcja obejmuje tylko mały fragment znacznie bogatszego świata fizycznego",
+        "Że tylko to, co widzialne, jest realne",
+        "Że fale radiowe są ważniejsze od światła"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcowe partie podkreślają ograniczoność naszych zmysłów wobec pełnego widma i struktury materii."
+    }
+  ]
+}

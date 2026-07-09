@@ -1,0 +1,22 @@
+{
+  "packId": "polish_boliewicz",
+  "bookId": "boliewicz",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Biografia polityczna oparta na interpretacji historyka; wymaga ręcznego sprawdzenia cytatów i delikatności wobec spornych ocen."
+}

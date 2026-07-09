@@ -1,0 +1,22 @@
+{
+  "packId": "polish_kontrolowana_halucynacja",
+  "bookId": "kontrolowana-halucynacja",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Tekst popularnonaukowy z silną ramą fabularną; wymaga ręcznej oceny terminologii neurologicznej i filozoficznej."
+}

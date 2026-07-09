@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki błąd uruchamia kryzys Adama?",
+      "answers": [
+        "Udostępnia hasło do banku na Slacku",
+        "Wrzuca klucz API do publicznego repozytorium GitHub",
+        "Kupuje konto na czarnym rynku",
+        "Wyłącza 2FA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyciek klucza API do publicznego repozytorium jest bezpośrednią przyczyną nadużyć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Adam odkrywa, analizując nietypowe zużycie tokenów?",
+      "answers": [
+        "Że OpenAI źle policzyło fakturę",
+        "Że jego klucz trafił do systemu pośredników sprzedających tani dostęp",
+        "Że firma testowała nowe modele",
+        "Że korzystał z konta jego współpracownik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na forach znajduje oferty tanich tokenów i rozumie mechanizm pośredników."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką rolę pełnią proxy rezydencyjne w opisywanym procederze?",
+      "answers": [
+        "Służą wyłącznie do legalnego hostingu",
+        "Pomagają ukrywać ruch, wykorzystując łącza zwykłych użytkowników",
+        "Przyspieszają trening modeli",
+        "Blokują spam na forach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst opisuje je jako sposób maskowania ruchu przez infrastrukturę zwykłych ludzi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego rozmowa z Li Wei zmienia sposób myślenia Adama?",
+      "answers": [
+        "Bo Li Wei oddaje mu wszystkie pieniądze",
+        "Bo pokazuje ludzką stronę nielegalnego rynku i problem barier dostępu",
+        "Bo okazuje się policjantem",
+        "Bo proponuje wspólny startup"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam zaczyna widzieć nie tylko oszustwo, ale też ludzi wypchniętych poza legalny dostęp."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką praktyczną lekcję Adam wyciąga z całej historii?",
+      "answers": [
+        "Trzeba przestać używać API",
+        "Bezpieczeństwo wymaga i narzędzi, i świadomości systemowych zagrożeń",
+        "Najlepiej pracować tylko offline",
+        "Nigdy nie używać GitHuba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przechodzi na manager sekretów, monitoring i edukację innych programistów."
+    }
+  ]
+}

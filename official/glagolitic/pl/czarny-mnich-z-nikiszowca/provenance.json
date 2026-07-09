@@ -1,0 +1,22 @@
+{
+  "packId": "polish_czarny_mnich_z_nikiszowca",
+  "bookId": "czarny-mnich-z-nikiszowca",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Legenda osadzona w realnej historii Nikiszowca i kopalni; wymaga ręcznej oceny proporcji między faktem a lokalnym podaniem."
+}

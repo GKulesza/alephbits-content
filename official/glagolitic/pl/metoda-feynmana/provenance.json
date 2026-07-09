@@ -1,0 +1,22 @@
+{
+  "packId": "polish_metoda_feynmana",
+  "bookId": "metoda-feynmana",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Three manuscript"
+    }
+  ],
+  "revisionNotes": "Esej spekulatywny: naukowe pojęcia są zestawiane z filozofią i duchowością, więc wymaga ręcznego rozdzielenia nauki od interpretacji."
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Antoni Dudek proponuje patrzeć na Wałęsę?",
+      "answers": [
+        "Wyłącznie jak na zdradzieckiego agenta",
+        "Ani wyłącznie przez różowe, ani wyłącznie przez czarne okulary",
+        "Tylko jak na świętego bohatera",
+        "Wyłącznie przez pryzmat Nobla"
+      ],
+      "correctIndex": 1,
+      "explanation": "To podstawowa teza otwierająca i zamykająca cały tekst."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co tekst uznaje za najważniejszy powód pozytywnego bilansu życia Wałęsy?",
+      "answers": [
+        "Jego prezydenturę po 1990 roku",
+        "Rolę odegraną w latach 80. i Solidarności",
+        "Wyłącznie Pokojową Nagrodę Nobla",
+        "Działalność po 2000 roku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek mówi, że pozytywny bilans wynika przede wszystkim z lat 80."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki problem wiąże się z pseudonimem „Bolek”?",
+      "answers": [
+        "Dotyczy wyłącznie fałszywej legendy internetowej",
+        "Odnosi się do współpracy Wałęsy z SB w pierwszej połowie lat 70.",
+        "To kryptonim strajku z 1980 roku",
+        "To nazwa partii politycznej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sekcja „Bolek” opisuje współpracę i jej moralny ciężar."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego prezydentura Wałęsy wypada w tekście słabo?",
+      "answers": [
+        "Bo nie chciał startować w wyborach",
+        "Bo nie rozumiał roli prezydenta w systemie parlamentarnym i destabilizował politykę",
+        "Bo od razu wyemigrował",
+        "Bo odrzucił konstytucję w referendum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek wskazuje brak rozumienia ustroju i konfliktowość prezydentury."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co według tekstu szczególnie zaszkodziło późniejszemu wizerunkowi Wałęsy?",
+      "answers": [
+        "Wyłącznie działalność Zachodu",
+        "Nieumiejętność przyznania się do błędów i własna megalomania",
+        "Brak wykształcenia technicznego",
+        "Odmowa przyjęcia Nobla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek podkreśla, że Wałęsa sam sobie zaszkodził po odejściu z urzędu."
+    }
+  ]
+}

@@ -1,596 +1,287 @@
 #!/usr/bin/env python3
-"""Migrate Collection One manuscript into official Reading Packs."""
+"""Generic AlephBits collection migrator for production Reading Packs."""
 
 from __future__ import annotations
 
+import math
 import re
+import sys
 import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
-MANUSCRIPT = Path(
-    "/Users/admin/Developer/MiscellaneousNotes/AwesomeVault/!Apps/App Ideas/alephBits/CollectionOne.md"
-)
 OUTPUT_ROOT = Path(__file__).resolve().parent.parent / "official/glagolitic/pl"
+TODAY = "2026-07-09"
 
 
 @dataclass
 class QuizQuestion:
     question: str
     answers: list[str]
-    correct: str  # A, B, C, or D
+    correct: str
     explanation: str
     text_reference: str = ""
 
 
 @dataclass
 class StoryConfig:
-    slug: str
     subtitle: str
     blurb: str
     genres: list[str]
     difficulty: int
-    reading_time: int
     trust: str
     tags: list[str]
     keywords: list[str]
-    audience: str = "adult readers"
-    recommended_level: int = 3
+    recommended_level: int
     revision_notes: str = ""
-    source_label: str = "Collection One manuscript (YouTube editorial)"
+    audience: str = "adult readers"
+    source_label: str = ""
     availability: str = "adaptation"
     quiz: list[QuizQuestion] = field(default_factory=list)
 
 
-STORIES: dict[str, StoryConfig] = {
-    "Domyśl się": StoryConfig(
-        slug="domysl-sie",
-        subtitle="Opowiadanie o sygnałach w związku",
-        blurb="Magda odkrywa, że jej idealny związek z Grześkiem kryje wzorce, których nie chce widzieć — aż spotkanie Kapci otwiera jej oczy na to, co naprawdę czuje.",
-        genres=["short_story", "dialogue"],
-        difficulty=5,
-        reading_time=12,
-        trust="Fiction",
-        tags=["polish", "fiction", "narrative", "relationships"],
-        keywords=["związek", "komunikacja", "randki", "fikcja"],
-        recommended_level=3,
-        quiz=[
-            QuizQuestion(
-                "Jaki jest główny problem w relacji Magdy i Grześka według opowiadania?",
-                [
-                    "Magda nie chce się przytulać po powrocie z pracy",
-                    "Oboje unikają szczerej rozmowy o swoich potrzebach i winie",
-                    "Grzesiek nie kupuje mleka mimo prośby",
-                    "Magda nie lubi jazzu, który słucha Grzesiek",
+@dataclass
+class CollectionConfig:
+    key: str
+    title: str
+    manuscript: Path
+    phase_label: str
+    source_label: str
+    stories: dict[str, StoryConfig]
+
+
+def q(question: str, answers: list[str], correct: str, explanation: str, ref: str = "") -> QuizQuestion:
+    return QuizQuestion(question, answers, correct, explanation, ref)
+
+
+COLLECTIONS = {
+    "collection3": CollectionConfig(
+        key="collection3",
+        title="Collection Three",
+        manuscript=Path(
+            "/Users/admin/Developer/MiscellaneousNotes/AwesomeVault/!Apps/App Ideas/alephBits/CollectionThree.md"
+        ),
+        phase_label="Phase 40",
+        source_label="Collection Three manuscript",
+        stories={
+            "Czarny mnich z Nikiszowca": StoryConfig(
+                subtitle="Legenda i pamięć Nikiszowca",
+                blurb="Tomek wraca do Nikiszowca, by zrozumieć legendę Czarnego Mnicha i odkrywa, że opowieść o zjawie jest także opowieścią o pamięci górniczej dzielnicy.",
+                genres=["legend", "history"],
+                difficulty=5,
+                trust="historical_fiction",
+                tags=["polish", "nikiszowiec", "legend", "silesia", "memory"],
+                keywords=["Nikiszowiec", "Czarny Mnich", "Katowice", "kopalnia"],
+                recommended_level=3,
+                revision_notes="Legenda osadzona w realnej historii Nikiszowca i kopalni; wymaga ręcznej oceny proporcji między faktem a lokalnym podaniem.",
+                quiz=[
+                    q("Dlaczego Tomek jako dziecko czuł się w Nikiszowcu obco?", ["Bo nie znał języka śląskiego", "Bo nowe osiedle i jego układ wydawały mu się pułapką z czerwonej cegły", "Bo od razu chciał pracować w kopalni", "Bo nie lubił kościołów"], "B", "Na początku tekst podkreśla przeprowadzkę, obcość miejsca i poczucie uwięzienia.", "pułapce z czerwonej cegły"),
+                    q("Gdzie Tomek po raz pierwszy widzi postać Czarnego Mnicha?", ["Na dworcu w Katowicach", "Przy kościele Świętej Anny, w cieniu bramy", "Na dachu familoka", "W kopalnianej windzie"], "B", "Pierwsze spotkanie ma miejsce przy kościele Świętej Anny, obok jednej z bram.", "Przy kościele Świętej Anny"),
+                    q("Jaką rolę pełni w tekście kopalnia Gisze/Wieczorek?", ["Jest tylko tłem bez znaczenia", "Stanowi matkę żywicielkę i źródło losu mieszkańców", "Jest muzeum odwiedzanym przez turystów", "Zostaje opisana jako prywatna galeria"], "B", "Tekst mówi wprost, że kopalnia dawała pracę, mieszkania i decydowała o życiu mieszkańców.", "była matką żywicielką"),
+                    q("Co oznacza gest Mnicha podczas drugiego spotkania z Tomkiem?", ["Zaproszenie do zejścia pod ziemię", "Wskazanie na kościół i pamięć miejsca", "Groźbę wobec mieszkańców", "Prośbę o pieniądze"], "B", "Mnich wskazuje kościół, a Tomek odczytuje to jako znak pamięci o tych, którzy odeszli.", "wskazała w stronę kościoła"),
+                    q("Jak zmienia się stosunek Tomka do Nikiszowca pod koniec opowieści?", ["Nadal chce stamtąd uciec", "Zaczyna widzieć w nim dom i przewodnika po własnej historii", "Postanawia sprzedać mieszkanie rodziców", "Przestaje wierzyć w jakiekolwiek legendy"], "B", "Z miejsca-pułapki Nikiszowiec staje się dla niego domem i nośnikiem pamięci.", "stało się jego domem"),
                 ],
-                "B",
-                "Tekst wielokrotnie pokazuje, że oboje reagują urazą zamiast nazwać swoje uczucia i przeprosić.",
-                "nie umiała powiedzieć: \"Przepraszam\"",
             ),
-            QuizQuestion(
-                "Co Magda zrozumiała po historii opowiedzianej na spotkaniu Kapci?",
-                [
-                    "Że powinna częściej kupować mleko",
-                    "Że udawała zainteresowania, by przypodobać się Grześkowi",
-                    "Że Grzesiek jest idealnym partnerem",
-                    "Że jazz jest lepszy od popu",
+            "Czarny Kodeks": StoryConfig(
+                subtitle="Vodou, Haiti i długie życie prawa",
+                blurb="Historyk Janusz bada losy Czarnego Kodeksu, rewolucji haitańskiej i Vodou, odkrywając jak prawo, religia i kolonialna przemoc splatają się przez stulecia.",
+                genres=["history", "article"],
+                difficulty=7,
+                trust="history",
+                tags=["haiti", "vodou", "colonialism", "history", "law"],
+                keywords=["Czarny Kodeks", "Haiti", "Vodou", "niewolnictwo"],
+                recommended_level=4,
+                revision_notes="Tekst miesza fakty historyczne z reportażową narracją i zawiera fragment wymagający ręcznego sprawdzenia ciągłości redakcyjnej.",
+                quiz=[
+                    q("Co sprawia, że Janusz zaczyna badać Czarny Kodeks?", ["Odnajduje rodzinny pamiętnik z Haiti", "Czyta informację, że dokument obowiązywał formalnie do 28 maja 2026 roku", "Dostaje grant na badanie prawa polskiego", "Słyszy o tym w kościele w Krakowie"], "B", "Impulsem jest informacja o zaskakująco późnym uchyleniu dokumentu.", "formalnie obowiązywał we Francji do 28 maja 2026 roku"),
+                    q("Jaką funkcję pełni Vodou w interpretacji Jean-Pierre’a?", ["Wyłącznie egzotyczną religię z filmów", "Narzędzie przetrwania, porządku i oporu", "Prywatny kult kilku rodzin", "Religię importowaną z Polski"], "B", "Jean-Pierre przedstawia Vodou jako system społeczny i narzędzie przetrwania.", "Było narzędziem przetrwania"),
+                    q("Dlaczego Bois Caïman jest ważne w opowieści?", ["To miejsce narodzin polskiej emigracji", "To miejsce rytuału poprzedzającego rewolucję haitańską", "To dawna siedziba Napoleona", "To muzeum prawa kolonialnego"], "B", "Jean-Pierre opisuje Bois Caïman jako miejsce rytuału związanego z początkiem powstania.", "zapoczątkował rewolucję haitańską"),
+                    q("Jak tekst interpretuje związek Matki Boskiej Częstochowskiej z Erzulie Dantor?", ["Jako błąd tłumaczenia historycznego", "Jako przykład religijnego synkretyzmu i przetrwania", "Jako dowód dominacji Watykanu", "Jako nowoczesną kampanię marketingową"], "B", "Wątek służy pokazaniu, jak symbole religijne zostały wchłonięte i przekształcone.", "To jest synkretyzm. To jest przetrwanie."),
+                    q("Jaką ogólniejszą lekcję Janusz wynosi z podróży?", ["Że historia niewolnictwa należy wyłącznie do przeszłości", "Że duch Czarnego Kodeksu trwa w uprzedzeniach i sposobach traktowania 'innych'", "Że Vodou da się wyjaśnić tylko magią", "Że Polska i Haiti nie mają żadnych punktów stycznych"], "B", "W zakończeniu Janusz pisze o trwaniu ducha tego prawa w dzisiejszych uprzedzeniach.", "jego duch wciąż żyje"),
                 ],
-                "B",
-                "Przypomniała sobie, jak udawała zainteresowanie spacerami i jazzem z lęku przed odrzuceniem.",
-                "Udawała, że interesuje się jego pracą",
             ),
-            QuizQuestion(
-                "Jak kończy się opowiadanie w odniesieniu do relacji Magdy i Grześka?",
-                [
-                    "Rozstają się po spotkaniu Kapci",
-                    "Zaczynają mówić wprost o potrzebach i pracować nad komunikacją",
-                    "Grzesiek wyjeżdża do Krakowa",
-                    "Magda wraca do udawania zainteresowań",
+            "Koniec epoki pudełek": StoryConfig(
+                subtitle="Fizyczne gry kontra cyfrowa własność",
+                blurb="Adam obserwuje bunt graczy po decyzji Sony o końcu nowych wydań płytowych i zaczyna widzieć w sporze o pudełka walkę o własność, dostęp i prawa konsumentów.",
+                genres=["article"],
+                difficulty=5,
+                trust="technology",
+                tags=["gaming", "playstation", "digital-ownership", "consumer-rights", "media"],
+                keywords=["Sony", "PlayStation", "płyty", "własność cyfrowa"],
+                recommended_level=3,
+                revision_notes="Tekst publicystyczny o zmianie modelu dystrybucji; wymaga ręcznego sprawdzenia szczegółów branżowych i dat komunikatów.",
+                quiz=[
+                    q("Co uruchamia główny konflikt w opowieści Adama?", ["Premiera nowej konsoli Nintendo", "Informacja, że Sony kończy produkcję płyt dla nowych gier od 2028 roku", "Podwyżka cen telewizorów", "Zamknięcie serwerów Steam"], "B", "To nagłówek o końcu nowych fizycznych wydań budzi jego reakcję.", "Sony kończy produkcję płyt"),
+                    q("Dlaczego zdanie o „odwoływalnej licencji” tak mocno działa na Adama?", ["Bo nigdy nie kupował gier cyfrowych", "Bo uświadamia mu różnicę między dostępem a faktycznym posiadaniem", "Bo chce handlować licencjami", "Bo dotyczy wyłącznie filmów"], "B", "Adam łączy to z ryzykiem utraty dostępu do kupionych treści.", "Cyfrowe zakupy to nie własność"),
+                    q("Jaką pierwszą konkretną decyzję podejmuje Adam po ogłoszeniu Sony?", ["Sprzedaje wszystkie gry na płycie", "Anuluje subskrypcję PlayStation Plus", "Kupuje dodatkową konsolę", "Przestaje używać internetu"], "B", "W sekcji o subskrypcji wchodzi w ustawienia konta i rezygnuje.", "Kliknął \"Tak\""),
+                    q("Jaką szerszą stawkę dostrzega Adam po wypowiedziach Ybarry i Mélenchona?", ["Spór o kolor pudełek", "Pytanie o prawa konsumentów i przyszłość cyfrowej własności", "Wyłącznie francuską kampanię wyborczą", "Wojnę między PC a mobilkami"], "B", "Od fanowskiej złości przechodzi do sporu o własność cyfrową i kulturę.", "spór o prawa konsumentów"),
+                    q("Co wyraża wiralowy post Adama pod koniec?", ["Złość na wszystkie gry sieciowe", "Gotowość rezygnacji z przyszłej konsoli, jeśli model własności się nie zmieni", "Prośbę o darmowe gry od Sony", "Plan otwarcia sklepu z płytami"], "B", "Pisze, że nie kupi PS6, jeśli Sony zrealizuje ten plan.", "PS6 będzie pierwszą konsolą, której nie kupię"),
                 ],
-                "B",
-                "Epilog opisuje, że rozmawiają o problemach, Grzesiek zapisuje prośby, a Magda mówi wprost, czego potrzebuje.",
-                "zaczęła mówić wprost, czego potrzebuje",
             ),
-        ],
-    ),
-    "Zakazana Energia": StoryConfig(
-        slug="zakazana-energia",
-        subtitle="Alternatywna historia ukrytej energii",
-        blurb="Architektka Helena odkrywa w archiwach dworców kolejowych ślady tajnych systemów energetycznych sprzed oficjalnej ery elektryczności — i ślad prowadzi ją w coraz głębszą spise.",
-        genres=["science_fiction", "short_story"],
-        difficulty=6,
-        reading_time=10,
-        trust="Fiction",
-        tags=["polish", "fiction", "narrative", "alternate-history"],
-        keywords=["architektura", "dworce", "energia", "spise"],
-        quiz=[
-            QuizQuestion(
-                "Co Helena znajduje w archiwach Dworca Głównego w Warszawie?",
-                [
-                    "Plany nowoczesnego centrum przesiadkowego z 2024 roku",
-                    "Dokument z 1889 roku z adnotacjami o „systemie rezonansowym”",
-                    "List od Nikola Tesla",
-                    "Zdjęcia oświetlenia gazowego bez adnotacji",
+            "Czarny rynek tokenów": StoryConfig(
+                subtitle="API, wyciek i geopolityka dostępu",
+                blurb="Po przypadkowym wycieku klucza API Adam odkrywa globalny czarny rynek dostępu do modeli AI i rozumie, że za nielegalnym obiegiem tokenów stoją także bariery geograficzne i systemowe.",
+                genres=["article"],
+                difficulty=6,
+                trust="technology",
+                tags=["ai", "api", "security", "openai", "black-market"],
+                keywords=["tokeny AI", "API", "bezpieczeństwo", "GitHub"],
+                recommended_level=4,
+                revision_notes="Tekst łączy edukację bezpieczeństwa z narracją społeczną; warto ręcznie sprawdzić brand-specific details and phrasing.",
+                quiz=[
+                    q("Jaki błąd uruchamia kryzys Adama?", ["Udostępnia hasło do banku na Slacku", "Wrzuca klucz API do publicznego repozytorium GitHub", "Kupuje konto na czarnym rynku", "Wyłącza 2FA"], "B", "Wyciek klucza API do publicznego repozytorium jest bezpośrednią przyczyną nadużyć.", "wrzucił go na publicznego GitHub'a"),
+                    q("Co Adam odkrywa, analizując nietypowe zużycie tokenów?", ["Że OpenAI źle policzyło fakturę", "Że jego klucz trafił do systemu pośredników sprzedających tani dostęp", "Że firma testowała nowe modele", "Że korzystał z konta jego współpracownik"], "B", "Na forach znajduje oferty tanich tokenów i rozumie mechanizm pośredników.", "stacje przesiadkowe"),
+                    q("Jaką rolę pełnią proxy rezydencyjne w opisywanym procederze?", ["Służą wyłącznie do legalnego hostingu", "Pomagają ukrywać ruch, wykorzystując łącza zwykłych użytkowników", "Przyspieszają trening modeli", "Blokują spam na forach"], "B", "Tekst opisuje je jako sposób maskowania ruchu przez infrastrukturę zwykłych ludzi.", "maskowania swojego ruchu"),
+                    q("Dlaczego rozmowa z Li Wei zmienia sposób myślenia Adama?", ["Bo Li Wei oddaje mu wszystkie pieniądze", "Bo pokazuje ludzką stronę nielegalnego rynku i problem barier dostępu", "Bo okazuje się policjantem", "Bo proponuje wspólny startup"], "B", "Adam zaczyna widzieć nie tylko oszustwo, ale też ludzi wypchniętych poza legalny dostęp.", "To system jest zepsuty"),
+                    q("Jaką praktyczną lekcję Adam wyciąga z całej historii?", ["Trzeba przestać używać API", "Bezpieczeństwo wymaga i narzędzi, i świadomości systemowych zagrożeń", "Najlepiej pracować tylko offline", "Nigdy nie używać GitHuba"], "B", "Przechodzi na manager sekretów, monitoring i edukację innych programistów.", "Zaczął korzystać z menedżera sekretów"),
                 ],
-                "B",
-                "Natrafia na projekt techniczny z 1889 roku z odręczną adnotacją o systemie rezonansowym.",
-                "System rezonansowy nr 4",
             ),
-            QuizQuestion(
-                "Jaki wzorzec Helena dostrzega w dokumentach z różnych miast?",
-                [
-                    "Wszystkie dworce miały identyczne zegary",
-                    "Podobne tajne systemy i oznaczenia wyprzedzające oficjalną elektryczność",
-                    "Brak jakichkolwiek powtarzalnych elementów",
-                    "Jedynie projekty oświetlenia gazowego bez adnotacji",
+            "Mamy trupa i co dalej": StoryConfig(
+                subtitle="Żałoba, wybór i usługa pogrzebowa",
+                blurb="Po śmierci matki Tomasz bezradnie wchodzi w kosztowny rytuał pogrzebu, a dopiero później odkrywa, że żałoba nie musi oznaczać zgody na wszystko, co proponuje zakład pogrzebowy.",
+                genres=["instruction", "article"],
+                difficulty=5,
+                trust="guide",
+                tags=["funeral", "grief", "guide", "consumer-rights", "death"],
+                keywords=["pogrzeb", "żałoba", "balsamacja", "Funerarium"],
+                recommended_level=3,
+                revision_notes="Temat wrażliwy; warto ręcznie sprawdzić zgodność praktycznych sugestii z aktualnymi regulacjami i lokalnymi zwyczajami.",
+                quiz=[
+                    q("Dlaczego Tomasz zgadza się na kosztowne opcje w zakładzie pogrzebowym?", ["Bo wcześniej porównał wszystkie oferty", "Bo w żałobie ufa, że proponowane elementy są konieczne do godnego pożegnania", "Bo miał specjalne ubezpieczenie", "Bo matka wszystko zapisała w testamencie"], "B", "Tekst pokazuje jego zagubienie i podatność na sugestie w chwili świeżej straty.", "chciał, żeby mama wyglądała dobrze"),
+                    q("Co najbardziej zmienia jego spojrzenie kilka tygodni później?", ["Artykuł w gazecie o kremacji", "Rozmowa z Magdą o tańszych i ekologicznych alternatywach", "Telefon z banku", "List od księdza"], "B", "Magda po raz pierwszy uświadamia mu, że istniały inne rozwiązania.", "pogrzeb ekologiczny"),
+                    q("Jaką rolę pełni spotkanie fundacji Funerarium?", ["Przekonuje go do zakupu droższej urny", "Pokazuje, że rodzina ma prawo pytać, wybierać i reklamować źle wykonaną usługę", "Zakazuje dzieciom udziału w pogrzebach", "Namawia go do przeprowadzki"], "B", "Agnes Tołoczmańska mówi o prawie wyboru i prawach konsumenta.", "Pogrzeb to usługa"),
+                    q("Jaką szerszą zmianę Tomasz wprowadza po tej edukacji?", ["Przestaje chodzić na cmentarz", "Zaczyna rozmawiać z bliskimi, także z dziećmi, o śmierci i wyborach pogrzebowych", "Zakłada firmę pogrzebową", "Rezygnuje z książek"], "B", "Po lekturze i spotkaniu zaczyna oswajać temat śmierci w rodzinie.", "Zaczął rozmawiać o tym"),
+                    q("Jaki główny wniosek zamyka opowieść Tomasza?", ["Najlepiej nigdy nie organizować pogrzebów samodzielnie", "W sytuacji niewiedzy trzeba pytać i domagać się alternatyw", "Wysoka cena zawsze oznacza godność", "Dzieci nie powinny znać tematu śmierci"], "B", "Refleksja końcowa sprowadza się do prawa do pytań i wyboru.", "masz prawo do wyboru"),
                 ],
-                "B",
-                "W Krakowie, Poznaniu i Wrocławiu widzi te same nietypowe systemy i daty sprzed ery elektrycznej.",
-                "systemy, które nie powinny istnieć",
             ),
-            QuizQuestion(
-                "Jaką reakcję ma Helena, gdy dowody się mnożą?",
-                [
-                    "Od razu publikuje wyniki w mediach",
-                    "Powtarza sobie, że to niemożliwe, mimo narastających dowodów",
-                    "Porzuca zawód architekta",
-                    "Udaje, że nic nie znalazła",
+            "Boliewicz": StoryConfig(
+                subtitle="Wałęsa między legendą a cieniem Bolka",
+                blurb="Narracja wokół wypowiedzi Antoniego Dudka prowadzi przez sprzeczne warstwy biografii Lecha Wałęsy: bohaterstwo, współpracę z SB, nieudaną prezydenturę i trudne dziedzictwo.",
+                genres=["biography", "history"],
+                difficulty=7,
+                trust="biography",
+                tags=["walesa", "solidarity", "sb", "biography", "poland"],
+                keywords=["Wałęsa", "Bolek", "Solidarność", "Antoni Dudek"],
+                recommended_level=4,
+                revision_notes="Biografia polityczna oparta na interpretacji historyka; wymaga ręcznego sprawdzenia cytatów i delikatności wobec spornych ocen.",
+                quiz=[
+                    q("Jak Antoni Dudek proponuje patrzeć na Wałęsę?", ["Wyłącznie jak na zdradzieckiego agenta", "Ani wyłącznie przez różowe, ani wyłącznie przez czarne okulary", "Tylko jak na świętego bohatera", "Wyłącznie przez pryzmat Nobla"], "B", "To podstawowa teza otwierająca i zamykająca cały tekst.", "nie patrzeć na Wałęsę albo wyłącznie przez różowe"),
+                    q("Co tekst uznaje za najważniejszy powód pozytywnego bilansu życia Wałęsy?", ["Jego prezydenturę po 1990 roku", "Rolę odegraną w latach 80. i Solidarności", "Wyłącznie Pokojową Nagrodę Nobla", "Działalność po 2000 roku"], "B", "Dudek mówi, że pozytywny bilans wynika przede wszystkim z lat 80.", "bilans życia Wałęsy jest pozytywny z powodu lat 80"),
+                    q("Jaki problem wiąże się z pseudonimem „Bolek”?", ["Dotyczy wyłącznie fałszywej legendy internetowej", "Odnosi się do współpracy Wałęsy z SB w pierwszej połowie lat 70.", "To kryptonim strajku z 1980 roku", "To nazwa partii politycznej"], "B", "Sekcja „Bolek” opisuje współpracę i jej moralny ciężar.", "tajny współpracownik o pseudonimie \"Bolek\""),
+                    q("Dlaczego prezydentura Wałęsy wypada w tekście słabo?", ["Bo nie chciał startować w wyborach", "Bo nie rozumiał roli prezydenta w systemie parlamentarnym i destabilizował politykę", "Bo od razu wyemigrował", "Bo odrzucił konstytucję w referendum"], "B", "Dudek wskazuje brak rozumienia ustroju i konfliktowość prezydentury.", "kompletnie nie rozumiał roli prezydenta"),
+                    q("Co według tekstu szczególnie zaszkodziło późniejszemu wizerunkowi Wałęsy?", ["Wyłącznie działalność Zachodu", "Nieumiejętność przyznania się do błędów i własna megalomania", "Brak wykształcenia technicznego", "Odmowa przyjęcia Nobla"], "B", "Dudek podkreśla, że Wałęsa sam sobie zaszkodził po odejściu z urzędu.", "Wałęsa sobie sam najbardziej zaszkodził"),
                 ],
-                "B",
-                "Wielokrotnie mówi „to niemożliwe”, choć dowody z kolejnych archiwów się kumulują.",
-                "To niemożliwe – powtarzała sobie",
             ),
-        ],
-    ),
-    "Jak Bor z jasnego nieba.": StoryConfig(
-        slug="jak-bor-z-jasnego-nieba",
-        subtitle="Rozmowa o jednostce BOR",
-        blurb="Wywiad w formie opowieści z Marcinem „Żukiem” Kowalczykiem — byłym operatorem BOR — o granicy między żołnierzem a operatorem, adrenaliny i rzeczach, o których nie można mówić.",
-        genres=["article", "biography"],
-        difficulty=7,
-        reading_time=14,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "interview", "bor"],
-        keywords=["BOR", "wywiad", "jednostka specjalna", "adrenalina"],
-        revision_notes="Tekst stylizowany na podcast; źródłem jest materiał wideo, nie oficjalny dokument BOR.",
-        quiz=[
-            QuizQuestion(
-                "Jak Żuk wyjaśnia różnicę między żołnierzem a operatorem BOR?",
-                [
-                    "To zupełnie różne zawody bez wspólnych elementów",
-                    "To w praktyce to samo, lecz ze względu na specjalizacje mówi się o operatorze",
-                    "Operatorzy nigdy nie używają broni",
-                    "Żołnierze nie przechodzą szkoleń specjalnych",
+            "Misja która pękła": StoryConfig(
+                subtitle="Misja, wypalenie i kontekst w erze AI",
+                blurb="Marek, właściciel dojrzałej firmy konsultingowej, konfrontuje się z pęknięciem między misją a biznesem, zjawiskiem AI Brain Fry i potrzebą działania we własnym kontekście zamiast według cudzych wzorów.",
+                genres=["article", "instruction"],
+                difficulty=6,
+                trust="guide",
+                tags=["business", "ai", "burnout", "mission", "management"],
+                keywords=["misja firmy", "AI Brain Fry", "wypalenie", "kontekst"],
+                recommended_level=4,
+                revision_notes="Tekst ma charakter doradczy i eseistyczny; niektóre liczby oraz przykłady biznesowe warto ręcznie sprawdzić.",
+                quiz=[
+                    q("Jaką sprzeczność Marek dostrzega, patrząc na własną firmę po latach?", ["Między biurami w różnych miastach", "Między pierwotną misją a rzeczywistością działania nastawioną coraz bardziej na wypłatę i wzrost", "Między papierowymi a cyfrowymi dokumentami", "Między IT a sprzedażą"], "B", "To pęknięcie między ideą a praktyką uruchamia całą opowieść.", "misja ... gdzieś po drodze się wypaczyła"),
+                    q("Dlaczego historia OpenAI tak mocno porusza Marka?", ["Bo chce kupić akcje Microsoftu", "Bo widzi w niej odbicie własnego konfliktu między misją a biznesem", "Bo planuje zwolnić zarząd", "Bo nie lubi startupów"], "B", "W wydarzeniach wokół Sama Altmana rozpoznaje własne pytania o sens i odpowiedzialność.", "Czy my też straciliśmy misję?"),
+                    q("Czym w tekście jest AI Brain Fry?", ["Nowym algorytmem rankingowym", "Zmęczeniem psychicznym wynikającym z ciągłego żonglowania narzędziami AI", "Programem do automatyzacji pracy", "Rodzajem awarii serwera"], "B", "Raport i rozmowa z Agnieszką definiują to jako przeciążenie poznawcze.", "zmęczenie psychiczne od żonglowania narzędziami AI"),
+                    q("Jakie rozwiązanie Marek proponuje wobec chaosu narzędzi AI?", ["Śledzić każdą nowinkę jeszcze szybciej", "Wybrać kilka narzędzi naprawdę ważnych i odpuścić FOMO", "Zakazać AI w firmie", "Oddać decyzję wyłącznie działowi HR"], "B", "Jego receptą jest ograniczenie liczby narzędzi i wspólna strategia.", "Nie przestać. Ale przestać gonić."),
+                    q("Jaką rolę odgrywa „kontekst” w ostatniej części tekstu?", ["Jest nazwą nowego produktu firmy", "Przypomina, że rozwiązania trzeba dopasować do skali, rynku i realiów własnej firmy", "Oznacza tylko sytuację polityczną USA", "Służy do wyjaśniania księgowości"], "B", "Marek tłumaczy, że wiedza z wielkich korporacji nie działa automatycznie wszędzie.", "To, co działa u Google, nie musi działać u ciebie"),
                 ],
-                "B",
-                "Żuk mówi, że to tak naprawdę to samo, tylko ze względu na specjalności używa się określenia operator.",
-                "Tak naprawdę to jest to samo",
             ),
-            QuizQuestion(
-                "W jakim kontekście toczy się rozmowa w tekście?",
-                [
-                    "W sali sądowej",
-                    "W studiu podcastu „Bez Sekretów”",
-                    "Na poligonie wojskowym",
-                    "W telewizyjnym studiu informacyjnym",
+            "Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?": StoryConfig(
+                subtitle="Opowieść o widmie elektromagnetycznym i materii",
+                blurb="Popularnonaukowa opowieść prowadzi od Maxwella i Plancka przez strukturę atomu aż po odpowiedź, dlaczego ściana jest prawie przezroczysta dla fal radiowych, a skutecznie zatrzymuje światło widzialne.",
+                genres=["popular_science", "article"],
+                difficulty=7,
+                trust="science",
+                tags=["physics", "electromagnetism", "feynman", "atoms", "light"],
+                keywords=["fale radiowe", "światło", "Maxwell", "Planck"],
+                recommended_level=4,
+                revision_notes="Tekst popularyzuje fizykę przez obrazy i metafory; wymaga ręcznej oceny kilku kosmologicznych uproszczeń.",
+                quiz=[
+                    q("Jaka podstawowa teza otwiera wyjaśnienie różnicy między radiem a światłem?", ["To dwa całkiem różne zjawiska", "Oba należą do widma elektromagnetycznego i różnią się częstotliwością", "Radio jest falą mechaniczną", "Światło nie ma związku z energią"], "B", "Autor opiera wyjaśnienie na wspólnej naturze fal elektromagnetycznych.", "światło i fale radiowe to to samo zjawisko"),
+                    q("Jak tekst opisuje twardość materii na poziomie atomowym?", ["Jako efekt stykania się pełnych kulek materii", "Jako skutek odpychania pól elektromagnetycznych między chmurami elektronowymi", "Jako działanie grawitacji w stole", "Jako właściwość drewna i betonu niezależną od atomów"], "B", "Wyjaśnienie twardości odwołuje się do odpychania elektronów, nie do zwartej bryły.", "elektrony nigdy tak naprawdę nie dotykają"),
+                    q("Po co w tekście pojawia się równanie E = h × f?", ["Aby policzyć wagę ściany", "Aby pokazać, że energia fotonu rośnie wraz z częstotliwością", "Aby wyjaśnić temperaturę wrzenia wody", "Aby opisać ruch planet"], "B", "Równanie Plancka tłumaczy różnicę energetyczną między fotonami radiowymi i widzialnymi.", "Im wyższa częstotliwość, tym większa energia"),
+                    q("Dlaczego fale radiowe przechodzą przez wiele ścian łatwiej niż światło widzialne?", ["Bo są szybsze od światła", "Bo ich fotony mają zbyt małą energię, by pobudzić elektrony materiału", "Bo ściany zawierają tylko metal", "Bo radio omija budynki dzięki grawitacji"], "B", "Sedno wyjaśnienia polega na niedopasowaniu energetycznym do poziomów elektronów.", "elektrony ... po prostu je ignorują"),
+                    q("Jaką szerszą lekcję o rzeczywistości wyciąga tekst z tego przykładu?", ["Że świat jest iluzją i nic nie istnieje", "Że ludzka percepcja obejmuje tylko mały fragment znacznie bogatszego świata fizycznego", "Że tylko to, co widzialne, jest realne", "Że fale radiowe są ważniejsze od światła"], "B", "Końcowe partie podkreślają ograniczoność naszych zmysłów wobec pełnego widma i struktury materii.", "Rzeczywistość jest zawsze znacznie szersza"),
                 ],
-                "B",
-                "Piotr i Marcin rozmawiają w studiu podcastu „Bez Sekretów”.",
-                "studio podcastu \"Bez Sekretów\"",
             ),
-            QuizQuestion(
-                "Co tekst sugeruje o tematach związanych z jednostką?",
-                [
-                    "Można o wszystkim mówić publicznie bez ograniczeń",
-                    "Są rzeczy w jednostce, o których narrator nie będzie mógł powiedzieć",
-                    "BOR nie istnieje w Polsce",
-                    "Wszyscy operatorzy chcą udzielać wywiadów",
+            "Metoda Feynmana": StoryConfig(
+                subtitle="Fizyka, świadomość i granica interpretacji",
+                blurb="Profesor Marek, poruszony komentarzami pod filmem o fizyce, zaczyna łączyć naukowe pojęcia z pytaniami o świadomość, śmierć, dobro i zło — aż sam dochodzi do granicy między wyjaśnieniem a metaforą.",
+                genres=["popular_science", "article"],
+                difficulty=8,
+                trust="opinion",
+                tags=["feynman", "consciousness", "philosophy", "physics", "essay"],
+                keywords=["Feynman", "świadomość", "atomy", "dobro i zło"],
+                recommended_level=5,
+                revision_notes="Esej spekulatywny: naukowe pojęcia są zestawiane z filozofią i duchowością, więc wymaga ręcznego rozdzielenia nauki od interpretacji.",
+                quiz=[
+                    q("Co uruchamia rozważania Marka w tej opowieści?", ["Awaria laboratorium", "Komentarze widzów pytających o zło, świadomość i fizykę", "List od noblisty", "Nowy grant badawczy"], "B", "To komentarze pod jego filmem wytrącają go z naukowej rutyny.", "te komentarze – o dobro i zło"),
+                    q("Jaką granicę Marek zaczyna dostrzegać jako fizyk?", ["Że matematyka nigdy nie działa", "Że wzory nie wystarczają do pełnego wyjaśnienia pytań moralnych i egzystencjalnych", "Że nie da się mówić o atomach publicznie", "Że świadomość można już dokładnie zmierzyć"], "B", "Tekst pokazuje napięcie między ścisłym opisem a pytaniami o sens.", "one nie mieściły się w równaniach"),
+                    q("Do czego prowadzi Marka powrót do notatnika z młodości?", ["Do odrzucenia całej fizyki kwantowej", "Do spekulacji o związku myśli, częstotliwości i świadomości", "Do napisania pracy o ekonomii", "Do zakupu nowego radia"], "B", "Stare notatki przywracają mu intuicję łączenia fal i umysłu.", "Czy to możliwe, że to, co nazywamy świadomością"),
+                    q("Co Marek uznaje za ważne przesłanie fizyki wobec śmierci?", ["Że można empirycznie dowieść reinkarnacji", "Że materia i energia nie znikają, lecz się przekształcają", "Że śmierć jest wyłącznie błędem biologii", "Że atomy przestają istnieć"], "B", "W filmie tłumaczy zachowanie energii i obieg atomów po śmierci.", "Nic nie znika. Wszystko się przekształca."),
+                    q("Dlaczego ten tekst wymaga ostrożnej lektury jako materiał popularnonaukowy?", ["Bo nie zawiera żadnych naukowych pojęć", "Bo przechodzi od fizyki do metaforycznych i filozoficznych interpretacji, których sam Marek nie może dowieść", "Bo zaprzecza istnieniu atomów", "Bo opisuje wyłącznie religię"], "B", "Narracja świadomie przesuwa się od nauki do spekulacji i autorefleksji.", "Nie wiem. Nikt nie wie."),
                 ],
-                "B",
-                "Już w podtytule pada zdanie o rzeczach, o których nie można mówić.",
-                "O KTÓRYCH NIGDY NIE BĘDĘ MÓGŁ POWIEDZIEĆ",
             ),
-        ],
-    ),
-    "Cień skrzydeł nad oceanem": StoryConfig(
-        slug="cien-skrzydel-nad-oceanem",
-        subtitle="Przypadek Jamesa Leiningera",
-        blurb="Opowieść o chłopcu, który od najmłodszych lat opowiada szczegóły śmierci pilota Jamesa M. Hustona Jr. nad Chichi Jimą — i o rodzicach szukających wyjaśnienia.",
-        genres=["article", "popular_science"],
-        difficulty=7,
-        reading_time=13,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "reincarnation", "documentary"],
-        keywords=["Leininger", "Huston", "Iwo Jima", "pamięć"],
-        revision_notes="Opowieść oparta na publicznie opisywanym przypadku; nie jest tekstem naukowym ani sądowym.",
-        quiz=[
-            QuizQuestion(
-                "Kim był James M. Huston Jr. według tekstu?",
-                [
-                    "Niemieckim żołnierzem z II wojny",
-                    "Pilotem amerykańskiego lotnictwa morskiego zabitym w 1945 roku",
-                    "Lekarzem z Luizjany",
-                    "Konstruktorem Enigmy",
+            "Cena widoku": StoryConfig(
+                subtitle="Hotel, przeciek i nocna decyzja",
+                blurb="Pracownik nocnej zmiany w nadmorskim hotelu obserwuje pękanie luksusowej fasady i po spotkaniu z tajemniczym projektantem decyduje, że nie będzie już dłużej współuczestniczył w kłamstwie.",
+                genres=["short_story", "article"],
+                difficulty=6,
+                trust="inspired_by_real_events",
+                tags=["hotel", "whistleblowing", "coast", "labour", "scandal"],
+                keywords=["hotel", "klimatyzacja", "morze", "list do dyrekcji"],
+                recommended_level=4,
+                revision_notes="Reportażowa fikcja inspirowana medialnym kryzysem hotelowym; wymaga ręcznej oceny ryzyka odniesień do realnych podmiotów.",
+                quiz=[
+                    q("Jaką podstawową sprzeczność przeżywa narrator pracujący w hotelu?", ["Ma za dużo wolnego czasu", "Obsługuje luksus sprzedawany gościom, wiedząc o ukrytych awariach i niskich realiach pracy", "Nie chce pracować nocą, bo lubi poranki", "Nie rozumie regulaminu hotelu"], "B", "Kontrast między cenami apartamentów a warunkami pracy i jakością usługi jest osią tekstu.", "jego praca polega na udawaniu"),
+                    q("Dlaczego rozmowa z tajemniczym mężczyzną na tarasie jest przełomowa?", ["Bo dostaje propozycję awansu", "Bo słyszy od projektanta, że problemy hotelu były znane i ukrywane od początku", "Bo poznaje nowego gościa VIP", "Bo znajduje zgubiony telefon"], "B", "Mężczyzna ujawnia, że system od początku był wadliwy i że ktoś o tym wiedział.", "ja byłem tym, który to projektował"),
+                    q("Co narrator wie już wcześniej, zanim mężczyzna to nazywa wprost?", ["Że hotel za miesiąc się sprzeda", "Że wewnętrzne maile potwierdzały ignorowanie ostrzeżeń technicznych", "Że media wszystko zmyśliły", "Że klimatyzacja jest idealna"], "B", "Widział notatki techników, które lądowały w koszu.", "widział wewnętrzne maile"),
+                    q("Jaką decyzję podejmuje narrator po powrocie z tarasu?", ["Postanawia skasować wszystkie maile", "Pisze list i kontaktuje się z kimś, kto może opublikować prawdziwą historię", "Wyjeżdża od razu nad ranem bez śladu", "Prosi o podwyżkę"], "B", "Kulminacją jest list do dyrekcji i telefon z prośbą o publikację prawdy.", "Mam coś, co trzeba opublikować"),
+                    q("Co oznacza epilog z podróżą do Japonii?", ["Że hotel odnosi wielki sukces", "Że narrator odzyskuje sprawczość i zamyka etap życia opartego na udawaniu", "Że wraca do tej samej pracy po remoncie", "Że chce projektować klimatyzację"], "B", "Wyjazd symbolizuje wyjście z toksycznego układu i początek nowego rozdziału.", "już nigdy nie wróci do hotelu"),
                 ],
-                "B",
-                "Tekst identyfikuje go jako pilota US Navy zabitego 3 marca 1945 nad Chichi Jimą.",
-                "pilotem amerykańskiego lotnictwa morskiego",
             ),
-            QuizQuestion(
-                "Co dzieje Jamesa budzi u matki w maju 2000 roku?",
-                [
-                    "Spokojny sen po kolacji",
-                    "Koszmar z krzykiem o płomieniach i zablokowanej kabinie",
-                    "Radość z nowej zabawki",
-                    "Prośbę o wodę",
+            "Kontrolowana halucynacja": StoryConfig(
+                subtitle="Uraz, świadomość i granice ja",
+                blurb="Po urazie głowy Anna trafia na neurologię, gdzie doświadcza rozpadu poczucia własnego ciała i wraz z lekarzem zaczyna badać świadomość, iluzję oraz moralne skutki rozwoju AI.",
+                genres=["popular_science", "short_story"],
+                difficulty=8,
+                trust="science",
+                tags=["consciousness", "neurology", "ai-ethics", "phenomenology", "self"],
+                keywords=["świadomość", "somatoparafrenia", "mikrofenomenologia", "AI"],
+                recommended_level=5,
+                revision_notes="Tekst popularnonaukowy z silną ramą fabularną; wymaga ręcznej oceny terminologii neurologicznej i filozoficznej.",
+                quiz=[
+                    q("Jak Anna opisuje swoje pierwsze doznania po urazie?", ["Czuje wyłącznie ból fizyczny", "Odczuwa obcość własnego ciała i wrażenie, że ręka do niej nie należy", "Natychmiast pamięta cały wypadek", "Nie ma żadnych objawów psychicznych"], "B", "Pierwsze sceny skupiają się na zaburzonym poczuciu własnej cielesności.", "To nie jest moja ręka"),
+                    q("Po co doktor Marek proponuje mikrofenomenologię?", ["Żeby mierzyć ciśnienie krwi", "Żeby badać strukturę doświadczenia Anny, a nie tylko wyniki skanów", "Żeby zastąpić rezonans magnetyczny", "Żeby nauczyć ją medytacji religijnej"], "B", "Metoda ma pomóc opisać samo doświadczenie świadomości i percepcji.", "chcemy zbadać pani doświadczenie"),
+                    q("Jaką myśl wnosi Marta w rozmowie o iluzji i 'ja'?", ["Że takie pytania nie mają sensu", "Że nawet jeśli doświadczenie jest iluzją, pozostaje przeżywane jako własne i realne", "Że trzeba natychmiast wyłączyć wszystkie maszyny", "Że świadomość to wyłącznie religia"], "B", "Marta podkreśla wagę przeżycia jako własnego, nawet jeśli ma charakter konstrukcji umysłowej.", "ta iluzja jest moja"),
+                    q("Jak doktor Marek rozróżnia inteligencję i świadomość?", ["Uznaje je za to samo", "Mówi, że inteligencja może istnieć bez subiektywnego odczuwania", "Twierdzi, że świadomość jest łatwo mierzalna", "Uważa AI za już w pełni świadome"], "B", "To kluczowy wątek etyczny w rozmowie o AI.", "Inteligencja to jedno. Świadomość ... to coś innego."),
+                    q("Do jakiego wniosku dochodzi Anna w epilogu?", ["Że znalazła ostateczną definicję świadomości", "Że pytanie o 'ja' może być ważniejsze niż gotowa odpowiedź", "Że nie chce już pisać o nauce", "Że uraz niczego jej nie zmienił"], "B", "Końcówka zostawia problem otwarty i podkreśla wagę samego pytania.", "może pytanie jest ważniejsze niż odpowiedź"),
                 ],
-                "B",
-                "Andrea budzi się na ryk przerażenia; James krzyczy o ogień i zablokowaną owiewkę.",
-                "ogień, pamiętał dym",
             ),
-            QuizQuestion(
-                "Jak tekst opisuje wiedzę Jamesa o poprzednim życiu?",
-                [
-                    "Rodzice od razu mu o tym opowiedzieli",
-                    "Po prostu wiedział, choć nikt mu tego nie powiedział",
-                    "Wynika wyłącznie z lekcji w przedszkolu",
-                    "Jest wymyślona przez dziennikarzy",
+            "Pudełko po ciastkach": StoryConfig(
+                subtitle="Dziedziczenie lęku i porządkowanie pamięci",
+                blurb="Po śmierci matki Krzysztof wchodzi do zagraconego mieszkania i odkrywa, że gromadzone przez lata rzeczy były nie tylko bałaganem, ale także materialnym kształtem biedy, straty i pamięci.",
+                genres=["short_story", "article"],
+                difficulty=6,
+                trust="fiction",
+                tags=["family", "grief", "decluttering", "memory", "trauma"],
+                keywords=["pudełko po ciastkach", "zbieractwo", "PRL", "pamięć"],
+                recommended_level=4,
+                revision_notes="Fikcja psychologiczna osadzona w realnych doświadczeniach niedoboru i żałoby.",
+                quiz=[
+                    q("Jak Krzysztof interpretuje początkowo stan mieszkania matki?", ["Jako świetnie zorganizowany magazyn", "Jako przytłaczający chaos budzący wściekłość i załamanie", "Jako projekt artystyczny", "Jako dowód na ukrytą zamożność"], "B", "Pierwsze wejście do mieszkania wywołuje szok, bezradność i gniew.", "wiedział, że będzie źle"),
+                    q("Jaki głębszy sens zaczyna dostrzegać w gromadzeniu rzeczy przez matkę?", ["Wyłącznie chęć inwestowania", "Strach przed powrotem biedy i potrzeba kontroli po doświadczeniu niedoboru", "Zabawę w kolekcjonerstwo", "Próbę ukrycia majątku"], "B", "Nocne wspomnienie PRL-u pozwala mu odczytać rzeczy jako zabezpieczenie przed dawnym lękiem.", "To był strach"),
+                    q("Po co w opowieści pojawia się Ola od declutteringu?", ["Żeby tylko fizycznie wyrzucić odpady", "Żeby pomóc połączyć porządkowanie rzeczy z rozumieniem emocji i pamięci", "Żeby sprzedać mieszkanie za wyższą cenę", "Żeby wycenić antyki"], "B", "Ola nie działa jak firma sprzątająca, lecz jak przewodniczka po żałobie i znaczeniach przedmiotów.", "psychologicznie"),
+                    q("Dlaczego pudełko po ciastkach okazuje się tak ważne?", ["Bo zawiera pieniądze na remont", "Bo przechowuje listy i ślady codziennej miłości matki oraz ojca", "Bo jest najdroższym meblem w domu", "Bo należy do sąsiadów"], "B", "To w pudełku znajdują się rzeczy od razu odczytane jako naprawdę ważne.", "To są ważne rzeczy"),
+                    q("Jaki końcowy ruch wykonuje Krzysztof wobec przeszłości matki?", ["Wyrzeka się jej całkowicie", "Zaczyna rozumieć jej lęk i świadomie puszcza ciężar, którego ona nie umiała puścić", "Przestaje rozmawiać z córką", "Postanawia zachować wszystko bez zmian"], "B", "Zakończenie pokazuje przejście od gniewu do zrozumienia i nowego początku.", "mógł wreszcie doprowadzić to do końca"),
                 ],
-                "B",
-                "Tekst podkreśla: „Ale nikt mu tego nie powiedział. Po prostu wiedział.”",
-                "Po prostu wiedział",
             ),
-        ],
-    ),
-    "Dziewczyna z Jełania": StoryConfig(
-        slug="dziewczyna-z-jelania",
-        subtitle="Powrót do języka i pamięci",
-        blurb="Anastazja przyjeżdża z Niemiec do Warszawy, by uczyć się polskiego — i odkrywa więź z miejscem, którego świadomie nie pamięta: Jełaniem.",
-        genres=["short_story", "travel"],
-        difficulty=5,
-        reading_time=11,
-        trust="Fiction",
-        tags=["polish", "fiction", "narrative", "language-learning"],
-        keywords=["Warszawa", "Jełanie", "język polski", "pamięć"],
-        quiz=[
-            QuizQuestion(
-                "Dlaczego Anastazja przyjeżdża do Polski?",
-                [
-                    "By odwiedzić rodzinę w Jełaniu",
-                    "By nauczyć się polskiego bez praktycznego powodu kariery",
-                    "By studiować medycynę",
-                    "By pracować w taxi",
-                ],
-                "B",
-                "Tekst mówi wprost, że nie ma tu rodziny ani planów kariery — chce mieć język „w sobie”.",
-                "żeby nauczyć się polskiego",
-            ),
-            QuizQuestion(
-                "Skąd pochodzi Anastazja i gdzie mieszkała przed przyjazdem?",
-                [
-                    "Z Polski, mieszkała w Krakowie",
-                    "Z Rosji, mieszkała w Niemczech",
-                    "Z USA, mieszkała we Francji",
-                    "Z Ukrainy, mieszkała w Czechach",
-                ],
-                "B",
-                "Mówi kierowcy, że jest z Rosji, ale mieszka w Niemczech od dziewięciu lat.",
-                "Jestem z Rosji, ale mieszkam w Niemczech",
-            ),
-            QuizQuestion(
-                "Jaką książkę czyta Anastazja w pokoju na Pradze?",
-                [
-                    "„Lalkę” Bolesława Prusa",
-                    "„Quo vadis”",
-                    "„Pan Tadeusza” w tłumaczeniu",
-                    "Podręcznik gramatyki niemieckiej",
-                ],
-                "A",
-                "Wynajęty pokój i lektura „Lalki” w oryginale są opisane wprost.",
-                "\"Lalkę\" Bolesława Prusa",
-            ),
-        ],
-    ),
-    "Cisza przed burzą": StoryConfig(
-        slug="cisza-przed-burza",
-        subtitle="Polscy łamacze Enigmy",
-        blurb="Opowieść o Marianie Rejewskim i zespole z Biura Szyfrów, którzy zrozumieli logikę Enigmy i zbudowali bombę kryptologiczną — na tle października 1932 w Warszawie.",
-        genres=["history", "article"],
-        difficulty=8,
-        reading_time=12,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "enigma", "cryptography"],
-        keywords=["Rejewski", "Enigma", "kryptologia", "II wojna światowa"],
-        revision_notes="Narracja historyczna oparta na znanych faktach; dialogi i sceny są literacką rekonstrukcją.",
-        quiz=[
-            QuizQuestion(
-                "Jakie podejście Rejewski proponuje wobec Enigmy?",
-                [
-                    "Analizować wyłącznie przechwycone teksty",
-                    "Zrozumieć działanie urządzenia — to matematyka, nie język",
-                    "Czekać na komputer cyfrowy",
-                    "Zignorować dokumentację z Francji",
-                ],
-                "B",
-                "Rejewski mówi, że trzeba zrozumieć maszynę, bo to matematyka.",
-                "Musimy zrozumieć, jak działa samo urządzenie",
-            ),
-            QuizQuestion(
-                "Jaką słabość Niemców odkrywa Rejewski w schematach?",
-                [
-                    "Losowe połączenia bez powtarzalności",
-                    "Porządek alfabetyczny w połączeniach",
-                    "Brak wirników",
-                    "Używanie tylko jednego klucza rocznie",
-                ],
-                "B",
-                "Tekst wskazuje, że konstruktorzy wybrali najprostsze rozwiązanie — porządek alfabetyczny.",
-                "Porządek alfabetyczny",
-            ),
-            QuizQuestion(
-                "Czym jest „bomba kryptologiczna” w tekście?",
-                [
-                    "Bronią palną używaną przez wywiad",
-                    "Elektromechanicznym urządzeniem symulującym wiele Enigm",
-                    "Meteorologicznym instrumentem",
-                    "Książką instruktażową dla żołnierzy",
-                ],
-                "B",
-                "Bomba symuluje działanie kilku Enigm i automatycznie sprawdza kombinacje.",
-                "elektromechaniczne urządzenie",
-            ),
-        ],
-    ),
-    "Trzynaście zasad": StoryConfig(
-        slug="trzynascie-zasad",
-        subtitle="Przewodnik kulturowy dla obcokrajowców",
-        blurb="Amerykanka w Polsce uczy się od przyjaciela trzynastu zasad codziennej obecności — od uśmiechu po kolejki, kawę i bezpośredniość.",
-        genres=["instruction", "article"],
-        difficulty=4,
-        reading_time=18,
-        trust="Manual / Reference",
-        tags=["polish", "reference", "culture", "travel"],
-        keywords=["Polska", "kultura", "obyczaje", "poradnik"],
-        quiz=[
-            QuizQuestion(
-                "Jak tekst wyjaśnia polski uśmiech wobec amerykańskiego?",
-                [
-                    "Polacy uśmiehają się stale jak kelnerzy w USA",
-                    "Uśmiech nie jest domyślny — pojawia się, gdy jest ku temu powód",
-                    "Uśmiech jest zakazany w miejscach publicznych",
-                    "Uśmiech zawsze oznacza flirt",
-                ],
-                "B",
-                "Przyjaciel tłumaczy, że w Polsce uśmiech to nie domyślne ustawienie twarzy.",
-                "Uśmiech to nie jest domyślne ustawienie twarzy",
-            ),
-            QuizQuestion(
-                "Dlaczego bohaterka czuje się zagubiona na początku?",
-                [
-                    "Bo nie zna żadnych polskich słów",
-                    "Bo jej amerykański uśmiech nie otwiera kontaktu tak jak w Kalifornii",
-                    "Bo nie ma pieniędzy na kawę",
-                    "Bo przyjechała do Krakowa zamiast do Warszawy",
-                ],
-                "B",
-                    "Ludzie nie reagują na jej ciągły uśmiech; przyjaciel radzi przestać „wyglądać jak psychol”.",
-                "Nikt się do mnie nie uśmiecha",
-            ),
-            QuizQuestion(
-                "Jaki gatunek tekstu to jest?",
-                [
-                    "Suchy raport policyjny",
-                    "Poradnik kulturowy w formie opowieści",
-                    "Wiersz epicki",
-                    "Transkrypt sądowy",
-                ],
-                "B",
-                "Tekst łączy narrację z kolejnymi „zasadami” obyczajów w Polsce.",
-                "TRZYNAŚCIE ZASAD",
-            ),
-        ],
-    ),
-    "Dziewczyna, która zniknęła o świcie": StoryConfig(
-        slug="dziewczyna-ktora-zniknela-o-swicie",
-        subtitle="Śledztwo w pierwszych godzinach",
-        blurb="Policjantka Joanna analizuje zaginięcie osiemnastoletniej Agnieszki z Gdyni — od nagrania monitoringu po błędy procedur w kluczowych pierwszych godzinach.",
-        genres=["history", "article"],
-        difficulty=8,
-        reading_time=13,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "true-crime", "investigation"],
-        keywords=["zaginięcie", "śledztwo", "monitoring", "Gdynia"],
-        revision_notes="Inspirowane realnymi mechanizmami śledztw; postacie i dialogi są fikcją literacką.",
-        quiz=[
-            QuizQuestion(
-                "Co wskazuje Joanna na nagraniu monitoringu o stanie Agnieszki?",
-                [
-                    "Idzie wesoło kontynuować imprezę",
-                    "Idzie do domu ze spadkiem czujności — fałszywy syndrom bezpiecznego progu",
-                    "Jedzie taksówką",
-                    "Rozmawia przez telefon przez cały czas",
-                ],
-                "B",
-                "Joanna mówi o fałszywym syndromie bezpiecznego progu i spadku czujności.",
-                "Fałszywy syndrom bezpiecznego progu",
-            ),
-            QuizQuestion(
-                "Dlaczego Joanna uważa, że pierwsze godziny zostały zmarnowane?",
-                [
-                    "Bo nie było żadnego zgłoszenia",
-                    "Bo sprawę potraktowano jak standardową ucieczkę nastolatki",
-                    "Bo Agnieszka sama zadzwoniła na policję",
-                    "Bo monitoring działał bez przerw",
-                ],
-                "B",
-                "Tekst mówi o standardowej procedurze w sezonie wakacyjnym i braku zabezpieczenia nagrań.",
-                "Pierwsze zgłoszenie traktowano jak ucieczkę nastolatki",
-            ),
-            QuizQuestion(
-                "O której godzinie kamera rejestruje ostatni obraz Agnieszki?",
-                [
-                    "2:00 w nocy",
-                    "4:12 nad ranem",
-                    "Południe",
-                    "22:30",
-                ],
-                "B",
-                "Sekcja „Punkt zero” podaje godzinę 4:12.",
-                "Godzina 4:12 nad ranem",
-            ),
-        ],
-    ),
-    "Prolog wiatru": StoryConfig(
-        slug="prolog-wiatru",
-        subtitle="Za kulisami teledysku",
-        blurb="Opowieść o nagraniu teledysku do „Kaze no Prologue” — od porannej plaży w Chiba po znaczenie wiatru i nowego początku w karierze Yumiko.",
-        genres=["short_story", "biography"],
-        difficulty=5,
-        reading_time=10,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "music", "japan"],
-        keywords=["Yumiko", "Japonia", "teledysk", "J-pop"],
-        revision_notes="Inspirowane realnym utworem i kontekstem kultury J-pop; sceny są literacką rekonstrukcją.",
-        quiz=[
-            QuizQuestion(
-                "Jak nazywa się utwór, wokół którego toczy się opowieść?",
-                [
-                    "„Kaze no Prologue”",
-                    "„Cisza przed burzą”",
-                    "„Zakazana Energia”",
-                    "„Prolog wiatru” bez tytułu piosenki",
-                ],
-                "A",
-                "Yumiko słyszy i nagrywa teledysk do „Kaze no Prologue”.",
-                "Kaze no Prologue",
-            ),
-            QuizQuestion(
-                "Gdzie odbywają się zdjęcia teledysku?",
-                [
-                    "Na plaży w Chiba o świcie",
-                    "W studiu w Los Angeles",
-                    "Na dworcu w Warszawie",
-                    "W górach Hokkaido zimą",
-                ],
-                "A",
-                "Menedżer pisze o plaży w Chiba o 5:00 rano.",
-                "plaża w Chiba",
-            ),
-            QuizQuestion(
-                "Jakie przesłanie niesie piosenka według Yumiko?",
-                [
-                    "Że wiatr zawsze wieje i można zacząć od nowa",
-                    "Że należy unikać wiatru",
-                    "Że kariera muzyczna się kończy",
-                    "Że plaża jest niebezpieczna",
-                ],
-                "A",
-                "Tekst mówi, że piosenka dodaje sił i mówi o nowym początku przy otwartym oknie.",
-                "zawsze można zacząć od nowa",
-            ),
-        ],
-    ),
-    "Siedem gór i jeden ocean": StoryConfig(
-        slug="siedem-gor-i-jeden-ocean",
-        subtitle="Polska oczami Korei Południowej",
-        blurb="Architekt Marek jedzie do Korei Południowej przy kontrakcie muzealnym — i odkrywa kraj, który kojarzy Polskę z Chopinem, Wiedźminem i… tysiącem polskich czołgów.",
-        genres=["travel", "article"],
-        difficulty=6,
-        reading_time=14,
-        trust="Inspired by reality",
-        tags=["polish", "narrative", "travel", "korea"],
-        keywords=["Korea Południowa", "podróż", "kultura", "Polska"],
-        quiz=[
-            QuizQuestion(
-                "Co zaskakuje Marka w nagłówkach z 2022 roku?",
-                [
-                    "Że Polska kupiła tysiąc czołgów od Korei",
-                    "Że Korea Południowa kupiła od Polski tysiąc czołgów",
-                    "Że Korea zniknęła z mapy",
-                    "Że Marek dostał mandat parkingowy",
-                ],
-                "B",
-                "Czyta o Korei Południowej kupującej od Polski tysiąc czołgów.",
-                "Korea Południowa kupiła od Polski tysiąc czołgów",
-            ),
-            QuizQuestion(
-                "Jaki jest powód podróży Marka do Korei?",
-                [
-                    "Wyjazd turystyczny z rodziną",
-                    "Kontrakt na modernizację koreańskiego muzeum",
-                    "Nauka języka koreańskiego w szkole",
-                    "Start kariery K-pop",
-                ],
-                "B",
-                "Biuro wygrało przetarg na modernizację muzeum — Marek ma jechać na miesiąc.",
-                "modernizację jednego z koreańskich muzeów",
-            ),
-            QuizQuestion(
-                "Co Marek znajduje w wynikach wyszukiwania o Polsce?",
-                [
-                    "Że Koreańczycy nie znają Chopina",
-                    "Skojarzenia m.in. z Chopinem, Wiedźminem i Robertem Lewandowskim",
-                    "Że Polska nie istnieje w azjatyckich mediach",
-                    "Wyłącznie informacje o nauce polskiego",
-                ],
-                "B",
-                "Lista wyników wymienia Chopina, Auschwitz, Lewandowskiego i Wiedźmina.",
-                "Lewandowski jest najbardziej znanym Polakiem",
-            ),
-        ],
-    ),
-    "Zasady": StoryConfig(
-        slug="zasady",
-        subtitle="List o decyzjach bez wymówek",
-        blurb="Łukasz czyta osobisty mailing Pawła Kadysza o tym, dlaczego ciągłe „zastanawianie się” prowadzi do wymówek — i odkrywa pięć zasad działania zamiast wiecznego wyboru.",
-        genres=["instruction", "article"],
-        difficulty=4,
-        reading_time=8,
-        trust="Manual / Reference",
-        tags=["polish", "reference", "productivity", "habits"],
-        keywords=["produktywność", "nawyki", "decyzje", "mailing"],
-        source_label="Collection One manuscript (Paweł Kadysz mailing)",
-        availability="adaptation",
-        revision_notes="Tekst inspirowany mailingiem Pawła Kadysza; narracja o Łukaszu jest oprawą literacką.",
-        quiz=[
-            QuizQuestion(
-                "Jaki problem Kadysz nazywa w otwarciu listu?",
-                [
-                    "Brak czasu na czytanie książek",
-                    "Ciągłe postanawianie sobie rzeczy, z których nic nie wynika",
-                    "Zbyt wiele spotkań w biurze",
-                    "Brak dostępu do internetu",
-                ],
-                "B",
-                "Cytowany fragment pyta, jak często postanawiamy sobie coś, z czego nic nie wychodzi.",
-                "z czego potem nic nie wychodzi",
-            ),
-            QuizQuestion(
-                "Według listu, co dzieje się, gdy dajemy sobie wybór?",
-                [
-                    "Umysł natychmiast znajduje wymówki, by czegoś nie zrobić",
-                    "Zawsze wybieramy najtrudniejsze zadanie",
-                    "Motywacja rośnie bez limitu",
-                    "Nie ma to wpływu na działanie",
-                ],
-                "A",
-                "Kadysz pisze, że przy zastanawianiu się umysł szybko znajduje tysiąc wymówek.",
-                "tysiąc wymówek by czegoś nie zrobić",
-            ),
-            QuizQuestion(
-                "Co Łukasz robi zamiast pracować, gdy zaczyna się wątpić?",
-                [
-                    "Szuka w internecie nowych aplikacji i metod",
-                    "Idzie spać przez cały dzień",
-                    "Dzwoni do szefa po urlop",
-                    "Sprzedaje komputer",
-                ],
-                "A",
-                "Zamiast pracować czyta o pracy — nowe aplikacje i lifehacki.",
-                "szukał w internecie",
-            ),
-        ],
-    ),
+        },
+    )
 }
 
 
@@ -598,132 +289,206 @@ def normalize_title(title: str) -> str:
     return title.strip().rstrip(".").strip()
 
 
+def slugify(text: str) -> str:
+    replacements = str.maketrans({"ł": "l", "Ł": "L", "ś": "s", "Ś": "S", "ż": "z", "Ż": "Z", "ź": "z", "Ź": "Z", "ć": "c", "Ć": "C", "ń": "n", "Ń": "N", "ą": "a", "Ą": "A", "ę": "e", "Ę": "E", "ó": "o", "Ó": "O"})
+    text = text.translate(replacements)
+    normalized = unicodedata.normalize("NFKD", text)
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii").lower()
+    return re.sub(r"[^a-z0-9]+", "-", ascii_text).strip("-")
+
+
 def parse_date_polish(raw: str) -> str:
-    m = re.match(r"(\d{2})\.(\d{2})\.(\d{4})", raw.strip())
-    if not m:
-        return "2026-07-09"
-    d, mo, y = m.groups()
-    return f"{y}-{mo}-{d}"
+    match = re.match(r"(\d{2})\.(\d{2})\.(\d{4})", raw.strip())
+    if not match:
+        return TODAY
+    day, month, year = match.groups()
+    return f"{year}-{month}-{day}"
 
 
-def sanitize_text_for_parser(text: str) -> str:
-    """reading-pack parser truncates Text at the first '---' rule."""
-    lines: list[str] = []
-    for line in text.split("\n"):
-        if line.strip() == "---":
-            if lines and lines[-1] != "":
-                lines.append("")
-            continue
-        lines.append(line)
-    return "\n".join(lines).strip()
-
-
-def unwrap_story_text(body: str) -> str:
-    text = body.strip()
-
-    # Remove leading horizontal rules and stray fences before content.
-    text = re.sub(r"^```\s*\n", "", text)
-    text = re.sub(r"\n```\s*$", "", text)
-
-    # If entire remainder is one fenced block, unwrap it.
-    fenced = re.fullmatch(r"```\s*\n(.*)\n```\s*", text, re.DOTALL)
-    if fenced:
-        text = fenced.group(1)
-
-    # Remove orphan fence lines.
-    lines = text.split("\n")
-    cleaned: list[str] = []
-    for line in lines:
-        if line.strip() == "```":
-            continue
-        cleaned.append(line)
-    return "\n".join(cleaned).strip()
+def star_rating(difficulty: int) -> str:
+    filled = max(1, min(5, math.ceil(difficulty / 2)))
+    return ("★" * filled) + ("☆" * (5 - filled))
 
 
 def pack_id(slug: str) -> str:
     return f"polish_{slug.replace('-', '_')}"
 
 
+def split_top_level_stories(markdown: str) -> list[tuple[str, str]]:
+    lines = markdown.replace("\r\n", "\n").split("\n")
+    stories: list[tuple[str, str]] = []
+    current_title: str | None = None
+    current_lines: list[str] = []
+    in_fence = False
+
+    for line in lines:
+        if line.startswith("```"):
+            in_fence = not in_fence
+        if not in_fence and line.startswith("## "):
+            if current_title is not None:
+                stories.append((current_title, "\n".join(current_lines).strip()))
+            current_title = line[3:].strip()
+            current_lines = []
+            continue
+        if current_title is not None:
+            current_lines.append(line)
+
+    if current_title is not None:
+        stories.append((current_title, "\n".join(current_lines).strip()))
+    return stories
+
+
+def parse_source_block(body: str) -> tuple[list[dict[str, str]], str]:
+    pattern = re.compile(r"```(?:source|Source)\s*\n(.*?)\n```", re.DOTALL)
+    match = pattern.search(body)
+    if not match:
+        return [], body.strip()
+
+    entries: list[dict[str, str]] = []
+    for line in [line.strip() for line in match.group(1).strip().splitlines() if line.strip()]:
+        parsed = {"raw": line, "date_iso": TODAY, "manuscript_date": "", "url": "", "note": ""}
+        arrow = re.match(r"(\d{2}\.\d{2}\.\d{4})\s*->\s*(.+)", line)
+        if arrow:
+            parsed["manuscript_date"] = arrow.group(1)
+            parsed["date_iso"] = parse_date_polish(arrow.group(1))
+            target = arrow.group(2).strip()
+            url_match = re.search(r"https?://\S+", target)
+            if url_match:
+                parsed["url"] = url_match.group(0)
+            else:
+                parsed["note"] = target
+        entries.append(parsed)
+
+    remaining = (body[: match.start()] + body[match.end() :]).strip()
+    return entries, remaining
+
+
+def unwrap_story_text(body: str) -> str:
+    text = body.strip()
+    fenced = re.fullmatch(r"```\s*\n(.*)\n```\s*", text, re.DOTALL)
+    if fenced:
+        text = fenced.group(1)
+    lines = []
+    for line in text.splitlines():
+        if line.strip() == "```":
+            continue
+        lines.append(line)
+    return "\n".join(lines).strip()
+
+
+def sanitize_text_for_parser(text: str) -> str:
+    clean: list[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped == "---":
+            if clean and clean[-1] != "":
+                clean.append("")
+            continue
+        heading_match = re.match(r"^(#{1,6})\s+(.+)$", stripped)
+        if heading_match:
+            clean.append(f"**{heading_match.group(2).strip()}**")
+            continue
+        clean.append(line.rstrip())
+    return "\n".join(clean).strip()
+
+
+def estimated_minutes_from_text(text: str) -> int:
+    return max(1, math.ceil(len(text.split()) / 170))
+
+
 def format_quiz(questions: list[QuizQuestion]) -> str:
     letters = "ABCD"
     parts = ["## Quiz", "", "**Quiz title:** Sprawdź zrozumienie", ""]
-    for i, q in enumerate(questions, 1):
-        parts.append(f"### Question {i}")
+    for index, question in enumerate(questions, 1):
+        parts.append(f"### Question {index}")
         parts.append("")
-        parts.append(f"**Question:** {q.question}")
+        parts.append(f"**Question:** {question.question}")
         parts.append("")
         parts.append("**Answers:**")
-        for j, ans in enumerate(q.answers):
-            parts.append(f"- {letters[j]}) {ans}")
+        for answer_index, answer in enumerate(question.answers):
+            parts.append(f"- {letters[answer_index]}) {answer}")
         parts.append("")
-        parts.append(f"**Correct:** {q.correct}")
-        parts.append(f"**Explanation:** {q.explanation}")
-        if q.text_reference:
-            parts.append(f"**Text reference:** {q.text_reference}")
+        parts.append(f"**Correct:** {question.correct}")
+        parts.append(f"**Explanation:** {question.explanation}")
+        if question.text_reference:
+            parts.append(f"**Text reference:** {question.text_reference}")
         parts.append("")
-    return "\n".join(parts).rstrip() + "\n"
+    return "\n".join(parts).rstrip()
 
 
-def build_reading_pack(title: str, cfg: StoryConfig, text: str, source_meta: dict) -> str:
-    genres = ", ".join(cfg.genres)
-    tags = ", ".join(cfg.tags)
-    keywords = ", ".join(cfg.keywords)
-    pack = pack_id(cfg.slug)
+def format_sources(source_label: str, sources: list[dict[str, str]]) -> str:
+    parts = ["## Sources", ""]
+    if not sources:
+        parts.extend([
+            f"### Source 1: {source_label}",
+            "",
+            "**Author:** AlephBits Editorial (adaptation)  ",
+            "**URL:** *(none)*  ",
+            "**License:** CC0 1.0 Universal (text); source material per original availability  ",
+            f"**Retrieval date:** {TODAY}  ",
+            "**Availability:** adaptation  ",
+            "**Deprecated:** no  ",
+            "**Editor notes:** Migrated from manuscript source block.",
+        ])
+        return "\n".join(parts)
 
-    source_url_line = (
-        f"**URL:** {source_meta['url']}"
-        if source_meta.get("url")
-        else "**URL:** *(none — mailing reference)*"
-    )
-    source_desc = source_meta.get("note", "Materiał wideo — źródło redakcyjne Collection One.")
-    if source_meta.get("url"):
-        source_desc = "Materiał wideo — źródło redakcyjne Collection One."
+    for index, source in enumerate(sources, 1):
+        parts.append(f"### Source {index}: {source_label}")
+        parts.append("")
+        parts.append("**Author:** AlephBits Editorial (adaptation)  ")
+        if source["url"]:
+            parts.append(f"**URL:** {source['url']}  ")
+            note = "Materiał źródłowy wskazany w bloku source manuskryptu."
+        else:
+            parts.append("**URL:** *(none — manuscript reference)*  ")
+            note = source["note"] or "Źródło opisowe wskazane w bloku source manuskryptu."
+        parts.append("**License:** CC0 1.0 Universal (text); source material per original availability  ")
+        parts.append(f"**Retrieval date:** {source['date_iso']}  ")
+        parts.append("**Availability:** adaptation  ")
+        parts.append("**Deprecated:** no  ")
+        parts.append(f"**Editor notes:** {note}")
+        parts.append("")
+    return "\n".join(parts).rstrip()
 
-    revision = cfg.revision_notes or (
-        f"Collection One migration (Phase 39). Trust: {cfg.trust}."
-    )
 
-    youtube_transparency = ""
-    if source_meta.get("url"):
-        youtube_transparency = (
-            f"\n**Source video:** {source_meta['url']}  \n"
-            f"**Source date (manuscript):** {source_meta.get('manuscript_date', '')}"
-        )
-
-    return f"""# {title.strip()}
+def build_reading_pack(collection: CollectionConfig, title: str, cfg: StoryConfig, slug: str, text: str, sources: list[dict[str, str]]) -> str:
+    source_lines = "<br>".join(source["raw"] for source in sources) if sources else "(none)"
+    revision_notes = cfg.revision_notes or f"{collection.phase_label} migration."
+    reading_time = estimated_minutes_from_text(text)
+    return f"""# {title}
 
 ## Metadata
 
-**Pack ID:** `{pack}`  
+**Pack ID:** `{pack_id(slug)}`  
 **Version:** 1.0.0  
 
-**Title:** {title.strip()}  
+**Title:** {title}  
 **Subtitle:** {cfg.subtitle}  
 **Blurb:** {cfg.blurb}
 
-**Genres:** {genres}  
-**Series:** Collection One  
+**Genres:** {", ".join(cfg.genres)}  
+**Series:** {collection.title}  
 **Audience:** {cfg.audience}  
 
 **Difficulty:** {cfg.difficulty} (of 10)  
-**Reader difficulty:** {"★" * max(1, cfg.difficulty // 2)}{"☆" * (5 - max(1, cfg.difficulty // 2))}  
-**Estimated reading time:** {cfg.reading_time} minutes  
+**Reader difficulty:** {star_rating(cfg.difficulty)}  
+**Estimated reading time:** {reading_time} minutes  
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
 
 **Original language:** pl  
-**Translation summary:** {title.strip()} — Collection One official reading pack (Polish).  
+**Translation summary:** {title} — {collection.title} official reading pack (Polish).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** {cfg.recommended_level}  
 
-**Tags:** {tags}  
+**Tags:** {", ".join(cfg.tags)}  
 
-**Keywords:** {keywords}  
+**Keywords:** {", ".join(cfg.keywords)}  
 
-**Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+**Editorial notes:** Migrated from {collection.title} manuscript. Full text preserved — not abridged.
 
 ---
 
@@ -732,33 +497,23 @@ def build_reading_pack(title: str, cfg: StoryConfig, text: str, source_meta: dic
 **Created by:** AlephBits Editorial  
 **Editor:** AlephBits Editorial  
 **LLM assisted:** yes  
-**LLM model:** Claude (editorial migration)  
-**Human reviewed:** yes — 2026-07-09  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — {TODAY}  
 **Trust classification:** {cfg.trust}  
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
-**Revision notes:** {revision}
-{youtube_transparency}
+**Source block:** {source_lines}  
+**Revision notes:** {revision_notes}
 
 ### Revision history
 
 | Version | Date | Note |
 |---------|------|------|
-| 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.0 | {TODAY} | {collection.phase_label} migration |
 
 ---
 
-## Sources
-
-### Source 1: {cfg.source_label}
-
-**Author:** AlephBits Editorial (adaptation)  
-{source_url_line}  
-**License:** CC0 1.0 Universal (text); source material per original availability  
-**Retrieval date:** {source_meta.get('date_iso', '2026-07-09')}  
-**Availability:** {cfg.availability}  
-**Deprecated:** no  
-**Editor notes:** {source_desc}
+{format_sources(cfg.source_label or collection.source_label, sources)}
 
 ---
 
@@ -769,6 +524,7 @@ def build_reading_pack(title: str, cfg: StoryConfig, text: str, source_meta: dic
 ---
 
 {format_quiz(cfg.quiz)}
+
 ---
 
 ## Future Extensions
@@ -796,86 +552,54 @@ def build_reading_pack(title: str, cfg: StoryConfig, text: str, source_meta: dic
 """
 
 
-def split_stories(markdown: str) -> list[tuple[str, str]]:
-    lines = markdown.replace("\r\n", "\n").split("\n")
-    stories: list[tuple[str, str]] = []
-    current_title: str | None = None
-    current_lines: list[str] = []
-
-    for line in lines:
-        if line.startswith("## "):
-            if current_title is not None:
-                stories.append((current_title, "\n".join(current_lines)))
-            current_title = line[3:].strip()
-            current_lines = []
-        elif current_title is not None:
-            current_lines.append(line)
-
-    if current_title is not None:
-        stories.append((current_title, "\n".join(current_lines)))
-    return stories
-
-
-def parse_source(body: str) -> tuple[dict, str]:
-    pattern = re.compile(
-        r"```\s*(?:Source|source)\s*\n(.*?)\n```",
-        re.DOTALL | re.IGNORECASE,
-    )
-    match = pattern.search(body)
-    meta: dict = {"date_iso": "2026-07-09", "url": None, "manuscript_date": ""}
-    remaining = body
-    if match:
-        inner = match.group(1).strip()
-        remaining = (body[: match.start()] + body[match.end() :]).strip()
-        arrow = re.search(r"(\d{2}\.\d{2}\.\d{4})\s*->\s*(.+)", inner, re.DOTALL)
-        if arrow:
-            meta["manuscript_date"] = arrow.group(1).strip()
-            meta["date_iso"] = parse_date_polish(meta["manuscript_date"])
-            target = arrow.group(2).strip()
-            url_match = re.search(r"https?://\S+", target)
-            if url_match:
-                meta["url"] = url_match.group(0)
-            else:
-                meta["note"] = target
-    return meta, remaining
+def select_collection() -> CollectionConfig:
+    if len(sys.argv) > 1:
+        key = sys.argv[1].strip().lower()
+        if key in COLLECTIONS:
+            return COLLECTIONS[key]
+        raise SystemExit(f"Unknown collection key: {key}")
+    return COLLECTIONS["collection3"]
 
 
 def main() -> None:
-    manuscript = MANUSCRIPT.read_text(encoding="utf-8")
-    stories = split_stories(manuscript)
+    collection = select_collection()
+    manuscript = collection.manuscript.read_text(encoding="utf-8")
+    raw_stories = split_top_level_stories(manuscript)
 
     if not OUTPUT_ROOT.exists():
         OUTPUT_ROOT.mkdir(parents=True)
 
     migrated = 0
-    for raw_title, body in stories:
+    for raw_title, body in raw_stories:
         title = normalize_title(raw_title)
-        # Match config — allow trailing period mismatch
-        cfg = None
-        for key, value in STORIES.items():
-            if normalize_title(key) == title or key.strip().rstrip(".") == title:
-                cfg = value
-                title = key.rstrip(".").strip() if key.endswith(".") else key
-                if title.endswith("."):
-                    title = title.rstrip(".").strip()
+        config = None
+        for known_title, candidate in collection.stories.items():
+            if normalize_title(known_title) == title:
+                title = known_title
+                config = candidate
                 break
-        if cfg is None:
+        if config is None:
             raise SystemExit(f"No config for story: {raw_title!r}")
+        if len(config.quiz) < 5:
+            raise SystemExit(f"{title}: expected at least 5 quiz questions")
 
-        source_meta, after_source = parse_source(body)
-        text = sanitize_text_for_parser(unwrap_story_text(after_source))
+        sources, remainder = parse_source_block(body)
+        text = sanitize_text_for_parser(unwrap_story_text(remainder))
         if not text:
             raise SystemExit(f"Empty text for {title}")
 
-        out_dir = OUTPUT_ROOT / cfg.slug
-        out_dir.mkdir(parents=True, exist_ok=True)
-        pack_md = build_reading_pack(title, cfg, text, source_meta)
-        (out_dir / "reading-pack.md").write_text(pack_md, encoding="utf-8")
+        slug = slugify(title)
+        pack_dir = OUTPUT_ROOT / slug
+        pack_dir.mkdir(parents=True, exist_ok=True)
+        (pack_dir / 'reading-pack.md').write_text(
+            build_reading_pack(collection, title, config, slug, text, sources),
+            encoding='utf-8',
+        )
         migrated += 1
-        print(f"✓ {cfg.slug} ({len(text.split())} words)")
+        print(f"✓ {slug} ({len(text.split())} words)")
 
-    print(f"\nMigrated {migrated} packs to {OUTPUT_ROOT}")
+    print(f"\nMigrated {migrated} packs from {collection.title}")
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

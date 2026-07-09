@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co sprawia, że Janusz zaczyna badać Czarny Kodeks?",
+      "answers": [
+        "Odnajduje rodzinny pamiętnik z Haiti",
+        "Czyta informację, że dokument obowiązywał formalnie do 28 maja 2026 roku",
+        "Dostaje grant na badanie prawa polskiego",
+        "Słyszy o tym w kościele w Krakowie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Impulsem jest informacja o zaskakująco późnym uchyleniu dokumentu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką funkcję pełni Vodou w interpretacji Jean-Pierre’a?",
+      "answers": [
+        "Wyłącznie egzotyczną religię z filmów",
+        "Narzędzie przetrwania, porządku i oporu",
+        "Prywatny kult kilku rodzin",
+        "Religię importowaną z Polski"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre przedstawia Vodou jako system społeczny i narzędzie przetrwania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Bois Caïman jest ważne w opowieści?",
+      "answers": [
+        "To miejsce narodzin polskiej emigracji",
+        "To miejsce rytuału poprzedzającego rewolucję haitańską",
+        "To dawna siedziba Napoleona",
+        "To muzeum prawa kolonialnego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre opisuje Bois Caïman jako miejsce rytuału związanego z początkiem powstania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak tekst interpretuje związek Matki Boskiej Częstochowskiej z Erzulie Dantor?",
+      "answers": [
+        "Jako błąd tłumaczenia historycznego",
+        "Jako przykład religijnego synkretyzmu i przetrwania",
+        "Jako dowód dominacji Watykanu",
+        "Jako nowoczesną kampanię marketingową"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wątek służy pokazaniu, jak symbole religijne zostały wchłonięte i przekształcone."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką ogólniejszą lekcję Janusz wynosi z podróży?",
+      "answers": [
+        "Że historia niewolnictwa należy wyłącznie do przeszłości",
+        "Że duch Czarnego Kodeksu trwa w uprzedzeniach i sposobach traktowania 'innych'",
+        "Że Vodou da się wyjaśnić tylko magią",
+        "Że Polska i Haiti nie mają żadnych punktów stycznych"
+      ],
+      "correctIndex": 1,
+      "explanation": "W zakończeniu Janusz pisze o trwaniu ducha tego prawa w dzisiejszych uprzedzeniach."
+    }
+  ]
+}
