@@ -9,7 +9,8 @@
 **Subtitle:** Powrót do języka i pamięci  
 **Blurb:** Anastazja przyjeżdża z Niemiec do Warszawy, by uczyć się polskiego — i odkrywa więź z miejscem, którego świadomie nie pamięta: Jełaniem.
 
-**Genres:** short_story, travel  
+**Genres:** travel, short_story  
+**Cover family:** travel  
 **Series:** Collection One  
 **Audience:** adult readers  
 

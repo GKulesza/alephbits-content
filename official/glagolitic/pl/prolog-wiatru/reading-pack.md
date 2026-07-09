@@ -9,7 +9,8 @@
 **Subtitle:** Za kulisami teledysku  
 **Blurb:** Opowieść o nagraniu teledysku do „Kaze no Prologue” — od porannej plaży w Chiba po znaczenie wiatru i nowego początku w karierze Yumiko.
 
-**Genres:** short_story, biography  
+**Genres:** biography, short_story  
+**Cover family:** biography  
 **Series:** Collection One  
 **Audience:** adult readers  
 

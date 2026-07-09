@@ -9,7 +9,8 @@
 **Subtitle:** Hotel, przeciek i nocna decyzja  
 **Blurb:** Pracownik nocnej zmiany w nadmorskim hotelu obserwuje pękanie luksusowej fasady i po spotkaniu z tajemniczym projektantem decyduje, że nie będzie już dłużej współuczestniczył w kłamstwie.
 
-**Genres:** short_story, article  
+**Genres:** article, short_story  
+**Cover family:** article  
 **Series:** Collection Three  
 **Audience:** adult readers  
 

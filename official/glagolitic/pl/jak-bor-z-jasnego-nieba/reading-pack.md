@@ -9,7 +9,8 @@
 **Subtitle:** Rozmowa o jednostce BOR  
 **Blurb:** Wywiad w formie opowieści z Marcinem „Żukiem” Kowalczykiem — byłym operatorem BOR — o granicy między żołnierzem a operatorem, adrenaliny i rzeczach, o których nie można mówić.
 
-**Genres:** article, biography  
+**Genres:** biography, article  
+**Cover family:** biography  
 **Series:** Collection One  
 **Audience:** adult readers  
 

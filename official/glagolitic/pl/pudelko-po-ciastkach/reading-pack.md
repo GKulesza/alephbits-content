@@ -9,7 +9,8 @@
 **Subtitle:** Dziedziczenie lęku i porządkowanie pamięci  
 **Blurb:** Po śmierci matki Krzysztof wchodzi do zagraconego mieszkania i odkrywa, że gromadzone przez lata rzeczy były nie tylko bałaganem, ale także materialnym kształtem biedy, straty i pamięci.
 
-**Genres:** short_story, article  
+**Genres:** article, short_story  
+**Cover family:** article  
 **Series:** Collection Three  
 **Audience:** adult readers  
 

@@ -24,6 +24,7 @@ void main(List<String> args) {
   _validateManifestDrift(repo, errors);
   _validateRepositoryManifest(repo, errors);
   _validateAllPacks(repo, errors);
+  _validateCoverAudit(repo, errors);
 
   if (errors.isEmpty) {
     print('✓ All validations passed.');
@@ -202,12 +203,17 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
 void _validateAllPacks(Directory repo, List<String> errors) {
   final seenPackIds = <String>{};
   final seenBookPaths = <String>{};
+  final seenSlugs = <String>{};
   final manifestPackIds = _manifestPackIds(repo, errors);
 
   for (final pack in discoverPacksWithLesson(repo.path)) {
     final relativePath = pack.relativePath;
     if (!seenBookPaths.add(relativePath)) {
       errors.add('Duplicate pack directory: $relativePath');
+    }
+    final slug = relativePath.split('/').last;
+    if (!seenSlugs.add(slug)) {
+      errors.add('Duplicate pack slug "$slug"');
     }
     _validatePackDirectory(
       repo,
@@ -217,6 +223,116 @@ void _validateAllPacks(Directory repo, List<String> errors) {
       manifestPackIds,
       errors,
     );
+  }
+}
+
+void _validateCoverAudit(Directory repo, List<String> errors) {
+  final manifestFile = File('${repo.path}/manifest.json');
+  if (!manifestFile.existsSync()) {
+    return;
+  }
+
+  final manifest = _readJsonObject(manifestFile, errors, 'manifest.json');
+  if (manifest == null) return;
+
+  final catalogFile = File('${repo.path}/covers/catalog.json');
+  if (!catalogFile.existsSync()) {
+    errors.add('covers/catalog.json is missing');
+    return;
+  }
+
+  final catalog = _readJsonObject(catalogFile, errors, 'covers/catalog.json');
+  if (catalog == null) return;
+
+  final defaultFamily = catalog['defaultFamily'];
+  final families = catalog['families'];
+  final customCovers = catalog['customCovers'];
+  if (defaultFamily is! String || defaultFamily.isEmpty) {
+    errors.add('covers/catalog.json missing non-empty "defaultFamily"');
+    return;
+  }
+  if (families is! Map<String, dynamic>) {
+    errors.add('covers/catalog.json missing "families" object');
+    return;
+  }
+
+  for (final familyEntry in families.entries) {
+    final family = familyEntry.value;
+    if (family is! Map<String, dynamic>) {
+      errors.add('covers/catalog.json family "${familyEntry.key}" must be an object');
+      continue;
+    }
+    final variants = family['variants'];
+    if (variants is! List || variants.isEmpty) {
+      errors.add('covers/catalog.json family "${familyEntry.key}" has no variants');
+      continue;
+    }
+    for (final variant in variants) {
+      if (variant is! Map<String, dynamic>) {
+        errors.add('covers/catalog.json family "${familyEntry.key}" contains invalid variant');
+        continue;
+      }
+      final sourcePath = variant['sourcePath'];
+      if (sourcePath is! String || sourcePath.isEmpty) {
+        errors.add('covers/catalog.json family "${familyEntry.key}" variant missing sourcePath');
+        continue;
+      }
+      if (!File('${repo.path}/$sourcePath').existsSync()) {
+        errors.add(
+          'covers/catalog.json family "${familyEntry.key}" references missing asset: $sourcePath',
+        );
+      }
+    }
+  }
+
+  final packs = manifest['packs'];
+  if (packs is! List) {
+    return;
+  }
+
+  final customCoverMap =
+      customCovers is Map<String, dynamic> ? customCovers : const <String, dynamic>{};
+
+  for (final entry in packs.whereType<Map<String, dynamic>>()) {
+    final id = entry['id'];
+    final path = entry['path'];
+    if (id is! String || path is! String) continue;
+
+    final lessonFile = File('${repo.path}/$path/lesson.json');
+    final lesson = _readJsonObject(lessonFile, errors, '$path/lesson.json');
+    if (lesson == null) continue;
+
+    final explicitCover = _nonEmptyString(entry['cover']) ?? _nonEmptyString(lesson['cover']);
+    final explicitCoverFamily =
+        _nonEmptyString(entry['coverFamily']) ?? _nonEmptyString(lesson['coverFamily']);
+    final categories =
+        (entry['categories'] is List)
+            ? (entry['categories'] as List).whereType<String>().where((s) => s.isNotEmpty).toList()
+            : const <String>[];
+
+    if (explicitCover != null) {
+      if (!customCoverMap.containsKey(explicitCover)) {
+        errors.add('pack "$id" references missing custom cover "$explicitCover"');
+      }
+      continue;
+    }
+
+    if (explicitCoverFamily != null) {
+      if (!families.containsKey(explicitCoverFamily)) {
+        errors.add('pack "$id" references missing coverFamily "$explicitCoverFamily"');
+      }
+      continue;
+    }
+
+    final matchingCategoryFamily = categories.firstWhere(
+      families.containsKey,
+      orElse: () => '',
+    );
+    if (matchingCategoryFamily.isEmpty) {
+      errors.add(
+        'pack "$id" would fall back to default cover because no category or coverFamily matches a cover family',
+      );
+    }
   }
 }
 
@@ -502,4 +618,10 @@ String _relativePath(String repoRoot, String absolutePath) {
     return absolutePath.substring(repoRoot.length + 1);
   }
   return absolutePath;
+}
+
+String? _nonEmptyString(Object? value) {
+  if (value is! String) return null;
+  final trimmed = value.trim();
+  return trimmed.isEmpty ? null : trimmed;
 }

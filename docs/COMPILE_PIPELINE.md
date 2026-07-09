@@ -26,13 +26,12 @@ reading-pack.md
       ├── quiz.json        (extracted quiz)
       ├── license.md       (from Editorial Transparency)
       ├── provenance.json  (from Transparency + Sources)
-      └── manifest.json    (optional book manifest — single-language v1)
       │
       ▼
  validate_pack.dart
 ```
 
-Repository root `manifest.json` is updated separately (future: `build_manifest.dart`).
+Repository root `manifest.json` is updated separately by `build_manifest.dart`.
 
 ---
 
@@ -71,7 +70,7 @@ dart run tools/compile_pack.dart official/glagolitic/pl/spacer-po-krakowie/
 
 - Stable key ordering in JSON output
 - UTF-8 NFC normalization for text
-- `updated` field: compile date unless **Revision history** specifies otherwise
+- `updated` field: earliest revision date when revision history is present
 - Same input file + compiler version → identical output (except configurable timestamp policy)
 
 ---

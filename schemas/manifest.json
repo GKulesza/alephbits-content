@@ -186,6 +186,10 @@
           "items": { "type": "string" },
           "uniqueItems": true
         },
+        "cover": {
+          "type": "string",
+          "description": "Optional custom cover id resolved via covers/catalog.json."
+        },
         "difficulty": { "type": "integer", "minimum": 1, "maximum": 10 },
         "estimatedReadingTime": { "type": "integer", "minimum": 1 },
         "featured": { "type": "boolean" }

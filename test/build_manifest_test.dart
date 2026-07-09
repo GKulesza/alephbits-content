@@ -36,5 +36,15 @@ void main() {
       expect(stats['totalWords'], greaterThan(14000));
       expect(stats['largestPack'], isA<Map<String, dynamic>>());
     });
+
+    test('emits explicit cover family when present in reading-pack metadata', () {
+      final manifest = ManifestBuilder().build(repoRoot);
+      final packs = (manifest['packs'] as List).whereType<Map<String, dynamic>>();
+      final cenaWidoku = packs.firstWhere(
+        (pack) => pack['id'] == 'polish_cena_widoku',
+      );
+
+      expect(cenaWidoku['coverFamily'], 'article');
+    });
   });
 }

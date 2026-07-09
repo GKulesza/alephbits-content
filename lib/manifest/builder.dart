@@ -27,6 +27,7 @@ class PackIndexEntry {
     required this.version,
     required this.updated,
     required this.categories,
+    required this.coverFamily,
     required this.difficulty,
     required this.estimatedReadingTime,
     required this.wordCount,
@@ -43,6 +44,7 @@ class PackIndexEntry {
   final String version;
   final String updated;
   final List<String> categories;
+  final String? coverFamily;
   final int difficulty;
   final int estimatedReadingTime;
   final int wordCount;
@@ -59,6 +61,7 @@ class PackIndexEntry {
       'title': title,
       'version': version,
       'categories': categories,
+      if (coverFamily != null && coverFamily!.isNotEmpty) 'coverFamily': coverFamily,
       'difficulty': difficulty,
       'estimatedReadingTime': estimatedReadingTime,
       'featured': featured,
@@ -144,6 +147,7 @@ class ManifestBuilder {
     final writingSystem = _writingSystem(pack, lesson);
     final bookId = _bookId(pack);
     final categories = _categories(pack);
+    final coverFamily = _coverFamily(pack, lesson);
     final difficulty = _intField(lesson, 'difficulty', defaultValue: 1);
     final estimatedReadingTime =
         _intField(lesson, 'estimatedReadingTime', defaultValue: 1);
@@ -161,6 +165,7 @@ class ManifestBuilder {
       version: version,
       updated: updated,
       categories: categories,
+      coverFamily: coverFamily,
       difficulty: difficulty,
       estimatedReadingTime: estimatedReadingTime,
       wordCount: wordCount,
@@ -218,6 +223,26 @@ class ManifestBuilder {
       return tags.whereType<String>().where((t) => t.isNotEmpty).toList();
     }
     return [];
+  }
+
+  String? _coverFamily(DiscoveredPack pack, Map<String, dynamic> lesson) {
+    final mdFile = File(p.join(pack.absolutePath, 'reading-pack.md'));
+    if (mdFile.existsSync()) {
+      final doc = ReadingPackParser().parse(
+        mdFile.readAsStringSync(),
+        packDirPath: pack.absolutePath,
+      );
+      final coverFamily = doc.metadata['Cover family'];
+      if (coverFamily != null && coverFamily.trim().isNotEmpty) {
+        return coverFamily.trim();
+      }
+    }
+
+    final fromLesson = lesson['coverFamily'];
+    if (fromLesson is String && fromLesson.isNotEmpty) {
+      return fromLesson;
+    }
+    return null;
   }
 
   List<Map<String, dynamic>> _buildFeaturedCollections(List<PackIndexEntry> entries) {

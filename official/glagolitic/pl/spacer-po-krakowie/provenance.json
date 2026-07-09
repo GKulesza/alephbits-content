@@ -4,7 +4,9 @@
   "editorialStatus": "official",
   "createdAt": "2026-07-06",
   "lastReviewedAt": "2026-07-07",
-  "editors": ["AlephBits Editorial"],
+  "editors": [
+    "AlephBits Editorial"
+  ],
   "aiAssistance": {
     "used": false,
     "tools": [],

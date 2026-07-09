@@ -186,9 +186,10 @@
       "title": "Cena widoku",
       "version": "1.0.0",
       "categories": [
-        "short_story",
-        "article"
+        "article",
+        "short_story"
       ],
+      "coverFamily": "article",
       "difficulty": 6,
       "estimatedReadingTime": 10,
       "featured": true
@@ -338,9 +339,10 @@
       "title": "Dziewczyna z Jełania",
       "version": "1.0.0",
       "categories": [
-        "short_story",
-        "travel"
+        "travel",
+        "short_story"
       ],
+      "coverFamily": "travel",
       "difficulty": 5,
       "estimatedReadingTime": 11,
       "featured": true
@@ -355,9 +357,10 @@
       "title": "Jak Bor z jasnego nieba",
       "version": "1.0.0",
       "categories": [
-        "article",
-        "biography"
+        "biography",
+        "article"
       ],
+      "coverFamily": "biography",
       "difficulty": 7,
       "estimatedReadingTime": 14,
       "featured": true
@@ -439,9 +442,10 @@
       "title": "Misja która pękła",
       "version": "1.0.0",
       "categories": [
-        "article",
-        "instruction"
+        "instruction",
+        "article"
       ],
+      "coverFamily": "instruction",
       "difficulty": 6,
       "estimatedReadingTime": 9,
       "featured": true
@@ -473,9 +477,10 @@
       "title": "Prolog wiatru",
       "version": "1.0.0",
       "categories": [
-        "short_story",
-        "biography"
+        "biography",
+        "short_story"
       ],
+      "coverFamily": "biography",
       "difficulty": 5,
       "estimatedReadingTime": 10,
       "featured": true
@@ -490,9 +495,10 @@
       "title": "Pudełko po ciastkach",
       "version": "1.0.0",
       "categories": [
-        "short_story",
-        "article"
+        "article",
+        "short_story"
       ],
+      "coverFamily": "article",
       "difficulty": 6,
       "estimatedReadingTime": 10,
       "featured": true

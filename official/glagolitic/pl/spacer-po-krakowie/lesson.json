@@ -17,7 +17,12 @@
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "2",
-  "tags": ["demo", "polish", "beginner", "krakow"],
+  "tags": [
+    "demo",
+    "polish",
+    "beginner",
+    "krakow"
+  ],
   "difficulty": 3,
   "estimatedReadingTime": 8,
   "translation": "A short walk through Kraków — an introductory reading lesson for progressive script learning.",

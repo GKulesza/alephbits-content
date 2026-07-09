@@ -9,7 +9,8 @@
 **Subtitle:** Misja, wypalenie i kontekst w erze AI  
 **Blurb:** Marek, właściciel dojrzałej firmy konsultingowej, konfrontuje się z pęknięciem między misją a biznesem, zjawiskiem AI Brain Fry i potrzebą działania we własnym kontekście zamiast według cudzych wzorów.
 
-**Genres:** article, instruction  
+**Genres:** instruction, article  
+**Cover family:** instruction  
 **Series:** Collection Three  
 **Audience:** adult readers  
 

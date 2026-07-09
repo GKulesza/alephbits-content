@@ -38,7 +38,10 @@
         }
       }
     },
-    "cover": { "type": "string" },
+    "cover": {
+      "type": "string",
+      "description": "Optional custom cover id resolved via covers/catalog.json."
+    },
     "writingSystem": { "type": "string", "minLength": 1 },
     "genres": {
       "type": "array",

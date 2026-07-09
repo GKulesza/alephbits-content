@@ -80,6 +80,7 @@ class ReadingPackCompiler {
     final metadata = doc.metadata;
     final transparency = doc.transparency;
     final license = _parseLicense(transparency['License'] ?? '');
+    final coverFamily = _nonEmpty(metadata['Cover family']);
 
     final lesson = <String, dynamic>{
       'id': metadata['Pack ID'] ?? '',
@@ -107,6 +108,10 @@ class ReadingPackCompiler {
       'text': text,
       'quiz': quiz,
     };
+
+    if (coverFamily != null) {
+      lesson['coverFamily'] = coverFamily;
+    }
 
     final references = _buildReferences(doc.sources);
     if (references.isNotEmpty) {
@@ -284,6 +289,12 @@ You may copy, modify, and distribute this work for any purpose without asking pe
         .map((s) => s.trim())
         .where((s) => s.isNotEmpty)
         .toList();
+  }
+
+  String? _nonEmpty(String? value) {
+    if (value == null) return null;
+    final trimmed = value.trim();
+    return trimmed.isEmpty ? null : trimmed;
   }
 
   _LicenseInfo _parseLicense(String raw) {
