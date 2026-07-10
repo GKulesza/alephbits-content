@@ -11,11 +11,11 @@
 
 **Genres:** instruction, article  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 4 (of 10)  
+**Difficulty:** 3 (of 8)
 **Reader difficulty:** ★★☆☆☆  
-**Estimated reading time:** 18 minutes  
+**Estimated reading time:** 10 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** instruction
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** Claude (editorial migration)  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** Manual / Reference  
+**Trust classification:** Instruction
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Revision notes:** Collection One migration (Phase 39). Trust: Manual / Reference.
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -309,6 +317,8 @@ I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – 
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -354,6 +364,8 @@ I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – 
 **Correct:** B
 **Explanation:** Tekst łączy narrację z kolejnymi „zasadami” obyczajów w Polsce.
 **Text reference:** TRZYNAŚCIE ZASAD
+
+---
 
 ---
 

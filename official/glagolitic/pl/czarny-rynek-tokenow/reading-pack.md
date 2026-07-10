@@ -11,11 +11,11 @@
 
 **Genres:** article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 6 (of 10)  
+**Difficulty:** 5 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 7 minutes  
+**Estimated reading time:** 6 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** article
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** technology  
+**Trust classification:** Popular science
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 05.07.2026 -> https://www.youtube.com/watch?v=drFd3x2Qh1Y  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -156,6 +164,8 @@ Bo w internecie, jak w życiu, liczy się nie tylko to, jak się bronisz. Liczy 
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -229,6 +239,8 @@ Bo w internecie, jak w życiu, liczy się nie tylko to, jak się bronisz. Liczy 
 **Correct:** B
 **Explanation:** Przechodzi na manager sekretów, monitoring i edukację innych programistów.
 **Text reference:** Zaczął korzystać z menedżera sekretów
+
+---
 
 ---
 

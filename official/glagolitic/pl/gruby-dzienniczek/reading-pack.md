@@ -12,7 +12,7 @@
 **Genres:** psychology, short_story  
 **Cover family:** psychology  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** gruby dzienniczek, ścielenie łóżka, nawyki, wypalenie, David Goggins  
 
 **Editorial notes:** Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -215,6 +221,8 @@ I to było najważniejsze.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -288,6 +296,8 @@ I to było najważniejsze.
 **Correct:** B
 **Explanation:** Ostatni wpis łączy łóżko, bieg i życie w jednym zdaniu o wystarczalności.
 **Text reference:** Pościeliłem łóżko. I pobiegłem. I żyję
+
+---
 
 ---
 

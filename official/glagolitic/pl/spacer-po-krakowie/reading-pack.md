@@ -6,16 +6,16 @@
 **Version:** 1.0.0  
 
 **Title:** Spacer po Krakowie  
-**Subtitle:** *(none)*  
+**Subtitle:** Pierwsza lekcja — spacer po Krakowie
 **Blurb:** Krótka lekcja czytania z prostym tekstem o spacerze po Krakowie. Tekst jest w domenie publicznej.
 
 **Genres:** travel, demo  
 **Series:** *(none)*  
-**Audience:** adult beginners  
+**Audience:** adult
 
-**Difficulty:** 3 (of 10)  
+**Difficulty:** 2 (of 8)
 **Reader difficulty:** ★★☆☆☆  
-**Estimated reading time:** 8 minutes  
+**Estimated reading time:** 2 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** contemporary Kraków  
@@ -33,12 +33,17 @@
 
 ---
 
+**Cover family:** travel
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Contributors  
 **Editor:** AlephBits Editorial  
 **LLM assisted:** no  
 **LLM model:** *(none)*  
+**Trust classification:** Demo
 **Human reviewed:** yes — 2026-07-07  
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
@@ -50,6 +55,8 @@
 |---------|------|------|
 | 1.0.0 | 2026-07-06 | Initial official release |
 | 1.0.0 | 2026-07-07 | Migrated to reading-pack.md (Phase 23) |
+
+---
 
 ---
 
@@ -78,6 +85,8 @@
 
 ---
 
+---
+
 ## Text
 
 Wczesnym rankiem wyszedłem na ulicę i poczułem świeże powietrze miasta. Słońce dopiero wschodziło nad dachami kamienic, a Rynek Główny był jeszcze cichy i pusty.
@@ -99,6 +108,8 @@ Zszedłem z powrotem do centrum i wszedłem do muzeum. W salach wisiały obrazy 
 Wieczorem wróciłem na Rynek. Latarnie zapalały się jedna po drugiej, a kamienice nabierały złotego blasku. Miasto tętniło życiem, a ja czułem się częścią tej wielkiej opowieści.
 
 Tego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać nowe znaki. Każde słowo staje się mostem między językiem, który znam, a pismem, którego się uczę.
+
+---
 
 ---
 
@@ -147,6 +158,8 @@ Tego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać now
 **Correct:** A  
 **Explanation:** Ostatni akapit podsumowuje korzyść z czytania o znanym miejscu.  
 **Text reference:** „czytanie o znanym miejscu pomaga zapamiętać nowe znaki”
+
+---
 
 ---
 

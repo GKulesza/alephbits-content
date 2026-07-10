@@ -84,6 +84,17 @@ class ReadingPackParseException implements Exception {
 }
 
 class ReadingPackParser {
+  /// Top-level reading-pack.md sections only. In-body `##` headings (e.g. chapter
+  /// titles inside Text) must not start a new section.
+  static const knownSections = <String>{
+    'Metadata',
+    'Editorial Transparency',
+    'Sources',
+    'Text',
+    'Quiz',
+    'Future Extensions',
+  };
+
   ReadingPackDocument parse(String markdown, {String? packDirPath}) {
     final lines = markdown.replaceAll('\r\n', '\n').split('\n');
     if (lines.isEmpty || !lines.first.startsWith('# ')) {
@@ -145,9 +156,12 @@ class ReadingPackParser {
 
     for (final line in lines) {
       if (line.startsWith('## ')) {
-        flush();
-        current = line.substring(3).trim();
-        continue;
+        final name = line.substring(3).trim();
+        if (knownSections.contains(name)) {
+          flush();
+          current = name;
+          continue;
+        }
       }
       if (current != null) {
         buffer.add(line);
@@ -246,7 +260,6 @@ class ReadingPackParser {
     if (text.startsWith('---')) {
       text = text.replaceFirst(RegExp(r'^---\s*\n?'), '');
     }
-    text = text.split(RegExp(r'\n---\s*\n')).first.trim();
     text = text.replaceAll(RegExp(r'\n---\s*$'), '').trim();
     return text;
   }

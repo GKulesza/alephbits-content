@@ -11,9 +11,9 @@
 
 **Genres:** instruction, article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★★☆☆  
 **Estimated reading time:** 6 minutes  
 
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** instruction
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** guide  
+**Trust classification:** Instruction
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 06.07.2026 -> https://www.youtube.com/watch?v=SsFjoV3d_Pk  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -179,6 +187,8 @@ I Tomasz w końcu to zrozumiał.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -252,6 +262,8 @@ I Tomasz w końcu to zrozumiał.
 **Correct:** B
 **Explanation:** Refleksja końcowa sprowadza się do prawa do pytań i wyboru.
 **Text reference:** masz prawo do wyboru
+
+---
 
 ---
 

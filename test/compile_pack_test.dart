@@ -22,6 +22,17 @@ void main() {
       expect(doc.quiz?.questions.length, 3);
     });
 
+    test('parses Text section with in-body chapter headings', () {
+      final pack = p.join(
+        repoRoot,
+        'official/glagolitic/pl/brudne-pieniadze-czysta-nauka',
+      );
+      final markdown = File(p.join(pack, 'reading-pack.md')).readAsStringSync();
+      final doc = ReadingPackParser().parse(markdown, packDirPath: pack);
+      expect(doc.text, contains('Dr Anna Kowalska'));
+      expect(doc.text.split(RegExp(r'\s+')).length, greaterThan(1500));
+    });
+
     test('compiles demo pack without drift', () {
       final result = compileAndCheckDirectory(demoPack);
       expect(result.parseError, isNull, reason: result.parseError);

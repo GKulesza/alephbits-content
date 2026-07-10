@@ -12,7 +12,7 @@
 **Genres:** psychology, short_story  
 **Cover family:** psychology  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** czarna skrzynka, kontrola, kalendarz, perfekcjonizm, puścić  
 
 **Editorial notes:** Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -231,6 +237,8 @@ Magda wzięła go za rękę.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -304,6 +312,8 @@ Magda wzięła go za rękę.
 **Correct:** B
 **Explanation:** Magda mówi: „To się nazywa puścić”.
 **Text reference:** To się nazywa puścić
+
+---
 
 ---
 

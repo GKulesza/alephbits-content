@@ -12,11 +12,11 @@
 **Genres:** article, short_story  
 **Cover family:** article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 6 (of 10)  
+**Difficulty:** 5 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 10 minutes  
+**Estimated reading time:** 9 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -36,6 +36,8 @@
 
 ---
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -43,7 +45,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** fiction  
+**Trust classification:** Fiction
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 03.07.2026 -> https://www.youtube.com/watch?v=DZkJoX-Fnxc  
@@ -54,6 +56,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -252,6 +258,8 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -325,6 +333,8 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **Correct:** B
 **Explanation:** Zakończenie pokazuje przejście od gniewu do zrozumienia i nowego początku.
 **Text reference:** mógł wreszcie doprowadzić to do końca
+
+---
 
 ---
 

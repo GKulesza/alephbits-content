@@ -11,11 +11,11 @@
 
 **Genres:** legend, history  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 6 minutes  
+**Estimated reading time:** 5 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** legend
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** historical_fiction  
+**Trust classification:** Fiction
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 06.07.2026 -> https://www.youtube.com/watch?v=Ppqyyz1tTj8  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -146,6 +154,8 @@ I wiedział, że ta historia nigdy się nie skończy. Będzie przekazywana z pok
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -219,6 +229,8 @@ I wiedział, że ta historia nigdy się nie skończy. Będzie przekazywana z pok
 **Correct:** B
 **Explanation:** Z miejsca-pułapki Nikiszowiec staje się dla niego domem i nośnikiem pamięci.
 **Text reference:** stało się jego domem
+
+---
 
 ---
 

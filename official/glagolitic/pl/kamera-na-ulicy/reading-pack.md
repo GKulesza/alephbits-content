@@ -12,7 +12,7 @@
 **Genres:** law, article  
 **Cover family:** law  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 7 (of 8)  
 **Reader difficulty:** ★★★★☆  
@@ -33,6 +33,8 @@
 **Keywords:** kamera na ulicy, morderstwo, Massachusetts, Ana, Brian  
 
 **Editorial notes:** Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -291,6 +297,8 @@ I nie czuł nic.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -364,6 +372,8 @@ I nie czuł nic.
 **Correct:** B
 **Explanation:** Tekst mówi, że w Massachusetts jego dzieci dorastają bez rodziców.
 **Text reference:** jego dzieci dorastały bez rodziców
+
+---
 
 ---
 

@@ -12,7 +12,7 @@
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** dostrojony dom, decluttering, bałagan, medytacja, porządkowanie  
 
 **Editorial notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -305,6 +311,8 @@ I wtedy zrozumiała, że właśnie to zrobiła. Na nowo wprowadziła się do swo
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -378,6 +386,8 @@ I wtedy zrozumiała, że właśnie to zrobiła. Na nowo wprowadziła się do swo
 **Correct:** B
 **Explanation:** Epilog podkreśla, że ma rzeczy i wspomnienia, ale już nie są balastem.
 **Text reference:** już nie były one balastem
+
+---
 
 ---
 

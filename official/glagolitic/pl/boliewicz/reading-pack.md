@@ -11,11 +11,11 @@
 
 **Genres:** biography, history  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 7 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★★☆  
-**Estimated reading time:** 11 minutes  
+**Estimated reading time:** 9 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** biography
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** biography  
+**Trust classification:** Inspired by reality
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 09.07.2026 -> https://www.youtube.com/watch?v=XiVNWAvvvWQ  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -183,6 +191,8 @@ Wałęsa, Bolek, prezydent, człowiek. Wszystko to jedno. I wszystko to razem tw
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -256,6 +266,8 @@ Wałęsa, Bolek, prezydent, człowiek. Wszystko to jedno. I wszystko to razem tw
 **Correct:** B
 **Explanation:** Dudek podkreśla, że Wałęsa sam sobie zaszkodził po odejściu z urzędu.
 **Text reference:** Wałęsa sobie sam najbardziej zaszkodził
+
+---
 
 ---
 

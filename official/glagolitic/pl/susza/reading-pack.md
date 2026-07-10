@@ -12,11 +12,11 @@
 **Genres:** nature, article  
 **Cover family:** nature  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 5 (of 8)  
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 9 minutes  
+**Estimated reading time:** 10 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -33,6 +33,8 @@
 **Keywords:** susza, Bory Tucholskie, klimat, sosna, leśnictwo  
 
 **Editorial notes:** Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -299,6 +305,8 @@ I to było najważniejsze.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -372,6 +380,8 @@ I to było najważniejsze.
 **Correct:** B
 **Explanation:** Końcówka mówi, że jeśli coś się zmieni teraz, może uda się zatrzymać to, co nieuniknione — a jeśli nie, przynajmniej próbowali.
 **Text reference:** przynajmniej będą mogli powiedzieć, że próbowali
+
+---
 
 ---
 

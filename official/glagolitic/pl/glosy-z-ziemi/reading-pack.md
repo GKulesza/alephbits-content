@@ -12,7 +12,7 @@
 **Genres:** history, article  
 **Cover family:** history  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 7 (of 8)  
 **Reader difficulty:** ★★★★☆  
@@ -33,6 +33,8 @@
 **Keywords:** głosy z ziemi, szpital, korupcja, Bielin, świadek  
 
 **Editorial notes:** Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -377,6 +383,8 @@ Bo czasem, żeby zmienić świat, wystarczy jedna historia. I kilkoro ludzi, kt�
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -450,6 +458,8 @@ Bo czasem, żeby zmienić świat, wystarczy jedna historia. I kilkoro ludzi, kt�
 **Correct:** B
 **Explanation:** Pracuje nad teczką w tajemnicy, wiedząc, że ujawnienie jej może go wszystkiego pozbawić.
 **Text reference:** jeśli ktoś się o niej dowie, straci wszystko
+
+---
 
 ---
 

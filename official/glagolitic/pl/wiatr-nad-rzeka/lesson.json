@@ -23,9 +23,9 @@
     "phase-66"
   ],
   "difficulty": 2,
-  "estimatedReadingTime": 3,
+  "estimatedReadingTime": 1,
   "translation": "Micro-fiction for remote publishing verification.",
-  "text": "**WIATR NAD RZEKĄ**\n\nAnna stanęła na bulwarze i poczuła chłód wiatru nad Wisłą. Miasto szumiało w tle, ale tutaj, przy wodzie, wszystko wydawało się wolniejsze.\n\nObok niej usiadł starszy pan w granatowej kurtce. Przez chwilę milczeli. Potem powiedział:\n\n— Wiatr dziś pamięta wszystko, co niosła woda.\n\nAnna uśmiechnęła się.\n\n— A pan skąd to wie?\n\n— Bo codziennie tu wracam — odparł. — I za każdym razem wiatr niesie coś innego.\n\nAnna spojrzała na rzekę. Fale odbijały światło latarni jak krótkie, ciche błyski. Pomyślała, że może właśnie tak wygląda chwila, w której warto przestać biec.\n\nPan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze kilka minut, słuchając wiatru. Gdy w końcu ruszyła w drogę powrotną, wiedziała już, że wróci tu jutro.\n\n**KONIEC**",
+  "text": "**WIATR NAD RZEKĄ**\n\nAnna stanęła na bulwarze i poczuła chłód wiatru nad Wisłą. Miasto szumiało w tle, ale tutaj, przy wodzie, wszystko wydawało się wolniejsze.\n\nObok niej usiadł starszy pan w granatowej kurtce. Przez chwilę milczeli. Potem powiedział:\n\n— Wiatr dziś pamięta wszystko, co niosła woda.\n\nAnna uśmiechnęła się.\n\n— A pan skąd to wie?\n\n— Bo codziennie tu wracam — odparł. — I za każdym razem wiatr niesie coś innego.\n\nAnna spojrzała na rzekę. Fale odbijały światło latarni jak krótkie, ciche błyski. Pomyślała, że może właśnie tak wygląda chwila, w której warto przestać biec.\n\nPan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze kilka minut, słuchając wiatru. Gdy w końcu ruszyła w drogę powrotną, wiedziała już, że wróci tu jutro.\n\n**KONIEC**\n\n---",
   "quiz": {
     "title": "Sprawdź zrozumienie",
     "questions": [
@@ -67,5 +67,6 @@
       }
     ]
   },
-  "audience": "adult readers"
+  "coverFamily": "short_story",
+  "audience": "adult"
 }

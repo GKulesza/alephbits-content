@@ -11,11 +11,11 @@
 
 **Genres:** article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 7 minutes  
+**Estimated reading time:** 6 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** article
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** technology  
+**Trust classification:** Popular science
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 08.07.2026 -> https://www.youtube.com/watch?v=nyvrkSNmtXA  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -189,6 +197,8 @@ I był gotów w tej walce uczestniczyć.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -262,6 +272,8 @@ I był gotów w tej walce uczestniczyć.
 **Correct:** B
 **Explanation:** Pisze, że nie kupi PS6, jeśli Sony zrealizuje ten plan.
 **Text reference:** PS6 będzie pierwszą konsolą, której nie kupię
+
+---
 
 ---
 

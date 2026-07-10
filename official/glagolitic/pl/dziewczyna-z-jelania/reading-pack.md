@@ -12,11 +12,11 @@
 **Genres:** travel, short_story  
 **Cover family:** travel  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★☆☆☆  
-**Estimated reading time:** 11 minutes  
+**Estimated reading time:** 7 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -33,6 +33,8 @@
 **Keywords:** Warszawa, Jełanie, język polski, pamięć  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
 
 ---
 
@@ -59,6 +61,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -70,6 +74,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -207,6 +213,8 @@ Może to była prawdziwa miłość. A może tylko początek.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -252,6 +260,8 @@ Może to była prawdziwa miłość. A może tylko początek.
 **Correct:** A
 **Explanation:** Wynajęty pokój i lektura „Lalki” w oryginale są opisane wprost.
 **Text reference:** "Lalkę" Bolesława Prusa
+
+---
 
 ---
 

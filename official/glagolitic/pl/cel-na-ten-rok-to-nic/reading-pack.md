@@ -12,7 +12,7 @@
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** cele noworoczne, wypalenie, korporacja, wystarczalność, mentorka  
 
 **Editorial notes:** Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -273,6 +279,8 @@ A potem obie się roześmiały. Bo w końcu – co by było, gdyby każdy z nas 
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -346,6 +354,8 @@ A potem obie się roześmiały. Bo w końcu – co by było, gdyby każdy z nas 
 **Correct:** B
 **Explanation:** Końcówka to wspólny śmiech nad tym, że bycie wystarczającym to najtrudniejszy cel.
 **Text reference:** obie się roześmiały
+
+---
 
 ---
 

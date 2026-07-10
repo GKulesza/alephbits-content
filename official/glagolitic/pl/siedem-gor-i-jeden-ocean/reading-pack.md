@@ -11,11 +11,11 @@
 
 **Genres:** travel, article  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 6 (of 10)  
+**Difficulty:** 5 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 14 minutes  
+**Estimated reading time:** 7 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** Korea Południowa, podróż, kultura, Polska  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** travel
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -223,6 +231,8 @@ Jak o przyjacielu.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -268,6 +278,8 @@ Jak o przyjacielu.
 **Correct:** B
 **Explanation:** Lista wyników wymienia Chopina, Auschwitz, Lewandowskiego i Wiedźmina.
 **Text reference:** Lewandowski jest najbardziej znanym Polakiem
+
+---
 
 ---
 

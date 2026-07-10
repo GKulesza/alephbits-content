@@ -12,7 +12,7 @@
 **Genres:** psychology, short_story  
 **Cover family:** psychology  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 3 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** przerwa, stres, oddech, wypalenie, notes  
 
 **Editorial notes:** Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -205,6 +211,8 @@ Wstał, podszedł do łóżka i położył się obok żony. Zamknął oczy. I po
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -278,6 +286,8 @@ Wstał, podszedł do łóżka i położył się obok żony. Zamknął oczy. I po
 **Correct:** B
 **Explanation:** Po refleksji kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie.
 **Text reference:** zasnął spokojnie
+
+---
 
 ---
 

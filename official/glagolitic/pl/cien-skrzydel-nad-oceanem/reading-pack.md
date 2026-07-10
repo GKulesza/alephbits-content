@@ -11,11 +11,11 @@
 
 **Genres:** article, popular_science  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 7 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 13 minutes  
+**Estimated reading time:** 8 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** Leininger, Huston, Iwo Jima, pamięć  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** popular_science
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -204,6 +212,8 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -249,6 +259,8 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 **Correct:** B
 **Explanation:** Tekst podkreśla: „Ale nikt mu tego nie powiedział. Po prostu wiedział.”
 **Text reference:** Po prostu wiedział
+
+---
 
 ---
 

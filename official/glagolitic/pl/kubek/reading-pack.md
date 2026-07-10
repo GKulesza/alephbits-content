@@ -12,7 +12,7 @@
 **Genres:** psychology, short_story  
 **Cover family:** psychology  
 **Series:** Collection Four  
-**Audience:** adult readers, parents  
+**Audience:** family
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** kubek, nastolatek, macierzyństwo, obecność, wychowanie  
 
 **Editorial notes:** Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Migrated from Collection Four manuscript.
+
+---
 
 ---
 
@@ -379,6 +385,8 @@ Nawet wtedy, gdy ona nie widziała siebie.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -452,6 +460,8 @@ Nawet wtedy, gdy ona nie widziała siebie.
 **Correct:** B
 **Explanation:** Końcowa refleksja mówi, że najważniejsze przyszło od syna, który cały czas ją widział.
 **Text reference:** przyszło do niej od kogoś, kogo najbardziej kochała
+
+---
 
 ---
 

@@ -12,7 +12,7 @@
 **Genres:** psychology, short_story  
 **Cover family:** psychology  
 **Series:** Collection Four  
-**Audience:** adult readers, parents  
+**Audience:** family
 
 **Difficulty:** 5 (of 8)  
 **Reader difficulty:** ★★★☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** oczy które nie widzą, kontakt wzrokowy, wózek, matka, obecność  
 
 **Editorial notes:** Fikcja o kontakcie wzrokowym i obecności rodzica w świecie rozproszonej uwagi.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -327,6 +333,8 @@ Bo w świecie, który pędzi, w świecie, który krzyczy, w świecie, który pok
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -400,6 +408,8 @@ Bo w świecie, który pędzi, w świecie, który krzyczy, w świecie, który pok
 **Correct:** B
 **Explanation:** Końcowa refleksja mówi, że tylko obecność może nauczyć dziecko patrzeć i widzieć.
 **Text reference:** tylko obecność może nauczyć dziecko patrzeć
+
+---
 
 ---
 

@@ -418,8 +418,8 @@ void _validatePackDirectory(
   }
 
   final difficulty = lesson['difficulty'];
-  if (difficulty is int && (difficulty < 1 || difficulty > 10)) {
-    errors.add('$prefix difficulty must be between 1 and 10');
+  if (difficulty is int && (difficulty < 1 || difficulty > 8)) {
+    errors.add('$prefix difficulty must be between 1 and 8');
   }
 
   if (textFile.existsSync() && text is String) {

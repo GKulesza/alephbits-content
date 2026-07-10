@@ -12,7 +12,7 @@
 **Genres:** legends, short_story  
 **Cover family:** legends  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 5 (of 8)  
 **Reader difficulty:** ★★★☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** worek z piaskiem, Cieszyn, granica, legenda, most  
 
 **Editorial notes:** Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -269,6 +275,8 @@ I Tomek wiedział, że Jan byłby dumny.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -342,6 +350,8 @@ I Tomek wiedział, że Jan byłby dumny.
 **Correct:** A
 **Explanation:** Tomek to młody celnik, który od miesiąca pracuje na granicy.
 **Text reference:** młody celnik, Tomek
+
+---
 
 ---
 

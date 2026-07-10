@@ -12,7 +12,7 @@
 **Genres:** history, short_story  
 **Cover family:** history  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 6 (of 8)  
 **Reader difficulty:** ★★★☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** kamień pamięci, Berlin, Instytut Pileckiego, dziadek, II wojna światowa  
 
 **Editorial notes:** Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -249,6 +255,8 @@ I to jest najważniejsze.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -322,6 +330,8 @@ I to jest najważniejsze.
 **Correct:** B
 **Explanation:** Końcowa refleksja mówi, że kamienie nie mówią, ale ludzie mogą mówić za nie.
 **Text reference:** ludzie, którzy je znajdują, mogą mówić za nich
+
+---
 
 ---
 

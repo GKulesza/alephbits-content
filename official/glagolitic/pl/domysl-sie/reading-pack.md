@@ -11,11 +11,11 @@
 
 **Genres:** short_story, dialogue  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★☆☆☆  
-**Estimated reading time:** 12 minutes  
+**Estimated reading time:** 6 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** związek, komunikacja, randki, fikcja  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** short_story
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -197,6 +205,8 @@ Magda przytuliła się do niego. I po raz pierwszy od dawna poczuła, że nie mu
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -242,6 +252,8 @@ Magda przytuliła się do niego. I po raz pierwszy od dawna poczuła, że nie mu
 **Correct:** B
 **Explanation:** Epilog opisuje, że rozmawiają o problemach, Grzesiek zapisuje prośby, a Magda mówi wprost, czego potrzebuje.
 **Text reference:** zaczęła mówić wprost, czego potrzebuje
+
+---
 
 ---
 

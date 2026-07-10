@@ -12,7 +12,7 @@
 **Genres:** languages, short_story  
 **Cover family:** languages  
 **Series:** Collection Four  
-**Audience:** adult readers, parents  
+**Audience:** family
 
 **Difficulty:** 3 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** wyraz którego nie ma, czytanie, nauka, córka, rodzicielstwo  
 
 **Editorial notes:** Fikcja o nauce czytania i rodzicielskiej wytrwałości.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -367,6 +373,8 @@ I to było najważniejsze.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -440,6 +448,8 @@ I to było najważniejsze.
 **Correct:** B
 **Explanation:** Kończy myślą, że mogło pójść inaczej, ale nie zrobiła tego — i to było najważniejsze.
 **Text reference:** Ale nie zrobiła tego
+
+---
 
 ---
 

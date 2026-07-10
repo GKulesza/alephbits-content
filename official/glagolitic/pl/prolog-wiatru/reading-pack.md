@@ -12,11 +12,11 @@
 **Genres:** biography, short_story  
 **Cover family:** biography  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 5 (of 10)  
+**Difficulty:** 4 (of 8)
 **Reader difficulty:** ★★☆☆☆  
-**Estimated reading time:** 10 minutes  
+**Estimated reading time:** 5 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -33,6 +33,8 @@
 **Keywords:** Yumiko, Japonia, teledysk, J-pop  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
 
 ---
 
@@ -59,6 +61,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -70,6 +74,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -171,6 +177,8 @@ Nawet po tylu latach.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -216,6 +224,8 @@ Nawet po tylu latach.
 **Correct:** A
 **Explanation:** Tekst mówi, że piosenka dodaje sił i mówi o nowym początku przy otwartym oknie.
 **Text reference:** zawsze można zacząć od nowa
+
+---
 
 ---
 

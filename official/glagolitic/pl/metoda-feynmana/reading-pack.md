@@ -11,11 +11,11 @@
 
 **Genres:** popular_science, article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 8 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★★☆  
-**Estimated reading time:** 9 minutes  
+**Estimated reading time:** 8 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** popular_science
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** opinion  
+**Trust classification:** Inspired by reality
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 04.07.2026 -> https://www.youtube.com/watch?v=TemssaBn_lI  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -67,6 +73,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -226,6 +234,8 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -299,6 +309,8 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 **Correct:** B
 **Explanation:** Narracja świadomie przesuwa się od nauki do spekulacji i autorefleksji.
 **Text reference:** Nie wiem. Nikt nie wie.
+
+---
 
 ---
 

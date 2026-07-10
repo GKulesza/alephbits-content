@@ -12,7 +12,7 @@
 **Genres:** science, article  
 **Cover family:** science  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 6 (of 8)  
 **Reader difficulty:** ★★★☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** brudne pieniądze, nauka, słodziki, konflikt interesów, etyka  
 
 **Editorial notes:** Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -327,6 +333,8 @@ Chciała być naukowcem.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -400,6 +408,8 @@ Chciała być naukowcem.
 **Correct:** B
 **Explanation:** Końcowa refleksja mówi wprost o nauce bez prawdy jako narzędziu manipulacji.
 **Text reference:** Nauka bez prawdy to tylko narzędzie
+
+---
 
 ---
 

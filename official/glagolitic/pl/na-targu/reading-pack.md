@@ -11,11 +11,11 @@
 
 **Genres:** travel, short_story  
 **Series:** *(none)*  
-**Audience:** adult beginners  
+**Audience:** adult
 
-**Difficulty:** 4 (of 10)  
+**Difficulty:** 3 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 25 minutes  
+**Estimated reading time:** 13 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** współczesna Polska, Podhale  
@@ -33,12 +33,17 @@
 
 ---
 
+**Cover family:** travel
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Contributors  
 **Editor:** AlephBits Editorial  
 **LLM assisted:** no  
 **LLM model:** *(none)*  
+**Trust classification:** Fiction
 **Human reviewed:** yes — 2026-07-08  
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
@@ -49,6 +54,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-08 | Initial release — Collection Zero migration |
+
+---
 
 ---
 
@@ -96,6 +103,8 @@
 **Deprecated:** no  
 **Reference description:** Współczesny materiał o rynku w Nowym Targu.  
 **Editor notes:** Vault source block; reference only.
+
+---
 
 ---
 
@@ -373,6 +382,8 @@ I o tym, że zawsze można zacząć od nowa. Nawet przy minus dziewięciu stopni
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -418,6 +429,8 @@ I o tym, że zawsze można zacząć od nowa. Nawet przy minus dziewięciu stopni
 **Correct:** B  
 **Explanation:** Adam ma własne stoisko ze skórzanymi kurtkami i butami.  
 **Text reference:** „Sprzedawał skórzane kurtki i buty."
+
+---
 
 ---
 

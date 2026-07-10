@@ -11,11 +11,11 @@
 
 **Genres:** history, article  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 8 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★★☆  
-**Estimated reading time:** 13 minutes  
+**Estimated reading time:** 8 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** zaginięcie, śledztwo, monitoring, Gdynia  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** history
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -210,6 +218,8 @@ I wtedy prawda w końcu wyjdzie na jaw.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -255,6 +265,8 @@ I wtedy prawda w końcu wyjdzie na jaw.
 **Correct:** B
 **Explanation:** Sekcja „Punkt zero” podaje godzinę 4:12.
 **Text reference:** Godzina 4:12 nad ranem
+
+---
 
 ---
 

@@ -11,11 +11,11 @@
 
 **Genres:** history, article  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 8 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★★☆  
-**Estimated reading time:** 12 minutes  
+**Estimated reading time:** 7 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** Rejewski, Enigma, kryptologia, II wojna światowa  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** history
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -187,6 +195,8 @@ A pod nimi – napis, który mówi wszystko: "Tu zaczęła się historia zwycię
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -232,6 +242,8 @@ A pod nimi – napis, który mówi wszystko: "Tu zaczęła się historia zwycię
 **Correct:** B
 **Explanation:** Bomba symuluje działanie kilku Enigm i automatycznie sprawdza kombinacje.
 **Text reference:** elektromechaniczne urządzenie
+
+---
 
 ---
 

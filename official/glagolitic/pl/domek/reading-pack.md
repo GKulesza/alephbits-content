@@ -12,7 +12,7 @@
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 4 (of 8)  
 **Reader difficulty:** ★★☆☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** domek, bałagan, sprzątanie, mieszkanie, zmiana  
 
 **Editorial notes:** Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -227,6 +233,8 @@ Bo dom nie jest miejscem, gdzie się mieszka. Dom jest miejscem, gdzie się jest
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -300,6 +308,8 @@ Bo dom nie jest miejscem, gdzie się mieszka. Dom jest miejscem, gdzie się jest
 **Correct:** B
 **Explanation:** Końcowe zdanie mówi, że dom jest miejscem, gdzie się jest i gdzie się staje.
 **Text reference:** Dom jest miejscem, gdzie się jest
+
+---
 
 ---
 

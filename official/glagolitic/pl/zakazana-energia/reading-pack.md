@@ -11,11 +11,11 @@
 
 **Genres:** science_fiction, short_story  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 6 (of 10)  
+**Difficulty:** 5 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 10 minutes  
+**Estimated reading time:** 5 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -32,6 +32,10 @@
 **Keywords:** architektura, dworce, energia, spise  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** science_fiction
 
 ---
 
@@ -58,6 +62,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -69,6 +75,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -179,6 +187,8 @@ I może właśnie dlatego tajemnica wciąż trwała.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -224,6 +234,8 @@ I może właśnie dlatego tajemnica wciąż trwała.
 **Correct:** B
 **Explanation:** Wielokrotnie mówi „to niemożliwe”, choć dowody z kolejnych archiwów się kumulują.
 **Text reference:** To niemożliwe – powtarzała sobie
+
+---
 
 ---
 

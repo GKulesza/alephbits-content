@@ -11,11 +11,11 @@
 
 **Genres:** short_story  
 **Series:** *(none)*  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 2 (of 10)  
+**Difficulty:** 2 (of 8)
 **Reader difficulty:** ★☆☆☆☆  
-**Estimated reading time:** 3 minutes  
+**Estimated reading time:** 1 minutes
 
 **Publication date:** 2026  
 **Historical period:** współczesność  
@@ -30,6 +30,10 @@
 **Tags:** polish, verification, phase-66  
 
 **Editorial notes:** Created for Phase 66 remote publishing verification. Do not modify existing packs.
+
+---
+
+**Cover family:** short_story
 
 ---
 
@@ -53,6 +57,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Original micro-fiction (AlephBits)
@@ -64,6 +70,8 @@
 **Availability:** original  
 **Deprecated:** no  
 **Editor notes:** Written for pipeline verification only.
+
+---
 
 ---
 
@@ -88,6 +96,8 @@ Anna spojrzała na rzekę. Fale odbijały światło latarni jak krótkie, ciche 
 Pan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze kilka minut, słuchając wiatru. Gdy w końcu ruszyła w drogę powrotną, wiedziała już, że wróci tu jutro.
 
 **KONIEC**
+
+---
 
 ---
 
@@ -136,6 +146,8 @@ Pan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze k
 **Correct:** B
 **Explanation:** Ostatnie zdanie mówi, że wróci tu jutro.
 **Text reference:** wróci tu jutro
+
+---
 
 ---
 

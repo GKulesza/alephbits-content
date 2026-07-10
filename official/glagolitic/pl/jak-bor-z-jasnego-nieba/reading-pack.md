@@ -12,11 +12,11 @@
 **Genres:** biography, article  
 **Cover family:** biography  
 **Series:** Collection One  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 7 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 14 minutes  
+**Estimated reading time:** 8 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -33,6 +33,8 @@
 **Keywords:** BOR, wywiad, jednostka specjalna, adrenalina  
 
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
 
 ---
 
@@ -59,6 +61,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -70,6 +74,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
 
 ---
 
@@ -223,6 +229,8 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -268,6 +276,8 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 **Correct:** B
 **Explanation:** Już w podtytule pada zdanie o rzeczach, o których nie można mówić.
 **Text reference:** O KTÓRYCH NIGDY NIE BĘDĘ MÓGŁ POWIEDZIEĆ
+
+---
 
 ---
 

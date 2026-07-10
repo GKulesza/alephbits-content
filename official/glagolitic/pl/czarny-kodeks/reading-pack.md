@@ -11,11 +11,11 @@
 
 **Genres:** history, article  
 **Series:** Collection Three  
-**Audience:** adult readers  
+**Audience:** adult
 
-**Difficulty:** 7 (of 10)  
+**Difficulty:** 6 (of 8)
 **Reader difficulty:** ★★★★☆  
-**Estimated reading time:** 8 minutes  
+**Estimated reading time:** 7 minutes
 
 **Publication date:** *(original — 2026)*  
 **Historical period:** *(varies — see text)*  
@@ -35,6 +35,10 @@
 
 ---
 
+**Cover family:** history
+
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -42,7 +46,7 @@
 **LLM assisted:** yes  
 **LLM model:** GPT-5  
 **Human reviewed:** yes — 2026-07-09  
-**Trust classification:** history  
+**Trust classification:** Inspired by reality
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 03.06.2006 -> https://www.youtube.com/watch?v=mbEzHzDZGXs<br>09.07.2006 -> https://www.youtube.com/watch?v=LJ3Ca57IIOw  
@@ -53,6 +57,8 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
 
 ---
 
@@ -77,6 +83,8 @@
 **Availability:** adaptation  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -190,6 +198,8 @@ KONIEC
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -263,6 +273,8 @@ KONIEC
 **Correct:** B
 **Explanation:** W zakończeniu Janusz pisze o trwaniu ducha tego prawa w dzisiejszych uprzedzeniach.
 **Text reference:** jego duch wciąż żyje
+
+---
 
 ---
 

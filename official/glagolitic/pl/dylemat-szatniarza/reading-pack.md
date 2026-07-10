@@ -12,7 +12,7 @@
 **Genres:** article, short_story  
 **Cover family:** article  
 **Series:** Collection Four  
-**Audience:** adult readers  
+**Audience:** adult
 
 **Difficulty:** 6 (of 8)  
 **Reader difficulty:** ★★★☆☆  
@@ -33,6 +33,8 @@
 **Keywords:** dylemat szatniarza, polityka, Bruksela, szpital, wybory  
 
 **Editorial notes:** Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci.
+
+---
 
 ---
 
@@ -57,6 +59,8 @@
 
 ---
 
+---
+
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -68,6 +72,8 @@
 **Availability:** inspired  
 **Deprecated:** no  
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
 
 ---
 
@@ -285,6 +291,8 @@ A reszta – reszta to tylko teatr.
 
 ---
 
+---
+
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -358,6 +366,8 @@ A reszta – reszta to tylko teatr.
 **Correct:** B
 **Explanation:** Końcowa refleksja mówi, że potrzebuje wiedzieć, że rodzina jest bezpieczna, a reszta to teatr.
 **Text reference:** reszta to tylko teatr
+
+---
 
 ---
 

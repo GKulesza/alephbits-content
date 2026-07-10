@@ -159,62 +159,62 @@
       "title": "First Reads",
       "description": "Best introductory texts for new readers.",
       "packIds": [
-        "polish_wiatr_nad_rzeka",
         "polish_demo_lesson",
+        "polish_wiatr_nad_rzeka",
+        "polish_na_targu",
         "polish_przerwa",
+        "polish_trzynascie_zasad",
         "polish_wyraz_ktorego_nie_ma",
+        "polish_zasady",
         "polish_cel_na_ten_rok_to_nic",
         "polish_czarna_skrzynka",
-        "polish_domek",
-        "polish_dostrojony_dom",
-        "polish_gruby_dzienniczek",
-        "polish_kubek",
-        "polish_na_targu",
-        "polish_trzynascie_zasad",
-        "polish_zasady",
         "polish_czarny_mnich_z_nikiszowca",
+        "polish_domek",
         "polish_domysl_sie",
+        "polish_dostrojony_dom",
         "polish_dziewczyna_z_jelania",
+        "polish_gruby_dzienniczek",
         "polish_koniec_epoki_pudelek",
+        "polish_kubek",
         "polish_mamy_trupa_i_co_dalej",
-        "polish_oczy_ktore_nie_widza",
         "polish_prolog_wiatru",
-        "polish_susza",
-        "polish_worek_z_piaskiem",
-        "polish_brudne_pieniadze_czysta_nauka",
         "polish_cena_widoku",
         "polish_czarny_rynek_tokenow",
-        "polish_dylemat_szatniarza",
-        "polish_kamien_pamieci",
         "polish_misja_ktora_pekla",
+        "polish_oczy_ktore_nie_widza",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
+        "polish_susza",
+        "polish_worek_z_piaskiem",
         "polish_zakazana_energia",
         "polish_boliewicz",
+        "polish_brudne_pieniadze_czysta_nauka",
         "polish_cien_skrzydel_nad_oceanem",
+        "polish_cisza_przed_burza",
         "polish_czarny_kodeks",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
-        "polish_glosy_z_ziemi",
-        "polish_jak_bor_z_jasnego_nieba",
-        "polish_kamera_na_ulicy",
-        "polish_cisza_przed_burza",
+        "polish_dylemat_szatniarza",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_jak_bor_z_jasnego_nieba",
+        "polish_kamien_pamieci",
         "polish_kontrolowana_halucynacja",
-        "polish_metoda_feynmana"
+        "polish_metoda_feynmana",
+        "polish_glosy_z_ziemi",
+        "polish_kamera_na_ulicy"
       ]
     }
   ],
   "libraryStatistics": {
     "totalPacks": 42,
-    "totalWords": 34308,
-    "totalEstimatedReadingTimeMinutes": 410,
+    "totalWords": 58798,
+    "totalEstimatedReadingTimeMinutes": 318,
     "languageCount": 1,
     "writingSystemCount": 1,
     "categoryCount": 18,
     "largestPack": {
       "id": "polish_na_targu",
       "bookId": "na-targu",
-      "wordCount": 2501
+      "wordCount": 2502
     },
     "newestPack": {
       "id": "polish_brudne_pieniadze_czysta_nauka",
@@ -241,8 +241,9 @@
         "biography",
         "history"
       ],
-      "difficulty": 7,
-      "estimatedReadingTime": 11,
+      "coverFamily": "biography",
+      "difficulty": 6,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -295,8 +296,8 @@
         "short_story"
       ],
       "coverFamily": "article",
-      "difficulty": 6,
-      "estimatedReadingTime": 10,
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -312,8 +313,9 @@
         "article",
         "popular_science"
       ],
-      "difficulty": 7,
-      "estimatedReadingTime": 13,
+      "coverFamily": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -329,8 +331,9 @@
         "history",
         "article"
       ],
-      "difficulty": 8,
-      "estimatedReadingTime": 12,
+      "coverFamily": "history",
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -364,8 +367,9 @@
         "history",
         "article"
       ],
-      "difficulty": 7,
-      "estimatedReadingTime": 8,
+      "coverFamily": "history",
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -381,8 +385,9 @@
         "legend",
         "history"
       ],
-      "difficulty": 5,
-      "estimatedReadingTime": 6,
+      "coverFamily": "legend",
+      "difficulty": 4,
+      "estimatedReadingTime": 5,
       "featured": true
     },
     {
@@ -397,8 +402,9 @@
       "categories": [
         "article"
       ],
-      "difficulty": 6,
-      "estimatedReadingTime": 7,
+      "coverFamily": "article",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -414,8 +420,9 @@
         "popular_science",
         "article"
       ],
-      "difficulty": 7,
-      "estimatedReadingTime": 9,
+      "coverFamily": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -449,8 +456,9 @@
         "short_story",
         "dialogue"
       ],
-      "difficulty": 5,
-      "estimatedReadingTime": 12,
+      "coverFamily": "short_story",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -502,8 +510,9 @@
         "history",
         "article"
       ],
-      "difficulty": 8,
-      "estimatedReadingTime": 13,
+      "coverFamily": "history",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -520,8 +529,8 @@
         "short_story"
       ],
       "coverFamily": "travel",
-      "difficulty": 5,
-      "estimatedReadingTime": 11,
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -574,8 +583,8 @@
         "article"
       ],
       "coverFamily": "biography",
-      "difficulty": 7,
-      "estimatedReadingTime": 14,
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -626,8 +635,9 @@
       "categories": [
         "article"
       ],
-      "difficulty": 5,
-      "estimatedReadingTime": 7,
+      "coverFamily": "article",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -643,8 +653,9 @@
         "popular_science",
         "short_story"
       ],
-      "difficulty": 8,
-      "estimatedReadingTime": 10,
+      "coverFamily": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -678,7 +689,8 @@
         "instruction",
         "article"
       ],
-      "difficulty": 5,
+      "coverFamily": "instruction",
+      "difficulty": 4,
       "estimatedReadingTime": 6,
       "featured": true
     },
@@ -695,8 +707,9 @@
         "popular_science",
         "article"
       ],
-      "difficulty": 8,
-      "estimatedReadingTime": 9,
+      "coverFamily": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -713,8 +726,8 @@
         "article"
       ],
       "coverFamily": "instruction",
-      "difficulty": 6,
-      "estimatedReadingTime": 9,
+      "difficulty": 5,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -730,8 +743,9 @@
         "travel",
         "short_story"
       ],
-      "difficulty": 4,
-      "estimatedReadingTime": 25,
+      "coverFamily": "travel",
+      "difficulty": 3,
+      "estimatedReadingTime": 13,
       "featured": true
     },
     {
@@ -766,8 +780,8 @@
         "short_story"
       ],
       "coverFamily": "biography",
-      "difficulty": 5,
-      "estimatedReadingTime": 10,
+      "difficulty": 4,
+      "estimatedReadingTime": 5,
       "featured": true
     },
     {
@@ -802,8 +816,8 @@
         "short_story"
       ],
       "coverFamily": "article",
-      "difficulty": 6,
-      "estimatedReadingTime": 10,
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -819,8 +833,9 @@
         "travel",
         "article"
       ],
-      "difficulty": 6,
-      "estimatedReadingTime": 14,
+      "coverFamily": "travel",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -836,8 +851,9 @@
         "travel",
         "demo"
       ],
-      "difficulty": 3,
-      "estimatedReadingTime": 8,
+      "coverFamily": "travel",
+      "difficulty": 2,
+      "estimatedReadingTime": 2,
       "featured": true
     },
     {
@@ -855,7 +871,7 @@
       ],
       "coverFamily": "nature",
       "difficulty": 5,
-      "estimatedReadingTime": 9,
+      "estimatedReadingTime": 10,
       "featured": true
     },
     {
@@ -871,8 +887,9 @@
         "instruction",
         "article"
       ],
-      "difficulty": 4,
-      "estimatedReadingTime": 18,
+      "coverFamily": "instruction",
+      "difficulty": 3,
+      "estimatedReadingTime": 10,
       "featured": true
     },
     {
@@ -887,8 +904,9 @@
       "categories": [
         "short_story"
       ],
+      "coverFamily": "short_story",
       "difficulty": 2,
-      "estimatedReadingTime": 3,
+      "estimatedReadingTime": 1,
       "featured": true
     },
     {
@@ -940,8 +958,9 @@
         "science_fiction",
         "short_story"
       ],
-      "difficulty": 6,
-      "estimatedReadingTime": 10,
+      "coverFamily": "science_fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 5,
       "featured": true
     },
     {
@@ -957,8 +976,9 @@
         "instruction",
         "article"
       ],
-      "difficulty": 4,
-      "estimatedReadingTime": 8,
+      "coverFamily": "instruction",
+      "difficulty": 3,
+      "estimatedReadingTime": 4,
       "featured": true
     }
   ]
