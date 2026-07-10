@@ -103,7 +103,7 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
   }
 
   final packIds = <String>{};
-  final bookIds = <String>{};
+  final bookIdOwners = <String, String>{};
   var officialCount = 0;
 
   for (var i = 0; i < packs.length; i++) {
@@ -128,7 +128,14 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
     packIds.add(id);
 
     if (bookId is String && bookId.isNotEmpty) {
-      bookIds.add(bookId);
+      final existing = bookIdOwners[bookId];
+      if (existing != null) {
+        errors.add(
+          'manifest.json: duplicate bookId "$bookId" (packs "$existing" and "$id")',
+        );
+      } else {
+        bookIdOwners[bookId] = id;
+      }
     }
 
     if (path is! String || path.isEmpty) {
