@@ -1,0 +1,41 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie rozgrywa się scena?",
+      "answers": [
+        "Na rynku w Krakowie",
+        "Na bulwarze nad Wisłą",
+        "W lesie pod Warszawą",
+        "Na dworcu kolejowym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi wprost o bulwarze i Wiśle."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi starszy pan o wietrze?",
+      "answers": [
+        "Że wiatr jest zawsze zimny",
+        "Że wiatr pamięta to, co niosła woda",
+        "Że wiatr zatrzymuje most",
+        "Że wiatr nie wraca nigdy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pan mówi, że wiatr pamięta wszystko, co niosła woda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anna postanawia na końcu?",
+      "answers": [
+        "Nigdy tu nie wracać",
+        "Wrócić jutro",
+        "Pojechać do morza",
+        "Zadzwonić do przyjaciela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ostatnie zdanie mówi, że wróci tu jutro."
+    }
+  ]
+}

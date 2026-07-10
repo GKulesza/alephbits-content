@@ -1,0 +1,22 @@
+{
+  "packId": "polish_wiatr_nad_rzeka",
+  "bookId": "wiatr-nad-rzeka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Written for pipeline verification only."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Original micro-fiction (AlephBits)"
+    }
+  ],
+  "revisionNotes": "Phase 66 verification pack — new lessonId only."
+}

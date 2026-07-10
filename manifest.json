@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-09T00:00:00Z",
-  "officialPackCount": 25,
+  "generatedAt": "2026-07-10T00:00:00Z",
+  "officialPackCount": 26,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -98,6 +98,7 @@
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
         "polish_trzynascie_zasad",
+        "polish_wiatr_nad_rzeka",
         "polish_zakazana_energia",
         "polish_zasady"
       ]
@@ -107,6 +108,7 @@
       "title": "First Reads",
       "description": "Best introductory texts for new readers.",
       "packIds": [
+        "polish_wiatr_nad_rzeka",
         "polish_demo_lesson",
         "polish_na_targu",
         "polish_trzynascie_zasad",
@@ -136,9 +138,9 @@
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 25,
-    "totalWords": 33008,
-    "totalEstimatedReadingTimeMinutes": 270,
+    "totalPacks": 26,
+    "totalWords": 33133,
+    "totalEstimatedReadingTimeMinutes": 273,
     "languageCount": 1,
     "writingSystemCount": 1,
     "categoryCount": 11,
@@ -148,9 +150,9 @@
       "wordCount": 2501
     },
     "newestPack": {
-      "id": "polish_boliewicz",
-      "bookId": "boliewicz",
-      "updated": "2026-07-09"
+      "id": "polish_wiatr_nad_rzeka",
+      "bookId": "wiatr-nad-rzeka",
+      "updated": "2026-07-10"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -552,6 +554,22 @@
       ],
       "difficulty": 4,
       "estimatedReadingTime": 18,
+      "featured": true
+    },
+    {
+      "id": "polish_wiatr_nad_rzeka",
+      "bookId": "wiatr-nad-rzeka",
+      "path": "official/glagolitic/pl/wiatr-nad-rzeka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Wiatr nad rzeką",
+      "version": "1.0.0",
+      "categories": [
+        "short_story"
+      ],
+      "difficulty": 2,
+      "estimatedReadingTime": 3,
       "featured": true
     },
     {

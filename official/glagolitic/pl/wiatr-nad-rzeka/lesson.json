@@ -1,0 +1,71 @@
+{
+  "id": "polish_wiatr_nad_rzeka",
+  "title": "Wiatr nad rzeką",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Krótka scena nad Wisłą — pakiet utworzony wyłącznie do weryfikacji zdalnego publikowania (Phase 66).",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Original micro-fiction (AlephBits)",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "Micro-fiction for remote publishing verification.",
+  "text": "**WIATR NAD RZEKĄ**\n\nAnna stanęła na bulwarze i poczuła chłód wiatru nad Wisłą. Miasto szumiało w tle, ale tutaj, przy wodzie, wszystko wydawało się wolniejsze.\n\nObok niej usiadł starszy pan w granatowej kurtce. Przez chwilę milczeli. Potem powiedział:\n\n— Wiatr dziś pamięta wszystko, co niosła woda.\n\nAnna uśmiechnęła się.\n\n— A pan skąd to wie?\n\n— Bo codziennie tu wracam — odparł. — I za każdym razem wiatr niesie coś innego.\n\nAnna spojrzała na rzekę. Fale odbijały światło latarni jak krótkie, ciche błyski. Pomyślała, że może właśnie tak wygląda chwila, w której warto przestać biec.\n\nPan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze kilka minut, słuchając wiatru. Gdy w końcu ruszyła w drogę powrotną, wiedziała już, że wróci tu jutro.\n\n**KONIEC**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gdzie rozgrywa się scena?",
+        "answers": [
+          "Na rynku w Krakowie",
+          "Na bulwarze nad Wisłą",
+          "W lesie pod Warszawą",
+          "Na dworcu kolejowym"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tekst mówi wprost o bulwarze i Wiśle."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co mówi starszy pan o wietrze?",
+        "answers": [
+          "Że wiatr jest zawsze zimny",
+          "Że wiatr pamięta to, co niosła woda",
+          "Że wiatr zatrzymuje most",
+          "Że wiatr nie wraca nigdy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pan mówi, że wiatr pamięta wszystko, co niosła woda."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Anna postanawia na końcu?",
+        "answers": [
+          "Nigdy tu nie wracać",
+          "Wrócić jutro",
+          "Pojechać do morza",
+          "Zadzwonić do przyjaciela"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ostatnie zdanie mówi, że wróci tu jutro."
+      }
+    ]
+  },
+  "audience": "adult readers"
+}
