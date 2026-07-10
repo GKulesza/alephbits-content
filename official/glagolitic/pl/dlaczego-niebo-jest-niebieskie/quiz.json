@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie — II. Oczy, które nie widzą",
+  "title": "Sprawdź zrozumienie — Dlaczego niebo jest niebieskie?",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „II. Oczy, które nie widzą”?",
+      "question": "O czym opowiada tekst „Dlaczego niebo jest niebieskie?”?",
       "answers": [
-        "Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zm…",
+        "Kiedy rankiem otwieramy oczy i patrzymy w górę, widzimy znajomy widok – jasne, b…",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
@@ -17,41 +17,41 @@
       "type": "single_choice",
       "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
       "answers": [
-        "adult",
+        "family",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: adult."
+      "explanation": "Metadane redakcyjne wskazują grupę: family."
     },
     {
       "type": "single_choice",
       "question": "Jaki rodzaj treści reprezentuje ten materiał?",
       "answers": [
-        "short_story",
+        "popular_science",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii short_story."
+      "explanation": "Tekst sklasyfikowano w kategorii popular_science."
     },
     {
       "type": "single_choice",
       "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
       "answers": [
-        "3",
+        "9",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 3 minut."
+      "explanation": "Szacowany czas czytania: ok. 9 minut."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „II. Oczy, które nie widzą” kończy się zdaniem domykającym opowieść?",
+      "question": "Czy tekst „Dlaczego niebo jest niebieskie?” kończy się zdaniem domykającym opowieść?",
       "answers": [
         "tak",
         "Inna odpowiedź",

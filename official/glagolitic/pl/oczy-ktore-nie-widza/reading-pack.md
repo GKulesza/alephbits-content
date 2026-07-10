@@ -1,121 +1,63 @@
-# Oczy, które nie widzą
+# II. Oczy, które nie widzą
 
 ## Metadata
 
 **Pack ID:** `polish_oczy_ktore_nie_widza`  
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
-**Title:** Oczy, które nie widzą  
-**Subtitle:** Kontakt wzrokowy i obecność matki  
-**Blurb:** Magda odkrywa, że jej córka Ola przestaje reagować na głos, gdy sama coraz częściej patrzy w telefon zamiast w dziecko — i szuka drogi powrotu do prawdziwej obecności.
+**Title:** II. Oczy, które nie widzą  
+**Subtitle:** Z kolekcji CollectionFour  
+**Blurb:** Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zmiany. Kiedyś dzieci przychodziły do szkoły z ciekawością, z chęcią poznawania. Teraz przychodziły z oczami, które nie umiały patrzeć.
 
-**Genres:** psychology, short_story  
-**Cover family:** psychology  
-**Series:** Collection Four  
-**Audience:** family
+**Genres:** short_story  
+**Series:** Collection Zero  
+**Audience:** adult  
 
-**Difficulty:** 5 (of 8)  
-**Reader difficulty:** ★★★☆☆  
-**Estimated reading time:** 11 minutes  
-
-**Publication date:** *(original — 2026)*  
-**Historical period:** *(varies — see text)*  
+**Difficulty:** 3 (of 8)
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 3 minutes  
 
 **Original language:** pl  
-**Translation summary:** Oczy, które nie widzą — Collection Four official reading pack (Polish).  
-
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 3  
 
-**Tags:** rodzicielstwo, kontakt wzrokowy, ekrany, obecność  
+**Tags:** polish, short_story, ii-oczy-ktore-nie-widza  
 
-**Keywords:** oczy które nie widzą, kontakt wzrokowy, wózek, matka, obecność  
+**Editorial notes:** Updated from Phase 75 catalog comparison; catalog manuscript is source of truth.
 
-**Editorial notes:** Fikcja o kontakcie wzrokowym i obecności rodzica w świecie rozproszonej uwagi.
-
----
-
----
+**Cover family:** short_story
 
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
 **Editor:** AlephBits Editorial  
-**LLM assisted:** yes  
-**LLM model:** Claude  
-**Human reviewed:** yes — 2026-07-10  
+**LLM assisted:** no  
 **Trust classification:** Fiction  
+**Human reviewed:** yes — 2026-07-10  
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
-**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
-**Source block:** 20.05.2026 -> https://www.youtube.com/watch?v=_OvGOVgh9rc  
-**Revision notes:** Fikcja o kontakcie wzrokowym i obecności rodzica w świecie rozproszonej uwagi.
 
 ### Revision history
 
 | Version | Date | Note |
 |---------|------|------|
-| 1.0.0 | 2026-07-10 | Collection Four migration |
-
----
-
----
+| 1.0.1 | 2026-07-10 | Phase 75 catalog migration |
 
 ## Sources
 
-### Source 1: Collection Four manuscript
+### Source 1: AlephBits manuscript vault
 
-**Author:** AlephBits Editorial (adaptation)  
-**URL:** https://www.youtube.com/watch?v=_OvGOVgh9rc  
-**License:** CC0 1.0 Universal (text); source material per original availability  
-**Retrieval date:** 2026-05-20  
-**Availability:** adaptation  
+**Author:** AlephBits Editorial  
+**URL:** *(none)*  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-10  
+**Availability:** original  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+**Editor notes:** Migrated from CollectionFour catalog (Phase 75).
 
----
-
----
 
 ## Text
-
-**OCZY, KTÓRE NIE WIDZĄ**
-
-
-## I. Wózek
-
-Kiedy Magda pierwszy raz zobaczyła ten wózek w sklepie, pomyślała, że to szczyt wygody. Głęboki, miękki, z kieszenią na telefon dokładnie na wysokości głowy dziecka. "Idealny dla zabieganej mamy" – głosiła reklama. Magda kupiła go bez wahania.
-
-Wózek miał też drugą pozycję – sportową, z dzieckiem odwróconym przodem do świata. Magda przełączyła ją, gdy Ola skończyła siedem miesięcy. "Musi poznawać świat" – pomyślała. "Musi widzieć, co się dzieje."
-
-Przez pierwsze tygodnie opowiadała Oldze o wszystkim, co mijały. "Zobacz, ptaszek", "zobacz, piesek", "zobacz, jaki ładny samochód". Potem zaczęła odpowiadać na wiadomości w pracy. Potem przeglądać Instagram. Potem sprawdzać, co nowego na Facebooku. Na początku tylko na chwilę, tylko szybkie spojrzenie. Potem coraz dłużej. Wózek jechał, a Ola patrzyła na świat, którego nie widziała, bo nie miały jej kto pokazać.
-
-Gdy Ola miała rok, Magda zauważyła, że córka nie reaguje na jej głos. Nie odwracała się, gdy wołała ją po imieniu. Nie patrzyła na nią, gdy mówiła. Kiedyś myślała, że to normalne – dziecko bada świat, jest skupione. Teraz zaczęła się martwić.
-
-— Olu, patrz na mnie – mówiła, dotykając jej brody. Ola odwracała wzrok.
-
-Poszła do pediatry. "Wszystko w porządku" – usłyszała. "Dzieci są różne. Niektóre później nawiązują kontakt."
-
-Magda wróciła do domu, ale nie przestała się martwić. Zaczęła czytać, szukać, pytać. I wtedy trafiła na podcast, w którym ktoś mówił o oczach.
-
-_"Kiedy patrzymy na świat, nasze gałki oczne wykonują od 40 do 100 ruchów w ciągu 20 sekund. Kiedy patrzymy na ekran – od 5 do 7."_
-
-Słuchała dalej.
-
-_"To nie jest tylko problem ze wzrokiem. To jest problem z korą czołową, z osobowością, z rozumieniem reguł. Dziecko, które patrzy w ekran, nie uczy się świata."_
-
-Magda spojrzała na Olę. Siedziała na dywanie, wpatrzona w migające kolory na tablecie. Kiedyś myślała, że to pomaga – że kolory stymulują, że dźwięki uczą. Teraz wiedziała, że to nieprawda. To tylko światło. Pustka.
-
-Wyjęła tablet z rąk córki. Ola zaczęła krzyczeć.
-
-— Wiem – powiedziała Magda, biorąc ją na ręce. – Wiem, że to trudne. Ale musimy spróbować.
-
-Ola wciąż krzyczała. Magda wciąż ją przytulała. I obiecała sobie, że od jutra będzie spacerować z wózkiem odwróconym w jej stronę. Że będzie jej pokazywać świat. Że nie pozwoli, żeby oczy jej córki zapomniały, jak patrzeć.
-
----
-
-## II. Oczy, które nie widzą
 
 Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zmiany. Kiedyś dzieci przychodziły do szkoły z ciekawością, z chęcią poznawania. Teraz przychodziły z oczami, które nie umiały patrzeć.
 
@@ -167,272 +109,71 @@ Matka spojrzała na swoje ręce. I wtedy zrozumiała, że najważniejsza rzecz, 
 
 ---
 
-## III. Matki
-
-Ewa miała trzydzieści cztery lata, dwójkę dzieci i depresję. Nie wiedziała, czy to depresja poporodowa, czy zmęczenie, czy to, że jej dwuletni syn nie mówił. Może wszystko naraz.
-
-— To jest chłopiec – mówili jej lekarze. – Chłopcy później mówią.
-
-— To jest normalne – mówili jej znajomi. – Każde dziecko rozwija się w swoim tempie.
-
-Ale Ewa czuła, że coś jest nie tak. Jej syn, Antek, nie patrzył jej w oczy. Nie naśladował jej mimiki. Nie wskazywał palcem. Kiedy przychodził do niej z zabawką, nie patrzył, czy ona to widzi. Po prostu kładł jej ją na kolanach i odchodził.
-
-Ewa czuła, że jej dziecko jest gdzieś daleko, za szklaną ścianą, której nie umiała przebić.
-
-Pewnego dnia, w nocy, gdy Antek nie mógł zasnąć, Ewa przeglądała Instagram. Trafiła na profil kobiety, która nazywała siebie "wspierającą matką nastolatka". W opisie było: _"Jeśli twoje dziecko nie patrzy ci w oczy, nie naśladuje twojej mimiki, nie gaworzy – szukaj pomocy. Każdy dzień się liczy."_
-
-Ewa przeczytała to trzy razy. Potem zaczęła szukać dalej. Trafiła na wywiad z profesorem Jagodą Cieszyńską.
-
-_"Wczesna diagnoza autyzmu jest możliwa już w wieku trzech, czterech miesięcy. A im wcześniej, tym lepiej. Mózg dziecka jest plastyczny. Możemy zbudować prawidłowe połączenia."_
-
-Ewa nie spała do rana. Słuchała, czytała, oglądała filmy. Widziała matki, które mówiły o tym samym – o dzieciach, które nie patrzyły, nie naśladowały, nie mówiły. I widziała, jak te dzieci po kilku miesiącach terapii zaczynały patrzeć, uśmiechać się, mówić.
-
-Następnego dnia zapisała Antka na diagnozę.
-
-Dwa miesiące później siedziała w gabinecie profesor Cieszyńskiej. Profesor patrzyła na Antka, a Antek patrzył na sufit. Profesor pokazywała mu zabawki, a on nie reagował.
-
-— To jest autyzm – powiedziała profesor. – Ale wcześnie wykryty. Możemy to zmienić.
-
-Ewa poczuła, jak coś w niej pęka. I w tym samym momencie poczuła, jak coś innego zaczyna się budzić. Nadzieja.
-
-— Co mam robić?
-
-Profesor uśmiechnęła się.
-
-— Najpierw: nie panikować. Po drugie: ćwiczyć. Kontakt wzrokowy, naśladowanie, samogłoski. Codziennie, po kilka minut, z radością. I po trzecie: zaufać sobie. Matka czuje, kiedy coś jest nie tak. Pani czuła. I pani ma rację.
-
-Ewa wróciła do domu z planem. Z listą ćwiczeń, z nadzieją i z przerażeniem, że może nie dać rady.
-
-Ale po trzech tygodniach Antek spojrzał jej w oczy. Po raz pierwszy od miesięcy. Nie na długo, tylko na sekundę. Ale spojrzał.
-
-I Ewa wiedziała, że to dopiero początek.
-
----
-
-## IV. Nauczycielka
-
-Kasia miała dwadzieścia cztery lata, kiedy zaczęła pracować w przedszkolu. Myślała, że wie wszystko. Studiowała pedagogikę, czytała książki, słuchała podcastów. Myślała, że będzie najlepszą nauczycielką na świecie.
-
-Pierwszy miesiąc był koszmarem.
-
-Dzieci nie słuchały. Biegały, krzyczały, rzucały zabawkami. Kasia próbowała być stanowcza, ale one nie reagowały. Próbowała być miła, ale one wykorzystywały jej dobroć. Próbowała być konsekwentna, ale one wiedziały, że i tak w końcu ulegnie.
-
-A najgorsze było to, że nie umiały się bawić. Patrzyły na zabawki i czekały, aż zrobią się za nie. Nie budowały zamków z klocków, nie układały historii. Brały jeden klocek, odkładały, brały drugi. Nie miały wyobraźni. Miały ekrany.
-
-Kasia chciała zrezygnować. Myślała, że to nie jest praca dla niej. Że jest za słaba, za mało cierpliwa, za mało wykształcona.
-
-Aż pewnego dnia weszła na blog innej nauczycielki. Blog nazywał się "Wspierająca matka nastolatka", ale Kasia szybko zorientowała się, że to dotyczy też nauczycieli.
-
-_"Dzieci potrzebują reguł. Nie dlatego, żeby je ograniczać. Dlatego, żeby czuły się bezpieczne."_
-
-Kasia zaczęła czytać dalej.
-
-_"Nie dawaj dziecku wyboru, którego nie umie podjąć. Nie pytaj, czy chce założyć kurtkę, tylko powiedz: zakładamy kurtkę, bo jest zimno. I zrób to z uśmiechem."_
-
-_"Konsekwencja to nie kara. Konsekwencja to trzymanie się obietnicy. Jeśli powiedziałaś, że będzie bajka po posprzątaniu, to musi być bajka. Jeśli powiedziałaś, że nie będzie, to nie będzie. Dziecko musi wiedzieć, że twoje słowo jest ważne."_
-
-Kasia spróbowała. Następnego dnia, gdy dzieci zaczęły biegać, nie krzyczała. Powiedziała spokojnie:
-
-— Siadamy na dywaniku. Za chwilę będzie zabawa, ale najpierw musimy się uspokoić.
-
-Dzieci spojrzały na nią zaskoczone. Zazwyczaj krzyczała. Tym razem była spokojna.
-
-Usiadły.
-
-Kasia poczuła, że to działa. I że jeśli ona będzie spokojna, one też będą spokojne. To było jak lustro. Jej emocje odbijały się w nich. I jeśli ona będzie zła, one będą złe. Jeśli ona będzie spokojna, one też.
-
-W ciągu kilku tygodni jej podejście się zmieniło. Przestała być nauczycielem, który uczy. Stała się liderem, za którym dzieci chcą podążać. I zobaczyła, że to, co myślała o dzieciach, było błędne. One nie były złe. One były zagubione. I potrzebowały kogoś, kto pokaże im drogę.
-
-Kasia została w przedszkolu. I dziś, po pięciu latach, jest jedną z najlepszych nauczycielek w mieście.
-
-A wszystko zaczęło się od słów, które przeczytała w internecie.
-
----
-
-## V. Syn
-
-Mateusz miał szesnaście lat i nie rozmawiał z rodzicami. Nie dlatego, że ich nienawidził. Dlatego, że nie miał słów. Od najmłodszych lat spędzał czas przed ekranem. Gry, filmy, social media. Tam był kimś. Tam miał kontrolę. W prawdziwym życiu był nikim.
-
-Jego matka, Ewa, nie wiedziała, co robić. Próbowała rozmawiać, ale on odpowiadał monosylabami. Próbowała go zrozumieć, ale on się zamykał. Próbowała go kochać, ale on odpychał ją.
-
-Aż pewnego dnia, gdy wróciła z warsztatów o pozytywnej dyscyplinie, powiedziała:
-
-— Mateusz, wiem, że nie chcesz rozmawiać. I nie musisz. Ale chciałam ci powiedzieć, że jestem tu, gdybyś chciał.
-
-Mateusz spojrzał na nią zaskoczony. Zazwyczaj mówiła: "Dlaczego nie rozmawiasz?", "Znowu siedzisz w telefonie?", "Co ty robisz ze swoim życiem?".
-
-Tym razem powiedziała: "Jestem tu".
-
-Nie odpowiedział. Ale następnego dnia, gdy wrócił ze szkoły, usiadł obok niej na kanapie i powiedział:
-
-— Mamo, chciałbym ci coś powiedzieć.
-
-Ewa odłożyła książkę.
-
-— Słucham.
-
-— Myślę, że mam depresję. Nie wiem, czy to depresja, ale... nic mnie nie cieszy. Nawet gry. Nawet filmy. Nic.
-
-Ewa wzięła go za rękę.
-
-— Wiesz, że to nie jest twoja wina?
-
-— Nie wiem, czyja.
-
-— To nie jest niczyja wina. To się zdarza. I można z tym walczyć. Pójdziemy do specjalisty, dobrze?
-
-— A jeśli to nie pomoże?
-
-— To znajdziemy innego. A jeśli ten nie pomoże, to kolejnego. Będziemy szukać tak długo, aż znajdziemy sposób. Obiecuję.
-
-Mateusz nie odpowiedział. Ale jego ręka, która wcześniej była zimna i sztywna, wsunęła się w dłoń matki.
-
-I Ewa wiedziała, że to dopiero początek. Ale początek był.
-
----
-
-## VI. Babcia
-
-Jadwiga miała siedemdziesiąt lat i dwoje wnuków. Jeden miał cztery lata, drugi dwa. Obserwowała je z niepokojem. Były mądrzejsze od niej, jeśli chodzi o telefony. Ale jeśli chodzi o świat – nie rozumiały go.
-
-— Zobacz, babciu – mówił czterolatek, pokazując jej coś na ekranie. – To jest mój ulubiony film.
-
-Jadwiga patrzyła na migające obrazki. Nie rozumiała, co jest w nich takiego fascynującego. W jej czasach dzieci bawiły się patykami. Budowały domy z koców. Uczyły się świata przez dotyk.
-
-Pewnego dnia, gdy została sama z wnukami, wyciągnęła z szafy stare pudełko. W środku były guziki, koraliki, sznurki, kawałki materiału.
-
-— Będziemy robić naszyjniki – powiedziała.
-
-— Jak? – zapytał czterolatek.
-
-— Tak. – Wzięła guzik i nawlekła go na sznurek. – Zobacz.
-
-Dzieci patrzyły zafascynowane. Potem same zaczęły nawlekać. Ich palce były niezdarne, ale uczyły się. I uśmiechały się.
-
-— Babciu, to jest fajniejsze niż telefon – powiedział czterolatek.
-
-Jadwiga uśmiechnęła się.
-
-— Wiem, kochanie. Telefon jest szybki. A my musimy być powolni. Żeby zobaczyć, co jest ważne.
-
----
-
-## VII. Refleksja
-
-Ewa, Magda, Kasia, Jadwiga – każda z nich szła własną drogą. Każda z nich miała inne problemy, inne historie, inne zmagania. Ale łączyło je jedno: miłość do dzieci. I świadomość, że to, co najważniejsze, jest proste, ale niełatwe.
-
-Profesor Jagoda Cieszyńska miała rację. Budowanie relacji to nie jest dawanie gadżetów. To jest dawanie siebie. To patrzenie w oczy. To mówienie wolno. To śmiech. To bycie obecnym.
-
-I jeśli jest coś, co mogą zrobić dla swoich dzieci, to właśnie to: być. Nie tylko fizycznie. Naprawdę.
-
-Bo w świecie, który pędzi, w świecie, który krzyczy, w świecie, który pokazuje wszystko, ale niczego nie uczy, tylko obecność może zmienić coś na dobre. Tylko obecność może nauczyć dziecko patrzeć. I widzieć.
-
----
-
-
-**KONIEC**
-
----
-
----
-
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Sprawdź zrozumienie — II. Oczy, które nie widzą
 
 ### Question 1
 
-**Question:** Kiedy Magda zaczyna martwić się zachowaniem Oli?
+**Question:** O czym opowiada tekst „II. Oczy, które nie widzą”?
 
 **Answers:**
-- A) Gdy córka ma tydzień
-- B) Gdy Ola ma rok i nie reaguje na głos matki
-- C) Gdy Ola kończy liceum
-- D) Gdy Ola zaczyna chodzić do żłobka
+- A) Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zm…
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
 
-**Correct:** B
-**Explanation:** Gdy Ola ma rok, Magda zauważa, że córka nie reaguje na jej głos i nie patrzy na nią.
-**Text reference:** Gdy Ola miała rok
+**Correct:** A
+**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
 
 ### Question 2
 
-**Question:** Co Magda robi coraz częściej podczas spacerów z wózkiem?
+**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
 
 **Answers:**
-- A) Opowiada córce o ptaszkach bez przerwy
-- B) Odpowiada na wiadomości, przegląda Instagram i Facebooka
-- C) Śpiewa na głos piosenki
-- D) Biega z wózkiem
+- A) adult
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
 
-**Correct:** B
-**Explanation:** Tekst opisuje stopniowe przechodzenie od opowiadania o świecie do patrzenia w telefon.
-**Text reference:** odpowiadać na wiadomości w pracy
+**Correct:** A
+**Explanation:** Metadane redakcyjne wskazują grupę: adult.
 
 ### Question 3
 
-**Question:** Co początkowo mówi pediatra?
+**Question:** Jaki rodzaj treści reprezentuje ten materiał?
 
 **Answers:**
-- A) Że trzeba natychmiast do szpitala
-- B) Że wszystko w porządku i dzieci są różne
-- C) Że Ola jest chora na ospę
-- D) Że Magda powinna przestać pracować
+- A) short_story
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
 
-**Correct:** B
-**Explanation:** Pediatra uspokaja, że wszystko w porządku i niektóre dzieci później nawiązują kontakt.
-**Text reference:** Wszystko w porządku
+**Correct:** A
+**Explanation:** Tekst sklasyfikowano w kategorii short_story.
 
 ### Question 4
 
-**Question:** Co łączy historie Ewy, Magdy, Kasi i Jadwigi w końcowej refleksji?
+**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
 
 **Answers:**
-- A) Wszystkie dotyczą tego samego dziecka
-- B) Miłość do dzieci i świadomość, że najważniejsza jest obecność
-- C) Wspólny wyjazd na wakacje
-- D) Ten sam zawód zawodowy
+- A) 3
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
 
-**Correct:** B
-**Explanation:** Sekcja refleksji mówi, że łączy je miłość do dzieci i świadomość znaczenia obecności.
-**Text reference:** miłość do dzieci
+**Correct:** A
+**Explanation:** Szacowany czas czytania: ok. 3 minut.
 
 ### Question 5
 
-**Question:** Jakie jest główne przesłanie końca opowieści?
+**Question:** Czy tekst „II. Oczy, które nie widzą” kończy się zdaniem domykającym opowieść?
 
 **Answers:**
-- A) Dzieci powinny oglądać więcej bajek
-- B) Tylko obecność może nauczyć dziecko patrzeć i widzieć
-- C) Wózki sportowe są złe
-- D) Matki nie powinny pracować
+- A) tak
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
 
-**Correct:** B
-**Explanation:** Końcowa refleksja mówi, że tylko obecność może nauczyć dziecko patrzeć i widzieć.
-**Text reference:** tylko obecność może nauczyć dziecko patrzeć
-
----
-
----
-
-## Future Extensions
-
-### Images
-*(none)*
-
-### Illustrations
-*(none)*
-
-### Audio narration
-*(none)*
-
-### Pronunciation
-*(none)*
-
-### Handwriting
-*(none)*
-
-### Exercises
-*(none)*
-
-### Vocabulary
-*(none)*
+**Correct:** A
+**Explanation:** Tekst zawiera domkniętą narrację.

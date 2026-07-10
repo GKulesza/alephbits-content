@@ -3,7 +3,7 @@
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
   "generatedAt": "2026-07-10T00:00:00Z",
-  "officialPackCount": 42,
+  "officialPackCount": 50,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -121,6 +121,7 @@
         "polish_czarny_mnich_z_nikiszowca",
         "polish_czarny_rynek_tokenow",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+        "polish_dlaczego_niebo_jest_niebieskie",
         "polish_domek",
         "polish_domysl_sie",
         "polish_dostrojony_dom",
@@ -129,6 +130,7 @@
         "polish_dziewczyna_ktora_zniknela_o_swicie",
         "polish_gruby_dzienniczek",
         "polish_glosy_z_ziemi",
+        "polish_oczy_ktore_nie_widza",
         "polish_jak_bor_z_jasnego_nieba",
         "polish_kamera_na_ulicy",
         "polish_kamien_pamieci",
@@ -138,8 +140,8 @@
         "polish_mamy_trupa_i_co_dalej",
         "polish_metoda_feynmana",
         "polish_misja_ktora_pekla",
+        "polish_na_dworcu",
         "polish_na_targu",
-        "polish_oczy_ktore_nie_widza",
         "polish_prolog_wiatru",
         "polish_przerwa",
         "polish_pudelko_po_ciastkach",
@@ -151,7 +153,13 @@
         "polish_worek_z_piaskiem",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zakazana_energia",
-        "polish_zasady"
+        "polish_zasady",
+        "polish_w_kawiarni",
+        "polish_pierwszy_lot_na_marsa",
+        "polish_legenda_o_smoku_wawelskim",
+        "polish_maria_skodowska_curie",
+        "polish_rozmowa_z_lekarzem",
+        "polish_jak_ugotowac_herbate"
       ]
     },
     {
@@ -160,10 +168,18 @@
       "description": "Best introductory texts for new readers.",
       "packIds": [
         "polish_demo_lesson",
+        "polish_jak_ugotowac_herbate",
+        "polish_rozmowa_z_lekarzem",
         "polish_wiatr_nad_rzeka",
+        "polish_dlaczego_niebo_jest_niebieskie",
+        "polish_legenda_o_smoku_wawelskim",
+        "polish_na_dworcu",
         "polish_na_targu",
+        "polish_oczy_ktore_nie_widza",
+        "polish_pierwszy_lot_na_marsa",
         "polish_przerwa",
         "polish_trzynascie_zasad",
+        "polish_w_kawiarni",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zasady",
         "polish_cel_na_ten_rok_to_nic",
@@ -177,11 +193,11 @@
         "polish_koniec_epoki_pudelek",
         "polish_kubek",
         "polish_mamy_trupa_i_co_dalej",
+        "polish_maria_skodowska_curie",
         "polish_prolog_wiatru",
         "polish_cena_widoku",
         "polish_czarny_rynek_tokenow",
         "polish_misja_ktora_pekla",
-        "polish_oczy_ktore_nie_widza",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_susza",
@@ -205,9 +221,9 @@
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 42,
-    "totalWords": 58798,
-    "totalEstimatedReadingTimeMinutes": 318,
+    "totalPacks": 50,
+    "totalWords": 67397,
+    "totalEstimatedReadingTimeMinutes": 366,
     "languageCount": 1,
     "writingSystemCount": 1,
     "categoryCount": 18,
@@ -470,6 +486,27 @@
       "featured": true
     },
     {
+      "id": "polish_dlaczego_niebo_jest_niebieskie",
+      "bookId": "dlaczego-niebo-jest-niebieskie",
+      "path": "official/glagolitic/pl/dlaczego-niebo-jest-niebieskie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dlaczego niebo jest niebieskie?",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "popular_science"
+      ],
+      "coverFamily": "popular_science",
+      "subtitle": "Krótkie wyjaśnienie nauki",
+      "audience": "family",
+      "trustClassification": "popular_science",
+      "difficulty": 3,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
       "id": "polish_domek",
       "bookId": "domek",
       "path": "official/glagolitic/pl/domek",
@@ -668,6 +705,27 @@
       "featured": true
     },
     {
+      "id": "polish_jak_ugotowac_herbate",
+      "bookId": "jak-ugotowac-herbate",
+      "path": "official/glagolitic/pl/jak-ugotowac-herbate",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "📋 Jak ugotować herbatę",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "instruction"
+      ],
+      "coverFamily": "instruction",
+      "subtitle": "Z kolekcji CollectionZero",
+      "audience": "family",
+      "trustClassification": "instruction",
+      "difficulty": 2,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_kamera_na_ulicy",
       "bookId": "kamera-na-ulicy",
       "path": "official/glagolitic/pl/kamera-na-ulicy",
@@ -777,6 +835,27 @@
       "featured": true
     },
     {
+      "id": "polish_legenda_o_smoku_wawelskim",
+      "bookId": "legenda-o-smoku-wawelskim",
+      "path": "official/glagolitic/pl/legenda-o-smoku-wawelskim",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "🏰 Legenda o Smoku Wawelskim",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "legend"
+      ],
+      "coverFamily": "legend",
+      "subtitle": "Z kolekcji CollectionZero",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
       "id": "polish_mamy_trupa_i_co_dalej",
       "bookId": "mamy-trupa-i-co-dalej",
       "path": "official/glagolitic/pl/mamy-trupa-i-co-dalej",
@@ -796,6 +875,28 @@
       "trustClassification": "instruction",
       "difficulty": 4,
       "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_maria_skodowska_curie",
+      "bookId": "maria-sklodowska-curie",
+      "path": "official/glagolitic/pl/maria-sklodowska-curie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "👤 Maria Skłodowska-Curie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "biography",
+        "history"
+      ],
+      "coverFamily": "biography",
+      "subtitle": "Z kolekcji CollectionZero",
+      "audience": "teen",
+      "trustClassification": "adapted_from_real_events",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -843,6 +944,28 @@
       "featured": true
     },
     {
+      "id": "polish_na_dworcu",
+      "bookId": "na-dworcu",
+      "path": "official/glagolitic/pl/na-dworcu",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Na dworcu",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "everyday_live"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Spotkanie na peronie",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_na_targu",
       "bookId": "na-targu",
       "path": "official/glagolitic/pl/na-targu",
@@ -871,19 +994,39 @@
       "tier": "official",
       "writingSystem": "glagolitic",
       "language": "pl",
-      "title": "Oczy, które nie widzą",
+      "title": "II. Oczy, które nie widzą",
+      "version": "1.0.1",
+      "editionVersion": "1.0.1",
+      "categories": [
+        "short_story"
+      ],
+      "coverFamily": "short_story",
+      "subtitle": "Z kolekcji CollectionFour",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 3,
+      "featured": true
+    },
+    {
+      "id": "polish_pierwszy_lot_na_marsa",
+      "bookId": "pierwszy-lot-na-marsa",
+      "path": "official/glagolitic/pl/pierwszy-lot-na-marsa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "🌌 Pierwszy lot na Marsa",
       "version": "1.0.0",
       "editionVersion": "1.0.0",
       "categories": [
-        "psychology",
-        "short_story"
+        "popular_science"
       ],
-      "coverFamily": "psychology",
-      "subtitle": "Kontakt wzrokowy i obecność matki",
+      "coverFamily": "popular_science",
+      "subtitle": "Z kolekcji CollectionZero",
       "audience": "family",
-      "trustClassification": "fiction",
-      "difficulty": 5,
-      "estimatedReadingTime": 11,
+      "trustClassification": "popular_science",
+      "difficulty": 3,
+      "estimatedReadingTime": 5,
       "featured": true
     },
     {
@@ -950,6 +1093,27 @@
       "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_rozmowa_z_lekarzem",
+      "bookId": "rozmowa-z-lekarzem",
+      "path": "official/glagolitic/pl/rozmowa-z-lekarzem",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "💬 Rozmowa z lekarzem",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "instruction"
+      ],
+      "coverFamily": "instruction",
+      "subtitle": "Z kolekcji CollectionZero",
+      "audience": "family",
+      "trustClassification": "instruction",
+      "difficulty": 2,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -1038,6 +1202,28 @@
       "trustClassification": "instruction",
       "difficulty": 3,
       "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_w_kawiarni",
+      "bookId": "w-kawiarni",
+      "path": "official/glagolitic/pl/w-kawiarni",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "☕ W kawiarni",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "everyday_live"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Z kolekcji CollectionZero",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {

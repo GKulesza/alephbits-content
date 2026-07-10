@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie — II. Oczy, które nie widzą",
+  "title": "Sprawdź zrozumienie — ☕ W kawiarni",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „II. Oczy, które nie widzą”?",
+      "question": "O czym opowiada tekst „☕ W kawiarni”?",
       "answers": [
-        "Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zm…",
+        "Poranek w Warszawie pachniał kawą. Nie tą z automatu w biurze, nie tą z ekspresu…",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
@@ -41,17 +41,17 @@
       "type": "single_choice",
       "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
       "answers": [
-        "3",
+        "6",
         "Inna odpowiedź",
         "Nie wynika z tekstu",
         "Żadna z powyższych"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 3 minut."
+      "explanation": "Szacowany czas czytania: ok. 6 minut."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „II. Oczy, które nie widzą” kończy się zdaniem domykającym opowieść?",
+      "question": "Czy tekst „☕ W kawiarni” kończy się zdaniem domykającym opowieść?",
       "answers": [
         "tak",
         "Inna odpowiedź",

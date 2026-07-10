@@ -1,6 +1,6 @@
 # License
 
-**II. Oczy, które nie widzą** is released under **CC0 1.0 Universal** (public domain dedication).
+**👤 Maria Skłodowska-Curie** is released under **CC0 1.0 Universal** (public domain dedication).
 
 - SPDX: `CC0-1.0`
 - Full text: 

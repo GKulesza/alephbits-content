@@ -1,0 +1,283 @@
+# 👤 Maria Skłodowska-Curie
+
+## Metadata
+
+**Pack ID:** `polish_maria_skodowska_curie`  
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** 👤 Maria Skłodowska-Curie  
+**Subtitle:** Z kolekcji CollectionZero  
+**Blurb:** **MARIA**
+
+**Genres:** biography, history  
+**Series:** Collection Zero  
+**Audience:** teen  
+
+**Difficulty:** 4 (of 8)
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes  
+
+**Original language:** pl  
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** polish, biography, maria-skodowska-curie  
+
+**Editorial notes:** Migrated from CollectionZero catalog (Phase 75).
+
+**Cover family:** biography
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** no  
+**Trust classification:** Adapted from real events  
+**Human reviewed:** yes — 2026-07-10  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+
+## Sources
+
+### Source 1: YouTube reference
+
+**Author:** YouTube contributors  
+**URL:** https://www.youtube.com/watch?v=-XG9KslBslY  
+**License:** YouTube Terms (reference only)  
+**Retrieval date:** 2023-07-04  
+**Availability:** licensed  
+**Deprecated:** no  
+**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+
+### Source 2: YouTube reference
+
+**Author:** YouTube contributors  
+**URL:** https://www.youtube.com/watch?v=qkIb6zUHVbI  
+**License:** YouTube Terms (reference only)  
+**Retrieval date:** 2026-04-20  
+**Availability:** licensed  
+**Deprecated:** no  
+**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+
+### Source 3: YouTube reference
+
+**Author:** YouTube contributors  
+**URL:** https://www.youtube.com/watch?v=m0ql8dMsfgQ  
+**License:** YouTube Terms (reference only)  
+**Retrieval date:** 2022-12-23  
+**Availability:** licensed  
+**Deprecated:** no  
+**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+
+### Source 4: YouTube reference
+
+**Author:** YouTube contributors  
+**URL:** https://www.youtube.com/watch?v=EDG2lkDtA-g  
+**License:** YouTube Terms (reference only)  
+**Retrieval date:** 2025-09-10  
+**Availability:** licensed  
+**Deprecated:** no  
+**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+
+### Source 5: YouTube reference
+
+**Author:** YouTube contributors  
+**URL:** https://www.youtube.com/watch?v=AMt6AquOv7Q  
+**License:** YouTube Terms (reference only)  
+**Retrieval date:** 2008-01-06  
+**Availability:** licensed  
+**Deprecated:** no  
+**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+
+
+## Text
+
+**MARIA**
+
+Warszawa, rok 1867. W mieszkaniu przy ulicy Freta, w rodzinie Skłodowskich, przychodzi na świat dziewczynka, która miała zmienić oblicze nauki. Nikt wtedy nie wiedział, że ta drobna, ciemnowłosa dziewczynka, której rodzice nadali imię Maria, stanie się pierwszą kobietą z Nagrodą Nobla, pierwszą osobą w historii, która zdobędzie dwie nagrody Nobla w dwóch różnych dziedzinach nauki. Że jej notatki będą tak radioaktywne, że do dziś przechowuje się je w ołowianych pudłach. Że jej ciało, po śmierci, będzie promieniować jeszcze przez dekady.
+
+Ale to wszystko wydarzy się później. Na razie Maria ma dziesięć lat, stoi nad grobem swojej matki, która umiera na gruźlicę, i czuje, jak coś w niej pęka. To był moment, w którym przestała wierzyć w Boga. Bo jeśli Bóg istnieje, dlaczego zabiera matkę? Jeśli jest dobry, dlaczego pozwala na cierpienie? W jej sercu zagościła pewność, która towarzyszyła jej do końca życia: jeśli chcesz coś zmienić, musisz działać sama.
+
+---
+
+**Latający uniwersytet**
+
+Miała szesnaście lat, gdy skończyła szkołę średnią ze złotym medalem. Wszyscy widzieli w niej geniusz – pamięć fotograficzną, niepohamowaną ciekawość, zdolność do skupienia, która graniczyła z obsesją. Ale w Warszawie, pod zaborem rosyjskim, kobiety nie mogły studiować. Carskie przepisy były jasne: nauka to domena mężczyzn.
+
+Maria nie dała się jednak pokonać. Razem ze swoją starszą siostrą Bronią zapisały się do tajnego "Uniwersytetu Latającego" – nielegalnej szkoły dla dziewcząt, której zajęcia odbywały się w zmieniających się lokalizacjach, by uniknąć czujnego oka carskiej policji. W ciasnych pokojach, przy migających świecach, Maria uczyła się chemii organicznej, fizyki, matematyki. Jej głowa była jak gąbka – chłonęła wiedzę, ale wiedziała, że to tylko preludium. Potrzebowała dyplomu. Potrzebowała Sorbony.
+
+Ale podróż do Paryża była droga, a rodziny Skłodowskich nie było stać. Wtedy Maria i Bronia zawarły pakt: najpierw Bronia wyjeżdża do Francji, studiuje medycynę. Maria zostaje w Polsce, pracuje jako guwernantka i wysyła siostrze każdy zarobiony grosz. Potem role się odwrócą.
+
+Plan był prosty. Życie – mniej.
+
+---
+
+**Guwernantka i nieszczęśliwa miłość**
+
+Maria trafiła do domu państwa Żurawskich na prowincji, jako nauczycielka ich dzieci. Była biedna, samotna i zmęczona. Ale pewnego dnia na wakacje przyjechał najstarszy syn gospodarzy, Kazimierz – przystojny, inteligentny student matematyki. Zakochali się w sobie, a rodzina Żurawskich wpadła w szał. Maria była dla nich zbyt biedna, zbyt mało znacząca. Kazimierz, ulegając presji rodziców, zerwał zaręczyny.
+
+Maria nigdy nie zapomniała tej zdrady. Ale zamiast się załamać, włożyła cały ból w naukę. "Będą żałować" – mogła myśleć. I miała rację: wiele lat później, gdy Maria była już światowej sławy uczoną, Kazimierz siadywał zadumany przed jej pomnikiem. Ale wtedy było już za późno.
+
+---
+
+**Paryż**
+
+W końcu, w wieku 24 lat, Maria wsiada do pociągu do Paryża. Wysiada na dworcu, gdzie czeka na nią siostra. Pierwszy raz w życiu czuje się wolna. Nikt nie pyta ją o dokumenty, nikt nie kontroluje jej polskości. Jest tylko nauka.
+
+Sorbona jest miejscem, o którym marzyła – sale wykładowe, biblioteki, laboratoria. Ale życie jest ciężkie. Wynajmuje małe poddasze bez ogrzewania. Zimą woda w miednicy zamarza. Maria żyje o chlebie i herbacie, często mdleje z głodu podczas wykładów. Ale nie narzeka. "Fizyka jest ważniejsza niż jedzenie" – myśli.
+
+W ciągu dwóch lat zdobywa dwa licencjaty – z fizyki i matematyki. Jest pierwszą kobietą na roku, która kończy z najwyższym wyróżnieniem. Jej wykładowcy są zdumieni. Ktoś na korytarzu mówi o niej: "Ta Polka ma w głowie więcej niż wszyscy Francuzi razem wzięci".
+
+---
+
+**Pierre**
+
+W 1894 roku Maria poznaje Pierre'a Curie – nieśmiałego, genialnego fizyka, który ma na koncie przełomowe badania nad magnetyzmem. Jest od niej o osiem lat starszy, ale to nie ma znaczenia. Od pierwszego spotkania – gdy pokazuje jej swoje laboratorium, a ona zadaje pytania, które zwalają go z nóg – wiedzą, że są dla siebie stworzeni.
+
+Pierre zakochuje się w niej bez pamięci. Kiedy Maria mówi, że planuje wrócić do Polski, Pierre pisze do niej list: "Jakie to byłoby piękne, gdybyśmy mogli przejść przez to życie ramię w ramię, skupieni na naszych wspólnych snach o nauce". Oferuje przeprowadzkę do Warszawy, gotowość do nauki polskiego.
+
+Maria wraca do Polski na wakacje. Próbuje znaleźć pracę na Uniwersytecie Jagiellońskim. Odmawiają jej – jest kobietą. Wraca do Paryża. W 1895 roku bierze ślub z Pierrem. Nie ma białej sukni, obrączek ani księdza. Ma tylko granatową sukienkę, którą będzie nosić w laboratorium przez lata. W prezencie ślubnym dostają dwa rowery – to ich jedyny luksus.
+
+---
+
+**Czas heroiczny**
+
+Maria szuka tematu na pracę doktorską. Wszyscy wokół fascynują się promieniami X, odkrytymi przez Röntgena. Ale Maria wybiera coś innego – tajemnicze promieniowanie soli uranu, które odkrył Henri Becquerel. W starej, zniszczonej szopie, która służyła wcześniej jako prosektorium, Maria i Pierre zaczynają swoje badania.
+
+Mają tylko prymitywny sprzęt – elektrometr skonstruowany przez Pierre'a i jego brata, który potrafi wykrywać mikroskopijne prądy. Dzięki niemu Maria odkrywa, że promieniowanie uranu jest proporcjonalne do jego ilości – niezależnie od tego, czy uran jest czysty, czy w związku chemicznym. To oznacza, że źródłem promieniowania jest sam atom.
+
+Przełom następuje, gdy Maria bada rudę uranową zwaną smółką. Okazuje się, że jest ona cztery razy bardziej radioaktywna, niż wynikałoby to z zawartości uranu. Wniosek jest szokujący: w rudzie musi kryć się inny pierwiastek, znacznie bardziej promieniotwórczy. Maria nazywa go Polonem. Kilka miesięcy później odkrywają rad.
+
+Nazwa "polon" to hołd dla Polski, która wtedy nie istniała na mapach. "Chciałam, żeby świat wiedział, że Polacy istnieją" – powie później Maria.
+
+---
+
+**Pierwszy Nobel**
+
+W 1903 roku Maria i Pierre otrzymują Nagrodę Nobla w dziedzinie fizyki. Ale na początku Komitet Noblowski chce nagrodzić tylko Pierre'a i Becquerela. Maria zostaje pominięta – dlatego, że jest kobietą. Pierre pisze do Sztokholmu: "Jeśli Maria nie dostanie Nagrody, ja jej nie przyjmę". Komitet ustępuje.
+
+Maria staje się pierwszą kobietą z Nagrodą Nobla. Pieniądze przeznacza na spłatę długów i stypendia dla polskich studentek. I kupuje lepszy sprzęt do laboratorium.
+
+---
+
+**Śmierć Pierre'a**
+
+Kwiecień 1906 roku. Paryż, deszcz, błoto. Pierre spieszy się na spotkanie, myśli o pracy, przechodzi przez ulicę. Nie zauważa nadjeżdżającego wozu. Potężne koło miażdży mu czaszkę. Maria dostaje wiadomość, gdy wraca do domu. Zamarza. W swoim dzienniku pisze: "Kochany Pier, twoja głowa spoczywa w trumnie. Już cię nie zobaczę".
+
+Sorbona proponuje jej stanowisko po mężu. Zostaje pierwszą kobietą profesorem w historii tej uczelni. Na pierwszy wykład przychodzą tłumy – dziennikarze, studenci, ciekawscy. Maria wchodzi do auli, staje przed tablicą i zaczyna wykład od momentu, w którym Pierre zakończył ostatni.
+
+---
+
+**Skandal**
+
+W 1911 roku wybucha skandal. Prasa dowiaduje się o romansie Marii z Paulem Langevinem, fizykiem, uczniem Pierre'a. Langevin jest żonaty i ma czworo dzieci. Francuskie gazety nazywają Marię "niszczycielką rodzin", "polską intrygantką". Słychać krzyki pod jej oknami. Mówi się, że powinna wrócić do Polski.
+
+W tym roku Maria dostaje drugą Nagrodę Nobla, tym razem z chemii. Komitet Noblowski sugeruje, żeby nie przyjeżdżała do Sztokholmu. Maria odpowiada: "Nagroda przyznana za moje odkrycia, nie za moje życie prywatne". Jedzie i odbiera nagrodę.
+
+Albert Einstein pisze do niej: "Czuję potrzebę powiedzieć ci, jak bardzo podziwiam twój umysł, twoją determinację i uczciwość. Jeśli płom prostaków nadal się przeciwko tobie burzy, po prostu nie czytaj tych bzdur".
+
+---
+
+**Wojna i małe Curie**
+
+Gdy wybucha I wojna światowa, Maria nie ewakuuje się z Paryża. Zabiera rad do banku w Bordeaux, potem wraca i pyta, jak może pomóc. Chce sprzedać swoje złote medale Nobla, by wesprzeć armię. Bank jej odmawia – medale są zbyt ważne.
+
+Zamiast tego tworzy mobilne aparaty rentgenowskie – samochody przerobione na laboratoria polowe. Nazywa je "małymi Curie". Z 17-letnią córką Ireną jeździ na front, szkoli kobiety jako techników radiologicznych. Dzięki jej pracy milion rannych żołnierzy unika amputacji i śmierci.
+
+Rząd francuski nigdy jej za to nie uhonorował. Za to Amerykanie w 1921 roku przyznali jej gram radu – w darze od całego narodu.
+
+---
+
+**Śmierć**
+
+Ostatnie lata Marii to walka z chorobą. Jej ciało jest zniszczone przez promieniowanie. W grudniu 1933 roku prześwietlenie wykazuje tylko duży kamień żółciowy – lekarze nie wiedzą, co jej dolega. Ale prawda jest okrutna: jej szpik kostny został zniszczony przez rad. Cierpi na anemię aplastyczną – jej organizm przestaje produkować krew.
+
+4 lipca 1934 roku Maria umiera w sanatorium we wschodniej Francji. Ma 66 lat. Jej ciało zostaje umieszczone w ołowianej trumnie, by chronić otoczenie przed promieniowaniem. Jej notatki wciąż są radioaktywne. W 1995 roku jej prochy zostają przeniesione do Panteonu w Paryżu – jako pierwszej kobiety w historii.
+
+---
+
+**Dziedzictwo**
+
+Irena, starsza córka Marii, kontynuuje pracę matki. Razem z mężem Fryderykiem Joliot-Curie odkrywa sztuczną promieniotwórczość i również zdobywa Nagrodę Nobla. Młodsza córka Ewa zostaje pisarką, autorką biografii matki, która do dziś jest uważana za jedną z najlepszych.
+
+Maria Skłodowska-Curie jest symbolem niezłomności. Pokonała biedę, system, który nie chciał kobiet, i własne ciało, które płaciło cenę za jej geniusz. Jej notatki wciąż są radioaktywne – i po 1600 latach będą promieniować dalej.
+
+A w Polsce, na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie, studenci wciąż uczą się od kogoś, kto pokazał, że nauka nie ma płci. I że można być genialnym, biednym, złamanym – i mimo to wygrać.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie — 👤 Maria Skłodowska-Curie
+
+### Question 1
+
+**Question:** O czym opowiada tekst „👤 Maria Skłodowska-Curie”?
+
+**Answers:**
+- A) Warszawa, rok 1867. W mieszkaniu przy ulicy Freta, w rodzinie Skłodowskich, przy…
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
+
+**Correct:** A
+**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+
+### Question 2
+
+**Question:** Które imię pojawia się na początku opowieści?
+
+**Answers:**
+- A) Maria
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
+
+**Correct:** A
+**Explanation:** Na początku tekstu występuje postać o imieniu Maria.
+
+### Question 3
+
+**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+
+**Answers:**
+- A) teen
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
+
+**Correct:** A
+**Explanation:** Metadane redakcyjne wskazują grupę: teen.
+
+### Question 4
+
+**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+
+**Answers:**
+- A) biography
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
+
+**Correct:** A
+**Explanation:** Tekst sklasyfikowano w kategorii biography.
+
+### Question 5
+
+**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+
+**Answers:**
+- A) 8
+- B) Inna odpowiedź
+- C) Nie wynika z tekstu
+- D) Żadna z powyższych
+
+**Correct:** A
+**Explanation:** Szacowany czas czytania: ok. 8 minut.

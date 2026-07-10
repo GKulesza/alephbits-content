@@ -1,0 +1,17 @@
+{
+  "packId": "polish_pierwszy_lot_na_marsa",
+  "bookId": "pierwszy-lot-na-marsa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
+  },
+  "sources": [],
+  "revisionNotes": "Phase 75 catalog migration"
+}

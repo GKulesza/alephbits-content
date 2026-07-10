@@ -1,6 +1,6 @@
 {
-  "packId": "polish_oczy_ktore_nie_widza",
-  "bookId": "oczy-ktore-nie-widza",
+  "packId": "polish_na_dworcu",
+  "bookId": "na-dworcu",
   "editorialStatus": "official",
   "createdAt": "2026-07-10",
   "lastReviewedAt": "2026-07-10",
@@ -10,7 +10,7 @@
   "aiAssistance": {
     "used": false,
     "tools": [],
-    "humanReview": "Migrated from CollectionFour catalog (Phase 75)."
+    "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
   },
   "sources": [
     {
