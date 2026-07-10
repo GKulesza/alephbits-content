@@ -3,6 +3,7 @@
   "title": "Czarny mnich z Nikiszowca",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Tomek wraca do Nikiszowca, by zrozumieć legendę Czarnego Mnicha i odkrywa, że opowieść o zjawie jest także opowieścią o pamięci górniczej dzielnicy.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "legend",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Legenda i pamięć Nikiszowca",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

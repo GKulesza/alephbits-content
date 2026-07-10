@@ -3,6 +3,7 @@
   "title": "Spacer po Krakowie",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-06",
   "description": "Krótka lekcja czytania z prostym tekstem o spacerze po Krakowie. Tekst jest w domenie publicznej.",
   "author": {
@@ -70,6 +71,12 @@
   },
   "coverFamily": "travel",
   "audience": "adult",
+  "subtitle": "Pierwsza lekcja — spacer po Krakowie",
+  "trustClassification": "demo",
+  "editorialHistory": {
+    "firstPublished": "2026-07-06",
+    "lastEditorialUpdate": "2026-07-07"
+  },
   "references": [
     {
       "title": "Kraków — Wikipedia",

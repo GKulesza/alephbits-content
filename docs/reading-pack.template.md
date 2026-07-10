@@ -4,6 +4,7 @@
 
 **Pack ID:** `{pack_id}`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** {Title}  
 **Subtitle:** *(none)*  
@@ -40,6 +41,7 @@
 **LLM assisted:** yes | no  
 **LLM model:** *(if applicable)*  
 **Human reviewed:** yes — {YYYY-MM-DD}  
+**Trust classification:** Fiction  
 **License:** {name} (SPDX: {id})  
 **License URL:** {https://…}
 

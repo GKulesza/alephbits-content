@@ -3,6 +3,7 @@
   "title": "Gruby dzienniczek",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Patryk, wypalony trzydziestolatek, zaczyna prowadzić gruby dzienniczek od prostego ścielenia łóżka i odkrywa, że małe codzienne kroki mogą przywrócić mu sprawczość.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "psychology",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Małe nawyki i powrót do siebie",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

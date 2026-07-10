@@ -3,6 +3,7 @@
   "title": "Kontrolowana halucynacja",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Po urazie głowy Anna trafia na neurologię, gdzie doświadcza rozpadu poczucia własnego ciała i wraz z lekarzem zaczyna badać świadomość, iluzję oraz moralne skutki rozwoju AI.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "popular_science",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Uraz, świadomość i granice ja",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

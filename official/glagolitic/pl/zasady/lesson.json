@@ -3,6 +3,7 @@
   "title": "Zasady",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Łukasz czyta osobisty mailing Pawła Kadysza o tym, dlaczego ciągłe „zastanawianie się” prowadzi do wymówek — i odkrywa pięć zasad działania zamiast wiecznego wyboru.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "instruction",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "List o decyzjach bez wymówek",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

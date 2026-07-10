@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_dziewczyna_ktora_zniknela_o_swicie`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Dziewczyna, która zniknęła o świcie  
 **Subtitle:** Śledztwo w pierwszych godzinach  

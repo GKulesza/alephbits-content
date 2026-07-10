@@ -3,6 +3,7 @@
   "title": "Mamy trupa i co dalej",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Po śmierci matki Tomasz bezradnie wchodzi w kosztowny rytuał pogrzebu, a dopiero później odkrywa, że żałoba nie musi oznaczać zgody na wszystko, co proponuje zakład pogrzebowy.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "instruction",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Żałoba, wybór i usługa pogrzebowa",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

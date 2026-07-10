@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_jak_bor_z_jasnego_nieba`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Jak Bor z jasnego nieba  
 **Subtitle:** Rozmowa o jednostce BOR  

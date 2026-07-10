@@ -3,6 +3,7 @@
   "title": "Susza",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Tomek, syn leśniczego z Borów Tucholskich, obserwuje postępującą suszę niszczącą las i razem z ojcem oraz innymi próbuje zrozumieć, co można jeszcze uratować.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "nature",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Las, woda i zmiana klimatu",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

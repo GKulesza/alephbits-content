@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_misja_ktora_pekla`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Misja która pękła  
 **Subtitle:** Misja, wypalenie i kontekst w erze AI  

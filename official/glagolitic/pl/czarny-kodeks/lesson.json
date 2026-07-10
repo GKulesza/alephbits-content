@@ -3,6 +3,7 @@
   "title": "Czarny Kodeks",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Historyk Janusz bada losy Czarnego Kodeksu, rewolucji haitańskiej i Vodou, odkrywając jak prawo, religia i kolonialna przemoc splatają się przez stulecia.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "history",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Vodou, Haiti i długie życie prawa",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

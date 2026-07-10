@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_dziewczyna_z_jelania`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Dziewczyna z Jełania  
 **Subtitle:** Powrót do języka i pamięci  

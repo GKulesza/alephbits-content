@@ -3,6 +3,7 @@
   "title": "Kamień pamięci",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Marta jedzie do Berlina, by odnaleźć kamień pamięci o polskich żołnierzach, którego poszukiwał jej dziadek, i odkrywa historię pamięci budowanej przez pokolenia.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "history",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Berlin, kamień i polska pamięć",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

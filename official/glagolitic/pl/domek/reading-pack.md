@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_domek`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Domek  
 **Subtitle:** Bałagan jako czekanie na zmianę  

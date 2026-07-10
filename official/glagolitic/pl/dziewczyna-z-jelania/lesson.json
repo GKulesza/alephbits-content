@@ -3,6 +3,7 @@
   "title": "Dziewczyna z Jełania",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Anastazja przyjeżdża z Niemiec do Warszawy, by uczyć się polskiego — i odkrywa więź z miejscem, którego świadomie nie pamięta: Jełaniem.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "travel",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Powrót do języka i pamięci",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

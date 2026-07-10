@@ -3,6 +3,7 @@
   "title": "Głosy z ziemi",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Emerytowany lekarz Tadeusz Jędrzejowski zbiera dowody korupcji w służbie zdrowia i łączy je z odkryciem masowej grobicy pod Bielinem, decydując się mówić w imieniu tych, którzy stracili głos.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "history",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Korupcja, pamięć i odwaga świadka",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

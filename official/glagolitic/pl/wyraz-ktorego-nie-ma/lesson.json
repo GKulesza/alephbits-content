@@ -3,6 +3,7 @@
   "title": "Wyraz, którego nie ma",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Kasia uparcie uczy córkę Alę czytać mimo oporu i lat frustracji, aż odkrywa, że cierpliwość i obecność są ważniejsze niż łatwiejsza droga z tabletem.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "languages",
-  "audience": "family"
+  "audience": "family",
+  "subtitle": "Nauka czytania i cierpliwość",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

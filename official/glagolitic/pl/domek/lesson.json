@@ -3,6 +3,7 @@
   "title": "Domek",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Marta wraca do przytłaczającego mieszkania pełnego nierozpakowanyych rzeczy i powoli odkrywa, że sprzątanie to nie walka z bałaganem, lecz powrót do siebie.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "everyday_live",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Bałagan jako czekanie na zmianę",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

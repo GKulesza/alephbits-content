@@ -237,11 +237,15 @@
       "language": "pl",
       "title": "Boliewicz",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "biography",
         "history"
       ],
       "coverFamily": "biography",
+      "subtitle": "Wałęsa między legendą a cieniem Bolka",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 9,
       "featured": true
@@ -255,11 +259,15 @@
       "language": "pl",
       "title": "Brudne pieniądze, czysta nauka",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "science",
         "article"
       ],
       "coverFamily": "science",
+      "subtitle": "Nauka, sponsor i sumienie",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 9,
       "featured": true
@@ -273,11 +281,15 @@
       "language": "pl",
       "title": "Cel na ten rok to... nic",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "everyday_live",
         "short_story"
       ],
       "coverFamily": "everyday_live",
+      "subtitle": "Spełnienie bez listy celów",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 8,
       "featured": true
@@ -291,11 +303,15 @@
       "language": "pl",
       "title": "Cena widoku",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article",
         "short_story"
       ],
       "coverFamily": "article",
+      "subtitle": "Hotel, przeciek i nocna decyzja",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 5,
       "estimatedReadingTime": 9,
       "featured": true
@@ -309,11 +325,15 @@
       "language": "pl",
       "title": "Cień skrzydeł nad oceanem",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article",
         "popular_science"
       ],
       "coverFamily": "popular_science",
+      "subtitle": "Przypadek Jamesa Leiningera",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -327,11 +347,15 @@
       "language": "pl",
       "title": "Cisza przed burzą",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "history",
         "article"
       ],
       "coverFamily": "history",
+      "subtitle": "Polscy łamacze Enigmy",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 7,
       "featured": true
@@ -345,11 +369,15 @@
       "language": "pl",
       "title": "Czarna skrzynka",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "psychology",
         "short_story"
       ],
       "coverFamily": "psychology",
+      "subtitle": "Kontrola, chaos i puszczenie",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 7,
       "featured": true
@@ -363,11 +391,15 @@
       "language": "pl",
       "title": "Czarny Kodeks",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "history",
         "article"
       ],
       "coverFamily": "history",
+      "subtitle": "Vodou, Haiti i długie życie prawa",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 7,
       "featured": true
@@ -381,11 +413,15 @@
       "language": "pl",
       "title": "Czarny mnich z Nikiszowca",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "legend",
         "history"
       ],
       "coverFamily": "legend",
+      "subtitle": "Legenda i pamięć Nikiszowca",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 5,
       "featured": true
@@ -399,10 +435,14 @@
       "language": "pl",
       "title": "Czarny rynek tokenów",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article"
       ],
       "coverFamily": "article",
+      "subtitle": "API, wyciek i geopolityka dostępu",
+      "audience": "adult",
+      "trustClassification": "popular_science",
       "difficulty": 5,
       "estimatedReadingTime": 6,
       "featured": true
@@ -416,11 +456,15 @@
       "language": "pl",
       "title": "Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "popular_science",
         "article"
       ],
       "coverFamily": "popular_science",
+      "subtitle": "Opowieść o widmie elektromagnetycznym i materii",
+      "audience": "adult",
+      "trustClassification": "popular_science",
       "difficulty": 6,
       "estimatedReadingTime": 7,
       "featured": true
@@ -434,11 +478,15 @@
       "language": "pl",
       "title": "Domek",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "everyday_live",
         "short_story"
       ],
       "coverFamily": "everyday_live",
+      "subtitle": "Bałagan jako czekanie na zmianę",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 8,
       "featured": true
@@ -452,11 +500,15 @@
       "language": "pl",
       "title": "Domyśl się",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "short_story",
         "dialogue"
       ],
       "coverFamily": "short_story",
+      "subtitle": "Opowiadanie o sygnałach w związku",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 6,
       "featured": true
@@ -470,11 +522,15 @@
       "language": "pl",
       "title": "Dostrojony dom",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "everyday_live",
         "short_story"
       ],
       "coverFamily": "everyday_live",
+      "subtitle": "Porządkowanie przestrzeni i siebie",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 8,
       "featured": true
@@ -488,11 +544,15 @@
       "language": "pl",
       "title": "Dylemat szatniarza",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article",
         "short_story"
       ],
       "coverFamily": "article",
+      "subtitle": "Polityka, Bruksela i dom",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -506,11 +566,15 @@
       "language": "pl",
       "title": "Dziewczyna, która zniknęła o świcie",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "history",
         "article"
       ],
       "coverFamily": "history",
+      "subtitle": "Śledztwo w pierwszych godzinach",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -524,11 +588,15 @@
       "language": "pl",
       "title": "Dziewczyna z Jełania",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "travel",
         "short_story"
       ],
       "coverFamily": "travel",
+      "subtitle": "Powrót do języka i pamięci",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 7,
       "featured": true
@@ -542,11 +610,15 @@
       "language": "pl",
       "title": "Głosy z ziemi",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "history",
         "article"
       ],
       "coverFamily": "history",
+      "subtitle": "Korupcja, pamięć i odwaga świadka",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 7,
       "estimatedReadingTime": 13,
       "featured": true
@@ -560,11 +632,15 @@
       "language": "pl",
       "title": "Gruby dzienniczek",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "psychology",
         "short_story"
       ],
       "coverFamily": "psychology",
+      "subtitle": "Małe nawyki i powrót do siebie",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 7,
       "featured": true
@@ -578,11 +654,15 @@
       "language": "pl",
       "title": "Jak Bor z jasnego nieba",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "biography",
         "article"
       ],
       "coverFamily": "biography",
+      "subtitle": "Rozmowa o jednostce BOR",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -596,11 +676,15 @@
       "language": "pl",
       "title": "Kamera na ulicy",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "law",
         "article"
       ],
       "coverFamily": "law",
+      "subtitle": "Zbrodnia, kamera i chłód",
+      "audience": "adult",
+      "trustClassification": "adapted_from_real_events",
       "difficulty": 7,
       "estimatedReadingTime": 8,
       "featured": true
@@ -614,11 +698,15 @@
       "language": "pl",
       "title": "Kamień pamięci",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "history",
         "short_story"
       ],
       "coverFamily": "history",
+      "subtitle": "Berlin, kamień i polska pamięć",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -632,10 +720,14 @@
       "language": "pl",
       "title": "Koniec epoki pudełek",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article"
       ],
       "coverFamily": "article",
+      "subtitle": "Fizyczne gry kontra cyfrowa własność",
+      "audience": "adult",
+      "trustClassification": "popular_science",
       "difficulty": 4,
       "estimatedReadingTime": 6,
       "featured": true
@@ -649,11 +741,15 @@
       "language": "pl",
       "title": "Kontrolowana halucynacja",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "popular_science",
         "short_story"
       ],
       "coverFamily": "popular_science",
+      "subtitle": "Uraz, świadomość i granice ja",
+      "audience": "adult",
+      "trustClassification": "popular_science",
       "difficulty": 6,
       "estimatedReadingTime": 9,
       "featured": true
@@ -667,11 +763,15 @@
       "language": "pl",
       "title": "Kubek",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "psychology",
         "short_story"
       ],
       "coverFamily": "psychology",
+      "subtitle": "Matka, syn i obecność",
+      "audience": "family",
+      "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 9,
       "featured": true
@@ -685,11 +785,15 @@
       "language": "pl",
       "title": "Mamy trupa i co dalej",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "instruction",
         "article"
       ],
       "coverFamily": "instruction",
+      "subtitle": "Żałoba, wybór i usługa pogrzebowa",
+      "audience": "adult",
+      "trustClassification": "instruction",
       "difficulty": 4,
       "estimatedReadingTime": 6,
       "featured": true
@@ -703,11 +807,15 @@
       "language": "pl",
       "title": "Metoda Feynmana",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "popular_science",
         "article"
       ],
       "coverFamily": "popular_science",
+      "subtitle": "Fizyka, świadomość i granica interpretacji",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
@@ -721,11 +829,15 @@
       "language": "pl",
       "title": "Misja która pękła",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "instruction",
         "article"
       ],
       "coverFamily": "instruction",
+      "subtitle": "Misja, wypalenie i kontekst w erze AI",
+      "audience": "adult",
+      "trustClassification": "instruction",
       "difficulty": 5,
       "estimatedReadingTime": 8,
       "featured": true
@@ -739,11 +851,15 @@
       "language": "pl",
       "title": "Na targu",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "travel",
         "short_story"
       ],
       "coverFamily": "travel",
+      "subtitle": "Opowiadanie w trzech częściach",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 13,
       "featured": true
@@ -757,11 +873,15 @@
       "language": "pl",
       "title": "Oczy, które nie widzą",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "psychology",
         "short_story"
       ],
       "coverFamily": "psychology",
+      "subtitle": "Kontakt wzrokowy i obecność matki",
+      "audience": "family",
+      "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 11,
       "featured": true
@@ -775,11 +895,15 @@
       "language": "pl",
       "title": "Prolog wiatru",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "biography",
         "short_story"
       ],
       "coverFamily": "biography",
+      "subtitle": "Za kulisami teledysku",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 4,
       "estimatedReadingTime": 5,
       "featured": true
@@ -793,11 +917,15 @@
       "language": "pl",
       "title": "Przerwa",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "psychology",
         "short_story"
       ],
       "coverFamily": "psychology",
+      "subtitle": "Stres, oddech i zatrzymanie",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 7,
       "featured": true
@@ -811,11 +939,15 @@
       "language": "pl",
       "title": "Pudełko po ciastkach",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "article",
         "short_story"
       ],
       "coverFamily": "article",
+      "subtitle": "Dziedziczenie lęku i porządkowanie pamięci",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 9,
       "featured": true
@@ -829,11 +961,15 @@
       "language": "pl",
       "title": "Siedem gór i jeden ocean",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "travel",
         "article"
       ],
       "coverFamily": "travel",
+      "subtitle": "Polska oczami Korei Południowej",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 5,
       "estimatedReadingTime": 7,
       "featured": true
@@ -847,11 +983,15 @@
       "language": "pl",
       "title": "Spacer po Krakowie",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "travel",
         "demo"
       ],
       "coverFamily": "travel",
+      "subtitle": "Pierwsza lekcja — spacer po Krakowie",
+      "audience": "adult",
+      "trustClassification": "demo",
       "difficulty": 2,
       "estimatedReadingTime": 2,
       "featured": true
@@ -865,11 +1005,15 @@
       "language": "pl",
       "title": "Susza",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "nature",
         "article"
       ],
       "coverFamily": "nature",
+      "subtitle": "Las, woda i zmiana klimatu",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 5,
       "estimatedReadingTime": 10,
       "featured": true
@@ -883,11 +1027,15 @@
       "language": "pl",
       "title": "Trzynaście zasad",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "instruction",
         "article"
       ],
       "coverFamily": "instruction",
+      "subtitle": "Przewodnik kulturowy dla obcokrajowców",
+      "audience": "adult",
+      "trustClassification": "instruction",
       "difficulty": 3,
       "estimatedReadingTime": 10,
       "featured": true
@@ -901,10 +1049,14 @@
       "language": "pl",
       "title": "Wiatr nad rzeką",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "short_story"
       ],
       "coverFamily": "short_story",
+      "subtitle": "Krótka scena weryfikacyjna",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 2,
       "estimatedReadingTime": 1,
       "featured": true
@@ -918,11 +1070,15 @@
       "language": "pl",
       "title": "Worek z piaskiem",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "legends",
         "short_story"
       ],
       "coverFamily": "legends",
+      "subtitle": "Granica, piasek i sąsiedztwo",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
       "difficulty": 5,
       "estimatedReadingTime": 9,
       "featured": true
@@ -936,11 +1092,15 @@
       "language": "pl",
       "title": "Wyraz, którego nie ma",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "languages",
         "short_story"
       ],
       "coverFamily": "languages",
+      "subtitle": "Nauka czytania i cierpliwość",
+      "audience": "family",
+      "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 8,
       "featured": true
@@ -954,11 +1114,15 @@
       "language": "pl",
       "title": "Zakazana Energia",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "science_fiction",
         "short_story"
       ],
       "coverFamily": "science_fiction",
+      "subtitle": "Alternatywna historia ukrytej energii",
+      "audience": "adult",
+      "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 5,
       "featured": true
@@ -972,11 +1136,15 @@
       "language": "pl",
       "title": "Zasady",
       "version": "1.0.0",
+      "editionVersion": "1.0.0",
       "categories": [
         "instruction",
         "article"
       ],
       "coverFamily": "instruction",
+      "subtitle": "List o decyzjach bez wymówek",
+      "audience": "adult",
+      "trustClassification": "instruction",
       "difficulty": 3,
       "estimatedReadingTime": 4,
       "featured": true

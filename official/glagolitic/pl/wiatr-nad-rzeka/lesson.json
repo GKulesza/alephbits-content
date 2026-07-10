@@ -3,6 +3,7 @@
   "title": "Wiatr nad rzeką",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Krótka scena nad Wisłą — pakiet utworzony wyłącznie do weryfikacji zdalnego publikowania (Phase 66).",
   "author": {
@@ -68,5 +69,11 @@
     ]
   },
   "coverFamily": "short_story",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Krótka scena weryfikacyjna",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

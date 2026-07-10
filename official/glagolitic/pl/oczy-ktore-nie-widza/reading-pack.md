@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_oczy_ktore_nie_widza`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Oczy, które nie widzą  
 **Subtitle:** Kontakt wzrokowy i obecność matki  

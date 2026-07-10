@@ -3,6 +3,7 @@
   "title": "Trzynaście zasad",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Amerykanka w Polsce uczy się od przyjaciela trzynastu zasad codziennej obecności — od uśmiechu po kolejki, kawę i bezpośredniość.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "instruction",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Przewodnik kulturowy dla obcokrajowców",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

@@ -2,6 +2,7 @@ import 'package:path/path.dart' as p;
 
 import 'json_writer.dart';
 import 'parser.dart';
+import 'trust_catalog.dart';
 
 class CompiledArtifacts {
   CompiledArtifacts({
@@ -85,12 +86,25 @@ class ReadingPackCompiler {
     final license = _parseLicense(transparency['License'] ?? '');
     final coverFamily = _nonEmpty(metadata['Cover family']);
     final audience = _nonEmpty(metadata['Audience']);
+    final subtitle = _nonEmpty(metadata['Subtitle']);
+    final editionVersion = _nonEmpty(metadata['Edition version']);
+    final trustRaw = transparency['Trust classification'] ?? '';
+    final trustClassification = TrustCatalog.canonicalId(trustRaw);
+    if (trustClassification == null) {
+      throw ReadingPackParseException('Missing required trust classification');
+    }
+    if (editionVersion == null || editionVersion.isEmpty) {
+      throw ReadingPackParseException('Missing required metadata: Edition version');
+    }
+
+    final editorialHistory = _buildEditorialHistory(doc);
 
     final lesson = <String, dynamic>{
       'id': metadata['Pack ID'] ?? '',
       'title': metadata['Title'] ?? doc.title,
       'language': metadata['Original language'] ?? '',
       'version': metadata['Version'] ?? '1.0.0',
+      'editionVersion': editionVersion,
       'updated': _earliestRevisionDate(doc.revisions),
       'description': metadata['Blurb'] ?? '',
       'author': {'name': transparency['Created by'] ?? ''},
@@ -118,6 +132,15 @@ class ReadingPackCompiler {
     }
     if (audience != null) {
       lesson['audience'] = audience;
+    }
+    if (subtitle != null) {
+      lesson['subtitle'] = subtitle;
+    }
+    if (trustClassification != null) {
+      lesson['trustClassification'] = trustClassification;
+    }
+    if (editorialHistory.isNotEmpty) {
+      lesson['editorialHistory'] = editorialHistory;
     }
 
     final references = _buildReferences(doc.sources);
@@ -272,6 +295,29 @@ You may copy, modify, and distribute this work for any purpose without asking pe
   String _parseHumanReviewDate(String raw) {
     final match = RegExp(r'(\d{4}-\d{2}-\d{2})').firstMatch(raw);
     return match?.group(1) ?? '';
+  }
+
+  Map<String, dynamic> _buildEditorialHistory(ReadingPackDocument doc) {
+    final dates = doc.revisions
+        .map((r) => r.date)
+        .where((d) => d.isNotEmpty)
+        .toList()
+      ..sort();
+    final first = dates.isNotEmpty ? dates.first : '';
+    final last = dates.isNotEmpty ? dates.last : '';
+    final reviewed = _parseHumanReviewDate(
+      doc.transparency['Human reviewed'] ?? '',
+    );
+    final lastUpdate = [last, reviewed].where((d) => d.isNotEmpty).toList()
+      ..sort();
+    final history = <String, dynamic>{};
+    if (first.isNotEmpty) {
+      history['firstPublished'] = first;
+    }
+    if (lastUpdate.isNotEmpty) {
+      history['lastEditorialUpdate'] = lastUpdate.last;
+    }
+    return history;
   }
 
   int _parseDifficulty(String raw) {

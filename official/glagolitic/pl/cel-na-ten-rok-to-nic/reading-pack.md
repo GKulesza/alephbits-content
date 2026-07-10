@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_cel_na_ten_rok_to_nic`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Cel na ten rok to... nic  
 **Subtitle:** Spełnienie bez listy celów  

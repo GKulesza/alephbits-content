@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_koniec_epoki_pudelek`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Koniec epoki pudełek  
 **Subtitle:** Fizyczne gry kontra cyfrowa własność  

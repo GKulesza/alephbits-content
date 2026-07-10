@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_na_targu`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Na targu  
 **Subtitle:** Opowiadanie w trzech częściach  

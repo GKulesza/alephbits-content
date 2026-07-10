@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_gruby_dzienniczek`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Gruby dzienniczek  
 **Subtitle:** Małe nawyki i powrót do siebie  

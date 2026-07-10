@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_glosy_z_ziemi`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Głosy z ziemi  
 **Subtitle:** Korupcja, pamięć i odwaga świadka  

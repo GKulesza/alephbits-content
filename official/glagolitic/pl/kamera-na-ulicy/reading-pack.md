@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_kamera_na_ulicy`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Kamera na ulicy  
 **Subtitle:** Zbrodnia, kamera i chłód  

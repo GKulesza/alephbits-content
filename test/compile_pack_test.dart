@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:alephbits_content/reading_pack/compile_runner.dart';
@@ -31,6 +32,18 @@ void main() {
       final doc = ReadingPackParser().parse(markdown, packDirPath: pack);
       expect(doc.text, contains('Dr Anna Kowalska'));
       expect(doc.text.split(RegExp(r'\s+')).length, greaterThan(1500));
+    });
+
+    test('compiles trust and edition metadata', () {
+      final pack = p.join(
+        repoRoot,
+        'official/glagolitic/pl/spacer-po-krakowie',
+      );
+      final compiled = compilePackDirectory(pack);
+      final lesson = jsonDecode(compiled.lessonJson) as Map<String, dynamic>;
+      expect(lesson['editionVersion'], '1.0.0');
+      expect(lesson['trustClassification'], 'demo');
+      expect(lesson['subtitle'], isNotEmpty);
     });
 
     test('compiles demo pack without drift', () {

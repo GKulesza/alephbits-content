@@ -25,6 +25,7 @@ class PackIndexEntry {
     required this.language,
     required this.title,
     required this.version,
+    required this.editionVersion,
     required this.updated,
     required this.categories,
     required this.coverFamily,
@@ -32,6 +33,9 @@ class PackIndexEntry {
     required this.estimatedReadingTime,
     required this.wordCount,
     required this.featured,
+    this.subtitle,
+    this.audience,
+    this.trustClassification,
   });
 
   final String id;
@@ -42,6 +46,7 @@ class PackIndexEntry {
   final String language;
   final String title;
   final String version;
+  final String editionVersion;
   final String updated;
   final List<String> categories;
   final String? coverFamily;
@@ -49,6 +54,9 @@ class PackIndexEntry {
   final int estimatedReadingTime;
   final int wordCount;
   final bool featured;
+  final String? subtitle;
+  final String? audience;
+  final String? trustClassification;
 
   Map<String, dynamic> toManifestEntry() {
     return {
@@ -60,8 +68,13 @@ class PackIndexEntry {
       'language': language,
       'title': title,
       'version': version,
+      'editionVersion': editionVersion,
       'categories': categories,
       if (coverFamily != null && coverFamily!.isNotEmpty) 'coverFamily': coverFamily,
+      if (subtitle != null && subtitle!.isNotEmpty) 'subtitle': subtitle,
+      if (audience != null && audience!.isNotEmpty) 'audience': audience,
+      if (trustClassification != null && trustClassification!.isNotEmpty)
+        'trustClassification': trustClassification,
       'difficulty': difficulty,
       'estimatedReadingTime': estimatedReadingTime,
       'featured': featured,
@@ -141,6 +154,7 @@ class ManifestBuilder {
     final title = _requireString(lesson, 'title', pack.relativePath);
     final language = _requireString(lesson, 'language', pack.relativePath);
     final version = _requireString(lesson, 'version', pack.relativePath);
+    final editionVersion = _requireString(lesson, 'editionVersion', pack.relativePath);
     final updated = _requireString(lesson, 'updated', pack.relativePath);
     final text = _requireString(lesson, 'text', pack.relativePath);
 
@@ -163,6 +177,7 @@ class ManifestBuilder {
       language: language,
       title: title,
       version: version,
+      editionVersion: editionVersion,
       updated: updated,
       categories: categories,
       coverFamily: coverFamily,
@@ -170,6 +185,9 @@ class ManifestBuilder {
       estimatedReadingTime: estimatedReadingTime,
       wordCount: wordCount,
       featured: featured,
+      subtitle: _optionalString(lesson['subtitle']),
+      audience: _optionalString(lesson['audience']),
+      trustClassification: _optionalString(lesson['trustClassification']),
     );
   }
 
@@ -354,6 +372,11 @@ class ManifestBuilder {
     final value = json[key];
     if (value is String && value.isNotEmpty) return value;
     throw ManifestBuildException('$label: lesson.json missing "$key"');
+  }
+
+  String? _optionalString(Object? value) {
+    if (value is String && value.isNotEmpty) return value;
+    return null;
   }
 
   Map<String, dynamic> _readJsonObject(File file) {

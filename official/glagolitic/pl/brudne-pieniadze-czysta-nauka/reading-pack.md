@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_brudne_pieniadze_czysta_nauka`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Brudne pieniądze, czysta nauka  
 **Subtitle:** Nauka, sponsor i sumienie  

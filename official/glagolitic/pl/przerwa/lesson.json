@@ -3,6 +3,7 @@
   "title": "Przerwa",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Wypalony Patryk po czternastogodzinnym dniu pracy odkrywa w starym notesie, że stresem nie trzeba walczyć — wystarczy się zatrzymać i oddychać.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "psychology",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Stres, oddech i zatrzymanie",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

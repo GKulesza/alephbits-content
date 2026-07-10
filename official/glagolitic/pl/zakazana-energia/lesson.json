@@ -3,6 +3,7 @@
   "title": "Zakazana Energia",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Architektka Helena odkrywa w archiwach dworców kolejowych ślady tajnych systemów energetycznych sprzed oficjalnej ery elektryczności — i ślad prowadzi ją w coraz głębszą spise.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "science_fiction",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Alternatywna historia ukrytej energii",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

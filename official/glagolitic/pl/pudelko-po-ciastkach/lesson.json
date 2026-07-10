@@ -3,6 +3,7 @@
   "title": "Pudełko po ciastkach",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Po śmierci matki Krzysztof wchodzi do zagraconego mieszkania i odkrywa, że gromadzone przez lata rzeczy były nie tylko bałaganem, ale także materialnym kształtem biedy, straty i pamięci.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "article",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Dziedziczenie lęku i porządkowanie pamięci",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

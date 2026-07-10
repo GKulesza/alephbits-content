@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_kubek`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Kubek  
 **Subtitle:** Matka, syn i obecność  

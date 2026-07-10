@@ -3,6 +3,7 @@
   "title": "Koniec epoki pudełek",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Adam obserwuje bunt graczy po decyzji Sony o końcu nowych wydań płytowych i zaczyna widzieć w sporze o pudełka walkę o własność, dostęp i prawa konsumentów.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "article",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Fizyczne gry kontra cyfrowa własność",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

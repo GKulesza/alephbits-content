@@ -4,13 +4,33 @@
   "title": "AlephBits Reading Pack Lesson",
   "description": "lesson.json — pack metadata and v1 inline reading text.",
   "type": "object",
-  "required": ["id", "title", "language", "text"],
+  "required": ["id", "title", "language", "text", "editionVersion", "trustClassification"],
   "additionalProperties": true,
   "properties": {
     "id": { "type": "string", "minLength": 1 },
     "title": { "type": "string", "minLength": 1 },
     "language": { "type": "string", "minLength": 2 },
     "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "editionVersion": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "subtitle": { "type": "string", "minLength": 1 },
+    "trustClassification": {
+      "type": "string",
+      "enum": [
+        "fiction",
+        "inspired_by_reality",
+        "adapted_from_real_events",
+        "popular_science",
+        "instruction",
+        "demo"
+      ]
+    },
+    "editorialHistory": {
+      "type": "object",
+      "properties": {
+        "firstPublished": { "type": "string", "format": "date" },
+        "lastEditorialUpdate": { "type": "string", "format": "date" }
+      }
+    },
     "updated": { "type": "string", "format": "date" },
     "description": { "type": "string" },
     "audience": { "type": "string" },
@@ -39,7 +59,7 @@
       "items": { "type": "string" },
       "uniqueItems": true
     },
-    "difficulty": { "type": "integer", "minimum": 1, "maximum": 10 },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 8 },
     "estimatedReadingTime": { "type": "integer", "minimum": 1 },
     "translation": { "type": "string" },
     "text": { "type": "string", "minLength": 1 },

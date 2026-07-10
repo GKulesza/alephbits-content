@@ -3,6 +3,7 @@
   "title": "Oczy, które nie widzą",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Magda odkrywa, że jej córka Ola przestaje reagować na głos, gdy sama coraz częściej patrzy w telefon zamiast w dziecko — i szuka drogi powrotu do prawdziwej obecności.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "psychology",
-  "audience": "family"
+  "audience": "family",
+  "subtitle": "Kontakt wzrokowy i obecność matki",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

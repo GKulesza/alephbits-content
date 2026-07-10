@@ -3,6 +3,7 @@
   "title": "Dostrojony dom",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Po warsztatach medytacyjnych Ewa wraca do zagraconego mieszkania i z pomocą specjalistki od porządkowania odkrywa, że bałagan to nie wstyd, lecz znak, że w swoim życiu wciąż nie zamieszkała naprawdę.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "everyday_live",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Porządkowanie przestrzeni i siebie",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

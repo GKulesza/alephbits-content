@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_susza`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Susza  
 **Subtitle:** Las, woda i zmiana klimatu  

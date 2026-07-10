@@ -3,6 +3,7 @@
   "title": "Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Popularnonaukowa opowieść prowadzi od Maxwella i Plancka przez strukturę atomu aż po odpowiedź, dlaczego ściana jest prawie przezroczysta dla fal radiowych, a skutecznie zatrzymuje światło widzialne.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "popular_science",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Opowieść o widmie elektromagnetycznym i materii",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

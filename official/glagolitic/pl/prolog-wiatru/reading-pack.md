@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_prolog_wiatru`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Prolog wiatru  
 **Subtitle:** Za kulisami teledysku  

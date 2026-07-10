@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_czarny_rynek_tokenow`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Czarny rynek tokenów  
 **Subtitle:** API, wyciek i geopolityka dostępu  

@@ -3,6 +3,7 @@
   "title": "Czarna skrzynka",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Robert, człowiek żyjący według minutowego kalendarza, po utracie kontroli nad życiem odkrywa, że puszczenie lęku może być wyzwoleniem, nie klęską.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "psychology",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Kontrola, chaos i puszczenie",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

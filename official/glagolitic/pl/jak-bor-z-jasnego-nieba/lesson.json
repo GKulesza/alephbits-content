@@ -3,6 +3,7 @@
   "title": "Jak Bor z jasnego nieba",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Wywiad w formie opowieści z Marcinem „Żukiem” Kowalczykiem — byłym operatorem BOR — o granicy między żołnierzem a operatorem, adrenaliny i rzeczach, o których nie można mówić.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "biography",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Rozmowa o jednostce BOR",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_pudelko_po_ciastkach`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Pudełko po ciastkach  
 **Subtitle:** Dziedziczenie lęku i porządkowanie pamięci  

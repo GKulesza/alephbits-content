@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_dostrojony_dom`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Dostrojony dom  
 **Subtitle:** Porządkowanie przestrzeni i siebie  

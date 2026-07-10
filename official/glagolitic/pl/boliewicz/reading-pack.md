@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_boliewicz`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Boliewicz  
 **Subtitle:** Wałęsa między legendą a cieniem Bolka  

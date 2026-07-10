@@ -3,6 +3,7 @@
   "title": "Cień skrzydeł nad oceanem",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Opowieść o chłopcu, który od najmłodszych lat opowiada szczegóły śmierci pilota Jamesa M. Hustona Jr. nad Chichi Jimą — i o rodzicach szukających wyjaśnienia.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "popular_science",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Przypadek Jamesa Leiningera",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

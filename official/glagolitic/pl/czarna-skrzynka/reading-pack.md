@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_czarna_skrzynka`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Czarna skrzynka  
 **Subtitle:** Kontrola, chaos i puszczenie  

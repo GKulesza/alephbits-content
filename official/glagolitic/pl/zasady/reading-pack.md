@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_zasady`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Zasady  
 **Subtitle:** List o decyzjach bez wymówek  

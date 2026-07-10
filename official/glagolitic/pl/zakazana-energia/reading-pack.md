@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_zakazana_energia`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Zakazana Energia  
 **Subtitle:** Alternatywna historia ukrytej energii  

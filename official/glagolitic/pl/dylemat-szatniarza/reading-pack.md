@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_dylemat_szatniarza`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Dylemat szatniarza  
 **Subtitle:** Polityka, Bruksela i dom  

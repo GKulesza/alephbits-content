@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_czarny_kodeks`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Czarny Kodeks  
 **Subtitle:** Vodou, Haiti i długie życie prawa  

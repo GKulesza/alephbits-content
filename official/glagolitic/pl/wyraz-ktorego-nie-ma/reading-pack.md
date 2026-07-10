@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_wyraz_ktorego_nie_ma`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Wyraz, którego nie ma  
 **Subtitle:** Nauka czytania i cierpliwość  

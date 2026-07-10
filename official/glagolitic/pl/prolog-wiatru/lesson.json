@@ -3,6 +3,7 @@
   "title": "Prolog wiatru",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Opowieść o nagraniu teledysku do „Kaze no Prologue” — od porannej plaży w Chiba po znaczenie wiatru i nowego początku w karierze Yumiko.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "biography",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Za kulisami teledysku",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

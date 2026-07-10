@@ -3,6 +3,7 @@
   "title": "Boliewicz",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Narracja wokół wypowiedzi Antoniego Dudka prowadzi przez sprzeczne warstwy biografii Lecha Wałęsy: bohaterstwo, współpracę z SB, nieudaną prezydenturę i trudne dziedzictwo.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "biography",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Wałęsa między legendą a cieniem Bolka",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

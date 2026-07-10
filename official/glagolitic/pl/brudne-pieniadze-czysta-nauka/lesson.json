@@ -3,6 +3,7 @@
   "title": "Brudne pieniądze, czysta nauka",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Doktor Anna Kowalska staje przed pokusą finansowania badań nad słodzikami przez koncern i wybiera uczciwość naukową ponad wygodę kariery.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "science",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Nauka, sponsor i sumienie",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

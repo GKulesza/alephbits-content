@@ -3,6 +3,7 @@
   "title": "Kamera na ulicy",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "W noworoczną noc Tom odkrywa martwą żonę Anę i zamiast wezwać pomoc zaczyna googlować, jak ukryć zbrodnię — opowieść inspirowana realnym sprawą morderstwa w Massachusetts.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "law",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Zbrodnia, kamera i chłód",
+  "trustClassification": "adapted_from_real_events",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

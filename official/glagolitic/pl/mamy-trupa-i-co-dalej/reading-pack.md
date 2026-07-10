@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_mamy_trupa_i_co_dalej`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Mamy trupa i co dalej  
 **Subtitle:** Żałoba, wybór i usługa pogrzebowa  

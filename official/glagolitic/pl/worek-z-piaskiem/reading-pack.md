@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_worek_z_piaskiem`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Worek z piaskiem  
 **Subtitle:** Granica, piasek i sąsiedztwo  

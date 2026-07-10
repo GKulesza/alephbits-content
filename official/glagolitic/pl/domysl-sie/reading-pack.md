@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_domysl_sie`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Domyśl się  
 **Subtitle:** Opowiadanie o sygnałach w związku  

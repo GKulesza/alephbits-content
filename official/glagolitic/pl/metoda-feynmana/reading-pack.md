@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_metoda_feynmana`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Metoda Feynmana  
 **Subtitle:** Fizyka, świadomość i granica interpretacji  

@@ -3,6 +3,7 @@
   "title": "Metoda Feynmana",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Profesor Marek, poruszony komentarzami pod filmem o fizyce, zaczyna łączyć naukowe pojęcia z pytaniami o świadomość, śmierć, dobro i zło — aż sam dochodzi do granicy między wyjaśnieniem a metaforą.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "popular_science",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Fizyka, świadomość i granica interpretacji",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

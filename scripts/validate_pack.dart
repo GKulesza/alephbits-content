@@ -422,6 +422,16 @@ void _validatePackDirectory(
     errors.add('$prefix difficulty must be between 1 and 8');
   }
 
+  final editionVersion = lesson['editionVersion'];
+  if (editionVersion is! String || editionVersion.isEmpty) {
+    errors.add('$prefix lesson.json missing non-empty "editionVersion"');
+  }
+
+  final trustClassification = lesson['trustClassification'];
+  if (trustClassification is! String || trustClassification.isEmpty) {
+    errors.add('$prefix lesson.json missing non-empty "trustClassification"');
+  }
+
   if (textFile.existsSync() && text is String) {
     final fileText = textFile.readAsStringSync().trim();
     final lessonText = text.trim();

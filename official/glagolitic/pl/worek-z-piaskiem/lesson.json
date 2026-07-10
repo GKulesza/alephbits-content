@@ -3,6 +3,7 @@
   "title": "Worek z piaskiem",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Na granicy Cieszyna młody celnik obserwuje Jana, który codziennie przewozi przez most worek z piaskiem, i odkrywa, że ten rytuał staje się symbolem łączenia dwóch brzegów rzeki.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "legends",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Granica, piasek i sąsiedztwo",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

@@ -3,6 +3,7 @@
   "title": "Czarny rynek tokenów",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Po przypadkowym wycieku klucza API Adam odkrywa globalny czarny rynek dostępu do modeli AI i rozumie, że za nielegalnym obiegiem tokenów stoją także bariery geograficzne i systemowe.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "article",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "API, wyciek i geopolityka dostępu",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

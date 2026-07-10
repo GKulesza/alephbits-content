@@ -3,6 +3,7 @@
   "title": "Cena widoku",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Pracownik nocnej zmiany w nadmorskim hotelu obserwuje pękanie luksusowej fasady i po spotkaniu z tajemniczym projektantem decyduje, że nie będzie już dłużej współuczestniczył w kłamstwie.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "article",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Hotel, przeciek i nocna decyzja",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

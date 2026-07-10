@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_kontrolowana_halucynacja`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Kontrolowana halucynacja  
 **Subtitle:** Uraz, świadomość i granice ja  

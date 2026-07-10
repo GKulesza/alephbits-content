@@ -3,6 +3,7 @@
   "title": "Na targu",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-08",
   "description": "Historia Adama, który po stracie pracy jedzie z Elbląga na największy targ w Polsce — i odkrywa, że handel to nie tylko towar, ale ludzie i nowe początki.",
   "author": {
@@ -71,6 +72,12 @@
   },
   "coverFamily": "travel",
   "audience": "adult",
+  "subtitle": "Opowiadanie w trzech częściach",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-08",
+    "lastEditorialUpdate": "2026-07-08"
+  },
   "references": [
     {
       "title": "YouTube — Targ w Nowym Targu (research)",

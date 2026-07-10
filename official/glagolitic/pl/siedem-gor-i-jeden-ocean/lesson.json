@@ -3,6 +3,7 @@
   "title": "Siedem gór i jeden ocean",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Architekt Marek jedzie do Korei Południowej przy kontrakcie muzealnym — i odkrywa kraj, który kojarzy Polskę z Chopinem, Wiedźminem i… tysiącem polskich czołgów.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "travel",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Polska oczami Korei Południowej",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

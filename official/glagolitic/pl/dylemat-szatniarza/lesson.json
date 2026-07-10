@@ -3,6 +3,7 @@
   "title": "Dylemat szatniarza",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Polityk wraca z Brukseli do Warszawy, obserwując afery i spadające notowania, aż rozumie, że prawdziwą stawką nie jest teatr władzy, lecz bezpieczeństwo jego rodziny.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "article",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Polityka, Bruksela i dom",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

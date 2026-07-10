@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_przerwa`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Przerwa  
 **Subtitle:** Stres, oddech i zatrzymanie  

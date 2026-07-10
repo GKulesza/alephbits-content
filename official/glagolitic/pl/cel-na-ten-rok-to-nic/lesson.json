@@ -3,6 +3,7 @@
   "title": "Cel na ten rok to... nic",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Ania, dyrektorka korporacji z pozoru spełniona, odkrywa u mentorki, że jej prawdziwym celem nie jest kolejna lista postanowień, lecz bycie wystarczającą tu i teraz.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "everyday_live",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Spełnienie bez listy celów",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }

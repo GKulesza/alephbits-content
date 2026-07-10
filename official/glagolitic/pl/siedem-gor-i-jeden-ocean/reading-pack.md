@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_siedem_gor_i_jeden_ocean`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Siedem gór i jeden ocean  
 **Subtitle:** Polska oczami Korei Południowej  

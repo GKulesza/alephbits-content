@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_cisza_przed_burza`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Cisza przed burzą  
 **Subtitle:** Polscy łamacze Enigmy  

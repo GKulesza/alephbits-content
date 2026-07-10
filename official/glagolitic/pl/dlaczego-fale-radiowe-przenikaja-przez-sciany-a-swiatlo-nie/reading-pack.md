@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?  
 **Subtitle:** Opowieść o widmie elektromagnetycznym i materii  

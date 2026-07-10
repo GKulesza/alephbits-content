@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_czarny_mnich_z_nikiszowca`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Czarny mnich z Nikiszowca  
 **Subtitle:** Legenda i pamięć Nikiszowca  

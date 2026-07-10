@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_cien_skrzydel_nad_oceanem`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Cień skrzydeł nad oceanem  
 **Subtitle:** Przypadek Jamesa Leiningera  

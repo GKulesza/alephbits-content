@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_trzynascie_zasad`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Trzynaście zasad  
 **Subtitle:** Przewodnik kulturowy dla obcokrajowców  

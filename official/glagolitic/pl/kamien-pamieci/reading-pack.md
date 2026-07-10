@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_kamien_pamieci`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Kamień pamięci  
 **Subtitle:** Berlin, kamień i polska pamięć  

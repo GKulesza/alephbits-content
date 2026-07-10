@@ -3,6 +3,7 @@
   "title": "Cisza przed burzą",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Opowieść o Marianie Rejewskim i zespole z Biura Szyfrów, którzy zrozumieli logikę Enigmy i zbudowali bombę kryptologiczną — na tle października 1932 w Warszawie.",
   "author": {
@@ -69,5 +70,11 @@
     ]
   },
   "coverFamily": "history",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Polscy łamacze Enigmy",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

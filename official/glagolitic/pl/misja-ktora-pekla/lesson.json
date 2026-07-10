@@ -3,6 +3,7 @@
   "title": "Misja która pękła",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-09",
   "description": "Marek, właściciel dojrzałej firmy konsultingowej, konfrontuje się z pęknięciem między misją a biznesem, zjawiskiem AI Brain Fry i potrzebą działania we własnym kontekście zamiast według cudzych wzorów.",
   "author": {
@@ -94,5 +95,11 @@
     ]
   },
   "coverFamily": "instruction",
-  "audience": "adult"
+  "audience": "adult",
+  "subtitle": "Misja, wypalenie i kontekst w erze AI",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  }
 }

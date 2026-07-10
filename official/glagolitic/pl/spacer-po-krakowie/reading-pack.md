@@ -4,6 +4,7 @@
 
 **Pack ID:** `polish_demo_lesson`  
 **Version:** 1.0.0  
+**Edition version:** 1.0.0  
 
 **Title:** Spacer po Krakowie  
 **Subtitle:** Pierwsza lekcja — spacer po Krakowie

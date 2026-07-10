@@ -3,6 +3,7 @@
   "title": "Kubek",
   "language": "pl",
   "version": "1.0.0",
+  "editionVersion": "1.0.0",
   "updated": "2026-07-10",
   "description": "Ewa, psycholożka i matka czternastolatka, uczy się od innych rodziców być obecną zamiast walczyć, gdy syn zamyka się w pokoju po kłótni o imprezę.",
   "author": {
@@ -93,5 +94,11 @@
     ]
   },
   "coverFamily": "psychology",
-  "audience": "family"
+  "audience": "family",
+  "subtitle": "Matka, syn i obecność",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  }
 }
