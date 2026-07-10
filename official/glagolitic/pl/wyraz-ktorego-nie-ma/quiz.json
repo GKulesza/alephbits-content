@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Ala reaguje na pierwsze lekcje czytania?",
+      "answers": [
+        "Z entuzjazmem i szybkim postępem",
+        "Odwraca wzrok i mówi, że to praca, nie zabawa",
+        "Od razu czyta całe zdania",
+        "Prosi o dodatkowe książki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czteroletnia Ala odpycha rękę matki i mówi, że to nie zabawa, lecz praca."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia rozważała, ale ostatecznie nie wybrała łatwiejszej drogi?",
+      "answers": [
+        "Zostawienie córki u dziadków",
+        "Zastąpienie książek tabletem i bajką zamiast czasu",
+        "Wysłanie córki do szkoły za granicą",
+        "Rezygnację z nauki czytania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcowa refleksja mówi, że mogła dać tablet i bajkę zamiast czasu, ale tego nie zrobiła."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Ala na początku opowieści?",
+      "answers": [
+        "Dwa lata",
+        "Cztery lata",
+        "Siedem lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsza sekcja zaczyna się od zdania: kiedy Ala miała cztery lata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia robi, by skierować uwagę córki na litery?",
+      "answers": [
+        "Wyłącza światło",
+        "Dotyka palcem brody Aliny, by skierować wzrok",
+        "Daje jej cukierka",
+        "Włącza telewizor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia dotyka palcem brody córki, żeby skierować jej wzrok na kartonik."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia uznaje za najważniejsze na końcu?",
+      "answers": [
+        "Że córka przestała się uczyć",
+        "Że nie poszła na łatwiejszą drogę i nie zrezygnowała z cierpliwości",
+        "Że sprzedała wszystkie książki",
+        "Że córka wyjechała do babci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy myślą, że mogło pójść inaczej, ale nie zrobiła tego — i to było najważniejsze."
+    }
+  ]
+}

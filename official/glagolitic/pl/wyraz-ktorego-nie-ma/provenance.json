@@ -1,0 +1,22 @@
+{
+  "packId": "polish_wyraz_ktorego_nie_ma",
+  "bookId": "wyraz-ktorego-nie-ma",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o nauce czytania i rodzicielskiej wytrwałości."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o nauce czytania i rodzicielskiej wytrwałości."
+}

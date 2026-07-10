@@ -1,0 +1,17 @@
+{
+  "packId": "polish_glosy_z_ziemi",
+  "bookId": "glosy-z-ziemi",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
+  },
+  "sources": [],
+  "revisionNotes": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
+}

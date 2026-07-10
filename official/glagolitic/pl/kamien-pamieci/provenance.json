@@ -1,0 +1,17 @@
+{
+  "packId": "polish_kamien_pamieci",
+  "bookId": "kamien-pamieci",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
+  },
+  "sources": [],
+  "revisionNotes": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
+}

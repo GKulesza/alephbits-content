@@ -1,0 +1,22 @@
+{
+  "packId": "polish_przerwa",
+  "bookId": "przerwa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego."
+}

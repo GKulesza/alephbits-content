@@ -1,0 +1,97 @@
+{
+  "id": "polish_oczy_ktore_nie_widza",
+  "title": "Oczy, które nie widzą",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Magda odkrywa, że jej córka Ola przestaje reagować na głos, gdy sama coraz częściej patrzy w telefon zamiast w dziecko — i szuka drogi powrotu do prawdziwej obecności.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "rodzicielstwo",
+    "kontakt wzrokowy",
+    "ekrany",
+    "obecność"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 11,
+  "translation": "Oczy, które nie widzą — Collection Four official reading pack (Polish).",
+  "text": "**OCZY, KTÓRE NIE WIDZĄ**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kiedy Magda zaczyna martwić się zachowaniem Oli?",
+        "answers": [
+          "Gdy córka ma tydzień",
+          "Gdy Ola ma rok i nie reaguje na głos matki",
+          "Gdy Ola kończy liceum",
+          "Gdy Ola zaczyna chodzić do żłobka"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gdy Ola ma rok, Magda zauważa, że córka nie reaguje na jej głos i nie patrzy na nią."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Magda robi coraz częściej podczas spacerów z wózkiem?",
+        "answers": [
+          "Opowiada córce o ptaszkach bez przerwy",
+          "Odpowiada na wiadomości, przegląda Instagram i Facebooka",
+          "Śpiewa na głos piosenki",
+          "Biega z wózkiem"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tekst opisuje stopniowe przechodzenie od opowiadania o świecie do patrzenia w telefon."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co początkowo mówi pediatra?",
+        "answers": [
+          "Że trzeba natychmiast do szpitala",
+          "Że wszystko w porządku i dzieci są różne",
+          "Że Ola jest chora na ospę",
+          "Że Magda powinna przestać pracować"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pediatra uspokaja, że wszystko w porządku i niektóre dzieci później nawiązują kontakt."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co łączy historie Ewy, Magdy, Kasi i Jadwigi w końcowej refleksji?",
+        "answers": [
+          "Wszystkie dotyczą tego samego dziecka",
+          "Miłość do dzieci i świadomość, że najważniejsza jest obecność",
+          "Wspólny wyjazd na wakacje",
+          "Ten sam zawód zawodowy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sekcja refleksji mówi, że łączy je miłość do dzieci i świadomość znaczenia obecności."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie jest główne przesłanie końca opowieści?",
+        "answers": [
+          "Dzieci powinny oglądać więcej bajek",
+          "Tylko obecność może nauczyć dziecko patrzeć i widzieć",
+          "Wózki sportowe są złe",
+          "Matki nie powinny pracować"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi, że tylko obecność może nauczyć dziecko patrzeć i widzieć."
+      }
+    ]
+  },
+  "coverFamily": "psychology",
+  "audience": "adult readers, parents"
+}

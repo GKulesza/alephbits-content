@@ -1,0 +1,97 @@
+{
+  "id": "polish_worek_z_piaskiem",
+  "title": "Worek z piaskiem",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Na granicy Cieszyna młody celnik obserwuje Jana, który codziennie przewozi przez most worek z piaskiem, i odkrywa, że ten rytuał staje się symbolem łączenia dwóch brzegów rzeki.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "granica",
+    "Cieszyn",
+    "legenda",
+    "sąsiedztwo"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 9,
+  "translation": "Worek z piaskiem — Collection Four official reading pack (Polish).",
+  "text": "**WOREK Z PIASKIEM**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co Jan codziennie przewozi przez most?",
+        "answers": [
+          "Pusty plecak",
+          "Szary worek z piaskiem",
+          "Walizkę z ubraniami",
+          "Rowery dla dzieci"
+        ],
+        "correctIndex": 1,
+        "explanation": "Celnicy widzą, że mężczyzna codziennie mija granicę z tym samym szarym workiem."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak Jan odpowiada na pytanie celnika o zawartość worka?",
+        "answers": [
+          "Że to złoto",
+          "Że to piasek",
+          "Że to książki",
+          "Że to żywność"
+        ],
+        "correctIndex": 1,
+        "explanation": "Na pytanie celnika odpowiada po prostu: piasek."
+      },
+      {
+        "type": "single_choice",
+        "question": "Gdzie rozgrywa się opowieść?",
+        "answers": [
+          "Na granicy między Cieszynem a Czeskim Cieszynem",
+          "W Gdańsku przy porcie",
+          "W Tatrach na przełęczy",
+          "Na lotnisku w Warszawie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tekst mówi o przejściu granicznym między Cieszynem a Czeskim Cieszynem."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Tomkowi daje przejażdżka z workiem na bagażniku roweru?",
+        "answers": [
+          "Poczucie, że Jan byłby dumny i że worek jest symbolem czegoś bez nazwy",
+          "Plan wyjazdu do Czech na stałe",
+          "Pomysł na handel piaskiem",
+          "Chęć zostania politykiem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Końcówka mówi, że worek jest symbolem czegoś bez nazwy, a Tomek wie, że Jan byłby dumny."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim jest Tomek w opowieści?",
+        "answers": [
+          "Młodym celnikiem pracującym na granicy",
+          "Burmistrem Cieszyna",
+          "Kierowcą autobusu",
+          "Turystą z Niemiec"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tomek to młody celnik, który od miesiąca pracuje na granicy."
+      }
+    ]
+  },
+  "coverFamily": "legends",
+  "audience": "adult readers"
+}

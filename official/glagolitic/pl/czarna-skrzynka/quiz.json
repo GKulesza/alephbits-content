@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Robert robi codziennie o 5:47?",
+      "answers": [
+        "Biega dziesięć kilometrów",
+        "Sprawdza telefon, czy świat jest taki, jaki powinien być",
+        "Pisze wiersze",
+        "Gotuje śniadanie dla sąsiadów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsze, co robi po przebudzeniu, to sprawdzenie telefonu i planów na dzień."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Robert opisuje chaos?",
+      "answers": [
+        "Jako przyjaciela artysty",
+        "Jako wroga, którego trzeba kontrolować",
+        "Jako coś pożądanego",
+        "Jako stan bez znaczenia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi żonie, że życie trzeba kontrolować, bo chaos jest wrogiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym zajmuje się żona Roberta, Magda?",
+      "answers": [
+        "Jest lekarką",
+        "Jest artystką malującą obrazy",
+        "Jest prawniczką",
+        "Jest nauczycielką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi, że Magda była artystką i malowała obrazy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Robert mówi Magdzie po zmianie na końcu opowieści?",
+      "answers": [
+        "Że wraca do starego trybu",
+        "Że przestał się bać, że coś pójdzie nie tak, i świat dalej się kręci",
+        "Że sprzedaje firmę",
+        "Że nie chce już rozmawiać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że przestał się bać, że coś pójdzie nie tak, a świat dalej się kręci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Magda nazywa tę zmianę Roberta?",
+      "answers": [
+        "Porażką",
+        "Puszczeniem",
+        "Lenistwem",
+        "Chorobą"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda mówi: „To się nazywa puścić”."
+    }
+  ]
+}

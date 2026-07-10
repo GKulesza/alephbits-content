@@ -19,16 +19,19 @@ class CompiledArtifacts {
   final String licenseMd;
 
   Map<String, String> asFileMap() => {
-        'lesson.json': lessonJson,
-        'text.txt': textTxt,
-        'quiz.json': quizJson,
-        'provenance.json': provenanceJson,
-        'license.md': licenseMd,
-      };
+    'lesson.json': lessonJson,
+    'text.txt': textTxt,
+    'quiz.json': quizJson,
+    'provenance.json': provenanceJson,
+    'license.md': licenseMd,
+  };
 }
 
 class ReadingPackCompiler {
-  CompiledArtifacts compile(ReadingPackDocument doc, {required String packDirPath}) {
+  CompiledArtifacts compile(
+    ReadingPackDocument doc, {
+    required String packDirPath,
+  }) {
     final tier = _detectTier(packDirPath);
     final bookId = _bookId(doc, packDirPath);
     final text = _normalizeText(doc.text);
@@ -81,6 +84,7 @@ class ReadingPackCompiler {
     final transparency = doc.transparency;
     final license = _parseLicense(transparency['License'] ?? '');
     final coverFamily = _nonEmpty(metadata['Cover family']);
+    final audience = _nonEmpty(metadata['Audience']);
 
     final lesson = <String, dynamic>{
       'id': metadata['Pack ID'] ?? '',
@@ -89,9 +93,7 @@ class ReadingPackCompiler {
       'version': metadata['Version'] ?? '1.0.0',
       'updated': _earliestRevisionDate(doc.revisions),
       'description': metadata['Blurb'] ?? '',
-      'author': {
-        'name': transparency['Created by'] ?? '',
-      },
+      'author': {'name': transparency['Created by'] ?? ''},
       'license': {
         'name': license.name,
         'url': transparency['License URL'] ?? '',
@@ -103,7 +105,9 @@ class ReadingPackCompiler {
       'recommendedLevel': metadata['Recommended level'] ?? '',
       'tags': _splitList(metadata['Tags'] ?? ''),
       'difficulty': _parseDifficulty(metadata['Difficulty'] ?? ''),
-      'estimatedReadingTime': _parseReadingTime(metadata['Estimated reading time'] ?? ''),
+      'estimatedReadingTime': _parseReadingTime(
+        metadata['Estimated reading time'] ?? '',
+      ),
       'translation': metadata['Translation summary'] ?? '',
       'text': text,
       'quiz': quiz,
@@ -111,6 +115,9 @@ class ReadingPackCompiler {
 
     if (coverFamily != null) {
       lesson['coverFamily'] = coverFamily;
+    }
+    if (audience != null) {
+      lesson['audience'] = audience;
     }
 
     final references = _buildReferences(doc.sources);
@@ -123,10 +130,7 @@ class ReadingPackCompiler {
 
   Map<String, dynamic> _buildQuiz(QuizSection? quiz) {
     if (quiz == null || quiz.questions.isEmpty) {
-      return {
-        'title': '',
-        'questions': <Map<String, dynamic>>[],
-      };
+      return {'title': '', 'questions': <Map<String, dynamic>>[]};
     }
 
     return {
@@ -157,7 +161,9 @@ class ReadingPackCompiler {
       'bookId': bookId,
       'editorialStatus': tier,
       'createdAt': _earliestRevisionDate(doc.revisions),
-      'lastReviewedAt': _parseHumanReviewDate(transparency['Human reviewed'] ?? ''),
+      'lastReviewedAt': _parseHumanReviewDate(
+        transparency['Human reviewed'] ?? '',
+      ),
       'editors': _splitList(transparency['Editor'] ?? ''),
       'aiAssistance': {
         'used': _parseBool(transparency['LLM assisted'] ?? 'no'),
@@ -173,7 +179,9 @@ class ReadingPackCompiler {
     final title = doc.metadata['Title'] ?? doc.title;
     final license = _parseLicense(doc.transparency['License'] ?? '');
     final url = doc.transparency['License URL'] ?? '';
-    final dedication = license.name.contains('CC0') ? ' (public domain dedication)' : '';
+    final dedication = license.name.contains('CC0')
+        ? ' (public domain dedication)'
+        : '';
 
     return '''# License
 
@@ -193,10 +201,7 @@ You may copy, modify, and distribute this work for any purpose without asking pe
       if (source.url == null) continue;
       if (source.availability != 'licensed') continue;
 
-      final ref = <String, dynamic>{
-        'title': source.title,
-        'url': source.url,
-      };
+      final ref = <String, dynamic>{'title': source.title, 'url': source.url};
       final description = source.referenceDescription ?? source.editorNotes;
       if (description != null && description.isNotEmpty) {
         ref['description'] = description;
@@ -206,15 +211,14 @@ You may copy, modify, and distribute this work for any purpose without asking pe
     return references;
   }
 
-  List<Map<String, dynamic>> _buildProvenanceSources(List<SourceEntry> sources) {
+  List<Map<String, dynamic>> _buildProvenanceSources(
+    List<SourceEntry> sources,
+  ) {
     final entries = <Map<String, dynamic>>[];
     for (final source in sources) {
       if (source.deprecated) continue;
       if (!_isProvenanceSource(source.availability)) continue;
-      entries.add({
-        'type': source.availability,
-        'description': source.title,
-      });
+      entries.add({'type': source.availability, 'description': source.title});
     }
     return entries;
   }
@@ -259,8 +263,9 @@ You may copy, modify, and distribute this work for any purpose without asking pe
 
   String _earliestRevisionDate(List<RevisionEntry> revisions) {
     if (revisions.isEmpty) return '';
-    final dates = revisions.map((r) => r.date).where((d) => d.isNotEmpty).toList()
-      ..sort();
+    final dates =
+        revisions.map((r) => r.date).where((d) => d.isNotEmpty).toList()
+          ..sort();
     return dates.isNotEmpty ? dates.first : '';
   }
 

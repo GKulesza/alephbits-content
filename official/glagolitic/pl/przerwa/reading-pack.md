@@ -1,0 +1,305 @@
+# Przerwa
+
+## Metadata
+
+**Pack ID:** `polish_przerwa`  
+**Version:** 1.0.0  
+
+**Title:** Przerwa  
+**Subtitle:** Stres, oddech i zatrzymanie  
+**Blurb:** Wypalony Patryk po czternastogodzinnym dniu pracy odkrywa w starym notesie, że stresem nie trzeba walczyć — wystarczy się zatrzymać i oddychać.
+
+**Genres:** psychology, short_story  
+**Cover family:** psychology  
+**Series:** Collection Four  
+**Audience:** adult readers  
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 7 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** pl  
+**Translation summary:** Przerwa — Collection Four official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** stres, oddech, wypalenie, uważność  
+
+**Keywords:** przerwa, stres, oddech, wypalenie, notes  
+
+**Editorial notes:** Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.
+
+---
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 13.03.2026 -> https://www.youtube.com/watch?v=Y734jWkM9dY  
+**Revision notes:** Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Collection Four migration |
+
+---
+
+## Sources
+
+### Source 1: Collection Four manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Y734jWkM9dY  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-03-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+
+## Text
+
+**PRZERWA**
+
+
+## I. 22:47
+
+Kiedy Patryk zamknął laptopa, jego oczy piekły. Pracował czternaście godzin. Prezentacja, którą miał wygłosić jutro rano, była gotowa, ale on nie czuł satysfakcji. Czuł tylko pustkę. I to drżenie w środku, które towarzyszyło mu od tygodni.
+
+Wstał od biurka, podszedł do okna i spojrzał na miasto. Warszawa nocą wyglądała jak ocean świateł – piękna, daleka, obojętna. Wziął głęboki wdech, ale powietrze utknęło mu gdzieś w gardle. Nie umiał oddychać. Nie pamiętał, kiedy ostatnio oddychał naprawdę.
+
+Wrócił do biurka i otworzył szufladę. W środku leżał stary notes, który dostał od żony na urodziny trzy lata temu. Nigdy go nie używał. Zawsze miał zbyt wiele na głowie, żeby zapisywać myśli. Zbyt wiele, żeby myśleć.
+
+Przez chwilę patrzył na pustą pierwszą stronę. Potem, nie wiedząc dlaczego, sięgnął po długopis i napisał:
+
+_"Nie pamiętam, kiedy ostatnio czułem się naprawdę dobrze. Nie pamiętam, kiedy ostatnio czułem, że oddycham. Wszystko jest za szybko, za głośno, za bardzo."_
+
+Odłożył długopis i zamknął notes. Nie wiedział, dlaczego to napisał. Może dlatego, że w środku nocy, gdy nikt nie patrzy, łatwiej jest przyznać się do tego, co czujesz.
+
+Położył się do łóżka, ale nie mógł zasnąć. Myśli krążyły w kółko, jak płyta, która zacięła się w jednym miejscu. Jutrzejsza prezentacja. Szef, który nigdy nie jest zadowolony. Kolejny projekt, kolejny deadline, kolejny dzień, w którym będzie udawał, że daje radę.
+
+Zasnął nad ranem, ale sen nie przyniósł mu ulgi. Wstał zmęczony, z bólem głowy i uczuciem, że za chwilę coś w nim pęknie.
+
+---
+
+## II. 07:34
+
+Kawa była gorąca, ale jej nie poczuł. Wypił ją automatycznie, jak codziennie, bez smaku, bez przyjemności. Wsiadł do samochodu i włączył radio. Ktoś mówił o polityce, ktoś inny o pogodzie. Wyłączył. Włączył muzykę, ale też nie pomogła. Wszystko było tylko hałasem.
+
+W korku na Wisłostradzie zacisnął ręce na kierownicy. Przed nim migały światła stopu, za nim ktoś trąbił. Czuł, jak napięcie wzbiera w nim jak fala, która za chwilę zaleje cały brzeg. Wiedział, że nie ma sensu się denerwować – nie przyspieszy ruchu, nie zmieni niczego. A jednak czuł tę złość, tę bezsilność, która rozlewała się po nim jak gorący ołów.
+
+I wtedy, po raz pierwszy od tygodni, coś mu przyszło do głowy. Przypomniał sobie słowa, które usłyszał w jakimś podcaście tydzień temu, gdy zasypiał:
+
+_"Czy ja się muszę tym stresować?"_
+
+Zatrzymał się na chwilę. Spojrzał na światła, na samochody, na siebie. I zadał sobie to pytanie na głos:
+
+— Czy ja się muszę tym stresować?
+
+Odpowiedź była oczywista: nie. Nie musiał. Nie zmieniłoby to niczego. A jednak jego ciało było spięte, jego oddech płytki, jego serce biło za szybko.
+
+Wziął głęboki wdech. Potem drugi. Potem trzeci.
+
+Czuł się głupio. Wdech, wydech. Co to miało zmienić? Ale wdech, wydech.
+
+I wtedy poczuł coś dziwnego. Przez ułamek sekundy, między jednym oddechem a drugim, coś się w nim rozluźniło. Nie na długo – tylko na moment. Ale to było coś.
+
+Przypomniał sobie, co mówiła wtedy tamta kobieta:
+
+_"To nie tylko chodzi o to, żeby w momencie stresu sobie pooddychać. Chodzi o to, żeby na co dzień dbać o układ nerwowy."_
+
+Układ nerwowy. Do tej pory myślał o nim jak o czymś abstrakcyjnym – czymś, co jest, ale czego nie czuje. A teraz, w korku, w samochodzie, przed prezentacją, której się bał, poczuł go fizycznie. To napięcie w ramionach. Ten skurcz w żołądku. To uczucie, że za chwilę coś pęknie.
+
+I zrozumiał, że to nie jest jego wina. Że jego ciało robi to, do czego zostało zaprogramowane – reaguje na zagrożenie. Tylko że ono nie rozróżnia, czy to naprawdę zagrożenie, czy tylko mail od szefa.
+
+Jego mózg nie wiedział, że nie umiera. I dlatego czuł się, jakby umierał.
+
+---
+
+## III. 18:45
+
+Prezentacja poszła dobrze. Albo źle – Patryk nie był pewien. Szef skinął głową, koledzy z zespołu poklepali go po ramieniu, ale on nie czuł ulgi. Czuł tylko zmęczenie. I to dziwne uczucie, że jest w swoim ciele, ale nie do końca.
+
+Wrócił do domu wcześniej niż zwykle. Żona spojrzała na niego zdziwiona.
+
+— Coś się stało?
+
+— Nie. Chyba nie. Po prostu... potrzebuję chwili.
+
+Poszedł do sypialni i położył się na łóżku. Przez chwilę leżał w ciszy, patrząc w sufit. I wtedy usłyszał coś, czego nie słyszał od dawna – własny oddech. Wolny, miarowy, taki, jaki był, gdy nic go nie przytłaczało.
+
+Zamknął oczy i spróbował skanować ciało, tak jak mówiła tamta kobieta. Zaczął od stóp. Były zimne. Potem nogi – spięte. Brzuch – skurczony. Klatka piersiowa – ciasna. Ramiona – podniesione, jakby cały czas czekał na uderzenie.
+
+Z każdym oddechem próbował rozluźniać kolejne części ciała. Nie szło mu dobrze. Myśli wracały, serce biło za szybko, czuł się głupio, leżąc tam i oddychając. Ale coś w nim mówiło, żeby nie przerywać.
+
+Po dziesięciu minutach wstał. Nic wielkiego się nie wydarzyło – nie poczuł nagłego spokoju, nie miał objawienia. Ale czuł się... inaczej. Jakby ktoś zdjął z niego ciężki płaszcz, który nosił od lat, nie zdając sobie z tego sprawy.
+
+Wyszedł do kuchni, gdzie żona robiła kolację. Podeszła do niego i przytuliła go.
+
+— Wszystko w porządku? – zapytała.
+
+— Chyba tak. Po raz pierwszy od dawna.
+
+— Co się stało?
+
+— Zatrzymałem się. I pomyślałem.
+
+— O czym?
+
+Patryk zawahał się. Jak wytłumaczyć komuś coś, czego sam jeszcze do końca nie rozumiał?
+
+— O tym, że... że nie muszę się stresować. Że mogę wybrać inaczej.
+
+Żona spojrzała na niego uważnie.
+
+— I wybrałeś?
+
+— Próbuję.
+
+Uśmiechnęła się i wróciła do gotowania. Patryk usiadł przy stole i przez chwilę patrzył na nią. Była tam, od lat. Była zawsze. I on nigdy nie był naprawdę obecny. Zawsze myślał o pracy, o terminach, o tym, co jeszcze musi zrobić. Zawsze był gdzie indziej.
+
+Nie dzisiaj. Dzisiaj był tutaj.
+
+---
+
+## IV. 22:47, trzy tygodnie później
+
+Patryk siedział przy biurku, ale tym razem nie przed laptopem. Przed nim leżał stary notes, w którym trzy tygodnie temu napisał pierwsze zdanie. Teraz otworzył go i przeczytał:
+
+_"Nie pamiętam, kiedy ostatnio czułem się naprawdę dobrze."_
+
+Uśmiechnął się. Nie dlatego, że było to śmieszne – dlatego, że coś się zmieniło. Nie wszystko, nie od razu, nie całkowicie. Ale coś.
+
+Przez ostatnie trzy tygodnie codziennie znajdował chwilę, żeby się zatrzymać. Czasem pięć minut, czasem dziesięć. Czasem tylko tyle, ile trwał głęboki oddech w korku. Zauważał, kiedy jego ciało się spinało. Zauważał, kiedy jego myśli zaczynały galopować. I zamiast w nie wpadać, po prostu oddychał.
+
+Nie zawsze mu wychodziło. Czasem zapominał, czasem nie miał siły, czasem wydawało mu się, że to bez sensu. Ale wracał. I za każdym razem, gdy wracał, czuł, że robi coś dobrego.
+
+Wziął długopis i napisał na nowej stronie:
+
+_"Dzisiaj nie byłem zestresowany. To znaczy: byłem, ale zauważyłem to. I to wystarczyło."_
+
+Zamknął notes i położył go na biurku. Obok stała lampa, która rzucała miękkie, żółte światło na kartki. Patryk przez chwilę patrzył na ten widok. Na notatnik, na lampę, na własne ręce spoczywające na blacie.
+
+I wtedy zrozumiał coś, czego nie rozumiał wcześniej. Że to, co nazywał stresem, nie było wrogiem. To była informacja. Sygnał od ciała, że coś jest nie tak. I że odpowiedzią na niego nie jest walka ani ucieczka, ale zatrzymanie się. Oddychanie. Bycie.
+
+Wstał, podszedł do łóżka i położył się obok żony. Zamknął oczy. I po raz pierwszy od bardzo dawna zasnął spokojnie.
+
+---
+
+
+**KONIEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Ile godzin pracował Patryk przed zamknięciem laptopa?
+
+**Answers:**
+- A) Sześć
+- B) Czternaście
+- C) Dwadzieścia
+- D) Dwie
+
+**Correct:** B
+**Explanation:** Pierwsze zdanie mówi, że pracował czternaście godzin.
+**Text reference:** Pracował czternaście godzin
+
+### Question 2
+
+**Question:** Co Patryk zapisuje w notesie w środku nocy?
+
+**Answers:**
+- A) Listę zakupów
+- B) Że nie pamięta, kiedy czuł się dobrze i naprawdę oddychał
+- C) Plan wakacji
+- D) Scenariusz filmu
+
+**Correct:** B
+**Explanation:** Pierwszy wpis dotyczy niepamięci ostatniego dobrego samopoczucia i prawdziwego oddechu.
+**Text reference:** Nie pamiętam, kiedy ostatnio czułem się naprawdę dobrze
+
+### Question 3
+
+**Question:** Skąd pochodzi notes, którego Patryk używa?
+
+**Answers:**
+- A) Kupił go tego dnia w księgarni
+- B) Dostał od żony na urodziny trzy lata temu
+- C) Znalazł na ulicy
+- D) Dostał od szefa
+
+**Correct:** B
+**Explanation:** W szufladzie leży stary notes od żony na urodziny sprzed trzech lat.
+**Text reference:** dostał od żony na urodziny trzy lata temu
+
+### Question 4
+
+**Question:** Jak Patryk rozumie stres pod koniec opowieści?
+
+**Answers:**
+- A) Jako wroga, z którym trzeba walczyć
+- B) Jako informację od ciała, na którą odpowiedzią jest zatrzymanie i oddech
+- C) Jako coś, co należy ignorować
+- D) Jako powód do kolejnej nocnej pracy
+
+**Correct:** B
+**Explanation:** Końcowa refleksja mówi, że stres to informacja, a odpowiedzią jest zatrzymanie się i oddychanie.
+**Text reference:** To była informacja
+
+### Question 5
+
+**Question:** Jak kończy się noc Patryka?
+
+**Answers:**
+- A) Wraca do pracy nad prezentacją
+- B) Kładzie się obok żony i zasypia spokojnie
+- C) Wychodzi biegać o północy
+- D) Jedzie do biura
+
+**Correct:** B
+**Explanation:** Po refleksji kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie.
+**Text reference:** zasnął spokojnie
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

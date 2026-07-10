@@ -1,0 +1,17 @@
+{
+  "packId": "polish_dylemat_szatniarza",
+  "bookId": "dylemat-szatniarza",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci."
+  },
+  "sources": [],
+  "revisionNotes": "Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci."
+}

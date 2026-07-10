@@ -1,0 +1,22 @@
+{
+  "packId": "polish_gruby_dzienniczek",
+  "bookId": "gruby-dzienniczek",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement."
+}

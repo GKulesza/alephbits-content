@@ -1,0 +1,17 @@
+{
+  "packId": "polish_brudne_pieniadze_czysta_nauka",
+  "bookId": "brudne-pieniadze-czysta-nauka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
+  },
+  "sources": [],
+  "revisionNotes": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
+}

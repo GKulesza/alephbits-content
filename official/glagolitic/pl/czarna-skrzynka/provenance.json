@@ -1,0 +1,22 @@
+{
+  "packId": "polish_czarna_skrzynka",
+  "bookId": "czarna-skrzynka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli."
+}

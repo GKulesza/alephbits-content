@@ -1,0 +1,97 @@
+{
+  "id": "polish_kamien_pamieci",
+  "title": "Kamień pamięci",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Marta jedzie do Berlina, by odnaleźć kamień pamięci o polskich żołnierzach, którego poszukiwał jej dziadek, i odkrywa historię pamięci budowanej przez pokolenia.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "pamięć historyczna",
+    "Berlin",
+    "pokolenia",
+    "świadectwo"
+  ],
+  "difficulty": 6,
+  "estimatedReadingTime": 8,
+  "translation": "Kamień pamięci — Collection Four official reading pack (Polish).",
+  "text": "**KAMIEŃ PAMIĘCI**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co dziadek Marty prosił ją, by zobaczyła w Berlinie?",
+        "answers": [
+          "Nową ambasadę PRL",
+          "Kamień pamięci o polskich żołnierzach",
+          "Stary pałac królewski",
+          "Pomnik Napoleona"
+        ],
+        "correctIndex": 1,
+        "explanation": "Na łożu śmierci mówi o kamieniu w Berlinie i o tym, że Polacy tam byli."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto przemawia na konferencji w nowej ambasadzie?",
+        "answers": [
+          "Marta",
+          "Mateusz Fałkowski z Instytutu Pileckiego",
+          "Dziadek Marty",
+          "Niemiecki kanclerz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Na konferencji głos zabiera Mateusz Fałkowski, dyrektor Instytutu Pileckiego w Berlinie."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak zmienia się obraz ambasady w tekście?",
+        "answers": [
+          "Zawsze była nowoczesna i tętniąca życiem",
+          "Z szarej bryły PRL w miejsce, w którym toczy się życie",
+          "Zostaje zamknięta na stałe",
+          "Przenosi się do Krakowa"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marta pamięta starą, ponurą ambasadę PRL, a teraz widzi nowy, żywy budynek."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Marta robi po powrocie do Warszawy?",
+        "answers": [
+          "Zapomina o kamieniu",
+          "Pisze o dziadku, kamieniu i ludziach, którzy go położyli",
+          "Zostaje dyplomatką",
+          "Sprzedaje notatnik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Epilog mówi, że wciąż pisze o dziadku, kamieniu i tych, którzy go położyli."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie jest główne przesłanie końca opowieści?",
+        "answers": [
+          "Kamienie same opowiadają historie",
+          "Ludzie, którzy znajdują kamienie, mogą mówić za nich",
+          "Pamięć historyczna nie ma znaczenia",
+          "Berlin nie interesuje Polaków"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi, że kamienie nie mówią, ale ludzie mogą mówić za nie."
+      }
+    ]
+  },
+  "coverFamily": "history",
+  "audience": "adult readers"
+}

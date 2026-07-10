@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "dostrojony-dom",
+    "title": "Dostrojony dom",
+    "packId": "polish_dostrojony_dom",
+    "summary": "Po warsztatach medytacyjnych Ewa wraca do zagraconego mieszkania i z pomocą specjalistki od porządkowania odkrywa, że bałagan to nie wstyd, lecz znak, że w swoim życiu wciąż nie zamieszkała naprawdę.",
+    "subtitle": "Porządkowanie przestrzeni i siebie",
+    "genres": ["everyday_live", "short_story"],
+    "coverFamily": "everyday_live",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["bałagan", "minimalizm", "tożsamość", "przestrzeń osobista"],
+    "keywords": "dostrojony dom, decluttering, bałagan, medytacja, porządkowanie",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "psychology_decluttering"],
+    "editorialNotes": "Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.",
+    "quiz": [
+      {
+        "question": "Co Ewa czuje tuż po powrocie z warsztatów medytacyjnych?",
+        "answers": {
+          "A": "Radość, że mieszkanie jest idealnie czyste",
+          "B": "Rozczarowanie i utratę energii wobec znanego chaosu",
+          "C": "Obojętność wobec bałaganu",
+          "D": "Chęć natychmiastowej przeprowadzki"
+        },
+        "correct": "B",
+        "explanation": "Po tygodniu w ośrodku wraca do tego samego bałaganu i czuje, jak energia ją opuszcza.",
+        "textReference": "czuła, jak energia opuszcza ją kroplami"
+      },
+      {
+        "question": "Kto pomaga Ewie zacząć pracę nad mieszkaniem?",
+        "answers": {
+          "A": "Jej była współlokatorka Asia, która przyprowadza Martę",
+          "B": "Przypadkowy sąsiad z piętra wyżej",
+          "C": "Ksiądz z parafii",
+          "D": "Agent nieruchomości"
+        },
+        "correct": "A",
+        "explanation": "Asia odwiedza Ewę i proponuje kontakt z kobietą, która pomaga ludziom uporządkować mieszkania.",
+        "textReference": "Znam kogoś. Kobietę, która się tym zajmuje"
+      },
+      {
+        "question": "Jakie odkrycie robi Ewa, patrząc na stary rysunek z liceum?",
+        "answers": {
+          "A": "Chodzi o budowę domu, nie o zamieszkanie w swoim życiu",
+          "B": "Chce natychmiast sprzedać mieszkanie",
+          "C": "Postanawia zostać architektką",
+          "D": "Uznaje, że bałagan jest dziedzictwem rodzinnym"
+        },
+        "correct": "A",
+        "explanation": "Końcowa refleksja mówi wprost, że nie chodzi o dom, lecz o to, by w nim zamieszkać.",
+        "textReference": "Nie chodzi o dom — chodzi o to, żeby w nim zamieszkać"
+      },
+      {
+        "question": "Jak Marta opisuje rolę uporządkowanej przestrzeni?",
+        "answers": {
+          "A": "Jako sposób na zwiększenie wartości rynkowej mieszkania",
+          "B": "Jako coś, co daje oddech i pozwala zdecydować, co dalej",
+          "C": "Jako obowiązek każdej kobiety po trzydziestce",
+          "D": "Jako zamiennik terapii farmakologicznej"
+        },
+        "correct": "B",
+        "explanation": "Marta mówi, że przestrzeń, która sprzyja, daje oddech, a potem można zdecydować, co z nim zrobić.",
+        "textReference": "Daje ci oddech"
+      },
+      {
+        "question": "Jaki jest końcowy stan Ewy wobec swoich rzeczy?",
+        "answers": {
+          "A": "Zostaje radykalną minimalistką bez wspomnień",
+          "B": "Zachowuje to, co kocha, ale przestaje nosić rzeczy jako balast",
+          "C": "Oddaje mieszkanie siostrze",
+          "D": "Przestaje w ogóle sprzątać"
+        },
+        "correct": "B",
+        "explanation": "Epilog podkreśla, że ma rzeczy i wspomnienia, ale już nie są balastem.",
+        "textReference": "już nie były one balastem"
+      }
+    ]
+  },
+  {
+    "slug": "gruby-dzienniczek",
+    "title": "Gruby dzienniczek",
+    "packId": "polish_gruby_dzienniczek",
+    "summary": "Patryk, wypalony trzydziestolatek, zaczyna prowadzić gruby dzienniczek od prostego ścielenia łóżka i odkrywa, że małe codzienne kroki mogą przywrócić mu sprawczość.",
+    "subtitle": "Małe nawyki i powrót do siebie",
+    "genres": ["psychology", "short_story"],
+    "coverFamily": "psychology",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["nawyki", "wypalenie", "dziennik", "motywacja"],
+    "keywords": "gruby dzienniczek, ścielenie łóżka, nawyki, wypalenie, David Goggins",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "habit_formation"],
+    "editorialNotes": "Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement.",
+    "quiz": [
+      {
+        "question": "Od czego Patryk zaczyna swoją roczną rutynę w dzienniczku?",
+        "answers": {
+          "A": "Od biegania maratonu",
+          "B": "Od ścielenia łóżka",
+          "C": "Od zmiany pracy",
+          "D": "Od wyjazdu na wakacje"
+        },
+        "correct": "B",
+        "explanation": "Pierwszy wpis brzmi: „Dzień 1. Pościeliłem łóżka”, a cała zmiana zaczyna się od tego gestu.",
+        "textReference": "Dzień 1. Pościeliłem łóżko"
+      },
+      {
+        "question": "Jak Patryk opisuje swoje życie poza biurem na początku opowieści?",
+        "answers": {
+          "A": "Jako pełne podróży i przygód",
+          "B": "Jako życie człowieka, który boi się wejść do własnego mieszkania",
+          "C": "Jako harmonijne życie rodzinne",
+          "D": "Jako czas intensywnego sportu"
+        },
+        "correct": "B",
+        "explanation": "Siostra mówi mu wprost, że nie jest normalne, by bał się wejść do własnego mieszkania.",
+        "textReference": "bał się wejść do własnego mieszkania"
+      },
+      {
+        "question": "Czego Patryk NIE oczekuje po roku prowadzenia dzienniczka?",
+        "answers": {
+          "A": "Małych, codziennych kroków",
+          "B": "Nagłych wielkich przemian",
+          "C": "Gorszych dni",
+          "D": "Utrzymania rutyny"
+        },
+        "correct": "B",
+        "explanation": "Po roku zauważa, że nie było wielkich rewolucji — były tylko małe kroki.",
+        "textReference": "Nie było wielkich rewolucji"
+      },
+      {
+        "question": "Jaką lekcję wyciąga Patryk po biegu w deszczu?",
+        "answers": {
+          "A": "Że liczy się bycie lepszym od wczorajszego siebie, a nie od innych",
+          "B": "Że deszcz uniemożliwia trening",
+          "C": "Że rekordy są ważniejsze od zdrowia",
+          "D": "Że powinien przestać biegać"
+        },
+        "correct": "A",
+        "explanation": "Tekst mówi wprost, że chodzi o bycie lepszym od wczorajszego siebie, nie o rekordy.",
+        "textReference": "być lepszym od wczorajszego siebie"
+      },
+      {
+        "question": "Co Patryk wpisuje w dniu 366?",
+        "answers": {
+          "A": "Że rezygnuje z dzienniczka",
+          "B": "Że pościelił łóżko, pobiegł i żyje — i to wystarczy",
+          "C": "Że wyjeżdża do Dubaju",
+          "D": "Że sprzedał mieszkanie"
+        },
+        "correct": "B",
+        "explanation": "Ostatni wpis łączy łóżko, bieg i życie w jednym zdaniu o wystarczalności.",
+        "textReference": "Pościeliłem łóżko. I pobiegłem. I żyję"
+      }
+    ]
+  },
+  {
+    "slug": "glosy-z-ziemi",
+    "title": "Głosy z ziemi",
+    "packId": "polish_glosy_z_ziemi",
+    "summary": "Emerytowany lekarz Tadeusz Jędrzejowski zbiera dowody korupcji w służbie zdrowia i łączy je z odkryciem masowej grobicy pod Bielinem, decydując się mówić w imieniu tych, którzy stracili głos.",
+    "subtitle": "Korupcja, pamięć i odwaga świadka",
+    "genres": ["history", "article"],
+    "coverFamily": "history",
+    "difficulty": 7,
+    "recommendedLevel": "5",
+    "audience": "adult readers",
+    "themes": ["korupcja w ochronie zdrowia", "wojna", "pamięć", "świadectwo"],
+    "keywords": "głosy z ziemi, szpital, korupcja, Bielin, świadek",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "sensitive_politics", "fact_check_recommended"],
+    "editorialNotes": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.",
+    "quiz": [
+      {
+        "question": "Co Tadeusz Jędrzejowski odkrywa w swojej tajnej teczce?",
+        "answers": {
+          "A": "Wyłącznie błędy w dokumentacji urlopowej",
+          "B": "Fałszywe kontrakty, dyżury i podrobione podpisy w systemie ochrony zdrowia",
+          "C": "Plany remontu szpitala",
+          "D": "List miłosny do żony"
+        },
+        "correct": "B",
+        "explanation": "Teczka zawiera nazwiska lekarzy na wielu etatach, fałszywe dyżury i jego podrobione podpisy.",
+        "textReference": "Ktoś fałszował jego podpisy"
+      },
+      {
+        "question": "Dokąd Tadeusz ma udać się w dniu otwarcia opowieści?",
+        "answers": {
+          "A": "Na emeryturę za granicę",
+          "B": "Do prokuratury, by złożyć zeznania",
+          "C": "Na konferencję medyczną w Berlinie",
+          "D": "Do sądu cywilnego o rozwód"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi wprost, że tego dnia ma złożyć zeznania w prokuraturze.",
+        "textReference": "miał złożyć zeznania w prokuraturze"
+      },
+      {
+        "question": "Co łączy wątek szpitalny z odkryciem pod Bielinem?",
+        "answers": {
+          "A": "Oba dotyczą tego samego budynku",
+          "B": "W obu przypadkach ktoś uznał, że czyjeś życie i śmierć nie mają znaczenia",
+          "C": "Oba są wymyślone przez media",
+          "D": "Oba dotyczą wyłącznie polityki zagranicznej"
+        },
+        "correct": "B",
+        "explanation": "Końcowy tekst zestawia kości w lesie i ludzi umierających na SOR-ze jako przypadki lekceważenia życia.",
+        "textReference": "życie i śmierć nie mają znaczenia"
+      },
+      {
+        "question": "Jaką decyzję podejmuje Tadeusz pod koniec opowieści?",
+        "answers": {
+          "A": "Niszczy wszystkie dowody i milczy",
+          "B": "Publikuje krótki apel o pamięć i mówienie prawdy",
+          "C": "Wyjeżdża do córki za granicę",
+          "D": "Wraca do pracy na dyżurach nocnych"
+        },
+        "correct": "B",
+        "explanation": "Kończy pracę krótkim tekstem o pamiętaniu i byciu głosem tych, którzy go stracili.",
+        "textReference": "Możemy być głosem tych, którzy go stracili"
+      },
+      {
+        "question": "Dlaczego Tadeusz prowadzi śledztwo w tajemnicy?",
+        "answers": {
+          "A": "Bo nie umie czytać dokumentów",
+          "B": "Bo wie, że ujawnienie teczki może go wszystkiego pozbawić",
+          "C": "Bo prosi go o to żona",
+          "D": "Bo chce napisać powieść kryminalną"
+        },
+        "correct": "B",
+        "explanation": "Pracuje nad teczką w tajemnicy, wiedząc, że ujawnienie jej może go wszystkiego pozbawić.",
+        "textReference": "jeśli ktoś się o niej dowie, straci wszystko"
+      }
+    ]
+  },
+  {
+    "slug": "kamien-pamieci",
+    "title": "Kamień pamięci",
+    "packId": "polish_kamien_pamieci",
+    "summary": "Marta jedzie do Berlina, by odnaleźć kamień pamięci o polskich żołnierzach, którego poszukiwał jej dziadek, i odkrywa historię pamięci budowanej przez pokolenia.",
+    "subtitle": "Berlin, kamień i polska pamięć",
+    "genres": ["history", "short_story"],
+    "coverFamily": "history",
+    "difficulty": 6,
+    "recommendedLevel": "4",
+    "audience": "adult readers",
+    "themes": ["pamięć historyczna", "Berlin", "pokolenia", "świadectwo"],
+    "keywords": "kamień pamięci, Berlin, Instytut Pileckiego, dziadek, II wojna światowa",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "historical_context"],
+    "editorialNotes": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach.",
+    "quiz": [
+      {
+        "question": "Co dziadek Marty prosił ją, by zobaczyła w Berlinie?",
+        "answers": {
+          "A": "Nową ambasadę PRL",
+          "B": "Kamień pamięci o polskich żołnierzach",
+          "C": "Stary pałac królewski",
+          "D": "Pomnik Napoleona"
+        },
+        "correct": "B",
+        "explanation": "Na łożu śmierci mówi o kamieniu w Berlinie i o tym, że Polacy tam byli.",
+        "textReference": "tam, w Berlinie, jest kamień"
+      },
+      {
+        "question": "Kto przemawia na konferencji w nowej ambasadzie?",
+        "answers": {
+          "A": "Marta",
+          "B": "Mateusz Fałkowski z Instytutu Pileckiego",
+          "C": "Dziadek Marty",
+          "D": "Niemiecki kanclerz"
+        },
+        "correct": "B",
+        "explanation": "Na konferencji głos zabiera Mateusz Fałkowski, dyrektor Instytutu Pileckiego w Berlinie.",
+        "textReference": "Mateusz Fałkowski, dyrektor Instytutu Pileckiego"
+      },
+      {
+        "question": "Jak zmienia się obraz ambasady w tekście?",
+        "answers": {
+          "A": "Zawsze była nowoczesna i tętniąca życiem",
+          "B": "Z szarej bryły PRL w miejsce, w którym toczy się życie",
+          "C": "Zostaje zamknięta na stałe",
+          "D": "Przenosi się do Krakowa"
+        },
+        "correct": "B",
+        "explanation": "Marta pamięta starą, ponurą ambasadę PRL, a teraz widzi nowy, żywy budynek.",
+        "textReference": "ambasada PRL w NRD była szarą, ponurą bryłą"
+      },
+      {
+        "question": "Co Marta robi po powrocie do Warszawy?",
+        "answers": {
+          "A": "Zapomina o kamieniu",
+          "B": "Pisze o dziadku, kamieniu i ludziach, którzy go położyli",
+          "C": "Zostaje dyplomatką",
+          "D": "Sprzedaje notatnik"
+        },
+        "correct": "B",
+        "explanation": "Epilog mówi, że wciąż pisze o dziadku, kamieniu i tych, którzy go położyli.",
+        "textReference": "Marta wciąż pisze"
+      },
+      {
+        "question": "Jakie jest główne przesłanie końca opowieści?",
+        "answers": {
+          "A": "Kamienie same opowiadają historie",
+          "B": "Ludzie, którzy znajdują kamienie, mogą mówić za nich",
+          "C": "Pamięć historyczna nie ma znaczenia",
+          "D": "Berlin nie interesuje Polaków"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że kamienie nie mówią, ale ludzie mogą mówić za nie.",
+        "textReference": "ludzie, którzy je znajdują, mogą mówić za nich"
+      }
+    ]
+  },
+  {
+    "slug": "cel-na-ten-rok-to-nic",
+    "title": "Cel na ten rok to... nic",
+    "packId": "polish_cel_na_ten_rok_to_nic",
+    "summary": "Ania, dyrektorka korporacji z pozoru spełniona, odkrywa u mentorki, że jej prawdziwym celem nie jest kolejna lista postanowień, lecz bycie wystarczającą tu i teraz.",
+    "subtitle": "Spełnienie bez listy celów",
+    "genres": ["everyday_live", "short_story"],
+    "coverFamily": "everyday_live",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["wypalenie zawodowe", "cele", "wystarczalność", "kariera"],
+    "keywords": "cele noworoczne, wypalenie, korporacja, wystarczalność, mentorka",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "career_burnout"],
+    "editorialNotes": "Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami.",
+    "quiz": [
+      {
+        "question": "Jak Ania opisuje swoje życie z zewnątrz i od środka?",
+        "answers": {
+          "A": "Z zewnątrz pusta, od środka spełniona",
+          "B": "Z zewnątrz spełniona, od środka pusta",
+          "C": "W obu wymiarach idealna",
+          "D": "W obu wymiarach chaotyczna"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi wprost: z perspektywy zewnętrznej spełniona, z własnej — pusta.",
+        "textReference": "Z perspektywy zewnętrznej: spełniona. Z własnej: pusta"
+      },
+      {
+        "question": "Jaki cel Ania wybiera po rozmowie z Karoliną?",
+        "answers": {
+          "A": "Napisać książkę w rok",
+          "B": "Być wystarczającą",
+          "C": "Awansować na prezesa",
+          "D": "Przeprowadzić się za granicę"
+        },
+        "correct": "B",
+        "explanation": "Końcowa rozmowa prowadzi do celu „być wystarczającą” jako celu na całe życie.",
+        "textReference": "być wystarczającą"
+      },
+      {
+        "question": "Co pokazuje początek opowieści o postanowieniach Ani?",
+        "answers": {
+          "A": "Że wszystkie jej cele są realizowane perfekcyjnie",
+          "B": "Że siłownię odwiedziła dwa razy, a książka ma tylko tytuł",
+          "C": "Że nigdy nie miała żadnych planów",
+          "D": "Że od razu zrezygnowała z pracy"
+        },
+        "correct": "B",
+        "explanation": "7 lutego siłownia dwa razy, woda trzy dni, książka ma tylko tytuł.",
+        "textReference": "książka miała tytuł i nic poza tym"
+      },
+      {
+        "question": "Kim jest Karolina w opowieści?",
+        "answers": {
+          "A": "Szefową Ani w korporacji",
+          "B": "Mentorką, z którą Ania zaczęła sesje",
+          "C": "Córką Ani",
+          "D": "Agentką nieruchomości"
+        },
+        "correct": "B",
+        "explanation": "Ania słyszy głos Karoliny, swojej mentorki, z pierwszej sesji tydzień temu.",
+        "textReference": "swojej mentorki"
+      },
+      {
+        "question": "Jak kończy się opowieść emocjonalnie?",
+        "answers": {
+          "A": "Ania płacze z rozpaczy",
+          "B": "Ania i Karolina śmieją się z myślą o celu bycia wystarczającą",
+          "C": "Ania wraca do pracy w nocy",
+          "D": "Ania porzuca rodzinę"
+        },
+        "correct": "B",
+        "explanation": "Końcówka to wspólny śmiech nad tym, że bycie wystarczającym to najtrudniejszy cel.",
+        "textReference": "obie się roześmiały"
+      }
+    ]
+  },
+  {
+    "slug": "dylemat-szatniarza",
+    "title": "Dylemat szatniarza",
+    "packId": "polish_dylemat_szatniarza",
+    "summary": "Polityk wraca z Brukseli do Warszawy, obserwując afery i spadające notowania, aż rozumie, że prawdziwą stawką nie jest teatr władzy, lecz bezpieczeństwo jego rodziny.",
+    "subtitle": "Polityka, Bruksela i dom",
+    "genres": ["article", "short_story"],
+    "coverFamily": "article",
+    "difficulty": 6,
+    "recommendedLevel": "4",
+    "audience": "adult readers",
+    "themes": ["polityka", "Bruksela", "afera", "rodzina"],
+    "keywords": "dylemat szatniarza, polityka, Bruksela, szpital, wybory",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "political_satire", "fact_check_recommended"],
+    "editorialNotes": "Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci.",
+    "quiz": [
+      {
+        "question": "O czym rozmawia bohater z przewodniczącą w Brukseli?",
+        "answers": {
+          "A": "O wakacjach w Alpach",
+          "B": "O spadających notowaniach i możliwym wyjściu awaryjnym",
+          "C": "O reformie szkolnictwa",
+          "D": "O meczu piłkarskim"
+        },
+        "correct": "B",
+        "explanation": "Przewodnicząca mówi o komplikującej się sytuacji w Polsce i pyta o potrzebę ochrony lub pozycji.",
+        "textReference": "Twoje notowania spadają"
+      },
+      {
+        "question": "Jaka afera pojawia się w telewizji w gabinecie bohatera?",
+        "answers": {
+          "A": "Skandal w Szpitalu Południowym z fałszywymi dyżurami",
+          "B": "Afera kolejkowa w urzędzie skarbowym",
+          "C": "Spór o stadion narodowy",
+          "D": "Konflikt w szkole muzycznej"
+        },
+        "correct": "A",
+        "explanation": "W telewizji lecą informacje o aferze w Szpitalu Południowym i kontraktach lekarzy.",
+        "textReference": "aferze w Szpitalu Południowym"
+      },
+      {
+        "question": "Jak bohater opisuje Brukselę po spotkaniu?",
+        "answers": {
+          "A": "Jako miasto bez zasad",
+          "B": "Jako matkę dającą bezpieczeństwo tylko posłusznym",
+          "C": "Jako raj dla artystów",
+          "D": "Jako miejsce bez polityki"
+        },
+        "correct": "B",
+        "explanation": "Mówi doradcy, że Bruksela jest jak matka: daje bezpieczeństwo, gdy jesteś posłuszny.",
+        "textReference": "Bruksela jest jak matka"
+      },
+      {
+        "question": "Co bohater uznaje za swoją ostatnią deskę ratunku?",
+        "answers": {
+          "A": "List od wyborców",
+          "B": "Kartę z Brukseli",
+          "C": "Wywiad w radiu",
+          "D": "Urlop nad morzem"
+        },
+        "correct": "B",
+        "explanation": "Doradca mówi o wyciągnięciu karty z Brukseli, a bohater wie, że to ostatnia deska ratunku.",
+        "textReference": "wyciągnąć swoją kartę z Brukseli"
+      },
+      {
+        "question": "Do czego dochodzi bohater pod koniec opowieści?",
+        "answers": {
+          "A": "Że politycy są najważniejsi",
+          "B": "Że liczy się bezpieczeństwo jego rodziny, a reszta to teatr",
+          "C": "Że powinien zostać dziennikarzem",
+          "D": "Że Bruksela go odrzuciła na zawsze"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że potrzebuje wiedzieć, że rodzina jest bezpieczna, a reszta to teatr.",
+        "textReference": "reszta to tylko teatr"
+      }
+    ]
+  },
+  {
+    "slug": "brudne-pieniadze-czysta-nauka",
+    "title": "Brudne pieniądze, czysta nauka",
+    "packId": "polish_brudne_pieniadze_czysta_nauka",
+    "summary": "Doktor Anna Kowalska staje przed pokusą finansowania badań nad słodzikami przez koncern i wybiera uczciwość naukową ponad wygodę kariery.",
+    "subtitle": "Nauka, sponsor i sumienie",
+    "genres": ["science", "article"],
+    "coverFamily": "science",
+    "difficulty": 6,
+    "recommendedLevel": "4",
+    "audience": "adult readers",
+    "themes": ["etyka nauki", "finansowanie badań", "konflikt interesów", "prawda"],
+    "keywords": "brudne pieniądze, nauka, słodziki, konflikt interesów, etyka",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "science_ethics"],
+    "editorialNotes": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych.",
+    "quiz": [
+      {
+        "question": "Nad czym Anna miała napisać artykuł, ale stale odkładała pracę?",
+        "answers": {
+          "A": "Nad wpływem substancji słodzących na metabolizm komórkowy",
+          "B": "Nad historią astronomii",
+          "C": "Nad chemią organiczną w liceum",
+          "D": "Nad teorią strun"
+        },
+        "correct": "A",
+        "explanation": "Na początku tekst mówi o artykule o wpływie substancji słodzących na metabolizm komórkowy.",
+        "textReference": "wpływie substancji słodzących na metabolizm komórkowy"
+      },
+      {
+        "question": "Co proponuje profesor Nowak Annie?",
+        "answers": {
+          "A": "Urlop bez płatności",
+          "B": "Finansowanie badań nad nową generacją słodzików przez dużą firmę",
+          "C": "Zmianę kraju zamieszkania",
+          "D": "Rezygnację z doktoratu"
+        },
+        "correct": "B",
+        "explanation": "Nowak mówi o firmie, która chce sfinansować badania nad nową generacją słodzików.",
+        "textReference": "Chcą sfinansować badania"
+      },
+      {
+        "question": "Dlaczego Anna waha się przed przyjęciem sponsorowania?",
+        "answers": {
+          "A": "Bo nie lubi laboratorium",
+          "B": "Bo wie, że pieniądze koncernu mogą zniekształcić wyniki i zobowiązania",
+          "C": "Bo nie zna języka angielskiego",
+          "D": "Bo chce zostać politykiem"
+        },
+        "correct": "B",
+        "explanation": "Cały wątek dotyczy konfliktu między finansowaniem a uczciwością naukową.",
+        "textReference": "nauka bez prawdy to tylko narzędzie"
+      },
+      {
+        "question": "Jak kończy opowieść Anna?",
+        "answers": {
+          "A": "Podpisuje ugodę z koncernem",
+          "B": "Mówi, że zrobiłaby to samo, choćby miało się powtórzyć",
+          "C": "Odchodzi z nauki bez słowa",
+          "D": "Publikuje fałszywe wyniki"
+        },
+        "correct": "B",
+        "explanation": "Kończy deklaracją, że choćby miało się powtórzyć, zrobiłaby to samo — została naukowcem, nie narzędziem.",
+        "textReference": "zrobiłabym to samo"
+      },
+      {
+        "question": "Jakie jest główne przesłanie opowieści?",
+        "answers": {
+          "A": "Nauka zawsze jest wolna od polityki",
+          "B": "Nauka bez prawdy staje się narzędziem manipulacji",
+          "C": "Koncerny zawsze mówią prawdę",
+          "D": "Badania nie potrzebują pieniędzy"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi wprost o nauce bez prawdy jako narzędziu manipulacji.",
+        "textReference": "Nauka bez prawdy to tylko narzędzie"
+      }
+    ]
+  },
+  {
+    "slug": "susza",
+    "title": "Susza",
+    "packId": "polish_susza",
+    "summary": "Tomek, syn leśniczego z Borów Tucholskich, obserwuje postępującą suszę niszczącą las i razem z ojcem oraz innymi próbuje zrozumieć, co można jeszcze uratować.",
+    "subtitle": "Las, woda i zmiana klimatu",
+    "genres": ["nature", "article"],
+    "coverFamily": "nature",
+    "difficulty": 5,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["susza", "klimat", "las", "Bory Tucholskie"],
+    "keywords": "susza, Bory Tucholskie, klimat, sosna, leśnictwo",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "climate_context"],
+    "editorialNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.",
+    "quiz": [
+      {
+        "question": "Skąd Tomek wie, że tego ranka będzie gorąco?",
+        "answers": {
+          "A": "Wyłącznie z prognozy telewizyjnej",
+          "B": "Z doświadczenia lasu — bez termometru rozpoznaje suszę",
+          "C": "Od turystów w busie",
+          "D": "Z aplikacji do biegania"
+        },
+        "correct": "B",
+        "explanation": "Ojciec uczył go czytać las patrząc, nie z książek; Tomek rozpoznaje suszę bez termometru.",
+        "textReference": "Nie potrzebował termometru ani prognoz"
+      },
+      {
+        "question": "Co mówi ojcowi Tomka o suszy?",
+        "answers": {
+          "A": "Że to normalna wiosenna pogoda",
+          "B": "Że to już nie normalna susza, lecz zmiana, i nie wie, jak długo drzewa wytrzymają",
+          "C": "Że wystarczy podlać las wężem ogrodowym",
+          "D": "Że sosny są odporne na wszystko"
+        },
+        "correct": "B",
+        "explanation": "Ojciec mówi, że co roku jest gorzej i to nie jest już normalna susza, lecz zmiana.",
+        "textReference": "To nie jest już normalna susza. To jest zmiana"
+      },
+      {
+        "question": "Dlaczego pomysł sadzenia innych drzew okazuje się trudny?",
+        "answers": {
+          "A": "Bo w Borach od wieków rosła sosna na piaskach",
+          "B": "Bo las jest chroniony prawem budowlanym",
+          "C": "Bo Tomek nie lubi roślin",
+          "D": "Bo nie ma miejsca na drzewa"
+        },
+        "correct": "A",
+        "explanation": "Ojciec mówi, że tu są piaski i od wieków rosła sosna; jeśli ona nie daje rady, nie wie, co da.",
+        "textReference": "Tu od wieków rosła sosna"
+      },
+      {
+        "question": "Co dzieje się w epiogu w 2029 roku?",
+        "answers": {
+          "A": "Las zostaje całkowicie wycięty",
+          "B": "Pojawia się program retencji wody i działania adaptacyjne",
+          "C": "Tomek porzuca pracę w lesie",
+          "D": "Susza ustaje natychmiast"
+        },
+        "correct": "B",
+        "explanation": "Epilog opisuje program odbudowy retencji, nowe zbiorniki i działania miast i rolników.",
+        "textReference": "program odbudowy retencji"
+      },
+      {
+        "question": "Jakie jest nastawienie bohaterów pod koniec opowieści?",
+        "answers": {
+          "A": "Pesymizm bez działania",
+          "B": "Świadomość trudności, ale poczucie, że próba ma sens",
+          "C": "Wiara, że problem został rozwiązany",
+          "D": "Rezygnacja z ekologii"
+        },
+        "correct": "B",
+        "explanation": "Końcówka mówi, że jeśli coś się zmieni teraz, może uda się zatrzymać to, co nieuniknione — a jeśli nie, przynajmniej próbowali.",
+        "textReference": "przynajmniej będą mogli powiedzieć, że próbowali"
+      }
+    ]
+  },
+  {
+    "slug": "kubek",
+    "title": "Kubek",
+    "packId": "polish_kubek",
+    "summary": "Ewa, psycholożka i matka czternastolatka, uczy się od innych rodziców być obecną zamiast walczyć, gdy syn zamyka się w pokoju po kłótni o imprezę.",
+    "subtitle": "Matka, syn i obecność",
+    "genres": ["psychology", "short_story"],
+    "coverFamily": "psychology",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers, parents",
+    "themes": ["rodzicielstwo", "nastolatek", "obecność", "relacja"],
+    "keywords": "kubek, nastolatek, macierzyństwo, obecność, wychowanie",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "parenting"],
+    "editorialNotes": "Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli.",
+    "quiz": [
+      {
+        "question": "Co wywołuje kłótnię między Ewą a Wojtkiem?",
+        "answers": {
+          "A": "Sprawa szkolna o oceny",
+          "B": "Decyzja, że Wojtek nie pójdzie na imprezę",
+          "C": "Zakup nowego telefonu",
+          "D": "Wyjazd na wakacje"
+        },
+        "correct": "B",
+        "explanation": "Wojtek zamyka się w pokoju po tym, jak Ewa zakazała mu pójścia na imprezę.",
+        "textReference": "nie pójdzie na imprezę"
+      },
+      {
+        "question": "Co Ewa czyta w telefonie, co ją porusza?",
+        "answers": {
+          "A": "Receptę na ciasto",
+          "B": "Posty o wspierającym rodzicielstwie nastolatka",
+          "C": "Ofertę pracy",
+          "D": "Wiadomość od szkoły"
+        },
+        "correct": "B",
+        "explanation": "Na ekranie pojawia się post kobiety nazywającej siebie wspierającą matką nastolatka.",
+        "textReference": "wspierającą matką nastolatka"
+      },
+      {
+        "question": "Jakie zdanie szczególnie zatrzymuje Ewę?",
+        "answers": {
+          "A": "Dzieci zawsze słuchają rodziców",
+          "B": "Nie musisz być idealna. Musisz być obecna",
+          "C": "Kary są najlepszą metodą",
+          "D": "Nastolatki nie czują emocji"
+        },
+        "correct": "B",
+        "explanation": "Zatrzymuje się na zdaniu: nie musisz być idealna, musisz być obecna.",
+        "textReference": "Nie musisz być idealna. Musisz być obecna"
+      },
+      {
+        "question": "Kim z wykształcenia jest Ewa?",
+        "answers": {
+          "A": "Lekarką",
+          "B": "Psycholożką",
+          "C": "Architektką",
+          "D": "Prawniczką"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi wprost, że Ewa była psychologiem z wykształcenia.",
+        "textReference": "Ewa była psychologiem z wykształcenia"
+      },
+      {
+        "question": "Co Ewa rozumie na końcu opowieści?",
+        "answers": {
+          "A": "Że syn przestał ją kochać",
+          "B": "Że najważniejsze uczyła się od syna — o byciu obecną i autentyczną",
+          "C": "Że powinna wysłać syna do internatu",
+          "D": "Że warsztaty nic nie dały"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że najważniejsze przyszło od syna, który cały czas ją widział.",
+        "textReference": "przyszło do niej od kogoś, kogo najbardziej kochała"
+      }
+    ]
+  },
+  {
+    "slug": "wyraz-ktorego-nie-ma",
+    "title": "Wyraz, którego nie ma",
+    "packId": "polish_wyraz_ktorego_nie_ma",
+    "summary": "Kasia uparcie uczy córkę Alę czytać mimo oporu i lat frustracji, aż odkrywa, że cierpliwość i obecność są ważniejsze niż łatwiejsza droga z tabletem.",
+    "subtitle": "Nauka czytania i cierpliwość",
+    "genres": ["languages", "short_story"],
+    "coverFamily": "languages",
+    "difficulty": 3,
+    "recommendedLevel": "2",
+    "audience": "adult readers, parents",
+    "themes": ["czytanie", "rodzicielstwo", "cierpliwość", "edukacja"],
+    "keywords": "wyraz którego nie ma, czytanie, nauka, córka, rodzicielstwo",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "literacy", "parenting"],
+    "editorialNotes": "Fikcja o nauce czytania i rodzicielskiej wytrwałości.",
+    "quiz": [
+      {
+        "question": "Jak Ala reaguje na pierwsze lekcje czytania?",
+        "answers": {
+          "A": "Z entuzjazmem i szybkim postępem",
+          "B": "Odwraca wzrok i mówi, że to praca, nie zabawa",
+          "C": "Od razu czyta całe zdania",
+          "D": "Prosi o dodatkowe książki"
+        },
+        "correct": "B",
+        "explanation": "Czteroletnia Ala odpycha rękę matki i mówi, że to nie zabawa, lecz praca.",
+        "textReference": "To nie jest zabawa — to jest praca"
+      },
+      {
+        "question": "Co Kasia rozważała, ale ostatecznie nie wybrała łatwiejszej drogi?",
+        "answers": {
+          "A": "Zostawienie córki u dziadków",
+          "B": "Zastąpienie książek tabletem i bajką zamiast czasu",
+          "C": "Wysłanie córki do szkoły za granicą",
+          "D": "Rezygnację z nauki czytania"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że mogła dać tablet i bajkę zamiast czasu, ale tego nie zrobiła.",
+        "textReference": "zamiast książek dała jej tablet"
+      },
+      {
+        "question": "Ile lat ma Ala na początku opowieści?",
+        "answers": {
+          "A": "Dwa lata",
+          "B": "Cztery lata",
+          "C": "Siedem lat",
+          "D": "Dwanaście lat"
+        },
+        "correct": "B",
+        "explanation": "Pierwsza sekcja zaczyna się od zdania: kiedy Ala miała cztery lata.",
+        "textReference": "Kiedy Ala miała cztery lata"
+      },
+      {
+        "question": "Co Kasia robi, by skierować uwagę córki na litery?",
+        "answers": {
+          "A": "Wyłącza światło",
+          "B": "Dotyka palcem brody Aliny, by skierować wzrok",
+          "C": "Daje jej cukierka",
+          "D": "Włącza telewizor"
+        },
+        "correct": "B",
+        "explanation": "Kasia dotyka palcem brody córki, żeby skierować jej wzrok na kartonik.",
+        "textReference": "dotykając palcem jej brody"
+      },
+      {
+        "question": "Co Kasia uznaje za najważniejsze na końcu?",
+        "answers": {
+          "A": "Że córka przestała się uczyć",
+          "B": "Że nie poszła na łatwiejszą drogę i nie zrezygnowała z cierpliwości",
+          "C": "Że sprzedała wszystkie książki",
+          "D": "Że córka wyjechała do babci"
+        },
+        "correct": "B",
+        "explanation": "Kończy myślą, że mogło pójść inaczej, ale nie zrobiła tego — i to było najważniejsze.",
+        "textReference": "Ale nie zrobiła tego"
+      }
+    ]
+  },
+  {
+    "slug": "oczy-ktore-nie-widza",
+    "title": "Oczy, które nie widzą",
+    "packId": "polish_oczy_ktore_nie_widza",
+    "summary": "Magda odkrywa, że jej córka Ola przestaje reagować na głos, gdy sama coraz częściej patrzy w telefon zamiast w dziecko — i szuka drogi powrotu do prawdziwej obecności.",
+    "subtitle": "Kontakt wzrokowy i obecność matki",
+    "genres": ["psychology", "short_story"],
+    "coverFamily": "psychology",
+    "difficulty": 5,
+    "recommendedLevel": "3",
+    "audience": "adult readers, parents",
+    "themes": ["rodzicielstwo", "kontakt wzrokowy", "ekrany", "obecność"],
+    "keywords": "oczy które nie widzą, kontakt wzrokowy, wózek, matka, obecność",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "parenting", "screen_time"],
+    "editorialNotes": "Fikcja o kontakcie wzrokowym i obecności rodzica w świecie rozproszonej uwagi.",
+    "quiz": [
+      {
+        "question": "Kiedy Magda zaczyna martwić się zachowaniem Oli?",
+        "answers": {
+          "A": "Gdy córka ma tydzień",
+          "B": "Gdy Ola ma rok i nie reaguje na głos matki",
+          "C": "Gdy Ola kończy liceum",
+          "D": "Gdy Ola zaczyna chodzić do żłobka"
+        },
+        "correct": "B",
+        "explanation": "Gdy Ola ma rok, Magda zauważa, że córka nie reaguje na jej głos i nie patrzy na nią.",
+        "textReference": "Gdy Ola miała rok"
+      },
+      {
+        "question": "Co Magda robi coraz częściej podczas spacerów z wózkiem?",
+        "answers": {
+          "A": "Opowiada córce o ptaszkach bez przerwy",
+          "B": "Odpowiada na wiadomości, przegląda Instagram i Facebooka",
+          "C": "Śpiewa na głos piosenki",
+          "D": "Biega z wózkiem"
+        },
+        "correct": "B",
+        "explanation": "Tekst opisuje stopniowe przechodzenie od opowiadania o świecie do patrzenia w telefon.",
+        "textReference": "odpowiadać na wiadomości w pracy"
+      },
+      {
+        "question": "Co początkowo mówi pediatra?",
+        "answers": {
+          "A": "Że trzeba natychmiast do szpitala",
+          "B": "Że wszystko w porządku i dzieci są różne",
+          "C": "Że Ola jest chora na ospę",
+          "D": "Że Magda powinna przestać pracować"
+        },
+        "correct": "B",
+        "explanation": "Pediatra uspokaja, że wszystko w porządku i niektóre dzieci później nawiązują kontakt.",
+        "textReference": "Wszystko w porządku"
+      },
+      {
+        "question": "Co łączy historie Ewy, Magdy, Kasi i Jadwigi w końcowej refleksji?",
+        "answers": {
+          "A": "Wszystkie dotyczą tego samego dziecka",
+          "B": "Miłość do dzieci i świadomość, że najważniejsza jest obecność",
+          "C": "Wspólny wyjazd na wakacje",
+          "D": "Ten sam zawód zawodowy"
+        },
+        "correct": "B",
+        "explanation": "Sekcja refleksji mówi, że łączy je miłość do dzieci i świadomość znaczenia obecności.",
+        "textReference": "miłość do dzieci"
+      },
+      {
+        "question": "Jakie jest główne przesłanie końca opowieści?",
+        "answers": {
+          "A": "Dzieci powinny oglądać więcej bajek",
+          "B": "Tylko obecność może nauczyć dziecko patrzeć i widzieć",
+          "C": "Wózki sportowe są złe",
+          "D": "Matki nie powinny pracować"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że tylko obecność może nauczyć dziecko patrzeć i widzieć.",
+        "textReference": "tylko obecność może nauczyć dziecko patrzeć"
+      }
+    ]
+  },
+  {
+    "slug": "worek-z-piaskiem",
+    "title": "Worek z piaskiem",
+    "packId": "polish_worek_z_piaskiem",
+    "summary": "Na granicy Cieszyna młody celnik obserwuje Jana, który codziennie przewozi przez most worek z piaskiem, i odkrywa, że ten rytuał staje się symbolem łączenia dwóch brzegów rzeki.",
+    "subtitle": "Granica, piasek i sąsiedztwo",
+    "genres": ["legends", "short_story"],
+    "coverFamily": "legends",
+    "difficulty": 5,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["granica", "Cieszyn", "legenda", "sąsiedztwo"],
+    "keywords": "worek z piaskiem, Cieszyn, granica, legenda, most",
+    "trustClassification": "Inspired by reality",
+    "availability": "inspired",
+    "editorialFlags": ["youtube_source", "local_legend"],
+    "editorialNotes": "Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę.",
+    "quiz": [
+      {
+        "question": "Co Jan codziennie przewozi przez most?",
+        "answers": {
+          "A": "Pusty plecak",
+          "B": "Szary worek z piaskiem",
+          "C": "Walizkę z ubraniami",
+          "D": "Rowery dla dzieci"
+        },
+        "correct": "B",
+        "explanation": "Celnicy widzą, że mężczyzna codziennie mija granicę z tym samym szarym workiem.",
+        "textReference": "Worek był szary, zawiązany sznurkiem"
+      },
+      {
+        "question": "Jak Jan odpowiada na pytanie celnika o zawartość worka?",
+        "answers": {
+          "A": "Że to złoto",
+          "B": "Że to piasek",
+          "C": "Że to książki",
+          "D": "Że to żywność"
+        },
+        "correct": "B",
+        "explanation": "Na pytanie celnika odpowiada po prostu: piasek.",
+        "textReference": "— Piasek — odpowiedział mężczyzna"
+      },
+      {
+        "question": "Gdzie rozgrywa się opowieść?",
+        "answers": {
+          "A": "Na granicy między Cieszynem a Czeskim Cieszynem",
+          "B": "W Gdańsku przy porcie",
+          "C": "W Tatrach na przełęczy",
+          "D": "Na lotnisku w Warszawie"
+        },
+        "correct": "A",
+        "explanation": "Tekst mówi o przejściu granicznym między Cieszynem a Czeskim Cieszynem.",
+        "textReference": "między Cieszynem a Czeskim Cieszynem"
+      },
+      {
+        "question": "Co Tomkowi daje przejażdżka z workiem na bagażniku roweru?",
+        "answers": {
+          "A": "Poczucie, że Jan byłby dumny i że worek jest symbolem czegoś bez nazwy",
+          "B": "Plan wyjazdu do Czech na stałe",
+          "C": "Pomysł na handel piaskiem",
+          "D": "Chęć zostania politykiem"
+        },
+        "correct": "A",
+        "explanation": "Końcówka mówi, że worek jest symbolem czegoś bez nazwy, a Tomek wie, że Jan byłby dumny.",
+        "textReference": "Jan byłby dumny"
+      },
+      {
+        "question": "Kim jest Tomek w opowieści?",
+        "answers": {
+          "A": "Młodym celnikiem pracującym na granicy",
+          "B": "Burmistrem Cieszyna",
+          "C": "Kierowcą autobusu",
+          "D": "Turystą z Niemiec"
+        },
+        "correct": "A",
+        "explanation": "Tomek to młody celnik, który od miesiąca pracuje na granicy.",
+        "textReference": "młody celnik, Tomek"
+      }
+    ]
+  },
+  {
+    "slug": "domek",
+    "title": "Domek",
+    "packId": "polish_domek",
+    "summary": "Marta wraca do przytłaczającego mieszkania pełnego nierozpakowanyych rzeczy i powoli odkrywa, że sprzątanie to nie walka z bałaganem, lecz powrót do siebie.",
+    "subtitle": "Bałagan jako czekanie na zmianę",
+    "genres": ["everyday_live", "short_story"],
+    "coverFamily": "everyday_live",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["bałagan", "dom", "tożsamość", "zmiana"],
+    "keywords": "domek, bałagan, sprzątanie, mieszkanie, zmiana",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "decluttering"],
+    "editorialNotes": "Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.",
+    "quiz": [
+      {
+        "question": "Co Marta wpisuje w wyszukiwarkę po powrocie do domu?",
+        "answers": {
+          "A": "jak ugotować obiad",
+          "B": "jak pokonać bałagan",
+          "C": "jak kupić mieszkanie",
+          "D": "jak znaleźć pracę"
+        },
+        "correct": "B",
+        "explanation": "Po usiadaniu na kanapie wpisuje w telefon: jak pokonać bałagan.",
+        "textReference": "jak pokonać bałagan"
+      },
+      {
+        "question": "Jak Marta zwykle odkłada sprzątanie?",
+        "answers": {
+          "A": "Mówi sobie, że zrobi to jutro, choć wie, że to nieprawda",
+          "B": "Sprząta natychmiast po powrocie",
+          "C": "Prosi sąsiadów o pomoc codziennie",
+          "D": "Wynajmuje firmę sprzątającą co tydzień"
+        },
+        "correct": "A",
+        "explanation": "Mówi „jutro to zrobię”, ale wie, że jutro będzie tak samo jak dziś.",
+        "textReference": "Jutro to zrobię"
+      },
+      {
+        "question": "Co Marta odkrywa po posprzątaniu?",
+        "answers": {
+          "A": "Że bałagan był ukrytym majątkiem",
+          "B": "Że bałagan to ona sama czekająca na zmianę",
+          "C": "Że powinna kupić więcej rzeczy",
+          "D": "Że mieszkanie jest za małe"
+        },
+        "correct": "B",
+        "explanation": "Pisze przyjaciółce, że to nie był bałagan — to była ona czekająca na zmianę.",
+        "textReference": "To był ja czekająca na zmianę"
+      },
+      {
+        "question": "Ile lat ma Marta?",
+        "answers": {
+          "A": "Dwadzieścia pięć",
+          "B": "Trzydzieści pięć",
+          "C": "Czterdzieści pięć",
+          "D": "Pięćdziesiąt pięć"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi wprost, że Marta ma trzydzieści pięć lat.",
+        "textReference": "Marta miała trzydzieści pięć lat"
+      },
+      {
+        "question": "Jak kończy opowieść definicję domu?",
+        "answers": {
+          "A": "Dom to tylko adres",
+          "B": "Dom to miejsce, gdzie się jest i gdzie się staje",
+          "C": "Dom to magazyn rzeczy",
+          "D": "Dom to biuro"
+        },
+        "correct": "B",
+        "explanation": "Końcowe zdanie mówi, że dom jest miejscem, gdzie się jest i gdzie się staje.",
+        "textReference": "Dom jest miejscem, gdzie się jest"
+      }
+    ]
+  },
+  {
+    "slug": "przerwa",
+    "title": "Przerwa",
+    "packId": "polish_przerwa",
+    "summary": "Wypalony Patryk po czternastogodzinnym dniu pracy odkrywa w starym notesie, że stresem nie trzeba walczyć — wystarczy się zatrzymać i oddychać.",
+    "subtitle": "Stres, oddech i zatrzymanie",
+    "genres": ["psychology", "short_story"],
+    "coverFamily": "psychology",
+    "difficulty": 3,
+    "recommendedLevel": "2",
+    "audience": "adult readers",
+    "themes": ["stres", "oddech", "wypalenie", "uważność"],
+    "keywords": "przerwa, stres, oddech, wypalenie, notes",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "mindfulness"],
+    "editorialNotes": "Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.",
+    "quiz": [
+      {
+        "question": "Ile godzin pracował Patryk przed zamknięciem laptopa?",
+        "answers": {
+          "A": "Sześć",
+          "B": "Czternaście",
+          "C": "Dwadzieścia",
+          "D": "Dwie"
+        },
+        "correct": "B",
+        "explanation": "Pierwsze zdanie mówi, że pracował czternaście godzin.",
+        "textReference": "Pracował czternaście godzin"
+      },
+      {
+        "question": "Co Patryk zapisuje w notesie w środku nocy?",
+        "answers": {
+          "A": "Listę zakupów",
+          "B": "Że nie pamięta, kiedy czuł się dobrze i naprawdę oddychał",
+          "C": "Plan wakacji",
+          "D": "Scenariusz filmu"
+        },
+        "correct": "B",
+        "explanation": "Pierwszy wpis dotyczy niepamięci ostatniego dobrego samopoczucia i prawdziwego oddechu.",
+        "textReference": "Nie pamiętam, kiedy ostatnio czułem się naprawdę dobrze"
+      },
+      {
+        "question": "Skąd pochodzi notes, którego Patryk używa?",
+        "answers": {
+          "A": "Kupił go tego dnia w księgarni",
+          "B": "Dostał od żony na urodziny trzy lata temu",
+          "C": "Znalazł na ulicy",
+          "D": "Dostał od szefa"
+        },
+        "correct": "B",
+        "explanation": "W szufladzie leży stary notes od żony na urodziny sprzed trzech lat.",
+        "textReference": "dostał od żony na urodziny trzy lata temu"
+      },
+      {
+        "question": "Jak Patryk rozumie stres pod koniec opowieści?",
+        "answers": {
+          "A": "Jako wroga, z którym trzeba walczyć",
+          "B": "Jako informację od ciała, na którą odpowiedzią jest zatrzymanie i oddech",
+          "C": "Jako coś, co należy ignorować",
+          "D": "Jako powód do kolejnej nocnej pracy"
+        },
+        "correct": "B",
+        "explanation": "Końcowa refleksja mówi, że stres to informacja, a odpowiedzią jest zatrzymanie się i oddychanie.",
+        "textReference": "To była informacja"
+      },
+      {
+        "question": "Jak kończy się noc Patryka?",
+        "answers": {
+          "A": "Wraca do pracy nad prezentacją",
+          "B": "Kładzie się obok żony i zasypia spokojnie",
+          "C": "Wychodzi biegać o północy",
+          "D": "Jedzie do biura"
+        },
+        "correct": "B",
+        "explanation": "Po refleksji kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie.",
+        "textReference": "zasnął spokojnie"
+      }
+    ]
+  },
+  {
+    "slug": "kamera-na-ulicy",
+    "title": "Kamera na ulicy",
+    "packId": "polish_kamera_na_ulicy",
+    "summary": "W noworoczną noc Tom odkrywa martwą żonę Anę i zamiast wezwać pomoc zaczyna googlować, jak ukryć zbrodnię — opowieść inspirowana realnym sprawą morderstwa w Massachusetts.",
+    "subtitle": "Zbrodnia, kamera i chłód",
+    "genres": ["law", "article"],
+    "coverFamily": "law",
+    "difficulty": 7,
+    "recommendedLevel": "4",
+    "audience": "adult readers",
+    "themes": ["zbrodnia", "prawo", "media", "przemoc domowa"],
+    "keywords": "kamera na ulicy, morderstwo, Massachusetts, Ana, Brian",
+    "trustClassification": "Adapted from real events",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "true_crime", "sensitive_content"],
+    "editorialNotes": "Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji.",
+    "quiz": [
+      {
+        "question": "Co Tom robi zaraz po znalezieniu Ani w kuchni?",
+        "answers": {
+          "A": "Dzwoni po pogotowie",
+          "B": "Siada i zaczyna googlować pytania o rozkład ciała i balsamację",
+          "C": "Budzi dzieci",
+          "D": "Dzwoni do sąsiadów"
+        },
+        "correct": "B",
+        "explanation": "Zamiast wezwać pomoc, otwiera przeglądarkę i pyta o zapach ciała i balsamację.",
+        "textReference": "Nie zadzwonił po pomoc"
+      },
+      {
+        "question": "O czym Ana chce porozmawiać w sylwestrową noc?",
+        "answers": {
+          "A": "O wakacjach w Europie",
+          "B": "O Williamie, pośredniku",
+          "C": "O nowym samochodzie",
+          "D": "O przeprowadzce do Polski"
+        },
+        "correct": "B",
+        "explanation": "Ana mówi, że muszą porozmawiać o Williamie, pośredniku.",
+        "textReference": "O Williamie"
+      },
+      {
+        "question": "Jak naprawdę nazywa się Tom?",
+        "answers": {
+          "A": "Brian",
+          "B": "William",
+          "C": "Donald",
+          "D": "Tomasz"
+        },
+        "correct": "A",
+        "explanation": "W epilogu Tom jest nazywany Brianem siedzącym w celi.",
+        "textReference": "Tom, tak naprawdę Brian"
+      },
+      {
+        "question": "Jaki wyrok otrzymuje Brian?",
+        "answers": {
+          "A": "Grzywnę",
+          "B": "Dożywocie",
+          "C": "Rok probacji",
+          "D": "Uniewinnienie"
+        },
+        "correct": "B",
+        "explanation": "Epilog mówi, że Brian ma dożywocie i nie czuje nic.",
+        "textReference": "miał dożywocie"
+      },
+      {
+        "question": "Gdzie dorastają dzieci bohatera po wydarzeniach?",
+        "answers": {
+          "A": "W Polsce",
+          "B": "W Massachusetts bez rodziców",
+          "C": "We Francji",
+          "D": "W Serbii u babci Ani"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi, że w Massachusetts jego dzieci dorastają bez rodziców.",
+        "textReference": "jego dzieci dorastały bez rodziców"
+      }
+    ]
+  },
+  {
+    "slug": "czarna-skrzynka",
+    "title": "Czarna skrzynka",
+    "packId": "polish_czarna_skrzynka",
+    "summary": "Robert, człowiek żyjący według minutowego kalendarza, po utracie kontroli nad życiem odkrywa, że puszczenie lęku może być wyzwoleniem, nie klęską.",
+    "subtitle": "Kontrola, chaos i puszczenie",
+    "genres": ["psychology", "short_story"],
+    "coverFamily": "psychology",
+    "difficulty": 4,
+    "recommendedLevel": "3",
+    "audience": "adult readers",
+    "themes": ["kontrola", "perfekcjonizm", "puścić", "życie zawodowe"],
+    "keywords": "czarna skrzynka, kontrola, kalendarz, perfekcjonizm, puścić",
+    "trustClassification": "Fiction",
+    "availability": "adaptation",
+    "editorialFlags": ["youtube_source", "perfectionism"],
+    "editorialNotes": "Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli.",
+    "quiz": [
+      {
+        "question": "Co Robert robi codziennie o 5:47?",
+        "answers": {
+          "A": "Biega dziesięć kilometrów",
+          "B": "Sprawdza telefon, czy świat jest taki, jaki powinien być",
+          "C": "Pisze wiersze",
+          "D": "Gotuje śniadanie dla sąsiadów"
+        },
+        "correct": "B",
+        "explanation": "Pierwsze, co robi po przebudzeniu, to sprawdzenie telefonu i planów na dzień.",
+        "textReference": "sprawdzał telefon"
+      },
+      {
+        "question": "Jak Robert opisuje chaos?",
+        "answers": {
+          "A": "Jako przyjaciela artysty",
+          "B": "Jako wroga, którego trzeba kontrolować",
+          "C": "Jako coś pożądanego",
+          "D": "Jako stan bez znaczenia"
+        },
+        "correct": "B",
+        "explanation": "Mówi żonie, że życie trzeba kontrolować, bo chaos jest wrogiem.",
+        "textReference": "chaos był wrogiem"
+      },
+      {
+        "question": "Czym zajmuje się żona Roberta, Magda?",
+        "answers": {
+          "A": "Jest lekarką",
+          "B": "Jest artystką malującą obrazy",
+          "C": "Jest prawniczką",
+          "D": "Jest nauczycielką"
+        },
+        "correct": "B",
+        "explanation": "Tekst mówi, że Magda była artystką i malowała obrazy.",
+        "textReference": "Magda była artystką"
+      },
+      {
+        "question": "Co Robert mówi Magdzie po zmianie na końcu opowieści?",
+        "answers": {
+          "A": "Że wraca do starego trybu",
+          "B": "Że przestał się bać, że coś pójdzie nie tak, i świat dalej się kręci",
+          "C": "Że sprzedaje firmę",
+          "D": "Że nie chce już rozmawiać"
+        },
+        "correct": "B",
+        "explanation": "Mówi, że przestał się bać, że coś pójdzie nie tak, a świat dalej się kręci.",
+        "textReference": "Przestałem się bać, że coś pójdzie nie tak"
+      },
+      {
+        "question": "Jak Magda nazywa tę zmianę Roberta?",
+        "answers": {
+          "A": "Porażką",
+          "B": "Puszczeniem",
+          "C": "Lenistwem",
+          "D": "Chorobą"
+        },
+        "correct": "B",
+        "explanation": "Magda mówi: „To się nazywa puścić”.",
+        "textReference": "To się nazywa puścić"
+      }
+    ]
+  }
+]

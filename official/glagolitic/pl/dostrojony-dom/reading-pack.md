@@ -1,0 +1,405 @@
+# Dostrojony dom
+
+## Metadata
+
+**Pack ID:** `polish_dostrojony_dom`  
+**Version:** 1.0.0  
+
+**Title:** Dostrojony dom  
+**Subtitle:** Porządkowanie przestrzeni i siebie  
+**Blurb:** Po warsztatach medytacyjnych Ewa wraca do zagraconego mieszkania i z pomocą specjalistki od porządkowania odkrywa, że bałagan to nie wstyd, lecz znak, że w swoim życiu wciąż nie zamieszkała naprawdę.
+
+**Genres:** everyday_live, short_story  
+**Cover family:** everyday_live  
+**Series:** Collection Four  
+**Audience:** adult readers  
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** pl  
+**Translation summary:** Dostrojony dom — Collection Four official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** bałagan, minimalizm, tożsamość, przestrzeń osobista  
+
+**Keywords:** dostrojony dom, decluttering, bałagan, medytacja, porządkowanie  
+
+**Editorial notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
+
+---
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 23.05.2025 -> https://www.youtube.com/watch?v=5ICpiZ6Mje8  
+**Revision notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Collection Four migration |
+
+---
+
+## Sources
+
+### Source 1: Collection Four manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=5ICpiZ6Mje8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2025-05-23  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+
+## Text
+
+**DOSTROJONY DOM**
+
+
+Kiedy Ewa wróciła z warsztatów, jej mieszkanie wyglądało tak samo jak przed wyjazdem. To znaczy: fatalnie.
+
+Stała w przedpokoju z torbą podróżną w ręku i patrzyła na stertę butów, która rozlała się po podłodze jak lawa. Na wieszaku wisiało czternaście płaszczy. Czternaście. Mieszkała tu sama.
+
+— No i jesteśmy — powiedziała cicho do siebie. — Znowu.
+
+Przez tydzień w ośrodku medytacyjnym czuła się lekka. Miała plany, postanowienia, wizję siebie jako osoby zorganizowanej. Miała zamiar wrócić i wreszcie ogarnąć ten chaos. A teraz stała tutaj, wpatrzona w stertę butów, i czuła, jak energia opuszcza ją kroplami.
+
+Wzięła głęboki wdech. Potem drugi.
+
+— Tylko jeden krok — powiedziała. — Tylko jeden.
+
+Ale nie zrobiła żadnego. Zamiast tego poszła do kuchni, postawiła czajnik i usiadła przy stole, na którym piętrzyły się papiery sprzed trzech miesięcy.
+
+I wtedy zadzwonił telefon.
+
+— Ewa, jestem w twojej okolicy. Wpadnę na kawę? — głos Asi, jej dawnej współlokatorki, brzmiał radośnie i nieświadomie.
+
+— Nie — odpowiedziała za szybko. — To znaczy... jest bałagan.
+
+— No to tym bardziej. Zaraz będę.
+
+Asiu wpadła dwadzieścia minut później. Przystanęła w przedpokoju, rozejrzała się i powiedziała:
+
+— O kurczę.
+
+— Wiem — Ewa zacisnęła usta. — Wiem, wiem, wiem. Ale ja właśnie byłam na tych warsztatach i...
+
+— I co?
+
+— I myślałam, że po powrocie to ogarnę. Ale... nie umiem. Nie wiem od czego zacząć.
+
+Asiu zdjęła kurtkę i położyła ją na jedynym wolnym krześle w salonie.
+
+— Posłuchaj. Znam kogoś. Kobietę, która się tym zajmuje. Pomaga ludziom... no, właśnie — zrobiła gest obejmujący całe mieszkanie.
+
+— Myślisz, że mi pomoże?
+
+— Nie wiem. Ale możesz spróbować. Gorzej nie będzie.
+
+---
+
+Trzy dni później w drzwiach Ewy stanęła Marta. Miała krótkie włosy, spokojne oczy i uśmiech, który sprawiał, że Ewa od razu trochę się rozluźniła.
+
+— Pani Marto, dziękuję, że przyszła — Ewa odsunęła się, żeby zrobić miejsce. — Przepraszam za bałagan.
+
+Marta weszła do środka. Rozejrzała się uważnie, ale Ewa nie wyczuła w jej spojrzeniu żadnego osądu.
+
+— A co to jest bałagan? — zapytała Marta, siadając na kanapie. — Dla ciebie.
+
+Ewa usiadła naprzeciwko.
+
+— To... nie wiem. To wszystko, czego nie umiem posprzątać. Te rzeczy, które leżą i się kurzą. I które przypominają mi, że jestem nieudolna.
+
+— Czyli mówisz, że bałagan to dowód na twoją nieudolność?
+
+— No... tak.
+
+Marta uśmiechnęła się.
+
+— A jeśli powiem ci, że bałagan to nie dowód twojej nieudolności, tylko dowód na to, że coś w twoim życiu potrzebuje uwagi? Że jest sygnałem, nie wyrokiem?
+
+Ewa spojrzała na nią z powątpiewaniem.
+
+— Sygnałem czego?
+
+— Tego, co jest w tobie. To, co masz w domu, jest odbiciem tego, co masz w środku. I jeśli się temu przyjrzysz, możesz się wiele o sobie dowiedzieć.
+
+Marta wskazała na stertę butów w przedpokoju.
+
+— Powiedz mi — zapytała. — Kiedy ostatnio użyłaś tych butów?
+
+Ewa spojrzała na stertę. Były tam trampki, botki, sandały, baleriny. Niektóre pamiętały jeszcze czasy studenckie.
+
+— Większości... nie użyłam od lat.
+
+— Dlaczego je trzymasz?
+
+— Bo... no, bo mogą się przydać. Na wszelki wypadek.
+
+— Jaki wypadek?
+
+Ewa zawahała się.
+
+— Nie wiem. Może kiedyś będę potrzebować. Może kiedyś...
+
+— Może kiedyś wrócisz do tego, kim byłaś? — Marta przerwała jej łagodnie. — Do tej młodszej wersji siebie, która nosiła te buty?
+
+Ewa poczuła, jak coś ściska ją w gardle.
+
+— Nie wiem. Może.
+
+— A kim jesteś teraz?
+
+— Nie wiem — wyznała cicho. — Myślałam, że wiem. Ale ostatnio... coraz mniej.
+
+Marta skinęła głową, jakby właśnie tego się spodziewała.
+
+— Więc może właśnie od tego zaczniemy. Od znalezienia odpowiedzi na to pytanie: kim jesteś teraz. I czego potrzebujesz, żeby żyć w zgodzie z tą osobą.
+
+---
+
+Następnego dnia zaczęły od szafy. Marta poleciła wyciągnąć wszystko na środek pokoju.
+
+Ewa patrzyła na górę ubrań, która rosła na podłodze. Były tam rzeczy z czasów, gdy pracowała w korporacji — eleganckie garsonki, które wisiały w foliach ochronnych od pięciu lat. Były rzeczy z czasów, gdy uprawiała bieganie — dresy, które były już za ciasne. Były rzeczy, które kupiła pod wpływem impulsu, na promocjach, bo były tanie. Były rzeczy, które dostała od mamy, a które nigdy nie pasowały do jej stylu.
+
+I były rzeczy, które nosiła, kiedy poznała Marcina.
+
+— Ta sukienka — Ewa podniosła czerwoną sukienkę w kwiaty. — Byłam w niej na pierwszej randce.
+
+Marta podeszła bliżej.
+
+— I co czujesz, trzymając ją w rękach?
+
+— Dziwnie. Jakbym... jakbym miała wrócić do tamtego dnia. Byłam wtedy młodsza, głupsza, szczęśliwsza.
+
+— To była szczęśliwa randka?
+
+— Tak. Myślałam, że to początek czegoś wielkiego.
+
+— A co się stało?
+
+Ewa opuściła sukienkę na kolana.
+
+— Skończyło się po trzech miesiącach. On... nie był gotowy. Powiedział, że to nie ja, tylko on. Że ma jakieś swoje problemy. I tyle.
+
+— I trzymasz tę sukienkę od tamtej pory?
+
+— Tak. Od pięciu lat.
+
+Marta usiadła obok niej na podłodze.
+
+— Czy to znaczy, że wciąż czekasz, aż on wróci? A może trzymasz ją, żeby przypominać sobie, że kiedyś ktoś cię chciał? Że kiedyś byłaś w stanie kogoś zauroczyć?
+
+Ewa spojrzała na sukienkę. W kwiatki, w czerwone, takie wesołe. Zupełnie niepasujące do jej obecnego życia.
+
+— Nie wiem. Może obie rzeczy.
+
+— A może — Marta mówiła łagodnie — ta sukienka to symbol tego, że myślisz, że już nigdy nie będziesz miała takiej chwili? Że najlepsze jest za tobą?
+
+Ewa poczuła, jak oczy jej wilgotnieją.
+
+— A jeśli tak jest?
+
+— Jeśli tak jest, to co byś zrobiła, gdybyś uwierzyła, że nie jest? Gdybyś uwierzyła, że najlepsze dopiero przed tobą?
+
+Ewa milczała.
+
+— Nie wiem.
+
+— No to może zacznijmy od tego — Marta wstała i wyciągnęła do niej rękę. — Może po prostu puść to. Puść sukienkę, puść Marcina, puść myśl, że już nic cię nie czeka. Może zrób miejsce na coś nowego.
+
+Ewa wpatrywała się w czerwoną sukienkę przez długą chwilę. Potem, bardzo powoli, włożyła ją do worka z napisem "do oddania".
+
+---
+
+W kolejnych dniach zaczęło się dziać coś dziwnego. Ewa pozbywała się ubrań, ale z każdym workiem, który wynosiła z domu, czuła, że coś się w niej zmienia. Nie wiedziała jeszcze co, ale czuła, że to dobre.
+
+Pewnego wieczoru, gdy Marta już wyszła, Ewa usiadła na podłodze wśród rozłożonych rzeczy. Wzięła do ręki starą, pogniecioną kartkę z zeszytu. Był na niej rysunek — jej własny, z czasów, gdy chodziła do liceum. Narysowała wtedy dom. Duży, z ogrodem, z oknami, w których paliło się światło.
+
+— Chciałaś mieć taki dom — powiedziała do siebie.
+
+I wtedy przyszło jej do głowy coś, czego nie rozumiała do końca. Może ten dom, który rysowała jako nastolatka, to nie był tylko dom. Może to było miejsce, w którym mogła być sobą. Miejsce, w którym nie musiała udawać. Miejsce, w które mogła wrócić po ciężkim dniu i czuć się bezpiecznie.
+
+A jej mieszkanie nie było takim miejscem. Było składem, magazynem, przechowalnią przeszłości, która nie chciała odejść.
+
+Następnego dnia zadzwoniła do Marty.
+
+— Chyba wiem, o co w tym wszystkim chodzi — powiedziała.
+
+— Mów.
+
+— Chciałabym stworzyć dom, w którym naprawdę chce mi się żyć. Nie dla kogoś, nie dla pokazania. Dla siebie.
+
+Marta uśmiechnęła się przez telefon.
+
+— To jest najlepsze, co mogłaś powiedzieć. Więc zróbmy to.
+
+---
+
+Przez następne tygodnie Ewa przerabiała swoje mieszkanie pokój po pokoju. Każdy przedmiot był poddawany przesłuchaniu: "Czy to mi służy? Czy to jest tym, kim jestem teraz? Czy to pomaga mi być osobą, którą chcę być?"
+
+Wiele rzeczy nie przeszło testu. Wylądowały w workach, w pudełkach, w kontenerach na odzież. Ale niektóre zostały. I te, które zostały, nagle zyskały nowe znaczenie.
+
+Kiedy skończyła, usiadła na środku salonu i rozejrzała się. Ściany były jaśniejsze, przestrzeń była otwarta. Na półkach stały tylko książki, które naprawdę lubiła. Na ścianie wisiały zdjęcia, które naprawdę chciała oglądać.
+
+— To jest twój dom — powiedziała Marta, stojąc w drzwiach. — I to jesteś ty. A teraz pytanie: co dalej?
+
+Ewa uśmiechnęła się.
+
+— Dziwnie się czuję. Jakbym... oddychała po raz pierwszy od lat.
+
+— To właśnie robi przestrzeń, która ci sprzyja. Daje ci oddech. A teraz, gdy masz oddech, co chcesz z nim zrobić?
+
+Ewa spojrzała na swoje dłonie.
+
+— Chyba chcę... zacząć żyć. Naprawdę. Nie czekać. Nie odkładać. Po prostu żyć.
+
+Marta skinęła głową.
+
+— To najlepsza rzecz, jaką mogłaś powiedzieć.
+
+I wtedy Ewa zrobiła coś, czego nie robiła od lat. Wstała, podeszła do okna, otworzyła je na oścież i wciągnęła głęboko powietrze. Wiatr przyniósł zapach wiosny, świeżości i czegoś, co mogło być nadzieją.
+
+— Marta? — powiedziała, nie odwracając się.
+
+— Tak?
+
+— Dziękuję. Naprawdę.
+
+— Nie dziękuj mi. Dziękuj sobie. To ty zrobiłaś całą pracę. Ja tylko pokazałam ci, gdzie szukać.
+
+---
+
+Mijały miesiące. Ewa nie stała się minimalistką. Miała rzeczy, które kochała. Miała wspomnienia, do których wracała z uśmiechem. Ale już nie były one balastem.
+
+Pewnego dnia, gdy przeglądała stare pudełko, natknęła się na rysunek z liceum. Ten sam dom, który narysowała dwadzieścia lat temu. Uśmiechnęła się.
+
+— Nie chodzi o dom — powiedziała do siebie. — Chodzi o to, żeby w nim zamieszkać.
+
+I wtedy zrozumiała, że właśnie to zrobiła. Na nowo wprowadziła się do swojego własnego życia.
+
+---
+
+
+**KONIEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Co Ewa czuje tuż po powrocie z warsztatów medytacyjnych?
+
+**Answers:**
+- A) Radość, że mieszkanie jest idealnie czyste
+- B) Rozczarowanie i utratę energii wobec znanego chaosu
+- C) Obojętność wobec bałaganu
+- D) Chęć natychmiastowej przeprowadzki
+
+**Correct:** B
+**Explanation:** Po tygodniu w ośrodku wraca do tego samego bałaganu i czuje, jak energia ją opuszcza.
+**Text reference:** czuła, jak energia opuszcza ją kroplami
+
+### Question 2
+
+**Question:** Kto pomaga Ewie zacząć pracę nad mieszkaniem?
+
+**Answers:**
+- A) Jej była współlokatorka Asia, która przyprowadza Martę
+- B) Przypadkowy sąsiad z piętra wyżej
+- C) Ksiądz z parafii
+- D) Agent nieruchomości
+
+**Correct:** A
+**Explanation:** Asia odwiedza Ewę i proponuje kontakt z kobietą, która pomaga ludziom uporządkować mieszkania.
+**Text reference:** Znam kogoś. Kobietę, która się tym zajmuje
+
+### Question 3
+
+**Question:** Jakie odkrycie robi Ewa, patrząc na stary rysunek z liceum?
+
+**Answers:**
+- A) Chodzi o budowę domu, nie o zamieszkanie w swoim życiu
+- B) Chce natychmiast sprzedać mieszkanie
+- C) Postanawia zostać architektką
+- D) Uznaje, że bałagan jest dziedzictwem rodzinnym
+
+**Correct:** A
+**Explanation:** Końcowa refleksja mówi wprost, że nie chodzi o dom, lecz o to, by w nim zamieszkać.
+**Text reference:** Nie chodzi o dom — chodzi o to, żeby w nim zamieszkać
+
+### Question 4
+
+**Question:** Jak Marta opisuje rolę uporządkowanej przestrzeni?
+
+**Answers:**
+- A) Jako sposób na zwiększenie wartości rynkowej mieszkania
+- B) Jako coś, co daje oddech i pozwala zdecydować, co dalej
+- C) Jako obowiązek każdej kobiety po trzydziestce
+- D) Jako zamiennik terapii farmakologicznej
+
+**Correct:** B
+**Explanation:** Marta mówi, że przestrzeń, która sprzyja, daje oddech, a potem można zdecydować, co z nim zrobić.
+**Text reference:** Daje ci oddech
+
+### Question 5
+
+**Question:** Jaki jest końcowy stan Ewy wobec swoich rzeczy?
+
+**Answers:**
+- A) Zostaje radykalną minimalistką bez wspomnień
+- B) Zachowuje to, co kocha, ale przestaje nosić rzeczy jako balast
+- C) Oddaje mieszkanie siostrze
+- D) Przestaje w ogóle sprzątać
+
+**Correct:** B
+**Explanation:** Epilog podkreśla, że ma rzeczy i wspomnienia, ale już nie są balastem.
+**Text reference:** już nie były one balastem
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile godzin pracował Patryk przed zamknięciem laptopa?",
+      "answers": [
+        "Sześć",
+        "Czternaście",
+        "Dwadzieścia",
+        "Dwie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwsze zdanie mówi, że pracował czternaście godzin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Patryk zapisuje w notesie w środku nocy?",
+      "answers": [
+        "Listę zakupów",
+        "Że nie pamięta, kiedy czuł się dobrze i naprawdę oddychał",
+        "Plan wakacji",
+        "Scenariusz filmu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwszy wpis dotyczy niepamięci ostatniego dobrego samopoczucia i prawdziwego oddechu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi notes, którego Patryk używa?",
+      "answers": [
+        "Kupił go tego dnia w księgarni",
+        "Dostał od żony na urodziny trzy lata temu",
+        "Znalazł na ulicy",
+        "Dostał od szefa"
+      ],
+      "correctIndex": 1,
+      "explanation": "W szufladzie leży stary notes od żony na urodziny sprzed trzech lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Patryk rozumie stres pod koniec opowieści?",
+      "answers": [
+        "Jako wroga, z którym trzeba walczyć",
+        "Jako informację od ciała, na którą odpowiedzią jest zatrzymanie i oddech",
+        "Jako coś, co należy ignorować",
+        "Jako powód do kolejnej nocnej pracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcowa refleksja mówi, że stres to informacja, a odpowiedzią jest zatrzymanie się i oddychanie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się noc Patryka?",
+      "answers": [
+        "Wraca do pracy nad prezentacją",
+        "Kładzie się obok żony i zasypia spokojnie",
+        "Wychodzi biegać o północy",
+        "Jedzie do biura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po refleksji kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie."
+    }
+  ]
+}

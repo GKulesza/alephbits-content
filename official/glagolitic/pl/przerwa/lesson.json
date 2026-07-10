@@ -1,0 +1,97 @@
+{
+  "id": "polish_przerwa",
+  "title": "Przerwa",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Wypalony Patryk po czternastogodzinnym dniu pracy odkrywa w starym notesie, że stresem nie trzeba walczyć — wystarczy się zatrzymać i oddychać.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "stres",
+    "oddech",
+    "wypalenie",
+    "uważność"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 7,
+  "translation": "Przerwa — Collection Four official reading pack (Polish).",
+  "text": "**PRZERWA**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Ile godzin pracował Patryk przed zamknięciem laptopa?",
+        "answers": [
+          "Sześć",
+          "Czternaście",
+          "Dwadzieścia",
+          "Dwie"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pierwsze zdanie mówi, że pracował czternaście godzin."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Patryk zapisuje w notesie w środku nocy?",
+        "answers": [
+          "Listę zakupów",
+          "Że nie pamięta, kiedy czuł się dobrze i naprawdę oddychał",
+          "Plan wakacji",
+          "Scenariusz filmu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pierwszy wpis dotyczy niepamięci ostatniego dobrego samopoczucia i prawdziwego oddechu."
+      },
+      {
+        "type": "single_choice",
+        "question": "Skąd pochodzi notes, którego Patryk używa?",
+        "answers": [
+          "Kupił go tego dnia w księgarni",
+          "Dostał od żony na urodziny trzy lata temu",
+          "Znalazł na ulicy",
+          "Dostał od szefa"
+        ],
+        "correctIndex": 1,
+        "explanation": "W szufladzie leży stary notes od żony na urodziny sprzed trzech lat."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak Patryk rozumie stres pod koniec opowieści?",
+        "answers": [
+          "Jako wroga, z którym trzeba walczyć",
+          "Jako informację od ciała, na którą odpowiedzią jest zatrzymanie i oddech",
+          "Jako coś, co należy ignorować",
+          "Jako powód do kolejnej nocnej pracy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi, że stres to informacja, a odpowiedzią jest zatrzymanie się i oddychanie."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak kończy się noc Patryka?",
+        "answers": [
+          "Wraca do pracy nad prezentacją",
+          "Kładzie się obok żony i zasypia spokojnie",
+          "Wychodzi biegać o północy",
+          "Jedzie do biura"
+        ],
+        "correctIndex": 1,
+        "explanation": "Po refleksji kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie."
+      }
+    ]
+  },
+  "coverFamily": "psychology",
+  "audience": "adult readers"
+}

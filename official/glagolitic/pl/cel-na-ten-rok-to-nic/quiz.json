@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Ania opisuje swoje życie z zewnątrz i od środka?",
+      "answers": [
+        "Z zewnątrz pusta, od środka spełniona",
+        "Z zewnątrz spełniona, od środka pusta",
+        "W obu wymiarach idealna",
+        "W obu wymiarach chaotyczna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi wprost: z perspektywy zewnętrznej spełniona, z własnej — pusta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki cel Ania wybiera po rozmowie z Karoliną?",
+      "answers": [
+        "Napisać książkę w rok",
+        "Być wystarczającą",
+        "Awansować na prezesa",
+        "Przeprowadzić się za granicę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcowa rozmowa prowadzi do celu „być wystarczającą” jako celu na całe życie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co pokazuje początek opowieści o postanowieniach Ani?",
+      "answers": [
+        "Że wszystkie jej cele są realizowane perfekcyjnie",
+        "Że siłownię odwiedziła dwa razy, a książka ma tylko tytuł",
+        "Że nigdy nie miała żadnych planów",
+        "Że od razu zrezygnowała z pracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "7 lutego siłownia dwa razy, woda trzy dni, książka ma tylko tytuł."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Karolina w opowieści?",
+      "answers": [
+        "Szefową Ani w korporacji",
+        "Mentorką, z którą Ania zaczęła sesje",
+        "Córką Ani",
+        "Agentką nieruchomości"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ania słyszy głos Karoliny, swojej mentorki, z pierwszej sesji tydzień temu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się opowieść emocjonalnie?",
+      "answers": [
+        "Ania płacze z rozpaczy",
+        "Ania i Karolina śmieją się z myślą o celu bycia wystarczającą",
+        "Ania wraca do pracy w nocy",
+        "Ania porzuca rodzinę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcówka to wspólny śmiech nad tym, że bycie wystarczającym to najtrudniejszy cel."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Tom robi zaraz po znalezieniu Ani w kuchni?",
+      "answers": [
+        "Dzwoni po pogotowie",
+        "Siada i zaczyna googlować pytania o rozkład ciała i balsamację",
+        "Budzi dzieci",
+        "Dzwoni do sąsiadów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zamiast wezwać pomoc, otwiera przeglądarkę i pyta o zapach ciała i balsamację."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym Ana chce porozmawiać w sylwestrową noc?",
+      "answers": [
+        "O wakacjach w Europie",
+        "O Williamie, pośredniku",
+        "O nowym samochodzie",
+        "O przeprowadzce do Polski"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana mówi, że muszą porozmawiać o Williamie, pośredniku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak naprawdę nazywa się Tom?",
+      "answers": [
+        "Brian",
+        "William",
+        "Donald",
+        "Tomasz"
+      ],
+      "correctIndex": 0,
+      "explanation": "W epilogu Tom jest nazywany Brianem siedzącym w celi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wyrok otrzymuje Brian?",
+      "answers": [
+        "Grzywnę",
+        "Dożywocie",
+        "Rok probacji",
+        "Uniewinnienie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog mówi, że Brian ma dożywocie i nie czuje nic."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie dorastają dzieci bohatera po wydarzeniach?",
+      "answers": [
+        "W Polsce",
+        "W Massachusetts bez rodziców",
+        "We Francji",
+        "W Serbii u babci Ani"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi, że w Massachusetts jego dzieci dorastają bez rodziców."
+    }
+  ]
+}

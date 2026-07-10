@@ -1,0 +1,97 @@
+{
+  "id": "polish_kubek",
+  "title": "Kubek",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Ewa, psycholożka i matka czternastolatka, uczy się od innych rodziców być obecną zamiast walczyć, gdy syn zamyka się w pokoju po kłótni o imprezę.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "rodzicielstwo",
+    "nastolatek",
+    "obecność",
+    "relacja"
+  ],
+  "difficulty": 4,
+  "estimatedReadingTime": 9,
+  "translation": "Kubek — Collection Four official reading pack (Polish).",
+  "text": "**KUBEK**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co wywołuje kłótnię między Ewą a Wojtkiem?",
+        "answers": [
+          "Sprawa szkolna o oceny",
+          "Decyzja, że Wojtek nie pójdzie na imprezę",
+          "Zakup nowego telefonu",
+          "Wyjazd na wakacje"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wojtek zamyka się w pokoju po tym, jak Ewa zakazała mu pójścia na imprezę."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Ewa czyta w telefonie, co ją porusza?",
+        "answers": [
+          "Receptę na ciasto",
+          "Posty o wspierającym rodzicielstwie nastolatka",
+          "Ofertę pracy",
+          "Wiadomość od szkoły"
+        ],
+        "correctIndex": 1,
+        "explanation": "Na ekranie pojawia się post kobiety nazywającej siebie wspierającą matką nastolatka."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie zdanie szczególnie zatrzymuje Ewę?",
+        "answers": [
+          "Dzieci zawsze słuchają rodziców",
+          "Nie musisz być idealna. Musisz być obecna",
+          "Kary są najlepszą metodą",
+          "Nastolatki nie czują emocji"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zatrzymuje się na zdaniu: nie musisz być idealna, musisz być obecna."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim z wykształcenia jest Ewa?",
+        "answers": [
+          "Lekarką",
+          "Psycholożką",
+          "Architektką",
+          "Prawniczką"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tekst mówi wprost, że Ewa była psychologiem z wykształcenia."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Ewa rozumie na końcu opowieści?",
+        "answers": [
+          "Że syn przestał ją kochać",
+          "Że najważniejsze uczyła się od syna — o byciu obecną i autentyczną",
+          "Że powinna wysłać syna do internatu",
+          "Że warsztaty nic nie dały"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi, że najważniejsze przyszło od syna, który cały czas ją widział."
+      }
+    ]
+  },
+  "coverFamily": "psychology",
+  "audience": "adult readers, parents"
+}

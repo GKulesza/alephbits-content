@@ -1,0 +1,97 @@
+{
+  "id": "polish_glosy_z_ziemi",
+  "title": "Głosy z ziemi",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Emerytowany lekarz Tadeusz Jędrzejowski zbiera dowody korupcji w służbie zdrowia i łączy je z odkryciem masowej grobicy pod Bielinem, decydując się mówić w imieniu tych, którzy stracili głos.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "5",
+  "tags": [
+    "korupcja w ochronie zdrowia",
+    "wojna",
+    "pamięć",
+    "świadectwo"
+  ],
+  "difficulty": 7,
+  "estimatedReadingTime": 13,
+  "translation": "Głosy z ziemi — Collection Four official reading pack (Polish).",
+  "text": "**GŁOSY Z ZIEMI**\n\nTadeusz Jędrzejowski obudził się o czwartej nad ranem. Nie dlatego, że chciał – tak po prostu działało jego ciało po dwudziestu latach pracy w szpitalu. Budzik był zbędny, organizm wiedział, że za dwie godziny zaczyna się dyżur, a on wciąż nie dokończył raportu, który wisiał nad nim od tygodnia.\n\nPrzetarł twarz i spojrzał w sufit. Mieszkanie było ciche. Żona odeszła trzy lata temu, dzieci wyjechały za granicę. Został tylko on, stary dom na przedmieściach i praca, która wciągała go jak ruchome piaski.\n\nWstał, zaparzył kawę i usiadł przy kuchennym stole. Przed nim leżała teczka – gruba, pełna wydruków, notatek, kopii umów. Pracował nad nią od miesięcy, w tajemnicy przed wszystkimi. Wiedział, że jeśli ktoś się o niej dowie, straci wszystko. A jednak nie mógł przestać.\n\nBo w tej teczce były liczby, które nie dawały mu spać.\n\nNazwiska lekarzy, którzy podpisywali kontrakty na trzy etaty jednocześnie. Godziny pracy, które przekraczały fizyczne możliwości człowieka. Listy pacjentów, którzy trafiali na zabiegi poza kolejką – za pieniądze, za znajomości, za uśmiech w odpowiednim miejscu. I wreszcie – jego własne nazwisko, które pojawiło się na dokumentach, o których istnieniu nie miał pojęcia.\n\nKtoś fałszował jego podpisy. Ktoś w jego imieniu odbierał wynagrodzenie za dyżury, których nigdy nie pełnił.\n\nZamknął teczkę i wstał od stołu. Za oknem zaczynało świtać, niebo nad Warszawą przybierało kolor bladoszary, jakby ktoś rozcieńczył je wodą. Wypił kawę do dna i włożył garnitur. Dzisiaj miał złożyć zeznania w prokuraturze.\n\nWiedział, co go czeka. Media, politycy, środowisko lekarskie. Ludzie, którzy go zniszczą, zanim zdąży powiedzieć, co widział. Ale nie miał wyboru.\n\nKiedy wychodził z domu, zatrzymał się na chwilę przed lustrem w przedpokoju. Miał sześćdziesiąt dwa lata, siwe włosy, oczy podkrążone od bezsennych nocy. Wyglądał jak ktoś, kto przegrał, zanim zaczął walczyć.\n\n– Idziesz w to – powiedział do swojego odbicia. – Nie ma odwrotu.\n\nI wyszedł.",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co Tadeusz Jędrzejowski odkrywa w swojej tajnej teczce?",
+        "answers": [
+          "Wyłącznie błędy w dokumentacji urlopowej",
+          "Fałszywe kontrakty, dyżury i podrobione podpisy w systemie ochrony zdrowia",
+          "Plany remontu szpitala",
+          "List miłosny do żony"
+        ],
+        "correctIndex": 1,
+        "explanation": "Teczka zawiera nazwiska lekarzy na wielu etatach, fałszywe dyżury i jego podrobione podpisy."
+      },
+      {
+        "type": "single_choice",
+        "question": "Dokąd Tadeusz ma udać się w dniu otwarcia opowieści?",
+        "answers": [
+          "Na emeryturę za granicę",
+          "Do prokuratury, by złożyć zeznania",
+          "Na konferencję medyczną w Berlinie",
+          "Do sądu cywilnego o rozwód"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tekst mówi wprost, że tego dnia ma złożyć zeznania w prokuraturze."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co łączy wątek szpitalny z odkryciem pod Bielinem?",
+        "answers": [
+          "Oba dotyczą tego samego budynku",
+          "W obu przypadkach ktoś uznał, że czyjeś życie i śmierć nie mają znaczenia",
+          "Oba są wymyślone przez media",
+          "Oba dotyczą wyłącznie polityki zagranicznej"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowy tekst zestawia kości w lesie i ludzi umierających na SOR-ze jako przypadki lekceważenia życia."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaką decyzję podejmuje Tadeusz pod koniec opowieści?",
+        "answers": [
+          "Niszczy wszystkie dowody i milczy",
+          "Publikuje krótki apel o pamięć i mówienie prawdy",
+          "Wyjeżdża do córki za granicę",
+          "Wraca do pracy na dyżurach nocnych"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kończy pracę krótkim tekstem o pamiętaniu i byciu głosem tych, którzy go stracili."
+      },
+      {
+        "type": "single_choice",
+        "question": "Dlaczego Tadeusz prowadzi śledztwo w tajemnicy?",
+        "answers": [
+          "Bo nie umie czytać dokumentów",
+          "Bo wie, że ujawnienie teczki może go wszystkiego pozbawić",
+          "Bo prosi go o to żona",
+          "Bo chce napisać powieść kryminalną"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pracuje nad teczką w tajemnicy, wiedząc, że ujawnienie jej może go wszystkiego pozbawić."
+      }
+    ]
+  },
+  "coverFamily": "history",
+  "audience": "adult readers"
+}

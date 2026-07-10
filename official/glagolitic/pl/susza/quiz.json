@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Skąd Tomek wie, że tego ranka będzie gorąco?",
+      "answers": [
+        "Wyłącznie z prognozy telewizyjnej",
+        "Z doświadczenia lasu — bez termometru rozpoznaje suszę",
+        "Od turystów w busie",
+        "Z aplikacji do biegania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ojciec uczył go czytać las patrząc, nie z książek; Tomek rozpoznaje suszę bez termometru."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi ojcowi Tomka o suszy?",
+      "answers": [
+        "Że to normalna wiosenna pogoda",
+        "Że to już nie normalna susza, lecz zmiana, i nie wie, jak długo drzewa wytrzymają",
+        "Że wystarczy podlać las wężem ogrodowym",
+        "Że sosny są odporne na wszystko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ojciec mówi, że co roku jest gorzej i to nie jest już normalna susza, lecz zmiana."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego pomysł sadzenia innych drzew okazuje się trudny?",
+      "answers": [
+        "Bo w Borach od wieków rosła sosna na piaskach",
+        "Bo las jest chroniony prawem budowlanym",
+        "Bo Tomek nie lubi roślin",
+        "Bo nie ma miejsca na drzewa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ojciec mówi, że tu są piaski i od wieków rosła sosna; jeśli ona nie daje rady, nie wie, co da."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się w epiogu w 2029 roku?",
+      "answers": [
+        "Las zostaje całkowicie wycięty",
+        "Pojawia się program retencji wody i działania adaptacyjne",
+        "Tomek porzuca pracę w lesie",
+        "Susza ustaje natychmiast"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog opisuje program odbudowy retencji, nowe zbiorniki i działania miast i rolników."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie jest nastawienie bohaterów pod koniec opowieści?",
+      "answers": [
+        "Pesymizm bez działania",
+        "Świadomość trudności, ale poczucie, że próba ma sens",
+        "Wiara, że problem został rozwiązany",
+        "Rezygnacja z ekologii"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcówka mówi, że jeśli coś się zmieni teraz, może uda się zatrzymać to, co nieuniknione — a jeśli nie, przynajmniej próbowali."
+    }
+  ]
+}

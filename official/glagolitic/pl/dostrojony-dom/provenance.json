@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dostrojony_dom",
+  "bookId": "dostrojony-dom",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four."
+}

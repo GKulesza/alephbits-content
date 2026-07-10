@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Tadeusz Jędrzejowski odkrywa w swojej tajnej teczce?",
+      "answers": [
+        "Wyłącznie błędy w dokumentacji urlopowej",
+        "Fałszywe kontrakty, dyżury i podrobione podpisy w systemie ochrony zdrowia",
+        "Plany remontu szpitala",
+        "List miłosny do żony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teczka zawiera nazwiska lekarzy na wielu etatach, fałszywe dyżury i jego podrobione podpisy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dokąd Tadeusz ma udać się w dniu otwarcia opowieści?",
+      "answers": [
+        "Na emeryturę za granicę",
+        "Do prokuratury, by złożyć zeznania",
+        "Na konferencję medyczną w Berlinie",
+        "Do sądu cywilnego o rozwód"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi wprost, że tego dnia ma złożyć zeznania w prokuraturze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co łączy wątek szpitalny z odkryciem pod Bielinem?",
+      "answers": [
+        "Oba dotyczą tego samego budynku",
+        "W obu przypadkach ktoś uznał, że czyjeś życie i śmierć nie mają znaczenia",
+        "Oba są wymyślone przez media",
+        "Oba dotyczą wyłącznie polityki zagranicznej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Końcowy tekst zestawia kości w lesie i ludzi umierających na SOR-ze jako przypadki lekceważenia życia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką decyzję podejmuje Tadeusz pod koniec opowieści?",
+      "answers": [
+        "Niszczy wszystkie dowody i milczy",
+        "Publikuje krótki apel o pamięć i mówienie prawdy",
+        "Wyjeżdża do córki za granicę",
+        "Wraca do pracy na dyżurach nocnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy pracę krótkim tekstem o pamiętaniu i byciu głosem tych, którzy go stracili."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Tadeusz prowadzi śledztwo w tajemnicy?",
+      "answers": [
+        "Bo nie umie czytać dokumentów",
+        "Bo wie, że ujawnienie teczki może go wszystkiego pozbawić",
+        "Bo prosi go o to żona",
+        "Bo chce napisać powieść kryminalną"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pracuje nad teczką w tajemnicy, wiedząc, że ujawnienie jej może go wszystkiego pozbawić."
+    }
+  ]
+}

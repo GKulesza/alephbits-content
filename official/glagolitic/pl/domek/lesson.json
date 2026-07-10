@@ -1,0 +1,97 @@
+{
+  "id": "polish_domek",
+  "title": "Domek",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Marta wraca do przytłaczającego mieszkania pełnego nierozpakowanyych rzeczy i powoli odkrywa, że sprzątanie to nie walka z bałaganem, lecz powrót do siebie.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "bałagan",
+    "dom",
+    "tożsamość",
+    "zmiana"
+  ],
+  "difficulty": 4,
+  "estimatedReadingTime": 8,
+  "translation": "Domek — Collection Four official reading pack (Polish).",
+  "text": "**DOMEK**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co Marta wpisuje w wyszukiwarkę po powrocie do domu?",
+        "answers": [
+          "jak ugotować obiad",
+          "jak pokonać bałagan",
+          "jak kupić mieszkanie",
+          "jak znaleźć pracę"
+        ],
+        "correctIndex": 1,
+        "explanation": "Po usiadaniu na kanapie wpisuje w telefon: jak pokonać bałagan."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak Marta zwykle odkłada sprzątanie?",
+        "answers": [
+          "Mówi sobie, że zrobi to jutro, choć wie, że to nieprawda",
+          "Sprząta natychmiast po powrocie",
+          "Prosi sąsiadów o pomoc codziennie",
+          "Wynajmuje firmę sprzątającą co tydzień"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mówi „jutro to zrobię”, ale wie, że jutro będzie tak samo jak dziś."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Marta odkrywa po posprzątaniu?",
+        "answers": [
+          "Że bałagan był ukrytym majątkiem",
+          "Że bałagan to ona sama czekająca na zmianę",
+          "Że powinna kupić więcej rzeczy",
+          "Że mieszkanie jest za małe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pisze przyjaciółce, że to nie był bałagan — to była ona czekająca na zmianę."
+      },
+      {
+        "type": "single_choice",
+        "question": "Ile lat ma Marta?",
+        "answers": [
+          "Dwadzieścia pięć",
+          "Trzydzieści pięć",
+          "Czterdzieści pięć",
+          "Pięćdziesiąt pięć"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tekst mówi wprost, że Marta ma trzydzieści pięć lat."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak kończy opowieść definicję domu?",
+        "answers": [
+          "Dom to tylko adres",
+          "Dom to miejsce, gdzie się jest i gdzie się staje",
+          "Dom to magazyn rzeczy",
+          "Dom to biuro"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowe zdanie mówi, że dom jest miejscem, gdzie się jest i gdzie się staje."
+      }
+    ]
+  },
+  "coverFamily": "everyday_live",
+  "audience": "adult readers"
+}

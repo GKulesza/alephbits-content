@@ -1,0 +1,17 @@
+{
+  "packId": "polish_worek_z_piaskiem",
+  "bookId": "worek-z-piaskiem",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę."
+  },
+  "sources": [],
+  "revisionNotes": "Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę."
+}

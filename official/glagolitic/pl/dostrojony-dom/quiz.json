@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Ewa czuje tuż po powrocie z warsztatów medytacyjnych?",
+      "answers": [
+        "Radość, że mieszkanie jest idealnie czyste",
+        "Rozczarowanie i utratę energii wobec znanego chaosu",
+        "Obojętność wobec bałaganu",
+        "Chęć natychmiastowej przeprowadzki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po tygodniu w ośrodku wraca do tego samego bałaganu i czuje, jak energia ją opuszcza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pomaga Ewie zacząć pracę nad mieszkaniem?",
+      "answers": [
+        "Jej była współlokatorka Asia, która przyprowadza Martę",
+        "Przypadkowy sąsiad z piętra wyżej",
+        "Ksiądz z parafii",
+        "Agent nieruchomości"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asia odwiedza Ewę i proponuje kontakt z kobietą, która pomaga ludziom uporządkować mieszkania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie odkrycie robi Ewa, patrząc na stary rysunek z liceum?",
+      "answers": [
+        "Chodzi o budowę domu, nie o zamieszkanie w swoim życiu",
+        "Chce natychmiast sprzedać mieszkanie",
+        "Postanawia zostać architektką",
+        "Uznaje, że bałagan jest dziedzictwem rodzinnym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Końcowa refleksja mówi wprost, że nie chodzi o dom, lecz o to, by w nim zamieszkać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Marta opisuje rolę uporządkowanej przestrzeni?",
+      "answers": [
+        "Jako sposób na zwiększenie wartości rynkowej mieszkania",
+        "Jako coś, co daje oddech i pozwala zdecydować, co dalej",
+        "Jako obowiązek każdej kobiety po trzydziestce",
+        "Jako zamiennik terapii farmakologicznej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta mówi, że przestrzeń, która sprzyja, daje oddech, a potem można zdecydować, co z nim zrobić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki jest końcowy stan Ewy wobec swoich rzeczy?",
+      "answers": [
+        "Zostaje radykalną minimalistką bez wspomnień",
+        "Zachowuje to, co kocha, ale przestaje nosić rzeczy jako balast",
+        "Oddaje mieszkanie siostrze",
+        "Przestaje w ogóle sprzątać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog podkreśla, że ma rzeczy i wspomnienia, ale już nie są balastem."
+    }
+  ]
+}

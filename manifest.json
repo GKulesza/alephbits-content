@@ -3,7 +3,7 @@
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
   "generatedAt": "2026-07-10T00:00:00Z",
-  "officialPackCount": 26,
+  "officialPackCount": 42,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -34,6 +34,11 @@
       "description": "Conversational texts for natural speech."
     },
     {
+      "id": "everyday_live",
+      "title": "Everyday Live",
+      "description": ""
+    },
+    {
       "id": "history",
       "title": "History",
       "description": "Historical narratives and context."
@@ -44,14 +49,44 @@
       "description": "How-to and procedural texts."
     },
     {
+      "id": "languages",
+      "title": "Languages",
+      "description": ""
+    },
+    {
+      "id": "law",
+      "title": "Law",
+      "description": ""
+    },
+    {
       "id": "legend",
       "title": "Legend",
       "description": "Folklore and legendary stories."
     },
     {
+      "id": "legends",
+      "title": "Legends",
+      "description": ""
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "description": ""
+    },
+    {
       "id": "popular_science",
       "title": "Popular Science",
       "description": "Popular science and natural world."
+    },
+    {
+      "id": "psychology",
+      "title": "Psychology",
+      "description": ""
+    },
+    {
+      "id": "science",
+      "title": "Science",
+      "description": ""
     },
     {
       "id": "science_fiction",
@@ -76,29 +111,45 @@
       "description": "The first curated collection of AlephBits official reading packs.",
       "packIds": [
         "polish_boliewicz",
+        "polish_brudne_pieniadze_czysta_nauka",
+        "polish_cel_na_ten_rok_to_nic",
         "polish_cena_widoku",
         "polish_cien_skrzydel_nad_oceanem",
         "polish_cisza_przed_burza",
+        "polish_czarna_skrzynka",
         "polish_czarny_kodeks",
         "polish_czarny_mnich_z_nikiszowca",
         "polish_czarny_rynek_tokenow",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+        "polish_domek",
         "polish_domysl_sie",
+        "polish_dostrojony_dom",
+        "polish_dylemat_szatniarza",
         "polish_dziewczyna_z_jelania",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_gruby_dzienniczek",
+        "polish_glosy_z_ziemi",
         "polish_jak_bor_z_jasnego_nieba",
+        "polish_kamera_na_ulicy",
+        "polish_kamien_pamieci",
         "polish_koniec_epoki_pudelek",
         "polish_kontrolowana_halucynacja",
+        "polish_kubek",
         "polish_mamy_trupa_i_co_dalej",
         "polish_metoda_feynmana",
         "polish_misja_ktora_pekla",
         "polish_na_targu",
+        "polish_oczy_ktore_nie_widza",
         "polish_prolog_wiatru",
+        "polish_przerwa",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
+        "polish_susza",
         "polish_trzynascie_zasad",
         "polish_wiatr_nad_rzeka",
+        "polish_worek_z_piaskiem",
+        "polish_wyraz_ktorego_nie_ma",
         "polish_zakazana_energia",
         "polish_zasady"
       ]
@@ -110,6 +161,14 @@
       "packIds": [
         "polish_wiatr_nad_rzeka",
         "polish_demo_lesson",
+        "polish_przerwa",
+        "polish_wyraz_ktorego_nie_ma",
+        "polish_cel_na_ten_rok_to_nic",
+        "polish_czarna_skrzynka",
+        "polish_domek",
+        "polish_dostrojony_dom",
+        "polish_gruby_dzienniczek",
+        "polish_kubek",
         "polish_na_targu",
         "polish_trzynascie_zasad",
         "polish_zasady",
@@ -118,9 +177,15 @@
         "polish_dziewczyna_z_jelania",
         "polish_koniec_epoki_pudelek",
         "polish_mamy_trupa_i_co_dalej",
+        "polish_oczy_ktore_nie_widza",
         "polish_prolog_wiatru",
+        "polish_susza",
+        "polish_worek_z_piaskiem",
+        "polish_brudne_pieniadze_czysta_nauka",
         "polish_cena_widoku",
         "polish_czarny_rynek_tokenow",
+        "polish_dylemat_szatniarza",
+        "polish_kamien_pamieci",
         "polish_misja_ktora_pekla",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
@@ -129,7 +194,9 @@
         "polish_cien_skrzydel_nad_oceanem",
         "polish_czarny_kodeks",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+        "polish_glosy_z_ziemi",
         "polish_jak_bor_z_jasnego_nieba",
+        "polish_kamera_na_ulicy",
         "polish_cisza_przed_burza",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
         "polish_kontrolowana_halucynacja",
@@ -138,20 +205,20 @@
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 26,
-    "totalWords": 33133,
-    "totalEstimatedReadingTimeMinutes": 273,
+    "totalPacks": 42,
+    "totalWords": 34308,
+    "totalEstimatedReadingTimeMinutes": 410,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 11,
+    "categoryCount": 18,
     "largestPack": {
       "id": "polish_na_targu",
       "bookId": "na-targu",
       "wordCount": 2501
     },
     "newestPack": {
-      "id": "polish_wiatr_nad_rzeka",
-      "bookId": "wiatr-nad-rzeka",
+      "id": "polish_brudne_pieniadze_czysta_nauka",
+      "bookId": "brudne-pieniadze-czysta-nauka",
       "updated": "2026-07-10"
     },
     "oldestPack": {
@@ -176,6 +243,42 @@
       ],
       "difficulty": 7,
       "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_brudne_pieniadze_czysta_nauka",
+      "bookId": "brudne-pieniadze-czysta-nauka",
+      "path": "official/glagolitic/pl/brudne-pieniadze-czysta-nauka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Brudne pieniądze, czysta nauka",
+      "version": "1.0.0",
+      "categories": [
+        "science",
+        "article"
+      ],
+      "coverFamily": "science",
+      "difficulty": 6,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_cel_na_ten_rok_to_nic",
+      "bookId": "cel-na-ten-rok-to-nic",
+      "path": "official/glagolitic/pl/cel-na-ten-rok-to-nic",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cel na ten rok to... nic",
+      "version": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -228,6 +331,24 @@
       ],
       "difficulty": 8,
       "estimatedReadingTime": 12,
+      "featured": true
+    },
+    {
+      "id": "polish_czarna_skrzynka",
+      "bookId": "czarna-skrzynka",
+      "path": "official/glagolitic/pl/czarna-skrzynka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czarna skrzynka",
+      "version": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -298,6 +419,24 @@
       "featured": true
     },
     {
+      "id": "polish_domek",
+      "bookId": "domek",
+      "path": "official/glagolitic/pl/domek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Domek",
+      "version": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
       "id": "polish_domysl_sie",
       "bookId": "domysl-sie",
       "path": "official/glagolitic/pl/domysl-sie",
@@ -312,6 +451,42 @@
       ],
       "difficulty": 5,
       "estimatedReadingTime": 12,
+      "featured": true
+    },
+    {
+      "id": "polish_dostrojony_dom",
+      "bookId": "dostrojony-dom",
+      "path": "official/glagolitic/pl/dostrojony-dom",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dostrojony dom",
+      "version": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_dylemat_szatniarza",
+      "bookId": "dylemat-szatniarza",
+      "path": "official/glagolitic/pl/dylemat-szatniarza",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dylemat szatniarza",
+      "version": "1.0.0",
+      "categories": [
+        "article",
+        "short_story"
+      ],
+      "coverFamily": "article",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -350,6 +525,42 @@
       "featured": true
     },
     {
+      "id": "polish_glosy_z_ziemi",
+      "bookId": "glosy-z-ziemi",
+      "path": "official/glagolitic/pl/glosy-z-ziemi",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Głosy z ziemi",
+      "version": "1.0.0",
+      "categories": [
+        "history",
+        "article"
+      ],
+      "coverFamily": "history",
+      "difficulty": 7,
+      "estimatedReadingTime": 13,
+      "featured": true
+    },
+    {
+      "id": "polish_gruby_dzienniczek",
+      "bookId": "gruby-dzienniczek",
+      "path": "official/glagolitic/pl/gruby-dzienniczek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Gruby dzienniczek",
+      "version": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_jak_bor_z_jasnego_nieba",
       "bookId": "jak-bor-z-jasnego-nieba",
       "path": "official/glagolitic/pl/jak-bor-z-jasnego-nieba",
@@ -365,6 +576,42 @@
       "coverFamily": "biography",
       "difficulty": 7,
       "estimatedReadingTime": 14,
+      "featured": true
+    },
+    {
+      "id": "polish_kamera_na_ulicy",
+      "bookId": "kamera-na-ulicy",
+      "path": "official/glagolitic/pl/kamera-na-ulicy",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kamera na ulicy",
+      "version": "1.0.0",
+      "categories": [
+        "law",
+        "article"
+      ],
+      "coverFamily": "law",
+      "difficulty": 7,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_kamien_pamieci",
+      "bookId": "kamien-pamieci",
+      "path": "official/glagolitic/pl/kamien-pamieci",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kamień pamięci",
+      "version": "1.0.0",
+      "categories": [
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -398,6 +645,24 @@
       ],
       "difficulty": 8,
       "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_kubek",
+      "bookId": "kubek",
+      "path": "official/glagolitic/pl/kubek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kubek",
+      "version": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "difficulty": 4,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -470,6 +735,24 @@
       "featured": true
     },
     {
+      "id": "polish_oczy_ktore_nie_widza",
+      "bookId": "oczy-ktore-nie-widza",
+      "path": "official/glagolitic/pl/oczy-ktore-nie-widza",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Oczy, które nie widzą",
+      "version": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "difficulty": 5,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
       "id": "polish_prolog_wiatru",
       "bookId": "prolog-wiatru",
       "path": "official/glagolitic/pl/prolog-wiatru",
@@ -485,6 +768,24 @@
       "coverFamily": "biography",
       "difficulty": 5,
       "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_przerwa",
+      "bookId": "przerwa",
+      "path": "official/glagolitic/pl/przerwa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Przerwa",
+      "version": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -540,6 +841,24 @@
       "featured": true
     },
     {
+      "id": "polish_susza",
+      "bookId": "susza",
+      "path": "official/glagolitic/pl/susza",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Susza",
+      "version": "1.0.0",
+      "categories": [
+        "nature",
+        "article"
+      ],
+      "coverFamily": "nature",
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
       "id": "polish_trzynascie_zasad",
       "bookId": "trzynascie-zasad",
       "path": "official/glagolitic/pl/trzynascie-zasad",
@@ -570,6 +889,42 @@
       ],
       "difficulty": 2,
       "estimatedReadingTime": 3,
+      "featured": true
+    },
+    {
+      "id": "polish_worek_z_piaskiem",
+      "bookId": "worek-z-piaskiem",
+      "path": "official/glagolitic/pl/worek-z-piaskiem",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Worek z piaskiem",
+      "version": "1.0.0",
+      "categories": [
+        "legends",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_wyraz_ktorego_nie_ma",
+      "bookId": "wyraz-ktorego-nie-ma",
+      "path": "official/glagolitic/pl/wyraz-ktorego-nie-ma",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Wyraz, którego nie ma",
+      "version": "1.0.0",
+      "categories": [
+        "languages",
+        "short_story"
+      ],
+      "coverFamily": "languages",
+      "difficulty": 3,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {

@@ -1,0 +1,97 @@
+{
+  "id": "polish_dylemat_szatniarza",
+  "title": "Dylemat szatniarza",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Polityk wraca z Brukseli do Warszawy, obserwując afery i spadające notowania, aż rozumie, że prawdziwą stawką nie jest teatr władzy, lecz bezpieczeństwo jego rodziny.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "polityka",
+    "Bruksela",
+    "afera",
+    "rodzina"
+  ],
+  "difficulty": 6,
+  "estimatedReadingTime": 8,
+  "translation": "Dylemat szatniarza — Collection Four official reading pack (Polish).",
+  "text": "**DYLEMAT SZATNIARZA**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "O czym rozmawia bohater z przewodniczącą w Brukseli?",
+        "answers": [
+          "O wakacjach w Alpach",
+          "O spadających notowaniach i możliwym wyjściu awaryjnym",
+          "O reformie szkolnictwa",
+          "O meczu piłkarskim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Przewodnicząca mówi o komplikującej się sytuacji w Polsce i pyta o potrzebę ochrony lub pozycji."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaka afera pojawia się w telewizji w gabinecie bohatera?",
+        "answers": [
+          "Skandal w Szpitalu Południowym z fałszywymi dyżurami",
+          "Afera kolejkowa w urzędzie skarbowym",
+          "Spór o stadion narodowy",
+          "Konflikt w szkole muzycznej"
+        ],
+        "correctIndex": 0,
+        "explanation": "W telewizji lecą informacje o aferze w Szpitalu Południowym i kontraktach lekarzy."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak bohater opisuje Brukselę po spotkaniu?",
+        "answers": [
+          "Jako miasto bez zasad",
+          "Jako matkę dającą bezpieczeństwo tylko posłusznym",
+          "Jako raj dla artystów",
+          "Jako miejsce bez polityki"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mówi doradcy, że Bruksela jest jak matka: daje bezpieczeństwo, gdy jesteś posłuszny."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co bohater uznaje za swoją ostatnią deskę ratunku?",
+        "answers": [
+          "List od wyborców",
+          "Kartę z Brukseli",
+          "Wywiad w radiu",
+          "Urlop nad morzem"
+        ],
+        "correctIndex": 1,
+        "explanation": "Doradca mówi o wyciągnięciu karty z Brukseli, a bohater wie, że to ostatnia deska ratunku."
+      },
+      {
+        "type": "single_choice",
+        "question": "Do czego dochodzi bohater pod koniec opowieści?",
+        "answers": [
+          "Że politycy są najważniejsi",
+          "Że liczy się bezpieczeństwo jego rodziny, a reszta to teatr",
+          "Że powinien zostać dziennikarzem",
+          "Że Bruksela go odrzuciła na zawsze"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi, że potrzebuje wiedzieć, że rodzina jest bezpieczna, a reszta to teatr."
+      }
+    ]
+  },
+  "coverFamily": "article",
+  "audience": "adult readers"
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_cel_na_ten_rok_to_nic",
+  "bookId": "cel-na-ten-rok-to-nic",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami."
+}

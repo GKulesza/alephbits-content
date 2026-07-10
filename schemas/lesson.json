@@ -13,6 +13,7 @@
     "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
     "updated": { "type": "string", "format": "date" },
     "description": { "type": "string" },
+    "audience": { "type": "string" },
     "author": {
       "type": "object",
       "required": ["name"],

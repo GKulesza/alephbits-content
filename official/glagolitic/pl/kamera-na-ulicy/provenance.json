@@ -1,0 +1,22 @@
+{
+  "packId": "polish_kamera_na_ulicy",
+  "bookId": "kamera-na-ulicy",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji."
+}

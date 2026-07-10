@@ -1,0 +1,17 @@
+{
+  "packId": "polish_susza",
+  "bookId": "susza",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
+  },
+  "sources": [],
+  "revisionNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
+}

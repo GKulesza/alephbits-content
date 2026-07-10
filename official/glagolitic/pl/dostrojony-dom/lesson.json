@@ -1,0 +1,97 @@
+{
+  "id": "polish_dostrojony_dom",
+  "title": "Dostrojony dom",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Po warsztatach medytacyjnych Ewa wraca do zagraconego mieszkania i z pomocą specjalistki od porządkowania odkrywa, że bałagan to nie wstyd, lecz znak, że w swoim życiu wciąż nie zamieszkała naprawdę.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "bałagan",
+    "minimalizm",
+    "tożsamość",
+    "przestrzeń osobista"
+  ],
+  "difficulty": 4,
+  "estimatedReadingTime": 8,
+  "translation": "Dostrojony dom — Collection Four official reading pack (Polish).",
+  "text": "**DOSTROJONY DOM**\n\nKiedy Ewa wróciła z warsztatów, jej mieszkanie wyglądało tak samo jak przed wyjazdem. To znaczy: fatalnie.\n\nStała w przedpokoju z torbą podróżną w ręku i patrzyła na stertę butów, która rozlała się po podłodze jak lawa. Na wieszaku wisiało czternaście płaszczy. Czternaście. Mieszkała tu sama.\n\n— No i jesteśmy — powiedziała cicho do siebie. — Znowu.\n\nPrzez tydzień w ośrodku medytacyjnym czuła się lekka. Miała plany, postanowienia, wizję siebie jako osoby zorganizowanej. Miała zamiar wrócić i wreszcie ogarnąć ten chaos. A teraz stała tutaj, wpatrzona w stertę butów, i czuła, jak energia opuszcza ją kroplami.\n\nWzięła głęboki wdech. Potem drugi.\n\n— Tylko jeden krok — powiedziała. — Tylko jeden.\n\nAle nie zrobiła żadnego. Zamiast tego poszła do kuchni, postawiła czajnik i usiadła przy stole, na którym piętrzyły się papiery sprzed trzech miesięcy.\n\nI wtedy zadzwonił telefon.\n\n— Ewa, jestem w twojej okolicy. Wpadnę na kawę? — głos Asi, jej dawnej współlokatorki, brzmiał radośnie i nieświadomie.\n\n— Nie — odpowiedziała za szybko. — To znaczy... jest bałagan.\n\n— No to tym bardziej. Zaraz będę.\n\nAsiu wpadła dwadzieścia minut później. Przystanęła w przedpokoju, rozejrzała się i powiedziała:\n\n— O kurczę.\n\n— Wiem — Ewa zacisnęła usta. — Wiem, wiem, wiem. Ale ja właśnie byłam na tych warsztatach i...\n\n— I co?\n\n— I myślałam, że po powrocie to ogarnę. Ale... nie umiem. Nie wiem od czego zacząć.\n\nAsiu zdjęła kurtkę i położyła ją na jedynym wolnym krześle w salonie.\n\n— Posłuchaj. Znam kogoś. Kobietę, która się tym zajmuje. Pomaga ludziom... no, właśnie — zrobiła gest obejmujący całe mieszkanie.\n\n— Myślisz, że mi pomoże?\n\n— Nie wiem. Ale możesz spróbować. Gorzej nie będzie.",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co Ewa czuje tuż po powrocie z warsztatów medytacyjnych?",
+        "answers": [
+          "Radość, że mieszkanie jest idealnie czyste",
+          "Rozczarowanie i utratę energii wobec znanego chaosu",
+          "Obojętność wobec bałaganu",
+          "Chęć natychmiastowej przeprowadzki"
+        ],
+        "correctIndex": 1,
+        "explanation": "Po tygodniu w ośrodku wraca do tego samego bałaganu i czuje, jak energia ją opuszcza."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto pomaga Ewie zacząć pracę nad mieszkaniem?",
+        "answers": [
+          "Jej była współlokatorka Asia, która przyprowadza Martę",
+          "Przypadkowy sąsiad z piętra wyżej",
+          "Ksiądz z parafii",
+          "Agent nieruchomości"
+        ],
+        "correctIndex": 0,
+        "explanation": "Asia odwiedza Ewę i proponuje kontakt z kobietą, która pomaga ludziom uporządkować mieszkania."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie odkrycie robi Ewa, patrząc na stary rysunek z liceum?",
+        "answers": [
+          "Chodzi o budowę domu, nie o zamieszkanie w swoim życiu",
+          "Chce natychmiast sprzedać mieszkanie",
+          "Postanawia zostać architektką",
+          "Uznaje, że bałagan jest dziedzictwem rodzinnym"
+        ],
+        "correctIndex": 0,
+        "explanation": "Końcowa refleksja mówi wprost, że nie chodzi o dom, lecz o to, by w nim zamieszkać."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak Marta opisuje rolę uporządkowanej przestrzeni?",
+        "answers": [
+          "Jako sposób na zwiększenie wartości rynkowej mieszkania",
+          "Jako coś, co daje oddech i pozwala zdecydować, co dalej",
+          "Jako obowiązek każdej kobiety po trzydziestce",
+          "Jako zamiennik terapii farmakologicznej"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marta mówi, że przestrzeń, która sprzyja, daje oddech, a potem można zdecydować, co z nim zrobić."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaki jest końcowy stan Ewy wobec swoich rzeczy?",
+        "answers": [
+          "Zostaje radykalną minimalistką bez wspomnień",
+          "Zachowuje to, co kocha, ale przestaje nosić rzeczy jako balast",
+          "Oddaje mieszkanie siostrze",
+          "Przestaje w ogóle sprzątać"
+        ],
+        "correctIndex": 1,
+        "explanation": "Epilog podkreśla, że ma rzeczy i wspomnienia, ale już nie są balastem."
+      }
+    ]
+  },
+  "coverFamily": "everyday_live",
+  "audience": "adult readers"
+}

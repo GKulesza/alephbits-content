@@ -1,0 +1,22 @@
+{
+  "packId": "polish_domek",
+  "bookId": "domek",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie."
+}

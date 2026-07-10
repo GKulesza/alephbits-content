@@ -1,0 +1,97 @@
+{
+  "id": "polish_brudne_pieniadze_czysta_nauka",
+  "title": "Brudne pieniądze, czysta nauka",
+  "language": "pl",
+  "version": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Doktor Anna Kowalska staje przed pokusą finansowania badań nad słodzikami przez koncern i wybiera uczciwość naukową ponad wygodę kariery.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "source": "Collection Four manuscript",
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "etyka nauki",
+    "finansowanie badań",
+    "konflikt interesów",
+    "prawda"
+  ],
+  "difficulty": 6,
+  "estimatedReadingTime": 9,
+  "translation": "Brudne pieniądze, czysta nauka — Collection Four official reading pack (Polish).",
+  "text": "**BRUDNE PIENIĄDZE, CZYSTA NAUKA**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Nad czym Anna miała napisać artykuł, ale stale odkładała pracę?",
+        "answers": [
+          "Nad wpływem substancji słodzących na metabolizm komórkowy",
+          "Nad historią astronomii",
+          "Nad chemią organiczną w liceum",
+          "Nad teorią strun"
+        ],
+        "correctIndex": 0,
+        "explanation": "Na początku tekst mówi o artykule o wpływie substancji słodzących na metabolizm komórkowy."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co proponuje profesor Nowak Annie?",
+        "answers": [
+          "Urlop bez płatności",
+          "Finansowanie badań nad nową generacją słodzików przez dużą firmę",
+          "Zmianę kraju zamieszkania",
+          "Rezygnację z doktoratu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nowak mówi o firmie, która chce sfinansować badania nad nową generacją słodzików."
+      },
+      {
+        "type": "single_choice",
+        "question": "Dlaczego Anna waha się przed przyjęciem sponsorowania?",
+        "answers": [
+          "Bo nie lubi laboratorium",
+          "Bo wie, że pieniądze koncernu mogą zniekształcić wyniki i zobowiązania",
+          "Bo nie zna języka angielskiego",
+          "Bo chce zostać politykiem"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cały wątek dotyczy konfliktu między finansowaniem a uczciwością naukową."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak kończy opowieść Anna?",
+        "answers": [
+          "Podpisuje ugodę z koncernem",
+          "Mówi, że zrobiłaby to samo, choćby miało się powtórzyć",
+          "Odchodzi z nauki bez słowa",
+          "Publikuje fałszywe wyniki"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kończy deklaracją, że choćby miało się powtórzyć, zrobiłaby to samo — została naukowcem, nie narzędziem."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie jest główne przesłanie opowieści?",
+        "answers": [
+          "Nauka zawsze jest wolna od polityki",
+          "Nauka bez prawdy staje się narzędziem manipulacji",
+          "Koncerny zawsze mówią prawdę",
+          "Badania nie potrzebują pieniędzy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Końcowa refleksja mówi wprost o nauce bez prawdy jako narzędziu manipulacji."
+      }
+    ]
+  },
+  "coverFamily": "science",
+  "audience": "adult readers"
+}
