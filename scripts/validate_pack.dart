@@ -578,6 +578,15 @@ void _validateQuiz(
     final text = question['question'];
     if (text is! String || text.isEmpty) {
       errors.add('$qPrefix missing question text');
+    } else {
+      for (final pattern in _metadataQuizQuestionPatterns) {
+        if (pattern.hasMatch(text)) {
+          errors.add(
+            '$qPrefix asks about metadata/title-page trivia: "$text"',
+          );
+          break;
+        }
+      }
     }
 
     final answers = question['answers'];
@@ -597,6 +606,12 @@ void _validateQuiz(
       if (!answerTexts.add(key)) {
         errors.add('$qPrefix has duplicate answer: $answer');
       }
+      for (final pattern in _placeholderAnswerPatterns) {
+        if (pattern.hasMatch(answer)) {
+          errors.add('$qPrefix uses placeholder answer: "$answer"');
+          break;
+        }
+      }
     }
 
     final correctIndex = question['correctIndex'];
@@ -607,6 +622,31 @@ void _validateQuiz(
     }
   }
 }
+
+final _metadataQuizQuestionPatterns = [
+  RegExp(r'o czym opowiada tekst', caseSensitive: false),
+  RegExp(r'do jakiej grupy czytelnik', caseSensitive: false),
+  RegExp(r'jaki rodzaj tre[sś]ci', caseSensitive: false),
+  RegExp(r'jaki gatunek tekstu', caseSensitive: false),
+  RegExp(r'ile minut zajmuje orientacyjna', caseSensitive: false),
+  RegExp(r'orientacyjna lektura', caseSensitive: false),
+  RegExp(r'kończy się zdaniem domykającym', caseSensitive: false),
+  RegExp(r'reading time', caseSensitive: false),
+  RegExp(r'estimated reading time', caseSensitive: false),
+  RegExp(r'trust classification', caseSensitive: false),
+  RegExp(r'content type', caseSensitive: false),
+  RegExp(r'\baudience\b', caseSensitive: false),
+  RegExp(r'\bcategory\b', caseSensitive: false),
+  RegExp(r'\bmetadata\b', caseSensitive: false),
+  RegExp(r'\bedition version\b', caseSensitive: false),
+];
+
+final _placeholderAnswerPatterns = [
+  RegExp(r'inna odpowied', caseSensitive: false),
+  RegExp(r'nie wynika z tekstu', caseSensitive: false),
+  RegExp(r'żadna z powyższych', caseSensitive: false),
+  RegExp(r'zadna z powyzszych', caseSensitive: false),
+];
 
 bool _quizzesEquivalent(Map<String, dynamic> a, Map<String, dynamic> b) {
   return jsonEncode(_normalizeQuiz(a)) == jsonEncode(_normalizeQuiz(b));
