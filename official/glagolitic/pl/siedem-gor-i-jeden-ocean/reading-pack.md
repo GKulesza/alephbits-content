@@ -8,7 +8,7 @@
 
 **Title:** Siedem gór i jeden ocean  
 **Subtitle:** Polska oczami Korei Południowej  
-**Blurb:** Architekt Marek jedzie do Korei Południowej przy kontrakcie muzealnym — i odkrywa kraj, który kojarzy Polskę z Chopinem, Wiedźminem i… tysiącem polskich czołgów.
+**Blurb:** Marek jedzie do Korei Południowej przy kontrakcie muzealnym i wpada w wir skojarzeń: Chopin, Wiedźmin, Lewandowski, czołgi. Im dłużej zostaje, tym wyraźniej widzi, jak bardzo obraz kraju zależy od tego, kto go ogląda. Opowieść o podróży, która najpierw dotyczy architektury, a potem tożsamości.
 
 **Genres:** travel, article  
 **Series:** Collection One  

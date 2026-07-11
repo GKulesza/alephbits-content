@@ -8,7 +8,7 @@
 
 **Title:** Przerwa  
 **Subtitle:** Stres, oddech i zatrzymanie  
-**Blurb:** Wypalony Patryk po czternastogodzinnym dniu pracy odkrywa w starym notesie, że stresem nie trzeba walczyć — wystarczy się zatrzymać i oddychać.
+**Blurb:** Po czternastogodzinnym dniu pracy Patryk wraca do domu wyczerpany i przypadkiem otwiera stary notes. Kilka zapisanych lat temu pytań wygląda dziś jak rozmowa z kimś, kogo dawno nie słuchał. Opowieść o wypaleniu, które nie przychodzi nagle, i o przerwie, której boimy się nazwać.
 
 **Genres:** psychology, short_story  
 **Cover family:** psychology  

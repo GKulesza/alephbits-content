@@ -8,7 +8,7 @@
 
 **Title:** Na dworcu  
 **Subtitle:** Spotkanie na peronie  
-**Blurb:** ### 1.  **Dworzec, którego nie ma**
+**Blurb:** Marek jedzie pociągiem przez Polskę i po raz pierwszy od lat naprawdę patrzy na dworce. Gdańsk, wspomnienia ojca, spory o najpiękniejszą stację — wszystko składa się w podróż, która nie chodzi o peron, lecz o miejsca, gdzie zaczyna się i kończy czyjeś oczekiwanie.
 
 **Genres:** short_story, everyday_live  
 **Series:** Collection Zero  

@@ -8,7 +8,7 @@
 
 **Title:** Kubek  
 **Subtitle:** Matka, syn i obecność  
-**Blurb:** Ewa, psycholożka i matka czternastolatka, uczy się od innych rodziców być obecną zamiast walczyć, gdy syn zamyka się w pokoju po kłótni o imprezę.
+**Blurb:** Ewa, psycholożka i matka nastolatki, obserwuje innych rodziców i coraz częściej wątpi, czy sama potrafi być po prostu obecna. Między poradnikiem a codziennością szuka odpowiedzi prostszej niż teoria. Opowieść o bliskości, która nie mieści się w schemacie i zaczyna się od małych gestów.
 
 **Genres:** psychology, short_story  
 **Cover family:** psychology  

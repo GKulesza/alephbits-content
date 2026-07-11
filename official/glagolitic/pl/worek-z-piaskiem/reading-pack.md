@@ -8,7 +8,7 @@
 
 **Title:** Worek z piaskiem  
 **Subtitle:** Granica, piasek i sąsiedztwo  
-**Blurb:** Na granicy Cieszyna młody celnik obserwuje Jana, który codziennie przewozi przez most worek z piaskiem, i odkrywa, że ten rytuał staje się symbolem łączenia dwóch brzegów rzeki.
+**Blurb:** Na granicy w Cieszynie młody celnik obserwuje Jana, który codziennie przewozi ten sam, zawsze ciężki worek. Wygląda to jak zwykła manipulacja, dopóki rutyna nie zaczyna mówić własnym językiem. Opowieść o człowieku, który przez lata robił coś ważnego w cieniu codziennej pracy na przejściu.
 
 **Genres:** legends, short_story  
 **Cover family:** legends  

@@ -8,7 +8,7 @@
 
 **Title:** Dziewczyna z Jełania  
 **Subtitle:** Powrót do języka i pamięci  
-**Blurb:** Anastazja przyjeżdża z Niemiec do Warszawy, by uczyć się polskiego — i odkrywa więź z miejscem, którego świadomie nie pamięta: Jełaniem.
+**Blurb:** Anastazja przyjeżdża z Niemiec do Warszawy, by uczyć się polskiego bez planu kariery i bez rodziny w tym kraju. Pokój na Pradze, „Lalka” w oryginale i codzienne pomyłki językowe stają się mostem do miejsca, którego nie pamięta, a które nagle brzmi jak dom.
 
 **Genres:** travel, short_story  
 **Cover family:** travel  

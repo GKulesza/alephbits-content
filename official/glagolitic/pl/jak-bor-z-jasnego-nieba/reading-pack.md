@@ -8,7 +8,7 @@
 
 **Title:** Jak Bor z jasnego nieba  
 **Subtitle:** Rozmowa o jednostce BOR  
-**Blurb:** Wywiad w formie opowieści z Marcinem „Żukiem” Kowalczykiem — byłym operatorem BOR — o granicy między żołnierzem a operatorem, adrenaliny i rzeczach, o których nie można mówić.
+**Blurb:** W studiu podcastu rozmowa z Marcinem „Żukiem” Kowalczykiem — byłym operatorem BOR — schodzi od adrenaliny służby do granic, o których publicznie nie wolno mówić. Wywiad ma być o zawodzie, a staje się pytaniem o to, co zostaje w człowieku po latach pracy na granicy życia i śmierci.
 
 **Genres:** biography, article  
 **Cover family:** biography  

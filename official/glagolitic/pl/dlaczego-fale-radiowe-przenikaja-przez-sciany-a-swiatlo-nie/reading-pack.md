@@ -8,7 +8,7 @@
 
 **Title:** Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?  
 **Subtitle:** Opowieść o widmie elektromagnetycznym i materii  
-**Blurb:** Popularnonaukowa opowieść prowadzi od Maxwella i Plancka przez strukturę atomu aż po odpowiedź, dlaczego ściana jest prawie przezroczysta dla fal radiowych, a skutecznie zatrzymuje światło widzialne.
+**Blurb:** Dlaczego radio działa za ścianą, a światło już nie? Opowieść prowadzi od fal elektromagnetycznych przez budowę materii aż do pytań, które wciąż zadają fizycy. Bez suchych wykładów — z ciekawością człowieka, który chce zrozumieć świat tuż poza codziennym doświadczeniem widzenia i słyszenia.
 
 **Genres:** popular_science, article  
 **Series:** Collection Three  

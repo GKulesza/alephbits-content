@@ -8,7 +8,7 @@
 
 **Title:** Trzynaście zasad  
 **Subtitle:** Przewodnik kulturowy dla obcokrajowców  
-**Blurb:** Amerykanka w Polsce uczy się od przyjaciela trzynastu zasad codziennej obecności — od uśmiechu po kolejki, kawę i bezpośredniość.
+**Blurb:** Amerykanka przyjeżdża do Polski z uśmiechem, który tu nikt nie odwzajemnia. Przyjaciel tłumaczy jej kolejne zasady: kiedy się uśmiechać, jak stać w kolejce, co znaczy „jak leci” i dlaczego geografia ma znaczenie. Ciepła, czasem zabawna opowieść o obcowaniu z obcą kulturą bez podręcznika.
 
 **Genres:** instruction, article  
 **Series:** Collection One  

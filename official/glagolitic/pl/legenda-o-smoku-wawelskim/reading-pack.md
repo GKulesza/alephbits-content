@@ -8,7 +8,7 @@
 
 **Title:** 🏰 Legenda o Smoku Wawelskim  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **Legenda o Smoku Wawelskim**
+**Blurb:** Smok straszy Kraków, a król obiecuje nagrodę temu, kto ocali miasto. Na peryferiach legendy staje Skuba — szewc bez miecza, za to z głową pełną pomysłów. Opowieść o odwadze, która nie zawsze wygląda jak w baśni, i o mieście, które wciąż chętnie wraca do swojej najstarszej opowieści.
 
 **Genres:** legend  
 **Series:** Collection Zero  

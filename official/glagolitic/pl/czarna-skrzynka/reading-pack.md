@@ -8,7 +8,7 @@
 
 **Title:** Czarna skrzynka  
 **Subtitle:** Kontrola, chaos i puszczenie  
-**Blurb:** Robert, człowiek żyjący według minutowego kalendarza, po utracie kontroli nad życiem odkrywa, że puszczenie lęku może być wyzwoleniem, nie klęską.
+**Blurb:** Robert budzi się o 5:47, jeździ tą samą trasą i traktuje dzień jak rozkład jazdy. Gdy życie zaczyna wymykać się spod kontroli, szuka nowej reguły, która wszystko poukłada. Opowieść o człowieku, który myli porządek ze spokojem — i o małej zmianie, która może być początkiem czegoś innego.
 
 **Genres:** psychology, short_story  
 **Cover family:** psychology  

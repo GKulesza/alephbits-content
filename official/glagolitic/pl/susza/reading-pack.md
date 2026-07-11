@@ -8,7 +8,7 @@
 
 **Title:** Susza  
 **Subtitle:** Las, woda i zmiana klimatu  
-**Blurb:** Tomek, syn leśniczego z Borów Tucholskich, obserwuje postępującą suszę niszczącą las i razem z ojcem oraz innymi próbuje zrozumieć, co można jeszcze uratować.
+**Blurb:** Tomek dorasta w Borach Tucholskich u boku ojca-leśniczego. Kilka lat bez deszczu wysusza nie tylko glebę — zmienia też rozmowy przy stole i sposób patrzenia na przyszłość. Opowieść o krajobrazie, który wydaje się stały, dopóki klimat przypomina, że nic nie jest dane na zawsze.
 
 **Genres:** nature, article  
 **Cover family:** nature  

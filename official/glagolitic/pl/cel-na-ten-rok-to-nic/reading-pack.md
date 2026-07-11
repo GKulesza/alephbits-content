@@ -8,7 +8,7 @@
 
 **Title:** Cel na ten rok to... nic  
 **Subtitle:** Spełnienie bez listy celów  
-**Blurb:** Ania, dyrektorka korporacji z pozoru spełniona, odkrywa u mentorki, że jej prawdziwym celem nie jest kolejna lista postanowień, lecz bycie wystarczającą tu i teraz.
+**Blurb:** Ania ma tytuł dyrektorki, harmonogram pełny spotkań i wrażenie, że wszystko jest pod kontrolą. Po rozmowie z mentorką Karoliną zaczyna jednak pytać, czy jej cele naprawdę są jej własne. Spokojna opowieść o zmęczeniu ambicją i odwadze, by na chwilę nie wiedzieć, dokąd biegniesz.
 
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  

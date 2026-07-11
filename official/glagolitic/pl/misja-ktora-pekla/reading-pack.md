@@ -8,7 +8,7 @@
 
 **Title:** Misja która pękła  
 **Subtitle:** Misja, wypalenie i kontekst w erze AI  
-**Blurb:** Marek, właściciel dojrzałej firmy konsultingowej, konfrontuje się z pęknięciem między misją a biznesem, zjawiskiem AI Brain Fry i potrzebą działania we własnym kontekście zamiast według cudzych wzorów.
+**Blurb:** Marek prowadzi dojrzałą firmę konsultingową i wierzy w swoją misję pomagania przedsiębiorcom. Gdy spotyka klientów z innej skali i innego rynku, schematy zaczynają pękać. Opowieść o doradztwie, ambicji i odkrywaniu, że dobra rada bez kontekstu może być gorsza niż milczenie.
 
 **Genres:** instruction, article  
 **Cover family:** instruction  

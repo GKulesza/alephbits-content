@@ -8,7 +8,7 @@
 
 **Title:** Wiatr nad rzeką  
 **Subtitle:** Krótka scena weryfikacyjna  
-**Blurb:** Krótka scena nad Wisłą — pakiet utworzony wyłącznie do weryfikacji zdalnego publikowania (Phase 66).
+**Blurb:** Anna zatrzymuje się na bulwarze nad Wisłą, gdy miasto pędzi dalej bez niej. Starszy mężczyzna mówi o wietrze, który pamięta to, co niosła woda — i nagle zwykły spacer staje się chwilą zatrzymania. Krótka, spokojna scena o powrocie do miejsc, które czekają cierpliwie.
 
 **Genres:** short_story  
 **Series:** *(none)*  

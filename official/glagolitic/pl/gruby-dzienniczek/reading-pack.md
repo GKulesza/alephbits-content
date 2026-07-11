@@ -8,7 +8,7 @@
 
 **Title:** Gruby dzienniczek  
 **Subtitle:** Małe nawyki i powrót do siebie  
-**Blurb:** Patryk, wypalony trzydziestolatek, zaczyna prowadzić gruby dzienniczek od prostego ścielenia łóżka i odkrywa, że małe codzienne kroki mogą przywrócić mu sprawczość.
+**Blurb:** Patryk ma trzydzieści lat, wypalony grafik i poczucie, że życie przesuwa się obok. Sięga po gruby zeszyt i zaczyna od jednej prostej reguły dziennika. Czy kilka linijek dziennie mogą coś zmienić? Opowieść o małym nawyku, który staje się lustrem tego, czego unikamy.
 
 **Genres:** psychology, short_story  
 **Cover family:** psychology  

@@ -8,7 +8,7 @@
 
 **Title:** Domyśl się  
 **Subtitle:** Opowiadanie o sygnałach w związku  
-**Blurb:** Magda odkrywa, że jej idealny związek z Grześkiem kryje wzorce, których nie chce widzieć — aż spotkanie Kapci otwiera jej oczy na to, co naprawdę czuje.
+**Blurb:** Magda i Grzesiek wyglądają jak para, która ma wszystko poukładane. Między pracą, codziennymi drobiazgami i milczeniem narasta jednak niewypowiedziane napięcie. Gdy oboje trafiają na spotkanie, którego nie planowali, zaczynają zauważać wzorce, których wcześniej nie chcieli nazwać — i pytanie, czy w ogóle znają swoje własne potrzeby.
 
 **Genres:** short_story, dialogue  
 **Series:** Collection One  

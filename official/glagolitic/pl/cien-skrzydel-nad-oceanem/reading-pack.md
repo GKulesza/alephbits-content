@@ -8,7 +8,7 @@
 
 **Title:** Cień skrzydeł nad oceanem  
 **Subtitle:** Przypadek Jamesa Leiningera  
-**Blurb:** Opowieść o chłopcu, który od najmłodszych lat opowiada szczegóły śmierci pilota Jamesa M. Hustona Jr. nad Chichi Jimą — i o rodzicach szukających wyjaśnienia.
+**Blurb:** James ma trzy lata, gdy zaczyna mówić o samolocie, płomieniach i zablokowanej kabince nad oceanem. Szczegóły pasują do śmierci pilota z 1945 roku, choć nikt w rodzinie nie opowiada mu historii wojny. Rodzice szukają wyjaśnienia między racjonalnością a tym, czego dziecko nie powinno wiedzieć.
 
 **Genres:** article, popular_science  
 **Series:** Collection One  

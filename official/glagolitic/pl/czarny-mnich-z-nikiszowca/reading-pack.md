@@ -8,7 +8,7 @@
 
 **Title:** Czarny mnich z Nikiszowca  
 **Subtitle:** Legenda i pamięć Nikiszowca  
-**Blurb:** Tomek wraca do Nikiszowca, by zrozumieć legendę Czarnego Mnicha i odkrywa, że opowieść o zjawie jest także opowieścią o pamięci górniczej dzielnicy.
+**Blurb:** Tomek dorastał w Nikiszowcu jak obcy we własnej dzielnicy. Legenda Czarnego Mnicha wraca, gdy kopalnia milknie, a kamienice opowiadają własną historię. Między wspomnieniami dzieciństwa a dorosłym spojrzeniem pojawia się pytanie: czy demon miejsca może stać się częścią tożsamości człowieka, który chce wreszcie tu zostać.
 
 **Genres:** legend, history  
 **Series:** Collection Three  

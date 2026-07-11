@@ -8,7 +8,7 @@
 
 **Title:** Mamy trupa i co dalej  
 **Subtitle:** Żałoba, wybór i usługa pogrzebowa  
-**Blurb:** Po śmierci matki Tomasz bezradnie wchodzi w kosztowny rytuał pogrzebu, a dopiero później odkrywa, że żałoba nie musi oznaczać zgody na wszystko, co proponuje zakład pogrzebowy.
+**Blurb:** Po śmierci matki Tomasz staje przed biurokracją pogrzebową, fakturami i pytaniami, na które nikt go nie przygotował. Każdy etap wygląda jak obowiązek, a jednocześnie jak coś obcego. Opowieść o żałobie bez instrukcji obsługi — i o tym, jak dorosłość czasem zaczyna się od papieru, którego nie chcesz podpisywać.
 
 **Genres:** instruction, article  
 **Series:** Collection Three  

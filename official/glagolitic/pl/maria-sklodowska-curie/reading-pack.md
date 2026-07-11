@@ -8,7 +8,7 @@
 
 **Title:** 👤 Maria Skłodowska-Curie  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **MARIA**
+**Blurb:** Warszawa XIX wieku. Mała Maria Skłodowska dorasta w rodzinie, która wierzy w naukę mimo przeciwności. Droga na Sorbonę, laboratorium pełne promieniowania i Nobla w dwóch dziedzinach dopiero nadejdą — najpierw jest bieda, konspiracyjna nauka i decyzja, że świat można zmieniać własnymi rękami.
 
 **Genres:** biography, history  
 **Series:** Collection Zero  

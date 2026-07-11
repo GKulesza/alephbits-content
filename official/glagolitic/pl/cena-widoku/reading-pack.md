@@ -8,7 +8,7 @@
 
 **Title:** Cena widoku  
 **Subtitle:** Hotel, przeciek i nocna decyzja  
-**Blurb:** Pracownik nocnej zmiany w nadmorskim hotelu obserwuje pękanie luksusowej fasady i po spotkaniu z tajemniczym projektantem decyduje, że nie będzie już dłużej współuczestniczył w kłamstwie.
+**Blurb:** Nocna zmiana w nadmorskim hotelu. Za szklanymi ścianami goście płacą za widok, a narrator widzi też awarie ukryte przed recepcją. Gdy na tarasie pojawia się nieznajomy z trudnym pytaniem, codzienna rutyna zaczyna pękać. Opowieść o pracy, która udaje luksus, i o cenie patrzenia na cudzy komfort z drugiej strony lady.
 
 **Genres:** article, short_story  
 **Cover family:** article  

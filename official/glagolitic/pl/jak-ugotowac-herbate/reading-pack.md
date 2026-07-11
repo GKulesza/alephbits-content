@@ -8,7 +8,7 @@
 
 **Title:** 📋 Jak ugotować herbatę  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **JAK UGOTOWAĆ HERBATĘ**
+**Blurb:** Patryk myślał, że herbata to liście i wrzątek. Turecki czajnik, japońska matcha i polski kubek z cytryną pokazują mu coś innego: każda kultura parzy nie tylko napój, lecz sposób bycia razem. Ciepła opowieść o cierpliwości, gościnności i odkrywaniu, że prosta filiżanka może otworzyć świat.
 
 **Genres:** instruction  
 **Series:** Collection Zero  

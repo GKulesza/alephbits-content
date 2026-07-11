@@ -8,7 +8,7 @@
 
 **Title:** Na targu  
 **Subtitle:** Opowiadanie w trzech częściach  
-**Blurb:** Historia Adama, który po stracie pracy jedzie z Elbląga na największy targ w Polsce — i odkrywa, że handel to nie tylko towar, ale ludzie i nowe początki.
+**Blurb:** Adam traci pracę w Elblągu i jedzie na targ w Nowy Targ, nie wiedząc jeszcze, że wróci tam jako handlarz. Tłumy, akcenty sąsiadów, kaszmir za kilkaset złotych i hałas, który brzmi jak początek czegoś nowego. Opowieść o handlu jako spotkaniu ludzi, nie tylko towaru.
 
 **Genres:** travel, short_story  
 **Series:** *(none)*  

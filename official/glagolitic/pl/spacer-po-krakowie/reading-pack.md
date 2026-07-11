@@ -8,7 +8,7 @@
 
 **Title:** Spacer po Krakowie  
 **Subtitle:** Pierwsza lekcja — spacer po Krakowie
-**Blurb:** Krótka lekcja czytania z prostym tekstem o spacerze po Krakowie. Tekst jest w domenie publicznej.
+**Blurb:** Spacer po znanym mieście może brzmieć prosto — dopóki czytasz go nowym pismem. Rynek, Planty, Wisła i Wawel układają się w opowieść o miejscu, które pamiętasz, i języku, którego uczysz się na nowo. Lekcja czytania dla tych, którzy lubią, gdy tekst prowadzi krok za krokiem.
 
 **Genres:** travel, demo  
 **Series:** *(none)*  

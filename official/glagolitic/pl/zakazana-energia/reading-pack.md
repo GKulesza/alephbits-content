@@ -8,7 +8,7 @@
 
 **Title:** Zakazana Energia  
 **Subtitle:** Alternatywna historia ukrytej energii  
-**Blurb:** Architektka Helena odkrywa w archiwach dworców kolejowych ślady tajnych systemów energetycznych sprzed oficjalnej ery elektryczności — i ślad prowadzi ją w coraz głębszą spise.
+**Blurb:** Helena przeszukuje archiwa dworców kolejowych i znajduje projekty sprzed ery elektryczności, których nie powinno być w dokumentach. Im głębiej kopie, tym bardziej historia techniki przypomina thriller. Opowieść o architektce, która nie potrafi przejść obok pytania: kto ukrył te schematy i dlaczego?
 
 **Genres:** science_fiction, short_story  
 **Series:** Collection One  

@@ -8,7 +8,7 @@
 
 **Title:** Kontrolowana halucynacja  
 **Subtitle:** Uraz, świadomość i granice ja  
-**Blurb:** Po urazie głowy Anna trafia na neurologię, gdzie doświadcza rozpadu poczucia własnego ciała i wraz z lekarzem zaczyna badać świadomość, iluzję oraz moralne skutki rozwoju AI.
+**Blurb:** Po urazie głowy Anna trafia na oddział neurologii. Świat zaczyna działać inaczej: ciało, pamięć i obecność własnej osoby nie składają się w całość. Lekarze mówią o badaniach, ona słyszy własne pytania głośniej. Intymna opowieść o granicy między doświadczeniem a tym, co można zmierzyć.
 
 **Genres:** popular_science, short_story  
 **Series:** Collection Three  

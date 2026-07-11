@@ -8,7 +8,7 @@
 
 **Title:** Kamera na ulicy  
 **Subtitle:** Zbrodnia, kamera i chłód  
-**Blurb:** W noworoczną noc Tom odkrywa martwą żonę Anę i zamiast wezwać pomoc zaczyna googlować, jak ukryć zbrodnię — opowieść inspirowana realnym sprawą morderstwa w Massachusetts.
+**Blurb:** Noworoczna noc. Tom wraca do domu i znajduje żonę nieruchomą w salonie. W jednej chwili musi zdecydować, co zrobić — a ciało nie reaguje tak, jak powinno. Kamery na ulicy nagrywają ruch miasta, lecz w tym mieszkaniu wszystko staje w miejscu. Intymna opowieść o szoku, milczeniu i chwili, gdy człowiek nie wie, jak zachować się ludzko.
 
 **Genres:** law, article  
 **Cover family:** law  

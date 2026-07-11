@@ -8,7 +8,7 @@
 
 **Title:** Domek  
 **Subtitle:** Bałagan jako czekanie na zmianę  
-**Blurb:** Marta wraca do przytłaczającego mieszkania pełnego nierozpakowanyych rzeczy i powoli odkrywa, że sprzątanie to nie walka z bałaganem, lecz powrót do siebie.
+**Blurb:** Marta wraca do mieszkania pełnego nierozpakowanych pudeł i codziennych wymówek. Sprzątanie zawsze czeka na jutro — aż pewnego wieczoru coś w niej pęka. Opowieść o chaosie, który nie dotyczy tylko rzeczy, i o odwadze, by zatrzymać się na chwilę we własnym domu, zanim ucieknie znowu.
 
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  

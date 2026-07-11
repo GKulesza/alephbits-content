@@ -8,7 +8,7 @@
 
 **Title:** Dostrojony dom  
 **Subtitle:** Porządkowanie przestrzeni i siebie  
-**Blurb:** Po warsztatach medytacyjnych Ewa wraca do zagraconego mieszkania i z pomocą specjalistki od porządkowania odkrywa, że bałagan to nie wstyd, lecz znak, że w swoim życiu wciąż nie zamieszkała naprawdę.
+**Blurb:** Po warsztatach medytacji Ewa wraca do mieszkania pełnego przedmiotów, które kiedyś miały znaczenie. Z pomocą specjalistki od przestrzeni zaczyna pytać nie tylko o rzeczy, lecz o to, jak chce żyć. Opowieść o domu jako lustro wnętrza — i o powolnym odzyskiwaniu miejsca dla siebie.
 
 **Genres:** everyday_live, short_story  
 **Cover family:** everyday_live  

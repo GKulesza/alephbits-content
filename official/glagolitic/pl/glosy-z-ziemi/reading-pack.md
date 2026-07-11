@@ -8,7 +8,7 @@
 
 **Title:** Głosy z ziemi  
 **Subtitle:** Korupcja, pamięć i odwaga świadka  
-**Blurb:** Emerytowany lekarz Tadeusz Jędrzejowski zbiera dowody korupcji w służbie zdrowia i łączy je z odkryciem masowej grobicy pod Bielinem, decydując się mówić w imieniu tych, którzy stracili głos.
+**Blurb:** Emerytowany lekarz Tadeusz Jędrzejowski zbiera historie pacjentów poszkodowanych przez system, który miał ich leczyć. Im więcej dokumentów i świadectw gromadzi, tym wyraźniej widać mechanizm korupcji i obojętności. Opowieść o człowieku, który nie chce już milczeć, gdy instytucja udaje, że wszystko działa.
 
 **Genres:** history, article  
 **Cover family:** history  

@@ -8,7 +8,7 @@
 
 **Title:** Wyraz, którego nie ma  
 **Subtitle:** Nauka czytania i cierpliwość  
-**Blurb:** Kasia uparcie uczy córkę Alę czytać mimo oporu i lat frustracji, aż odkrywa, że cierpliwość i obecność są ważniejsze niż łatwiejsza droga z tabletem.
+**Blurb:** Kasia nie rezygnuje z nauki czytania u córki Ali, choć każda lekcja kończy się łzami. Szuka słów, które dotrą do dziecka, a nie tylko spełnią program. Opowieść o rodzicielskiej upartości, wstydzie i małych przełomach, które nie przychodzą w jeden dzień.
 
 **Genres:** languages, short_story  
 **Cover family:** languages  

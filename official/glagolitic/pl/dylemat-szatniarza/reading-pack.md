@@ -8,7 +8,7 @@
 
 **Title:** Dylemat szatniarza  
 **Subtitle:** Polityka, Bruksela i dom  
-**Blurb:** Polityk wraca z Brukseli do Warszawy, obserwując afery i spadające notowania, aż rozumie, że prawdziwą stawką nie jest teatr władzy, lecz bezpieczeństwo jego rodziny.
+**Blurb:** Polityk wraca z Brukseli do Warszawy tuż przed kolejną aferą medialną. W szatni klubu, między rozmowami o wynikach sondażów a codziennym lękiem o wizerunek, musi zdecydować, komu zaufać. Opowieść o presji publicznej roli i o cenie kompromisu, gdy cały kraj patrzy na twój następny krok.
 
 **Genres:** article, short_story  
 **Cover family:** article  

@@ -8,7 +8,7 @@
 
 **Title:** ☕ W kawiarni  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **W kawiarni**
+**Blurb:** Marek wchodzi do kawiarni z ostatnimi pieniędzmi w portfelu i potrzebą ukrycia się choć na godzinę. Baristka widzi więcej niż zamówienie — krótką rozmowę, wizytówkę, drugą szansę bez wielkich słów. Opowieść o miejscu, gdzie ciepły kubek może być początkiem czegoś nowego.
 
 **Genres:** short_story, everyday_live  
 **Series:** Collection Zero  

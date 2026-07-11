@@ -8,7 +8,7 @@
 
 **Title:** Metoda Feynmana  
 **Subtitle:** Fizyka, świadomość i granica interpretacji  
-**Blurb:** Profesor Marek, poruszony komentarzami pod filmem o fizyce, zaczyna łączyć naukowe pojęcia z pytaniami o świadomość, śmierć, dobro i zło — aż sam dochodzi do granicy między wyjaśnieniem a metaforą.
+**Blurb:** Pod filmem o fizyce ktoś pyta, czy nauka wyjaśnia wszystko. Profesor Marek zaczyna odpowiadać od wzorów, a kończy przy pytaniach, których nie da się zamknąć w równaniu. Opowieść o ciekawości, która nie boi się granic wiedzy, i o tym, jak uczyć innych, nie udając pewności co do wszystkiego.
 
 **Genres:** popular_science, article  
 **Series:** Collection Three  

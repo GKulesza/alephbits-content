@@ -8,7 +8,7 @@
 
 **Title:** Cisza przed burzą  
 **Subtitle:** Polscy łamacze Enigmy  
-**Blurb:** Opowieść o Marianie Rejewskim i zespole z Biura Szyfrów, którzy zrozumieli logikę Enigmy i zbudowali bombę kryptologiczną — na tle października 1932 w Warszawie.
+**Blurb:** Warszawa, październik 1932. Marian Rejewski patrzy na niemiecką Enigmę jak na układankę logiczną, nie jak na magiczny szyfr. W Biurze Szyfrów rodzi się pomysł, który może zmienić bieg wojny — jeśli zdążą, zanim świat obudzi się z koszmaru. Napięcie rośnie w ciszy laboratorium, gdzie liczy się każdy błąd.
 
 **Genres:** history, article  
 **Series:** Collection One  

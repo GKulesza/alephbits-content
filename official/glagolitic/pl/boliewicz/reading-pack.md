@@ -8,7 +8,7 @@
 
 **Title:** Boliewicz  
 **Subtitle:** Wałęsa między legendą a cieniem Bolka  
-**Blurb:** Narracja wokół wypowiedzi Antoniego Dudka prowadzi przez sprzeczne warstwy biografii Lecha Wałęsy: bohaterstwo, współpracę z SB, nieudaną prezydenturę i trudne dziedzictwo.
+**Blurb:** Antoni Dudek wraca do sporów wokół Lecha Wałęsy — od pseudonimu „Bolek” po lata prezydentury i późniejsze rozczarowania. Narracja nie daje gotowych werdyktów, lecz prowadzi przez sprzeczne warstwy biografii, polityki i pamięci narodowej. Czytelnik dostaje materiał do własnej oceny człowieka, który wciąż dzieli Polaków.
 
 **Genres:** biography, history  
 **Series:** Collection Three  

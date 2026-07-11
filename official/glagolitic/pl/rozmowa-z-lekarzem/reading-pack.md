@@ -8,7 +8,7 @@
 
 **Title:** 💬 Rozmowa z lekarzem  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **ROZMOWA Z LEKARZEM**
+**Blurb:** Kasia ma trzydzieści dwa lata, dwójkę dzieci i nogi, które wieczorem puchną coraz bardziej. Myślała, że to tylko „pajączki”, dopóki nie zobaczyła pierwszego żylaka. W gabinecie chirurga zaczyna rozmowę, która zmienia sposób, w jaki patrzy na własne ciało i lekceważenie objawów.
 
 **Genres:** instruction  
 **Series:** Collection Zero  

@@ -8,7 +8,7 @@
 
 **Title:** Koniec epoki pudełek  
 **Subtitle:** Fizyczne gry kontra cyfrowa własność  
-**Blurb:** Adam obserwuje bunt graczy po decyzji Sony o końcu nowych wydań płytowych i zaczyna widzieć w sporze o pudełka walkę o własność, dostęp i prawa konsumentów.
+**Blurb:** Adam obserwuje, jak świat gier i muzyki reaguje na koniec nowych wydań płytowych. Między nostalgią a praktycznością cyfrowej biblioteki rodzi się pytanie: co tracimy, gdy fizyczny nośnik zniknie? Opowieść o kolekcjonerach, graczach i pokoleniu, które dorastało na pudełkach z kodem.
 
 **Genres:** article  
 **Series:** Collection Three  

@@ -8,7 +8,7 @@
 
 **Title:** Czarny rynek tokenów  
 **Subtitle:** API, wyciek i geopolityka dostępu  
-**Blurb:** Po przypadkowym wycieku klucza API Adam odkrywa globalny czarny rynek dostępu do modeli AI i rozumie, że za nielegalnym obiegiem tokenów stoją także bariery geograficzne i systemowe.
+**Blurb:** Adam, inżynier systemów chmurowych, znajduje w logach ślad, którego nie powinno być. Za fasadą legalnych API kryje się rynek kluczy i tokenów sztucznej inteligencji. Im bardziej zagłębia się w proceder, tym wyraźniej widzi, że cena „taniego dostępu” dotyczy też jego własnej pracy i odpowiedzialności.
 
 **Genres:** article  
 **Series:** Collection Three  

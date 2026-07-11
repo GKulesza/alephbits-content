@@ -8,7 +8,7 @@
 
 **Title:** Czarny Kodeks  
 **Subtitle:** Vodou, Haiti i długie życie prawa  
-**Blurb:** Historyk Janusz bada losy Czarnego Kodeksu, rewolucji haitańskiej i Vodou, odkrywając jak prawo, religia i kolonialna przemoc splatają się przez stulecia.
+**Blurb:** Janusz, historyk z pasją, podąża śladem Czarnego Kodeksu — dokumentu splątanego z rewolucją haitańską, Vodou i europejską wyobraźnią. Im głębiej wchodzi w archiwa i legendy, tym trudniej odróżnić fakt od mitu. Podróż przez pamięć kolonialną, w której świętość i przemoc przeplatają się bez ostrzeżenia.
 
 **Genres:** history, article  
 **Series:** Collection Three  

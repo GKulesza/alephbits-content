@@ -8,7 +8,7 @@
 
 **Title:** Pudełko po ciastkach  
 **Subtitle:** Dziedziczenie lęku i porządkowanie pamięci  
-**Blurb:** Po śmierci matki Krzysztof wchodzi do zagraconego mieszkania i odkrywa, że gromadzone przez lata rzeczy były nie tylko bałaganem, ale także materialnym kształtem biedy, straty i pamięci.
+**Blurb:** Po śmierci matki Krzysztof wchodzi do mieszkania, w którym każdy kąt coś skrywa. Pudełka, gazety i przedmioty „na później” tworzą labirynt, którego sensu nie zna nikt spoza rodziny. Opowieść o lęku przed rozstanie i o powolnym rozumieniu, skąd bierze się potrzeba trzymania.
 
 **Genres:** article, short_story  
 **Cover family:** article  

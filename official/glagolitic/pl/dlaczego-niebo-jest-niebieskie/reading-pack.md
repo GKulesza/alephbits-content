@@ -8,7 +8,7 @@
 
 **Title:** Dlaczego niebo jest niebieskie?  
 **Subtitle:** Krótkie wyjaśnienie nauki  
-**Blurb:** **Dlaczego niebo jest niebieskie**
+**Blurb:** Niebo wydaje się oczywiste — dopóki nie zaczniesz pytać, skąd bierze się ten kolor. Od rozpraszania światła przez Homera bez słowa na błękit, po współczesną fizykę i granice naszego widzenia. Spokojna, głęboka opowieść o tym, że nawet najprostsze pytanie może otworzyć kilka warstw prawdy naraz.
 
 **Genres:** popular_science  
 **Series:** Collection Zero  

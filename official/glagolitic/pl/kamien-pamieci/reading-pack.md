@@ -8,7 +8,7 @@
 
 **Title:** Kamień pamięci  
 **Subtitle:** Berlin, kamień i polska pamięć  
-**Blurb:** Marta jedzie do Berlina, by odnaleźć kamień pamięci o polskich żołnierzach, którego poszukiwał jej dziadek, i odkrywa historię pamięci budowanej przez pokolenia.
+**Blurb:** Marta jedzie do Berlina z listą współrzędnych i nadzieją, że odnajdzie tablicę upamiętniającą polskich żołnierzy, o której słyszała od dziadka. W obcym mieście granice pamięci rodzinnej i historii narodowej zaczynają się zcinać. Podróż o tym, co znaczy pamiętać, gdy ślady są ledwo widoczne.
 
 **Genres:** history, short_story  
 **Cover family:** history  

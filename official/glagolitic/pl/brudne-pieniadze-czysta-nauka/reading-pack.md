@@ -8,7 +8,7 @@
 
 **Title:** Brudne pieniądze, czysta nauka  
 **Subtitle:** Nauka, sponsor i sumienie  
-**Blurb:** Doktor Anna Kowalska staje przed pokusą finansowania badań nad słodzikami przez koncern i wybiera uczciwość naukową ponad wygodę kariery.
+**Blurb:** Anna Kowalska odkłada artykuł o sztucznych słodzikach, choć termin góruje nad biurkiem. Gdy profesor Nowak proponuje sponsorowanie badań, pokusa finansowego oddechu staje się realna. Naukowa uczciwość i presja kariery ścierają się w opowieści o tym, ile kosztuje trzymanie się zasad, gdy ktoś oferuje pomoc.
 
 **Genres:** science, article  
 **Cover family:** science  

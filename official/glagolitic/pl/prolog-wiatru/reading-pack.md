@@ -8,7 +8,7 @@
 
 **Title:** Prolog wiatru  
 **Subtitle:** Za kulisami teledysku  
-**Blurb:** Opowieść o nagraniu teledysku do „Kaze no Prologue” — od porannej plaży w Chiba po znaczenie wiatru i nowego początku w karierze Yumiko.
+**Blurb:** Yumiko ma nagrać teledysk o świcie na plaży w Chiba, tuż przy granicy miasta i oceanu. Zimny wiatr, sen na jawie i piosenka, która brzmi jak obietnica nowego początku. Opowieść o chwili, gdy kariera artystki zatrzymuje się między kolejnym ujęciem a pytaniem, dokąd właściwie zmierza.
 
 **Genres:** biography, short_story  
 **Cover family:** biography  

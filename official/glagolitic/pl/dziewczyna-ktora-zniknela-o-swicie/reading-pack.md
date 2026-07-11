@@ -8,7 +8,7 @@
 
 **Title:** Dziewczyna, która zniknęła o świcie  
 **Subtitle:** Śledztwo w pierwszych godzinach  
-**Blurb:** Policjantka Joanna analizuje zaginięcie osiemnastoletniej Agnieszki z Gdyni — od nagrania monitoringu po błędy procedur w kluczowych pierwszych godzinach.
+**Blurb:** Ośmiemnastoletnia Agnieszka wychodzi z klubu o świcie i znika bez śladu. Policjantka Joanna wraca do sprawy lat później, przeglądając nagrania, raporty i błędy pierwszych godzin. Śledztwo nie daje szybkich odpowiedzi — za to pokazuje, jak łatwo stracić czas, gdy wszyscy wierzą, że „sama wróci”.
 
 **Genres:** history, article  
 **Series:** Collection One  

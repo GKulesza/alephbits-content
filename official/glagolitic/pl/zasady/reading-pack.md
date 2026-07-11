@@ -8,7 +8,7 @@
 
 **Title:** Zasady  
 **Subtitle:** List o decyzjach bez wymówek  
-**Blurb:** Łukasz czyta osobisty mailing Pawła Kadysza o tym, dlaczego ciągłe „zastanawianie się” prowadzi do wymówek — i odkrywa pięć zasad działania zamiast wiecznego wyboru.
+**Blurb:** Łukasz czyta mailing Pawła Kadysza i rozpoznaje własny schemat: planowanie zamiast działania, wybór zamiast kroku. Pięć prostych reguł brzmi łatwo — dopóki nie trzeba je stosować tego samego ranka. Opowieść o prokrastynacji bez moralizowania i o tym, jak trudno zacząć od małej rzeczy.
 
 **Genres:** instruction, article  
 **Series:** Collection One  

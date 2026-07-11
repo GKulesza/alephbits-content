@@ -8,7 +8,7 @@
 
 **Title:** II. Oczy, które nie widzą  
 **Subtitle:** Z kolekcji CollectionFour  
-**Blurb:** Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zmiany. Kiedyś dzieci przychodziły do szkoły z ciekawością, z chęcią poznawania. Teraz przychodziły z oczami, które nie umiały patrzeć.
+**Blurb:** Pani Anna uczy czytać w zerówce od dwudziestu lat i widzi zmianę, której rodzice nie zawsze chcą słuchać. Dzieci patrzą na ekrany inaczej niż na stronę książki — a aplikacja, która „uczy”, nie zawsze uczy tego, co trzeba. Spokojna opowieść o obecności dorosłego przy pierwszych sylabach.
 
 **Genres:** short_story  
 **Series:** Collection Zero  

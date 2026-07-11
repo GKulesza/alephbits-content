@@ -8,7 +8,7 @@
 
 **Title:** 🌌 Pierwszy lot na Marsa  
 **Subtitle:** Z kolekcji CollectionZero  
-**Blurb:** **PIERWSZY LOT NA MARSA**
+**Blurb:** Mały Marek ogląda pierwsze zdjęcia Marsa z Vikinga, a dorosły wraca do laboratorium, gdzie wciąż analizuje skały z Czerwonej Planety. Między dziecięcymi marzeniami a doniesieniami o Cheyava Falls pojawia się pytanie, które nie chce odejść: czy jesteśmy sami we wszechświecie?
 
 **Genres:** popular_science  
 **Series:** Collection Zero  
