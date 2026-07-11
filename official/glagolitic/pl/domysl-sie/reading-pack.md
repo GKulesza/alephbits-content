@@ -214,45 +214,73 @@ Magda przytuliła się do niego. I po raz pierwszy od dawna poczuła, że nie mu
 
 ### Question 1
 
-**Question:** Jaki jest główny problem w relacji Magdy i Grześka według opowiadania?
+**Question:** Jaki problem mają Magda i Grzesiek?
 
 **Answers:**
-- A) Magda nie chce się przytulać po powrocie z pracy
-- B) Oboje unikają szczerej rozmowy o swoich potrzebach i winie
-- C) Grzesiek nie kupuje mleka mimo prośby
-- D) Magda nie lubi jazzu, który słucha Grzesiek
+- A) Unikają szczerej rozmowy o potrzebach
+- B) Magda nie lubi jazzu
+- C) Grzesiek nie kupuje mleka
+- D) Magda nie chce się przytulać
 
-**Correct:** B
-**Explanation:** Tekst wielokrotnie pokazuje, że oboje reagują urazą zamiast nazwać swoje uczucia i przeprosić.
-**Text reference:** nie umiała powiedzieć: "Przepraszam"
+**Correct:** A
+**Explanation:** Oboje reagują urazą zamiast mówić wprost.
+**Text reference:** nie umiała powiedzieć
 
 ### Question 2
 
-**Question:** Co Magda zrozumiała po historii opowiedzianej na spotkaniu Kapci?
+**Question:** Co Magda zrozumiała na spotkaniu Kapci?
 
 **Answers:**
-- A) Że powinna częściej kupować mleko
-- B) Że udawała zainteresowania, by przypodobać się Grześkowi
-- C) Że Grzesiek jest idealnym partnerem
-- D) Że jazz jest lepszy od popu
+- A) Udawała zainteresowania Grześkowi
+- B) Powinna częściej kupować mleko
+- C) Grzesiek jest idealny
+- D) Jazz jest lepszy od popu
 
-**Correct:** B
-**Explanation:** Przypomniała sobie, jak udawała zainteresowanie spacerami i jazzem z lęku przed odrzuceniem.
-**Text reference:** Udawała, że interesuje się jego pracą
+**Correct:** A
+**Explanation:** Przypomniała sobie udawanie zainteresowania spacerami i jazzem.
+**Text reference:** Udawała, że interesuje się
 
 ### Question 3
 
-**Question:** Jak kończy się opowiadanie w odniesieniu do relacji Magdy i Grześka?
+**Question:** Jak kończy się opowiadanie?
 
 **Answers:**
-- A) Rozstają się po spotkaniu Kapci
-- B) Zaczynają mówić wprost o potrzebach i pracować nad komunikacją
-- C) Grzesiek wyjeżdża do Krakowa
-- D) Magda wraca do udawania zainteresowań
+- A) Zaczynają mówić wprost o potrzebach
+- B) Rozstają się
+- C) Grzesiek wyjeżdża
+- D) Magda wraca do udawania
 
-**Correct:** B
-**Explanation:** Epilog opisuje, że rozmawiają o problemach, Grzesiek zapisuje prośby, a Magda mówi wprost, czego potrzebuje.
-**Text reference:** zaczęła mówić wprost, czego potrzebuje
+**Correct:** A
+**Explanation:** Epilog opisuje szczerą komunikację.
+**Text reference:** mówić wprost
+
+### Question 4
+
+**Question:** Co Grzesiek zaczyna robić po zmianie?
+
+**Answers:**
+- A) Zapisuje prośby Magdy
+- B) Sprzedaje jazzowe płyty
+- C) Przeprowadza się
+- D) Przestaje słuchać muzyki
+
+**Correct:** A
+**Explanation:** Grzesiek zapisuje prośby, by ich nie zapomnieć.
+**Text reference:** zapisuje prośby
+
+### Question 5
+
+**Question:** Dlaczego Magda udawała zainteresowanie jazzem?
+
+**Answers:**
+- A) Bała się odrzucenia
+- B) Uwielbiała ten gatunek
+- C) Grzesiek tego wymagał
+- D) Chciała zostać muzykiem
+
+**Correct:** A
+**Explanation:** Udawała z lęku przed odrzuceniem.
+**Text reference:** z lęku przed odrzuceniem
 
 ---
 

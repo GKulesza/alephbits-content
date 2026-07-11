@@ -128,37 +128,65 @@ Tego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać now
 - C) Na Plantach
 - D) Przy Wiśle
 
-**Correct:** A  
-**Explanation:** Autor pisze: „Na Małym Rynku zatrzymałem się przy studni.”  
-**Text reference:** „Na Małym Rynku zatrzymałem się przy studni.”
+**Correct:** A
+**Explanation:** Autor pisze o Małym Rynku.
+**Text reference:** Na Małym Rynku
 
 ### Question 2
 
 **Question:** Co autor kupił w kawiarni?
 
 **Answers:**
-- A) Kawę
-- B) Bułkę
+- A) Bułkę
+- B) Kawę
 - C) Wodę
 - D) Ciastko
 
-**Correct:** B  
-**Explanation:** W tekście pada zdanie: „Kupiłem bułkę i jadłem ją powoli.”  
-**Text reference:** „Kupiłem bułkę i jadłem ją powoli.”
+**Correct:** A
+**Explanation:** Kupił bułkę i jadł ją powoli.
+**Text reference:** Kupiłem bułkę
 
 ### Question 3
 
-**Question:** Jaki wniosek wyciąga autor na końcu lekcji?
+**Question:** Co autor widzi na wzgórzu?
 
 **Answers:**
-- A) Czytanie o znanym miejscu pomaga zapamiętać nowe znaki
+- A) Wawel
+- B) Planty
+- C) Muzeum
+- D) Most
+
+**Correct:** A
+**Explanation:** Na wzgórzu zobaczył Wawel.
+**Text reference:** Wawel
+
+### Question 4
+
+**Question:** Co słyszy autor idąc do Plant?
+
+**Answers:**
+- A) Grajków na skrzypcach
+- B) Dzwony kościelne
+- C) Syrenę tramwaju
+- D) Fale Wisły
+
+**Correct:** A
+**Explanation:** Usłyszał grajków grających starą melodię.
+**Text reference:** grajków
+
+### Question 5
+
+**Question:** Jaki wniosek wyciąga autor na końcu?
+
+**Answers:**
+- A) Czytanie o znanym miejscu pomaga zapamiętać znaki
 - B) Najlepiej uczyć się tylko w muzeum
 - C) Kraków nie ma historii
 - D) Grajkowie przeszkadzają w nauce
 
-**Correct:** A  
-**Explanation:** Ostatni akapit podsumowuje korzyść z czytania o znanym miejscu.  
-**Text reference:** „czytanie o znanym miejscu pomaga zapamiętać nowe znaki”
+**Correct:** A
+**Explanation:** Ostatni akapit podsumowuje korzyść z czytania o znanym miejscu.
+**Text reference:** pomaga zapamiętać nowe znaki
 
 ---
 

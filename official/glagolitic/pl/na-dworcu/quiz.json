@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — Na dworcu",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „Na dworcu”?",
+      "question": "Skąd Marek jedzie pociągiem?",
       "answers": [
-        "Marek jechał pociągiem z Poznania do Gdańska. Miał czterdzieści siedem lat, wali…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Z Poznania do Gdańska",
+        "Z Warszawy do Krakowa",
+        "Z Gdyni do Szczecina",
+        "Z Wrocławia do Berlina"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Tekst mówi wprost o trasie z Poznania do Gdańska."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Na jakim dworcu Marek postanawia przejść się po holu?",
       "answers": [
-        "adult",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Gdańsk Główny",
+        "Poznań Główny",
+        "Wrocław Główny",
+        "Tczew"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: adult."
+      "explanation": "Marek stoi na peronie dworca Gdańsk Główny."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "Co ojciec Mareka mówi o dawnym jeździe koleją?",
       "answers": [
-        "short_story",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Że bycie na dworcu znaczyło być w mieście",
+        "Że dworce zawsze były galeriami",
+        "Że nigdy nie jeździł pociągiem",
+        "Że podróże koleją się skończyły"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii short_story."
+      "explanation": "Ojciec wspomina, że kiedyś bycie na dworcu znaczyło być w mieście."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Co Marek zapisuje w notatkach w telefonie?",
       "answers": [
-        "6",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Że dworzec to próg podróży",
+        "Że nie lubi pociągów",
+        "Że wraca do Poznania na stałe",
+        "Że Gdańsk jest brzydki"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 6 minut."
+      "explanation": "Notatka mówi, że dworzec to próg, nie tylko budynek."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „Na dworcu” kończy się zdaniem domykającym opowieść?",
+      "question": "Dlaczego Marek broni Poznania w komentarzach?",
       "answers": [
-        "tak",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Bo stamtąd pochodzi",
+        "Bo ma najpiękniejszy dworzec w Polsce",
+        "Bo tam pracuje",
+        "Bo nigdy nie był w Gdańsku"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst zawiera domkniętą narrację."
+      "explanation": "Marek pochodzi z Poznania i broni go w sporze o dworce."
     }
   ]
 }

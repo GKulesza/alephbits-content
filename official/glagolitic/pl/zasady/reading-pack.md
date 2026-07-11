@@ -168,45 +168,73 @@ I to wystarczyło, żeby zacząć.
 
 ### Question 1
 
-**Question:** Jaki problem Kadysz nazywa w otwarciu listu?
+**Question:** Jaki problem Kadysz nazywa w liście?
 
 **Answers:**
-- A) Brak czasu na czytanie książek
-- B) Ciągłe postanawianie sobie rzeczy, z których nic nie wynika
-- C) Zbyt wiele spotkań w biurze
-- D) Brak dostępu do internetu
+- A) Postanawiamy sobie rzeczy, z których nic nie wynika
+- B) Brak czasu na czytanie
+- C) Zbyt wiele spotkań
+- D) Brak internetu
 
-**Correct:** B
-**Explanation:** Cytowany fragment pyta, jak często postanawiamy sobie coś, z czego nic nie wychodzi.
-**Text reference:** z czego potem nic nie wychodzi
+**Correct:** A
+**Explanation:** List pyta, jak często postanawiamy coś, z czego nic nie wychodzi.
+**Text reference:** nic nie wychodzi
 
 ### Question 2
 
-**Question:** Według listu, co dzieje się, gdy dajemy sobie wybór?
+**Question:** Co dzieje się, gdy dajemy sobie wybór?
 
 **Answers:**
-- A) Umysł natychmiast znajduje wymówki, by czegoś nie zrobić
-- B) Zawsze wybieramy najtrudniejsze zadanie
+- A) Umysł znajduje wymówki
+- B) Zawsze wybieramy trudne zadanie
 - C) Motywacja rośnie bez limitu
-- D) Nie ma to wpływu na działanie
+- D) Nie ma to wpływu
 
 **Correct:** A
-**Explanation:** Kadysz pisze, że przy zastanawianiu się umysł szybko znajduje tysiąc wymówek.
-**Text reference:** tysiąc wymówek by czegoś nie zrobić
+**Explanation:** Przy zastanawianiu się umysł szybko znajduje wymówki.
+**Text reference:** tysiąc wymówek
 
 ### Question 3
 
-**Question:** Co Łukasz robi zamiast pracować, gdy zaczyna się wątpić?
+**Question:** Co Łukasz robi zamiast pracować?
 
 **Answers:**
-- A) Szuka w internecie nowych aplikacji i metod
-- B) Idzie spać przez cały dzień
-- C) Dzwoni do szefa po urlop
+- A) Szuka w internecie nowych metod
+- B) Idzie spać cały dzień
+- C) Dzwoni po urlop
 - D) Sprzedaje komputer
 
 **Correct:** A
-**Explanation:** Zamiast pracować czyta o pracy — nowe aplikacje i lifehacki.
+**Explanation:** Zamiast pracować czyta o pracy w internecie.
 **Text reference:** szukał w internecie
+
+### Question 4
+
+**Question:** Kto napisał list w opowieści?
+
+**Answers:**
+- A) Kadysz
+- B) Łukasz
+- C) Maria
+- D) Adam
+
+**Correct:** A
+**Explanation:** List otwiera cytat od Kadysza.
+**Text reference:** Kadysz
+
+### Question 5
+
+**Question:** Co Łukasz robi, gdy zaczyna wątpić?
+
+**Answers:**
+- A) Czyta o aplikacjach i lifehackach
+- B) Od razu kończy pracę
+- C) Jedzie na urlop
+- D) Zatrudnia asystenta
+
+**Correct:** A
+**Explanation:** Szuka nowych aplikacji zamiast działać.
+**Text reference:** nowe aplikacje
 
 ---
 

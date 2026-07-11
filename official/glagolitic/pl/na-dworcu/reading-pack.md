@@ -145,69 +145,74 @@ Uśmiechnął się. Pociąg zwolnił. Za oknem pojawiła się Gdynia. I kolejny 
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — Na dworcu
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „Na dworcu”?
+**Question:** Skąd Marek jedzie pociągiem?
 
 **Answers:**
-- A) Marek jechał pociągiem z Poznania do Gdańska. Miał czterdzieści siedem lat, wali…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Z Poznania do Gdańska
+- B) Z Warszawy do Krakowa
+- C) Z Gdyni do Szczecina
+- D) Z Wrocławia do Berlina
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Tekst mówi wprost o trasie z Poznania do Gdańska.
+**Text reference:** Marek jechał pociągiem z Poznania do Gdańska
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Na jakim dworcu Marek postanawia przejść się po holu?
 
 **Answers:**
-- A) adult
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Gdańsk Główny
+- B) Poznań Główny
+- C) Wrocław Główny
+- D) Tczew
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: adult.
+**Explanation:** Marek stoi na peronie dworca Gdańsk Główny.
+**Text reference:** dworca Gdańsk Główny
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Co ojciec Mareka mówi o dawnym jeździe koleją?
 
 **Answers:**
-- A) short_story
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Że bycie na dworcu znaczyło być w mieście
+- B) Że dworce zawsze były galeriami
+- C) Że nigdy nie jeździł pociągiem
+- D) Że podróże koleją się skończyły
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii short_story.
+**Explanation:** Ojciec wspomina, że kiedyś bycie na dworcu znaczyło być w mieście.
+**Text reference:** Było się na dworcu
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Co Marek zapisuje w notatkach w telefonie?
 
 **Answers:**
-- A) 6
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Że dworzec to próg podróży
+- B) Że nie lubi pociągów
+- C) Że wraca do Poznania na stałe
+- D) Że Gdańsk jest brzydki
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 6 minut.
+**Explanation:** Notatka mówi, że dworzec to próg, nie tylko budynek.
+**Text reference:** Dworzec to próg
 
 ### Question 5
 
-**Question:** Czy tekst „Na dworcu” kończy się zdaniem domykającym opowieść?
+**Question:** Dlaczego Marek broni Poznania w komentarzach?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Bo stamtąd pochodzi
+- B) Bo ma najpiękniejszy dworzec w Polsce
+- C) Bo tam pracuje
+- D) Bo nigdy nie był w Gdańsku
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Marek pochodzi z Poznania i broni go w sporze o dworce.
+**Text reference:** Marek pochodził z Poznania

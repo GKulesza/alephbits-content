@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — 💬 Rozmowa z lekarzem",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „💬 Rozmowa z lekarzem”?",
+      "question": "Co alarmuje Kasię przed wizytą u lekarza?",
       "answers": [
-        "Kasia miała trzydzieści dwa lata, dwójkę dzieci, pracę biurową i nogi, które wie…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Pierwszy gruby żylak",
+        "Złamanie nogi",
+        "Alergia skórna",
+        "Skurcz ramienia"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Pojawia się pierwszy gruby, kręty żylak."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Jak działają zastawki w żyłach według lekarza?",
       "answers": [
-        "family",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Otwierają się tylko w górę",
+        "Puszczają krew w obie strony",
+        "Zamykają żyłę na stałe",
+        "Nie występują u ludzi"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: family."
+      "explanation": "Zastawki otwierają się tylko w kierunku serca."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "Na czym polega skleroterapia?",
       "answers": [
-        "instruction",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Wstrzyknięcie płynu zamykającego żyłę",
+        "Operacja w szpitalu z narkozą",
+        "Stosowanie kremu na pajączki",
+        "Gorąca kąpiel na nogi"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii instruction."
+      "explanation": "Pianka wypiera krew i zamyka naczynie."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Co Kasia dostaje wychodząc z pierwszej wizyty?",
       "answers": [
-        "8",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Skierowanie i zalecenia",
+        "Zwolnienie lekarskie",
+        "Tylko receptę na krem",
+        "Umowę na operację"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 8 minut."
+      "explanation": "Wychodzi z kartką zaleceń i skierowaniem na USG."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „💬 Rozmowa z lekarzem” kończy się zdaniem domykającym opowieść?",
+      "question": "Jak wyglądają nogi Kasi po trzech miesiącach?",
       "answers": [
-        "tak",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Bez śladu żylaków",
+        "Gorzej niż wcześniej",
+        "Nadal bardzo bolą",
+        "Wymagają amputacji"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst zawiera domkniętą narrację."
+      "explanation": "Na kontroli nie ma śladu po żylakach."
     }
   ]
 }

@@ -269,69 +269,74 @@ Kasia skinęła głową. Wyszła z gabinetu i wciągnęła w płuca wiosenne pow
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — 💬 Rozmowa z lekarzem
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „💬 Rozmowa z lekarzem”?
+**Question:** Co alarmuje Kasię przed wizytą u lekarza?
 
 **Answers:**
-- A) Kasia miała trzydzieści dwa lata, dwójkę dzieci, pracę biurową i nogi, które wie…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Pierwszy gruby żylak
+- B) Złamanie nogi
+- C) Alergia skórna
+- D) Skurcz ramienia
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Pojawia się pierwszy gruby, kręty żylak.
+**Text reference:** pierwszy żylak
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Jak działają zastawki w żyłach według lekarza?
 
 **Answers:**
-- A) family
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Otwierają się tylko w górę
+- B) Puszczają krew w obie strony
+- C) Zamykają żyłę na stałe
+- D) Nie występują u ludzi
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: family.
+**Explanation:** Zastawki otwierają się tylko w kierunku serca.
+**Text reference:** tylko w jednym kierunku: w górę
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Na czym polega skleroterapia?
 
 **Answers:**
-- A) instruction
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Wstrzyknięcie płynu zamykającego żyłę
+- B) Operacja w szpitalu z narkozą
+- C) Stosowanie kremu na pajączki
+- D) Gorąca kąpiel na nogi
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii instruction.
+**Explanation:** Pianka wypiera krew i zamyka naczynie.
+**Text reference:** wstrzyknięciu do żylaka specjalnego płynu
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Co Kasia dostaje wychodząc z pierwszej wizyty?
 
 **Answers:**
-- A) 8
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Skierowanie i zalecenia
+- B) Zwolnienie lekarskie
+- C) Tylko receptę na krem
+- D) Umowę na operację
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 8 minut.
+**Explanation:** Wychodzi z kartką zaleceń i skierowaniem na USG.
+**Text reference:** skierowaniem na USG
 
 ### Question 5
 
-**Question:** Czy tekst „💬 Rozmowa z lekarzem” kończy się zdaniem domykającym opowieść?
+**Question:** Jak wyglądają nogi Kasi po trzech miesiącach?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Bez śladu żylaków
+- B) Gorzej niż wcześniej
+- C) Nadal bardzo bolą
+- D) Wymagają amputacji
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Na kontroli nie ma śladu po żylakach.
+**Text reference:** Nie miała śladu po żylakach

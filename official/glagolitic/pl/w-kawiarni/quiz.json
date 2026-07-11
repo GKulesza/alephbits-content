@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — ☕ W kawiarni",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „☕ W kawiarni”?",
+      "question": "Po co Marek przychodzi do kawiarni?",
       "answers": [
-        "Poranek w Warszawie pachniał kawą. Nie tą z automatu w biurze, nie tą z ekspresu…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Żeby mieć chwilę innego życia",
+        "Żeby odebrać pensję",
+        "Żeby pracować za barem",
+        "Żeby kupić kawę na wynos dla syna"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Marek szuka miejsca, w którym może udawać kogoś innego."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Co Marek zamawia przy barze?",
       "answers": [
-        "adult",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Cappuccino z mlekiem owsianym",
+        "Herbatę z cytryną",
+        "Podwójne espresso",
+        "Sernik"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: adult."
+      "explanation": "Zamawia duże cappuccino z mlekiem owsianym."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "O kim Marek myśli, czekając w kawiarni?",
       "answers": [
-        "short_story",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "O synu Kubie",
+        "O szefie z biura",
+        "O matce",
+        "O lekarzu"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii short_story."
+      "explanation": "Wspomina rozmowę, w której Kuba pyta, czy tata wróci."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Co baristka daje Marekowi przy drugiej wizycie?",
       "answers": [
-        "6",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Kawę na koszt firmy",
+        "Rachunek do zapłaty",
+        "Wizytówkę z pracy",
+        "Sernik gratis"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 6 minut."
+      "explanation": "Wraca z kubkiem i mówi: „Na koszt firmy”."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „☕ W kawiarni” kończy się zdaniem domykającym opowieść?",
+      "question": "Co Marek robi z wizytówką fundacji?",
       "answers": [
-        "tak",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Dzwoni i pyta, jak zacząć od nowa",
+        "Wyrzuca ją w kosz",
+        "Oddaje baristce",
+        "Wysyła SMS do byłej żony"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst zawiera domkniętą narrację."
+      "explanation": "Na końcu dzwoni i pyta o fundację."
     }
   ]
 }

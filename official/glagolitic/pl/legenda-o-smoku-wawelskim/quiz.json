@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — 🏰 Legenda o Smoku Wawelskim",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „🏰 Legenda o Smoku Wawelskim”?",
+      "question": "Kim jest Skuba?",
       "answers": [
-        "Dawno, dawno temu, kiedy Wisła płynęła jeszcze szerzej niż dziś, a Kraków dopier…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Szewczykiem",
+        "Królem",
+        "Rycerzem od razu",
+        "Kupcem z rynku"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Skuba to prosty szewczyk z Krakowa."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Co Skuba wkłada do barana?",
       "answers": [
-        "family",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Siarkę i smołę",
+        "Złoto",
+        "Truciznę z apteki",
+        "Kamienie"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: family."
+      "explanation": "Wypełnia barana siarką i smołą."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "Dlaczego smok ginie?",
       "answers": [
-        "legend",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Pije za dużo wody i pęka",
+        "Spada z wieży",
+        "Ginie od miecza",
+        "Ucieka w góry"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii legend."
+      "explanation": "Pił z Wisły, aż pękł."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Jaki tytuł dostaje Skuba?",
       "answers": [
-        "8",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Szczyciel Smoka",
+        "Król Krakowa",
+        "Wódz wojska",
+        "Strażnik Wisły"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 8 minut."
+      "explanation": "Król nadaje mu tytuł Szczyciela Smoka."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „🏰 Legenda o Smoku Wawelskim” kończy się zdaniem domykającym opowieść?",
+      "question": "Co ogłasza król na końcu?",
       "answers": [
-        "tak",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Wielkie wesele",
+        "Nową wojnę",
+        "Zburzenie zamku",
+        "Zbanowanie Skuby"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst zawiera domkniętą narrację."
+      "explanation": "Król ogłasza wielkie wesele ze księżniczką Wandą."
     }
   ]
 }

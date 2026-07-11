@@ -41,25 +41,49 @@
           "Przy Wiśle"
         ],
         "correctIndex": 0,
-        "explanation": "Autor pisze: „Na Małym Rynku zatrzymałem się przy studni.”"
+        "explanation": "Autor pisze o Małym Rynku."
       },
       {
         "type": "single_choice",
         "question": "Co autor kupił w kawiarni?",
         "answers": [
-          "Kawę",
           "Bułkę",
+          "Kawę",
           "Wodę",
           "Ciastko"
         ],
-        "correctIndex": 1,
-        "explanation": "W tekście pada zdanie: „Kupiłem bułkę i jadłem ją powoli.”"
+        "correctIndex": 0,
+        "explanation": "Kupił bułkę i jadł ją powoli."
       },
       {
         "type": "single_choice",
-        "question": "Jaki wniosek wyciąga autor na końcu lekcji?",
+        "question": "Co autor widzi na wzgórzu?",
         "answers": [
-          "Czytanie o znanym miejscu pomaga zapamiętać nowe znaki",
+          "Wawel",
+          "Planty",
+          "Muzeum",
+          "Most"
+        ],
+        "correctIndex": 0,
+        "explanation": "Na wzgórzu zobaczył Wawel."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co słyszy autor idąc do Plant?",
+        "answers": [
+          "Grajków na skrzypcach",
+          "Dzwony kościelne",
+          "Syrenę tramwaju",
+          "Fale Wisły"
+        ],
+        "correctIndex": 0,
+        "explanation": "Usłyszał grajków grających starą melodię."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaki wniosek wyciąga autor na końcu?",
+        "answers": [
+          "Czytanie o znanym miejscu pomaga zapamiętać znaki",
           "Najlepiej uczyć się tylko w muzeum",
           "Kraków nie ma historii",
           "Grajkowie przeszkadzają w nauce"

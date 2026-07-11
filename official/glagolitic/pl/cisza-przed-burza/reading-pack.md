@@ -207,42 +207,70 @@ A pod nimi – napis, który mówi wszystko: "Tu zaczęła się historia zwycię
 **Question:** Jakie podejście Rejewski proponuje wobec Enigmy?
 
 **Answers:**
-- A) Analizować wyłącznie przechwycone teksty
-- B) Zrozumieć działanie urządzenia — to matematyka, nie język
-- C) Czekać na komputer cyfrowy
-- D) Zignorować dokumentację z Francji
+- A) Zrozumieć działanie urządzenia
+- B) Analizować tylko teksty
+- C) Czekać na komputer
+- D) Ignorować dokumentację
 
-**Correct:** B
-**Explanation:** Rejewski mówi, że trzeba zrozumieć maszynę, bo to matematyka.
-**Text reference:** Musimy zrozumieć, jak działa samo urządzenie
+**Correct:** A
+**Explanation:** Rejewski mówi, że trzeba zrozumieć maszynę — to matematyka.
+**Text reference:** zrozumieć, jak działa samo urządzenie
 
 ### Question 2
 
-**Question:** Jaką słabość Niemców odkrywa Rejewski w schematach?
+**Question:** Jaką słabość Niemców odkrywa Rejewski?
 
 **Answers:**
-- A) Losowe połączenia bez powtarzalności
-- B) Porządek alfabetyczny w połączeniach
+- A) Porządek alfabetyczny w połączeniach
+- B) Losowe połączenia
 - C) Brak wirników
-- D) Używanie tylko jednego klucza rocznie
+- D) Jeden klucz rocznie
 
-**Correct:** B
-**Explanation:** Tekst wskazuje, że konstruktorzy wybrali najprostsze rozwiązanie — porządek alfabetyczny.
+**Correct:** A
+**Explanation:** Konstruktorzy wybrali porządek alfabetyczny.
 **Text reference:** Porządek alfabetyczny
 
 ### Question 3
 
-**Question:** Czym jest „bomba kryptologiczna” w tekście?
+**Question:** Czym jest bomba kryptologiczna?
 
 **Answers:**
-- A) Bronią palną używaną przez wywiad
-- B) Elektromechanicznym urządzeniem symulującym wiele Enigm
-- C) Meteorologicznym instrumentem
-- D) Książką instruktażową dla żołnierzy
+- A) Urządzeniem symulującym Enigmy
+- B) Bronią palną
+- C) Instrumentem pogodowym
+- D) Książką instruktażową
 
-**Correct:** B
-**Explanation:** Bomba symuluje działanie kilku Enigm i automatycznie sprawdza kombinacje.
+**Correct:** A
+**Explanation:** Bomba symuluje działanie wielu Enigm.
 **Text reference:** elektromechaniczne urządzenie
+
+### Question 4
+
+**Question:** Kto jest głównym bohaterem opowieści?
+
+**Answers:**
+- A) Marian Rejewski
+- B) Alan Turing
+- C) Hitler
+- D) Generał Sikorski
+
+**Correct:** A
+**Explanation:** Rejewski prowadzi prace nad łamaniem Enigmy.
+**Text reference:** Rejewski
+
+### Question 5
+
+**Question:** Co Rejewski mówi o Enigmie na początku?
+
+**Answers:**
+- A) To matematyka, nie język
+- B) To niemożliwe do złamania
+- C) To tylko legenda
+- D) To amerykański wynalazek
+
+**Correct:** A
+**Explanation:** Podkreśla, że trzeba myśleć matematycznie.
+**Text reference:** to matematyka, nie język
 
 ---
 

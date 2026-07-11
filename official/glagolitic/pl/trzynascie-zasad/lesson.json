@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Jak tekst wyjaśnia polski uśmiech wobec amerykańskiego?",
+        "question": "Jak tekst wyjaśnia polski uśmiech?",
         "answers": [
-          "Polacy uśmiehają się stale jak kelnerzy w USA",
-          "Uśmiech nie jest domyślny — pojawia się, gdy jest ku temu powód",
-          "Uśmiech jest zakazany w miejscach publicznych",
+          "Nie jest domyślny — pojawia się z powodem",
+          "Polacy uśmiechają się stale",
+          "Uśmiech jest zakazany",
           "Uśmiech zawsze oznacza flirt"
         ],
-        "correctIndex": 1,
-        "explanation": "Przyjaciel tłumaczy, że w Polsce uśmiech to nie domyślne ustawienie twarzy."
+        "correctIndex": 0,
+        "explanation": "Przyjaciel tłumaczy, że uśmiech to nie domyślne ustawienie twarzy."
       },
       {
         "type": "single_choice",
-        "question": "Dlaczego bohaterka czuje się zagubiona na początku?",
+        "question": "Dlaczego bohaterka czuje się zagubiona?",
         "answers": [
-          "Bo nie zna żadnych polskich słów",
-          "Bo jej amerykański uśmiech nie otwiera kontaktu tak jak w Kalifornii",
-          "Bo nie ma pieniędzy na kawę",
-          "Bo przyjechała do Krakowa zamiast do Warszawy"
+          "Amerykański uśmiech nie otwiera kontaktu",
+          "Nie zna polskich słów",
+          "Nie ma pieniędzy",
+          "Jechała do Krakowa"
         ],
-        "correctIndex": 1,
-        "explanation": "Ludzie nie reagują na jej ciągły uśmiech; przyjaciel radzi przestać „wyglądać jak psychol”."
+        "correctIndex": 0,
+        "explanation": "Ludzie nie reagują na jej ciągły uśmiech."
       },
       {
         "type": "single_choice",
-        "question": "Jaki gatunek tekstu to jest?",
+        "question": "Co robią Polacy wchodząc do domu?",
         "answers": [
-          "Suchy raport policyjny",
-          "Poradnik kulturowy w formie opowieści",
-          "Wiersz epicki",
-          "Transkrypt sądowy"
+          "Zdejmują buty",
+          "Zostawiają buty na nogach",
+          "Myją okna",
+          "Jedzą obiad"
         ],
-        "correctIndex": 1,
-        "explanation": "Tekst łączy narrację z kolejnymi „zasadami” obyczajów w Polsce."
+        "correctIndex": 0,
+        "explanation": "Zasada dziesiąta mówi o zdejmowaniu butów w domu."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co bohaterka uważa za małe zwycięstwo?",
+        "answers": [
+          "Powiedzenie „dziękuję” po polsku",
+          "Kupno kawy",
+          "Jazda metrem",
+          "Znalezienie hotelu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pierwsze „dziękuję” w sklepie to małe zwycięstwo."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaka jest różnica między turystą a mieszkańcem?",
+        "answers": [
+          "Mieszkaniec akceptuje kraj takim, jaki jest",
+          "Turyści uczą się polskiego",
+          "Mieszkańcy nie uśmiechają się",
+          "Turyści zawsze wracają"
+        ],
+        "correctIndex": 0,
+        "explanation": "Turysta domaga się, by kraj był jak jego własny; mieszkaniec akceptuje."
       }
     ]
   },

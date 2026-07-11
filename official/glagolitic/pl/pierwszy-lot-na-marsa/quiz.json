@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — 🌌 Pierwszy lot na Marsa",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „🌌 Pierwszy lot na Marsa”?",
+      "question": "Ile lat ma Marek, gdy słyszy o Marsie?",
       "answers": [
-        "Marek miał osiem lat, gdy po raz pierwszy usłyszał o Marsie. Było to w 1976 roku…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Osiem",
+        "Szesnaście",
+        "Sześćdziesiąt",
+        "Trzydzieści"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Co Marek widzi na pierwszym zdjęciu z Viking?",
       "answers": [
-        "family",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Coś jak twarz",
+        "Kanały wody",
+        "Miasto",
+        "Statek kosmiczny"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: family."
+      "explanation": "Wskazuje formację skalną wyglądającą jak twarz."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "Co odkrywa łazik Perseverance w kraterze Jezero?",
       "answers": [
-        "popular_science",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Starożytną deltę rzeki",
+        "Bazę obcych",
+        "Lodowiec",
+        "Wulkan"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii popular_science."
+      "explanation": "Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Jak nazywa się skała z okrągłymi plamami?",
       "answers": [
-        "5",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Cheyava Falls",
+        "ALH84001",
+        "Twarz z Cydonii",
+        "Viking Rock"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 5 minut."
+      "explanation": "Perseverance znalazł skałę Cheyava Falls."
     },
     {
       "type": "single_choice",
-      "question": "Czy tekst „🌌 Pierwszy lot na Marsa” kończy się zdaniem domykającym opowieść?",
+      "question": "Co ojciec mówi o błędzie z kanałami na Marsie?",
       "answers": [
-        "tak",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Sprawił, że ludzie zaczęli marzyć",
+        "Udowodnił, że na Marsie jest życie",
+        "Zniszczył astronomię",
+        "Był ważniejszy niż prawda"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst zawiera domkniętą narrację."
+      "explanation": "Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć."
     }
   ]
 }

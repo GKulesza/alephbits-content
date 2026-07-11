@@ -3,39 +3,63 @@
   "questions": [
     {
       "type": "single_choice",
-      "question": "Dlaczego Anastazja przyjeżdża do Polski?",
+      "question": "Dlaczego Anastazja jedzie do Polski?",
       "answers": [
-        "By odwiedzić rodzinę w Jełaniu",
-        "By nauczyć się polskiego bez praktycznego powodu kariery",
-        "By studiować medycynę",
-        "By pracować w taxi"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tekst mówi wprost, że nie ma tu rodziny ani planów kariery — chce mieć język „w sobie”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Skąd pochodzi Anastazja i gdzie mieszkała przed przyjazdem?",
-      "answers": [
-        "Z Polski, mieszkała w Krakowie",
-        "Z Rosji, mieszkała w Niemczech",
-        "Z USA, mieszkała we Francji",
-        "Z Ukrainy, mieszkała w Czechach"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mówi kierowcy, że jest z Rosji, ale mieszka w Niemczech od dziewięciu lat."
-    },
-    {
-      "type": "single_choice",
-      "question": "Jaką książkę czyta Anastazja w pokoju na Pradze?",
-      "answers": [
-        "„Lalkę” Bolesława Prusa",
-        "„Quo vadis”",
-        "„Pan Tadeusza” w tłumaczeniu",
-        "Podręcznik gramatyki niemieckiej"
+        "Chce nauczyć się polskiego",
+        "Odwiedza rodzinę w Jełaniu",
+        "Studiuje medycynę",
+        "Pracuje w taxi"
       ],
       "correctIndex": 0,
-      "explanation": "Wynajęty pokój i lektura „Lalki” w oryginale są opisane wprost."
+      "explanation": "Nie ma tu rodziny ani planów kariery — chce język „w sobie”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi Anastazja?",
+      "answers": [
+        "Z Rosji, mieszka w Niemczech",
+        "Z Polski",
+        "Z USA",
+        "Z Ukrainy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi kierowcy, że jest z Rosji, ale mieszka w Niemczech."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką książkę czyta w pokoju na Pradze?",
+      "answers": [
+        "„Lalkę” Prusa",
+        "„Quo vadis”",
+        "„Pana Tadeusza”",
+        "Podręcznik gramatyki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czyta „Lalkę” w oryginale."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie wynajmuje pokój?",
+      "answers": [
+        "Na Pradze w Warszawie",
+        "W Jełaniu",
+        "W Krakowie",
+        "W Berlinie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wynajęty pokój na Pradze jest opisany wprost."
+    },
+    {
+      "type": "single_choice",
+      "question": "Od ilu lat mieszka poza Rosją?",
+      "answers": [
+        "Od dziewięciu lat",
+        "Od roku",
+        "Od dwudziestu lat",
+        "Od trzech miesięcy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mieszka w Niemczech od dziewięciu lat."
     }
   ]
 }

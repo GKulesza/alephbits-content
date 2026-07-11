@@ -196,45 +196,73 @@ I może właśnie dlatego tajemnica wciąż trwała.
 
 ### Question 1
 
-**Question:** Co Helena znajduje w archiwach Dworca Głównego w Warszawie?
+**Question:** Co Helena znajduje w archiwum Dworca Głównego?
 
 **Answers:**
-- A) Plany nowoczesnego centrum przesiadkowego z 2024 roku
-- B) Dokument z 1889 roku z adnotacjami o „systemie rezonansowym”
-- C) List od Nikola Tesla
-- D) Zdjęcia oświetlenia gazowego bez adnotacji
+- A) Dokument z 1889 o systemie rezonansowym
+- B) Plany z 2024 roku
+- C) List od Tesli
+- D) Zdjęcia bez adnotacji
 
-**Correct:** B
-**Explanation:** Natrafia na projekt techniczny z 1889 roku z odręczną adnotacją o systemie rezonansowym.
+**Correct:** A
+**Explanation:** Natrafia na projekt z adnotacją o systemie rezonansowym.
 **Text reference:** System rezonansowy nr 4
 
 ### Question 2
 
-**Question:** Jaki wzorzec Helena dostrzega w dokumentach z różnych miast?
+**Question:** Jaki wzorzec Helena widzi w innych miastach?
 
 **Answers:**
-- A) Wszystkie dworce miały identyczne zegary
-- B) Podobne tajne systemy i oznaczenia wyprzedzające oficjalną elektryczność
-- C) Brak jakichkolwiek powtarzalnych elementów
-- D) Jedynie projekty oświetlenia gazowego bez adnotacji
+- A) Tajne systemy sprzed ery elektrycznej
+- B) Identyczne zegary
+- C) Brak powtarzalności
+- D) Tylko oświetlenie gazowe
 
-**Correct:** B
-**Explanation:** W Krakowie, Poznaniu i Wrocławiu widzi te same nietypowe systemy i daty sprzed ery elektrycznej.
+**Correct:** A
+**Explanation:** W Krakowie, Poznaniu i Wrocławiu widzi podobne systemy.
 **Text reference:** systemy, które nie powinny istnieć
 
 ### Question 3
 
-**Question:** Jaką reakcję ma Helena, gdy dowody się mnożą?
+**Question:** Jak reaguje Helena na dowody?
 
 **Answers:**
-- A) Od razu publikuje wyniki w mediach
-- B) Powtarza sobie, że to niemożliwe, mimo narastających dowodów
-- C) Porzuca zawód architekta
+- A) Powtarza, że to niemożliwe
+- B) Od razu publikuje w mediach
+- C) Porzuca zawód
 - D) Udaje, że nic nie znalazła
 
-**Correct:** B
-**Explanation:** Wielokrotnie mówi „to niemożliwe”, choć dowody z kolejnych archiwów się kumulują.
-**Text reference:** To niemożliwe – powtarzała sobie
+**Correct:** A
+**Explanation:** Wielokrotnie mówi „to niemożliwe”, choć dowody rosną.
+**Text reference:** To niemożliwe
+
+### Question 4
+
+**Question:** Kim jest Helena?
+
+**Answers:**
+- A) Architektką badającą archiwa
+- B) Dziennikarką
+- C) Kolejarką
+- D) Studentką medycyny
+
+**Correct:** A
+**Explanation:** Helena przeszukuje archiwa dworców.
+**Text reference:** Helena
+
+### Question 5
+
+**Question:** W którym mieście zaczyna poszukiwania?
+
+**Answers:**
+- A) W Warszawie
+- B) W Krakowie
+- C) W Gdańsku
+- D) We Wrocławiu
+
+**Correct:** A
+**Explanation:** Zaczyna od archiwów Dworca Głównego w Warszawie.
+**Text reference:** Dworca Głównego w Warszawie
 
 ---
 

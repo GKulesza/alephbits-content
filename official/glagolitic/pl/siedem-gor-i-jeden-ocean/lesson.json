@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Co zaskakuje Marka w nagłówkach z 2022 roku?",
+        "question": "Co zaskakuje Marka w nagłówkach?",
         "answers": [
-          "Że Polska kupiła tysiąc czołgów od Korei",
-          "Że Korea Południowa kupiła od Polski tysiąc czołgów",
-          "Że Korea zniknęła z mapy",
-          "Że Marek dostał mandat parkingowy"
+          "Korea kupuje od Polski tysiąc czołgów",
+          "Polska kupuje czołgi od Korei",
+          "Korea znika z mapy",
+          "Marek dostaje mandat"
         ],
-        "correctIndex": 1,
-        "explanation": "Czyta o Korei Południowej kupującej od Polski tysiąc czołgów."
+        "correctIndex": 0,
+        "explanation": "Czyta o Korei Południowej kupującej czołgi od Polski."
       },
       {
         "type": "single_choice",
-        "question": "Jaki jest powód podróży Marka do Korei?",
+        "question": "Dlaczego Marek jedzie do Korei?",
         "answers": [
-          "Wyjazd turystyczny z rodziną",
-          "Kontrakt na modernizację koreańskiego muzeum",
-          "Nauka języka koreańskiego w szkole",
+          "Modernizacja muzeum",
+          "Wycieczka z rodziną",
+          "Nauka koreańskiego",
           "Start kariery K-pop"
         ],
-        "correctIndex": 1,
-        "explanation": "Biuro wygrało przetarg na modernizację muzeum — Marek ma jechać na miesiąc."
+        "correctIndex": 0,
+        "explanation": "Biuro wygrało przetarg na modernizację muzeum."
       },
       {
         "type": "single_choice",
-        "question": "Co Marek znajduje w wynikach wyszukiwania o Polsce?",
+        "question": "Co Marek znajduje w wynikach o Polsce?",
         "answers": [
-          "Że Koreańczycy nie znają Chopina",
-          "Skojarzenia m.in. z Chopinem, Wiedźminem i Robertem Lewandowskim",
-          "Że Polska nie istnieje w azjatyckich mediach",
-          "Wyłącznie informacje o nauce polskiego"
+          "Chopin, Wiedźmin, Lewandowski",
+          "Tylko Auschwitz",
+          "Polska nie istnieje w mediach",
+          "Wyłącznie nauka polskiego"
         ],
-        "correctIndex": 1,
-        "explanation": "Lista wyników wymienia Chopina, Auschwitz, Lewandowskiego i Wiedźmina."
+        "correctIndex": 0,
+        "explanation": "Wymienia Chopina, Lewandowskiego i Wiedźmina."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak długo ma pracować w Korei?",
+        "answers": [
+          "Miesiąc",
+          "Rok",
+          "Tydzień",
+          "Pięć lat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marek ma jechać na miesiąc."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim jest Marek zawodowo?",
+        "answers": [
+          "Pracuje przy projektach muzealnych",
+          "Jest żołnierzem",
+          "Jest dziennikarzem",
+          "Jest nauczycielem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Biuro wygrało przetarg na muzeum — Marek reprezentuje firmę."
       }
     ]
   },

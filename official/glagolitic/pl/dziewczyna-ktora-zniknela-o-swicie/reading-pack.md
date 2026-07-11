@@ -227,45 +227,73 @@ I wtedy prawda w końcu wyjdzie na jaw.
 
 ### Question 1
 
-**Question:** Co wskazuje Joanna na nagraniu monitoringu o stanie Agnieszki?
+**Question:** Co Joanna widzi na nagraniu monitoringu?
 
 **Answers:**
-- A) Idzie wesoło kontynuować imprezę
-- B) Idzie do domu ze spadkiem czujności — fałszywy syndrom bezpiecznego progu
-- C) Jedzie taksówką
-- D) Rozmawia przez telefon przez cały czas
+- A) Agnieszka idzie ze spadkiem czujności
+- B) Agnieszka jedzie taksówką
+- C) Agnieszka tańczy wesoło
+- D) Agnieszka rozmawia przez telefon
 
-**Correct:** B
-**Explanation:** Joanna mówi o fałszywym syndromie bezpiecznego progu i spadku czujności.
+**Correct:** A
+**Explanation:** Joanna mówi o fałszywym syndromie bezpiecznego progu.
 **Text reference:** Fałszywy syndrom bezpiecznego progu
 
 ### Question 2
 
-**Question:** Dlaczego Joanna uważa, że pierwsze godziny zostały zmarnowane?
+**Question:** Dlaczego pierwsze godziny poszukiwań poszły na marne?
 
 **Answers:**
-- A) Bo nie było żadnego zgłoszenia
-- B) Bo sprawę potraktowano jak standardową ucieczkę nastolatki
-- C) Bo Agnieszka sama zadzwoniła na policję
-- D) Bo monitoring działał bez przerw
+- A) Sprawę potraktowano jak ucieczkę nastolatki
+- B) Nie było zgłoszenia
+- C) Monitoring nie działał
+- D) Agnieszka zadzwoniła na policję
 
-**Correct:** B
-**Explanation:** Tekst mówi o standardowej procedurze w sezonie wakacyjnym i braku zabezpieczenia nagrań.
-**Text reference:** Pierwsze zgłoszenie traktowano jak ucieczkę nastolatki
+**Correct:** A
+**Explanation:** Pierwsze zgłoszenie traktowano jak standardową ucieczkę.
+**Text reference:** ucieczkę nastolatki
 
 ### Question 3
 
-**Question:** O której godzinie kamera rejestruje ostatni obraz Agnieszki?
+**Question:** O której kamera widzi Agnieszkę ostatni raz?
 
 **Answers:**
-- A) 2:00 w nocy
-- B) 4:12 nad ranem
+- A) 4:12 nad ranem
+- B) 2:00 w nocy
 - C) Południe
 - D) 22:30
 
-**Correct:** B
-**Explanation:** Sekcja „Punkt zero” podaje godzinę 4:12.
-**Text reference:** Godzina 4:12 nad ranem
+**Correct:** A
+**Explanation:** Sekcja „Punkt zero” podaje 4:12.
+**Text reference:** Godzina 4:12
+
+### Question 4
+
+**Question:** Kim jest Joanna w opowieści?
+
+**Answers:**
+- A) Doświadczoną śledczą
+- B) Matką Agnieszki
+- C) Dziennikarką
+- D) Sąsiadką
+
+**Correct:** A
+**Explanation:** Joanna analizuje nagrania i procedury policyjne.
+**Text reference:** Joanna
+
+### Question 5
+
+**Question:** Co Joanna mówi o bezpiecznym progu?
+
+**Answers:**
+- A) To fałszywe poczucie bezpieczeństwa
+- B) Agnieszka była w domu
+- C) Monitoring kłamie
+- D) Nastolatki zawsze wracają
+
+**Correct:** A
+**Explanation:** Fałszywy syndrom bezpiecznego progu obniża czujność.
+**Text reference:** Fałszywy syndrom
 
 ---
 

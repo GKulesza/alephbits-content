@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Jak nazywa się utwór, wokół którego toczy się opowieść?",
+        "question": "Jak nazywa się utwór w opowieści?",
         "answers": [
-          "„Kaze no Prologue”",
-          "„Cisza przed burzą”",
-          "„Zakazana Energia”",
-          "„Prolog wiatru” bez tytułu piosenki"
+          "Kaze no Prologue",
+          "Cisza przed burzą",
+          "Prolog wiatru",
+          "Zakazana Energia"
         ],
         "correctIndex": 0,
-        "explanation": "Yumiko słyszy i nagrywa teledysk do „Kaze no Prologue”."
+        "explanation": "Yumiko nagrywa teledysk do Kaze no Prologue."
       },
       {
         "type": "single_choice",
-        "question": "Gdzie odbywają się zdjęcia teledysku?",
+        "question": "Gdzie kręcą teledysk?",
         "answers": [
           "Na plaży w Chiba o świcie",
           "W studiu w Los Angeles",
           "Na dworcu w Warszawie",
-          "W górach Hokkaido zimą"
+          "W górach Hokkaido"
         ],
         "correctIndex": 0,
         "explanation": "Menedżer pisze o plaży w Chiba o 5:00 rano."
       },
       {
         "type": "single_choice",
-        "question": "Jakie przesłanie niesie piosenka według Yumiko?",
+        "question": "Jakie przesłanie niesie piosenka?",
         "answers": [
-          "Że wiatr zawsze wieje i można zacząć od nowa",
-          "Że należy unikać wiatru",
-          "Że kariera muzyczna się kończy",
-          "Że plaża jest niebezpieczna"
+          "Można zacząć od nowa",
+          "Wiatr jest niebezpieczny",
+          "Kariera się kończy",
+          "Plaża jest zła"
         ],
         "correctIndex": 0,
-        "explanation": "Tekst mówi, że piosenka dodaje sił i mówi o nowym początku przy otwartym oknie."
+        "explanation": "Piosenka mówi o nowym początku."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim jest główna bohaterka?",
+        "answers": [
+          "Yumiko",
+          "Maria",
+          "Anna",
+          "Kasia"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yumiko słyszy piosenkę i nagrywa teledysk."
+      },
+      {
+        "type": "single_choice",
+        "question": "O której godzinie mają być zdjęcia?",
+        "answers": [
+          "O piątej rano",
+          "O południu",
+          "O północy",
+          "O dwudziestej"
+        ],
+        "correctIndex": 0,
+        "explanation": "Menedżer podaje 5:00 rano."
       }
     ]
   },

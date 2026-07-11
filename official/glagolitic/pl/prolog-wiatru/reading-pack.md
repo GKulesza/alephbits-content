@@ -186,27 +186,27 @@ Nawet po tylu latach.
 
 ### Question 1
 
-**Question:** Jak nazywa się utwór, wokół którego toczy się opowieść?
+**Question:** Jak nazywa się utwór w opowieści?
 
 **Answers:**
-- A) „Kaze no Prologue”
-- B) „Cisza przed burzą”
-- C) „Zakazana Energia”
-- D) „Prolog wiatru” bez tytułu piosenki
+- A) Kaze no Prologue
+- B) Cisza przed burzą
+- C) Prolog wiatru
+- D) Zakazana Energia
 
 **Correct:** A
-**Explanation:** Yumiko słyszy i nagrywa teledysk do „Kaze no Prologue”.
+**Explanation:** Yumiko nagrywa teledysk do Kaze no Prologue.
 **Text reference:** Kaze no Prologue
 
 ### Question 2
 
-**Question:** Gdzie odbywają się zdjęcia teledysku?
+**Question:** Gdzie kręcą teledysk?
 
 **Answers:**
 - A) Na plaży w Chiba o świcie
 - B) W studiu w Los Angeles
 - C) Na dworcu w Warszawie
-- D) W górach Hokkaido zimą
+- D) W górach Hokkaido
 
 **Correct:** A
 **Explanation:** Menedżer pisze o plaży w Chiba o 5:00 rano.
@@ -214,17 +214,45 @@ Nawet po tylu latach.
 
 ### Question 3
 
-**Question:** Jakie przesłanie niesie piosenka według Yumiko?
+**Question:** Jakie przesłanie niesie piosenka?
 
 **Answers:**
-- A) Że wiatr zawsze wieje i można zacząć od nowa
-- B) Że należy unikać wiatru
-- C) Że kariera muzyczna się kończy
-- D) Że plaża jest niebezpieczna
+- A) Można zacząć od nowa
+- B) Wiatr jest niebezpieczny
+- C) Kariera się kończy
+- D) Plaża jest zła
 
 **Correct:** A
-**Explanation:** Tekst mówi, że piosenka dodaje sił i mówi o nowym początku przy otwartym oknie.
-**Text reference:** zawsze można zacząć od nowa
+**Explanation:** Piosenka mówi o nowym początku.
+**Text reference:** zacząć od nowa
+
+### Question 4
+
+**Question:** Kim jest główna bohaterka?
+
+**Answers:**
+- A) Yumiko
+- B) Maria
+- C) Anna
+- D) Kasia
+
+**Correct:** A
+**Explanation:** Yumiko słyszy piosenkę i nagrywa teledysk.
+**Text reference:** Yumiko
+
+### Question 5
+
+**Question:** O której godzinie mają być zdjęcia?
+
+**Answers:**
+- A) O piątej rano
+- B) O południu
+- C) O północy
+- D) O dwudziestej
+
+**Correct:** A
+**Explanation:** Menedżer podaje 5:00 rano.
+**Text reference:** 5:00 rano
 
 ---
 

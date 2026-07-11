@@ -5,37 +5,61 @@
       "type": "single_choice",
       "question": "Jakie podejście Rejewski proponuje wobec Enigmy?",
       "answers": [
-        "Analizować wyłącznie przechwycone teksty",
-        "Zrozumieć działanie urządzenia — to matematyka, nie język",
-        "Czekać na komputer cyfrowy",
-        "Zignorować dokumentację z Francji"
+        "Zrozumieć działanie urządzenia",
+        "Analizować tylko teksty",
+        "Czekać na komputer",
+        "Ignorować dokumentację"
       ],
-      "correctIndex": 1,
-      "explanation": "Rejewski mówi, że trzeba zrozumieć maszynę, bo to matematyka."
+      "correctIndex": 0,
+      "explanation": "Rejewski mówi, że trzeba zrozumieć maszynę — to matematyka."
     },
     {
       "type": "single_choice",
-      "question": "Jaką słabość Niemców odkrywa Rejewski w schematach?",
+      "question": "Jaką słabość Niemców odkrywa Rejewski?",
       "answers": [
-        "Losowe połączenia bez powtarzalności",
         "Porządek alfabetyczny w połączeniach",
+        "Losowe połączenia",
         "Brak wirników",
-        "Używanie tylko jednego klucza rocznie"
+        "Jeden klucz rocznie"
       ],
-      "correctIndex": 1,
-      "explanation": "Tekst wskazuje, że konstruktorzy wybrali najprostsze rozwiązanie — porządek alfabetyczny."
+      "correctIndex": 0,
+      "explanation": "Konstruktorzy wybrali porządek alfabetyczny."
     },
     {
       "type": "single_choice",
-      "question": "Czym jest „bomba kryptologiczna” w tekście?",
+      "question": "Czym jest bomba kryptologiczna?",
       "answers": [
-        "Bronią palną używaną przez wywiad",
-        "Elektromechanicznym urządzeniem symulującym wiele Enigm",
-        "Meteorologicznym instrumentem",
-        "Książką instruktażową dla żołnierzy"
+        "Urządzeniem symulującym Enigmy",
+        "Bronią palną",
+        "Instrumentem pogodowym",
+        "Książką instruktażową"
       ],
-      "correctIndex": 1,
-      "explanation": "Bomba symuluje działanie kilku Enigm i automatycznie sprawdza kombinacje."
+      "correctIndex": 0,
+      "explanation": "Bomba symuluje działanie wielu Enigm."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest głównym bohaterem opowieści?",
+      "answers": [
+        "Marian Rejewski",
+        "Alan Turing",
+        "Hitler",
+        "Generał Sikorski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski prowadzi prace nad łamaniem Enigmy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Rejewski mówi o Enigmie na początku?",
+      "answers": [
+        "To matematyka, nie język",
+        "To niemożliwe do złamania",
+        "To tylko legenda",
+        "To amerykański wynalazek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Podkreśla, że trzeba myśleć matematycznie."
     }
   ]
 }

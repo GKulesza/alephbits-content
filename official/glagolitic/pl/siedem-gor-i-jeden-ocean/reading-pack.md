@@ -240,45 +240,73 @@ Jak o przyjacielu.
 
 ### Question 1
 
-**Question:** Co zaskakuje Marka w nagłówkach z 2022 roku?
+**Question:** Co zaskakuje Marka w nagłówkach?
 
 **Answers:**
-- A) Że Polska kupiła tysiąc czołgów od Korei
-- B) Że Korea Południowa kupiła od Polski tysiąc czołgów
-- C) Że Korea zniknęła z mapy
-- D) Że Marek dostał mandat parkingowy
+- A) Korea kupuje od Polski tysiąc czołgów
+- B) Polska kupuje czołgi od Korei
+- C) Korea znika z mapy
+- D) Marek dostaje mandat
 
-**Correct:** B
-**Explanation:** Czyta o Korei Południowej kupującej od Polski tysiąc czołgów.
-**Text reference:** Korea Południowa kupiła od Polski tysiąc czołgów
+**Correct:** A
+**Explanation:** Czyta o Korei Południowej kupującej czołgi od Polski.
+**Text reference:** Korea Południowa kupiła od Polski
 
 ### Question 2
 
-**Question:** Jaki jest powód podróży Marka do Korei?
+**Question:** Dlaczego Marek jedzie do Korei?
 
 **Answers:**
-- A) Wyjazd turystyczny z rodziną
-- B) Kontrakt na modernizację koreańskiego muzeum
-- C) Nauka języka koreańskiego w szkole
+- A) Modernizacja muzeum
+- B) Wycieczka z rodziną
+- C) Nauka koreańskiego
 - D) Start kariery K-pop
 
-**Correct:** B
-**Explanation:** Biuro wygrało przetarg na modernizację muzeum — Marek ma jechać na miesiąc.
+**Correct:** A
+**Explanation:** Biuro wygrało przetarg na modernizację muzeum.
 **Text reference:** modernizację jednego z koreańskich muzeów
 
 ### Question 3
 
-**Question:** Co Marek znajduje w wynikach wyszukiwania o Polsce?
+**Question:** Co Marek znajduje w wynikach o Polsce?
 
 **Answers:**
-- A) Że Koreańczycy nie znają Chopina
-- B) Skojarzenia m.in. z Chopinem, Wiedźminem i Robertem Lewandowskim
-- C) Że Polska nie istnieje w azjatyckich mediach
-- D) Wyłącznie informacje o nauce polskiego
+- A) Chopin, Wiedźmin, Lewandowski
+- B) Tylko Auschwitz
+- C) Polska nie istnieje w mediach
+- D) Wyłącznie nauka polskiego
 
-**Correct:** B
-**Explanation:** Lista wyników wymienia Chopina, Auschwitz, Lewandowskiego i Wiedźmina.
-**Text reference:** Lewandowski jest najbardziej znanym Polakiem
+**Correct:** A
+**Explanation:** Wymienia Chopina, Lewandowskiego i Wiedźmina.
+**Text reference:** Lewandowski
+
+### Question 4
+
+**Question:** Jak długo ma pracować w Korei?
+
+**Answers:**
+- A) Miesiąc
+- B) Rok
+- C) Tydzień
+- D) Pięć lat
+
+**Correct:** A
+**Explanation:** Marek ma jechać na miesiąc.
+**Text reference:** na miesiąc
+
+### Question 5
+
+**Question:** Kim jest Marek zawodowo?
+
+**Answers:**
+- A) Pracuje przy projektach muzealnych
+- B) Jest żołnierzem
+- C) Jest dziennikarzem
+- D) Jest nauczycielem
+
+**Correct:** A
+**Explanation:** Biuro wygrało przetarg na muzeum — Marek reprezentuje firmę.
+**Text reference:** koreańskich muzeów
 
 ---
 

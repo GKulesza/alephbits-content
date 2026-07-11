@@ -211,69 +211,74 @@ Feynman mawiał, że dobre pytanie jest ważniejsze niż dobra odpowiedź. I cho
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — Dlaczego niebo jest niebieskie?
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „Dlaczego niebo jest niebieskie?”?
+**Question:** Dlaczego niebo wygląda na niebieskie?
 
 **Answers:**
-- A) Kiedy rankiem otwieramy oczy i patrzymy w górę, widzimy znajomy widok – jasne, b…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Rozpraszanie krótkofalowego światła
+- B) Farba w chmurach
+- C) Odbicie morza
+- D) Iluzja o zmierzchu
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Tekst wyjaśnia rozpraszanie Rayleigha — niebieskie fale rozpraszają się mocniej.
+**Text reference:** rozpraszanie Rayleigha
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Co Gladstone zauważa u Homera?
 
 **Answers:**
-- A) family
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Brak słowa na niebieski
+- B) Setki opisów nieba
+- C) Tylko biały kolor
+- D) Opis tęczy
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: family.
+**Explanation:** Gladstone liczy kolory u Homera — niebieski nie występuje.
+**Text reference:** Niebieski – zero
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Kogo tekst wspomina przy trudnym problemie świadomości?
 
 **Answers:**
-- A) popular_science
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Feynmana
+- B) Newtona
+- C) Einsteina
+- D) Kopernika
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii popular_science.
+**Explanation:** Feynman wraca do pokory wobec tego, czego nie rozumiemy.
+**Text reference:** Feynman
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Co Himba robi inaczej niż Europejczycy?
 
 **Answers:**
-- A) 9
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Lepiej widzą odcienie zieleni
+- B) Nie widzą w ogóle
+- C) Nie rozróżniają czerwieni
+- D) Widzą tylko czarno-białe
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 9 minut.
+**Explanation:** Himba szybciej wskazują różne odcienie zieleni.
+**Text reference:** Himba wskazywali go natychmiast
 
 ### Question 5
 
-**Question:** Czy tekst „Dlaczego niebo jest niebieskie?” kończy się zdaniem domykającym opowieść?
+**Question:** Jakie pytanie Feynman zadaje kelnerce?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Skąd wiesz, że niebo jest niebieskie?
+- B) Ile kosztuje kawa?
+- C) Gdzie jest Berkeley?
+- D) Czy lubi fizykę?
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Pyta: skąd wiesz — i kelnerka wzrusza ramionami.
+**Text reference:** Skąd wiesz?

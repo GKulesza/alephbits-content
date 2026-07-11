@@ -195,69 +195,74 @@ Bo wiedział, że to nie tylko kawiarnia. To miejsce, gdzie można zacząć od n
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — ☕ W kawiarni
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „☕ W kawiarni”?
+**Question:** Po co Marek przychodzi do kawiarni?
 
 **Answers:**
-- A) Poranek w Warszawie pachniał kawą. Nie tą z automatu w biurze, nie tą z ekspresu…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Żeby mieć chwilę innego życia
+- B) Żeby odebrać pensję
+- C) Żeby pracować za barem
+- D) Żeby kupić kawę na wynos dla syna
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Marek szuka miejsca, w którym może udawać kogoś innego.
+**Text reference:** miejsca, w którym mógłby przez godzinę udawać
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Co Marek zamawia przy barze?
 
 **Answers:**
-- A) adult
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Cappuccino z mlekiem owsianym
+- B) Herbatę z cytryną
+- C) Podwójne espresso
+- D) Sernik
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: adult.
+**Explanation:** Zamawia duże cappuccino z mlekiem owsianym.
+**Text reference:** cappuccino z mlekiem owsianym
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** O kim Marek myśli, czekając w kawiarni?
 
 **Answers:**
-- A) short_story
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) O synu Kubie
+- B) O szefie z biura
+- C) O matce
+- D) O lekarzu
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii short_story.
+**Explanation:** Wspomina rozmowę, w której Kuba pyta, czy tata wróci.
+**Text reference:** Tato, ale ty wrócisz?
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Co baristka daje Marekowi przy drugiej wizycie?
 
 **Answers:**
-- A) 6
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Kawę na koszt firmy
+- B) Rachunek do zapłaty
+- C) Wizytówkę z pracy
+- D) Sernik gratis
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 6 minut.
+**Explanation:** Wraca z kubkiem i mówi: „Na koszt firmy”.
+**Text reference:** Na koszt firmy
 
 ### Question 5
 
-**Question:** Czy tekst „☕ W kawiarni” kończy się zdaniem domykającym opowieść?
+**Question:** Co Marek robi z wizytówką fundacji?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Dzwoni i pyta, jak zacząć od nowa
+- B) Wyrzuca ją w kosz
+- C) Oddaje baristce
+- D) Wysyła SMS do byłej żony
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Na końcu dzwoni i pyta o fundację.
+**Text reference:** pytanie o tę... fundację

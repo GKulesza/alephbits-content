@@ -394,42 +394,70 @@ I o tym, że zawsze można zacząć od nowa. Nawet przy minus dziewięciu stopni
 **Question:** Gdzie odbywa się opisywany targ?
 
 **Answers:**
-- A) W Elblągu
-- B) W Nowym Targu
+- A) W Nowym Targu
+- B) W Elblągu
 - C) W Krakowie
 - D) W Budapeszcie
 
-**Correct:** B  
-**Explanation:** Adam jedzie na targ w Nowym Targu na Podhalu.  
-**Text reference:** „targu w Nowym Targu"
+**Correct:** A
+**Explanation:** Adam jedzie na targ w Nowym Targu.
+**Text reference:** targu w Nowym Targu
 
 ### Question 2
 
-**Question:** Dlaczego na stoiskach gastronomicznych podawano ceny w euro?
+**Question:** Dlaczego ceny podawano w euro?
 
 **Answers:**
-- A) Bo euro jest oficjalną walutą Polski
-- B) Bo Węgrzy i Słowacy nie chcieli przeliczać złotówek
-- C) Bo bankomaty nie działały
-- D) Bo sprzedawcy nie znali polskiego
+- A) Węgrzy i Słowacy nie chcieli przeliczać
+- B) Euro jest walutą Polski
+- C) Bankomaty nie działały
+- D) Sprzedawcy nie znali polskiego
 
-**Correct:** B  
-**Explanation:** Sprzedawca wyjaśnia, że klienci z Węgier i Słowacji wolą widzieć ceny w euro.  
-**Text reference:** „Bo Węgrzy nie chcą przeliczać. Bo Słowacy też nie."
+**Correct:** A
+**Explanation:** Sprzedawca wyjaśnia, że klienci z Węgier i Słowacji wolą euro.
+**Text reference:** Węgrzy nie chcą przeliczać
 
 ### Question 3
 
-**Question:** Czym na końcu opowieści handluje Adam?
+**Question:** Czym handluje Adam na końcu?
 
 **Answers:**
-- A) Kaszmirem i swetrami
-- B) Skórzanymi kurtkami i butami
-- C) Elektroniką i magnetowidami
-- D) Warzywami i wędlinami
+- A) Skórzanymi kurtkami i butami
+- B) Kaszmirem
+- C) Elektroniką
+- D) Warzywami
 
-**Correct:** B  
-**Explanation:** Adam ma własne stoisko ze skórzanymi kurtkami i butami.  
-**Text reference:** „Sprzedawał skórzane kurtki i buty."
+**Correct:** A
+**Explanation:** Ma własne stoisko ze skórzanymi kurtkami i butami.
+**Text reference:** skórzane kurtki i buty
+
+### Question 4
+
+**Question:** Skąd przyjeżdżają kupcy na targ?
+
+**Answers:**
+- A) Z Węgier, Czech i Słowacji
+- B) Tylko z Polski
+- C) Z Japonii
+- D) Z USA
+
+**Correct:** A
+**Explanation:** Tekst wspomina Węgrów, Czechów i Słowaków.
+**Text reference:** Węgrzy, Czechy, Słowacja
+
+### Question 5
+
+**Question:** Ile kosztował kaszmir na stoisku?
+
+**Answers:**
+- A) 270 złotych
+- B) 50 euro
+- C) 100 złotych
+- D) 10 złotych
+
+**Correct:** A
+**Explanation:** Sprzedawca podaje kaszmir za 270 złotych.
+**Text reference:** Kaszmir za 270 złotych
 
 ---
 

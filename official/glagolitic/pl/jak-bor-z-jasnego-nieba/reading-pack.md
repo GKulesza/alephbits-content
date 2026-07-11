@@ -238,45 +238,73 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 
 ### Question 1
 
-**Question:** Jak Żuk wyjaśnia różnicę między żołnierzem a operatorem BOR?
+**Question:** Jak Żuk tłumaczy różnicę żołnierz vs operator?
 
 **Answers:**
-- A) To zupełnie różne zawody bez wspólnych elementów
-- B) To w praktyce to samo, lecz ze względu na specjalizacje mówi się o operatorze
-- C) Operatorzy nigdy nie używają broni
-- D) Żołnierze nie przechodzą szkoleń specjalnych
+- A) To praktycznie to samo
+- B) To zupełnie inne zawody
+- C) Operatorzy nie używają broni
+- D) Żołnierze nie szkolą się
 
-**Correct:** B
-**Explanation:** Żuk mówi, że to tak naprawdę to samo, tylko ze względu na specjalności używa się określenia operator.
+**Correct:** A
+**Explanation:** Żuk mówi, że to tak naprawdę to samo.
 **Text reference:** Tak naprawdę to jest to samo
 
 ### Question 2
 
-**Question:** W jakim kontekście toczy się rozmowa w tekście?
+**Question:** Gdzie toczy się rozmowa?
 
 **Answers:**
-- A) W sali sądowej
-- B) W studiu podcastu „Bez Sekretów”
-- C) Na poligonie wojskowym
-- D) W telewizyjnym studiu informacyjnym
+- A) W studiu podcastu „Bez Sekretów”
+- B) Na poligonie
+- C) W sali sądowej
+- D) W telewizji
 
-**Correct:** B
-**Explanation:** Piotr i Marcin rozmawiają w studiu podcastu „Bez Sekretów”.
-**Text reference:** studio podcastu "Bez Sekretów"
+**Correct:** A
+**Explanation:** Piotr i Marcin rozmawiają w studiu podcastu.
+**Text reference:** Bez Sekretów
 
 ### Question 3
 
-**Question:** Co tekst sugeruje o tematach związanych z jednostką?
+**Question:** Co tekst sugeruje o jednostce BOR?
 
 **Answers:**
-- A) Można o wszystkim mówić publicznie bez ograniczeń
-- B) Są rzeczy w jednostce, o których narrator nie będzie mógł powiedzieć
-- C) BOR nie istnieje w Polsce
-- D) Wszyscy operatorzy chcą udzielać wywiadów
+- A) Są tematy, o których nie można mówić
+- B) Wszystko można opowiedzieć publicznie
+- C) BOR nie istnieje
+- D) Wszyscy chcą wywiadów
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Już w podtytule pada zdanie o rzeczach, o których nie można mówić.
-**Text reference:** O KTÓRYCH NIGDY NIE BĘDĘ MÓGŁ POWIEDZIEĆ
+**Text reference:** NIGDY NIE BĘDĘ MÓGŁ POWIEDZIEĆ
+
+### Question 4
+
+**Question:** Jak nazywają się prowadzący podcast?
+
+**Answers:**
+- A) Piotr i Marcin
+- B) Adam i Jan
+- C) Marek i Tomek
+- D) Kasia i Ania
+
+**Correct:** A
+**Explanation:** Piotr i Marcin rozmawiają z Żukiem.
+**Text reference:** Piotr i Marcin
+
+### Question 5
+
+**Question:** Kogo rozmowa dotyczy głównie?
+
+**Answers:**
+- A) Operatora Żuka z BOR
+- B) Prezydenta
+- C) Lekarza
+- D) Nauczyciela
+
+**Correct:** A
+**Explanation:** Gościem jest operator Żuk.
+**Text reference:** Żuk
 
 ---
 

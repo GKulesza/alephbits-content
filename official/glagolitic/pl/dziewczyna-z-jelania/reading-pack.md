@@ -222,45 +222,73 @@ Może to była prawdziwa miłość. A może tylko początek.
 
 ### Question 1
 
-**Question:** Dlaczego Anastazja przyjeżdża do Polski?
+**Question:** Dlaczego Anastazja jedzie do Polski?
 
 **Answers:**
-- A) By odwiedzić rodzinę w Jełaniu
-- B) By nauczyć się polskiego bez praktycznego powodu kariery
-- C) By studiować medycynę
-- D) By pracować w taxi
+- A) Chce nauczyć się polskiego
+- B) Odwiedza rodzinę w Jełaniu
+- C) Studiuje medycynę
+- D) Pracuje w taxi
 
-**Correct:** B
-**Explanation:** Tekst mówi wprost, że nie ma tu rodziny ani planów kariery — chce mieć język „w sobie”.
-**Text reference:** żeby nauczyć się polskiego
+**Correct:** A
+**Explanation:** Nie ma tu rodziny ani planów kariery — chce język „w sobie”.
+**Text reference:** nauczyć się polskiego
 
 ### Question 2
 
-**Question:** Skąd pochodzi Anastazja i gdzie mieszkała przed przyjazdem?
+**Question:** Skąd pochodzi Anastazja?
 
 **Answers:**
-- A) Z Polski, mieszkała w Krakowie
-- B) Z Rosji, mieszkała w Niemczech
-- C) Z USA, mieszkała we Francji
-- D) Z Ukrainy, mieszkała w Czechach
+- A) Z Rosji, mieszka w Niemczech
+- B) Z Polski
+- C) Z USA
+- D) Z Ukrainy
 
-**Correct:** B
-**Explanation:** Mówi kierowcy, że jest z Rosji, ale mieszka w Niemczech od dziewięciu lat.
-**Text reference:** Jestem z Rosji, ale mieszkam w Niemczech
+**Correct:** A
+**Explanation:** Mówi kierowcy, że jest z Rosji, ale mieszka w Niemczech.
+**Text reference:** z Rosji, ale mieszkam w Niemczech
 
 ### Question 3
 
-**Question:** Jaką książkę czyta Anastazja w pokoju na Pradze?
+**Question:** Jaką książkę czyta w pokoju na Pradze?
 
 **Answers:**
-- A) „Lalkę” Bolesława Prusa
+- A) „Lalkę” Prusa
 - B) „Quo vadis”
-- C) „Pan Tadeusza” w tłumaczeniu
-- D) Podręcznik gramatyki niemieckiej
+- C) „Pana Tadeusza”
+- D) Podręcznik gramatyki
 
 **Correct:** A
-**Explanation:** Wynajęty pokój i lektura „Lalki” w oryginale są opisane wprost.
-**Text reference:** "Lalkę" Bolesława Prusa
+**Explanation:** Czyta „Lalkę” w oryginale.
+**Text reference:** Lalkę
+
+### Question 4
+
+**Question:** Gdzie wynajmuje pokój?
+
+**Answers:**
+- A) Na Pradze w Warszawie
+- B) W Jełaniu
+- C) W Krakowie
+- D) W Berlinie
+
+**Correct:** A
+**Explanation:** Wynajęty pokój na Pradze jest opisany wprost.
+**Text reference:** pokój na Pradze
+
+### Question 5
+
+**Question:** Od ilu lat mieszka poza Rosją?
+
+**Answers:**
+- A) Od dziewięciu lat
+- B) Od roku
+- C) Od dwudziestu lat
+- D) Od trzech miesięcy
+
+**Correct:** A
+**Explanation:** Mieszka w Niemczech od dziewięciu lat.
+**Text reference:** od dziewięciu lat
 
 ---
 

@@ -215,69 +215,74 @@ A w Polsce, na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie, studenci wci�
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — 👤 Maria Skłodowska-Curie
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „👤 Maria Skłodowska-Curie”?
+**Question:** Gdzie rodzi się Maria?
 
 **Answers:**
-- A) Warszawa, rok 1867. W mieszkaniu przy ulicy Freta, w rodzinie Skłodowskich, przy…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) W Warszawie
+- B) W Paryżu
+- C) W Krakowie
+- D) We Francji
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Warszawa, rok 1867 — rodzina Skłodowskich.
+**Text reference:** Warszawa, rok 1867
 
 ### Question 2
 
-**Question:** Które imię pojawia się na początku opowieści?
+**Question:** Dlaczego Maria traci wiarę w Boga?
 
 **Answers:**
-- A) Maria
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Po śmierci matki
+- B) Po wojnie
+- C) Po śmierci ojca
+- D) Po rozwodzie
 
 **Correct:** A
-**Explanation:** Na początku tekstu występuje postać o imieniu Maria.
+**Explanation:** Po śmierci matki na gruźlicę przestaje wierzyć.
+**Text reference:** umiera na gruźlicę
 
 ### Question 3
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Jak Maria dociera na Sorbonę?
 
 **Answers:**
-- A) teen
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Pracuje i wspiera siostrę Bronię
+- B) Dostaje stypendium od cara
+- C) Jedzie z mężem Pierre'em
+- D) Wygrywa konkurs naukowy
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: teen.
+**Explanation:** Z Bronią zawiera pakt: najpierw jedna studiuje, druga pracuje.
+**Text reference:** pracuje jako guwernantka
 
 ### Question 4
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Jak nazwała pierwiastek ku czci Polski?
 
 **Answers:**
-- A) biography
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Polon
+- B) Radium
+- C) Uran
+- D) Curium
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii biography.
+**Explanation:** Maria nazywa go Polonem — hołd dla Polski.
+**Text reference:** Nazywa go Polonem
 
 ### Question 5
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Ile razy Maria dostała Nagrodę Nobla?
 
 **Answers:**
-- A) 8
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Dwa razy
+- B) Raz
+- C) Trzy razy
+- D) Nigdy
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 8 minut.
+**Explanation:** Nobel z fizyki i z chemii.
+**Text reference:** drugą Nagrodę Nobla

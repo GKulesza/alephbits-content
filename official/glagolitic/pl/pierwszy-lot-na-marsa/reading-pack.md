@@ -175,69 +175,74 @@ Marek uśmiechnął się. Włożył telefon do kieszeni i jeszcze raz spojrzał 
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — 🌌 Pierwszy lot na Marsa
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „🌌 Pierwszy lot na Marsa”?
+**Question:** Ile lat ma Marek, gdy słyszy o Marsie?
 
 **Answers:**
-- A) Marek miał osiem lat, gdy po raz pierwszy usłyszał o Marsie. Było to w 1976 roku…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Osiem
+- B) Szesnaście
+- C) Sześćdziesiąt
+- D) Trzydzieści
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia.
+**Text reference:** Marek miał osiem lat
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Co Marek widzi na pierwszym zdjęciu z Viking?
 
 **Answers:**
-- A) family
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Coś jak twarz
+- B) Kanały wody
+- C) Miasto
+- D) Statek kosmiczny
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: family.
+**Explanation:** Wskazuje formację skalną wyglądającą jak twarz.
+**Text reference:** To twarz
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Co odkrywa łazik Perseverance w kraterze Jezero?
 
 **Answers:**
-- A) popular_science
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Starożytną deltę rzeki
+- B) Bazę obcych
+- C) Lodowiec
+- D) Wulkan
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii popular_science.
+**Explanation:** Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia.
+**Text reference:** starożytna delta rzeki
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Jak nazywa się skała z okrągłymi plamami?
 
 **Answers:**
-- A) 5
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Cheyava Falls
+- B) ALH84001
+- C) Twarz z Cydonii
+- D) Viking Rock
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 5 minut.
+**Explanation:** Perseverance znalazł skałę Cheyava Falls.
+**Text reference:** Cheyava Falls
 
 ### Question 5
 
-**Question:** Czy tekst „🌌 Pierwszy lot na Marsa” kończy się zdaniem domykającym opowieść?
+**Question:** Co ojciec mówi o błędzie z kanałami na Marsie?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Sprawił, że ludzie zaczęli marzyć
+- B) Udowodnił, że na Marsie jest życie
+- C) Zniszczył astronomię
+- D) Był ważniejszy niż prawda
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć.
+**Text reference:** ludzie zaczęli marzyć

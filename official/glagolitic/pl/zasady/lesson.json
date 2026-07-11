@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Jaki problem Kadysz nazywa w otwarciu listu?",
+        "question": "Jaki problem Kadysz nazywa w liście?",
         "answers": [
-          "Brak czasu na czytanie książek",
-          "Ciągłe postanawianie sobie rzeczy, z których nic nie wynika",
-          "Zbyt wiele spotkań w biurze",
-          "Brak dostępu do internetu"
-        ],
-        "correctIndex": 1,
-        "explanation": "Cytowany fragment pyta, jak często postanawiamy sobie coś, z czego nic nie wychodzi."
-      },
-      {
-        "type": "single_choice",
-        "question": "Według listu, co dzieje się, gdy dajemy sobie wybór?",
-        "answers": [
-          "Umysł natychmiast znajduje wymówki, by czegoś nie zrobić",
-          "Zawsze wybieramy najtrudniejsze zadanie",
-          "Motywacja rośnie bez limitu",
-          "Nie ma to wpływu na działanie"
+          "Postanawiamy sobie rzeczy, z których nic nie wynika",
+          "Brak czasu na czytanie",
+          "Zbyt wiele spotkań",
+          "Brak internetu"
         ],
         "correctIndex": 0,
-        "explanation": "Kadysz pisze, że przy zastanawianiu się umysł szybko znajduje tysiąc wymówek."
+        "explanation": "List pyta, jak często postanawiamy coś, z czego nic nie wychodzi."
       },
       {
         "type": "single_choice",
-        "question": "Co Łukasz robi zamiast pracować, gdy zaczyna się wątpić?",
+        "question": "Co dzieje się, gdy dajemy sobie wybór?",
         "answers": [
-          "Szuka w internecie nowych aplikacji i metod",
-          "Idzie spać przez cały dzień",
-          "Dzwoni do szefa po urlop",
+          "Umysł znajduje wymówki",
+          "Zawsze wybieramy trudne zadanie",
+          "Motywacja rośnie bez limitu",
+          "Nie ma to wpływu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Przy zastanawianiu się umysł szybko znajduje wymówki."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Łukasz robi zamiast pracować?",
+        "answers": [
+          "Szuka w internecie nowych metod",
+          "Idzie spać cały dzień",
+          "Dzwoni po urlop",
           "Sprzedaje komputer"
         ],
         "correctIndex": 0,
-        "explanation": "Zamiast pracować czyta o pracy — nowe aplikacje i lifehacki."
+        "explanation": "Zamiast pracować czyta o pracy w internecie."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto napisał list w opowieści?",
+        "answers": [
+          "Kadysz",
+          "Łukasz",
+          "Maria",
+          "Adam"
+        ],
+        "correctIndex": 0,
+        "explanation": "List otwiera cytat od Kadysza."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Łukasz robi, gdy zaczyna wątpić?",
+        "answers": [
+          "Czyta o aplikacjach i lifehackach",
+          "Od razu kończy pracę",
+          "Jedzie na urlop",
+          "Zatrudnia asystenta"
+        ],
+        "correctIndex": 0,
+        "explanation": "Szuka nowych aplikacji zamiast działać."
       }
     ]
   },

@@ -3,39 +3,63 @@
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak Żuk wyjaśnia różnicę między żołnierzem a operatorem BOR?",
+      "question": "Jak Żuk tłumaczy różnicę żołnierz vs operator?",
       "answers": [
-        "To zupełnie różne zawody bez wspólnych elementów",
-        "To w praktyce to samo, lecz ze względu na specjalizacje mówi się o operatorze",
-        "Operatorzy nigdy nie używają broni",
-        "Żołnierze nie przechodzą szkoleń specjalnych"
+        "To praktycznie to samo",
+        "To zupełnie inne zawody",
+        "Operatorzy nie używają broni",
+        "Żołnierze nie szkolą się"
       ],
-      "correctIndex": 1,
-      "explanation": "Żuk mówi, że to tak naprawdę to samo, tylko ze względu na specjalności używa się określenia operator."
+      "correctIndex": 0,
+      "explanation": "Żuk mówi, że to tak naprawdę to samo."
     },
     {
       "type": "single_choice",
-      "question": "W jakim kontekście toczy się rozmowa w tekście?",
+      "question": "Gdzie toczy się rozmowa?",
       "answers": [
-        "W sali sądowej",
         "W studiu podcastu „Bez Sekretów”",
-        "Na poligonie wojskowym",
-        "W telewizyjnym studiu informacyjnym"
+        "Na poligonie",
+        "W sali sądowej",
+        "W telewizji"
       ],
-      "correctIndex": 1,
-      "explanation": "Piotr i Marcin rozmawiają w studiu podcastu „Bez Sekretów”."
+      "correctIndex": 0,
+      "explanation": "Piotr i Marcin rozmawiają w studiu podcastu."
     },
     {
       "type": "single_choice",
-      "question": "Co tekst sugeruje o tematach związanych z jednostką?",
+      "question": "Co tekst sugeruje o jednostce BOR?",
       "answers": [
-        "Można o wszystkim mówić publicznie bez ograniczeń",
-        "Są rzeczy w jednostce, o których narrator nie będzie mógł powiedzieć",
-        "BOR nie istnieje w Polsce",
-        "Wszyscy operatorzy chcą udzielać wywiadów"
+        "Są tematy, o których nie można mówić",
+        "Wszystko można opowiedzieć publicznie",
+        "BOR nie istnieje",
+        "Wszyscy chcą wywiadów"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Już w podtytule pada zdanie o rzeczach, o których nie można mówić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywają się prowadzący podcast?",
+      "answers": [
+        "Piotr i Marcin",
+        "Adam i Jan",
+        "Marek i Tomek",
+        "Kasia i Ania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piotr i Marcin rozmawiają z Żukiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo rozmowa dotyczy głównie?",
+      "answers": [
+        "Operatora Żuka z BOR",
+        "Prezydenta",
+        "Lekarza",
+        "Nauczyciela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gościem jest operator Żuk."
     }
   ]
 }

@@ -111,69 +111,74 @@ Matka spojrzała na swoje ręce. I wtedy zrozumiała, że najważniejsza rzecz, 
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — II. Oczy, które nie widzą
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „II. Oczy, które nie widzą”?
+**Question:** Kim jest pani Anna?
 
 **Answers:**
-- A) Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zm…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Nauczycielką czytania w zerówce
+- B) Lekarką
+- C) Dyrektorką szkoły
+- D) Autorką podręczników
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Prowadzi zajęcia z czytania w zerówce od dwudziestu lat.
+**Text reference:** zajęcia z czytania w zerówce
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Co chłopiec mówi o sylabie „ma”?
 
 **Answers:**
-- A) adult
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) „Em a”
+- B) „Ma-ma”
+- C) „A em”
+- D) „Ma” bez łączenia
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: adult.
+**Explanation:** Nazywa litery zamiast łączyć je w sylabę.
+**Text reference:** Mówi się em a
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Dlaczego pani Anna mówi, że chłopiec nie czyta?
 
 **Answers:**
-- A) short_story
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Rozpoznaje obrazki z aplikacji
+- B) Nie zna alfabetu
+- C) Nie chodzi do szkoły
+- D) Ma wadę wzroku
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii short_story.
+**Explanation:** Aplikacja pokazuje słowa z obrazkami — to kojarzenie, nie czytanie.
+**Text reference:** On rozpoznaje obrazy
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Co matka zmienia po rozmowie z pani Anną?
 
 **Answers:**
-- A) 3
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Czyta dziecku książki i ćwiczy sylaby
+- B) Kupuje nowy tablet
+- C) Zapisuje syna na sport
+- D) Zmienia szkołę
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 3 minut.
+**Explanation:** Po miesiącu matka czyta książki i pokazuje sylaby — chłopiec zaczyna czytać.
+**Text reference:** Czytałam mu książki
 
 ### Question 5
 
-**Question:** Czy tekst „II. Oczy, które nie widzą” kończy się zdaniem domykającym opowieść?
+**Question:** Co pani Anna mówi matce na końcu?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) To pani nauczyła chłopca czytać
+- B) Aplikacja wystarczy
+- C) Dziecko nie nadaje się do nauki
+- D) Szkoła jest winna
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Mówi: „To nie ja. To pani.”
+**Text reference:** To pani

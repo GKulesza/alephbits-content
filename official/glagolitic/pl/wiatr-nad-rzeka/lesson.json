@@ -34,37 +34,61 @@
         "type": "single_choice",
         "question": "Gdzie rozgrywa się scena?",
         "answers": [
-          "Na rynku w Krakowie",
           "Na bulwarze nad Wisłą",
-          "W lesie pod Warszawą",
-          "Na dworcu kolejowym"
+          "Na rynku w Krakowie",
+          "W lesie",
+          "Na dworcu"
         ],
-        "correctIndex": 1,
-        "explanation": "Tekst mówi wprost o bulwarze i Wiśle."
+        "correctIndex": 0,
+        "explanation": "Anna stoi na bulwarze nad Wisłą."
       },
       {
         "type": "single_choice",
         "question": "Co mówi starszy pan o wietrze?",
         "answers": [
-          "Że wiatr jest zawsze zimny",
-          "Że wiatr pamięta to, co niosła woda",
-          "Że wiatr zatrzymuje most",
-          "Że wiatr nie wraca nigdy"
+          "Wiatr pamięta to, co niosła woda",
+          "Wiatr jest zawsze zimny",
+          "Wiatr zatrzymuje most",
+          "Wiatr nie wraca"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explanation": "Pan mówi, że wiatr pamięta wszystko, co niosła woda."
       },
       {
         "type": "single_choice",
         "question": "Co Anna postanawia na końcu?",
         "answers": [
-          "Nigdy tu nie wracać",
           "Wrócić jutro",
-          "Pojechać do morza",
+          "Nigdy tu nie wracać",
+          "Pojechać nad morze",
           "Zadzwonić do przyjaciela"
         ],
-        "correctIndex": 1,
-        "explanation": "Ostatnie zdanie mówi, że wróci tu jutro."
+        "correctIndex": 0,
+        "explanation": "Ostatnie zdanie mówi, że wróci jutro."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak ma na imię bohaterka?",
+        "answers": [
+          "Anna",
+          "Maria",
+          "Kasia",
+          "Ewa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stoi na bulwarze."
+      },
+      {
+        "type": "single_choice",
+        "question": "Nad jaką rzeką stoi Anna?",
+        "answers": [
+          "Wisłą",
+          "Odrą",
+          "Wartą",
+          "Sanem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Scena toczy się nad Wisłą."
       }
     ]
   },

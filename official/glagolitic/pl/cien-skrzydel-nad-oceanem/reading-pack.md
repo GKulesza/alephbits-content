@@ -221,45 +221,73 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 
 ### Question 1
 
-**Question:** Kim był James M. Huston Jr. według tekstu?
+**Question:** Kim był James M. Huston Jr.?
 
 **Answers:**
-- A) Niemieckim żołnierzem z II wojny
-- B) Pilotem amerykańskiego lotnictwa morskiego zabitym w 1945 roku
-- C) Lekarzem z Luizjany
+- A) Pilotem US Navy zabitym w 1945
+- B) Lekarzem z Luizjany
+- C) Niemieckim żołnierzem
 - D) Konstruktorem Enigmy
 
-**Correct:** B
-**Explanation:** Tekst identyfikuje go jako pilota US Navy zabitego 3 marca 1945 nad Chichi Jimą.
+**Correct:** A
+**Explanation:** Tekst identyfikuje go jako pilota lotnictwa morskiego.
 **Text reference:** pilotem amerykańskiego lotnictwa morskiego
 
 ### Question 2
 
-**Question:** Co dzieje Jamesa budzi u matki w maju 2000 roku?
+**Question:** Co dzieje Jamesa budzi u matki?
 
 **Answers:**
-- A) Spokojny sen po kolacji
-- B) Koszmar z krzykiem o płomieniach i zablokowanej kabinie
-- C) Radość z nowej zabawki
-- D) Prośbę o wodę
+- A) Koszmar o ogniu i zablokowanej kabinie
+- B) Spokojny sen
+- C) Prośba o wodę
+- D) Radość z zabawki
 
-**Correct:** B
-**Explanation:** Andrea budzi się na ryk przerażenia; James krzyczy o ogień i zablokowaną owiewkę.
+**Correct:** A
+**Explanation:** Andrea budzi się na krzyk o płomieniach.
 **Text reference:** ogień, pamiętał dym
 
 ### Question 3
 
-**Question:** Jak tekst opisuje wiedzę Jamesa o poprzednim życiu?
+**Question:** Skąd James zna szczegóły poprzedniego życia?
 
 **Answers:**
-- A) Rodzice od razu mu o tym opowiedzieli
-- B) Po prostu wiedział, choć nikt mu tego nie powiedział
-- C) Wynika wyłącznie z lekcji w przedszkolu
-- D) Jest wymyślona przez dziennikarzy
+- A) Po prostu wiedział — nikt mu nie mówił
+- B) Rodzice opowiedzieli
+- C) Z lekcji w przedszkolu
+- D) Z gazety
 
-**Correct:** B
-**Explanation:** Tekst podkreśla: „Ale nikt mu tego nie powiedział. Po prostu wiedział.”
+**Correct:** A
+**Explanation:** Tekst podkreśla: nikt mu tego nie powiedział.
 **Text reference:** Po prostu wiedział
+
+### Question 4
+
+**Question:** Jak nazywa się matka chłopca?
+
+**Answers:**
+- A) Andrea
+- B) Maria
+- C) Anna
+- D) Joanna
+
+**Correct:** A
+**Explanation:** Andrea budzi się na krzyk syna.
+**Text reference:** Andrea
+
+### Question 5
+
+**Question:** Nad jaką wyspą zginął pilot w poprzednim życiu?
+
+**Answers:**
+- A) Chichi Jima
+- B) Okinawa
+- C) Hawaii
+- D) Guam
+
+**Correct:** A
+**Explanation:** Tekst podaje Chichi Jimę jako miejsce śmierci.
+**Text reference:** Chichi Jimą
 
 ---
 

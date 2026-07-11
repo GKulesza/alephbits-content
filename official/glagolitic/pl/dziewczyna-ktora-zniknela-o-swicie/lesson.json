@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Co wskazuje Joanna na nagraniu monitoringu o stanie Agnieszki?",
+        "question": "Co Joanna widzi na nagraniu monitoringu?",
         "answers": [
-          "Idzie wesoło kontynuować imprezę",
-          "Idzie do domu ze spadkiem czujności — fałszywy syndrom bezpiecznego progu",
-          "Jedzie taksówką",
-          "Rozmawia przez telefon przez cały czas"
+          "Agnieszka idzie ze spadkiem czujności",
+          "Agnieszka jedzie taksówką",
+          "Agnieszka tańczy wesoło",
+          "Agnieszka rozmawia przez telefon"
         ],
-        "correctIndex": 1,
-        "explanation": "Joanna mówi o fałszywym syndromie bezpiecznego progu i spadku czujności."
+        "correctIndex": 0,
+        "explanation": "Joanna mówi o fałszywym syndromie bezpiecznego progu."
       },
       {
         "type": "single_choice",
-        "question": "Dlaczego Joanna uważa, że pierwsze godziny zostały zmarnowane?",
+        "question": "Dlaczego pierwsze godziny poszukiwań poszły na marne?",
         "answers": [
-          "Bo nie było żadnego zgłoszenia",
-          "Bo sprawę potraktowano jak standardową ucieczkę nastolatki",
-          "Bo Agnieszka sama zadzwoniła na policję",
-          "Bo monitoring działał bez przerw"
+          "Sprawę potraktowano jak ucieczkę nastolatki",
+          "Nie było zgłoszenia",
+          "Monitoring nie działał",
+          "Agnieszka zadzwoniła na policję"
         ],
-        "correctIndex": 1,
-        "explanation": "Tekst mówi o standardowej procedurze w sezonie wakacyjnym i braku zabezpieczenia nagrań."
+        "correctIndex": 0,
+        "explanation": "Pierwsze zgłoszenie traktowano jak standardową ucieczkę."
       },
       {
         "type": "single_choice",
-        "question": "O której godzinie kamera rejestruje ostatni obraz Agnieszki?",
+        "question": "O której kamera widzi Agnieszkę ostatni raz?",
         "answers": [
-          "2:00 w nocy",
           "4:12 nad ranem",
+          "2:00 w nocy",
           "Południe",
           "22:30"
         ],
-        "correctIndex": 1,
-        "explanation": "Sekcja „Punkt zero” podaje godzinę 4:12."
+        "correctIndex": 0,
+        "explanation": "Sekcja „Punkt zero” podaje 4:12."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim jest Joanna w opowieści?",
+        "answers": [
+          "Doświadczoną śledczą",
+          "Matką Agnieszki",
+          "Dziennikarką",
+          "Sąsiadką"
+        ],
+        "correctIndex": 0,
+        "explanation": "Joanna analizuje nagrania i procedury policyjne."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Joanna mówi o bezpiecznym progu?",
+        "answers": [
+          "To fałszywe poczucie bezpieczeństwa",
+          "Agnieszka była w domu",
+          "Monitoring kłamie",
+          "Nastolatki zawsze wracają"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fałszywy syndrom bezpiecznego progu obniża czujność."
       }
     ]
   },

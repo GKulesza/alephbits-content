@@ -3,39 +3,63 @@
   "questions": [
     {
       "type": "single_choice",
-      "question": "Kim był James M. Huston Jr. według tekstu?",
+      "question": "Kim był James M. Huston Jr.?",
       "answers": [
-        "Niemieckim żołnierzem z II wojny",
-        "Pilotem amerykańskiego lotnictwa morskiego zabitym w 1945 roku",
+        "Pilotem US Navy zabitym w 1945",
         "Lekarzem z Luizjany",
+        "Niemieckim żołnierzem",
         "Konstruktorem Enigmy"
       ],
-      "correctIndex": 1,
-      "explanation": "Tekst identyfikuje go jako pilota US Navy zabitego 3 marca 1945 nad Chichi Jimą."
+      "correctIndex": 0,
+      "explanation": "Tekst identyfikuje go jako pilota lotnictwa morskiego."
     },
     {
       "type": "single_choice",
-      "question": "Co dzieje Jamesa budzi u matki w maju 2000 roku?",
+      "question": "Co dzieje Jamesa budzi u matki?",
       "answers": [
-        "Spokojny sen po kolacji",
-        "Koszmar z krzykiem o płomieniach i zablokowanej kabinie",
-        "Radość z nowej zabawki",
-        "Prośbę o wodę"
+        "Koszmar o ogniu i zablokowanej kabinie",
+        "Spokojny sen",
+        "Prośba o wodę",
+        "Radość z zabawki"
       ],
-      "correctIndex": 1,
-      "explanation": "Andrea budzi się na ryk przerażenia; James krzyczy o ogień i zablokowaną owiewkę."
+      "correctIndex": 0,
+      "explanation": "Andrea budzi się na krzyk o płomieniach."
     },
     {
       "type": "single_choice",
-      "question": "Jak tekst opisuje wiedzę Jamesa o poprzednim życiu?",
+      "question": "Skąd James zna szczegóły poprzedniego życia?",
       "answers": [
-        "Rodzice od razu mu o tym opowiedzieli",
-        "Po prostu wiedział, choć nikt mu tego nie powiedział",
-        "Wynika wyłącznie z lekcji w przedszkolu",
-        "Jest wymyślona przez dziennikarzy"
+        "Po prostu wiedział — nikt mu nie mówił",
+        "Rodzice opowiedzieli",
+        "Z lekcji w przedszkolu",
+        "Z gazety"
       ],
-      "correctIndex": 1,
-      "explanation": "Tekst podkreśla: „Ale nikt mu tego nie powiedział. Po prostu wiedział.”"
+      "correctIndex": 0,
+      "explanation": "Tekst podkreśla: nikt mu tego nie powiedział."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się matka chłopca?",
+      "answers": [
+        "Andrea",
+        "Maria",
+        "Anna",
+        "Joanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea budzi się na krzyk syna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Nad jaką wyspą zginął pilot w poprzednim życiu?",
+      "answers": [
+        "Chichi Jima",
+        "Okinawa",
+        "Hawaii",
+        "Guam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tekst podaje Chichi Jimę jako miejsce śmierci."
     }
   ]
 }

@@ -326,45 +326,73 @@ I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – 
 
 ### Question 1
 
-**Question:** Jak tekst wyjaśnia polski uśmiech wobec amerykańskiego?
+**Question:** Jak tekst wyjaśnia polski uśmiech?
 
 **Answers:**
-- A) Polacy uśmiehają się stale jak kelnerzy w USA
-- B) Uśmiech nie jest domyślny — pojawia się, gdy jest ku temu powód
-- C) Uśmiech jest zakazany w miejscach publicznych
+- A) Nie jest domyślny — pojawia się z powodem
+- B) Polacy uśmiechają się stale
+- C) Uśmiech jest zakazany
 - D) Uśmiech zawsze oznacza flirt
 
-**Correct:** B
-**Explanation:** Przyjaciel tłumaczy, że w Polsce uśmiech to nie domyślne ustawienie twarzy.
+**Correct:** A
+**Explanation:** Przyjaciel tłumaczy, że uśmiech to nie domyślne ustawienie twarzy.
 **Text reference:** Uśmiech to nie jest domyślne ustawienie twarzy
 
 ### Question 2
 
-**Question:** Dlaczego bohaterka czuje się zagubiona na początku?
+**Question:** Dlaczego bohaterka czuje się zagubiona?
 
 **Answers:**
-- A) Bo nie zna żadnych polskich słów
-- B) Bo jej amerykański uśmiech nie otwiera kontaktu tak jak w Kalifornii
-- C) Bo nie ma pieniędzy na kawę
-- D) Bo przyjechała do Krakowa zamiast do Warszawy
+- A) Amerykański uśmiech nie otwiera kontaktu
+- B) Nie zna polskich słów
+- C) Nie ma pieniędzy
+- D) Jechała do Krakowa
 
-**Correct:** B
-**Explanation:** Ludzie nie reagują na jej ciągły uśmiech; przyjaciel radzi przestać „wyglądać jak psychol”.
+**Correct:** A
+**Explanation:** Ludzie nie reagują na jej ciągły uśmiech.
 **Text reference:** Nikt się do mnie nie uśmiecha
 
 ### Question 3
 
-**Question:** Jaki gatunek tekstu to jest?
+**Question:** Co robią Polacy wchodząc do domu?
 
 **Answers:**
-- A) Suchy raport policyjny
-- B) Poradnik kulturowy w formie opowieści
-- C) Wiersz epicki
-- D) Transkrypt sądowy
+- A) Zdejmują buty
+- B) Zostawiają buty na nogach
+- C) Myją okna
+- D) Jedzą obiad
 
-**Correct:** B
-**Explanation:** Tekst łączy narrację z kolejnymi „zasadami” obyczajów w Polsce.
-**Text reference:** TRZYNAŚCIE ZASAD
+**Correct:** A
+**Explanation:** Zasada dziesiąta mówi o zdejmowaniu butów w domu.
+**Text reference:** Zdejmij buty w domu
+
+### Question 4
+
+**Question:** Co bohaterka uważa za małe zwycięstwo?
+
+**Answers:**
+- A) Powiedzenie „dziękuję” po polsku
+- B) Kupno kawy
+- C) Jazda metrem
+- D) Znalezienie hotelu
+
+**Correct:** A
+**Explanation:** Pierwsze „dziękuję” w sklepie to małe zwycięstwo.
+**Text reference:** dziękuję
+
+### Question 5
+
+**Question:** Jaka jest różnica między turystą a mieszkańcem?
+
+**Answers:**
+- A) Mieszkaniec akceptuje kraj takim, jaki jest
+- B) Turyści uczą się polskiego
+- C) Mieszkańcy nie uśmiechają się
+- D) Turyści zawsze wracają
+
+**Correct:** A
+**Explanation:** Turysta domaga się, by kraj był jak jego własny; mieszkaniec akceptuje.
+**Text reference:** musi się dostosować
 
 ---
 

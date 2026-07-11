@@ -111,42 +111,70 @@ Pan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze k
 **Question:** Gdzie rozgrywa się scena?
 
 **Answers:**
-- A) Na rynku w Krakowie
-- B) Na bulwarze nad Wisłą
-- C) W lesie pod Warszawą
-- D) Na dworcu kolejowym
+- A) Na bulwarze nad Wisłą
+- B) Na rynku w Krakowie
+- C) W lesie
+- D) Na dworcu
 
-**Correct:** B
-**Explanation:** Tekst mówi wprost o bulwarze i Wiśle.
-**Text reference:** stanęła na bulwarze
+**Correct:** A
+**Explanation:** Anna stoi na bulwarze nad Wisłą.
+**Text reference:** bulwarze
 
 ### Question 2
 
 **Question:** Co mówi starszy pan o wietrze?
 
 **Answers:**
-- A) Że wiatr jest zawsze zimny
-- B) Że wiatr pamięta to, co niosła woda
-- C) Że wiatr zatrzymuje most
-- D) Że wiatr nie wraca nigdy
+- A) Wiatr pamięta to, co niosła woda
+- B) Wiatr jest zawsze zimny
+- C) Wiatr zatrzymuje most
+- D) Wiatr nie wraca
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Pan mówi, że wiatr pamięta wszystko, co niosła woda.
-**Text reference:** Wiatr dziś pamięta wszystko
+**Text reference:** Wiatr dziś pamięta
 
 ### Question 3
 
 **Question:** Co Anna postanawia na końcu?
 
 **Answers:**
-- A) Nigdy tu nie wracać
-- B) Wrócić jutro
-- C) Pojechać do morza
+- A) Wrócić jutro
+- B) Nigdy tu nie wracać
+- C) Pojechać nad morze
 - D) Zadzwonić do przyjaciela
 
-**Correct:** B
-**Explanation:** Ostatnie zdanie mówi, że wróci tu jutro.
+**Correct:** A
+**Explanation:** Ostatnie zdanie mówi, że wróci jutro.
 **Text reference:** wróci tu jutro
+
+### Question 4
+
+**Question:** Jak ma na imię bohaterka?
+
+**Answers:**
+- A) Anna
+- B) Maria
+- C) Kasia
+- D) Ewa
+
+**Correct:** A
+**Explanation:** Anna stoi na bulwarze.
+**Text reference:** Anna
+
+### Question 5
+
+**Question:** Nad jaką rzeką stoi Anna?
+
+**Answers:**
+- A) Wisłą
+- B) Odrą
+- C) Wartą
+- D) Sanem
+
+**Correct:** A
+**Explanation:** Scena toczy się nad Wisłą.
+**Text reference:** Wisłą
 
 ---
 

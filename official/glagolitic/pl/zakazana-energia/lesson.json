@@ -33,39 +33,63 @@
     "questions": [
       {
         "type": "single_choice",
-        "question": "Co Helena znajduje w archiwach Dworca Głównego w Warszawie?",
+        "question": "Co Helena znajduje w archiwum Dworca Głównego?",
         "answers": [
-          "Plany nowoczesnego centrum przesiadkowego z 2024 roku",
-          "Dokument z 1889 roku z adnotacjami o „systemie rezonansowym”",
-          "List od Nikola Tesla",
-          "Zdjęcia oświetlenia gazowego bez adnotacji"
+          "Dokument z 1889 o systemie rezonansowym",
+          "Plany z 2024 roku",
+          "List od Tesli",
+          "Zdjęcia bez adnotacji"
         ],
-        "correctIndex": 1,
-        "explanation": "Natrafia na projekt techniczny z 1889 roku z odręczną adnotacją o systemie rezonansowym."
+        "correctIndex": 0,
+        "explanation": "Natrafia na projekt z adnotacją o systemie rezonansowym."
       },
       {
         "type": "single_choice",
-        "question": "Jaki wzorzec Helena dostrzega w dokumentach z różnych miast?",
+        "question": "Jaki wzorzec Helena widzi w innych miastach?",
         "answers": [
-          "Wszystkie dworce miały identyczne zegary",
-          "Podobne tajne systemy i oznaczenia wyprzedzające oficjalną elektryczność",
-          "Brak jakichkolwiek powtarzalnych elementów",
-          "Jedynie projekty oświetlenia gazowego bez adnotacji"
+          "Tajne systemy sprzed ery elektrycznej",
+          "Identyczne zegary",
+          "Brak powtarzalności",
+          "Tylko oświetlenie gazowe"
         ],
-        "correctIndex": 1,
-        "explanation": "W Krakowie, Poznaniu i Wrocławiu widzi te same nietypowe systemy i daty sprzed ery elektrycznej."
+        "correctIndex": 0,
+        "explanation": "W Krakowie, Poznaniu i Wrocławiu widzi podobne systemy."
       },
       {
         "type": "single_choice",
-        "question": "Jaką reakcję ma Helena, gdy dowody się mnożą?",
+        "question": "Jak reaguje Helena na dowody?",
         "answers": [
-          "Od razu publikuje wyniki w mediach",
-          "Powtarza sobie, że to niemożliwe, mimo narastających dowodów",
-          "Porzuca zawód architekta",
+          "Powtarza, że to niemożliwe",
+          "Od razu publikuje w mediach",
+          "Porzuca zawód",
           "Udaje, że nic nie znalazła"
         ],
-        "correctIndex": 1,
-        "explanation": "Wielokrotnie mówi „to niemożliwe”, choć dowody z kolejnych archiwów się kumulują."
+        "correctIndex": 0,
+        "explanation": "Wielokrotnie mówi „to niemożliwe”, choć dowody rosną."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kim jest Helena?",
+        "answers": [
+          "Architektką badającą archiwa",
+          "Dziennikarką",
+          "Kolejarką",
+          "Studentką medycyny"
+        ],
+        "correctIndex": 0,
+        "explanation": "Helena przeszukuje archiwa dworców."
+      },
+      {
+        "type": "single_choice",
+        "question": "W którym mieście zaczyna poszukiwania?",
+        "answers": [
+          "W Warszawie",
+          "W Krakowie",
+          "W Gdańsku",
+          "We Wrocławiu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zaczyna od archiwów Dworca Głównego w Warszawie."
       }
     ]
   },

@@ -36,37 +36,61 @@
         "type": "single_choice",
         "question": "Gdzie odbywa się opisywany targ?",
         "answers": [
-          "W Elblągu",
           "W Nowym Targu",
+          "W Elblągu",
           "W Krakowie",
           "W Budapeszcie"
         ],
-        "correctIndex": 1,
-        "explanation": "Adam jedzie na targ w Nowym Targu na Podhalu."
+        "correctIndex": 0,
+        "explanation": "Adam jedzie na targ w Nowym Targu."
       },
       {
         "type": "single_choice",
-        "question": "Dlaczego na stoiskach gastronomicznych podawano ceny w euro?",
+        "question": "Dlaczego ceny podawano w euro?",
         "answers": [
-          "Bo euro jest oficjalną walutą Polski",
-          "Bo Węgrzy i Słowacy nie chcieli przeliczać złotówek",
-          "Bo bankomaty nie działały",
-          "Bo sprzedawcy nie znali polskiego"
+          "Węgrzy i Słowacy nie chcieli przeliczać",
+          "Euro jest walutą Polski",
+          "Bankomaty nie działały",
+          "Sprzedawcy nie znali polskiego"
         ],
-        "correctIndex": 1,
-        "explanation": "Sprzedawca wyjaśnia, że klienci z Węgier i Słowacji wolą widzieć ceny w euro."
+        "correctIndex": 0,
+        "explanation": "Sprzedawca wyjaśnia, że klienci z Węgier i Słowacji wolą euro."
       },
       {
         "type": "single_choice",
-        "question": "Czym na końcu opowieści handluje Adam?",
+        "question": "Czym handluje Adam na końcu?",
         "answers": [
-          "Kaszmirem i swetrami",
           "Skórzanymi kurtkami i butami",
-          "Elektroniką i magnetowidami",
-          "Warzywami i wędlinami"
+          "Kaszmirem",
+          "Elektroniką",
+          "Warzywami"
         ],
-        "correctIndex": 1,
-        "explanation": "Adam ma własne stoisko ze skórzanymi kurtkami i butami."
+        "correctIndex": 0,
+        "explanation": "Ma własne stoisko ze skórzanymi kurtkami i butami."
+      },
+      {
+        "type": "single_choice",
+        "question": "Skąd przyjeżdżają kupcy na targ?",
+        "answers": [
+          "Z Węgier, Czech i Słowacji",
+          "Tylko z Polski",
+          "Z Japonii",
+          "Z USA"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tekst wspomina Węgrów, Czechów i Słowaków."
+      },
+      {
+        "type": "single_choice",
+        "question": "Ile kosztował kaszmir na stoisku?",
+        "answers": [
+          "270 złotych",
+          "50 euro",
+          "100 złotych",
+          "10 złotych"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sprzedawca podaje kaszmir za 270 złotych."
       }
     ]
   },

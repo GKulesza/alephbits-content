@@ -203,69 +203,74 @@ Bo w świecie pełnym magii każda legenda wciąż żyje. W opowieściach, któr
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie — 🏰 Legenda o Smoku Wawelskim
+**Quiz title:** Sprawdź zrozumienie
 
 ### Question 1
 
-**Question:** O czym opowiada tekst „🏰 Legenda o Smoku Wawelskim”?
+**Question:** Kim jest Skuba?
 
 **Answers:**
-- A) Dawno, dawno temu, kiedy Wisła płynęła jeszcze szerzej niż dziś, a Kraków dopier…
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Szewczykiem
+- B) Królem
+- C) Rycerzem od razu
+- D) Kupcem z rynku
 
 **Correct:** A
-**Explanation:** Wprowadzenie opowiada o temacie i sytuacji początkowej.
+**Explanation:** Skuba to prosty szewczyk z Krakowa.
+**Text reference:** prosty szewczyk
 
 ### Question 2
 
-**Question:** Do jakiej grupy czytelników skierowany jest ten tekst?
+**Question:** Co Skuba wkłada do barana?
 
 **Answers:**
-- A) family
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Siarkę i smołę
+- B) Złoto
+- C) Truciznę z apteki
+- D) Kamienie
 
 **Correct:** A
-**Explanation:** Metadane redakcyjne wskazują grupę: family.
+**Explanation:** Wypełnia barana siarką i smołą.
+**Text reference:** siarką i smołą
 
 ### Question 3
 
-**Question:** Jaki rodzaj treści reprezentuje ten materiał?
+**Question:** Dlaczego smok ginie?
 
 **Answers:**
-- A) legend
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Pije za dużo wody i pęka
+- B) Spada z wieży
+- C) Ginie od miecza
+- D) Ucieka w góry
 
 **Correct:** A
-**Explanation:** Tekst sklasyfikowano w kategorii legend.
+**Explanation:** Pił z Wisły, aż pękł.
+**Text reference:** pękł
 
 ### Question 4
 
-**Question:** Ile minut zajmuje orientacyjna lektura tego tekstu?
+**Question:** Jaki tytuł dostaje Skuba?
 
 **Answers:**
-- A) 8
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Szczyciel Smoka
+- B) Król Krakowa
+- C) Wódz wojska
+- D) Strażnik Wisły
 
 **Correct:** A
-**Explanation:** Szacowany czas czytania: ok. 8 minut.
+**Explanation:** Król nadaje mu tytuł Szczyciela Smoka.
+**Text reference:** Szczyciel Smoka
 
 ### Question 5
 
-**Question:** Czy tekst „🏰 Legenda o Smoku Wawelskim” kończy się zdaniem domykającym opowieść?
+**Question:** Co ogłasza król na końcu?
 
 **Answers:**
-- A) tak
-- B) Inna odpowiedź
-- C) Nie wynika z tekstu
-- D) Żadna z powyższych
+- A) Wielkie wesele
+- B) Nową wojnę
+- C) Zburzenie zamku
+- D) Zbanowanie Skuby
 
 **Correct:** A
-**Explanation:** Tekst zawiera domkniętą narrację.
+**Explanation:** Król ogłasza wielkie wesele ze księżniczką Wandą.
+**Text reference:** Otwieram wielkie wesele

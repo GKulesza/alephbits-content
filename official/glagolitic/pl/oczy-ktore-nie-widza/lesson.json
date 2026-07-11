@@ -28,67 +28,67 @@
   "translation": "",
   "text": "Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zmiany. Kiedyś dzieci przychodziły do szkoły z ciekawością, z chęcią poznawania. Teraz przychodziły z oczami, które nie umiały patrzeć.\n\n— Kto wie, co to jest litera? – zapytała na pierwszych zajęciach. Większość dzieci podniosła ręce. Znały litery z ekranów. Ale kiedy pokazała im na tablicy sylaby \"ma\", \"pa\", \"ba\", patrzyły niepewnie.\n\n— To jest \"ma\" – powiedziała. – Jak mama.\n\n— Mówi się \"em a\" – odpowiedział chłopiec z pierwszego rzędu.\n\nPani Anna uśmiechnęła się cierpliwie.\n\n— Nie, kochanie. W czytaniu nie nazywamy liter. Łączymy je. To jest \"ma\". Zobacz – napisała na tablicy: \"ma-ma\". – Co tu jest?\n\n— Mama – odpowiedziała dziewczynka z drugiego rzędu.\n\nPani Anna skinęła głową. Ta dziewczynka miała szansę. Jej rodzice czytali jej książki. Jej oczy wiedziały, jak podążać za tekstem, jak przechodzić od lewej do prawej, jak widzieć całość i szczegół jednocześnie.\n\nAle większość dzieci nie umiała. Ich oczy były przyzwyczajone do małego pola widzenia, do szybko zmieniających się obrazów. Nie umiały skupić się na jednej rzeczy. Nie umiały patrzeć na mapę, na tablicę, na stronę książki. Nie umiały zobaczyć tego, co jest po bokach, u góry, u dołu. Pole widzenia miały wąskie, jak ekran.\n\nPani Anna wiedziała, że to nie wina dzieci. To wina ekranów. I to, co robiło jej największy zawód, to że rodzice nie widzieli problemu. Albo nie chcieli widzieć.\n\nPewnego dnia przyszła do niej matka chłopca, który nie umiał czytać.\n\n— Dlaczego on nie potrafi? – zapytała. – W domu czyta świetnie.\n\n— Czyta?\n\n— Tak. Ma aplikację do nauki czytania.\n\nPani Anna poprosiła, żeby chłopiec przeczytał jej zdanie z książki. Chłopiec spojrzał na tekst i zaczął zgadywać. Nie umiał połączyć sylab. Nie umiał zrozumieć znaczenia. Jego oczy widziały litery, ale jego mózg nie umiał ich złożyć w słowa.\n\n— On nie czyta – powiedziała pani Anna. – On rozpoznaje obrazy. Aplikacja pokazuje mu słowa i obrazki, a on je dopasowuje. To nie jest czytanie. To jest kojarzenie.\n\nMatka spojrzała na nią z niedowierzaniem.\n\n— Czyli to wszystko, co robiliśmy, było bez sensu?\n\n— Nie bez sensu – odpowiedziała pani Anna. – Ale trzeba to zmienić. Czytanie to nie rozpoznawanie obrazków. Czytanie to łączenie dźwięków w znaczenia. To praca. I to praca, którą można wykonać tylko z radością.\n\nMatka wyszła z gabinetu zła. Ale wróciła po miesiącu.\n\n— Przepraszam – powiedziała. – Zrobiłam to, co pani radziła. Czytałam mu książki. Pokazywałam mu sylaby. I on zaczął czytać.\n\nPani Anna uśmiechnęła się.\n\n— To nie ja. To pani.\n\nMatka spojrzała na swoje ręce. I wtedy zrozumiała, że najważniejsza rzecz, jaką może dać dziecku, to nie aplikacja. To obecność.",
   "quiz": {
-    "title": "Sprawdź zrozumienie — II. Oczy, które nie widzą",
+    "title": "Sprawdź zrozumienie",
     "questions": [
       {
         "type": "single_choice",
-        "question": "O czym opowiada tekst „II. Oczy, które nie widzą”?",
+        "question": "Kim jest pani Anna?",
         "answers": [
-          "Pani Anna prowadziła zajęcia z czytania w zerówce od dwudziestu lat. Widziała zm…",
-          "Inna odpowiedź",
-          "Nie wynika z tekstu",
-          "Żadna z powyższych"
+          "Nauczycielką czytania w zerówce",
+          "Lekarką",
+          "Dyrektorką szkoły",
+          "Autorką podręczników"
         ],
         "correctIndex": 0,
-        "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+        "explanation": "Prowadzi zajęcia z czytania w zerówce od dwudziestu lat."
       },
       {
         "type": "single_choice",
-        "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+        "question": "Co chłopiec mówi o sylabie „ma”?",
         "answers": [
-          "adult",
-          "Inna odpowiedź",
-          "Nie wynika z tekstu",
-          "Żadna z powyższych"
+          "„Em a”",
+          "„Ma-ma”",
+          "„A em”",
+          "„Ma” bez łączenia"
         ],
         "correctIndex": 0,
-        "explanation": "Metadane redakcyjne wskazują grupę: adult."
+        "explanation": "Nazywa litery zamiast łączyć je w sylabę."
       },
       {
         "type": "single_choice",
-        "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+        "question": "Dlaczego pani Anna mówi, że chłopiec nie czyta?",
         "answers": [
-          "short_story",
-          "Inna odpowiedź",
-          "Nie wynika z tekstu",
-          "Żadna z powyższych"
+          "Rozpoznaje obrazki z aplikacji",
+          "Nie zna alfabetu",
+          "Nie chodzi do szkoły",
+          "Ma wadę wzroku"
         ],
         "correctIndex": 0,
-        "explanation": "Tekst sklasyfikowano w kategorii short_story."
+        "explanation": "Aplikacja pokazuje słowa z obrazkami — to kojarzenie, nie czytanie."
       },
       {
         "type": "single_choice",
-        "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+        "question": "Co matka zmienia po rozmowie z pani Anną?",
         "answers": [
-          "3",
-          "Inna odpowiedź",
-          "Nie wynika z tekstu",
-          "Żadna z powyższych"
+          "Czyta dziecku książki i ćwiczy sylaby",
+          "Kupuje nowy tablet",
+          "Zapisuje syna na sport",
+          "Zmienia szkołę"
         ],
         "correctIndex": 0,
-        "explanation": "Szacowany czas czytania: ok. 3 minut."
+        "explanation": "Po miesiącu matka czyta książki i pokazuje sylaby — chłopiec zaczyna czytać."
       },
       {
         "type": "single_choice",
-        "question": "Czy tekst „II. Oczy, które nie widzą” kończy się zdaniem domykającym opowieść?",
+        "question": "Co pani Anna mówi matce na końcu?",
         "answers": [
-          "tak",
-          "Inna odpowiedź",
-          "Nie wynika z tekstu",
-          "Żadna z powyższych"
+          "To pani nauczyła chłopca czytać",
+          "Aplikacja wystarczy",
+          "Dziecko nie nadaje się do nauki",
+          "Szkoła jest winna"
         ],
         "correctIndex": 0,
-        "explanation": "Tekst zawiera domkniętą narrację."
+        "explanation": "Mówi: „To nie ja. To pani.”"
       }
     ]
   },

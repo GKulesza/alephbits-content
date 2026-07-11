@@ -1,65 +1,65 @@
 {
-  "title": "Sprawdź zrozumienie — 👤 Maria Skłodowska-Curie",
+  "title": "Sprawdź zrozumienie",
   "questions": [
     {
       "type": "single_choice",
-      "question": "O czym opowiada tekst „👤 Maria Skłodowska-Curie”?",
+      "question": "Gdzie rodzi się Maria?",
       "answers": [
-        "Warszawa, rok 1867. W mieszkaniu przy ulicy Freta, w rodzinie Skłodowskich, przy…",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "W Warszawie",
+        "W Paryżu",
+        "W Krakowie",
+        "We Francji"
       ],
       "correctIndex": 0,
-      "explanation": "Wprowadzenie opowiada o temacie i sytuacji początkowej."
+      "explanation": "Warszawa, rok 1867 — rodzina Skłodowskich."
     },
     {
       "type": "single_choice",
-      "question": "Które imię pojawia się na początku opowieści?",
+      "question": "Dlaczego Maria traci wiarę w Boga?",
       "answers": [
-        "Maria",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Po śmierci matki",
+        "Po wojnie",
+        "Po śmierci ojca",
+        "Po rozwodzie"
       ],
       "correctIndex": 0,
-      "explanation": "Na początku tekstu występuje postać o imieniu Maria."
+      "explanation": "Po śmierci matki na gruźlicę przestaje wierzyć."
     },
     {
       "type": "single_choice",
-      "question": "Do jakiej grupy czytelników skierowany jest ten tekst?",
+      "question": "Jak Maria dociera na Sorbonę?",
       "answers": [
-        "teen",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Pracuje i wspiera siostrę Bronię",
+        "Dostaje stypendium od cara",
+        "Jedzie z mężem Pierre'em",
+        "Wygrywa konkurs naukowy"
       ],
       "correctIndex": 0,
-      "explanation": "Metadane redakcyjne wskazują grupę: teen."
+      "explanation": "Z Bronią zawiera pakt: najpierw jedna studiuje, druga pracuje."
     },
     {
       "type": "single_choice",
-      "question": "Jaki rodzaj treści reprezentuje ten materiał?",
+      "question": "Jak nazwała pierwiastek ku czci Polski?",
       "answers": [
-        "biography",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Polon",
+        "Radium",
+        "Uran",
+        "Curium"
       ],
       "correctIndex": 0,
-      "explanation": "Tekst sklasyfikowano w kategorii biography."
+      "explanation": "Maria nazywa go Polonem — hołd dla Polski."
     },
     {
       "type": "single_choice",
-      "question": "Ile minut zajmuje orientacyjna lektura tego tekstu?",
+      "question": "Ile razy Maria dostała Nagrodę Nobla?",
       "answers": [
-        "8",
-        "Inna odpowiedź",
-        "Nie wynika z tekstu",
-        "Żadna z powyższych"
+        "Dwa razy",
+        "Raz",
+        "Trzy razy",
+        "Nigdy"
       ],
       "correctIndex": 0,
-      "explanation": "Szacowany czas czytania: ok. 8 minut."
+      "explanation": "Nobel z fizyki i z chemii."
     }
   ]
 }
