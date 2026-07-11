@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "4txWwCTJqYw"
+    }
+  ],
   "revisionNotes": "Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę."
 }

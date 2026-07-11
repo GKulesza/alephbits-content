@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "vhdtCKdFpz4"
+    }
+  ],
   "revisionNotes": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
 }

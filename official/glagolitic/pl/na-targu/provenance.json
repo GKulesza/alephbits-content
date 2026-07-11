@@ -14,8 +14,16 @@
   },
   "sources": [
     {
-      "type": "original",
-      "description": "Original AlephBits narrative (Na targu)"
+      "type": "youtube",
+      "videoId": "xgvKeRGBgV8"
+    },
+    {
+      "type": "youtube",
+      "videoId": "V2gj8ec1pWQ"
+    },
+    {
+      "type": "youtube",
+      "videoId": "7JxsQXeilHg"
     }
   ],
   "revisionNotes": "First Collection Zero migration via compile_pack dogfooding sprint."

@@ -1,5 +1,6 @@
 import 'package:path/path.dart' as p;
 
+import 'editorial_provenance.dart';
 import 'json_writer.dart';
 import 'parser.dart';
 import 'trust_catalog.dart';
@@ -98,6 +99,7 @@ class ReadingPackCompiler {
     }
 
     final editorialHistory = _buildEditorialHistory(doc);
+    final editorialProvenance = buildEditorialProvenance(doc);
 
     final lesson = <String, dynamic>{
       'id': metadata['Pack ID'] ?? '',
@@ -113,7 +115,6 @@ class ReadingPackCompiler {
         'url': transparency['License URL'] ?? '',
         'spdx': license.spdx,
       },
-      'source': _primarySourceTitle(doc.sources),
       'recommendedWritingSystem': metadata['Writing system'] ?? '',
       'recommendedProfile': metadata['Recommended profile'] ?? '',
       'recommendedLevel': metadata['Recommended level'] ?? '',
@@ -143,10 +144,7 @@ class ReadingPackCompiler {
       lesson['editorialHistory'] = editorialHistory;
     }
 
-    final references = _buildReferences(doc.sources);
-    if (references.isNotEmpty) {
-      lesson['references'] = references;
-    }
+    lesson.addAll(editorialProvenance.toLessonJson());
 
     return lesson;
   }
@@ -178,6 +176,7 @@ class ReadingPackCompiler {
   ) {
     final metadata = doc.metadata;
     final transparency = doc.transparency;
+    final editorialProvenance = buildEditorialProvenance(doc);
 
     return {
       'packId': metadata['Pack ID'] ?? '',
@@ -193,7 +192,7 @@ class ReadingPackCompiler {
         'tools': <String>[],
         'humanReview': _humanReviewNote(doc),
       },
-      'sources': _buildProvenanceSources(doc.sources),
+      'sources': _buildProvenanceSources(doc, editorialProvenance),
       'revisionNotes': _revisionNotes(doc),
     };
   }
@@ -217,28 +216,16 @@ You may copy, modify, and distribute this work for any purpose without asking pe
 ''';
   }
 
-  List<Map<String, dynamic>> _buildReferences(List<SourceEntry> sources) {
-    final references = <Map<String, dynamic>>[];
-    for (final source in sources) {
-      if (source.deprecated) continue;
-      if (source.url == null) continue;
-      if (source.availability != 'licensed') continue;
-
-      final ref = <String, dynamic>{'title': source.title, 'url': source.url};
-      final description = source.referenceDescription ?? source.editorNotes;
-      if (description != null && description.isNotEmpty) {
-        ref['description'] = description;
-      }
-      references.add(ref);
-    }
-    return references;
-  }
-
   List<Map<String, dynamic>> _buildProvenanceSources(
-    List<SourceEntry> sources,
+    ReadingPackDocument doc,
+    EditorialProvenance editorialProvenance,
   ) {
+    if (editorialProvenance.youtubeVideoIds.isNotEmpty) {
+      return editorialProvenance.toProvenanceSources();
+    }
+
     final entries = <Map<String, dynamic>>[];
-    for (final source in sources) {
+    for (final source in doc.sources) {
       if (source.deprecated) continue;
       if (!_isProvenanceSource(source.availability)) continue;
       entries.add({'type': source.availability, 'description': source.title});
@@ -250,16 +237,6 @@ You may copy, modify, and distribute this work for any purpose without asking pe
     return availability == 'original' ||
         availability == 'public_domain' ||
         availability == 'adaptation';
-  }
-
-  String _primarySourceTitle(List<SourceEntry> sources) {
-    for (final source in sources) {
-      if (source.deprecated) continue;
-      if (_isProvenanceSource(source.availability)) {
-        return source.title;
-      }
-    }
-    return sources.isNotEmpty ? sources.first.title : '';
   }
 
   String _humanReviewNote(ReadingPackDocument doc) {

@@ -14,7 +14,6 @@
     "url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "spdx": "CC0-1.0"
   },
-  "source": "Collection Four manuscript",
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "5",
@@ -100,5 +99,11 @@
   "editorialHistory": {
     "firstPublished": "2026-07-10",
     "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2026-06-30"
+  ],
+  "inspiredBy": {
+    "youtube": "BIVzbrnrL90"
   }
 }

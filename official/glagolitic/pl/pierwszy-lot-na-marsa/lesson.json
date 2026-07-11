@@ -14,7 +14,6 @@
     "url": "",
     "spdx": "CC0-1.0"
   },
-  "source": "YouTube reference",
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "3",
@@ -100,16 +99,11 @@
     "firstPublished": "2026-07-10",
     "lastEditorialUpdate": "2026-07-10"
   },
-  "references": [
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=HfXR5ME4byc",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    },
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=c7owS-PRE0s",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    }
-  ]
+  "inspirationDates": [
+    "2025-10-28",
+    "2026-04-06"
+  ],
+  "inspiredBy": {
+    "youtube": "HfXR5ME4byc, c7owS-PRE0s"
+  }
 }

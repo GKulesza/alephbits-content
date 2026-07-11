@@ -14,8 +14,8 @@
   },
   "sources": [
     {
-      "type": "adaptation",
-      "description": "Collection One manuscript (YouTube editorial)"
+      "type": "youtube",
+      "videoId": "kppDpA5xukU"
     }
   ],
   "revisionNotes": "Collection One migration (Phase 39). Trust: Inspired by reality."

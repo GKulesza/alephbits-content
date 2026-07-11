@@ -14,7 +14,6 @@
     "url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "spdx": "CC0-1.0"
   },
-  "source": "Original AlephBits narrative (Na targu)",
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "3",
@@ -102,21 +101,13 @@
     "firstPublished": "2026-07-08",
     "lastEditorialUpdate": "2026-07-08"
   },
-  "references": [
-    {
-      "title": "YouTube — Targ w Nowym Targu (research)",
-      "url": "https://www.youtube.com/watch?v=xgvKeRGBgV8",
-      "description": "Materiał wideo o targu w Nowym Targu — inspiracja redakcyjna."
-    },
-    {
-      "title": "YouTube — Targowisko (research)",
-      "url": "https://www.youtube.com/watch?v=V2gj8ec1pWQ",
-      "description": "Archiwalny materiał o targowisku."
-    },
-    {
-      "title": "YouTube — Nowy Targ market (research)",
-      "url": "https://www.youtube.com/watch?v=7JxsQXeilHg",
-      "description": "Współczesny materiał o rynku w Nowym Targu."
-    }
-  ]
+  "inspirationDates": [
+    "2015-03-04",
+    "2024-04-16",
+    "2025-03-02",
+    "2026-07-08"
+  ],
+  "inspiredBy": {
+    "youtube": "xgvKeRGBgV8, V2gj8ec1pWQ, 7JxsQXeilHg"
+  }
 }

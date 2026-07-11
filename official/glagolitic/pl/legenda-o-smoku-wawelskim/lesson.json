@@ -14,7 +14,6 @@
     "url": "",
     "spdx": "CC0-1.0"
   },
-  "source": "YouTube reference",
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "3",
@@ -100,31 +99,14 @@
     "firstPublished": "2026-07-10",
     "lastEditorialUpdate": "2026-07-10"
   },
-  "references": [
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=Z-DJ7XocjRY",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    },
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=vZ_As1yDPAc",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    },
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=1wAJ0mC5nbc",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    },
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=pACvHQUZMqk",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    },
-    {
-      "title": "YouTube reference",
-      "url": "https://www.youtube.com/watch?v=1J_Y12RqeLM",
-      "description": "Vault source block; text is editorial adaptation, not transcript."
-    }
-  ]
+  "inspirationDates": [
+    "2013-11-09",
+    "2015-11-30",
+    "2024-02-20",
+    "2024-10-05",
+    "2025-08-15"
+  ],
+  "inspiredBy": {
+    "youtube": "Z-DJ7XocjRY, vZ_As1yDPAc, 1wAJ0mC5nbc, pACvHQUZMqk, 1J_Y12RqeLM"
+  }
 }

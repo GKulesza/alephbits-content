@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "BIVzbrnrL90"
+    }
+  ],
   "revisionNotes": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
 }

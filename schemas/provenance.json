@@ -33,18 +33,33 @@
     },
     "sources": {
       "type": "array",
-      "minItems": 1,
       "items": {
-        "type": "object",
-        "required": ["type", "description"],
-        "properties": {
-          "type": {
-            "type": "string",
-            "enum": ["original", "public_domain", "licensed", "adaptation"]
+        "oneOf": [
+          {
+            "type": "object",
+            "required": ["type", "videoId"],
+            "additionalProperties": false,
+            "properties": {
+              "type": { "const": "youtube" },
+              "videoId": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9_-]{11}$"
+              }
+            }
           },
-          "description": { "type": "string", "minLength": 1 },
-          "url": { "type": "string", "format": "uri" }
-        }
+          {
+            "type": "object",
+            "required": ["type", "description"],
+            "additionalProperties": false,
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["original", "public_domain", "licensed", "adaptation"]
+              },
+              "description": { "type": "string", "minLength": 1 }
+            }
+          }
+        ]
       }
     },
     "revisionNotes": { "type": "string" }

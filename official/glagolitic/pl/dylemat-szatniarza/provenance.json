@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "kZz_wY8fkNg"
+    }
+  ],
   "revisionNotes": "Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci."
 }

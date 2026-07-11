@@ -12,6 +12,31 @@
     "tools": [],
     "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "fJYhsoLvCoo"
+    },
+    {
+      "type": "youtube",
+      "videoId": "MDDgV3wpW2U"
+    },
+    {
+      "type": "youtube",
+      "videoId": "34gGO91R68I"
+    },
+    {
+      "type": "youtube",
+      "videoId": "VE5k9xBrP_E"
+    },
+    {
+      "type": "youtube",
+      "videoId": "Qeb47TM0I90"
+    },
+    {
+      "type": "youtube",
+      "videoId": "9OQ2yjLh_1w"
+    }
+  ],
   "revisionNotes": "Phase 75 catalog migration"
 }

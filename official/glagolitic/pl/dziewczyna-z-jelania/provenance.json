@@ -14,8 +14,8 @@
   },
   "sources": [
     {
-      "type": "adaptation",
-      "description": "Collection One manuscript (YouTube editorial)"
+      "type": "youtube",
+      "videoId": "8t62FJAeb_c"
     }
   ],
   "revisionNotes": "Collection One migration (Phase 39). Trust: Fiction."

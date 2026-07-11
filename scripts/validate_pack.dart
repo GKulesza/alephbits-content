@@ -514,20 +514,38 @@ void _validatePackDirectory(
   }
 
   final references = lesson['references'];
-  if (references is List) {
-    for (var i = 0; i < references.length; i++) {
-      final ref = references[i];
-      if (ref is! Map<String, dynamic>) {
-        errors.add('$prefix references[$i] must be an object');
-        continue;
+  if (references is List && references.isNotEmpty) {
+    errors.add(
+      '$prefix lesson.json must not use legacy references[] — use inspiredBy.youtube',
+    );
+  }
+
+  final inspiredBy = lesson['inspiredBy'];
+  if (inspiredBy is Map<String, dynamic>) {
+    final youtube = inspiredBy['youtube'];
+    if (youtube is String && youtube.isNotEmpty) {
+      if (youtube.contains('http') || youtube.contains('youtube.com')) {
+        errors.add('$prefix inspiredBy.youtube must store video IDs only');
       }
-      final refTitle = ref['title'];
-      if (refTitle is! String || refTitle.isEmpty) {
-        errors.add('$prefix references[$i] missing "title"');
+      final ids = youtube.split(',').map((s) => s.trim()).where((s) => s.isNotEmpty);
+      final seen = <String>{};
+      for (final id in ids) {
+        if (!RegExp(r'^[A-Za-z0-9_-]{11}$').hasMatch(id)) {
+          errors.add('$prefix inspiredBy.youtube has invalid video id: $id');
+        }
+        if (!seen.add(id)) {
+          errors.add('$prefix inspiredBy.youtube duplicates video id: $id');
+        }
       }
-      final url = ref['url'];
-      if (url is String && url.isNotEmpty && !url.startsWith('http')) {
-        errors.add('$prefix references[$i] url must be http(s): $url');
+    }
+  }
+
+  final inspirationDates = lesson['inspirationDates'];
+  if (inspirationDates is List) {
+    for (var i = 0; i < inspirationDates.length; i++) {
+      final date = inspirationDates[i];
+      if (date is! String || !RegExp(r'^\d{4}-\d{2}-\d{2}$').hasMatch(date)) {
+        errors.add('$prefix inspirationDates[$i] must be YYYY-MM-DD');
       }
     }
   }

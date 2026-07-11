@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "JsFiTY_Cnf0"
+    }
+  ],
   "revisionNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
 }

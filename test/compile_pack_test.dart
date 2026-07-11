@@ -20,7 +20,7 @@ void main() {
       final doc = ReadingPackParser().parse(markdown, packDirPath: demoPack);
       expect(doc.metadata['Pack ID'], 'polish_demo_lesson');
       expect(doc.title, 'Spacer po Krakowie');
-      expect(doc.quiz?.questions.length, 3);
+      expect(doc.quiz?.questions.length, 5);
     });
 
     test('parses Text section with in-body chapter headings', () {

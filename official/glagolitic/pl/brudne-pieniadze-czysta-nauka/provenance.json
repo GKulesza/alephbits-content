@@ -12,6 +12,11 @@
     "tools": [],
     "humanReview": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "n98W-FSO9vw"
+    }
+  ],
   "revisionNotes": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
 }

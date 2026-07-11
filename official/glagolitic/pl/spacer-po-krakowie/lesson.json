@@ -14,7 +14,6 @@
     "url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "spdx": "CC0-1.0"
   },
-  "source": "Original AlephBits demo content",
   "recommendedWritingSystem": "glagolitic",
   "recommendedProfile": "polish_default",
   "recommendedLevel": "2",
@@ -101,11 +100,7 @@
     "firstPublished": "2026-07-06",
     "lastEditorialUpdate": "2026-07-07"
   },
-  "references": [
-    {
-      "title": "Kraków — Wikipedia",
-      "url": "https://pl.wikipedia.org/wiki/Krak%C3%B3w",
-      "description": "Informacje o historii i zabytkach miasta."
-    }
+  "inspirationDates": [
+    "2026-07-06"
   ]
 }

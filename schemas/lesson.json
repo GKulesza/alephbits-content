@@ -66,6 +66,22 @@
     "textRef": { "type": "string" },
     "quiz": { "$ref": "quiz.json" },
     "quizRef": { "type": "string" },
+    "inspirationDates": {
+      "type": "array",
+      "items": { "type": "string", "format": "date" },
+      "uniqueItems": true
+    },
+    "inspiredBy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "youtube": {
+          "type": "string",
+          "minLength": 11,
+          "pattern": "^[A-Za-z0-9_-]{11}(, [A-Za-z0-9_-]{11})*$"
+        }
+      }
+    },
     "references": {
       "type": "array",
       "items": {

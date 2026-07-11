@@ -12,6 +12,27 @@
     "tools": [],
     "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
   },
-  "sources": [],
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "-XG9KslBslY"
+    },
+    {
+      "type": "youtube",
+      "videoId": "qkIb6zUHVbI"
+    },
+    {
+      "type": "youtube",
+      "videoId": "m0ql8dMsfgQ"
+    },
+    {
+      "type": "youtube",
+      "videoId": "EDG2lkDtA-g"
+    },
+    {
+      "type": "youtube",
+      "videoId": "AMt6AquOv7Q"
+    }
+  ],
   "revisionNotes": "Phase 75 catalog migration"
 }
