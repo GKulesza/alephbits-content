@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-10T00:00:00Z",
-  "officialPackCount": 50,
+  "generatedAt": "2026-07-11T00:00:00Z",
+  "officialPackCount": 51,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -142,6 +142,7 @@
         "polish_misja_ktora_pekla",
         "polish_na_dworcu",
         "polish_na_targu",
+        "polish_nadwyzka",
         "polish_prolog_wiatru",
         "polish_przerwa",
         "polish_pudelko_po_ciastkach",
@@ -216,14 +217,15 @@
         "polish_kontrolowana_halucynacja",
         "polish_metoda_feynmana",
         "polish_glosy_z_ziemi",
-        "polish_kamera_na_ulicy"
+        "polish_kamera_na_ulicy",
+        "polish_nadwyzka"
       ]
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 50,
-    "totalWords": 67397,
-    "totalEstimatedReadingTimeMinutes": 366,
+    "totalPacks": 51,
+    "totalWords": 69089,
+    "totalEstimatedReadingTimeMinutes": 375,
     "languageCount": 1,
     "writingSystemCount": 1,
     "categoryCount": 18,
@@ -233,9 +235,9 @@
       "wordCount": 2502
     },
     "newestPack": {
-      "id": "polish_brudne_pieniadze_czysta_nauka",
-      "bookId": "brudne-pieniadze-czysta-nauka",
-      "updated": "2026-07-10"
+      "id": "polish_nadwyzka",
+      "bookId": "nadwyzka",
+      "updated": "2026-07-11"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -985,6 +987,28 @@
       "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 13,
+      "featured": true
+    },
+    {
+      "id": "polish_nadwyzka",
+      "bookId": "nadwyzka",
+      "path": "official/glagolitic/pl/nadwyzka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Nadwyżka",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "popular_science",
+        "article"
+      ],
+      "coverFamily": "popular_science",
+      "subtitle": "Gdy symulacja widzi więcej niż model",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 7,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {

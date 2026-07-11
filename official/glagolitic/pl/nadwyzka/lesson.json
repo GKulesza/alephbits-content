@@ -1,0 +1,110 @@
+{
+  "id": "polish_nadwyzka",
+  "title": "Nadwyżka",
+  "language": "pl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-11",
+  "description": "Tadek Pachocki budzi się w Gdyni na alarm z laboratorium: symulacja centrum Drogi Mlecznej odchyla się od modelu o 4,2 sigmy. Razem z doktorantem Kamilem odkrywa regularną strukturę tam, gdzie spodziewano się pulsarów albo śladów ciemnej materii — i staje przed wyborem, czy opublikować śmiałą hipotezę, zanim zrobi to ktoś inny. Opowieść o odwadze naukowej, pamięci ojca-inżyniera i o tym, że najważniejsze odkrycie bywa dobrym pytaniem, a nie gotową odpowiedzią.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "5",
+  "tags": [
+    "astrofizyka",
+    "symulacja",
+    "ciemna materia",
+    "publikacja naukowa",
+    "Gdynia"
+  ],
+  "difficulty": 7,
+  "estimatedReadingTime": 9,
+  "translation": "Nadwyżka — Collection Seven official reading pack (Polish).",
+  "text": "**NADWYŻKA**\n\n**Gdy symulacja widzi więcej niż model**\n\nTadek Pachocki wiedział, że ma problem, zanim jeszcze otworzył oczy. Jego telefon wibrował na szklanym biurku z upiorną regularnością – trzy krótkie, dwa długie, pauza, znowu. Sygnał alarmowy z laboratorium. Włączał go sam, miesiąc temu, po tym jak któryś z doktorantów przez przypadek uruchomił nocną symulację na głównym klastrze i spalił trzy dni pracy całego zespołu.\n\nOtworzył oczy. Sufit jego mieszkania w Gdyni był szary, porysowany, a przez okno wpadało blade światło Bałtyku. Wziął głęboki wdech i sięgnął po telefon.\n\n_ALERT: Niekonwencjonalna aktywność w symulacji nr 47. Wykryto odchylenie 4.2 sigma od modelu bazowego._\n\nPrzetarł oczy i przeczytał jeszcze raz. 4.2 sigma. To nie był przypadek. Tadek usiadł na łóżku, palce już same zaczęły pisać odpowiedź do zespołu:\n\n_\"Zatrzymajcie wszystko. Sprawdzam. Będę za godzinę.\"_\n\nRzucił telefon na kołdrę i przez chwilę patrzył w ścianę. Miał trzydzieści cztery lata, kierował zespołem astrofizyków obliczeniowych na Uniwersytecie Gdańskim i właśnie – najprawdopodobniej – znalazł coś, co mogło zburzyć lata spokojnej pracy całej jego kariery.\n\nUbrał się w ciemno. Nie zapalił światła. W kuchni zostawił niedopitą kawę, którą zrobił wczoraj wieczorem. Gdzieś w tle, w jego głowie, rozbrzmiewało pytanie, które zadawał sobie od roku: _co zrobiłby ojciec?_\n\nNie odpowiedział sobie. Wyszedł z mieszkania.\n\nLaboratorium Astrofizyki Obliczeniowej mieściło się w szarym budynku na obrzeżach kampusu. Tadek przeszedł przez trzy drzwi z kodami dostępu, mijając biura, które o tej porze były jeszcze puste. Tylko w jednym paliło się światło – jego własnym, bo nigdy nie wychodził z pracy o normalnej godzinie.\n\nPrzed monitorem siedział Kamil, jego najlepszy doktorant, chłopak po dwudziestce z oczami zapadniętymi od zbyt wielu godzin wpatrywania się w linie kodu. Kiedy Tadek wszedł, Kamil nawet się nie odwrócił. Wskazał tylko na ekran.\n\n— Spójrz.\n\nTadek podszedł bliżej. Na ekranie rozciągała się mapa centrum Drogi Mlecznej – zagęszczenie światła, miliony gwiazd, pył, gaz, wszystko to, co stanowiło serce naszej galaktyki. Ale nałożone na to były dane – czerwone, pulsujące punkty, które układały się w coś, co wyglądało jak sfera.\n\n— Ile punktów? — zapytał.\n\n— Trzydzieści pięć tysięcy. Może więcej. Symulacja sugeruje, że to populacja bardzo słabych, szybko rotujących pulsarów. Tylko... — Kamil przerwał, zacisnął usta. — Tylko tyle jest, że nasza sieć neuronowa znalazła wzór. Spójrz tutaj.\n\nPrzestawił obraz. Tadek patrzył.\n\n— To nie jest rozkład przypadkowy — powiedział cicho. — One nie są rozmieszczone jak typowa populacja gwiazd neutronowych. One tworzą regularną strukturę.\n\n— Tak — potwierdził Kamil. — I to jest właśnie to, co wywołało alarm. Przez ostatnie trzy godziny próbowałem sprawdzić, czy to nie artefakt. Nie jest. AI wyłapała coś, czego wcześniejsze modele nie widziały. Albo mamy do czynienia z populacją pulsarów, która rozmieszczona jest w sposób, jakiego nie potrafimy wyjaśnić... albo to nie są pulsary.\n\nTadek oparł się o biurko. Przez chwilę słyszał tylko szum wentylacji i cichy brzęk monitorów. W głowie układał mu się obraz z artykułu, który czytał miesiąc temu – _Physical Review Letters_, międzynarodowy zespół badaczy z Uniwersytetu Wiedeńskiego, który za pomocą uczenia maszynowego analizował nadwyżkę promieniowania gamma z centrum galaktyki. Wynik: populacja ponad 35 tysięcy bardzo słabych pulsarów.\n\nAle nikt wtedy nie powiedział, że będą one układać się w strukturę. To było coś nowego.\n\n— Kamil — powiedział cicho. — To jest albo największe odkrycie naszej dekady... albo największa pomyłka.\n\n— A co z ciemną materią? — zapytał doktorant. — W końcu to był drugi trop.\n\nTadek uśmiechnął się gorzko. \"Ciemna materia\" – słowo, które przez ostatnie lata stało się zarówno obietnicą, jak i przekleństwem. On sam spędził trzy lata, próbując znaleźć dowody na jej istnienie w danych z teleskopów gamma. I zawsze, zawsze trafiał na tę samą ścianę – brak bezpośrednich dowodów, tylko poszlaki, tylko pośrednie wskazówki.\n\nAle teraz...\n\n— Może — powiedział powoli. — Może to ani ciemna materia, ani pulsary. Może to coś zupełnie innego. Kamil, zrób mi symulację alternatywną. Załóż, że to emisja pochodząca z procesu, którego nie znamy. Daj AI wolną rękę.\n\nDoktorant spojrzał na niego z wahaniem.\n\n— To może zająć dni.\n\n— Wiem. Ale jeśli mamy rację... to ktoś inny nas ubiegnie.\n\nPrzez następne godziny Tadek siedział w swoim biurze, wpatrując się w dane, które układały się przed nim jak puzzle bez obrazka na pudełku. Wspominał rozmowy z ojcem – nie o astrofizyce, nigdy o astrofizyce, bo ojciec był inżynierem, specjalistą od optymalizacji systemów – ale o czymś ważniejszym.\n\n_\"Najpierw dostajesz wyzwanie\"_ – mawiał jego ojciec, kiedy Tadek był jeszcze dzieckiem i uczył się rozwiązywać pierwsze zadania z informatyki. _\"Dostajesz problem, którego nikt wcześniej nie rozwiązał. I siedzisz nad nim, i głowisz się, i szukasz. A potem, w pewnym momencie, przychodzi natchnienie. Nie dlatego, że jesteś geniuszem – dlatego, że twój mózg pracował cały czas, nawet kiedy spałeś. I nagle widzisz całość.\"_\n\nTadek pamiętał ten głos. Pamiętał, jak ojciec uczył go programowania, kiedy miał dziesięć lat, a wszyscy w szkole mówili, że jest przeciętny. Pamiętał, jak ojciec tłumaczył mu, że błędy to nie porażki, tylko kroki w stronę rozwiązania. Pamiętał, jak ojciec zabrał go na warsztaty, gdzie po raz pierwszy zobaczył, że można uczyć się nie na pamięć, tylko przez wyzwania.\n\n_\"Nie bój się szukać tego, co niewidoczne\"_ – powiedział mu ojciec, kiedy Tadek wyjeżdżał na studia do Warszawy. _\"Największe odkrycia zaczynają się od tego, że ktoś zauważa coś, czego inni nie chcą widzieć.\"_\n\nWtedy Tadek myślał, że ojciec mówi o fizyce, o nauce. Teraz, patrząc na ekran z symulacją, która ukazywała regularną, wręcz organiczną strukturę w centrum galaktyki, zaczął rozumieć, że ojciec mówił o czymś znacznie większym.\n\n\"Co zrobiłbyś ty?\" – wyszeptał do pustego pokoju.\n\nOdpowiedź przyszła natychmiast, nie jako głos, ale jako decyzja, która zapadła gdzieś głęboko w nim: _\"Poszedłbyś dalej. Nawet jeśli wszyscy mówią ci, że to niemożliwe.\"_\n\nTadek sięgnął po klawiaturę i zaczął pisać.\n\nTrzy dni później Kamil wszedł do jego biura bez pukania. Miał pod oczami ciemne worki, ale w jego spojrzeniu było coś, czego Tadek nie widział od dawna – czysty, nieokiełznany entuzjazm.\n\n— Znalazłem to — powiedział. — Albo raczej... znalazła to maszyna. Spójrz.\n\nNa ekranie pojawił się wykres. Tadek patrzył przez chwilę, nie rozumiejąc, co widzi.\n\n— To jest pole, tak? — zapytał. — Pole czegoś?\n\n— Pola... — Kamil zawahał się. — Pola, które nie ma nazwy, bo nikt go nigdy nie opisał. Ale jeśli założymy, że istnieje, że działa jak coś pomiędzy grawitacją a oddziaływaniem silnym... to wszystko się zgadza. Zarówno emisja gamma w centrum galaktyki, jak i rozkład tej \"populacji\" pasują. To nie są pulsary, Tadek. To nie jest ciemna materia. To jest znak, że brakuje nam kawałka układanki.\n\nTadek poczuł, jak robi mu się zimno. Jeśli to była prawda, jeśli rzeczywiście odkryli nowe pole fizyczne, nowe oddziaływanie, to znaczyło, że podważali fundamenty współczesnej astrofizyki. A to z kolei znaczyło, że publikacja ich pracy spotka się nie tylko z entuzjazmem, ale przede wszystkim z oporem. Z krytyką. Z oskarżeniami o nierzetelność, o zbyt śmiałe interpretacje, o szukanie sensacji.\n\nJak ojciec, kiedy mówił o swojej metodzie nauczania. Jak człowiek, który znalazł coś, czego nikt nie chciał widzieć.\n\n— Masz dowody? — zapytał. — Twarde, matematyczne dowody?\n\n— Mam symulacje. Mam statystyki. Mam to, że każdy inny model zawodzi, a ten działa. — Kamil pochylił się nad biurkiem. — Tadek, wiem, że to brzmi szaleńczo. Wiem, że nikt nam nie uwierzy, jeśli wyjdziemy z tym teraz. Ale jeśli poczekamy... jeśli ktoś inny znajdzie to samo...\n\nTadek zacisnął zęby. Wiedział, co musi zrobić. Wiedział, że ojciec powiedziałby mu: _\"Publikuj. Nawet jeśli się mylisz. Nawet jeśli wszyscy będą cię krytykować. Nauka to proces, nie wyścig. Ale jeśli masz rację, nie możesz trzymać tego dla siebie.\"_\n\n— Piszemy artykuł — powiedział. — Zbieramy wszystkie dane, wszystkie symulacje, wszystkie wnioski. I wysyłamy do _Physical Review Letters_. Niech ocenią to najwięksi eksperci.\n\nKamil spojrzał na niego z mieszaniną ulgi i niepokoju.\n\n— A jeśli odrzucą?\n\n— To prześlemy do kogoś innego. A jeśli wszyscy odrzucą... — Tadek uśmiechnął się. — To opublikujemy na arXiv. Niech świat oceni.\n\nSześć miesięcy później Tadek siedział w tym samym biurze, z tym samym widokiem na szary, zimowy Bałtyk. Na biurku leżał wydruk z _Physical Review Letters_ – jego artykuł, który przeszedł przez piekło recenzji, krytyki, poprawek i ponownej krytyki.\n\nTekst był krótki, rzeczowy, pełen zastrzeżeń. Tytuł: _\"Alternatywna interpretacja nadwyżki promieniowania gamma w centrum Drogi Mlecznej – hipoteza nowego pola oddziaływania\"_.\n\nDostał sto dziewięć listów od naukowców z całego świata. Połowa chwaliła jego odwagę, druga połowa zarzucała mu nierzetelność. Wysłuchał wykładów na trzech konferencjach, gdzie starsi profesorowie z zapadniętymi policzkami patrzyli na niego jak na heretyka. Stracił dwa granty, bo fundatorzy uznali jego badania za \"zbyt ryzykowne\".\n\nAle zyskał też coś innego.\n\nKilka dni temu zadzwonił do niego młody fizyk z Uniwersytetu Harvarda, który powiedział krótko:\n\n— Panie doktorze, pracujemy nad podobną hipotezą od dwóch lat. Nie mieliśmy odwagi tego opublikować. Dziękuję, że pan to zrobił. Może teraz reszta świata wreszcie zacznie szukać w dobrym kierunku.\n\nTadek nie odpowiedział. Nie był pewien, co powiedzieć. Wiedział tylko, że połączenie, które przed laty wykonał z ojcem, nie było o fizyce. Było o czymś znacznie głębszym – o wierze, że warto szukać tego, czego inni nie widzą, nawet jeśli przez chwilę jesteś sam.\n\nWziął wydruk do ręki. W rogu strony, w przypisie, umieścił dedykację, której nikt poza nim nie rozumiał:\n\n_\"Wszystkim nauczycielom, którzy uczą rozwiązywać wyzwania, zamiast wkuwać schematy.\"_\n\nPotem wstał, zostawił artykuł na biurku i wyszedł z laboratorium. Na zewnątrz padał deszcz, ale on nie wziął parasola. Potrzebował chwili, żeby poczuć na twarzy coś realnego, coś namacalnego.\n\nSzedł wzdłuż nadmorskiej promenady, słysząc szum fal i myśląc o tym, co znalazł – a właściwie o tym, czego nie znalazł. Bo to właśnie było największe odkrycie: nie odpowiedź, ale właściwe pytanie.\n\nMoże to była ciemna materia. Może to był nowy rodzaj oddziaływania. Może to był błąd w symulacji. Ale teraz, niezależnie od wyniku, wiedział jedno: nie będzie już patrzeć na wszechświat tak samo. I to wystarczyło.\n\nZatrzymał się na chwilę i spojrzał w niebo. W dzień nie było widać gwiazd, ale wiedział, że tam, w centrum galaktyki, coś świeci. Coś, czego nie potrafił jeszcze nazwać.\n\nUśmiechnął się do siebie.\n\n_\"Dobrze\"_ – pomyślał. _\"Właśnie tak powinno być.\"_\n\nPoszedł dalej, zostawiając za sobą laboratorium, wydruki i cały ten hałas. Bo wiedział, że to, co naprawdę ważne, dopiero się zaczynało.\n\n**KONIEC**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Co dokładnie uruchamia alarm w laboratorium na początku opowiadania?",
+        "answers": [
+          "Awaria zasilania klastra obliczeniowego",
+          "Odchylenie 4,2 sigma od modelu bazowego w symulacji nr 47",
+          "Przypadkowe włączenie nocnej symulacji przez doktoranta",
+          "Brak połączenia z teleskopem kosmicznym"
+        ],
+        "correctIndex": 1,
+        "explanation": "Telefon Tadka pokazuje alert o niekonwencjonalnej aktywności i odchyleniu 4,2 sigma."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co w danych z centrum galaktyki wyróżnia Kamil i budzi wątpliwości co do pulsarów?",
+        "answers": [
+          "Punkty układają się w regularną strukturę, a nie przypadkowy rozkład",
+          "Na mapie nie ma żadnych punktów danych",
+          "Wszystkie pulsary mają identyczną jasność jak Słońce",
+          "Symulacja pokazuje tylko pył międzygwiezdny bez emisji"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sieć neuronowa wykrywa wzór — rozmieszczenie nie przypomina typowej populacji gwiazd neutronowych."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jaką alternatywną instrukcję Tadek daje Kamilowi po wątpliwościach co do ciemnej materii?",
+        "answers": [
+          "Usunąć dane i zamknąć projekt",
+          "Zrobić symulację z nieznanego procesu emisji, dając AI wolną rękę",
+          "Opublikować wyniki natychmiast bez recenzji",
+          "Przekazać badania zespołowi wiedeńskiemu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tadek prosi o symulację alternatywną zakładającą proces, którego jeszcze nie znają."
+      },
+      {
+        "type": "single_choice",
+        "question": "Gdzie Tadek i Kamil wysyłają swój artykuł po zebraniu danych?",
+        "answers": [
+          "Do czasopisma Physical Review Letters",
+          "Wyłącznie na Twittera naukowego",
+          "Do lokalnej gazety w Gdyni",
+          "Bezpośrednio do NASA bez recenzji"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tadek decyduje o wysłaniu pracy do PRL, a arXiv traktuje jako zapasową drogę."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Tadek umieszcza w przypisie opublikowanego artykułu?",
+        "answers": [
+          "Pełną listę utraconych grantów",
+          "Dedykację nauczycielom uczącym przez wyzwania",
+          "Ostrzeżenie przed błędem symulacji",
+          "Numer telefonu do zespołu z Harvardu"
+        ],
+        "correctIndex": 1,
+        "explanation": "W przypisie zostawia osobistą dedykację nawiązującą do nauki ojca."
+      }
+    ]
+  },
+  "coverFamily": "popular_science",
+  "audience": "adult",
+  "subtitle": "Gdy symulacja widzi więcej niż model",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-11",
+    "lastEditorialUpdate": "2026-07-11"
+  },
+  "inspirationDates": [
+    "2025-12-18"
+  ],
+  "inspiredBy": {
+    "youtube": "rbAuChFG0Tg"
+  }
+}

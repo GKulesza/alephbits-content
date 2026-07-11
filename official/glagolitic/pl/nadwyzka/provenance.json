@@ -1,0 +1,22 @@
+{
+  "packId": "polish_nadwyzka",
+  "bookId": "nadwyzka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-11",
+  "lastReviewedAt": "2026-07-11",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Spekulatywna publicystyka naukowa inspirowana realnymi badaniami nadwyżki promieniowania gamma w centrum galaktyki; wymaga rozdzielenia faktów od fikcyjnej hipotezy nowego pola."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "rbAuChFG0Tg"
+    }
+  ],
+  "revisionNotes": "Collection Seven editorial import (Phase 83). Fikcyjna hipoteza nowego pola oddziaływania na tle realnych badań Wiednia/PRL; wymaga founder review przed traktowaniem jako materiał edukacyjny z fizyki."
+}

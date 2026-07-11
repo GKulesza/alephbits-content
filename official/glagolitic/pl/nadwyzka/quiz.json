@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co dokładnie uruchamia alarm w laboratorium na początku opowiadania?",
+      "answers": [
+        "Awaria zasilania klastra obliczeniowego",
+        "Odchylenie 4,2 sigma od modelu bazowego w symulacji nr 47",
+        "Przypadkowe włączenie nocnej symulacji przez doktoranta",
+        "Brak połączenia z teleskopem kosmicznym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Telefon Tadka pokazuje alert o niekonwencjonalnej aktywności i odchyleniu 4,2 sigma."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co w danych z centrum galaktyki wyróżnia Kamil i budzi wątpliwości co do pulsarów?",
+      "answers": [
+        "Punkty układają się w regularną strukturę, a nie przypadkowy rozkład",
+        "Na mapie nie ma żadnych punktów danych",
+        "Wszystkie pulsary mają identyczną jasność jak Słońce",
+        "Symulacja pokazuje tylko pył międzygwiezdny bez emisji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sieć neuronowa wykrywa wzór — rozmieszczenie nie przypomina typowej populacji gwiazd neutronowych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką alternatywną instrukcję Tadek daje Kamilowi po wątpliwościach co do ciemnej materii?",
+      "answers": [
+        "Usunąć dane i zamknąć projekt",
+        "Zrobić symulację z nieznanego procesu emisji, dając AI wolną rękę",
+        "Opublikować wyniki natychmiast bez recenzji",
+        "Przekazać badania zespołowi wiedeńskiemu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tadek prosi o symulację alternatywną zakładającą proces, którego jeszcze nie znają."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Tadek i Kamil wysyłają swój artykuł po zebraniu danych?",
+      "answers": [
+        "Do czasopisma Physical Review Letters",
+        "Wyłącznie na Twittera naukowego",
+        "Do lokalnej gazety w Gdyni",
+        "Bezpośrednio do NASA bez recenzji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tadek decyduje o wysłaniu pracy do PRL, a arXiv traktuje jako zapasową drogę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tadek umieszcza w przypisie opublikowanego artykułu?",
+      "answers": [
+        "Pełną listę utraconych grantów",
+        "Dedykację nauczycielom uczącym przez wyzwania",
+        "Ostrzeżenie przed błędem symulacji",
+        "Numer telefonu do zespołu z Harvardu"
+      ],
+      "correctIndex": 1,
+      "explanation": "W przypisie zostawia osobistą dedykację nawiązującą do nauki ojca."
+    }
+  ]
+}
