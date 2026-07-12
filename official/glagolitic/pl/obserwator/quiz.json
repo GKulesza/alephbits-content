@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile Michał traci na początku opowieści?",
+      "answers": [
+        "Osiem tysięcy złotych",
+        "Dwadzieścia trzy tysiące złotych",
+        "Sto złotych",
+        "Milion złotych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi o stracie dwudziestu trzech tysięcy złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką książkę kupuje w antykwariacie?",
+      "answers": [
+        "Złotą Gałąź Jamesa George'a Frazera",
+        "Władcę Pierścieni",
+        "Encyklopedię kryptowalut",
+        "Horoskop roczny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kupuje „Złotą Gałąź” Frazera."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa radzi Michałowi zamiast kontrolować rynek?",
+      "answers": [
+        "Pożyczyć więcej kapitału",
+        "Obserwować cykle i uczyć się na nich surfować",
+        "Zrezygnować z pracy",
+        "Kupić tylko akcje banków"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa mówi o zrozumieniu rytmu i surfowaniu zamiast kontroli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile zarabia Michał po pierwszej symbolicznej transakcji?",
+      "answers": [
+        "Siedem złotych zysku",
+        "Dwadzieścia trzy tysiące zysku",
+        "Strata kolejnych ośmiu tysięcy",
+        "Nic — nie handluje"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamyka pozycję z zyskiem siedmiu złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie kończy opowieść Michał patrząc na morze?",
+      "answers": [
+        "Na plaży w Gdańsku",
+        "Na Wawelu",
+        "W laboratorium w Gdyni",
+        "W antykwariacie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sześć miesięcy później stoi na plaży w Gdańsku."
+    }
+  ]
+}

@@ -36,9 +36,6 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -61,9 +58,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -77,9 +71,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **DZIEWCZYNA Z JEŁANIA**
@@ -213,9 +204,6 @@ Może to była prawdziwa miłość. A może tylko początek.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -291,9 +279,6 @@ Może to była prawdziwa miłość. A może tylko początek.
 **Text reference:** od dziewięciu lat
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

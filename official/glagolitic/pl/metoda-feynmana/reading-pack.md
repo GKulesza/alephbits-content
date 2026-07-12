@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **Metoda Feynmana**
@@ -234,9 +228,6 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -312,9 +303,6 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 **Text reference:** Nie wiem. Nikt nie wie.
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

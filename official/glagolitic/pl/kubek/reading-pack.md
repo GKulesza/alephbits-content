@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Migrated from Collection Four manuscript.
 
 ---
-
----
-
 ## Text
 
 **KUBEK**
@@ -385,9 +376,6 @@ Nawet wtedy, gdy ona nie widziała siebie.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -463,9 +451,6 @@ Nawet wtedy, gdy ona nie widziała siebie.
 **Text reference:** przyszło do niej od kogoś, kogo najbardziej kochała
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -86,9 +83,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 CZARNY KODEKS
@@ -198,9 +192,6 @@ I Janusz wiedział, że ta historia nigdy się nie skończy. Bo historie o przet
 KONIEC
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -276,9 +267,6 @@ KONIEC
 **Text reference:** jego duch wciąż żyje
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

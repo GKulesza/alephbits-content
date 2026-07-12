@@ -29,6 +29,8 @@
 
 **Cover family:** biography
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

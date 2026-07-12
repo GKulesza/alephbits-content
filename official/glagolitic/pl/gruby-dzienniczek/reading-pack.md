@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **GRUBY DZIENNICZEK**
@@ -221,9 +212,6 @@ I to było najważniejsze.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -299,9 +287,6 @@ I to było najważniejsze.
 **Text reference:** Pościeliłem łóżko. I pobiegłem. I żyję
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

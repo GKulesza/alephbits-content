@@ -169,5 +169,3 @@ I to jest najważniejsze.
 ---
 
 **KONIEC**
-
----

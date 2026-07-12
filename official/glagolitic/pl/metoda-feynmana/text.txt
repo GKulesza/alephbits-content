@@ -141,5 +141,3 @@ _"Kim jesteśmy?"_
 _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze niż jakakolwiek odpowiedź._
 
 **KONIEC**
-
----

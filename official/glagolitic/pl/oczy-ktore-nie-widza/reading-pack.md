@@ -29,6 +29,8 @@
 
 **Cover family:** short_story
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

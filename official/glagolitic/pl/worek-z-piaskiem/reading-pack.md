@@ -36,9 +36,6 @@
 **Editorial notes:** Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **WOREK Z PIASKIEM**
@@ -275,9 +266,6 @@ I Tomek wiedział, że Jan byłby dumny.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -353,9 +341,6 @@ I Tomek wiedział, że Jan byłby dumny.
 **Text reference:** młody celnik, Tomek
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **DOMEK**
@@ -233,9 +224,6 @@ Bo dom nie jest miejscem, gdzie się mieszka. Dom jest miejscem, gdzie się jest
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -311,9 +299,6 @@ Bo dom nie jest miejscem, gdzie się mieszka. Dom jest miejscem, gdzie się jest
 **Text reference:** Dom jest miejscem, gdzie się jest
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

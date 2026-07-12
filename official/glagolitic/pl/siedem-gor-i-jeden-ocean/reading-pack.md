@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **SIEDEM GÓR I JEDEN OCEAN**
@@ -231,9 +225,6 @@ Jak o przyjacielu.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -309,9 +300,6 @@ Jak o przyjacielu.
 **Text reference:** koreańskich muzeów
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

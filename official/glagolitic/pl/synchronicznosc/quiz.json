@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim zawodowo jest Sebastian?",
+      "answers": [
+        "Traderem z Wall Street",
+        "Nauczycielem matematyki w liceum",
+        "Astrolożką",
+        "Lekarzem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jest nauczycielem matematyki w warszawskim liceum."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Lena porównuje do życia Sebastiana?",
+      "answers": [
+        "Funkcję z ujemną deltą — brak rozwiązania w szukanym miejscu",
+        "Pole trójkąta",
+        "Logarytm naturalny",
+        "Ciąg Fibonacciego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi o funkcji kwadratowej bez rozwiązań rzeczywistych przy ujemnej delcie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile Sebastian traci na początku?",
+      "answers": [
+        "Osiem tysięcy złotych",
+        "Cztery tysiące złotych",
+        "Dwadzieścia trzy tysiące złotych",
+        "Nic"
+      ],
+      "correctIndex": 0,
+      "explanation": "W jeden dzień traci osiem tysięcy złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką kwotą otwiera pierwszą świadomą pozycję po przerwie?",
+      "answers": [
+        "Sto złotych",
+        "Osiem tysięcy złotych",
+        "Czterdzieści tysięcy złotych",
+        "Jedno złote"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otwiera symboliczną pozycję za sto złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Sebastian pisze do Marii po pierwszym miesiącu na plusie?",
+      "answers": [
+        "Że to ona zarobiła za niego",
+        "Że to on zaufał sobie — dziękuje",
+        "Że rezygnuje z handlu",
+        "Że przenosi się do Gdańska"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maria odpowiada: to ty, zaufałeś sobie."
+    }
+  ]
+}

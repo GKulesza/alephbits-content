@@ -1,0 +1,22 @@
+{
+  "packId": "polish_przerwa_nauka",
+  "bookId": "przerwa-nauka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja edukacyjna o nauce; tytuł „Przerwa” już istnieje w katalogu (Collection Four) — inna historia, inny slug."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "S2IOrt-n2fc"
+    }
+  ],
+  "revisionNotes": "Phase 97 import jako przerwa-nauka; nie nadpisuje polish_przerwa."
+}

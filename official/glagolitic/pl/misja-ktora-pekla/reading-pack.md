@@ -36,9 +36,6 @@
 **Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **MISJA, KTÓRA PĘKŁA**
@@ -195,9 +186,6 @@ Po prostu być.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -273,9 +261,6 @@ Po prostu być.
 **Text reference:** To, co działa u Google, nie musi działać u ciebie
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

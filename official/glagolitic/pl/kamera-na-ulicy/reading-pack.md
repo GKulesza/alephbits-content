@@ -36,9 +36,6 @@
 **Editorial notes:** Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **KAMERA NA ULICY**
@@ -297,9 +288,6 @@ I nie czuł nic.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -375,9 +363,6 @@ I nie czuł nic.
 **Text reference:** jego dzieci dorastały bez rodziców
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

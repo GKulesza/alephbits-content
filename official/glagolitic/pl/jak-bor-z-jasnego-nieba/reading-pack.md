@@ -36,9 +36,6 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -61,9 +58,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -77,9 +71,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 ** Jak Bor z jasnego nieba **
@@ -229,9 +220,6 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -307,9 +295,6 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 **Text reference:** Żuk
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

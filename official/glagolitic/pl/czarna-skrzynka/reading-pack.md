@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **CZARNA SKRZYNKA**
@@ -237,9 +228,6 @@ Magda wzięła go za rękę.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -315,9 +303,6 @@ Magda wzięła go za rękę.
 **Text reference:** To się nazywa puścić
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

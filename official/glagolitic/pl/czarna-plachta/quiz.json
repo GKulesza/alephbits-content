@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Krzysztof prowadzi audycję inaczej w noc pełni?",
+      "answers": [
+        "Bo ma wtedy najwięcej słuchaczy w radiu",
+        "Bo przy pełni „przypływają” do niego poczucia o przyszłości",
+        "Bo wtedy nagrywa reklamy",
+        "Bo pełnia wyłącza internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że przy pełni ma luźne poczucia na przyszłość i szkoda ich nie wykorzystać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Anna w opowieści?",
+      "answers": [
+        "Producentką radia",
+        "Żoną Krzysztofa, lekarką i racjonalistką",
+        "Słuchaczką z Iranu",
+        "Studentką astrologii"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna wchodzi w szlafrok, jest lekarką i kwestionuje wpływ księżyca."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Krzysztof mówi o Iranie w rozwinięciu audycji?",
+      "answers": [
+        "Że Iran całkowicie podda się bez walki",
+        "Że w czerwcu zaczną się okazjonalne ataki i „czarna płachta” opada na Iran",
+        "Że Iran zniknie z mapy w tydzień",
+        "Że Iran przejmie Unię Europejską"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przewiduje okazjonalne ataki w czerwcu i metaforę czarnej płachty nad Iranem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co wydarza się w Europie w epilogu zgodnie z narracją?",
+      "answers": [
+        "Całkowity brak upałów",
+        "Upały, ognisko Ebola we Włoszech, droższa żywność i nowy podatek UE",
+        "Zniknięcie wszystkich podatków",
+        "Koniec audycji Krzysztofa na zawsze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog wymienia upały, ognisko we Włoszech, drożyznę i podatek infrastrukturalny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co pisze anonimowy list w styczniu 2027?",
+      "answers": [
+        "Że audycja została zakazana prawnie",
+        "Że dzięki ostrzeżeniom zdążył wyjechać z Iranu i żyje",
+        "Że Krzysztof ma wygrać nagrodę Nobel",
+        "Że pełnia księżyca jest mitem"
+      ],
+      "correctIndex": 1,
+      "explanation": "List dziękuje za ostrzeżenia i ucieczkę z Iranu przed katastrofą."
+    }
+  ]
+}

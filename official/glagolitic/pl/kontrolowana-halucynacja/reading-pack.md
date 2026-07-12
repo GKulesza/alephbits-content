@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **Kontrolowana halucynacja**
@@ -286,9 +280,6 @@ Za oknem padał deszcz. A ona pisała dalej.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -364,9 +355,6 @@ Za oknem padał deszcz. A ona pisała dalej.
 **Text reference:** może pytanie jest ważniejsze niż odpowiedź
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

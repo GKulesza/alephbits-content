@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **DZIEWCZYNA, KTÓRA ZNIKNĘŁA O ŚWICIE**
@@ -218,9 +212,6 @@ I wtedy prawda w końcu wyjdzie na jaw.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -296,9 +287,6 @@ I wtedy prawda w końcu wyjdzie na jaw.
 **Text reference:** Fałszywy syndrom
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

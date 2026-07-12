@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **BOLIEWICZ**
@@ -191,9 +185,6 @@ Wałęsa, Bolek, prezydent, człowiek. Wszystko to jedno. I wszystko to razem tw
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -269,9 +260,6 @@ Wałęsa, Bolek, prezydent, człowiek. Wszystko to jedno. I wszystko to razem tw
 **Text reference:** Wałęsa sobie sam najbardziej zaszkodził
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

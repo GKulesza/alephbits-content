@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **CZARNY MNICH Z NIKISZOWCA**
@@ -154,9 +148,6 @@ I wiedział, że ta historia nigdy się nie skończy. Będzie przekazywana z pok
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -232,9 +223,6 @@ I wiedział, że ta historia nigdy się nie skończy. Będzie przekazywana z pok
 **Text reference:** stało się jego domem
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

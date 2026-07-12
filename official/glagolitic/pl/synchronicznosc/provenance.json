@@ -1,0 +1,22 @@
+{
+  "packId": "polish_synchronicznosc",
+  "bookId": "synchronicznosc",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o pokorze wobec rynku; astrologia jako metafora, nie porada inwestycyjna."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "k6s8nPcSCgI"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Near-duplicate z „Obserwatorem”."
+}

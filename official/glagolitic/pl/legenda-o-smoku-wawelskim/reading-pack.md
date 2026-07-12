@@ -29,6 +29,8 @@
 
 **Cover family:** legend
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

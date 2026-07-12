@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **DOMYŚL SIĘ**
@@ -205,9 +199,6 @@ Magda przytuliła się do niego. I po raz pierwszy od dawna poczuła, że nie mu
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -283,9 +274,6 @@ Magda przytuliła się do niego. I po raz pierwszy od dawna poczuła, że nie mu
 **Text reference:** z lęku przed odrzuceniem
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

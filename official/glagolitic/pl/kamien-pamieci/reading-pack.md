@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **KAMIEŃ PAMIĘCI**
@@ -255,9 +246,6 @@ I to jest najważniejsze.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -333,9 +321,6 @@ I to jest najważniejsze.
 **Text reference:** ludzie, którzy je znajdują, mogą mówić za nich
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

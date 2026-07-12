@@ -8,7 +8,7 @@
 
 **Title:** Wyraz, którego nie ma  
 **Subtitle:** Nauka czytania i cierpliwość  
-**Blurb:** Kasia nie rezygnuje z nauki czytania u córki Ali, choć każda lekcja kończy się łzami. Szuka słów, które dotrą do dziecka, a nie tylko spełnią program. Opowieść o rodzicielskiej upartości, wstydzie i małych przełomach, które nie przychodzą w jeden dzień.
+**Blurb:** Kasia nie rezygnuje z nauki czytania u córki Ali, choć początki są trudne i pełne oporu. Szuka słów, które dotrą do dziecka, a nie tylko spełnią program. Opowieść o rodzicielskiej upartości, wstydzie i małych przełomach, które nie przychodzą w jeden dzień.
 
 **Genres:** languages, short_story  
 **Cover family:** languages  
@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o nauce czytania i rodzicielskiej wytrwałości.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **WYRAZ, KTÓREGO NIE MA**
@@ -373,9 +364,6 @@ I to było najważniejsze.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -451,9 +439,6 @@ I to było najważniejsze.
 **Text reference:** Ale nie zrobiła tego
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

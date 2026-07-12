@@ -57,9 +57,6 @@
 | 1.0.0 | 2026-07-10 | Initial verification release |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Original micro-fiction (AlephBits)
@@ -73,9 +70,6 @@
 **Editor notes:** Written for pipeline verification only.
 
 ---
-
----
-
 ## Text
 
 **WIATR NAD RZEKĄ**
@@ -99,9 +93,6 @@ Pan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze k
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -177,9 +168,6 @@ Pan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze k
 **Text reference:** Wisłą
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

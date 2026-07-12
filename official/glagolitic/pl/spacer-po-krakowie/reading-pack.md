@@ -58,9 +58,6 @@
 | 1.0.0 | 2026-07-07 | Migrated to reading-pack.md (Phase 23) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Original AlephBits demo content
@@ -85,9 +82,6 @@
 **Editor notes:** Background reference for editors; not reproduced in text.
 
 ---
-
----
-
 ## Text
 
 Wczesnym rankiem wyszedłem na ulicę i poczułem świeże powietrze miasta. Słońce dopiero wschodziło nad dachami kamienic, a Rynek Główny był jeszcze cichy i pusty.
@@ -111,9 +105,6 @@ Wieczorem wróciłem na Rynek. Latarnie zapalały się jedna po drugiej, a kamie
 Tego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać nowe znaki. Każde słowo staje się mostem między językiem, który znam, a pismem, którego się uczę.
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -189,9 +180,6 @@ Tego dnia nauczyłem się, że czytanie o znanym miejscu pomaga zapamiętać now
 **Text reference:** pomaga zapamiętać nowe znaki
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

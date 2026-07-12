@@ -8,7 +8,7 @@
 
 **Title:** Susza  
 **Subtitle:** Las, woda i zmiana klimatu  
-**Blurb:** Tomek dorasta w Borach Tucholskich u boku ojca-leśniczego. Kilka lat bez deszczu wysusza nie tylko glebę — zmienia też rozmowy przy stole i sposób patrzenia na przyszłość. Opowieść o krajobrazie, który wydaje się stały, dopóki klimat przypomina, że nic nie jest dane na zawsze.
+**Blurb:** Tomek dorasta w Borach Tucholskich u boku ojca-leśniczego. Kilka lat bez deszczu wysusza nie tylko glebę — zmienia też rozmowy przy stole i sposób patrzenia na przyszłość. Reportażowa opowieść o krajobrazie, który wydaje się stały, dopóki klimat przypomina, że nic nie jest dane na zawsze.
 
 **Genres:** nature, article  
 **Cover family:** nature  
@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **SUSZA**
@@ -305,9 +296,6 @@ I to było najważniejsze.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -383,9 +371,6 @@ I to było najważniejsze.
 **Text reference:** przynajmniej będą mogli powiedzieć, że próbowali
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

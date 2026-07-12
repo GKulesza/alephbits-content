@@ -1,0 +1,585 @@
+[
+  {
+    "slug": "boliewicz",
+    "title": "Boliewicz",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: wałęsa"
+    ],
+    "founder_required": [
+      "Historical-political subject (Wałęsa/Bolek) — founder should confirm factual framing and tone."
+    ],
+    "polish_candidates": [],
+    "max_para_words": 68
+  },
+  {
+    "slug": "brudne-pieniadze-czysta-nauka",
+    "title": "Brudne pieniądze, czysta nauka",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: ania, profesor, tomasz",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 64
+  },
+  {
+    "slug": "cel-na-ten-rok-to-nic",
+    "title": "Cel na ten rok to... nic",
+    "stars": 3,
+    "deductions": [
+      "Text: repeated para starts: ania, karolina",
+      "Text: AI-like phrasing (1 hits)",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [
+      "Six-chapter self-help arc with explicit thesis closing (“być wystarczającą”) — literary tone is instructional; founder should confirm this matches Collection Four intent."
+    ],
+    "polish_candidates": [],
+    "max_para_words": 75
+  },
+  {
+    "slug": "cena-widoku",
+    "title": "Cena widoku",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: mężczyzna"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 96
+  },
+  {
+    "slug": "cien-skrzydel-nad-oceanem",
+    "title": "Cień skrzydeł nad oceanem",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kiedy, andrea, bruce"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 74
+  },
+  {
+    "slug": "cisza-przed-burza",
+    "title": "Cisza przed burzą",
+    "stars": 5,
+    "deductions": [],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 58
+  },
+  {
+    "slug": "czarna-skrzynka",
+    "title": "Czarna skrzynka",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: magda, robert"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 62
+  },
+  {
+    "slug": "czarny-kodeks",
+    "title": "Czarny Kodeks",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: janusz, jean"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 70
+  },
+  {
+    "slug": "czarny-mnich-z-nikiszowca",
+    "title": "Czarny mnich z Nikiszowca",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: tomek",
+      "Text: AI-like phrasing (1 hits)"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 72
+  },
+  {
+    "slug": "czarny-rynek-tokenow",
+    "title": "Czarny rynek tokenów",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: adam"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 66
+  },
+  {
+    "slug": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+    "title": "Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?",
+    "stars": 5,
+    "deductions": [],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 62
+  },
+  {
+    "slug": "dlaczego-niebo-jest-niebieskie",
+    "title": "Dlaczego niebo jest niebieskie?",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kiedy, feynman, możesz",
+      "Text: AI-like phrasing (1 hits)"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 76
+  },
+  {
+    "slug": "domek",
+    "title": "Domek",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kiedy, marta, wzięła, włożyła"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 56
+  },
+  {
+    "slug": "domysl-sie",
+    "title": "Domyśl się",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: grzesiek, magda"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 60
+  },
+  {
+    "slug": "dostrojony-dom",
+    "title": "Dostrojony dom",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marta",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 69
+  },
+  {
+    "slug": "dylemat-szatniarza",
+    "title": "Dylemat szatniarza",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: siedział, anna, tomek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 46
+  },
+  {
+    "slug": "dziewczyna-ktora-zniknela-o-swicie",
+    "title": "Dziewczyna, która zniknęła o świcie",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: joanna"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 57
+  },
+  {
+    "slug": "dziewczyna-z-jelania",
+    "title": "Dziewczyna z Jełania",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: karolina, anastazja",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 73
+  },
+  {
+    "slug": "glosy-z-ziemi",
+    "title": "Głosy z ziemi",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: tadeusz, michał, ołena, tomasz, wrócił",
+      "Text: AI-like phrasing (1 hits)"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 62
+  },
+  {
+    "slug": "gruby-dzienniczek",
+    "title": "Gruby dzienniczek",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: patryk, wziął",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 63
+  },
+  {
+    "slug": "jak-bor-z-jasnego-nieba",
+    "title": "Jak Bor z jasnego nieba",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: piotr"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 90
+  },
+  {
+    "slug": "jak-ugotowac-herbate",
+    "title": "📋 Jak ugotować herbatę",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: patryk, furkan"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 58
+  },
+  {
+    "slug": "kamera-na-ulicy",
+    "title": "Kamera na ulicy",
+    "stars": 5,
+    "deductions": [],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 60
+  },
+  {
+    "slug": "kamien-pamieci",
+    "title": "Kamień pamięci",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marta, tomasz"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 73
+  },
+  {
+    "slug": "koniec-epoki-pudelek",
+    "title": "Koniec epoki pudełek",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: adam"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 50
+  },
+  {
+    "slug": "kontrolowana-halucynacja",
+    "title": "Kontrolowana halucynacja",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: doktor, marta, anna",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 64
+  },
+  {
+    "slug": "kubek",
+    "title": "Kubek",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: wojtek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 50
+  },
+  {
+    "slug": "legenda-o-smoku-wawelskim",
+    "title": "🏰 Legenda o Smoku Wawelskim",
+    "stars": 5,
+    "deductions": [],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 77
+  },
+  {
+    "slug": "mamy-trupa-i-co-dalej",
+    "title": "Mamy trupa i co dalej",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: tomasz",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 62
+  },
+  {
+    "slug": "maria-sklodowska-curie",
+    "title": "👤 Maria Skłodowska-Curie",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: maria"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 80
+  },
+  {
+    "slug": "metoda-feynmana",
+    "title": "Metoda Feynmana",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marek",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 54
+  },
+  {
+    "slug": "misja-ktora-pekla",
+    "title": "Misja która pękła",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marek, agnieszka"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 74
+  },
+  {
+    "slug": "na-dworcu",
+    "title": "Na dworcu",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marek, może"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 76
+  },
+  {
+    "slug": "na-targu",
+    "title": "Na targu",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: adam, sprzedawca, jacek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 65
+  },
+  {
+    "slug": "nadwyzka",
+    "title": "Nadwyżka",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: tadek",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 66
+  },
+  {
+    "slug": "oczy-ktore-nie-widza",
+    "title": "II. Oczy, które nie widzą",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: pani, matka"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 53
+  },
+  {
+    "slug": "pierwszy-lot-na-marsa",
+    "title": "🌌 Pierwszy lot na Marsa",
+    "stars": 3,
+    "deductions": [
+      "Text: common opener pattern: ^Marek ",
+      "Text: repeated para starts: marek",
+      "Text: AI-like phrasing (1 hits)"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 54
+  },
+  {
+    "slug": "prolog-wiatru",
+    "title": "Prolog wiatru",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: yumiko"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 80
+  },
+  {
+    "slug": "przerwa",
+    "title": "Przerwa",
+    "stars": 4,
+    "deductions": [
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 60
+  },
+  {
+    "slug": "pudelko-po-ciastkach",
+    "title": "Pudełko po ciastkach",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kiedy, krzysztof",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 91
+  },
+  {
+    "slug": "rozmowa-z-lekarzem",
+    "title": "💬 Rozmowa z lekarzem",
+    "stars": 4,
+    "deductions": [
+      "Text: common opener pattern: ^Kasia ",
+      "Text: repeated para starts: kasia"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 72
+  },
+  {
+    "slug": "siedem-gor-i-jeden-ocean",
+    "title": "Siedem gór i jeden ocean",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 69
+  },
+  {
+    "slug": "spacer-po-krakowie",
+    "title": "Spacer po Krakowie",
+    "stars": 4,
+    "deductions": [
+      "Text: common opener pattern: ^Wczesnym rankiem"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 29
+  },
+  {
+    "slug": "susza",
+    "title": "Susza",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: tomek",
+      "Text: AI-like phrasing (1 hits)"
+    ],
+    "founder_required": [
+      "Multi-thread climate narrative (Tomek / Chojnicki / Paweł) with optimistic 2029 policy epilogue — founder should confirm political framing and epilogue length for reading shelf."
+    ],
+    "polish_candidates": [],
+    "max_para_words": 64
+  },
+  {
+    "slug": "trzynascie-zasad",
+    "title": "Trzynaście zasad",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kiedy",
+      "Text: ellipsis overuse"
+    ],
+    "founder_required": [
+      "Rule-list fiction with numbered principles — founder should confirm list rhythm vs. narrative flow."
+    ],
+    "polish_candidates": [],
+    "max_para_words": 52
+  },
+  {
+    "slug": "w-kawiarni",
+    "title": "☕ W kawiarni",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: marek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 74
+  },
+  {
+    "slug": "wiatr-nad-rzeka",
+    "title": "Wiatr nad rzeką",
+    "stars": 4,
+    "deductions": [
+      "Text: common opener pattern: ^Anna ",
+      "Text: repeated para starts: anna"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 29
+  },
+  {
+    "slug": "worek-z-piaskiem",
+    "title": "Worek z piaskiem",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: mężczyzna, tomek"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 81
+  },
+  {
+    "slug": "wyraz-ktorego-nie-ma",
+    "title": "Wyraz, którego nie ma",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: kasia, tomek, nauczycielka"
+    ],
+    "founder_required": [
+      "Epilogue jumps from age 5 to 10 with tablet-vs-books moral — founder should confirm parenting message and time-skip structure."
+    ],
+    "polish_candidates": [],
+    "max_para_words": 56
+  },
+  {
+    "slug": "zakazana-energia",
+    "title": "Zakazana Energia",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: helena"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 62
+  },
+  {
+    "slug": "zasady",
+    "title": "Zasady",
+    "stars": 4,
+    "deductions": [
+      "Text: repeated para starts: łukasz"
+    ],
+    "founder_required": [],
+    "polish_candidates": [],
+    "max_para_words": 69
+  }
+]

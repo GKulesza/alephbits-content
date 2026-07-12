@@ -36,9 +36,6 @@
 **Editorial notes:** Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **PRZERWA**
@@ -211,9 +202,6 @@ Wstał, podszedł do łóżka i położył się obok żony. Zamknął oczy. I po
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -289,9 +277,6 @@ Wstał, podszedł do łóżka i położył się obok żony. Zamknął oczy. I po
 **Text reference:** zasnął spokojnie
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

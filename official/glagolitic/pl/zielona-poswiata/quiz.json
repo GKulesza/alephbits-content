@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Krzysztof opisuje charakter swojej audycji na początku?",
+      "answers": [
+        "Wyłącznie program informacyjny",
+        "Serię rozrywkową o teoriach konspiracyjnych",
+        "Poranny serwis pogodowy",
+        "Audycję muzyczną bez słowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi o „zielonej poświacie” jako serii rozrywkowej o teoriach konspiracyjnych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Krzysztof znajduje w starym wpisie w notatkach sprzed trzech lat?",
+      "answers": [
+        "Przepis na kawę",
+        "Wzmiankę o preparacie cofającym starzenie o 20 lat",
+        "List od redakcji",
+        "Harmonogram podróży"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przewija do wpisu o preparacie przedłużającym młodość o dokładnie 20 lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co sugeruje anonimowy list po audycji o żółtym proszku?",
+      "answers": [
+        "Że preparat nie istnieje i nigdy nie powstanie",
+        "Że preparat istnieje, ale ma ukryty warunek i dalsze konsekwencje",
+        "Że audycja zostanie nagrodzona",
+        "Że Krzysztof ma odejść z radia natychmiast"
+      ],
+      "correctIndex": 1,
+      "explanation": "List mówi o preparacie działającym, lecz z warunkiem i przepowiednią degradacji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się pierwsza linia ostrzeżenia w drugim liście?",
+      "answers": [
+        "Proszę więcej nagrywać",
+        "Powiedział pan za dużo — proszę przestać",
+        "Zapraszamy na konferencję",
+        "Prosimy o wywiad w TV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drugi list wzywa do zaprzestania nagrań ze względu na bezpieczeństwo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co sugeruje ukryte nagranie w epilogu o „jednym z nich”?",
+      "answers": [
+        "Że to zwykły słuchacz radia",
+        "Że to coś spoza ludzkiego, podpowiadające przez ludzi",
+        "Że to żart studia",
+        "Że to reklama suplementu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nagranie mówi, że „jeden z nich” to coś przybysza, które zna przyszłość."
+    }
+  ]
+}

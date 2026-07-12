@@ -1,0 +1,22 @@
+{
+  "packId": "polish_obserwator",
+  "bookId": "obserwator",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja metaforiczna; astrologia jest narzędziem narracyjnym postaci, nie nauką katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "k6s8nPcSCgI"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Blisko „Synchroniczności” — founder decyduje o obu na półce."
+}

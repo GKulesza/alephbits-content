@@ -29,6 +29,8 @@
 
 **Cover family:** everyday_live
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **TRZYNAŚCIE ZASAD**
@@ -317,9 +311,6 @@ I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – 
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -395,9 +386,6 @@ I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – 
 **Text reference:** musi się dostosować
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

@@ -36,9 +36,6 @@
 **Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **Pudełko po ciastkach**
@@ -258,9 +249,6 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -336,9 +324,6 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **Text reference:** mógł wreszcie doprowadzić to do końca
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

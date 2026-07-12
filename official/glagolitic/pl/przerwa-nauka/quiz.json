@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co studiuje Zosia?",
+      "answers": [
+        "Farmakologię",
+        "Prawo",
+        "Astronomię",
+        "Historię sztuki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Egzamin z farmakologii za trzy tygodnie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką technikę stosuje w bibliotece?",
+      "answers": [
+        "Metodę Pomodoro — 25 minut nauki",
+        "Naukę całą noc bez przerw",
+        "Tylko nagrania wideo",
+        "Grupowe projekty online"
+      ],
+      "correctIndex": 0,
+      "explanation": "Włącza timer na 25 minut i notuje bez telefonu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Krzysztof mówi w audycji o zabieraniu się do rzeczy?",
+      "answers": [
+        "Że trzeba czekać na entuzjazm",
+        "Że działanie jest jak klarowane masło — bez super energii na start",
+        "Że najlepiej nie robić nic",
+        "Że tylko pełnia księżyca pomaga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cytuje metaforę klarowanego masła — bez entuzjazmu na początku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wynik egzaminu dostaje Zosia?",
+      "answers": [
+        "Niezdany",
+        "Zaliczony z oceną 4,5",
+        "Ocena 2,0",
+        "Brak wyniku w tekście"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog: Zaliczone. Ocena: 4,5."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką piosenkę YUI słucha podczas nauki?",
+      "answers": [
+        "„again”",
+        "„Rolling Star”",
+        "Obie — „again” przy przełomie i „Rolling Star” po egzaminie",
+        "Żadnej"
+      ],
+      "correctIndex": 2,
+      "explanation": "„again” pomaga w przełomie; po egzaminie włącza „Rolling Star”."
+    }
+  ]
+}

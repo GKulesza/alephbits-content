@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **CISZA PRZED BURZĄ**
@@ -195,9 +189,6 @@ A pod nimi – napis, który mówi wszystko: "Tu zaczęła się historia zwycię
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -273,9 +264,6 @@ A pod nimi – napis, który mówi wszystko: "Tu zaczęła się historia zwycię
 **Text reference:** to matematyka, nie język
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

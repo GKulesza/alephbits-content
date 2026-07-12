@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?**
@@ -197,9 +191,6 @@ _To nie magia. To nie technologia przyszłości. To prawa fizyki, które działa
 [Koniec]
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -275,9 +266,6 @@ _To nie magia. To nie technologia przyszłości. To prawa fizyki, które działa
 **Text reference:** Rzeczywistość jest zawsze znacznie szersza
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

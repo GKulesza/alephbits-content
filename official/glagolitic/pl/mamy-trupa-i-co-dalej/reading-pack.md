@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **MAMY TRUPA I CO DALEJ**
@@ -187,9 +181,6 @@ I Tomasz w końcu to zrozumiał.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -265,9 +256,6 @@ I Tomasz w końcu to zrozumiał.
 **Text reference:** masz prawo do wyboru
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

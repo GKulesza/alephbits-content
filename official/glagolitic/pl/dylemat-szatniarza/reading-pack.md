@@ -36,9 +36,6 @@
 **Editorial notes:** Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **DYLEMAT SZATNIARZA**
@@ -291,9 +282,6 @@ A reszta – reszta to tylko teatr.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -369,9 +357,6 @@ A reszta – reszta to tylko teatr.
 **Text reference:** reszta to tylko teatr
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

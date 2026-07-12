@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (Paweł Kadysz mailing)
@@ -76,9 +73,6 @@
 **Editor notes:** Paweł Kadysz: mailing
 
 ---
-
----
-
 ## Text
 
 **ZASADY**
@@ -159,9 +153,6 @@ I to wystarczyło, żeby zacząć.
 ##
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -237,9 +228,6 @@ I to wystarczyło, żeby zacząć.
 **Text reference:** nowe aplikacje
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

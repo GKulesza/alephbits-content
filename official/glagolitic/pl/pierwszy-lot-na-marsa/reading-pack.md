@@ -29,6 +29,8 @@
 
 **Cover family:** popular_science
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

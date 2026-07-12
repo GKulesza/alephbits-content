@@ -1,0 +1,22 @@
+{
+  "packId": "polish_czarna_plachta",
+  "bookId": "czarna-plachta",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o postaci-proroku; wydarzenia geopolityczne są narracją, nie prognozą katalogu."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Seven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Ten sam prowadzący co w „Zielonej poświacie” — founder decyduje o relacji serii."
+}

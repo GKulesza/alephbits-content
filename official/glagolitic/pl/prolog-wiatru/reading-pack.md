@@ -36,9 +36,6 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -61,9 +58,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -77,9 +71,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **PROLOG WIATRU**
@@ -177,9 +168,6 @@ Nawet po tylu latach.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -255,9 +243,6 @@ Nawet po tylu latach.
 **Text reference:** 5:00 rano
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

@@ -57,9 +57,6 @@
 | 1.0.0 | 2026-07-08 | Initial release — Collection Zero migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Original AlephBits narrative (Na targu)
@@ -106,9 +103,6 @@
 **Editor notes:** Vault source block; reference only.
 
 ---
-
----
-
 ## Text
 
 Opowiadanie w trzech częściach
@@ -382,9 +376,6 @@ Bo targ, jak życie, nie jest o tym, co kupujesz. Jest o tym, kogo spotykasz po 
 I o tym, że zawsze można zacząć od nowa. Nawet przy minus dziewięciu stopniach.
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -460,9 +451,6 @@ I o tym, że zawsze można zacząć od nowa. Nawet przy minus dziewięciu stopni
 **Text reference:** Kaszmir za 270 złotych
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

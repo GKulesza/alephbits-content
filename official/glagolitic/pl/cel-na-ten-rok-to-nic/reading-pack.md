@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **CEL NA TEN ROK TO... NIC**
@@ -279,9 +270,6 @@ A potem obie się roześmiały. Bo w końcu – co by było, gdyby każdy z nas 
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -357,9 +345,6 @@ A potem obie się roześmiały. Bo w końcu – co by było, gdyby każdy z nas 
 **Text reference:** obie się roześmiały
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

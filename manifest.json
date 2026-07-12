@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-11T00:00:00Z",
-  "officialPackCount": 51,
+  "generatedAt": "2026-07-12T00:00:00Z",
+  "officialPackCount": 56,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -116,6 +116,7 @@
         "polish_cena_widoku",
         "polish_cien_skrzydel_nad_oceanem",
         "polish_cisza_przed_burza",
+        "polish_czarna_plachta",
         "polish_czarna_skrzynka",
         "polish_czarny_kodeks",
         "polish_czarny_mnich_z_nikiszowca",
@@ -143,18 +144,22 @@
         "polish_na_dworcu",
         "polish_na_targu",
         "polish_nadwyzka",
+        "polish_obserwator",
         "polish_prolog_wiatru",
         "polish_przerwa",
+        "polish_przerwa_nauka",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
         "polish_susza",
+        "polish_synchronicznosc",
         "polish_trzynascie_zasad",
         "polish_wiatr_nad_rzeka",
         "polish_worek_z_piaskiem",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zakazana_energia",
         "polish_zasady",
+        "polish_zielona_poswiata",
         "polish_w_kawiarni",
         "polish_pierwszy_lot_na_marsa",
         "polish_legenda_o_smoku_wawelskim",
@@ -179,6 +184,7 @@
         "polish_oczy_ktore_nie_widza",
         "polish_pierwszy_lot_na_marsa",
         "polish_przerwa",
+        "polish_przerwa_nauka",
         "polish_trzynascie_zasad",
         "polish_w_kawiarni",
         "polish_wyraz_ktorego_nie_ma",
@@ -195,8 +201,11 @@
         "polish_kubek",
         "polish_mamy_trupa_i_co_dalej",
         "polish_maria_skodowska_curie",
+        "polish_obserwator",
         "polish_prolog_wiatru",
+        "polish_synchronicznosc",
         "polish_cena_widoku",
+        "polish_czarna_plachta",
         "polish_czarny_rynek_tokenow",
         "polish_misja_ktora_pekla",
         "polish_pudelko_po_ciastkach",
@@ -216,6 +225,7 @@
         "polish_kamien_pamieci",
         "polish_kontrolowana_halucynacja",
         "polish_metoda_feynmana",
+        "polish_zielona_poswiata",
         "polish_glosy_z_ziemi",
         "polish_kamera_na_ulicy",
         "polish_nadwyzka"
@@ -223,21 +233,21 @@
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 51,
-    "totalWords": 69089,
-    "totalEstimatedReadingTimeMinutes": 375,
+    "totalPacks": 56,
+    "totalWords": 77610,
+    "totalEstimatedReadingTimeMinutes": 421,
     "languageCount": 1,
     "writingSystemCount": 1,
     "categoryCount": 18,
     "largestPack": {
       "id": "polish_na_targu",
       "bookId": "na-targu",
-      "wordCount": 2502
+      "wordCount": 2501
     },
     "newestPack": {
-      "id": "polish_nadwyzka",
-      "bookId": "nadwyzka",
-      "updated": "2026-07-11"
+      "id": "polish_czarna_plachta",
+      "bookId": "czarna-plachta",
+      "updated": "2026-07-12"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -376,6 +386,28 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_czarna_plachta",
+      "bookId": "czarna-plachta",
+      "path": "official/glagolitic/pl/czarna-plachta",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czarna płachta",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Pełnia, audycja i przepowiednia",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -1012,6 +1044,28 @@
       "featured": true
     },
     {
+      "id": "polish_obserwator",
+      "bookId": "obserwator",
+      "path": "official/glagolitic/pl/obserwator",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Obserwator",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Rynek, mit i powrót Saturna",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
       "id": "polish_oczy_ktore_nie_widza",
       "bookId": "oczy-ktore-nie-widza",
       "path": "official/glagolitic/pl/oczy-ktore-nie-widza",
@@ -1095,6 +1149,28 @@
       "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_przerwa_nauka",
+      "bookId": "przerwa-nauka",
+      "path": "official/glagolitic/pl/przerwa-nauka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Przerwa — rytm nauki",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Rozproszenie, biblioteka i powrót",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -1203,6 +1279,28 @@
       "audience": "adult",
       "trustClassification": "inspired_by_reality",
       "difficulty": 5,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_synchronicznosc",
+      "bookId": "synchronicznosc",
+      "path": "official/glagolitic/pl/synchronicznosc",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Synchroniczność",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Fale rynku i lekcja matematyki",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
       "estimatedReadingTime": 10,
       "featured": true
     },
@@ -1357,6 +1455,28 @@
       "trustClassification": "instruction",
       "difficulty": 3,
       "estimatedReadingTime": 4,
+      "featured": true
+    },
+    {
+      "id": "polish_zielona_poswiata",
+      "bookId": "zielona-poswiata",
+      "path": "official/glagolitic/pl/zielona-poswiata",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Zielona poświata",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Audycja na granicy rozrywki i ostrzeżenia",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 9,
       "featured": true
     }
   ]

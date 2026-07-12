@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **CZARNY RYNEK TOKENÓW**
@@ -164,9 +158,6 @@ Bo w internecie, jak w życiu, liczy się nie tylko to, jak się bronisz. Liczy 
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -242,9 +233,6 @@ Bo w internecie, jak w życiu, liczy się nie tylko to, jak się bronisz. Liczy 
 **Text reference:** Zaczął korzystać z menedżera sekretów
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

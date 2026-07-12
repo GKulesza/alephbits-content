@@ -60,9 +60,6 @@
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Three manuscript
@@ -76,9 +73,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **KONIEC EPOKI PUDEŁEK**
@@ -197,9 +191,6 @@ I był gotów w tej walce uczestniczyć.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -275,9 +266,6 @@ I był gotów w tej walce uczestniczyć.
 **Text reference:** PS6 będzie pierwszą konsolą, której nie kupię
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

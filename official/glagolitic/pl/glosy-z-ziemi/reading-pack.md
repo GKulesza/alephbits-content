@@ -36,9 +36,6 @@
 **Editorial notes:** Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **GŁOSY Z ZIEMI**
@@ -383,9 +374,6 @@ Bo czasem, żeby zmienić świat, wystarczy jedna historia. I kilkoro ludzi, kt�
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -461,9 +449,6 @@ Bo czasem, żeby zmienić świat, wystarczy jedna historia. I kilkoro ludzi, kt�
 **Text reference:** jeśli ktoś się o niej dowie, straci wszystko
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

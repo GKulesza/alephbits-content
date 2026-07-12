@@ -29,6 +29,8 @@
 
 **Cover family:** instruction
 
+---
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

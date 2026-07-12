@@ -62,9 +62,6 @@
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection One manuscript (YouTube editorial)
@@ -78,9 +75,6 @@
 **Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
 
 ---
-
----
-
 ## Text
 
 **CIEŃ SKRZYDEŁ NAD OCEANEM**
@@ -212,9 +206,6 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -290,9 +281,6 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 **Text reference:** Chichi Jimą
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

@@ -36,9 +36,6 @@
 **Editorial notes:** Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **BRUDNE PIENIĄDZE, CZYSTA NAUKA**
@@ -333,9 +324,6 @@ Chciała być naukowcem.
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -411,9 +399,6 @@ Chciała być naukowcem.
 **Text reference:** Nauka bez prawdy to tylko narzędzie
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images

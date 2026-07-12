@@ -36,9 +36,6 @@
 **Editorial notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
 
 ---
-
----
-
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
@@ -59,9 +56,6 @@
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
-
----
-
 ## Sources
 
 ### Source 1: Collection Four manuscript
@@ -75,9 +69,6 @@
 **Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
 
 ---
-
----
-
 ## Text
 
 **DOSTROJONY DOM**
@@ -311,9 +302,6 @@ I wtedy zrozumiała, że właśnie to zrobiła. Na nowo wprowadziła się do swo
 **KONIEC**
 
 ---
-
----
-
 ## Quiz
 
 **Quiz title:** Sprawdź zrozumienie
@@ -389,9 +377,6 @@ I wtedy zrozumiała, że właśnie to zrobiła. Na nowo wprowadziła się do swo
 **Text reference:** już nie były one balastem
 
 ---
-
----
-
 ## Future Extensions
 
 ### Images
