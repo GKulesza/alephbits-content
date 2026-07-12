@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat są razem Ewa i Marek?",
+      "answers": [
+        "Dziesięć",
+        "Dwadzieścia pięć",
+        "Czterdzieści",
+        "Pięć"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa mówi, że znają się od dwudziestu pięciu lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa słyszy w podcaście o „wbudowanym skrypcie”?",
+      "answers": [
+        "Że ludzie nie kłamią",
+        "Że gdy ktoś oszukuje, pierwsza myśl to „Bóg mnie znalazł”",
+        "Że małżeństwo jest łatwe",
+        "Że trzeba rozwód"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miłosz mówi o skrypcie: oszust = „Bóg mnie znalazł”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa myślała, gdy Marek gotował jej ulubione danie?",
+      "answers": [
+        "Że jest wdzięczna",
+        "Że coś przeskrobał i chce przeprosić",
+        "Że jest chory",
+        "Że kocha ją"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przez lata myślała, że gotuje, bo coś zrobił źle."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek proponuje zamiast zgadywać?",
+      "answers": [
+        "Milczeć",
+        "Przyjąć, że nie wiemy, i zapytać",
+        "Pisać listy",
+        "Rozwód"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: przyjąć, że nie wiemy, i zapytać „dlaczego?”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa pisze siostrze w liście?",
+      "answers": [
+        "Że małżeństwo jest idealne",
+        "Że największym błędem było myślenie, że zna męża na wylot",
+        "Że rozwód jest konieczny",
+        "Że podcast nie pomaga"
+      ],
+      "correctIndex": 1,
+      "explanation": "List ostrzega przed myśleniem, że zna męża na wylot."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dzien_z_reszty_zycia",
+  "bookId": "dzien-z-reszty-zycia",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o granicach w związku; blisko „Ikonki” i „Froteryzmu” — inna postać (Marta/Darek)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "uViBfglaK4E"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

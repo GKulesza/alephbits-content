@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Tadeusz nosi nowe buty?",
+      "answers": [
+        "Do pracy",
+        "Na wesele syna",
+        "Do biegania",
+        "Do kościoła"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że to nowe buty na wesele syna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co doktor widzi po zdjęciu skarpetki?",
+      "answers": [
+        "Zwykłą modzel",
+        "Martwy, czarny palec i zapach ropy",
+        "Złamanie",
+        "Alergię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Palec jest czarny, martwy; zapach ropy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tadeusz mówi, gdy doktor mówi o amputacji?",
+      "answers": [
+        "Że boli",
+        "„Ale to nie boli”",
+        "Że zgadza się od razu",
+        "Że idzie do innego lekarza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza: ale to nie boli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tadeusz zostawia doktorowi przy powrocie?",
+      "answers": [
+        "Pieniądze",
+        "Nowy but — prosi, by pamiętał o tych, którzy nie przychodzą",
+        "List",
+        "Zdjęcie ojca"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zostawia but z plamą krwi jako ostrzeżenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wynik hemoglobiny glikowanej ma Krzysztof rok później?",
+      "answers": [
+        "11,5",
+        "6,2",
+        "9,0",
+        "8,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof wraca z HbA1c 6,2 po roku leczenia."
+    }
+  ]
+}

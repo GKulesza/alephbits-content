@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie Piotr idzie na początku opowieści?",
+      "answers": [
+        "Do muzeum",
+        "Do Archiwum Akt Nowych",
+        "Na cmentarz",
+        "Do sądu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stoi przed budynkiem Archiwum Akt Nowych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dostał od nieznanego mężczyzny w Łomży?",
+      "answers": [
+        "Pieniądze",
+        "Kopertę z odbitkami dokumentów z 1945 roku",
+        "List od Grossa",
+        "Fotografię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koperta zawiera odbitki dokumentów ze zeznaniami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dyrektor archiwum mówi o prawdzie w tej sprawie?",
+      "answers": [
+        "Że jest prosta",
+        "Że prawda jest jak Święty Graal — wszyscy szukają, nikt nie chce znaleźć",
+        "Że nie istnieje",
+        "Że jest w podręczniku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że prawda jest niewygodna dla wszystkich stron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Marek, który spotyka Piotra w kawiarni?",
+      "answers": [
+        "Studentem",
+        "Nauczycielem historii z Łomży",
+        "Dziennikarzem",
+        "Politikiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek jest nauczycielem historii w miejscowym liceum."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Piotr pisze na końcu artykułu o historii?",
+      "answers": [
+        "Że należy do jednej strony",
+        "Że historia to poszukiwanie prawdy, a Jedwabne jest bardziej złożone niż mówiono",
+        "Że trzeba zapomnieć",
+        "Że Gross się mylił"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisze o złożoności prawdy i braku własności historii przez jedną stronę."
+    }
+  ]
+}

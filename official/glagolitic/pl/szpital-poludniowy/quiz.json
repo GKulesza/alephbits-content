@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim zawodowo jest Marek?",
+      "answers": [
+        "Pielęgniarzem",
+        "Chirurgiem w szpitalu południowym",
+        "Dziennikarzem",
+        "Politikiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pracuje jako chirurg w szpitalu południowym od trzech lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek diagnozuje u pacjenta na sali nr 4?",
+      "answers": [
+        "Grypę",
+        "Zawał we wczesnym stadium",
+        "Złamanie",
+        "Anemię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po badaniu stwierdza zawał we wczesnym stadium."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co kolega Nowak mówi o systemie?",
+      "answers": [
+        "Że jest idealny",
+        "Że to wierzchołek góry lodowej — system gnije od lat",
+        "Że się poprawia",
+        "Że nie dotyczy ich szpitala"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak mówi, że to wierzchołek góry lodowej i system gnije."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek robi zamiast iść do szpitala następnego ranka?",
+      "answers": [
+        "Jedzie na urlop",
+        "Siedzi i pisze notatki o tym, co widział",
+        "Rezygnuje bez słowa",
+        "Idzie do polityka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Następnego dnia pisze notatki, wspomnienia i obserwacje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się tydzień po publikacji tekstu?",
+      "answers": [
+        "Dostaje nagrodę",
+        "Zostaje zwolniony, ale czuje, że zrobił to, co musiał",
+        "Wraca do pracy bez zmian",
+        "Udaje, że nic nie napisał"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zostaje zwolniony, ale nie czuje się przegrany — powiedział prawdę."
+    }
+  ]
+}

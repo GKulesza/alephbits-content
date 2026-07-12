@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O co Marta „czepia się” Darka na początku?",
+      "answers": [
+        "O pracę",
+        "Że nie zakręcił pasty po umyciu zębów",
+        "O dzieci",
+        "O pieniądze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: znowu nie zakręciłeś pasty."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Darek odpowiada na jej uwagi?",
+      "answers": [
+        "Przeprasza",
+        "„Przestań, Marta. Znowu się czepiasz.”",
+        "Milczy",
+        "Wychodzi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza: przestań, znowu się czepiasz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marta mówi, że przestanie robić?",
+      "answers": [
+        "Kochać Darka",
+        "Narzekać i przypominać, że jego reakcje ją ranią",
+        "Gotować",
+        "Pracować"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zapowiada, że przestanie narzekać, ale jego reakcja będzie znakiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd Marta zna metodę „zamiast narzekać, odpowiedzialność weźmy”?",
+      "answers": [
+        "Od Darka",
+        "Z podcastu, który słuchała w samochodzie",
+        "Z książki Darka",
+        "Od terapeuty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przypomina podcast z wczoraj w samochodzie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marta myśli na końcu o dniu?",
+      "answers": [
+        "Że wszystko się skończyło",
+        "„Dzisiaj zaczyna się kolejny dzień z reszty jej życia.”",
+        "Że musi wyjechać",
+        "Że Darek się zmieni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy refleksją o dniu, który zaczyna resztę życia."
+    }
+  ]
+}

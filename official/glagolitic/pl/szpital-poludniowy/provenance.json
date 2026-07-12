@@ -1,0 +1,22 @@
+{
+  "packId": "polish_szpital_poludniowy",
+  "bookId": "szpital-poludniowy",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja-opinia o systemie ochrony zdrowia; wydarzenia polityczne są tłem narracyjnym, nie faktami katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "bTFy79zJ7k4"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

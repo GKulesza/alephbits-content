@@ -1,0 +1,22 @@
+{
+  "packId": "polish_powrot",
+  "bookId": "powrot",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o tożsamości i migracji; wydarzenia wizowe są tłem narracyjne."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "B1Xtmu1jgaE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

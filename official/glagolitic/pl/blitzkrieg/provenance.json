@@ -1,0 +1,22 @@
+{
+  "packId": "polish_blitzkrieg",
+  "bookId": "blitzkrieg",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o relacjach; metafora historyczna Blitzkrieg jest narzędziem narracyjnym, nie lekcją historii."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "v95kpHsD5Hk"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

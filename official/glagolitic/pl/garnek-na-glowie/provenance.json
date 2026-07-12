@@ -1,0 +1,22 @@
+{
+  "packId": "polish_garnek_na_glowie",
+  "bookId": "garnek-na-glowie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja inspirowana teorią Montauk; treści spiskowe są narracją, nie faktami katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "6jEFpcWo-oM"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

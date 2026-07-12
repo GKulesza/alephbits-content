@@ -1,0 +1,22 @@
+{
+  "packId": "polish_algorytm_szczescia",
+  "bookId": "algorytm-szczescia",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o technologii i filozofii; algorytm szczęścia jest metaforą, nie produktem."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eight manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

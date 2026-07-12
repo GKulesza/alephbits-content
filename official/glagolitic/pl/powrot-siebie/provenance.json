@@ -1,0 +1,22 @@
+{
+  "packId": "polish_powrot_siebie",
+  "bookId": "powrot-siebie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o duchowości i nauce; metafizyka jest narracją postaci, nie stanowiskiem katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "HmIwjg_1uoM"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

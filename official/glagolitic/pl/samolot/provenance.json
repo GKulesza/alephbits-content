@@ -1,0 +1,22 @@
+{
+  "packId": "polish_samolot",
+  "bookId": "samolot",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja edukacyjna o neuroatypicalności; nie zastępuje diagnozy ani porady medycznej."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "8GPApDc_CgM"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

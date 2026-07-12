@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O której godzinie Ada budzi się pierwszy raz z przebudzeniem?",
+      "answers": [
+        "5:47",
+        "3:33",
+        "12:00",
+        "6:15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Budzi się o 3:33 nad ranem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się głos, który Ada słyszy?",
+      "answers": [
+        "Leon",
+        "Sirun",
+        "Adam",
+        "Marta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Głos przedstawia się jako Sirun, posłaniec."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ada robi miesiąc po przebudzeniu zawodowo?",
+      "answers": [
+        "Wraca do etatu",
+        "Zakłada stronę o syriańskich kodach i rezygnuje z etatu",
+        "Jedzie do szpitala",
+        "Wraca do matki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rezygnuje z etatu i pisze o kodach przebudzenia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Ada stoi w epilogu rok później?",
+      "answers": [
+        "W Warszawie",
+        "Na pustyni w Egipcie przy piramidzie",
+        "W szpitalu",
+        "U matki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog: stoi na pustyni w Egipcie przed piramidą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co nieznajomy pisze Adzie w wiadomości?",
+      "answers": [
+        "Że jest chory",
+        "Że od tygodni czuje pulsowanie w dłoni i dziękuje, że istnieje",
+        "Że chce spotkania",
+        "Że to oszustwo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czytelnik pisze o tym samym pulsowaniu i wdzięczności."
+    }
+  ]
+}

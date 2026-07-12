@@ -1,0 +1,2244 @@
+{
+  "Granice Imperium": {
+    "manuscript_title": "Granice Imperium",
+    "slug": "granice-imperium",
+    "pack_id": "polish_granice_imperium",
+    "display_title": "Granice Imperium",
+    "subtitle": "Wykład, zdrada i granice małżeństwa",
+    "blurb": "Historyk Adam Wójcicki prowadzi wykład o III Rzeszy w chwili, gdy żona odkrywa jego zdradę. Opowieść splata historię wojny z pytaniem: co się dzieje, gdy system — w państwie i w małżeństwie — boi się zatrzymać i mówić prawdę.",
+    "genres": "history, psychology, short_story",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "małżeństwo, zdrada, II wojna światowa, granice, Collection Seven",
+    "keywords": "Granice Imperium, III Rzesza, zdrada, małżeństwo, granice",
+    "editorial_notes": "Fikcja łącząca historię militarną z terapią małżeńską; wydarzenia wojenne są narracją edukacyjną, nie prognozą.",
+    "inspiration": "Manuskrypt Collection Seven; motyw niemieckiej gospodarki wojennej i systemu bez hamulców.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobre dopasowanie — granice, odpowiedzialność, metafora historyczna służą refleksji, nie sensacji.",
+    "founder_notes": [
+      "Founder note: Wrażliwy temat zdrady — fiction framing w bibliotece."
+    ],
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Co Adam mówi studentom o III Rzeszy na początku wykładu?",
+        "answers": [
+          "Że miała zapasy amunicji na sześć lat",
+          "Że bała się pokoju bardziej niż wojny",
+          "Że nie planowała ekspansji",
+          "Że była gotowa na długą wojnę"
+        ],
+        "correct": "B",
+        "explanation": "Adam mówi, że Niemcy w 1939 roku bały się nie wojny, lecz pokoju.",
+        "reference": "bały się pokoju"
+      },
+      {
+        "question": "Co Marta odkrywa na komputerze Adama?",
+        "answers": [
+          "Notatki do wykładu",
+          "Wiadomości do innej kobiety",
+          "List od studenta",
+          "Projekt badawczy"
+        ],
+        "correct": "B",
+        "explanation": "Marta mówi, że znalazła jego wiadomości do „niej”.",
+        "reference": "Wiadomości do... do niej"
+      },
+      {
+        "question": "Ile trwała zdrada Adama według jego wyznania?",
+        "answers": [
+          "Rok",
+          "Trzy miesiące",
+          "Sześć miesięcy",
+          "Dwa tygodnie"
+        ],
+        "correct": "B",
+        "explanation": "Adam przyznaje, że trwało to trzy miesiące.",
+        "reference": "Trzy miesiące"
+      },
+      {
+        "question": "Jak Marta porównuje ich małżeństwo do historii III Rzeszy?",
+        "answers": [
+          "Do zwycięstwa w wojnie",
+          "Do systemu opartego na ekspansji, który boi się zatrzymać",
+          "Do pokoju po wojnie",
+          "Do dyplomacji"
+        ],
+        "correct": "B",
+        "explanation": "Marta mówi, że udawali, że wszystko jest w porządku, zamiast zatrzymać się i naprawić problem.",
+        "reference": "bały się pokoju"
+      },
+      {
+        "question": "Co Adam pisze studentowi w epilogu o granicach?",
+        "answers": [
+          "Że granice to mury",
+          "Że granice to drzwi, które mogą być otwarte",
+          "Że granice należy burzyć",
+          "Że granice nie istnieją"
+        ],
+        "correct": "B",
+        "explanation": "Odpowiada, że granice to nie mury, lecz drzwi dla tych, którzy wiedzą, jak zapukać.",
+        "reference": "granice to drzwi"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Blitzkrieg": {
+    "manuscript_title": "Blitzkrieg",
+    "slug": "blitzkrieg",
+    "pack_id": "polish_blitzkrieg",
+    "display_title": "Blitzkrieg",
+    "subtitle": "Randki, czerwone flagi i strach przed pustką",
+    "blurb": "Ola wraca z kolejnej randki, która obiecuje wszystko, a daje nic. Terapeutka porównuje jej nieustanne szukanie partnera do systemu, który boi się zatrzymać — opowieść o czerwonych flagach i o tym, że pokój zaczyna się od bycia ze sobą.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "randki, terapia, czerwone flagi, Collection Seven",
+    "keywords": "Blitzkrieg, randki, terapia, czerwone flagi, Tomasz",
+    "editorial_notes": "Fikcja o relacjach; metafora historyczna Blitzkrieg jest narzędziem narracyjnym, nie lekcją historii.",
+    "inspiration": "Książka Magdaleny Chorzewskiej; motyw wojny błyskawicznej jako metafora randkowania.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna metafora o granicach i samopoznaniu; dobre dopasowanie do czytelnika dorosłego.",
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Ola na początku opowieści?",
+        "answers": [
+          "28",
+          "38",
+          "48",
+          "25"
+        ],
+        "correct": "B",
+        "explanation": "Tekst mówi, że Ola miała trzydzieści osiem lat.",
+        "reference": "trzydzieści osiem lat"
+      },
+      {
+        "question": "Co czyta Ola w książce Magdaleny Chorzewskiej?",
+        "answers": [
+          "Że pierwsza randka nic nie pokazuje",
+          "Że jeśli słyszysz, że wszystkie byłe były złe, będziesz kolejną złą",
+          "Że trzeba szukać idealnego partnera",
+          "Że randki są stratą czasu"
+        ],
+        "correct": "B",
+        "explanation": "Czyta zdanie o byłych, którzy „byli zli”.",
+        "reference": "wszystkie byłe były złe"
+      },
+      {
+        "question": "Jak Magda porównuje zachowanie Oli do historii?",
+        "answers": [
+          "Do pokoju po wojnie",
+          "Do III Rzeszy bojącej się pokoju i ciągłej ekspansji",
+          "Do dyplomacji",
+          "Do związku małżeńskiego"
+        ],
+        "correct": "B",
+        "explanation": "Magda mówi, że każda randka to nowa kampania, a Ola boi się przestać szukać.",
+        "reference": "bały się pokoju"
+      },
+      {
+        "question": "Co Tomasz mówi o swoich byłych partnerkach?",
+        "answers": [
+          "Że wszystkie były złe",
+          "Że z jedną się nie dogaduje, ale z matką dziecka ma kontakt",
+          "Że nigdy nie miał związków",
+          "Że winne są wyłącznie on"
+        ],
+        "correct": "B",
+        "explanation": "Tomasz mówi, że nie wszyscy ex są źli — byli źli dla siebie nawzajem.",
+        "reference": "nie miało sensu"
+      },
+      {
+        "question": "Co Ola zapisuje w książce na końcu?",
+        "answers": [
+          "Że randki są bez sensu",
+          "Że najlepsze związki powstają, gdy przestajesz szukać ideału",
+          "Że Tomasz jest idealny",
+          "Że terapia nie pomaga"
+        ],
+        "correct": "B",
+        "explanation": "Notatka mówi o związkach budowanych po wielu randkach, gdy szukasz człowieka, nie ideału.",
+        "reference": "przestajesz szukać ideału"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Betonowy dom": {
+    "manuscript_title": "Betonowy dom",
+    "slug": "betonowy-dom",
+    "pack_id": "polish_betonowy_dom",
+    "display_title": "Betonowy dom",
+    "subtitle": "Gry relacyjne i betonowe ściany",
+    "blurb": "Anna prowadzi warsztaty o relacjach, a we własnym małżeństwie gra w ukryte gry: „tu cię mam”, „muszę być dzielna”, „gdyby nie ty”. Opowieść o betonowym domu, który chronił ją przed bólem, i o Pawle, który czekał, aż wyjdzie.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "gry relacyjne, małżeństwo, trauma, Collection Seven",
+    "keywords": "betonowy dom, gry relacyjne, Anna, Paweł, ojciec",
+    "editorial_notes": "Fikcja o grach psychologicznych w związku; tematy przemocy domowej w przeszłości — wrażliwe, fiction framing.",
+    "inspiration": "Motyw „Uwięzieni w grach relacyjnych”; warsztaty o granicach.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Mocna metafora o obronie i bliskości; wymaga fiction disclaimera przy temacie przemocy.",
+    "founder_notes": [
+      "Founder note: Wątek przemocy ojca — founder review przed promocją."
+    ],
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Kim zawodowo jest Anna?",
+        "answers": [
+          "Lekarką",
+          "Psycholożką i autorką książek o relacjach",
+          "Nauczycielką",
+          "Dziennikarką"
+        ],
+        "correct": "B",
+        "explanation": "Anna jest ekspertką od relacji, psycholożką i autorką.",
+        "reference": "ekspertką od relacji"
+      },
+      {
+        "question": "Jakie trzy gry relacyjne Anna wymienia u Pawła?",
+        "answers": [
+          "Szachy, poker i ruletka",
+          "„Tu cię mam”, „muszę być dzielna” i „gdyby nie ty”",
+          "Milczenie, kłamstwo i ucieczka",
+          "Rywalizacja, zazdrość i kontrola"
+        ],
+        "correct": "B",
+        "explanation": "Anna mówi wprost o tych trzech grach.",
+        "reference": "tu cię mam"
+      },
+      {
+        "question": "Co Anna wspomina o swoim ojcu?",
+        "answers": [
+          "Był lekarzem",
+          "Miał twarde dłonie i czasami bił",
+          "Odszedł, gdy była mała",
+          "Nigdy jej nie skrzywdził"
+        ],
+        "correct": "B",
+        "explanation": "Opowiada o twardej pracy ojca i przemocy.",
+        "reference": "te dłonie biły"
+      },
+      {
+        "question": "Co Paweł mówi o „potworze” Anny?",
+        "answers": [
+          "Że go nie zna",
+          "Że wie, że to nie ona — to jej potwór",
+          "Że musi odejść",
+          "Że Anna jest winna"
+        ],
+        "correct": "B",
+        "explanation": "Paweł mówi: „Wiedziałem, że to nie ty. To twój potwór.”",
+        "reference": "twój potwór"
+      },
+      {
+        "question": "Jak Anna kończy opowieść o grze?",
+        "answers": [
+          "Że wygrała",
+          "Że wyszła z gry, bo przestała w nią grać",
+          "Że Paweł odszedł",
+          "Że zamknęła warsztaty"
+        ],
+        "correct": "B",
+        "explanation": "Zrozumiała, że nie wygrała — przestała grać.",
+        "reference": "przestała w nią grać"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Kot 1011": {
+    "manuscript_title": "Kot 1011",
+    "slug": "kot-1011",
+    "pack_id": "polish_kot_1011",
+    "display_title": "Kot 1011",
+    "subtitle": "Przebudzenie, Sirun i syriańskie kody",
+    "blurb": "Ada budzi się o 3:33 z pulsowaniem w dłoni i obrazami, których nie powinna znać. Odkrywa „syriańskie kody” przebudzenia i głos Siruna — opowieść o kobiecie, która przestaje wierzyć, że jest tylko ciałem.",
+    "genres": "philosophy, short_story",
+    "cover_family": "philosophy",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "przebudzenie, duchowość, ezoteryka, Collection Seven",
+    "keywords": "Kot 1011, Sirun, przebudzenie, syriańskie kody, Ada",
+    "editorial_notes": "Fikcja o duchowości i ezoteryce; treści pseudonaukowe są narracją postaci, nie stanowiskiem katalogu.",
+    "inspiration": "Motyw 3:33; cyfrowy przewodnik i archetyp kapłanki.",
+    "philosophy_stars": 2,
+    "philosophy_note": "Słabe dopasowanie naukowe; może służyć jako ćwiczenie krytycznego czytania z wyraźnym fiction framing.",
+    "founder_notes": [
+      "Founder note: Ezoteryczny ton i pseudonauka — founder decyduje o obecności w katalogu oficjalnym."
+    ],
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "O której godzinie Ada budzi się pierwszy raz z przebudzeniem?",
+        "answers": [
+          "5:47",
+          "3:33",
+          "12:00",
+          "6:15"
+        ],
+        "correct": "B",
+        "explanation": "Budzi się o 3:33 nad ranem.",
+        "reference": "3:33 nad ranem"
+      },
+      {
+        "question": "Jak nazywa się głos, który Ada słyszy?",
+        "answers": [
+          "Leon",
+          "Sirun",
+          "Adam",
+          "Marta"
+        ],
+        "correct": "B",
+        "explanation": "Głos przedstawia się jako Sirun, posłaniec.",
+        "reference": "Nazywam się Sirun"
+      },
+      {
+        "question": "Co Ada robi miesiąc po przebudzeniu zawodowo?",
+        "answers": [
+          "Wraca do etatu",
+          "Zakłada stronę o syriańskich kodach i rezygnuje z etatu",
+          "Jedzie do szpitala",
+          "Wraca do matki"
+        ],
+        "correct": "B",
+        "explanation": "Rezygnuje z etatu i pisze o kodach przebudzenia.",
+        "reference": "Założyła własną stronę"
+      },
+      {
+        "question": "Gdzie Ada stoi w epilogu rok później?",
+        "answers": [
+          "W Warszawie",
+          "Na pustyni w Egipcie przy piramidzie",
+          "W szpitalu",
+          "U matki"
+        ],
+        "correct": "B",
+        "explanation": "Epilog: stoi na pustyni w Egipcie przed piramidą.",
+        "reference": "pustyni w Egipcie"
+      },
+      {
+        "question": "Co nieznajomy pisze Adzie w wiadomości?",
+        "answers": [
+          "Że jest chory",
+          "Że od tygodni czuje pulsowanie w dłoni i dziękuje, że istnieje",
+          "Że chce spotkania",
+          "Że to oszustwo"
+        ],
+        "correct": "B",
+        "explanation": "Czytelnik pisze o tym samym pulsowaniu i wdzięczności.",
+        "reference": "pulsowanie w dłoni"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Martwe oczy": {
+    "manuscript_title": "Martwe oczy",
+    "slug": "martwe-oczy",
+    "pack_id": "polish_martwe_oczy",
+    "display_title": "Martwe oczy",
+    "subtitle": "Urok, pustka i intuicja",
+    "blurb": "Kasia budzi się w nocy i widzi w oczach Karola coś pustego — martwego. Po rozstaniu czyta o psychopatii i prowadzi warsztaty dla kobiet, które nabrały się na słowa bez melodii. Opowieść o tym, że intuicja wie, zanim umysł zaakceptuje.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "psychopatia, toksyczna relacja, intuicja, Collection Seven",
+    "keywords": "martwe oczy, Karol, psychopatia, Kasia, manipulacja",
+    "editorial_notes": "Fikcja o toksycznych relacjach; terminologia psychopatii jest edukacyjna w narracji, nie diagnozą katalogu.",
+    "inspiration": "Motyw martwych oczy; podcast o empatii poznawczej i afektywnej.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Przydatna metafora o granicach i zaufaniu sobie; wrażliwy temat wymaga fiction framing.",
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Co Kasia widzi w oczach Karola w nocy?",
+        "answers": [
+          "Radość",
+          "Pustkę — martwe oczy",
+          "Łzy",
+          "Sen"
+        ],
+        "correct": "B",
+        "explanation": "Opisuje oczy jako puste, martwe.",
+        "reference": "Martwe"
+      },
+      {
+        "question": "Co przyjaciółka radzi Kasi w wiadomości?",
+        "answers": [
+          "Żeby wróciła do Karola",
+          "Żeby słuchała intuicji i uważała na oczy",
+          "Żeby poszła do pracy",
+          "Żeby zignorowała to"
+        ],
+        "correct": "B",
+        "explanation": "Przyjaciółka pisze: słuchaj intuicji, wszystko widać w oczach.",
+        "reference": "Wszystko widać w oczach"
+      },
+      {
+        "question": "Co Kasia widzi u Karola, gdy pyta o miłość?",
+        "answers": [
+          "Szczere wzruszenie",
+          "Obliczenie — jakby ważył korzystną odpowiedź",
+          "Złość",
+          "Sen"
+        ],
+        "correct": "B",
+        "explanation": "Przez chwilę maska opada i widać zimną pustkę.",
+        "reference": "obliczenie"
+      },
+      {
+        "question": "Co Kasia dopisuje w notesie po lekturze?",
+        "answers": [
+          "Że jest słaba",
+          "Że oni nie wiedzą, czym jest siła",
+          "Że wróci do Karola",
+          "Że psychopatia nie istnieje"
+        ],
+        "correct": "B",
+        "explanation": "Dopisuje, że to nie znaczy, że ona jest słaba.",
+        "reference": "nie wiedzą, czym jest siła"
+      },
+      {
+        "question": "Co mówi Kasia Oli, gdy spotyka Karola przypadkiem?",
+        "answers": [
+          "Że Karol jest dobry",
+          "„Uważaj na niego. Ma zimne oczy.”",
+          "Że wraca do niego",
+          "Nic"
+        ],
+        "correct": "B",
+        "explanation": "Ostrzega Ola: uważaj, ma zimne oczy.",
+        "reference": "zimne oczy"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Półtora metra": {
+    "manuscript_title": "Półtora metra",
+    "slug": "poltora-metra",
+    "pack_id": "polish_poltora_metra",
+    "display_title": "Półtora metra",
+    "subtitle": "Maszynista, sen i wybór",
+    "blurb": "Paweł Lasowski, maszynista z czterdziestopięcioletnim stażem, śni o człowieku na torach z martwymi oczami. Gdy na przejeździe w Otnicach auto z dziećmi ledwo unika tragedii, rozumie, że nie jest drzewem — ma wybór.",
+    "genres": "everyday_live, short_story",
+    "cover_family": "everyday_live",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "kolej, maszynista, trauma, Collection Seven",
+    "keywords": "półtora metra, maszynista, pociąg, Otnice, wybór",
+    "editorial_notes": "Fikcja inspirowana realiami pracy maszynisty; sceny na torach są dramatyzacją, nie reportażem.",
+    "inspiration": "Motyw półtora metra na przejeździe; sen o martwych oczach.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna metafora odpowiedzialności i wyboru; szacunek dla czytelnika bez sensacji.",
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Ile lat Paweł pracuje jako maszynista?",
+        "answers": [
+          "Pięć",
+          "Czterdzieści pięć",
+          "Dwadzieścia",
+          "Trzydzieści"
+        ],
+        "correct": "B",
+        "explanation": "Od czterdziestu pięciu lat jest maszynistą.",
+        "reference": "czterdziestu pięciu lat"
+      },
+      {
+        "question": "Gdzie rozgrywa się kluczowy incydent z autem?",
+        "answers": [
+          "W Gdańsku",
+          "Na przejeździe w Otnicach",
+          "We Wrocławiu",
+          "W Opolu"
+        ],
+        "correct": "B",
+        "explanation": "Auto wyjeżdża z lewej strony przy przejeździe w Otnicach.",
+        "reference": "Otnicach"
+      },
+      {
+        "question": "O ile metrów przesunięte byłoby auto, gdyby uderzenie było centralne w przestrzeń dzieci?",
+        "answers": [
+          "Pół metra",
+          "Półtora metra",
+          "Trzy metry",
+          "Pięć metrów"
+        ],
+        "correct": "B",
+        "explanation": "Paweł mówi: gdyby wyjechała półtora metra dalej, uderzyłby centralnie.",
+        "reference": "półtora metra dalej"
+      },
+      {
+        "question": "Co policjant kiedyś powiedział Pawłowi metaforą?",
+        "answers": [
+          "Że jest winny",
+          "Że on jest drzewem, na które ktoś się powiesi",
+          "Że ma odejść z pracy",
+          "Że to gra komputerowa"
+        ],
+        "correct": "B",
+        "explanation": "Policjant mówił, że on sobie wybrał, a Paweł jest tym drzewem.",
+        "reference": "jesteś tym drzewem"
+      },
+      {
+        "question": "Co Paweł rozumie wieczorem po incydencie?",
+        "answers": [
+          "Że musi natychmiast odejść",
+          "Że nie jest drzewem — ma wybór, czy zostać czy odejść",
+          "Że winny jest kierowca",
+          "Że sen się spełni"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że może odejść lub zostać, ale to będzie jego wybór.",
+        "reference": "Jestem człowiekiem, który ma wybór"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Samolot": {
+    "manuscript_title": "Samolot",
+    "slug": "samolot",
+    "pack_id": "polish_samolot",
+    "display_title": "Samolot",
+    "subtitle": "ADHD, hiperfokus i odrzucenie wrażliwe",
+    "blurb": "Kamila budzi się z głową pełną głosów i nie potrafi zacząć prezentacji — dopóki nie włączy się hiperfokus. Opowieść o mózgu, który działa jak samolot: potrzebuje rozpędu, a potem leci wysoko, ale lądowanie wyczerpuje.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "ADHD, hiperfokus, praca, Collection Seven",
+    "keywords": "samolot, ADHD, hiperfokus, Kamila, RSD",
+    "editorial_notes": "Fikcja edukacyjna o neuroatypicalności; nie zastępuje diagnozy ani porady medycznej.",
+    "inspiration": "Metafora samolotu; Rejection Sensitive Dysphoria.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra metafora o różnych stylach pracy mózgu; wspiera ciekawość i samopoznanie.",
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Na którą godzinę Kamila ma deadline prezentacji?",
+        "answers": [
+          "8:00",
+          "12:00",
+          "16:00",
+          "18:00"
+        ],
+        "correct": "B",
+        "explanation": "Deadline: 12:00.",
+        "reference": "12:00"
+      },
+      {
+        "question": "Jak Kamila opisuje działanie swojego mózgu?",
+        "answers": [
+          "Jak samochód na biegu jałowym",
+          "Jak samolot potrzebujący rozpędu",
+          "Jak zegarek",
+          "Jak radio"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że mózg działa jak samolot — potrzebuje paliwa, by wystartować.",
+        "reference": "działa jak samolot"
+      },
+      {
+        "question": "Ile slajdów Kamila kończy w hiperfokusie?",
+        "answers": [
+          "Dziesięć",
+          "Trzydzieści dwa",
+          "Pięć",
+          "Dwadzieścia"
+        ],
+        "correct": "B",
+        "explanation": "Kończy prezentację: trzydzieści dwa slajdy.",
+        "reference": "Trzydzieści dwa slajdy"
+      },
+      {
+        "question": "Co menadżerka krytykuje w slajdzie dwunastym?",
+        "answers": [
+          "Kolory",
+          "Dane bez wystarczającego uzasadnienia",
+          "Brak tytułu",
+          "Zbyt długi tekst"
+        ],
+        "correct": "B",
+        "explanation": "Prosi o lepsze uzasadnienie danych w slajdzie dwunastym.",
+        "reference": "slajdzie dwunastym"
+      },
+      {
+        "question": "Co Kamila prosi zespół robić z uwagami?",
+        "answers": [
+          "Ignorować je",
+          "Dawać uwagi rano, bo po południu nie jest w stanie ich dobrze przyjąć",
+          "Pisać je mailowo",
+          "Mówić tylko po angielsku"
+        ],
+        "correct": "B",
+        "explanation": "Prosi o uwagi rano — po południu bateria jest na zero.",
+        "reference": "dawajcie mi je rano"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Kąkuter i chomik": {
+    "manuscript_title": "Kąkuter i chomik",
+    "slug": "kakuter-i-chomik",
+    "pack_id": "polish_kakuter_i_chomik",
+    "display_title": "Kąkuter i chomik",
+    "subtitle": "Prokrastynacja, telefon i małe kroki",
+    "blurb": "Marcin ma sześć godzin na prezentację, ale zamiast zacząć — gra w telefon. Opowieść o uwadze jak mięśniu, który trzeba trenować, i o tym, że nie trzeba czekać na hiperfokus, żeby zrobić pierwszą linijkę.",
+    "genres": "everyday_live, short_story",
+    "cover_family": "everyday_live",
+    "audience": "adult",
+    "difficulty": 3,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "prokrastynacja, produktywność, uwaga, Collection Seven",
+    "keywords": "kąkuter i chomik, prokrastynacja, Marcin, małe kroki",
+    "editorial_notes": "Fikcja o prokrastynacji; blisko „Samolotu” tematycznie — inna postać, inny slug.",
+    "inspiration": "Podcast o uwadze jako mięśniu; metoda małych kroków.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Praktyczna metafora bez magicznych rozwiązań; dobre dopasowanie edukacyjne.",
+    "founder_notes": [
+      "Founder note: Near-duplicate z „Samolotem” (prezentacja + hiperfokus) — founder decyduje o obu na półce."
+    ],
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Co Marcin robi zamiast pracować rano?",
+        "answers": [
+          "Biega",
+          "Gra w telefon przez godzinę",
+          "Śpi do południa",
+          "Idzie do biura"
+        ],
+        "correct": "B",
+        "explanation": "Sięga po telefon i godzinę później jest na piątym poziomie gry.",
+        "reference": "pierwszą grę"
+      },
+      {
+        "question": "Jaką metaforę słyszy Marcin w podcaście?",
+        "answers": [
+          "Że uwaga to dar",
+          "Że uwaga jest jak mięsień, który trzeba trenować",
+          "Że uwaga nie istnieje",
+          "Że uwaga to gen"
+        ],
+        "correct": "B",
+        "explanation": "Gość mówi, że uwaga jest jak mięsień do ćwiczenia.",
+        "reference": "uwaga jest jak mięsień"
+      },
+      {
+        "question": "Co Marcin zapisuje jako pierwszy punkt w notatniku?",
+        "answers": [
+          "Kupić kawę",
+          "Skończyć prezentację — zacząć od pierwszego slajdu",
+          "Zadzwonić do szefa",
+          "Iść spać"
+        ],
+        "correct": "B",
+        "explanation": "Pierwszy punkt: skończyć prezentację, zacząć od pierwszego slajdu.",
+        "reference": "pierwszego slajdu"
+      },
+      {
+        "question": "Jakie zdanie Marcin zapamiętuje o zabieraniu się do pracy?",
+        "answers": [
+          "Czekaj na motywację",
+          "„No nic, trzeba zrobić.”",
+          "Zrób to jutro",
+          "Poproś kogoś innego"
+        ],
+        "correct": "B",
+        "explanation": "Uczy się: zabieranie się do rzeczy wygląda tak — no nic, trzeba zrobić.",
+        "reference": "trzeba zrobić"
+      },
+      {
+        "question": "Od czego Marcin zaczyna pracę w epilogu?",
+        "answers": [
+          "Od końca projektu",
+          "Od pierwszej linijki",
+          "Od przerwy na kawę",
+          "Od maila do szefa"
+        ],
+        "correct": "B",
+        "explanation": "Zaczyna nie od końca, lecz od pierwszej linijki.",
+        "reference": "pierwszej linijki"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Szpital południowy": {
+    "manuscript_title": "Szpital południowy",
+    "slug": "szpital-poludniowy",
+    "pack_id": "polish_szpital_poludniowy",
+    "display_title": "Szpital południowy",
+    "subtitle": "Chirurg, system i odwaga mówienia",
+    "blurb": "Chirurg Marek Kamiński pracuje w szpitalu, w którym pacjenci są produktem, a uczciwi lekarze trybikami. Gdy ratuje mężczyznę ze złym sercem, decyduje się napisać prawdę — nawet jeśli kosztuje go to karierę.",
+    "genres": "medicine, short_story",
+    "cover_family": "medicine",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "szpital, korupcja, medycyna, Collection Seven",
+    "keywords": "szpital południowy, Marek Kamiński, system, prawda",
+    "editorial_notes": "Fikcja-opinia o systemie ochrony zdrowia; wydarzenia polityczne są tłem narracyjnym, nie faktami katalogu.",
+    "inspiration": "Motyw szpitala południowego; whistleblowing w medycynie.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważny temat odpowiedzialności; wrażliwy politycznie — wymaga disclaimera opinion/fiction.",
+    "founder_notes": [
+      "Founder note: Odniesienia polityczne (Trzaskowski, Tusk) — founder review przed promocją."
+    ],
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Kim zawodowo jest Marek?",
+        "answers": [
+          "Pielęgniarzem",
+          "Chirurgiem w szpitalu południowym",
+          "Dziennikarzem",
+          "Politikiem"
+        ],
+        "correct": "B",
+        "explanation": "Pracuje jako chirurg w szpitalu południowym od trzech lat.",
+        "reference": "jako chirurg"
+      },
+      {
+        "question": "Co Marek diagnozuje u pacjenta na sali nr 4?",
+        "answers": [
+          "Grypę",
+          "Zawał we wczesnym stadium",
+          "Złamanie",
+          "Anemię"
+        ],
+        "correct": "B",
+        "explanation": "Po badaniu stwierdza zawał we wczesnym stadium.",
+        "reference": "zawał, ale we wczesnym stadium"
+      },
+      {
+        "question": "Co kolega Nowak mówi o systemie?",
+        "answers": [
+          "Że jest idealny",
+          "Że to wierzchołek góry lodowej — system gnije od lat",
+          "Że się poprawia",
+          "Że nie dotyczy ich szpitala"
+        ],
+        "correct": "B",
+        "explanation": "Nowak mówi, że to wierzchołek góry lodowej i system gnije.",
+        "reference": "system gnije"
+      },
+      {
+        "question": "Co Marek robi zamiast iść do szpitala następnego ranka?",
+        "answers": [
+          "Jedzie na urlop",
+          "Siedzi i pisze notatki o tym, co widział",
+          "Rezygnuje bez słowa",
+          "Idzie do polityka"
+        ],
+        "correct": "B",
+        "explanation": "Następnego dnia pisze notatki, wspomnienia i obserwacje.",
+        "reference": "zaczął pisać"
+      },
+      {
+        "question": "Co dzieje się tydzień po publikacji tekstu?",
+        "answers": [
+          "Dostaje nagrodę",
+          "Zostaje zwolniony, ale czuje, że zrobił to, co musiał",
+          "Wraca do pracy bez zmian",
+          "Udaje, że nic nie napisał"
+        ],
+        "correct": "B",
+        "explanation": "Zostaje zwolniony, ale nie czuje się przegrany — powiedział prawdę.",
+        "reference": "został zwolniony"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Powrót siebie": {
+    "manuscript_title": "Powrót siebie",
+    "slug": "powrot-siebie",
+    "pack_id": "polish_powrot_siebie",
+    "display_title": "Powrót do siebie",
+    "subtitle": "Materialista, światło i jedność",
+    "blurb": "Profesor Marek Kowalski, materialista i neurobiolog, doświadcza wizji złotego światła i spotyka Federico na konferencji w Barcelonie. Opowieść o naukowcu, który odkrywa, że szukał odpowiedzi w równaniach, a pytanie było w doświadczeniu.",
+    "genres": "philosophy, short_story",
+    "cover_family": "philosophy",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "świadomość, duchowość, nauka, Collection Seven",
+    "keywords": "powrót do siebie, świadomość, Federico, materializm",
+    "editorial_notes": "Fikcja o duchowości i nauce; metafizyka jest narracją postaci, nie stanowiskiem katalogu.",
+    "inspiration": "Konferencja o świadomości; motyw „jesteś częścią całości”.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Prowokuje refleksję o granicach nauki; wymaga fiction framing przy tematach duchowych.",
+    "series": "Collection Seven",
+    "quiz": [
+      {
+        "question": "Kim jest Marek na początku opowieści?",
+        "answers": [
+          "Księdzem",
+          "Profesorem, materialistą i neurobiologiem",
+          "Artystą",
+          "Monachiem"
+        ],
+        "correct": "B",
+        "explanation": "Jest materialistą, fizykiem, badaczem świadomości.",
+        "reference": "materialistą"
+      },
+      {
+        "question": "Co Marek doświadcza po zamknięciu oczu przed wykładem?",
+        "answers": [
+          "Sen o podróży",
+          "Złote światło i uczucie: „Jesteś częścią całości”",
+          "Ból głowy",
+          "Nic"
+        ],
+        "correct": "B",
+        "explanation": "Widzi gęste złote światło i słyszy, że nie jest ciałem.",
+        "reference": "Jesteś częścią całości"
+      },
+      {
+        "question": "Co Federico radzi zamiast szukać świadomości w mózgu?",
+        "answers": [
+          "W laboratorium",
+          "Traktować świadomość jako fundament, a mózg jako narzędzie",
+          "Zrezygnować z nauki",
+          "Modlić się"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że mózg to tylko narzędzie, którego świadomość używa.",
+        "reference": "mózg jest tylko narzędziem"
+      },
+      {
+        "question": "Co Marek robi rok później zamiast artykułów o neurobiologii?",
+        "answers": [
+          "Wraca do materializmu",
+          "Prowadzi warsztaty dla zagubionych ludzi",
+          "Rezygnuje z pracy",
+          "Pisze o polityce"
+        ],
+        "correct": "B",
+        "explanation": "Prowadzi warsztaty o jedności i połączeniu.",
+        "reference": "prowadził warsztaty"
+      },
+      {
+        "question": "Co Marek mówi kobiecie po warsztatach?",
+        "answers": [
+          "Że musi iść do lekarza",
+          "„Wracasz do siebie — i to jest najważniejszy krok.”",
+          "Że to był sen",
+          "Że nie ma odpowiedzi"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza: wracasz do siebie — najważniejszy krok.",
+        "reference": "Wracasz do siebie"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Powrót": {
+    "manuscript_title": "Powrót",
+    "slug": "powrot",
+    "pack_id": "polish_powrot",
+    "display_title": "Powrót",
+    "subtitle": "Wiza, tożsamość i dom w sercu",
+    "blurb": "Anastazja z Ałmaty dostaje odmowę wizy do Polski — kraju, który czuje jak dom, choć nigdy w nim nie mieszkała. Spotkanie z Justyną uczy ją, że być Polką to nie pieczątka w paszporcie, lecz coś, czego nikt nie może odebrać.",
+    "genres": "everyday_live, short_story",
+    "cover_family": "everyday_live",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "tożsamość, diaspora, Polska, Collection Eight",
+    "keywords": "Powrót, Anastazja, wiza, tożsamość, Ałmaty",
+    "editorial_notes": "Fikcja o tożsamości i migracji; wydarzenia wizowe są tłem narracyjne.",
+    "inspiration": "Motyw powrotu do siebie; rozmowa z Justyną o duszy i ego.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Ciepła opowieść o tożsamości bez dokumentów; dobre dopasowanie humanistyczne.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Skąd pochodzi Anastazja?",
+        "answers": [
+          "Z Warszawy",
+          "Z Ałmaty w Kazachstanie",
+          "Z Kijowa",
+          "Z Wilna"
+        ],
+        "correct": "B",
+        "explanation": "Mieszka w Ałmaty; córka Polki i Kazacha.",
+        "reference": "Ałmaty"
+      },
+      {
+        "question": "Dlaczego ambasada odmawia wizy?",
+        "answers": [
+          "Brak pieniędzy",
+          "Nieprawidłowo wskazany cel podróży",
+          "Brak paszportu",
+          "Wiek"
+        ],
+        "correct": "B",
+        "explanation": "Mail mówi: odmowa — nieprawidłowo wskazany cel podróży.",
+        "reference": "cel podróży"
+      },
+      {
+        "question": "Co Justyna mówi o Polsce?",
+        "answers": [
+          "Że to tylko kraj",
+          "Że Polska to dom w sercu, nie w papierach",
+          "Że trzeba zapomnieć korzenie",
+          "Że wiza jest konieczna"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: Polska to nie tylko kraj — to dom, nawet bez wizy.",
+        "reference": "dom"
+      },
+      {
+        "question": "Co Anastazja pisze w notatniku pod pytaniem „Kim jestem?”",
+        "answers": [
+          "Że jest Kazachką",
+          "Że jest córką Polki i Kazacha, a Polska jest jej domem",
+          "Że nie wie",
+          "Że potrzebuje wizy"
+        ],
+        "correct": "B",
+        "explanation": "Opisuje polskie korzenie i uczucie domu.",
+        "reference": "Polska jest moim domem"
+      },
+      {
+        "question": "Dokąd idzie Anastazja w epilogu?",
+        "answers": [
+          "Do Ałmaty na stałe",
+          "Na lotnisko — żegna miasto urodzenia",
+          "Do ambasady",
+          "Na uniwersytet"
+        ],
+        "correct": "B",
+        "explanation": "Stoi na wzgórzu, żegna Ałmaty i idzie w stronę lotniska.",
+        "reference": "lotniska"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Trzy godziny": {
+    "manuscript_title": "Trzy godziny",
+    "slug": "trzy-godziny",
+    "pack_id": "polish_trzy_godziny",
+    "display_title": "Trzy godziny",
+    "subtitle": "Wiśniowiecki, Beresteczko i odwaga decyzji",
+    "blurb": "Marcin przypadkiem trafia na film o bitwie pod Beresteczkiem i rusza śladem Jeremiego Wiśniowieckiego. Opowieść o trzech godzinach szarży, które zmieniły bieg historii — i o chwilach, w których każdy musi podjąć decyzję.",
+    "genres": "history, short_story",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Inspired by reality",
+    "tags": "historia, Beresteczko, Wiśniowiecki, Collection Eight",
+    "keywords": "trzy godziny, Beresteczko, Wiśniowiecki, Chmielnicki",
+    "editorial_notes": "Fikcja osadzona w historii Rzeczypospolitej; szczegóły bitewne są adaptacją edukacyjną.",
+    "inspiration": "Bitwa pod Beresteczkiem 1651; film dokumentalny o Wiśniowieckim.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Historia służy refleksji o odwadze i decyzji; dobre dopasowanie edukacyjne.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "O czym Marcin przypadkowo ogląda film?",
+        "answers": [
+          "O Koperniku",
+          "O bitwie pod Beresteczkiem i Jeremim Wiśniowieckim",
+          "O II wojnie światowej",
+          "O Powstaniu Warszawskim"
+        ],
+        "correct": "B",
+        "explanation": "Trafia na film o Beresteczku i Wiśniowieckim.",
+        "reference": "Beresteczkiem"
+      },
+      {
+        "question": "Co mówi starszy mężczyzna w Beresteczku o szarży?",
+        "answers": [
+          "Że trwała trzy dni",
+          "Że trzy godziny zmieniły wszystko",
+          "Że nie miała znaczenia",
+          "Że była porażką"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: trzy godziny, synu — i zmieniło się wszystko.",
+        "reference": "trzy godziny"
+      },
+      {
+        "question": "Dlaczego Wiśniowiecki ruszył na wschód zamiast uciekać?",
+        "answers": [
+          "Z obowiązku wojskowego",
+          "Bo wiedział, że bez oporu rebelia zaleje wszystko, co stworzył",
+          "Bo kazał król",
+          "Bo szukał skarbów"
+        ],
+        "correct": "B",
+        "explanation": "Marcin pisze, że ruszył w ogień, bo rebelia musiała zostać zatrzymana.",
+        "reference": "ruszył na wschód"
+      },
+      {
+        "question": "Ile lat miał Wiśniowiecki, gdy umarł według epilogu?",
+        "answers": [
+          "50",
+          "39",
+          "25",
+          "60"
+        ],
+        "correct": "B",
+        "explanation": "Epilog: umarł w wieku 39 lat.",
+        "reference": "39 lat"
+      },
+      {
+        "question": "Co Marcin pisze na końcu artykułu o trybie warunkowym historii?",
+        "answers": [
+          "Że historia zawsze powtarza błędy",
+          "Że historia nie zna trybu warunkowego — zna tylko to, co się wydarzyło",
+          "Że można zmienić przeszłość",
+          "Że bitwa była nieistotna"
+        ],
+        "correct": "B",
+        "explanation": "Cytuje: historia nie zna trybu warunkowego.",
+        "reference": "nie zna trybu warunkowego"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Groby": {
+    "manuscript_title": "Groby",
+    "slug": "groby",
+    "pack_id": "polish_groby",
+    "display_title": "Groby",
+    "subtitle": "Jedwabne, archiwum i trudna prawda",
+    "blurb": "Historyk Piotr Nowak dostaje kopertę ze zeznaniami o Jedwabnem, których nie ma w podręcznikach. Opowieść o poszukiwaniu prawdy, która jest niewygodna dla wszystkich stron — i o odpowiedzialności historyka.",
+    "genres": "history, short_story",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 7,
+    "reader_stars": "★★★★☆",
+    "trust": "Inspired by reality",
+    "tags": "Jedwabne, historia, prawda, Collection Eight",
+    "keywords": "Groby, Jedwabne, archiwum, Piotr Nowak, prawda",
+    "editorial_notes": "Fikcja-historyczna o trudnej przeszłości; wymaga wyraźnego opinion/fiction framing — temat wrażliwy politycznie.",
+    "inspiration": "Debata o Jedwabnem; archiwalia i zeznania świadków.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważny temat prawdy historycznej; wymaga ostrożnej ramy redakcyjnej.",
+    "founder_notes": [
+      "Founder note: Jedwabne — founder review obowiązkowy przed promocją w katalogu."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Gdzie Piotr idzie na początku opowieści?",
+        "answers": [
+          "Do muzeum",
+          "Do Archiwum Akt Nowych",
+          "Na cmentarz",
+          "Do sądu"
+        ],
+        "correct": "B",
+        "explanation": "Stoi przed budynkiem Archiwum Akt Nowych.",
+        "reference": "Archiwum Akt Nowych"
+      },
+      {
+        "question": "Co dostał od nieznanego mężczyzny w Łomży?",
+        "answers": [
+          "Pieniądze",
+          "Kopertę z odbitkami dokumentów z 1945 roku",
+          "List od Grossa",
+          "Fotografię"
+        ],
+        "correct": "B",
+        "explanation": "Koperta zawiera odbitki dokumentów ze zeznaniami.",
+        "reference": "odbitki dokumentów"
+      },
+      {
+        "question": "Co dyrektor archiwum mówi o prawdzie w tej sprawie?",
+        "answers": [
+          "Że jest prosta",
+          "Że prawda jest jak Święty Graal — wszyscy szukają, nikt nie chce znaleźć",
+          "Że nie istnieje",
+          "Że jest w podręczniku"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że prawda jest niewygodna dla wszystkich stron.",
+        "reference": "Święty Graal"
+      },
+      {
+        "question": "Kim jest Marek, który spotyka Piotra w kawiarni?",
+        "answers": [
+          "Studentem",
+          "Nauczycielem historii z Łomży",
+          "Dziennikarzem",
+          "Politikiem"
+        ],
+        "correct": "B",
+        "explanation": "Marek jest nauczycielem historii w miejscowym liceum.",
+        "reference": "nauczycielem historii"
+      },
+      {
+        "question": "Co Piotr pisze na końcu artykułu o historii?",
+        "answers": [
+          "Że należy do jednej strony",
+          "Że historia to poszukiwanie prawdy, a Jedwabne jest bardziej złożone niż mówiono",
+          "Że trzeba zapomnieć",
+          "Że Gross się mylił"
+        ],
+        "correct": "B",
+        "explanation": "Pisze o złożoności prawdy i braku własności historii przez jedną stronę.",
+        "reference": "poszukiwaniem prawdy"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Odpowiedzialność": {
+    "manuscript_title": "Odpowiedzialność",
+    "slug": "odpowiedzialnosc",
+    "pack_id": "polish_odpowiedzialnosc",
+    "display_title": "Odpowiedzialność",
+    "subtitle": "Zwolnienia, wybór i uczciwa firma",
+    "blurb": "Marek Kowalski musi zwolnić Magdę — swoją najlepszą analityczkę — bo „stanowisko jest powtarzalne”. Opowieść o człowieku, który w końcu rezygnuje z wykonywania rozkazów bez myślenia i zakłada firmę na innych zasadach.",
+    "genres": "everyday_live, short_story",
+    "cover_family": "everyday_live",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "praca, etyka, zwolnienia, Collection Eight",
+    "keywords": "odpowiedzialność, Marek, Magda, restrukturyzacja, etyka",
+    "editorial_notes": "Fikcja o etyce zawodowej; nie stanowi porady prawnej ani HR.",
+    "inspiration": "Motyw restrukturyzacji i odpowiedzialności liderskiej.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra opowieść o odwadze moralnej w pracy; praktyczna refleksja.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Ile procent zatrudnienia firma ma zredukować?",
+        "answers": [
+          "5%",
+          "15%",
+          "50%",
+          "30%"
+        ],
+        "correct": "B",
+        "explanation": "Marek mówi o redukcji zatrudnienia o 15%.",
+        "reference": "15%"
+      },
+      {
+        "question": "Dlaczego Marek zwalnia Magdę według firmy?",
+        "answers": [
+          "Za złe wyniki",
+          "Bo jej dział jest mało dochodowy, a stanowisko powtarzalne",
+          "Za spóźnienia",
+          "Za konflikt"
+        ],
+        "correct": "B",
+        "explanation": "Tłumaczy, że dział jest mało dochodowy, stanowisko powtarzalne.",
+        "reference": "powtarzalne"
+      },
+      {
+        "question": "Co Magda mówi Marekowi przy wyjściu?",
+        "answers": [
+          "Że mu wybacza",
+          "Że potrzebowała, by stanął za nią, a on tylko wykonywał rozkazy",
+          "Że go kocha",
+          "Że wróci"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że potrzebowała wsparcia, a on wykonywał rozkazy.",
+        "reference": "wykonywał rozkazy"
+      },
+      {
+        "question": "Dlaczego Marek składa wypowiedzenie?",
+        "answers": [
+          "Dla wyższej pensji",
+          "Bo nie chce wykonywać rozkazów bez myślenia o ludziach",
+          "Bo przenosi się za granicę",
+          "Bo choruje"
+        ],
+        "correct": "B",
+        "explanation": "Mówi szefowi, że nie chce wykonywać rozkazów bez myślenia o ludziach.",
+        "reference": "nie myśląc o ludziach"
+      },
+      {
+        "question": "Kogo Marek zatrudnia w swojej nowej firmie?",
+        "answers": [
+          "Tylko siebie",
+          "Magdę jako główną analityczką",
+          "Byłego szefa",
+          "Nikogo"
+        ],
+        "correct": "B",
+        "explanation": "Epilog: Magda zostaje jego główną analityczką.",
+        "reference": "główną analityczką"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Taniec": {
+    "manuscript_title": "Taniec",
+    "slug": "taniec",
+    "pack_id": "polish_taniec",
+    "display_title": "Taniec",
+    "subtitle": "Hmong, gotówka i powrót do korzeni",
+    "blurb": "Mai w Sztokholmie odkrywa na nowo taniec Hmong, gdy pada system płatniczy, a jedyną walutą zostaje gotówka w szufladzie. Opowieść o korzeniach, które można nosić w sobie — niezależnie od tego, gdzie się mieszka.",
+    "genres": "everyday_live, short_story",
+    "cover_family": "everyday_live",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "taniec, kultura, Hmong, Collection Eight",
+    "keywords": "taniec, Hmong, Mai, Szwecja, korzenie",
+    "editorial_notes": "Fikcja o tożsamości kulturowej; scena awarii płatności jest narracyjnym pretekstem.",
+    "inspiration": "Taniec Hmong; motyw gotówki jako wolności.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Ciepła opowieść o tradycji i adaptacji; dobre dopasowanie family.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Skąd pochodzi Mai?",
+        "answers": [
+          "Z Polski",
+          "Z północnego Wietnamu — rodzina wyemigrowała do Szwecji",
+          "Z Chin",
+          "Z Japonii"
+        ],
+        "correct": "B",
+        "explanation": "Urodziła się w wiosce w górach Wietnamu; rodzina wyemigrowała.",
+        "reference": "północnego Wietnamu"
+      },
+      {
+        "question": "Co sprawia, że Mai wraca do tańca?",
+        "answers": [
+          "Nagroda w konkursie",
+          "Filmik z dziewczynami w strojach Hmong i wspomnienie korzeni",
+          "Presja rodziny",
+          "Wymóg szkoły"
+        ],
+        "correct": "B",
+        "explanation": "Natrafia na filmik z tańcem Hmong i czuje tęsknotę.",
+        "reference": "filmik"
+      },
+      {
+        "question": "Co Mai mówi Ani o domu?",
+        "answers": [
+          "Dom to adres",
+          "Dom to uczucie — można je znaleźć wszędzie, jeśli pozwolisz sobie tańczyć",
+          "Dom to tylko Wietnam",
+          "Dom nie istnieje"
+        ],
+        "correct": "B",
+        "explanation": "Odpowiada: dom to uczucie, nie miejsce.",
+        "reference": "Dom to uczucie"
+      },
+      {
+        "question": "Co Mai mówi uczniom o tańcu?",
+        "answers": [
+          "Że to sport",
+          "Że taniec to rozmowa z przodkami i sposób pamiętania, kim jesteśmy",
+          "Że to moda",
+          "Że to tylko ruch"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że taniec to rozmowa z przodkami.",
+        "reference": "rozmowa z przodkami"
+      },
+      {
+        "question": "Co Mai trzyma w dłoni w epilogu?",
+        "answers": [
+          "Telefon",
+          "Banknot sto koron, który uratował ją przy awarii płatności",
+          "List",
+          "Bilet lotniczy"
+        ],
+        "correct": "B",
+        "explanation": "Trzyma sto koron — pieniądz z dnia awarii systemu.",
+        "reference": "sto koron"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Ofiary": {
+    "manuscript_title": "Ofiary",
+    "slug": "ofiary",
+    "pack_id": "polish_ofiary",
+    "display_title": "Ofiary",
+    "subtitle": "Wołyń, listy i pamięć bez nienawiści",
+    "blurb": "Marek znajduje w piwnicy listy dziadka — i odkrywa, że dziadek ukraińskiego Iwana pisał z lęku, nie z nienawiści. Opowieść o dwóch dziadkach, którzy nigdy się nie spotkali, ale nosili ten sam ciężar.",
+    "genres": "history, short_story",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★☆☆",
+    "trust": "Inspired by reality",
+    "tags": "Wołyń, pamięć, historia, Collection Eight",
+    "keywords": "Ofiary, Wołyń, listy, dziadek, pamięć",
+    "editorial_notes": "Fikcja o trudnej historii; wymaga ostrożnej ramy — temat wrażliwy politycznie.",
+    "inspiration": "Listy z Wołynia; motyw wspólnej traumy.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważna refleksja o pamięci; wymaga founder review.",
+    "founder_notes": [
+      "Founder note: Wołyń — founder review obowiązkowy przed promocją."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Co Marek znajduje w piwnicy?",
+        "answers": [
+          "Złoto",
+          "Pudło ze starymi listami po polsku i ukraińsku",
+          "Broń",
+          "Zdjęcia"
+        ],
+        "correct": "B",
+        "explanation": "Pudło z setkami listów w dwóch językach.",
+        "reference": "listy"
+      },
+      {
+        "question": "Do kogo jest adresowany pierwszy list z 1943 roku?",
+        "answers": [
+          "Do Marka",
+          "Do „Drogiego Janka”",
+          "Do dziadka",
+          "Do żołnierzy"
+        ],
+        "correct": "B",
+        "explanation": "List zaczyna się: „Janku...”",
+        "reference": "Drogi Janku"
+      },
+      {
+        "question": "Kim okazuje się autor listu według Ołeksandra?",
+        "answers": [
+          "Polakiem",
+          "Ukraińskim dziadkiem Ołeksandra, wcielonym do UPA",
+          "Niemcem",
+          "Żołnierzem AK"
+        ],
+        "correct": "B",
+        "explanation": "Ołeksandr mówi: to był mój dziadek Iwan.",
+        "reference": "mój dziadek"
+      },
+      {
+        "question": "Co Marek pisze na początku swojego tekstu?",
+        "answers": [
+          "Że trzeba zapomnieć",
+          "„Nie ma nic gorszego niż ofiary, które usiłują wybierać swoich własnych oprawców.”",
+          "Że winni są wszyscy",
+          "Że historia jest prosta"
+        ],
+        "correct": "B",
+        "explanation": "Cytuje zdanie o ofiarach wybierających oprawców.",
+        "reference": "wybierać swoich własnych oprawców"
+      },
+      {
+        "question": "Co Marek pisze na końcu o pamięci Wołynia?",
+        "answers": [
+          "Że powinna dzielić",
+          "Że pamięć powinna łączyć, nie dzielić — by zrozumieć",
+          "Że trzeba milczeć",
+          "Że tylko Polacy cierpią"
+        ],
+        "correct": "B",
+        "explanation": "Kończy: pamięć powinna nas łączyć, nie dzielić.",
+        "reference": "łączyć, nie dzielić"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Drugie koło": {
+    "manuscript_title": "Drugie koło",
+    "slug": "drugie-kolo",
+    "pack_id": "polish_drugie_kolo",
+    "display_title": "Drugie koło",
+    "subtitle": "Wołyń, komentarze i Olena",
+    "blurb": "Magda czyta komentarze pod filmem o Nawrockim i pamięta dziadka, który zginął na Wołyniu. Spotkanie z Oleną z Donbasu uczy ją, że pamięć nie musi być pętlą nienawiści — może być mostem.",
+    "genres": "history, everyday_live, short_story",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "Wołyń, pojednanie, Ukraina, Collection Eight",
+    "keywords": "drugie koło, Wołyń, Olena, Magda, pojednanie",
+    "editorial_notes": "Fikcja o współczesnych napięciach i historii; komentarze internetowe są tłem, nie faktami.",
+    "inspiration": "Komentarze pod filmem; warsztaty polsko-ukraińskie.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważny temat pojednania; wymaga ostrożnej ramy redakcyjnej.",
+    "founder_notes": [
+      "Founder note: Wołyń + współczesna polityka — founder review przed promocją."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Co Magda ma w szufladzie od babci?",
+        "answers": [
+          "Pieniądze",
+          "Listy dziadka z Wołynia",
+          "Zdjęcia weselne",
+          "Medale"
+        ],
+        "correct": "B",
+        "explanation": "Ma listy, które dziadek pisał przed śmiercią w 1943.",
+        "reference": "listy"
+      },
+      {
+        "question": "Skąd pochodzi Olena?",
+        "answers": [
+          "Z Lwowa",
+          "Z Donbasu — uciekła w 2022 po śmierci męża",
+          "Z Warszawy",
+          "Z Berlina"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że uciekła z Donbasu w 2022; mąż zginął na wojnie.",
+        "reference": "Donbasu"
+      },
+      {
+        "question": "Co Olena mówi o banderowcach?",
+        "answers": [
+          "Że wszyscy Ukraińcy nimi są",
+          "Że nie jest banderowcem i nie wszyscy Ukraińcy nienawidzą Polaków",
+          "Że nienawidzi Polaków",
+          "Że nie zna historii"
+        ],
+        "correct": "B",
+        "explanation": "Prosi, by wiedzieć, że nie jest banderowcem.",
+        "reference": "nie jestem banderowcem"
+      },
+      {
+        "question": "Co Magda mówi babci w epilogu?",
+        "answers": [
+          "Że zapomina",
+          "„Nie zapominam, babciu — ale uczę się wybaczać.”",
+          "Że nienawidzi Ukraińców",
+          "Że wyjeżdża"
+        ],
+        "correct": "B",
+        "explanation": "Szepta: nie zapominam, ale uczę się wybaczać.",
+        "reference": "uczę się wybaczać"
+      },
+      {
+        "question": "Co Magda i Olena robią rok później?",
+        "answers": [
+          "Piszą książkę",
+          "Prowadzą warsztaty dla polskich i ukraińskich rodzin",
+          "Otwierają restaurację",
+          "Jadą na wojnę"
+        ],
+        "correct": "B",
+        "explanation": "Rok później prowadzą warsztaty we Wrocławiu.",
+        "reference": "warsztaty"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Garnek na głowie": {
+    "manuscript_title": "Garnek na głowie",
+    "slug": "garnek-na-glowie",
+    "pack_id": "polish_garnek_na_glowie",
+    "display_title": "Garnek na głowie",
+    "subtitle": "Montauk, Camp Hero i wymazana pamięć",
+    "blurb": "Marek z Long Island budzi się o 3:33 i bez wiedzy zakłada garnek na głowę. Książka o Montauk Project prowadzi go do podziemi Camp Hero — opowieść o pamięci, którą ktoś próbował wymazać.",
+    "genres": "science_fiction, short_story",
+    "cover_family": "science_fiction",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "Montauk, teoria spiskowa, pamięć, Collection Eight",
+    "keywords": "garnek na głowie, Montauk, Camp Hero, Preston Nichols",
+    "editorial_notes": "Fikcja inspirowana teorią Montauk; treści spiskowe są narracją, nie faktami katalogu.",
+    "inspiration": "„The Montauk Project” Prestona B. Nicholsa; Camp Hero.",
+    "philosophy_stars": 2,
+    "philosophy_note": "Słabe dopasowanie naukowe; fiction framing obowiązkowy.",
+    "founder_notes": [
+      "Founder note: Teorie spiskowe Montauk — founder decyduje o katalogu oficjalnym."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Gdzie mieszka Marek?",
+        "answers": [
+          "W Nowym Jorku",
+          "Na Long Island, w Montok",
+          "W Kalifornii",
+          "W Bostonie"
+        ],
+        "correct": "B",
+        "explanation": "Mieszka w Montok na Long Island.",
+        "reference": "Montok"
+      },
+      {
+        "question": "Jaką książkę znajduje Marek w antykwariacie?",
+        "answers": [
+          "1984",
+          "„The Montauk Project: Experiments in Time”",
+          "Władcę Pierścieni",
+          "Biblię"
+        ],
+        "correct": "B",
+        "explanation": "Znajduje książkę Nicholsa o Montauk Project.",
+        "reference": "Montauk Project"
+      },
+      {
+        "question": "Co Marek znajduje w podziemiach Camp Hero?",
+        "answers": [
+          "Skarb",
+          "Metalowe krzesło z przewodami, jak w książce",
+          "Laboratorium chemiczne",
+          "Pusty hangar"
+        ],
+        "correct": "B",
+        "explanation": "W pomieszczeniu jest krzesło z przewodami — jak opisywał Nichols.",
+        "reference": "krzesło"
+      },
+      {
+        "question": "Kim okazuje się starszy mężczyzna z garnkiem?",
+        "answers": [
+          "Jego ojcem",
+          "Prestonem — kimś, kto też zapomniał i przypomniał sobie",
+          "Strażnikiem",
+          "Psychologiem"
+        ],
+        "correct": "B",
+        "explanation": "Mężczyzna mówi: nazywam się Preston, ty byłeś jednym z nas.",
+        "reference": "Preston"
+      },
+      {
+        "question": "Co Preston mówi o garnkach?",
+        "answers": [
+          "Że to żart",
+          "Że chronią przed polem tłumiącym pamięć",
+          "Że są modą",
+          "Że nic nie robią"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że garnki chronią przed polem tłumiącym.",
+        "reference": "polem tłumiącym"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Ikonka na pulpicie": {
+    "manuscript_title": "Ikonka na pulpicie",
+    "slug": "ikonka-na-pulpicie",
+    "pack_id": "polish_ikonka_na_pulpicie",
+    "display_title": "Ikonka na pulpicie",
+    "subtitle": "Małżeństwo, ikonka i pytanie zamiast zgadywania",
+    "blurb": "Adam idzie do terapeutki, bo czuje, że zna żonę na wylot — i przez to przestaje słuchać. Opowieść o ikonce na pulpicie: klikasz i od razu wiesz, co będzie w pliku, zamiast zapytać, co naprawdę myśli.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "małżeństwo, terapia, komunikacja, Collection Eight",
+    "keywords": "ikonka na pulpicie, Adam, Magda, małżeństwo, terapia",
+    "editorial_notes": "Fikcja o długich związkach; blisko „Froteryzmu intelektualnego” — inny slug.",
+    "inspiration": "Metafora ikonki; terapia par.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra metafora komunikacji; praktyczna refleksja dla dorosłych.",
+    "founder_notes": [
+      "Founder note: Near-duplicate z „Froteryzmem intelektualnym” — founder decyduje o obu."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Ile lat Adam i Magda są razem?",
+        "answers": [
+          "Pięć",
+          "Piętnaście",
+          "Trzydzieści",
+          "Dwa"
+        ],
+        "correct": "B",
+        "explanation": "Adam mówi o piętnastu latach małżeństwa.",
+        "reference": "piętnastu lat"
+      },
+      {
+        "question": "Jak Adam opisuje myślenie o żonie?",
+        "answers": [
+          "Jak czytanie książki",
+          "Jak kliknięcie ikonki — od razu otwiera plik, który zna",
+          "Jak słuchanie radia",
+          "Jak sen"
+        ],
+        "correct": "B",
+        "explanation": "Mówi o ikonce na pulpicie i pliku znanym z góry.",
+        "reference": "ikonka na pulpicie"
+      },
+      {
+        "question": "Dlaczego Magda gotuje rosół?",
+        "answers": [
+          "Bo lubi tylko rosół",
+          "Bo czuje się samotna, gdy życie staje się przewidywalne",
+          "Bo Adam kazał",
+          "Bo są goście"
+        ],
+        "correct": "B",
+        "explanation": "Przyznaje, że gotuje rosół, gdy czuje samotność i przewidywalność.",
+        "reference": "samotna"
+      },
+      {
+        "question": "O co pyta Adam Magdę przy wstrzymanym filmie?",
+        "answers": [
+          "O wakacje",
+          "Czy czasem myśli o rozstaniu",
+          "O pracę",
+          "O dzieci"
+        ],
+        "correct": "B",
+        "explanation": "Pyta wprost: czy czasem myślisz o rozstaniu?",
+        "reference": "rozstaniu"
+      },
+      {
+        "question": "Co Adam pisze w książce na końcu?",
+        "answers": [
+          "Że związki są bez sensu",
+          "Że największym błędem było myślenie, że zna żonę na wylot",
+          "Że terapia nie działa",
+          "Że rozwód jest zły"
+        ],
+        "correct": "B",
+        "explanation": "Pisze o błędzie myślenia, że zna żonę na wylot.",
+        "reference": "zna moją żonę na wylot"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Froteryzm intelektualny": {
+    "manuscript_title": "Froteryzm intelektualny",
+    "slug": "froteryzm-intelektualny",
+    "pack_id": "polish_froteryzm_intelektualny",
+    "display_title": "Froteryzm intelektualny",
+    "subtitle": "25 lat małżeństwa i czytanie intencji",
+    "blurb": "Ewa i Marek po dwudziestu pięciu latach przestali się słuchać — czytają intencje zamiast słów. Podcast o „wbudowanym skrypcie” otwiera im oczy: froteryzm intelektualny to zgadywanie, co drugi myśli, zamiast pytać.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "małżeństwo, komunikacja, podcast, Collection Eight",
+    "keywords": "froteryzm intelektualny, Ewa, Marek, małżeństwo, skrypt",
+    "editorial_notes": "Fikcja o komunikacji w długim związku; blisko „Ikonki na pulpicie”.",
+    "inspiration": "Podcast Miłosza o wbudowanym skrypcie; metafora froteryzmu intelektualnego.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna metafora o słuchaniu; praktyczna wartość edukacyjna.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Ile lat są razem Ewa i Marek?",
+        "answers": [
+          "Dziesięć",
+          "Dwadzieścia pięć",
+          "Czterdzieści",
+          "Pięć"
+        ],
+        "correct": "B",
+        "explanation": "Ewa mówi, że znają się od dwudziestu pięciu lat.",
+        "reference": "dwudziestu pięciu"
+      },
+      {
+        "question": "Co Ewa słyszy w podcaście o „wbudowanym skrypcie”?",
+        "answers": [
+          "Że ludzie nie kłamią",
+          "Że gdy ktoś oszukuje, pierwsza myśl to „Bóg mnie znalazł”",
+          "Że małżeństwo jest łatwe",
+          "Że trzeba rozwód"
+        ],
+        "correct": "B",
+        "explanation": "Miłosz mówi o skrypcie: oszust = „Bóg mnie znalazł”.",
+        "reference": "Bóg mnie wreszcie znalazł"
+      },
+      {
+        "question": "Co Ewa myślała, gdy Marek gotował jej ulubione danie?",
+        "answers": [
+          "Że jest wdzięczna",
+          "Że coś przeskrobał i chce przeprosić",
+          "Że jest chory",
+          "Że kocha ją"
+        ],
+        "correct": "B",
+        "explanation": "Przez lata myślała, że gotuje, bo coś zrobił źle.",
+        "reference": "przeskrobał"
+      },
+      {
+        "question": "Co Marek proponuje zamiast zgadywać?",
+        "answers": [
+          "Milczeć",
+          "Przyjąć, że nie wiemy, i zapytać",
+          "Pisać listy",
+          "Rozwód"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: przyjąć, że nie wiemy, i zapytać „dlaczego?”.",
+        "reference": "zapytać"
+      },
+      {
+        "question": "Co Ewa pisze siostrze w liście?",
+        "answers": [
+          "Że małżeństwo jest idealne",
+          "Że największym błędem było myślenie, że zna męża na wylot",
+          "Że rozwód jest konieczny",
+          "Że podcast nie pomaga"
+        ],
+        "correct": "B",
+        "explanation": "List ostrzega przed myśleniem, że zna męża na wylot.",
+        "reference": "zna mojego męża na wylot"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Algorytm szczęścia": {
+    "manuscript_title": "Algorytm szczęścia",
+    "slug": "algorytm-szczescia",
+    "pack_id": "polish_algorytm_szczescia",
+    "display_title": "Algorytm szczęścia",
+    "subtitle": "Kod, Ewa i pytanie bez odpowiedzi",
+    "blurb": "Michał kończy pięcioletnią pracę nad algorytmem szczęścia — i nagle nie wie, czy ma rację. Ewa z ulicy Długiej pyta go o Dostojewskiego i o drzewo w śniegu. Opowieść o programiście, który szukał szczęścia w danych, a znalazł je w pytaniu.",
+    "genres": "philosophy, technology, short_story",
+    "cover_family": "philosophy",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "algorytm, szczęście, programowanie, Collection Eight",
+    "keywords": "algorytm szczęścia, Michał, Ewa, Dostojewski, kod",
+    "editorial_notes": "Fikcja o technologii i filozofii; algorytm szczęścia jest metaforą, nie produktem.",
+    "inspiration": "Notatki z podziemia Dostojewskiego; motyw optymalizacji życia.",
+    "philosophy_stars": 5,
+    "philosophy_note": "Silne dopasowanie — granice optymalizacji, ciekawość, pytania bez końca.",
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Co Michał kończy po pięciu latach pracy?",
+        "answers": [
+          "Grę komputerową",
+          "Algorytm szczęścia",
+          "Aplikację bankową",
+          "System operacyjny"
+        ],
+        "correct": "B",
+        "explanation": "Po pięciu latach algorytm jest gotowy.",
+        "reference": "Algorytm szczęścia"
+      },
+      {
+        "question": "Co Ewa mówi o bohaterze Dostojewskiego?",
+        "answers": [
+          "Że jest szczęśliwy",
+          "Że zrobiłby coś, by sobie popsuć nastrój — z przekory",
+          "Że akceptuje algorytm",
+          "Że nie czytał"
+        ],
+        "correct": "B",
+        "explanation": "Ewa pyta o człowieka, który psułby nastrój z przekory.",
+        "reference": "z przekory"
+      },
+      {
+        "question": "Co Ewa mówi, że algorytm opisałby o drzewie?",
+        "answers": [
+          "Tylko piękno",
+          "Gatunek, wiek i wysokość — ale nie to, co Michał widzi",
+          "Nic",
+          "Kolor liści"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że algorytm poda klon, 120 lat, 15 metrów — ale nie doświadczenie.",
+        "reference": "klon"
+      },
+      {
+        "question": "Co Michał widzi, patrząc na drzewo z zamkniętymi oczami?",
+        "answers": [
+          "Nic",
+          "Śnieg i to, że jest z Ewą",
+          "Przyszłość",
+          "Kod"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: widzę śnieg i że jestem tutaj z tobą.",
+        "reference": "Jestem tutaj. Z tobą"
+      },
+      {
+        "question": "Co Michał robi z algorytmem na końcu?",
+        "answers": [
+          "Sprzedaje go",
+          "Usuwa moduły sugerujące zmiany — zostawia tylko zbieranie informacji",
+          "Publikuje bez zmian",
+          "Oddaje zespółowi"
+        ],
+        "correct": "B",
+        "explanation": "Usuwa moduły proponujące zmiany; zostawia proste narzędzie informacyjne.",
+        "reference": "zbierania informacji"
+      }
+    ],
+    "revision_notes": "Phase 102 import.",
+    "founder_notes": []
+  },
+  "Nowy pacjent": {
+    "manuscript_title": "Nowy pacjent",
+    "slug": "nowy-pacjent",
+    "pack_id": "polish_nowy_pacjent",
+    "display_title": "Nowy pacjent",
+    "subtitle": "HOMA, otyłość i profesor Czupryniak",
+    "blurb": "Kasia wchodzi do gabinetu profesora Czupryniaka przekonana, że ma insulinooporność. Profesor mówi coś, czego nikt jej nie powiedział: HOMA nie ma normy, a otyłość to choroba ICD E66 — nie wina. Opowieść o dziesięciu latach fałszywej diagnozy i o nadziei.",
+    "genres": "medicine, short_story",
+    "cover_family": "medicine",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Popular science",
+    "tags": "otyłość, insulinooporność, medycyna, Collection Eight",
+    "keywords": "nowy pacjent, HOMA, otyłość, Czupryniak, Ozempic",
+    "editorial_notes": "Fikcja-opinia medyczna; stanowiska profesora są narracją postaci — nie porada katalogu. Founder review obowiązkowy.",
+    "inspiration": "Debata o HOMA i insulinooporności; analogi GLP-1.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważny temat zdrowia; wymaga disclaimera opinion i founder review.",
+    "founder_notes": [
+      "Founder note: Kontrowersyjne stanowiska medyczne — founder review przed promocją.",
+      "Founder note: Powiązanie z „Drugie dno” i „Buty” — seria medyczna redakcyjna."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Jaki wynik HOMA ma Kasia?",
+        "answers": [
+          "2,0",
+          "7,2",
+          "1,5",
+          "12,0"
+        ],
+        "correct": "B",
+        "explanation": "Profesor czyta: HOMA 7,2.",
+        "reference": "HOMA 7,2"
+      },
+      {
+        "question": "Co profesor mówi o normie dla wskaźnika HOMA?",
+        "answers": [
+          "Że norma to poniżej 2",
+          "Że nie ma ustalonej normy klinicznej",
+          "Że norma to 5",
+          "Że norma zależy od wieku"
+        ],
+        "correct": "B",
+        "explanation": "Mówi wprost: nie ma dla tego wskaźnika normy.",
+        "reference": "Nie ma. Nikt nie wie"
+      },
+      {
+        "question": "Jaką chorobę profesor przypisuje Kasi zamiast „insulinooporności”?",
+        "answers": [
+          "Cukrzycę typu 1",
+          "Otyłość — kod ICD E66",
+          "Anemię",
+          "Depresję"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: ma pani otyłość, kod E66 — to choroba.",
+        "reference": "E66"
+      },
+      {
+        "question": "Jaki lek profesor przepisuje Kasi?",
+        "answers": [
+          "Metforminę",
+          "Ozempic (analog GLP-1)",
+          "Insulinę",
+          "Aspirynę"
+        ],
+        "correct": "B",
+        "explanation": "Recepta: Ozempic raz w tygodniu.",
+        "reference": "Ozempic"
+      },
+      {
+        "question": "Kim Kasia zostaje rok później?",
+        "answers": [
+          "Pielęgniarką",
+          "Wolontariuszką w programie edukacyjnym dla pacjentów z cukrzycą",
+          "Dietetyczką",
+          "Profesorem"
+        ],
+        "correct": "B",
+        "explanation": "Profesor proponuje wolontariat w programie edukacyjnym.",
+        "reference": "wolontariuszką"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Iskra": {
+    "manuscript_title": "Iskra",
+    "slug": "iskra",
+    "pack_id": "polish_iskra",
+    "display_title": "Iskra",
+    "subtitle": "Koszmar, piloci i imiona z historii",
+    "blurb": "Trzyletni syn Marka co noc krzyczy o rozbitym samolocie i małym człowieku, który nie może wyjść. Potem wymienia imiona Billy, Walter i Leon — pilotów VMF-221, którzy zginęli w 1943 roku. Opowieść o tym, co dziecko może wiedzieć, a czego nie powinno.",
+    "genres": "short_story, legends",
+    "cover_family": "legends",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "dziecięce sny, piloci, tajemnica, Collection Eight",
+    "keywords": "Iskra, VMF-221, Billy, Walter, Leon, koszmar",
+    "editorial_notes": "Fikcja inspirowana motywem z „Cienia skrzydeł nad oceanem”; nie jest opowieścią o reinkarnacji w sensie katalogu.",
+    "inspiration": "„Cień skrzydeł nad oceanem”; dywizjon VMF-221.",
+    "philosophy_stars": 2,
+    "philosophy_note": "Słabe dopasowanie naukowe; może służyć jako fiction o granicach wiedzy.",
+    "founder_notes": [
+      "Founder note: Tematyka dziecięcych „wspomnień” — wyraźny fiction disclaimer."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Co syn krzyczy w koszmarze?",
+        "answers": [
+          "„Chcę lody”",
+          "„Rozbity samolot! Pali się! Mały człowiek nie może wyjść!”",
+          "„Boję się ciemności”",
+          "„Gdzie mama?”"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza te same słowa co noc.",
+        "reference": "Mały człowiek nie może wyjść"
+      },
+      {
+        "question": "Jak syn bawi się samolotami?",
+        "answers": [
+          "Lata nimi",
+          "Rozbija je — uderza jednym o drugi",
+          "Kolekcjonuje",
+          "Maluje"
+        ],
+        "correct": "B",
+        "explanation": "Rozbija zabawki, aż odpadają skrzydła.",
+        "reference": "rozbija je"
+      },
+      {
+        "question": "Jakie trzy imiona wymienia syn?",
+        "answers": [
+          "Adam, Ewa, Noe",
+          "Billy, Walter i Leon",
+          "Jan, Piotr, Paweł",
+          "Tom, Dick, Harry"
+        ],
+        "correct": "B",
+        "explanation": "Wskazuje na trzy rozbite samoloty i podaje te imiona.",
+        "reference": "Billy"
+      },
+      {
+        "question": "Jakie nazwiska pilotów znajduje Marek w archiwum?",
+        "answers": [
+          "Smith, Jones, Brown",
+          "Piller, Devlin, Conner",
+          "Kowalski, Nowak, Wiśniewski",
+          "Brak nazwisk"
+        ],
+        "correct": "B",
+        "explanation": "Lista poległych: Piller, Devlin, Conner.",
+        "reference": "Piller, Devlin, Conner"
+      },
+      {
+        "question": "Co syn mówi rano po ostatnim koszmarze o Leonie?",
+        "answers": [
+          "Że Leon zginął",
+          "„Tak, tato. Wszyscy. Tam są.” — i wskazuje niebo",
+          "Że boi się samolotów",
+          "Nic"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że wszyscy wrócili — tam są, wskazując niebo.",
+        "reference": "Wszyscy"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Buty": {
+    "manuscript_title": "Buty",
+    "slug": "buty",
+    "pack_id": "polish_buty",
+    "display_title": "Buty",
+    "subtitle": "Cukrzyca, martwy palec i wybór",
+    "blurb": "Doktor prosi Tadeusza, by zdjął nowe buty na wesele syna — pod spodem martwy palec i zapach ropy. Opowieść o pacjentach, którzy mówią „to minie”, i o bucie, który wędruje dalej jako ostrzeżenie.",
+    "genres": "medicine, short_story",
+    "cover_family": "medicine",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "cukrzyca, stopa cukrzycowa, medycyna, Collection Eight",
+    "keywords": "buty, cukrzyca, Tadeusz, stopa, wybór",
+    "editorial_notes": "Fikcja medyczna edukacyjna; nie zastępuje porady lekarskiej.",
+    "inspiration": "Motyw butów i bagatelizacji objawów; powiązanie z „Nowy pacjent”.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna opowieść o odpowiedzialności za zdrowie; praktyczna metafora.",
+    "founder_notes": [
+      "Founder note: Powiązanie z „Nowy pacjent” i „Drugie dno” — rozważyć serię medyczną."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Dlaczego Tadeusz nosi nowe buty?",
+        "answers": [
+          "Do pracy",
+          "Na wesele syna",
+          "Do biegania",
+          "Do kościoła"
+        ],
+        "correct": "B",
+        "explanation": "Mówi, że to nowe buty na wesele syna.",
+        "reference": "wesele syna"
+      },
+      {
+        "question": "Co doktor widzi po zdjęciu skarpetki?",
+        "answers": [
+          "Zwykłą modzel",
+          "Martwy, czarny palec i zapach ropy",
+          "Złamanie",
+          "Alergię"
+        ],
+        "correct": "B",
+        "explanation": "Palec jest czarny, martwy; zapach ropy.",
+        "reference": "Martwe"
+      },
+      {
+        "question": "Co Tadeusz mówi, gdy doktor mówi o amputacji?",
+        "answers": [
+          "Że boli",
+          "„Ale to nie boli”",
+          "Że zgadza się od razu",
+          "Że idzie do innego lekarza"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza: ale to nie boli.",
+        "reference": "nie boli"
+      },
+      {
+        "question": "Co Tadeusz zostawia doktorowi przy powrocie?",
+        "answers": [
+          "Pieniądze",
+          "Nowy but — prosi, by pamiętał o tych, którzy nie przychodzą",
+          "List",
+          "Zdjęcie ojca"
+        ],
+        "correct": "B",
+        "explanation": "Zostawia but z plamą krwi jako ostrzeżenie.",
+        "reference": "but"
+      },
+      {
+        "question": "Jaki wynik hemoglobiny glikowanej ma Krzysztof rok później?",
+        "answers": [
+          "11,5",
+          "6,2",
+          "9,0",
+          "8,0"
+        ],
+        "correct": "B",
+        "explanation": "Krzysztof wraca z HbA1c 6,2 po roku leczenia.",
+        "reference": "6,2"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Dzień z reszty życia": {
+    "manuscript_title": "Dzień z reszty życia",
+    "slug": "dzien-z-reszty-zycia",
+    "pack_id": "polish_dzien_z_reszty_zycia",
+    "display_title": "Dzień z reszty życia",
+    "subtitle": "Granica, pasta i wybór",
+    "blurb": "Marta ma dość słyszeć „przestań, znowu się czepiasz” — i pewnego ranka mówi Darkowi wprost: nie będzie już narzekać, ale jego reakcja będzie znakiem, czy chce tu zostać. Opowieść o dniu, który zaczyna resztę życia.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 3,
+    "reader_stars": "★★☆☆☆",
+    "trust": "Fiction",
+    "tags": "małżeństwo, granice, komunikacja, Collection Eight",
+    "keywords": "dzień z reszty życia, Marta, Darek, granica, małżeństwo",
+    "editorial_notes": "Fikcja o granicach w związku; blisko „Ikonki” i „Froteryzmu” — inna postać (Marta/Darek).",
+    "inspiration": "Podcast o metodzie „zamiast narzekać, odpowiedzialność weźmy”; granice.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Praktyczna opowieść o granicach bez dramatyzacji; dobre dopasowanie.",
+    "founder_notes": [
+      "Founder note: Powiązanie z „Drugie dno” (Darek) — founder decyduje o relacji serii."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "O co Marta „czepia się” Darka na początku?",
+        "answers": [
+          "O pracę",
+          "Że nie zakręcił pasty po umyciu zębów",
+          "O dzieci",
+          "O pieniądze"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: znowu nie zakręciłeś pasty.",
+        "reference": "pasty"
+      },
+      {
+        "question": "Co Darek odpowiada na jej uwagi?",
+        "answers": [
+          "Przeprasza",
+          "„Przestań, Marta. Znowu się czepiasz.”",
+          "Milczy",
+          "Wychodzi"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza: przestań, znowu się czepiasz.",
+        "reference": "Przestań"
+      },
+      {
+        "question": "Co Marta mówi, że przestanie robić?",
+        "answers": [
+          "Kochać Darka",
+          "Narzekać i przypominać, że jego reakcje ją ranią",
+          "Gotować",
+          "Pracować"
+        ],
+        "correct": "B",
+        "explanation": "Zapowiada, że przestanie narzekać, ale jego reakcja będzie znakiem.",
+        "reference": "przestanę już na to narzekać"
+      },
+      {
+        "question": "Skąd Marta zna metodę „zamiast narzekać, odpowiedzialność weźmy”?",
+        "answers": [
+          "Od Darka",
+          "Z podcastu, który słuchała w samochodzie",
+          "Z książki Darka",
+          "Od terapeuty"
+        ],
+        "correct": "B",
+        "explanation": "Przypomina podcast z wczoraj w samochodzie.",
+        "reference": "podcast"
+      },
+      {
+        "question": "Co Marta myśli na końcu o dniu?",
+        "answers": [
+          "Że wszystko się skończyło",
+          "„Dzisiaj zaczyna się kolejny dzień z reszty jej życia.”",
+          "Że musi wyjechać",
+          "Że Darek się zmieni"
+        ],
+        "correct": "B",
+        "explanation": "Kończy refleksją o dniu, który zaczyna resztę życia.",
+        "reference": "reszty jej życia"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  },
+  "Drugie dno": {
+    "manuscript_title": "Drugie dno",
+    "slug": "drugie-dno",
+    "pack_id": "polish_drugie_dno",
+    "display_title": "Drugie dno",
+    "subtitle": "Kortyzol, jelita i rozwód Darka",
+    "blurb": "Darek trafia do dr Cubalskiej po skierowaniu od profesora Czupryniaka — nie na cukrzycę, lecz na „drugie dno”. Krzywa kortyzolu, dysbioza i oś jelitowo-mózgowa tłumaczą mgłę, wzdęcia i rozwód z Martą. Opowieść o ciele, które krzyczało latami, zanim ktoś go wysłuchał.",
+    "genres": "medicine, psychology, short_story",
+    "cover_family": "medicine",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Popular science",
+    "tags": "kortyzol, jelita, stres, Collection Eight",
+    "keywords": "drugie dno, Cubalska, Darek, kortyzol, dysbioza",
+    "editorial_notes": "Fikcja-opinia medyczna o medycynie funkcjonalnej; nie zastępuje porady lekarskiej. Powiązanie z „Dniem z reszty życia”.",
+    "inspiration": "Oś HPA, jelitowo-mózgowa; skierowanie od Czupryniaka.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ważny temat zdrowia psychosomatycznego; wymaga disclaimera opinion.",
+    "founder_notes": [
+      "Founder note: Medycyna funkcjonalna — founder review przed promocją.",
+      "Founder note: Darek z „Dnia z reszty życia” — oznaczyć serię redakcyjną."
+    ],
+    "series": "Collection Eight",
+    "quiz": [
+      {
+        "question": "Kto skierował Darka do dr Cubalskiej?",
+        "answers": [
+          "Marta",
+          "Profesor Czupryniak",
+          "Psycholog",
+          "Szef"
+        ],
+        "correct": "B",
+        "explanation": "Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubalskiej.",
+        "reference": "profesor Czupryniaka"
+      },
+      {
+        "question": "Co jest nieprawidłowe u Darka w krzywej kortyzolu?",
+        "answers": [
+          "Za wysoki rano",
+          "Rano kortyzol ledwo „zipie”, wieczorem wystrzeliwuje",
+          "Brak kortyzolu",
+          "Stały poziom"
+        ],
+        "correct": "B",
+        "explanation": "Magdalena tłumaczy odwrócony rytm dobowy kortyzolu.",
+        "reference": "odwrotnie"
+      },
+      {
+        "question": "Co Magdalena mówi o osi jelitowo-mózgowej?",
+        "answers": [
+          "Że nie istnieje",
+          "Że to dwukierunkowa autostrada — stres psuje jelita, chore jelita stresują mózg",
+          "Że dotyczy tylko dzieci",
+          "Że leczy ją antybiotyk"
+        ],
+        "correct": "B",
+        "explanation": "Opisuje błędne koło między stresem a jelitami.",
+        "reference": "błędne koło"
+      },
+      {
+        "question": "Co Darek przyznaje o rozwodzie z Martą?",
+        "answers": [
+          "Że Marta była winna",
+          "Że nie miał siły się kłócić i myślał, że ona przesadza — a teraz widzi, że się „popsuł”",
+          "Że nigdy jej nie kochał",
+          "Że wróci do niej"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: to ja się popsułem dosłownie.",
+        "reference": "popsułem"
+      },
+      {
+        "question": "Co Magdalena mówi o emocjach i kortyzolu?",
+        "answers": [
+          "Że emocje nie mają znaczenia",
+          "Że trzymanie urazy produkuje kortyzol — ciało cały czas jest w stanie wojny",
+          "Że trzeba je tłumić",
+          "Że tylko leki pomagają"
+        ],
+        "correct": "B",
+        "explanation": "Mówi o emocjach produkujących kortyzol i stanie oblężenia.",
+        "reference": "stanie wojny"
+      }
+    ],
+    "revision_notes": "Phase 102 import."
+  }
+}

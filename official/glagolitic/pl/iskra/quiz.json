@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co syn krzyczy w koszmarze?",
+      "answers": [
+        "„Chcę lody”",
+        "„Rozbity samolot! Pali się! Mały człowiek nie może wyjść!”",
+        "„Boję się ciemności”",
+        "„Gdzie mama?”"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza te same słowa co noc."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak syn bawi się samolotami?",
+      "answers": [
+        "Lata nimi",
+        "Rozbija je — uderza jednym o drugi",
+        "Kolekcjonuje",
+        "Maluje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rozbija zabawki, aż odpadają skrzydła."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie trzy imiona wymienia syn?",
+      "answers": [
+        "Adam, Ewa, Noe",
+        "Billy, Walter i Leon",
+        "Jan, Piotr, Paweł",
+        "Tom, Dick, Harry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wskazuje na trzy rozbite samoloty i podaje te imiona."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie nazwiska pilotów znajduje Marek w archiwum?",
+      "answers": [
+        "Smith, Jones, Brown",
+        "Piller, Devlin, Conner",
+        "Kowalski, Nowak, Wiśniewski",
+        "Brak nazwisk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lista poległych: Piller, Devlin, Conner."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co syn mówi rano po ostatnim koszmarze o Leonie?",
+      "answers": [
+        "Że Leon zginął",
+        "„Tak, tato. Wszyscy. Tam są.” — i wskazuje niebo",
+        "Że boi się samolotów",
+        "Nic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że wszyscy wrócili — tam są, wskazując niebo."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Michał kończy po pięciu latach pracy?",
+      "answers": [
+        "Grę komputerową",
+        "Algorytm szczęścia",
+        "Aplikację bankową",
+        "System operacyjny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po pięciu latach algorytm jest gotowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa mówi o bohaterze Dostojewskiego?",
+      "answers": [
+        "Że jest szczęśliwy",
+        "Że zrobiłby coś, by sobie popsuć nastrój — z przekory",
+        "Że akceptuje algorytm",
+        "Że nie czytał"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa pyta o człowieka, który psułby nastrój z przekory."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa mówi, że algorytm opisałby o drzewie?",
+      "answers": [
+        "Tylko piękno",
+        "Gatunek, wiek i wysokość — ale nie to, co Michał widzi",
+        "Nic",
+        "Kolor liści"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że algorytm poda klon, 120 lat, 15 metrów — ale nie doświadczenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Michał widzi, patrząc na drzewo z zamkniętymi oczami?",
+      "answers": [
+        "Nic",
+        "Śnieg i to, że jest z Ewą",
+        "Przyszłość",
+        "Kod"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: widzę śnieg i że jestem tutaj z tobą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Michał robi z algorytmem na końcu?",
+      "answers": [
+        "Sprzedaje go",
+        "Usuwa moduły sugerujące zmiany — zostawia tylko zbieranie informacji",
+        "Publikuje bez zmian",
+        "Oddaje zespółowi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Usuwa moduły proponujące zmiany; zostawia proste narzędzie informacyjne."
+    }
+  ]
+}

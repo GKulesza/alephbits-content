@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto skierował Darka do dr Cubalskiej?",
+      "answers": [
+        "Marta",
+        "Profesor Czupryniak",
+        "Psycholog",
+        "Szef"
+      ],
+      "correctIndex": 1,
+      "explanation": "Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubalskiej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest nieprawidłowe u Darka w krzywej kortyzolu?",
+      "answers": [
+        "Za wysoki rano",
+        "Rano kortyzol ledwo „zipie”, wieczorem wystrzeliwuje",
+        "Brak kortyzolu",
+        "Stały poziom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magdalena tłumaczy odwrócony rytm dobowy kortyzolu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magdalena mówi o osi jelitowo-mózgowej?",
+      "answers": [
+        "Że nie istnieje",
+        "Że to dwukierunkowa autostrada — stres psuje jelita, chore jelita stresują mózg",
+        "Że dotyczy tylko dzieci",
+        "Że leczy ją antybiotyk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisuje błędne koło między stresem a jelitami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Darek przyznaje o rozwodzie z Martą?",
+      "answers": [
+        "Że Marta była winna",
+        "Że nie miał siły się kłócić i myślał, że ona przesadza — a teraz widzi, że się „popsuł”",
+        "Że nigdy jej nie kochał",
+        "Że wróci do niej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: to ja się popsułem dosłownie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magdalena mówi o emocjach i kortyzolu?",
+      "answers": [
+        "Że emocje nie mają znaczenia",
+        "Że trzymanie urazy produkuje kortyzol — ciało cały czas jest w stanie wojny",
+        "Że trzeba je tłumić",
+        "Że tylko leki pomagają"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi o emocjach produkujących kortyzol i stanie oblężenia."
+    }
+  ]
+}

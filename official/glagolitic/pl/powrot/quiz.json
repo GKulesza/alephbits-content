@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi Anastazja?",
+      "answers": [
+        "Z Warszawy",
+        "Z Ałmaty w Kazachstanie",
+        "Z Kijowa",
+        "Z Wilna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mieszka w Ałmaty; córka Polki i Kazacha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego ambasada odmawia wizy?",
+      "answers": [
+        "Brak pieniędzy",
+        "Nieprawidłowo wskazany cel podróży",
+        "Brak paszportu",
+        "Wiek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mail mówi: odmowa — nieprawidłowo wskazany cel podróży."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Justyna mówi o Polsce?",
+      "answers": [
+        "Że to tylko kraj",
+        "Że Polska to dom w sercu, nie w papierach",
+        "Że trzeba zapomnieć korzenie",
+        "Że wiza jest konieczna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: Polska to nie tylko kraj — to dom, nawet bez wizy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anastazja pisze w notatniku pod pytaniem „Kim jestem?”",
+      "answers": [
+        "Że jest Kazachką",
+        "Że jest córką Polki i Kazacha, a Polska jest jej domem",
+        "Że nie wie",
+        "Że potrzebuje wizy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisuje polskie korzenie i uczucie domu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dokąd idzie Anastazja w epilogu?",
+      "answers": [
+        "Do Ałmaty na stałe",
+        "Na lotnisko — żegna miasto urodzenia",
+        "Do ambasady",
+        "Na uniwersytet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stoi na wzgórzu, żegna Ałmaty i idzie w stronę lotniska."
+    }
+  ]
+}

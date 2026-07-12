@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Marek na początku opowieści?",
+      "answers": [
+        "Księdzem",
+        "Profesorem, materialistą i neurobiologiem",
+        "Artystą",
+        "Monachiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jest materialistą, fizykiem, badaczem świadomości."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek doświadcza po zamknięciu oczu przed wykładem?",
+      "answers": [
+        "Sen o podróży",
+        "Złote światło i uczucie: „Jesteś częścią całości”",
+        "Ból głowy",
+        "Nic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Widzi gęste złote światło i słyszy, że nie jest ciałem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Federico radzi zamiast szukać świadomości w mózgu?",
+      "answers": [
+        "W laboratorium",
+        "Traktować świadomość jako fundament, a mózg jako narzędzie",
+        "Zrezygnować z nauki",
+        "Modlić się"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że mózg to tylko narzędzie, którego świadomość używa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek robi rok później zamiast artykułów o neurobiologii?",
+      "answers": [
+        "Wraca do materializmu",
+        "Prowadzi warsztaty dla zagubionych ludzi",
+        "Rezygnuje z pracy",
+        "Pisze o polityce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prowadzi warsztaty o jedności i połączeniu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek mówi kobiecie po warsztatach?",
+      "answers": [
+        "Że musi iść do lekarza",
+        "„Wracasz do siebie — i to jest najważniejszy krok.”",
+        "Że to był sen",
+        "Że nie ma odpowiedzi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza: wracasz do siebie — najważniejszy krok."
+    }
+  ]
+}

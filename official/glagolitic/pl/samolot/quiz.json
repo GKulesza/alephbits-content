@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Na którą godzinę Kamila ma deadline prezentacji?",
+      "answers": [
+        "8:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deadline: 12:00."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Kamila opisuje działanie swojego mózgu?",
+      "answers": [
+        "Jak samochód na biegu jałowym",
+        "Jak samolot potrzebujący rozpędu",
+        "Jak zegarek",
+        "Jak radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że mózg działa jak samolot — potrzebuje paliwa, by wystartować."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile slajdów Kamila kończy w hiperfokusie?",
+      "answers": [
+        "Dziesięć",
+        "Trzydzieści dwa",
+        "Pięć",
+        "Dwadzieścia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy prezentację: trzydzieści dwa slajdy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co menadżerka krytykuje w slajdzie dwunastym?",
+      "answers": [
+        "Kolory",
+        "Dane bez wystarczającego uzasadnienia",
+        "Brak tytułu",
+        "Zbyt długi tekst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prosi o lepsze uzasadnienie danych w slajdzie dwunastym."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kamila prosi zespół robić z uwagami?",
+      "answers": [
+        "Ignorować je",
+        "Dawać uwagi rano, bo po południu nie jest w stanie ich dobrze przyjąć",
+        "Pisać je mailowo",
+        "Mówić tylko po angielsku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prosi o uwagi rano — po południu bateria jest na zero."
+    }
+  ]
+}

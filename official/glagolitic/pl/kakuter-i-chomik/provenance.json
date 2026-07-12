@@ -1,0 +1,22 @@
+{
+  "packId": "polish_kakuter_i_chomik",
+  "bookId": "kakuter-i-chomik",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o prokrastynacji; blisko „Samolotu” tematycznie — inna postać, inny slug."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "gYxMl3bizJo"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O czym Marcin przypadkowo ogląda film?",
+      "answers": [
+        "O Koperniku",
+        "O bitwie pod Beresteczkiem i Jeremim Wiśniowieckim",
+        "O II wojnie światowej",
+        "O Powstaniu Warszawskim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trafia na film o Beresteczku i Wiśniowieckim."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi starszy mężczyzna w Beresteczku o szarży?",
+      "answers": [
+        "Że trwała trzy dni",
+        "Że trzy godziny zmieniły wszystko",
+        "Że nie miała znaczenia",
+        "Że była porażką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: trzy godziny, synu — i zmieniło się wszystko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Wiśniowiecki ruszył na wschód zamiast uciekać?",
+      "answers": [
+        "Z obowiązku wojskowego",
+        "Bo wiedział, że bez oporu rebelia zaleje wszystko, co stworzył",
+        "Bo kazał król",
+        "Bo szukał skarbów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin pisze, że ruszył w ogień, bo rebelia musiała zostać zatrzymana."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat miał Wiśniowiecki, gdy umarł według epilogu?",
+      "answers": [
+        "50",
+        "39",
+        "25",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog: umarł w wieku 39 lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marcin pisze na końcu artykułu o trybie warunkowym historii?",
+      "answers": [
+        "Że historia zawsze powtarza błędy",
+        "Że historia nie zna trybu warunkowego — zna tylko to, co się wydarzyło",
+        "Że można zmienić przeszłość",
+        "Że bitwa była nieistotna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cytuje: historia nie zna trybu warunkowego."
+    }
+  ]
+}

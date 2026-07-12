@@ -1,0 +1,22 @@
+{
+  "packId": "polish_taniec",
+  "bookId": "taniec",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o tożsamości kulturowej; scena awarii płatności jest narracyjnym pretekstem."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "mHVojuZkez0"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

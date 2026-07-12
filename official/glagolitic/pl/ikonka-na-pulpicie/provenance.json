@@ -1,0 +1,22 @@
+{
+  "packId": "polish_ikonka_na_pulpicie",
+  "bookId": "ikonka-na-pulpicie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o długich związkach; blisko „Froteryzmu intelektualnego” — inny slug."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Mlunu1IKmYE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

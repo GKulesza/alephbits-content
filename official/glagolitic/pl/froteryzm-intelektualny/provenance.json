@@ -1,0 +1,22 @@
+{
+  "packId": "polish_froteryzm_intelektualny",
+  "bookId": "froteryzm-intelektualny",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o komunikacji w długim związku; blisko „Ikonki na pulpicie”."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Mlunu1IKmYE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

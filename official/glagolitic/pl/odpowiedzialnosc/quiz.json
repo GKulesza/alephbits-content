@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile procent zatrudnienia firma ma zredukować?",
+      "answers": [
+        "5%",
+        "15%",
+        "50%",
+        "30%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek mówi o redukcji zatrudnienia o 15%."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Marek zwalnia Magdę według firmy?",
+      "answers": [
+        "Za złe wyniki",
+        "Bo jej dział jest mało dochodowy, a stanowisko powtarzalne",
+        "Za spóźnienia",
+        "Za konflikt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tłumaczy, że dział jest mało dochodowy, stanowisko powtarzalne."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda mówi Marekowi przy wyjściu?",
+      "answers": [
+        "Że mu wybacza",
+        "Że potrzebowała, by stanął za nią, a on tylko wykonywał rozkazy",
+        "Że go kocha",
+        "Że wróci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że potrzebowała wsparcia, a on wykonywał rozkazy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Marek składa wypowiedzenie?",
+      "answers": [
+        "Dla wyższej pensji",
+        "Bo nie chce wykonywać rozkazów bez myślenia o ludziach",
+        "Bo przenosi się za granicę",
+        "Bo choruje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi szefowi, że nie chce wykonywać rozkazów bez myślenia o ludziach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Marek zatrudnia w swojej nowej firmie?",
+      "answers": [
+        "Tylko siebie",
+        "Magdę jako główną analityczką",
+        "Byłego szefa",
+        "Nikogo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog: Magda zostaje jego główną analityczką."
+    }
+  ]
+}

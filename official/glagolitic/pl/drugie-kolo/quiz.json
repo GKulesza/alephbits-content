@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Magda ma w szufladzie od babci?",
+      "answers": [
+        "Pieniądze",
+        "Listy dziadka z Wołynia",
+        "Zdjęcia weselne",
+        "Medale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ma listy, które dziadek pisał przed śmiercią w 1943."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi Olena?",
+      "answers": [
+        "Z Lwowa",
+        "Z Donbasu — uciekła w 2022 po śmierci męża",
+        "Z Warszawy",
+        "Z Berlina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że uciekła z Donbasu w 2022; mąż zginął na wojnie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Olena mówi o banderowcach?",
+      "answers": [
+        "Że wszyscy Ukraińcy nimi są",
+        "Że nie jest banderowcem i nie wszyscy Ukraińcy nienawidzą Polaków",
+        "Że nienawidzi Polaków",
+        "Że nie zna historii"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prosi, by wiedzieć, że nie jest banderowcem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda mówi babci w epilogu?",
+      "answers": [
+        "Że zapomina",
+        "„Nie zapominam, babciu — ale uczę się wybaczać.”",
+        "Że nienawidzi Ukraińców",
+        "Że wyjeżdża"
+      ],
+      "correctIndex": 1,
+      "explanation": "Szepta: nie zapominam, ale uczę się wybaczać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda i Olena robią rok później?",
+      "answers": [
+        "Piszą książkę",
+        "Prowadzą warsztaty dla polskich i ukraińskich rodzin",
+        "Otwierają restaurację",
+        "Jadą na wojnę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rok później prowadzą warsztaty we Wrocławiu."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Adam mówi studentom o III Rzeszy na początku wykładu?",
+      "answers": [
+        "Że miała zapasy amunicji na sześć lat",
+        "Że bała się pokoju bardziej niż wojny",
+        "Że nie planowała ekspansji",
+        "Że była gotowa na długą wojnę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam mówi, że Niemcy w 1939 roku bały się nie wojny, lecz pokoju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marta odkrywa na komputerze Adama?",
+      "answers": [
+        "Notatki do wykładu",
+        "Wiadomości do innej kobiety",
+        "List od studenta",
+        "Projekt badawczy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta mówi, że znalazła jego wiadomości do „niej”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile trwała zdrada Adama według jego wyznania?",
+      "answers": [
+        "Rok",
+        "Trzy miesiące",
+        "Sześć miesięcy",
+        "Dwa tygodnie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam przyznaje, że trwało to trzy miesiące."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Marta porównuje ich małżeństwo do historii III Rzeszy?",
+      "answers": [
+        "Do zwycięstwa w wojnie",
+        "Do systemu opartego na ekspansji, który boi się zatrzymać",
+        "Do pokoju po wojnie",
+        "Do dyplomacji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta mówi, że udawali, że wszystko jest w porządku, zamiast zatrzymać się i naprawić problem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Adam pisze studentowi w epilogu o granicach?",
+      "answers": [
+        "Że granice to mury",
+        "Że granice to drzwi, które mogą być otwarte",
+        "Że granice należy burzyć",
+        "Że granice nie istnieją"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odpowiada, że granice to nie mury, lecz drzwi dla tych, którzy wiedzą, jak zapukać."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat Paweł pracuje jako maszynista?",
+      "answers": [
+        "Pięć",
+        "Czterdzieści pięć",
+        "Dwadzieścia",
+        "Trzydzieści"
+      ],
+      "correctIndex": 1,
+      "explanation": "Od czterdziestu pięciu lat jest maszynistą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie rozgrywa się kluczowy incydent z autem?",
+      "answers": [
+        "W Gdańsku",
+        "Na przejeździe w Otnicach",
+        "We Wrocławiu",
+        "W Opolu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Auto wyjeżdża z lewej strony przy przejeździe w Otnicach."
+    },
+    {
+      "type": "single_choice",
+      "question": "O ile metrów przesunięte byłoby auto, gdyby uderzenie było centralne w przestrzeń dzieci?",
+      "answers": [
+        "Pół metra",
+        "Półtora metra",
+        "Trzy metry",
+        "Pięć metrów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł mówi: gdyby wyjechała półtora metra dalej, uderzyłby centralnie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co policjant kiedyś powiedział Pawłowi metaforą?",
+      "answers": [
+        "Że jest winny",
+        "Że on jest drzewem, na które ktoś się powiesi",
+        "Że ma odejść z pracy",
+        "Że to gra komputerowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant mówił, że on sobie wybrał, a Paweł jest tym drzewem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Paweł rozumie wieczorem po incydencie?",
+      "answers": [
+        "Że musi natychmiast odejść",
+        "Że nie jest drzewem — ma wybór, czy zostać czy odejść",
+        "Że winny jest kierowca",
+        "Że sen się spełni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że może odejść lub zostać, ale to będzie jego wybór."
+    }
+  ]
+}

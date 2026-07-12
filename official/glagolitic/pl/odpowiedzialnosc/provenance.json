@@ -1,0 +1,22 @@
+{
+  "packId": "polish_odpowiedzialnosc",
+  "bookId": "odpowiedzialnosc",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o etyce zawodowej; nie stanowi porady prawnej ani HR."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eight manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

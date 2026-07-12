@@ -1,0 +1,22 @@
+{
+  "packId": "polish_betonowy_dom",
+  "bookId": "betonowy-dom",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o grach psychologicznych w związku; tematy przemocy domowej w przeszłości — wrażliwe, fiction framing."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "W80HZGHQpqc"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

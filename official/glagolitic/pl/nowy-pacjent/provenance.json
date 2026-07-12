@@ -1,0 +1,22 @@
+{
+  "packId": "polish_nowy_pacjent",
+  "bookId": "nowy-pacjent",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja-opinia medyczna; stanowiska profesora są narracją postaci — nie porada katalogu. Founder review obowiązkowy."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "yJPdx1QZEEA"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

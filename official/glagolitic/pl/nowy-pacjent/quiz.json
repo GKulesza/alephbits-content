@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki wynik HOMA ma Kasia?",
+      "answers": [
+        "2,0",
+        "7,2",
+        "1,5",
+        "12,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profesor czyta: HOMA 7,2."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co profesor mówi o normie dla wskaźnika HOMA?",
+      "answers": [
+        "Że norma to poniżej 2",
+        "Że nie ma ustalonej normy klinicznej",
+        "Że norma to 5",
+        "Że norma zależy od wieku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi wprost: nie ma dla tego wskaźnika normy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką chorobę profesor przypisuje Kasi zamiast „insulinooporności”?",
+      "answers": [
+        "Cukrzycę typu 1",
+        "Otyłość — kod ICD E66",
+        "Anemię",
+        "Depresję"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: ma pani otyłość, kod E66 — to choroba."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki lek profesor przepisuje Kasi?",
+      "answers": [
+        "Metforminę",
+        "Ozempic (analog GLP-1)",
+        "Insulinę",
+        "Aspirynę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recepta: Ozempic raz w tygodniu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim Kasia zostaje rok później?",
+      "answers": [
+        "Pielęgniarką",
+        "Wolontariuszką w programie edukacyjnym dla pacjentów z cukrzycą",
+        "Dietetyczką",
+        "Profesorem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profesor proponuje wolontariat w programie edukacyjnym."
+    }
+  ]
+}

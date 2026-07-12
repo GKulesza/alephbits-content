@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat Adam i Magda są razem?",
+      "answers": [
+        "Pięć",
+        "Piętnaście",
+        "Trzydzieści",
+        "Dwa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam mówi o piętnastu latach małżeństwa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Adam opisuje myślenie o żonie?",
+      "answers": [
+        "Jak czytanie książki",
+        "Jak kliknięcie ikonki — od razu otwiera plik, który zna",
+        "Jak słuchanie radia",
+        "Jak sen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi o ikonce na pulpicie i pliku znanym z góry."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Magda gotuje rosół?",
+      "answers": [
+        "Bo lubi tylko rosół",
+        "Bo czuje się samotna, gdy życie staje się przewidywalne",
+        "Bo Adam kazał",
+        "Bo są goście"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przyznaje, że gotuje rosół, gdy czuje samotność i przewidywalność."
+    },
+    {
+      "type": "single_choice",
+      "question": "O co pyta Adam Magdę przy wstrzymanym filmie?",
+      "answers": [
+        "O wakacje",
+        "Czy czasem myśli o rozstaniu",
+        "O pracę",
+        "O dzieci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pyta wprost: czy czasem myślisz o rozstaniu?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Adam pisze w książce na końcu?",
+      "answers": [
+        "Że związki są bez sensu",
+        "Że największym błędem było myślenie, że zna żonę na wylot",
+        "Że terapia nie działa",
+        "Że rozwód jest zły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisze o błędzie myślenia, że zna żonę na wylot."
+    }
+  ]
+}

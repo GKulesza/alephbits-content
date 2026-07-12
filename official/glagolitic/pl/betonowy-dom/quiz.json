@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim zawodowo jest Anna?",
+      "answers": [
+        "Lekarką",
+        "Psycholożką i autorką książek o relacjach",
+        "Nauczycielką",
+        "Dziennikarką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna jest ekspertką od relacji, psycholożką i autorką."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie trzy gry relacyjne Anna wymienia u Pawła?",
+      "answers": [
+        "Szachy, poker i ruletka",
+        "„Tu cię mam”, „muszę być dzielna” i „gdyby nie ty”",
+        "Milczenie, kłamstwo i ucieczka",
+        "Rywalizacja, zazdrość i kontrola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna mówi wprost o tych trzech grach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anna wspomina o swoim ojcu?",
+      "answers": [
+        "Był lekarzem",
+        "Miał twarde dłonie i czasami bił",
+        "Odszedł, gdy była mała",
+        "Nigdy jej nie skrzywdził"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opowiada o twardej pracy ojca i przemocy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Paweł mówi o „potworze” Anny?",
+      "answers": [
+        "Że go nie zna",
+        "Że wie, że to nie ona — to jej potwór",
+        "Że musi odejść",
+        "Że Anna jest winna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł mówi: „Wiedziałem, że to nie ty. To twój potwór.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Anna kończy opowieść o grze?",
+      "answers": [
+        "Że wygrała",
+        "Że wyszła z gry, bo przestała w nią grać",
+        "Że Paweł odszedł",
+        "Że zamknęła warsztaty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zrozumiała, że nie wygrała — przestała grać."
+    }
+  ]
+}

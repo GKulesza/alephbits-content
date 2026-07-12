@@ -1,0 +1,22 @@
+{
+  "packId": "polish_trzy_godziny",
+  "bookId": "trzy-godziny",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja osadzona w historii Rzeczypospolitej; szczegóły bitewne są adaptacją edukacyjną."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "R2ccd6oyP3s"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

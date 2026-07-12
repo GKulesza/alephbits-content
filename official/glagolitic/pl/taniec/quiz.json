@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi Mai?",
+      "answers": [
+        "Z Polski",
+        "Z północnego Wietnamu — rodzina wyemigrowała do Szwecji",
+        "Z Chin",
+        "Z Japonii"
+      ],
+      "correctIndex": 1,
+      "explanation": "Urodziła się w wiosce w górach Wietnamu; rodzina wyemigrowała."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co sprawia, że Mai wraca do tańca?",
+      "answers": [
+        "Nagroda w konkursie",
+        "Filmik z dziewczynami w strojach Hmong i wspomnienie korzeni",
+        "Presja rodziny",
+        "Wymóg szkoły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natrafia na filmik z tańcem Hmong i czuje tęsknotę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Mai mówi Ani o domu?",
+      "answers": [
+        "Dom to adres",
+        "Dom to uczucie — można je znaleźć wszędzie, jeśli pozwolisz sobie tańczyć",
+        "Dom to tylko Wietnam",
+        "Dom nie istnieje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odpowiada: dom to uczucie, nie miejsce."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Mai mówi uczniom o tańcu?",
+      "answers": [
+        "Że to sport",
+        "Że taniec to rozmowa z przodkami i sposób pamiętania, kim jesteśmy",
+        "Że to moda",
+        "Że to tylko ruch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że taniec to rozmowa z przodkami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Mai trzyma w dłoni w epilogu?",
+      "answers": [
+        "Telefon",
+        "Banknot sto koron, który uratował ją przy awarii płatności",
+        "List",
+        "Bilet lotniczy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trzyma sto koron — pieniądz z dnia awarii systemu."
+    }
+  ]
+}

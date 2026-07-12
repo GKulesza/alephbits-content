@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Kasia widzi w oczach Karola w nocy?",
+      "answers": [
+        "Radość",
+        "Pustkę — martwe oczy",
+        "Łzy",
+        "Sen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisuje oczy jako puste, martwe."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co przyjaciółka radzi Kasi w wiadomości?",
+      "answers": [
+        "Żeby wróciła do Karola",
+        "Żeby słuchała intuicji i uważała na oczy",
+        "Żeby poszła do pracy",
+        "Żeby zignorowała to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przyjaciółka pisze: słuchaj intuicji, wszystko widać w oczach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia widzi u Karola, gdy pyta o miłość?",
+      "answers": [
+        "Szczere wzruszenie",
+        "Obliczenie — jakby ważył korzystną odpowiedź",
+        "Złość",
+        "Sen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przez chwilę maska opada i widać zimną pustkę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia dopisuje w notesie po lekturze?",
+      "answers": [
+        "Że jest słaba",
+        "Że oni nie wiedzą, czym jest siła",
+        "Że wróci do Karola",
+        "Że psychopatia nie istnieje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dopisuje, że to nie znaczy, że ona jest słaba."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi Kasia Oli, gdy spotyka Karola przypadkiem?",
+      "answers": [
+        "Że Karol jest dobry",
+        "„Uważaj na niego. Ma zimne oczy.”",
+        "Że wraca do niego",
+        "Nic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ostrzega Ola: uważaj, ma zimne oczy."
+    }
+  ]
+}

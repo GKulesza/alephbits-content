@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Marek znajduje w piwnicy?",
+      "answers": [
+        "Złoto",
+        "Pudło ze starymi listami po polsku i ukraińsku",
+        "Broń",
+        "Zdjęcia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pudło z setkami listów w dwóch językach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do kogo jest adresowany pierwszy list z 1943 roku?",
+      "answers": [
+        "Do Marka",
+        "Do „Drogiego Janka”",
+        "Do dziadka",
+        "Do żołnierzy"
+      ],
+      "correctIndex": 1,
+      "explanation": "List zaczyna się: „Janku...”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim okazuje się autor listu według Ołeksandra?",
+      "answers": [
+        "Polakiem",
+        "Ukraińskim dziadkiem Ołeksandra, wcielonym do UPA",
+        "Niemcem",
+        "Żołnierzem AK"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ołeksandr mówi: to był mój dziadek Iwan."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek pisze na początku swojego tekstu?",
+      "answers": [
+        "Że trzeba zapomnieć",
+        "„Nie ma nic gorszego niż ofiary, które usiłują wybierać swoich własnych oprawców.”",
+        "Że winni są wszyscy",
+        "Że historia jest prosta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cytuje zdanie o ofiarach wybierających oprawców."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek pisze na końcu o pamięci Wołynia?",
+      "answers": [
+        "Że powinna dzielić",
+        "Że pamięć powinna łączyć, nie dzielić — by zrozumieć",
+        "Że trzeba milczeć",
+        "Że tylko Polacy cierpią"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy: pamięć powinna nas łączyć, nie dzielić."
+    }
+  ]
+}

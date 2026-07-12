@@ -1,0 +1,22 @@
+{
+  "packId": "polish_drugie_dno",
+  "bookId": "drugie-dno",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja-opinia medyczna o medycynie funkcjonalnej; nie zastępuje porady lekarskiej. Powiązanie z „Dniem z reszty życia”."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "oCX5erg9_KE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

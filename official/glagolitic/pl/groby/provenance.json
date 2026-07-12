@@ -1,0 +1,22 @@
+{
+  "packId": "polish_groby",
+  "bookId": "groby",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja-historyczna o trudnej przeszłości; wymaga wyraźnego opinion/fiction framing — temat wrażliwy politycznie."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "-uUfXb-qz_U"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

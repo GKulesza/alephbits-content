@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie mieszka Marek?",
+      "answers": [
+        "W Nowym Jorku",
+        "Na Long Island, w Montok",
+        "W Kalifornii",
+        "W Bostonie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mieszka w Montok na Long Island."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką książkę znajduje Marek w antykwariacie?",
+      "answers": [
+        "1984",
+        "„The Montauk Project: Experiments in Time”",
+        "Władcę Pierścieni",
+        "Biblię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Znajduje książkę Nicholsa o Montauk Project."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek znajduje w podziemiach Camp Hero?",
+      "answers": [
+        "Skarb",
+        "Metalowe krzesło z przewodami, jak w książce",
+        "Laboratorium chemiczne",
+        "Pusty hangar"
+      ],
+      "correctIndex": 1,
+      "explanation": "W pomieszczeniu jest krzesło z przewodami — jak opisywał Nichols."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim okazuje się starszy mężczyzna z garnkiem?",
+      "answers": [
+        "Jego ojcem",
+        "Prestonem — kimś, kto też zapomniał i przypomniał sobie",
+        "Strażnikiem",
+        "Psychologiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mężczyzna mówi: nazywam się Preston, ty byłeś jednym z nas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Preston mówi o garnkach?",
+      "answers": [
+        "Że to żart",
+        "Że chronią przed polem tłumiącym pamięć",
+        "Że są modą",
+        "Że nic nie robią"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi, że garnki chronią przed polem tłumiącym."
+    }
+  ]
+}

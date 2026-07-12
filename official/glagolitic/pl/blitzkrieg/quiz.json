@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Ola na początku opowieści?",
+      "answers": [
+        "28",
+        "38",
+        "48",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi, że Ola miała trzydzieści osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co czyta Ola w książce Magdaleny Chorzewskiej?",
+      "answers": [
+        "Że pierwsza randka nic nie pokazuje",
+        "Że jeśli słyszysz, że wszystkie byłe były złe, będziesz kolejną złą",
+        "Że trzeba szukać idealnego partnera",
+        "Że randki są stratą czasu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czyta zdanie o byłych, którzy „byli zli”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Magda porównuje zachowanie Oli do historii?",
+      "answers": [
+        "Do pokoju po wojnie",
+        "Do III Rzeszy bojącej się pokoju i ciągłej ekspansji",
+        "Do dyplomacji",
+        "Do związku małżeńskiego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda mówi, że każda randka to nowa kampania, a Ola boi się przestać szukać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tomasz mówi o swoich byłych partnerkach?",
+      "answers": [
+        "Że wszystkie były złe",
+        "Że z jedną się nie dogaduje, ale z matką dziecka ma kontakt",
+        "Że nigdy nie miał związków",
+        "Że winne są wyłącznie on"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz mówi, że nie wszyscy ex są źli — byli źli dla siebie nawzajem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ola zapisuje w książce na końcu?",
+      "answers": [
+        "Że randki są bez sensu",
+        "Że najlepsze związki powstają, gdy przestajesz szukać ideału",
+        "Że Tomasz jest idealny",
+        "Że terapia nie pomaga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Notatka mówi o związkach budowanych po wielu randkach, gdy szukasz człowieka, nie ideału."
+    }
+  ]
+}

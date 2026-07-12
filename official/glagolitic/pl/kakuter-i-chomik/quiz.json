@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Marcin robi zamiast pracować rano?",
+      "answers": [
+        "Biega",
+        "Gra w telefon przez godzinę",
+        "Śpi do południa",
+        "Idzie do biura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sięga po telefon i godzinę później jest na piątym poziomie gry."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką metaforę słyszy Marcin w podcaście?",
+      "answers": [
+        "Że uwaga to dar",
+        "Że uwaga jest jak mięsień, który trzeba trenować",
+        "Że uwaga nie istnieje",
+        "Że uwaga to gen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gość mówi, że uwaga jest jak mięsień do ćwiczenia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marcin zapisuje jako pierwszy punkt w notatniku?",
+      "answers": [
+        "Kupić kawę",
+        "Skończyć prezentację — zacząć od pierwszego slajdu",
+        "Zadzwonić do szefa",
+        "Iść spać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pierwszy punkt: skończyć prezentację, zacząć od pierwszego slajdu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie zdanie Marcin zapamiętuje o zabieraniu się do pracy?",
+      "answers": [
+        "Czekaj na motywację",
+        "„No nic, trzeba zrobić.”",
+        "Zrób to jutro",
+        "Poproś kogoś innego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uczy się: zabieranie się do rzeczy wygląda tak — no nic, trzeba zrobić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Od czego Marcin zaczyna pracę w epilogu?",
+      "answers": [
+        "Od końca projektu",
+        "Od pierwszej linijki",
+        "Od przerwy na kawę",
+        "Od maila do szefa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zaczyna nie od końca, lecz od pierwszej linijki."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
   "generatedAt": "2026-07-12T00:00:00Z",
-  "officialPackCount": 56,
+  "officialPackCount": 82,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -69,8 +69,18 @@
       "description": ""
     },
     {
+      "id": "medicine",
+      "title": "Medicine",
+      "description": ""
+    },
+    {
       "id": "nature",
       "title": "Nature",
+      "description": ""
+    },
+    {
+      "id": "philosophy",
+      "title": "Philosophy",
       "description": ""
     },
     {
@@ -99,6 +109,11 @@
       "description": "Fiction in compact form."
     },
     {
+      "id": "technology",
+      "title": "Technology",
+      "description": ""
+    },
+    {
       "id": "travel",
       "title": "Travel",
       "description": "Journeys, places, and exploration."
@@ -110,8 +125,12 @@
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
       "packIds": [
+        "polish_algorytm_szczescia",
+        "polish_betonowy_dom",
+        "polish_blitzkrieg",
         "polish_boliewicz",
         "polish_brudne_pieniadze_czysta_nauka",
+        "polish_buty",
         "polish_cel_na_ten_rok_to_nic",
         "polish_cena_widoku",
         "polish_cien_skrzydel_nad_oceanem",
@@ -126,33 +145,55 @@
         "polish_domek",
         "polish_domysl_sie",
         "polish_dostrojony_dom",
+        "polish_drugie_dno",
+        "polish_drugie_kolo",
         "polish_dylemat_szatniarza",
         "polish_dziewczyna_z_jelania",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_dzien_z_reszty_zycia",
+        "polish_froteryzm_intelektualny",
+        "polish_garnek_na_glowie",
+        "polish_granice_imperium",
+        "polish_groby",
         "polish_gruby_dzienniczek",
         "polish_glosy_z_ziemi",
         "polish_oczy_ktore_nie_widza",
+        "polish_ikonka_na_pulpicie",
+        "polish_iskra",
         "polish_jak_bor_z_jasnego_nieba",
         "polish_kamera_na_ulicy",
         "polish_kamien_pamieci",
         "polish_koniec_epoki_pudelek",
         "polish_kontrolowana_halucynacja",
+        "polish_kot_1011",
         "polish_kubek",
+        "polish_kakuter_i_chomik",
         "polish_mamy_trupa_i_co_dalej",
+        "polish_martwe_oczy",
         "polish_metoda_feynmana",
         "polish_misja_ktora_pekla",
         "polish_na_dworcu",
         "polish_na_targu",
         "polish_nadwyzka",
+        "polish_nowy_pacjent",
         "polish_obserwator",
+        "polish_odpowiedzialnosc",
+        "polish_ofiary",
+        "polish_powrot",
+        "polish_powrot_siebie",
         "polish_prolog_wiatru",
         "polish_przerwa",
         "polish_przerwa_nauka",
         "polish_pudelko_po_ciastkach",
+        "polish_poltora_metra",
+        "polish_samolot",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
         "polish_susza",
         "polish_synchronicznosc",
+        "polish_szpital_poludniowy",
+        "polish_taniec",
+        "polish_trzy_godziny",
         "polish_trzynascie_zasad",
         "polish_wiatr_nad_rzeka",
         "polish_worek_z_piaskiem",
@@ -178,6 +219,8 @@
         "polish_rozmowa_z_lekarzem",
         "polish_wiatr_nad_rzeka",
         "polish_dlaczego_niebo_jest_niebieskie",
+        "polish_dzien_z_reszty_zycia",
+        "polish_kakuter_i_chomik",
         "polish_legenda_o_smoku_wawelskim",
         "polish_na_dworcu",
         "polish_na_targu",
@@ -185,10 +228,12 @@
         "polish_pierwszy_lot_na_marsa",
         "polish_przerwa",
         "polish_przerwa_nauka",
+        "polish_taniec",
         "polish_trzynascie_zasad",
         "polish_w_kawiarni",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zasady",
+        "polish_blitzkrieg",
         "polish_cel_na_ten_rok_to_nic",
         "polish_czarna_skrzynka",
         "polish_czarny_mnich_z_nikiszowca",
@@ -196,21 +241,36 @@
         "polish_domysl_sie",
         "polish_dostrojony_dom",
         "polish_dziewczyna_z_jelania",
+        "polish_froteryzm_intelektualny",
         "polish_gruby_dzienniczek",
+        "polish_ikonka_na_pulpicie",
         "polish_koniec_epoki_pudelek",
         "polish_kubek",
         "polish_mamy_trupa_i_co_dalej",
         "polish_maria_skodowska_curie",
         "polish_obserwator",
+        "polish_odpowiedzialnosc",
+        "polish_poltora_metra",
+        "polish_powrot",
         "polish_prolog_wiatru",
+        "polish_samolot",
         "polish_synchronicznosc",
+        "polish_algorytm_szczescia",
+        "polish_betonowy_dom",
+        "polish_buty",
         "polish_cena_widoku",
         "polish_czarna_plachta",
         "polish_czarny_rynek_tokenow",
+        "polish_garnek_na_glowie",
+        "polish_iskra",
+        "polish_martwe_oczy",
         "polish_misja_ktora_pekla",
+        "polish_powrot_siebie",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_susza",
+        "polish_szpital_poludniowy",
+        "polish_trzy_godziny",
         "polish_worek_z_piaskiem",
         "polish_zakazana_energia",
         "polish_boliewicz",
@@ -219,34 +279,41 @@
         "polish_cisza_przed_burza",
         "polish_czarny_kodeks",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+        "polish_drugie_dno",
+        "polish_drugie_kolo",
         "polish_dylemat_szatniarza",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
+        "polish_granice_imperium",
         "polish_jak_bor_z_jasnego_nieba",
         "polish_kamien_pamieci",
         "polish_kontrolowana_halucynacja",
+        "polish_kot_1011",
         "polish_metoda_feynmana",
+        "polish_nowy_pacjent",
+        "polish_ofiary",
         "polish_zielona_poswiata",
         "polish_glosy_z_ziemi",
+        "polish_groby",
         "polish_kamera_na_ulicy",
         "polish_nadwyzka"
       ]
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 56,
-    "totalWords": 77610,
-    "totalEstimatedReadingTimeMinutes": 421,
+    "totalPacks": 82,
+    "totalWords": 112625,
+    "totalEstimatedReadingTimeMinutes": 608,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 18,
+    "categoryCount": 21,
     "largestPack": {
-      "id": "polish_na_targu",
-      "bookId": "na-targu",
-      "wordCount": 2501
+      "id": "polish_nowy_pacjent",
+      "bookId": "nowy-pacjent",
+      "wordCount": 3979
     },
     "newestPack": {
-      "id": "polish_czarna_plachta",
-      "bookId": "czarna-plachta",
+      "id": "polish_algorytm_szczescia",
+      "bookId": "algorytm-szczescia",
       "updated": "2026-07-12"
     },
     "oldestPack": {
@@ -256,6 +323,73 @@
     }
   },
   "packs": [
+    {
+      "id": "polish_algorytm_szczescia",
+      "bookId": "algorytm-szczescia",
+      "path": "official/glagolitic/pl/algorytm-szczescia",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Algorytm szczęścia",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "philosophy",
+        "technology",
+        "short_story"
+      ],
+      "coverFamily": "philosophy",
+      "subtitle": "Kod, Ewa i pytanie bez odpowiedzi",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_betonowy_dom",
+      "bookId": "betonowy-dom",
+      "path": "official/glagolitic/pl/betonowy-dom",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Betonowy dom",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Gry relacyjne i betonowe ściany",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_blitzkrieg",
+      "bookId": "blitzkrieg",
+      "path": "official/glagolitic/pl/blitzkrieg",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Blitzkrieg",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Randki, czerwone flagi i strach przed pustką",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
     {
       "id": "polish_boliewicz",
       "bookId": "boliewicz",
@@ -298,6 +432,28 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_buty",
+      "bookId": "buty",
+      "path": "official/glagolitic/pl/buty",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Buty",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "medicine",
+        "short_story"
+      ],
+      "coverFamily": "medicine",
+      "subtitle": "Cukrzyca, martwy palec i wybór",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -607,6 +763,52 @@
       "featured": true
     },
     {
+      "id": "polish_drugie_dno",
+      "bookId": "drugie-dno",
+      "path": "official/glagolitic/pl/drugie-dno",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Drugie dno",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "medicine",
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "medicine",
+      "subtitle": "Kortyzol, jelita i rozwód Darka",
+      "audience": "adult",
+      "trustClassification": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_drugie_kolo",
+      "bookId": "drugie-kolo",
+      "path": "official/glagolitic/pl/drugie-kolo",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Drugie koło",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "history",
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Wołyń, komentarze i Olena",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_dylemat_szatniarza",
       "bookId": "dylemat-szatniarza",
       "path": "official/glagolitic/pl/dylemat-szatniarza",
@@ -626,6 +828,28 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_dzien_z_reszty_zycia",
+      "bookId": "dzien-z-reszty-zycia",
+      "path": "official/glagolitic/pl/dzien-z-reszty-zycia",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dzień z reszty życia",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Granica, pasta i wybór",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 5,
       "featured": true
     },
     {
@@ -673,6 +897,50 @@
       "featured": true
     },
     {
+      "id": "polish_froteryzm_intelektualny",
+      "bookId": "froteryzm-intelektualny",
+      "path": "official/glagolitic/pl/froteryzm-intelektualny",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Froteryzm intelektualny",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "25 lat małżeństwa i czytanie intencji",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_garnek_na_glowie",
+      "bookId": "garnek-na-glowie",
+      "path": "official/glagolitic/pl/garnek-na-glowie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Garnek na głowie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "science_fiction",
+        "short_story"
+      ],
+      "coverFamily": "science_fiction",
+      "subtitle": "Montauk, Camp Hero i wymazana pamięć",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
       "id": "polish_glosy_z_ziemi",
       "bookId": "glosy-z-ziemi",
       "path": "official/glagolitic/pl/glosy-z-ziemi",
@@ -695,6 +963,51 @@
       "featured": true
     },
     {
+      "id": "polish_granice_imperium",
+      "bookId": "granice-imperium",
+      "path": "official/glagolitic/pl/granice-imperium",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Granice Imperium",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "history",
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Wykład, zdrada i granice małżeństwa",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_groby",
+      "bookId": "groby",
+      "path": "official/glagolitic/pl/groby",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Groby",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Jedwabne, archiwum i trudna prawda",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 7,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
       "id": "polish_gruby_dzienniczek",
       "bookId": "gruby-dzienniczek",
       "path": "official/glagolitic/pl/gruby-dzienniczek",
@@ -714,6 +1027,50 @@
       "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_ikonka_na_pulpicie",
+      "bookId": "ikonka-na-pulpicie",
+      "path": "official/glagolitic/pl/ikonka-na-pulpicie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ikonka na pulpicie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Małżeństwo, ikonka i pytanie zamiast zgadywania",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_iskra",
+      "bookId": "iskra",
+      "path": "official/glagolitic/pl/iskra",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Iskra",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "legends"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Koszmar, piloci i imiona z historii",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -756,6 +1113,28 @@
       "audience": "family",
       "trustClassification": "instruction",
       "difficulty": 2,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_kakuter_i_chomik",
+      "bookId": "kakuter-i-chomik",
+      "path": "official/glagolitic/pl/kakuter-i-chomik",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kąkuter i chomik",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Prokrastynacja, telefon i małe kroki",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
       "estimatedReadingTime": 6,
       "featured": true
     },
@@ -847,6 +1226,28 @@
       "featured": true
     },
     {
+      "id": "polish_kot_1011",
+      "bookId": "kot-1011",
+      "path": "official/glagolitic/pl/kot-1011",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kot 1011",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "philosophy",
+        "short_story"
+      ],
+      "coverFamily": "philosophy",
+      "subtitle": "Przebudzenie, Sirun i syriańskie kody",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_kubek",
       "bookId": "kubek",
       "path": "official/glagolitic/pl/kubek",
@@ -931,6 +1332,28 @@
       "trustClassification": "adapted_from_real_events",
       "difficulty": 4,
       "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_martwe_oczy",
+      "bookId": "martwe-oczy",
+      "path": "official/glagolitic/pl/martwe-oczy",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Martwe oczy",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Urok, pustka i intuicja",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -1044,6 +1467,28 @@
       "featured": true
     },
     {
+      "id": "polish_nowy_pacjent",
+      "bookId": "nowy-pacjent",
+      "path": "official/glagolitic/pl/nowy-pacjent",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Nowy pacjent",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "medicine",
+        "short_story"
+      ],
+      "coverFamily": "medicine",
+      "subtitle": "HOMA, otyłość i profesor Czupryniak",
+      "audience": "adult",
+      "trustClassification": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 20,
+      "featured": true
+    },
+    {
       "id": "polish_obserwator",
       "bookId": "obserwator",
       "path": "official/glagolitic/pl/obserwator",
@@ -1087,6 +1532,50 @@
       "featured": true
     },
     {
+      "id": "polish_odpowiedzialnosc",
+      "bookId": "odpowiedzialnosc",
+      "path": "official/glagolitic/pl/odpowiedzialnosc",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Odpowiedzialność",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Zwolnienia, wybór i uczciwa firma",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_ofiary",
+      "bookId": "ofiary",
+      "path": "official/glagolitic/pl/ofiary",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ofiary",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Wołyń, listy i pamięć bez nienawiści",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 6,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_pierwszy_lot_na_marsa",
       "bookId": "pierwszy-lot-na-marsa",
       "path": "official/glagolitic/pl/pierwszy-lot-na-marsa",
@@ -1105,6 +1594,72 @@
       "trustClassification": "popular_science",
       "difficulty": 3,
       "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_poltora_metra",
+      "bookId": "poltora-metra",
+      "path": "official/glagolitic/pl/poltora-metra",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Półtora metra",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Maszynista, sen i wybór",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_powrot",
+      "bookId": "powrot",
+      "path": "official/glagolitic/pl/powrot",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Powrót",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Wiza, tożsamość i dom w sercu",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_powrot_siebie",
+      "bookId": "powrot-siebie",
+      "path": "official/glagolitic/pl/powrot-siebie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Powrót do siebie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "philosophy",
+        "short_story"
+      ],
+      "coverFamily": "philosophy",
+      "subtitle": "Materialista, światło i jedność",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -1217,6 +1772,28 @@
       "featured": true
     },
     {
+      "id": "polish_samolot",
+      "bookId": "samolot",
+      "path": "official/glagolitic/pl/samolot",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Samolot",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "ADHD, hiperfokus i odrzucenie wrażliwe",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_siedem_gor_i_jeden_ocean",
       "bookId": "siedem-gor-i-jeden-ocean",
       "path": "official/glagolitic/pl/siedem-gor-i-jeden-ocean",
@@ -1302,6 +1879,72 @@
       "trustClassification": "fiction",
       "difficulty": 4,
       "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_szpital_poludniowy",
+      "bookId": "szpital-poludniowy",
+      "path": "official/glagolitic/pl/szpital-poludniowy",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Szpital południowy",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "medicine",
+        "short_story"
+      ],
+      "coverFamily": "medicine",
+      "subtitle": "Chirurg, system i odwaga mówienia",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_taniec",
+      "bookId": "taniec",
+      "path": "official/glagolitic/pl/taniec",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Taniec",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "everyday_live",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Hmong, gotówka i powrót do korzeni",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 4,
+      "featured": true
+    },
+    {
+      "id": "polish_trzy_godziny",
+      "bookId": "trzy-godziny",
+      "path": "official/glagolitic/pl/trzy-godziny",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Trzy godziny",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Wiśniowiecki, Beresteczko i odwaga decyzji",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_poltora_metra",
+  "bookId": "poltora-metra",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja inspirowana realiami pracy maszynisty; sceny na torach są dramatyzacją, nie reportażem."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "yszvxTiXKrg"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

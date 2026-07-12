@@ -1,0 +1,22 @@
+{
+  "packId": "polish_granice_imperium",
+  "bookId": "granice-imperium",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja łącząca historię militarną z terapią małżeńską; wydarzenia wojenne są narracją edukacyjną, nie prognozą."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "v95kpHsD5Hk"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}
