@@ -1,0 +1,22 @@
+{
+  "packId": "polish_swieci_wojownicy",
+  "bookId": "swieci-wojownicy",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Eseistyczna fikcja inspirowana podcastem Atora i Artura Wójtowicza; odniesienia historyczne (berserkerzy, II wojna światowa, islam) w narracji dorosłego bohatera — nie lekcja historii."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "-vRABYN-UAA"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

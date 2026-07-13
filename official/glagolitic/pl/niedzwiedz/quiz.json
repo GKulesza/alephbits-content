@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Od czego zaczyna się kłótnia Kuby i Marty?",
+      "answers": [
+        "Od rachunków",
+        "Od tego, że Kuba nie opróżnił zmywarki",
+        "Od telewizora",
+        "Od wizyty teściów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta mówi: „Znowu nie opróżniłeś” — i dodaje: „Nie chodzi o zmywarkę.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Kammel nazywa „czwartym jeźdźcem apokalipsy” w związku?",
+      "answers": [
+        "Krytykę",
+        "Pogardę",
+        "Milczenie",
+        "Zazdrość"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel mówi o pogardzie — gdy mówisz „jesteś beznadziejny” zamiast oceniać zachowanie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego sygnał ma brzmieć „niedźwiedź”, a nie „miś”?",
+      "answers": [
+        "Bo miś jest zbyt poważny",
+        "Bo miś jest słodki i nieadekwatny — niedźwiedzia nie da się zignorować",
+        "Bo Marta lubi niedźwiedzie",
+        "Bo to żart z nazwiska Kammla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel tłumaczy: miś jest słodki i można go zlekceważyć; niedźwiedź zatrzymuje wszystko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kuba mówi Marcie w sypialni zamiast atakować?",
+      "answers": [
+        "Że ona zawsze zaczyna",
+        "Że czuje się, jakby ją zawodził codziennie i nie wie, jak to naprawić",
+        "Że idzie spać na kanapie",
+        "Że zmywarka może poczekać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuba mówi o sobie: „Czuję się, jakbym cię zawodził. Codziennie. I nie wiem, jak to naprawić.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marta przykleja na lodówce?",
+      "answers": [
+        "Listę zakupów",
+        "Kartkę: „Jeśli się pokłócimy, krzyczę NIEDŹWIEDŹ”",
+        "Zdjęcie z wakacji",
+        "Harmonogram obowiązków"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na lodówce wisi kartka z napisem o krzyku „NIEDŹWIEDŹ”."
+    }
+  ]
+}

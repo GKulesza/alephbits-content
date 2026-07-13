@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O czym Adam chce rozmawiać z Ewą w kawiarni?",
+      "answers": [
+        "O wakacjach syna",
+        "O ustaleniu kwoty alimentów bez sądu",
+        "O powrocie do małżeństwa",
+        "O sprzedaży mieszkania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam otwiera: „Chciałem porozmawiać o alimentach... ustalić kwotę bez sądu.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką zagrywkę Ewa stosuje, mówiąc „Robisz z igły widły”?",
+      "answers": [
+        "Pytanie na pytanie",
+        "Bagatelizowanie tematu",
+        "Zmianę tematu na wakacje",
+        "Odwrócenie zarzutu"
+      ],
+      "correctIndex": 1,
+      "explanation": "To bagatelizowanie — „to tylko alimenty, wszyscy jakoś je płacą”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką kwotę alimentów Adam proponuje u mediatora?",
+      "answers": [
+        "Tysiąc złotych",
+        "Tysiąc dwieście złotych plus połowa wydatków na szkołę i leczenie",
+        "Dwa tysiące pięćset złotych",
+        "Pięćset złotych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam proponuje 1200 zł miesięcznie plus połowa wydatków na szkołę i leczenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Adam robi, gdy Ewa mówi „A ty to niby na co tyle wydajesz?”",
+      "answers": [
+        "Wychodzi z sali",
+        "Mówi, że teraz rozmawiają o alimentach i mogą wrócić do tamtego tematu później",
+        "Przyznaje się do winy",
+        "Krzyczy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam spokojnie wraca do tematu: „Ale teraz rozmawiamy o alimentach.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Na jaką kwotę w końcu się umawiają?",
+      "answers": [
+        "Tysiąc dwieście złotych",
+        "Tysiąc pięćset plus połowa wydatków na szkołę i leczenie",
+        "Dwa tysiące złotych",
+        "Tysiąc osiemset złotych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam pisze: „Ustaliliśmy tysiąc pięćset plus połowa wydatków na szkołę i leczenie.”"
+    }
+  ]
+}

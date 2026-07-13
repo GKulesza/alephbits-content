@@ -1,0 +1,1036 @@
+{
+  "Opowieści z poprzedniego życia": {
+    "manuscript_title": "Opowieści z poprzedniego życia",
+    "slug": "opowiesci-z-poprzedniego-zycia",
+    "pack_id": "polish_opowiesci_z_poprzedniego_zycia",
+    "display_title": "Opowieści z poprzedniego życia",
+    "subtitle": "Pamięć, która może nie być twoja",
+    "blurb": "Trzyletni Franek mówi o samolocie Corsair i pilocie Danielu Rakowieckim — zanim matka zdąży sama znaleźć to nazwisko w archiwach. Anna szuka odpowiedzi u psychologa, który tłumaczy kryptomnezję i błąd potwierdzenia. Opowieść o tym, że dziecięca pamięć może być prawdziwa, nawet gdy jej źródło jest inne, niż się wydaje.",
+    "genres": "short_story, psychology, family",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "pamięć, dzieciństwo, reinkarnacja, kryptomnezja, Collection Nine",
+    "keywords": "Opowieści z poprzedniego życia, Franek, Corsair, kryptomnezja, Anna",
+    "editorial_notes": "Fikcja psychologiczna o dziecięcej pamięci; nie jest dowodem na reinkarnację — narracja edukacyjna o mechanizmach pamięci.",
+    "inspiration": "Motyw wspomnień z poprzedniego życia i naukowe wyjaśnienia kryptomnezji oraz błędu potwierdzenia.",
+    "philosophy_stars": 5,
+    "philosophy_note": "Bardzo dobre dopasowanie — pytanie o naturę pamięci, wiary i racjonalizacji bez sensacji.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["memory", "childhood", "family", "question", "rebirth"],
+    "quiz": [
+      {
+        "question": "Co Franek mówi o samolocie, gdy w telewizji pojawia się bombowiec?",
+        "answers": [
+          "Że latał nim wczoraj",
+          "Że jego samolot się palił i że to był Corsair",
+          "Że widział go w muzeum",
+          "Że to był samolot dziadka"
+        ],
+        "correct": "B",
+        "explanation": "Franek mówi spokojnie: „Mój samolot się palił – to był Corsair. Nie wróciłem na lotniskowiec.”",
+        "reference": "Mój samolot się palił"
+      },
+      {
+        "question": "Jakie nazwisko pilota Anna znajduje w archiwach wojskowych?",
+        "answers": [
+          "Jack Larsen",
+          "Daniel Rakowiecki",
+          "Michał Kosakowski",
+          "Piotr Wójcik"
+        ],
+        "correct": "B",
+        "explanation": "Na liście pilotów poległych w bitwie o Iwo Jimę pojawia się Daniel Rakowiecki z Detroit.",
+        "reference": "Daniela Rakowieckiego"
+      },
+      {
+        "question": "Jakie wyjaśnienie proponuje doktor Kosakowski?",
+        "answers": [
+          "Że Franek na pewno był pilotem w poprzednim życiu",
+          "Że mózg złożył strzępy informacji w spójną historię — kryptomnezja i rekonstrukcja pamięci",
+          "Że Franek udaje z nudów",
+          "Że to efekt hipnozy w przedszkolu"
+        ],
+        "correct": "B",
+        "explanation": "Kosakowski tłumaczy kryptomnezję: umysł zapomina źródło informacji, ale składa je w jedną narrację.",
+        "reference": "kryptomnezji"
+      },
+      {
+        "question": "Co Kosakowski nazywa błędem potwierdzenia?",
+        "answers": [
+          "Zapominaniem imion bliskich",
+          "Selektywnym zbieraniem dowodów na historię, w którą już wierzymy",
+          "Fałszywym wspomnieniem po hipnozie",
+          "Błędem w archiwach wojskowych"
+        ],
+        "correct": "B",
+        "explanation": "Gdy coś wydaje się prawdziwe, zaczynamy zbierać tylko dowody „za”, a sprzeczności ignorować.",
+        "reference": "błąd potwierdzenia"
+      },
+      {
+        "question": "Co Anna szepcze Frankowi na końcu?",
+        "answers": [
+          "Że musi zapomnieć o samolocie",
+          "Kimkolwiek byłeś — teraz jesteś mój",
+          "Że jutro idą do muzeum",
+          "Że ojciec też był pilotem"
+        ],
+        "correct": "B",
+        "explanation": "Anna całuje syna i mówi: „Kimkolwiek byłeś – teraz jesteś mój.”",
+        "reference": "teraz jesteś mój"
+      }
+    ]
+  },
+  "Czterech w łódce": {
+    "manuscript_title": "Czterech w łódce",
+    "slug": "czterech-w-lodce",
+    "pack_id": "polish_czterech_w_lodce",
+    "display_title": "Czterech w łódce",
+    "subtitle": "Równy podział i nierówny los",
+    "blurb": "Tomek budzi się do wyników Kanału Sportowego — spadek o jedną trzecią, strata, a obok sukces Krzyśka z Kanału Zero. Wraca myślami do Mazur, gdzie czterech wspólników podzieliło firmę po 25% i wierzyło, że sprawiedliwość wystarczy. Opowieść o tym, dlaczego równy podział udziałów nie chroni przed rozstaniem.",
+    "genres": "article, everyday_live, business",
+    "cover_family": "article",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Inspired by reality",
+    "tags": "startup, wspólnicy, YouTube, biznes, Collection Nine",
+    "keywords": "Czterech w łódce, Kanał Sportowy, wspólnicy, Krzysiek Stanowski, Tomek",
+    "editorial_notes": "Artykuł inspirowany realnymi nazwami branży medialnej; founder review P1 przed promocją.",
+    "inspiration": "Historia polskich kanałów sportowych i metafora czterech wspólników w łódce.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobre dopasowanie — lekcja o strukturze władzy, ego i odpowiedzialności w biznesie.",
+    "founder_notes": [
+      "Founder note P1: cytowane realne nazwiska branży (Stanowski, Felkner, mPay)."
+    ],
+    "series": "Collection Nine",
+    "motifs": ["ship", "betrayal", "pride", "storm", "letter"],
+    "quiz": [
+      {
+        "question": "Jaki był przychód Kanału Sportowego w 2025 roku według wyników?",
+        "answers": [
+          "Dziewięć i dziewięć dziesiątych miliona złotych",
+          "Dwa miliardy złotych",
+          "Pięć milionów złotych",
+          "Jeden milion złotych"
+        ],
+        "correct": "A",
+        "explanation": "Tomek czyta: dziewięć i dziewięć dziesiątych miliona przychodu i trzysta tysięcy straty.",
+        "reference": "Dziewięć i dziewięć dziesiątych"
+      },
+      {
+        "question": "Jak podzielili udziały na Mazurach?",
+        "answers": [
+          "Jeden miał 51%, reszta po 16%",
+          "Czterech po 25%",
+          "Dwóch po 50%",
+          "Trzech po 33%"
+        ],
+        "correct": "B",
+        "explanation": "Na serwetce zapisali: „KS – udziały: 4 x 25%”.",
+        "reference": "4 x 25%"
+      },
+      {
+        "question": "Jaki był wynik głosowania o dalszym rozwoju kanału?",
+        "answers": [
+          "Trzy do jednego",
+          "Dwa do dwóch — remis",
+          "Jednogłośnie za",
+          "Wszyscy przeciw Krzyśkowi"
+        ],
+        "correct": "B",
+        "explanation": "Zagłosowali i wyszło dwa do dwóch — remis bez większości decyzyjnej.",
+        "reference": "Dwa do dwóch"
+      },
+      {
+        "question": "Co Sebastian Felkner mówi o wspólnikach?",
+        "answers": [
+          "Że każdy powinien mieć po równo",
+          "Że bierze pracowników z warunkami jak wspólnicy, ale bez prawa głosu przy decyzjach",
+          "Że wspólnicy są konieczni",
+          "Że nigdy nie zakłada firm"
+        ],
+        "correct": "B",
+        "explanation": "Sebastian mówi, że daje pracownikom warunki jak wspólnikom, ale bez głosu przy decyzjach.",
+        "reference": "nie biorę wspólników"
+      },
+      {
+        "question": "Co Krzysiek odpowiada Tomkowi na końcu korespondencji?",
+        "answers": [
+          "Że chce wrócić do Kanału Sportowego",
+          "Że następnym razem nie będzie wspólników",
+          "Że winny jest Tomek",
+          "Że sprzedadzą kanał"
+        ],
+        "correct": "B",
+        "explanation": "Krzysiek odpisuje: „Następnym razem – nie będzie wspólników.”",
+        "reference": "nie będzie wspólników"
+      }
+    ]
+  },
+  "Igła z widły": {
+    "manuscript_title": "Igła z widły",
+    "slug": "igla-z-widly",
+    "pack_id": "polish_igla_z_widly",
+    "display_title": "Igła z widły",
+    "subtitle": "Gdy rozmowa odciąga od tematu",
+    "blurb": "Adam przegrywa każdą rozmowę z byłą żoną Ewą — nie dlatego, że nie ma racji, ale dlatego, że ona odwraca temat, bagatelizuje i atakuje. Po filmie Karoliny Gorczycy-Barszczewskiej uczy się nazywać zagrywki i wracać do sedna. Opowieść o alimentach, manipulacji i odzyskaniu prawa do własnego zdania.",
+    "genres": "short_story, psychology, everyday_live",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "manipulacja, rozwód, alimenty, komunikacja, Collection Nine",
+    "keywords": "Igła z widły, Adam, Ewa, alimenty, manipulacja",
+    "editorial_notes": "Fikcja o technikach manipulacji w rozmowie; część serii Kammel — komunikacja.",
+    "inspiration": "Motyw „igły z widły” i materiały o obronie granic w rozmowie.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Praktyczna opowieść o asertywności bez moralizowania o intencjach drugiej strony.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["question", "anger", "family", "betrayal", "reconciliation"],
+    "quiz": [
+      {
+        "question": "O czym Adam chce rozmawiać z Ewą w kawiarni?",
+        "answers": [
+          "O wakacjach syna",
+          "O ustaleniu kwoty alimentów bez sądu",
+          "O powrocie do małżeństwa",
+          "O sprzedaży mieszkania"
+        ],
+        "correct": "B",
+        "explanation": "Adam otwiera: „Chciałem porozmawiać o alimentach... ustalić kwotę bez sądu.”",
+        "reference": "alimentach"
+      },
+      {
+        "question": "Jaką zagrywkę Ewa stosuje, mówiąc „Robisz z igły widły”?",
+        "answers": [
+          "Pytanie na pytanie",
+          "Bagatelizowanie tematu",
+          "Zmianę tematu na wakacje",
+          "Odwrócenie zarzutu"
+        ],
+        "correct": "B",
+        "explanation": "To bagatelizowanie — „to tylko alimenty, wszyscy jakoś je płacą”.",
+        "reference": "Robisz z igły widły"
+      },
+      {
+        "question": "Jaką kwotę alimentów Adam proponuje u mediatora?",
+        "answers": [
+          "Tysiąc złotych",
+          "Tysiąc dwieście złotych plus połowa wydatków na szkołę i leczenie",
+          "Dwa tysiące pięćset złotych",
+          "Pięćset złotych"
+        ],
+        "correct": "B",
+        "explanation": "Adam proponuje 1200 zł miesięcznie plus połowa wydatków na szkołę i leczenie.",
+        "reference": "tysiąc dwieście"
+      },
+      {
+        "question": "Co Adam robi, gdy Ewa mówi „A ty to niby na co tyle wydajesz?”",
+        "answers": [
+          "Wychodzi z sali",
+          "Mówi, że teraz rozmawiają o alimentach i mogą wrócić do tamtego tematu później",
+          "Przyznaje się do winy",
+          "Krzyczy"
+        ],
+        "correct": "B",
+        "explanation": "Adam spokojnie wraca do tematu: „Ale teraz rozmawiamy o alimentach.”",
+        "reference": "teraz rozmawiamy o alimentach"
+      },
+      {
+        "question": "Na jaką kwotę w końcu się umawiają?",
+        "answers": [
+          "Tysiąc dwieście złotych",
+          "Tysiąc pięćset plus połowa wydatków na szkołę i leczenie",
+          "Dwa tysiące złotych",
+          "Tysiąc osiemset złotych"
+        ],
+        "correct": "B",
+        "explanation": "Adam pisze: „Ustaliliśmy tysiąc pięćset plus połowa wydatków na szkołę i leczenie.”",
+        "reference": "tysiąc pięćset"
+      }
+    ]
+  },
+  "Mowa": {
+    "manuscript_title": "Mowa",
+    "slug": "mowa",
+    "pack_id": "polish_mowa",
+    "display_title": "Mowa",
+    "subtitle": "Głos, który znika pod oczami obcych",
+    "blurb": "Marcin przy slajdach kwartalnych zacina się, poci się i czuje, że jego głos nie należy do niego. U Tomasza Kammla uczy się, że strach przed oceną zastępuje myślenie o słuchaczach. Trzy miesiące później wygłasza mowę pożegnalną dla mentora — tym razem jak człowiek, nie jak prezenter.",
+    "genres": "short_story, psychology, biography",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "wystąpienia publiczne, strach, Kammel, komunikacja, Collection Nine",
+    "keywords": "Mowa, Marcin, Tomasz Kammel, prezentacja, lęk",
+    "editorial_notes": "Fikcja o strachu przed wystąpieniami; część serii Kammel — komunikacja.",
+    "inspiration": "Motyw utraty głosu pod presją oceny i lekcje komunikacji Tomasza Kammla.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna opowieść o autentyczności zamiast perfekcji scenicznej.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["fear", "courage", "mentor", "theatre", "family"],
+    "quiz": [
+      {
+        "question": "Czego Marcin boi się najbardziej w kontekście mikrofonu?",
+        "answers": [
+          "Że zapomni tekstu slajdów",
+          "Że cisza wzmacnia jego niepewność i że ktoś oceni, że nie powinien tu być",
+          "Że mikrofon jest za głośny",
+          "Że szef go zwolni"
+        ],
+        "correct": "B",
+        "explanation": "Kammel mówi, że ludzie boją się oceny: „Co on tu robi? Nie powinno go tu być.”",
+        "reference": "boją się oceny"
+      },
+      {
+        "question": "Co Kammel radzi zamiast mówić „jestem zdenerwowany”?",
+        "answers": [
+          "Powiedzieć „jestem zmęczony”",
+          "Powiedzieć „jestem pobudzony”",
+          "Nie mówić nic",
+          "Przeprosić publicznie"
+        ],
+        "correct": "B",
+        "explanation": "Marcin zapisuje: nie mów „zdenerwowany”, mów „pobudzony” — biochemia się zmienia.",
+        "reference": "jestem pobudzony"
+      },
+      {
+        "question": "O czym Kammel prosi Marcina na końcu pierwszej lekcji?",
+        "answers": [
+          "O recytację slajdów",
+          "O opowiedzenie o dzieciach tak, jak przy kolacji — nie na scenie",
+          "O ćwiczenie przed lustrem",
+          "O nagranie wideo"
+        ],
+        "correct": "B",
+        "explanation": "Tomasz prosi: opowiedz o dzieciach tak, jak w domu, nie jak na scenie.",
+        "reference": "jak przy kolacji"
+      },
+      {
+        "question": "Jak Marcin zaczyna mowę pożegnalną dla Andrzeja?",
+        "answers": [
+          "Od przeprosin za zacięcie",
+          "Od żartu, że pomylił Andrzeja z ochroniarzem",
+          "Od czytania slajdów",
+          "Od cytatu z książki"
+        ],
+        "correct": "B",
+        "explanation": "Zaczyna: „Kiedy pierwszy raz spotkałem Andrzeja – pomyliłem go z ochroniarzem.”",
+        "reference": "pomyliłem go z ochroniarzem"
+      },
+      {
+        "question": "Co mówi córka dyrektora po wystąpieniu?",
+        "answers": [
+          "Że prezentacja była za długa",
+          "Że mówił pan o tacie tak, jakby go pan naprawdę znał",
+          "Że powinien wrócić do slajdów",
+          "Że nie rozumiała żartu"
+        ],
+        "correct": "B",
+        "explanation": "Córka mówi: „Mówił pan o tacie tak, jakby go pan naprawdę znał.”",
+        "reference": "naprawdę znał"
+      }
+    ]
+  },
+  "Niedźwiedź": {
+    "manuscript_title": "Niedźwiedź",
+    "slug": "niedzwiedz",
+    "pack_id": "polish_niedzwiedz",
+    "display_title": "Niedźwiedź",
+    "subtitle": "Słowo, które zatrzymuje kłótnię",
+    "blurb": "Kłótnia Kuby i Marty zaczyna się od zmywarki, ale chodzi o coś głębszego — o obecność i pogardę. Po podcaście Tomasza Kammla Kuba słyszy o słowie „niedźwiedź”, które zatrzymuje eskalację. Krótka opowieść o tym, jak jeden sygnał i jedno zdanie o uczuciach mogą przerwać spiralę.",
+    "genres": "short_story, psychology, everyday_live",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "małżeństwo, kłótnia, Kammel, komunikacja, Collection Nine",
+    "keywords": "Niedźwiedź, Kuba, Marta, kłótnia, Gottman",
+    "editorial_notes": "Fikcja o komunikacji w małżeństwie; krótsza wersja — import zamiast „Niedźwiedź numer dwa”.",
+    "inspiration": "Technika „niedźwiedzia” i nauki Johna Gottmana o pogardzie w związku.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Zwięzła, praktyczna metafora o przerwie w konflikcie i języku emocji.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["bear", "marriage", "anger", "reconciliation", "home"],
+    "quiz": [
+      {
+        "question": "Od czego zaczyna się kłótnia Kuby i Marty?",
+        "answers": [
+          "Od rachunków",
+          "Od tego, że Kuba nie opróżnił zmywarki",
+          "Od telewizora",
+          "Od wizyty teściów"
+        ],
+        "correct": "B",
+        "explanation": "Marta mówi: „Znowu nie opróżniłeś” — i dodaje: „Nie chodzi o zmywarkę.”",
+        "reference": "nie opróżniłeś"
+      },
+      {
+        "question": "Kogo Kammel nazywa „czwartym jeźdźcem apokalipsy” w związku?",
+        "answers": [
+          "Krytykę",
+          "Pogardę",
+          "Milczenie",
+          "Zazdrość"
+        ],
+        "correct": "B",
+        "explanation": "Kammel mówi o pogardzie — gdy mówisz „jesteś beznadziejny” zamiast oceniać zachowanie.",
+        "reference": "pogardę"
+      },
+      {
+        "question": "Dlaczego sygnał ma brzmieć „niedźwiedź”, a nie „miś”?",
+        "answers": [
+          "Bo miś jest zbyt poważny",
+          "Bo miś jest słodki i nieadekwatny — niedźwiedzia nie da się zignorować",
+          "Bo Marta lubi niedźwiedzie",
+          "Bo to żart z nazwiska Kammla"
+        ],
+        "correct": "B",
+        "explanation": "Kammel tłumaczy: miś jest słodki i można go zlekceważyć; niedźwiedź zatrzymuje wszystko.",
+        "reference": "Nie „miś”"
+      },
+      {
+        "question": "Co Kuba mówi Marcie w sypialni zamiast atakować?",
+        "answers": [
+          "Że ona zawsze zaczyna",
+          "Że czuje się, jakby ją zawodził codziennie i nie wie, jak to naprawić",
+          "Że idzie spać na kanapie",
+          "Że zmywarka może poczekać"
+        ],
+        "correct": "B",
+        "explanation": "Kuba mówi o sobie: „Czuję się, jakbym cię zawodził. Codziennie. I nie wiem, jak to naprawić.”",
+        "reference": "czuję się, jakbym cię zawodził"
+      },
+      {
+        "question": "Co Marta przykleja na lodówce?",
+        "answers": [
+          "Listę zakupów",
+          "Kartkę: „Jeśli się pokłócimy, krzyczę NIEDŹWIEDŹ”",
+          "Zdjęcie z wakacji",
+          "Harmonogram obowiązków"
+        ],
+        "correct": "B",
+        "explanation": "Na lodówce wisi kartka z napisem o krzyku „NIEDŹWIEDŹ”.",
+        "reference": "krzyczę NIEDŹWIEDŹ"
+      }
+    ]
+  },
+  "Sprawa": {
+    "manuscript_title": "Sprawa",
+    "slug": "sprawa",
+    "pack_id": "polish_sprawa",
+    "display_title": "Sprawa",
+    "subtitle": "Pytanie, za które przyszła policja",
+    "blurb": "Przemek i Darek idą na Uniwersytet Ekonomiczny w Poznaniu zapytać o tani wynajem i firmę legalizacyjną. Tydzień później o szóstej rano policja puka do drzwi — kajdanki, zdjęcie na profilu komendy, zarzut z art. 212. Opowieść o zastraszaniu obywateli i o Pawle Wyżżykowskim, który mówi prawdę mimo listy śmierci.",
+    "genres": "article, everyday_live, history",
+    "cover_family": "article",
+    "audience": "adult",
+    "difficulty": 7,
+    "reader_stars": "★★★☆☆",
+    "trust": "Inspired by reality",
+    "tags": "UEP, areszt, Myrotworec, prawo, Collection Nine",
+    "keywords": "Sprawa, Przemek, UEP, art. 212, Wyżżykowski",
+    "editorial_notes": "Artykuł inspirowany realnymi wydarzeniami; P0 founder review — polityka, areszt, lista Myrotworec.",
+    "inspiration": "Incydent na UEP w Poznaniu i nagłośnienie sprawy przez Pawła Wyżżykowskiego.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Wrażliwy temat polityczny — wymaga disclaimera „Inspired by reality” i founder review.",
+    "founder_notes": [
+      "P0 founder review: narracja aresztu inspirowana rzeczywistością; polityka migracyjna i UEP.",
+      "Seria uep_questioning — companion do Próg."
+    ],
+    "series": "Collection Nine",
+    "motifs": ["question", "fear", "courage", "betrayal", "home"],
+    "quiz": [
+      {
+        "question": "Dlaczego Przemek i Darek idą na UEP?",
+        "answers": [
+          "Na egzamin",
+          "Żeby zapytać o wynajem biura za jedną trzecią ceny rynkowej i firmę legalizacyjną",
+          "Na demonstrację",
+          "Po indeks"
+        ],
+        "correct": "B",
+        "explanation": "Czytają, że ukraińska firma wynajmuje biuro za jedną trzecią ceny rynkowej i legalizuje pobyt.",
+        "reference": "jedną trzecią ceny"
+      },
+      {
+        "question": "O jakim czynie z Kodeksu karnego mowa w protokole?",
+        "answers": [
+          "Art. 190 — groźba",
+          "Art. 212 — publiczne pomówienie",
+          "Art. 279 — kradzież",
+          "Art. 148 — zabójstwo"
+        ],
+        "correct": "B",
+        "explanation": "Protokół dotyczy art. 212 k.k. — prywatnoskargowy, grozi grzywna.",
+        "reference": "art. 212"
+      },
+      {
+        "question": "Jak Przemek jest traktowany podczas zatrzymania?",
+        "answers": [
+          "Dostaje wezwanie listowne",
+          "Kajdanki z tyłu, zdjęcia na profilu policji, przesłuchanie w kajdankach",
+          "Dostaje mandat na miejscu",
+          "Jest puszczany po godzinie"
+        ],
+        "correct": "B",
+        "explanation": "Walą o szóstej, kajdanki z tyłu, zdjęcia „zatrzymany” na profilu komendy.",
+        "reference": "zatrzymany"
+      },
+      {
+        "question": "Na jakiej liście jest Paweł Wyżżykowski?",
+        "answers": [
+          "Liście wyborców PE",
+          "Ukraińskiej liście Myrotworec — ludzi do zabicia",
+          "Liście dłużników",
+          "Liście świadków koronnych"
+        ],
+        "correct": "B",
+        "explanation": "Paweł jest na Myrotworcu — liście „wrogów Ukrainy”, z której ludzie giną.",
+        "reference": "Myrotworec"
+      },
+      {
+        "question": "Co Przemek mówi Darkowi po filmie Wyżżykowskiego?",
+        "answers": [
+          "Że wycofują się",
+          "Że idą do sądu i nie są sami",
+          "Że zmienią zawód",
+          "Że nie będą mówić mediom"
+        ],
+        "correct": "B",
+        "explanation": "Przemek mówi: „Idziemy do sądu. Nie damy się... Nie jesteśmy sami.”",
+        "reference": "Idziemy do sądu"
+      }
+    ]
+  },
+  "Próg": {
+    "manuscript_title": "Próg",
+    "slug": "prog",
+    "pack_id": "polish_prog",
+    "display_title": "Próg",
+    "subtitle": "Piąta czterdzieści siedem i pukanie policji",
+    "blurb": "Przemek budzi się codziennie o 5:47. Pewnego ranka idzie na UEP tylko z notatnikiem i dowodem — zadać pytania o wynajem i legalizację. Tydzień później o tej samej godzinie puka policja. Opowieść od strony progu: od pytania na korytarzu do kajdanek w kuchni.",
+    "genres": "short_story, everyday_live, article",
+    "cover_family": "article",
+    "audience": "adult",
+    "difficulty": 7,
+    "reader_stars": "★★★★☆",
+    "trust": "Inspired by reality",
+    "tags": "UEP, próg, policja, obywatel, Collection Nine",
+    "keywords": "Próg, Przemek, 5:47, UEP, zatrzymanie",
+    "editorial_notes": "Fikcja-inspirowana companion do Sprawa; ten sam incydent, perspektywa progu domu. P0 founder review.",
+    "inspiration": "Ten sam incydent UEP — narracja od budzenia o 5:47 do pukania policji.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Mocna struktura progowej — granica między pytaniem a represją.",
+    "founder_notes": [
+      "P0 founder review: companion do Sprawa; areszt o szóstej, art. 212, zdjęcia policyjne.",
+      "Seria uep_questioning z Sprawa."
+    ],
+    "series": "Collection Nine",
+    "motifs": ["threshold", "door", "question", "fear", "clock"],
+    "quiz": [
+      {
+        "question": "O której godzinie Przemek budzi się na początku opowieści?",
+        "answers": [
+          "O 6:00",
+          "O 5:47",
+          "O 7:15",
+          "O 5:30"
+        ],
+        "correct": "B",
+        "explanation": "Tekst zaczyna się: „Przemek obudził się o 5:47.”",
+        "reference": "5:47"
+      },
+      {
+        "question": "Co widzi na drzwiach na trzecim piętrze UEP?",
+        "answers": [
+          "Tabliczkę dziekanatu",
+          "Tabliczkę: Legalizacja pobytu – bez odmów, bez stresu",
+          "Ogłoszenie o egzaminie",
+          "Plakat UPA"
+        ],
+        "correct": "B",
+        "explanation": "Na drzwiach wisi tabliczka o legalizacji pobytu „bez odmów, bez stresu”.",
+        "reference": "Legalizacja pobytu"
+      },
+      {
+        "question": "Co robi kobieta z biura, gdy Przemek puka?",
+        "answers": [
+          "Zamyka drzwi i woła ochronę",
+          "Otwiera natychmiast i już nagrywa telefonem",
+          "Prosi o legitymację policyjną",
+          "Odmawia rozmowy"
+        ],
+        "correct": "B",
+        "explanation": "Drzwi otwierają się od razu; kobieta ma telefon i już nagrywa.",
+        "reference": "już nagrywała"
+      },
+      {
+        "question": "Ile dni po wizycie na UEP policja przychodzi do domu?",
+        "answers": [
+          "Następnego dnia",
+          "Siedem dni",
+          "Miesiąc",
+          "Tej samej nocy"
+        ],
+        "correct": "B",
+        "explanation": "„Siedem dni później, o 5:47, ktoś zapukał do drzwi.”",
+        "reference": "Siedem dni później"
+      },
+      {
+        "question": "Co Przemek rozumie po powrocie z prokuratury?",
+        "answers": [
+          "Że zrobił błąd formalny",
+          "Że państwo przyszło po niego, bo zadał pytanie — granica legalnego przesunęła się",
+          "Że Ukrainka wycofała skargę",
+          "Że sprawa jest zamknięta"
+        ],
+        "correct": "B",
+        "explanation": "Przemek rozumie, że państwo przyszło po niego za pytanie, a granica legalnego się przesunęła.",
+        "reference": "państwo, które powinno chronić"
+      }
+    ]
+  },
+  "Zamówienie": {
+    "manuscript_title": "Zamówienie",
+    "slug": "zamowienie",
+    "pack_id": "polish_zamowienie",
+    "display_title": "Zamówienie",
+    "subtitle": "L4 w piętnaście minut bez pytań",
+    "blurb": "Zmęczony Michał kupuje zwolnienie L4 online za 79 złotych — bez badania, bez rozmowy, w piętnaście minut. Tydzień odpoczynku daje ulgę, ale zostawia wyrzut sumienia i pytanie: dlaczego system sprzedaje brak pytań jak produkt? Opowieść o 35 miliardach, zaufaniu i zamówieniu, które nie jest poradą lekarską.",
+    "genres": "article, everyday_live, medicine",
+    "cover_family": "medicine",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Inspired by reality",
+    "tags": "L4, zwolnienie, medycyna, oszustwo, Collection Nine",
+    "keywords": "Zamówienie, L4, zwolnienie online, ZUS, 35 miliardów",
+    "editorial_notes": "Artykuł inspirowany procederem fałszywych zwolnień; nie zachęca do nadużyć — refleksja o systemie.",
+    "inspiration": "Rynek zwolnień L4 online i koszty absencji chorobowych w polskiej gospodarce.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Mocna refleksja o uczciwości i odpowiedzialności — bez moralizowania jednostki.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["machine", "guilt", "question", "home", "betrayal"],
+    "quiz": [
+      {
+        "question": "Ile Michał płaci za zwolnienie na stronie zwolnienie.pl?",
+        "answers": [
+          "49 złotych",
+          "79 złotych",
+          "150 złotych",
+          "29 złotych"
+        ],
+        "correct": "B",
+        "explanation": "Michał płaci Blikiem 79 złotych.",
+        "reference": "79 złotych"
+      },
+      {
+        "question": "Po ilu minutach dostaje zaświadczenie L4?",
+        "answers": [
+          "Po 3 minutach",
+          "Po 15 minutach",
+          "Po 24 godzinach",
+          "Po tygodniu"
+        ],
+        "correct": "B",
+        "explanation": "Po 15 minutach w skrzynce pojawia się PDF ze zwolnieniem.",
+        "reference": "15 minutach"
+      },
+      {
+        "question": "Jakie rozpoznanie ma fałszywe zwolnienie Michała?",
+        "answers": [
+          "Złamanie ręki",
+          "Ostre zakażenie górnych dróg oddechowych",
+          "Depresja",
+          "Migrena"
+        ],
+        "correct": "B",
+        "explanation": "PDF ma rozpoznanie „ostre zakażenie górnych dróg oddechowych”, choć Michał jest zdrowy.",
+        "reference": "górnych dróg oddechowych"
+      },
+      {
+        "question": "Jaki szacowany roczny koszt absencji chorobowych podaje tekst?",
+        "answers": [
+          "5 miliardów złotych",
+          "35 miliardów złotych",
+          "100 milionów złotych",
+          "1 miliard złotych"
+        ],
+        "correct": "B",
+        "explanation": "Tekst mówi o koszcie 35 miliardów złotych dla polskiej gospodarki.",
+        "reference": "35 miliardów"
+      },
+      {
+        "question": "Co Michał robi z wydrukowanym L4 na końcu?",
+        "answers": [
+          "Wysyła do szefa",
+          "Wyrzuca do kosza",
+          "Ramuje i wiesza",
+          "Wysyła do prokuratury jako dowód"
+        ],
+        "correct": "B",
+        "explanation": "Michał wyrzuca do kosza wydrukowane L4 — nie chce już być częścią problemu.",
+        "reference": "Wyrzucił do kosza"
+      }
+    ]
+  },
+  "Lista": {
+    "manuscript_title": "Lista",
+    "slug": "lista-myrotworec",
+    "pack_id": "polish_lista_myrotworec",
+    "display_title": "Lista",
+    "subtitle": "Nazwisko po fladze w Strasburgu",
+    "blurb": "Ewa dowiaduje się, że po wystąpieniu w Parlamencie Europejskim — z czerwono-czarną flagą i słowami o Wołyniu — trafiła na ukraińską listę Myrotworec. Dziennikarz dzwoni, MSZ obiecuje notę, a ona nagrywa vlog: nie przestanie mówić. Opowieść o cenie pamięci i o liście, która ma uciszyć.",
+    "genres": "article, history, everyday_live",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 7,
+    "reader_stars": "★★★☆☆",
+    "trust": "Inspired by reality",
+    "tags": "Myrotworec, Wołyń, PE, polityka, Collection Nine",
+    "keywords": "Lista, Myrotworec, Ewa, Wołyń, Parlament Europejski",
+    "editorial_notes": "Artykuł polityczno-historyczny; slug lista-myrotworec rozróżnia od C10 „Lista rzeczy, których żałuję”. P0 founder review.",
+    "inspiration": "Lista Myrotworec i wystąpienia o Wołyniu w Parlamencie Europejskim.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Wrażliwy klaster myrotworec-wolyn — wymaga founder review i disclaimera.",
+    "founder_notes": [
+      "P0 founder review: Myrotworec, Wołyń, polityka PE.",
+      "Seria myrotworec_wolyn z Symetria i Sprawa."
+    ],
+    "series": "Collection Nine",
+    "motifs": ["memory", "fear", "courage", "betrayal", "border"],
+    "quiz": [
+      {
+        "question": "Jaka lista pojawia się w opowieści?",
+        "answers": [
+          "Lista kandydatów PE",
+          "Ukraińska lista Myrotworec — wrogowie Ukrainy",
+          "Lista zakupów Ewy",
+          "Lista świadków w sądzie"
+        ],
+        "correct": "B",
+        "explanation": "Dziennikarz mówi, że Ewa pojawiła się na liście Myrotworec.",
+        "reference": "Myrotworec"
+      },
+      {
+        "question": "Co Ewa podnosi podczas wystąpienia w PE?",
+        "answers": [
+          "Biało-czerwoną flagę Polski",
+          "Czerwono-czarną flagę jako dowód",
+          "Zdjęcie ofiar",
+          "Petycję mieszkańców"
+        ],
+        "correct": "B",
+        "explanation": "W teczce ma czerwono-czarną flagę i podnosi ją jako dowód podczas przemówienia o Wołyniu.",
+        "reference": "Czerwono-czarna flaga"
+      },
+      {
+        "question": "Co Ewa mówi do przedstawiciela MSZ o nocie dyplomatycznej?",
+        "answers": [
+          "Że dziękuje za szybką reakcję",
+          "Że nota jest gotowa od lat i nic się nie zmieniło — chce działania",
+          "Że woli milczeć",
+          "Że sama jedzie do Kijowa"
+        ],
+        "correct": "B",
+        "explanation": "Ewa mówi: „Macie już tę notę gotową od lat... Mów mi o działaniu.”",
+        "reference": "gotową od lat"
+      },
+      {
+        "question": "Co Anna Bryłka mówi Ewie przez telefon?",
+        "answers": [
+          "Żeby się wycofała",
+          "Że ona też jest na liście od dawna — „witaj w klubie”",
+          "Że nie zna Myrotworca",
+          "Że PE usunęło nagranie"
+        ],
+        "correct": "B",
+        "explanation": "Anna odpowiada: „Ja też jestem od dawna. Witaj w klubie.”",
+        "reference": "Witaj w klubie"
+      },
+      {
+        "question": "Co Ewa mówi w vlogu po trafieniu na listę?",
+        "answers": [
+          "Że kończy politykę",
+          "Że nie przestanie mówić o Wołyniu — będzie mówić jeszcze głośniej",
+          "Że przeprasza Ukrainę",
+          "Że usuwa nagranie z PE"
+        ],
+        "correct": "B",
+        "explanation": "Ewa mówi: „Nie przestanę mówić o Wołyniu. Będę mówić jeszcze głośniej.”",
+        "reference": "jeszcze głośniej"
+      }
+    ]
+  },
+  "Symetria": {
+    "manuscript_title": "Symetria",
+    "slug": "symetria",
+    "pack_id": "polish_symetria",
+    "display_title": "Symetria",
+    "subtitle": "Wołyń kontra wygodne kłamstwo",
+    "blurb": "Rafał Ziemkiewicz czyta archiwalne relacje z Wołynia — dziecko pełznące po martwej matce, kobiety na pale, „symetria” zamiast ludobójstwa. Przypomina tekst z 2008 roku „Myśmy wszystko zapomnieli” i medal od środowisk kresowych. Esej o pamięci, która krwawi, i o kłamstwie wygodniejszym niż prawda.",
+    "genres": "article, history, philosophy",
+    "cover_family": "history",
+    "audience": "adult",
+    "difficulty": 8,
+    "reader_stars": "★★★☆☆",
+    "trust": "Inspired by reality",
+    "tags": "Wołyń, symetria, pamięć, historia, Collection Nine",
+    "keywords": "Symetria, Wołyń, Ziemkiewicz, ludobójstwo, Myrotworec",
+    "editorial_notes": "Esej historyczny z graficznymi opisami zbrodni; P0 founder review — Wołyń, polityka, Myrotworec.",
+    "inspiration": "Rocznica Wołynia, debata o „symetrii” i tekst „Myśmy wszystko zapomnieli”.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Trudny temat historyczny — wymaga disclaimera i founder review przed promocją.",
+    "founder_notes": [
+      "P0 founder review: graficzna historia Wołynia, polityka, lista Myrotworec.",
+      "Seria myrotworec_wolyn."
+    ],
+    "series": "Collection Nine",
+    "motifs": ["memory", "grief", "betrayal", "archive", "question"],
+    "quiz": [
+      {
+        "question": "Jaki tytuł miał tekst Rafała z 2008 roku w Rzeczpospolitej?",
+        "answers": [
+          "Symetria krzywd",
+          "Myśmy wszystko zapomnieli",
+          "Lista proskrypcyjna",
+          "Wołyń bez cenzury"
+        ],
+        "correct": "B",
+        "explanation": "Rafał przypomina tekst z tytułem od Wyspiańskiego: „Myśmy wszystko zapomnieli”.",
+        "reference": "Myśmy wszystko zapomnieli"
+      },
+      {
+        "question": "Co Rafał nazywa „cholerną symetrią”?",
+        "answers": [
+          "Równowagę władzy w UE",
+          "Porównywanie ludobójstwa z „Polacy też krzywdzili”",
+          "Symetrię w architekturze",
+          "Symetrię w mediach"
+        ],
+        "correct": "B",
+        "explanation": "Salonowe „symetrie” bagatelizują Wołyń: „Polacy też krzywdzili, no nie?”",
+        "reference": "symetria"
+      },
+      {
+        "question": "Jaką scenę z poematu Szewczenki Rafał przywołuje?",
+        "answers": [
+          "Iwan Gonta mordujący własne dzieci",
+          "Bitwę pod Grunwaldem",
+          "Podpisanie pokoju",
+          "Ślub bohatera"
+        ],
+        "correct": "A",
+        "explanation": "W „Hajdamakach” kluczowa scena: Iwan Gonta morduje własne dzieci z „lackiej krwi”.",
+        "reference": "Iwan Gonta"
+      },
+      {
+        "question": "Za co Rafał dostał medal od środowisk kresowych?",
+        "answers": [
+          "Za pracę w TVP",
+          "Za przypominanie o Wołyniu",
+          "Za tekst o Tajwanie",
+          "Za udział w PE"
+        ],
+        "correct": "B",
+        "explanation": "Środowiska kresowe honorują tych, którzy nie zapomnieli — Rafał dostał medal za przypominanie.",
+        "reference": "za przypominanie o Wołyniu"
+      },
+      {
+        "question": "Czego Rafał boi się bardziej niż żmij z ballady Kaczmarskiego?",
+        "answers": [
+          "Krytyki w social media",
+          "Ciszy i zapomnienia",
+          "Utraty pracy",
+          "Emigracji"
+        ],
+        "correct": "B",
+        "explanation": "Rafał mówi: nie boi się żmij — boi się ciszy i zapomnienia.",
+        "reference": "Bał się ciszy"
+      }
+    ]
+  },
+  "Tajwan": {
+    "manuscript_title": "Tajwan",
+    "slug": "tajwan",
+    "pack_id": "polish_tajwan",
+    "display_title": "Tajwan",
+    "subtitle": "Paszport, którego system nie widzi",
+    "blurb": "Chen Ching Ting leci z Tajpej na Targi Książki we Frankfurcie z paszportem TAIWAN na okładce. Bramka najpierw przepuszcza, potem zatrzymuje — cztery godziny przesłuchania, „fałszywy dokument”, „to nie jest państwo”. Fikcja o wyspie, która istnieje, choć świat udaje, że nie.",
+    "genres": "short_story, travel, article",
+    "cover_family": "travel",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "Tajwan, paszport, Frankfurt, tożsamość, Collection Nine",
+    "keywords": "Tajwan, Chen Ching Ting, paszport, TSMC, Frankfurt",
+    "editorial_notes": "Fikcja inspirowana problemem uznawania paszportów tajwańskich; polityka zagraniczna jako tło.",
+    "inspiration": "Status Tajwanu w systemach międzynarodowych i historia wykluczenia z ONZ w 1971.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra opowieść o tożsamości i niewidzialności państwa w systemie globalnym.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["border", "travel", "fear", "home", "question"],
+    "quiz": [
+      {
+        "question": "Kim z zawodu jest Chen Ching Ting?",
+        "answers": [
+          "Lekarką",
+          "Wydawczynią",
+          "Pilotką",
+          "Urędniczką"
+        ],
+        "correct": "B",
+        "explanation": "Ching Ting jest wydawczynią, jedzie na Targi Książki we Frankfurcie.",
+        "reference": "wydawczynią"
+      },
+      {
+        "question": "Co funkcjonariusze mówią o jej paszporcie?",
+        "answers": [
+          "Że jest przeterminowany",
+          "Że jest fałszywy — numer nie istnieje w systemie",
+          "Że brakuje wizy",
+          "Że zdjęcie jest za stare"
+        ],
+        "correct": "B",
+        "explanation": "Mówią: „Pani paszport jest fałszywy. Numer nie istnieje w systemie.”",
+        "reference": "fałszywy"
+      },
+      {
+        "question": "Ile trwa przesłuchanie na lotnisku?",
+        "answers": [
+          "Godzinę",
+          "Cztery godziny",
+          "Dzień",
+          "Piętnaście minut"
+        ],
+        "correct": "B",
+        "explanation": "Tekst mówi wprost: cztery godziny przesłuchania.",
+        "reference": "Cztery godziny"
+      },
+      {
+        "question": "W którym roku Tajwan został wyrzucony z ONZ według opowieści?",
+        "answers": [
+          "1949",
+          "1971",
+          "1989",
+          "2001"
+        ],
+        "correct": "B",
+        "explanation": "W 1971 roku Tajwan został wyrzucony z ONZ po odmowie „podwójnej reprezentacji”.",
+        "reference": "1971 roku"
+      },
+      {
+        "question": "Jaką firmę z Tajwanu tekst wymienia jako producenta zaawansowanych chipów?",
+        "answers": [
+          "Intel",
+          "TSMC",
+          "Samsung",
+          "Huawei"
+        ],
+        "correct": "B",
+        "explanation": "TSMC na Tajwanie produkuje ok. 90% najbardziej zaawansowanych chipów.",
+        "reference": "TSMC"
+      }
+    ]
+  },
+  "98%": {
+    "manuscript_title": "98%",
+    "slug": "98-procent",
+    "pack_id": "polish_98_procent",
+    "display_title": "98%",
+    "subtitle": "Geniusze, które szkoła gasi",
+    "blurb": "Tomasz od dwóch dekad widzi, jak dzieci przychodzą do szkoły z płonącymi oczami, a wychodzą z wygaszonymi. Cytuje badania George'a Landa: 98% pięciolatków to geniusze kreatywności, 2% dorosłych. Opowieść o przedszkolu w Kopytkowie, piramidzie Maslowa i systemie, który gasi skrzydła.",
+    "genres": "article, psychology, philosophy",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 6,
+    "reader_stars": "★★★☆☆",
+    "trust": "Popular science",
+    "tags": "edukacja, kreatywność, szkoła, dzieciństwo, Collection Nine",
+    "keywords": "98%, George Land, kreatywność, szkoła, Kopytkowo",
+    "editorial_notes": "Artykuł edukacyjny; cytuje badania Landa i dane o samobójstwach — nie zastępuje porady pedagogicznej.",
+    "inspiration": "Badania NASA/George'a Landa o kreatywności i krytyka polskiego systemu edukacji.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Silny przekaz edukacyjny; część serii kammel_education.",
+    "founder_notes": [],
+    "series": "Collection Nine",
+    "motifs": ["childhood", "school", "teaching", "fear", "wonder"],
+    "quiz": [
+      {
+        "question": "Jaki procent pięciolatków wykazuje kreatywność na poziomie geniuszu według badań Landa?",
+        "answers": [
+          "30%",
+          "98%",
+          "12%",
+          "50%"
+        ],
+        "correct": "B",
+        "explanation": "Tomasz cytuje: wśród pięciolatków aż 98% na poziomie geniuszu kreatywności.",
+        "reference": "98%"
+      },
+      {
+        "question": "Jaki procent dorosłych powyżej 25 roku życia zachowuje tę kreatywność?",
+        "answers": [
+          "12%",
+          "30%",
+          "2%",
+          "50%"
+        ],
+        "correct": "C",
+        "explanation": "U dorosłych powyżej 25 lat zostaje ok. 2% — resztę „zabija” system.",
+        "reference": "2%"
+      },
+      {
+        "question": "Gdzie Tomasz obserwuje sześcioro pięciolatek bawiących się w domku?",
+        "answers": [
+          "W Warszawie",
+          "W przedszkolu w Kopytkowie na Podlasiu",
+          "W Krakowie",
+          "W Gdańsku"
+        ],
+        "correct": "B",
+        "explanation": "Stoi przed przedszkolem w Kopytkowie, gdzieś na Podlasiu.",
+        "reference": "Kopytkowie"
+      },
+      {
+        "question": "Jak Tomasz uczy dzieci dni tygodnia w Kopytkowie?",
+        "answers": [
+          "Przez kserówkę i test",
+          "Przez ruch — siedmioro dzieci chodzi po sali i przekazuje sobie dni",
+          "Tylko przez piosenkę z YouTube",
+          "Przez karę za błędy"
+        ],
+        "correct": "B",
+        "explanation": "Stawia siedmioro w środku — każde mówi dzień tygodnia, chodząc i współpracując.",
+        "reference": "siedmioro dzieci"
+      },
+      {
+        "question": "Co nauczyciel w Kopytkowie mówi Tomaszowi o systemie?",
+        "answers": [
+          "Że dyrektor go chwali",
+          "Że wie, że ma sens, ale system nie pozwala — program, sprawdziany, strach przed zwolnieniem",
+          "Że rodzice protestują",
+          "Że zmienią podstawę programową jutro"
+        ],
+        "correct": "B",
+        "explanation": "Nauczyciel mówi: „System mi nie pozwala. Mam program, sprawdziany, oceny.”",
+        "reference": "System mi nie pozwala"
+      }
+    ]
+  }
+}

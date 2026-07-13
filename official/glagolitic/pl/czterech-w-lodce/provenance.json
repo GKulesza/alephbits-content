@@ -1,0 +1,22 @@
+{
+  "packId": "polish_czterech_w_lodce",
+  "bookId": "czterech-w-lodce",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Artykuł inspirowany realnymi nazwami branży medialnej; founder review P1 przed promocją."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "_ByoSBSkJZg"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

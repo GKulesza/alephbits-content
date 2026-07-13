@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Magda mówi do Tymona zamiast wysłać go do kąta w sklepie?",
+      "answers": [
+        "Idź do kąta",
+        "Potrzebuję przytulenia",
+        "Dostaniesz klapsa",
+        "Nigdy więcej nie pójdziemy na zakupy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza: „Potrzebuję przytulenia” — i chłopiec się uspokaja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile długofalowych skutków kary wymienia Magda?",
+      "answers": [
+        "Dwa",
+        "Cztery",
+        "Sześć",
+        "Jeden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rozgoryczenie, rewanż, rebelia i wycofanie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Magda, gdy Tymon rozlewa sok na dywan?",
+      "answers": [
+        "Krzyknie i zabiera zabawkę",
+        "Pyta: „Co możemy zrobić?” i wspólnie czyści",
+        "Ignoruje bałagan",
+        "Każe iść do kąta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pokazuje konsekwencję (sprzątanie), nie karę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Gabryś proponuje nazwać kącik w domu?",
+      "answers": [
+        "Kącikiem kary",
+        "Kącikiem spokoju",
+        "Kącikiem nauki",
+        "Kącikiem gier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabryś mówi: „Kącikiem spokoju — bo jak jestem spokojny, to myślę lepiej”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki jest główny wniosek opowieści?",
+      "answers": [
+        "Dzieci muszą być posłuszne",
+        "Chodzi o to, by dzieci były gotowe na życie — umiały radzić sobie z emocjami",
+        "Kary są najskuteczniejsze",
+        "Nagrody słodyczami są obowiązkowe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finale: „Nie chodzi o to, żeby dzieci były posłuszne. Chodzi o to, żeby były gotowe na życie”."
+    }
+  ]
+}

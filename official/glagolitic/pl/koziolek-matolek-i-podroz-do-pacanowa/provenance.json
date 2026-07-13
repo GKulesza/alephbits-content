@@ -1,0 +1,22 @@
+{
+  "packId": "polish_koziolek_matolek_i_podroz_do_pacanowa",
+  "bookId": "koziolek-matolek-i-podroz-do-pacanowa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Skondensowane streszczenie klasyki Makuszyńskiego; niektóre epizody (ścięcie brody, czarownica) mogą być intensywne dla najmłodszych."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "C18gZmTbHh4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_bogini_i_liczby",
+  "bookId": "bogini-i-liczby",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja historyczna; mistycyzm vs dowód — fiction disclaimer."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "x2dAH_xCfX4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Franek w tej opowieści?",
+      "answers": [
+        "Siedem",
+        "Dziesięć",
+        "Pięć",
+        "Dwanaście"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tekst: „Franek miał siedem lat”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się pies?",
+      "answers": [
+        "Pankracy",
+        "Burek",
+        "Azor",
+        "Rudi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy należy do pana Zygmunta z parteru."
+    },
+    {
+      "type": "single_choice",
+      "question": "Z jakiego programu puszcza pan Zygmunt kasetę?",
+      "answers": [
+        "Piątek z Pankracym",
+        "Słonecznik",
+        "Teleranek",
+        "Klan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaseta pochodzi z programu „Piątek z Pankracym”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi wrona o bałwanie?",
+      "answers": [
+        "Wyglądać a być to dwie różne sprawy",
+        "Bałwan jest żywy",
+        "Bałwan to król",
+        "Bałwan trzeba zniszczyć"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wrona mówi: „Wyglądać a być, to dwie różne sprawy”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Pankracy pomaga Frankowi na podwórku?",
+      "answers": [
+        "Staje obok niego — jeden krok wystarcza, by odpłoszyć chłopca",
+        "Gryzie wszystkich",
+        "Uczy go piłki",
+        "Zabiera go do domu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy robi krok do przodu i chłopiec cofa się."
+    }
+  ]
+}

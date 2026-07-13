@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Franek mówi o samolocie, gdy w telewizji pojawia się bombowiec?",
+      "answers": [
+        "Że latał nim wczoraj",
+        "Że jego samolot się palił i że to był Corsair",
+        "Że widział go w muzeum",
+        "Że to był samolot dziadka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek mówi spokojnie: „Mój samolot się palił – to był Corsair. Nie wróciłem na lotniskowiec.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie nazwisko pilota Anna znajduje w archiwach wojskowych?",
+      "answers": [
+        "Jack Larsen",
+        "Daniel Rakowiecki",
+        "Michał Kosakowski",
+        "Piotr Wójcik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na liście pilotów poległych w bitwie o Iwo Jimę pojawia się Daniel Rakowiecki z Detroit."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie wyjaśnienie proponuje doktor Kosakowski?",
+      "answers": [
+        "Że Franek na pewno był pilotem w poprzednim życiu",
+        "Że mózg złożył strzępy informacji w spójną historię — kryptomnezja i rekonstrukcja pamięci",
+        "Że Franek udaje z nudów",
+        "Że to efekt hipnozy w przedszkolu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosakowski tłumaczy kryptomnezję: umysł zapomina źródło informacji, ale składa je w jedną narrację."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kosakowski nazywa błędem potwierdzenia?",
+      "answers": [
+        "Zapominaniem imion bliskich",
+        "Selektywnym zbieraniem dowodów na historię, w którą już wierzymy",
+        "Fałszywym wspomnieniem po hipnozie",
+        "Błędem w archiwach wojskowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gdy coś wydaje się prawdziwe, zaczynamy zbierać tylko dowody „za”, a sprzeczności ignorować."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anna szepcze Frankowi na końcu?",
+      "answers": [
+        "Że musi zapomnieć o samolocie",
+        "Kimkolwiek byłeś — teraz jesteś mój",
+        "Że jutro idą do muzeum",
+        "Że ojciec też był pilotem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna całuje syna i mówi: „Kimkolwiek byłeś – teraz jesteś mój.”"
+    }
+  ]
+}

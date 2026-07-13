@@ -1,0 +1,1492 @@
+{
+  "Chór": {
+    "manuscript_title": "Chór",
+    "slug": "chor",
+    "pack_id": "polish_chor",
+    "display_title": "Chór",
+    "subtitle": "Kłótnia o tablet i głosy pokoleń",
+    "blurb": "Magda i Tomek kłócą się o ekran syna, ale pod spodem walczą o traumy własnych rodziców i o to, czy wciąż są dla siebie partnerami. Po podcaście Agi Rogali zaczynają rozmawiać — nie idealnie, ale naprawdę.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "wychowanie, małżeństwo, podcast, Aga Rogali, Collection Ten",
+    "keywords": "Chór, Magda, Tomek, tablet, rodzicielstwo, Aga Rogali",
+    "editorial_notes": "Fikcja parentingowa; adaptacja redakcyjna podcastu Agi Rogali.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobre dopasowanie — granice, przepraszanie, pokoleniowa trauma bez moralizowania.",
+    "founder_notes": [
+      "Near-duplicate cluster: parenting-podcast conversion series (C10)."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "family",
+      "marriage",
+      "childhood",
+      "rain",
+      "home",
+      "forgiveness"
+    ],
+    "quiz": [
+      {
+        "question": "O co kłócą się Magda i Tomek na początku opowieści?",
+        "answers": [
+          "O rozstanie",
+          "O to, że Franek nie wyłączył tabletu po czasie ekranowym",
+          "O wakacje",
+          "O pracę Magdy"
+        ],
+        "correct": "B",
+        "explanation": "Franek grał w piłkę nożną na tablecie po 18:45.",
+        "reference": "Wyłącz to"
+      },
+      {
+        "question": "Co Franek pyta matkę po kłótni?",
+        "answers": [
+          "Czy dostanie tablet",
+          "Czy rodzice się jeszcze kochają",
+          "Czy pójdą do kina",
+          "Czy Zosia jest chora"
+        ],
+        "correct": "B",
+        "explanation": "Franek pyta wprost: „Czy wy się jeszcze kochacie?”.",
+        "reference": "Czy wy się jeszcze kochacie"
+      },
+      {
+        "question": "Czyja podcastowa myśl Magda przywołuje w sypialni?",
+        "answers": [
+          "Jespera Jula",
+          "Agi Rogali",
+          "Marii Berlińskiej",
+          "Szymona Grzelaka"
+        ],
+        "correct": "B",
+        "explanation": "Magda cytuje Agę Rogalę o zbędnych kłótniach i pracy nad sobą.",
+        "reference": "podcast Agi Rogali"
+      },
+      {
+        "question": "Jak Tomek reaguje, gdy Franek prosi o wcześniejsze ostrzeżenie przed zabraniem tabletu?",
+        "answers": [
+          "Krzyknie",
+          "Uśmiecha się i mówi „Umowa stoi”",
+          "Ignoruje syna",
+          "Każe iść spać"
+        ],
+        "correct": "B",
+        "explanation": "Tomek akceptuje propozycję i mówi: „Umowa stoi”.",
+        "reference": "Umowa stoi"
+      },
+      {
+        "question": "Co metafora „chóru głosów” oznacza w finale?",
+        "answers": [
+          "Że dzieci powinny milczeć",
+          "Że w rodzicach brzmią głosy poprzednich pokoleń, których uczą się słuchać i przekształcać",
+          "Że rodzina śpiewa w kościele",
+          "Że Tomek zostaje śpiewakiem"
+        ],
+        "correct": "B",
+        "explanation": "Tomek i Magda uczą się słuchać głosów rodziców/dziadków i „śpiewać własną melodię”.",
+        "reference": "Chór głosów"
+      }
+    ],
+    "inspiration": "Podcast Agi Rogali o zbędnych kłótniach rodzicielskich; opowieść o traumach pokoleń; YouTube syzWuhF_U2I (2023-07-14)."
+  },
+  "Dobra dziewczynka": {
+    "manuscript_title": "Dobra dziewczynka",
+    "slug": "dobra-dziewczynka",
+    "pack_id": "polish_dobra_dziewczynka",
+    "display_title": "Dobra dziewczynka",
+    "subtitle": "Perfekcja, pamiętnik i powrót do siebie",
+    "blurb": "Zosia przez dekady była „grzeczną dziewczynką” — czerwony pasek, chór, pamiętnik w szufladzie. Dopiero ciąża w pandemii i media społecznościowe pomagają jej zdjąć maskę i powiedzieć innym matkom: wystarczy być sobą.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 3,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "perfekcjonizm, macierzyństwo, media społecznościowe, Collection Ten",
+    "keywords": "Dobra dziewczynka, Zosia, perfekcja, macierzyństwo",
+    "editorial_notes": "Fikcja w formie wywiadu radiowego; słabszy ton autopromocyjny.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Akceptowalna — ważny temat, struktura wywiadu słabsza niż najlepsze opowiadania C10.",
+    "founder_notes": [
+      "Founder note: rozważyć odłożenie na półkę."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "motherhood",
+      "writing",
+      "memory",
+      "shame",
+      "forgiveness"
+    ],
+    "quiz": [
+      {
+        "question": "Kiedy Zosia po raz pierwszy słyszy, że jest „grzeczną dziewczynką”?",
+        "answers": [
+          "W szkole",
+          "Ma około pięciu lat przy śniadaniu",
+          "Na studiach",
+          "Po urodzeniu syna"
+        ],
+        "correct": "B",
+        "explanation": "Mama mówi jej to nad śniadaniem, gdy ma pięć lat.",
+        "reference": "pięć lat"
+      },
+      {
+        "question": "Co Zosia robi po raz pierwszy w wieku ~15 lat?",
+        "answers": [
+          "Zmienia szkołę",
+          "Mówi „nie jadę” na próbę chóru",
+          "Wyjeżdża na Erasmusa",
+          "Rezygnuje z Instagrama"
+        ],
+        "correct": "B",
+        "explanation": "Odmawia wyjazdu na próbę chóru i zamyka się w łazience.",
+        "reference": "Nie jadę"
+      },
+      {
+        "question": "Jaki kierunek studiów wybiera po rozczarowaniu dziennikarstwem?",
+        "answers": [
+          "Psychologię",
+          "Europeistykę",
+          "Medycynę",
+          "Prawo"
+        ],
+        "correct": "B",
+        "explanation": "Przenosi się na europeistykę ze względu na Erasmusa i podróże.",
+        "reference": "europeistykę"
+      },
+      {
+        "question": "Co Zosia zaczyna robić w czasie pandemii i trudnej ciąży?",
+        "answers": [
+          "Pisać powieść kryminalną",
+          "Nagrywać rozmowy i publikować w social media",
+          "Prowadzić restaurację",
+          "Uczyć się programowania"
+        ],
+        "correct": "B",
+        "explanation": "Nagrywa rozmowy dla rodziny, potem Instagram/TikTok/YouTube.",
+        "reference": "Nagrywać rozmowy"
+      },
+      {
+        "question": "Co Zosia powiedziałaby swojej młodej wersji?",
+        "answers": [
+          "Bądź jeszcze bardziej idealna",
+          "Nie musisz być doskonała — wystarczy, że będziesz sobą",
+          "Rzuć szkołę",
+          "Nigdy nie mów nie"
+        ],
+        "correct": "B",
+        "explanation": "W wywiadzie mówi: „Nie musisz być taka doskonała. Wystarczy, że będziesz sobą”.",
+        "reference": "Wystarczy, że będziesz sobą"
+      }
+    ],
+    "inspiration": "Motyw perfekcjonizmu i maski „grzecznej dziewczynki” w macierzyństwie."
+  },
+  "Kij i marchewka": {
+    "manuscript_title": "Kij i marchewka",
+    "slug": "kij-i-marchewka",
+    "pack_id": "polish_kij_i_marchewka",
+    "display_title": "Kij i marchewka",
+    "subtitle": "Bez kar i nagród — tylko relacja",
+    "blurb": "Magda wychowana na krzesełku w kącie postanawia inaczej: zamiast karać Tymona za awanturę w sklepie, prosi o przytulenie. Opowieść o pozytywnej dyscyplinie i konsekwencjach zamiast kar.",
+    "genres": "psychology, instruction, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "pozytywna dyscyplina, wychowanie, emocje, Collection Ten",
+    "keywords": "Kij i marchewka, pozytywna dyscyplina, kara, nagroda",
+    "editorial_notes": "Fikcja ilustrująca pozytywną dyscyplinę.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silne dopasowanie — praktyczna refleksja rodzicielska.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "motherhood",
+      "home",
+      "anger",
+      "forgiveness",
+      "teaching"
+    ],
+    "quiz": [
+      {
+        "question": "Co Magda mówi do Tymona zamiast wysłać go do kąta w sklepie?",
+        "answers": [
+          "Idź do kąta",
+          "Potrzebuję przytulenia",
+          "Dostaniesz klapsa",
+          "Nigdy więcej nie pójdziemy na zakupy"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza: „Potrzebuję przytulenia” — i chłopiec się uspokaja.",
+        "reference": "Potrzebuję przytulenia"
+      },
+      {
+        "question": "Ile długofalowych skutków kary wymienia Magda?",
+        "answers": [
+          "Dwa",
+          "Cztery",
+          "Sześć",
+          "Jeden"
+        ],
+        "correct": "B",
+        "explanation": "Rozgoryczenie, rewanż, rebelia i wycofanie.",
+        "reference": "czterech długofalowych skutków"
+      },
+      {
+        "question": "Co robi Magda, gdy Tymon rozlewa sok na dywan?",
+        "answers": [
+          "Krzyknie i zabiera zabawkę",
+          "Pyta: „Co możemy zrobić?” i wspólnie czyści",
+          "Ignoruje bałagan",
+          "Każe iść do kąta"
+        ],
+        "correct": "B",
+        "explanation": "Pokazuje konsekwencję (sprzątanie), nie karę.",
+        "reference": "Co możemy zrobić"
+      },
+      {
+        "question": "Jak Gabryś proponuje nazwać kącik w domu?",
+        "answers": [
+          "Kącikiem kary",
+          "Kącikiem spokoju",
+          "Kącikiem nauki",
+          "Kącikiem gier"
+        ],
+        "correct": "B",
+        "explanation": "Gabryś mówi: „Kącikiem spokoju — bo jak jestem spokojny, to myślę lepiej”.",
+        "reference": "Kącikiem spokoju"
+      },
+      {
+        "question": "Jaki jest główny wniosek opowieści?",
+        "answers": [
+          "Dzieci muszą być posłuszne",
+          "Chodzi o to, by dzieci były gotowe na życie — umiały radzić sobie z emocjami",
+          "Kary są najskuteczniejsze",
+          "Nagrody słodyczami są obowiązkowe"
+        ],
+        "correct": "B",
+        "explanation": "Finale: „Nie chodzi o to, żeby dzieci były posłuszne. Chodzi o to, żeby były gotowe na życie”.",
+        "reference": "gotowe na życie"
+      }
+    ],
+    "inspiration": "Koncepcje pozytywnej dyscypliny — konsekwencje zamiast kar; YouTube YzdjDARIqxA (2022-09-21)."
+  },
+  "W pełni": {
+    "manuscript_title": "W pełni",
+    "slug": "w-pelni",
+    "pack_id": "polish_w_pelni",
+    "display_title": "W pełni",
+    "subtitle": "Dziecko kompletne od urodzenia",
+    "blurb": "Ola po podcaście o Jesperze Julu przestaje traktować Franka jak projekt do naprawy. Ufa jego decyzjom — od basenu po nożyczki — i uczy się przepraszać.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "Jesper Juul, zaufanie, ADHD, wychowanie, Collection Ten",
+    "keywords": "W pełni, Jesper Juul, Ola, zaufanie",
+    "editorial_notes": "Fikcja oparta na filozofii Jula; wątek ADHD nie jest poradą medyczną.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Bardzo dobre dopasowanie — godność i zaufanie.",
+    "founder_notes": [
+      "Near-duplicate z Radio w głowie (ADHD)."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "motherhood",
+      "home",
+      "forgiveness",
+      "teaching",
+      "question"
+    ],
+    "quiz": [
+      {
+        "question": "Czyja teza o dziecku „w 100% kompletnym” zmienia myślenie Oli?",
+        "answers": [
+          "Agi Rogali",
+          "Jespera Jula",
+          "Hardy'ego",
+          "Szymona Grzelaka"
+        ],
+        "correct": "B",
+        "explanation": "Słyszy o Jesperze Julu i tezie o kompletnym człowieku od narodzin.",
+        "reference": "Jesperze Julu"
+      },
+      {
+        "question": "Co Ola robi, gdy Franek boi się basenu?",
+        "answers": [
+          "Zmusza go do nauki pływania",
+          "Pyta o uczucia i proponuje rękawki",
+          "Anuluje wyjazd",
+          "Krzyknie"
+        ],
+        "correct": "B",
+        "explanation": "Pyta „Co czujesz?” i wspólnie szukają bezpieczeństwa (rękawki).",
+        "reference": "Co czujesz"
+      },
+      {
+        "question": "Co Franek mówi po udanym pływaniu?",
+        "answers": [
+          "Nigdy więcej na basen",
+          "Mamo, ja mogę wszystko, jak mi pozwolisz",
+          "Chcę zostać trenerem",
+          "Basen jest głupi"
+        ],
+        "correct": "B",
+        "explanation": "Franek: „Mamo, ja mogę wszystko, jak mi pozwolisz”.",
+        "reference": "jak mi pozwolisz"
+      },
+      {
+        "question": "Co Zosia robi z nożyczkami mimo pierwszego odruchu matki?",
+        "answers": [
+          "Zabrania im używać",
+          "Pyta o bezpieczne użycie i pozwala wyciąć serduszko",
+          "Oddaje nożyczki nauczycielce",
+          "Karze"
+        ],
+        "correct": "B",
+        "explanation": "Ola pyta o bezpieczne użycie i towarzyszy — Zosia wycina serduszko sama.",
+        "reference": "Tato, zrobiłam to sama"
+      },
+      {
+        "question": "Dlaczego wprowadza rutyny dla Zosi?",
+        "answers": [
+          "Jako kary",
+          "Jako pomoc przy możliwym ADHD — mniej bodźców, stały rytm snu, bez ekranów",
+          "Bo nauczyciel każe",
+          "Dla sportu"
+        ],
+        "correct": "B",
+        "explanation": "Uporządkowana przestrzeń, rutyna, timer do zębów, brak ekranów przed snem.",
+        "reference": "rytm dobowy"
+      }
+    ],
+    "inspiration": "Filozofia Jespera Jula o dziecku kompletnym od urodzenia; YouTube Y1IvxviWkuE (2022-05-08)."
+  },
+  "Poligon": {
+    "manuscript_title": "Poligon",
+    "slug": "poligon",
+    "pack_id": "polish_poligon",
+    "display_title": "Poligon",
+    "subtitle": "Twardy ojciec i przerwanie łańcucha",
+    "blurb": "Maciek dorasta w domu, gdzie ból ma być „hartowaniem”. Jako ojciec walczy z echem własnego ojca — i w końcu mówi mu prawdę po latach.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "przemoc emocjonalna, ojcostwo, terapia, Collection Ten",
+    "keywords": "Poligon, Maciek, ojciec, przemoc, terapia",
+    "editorial_notes": "Fikcja o przemocy emocjonalnej; founder review przed promocją.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna opowieść o przerwaniu cyklu przemocy.",
+    "founder_notes": [
+      "P0 founder review: przemoc w rodzinie, klapsy."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "fatherhood",
+      "childhood",
+      "fear",
+      "factory",
+      "forgiveness",
+      "reconciliation"
+    ],
+    "quiz": [
+      {
+        "question": "Co ojciec mówi Maćkowi przy kawałku stali w warsztacie?",
+        "answers": [
+          "Metal trzeba hartować w ogniu — tak samo człowieka",
+          "Ucz się grać na gitarze",
+          "Bądź miły dla matki",
+          "Czytaj codziennie"
+        ],
+        "correct": "A",
+        "explanation": "Metafora hartowania metalu = wychowanie „twardym” bólem.",
+        "reference": "hartować w ogniu"
+      },
+      {
+        "question": "Jak Maciek nazywa brak bezpiecznej przystani u rodziców?",
+        "answers": [
+          "Raj",
+          "Poligon",
+          "Bibliotekę",
+          "Most"
+        ],
+        "correct": "B",
+        "explanation": "Myśli: „Ja nie mam takiej przystani. Ja mam poligon”.",
+        "reference": "mam poligon"
+      },
+      {
+        "question": "Co mówi psycholog Maciekowi?",
+        "answers": [
+          "Rodzice byli źli",
+          "Rodzice nie byli źli — byli nieobecni i nieumiejący; to nie jego wina",
+          "Powinien wrócić do domu",
+          "Nie powinien mieć dzieci"
+        ],
+        "correct": "B",
+        "explanation": "Psycholog: nieobecni, nieumiejący — i to nie wina Maćka.",
+        "reference": "nie twoja wina"
+      },
+      {
+        "question": "Co Maciek mówi ojcu po latach?",
+        "answers": [
+          "Że go nienawidzi",
+          "Że bał się jego nieprzewidywalności i myślał, że to z nim jest coś nie tak",
+          "Że dziękuje za surowość",
+          "Nic — nie odwiedza go"
+        ],
+        "correct": "B",
+        "explanation": "Opowiada o strachu i przekonaniu, że jest „słaby”.",
+        "reference": "bałem się ciebie"
+      },
+      {
+        "question": "Co rysuje córka na końcu?",
+        "answers": [
+          "Dinozaura",
+          "Rodzinę — wszyscy się uśmiechają",
+          "Samochód",
+          "Dom bez ludzi"
+        ],
+        "correct": "B",
+        "explanation": "Córka: „To my — ja, ty i mama. I wszyscy się uśmiechamy”.",
+        "reference": "wszyscy się uśmiechamy"
+      }
+    ],
+    "inspiration": "Opowieść o przerwaniu cyklu przemocy emocjonalnej w rodzinie; YouTube roUXYWHyT4o (2022-10-13)."
+  },
+  "Radio w głowie": {
+    "manuscript_title": "Radio w głowie",
+    "slug": "radio-w-glowie",
+    "pack_id": "polish_radio_w_glowie",
+    "display_title": "Radio w głowie",
+    "subtitle": "ADHD jak stacje grające naraz",
+    "blurb": "Kasia od dziecka ma w głowie „radio” — wszystkie stacje naraz. Po diagnozie ADHD uczy się strategii i mówi klasie, że inny mózg nie znaczy gorszy.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "ADHD, szkoła, koncentracja, Collection Ten",
+    "keywords": "Radio w głowie, ADHD, Kasia, koncentracja",
+    "editorial_notes": "Fikcja edukacyjna o ADHD; nie zastępuje diagnozy medycznej.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Przystępna metafora dla młodzieży i rodzin.",
+    "founder_notes": [
+      "Near-duplicate z W pełni (ADHD)."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "school",
+      "fear",
+      "discovery",
+      "teaching",
+      "companionship"
+    ],
+    "quiz": [
+      {
+        "question": "Jak Kasia opisuje swoje ADHD psychologowi?",
+        "answers": [
+          "Jestem leniwa",
+          "Mam w głowie radio — wszystkie stacje naraz",
+          "Nie lubię szkoły",
+          "Jestem chora"
+        ],
+        "correct": "B",
+        "explanation": "Mówi: „Mam w głowie radio… Grają wszystkie stacje naraz”.",
+        "reference": "Mam w głowie radio"
+      },
+      {
+        "question": "Co pomaga Kasi skupić się na lekcji?",
+        "answers": [
+          "Kary",
+          "Gniotek sensoryczny i możliwość krótkiego ruchu",
+          "Zakaz rozmów",
+          "Usunięcie z klasy"
+        ],
+        "correct": "B",
+        "explanation": "Dostaje gniotka; może wstać na chwilę bez przeszkadzania.",
+        "reference": "gniotka sensorycznego"
+      },
+      {
+        "question": "Co mama robi przed snem?",
+        "answers": [
+          "Włącza telewizor",
+          "Eliminuje ekrany — czytanie i cisza",
+          "Daje energetyki",
+          "Odrabia za Kasię lekcje"
+        ],
+        "correct": "B",
+        "explanation": "Bez ekranów przed snem; czytanie książek.",
+        "reference": "żadnych ekranów"
+      },
+      {
+        "question": "Co Kasia mówi klasie o ADHD?",
+        "answers": [
+          "To znaczy, że jestem chora",
+          "Mój mózg działa inaczej, nie gorzej",
+          "Powinnam siedzieć w kącie",
+          "Nigdy nie będę dobra w szkole"
+        ],
+        "correct": "B",
+        "explanation": "„Nie. To znaczy, że mój mózg działa inaczej. Nie gorzej”.",
+        "reference": "inaczej. Nie gorzej"
+      },
+      {
+        "question": "Kim Kasia chce zostać na studiach?",
+        "answers": [
+          "Lekarką",
+          "Psychologiem — pomagać dzieciom jak ona",
+          "Piosenkarką",
+          "Programistką"
+        ],
+        "correct": "B",
+        "explanation": "Studiuje psychologię, by wspierać dzieci z podobnymi trudnościami.",
+        "reference": "Studiuje psychologię"
+      }
+    ],
+    "inspiration": "Metafora ADHD jako „radia” z wieloma stacjami naraz; YouTube 00uyvRqYlo4 (2025-01-16)."
+  },
+  "Nowy świat": {
+    "manuscript_title": "Nowy świat",
+    "slug": "nowy-swiat",
+    "pack_id": "polish_nowy_swiat",
+    "display_title": "Nowy świat",
+    "subtitle": "Od „słuchaj” do „rozmawiaj”",
+    "blurb": "Tomek wychowany na zasadzie „dzieci i ryby głosu nie mają” nie rozumie, czemu córka Zosia się zamyka. Podcast Marii Berlińskiej o dialogu otwiera mu oczy.",
+    "genres": "psychology, short_story",
+    "cover_family": "everyday_live",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "dialog, ekrany, wychowanie, Maria Berlińska, Collection Ten",
+    "keywords": "Nowy świat, Tomek, Zosia, dialog",
+    "editorial_notes": "Fikcja parentingowa; powtarzalna struktura podcast→zmiana.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Akceptowalna — ważny przekaz obecności, mniej oryginalna niż Chór.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "fatherhood",
+      "childhood",
+      "home",
+      "silence",
+      "companionship",
+      "journey"
+    ],
+    "quiz": [
+      {
+        "question": "Co mówił ojciec Tomka, gdy ten próbował się wypowiedzieć?",
+        "answers": [
+          "Dzieci i ryby głosu nie mają",
+          "Mów głośniej",
+          "Pytaj o wszystko",
+          "Ucz się sam"
+        ],
+        "correct": "A",
+        "explanation": "Ojciec: „Dzieci i ryby głosu nie mają — masz słuchać, nie gadać”.",
+        "reference": "Dzieci i ryby głosu nie mają"
+      },
+      {
+        "question": "Co uruchamia refleksję Tomka w samochodzie?",
+        "answers": [
+          "SMS od szefa",
+          "Podcast z Marią Berlińską o dialogu z dziećmi",
+          "Film akcji",
+          "Reklama"
+        ],
+        "correct": "B",
+        "explanation": "Słyszy: „Kiedyś dzieci miały słuchać, a teraz chcą być w dialogu”.",
+        "reference": "U Sawickich"
+      },
+      {
+        "question": "Co Zosia mówi, czego potrzebuje od taty?",
+        "answers": [
+          "Więcej prezentów",
+          "Żeby był ze mną — nie tylko fizycznie",
+          "Nowego telefonu",
+          "Żeby nie pracował"
+        ],
+        "correct": "B",
+        "explanation": "„Potrzebuję, żebyś był ze mną. Nie tylko fizycznie”.",
+        "reference": "Nie tylko fizycznie"
+      },
+      {
+        "question": "Co Tomek zmienia wieczorami?",
+        "answers": [
+          "Więcej telewizora",
+          "Odkłada telefon i rozmawia z dziećmi",
+          "Wysyła dzieci do babci",
+          "Kupuje im gry"
+        ],
+        "correct": "B",
+        "explanation": "Wieczory bez telefonów — rozmowa, czytanie, spacer.",
+        "reference": "odkładał telefon"
+      },
+      {
+        "question": "Co mówi nauczycielka na wywiadówce?",
+        "answers": [
+          "Że Zosia się pogorszyła",
+          "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmienił”",
+          "Że Zosia powinna zmienić szkołę",
+          "Nic"
+        ],
+        "correct": "B",
+        "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmienił”.",
+        "reference": "Ja się zmienił"
+      }
+    ],
+    "inspiration": "Podcast Marii Berlińskiej o dialogu zamiast tresury; YouTube hRjcnfpDQ2Q (2025-08-20)."
+  },
+  "Autorytet na przepraszam": {
+    "manuscript_title": "Autorytet na przepraszam",
+    "slug": "autorytet-na-przepraszam",
+    "pack_id": "polish_autorytet_na_przepraszam",
+    "display_title": "Autorytet na przepraszam",
+    "subtitle": "Prawdziwy autorytet rodzica",
+    "blurb": "Zmęczona Ania i surowy Marek kłócą się o wychowanie. Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "autorytet, przepraszanie, chwalenie, Collection Ten",
+    "keywords": "Autorytet na przepraszam, Ania, Marek",
+    "editorial_notes": "Fikcja o współrodzicielstwie; adaptacja podcastu.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silny przekaz o przepraszaniu i wzorcach małżeńskich.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "family",
+      "marriage",
+      "motherhood",
+      "fatherhood",
+      "forgiveness",
+      "home"
+    ],
+    "quiz": [
+      {
+        "question": "Jak pani Maria definiuje budowanie autorytetu?",
+        "answers": [
+          "Na nakazach i zakazach",
+          "Na „przepraszam” i przyznawaniu się do błędów",
+          "Na karach",
+          "Na nagrodach"
+        ],
+        "correct": "B",
+        "explanation": "„Autorytet… zbuduje się go na przepraszam”.",
+        "reference": "na przepraszam"
+      },
+      {
+        "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+        "answers": [
+          "Krzyknie „Znowu?”",
+          "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
+          "Każe iść do pokoju",
+          "Ignoruje"
+        ],
+        "correct": "B",
+        "explanation": "Opisowe wsparcie zamiast strofowania.",
+        "reference": "Widzę, że bardzo się starałaś"
+      },
+      {
+        "question": "Jak Marek chwali rysunek Marysi?",
+        "answers": [
+          "„Jesteś piękna”",
+          "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
+          "„Świetnie” i koniec",
+          "Nie chwali"
+        ],
+        "correct": "B",
+        "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.",
+        "reference": "kwiatki w tle"
+      },
+      {
+        "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+        "answers": [
+          "Że syn go nie kocha",
+          "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
+          "Że straci pracę",
+          "Że wyjadą za granicę"
+        ],
+        "correct": "B",
+        "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej.",
+        "reference": "nigdy mnie nie przeprosił"
+      },
+      {
+        "question": "Jaką bajkę czyta Ania na koniec?",
+        "answers": [
+          "O Kopciuszku",
+          "O smoku, który nie umiał przepraszać",
+          "O kosmonaucie",
+          "O psie"
+        ],
+        "correct": "B",
+        "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”.",
+        "reference": "smoku, który nie umiał przepraszać"
+      }
+    ],
+    "inspiration": "Podcast Marii Berlińskiej o autorytecie przez przepraszanie; YouTube ewtts_glfwg (2024-10-13)."
+  },
+  "Cisza": {
+    "manuscript_title": "Cisza",
+    "slug": "cisza-dom",
+    "pack_id": "polish_cisza_dom",
+    "display_title": "Cisza",
+    "subtitle": "Shitsuke, mimamoru i amae w domu",
+    "blurb": "Kasia krzyczy codziennie, gdy Franek rozlewa wodę — aż trafia na film o japońskim wychowaniu. Shitsuke, mimamoru i amae uczą ją, że zmienia się nie dziecko, tylko ona sama.",
+    "genres": "psychology, instruction, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "japońskie wychowanie, shitsuke, mimamoru, amae, Collection Ten",
+    "keywords": "Cisza, shitsuke, mimamoru, amae, Franek",
+    "editorial_notes": "NIE mylić z cisza-przed-burza (C4). Slug cisza-dom celowo rozróżnia.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Zwięzła opowieść; dobra para z Kij i marchewka.",
+    "founder_notes": [
+      "P0: slug disambiguation vs cisza-przed-burza."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "home",
+      "silence",
+      "childhood",
+      "motherhood",
+      "teaching",
+      "water"
+    ],
+    "quiz": [
+      {
+        "question": "Co oznacza shitsuke w opowieści?",
+        "answers": [
+          "Karanie za każdy błąd",
+          "Budowanie umiejętności zamiast karania",
+          "Ignorowanie dziecka",
+          "Nagradzanie słodyczami"
+        ],
+        "correct": "B",
+        "explanation": "Shitsuke pyta: jakiej umiejętności brakuje dziecku?",
+        "reference": "Budowanie umiejętności"
+      },
+      {
+        "question": "Co robi Kasia, gdy Franek nie może zapiąć kurtki?",
+        "answers": [
+          "Zapina za niego od razu",
+          "Czeka 10 sekund zanim pomoże",
+          "Krzyknie",
+          "Wychodzi bez niego"
+        ],
+        "correct": "B",
+        "explanation": "Mimamoru — czeka z miłością; Franek sam zapina.",
+        "reference": "Poczekaj tylko 10 sekund"
+      },
+      {
+        "question": "Co to amae według filmu?",
+        "answers": [
+          "Karanie publiczne",
+          "Bycie bezpiecznym bez słów — dziecko może oprzeć się na miłości",
+          "Samodzielność bez rodzica",
+          "Konkursy piękności"
+        ],
+        "correct": "B",
+        "explanation": "Amae = bezpieczne przywiązanie umożliwiające spokój.",
+        "reference": "bezpiecznym bez słów"
+      },
+      {
+        "question": "Co mówi głos z filmu o wychowaniu?",
+        "answers": [
+          "Wychowanie zmienia dziecko",
+          "Wychowanie zmienia ciebie — i to wystarczy",
+          "Wychowanie nie ma znaczenia",
+          "Wychowanie to tylko kara"
+        ],
+        "correct": "B",
+        "explanation": "„Wychowanie nie zmienia twojego dziecka. Zmienia ciebie”.",
+        "reference": "Zmienia ciebie"
+      },
+      {
+        "question": "Jaka cisza zapanowała w domu na końcu?",
+        "answers": [
+          "Cisza napięcia i strachu",
+          "Cisza zaufania i obecności",
+          "Cisza, bo wszyscy poszli spać",
+          "Brak rozmów"
+        ],
+        "correct": "B",
+        "explanation": "Cisza obecności, zaufania i miłości — nie braku dźwięków.",
+        "reference": "ciszą, która rodzi się z obecności"
+      }
+    ],
+    "inspiration": "Japońskie koncepcje shitsuke, mimamoru i amae w rodzicielstwie; YouTube hvfvOfATZoY (2026-05-27)."
+  },
+  "Naczynia połączone": {
+    "manuscript_title": "Naczynia połączone",
+    "slug": "naczynia-polaczone",
+    "pack_id": "polish_naczynia_polaczone",
+    "display_title": "Naczynia połączone",
+    "subtitle": "Agresja w szkole, system w domu",
+    "blurb": "Nauczycielka Anna widzi w Kacprze geniusza i agresję naraz. Mówi rodzicom: rodzina to naczynia połączone — zmiana w domu zmienia chłopca w klasie.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "agresja, szkoła, rodzina, granice, Collection Ten",
+    "keywords": "Naczynia połączone, Kacper, Anna, kontrakt rodzinny",
+    "editorial_notes": "Fikcja o przemocy rówieśniczej; perspektywa nauczycielki.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Metafora naczyń połączonych dobrze tłumaczy system rodzinny.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "school",
+      "family",
+      "anger",
+      "teaching",
+      "community",
+      "reconciliation"
+    ],
+    "quiz": [
+      {
+        "question": "Jak Anna opisuje rodzinę?",
+        "answers": [
+          "Jako więzienie",
+          "Jako naczynia połączone — poziom wody zmienia się wszędzie",
+          "Jako firmę",
+          "Jako teatr"
+        ],
+        "correct": "B",
+        "explanation": "Rodzina jak połączone naczynia — wpływ w obie strony.",
+        "reference": "naczynia połączone"
+      },
+      {
+        "question": "Co Anna proponuje zamiast kar typu zabierania tabletu?",
+        "answers": [
+          "Konsekwencje i naprawianie szkody",
+          "Ignorowanie",
+          "Wykluczenie ze szkoły",
+          "Publiczne upokorzenie"
+        ],
+        "correct": "A",
+        "explanation": "Konsekwencje naturalne — przeprosiny, sprzątanie, naprawa.",
+        "reference": "konsekwencje"
+      },
+      {
+        "question": "Co Marta mówi Kacprowi, gdy rzuca rzeczami?",
+        "answers": [
+          "Masz zakaz emocji",
+          "Masz prawo być zły, ale nie możesz rzucać rzeczami",
+          "Idź do kąta natychmiast",
+          "Nic nie mówi"
+        ],
+        "correct": "B",
+        "explanation": "„Masz prawo być zły” + jasna granica.",
+        "reference": "Masz prawo być zły"
+      },
+      {
+        "question": "Co Kacper robi, gdy się denerwuje w szkole po zmianach?",
+        "answers": [
+          "Bije innych",
+          "Siada na dywanie, ściska gniotka, mówi „potrzebuję chwili”",
+          "Ucieka ze szkoły",
+          "Krzyczy na nauczycielkę"
+        ],
+        "correct": "B",
+        "explanation": "Uczy się regulacji — gniotek, chwila, wyjście.",
+        "reference": "potrzebuję chwili"
+      },
+      {
+        "question": "Co jest na rysunku, który Kacper daje Annie?",
+        "answers": [
+          "Dinozaur",
+          "Podziękowanie: „nauczyłaś mnie, jak być dobrym”",
+          "Dom bez ludzi",
+          "Mapa"
+        ],
+        "correct": "B",
+        "explanation": "Napis: „Dziękuję, że nauczyłaś mnie, jak być dobrym”.",
+        "reference": "jak być dobrym"
+      }
+    ],
+    "inspiration": "Metafora rodziny jako naczyń połączonych — system rodzinny; YouTube Q6sW6OEPcH8 (2022-11-23)."
+  },
+  "Ułamki": {
+    "manuscript_title": "Ułamki",
+    "slug": "ulamki",
+    "pack_id": "polish_ulamki",
+    "display_title": "Ułamki",
+    "subtitle": "Podziel czynność na kroki",
+    "blurb": "Poranki Magdy z czteroletnią Zosią to walka o kurtkę — aż podcast Agi Rogali tłumaczy: „Ubierz się” to dziesięć zadań naraz.",
+    "genres": "psychology, instruction, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "Aga Rogali, samodzielność, przedszkole, Collection Ten",
+    "keywords": "Ułamki, Aga Rogali, Zosia, poranki",
+    "editorial_notes": "Fikcja ilustrująca technikę podziału czynności na kroki.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Najlepszy praktyczny parenting w C10 dla rodziców przedszkolaków.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "motherhood",
+      "home",
+      "clock",
+      "teaching",
+      "patience"
+    ],
+    "quiz": [
+      {
+        "question": "Co Aga Rogala mówi o zdaniu „Załóż kurtkę”?",
+        "answers": [
+          "To jedno proste polecenie",
+          "To wiele kroków: haczyk, rękawy, zamek itd.",
+          "To nie ma sensu",
+          "To tylko dla dorosłych"
+        ],
+        "correct": "B",
+        "explanation": "Dla dziecka jedno zdanie = seria skomplikowanych czynności.",
+        "reference": "wiele czynności"
+      },
+      {
+        "question": "Co Magda robi następnego ranka?",
+        "answers": [
+          "Wkłada kurtkę Zosi sama",
+          "Siada obok i prowadzi krok po kroku",
+          "Rezygnuje z przedszkola",
+          "Krzyknie"
+        ],
+        "correct": "B",
+        "explanation": "„Pokażę ci, jak się ubieramy. Razem”.",
+        "reference": "krok po kroku"
+      },
+      {
+        "question": "Jak Magda tłumaczy „szykuj się do spania”?",
+        "answers": [
+          "Jednym słowem wystarczy",
+          "Dzieli na: łazienka, zęby, piżama, łóżko",
+          "Każe iść spać w ubraniu",
+          "Ignoruje"
+        ],
+        "correct": "B",
+        "explanation": "Konkretna lista kroków wieczornych.",
+        "reference": "Pierwsze: idziemy do łazienki"
+      },
+      {
+        "question": "Jak Zosia porównuje instrukcje do piosenki?",
+        "answers": [
+          "Nie lubi piosenek",
+          "Jak zna słowa — śpiewa sama; jak nie — mama pomaga",
+          "Zawsze potrzebuje mamy",
+          "Nigdy nie pamięta"
+        ],
+        "correct": "B",
+        "explanation": "Metafora piosenki = stopniowa samodzielność.",
+        "reference": "Jak znam wszystkie słowa"
+      },
+      {
+        "question": "Co Zosia robi sama po kilku tygodniach?",
+        "answers": [
+          "Gotuje obiad dla rodziny",
+          "Robi kanapkę i herbatę krok po kroku",
+          "Jedzie autobusem",
+          "Pisze list do Agi"
+        ],
+        "correct": "B",
+        "explanation": "Opisuje kroki: chleb, masło, ser, herbata.",
+        "reference": "Zrobiłam sobie sama"
+      }
+    ],
+    "inspiration": "Podcast Agi Rogali o dzieleniu czynności na kroki; YouTube 9cZbjfFkaoI (2022-08-08)."
+  },
+  "Przedszkole bez ścian": {
+    "manuscript_title": "Przedszkole bez ścian",
+    "slug": "przedszkole-bez-scian",
+    "pack_id": "polish_przedszkole_bez_scian",
+    "display_title": "Przedszkole bez ścian",
+    "subtitle": "Nauka przez naturę i projekty",
+    "blurb": "Wypalona nauczycielka Marta słyszy o przedszkolu, gdzie dzieci uczą się na dworze i przez własne pasje. Z czerwonego jabłka w linii przechodzi do projektu o dinozaurach.",
+    "genres": "instruction, short_story",
+    "cover_family": "everyday_live",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "przedszkole, edukacja, natura, Collection Ten",
+    "keywords": "Przedszkole bez ścian, Marta, edukacja alternatywna",
+    "editorial_notes": "Fikcja o alternatywnej edukacji; dość idealizująca.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Ciepła, ale słabsza narracyjnie niż parenting stories.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "school",
+      "forest",
+      "garden",
+      "discovery",
+      "teaching",
+      "wonder"
+    ],
+    "quiz": [
+      {
+        "question": "Co Franek pyta o kolorowance z jabłkiem?",
+        "answers": [
+          "Czy może być fioletowe",
+          "Czy dostanie nagrodę",
+          "Czy pani Marta odchodzi",
+          "Czy jabłko jest jadalne"
+        ],
+        "correct": "A",
+        "explanation": "Franek: „Moje może być fioletowe?”.",
+        "reference": "fioletowe"
+      },
+      {
+        "question": "Gdzie dzieci spędzają większość czasu po zmianie?",
+        "answers": [
+          "W sali z kolorowankami",
+          "Na dworze, niezależnie od pogody",
+          "W kinie",
+          "W domu"
+        ],
+        "correct": "B",
+        "explanation": "Grażyna: większość czasu na dworze, uczenie przez doświadczenie.",
+        "reference": "na dworze"
+      },
+      {
+        "question": "Jak zaczyna się projekt o dinozaurach?",
+        "answers": [
+          "Od testu pisemnego",
+          "Od figurki dinozaura, którą Franek przynosi",
+          "Od kary",
+          "Od rodziców"
+        ],
+        "correct": "B",
+        "explanation": "Franek przynosi figurkę — dzieci chcą wiedzieć więcej.",
+        "reference": "figurkę dinozaura"
+      },
+      {
+        "question": "Kogo Marta zaprasza do przedszkola?",
+        "answers": [
+          "Astronautę",
+          "Tatę Franka — weterynarza",
+          "Politka",
+          "Piosenkarza"
+        ],
+        "correct": "B",
+        "explanation": "Tata Franka opowiada o zwierzętach; powstaje kącik weterynaryjny.",
+        "reference": "weterynarzem"
+      },
+      {
+        "question": "Co Franek mówi Martę po latach jako uczeń?",
+        "answers": [
+          "Nienawidził przedszkola",
+          "W szkole też lubi się uczyć, bo może pytać",
+          "Zapomniał dinozaurów",
+          "Chce zostać nauczycielem"
+        ],
+        "correct": "B",
+        "explanation": "Franek: w szkole lubi uczyć się, bo wie, że może pytać.",
+        "reference": "mogę pytać"
+      }
+    ],
+    "inspiration": "Alternatywna edukacja przedszkolna przez naturę i projekty; YouTube DYI8zmmdtdk (2021-11-08)."
+  },
+  "Etykieta": {
+    "manuscript_title": "Etykieta",
+    "slug": "etykieta",
+    "pack_id": "polish_etykieta",
+    "display_title": "Etykieta",
+    "subtitle": "Samospełniająca się etykieta „lenia”",
+    "blurb": "Kamil słyszał w dzieciństwo, że jest leniem — i powtarza to synowi Adamowi. Książka Szymona Grzelaka uczy go etykietować inaczej: wytrwały, odpowiedzialny.",
+    "genres": "psychology, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 4,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "etykiety, Szymon Grzelak, ojcostwo, Collection Ten",
+    "keywords": "Etykieta, Kamil, Adam, lenistwo",
+    "editorial_notes": "Fikcja o samospełniającej się przepowiedni etykiet.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silny mechanizm psychologiczny; moc słów rodzica.",
+    "founder_notes": [],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "fatherhood",
+      "shame",
+      "memory",
+      "teaching",
+      "forgiveness"
+    ],
+    "quiz": [
+      {
+        "question": "Co ojciec Kamila mówił mu regularnie?",
+        "answers": [
+          "Jesteś geniuszem",
+          "Jesteś leniwy / z ciebie leń",
+          "Idź spać",
+          "Kocham cię"
+        ],
+        "correct": "B",
+        "explanation": "„Ty to jesteś leniwy jak nic”.",
+        "reference": "leniwy jak nic"
+      },
+      {
+        "question": "Jaką książkę czyta Kamil?",
+        "answers": [
+          "Harry Potter",
+          "Dziki ojciec Szymona Grzelaka",
+          "W pustyni i w puszczy",
+          "1984"
+        ],
+        "correct": "B",
+        "explanation": "Czyta „Dziki ojciec” Grzelaka o etykietach.",
+        "reference": "Dziki ojciec"
+      },
+      {
+        "question": "Co Kamil mówi Adamowi po trójce z kartkówki?",
+        "answers": [
+          "Zawsze z ciebie był leń",
+          "Widzę, że się przygotowałeś — to wytrwałość",
+          "Idź do pokoju",
+          "Nigdy więcej sportu"
+        ],
+        "correct": "B",
+        "explanation": "Opisowe docenienie wysiłku, nie oceny.",
+        "reference": "wytrwałość"
+      },
+      {
+        "question": "Co Adam mówi o „leniu” na końcu?",
+        "answers": [
+          "Nadal w to wierzy",
+          "Wie, że nie jest leniem — czasem brakuje mu motywacji, ale może to zmienić",
+          "Nienawidzi taty",
+          "Nie chce chodzić do szkoły"
+        ],
+        "correct": "B",
+        "explanation": "Adam: nie jest leniem, czasem brak motywacji — ale może zmienić.",
+        "reference": "nie jestem leniem"
+      },
+      {
+        "question": "Jak Kamil reaguje na zepsuty projekt szkolny?",
+        "answers": [
+          "Krzyknie o nieuważności",
+          "Pyta spokojnie co się stało i co Adam może zrobić",
+          "Kupuje nowy projekt",
+          "Anuluje lekcje"
+        ],
+        "correct": "B",
+        "explanation": "Pyta o rozwiązanie i lekcję na przyszłość.",
+        "reference": "Co możesz zrobić"
+      }
+    ],
+    "inspiration": "Książka Szymona Grzelaka „Dziki ojciec” o etykietach; YouTube ULE1XyyNfkY (2021-09-14)."
+  },
+  "Jeszcze": {
+    "manuscript_title": "Jeszcze",
+    "slug": "jeszcze",
+    "pack_id": "polish_jeszcze",
+    "display_title": "Jeszcze",
+    "subtitle": "Growth mindset — „jeszcze nie umiem”",
+    "blurb": "Julia przestała pytać — teraz mówi „nudne”. Tomasz odkrywa singapurską zasadę „jeszcze” i budzi w córce ciekawość przez pytania i błędy.",
+    "genres": "psychology, instruction, short_story",
+    "cover_family": "psychology",
+    "audience": "family",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "growth mindset, singapurska metoda, nauka, Collection Ten",
+    "keywords": "Jeszcze, Julia, growth mindset, motywacja",
+    "editorial_notes": "Fikcja o growth mindset; silny pedagogiczny przekaz.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Doskonałe dopasowanie — motywacja wewnętrzna.",
+    "founder_notes": [
+      "Rekomendacja: mocny kandydat family shelf."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "childhood",
+      "fatherhood",
+      "school",
+      "question",
+      "discovery",
+      "teaching"
+    ],
+    "quiz": [
+      {
+        "question": "Jak Tomasz poprawia zdanie Julii „nie umiem matematyki”?",
+        "answers": [
+          "Masz rację",
+          "Jeszcze nie umiesz — możesz się nauczyć",
+          "Ucz się więcej",
+          "Matma jest głupia"
+        ],
+        "correct": "B",
+        "explanation": "Kluczowe słowo „jeszcze” zmienia perspektywę.",
+        "reference": "Jeszcze nie umiesz"
+      },
+      {
+        "question": "Które pytanie Tomasz zadaje zamiast „jak było w szkole”?",
+        "answers": [
+          "Ile masz ocen",
+          "Co dziś najbardziej cię zaskoczyło?",
+          "Czy dostaniesz dwóję",
+          "Kiedy odrabisz lekcje"
+        ],
+        "correct": "B",
+        "explanation": "Pytania o odkrycia i zaskoczenia budzą ciekawość.",
+        "reference": "najbardziej cię zaskoczyło"
+      },
+      {
+        "question": "Jak Tomasz używa naleśników?",
+        "answers": [
+          "Jako nagrodę za oceny",
+          "Jako praktyczną matematykę — podwajanie porcji",
+          "Nigdy nie gotuje",
+          "Jako karę"
+        ],
+        "correct": "B",
+        "explanation": "Julia liczy mąkę i jajka na podwójną porcję.",
+        "reference": "podwójną porcję"
+      },
+      {
+        "question": "Co Julia mówi do siebie podczas odrabiania lekcji?",
+        "answers": [
+          "Nigdy tego nie zrobię",
+          "Nie umiem tego jeszcze, ale mogę spróbować",
+          "Tato mi pomoże",
+          "Nie będę się uczyć"
+        ],
+        "correct": "B",
+        "explanation": "Wewnętrzny monolog z „jeszcze”.",
+        "reference": "jeszcze, ale mogę spróbować"
+      },
+      {
+        "question": "Co Julia mówi na końcu o nauce?",
+        "answers": [
+          "Nigdy więcej szkoły",
+          "Chyba lubię się uczyć",
+          "Tylko matma jest ok",
+          "Tato robi za mnie lekcje"
+        ],
+        "correct": "B",
+        "explanation": "„Chyba lubię się uczyć” — motywacja wewnętrzna.",
+        "reference": "lubię się uczyć"
+      }
+    ],
+    "inspiration": "Singapurska metoda growth mindset — słowo „jeszcze”; YouTube B1jM_vMk-Jk (2026-06-04)."
+  },
+  "Lista rzeczy, których żałuję": {
+    "manuscript_title": "Lista rzeczy, których żałuję",
+    "slug": "lista-rzeczy-ktorych-zaluje",
+    "pack_id": "polish_lista_rzeczy_ktorych_zaluje",
+    "display_title": "Lista rzeczy, których żałuję",
+    "subtitle": "Regret list matki dorosłych dzieci",
+    "blurb": "Anna ma 42 lata i listę jedenaastu rodzicielskich żalów. Syn Tomek wraca na weekend i pokazuje, że miłość przetrwała mimo błędów.",
+    "genres": "psychology, short_story",
+    "cover_family": "everyday_live",
+    "audience": "adult",
+    "difficulty": 4,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "żal, macierzyństwo, relacja z dorosłym dzieckiem, Collection Ten",
+    "keywords": "Lista żalów, Anna, Tomek, macierzyństwo",
+    "editorial_notes": "Tytuł podobny do C9 „Lista” — inna fabuła; slug rozróżnia.",
+    "philosophy_stars": 3,
+    "philosophy_note": "Poruszająca, melancholijna; mniej encourage exploration niż Jeszcze.",
+    "founder_notes": [
+      "Title similarity: C9 Lista uses lista-myrotworec."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "motherhood",
+      "grief",
+      "memory",
+      "photograph",
+      "forgiveness",
+      "gratitude"
+    ],
+    "quiz": [
+      {
+        "question": "Ile lat ma Anna?",
+        "answers": [
+          "32",
+          "42",
+          "52",
+          "38"
+        ],
+        "correct": "B",
+        "explanation": "Tekst: „Anna miała czterdzieści dwa lata”.",
+        "reference": "czterdzieści dwa lata"
+      },
+      {
+        "question": "Co Tomek pamięta z dzieciństwa bolesnego dla Anny?",
+        "answers": [
+          "Tylko prezenty",
+          "Że mama często krzyczała i odwołała wyjście do kina",
+          "Tylko wakacje",
+          "Nic"
+        ],
+        "correct": "B",
+        "explanation": "Tomek wspomina krzyk i odwołane kino.",
+        "reference": "odwołać wyjście do kina"
+      },
+      {
+        "question": "Po co Anna pisze listę?",
+        "answers": [
+          "Dla sąsiadów",
+          "By zrozumieć błędy i coś zmienić — nie by się obwiniać",
+          "Dla sądu",
+          "Dla szkoły"
+        ],
+        "correct": "B",
+        "explanation": "Napisała listę, żeby zrozumieć i zmienić, nie by się obwiniać.",
+        "reference": "żeby zrozumieć"
+      },
+      {
+        "question": "Co Tomek robi ze starymi zdjęciami?",
+        "answers": [
+          "Wyrzuca je",
+          "Skanuje i porządkuje album wspomnień",
+          "Sprzedaje",
+          "Palą"
+        ],
+        "correct": "B",
+        "explanation": "Tomek skanuje zdjęcia z pudła — „nasze wspomnienia”.",
+        "reference": "zeskanował"
+      },
+      {
+        "question": "Co Tomek pisze o liście żalów?",
+        "answers": [
+          "Jest zły",
+          "Jest wdzięczny — widać, że mamie zależy i ją kocha",
+          "Ignoruje matkę",
+          "Chce pieniędzy"
+        ],
+        "correct": "B",
+        "explanation": "Tomek: lista pokazuje, że zależy i kocha — to najważniejsze.",
+        "reference": "Jestem wdzięczny"
+      }
+    ],
+    "inspiration": "Refleksja matki dorosłych dzieci nad rodzicielskimi żalami; YouTube rqugxbDkCro (2019-06-23)."
+  },
+  "Bogini i liczby": {
+    "manuscript_title": "Bogini i liczby",
+    "slug": "bogini-i-liczby",
+    "pack_id": "polish_bogini_i_liczby",
+    "display_title": "Bogini i liczby",
+    "subtitle": "Ramanujan, Hardy i wizje we śnie",
+    "blurb": "Srinivasa Ramanujan widzi wzory, których nie potrafi udowodnić — i mówi, że podpowiada mu je bogini Namagiri. W Cambridge Hardy wymaga dowodów.",
+    "genres": "biography, history, short_story",
+    "cover_family": "biography",
+    "audience": "teen",
+    "difficulty": 6,
+    "reader_stars": "★★★★☆",
+    "trust": "Adapted from real events",
+    "tags": "Ramanujan, matematyka, Hardy, Indie, Collection Ten",
+    "keywords": "Bogini i liczby, Ramanujan, Hardy, matematyka",
+    "editorial_notes": "Fikcja historyczna; mistycyzm vs dowód — fiction disclaimer.",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna opowieść o wiedzy i granicach nauki.",
+    "founder_notes": [
+      "Founder review: mistycyzm religijny + twierdzenia matematyczne."
+    ],
+    "series": "Collection Ten",
+    "motifs": [
+      "mathematics",
+      "ocean",
+      "dream",
+      "mentor",
+      "exile",
+      "discovery"
+    ],
+    "quiz": [
+      {
+        "question": "Kto jest głównym bohaterem opowieści?",
+        "answers": [
+          "Isaac Newton",
+          "Srinivasa Ramanujan",
+          "Albert Einstein",
+          "Ada Lovelace"
+        ],
+        "correct": "B",
+        "explanation": "Opowieść śledzi życie Ramanujana.",
+        "reference": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Kto w Cambridge otrzymuje list pełen twierdzeń bez dowodów?",
+        "answers": [
+          "Littlewood",
+          "Hardy",
+          "Euler",
+          "Gauss"
+        ],
+        "correct": "B",
+        "explanation": "Hardy czyta list od Ramanujana w Trinity College.",
+        "reference": "Hardy patrzył na list"
+      },
+      {
+        "question": "Jaką boginię Ramanujan wspomina?",
+        "answers": [
+          "Lakshmi",
+          "Namagiri z Namakkalu",
+          "Kali",
+          "Saraswati"
+        ],
+        "correct": "B",
+        "explanation": "Matka słyszy we śnie głos bogini Namagiri.",
+        "reference": "Namagiri"
+      },
+      {
+        "question": "Ile lat miał Ramanujan, gdy zmarł?",
+        "answers": [
+          "42",
+          "32",
+          "22",
+          "52"
+        ],
+        "correct": "B",
+        "explanation": "26 kwietnia 1920 — miał 32 lata.",
+        "reference": "32 lata"
+      },
+      {
+        "question": "Co Ramanujan mówi o równaniach?",
+        "answers": [
+          "Muszą być krótkie",
+          "Nie mają sensu, jeśli nie wyrażają myśli Boga",
+          "Są tylko dla inżynierów",
+          "Nie lubi równań"
+        ],
+        "correct": "B",
+        "explanation": "Powtarza: równanie bez sensu, jeśli nie wyraża myśli Boga.",
+        "reference": "myśli Boga"
+      }
+    ],
+    "inspiration": "Biografia Srinivasy Ramanujana i współpracy z G.H. Hardy; YouTube x2dAH_xCfX4 (2026-07-08)."
+  }
+}

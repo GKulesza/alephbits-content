@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki był przychód Kanału Sportowego w 2025 roku według wyników?",
+      "answers": [
+        "Dziewięć i dziewięć dziesiątych miliona złotych",
+        "Dwa miliardy złotych",
+        "Pięć milionów złotych",
+        "Jeden milion złotych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek czyta: dziewięć i dziewięć dziesiątych miliona przychodu i trzysta tysięcy straty."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak podzielili udziały na Mazurach?",
+      "answers": [
+        "Jeden miał 51%, reszta po 16%",
+        "Czterech po 25%",
+        "Dwóch po 50%",
+        "Trzech po 33%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na serwetce zapisali: „KS – udziały: 4 x 25%”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki był wynik głosowania o dalszym rozwoju kanału?",
+      "answers": [
+        "Trzy do jednego",
+        "Dwa do dwóch — remis",
+        "Jednogłośnie za",
+        "Wszyscy przeciw Krzyśkowi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zagłosowali i wyszło dwa do dwóch — remis bez większości decyzyjnej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Sebastian Felkner mówi o wspólnikach?",
+      "answers": [
+        "Że każdy powinien mieć po równo",
+        "Że bierze pracowników z warunkami jak wspólnicy, ale bez prawa głosu przy decyzjach",
+        "Że wspólnicy są konieczni",
+        "Że nigdy nie zakłada firm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian mówi, że daje pracownikom warunki jak wspólnikom, ale bez głosu przy decyzjach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Krzysiek odpowiada Tomkowi na końcu korespondencji?",
+      "answers": [
+        "Że chce wrócić do Kanału Sportowego",
+        "Że następnym razem nie będzie wspólników",
+        "Że winny jest Tomek",
+        "Że sprzedadzą kanał"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysiek odpisuje: „Następnym razem – nie będzie wspólników.”"
+    }
+  ]
+}

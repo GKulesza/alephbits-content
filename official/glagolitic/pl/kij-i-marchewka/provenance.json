@@ -1,0 +1,22 @@
+{
+  "packId": "polish_kij_i_marchewka",
+  "bookId": "kij-i-marchewka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja ilustrująca pozytywną dyscyplinę."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "YzdjDARIqxA"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co ojciec mówi Maćkowi przy kawałku stali w warsztacie?",
+      "answers": [
+        "Metal trzeba hartować w ogniu — tak samo człowieka",
+        "Ucz się grać na gitarze",
+        "Bądź miły dla matki",
+        "Czytaj codziennie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metafora hartowania metalu = wychowanie „twardym” bólem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Maciek nazywa brak bezpiecznej przystani u rodziców?",
+      "answers": [
+        "Raj",
+        "Poligon",
+        "Bibliotekę",
+        "Most"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myśli: „Ja nie mam takiej przystani. Ja mam poligon”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi psycholog Maciekowi?",
+      "answers": [
+        "Rodzice byli źli",
+        "Rodzice nie byli źli — byli nieobecni i nieumiejący; to nie jego wina",
+        "Powinien wrócić do domu",
+        "Nie powinien mieć dzieci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Psycholog: nieobecni, nieumiejący — i to nie wina Maćka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Maciek mówi ojcu po latach?",
+      "answers": [
+        "Że go nienawidzi",
+        "Że bał się jego nieprzewidywalności i myślał, że to z nim jest coś nie tak",
+        "Że dziękuje za surowość",
+        "Nic — nie odwiedza go"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opowiada o strachu i przekonaniu, że jest „słaby”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co rysuje córka na końcu?",
+      "answers": [
+        "Dinozaura",
+        "Rodzinę — wszyscy się uśmiechają",
+        "Samochód",
+        "Dom bez ludzi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Córka: „To my — ja, ty i mama. I wszyscy się uśmiechamy”."
+    }
+  ]
+}

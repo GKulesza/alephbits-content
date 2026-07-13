@@ -1,0 +1,22 @@
+{
+  "packId": "polish_dobra_dziewczynka",
+  "bookId": "dobra-dziewczynka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja w formie wywiadu radiowego; słabszy ton autopromocyjny."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Ten manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Tomasz poprawia zdanie Julii „nie umiem matematyki”?",
+      "answers": [
+        "Masz rację",
+        "Jeszcze nie umiesz — możesz się nauczyć",
+        "Ucz się więcej",
+        "Matma jest głupia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kluczowe słowo „jeszcze” zmienia perspektywę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Które pytanie Tomasz zadaje zamiast „jak było w szkole”?",
+      "answers": [
+        "Ile masz ocen",
+        "Co dziś najbardziej cię zaskoczyło?",
+        "Czy dostaniesz dwóję",
+        "Kiedy odrabisz lekcje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pytania o odkrycia i zaskoczenia budzą ciekawość."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Tomasz używa naleśników?",
+      "answers": [
+        "Jako nagrodę za oceny",
+        "Jako praktyczną matematykę — podwajanie porcji",
+        "Nigdy nie gotuje",
+        "Jako karę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julia liczy mąkę i jajka na podwójną porcję."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Julia mówi do siebie podczas odrabiania lekcji?",
+      "answers": [
+        "Nigdy tego nie zrobię",
+        "Nie umiem tego jeszcze, ale mogę spróbować",
+        "Tato mi pomoże",
+        "Nie będę się uczyć"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wewnętrzny monolog z „jeszcze”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Julia mówi na końcu o nauce?",
+      "answers": [
+        "Nigdy więcej szkoły",
+        "Chyba lubię się uczyć",
+        "Tylko matma jest ok",
+        "Tato robi za mnie lekcje"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Chyba lubię się uczyć” — motywacja wewnętrzna."
+    }
+  ]
+}

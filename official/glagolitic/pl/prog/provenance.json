@@ -1,0 +1,22 @@
+{
+  "packId": "polish_prog",
+  "bookId": "prog",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja-inspirowana companion do Sprawa; ten sam incydent, perspektywa progu domu. P0 founder review."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "NX29uqSdBI8"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

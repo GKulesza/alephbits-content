@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Anna opisuje rodzinę?",
+      "answers": [
+        "Jako więzienie",
+        "Jako naczynia połączone — poziom wody zmienia się wszędzie",
+        "Jako firmę",
+        "Jako teatr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rodzina jak połączone naczynia — wpływ w obie strony."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anna proponuje zamiast kar typu zabierania tabletu?",
+      "answers": [
+        "Konsekwencje i naprawianie szkody",
+        "Ignorowanie",
+        "Wykluczenie ze szkoły",
+        "Publiczne upokorzenie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konsekwencje naturalne — przeprosiny, sprzątanie, naprawa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marta mówi Kacprowi, gdy rzuca rzeczami?",
+      "answers": [
+        "Masz zakaz emocji",
+        "Masz prawo być zły, ale nie możesz rzucać rzeczami",
+        "Idź do kąta natychmiast",
+        "Nic nie mówi"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Masz prawo być zły” + jasna granica."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kacper robi, gdy się denerwuje w szkole po zmianach?",
+      "answers": [
+        "Bije innych",
+        "Siada na dywanie, ściska gniotka, mówi „potrzebuję chwili”",
+        "Ucieka ze szkoły",
+        "Krzyczy na nauczycielkę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uczy się regulacji — gniotek, chwila, wyjście."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest na rysunku, który Kacper daje Annie?",
+      "answers": [
+        "Dinozaur",
+        "Podziękowanie: „nauczyłaś mnie, jak być dobrym”",
+        "Dom bez ludzi",
+        "Mapa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napis: „Dziękuję, że nauczyłaś mnie, jak być dobrym”."
+    }
+  ]
+}

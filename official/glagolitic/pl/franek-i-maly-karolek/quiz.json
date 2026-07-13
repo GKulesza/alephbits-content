@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Franek?",
+      "answers": [
+        "Siedem",
+        "Dziesięć",
+        "Dwanaście",
+        "Osiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Franek miał dziesięć lat”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Franek obiecuje, gdy prosi o Karolka?",
+      "answers": [
+        "Że nigdy więcej nie zrobi figla",
+        "Że wyjedzie z domu",
+        "Że przestanie chodzić do szkoły",
+        "Że odda wszystkie zabawki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przysięga, że już nigdy nie zrobi żadnego figla."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Franek prosi, by nauczył go czytać?",
+      "answers": [
+        "Tatę",
+        "Pannę Gertrudę",
+        "Pani Gienię",
+        "Nauczyciela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prosi tatę o naukę czytania dla Karolka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Franek czyta Karolkowi wieczorami?",
+      "answers": [
+        "Książki o przyrodzie i przyjaźni",
+        "Gazety",
+        "Komiks grozy",
+        "Mapy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czyta o wiewiórkach, kasztanach, jesiennych liściach, przyjaźni."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak zmienia się Franek w oczach sąsiadów?",
+      "answers": [
+        "Z „urwisa” w szanowanego chłopca",
+        "Znika z kamienicy",
+        "Zostaje dorosłym",
+        "Nic się nie zmienia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówią o nim „Franek”, a nie „Franek łobuz”."
+    }
+  ]
+}

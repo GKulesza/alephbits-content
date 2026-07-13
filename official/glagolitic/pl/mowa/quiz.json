@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czego Marcin boi się najbardziej w kontekście mikrofonu?",
+      "answers": [
+        "Że zapomni tekstu slajdów",
+        "Że cisza wzmacnia jego niepewność i że ktoś oceni, że nie powinien tu być",
+        "Że mikrofon jest za głośny",
+        "Że szef go zwolni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel mówi, że ludzie boją się oceny: „Co on tu robi? Nie powinno go tu być.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kammel radzi zamiast mówić „jestem zdenerwowany”?",
+      "answers": [
+        "Powiedzieć „jestem zmęczony”",
+        "Powiedzieć „jestem pobudzony”",
+        "Nie mówić nic",
+        "Przeprosić publicznie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin zapisuje: nie mów „zdenerwowany”, mów „pobudzony” — biochemia się zmienia."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym Kammel prosi Marcina na końcu pierwszej lekcji?",
+      "answers": [
+        "O recytację slajdów",
+        "O opowiedzenie o dzieciach tak, jak przy kolacji — nie na scenie",
+        "O ćwiczenie przed lustrem",
+        "O nagranie wideo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz prosi: opowiedz o dzieciach tak, jak w domu, nie jak na scenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Marcin zaczyna mowę pożegnalną dla Andrzeja?",
+      "answers": [
+        "Od przeprosin za zacięcie",
+        "Od żartu, że pomylił Andrzeja z ochroniarzem",
+        "Od czytania slajdów",
+        "Od cytatu z książki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zaczyna: „Kiedy pierwszy raz spotkałem Andrzeja – pomyliłem go z ochroniarzem.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi córka dyrektora po wystąpieniu?",
+      "answers": [
+        "Że prezentacja była za długa",
+        "Że mówił pan o tacie tak, jakby go pan naprawdę znał",
+        "Że powinien wrócić do slajdów",
+        "Że nie rozumiała żartu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Córka mówi: „Mówił pan o tacie tak, jakby go pan naprawdę znał.”"
+    }
+  ]
+}

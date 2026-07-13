@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Kasia opisuje swoje ADHD psychologowi?",
+      "answers": [
+        "Jestem leniwa",
+        "Mam w głowie radio — wszystkie stacje naraz",
+        "Nie lubię szkoły",
+        "Jestem chora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: „Mam w głowie radio… Grają wszystkie stacje naraz”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co pomaga Kasi skupić się na lekcji?",
+      "answers": [
+        "Kary",
+        "Gniotek sensoryczny i możliwość krótkiego ruchu",
+        "Zakaz rozmów",
+        "Usunięcie z klasy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dostaje gniotka; może wstać na chwilę bez przeszkadzania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mama robi przed snem?",
+      "answers": [
+        "Włącza telewizor",
+        "Eliminuje ekrany — czytanie i cisza",
+        "Daje energetyki",
+        "Odrabia za Kasię lekcje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bez ekranów przed snem; czytanie książek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kasia mówi klasie o ADHD?",
+      "answers": [
+        "To znaczy, że jestem chora",
+        "Mój mózg działa inaczej, nie gorzej",
+        "Powinnam siedzieć w kącie",
+        "Nigdy nie będę dobra w szkole"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Nie. To znaczy, że mój mózg działa inaczej. Nie gorzej”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim Kasia chce zostać na studiach?",
+      "answers": [
+        "Lekarką",
+        "Psychologiem — pomagać dzieciom jak ona",
+        "Piosenkarką",
+        "Programistką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Studiuje psychologię, by wspierać dzieci z podobnymi trudnościami."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_opowiesci_z_poprzedniego_zycia",
+  "bookId": "opowiesci-z-poprzedniego-zycia",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja psychologiczna o dziecięcej pamięci; nie jest dowodem na reinkarnację — narracja edukacyjna o mechanizmach pamięci."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "_TH-VyYCJYM"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

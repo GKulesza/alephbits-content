@@ -882,6 +882,50 @@
         }
       ]
     },
+    "adventure": {
+      "id": "adventure",
+      "displayName": "Adventure",
+      "title": "Adventure",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "legends",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-01.jpg",
+          "sourcePath": "covers/legends/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-02.jpg",
+          "sourcePath": "covers/legends/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-03.jpg",
+          "sourcePath": "covers/legends/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-04.jpg",
+          "sourcePath": "covers/legends/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/legends",
+          "thumbnailPath": "covers/legends/cover-05.jpg",
+          "sourcePath": "covers/legends/cover-05.jpg"
+        }
+      ]
+    },
     "article": {
       "id": "article",
       "displayName": "Article",
@@ -923,6 +967,50 @@
           "directory": "covers/everyday_live",
           "thumbnailPath": "covers/everyday_live/cover-05.jpg",
           "sourcePath": "covers/everyday_live/cover-05.jpg"
+        }
+      ]
+    },
+    "business": {
+      "id": "business",
+      "displayName": "Business",
+      "title": "Business",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "economics",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-01.jpg",
+          "sourcePath": "covers/economics/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-02.jpg",
+          "sourcePath": "covers/economics/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-03.jpg",
+          "sourcePath": "covers/economics/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-04.jpg",
+          "sourcePath": "covers/economics/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/economics",
+          "thumbnailPath": "covers/economics/cover-05.jpg",
+          "sourcePath": "covers/economics/cover-05.jpg"
         }
       ]
     },
@@ -1055,6 +1143,50 @@
           "directory": "covers/languages",
           "thumbnailPath": "covers/languages/cover-05.jpg",
           "sourcePath": "covers/languages/cover-05.jpg"
+        }
+      ]
+    },
+    "family": {
+      "id": "family",
+      "displayName": "Family",
+      "title": "Family",
+      "variantsCount": 5,
+      "format": "jpg",
+      "width": 200,
+      "height": 300,
+      "quality": 80,
+      "default": false,
+      "sourceFamily": "psychology",
+      "variants": [
+        {
+          "variantId": "cover_01",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-01.jpg",
+          "sourcePath": "covers/psychology/cover-01.jpg"
+        },
+        {
+          "variantId": "cover_02",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-02.jpg",
+          "sourcePath": "covers/psychology/cover-02.jpg"
+        },
+        {
+          "variantId": "cover_03",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-03.jpg",
+          "sourcePath": "covers/psychology/cover-03.jpg"
+        },
+        {
+          "variantId": "cover_04",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-04.jpg",
+          "sourcePath": "covers/psychology/cover-04.jpg"
+        },
+        {
+          "variantId": "cover_05",
+          "directory": "covers/psychology",
+          "thumbnailPath": "covers/psychology/cover-05.jpg",
+          "sourcePath": "covers/psychology/cover-05.jpg"
         }
       ]
     },

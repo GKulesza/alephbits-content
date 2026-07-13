@@ -1,0 +1,22 @@
+{
+  "packId": "polish_niedzwiedz",
+  "bookId": "niedzwiedz",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o komunikacji w małżeństwie; krótsza wersja — import zamiast „Niedźwiedź numer dwa”."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "F7YtLJEj8Nk"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

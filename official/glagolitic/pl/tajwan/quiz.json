@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim z zawodu jest Chen Ching Ting?",
+      "answers": [
+        "Lekarką",
+        "Wydawczynią",
+        "Pilotką",
+        "Urędniczką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ching Ting jest wydawczynią, jedzie na Targi Książki we Frankfurcie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co funkcjonariusze mówią o jej paszporcie?",
+      "answers": [
+        "Że jest przeterminowany",
+        "Że jest fałszywy — numer nie istnieje w systemie",
+        "Że brakuje wizy",
+        "Że zdjęcie jest za stare"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówią: „Pani paszport jest fałszywy. Numer nie istnieje w systemie.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile trwa przesłuchanie na lotnisku?",
+      "answers": [
+        "Godzinę",
+        "Cztery godziny",
+        "Dzień",
+        "Piętnaście minut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi wprost: cztery godziny przesłuchania."
+    },
+    {
+      "type": "single_choice",
+      "question": "W którym roku Tajwan został wyrzucony z ONZ według opowieści?",
+      "answers": [
+        "1949",
+        "1971",
+        "1989",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "W 1971 roku Tajwan został wyrzucony z ONZ po odmowie „podwójnej reprezentacji”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką firmę z Tajwanu tekst wymienia jako producenta zaawansowanych chipów?",
+      "answers": [
+        "Intel",
+        "TSMC",
+        "Samsung",
+        "Huawei"
+      ],
+      "correctIndex": 1,
+      "explanation": "TSMC na Tajwanie produkuje ok. 90% najbardziej zaawansowanych chipów."
+    }
+  ]
+}

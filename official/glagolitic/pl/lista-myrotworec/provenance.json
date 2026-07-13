@@ -1,0 +1,22 @@
+{
+  "packId": "polish_lista_myrotworec",
+  "bookId": "lista-myrotworec",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Artykuł polityczno-historyczny; slug lista-myrotworec rozróżnia od C10 „Lista rzeczy, których żałuję”. P0 founder review."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "uSPpMgqoBXo"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_glos_i_cisza",
+  "bookId": "glos-i-cisza",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Adaptacja motywu Małej Syrenki (Andersen); wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "VubCpPqFNPM"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

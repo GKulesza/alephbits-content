@@ -1,0 +1,22 @@
+{
+  "packId": "polish_naczynia_polaczone",
+  "bookId": "naczynia-polaczone",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o przemocy rówieśniczej; perspektywa nauczycielki."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Q6sW6OEPcH8"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

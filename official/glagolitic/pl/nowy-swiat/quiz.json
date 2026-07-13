@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co mówił ojciec Tomka, gdy ten próbował się wypowiedzieć?",
+      "answers": [
+        "Dzieci i ryby głosu nie mają",
+        "Mów głośniej",
+        "Pytaj o wszystko",
+        "Ucz się sam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ojciec: „Dzieci i ryby głosu nie mają — masz słuchać, nie gadać”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co uruchamia refleksję Tomka w samochodzie?",
+      "answers": [
+        "SMS od szefa",
+        "Podcast z Marią Berlińską o dialogu z dziećmi",
+        "Film akcji",
+        "Reklama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Słyszy: „Kiedyś dzieci miały słuchać, a teraz chcą być w dialogu”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia mówi, czego potrzebuje od taty?",
+      "answers": [
+        "Więcej prezentów",
+        "Żeby był ze mną — nie tylko fizycznie",
+        "Nowego telefonu",
+        "Żeby nie pracował"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Potrzebuję, żebyś był ze mną. Nie tylko fizycznie”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tomek zmienia wieczorami?",
+      "answers": [
+        "Więcej telewizora",
+        "Odkłada telefon i rozmawia z dziećmi",
+        "Wysyła dzieci do babci",
+        "Kupuje im gry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wieczory bez telefonów — rozmowa, czytanie, spacer."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi nauczycielka na wywiadówce?",
+      "answers": [
+        "Że Zosia się pogorszyła",
+        "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmienił”",
+        "Że Zosia powinna zmienić szkołę",
+        "Nic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmienił”."
+    }
+  ]
+}

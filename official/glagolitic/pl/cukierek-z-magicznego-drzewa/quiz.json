@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywają się trzej przyjaciele?",
+      "answers": [
+        "Kicek, Kolczuś i Rudi",
+        "Burek, Azor i Filek",
+        "Matołek, Tygrys i Terka",
+        "Kicek, Rudi i Terka"
+      ],
+      "correctIndex": 0,
+      "explanation": "To zajączek Kicek, jeżyk Kolczuś i lisek Rudi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pierwszy dostaje cukierka?",
+      "answers": [
+        "Kolczuś",
+        "Rudi",
+        "Kicek",
+        "Nikt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolczuś pomaga Kickowi z kolcem bezinteresownie i dostaje cukierka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Rudi początkowo nie dostaje cukierków?",
+      "answers": [
+        "Pomaga tylko po to, by dostać nagrodę",
+        "Nie zna drzewa",
+        "Jest chory",
+        "Nie lubi słodyczy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jego pomoc nie jest bezinteresowna — oczekuje nagrody."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Rudi, gdy w końcu dostaje cukierki?",
+      "answers": [
+        "Dzieli się nimi z innymi",
+        "Je wszystkie sam",
+        "Wyrzuca je",
+        "Chowa na zimę"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi, że podzieli się z tymi, którym pomógł, a resztę zjedzą razem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiedy liść zamienia się w cukierka?",
+      "answers": [
+        "Gdy Kolczuś bezinteresownie pomaga Kickowi",
+        "Gdy pada deszcz",
+        "Gdy Rudi krzyczy",
+        "W nocy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drzewo reaguje na bezinteresowną pomoc Kolczusia."
+    }
+  ]
+}

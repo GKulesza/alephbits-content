@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak pani Maria definiuje budowanie autorytetu?",
+      "answers": [
+        "Na nakazach i zakazach",
+        "Na „przepraszam” i przyznawaniu się do błędów",
+        "Na karach",
+        "Na nagrodach"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Autorytet… zbuduje się go na przepraszam”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+      "answers": [
+        "Krzyknie „Znowu?”",
+        "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
+        "Każe iść do pokoju",
+        "Ignoruje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisowe wsparcie zamiast strofowania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Marek chwali rysunek Marysi?",
+      "answers": [
+        "„Jesteś piękna”",
+        "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
+        "„Świetnie” i koniec",
+        "Nie chwali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+      "answers": [
+        "Że syn go nie kocha",
+        "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
+        "Że straci pracę",
+        "Że wyjadą za granicę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką bajkę czyta Ania na koniec?",
+      "answers": [
+        "O Kopciuszku",
+        "O smoku, który nie umiał przepraszać",
+        "O kosmonaucie",
+        "O psie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”."
+    }
+  ]
+}

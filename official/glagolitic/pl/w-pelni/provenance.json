@@ -1,0 +1,22 @@
+{
+  "packId": "polish_w_pelni",
+  "bookId": "w-pelni",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja oparta na filozofii Jula; wątek ADHD nie jest poradą medyczną."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y1IvxviWkuE"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

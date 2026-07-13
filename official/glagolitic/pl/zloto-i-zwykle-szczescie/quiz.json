@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiedy można znaleźć królewnę według legendy?",
+      "answers": [
+        "W noc świętojańską",
+        "W Wigilię",
+        "W noc andrzejkową",
+        "W każdą noc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Legenda mówi, że można tego dokonać tylko w noc świętojańską."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile dukatów dostaje Lutek od królewny?",
+      "answers": [
+        "Sto",
+        "Pięćdziesiąt",
+        "Dziesięć",
+        "Tysiąc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Królewna daje mu sakiewkę ze stu dukatami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na co Lutek ostatecznie wydaje pieniądze?",
+      "answers": [
+        "Daje je głodnemu staruszkowi",
+        "Kupuje pałac",
+        "Gra w karty do rana",
+        "Chowa pod podłogą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wysypuje pozostałe dukaty staruszkowi-inwalidzie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim zostaje Lutek na końcu opowieści?",
+      "answers": [
+        "Majstrem szewskim z własnym warsztatem",
+        "Królem",
+        "Kupcem",
+        "Żołnierzem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wkrótce Lutek zostaje majstrem i otwiera własny warsztat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie znajduje się legenda o kaczce?",
+      "answers": [
+        "W lochach Zamku Ostrogskich na Tamce",
+        "W Wawelu",
+        "Na Woli",
+        "W Łazienkach"
+      ],
+      "correctIndex": 0,
+      "explanation": "Szewcy mówią o lochach Zamku Ostrogskich na Tamce."
+    }
+  ]
+}

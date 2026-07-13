@@ -1,0 +1,22 @@
+{
+  "packId": "polish_ciekawska_zosia_i_skarb_przyjazni",
+  "bookId": "ciekawska-zosia-i-skarb-przyjazni",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Morał o ciekawości bez moralizowania; pozytywne zakończenie z pasją botaniczną."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "gGZ7a47-rW4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

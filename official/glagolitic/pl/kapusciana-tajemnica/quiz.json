@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Kacper?",
+      "answers": [
+        "Dziewięć",
+        "Jedenastu",
+        "Trzynaście",
+        "Osiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Kacper miał jedenaście lat”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie ciasto podaje babcia po zupie?",
+      "answers": [
+        "Kapuściane",
+        "Jabłkowe",
+        "Marchewkowe",
+        "Miodowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Po zupie nadeszła kolej na kapuściane ciasto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką książkę babcia nazywa ulubioną?",
+      "answers": [
+        "Wielki skarb",
+        "Harry Potter",
+        "Pinokio",
+        "Robinson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi o „Wielkim skarbie” — o chłopcu i mapach w piwnicy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kacper odkrywa za obrazkiem?",
+      "answers": [
+        "Srebrny kluczyk",
+        "Złoto",
+        "Pistolet",
+        "List"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babcia wyjmuje mały srebrny kluczyk spod obrazka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego babcia i dziadek przestali rabować?",
+      "answers": [
+        "Dla bezpieczeństwa rodziny",
+        "Bo stracili mapę",
+        "Bo poszli do więzienia",
+        "Bo nie lubili skarbów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi: „Dla was. Dla rodziny. Dla waszego bezpieczeństwa.”"
+    }
+  ]
+}

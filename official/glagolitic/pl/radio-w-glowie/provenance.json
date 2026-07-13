@@ -1,0 +1,22 @@
+{
+  "packId": "polish_radio_w_glowie",
+  "bookId": "radio-w-glowie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja edukacyjna o ADHD; nie zastępuje diagnozy medycznej."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "00uyvRqYlo4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

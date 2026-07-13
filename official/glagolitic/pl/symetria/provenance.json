@@ -1,0 +1,22 @@
+{
+  "packId": "polish_symetria",
+  "bookId": "symetria",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Esej historyczny z graficznymi opisami zbrodni; P0 founder review — Wołyń, polityka, Myrotworec."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Xtigt79Sw9I"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

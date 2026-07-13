@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile Michał płaci za zwolnienie na stronie zwolnienie.pl?",
+      "answers": [
+        "49 złotych",
+        "79 złotych",
+        "150 złotych",
+        "29 złotych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał płaci Blikiem 79 złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po ilu minutach dostaje zaświadczenie L4?",
+      "answers": [
+        "Po 3 minutach",
+        "Po 15 minutach",
+        "Po 24 godzinach",
+        "Po tygodniu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po 15 minutach w skrzynce pojawia się PDF ze zwolnieniem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie rozpoznanie ma fałszywe zwolnienie Michała?",
+      "answers": [
+        "Złamanie ręki",
+        "Ostre zakażenie górnych dróg oddechowych",
+        "Depresja",
+        "Migrena"
+      ],
+      "correctIndex": 1,
+      "explanation": "PDF ma rozpoznanie „ostre zakażenie górnych dróg oddechowych”, choć Michał jest zdrowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki szacowany roczny koszt absencji chorobowych podaje tekst?",
+      "answers": [
+        "5 miliardów złotych",
+        "35 miliardów złotych",
+        "100 milionów złotych",
+        "1 miliard złotych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi o koszcie 35 miliardów złotych dla polskiej gospodarki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Michał robi z wydrukowanym L4 na końcu?",
+      "answers": [
+        "Wysyła do szefa",
+        "Wyrzuca do kosza",
+        "Ramuje i wiesza",
+        "Wysyła do prokuratury jako dowód"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał wyrzuca do kosza wydrukowane L4 — nie chce już być częścią problemu."
+    }
+  ]
+}

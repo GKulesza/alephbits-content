@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O co kłócą się Magda i Tomek na początku opowieści?",
+      "answers": [
+        "O rozstanie",
+        "O to, że Franek nie wyłączył tabletu po czasie ekranowym",
+        "O wakacje",
+        "O pracę Magdy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek grał w piłkę nożną na tablecie po 18:45."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Franek pyta matkę po kłótni?",
+      "answers": [
+        "Czy dostanie tablet",
+        "Czy rodzice się jeszcze kochają",
+        "Czy pójdą do kina",
+        "Czy Zosia jest chora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek pyta wprost: „Czy wy się jeszcze kochacie?”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czyja podcastowa myśl Magda przywołuje w sypialni?",
+      "answers": [
+        "Jespera Jula",
+        "Agi Rogali",
+        "Marii Berlińskiej",
+        "Szymona Grzelaka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda cytuje Agę Rogalę o zbędnych kłótniach i pracy nad sobą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Tomek reaguje, gdy Franek prosi o wcześniejsze ostrzeżenie przed zabraniem tabletu?",
+      "answers": [
+        "Krzyknie",
+        "Uśmiecha się i mówi „Umowa stoi”",
+        "Ignoruje syna",
+        "Każe iść spać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek akceptuje propozycję i mówi: „Umowa stoi”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co metafora „chóru głosów” oznacza w finale?",
+      "answers": [
+        "Że dzieci powinny milczeć",
+        "Że w rodzicach brzmią głosy poprzednich pokoleń, których uczą się słuchać i przekształcać",
+        "Że rodzina śpiewa w kościele",
+        "Że Tomek zostaje śpiewakiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek i Magda uczą się słuchać głosów rodziców/dziadków i „śpiewać własną melodię”."
+    }
+  ]
+}

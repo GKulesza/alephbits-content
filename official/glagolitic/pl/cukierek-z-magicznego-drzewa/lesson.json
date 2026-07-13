@@ -1,0 +1,108 @@
+{
+  "id": "polish_cukierek_z_magicznego_drzewa",
+  "title": "Cukierek z magicznego drzewa",
+  "language": "pl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-13",
+  "description": "Lisek Rudi chce zdobyć cukierki z magicznego drzewa, pomagając innym tylko po to, by dostać nagrodę — dopóki nie odkrywa, że drzewo obdarowuje tylko tych, którzy pomagają bezinteresownie.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "leśni przyjaciele",
+    "hojność",
+    "Collection Eleven"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "Cukierek z magicznego drzewa — Collection Eleven official reading pack (Polish).",
+  "text": "**CUKIEREK Z MAGICZNEGO DRZEWA**\n\nW głębi wielkiego lasu, za siedmioma rzekami, mieszkała sobie trójka przyjaciół – zajączek Kicek, jeżyk Kolczuś i lisek Rudi. Każdego dnia spotykali się w swoim domku na drzewie, by bawić się, śpiewać i przeżywać wspólne przygody.\n\nKicek był najszybszy i najweselszy ze wszystkich. Uwielbiał biegać i zawsze wygrywał w berka. Kolczuś, mimo że miał wiele kolców, był najłagodniejszym zwierzątkiem w lesie. Potrafił słuchać i doradzać, a jego ulubioną zabawą były zagadki. Lisek Rudi był pomysłowy i znał każdy zakamarek lasu, ale czasami zapominał, że inni też mają swoje potrzeby.\n\nPewnego dnia, gdy bawili się w piratów na leśnej polanie, zdarzyło się coś niezwykłego. Kicek, chowając się za krzakiem, wbił sobie kolec w łapkę. Kolczuś natychmiast mu pomógł i wyciągnął go delikatnie. I wtedy – ku zdziwieniu wszystkich – drzewo, pod którym odpoczywali, zaczęło poruszać gałęziami, a jeden z liści zamienił się w kolorowego, lśniącego cukierka.\n\n– Łał! – krzyknął Kicek.\n\nGdy Kolczuś dotknął cukierka, ten oderwał się bez problemu. Podzielił się nim z przyjaciółmi. Rudi był zawiedziony – on też chciał dostać cukierka, ale nie mógł go zerwać.\n\n– Dlaczego ty mogłeś, a ja nie? – zapytał.\n\n– Może dlatego, że pomogłem Kickowi bezinteresownie – odpowiedział jeżyk. – Nie oczekiwałem nic w zamian.\n\nRudi postanowił, że następnego dnia będzie pomagać wszystkim, by zdobyć całą górę cukierków. Ale jego pomoc nie była bezinteresowna – za każdym razem oczekiwał nagrody. Pomógł szopowi napompować koło w rowerze, ale tylko dlatego, że chciał się przejechać. Pomógł pani wiewiórce zanieść zakupy, ale w zamian wziął jabłko i banana.\n\nI za każdym razem, gdy biegł pod magiczne drzewo, nie było tam żadnego cukierka.\n\n– To niesprawiedliwe! – denerwował się Rudi. – Przecież pomogłem!\n\nW końcu przyjaciele wytłumaczyli mu, że drzewo obdarowuje tylko tych, którzy pomagają z serca, nie oczekując nic w zamian. Rudi zrozumiał swój błąd. Przeprosił szopa i wiewiórkę, a potem postanowił, że odtąd będzie pomagał bezinteresownie.\n\nI tak zaczął pomagać każdemu, kogo spotkał – rąbał drewno dla starego jelenia, odbudowywał mrowisko, robił zakupy i pilnował dzieci. Zapomniał o cukierkach, a czuł się szczęśliwszy niż kiedykolwiek.\n\nPewnego dnia, gdy znów spotkał przyjaciół pod magicznym drzewem, stało się coś cudownego – setki cukierków spadły z gałęzi prosto w jego łapki.\n\n– Są dla ciebie, Rudzi! – zawołał Kolczuś.\n\n– Ale ja nie chcę ich zjeść sam! – odpowiedział lisek. – Podzielę się nimi z tymi, którym pomogłem, a resztę zjemy razem w naszym domku!\n\nI tak Rudi zrozumiał, że największą radość daje nie branie, ale dawanie. Od tego dnia jego dobre serce było znane w całym lesie. A magiczne drzewo nadal obdarowywało tych, którzy pomagali innym z prawdziwej miłości.\n\n**KONIEC**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Jak nazywają się trzej przyjaciele?",
+        "answers": [
+          "Kicek, Kolczuś i Rudi",
+          "Burek, Azor i Filek",
+          "Matołek, Tygrys i Terka",
+          "Kicek, Rudi i Terka"
+        ],
+        "correctIndex": 0,
+        "explanation": "To zajączek Kicek, jeżyk Kolczuś i lisek Rudi."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto pierwszy dostaje cukierka?",
+        "answers": [
+          "Kolczuś",
+          "Rudi",
+          "Kicek",
+          "Nikt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kolczuś pomaga Kickowi z kolcem bezinteresownie i dostaje cukierka."
+      },
+      {
+        "type": "single_choice",
+        "question": "Dlaczego Rudi początkowo nie dostaje cukierków?",
+        "answers": [
+          "Pomaga tylko po to, by dostać nagrodę",
+          "Nie zna drzewa",
+          "Jest chory",
+          "Nie lubi słodyczy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jego pomoc nie jest bezinteresowna — oczekuje nagrody."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co robi Rudi, gdy w końcu dostaje cukierki?",
+        "answers": [
+          "Dzieli się nimi z innymi",
+          "Je wszystkie sam",
+          "Wyrzuca je",
+          "Chowa na zimę"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mówi, że podzieli się z tymi, którym pomógł, a resztę zjedzą razem."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiedy liść zamienia się w cukierka?",
+        "answers": [
+          "Gdy Kolczuś bezinteresownie pomaga Kickowi",
+          "Gdy pada deszcz",
+          "Gdy Rudi krzyczy",
+          "W nocy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Drzewo reaguje na bezinteresowną pomoc Kolczusia."
+      }
+    ]
+  },
+  "coverFamily": "nature",
+  "audience": "children_8_12",
+  "subtitle": "Kiedy pomoc musi być szczera",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2021-06-21"
+  ],
+  "inspiredBy": {
+    "youtube": "5s-nYusLT9o"
+  }
+}

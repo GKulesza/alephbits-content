@@ -1,0 +1,22 @@
+{
+  "packId": "polish_ciche_serce_dzwonka",
+  "bookId": "ciche-serce-dzwonka",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Allegoria o akceptacji siebie; delikatny ton, bez konfliktu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "RXdgMlRqr-E"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

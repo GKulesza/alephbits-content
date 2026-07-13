@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Franek pyta o kolorowance z jabłkiem?",
+      "answers": [
+        "Czy może być fioletowe",
+        "Czy dostanie nagrodę",
+        "Czy pani Marta odchodzi",
+        "Czy jabłko jest jadalne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Franek: „Moje może być fioletowe?”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie dzieci spędzają większość czasu po zmianie?",
+      "answers": [
+        "W sali z kolorowankami",
+        "Na dworze, niezależnie od pogody",
+        "W kinie",
+        "W domu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grażyna: większość czasu na dworze, uczenie przez doświadczenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak zaczyna się projekt o dinozaurach?",
+      "answers": [
+        "Od testu pisemnego",
+        "Od figurki dinozaura, którą Franek przynosi",
+        "Od kary",
+        "Od rodziców"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek przynosi figurkę — dzieci chcą wiedzieć więcej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Marta zaprasza do przedszkola?",
+      "answers": [
+        "Astronautę",
+        "Tatę Franka — weterynarza",
+        "Politka",
+        "Piosenkarza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tata Franka opowiada o zwierzętach; powstaje kącik weterynaryjny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Franek mówi Martę po latach jako uczeń?",
+      "answers": [
+        "Nienawidził przedszkola",
+        "W szkole też lubi się uczyć, bo może pytać",
+        "Zapomniał dinozaurów",
+        "Chce zostać nauczycielem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: w szkole lubi uczyć się, bo wie, że może pytać."
+    }
+  ]
+}

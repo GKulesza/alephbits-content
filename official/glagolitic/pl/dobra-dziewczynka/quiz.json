@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiedy Zosia po raz pierwszy słyszy, że jest „grzeczną dziewczynką”?",
+      "answers": [
+        "W szkole",
+        "Ma około pięciu lat przy śniadaniu",
+        "Na studiach",
+        "Po urodzeniu syna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mama mówi jej to nad śniadaniem, gdy ma pięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia robi po raz pierwszy w wieku ~15 lat?",
+      "answers": [
+        "Zmienia szkołę",
+        "Mówi „nie jadę” na próbę chóru",
+        "Wyjeżdża na Erasmusa",
+        "Rezygnuje z Instagrama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odmawia wyjazdu na próbę chóru i zamyka się w łazience."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki kierunek studiów wybiera po rozczarowaniu dziennikarstwem?",
+      "answers": [
+        "Psychologię",
+        "Europeistykę",
+        "Medycynę",
+        "Prawo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przenosi się na europeistykę ze względu na Erasmusa i podróże."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia zaczyna robić w czasie pandemii i trudnej ciąży?",
+      "answers": [
+        "Pisać powieść kryminalną",
+        "Nagrywać rozmowy i publikować w social media",
+        "Prowadzić restaurację",
+        "Uczyć się programowania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nagrywa rozmowy dla rodziny, potem Instagram/TikTok/YouTube."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia powiedziałaby swojej młodej wersji?",
+      "answers": [
+        "Bądź jeszcze bardziej idealna",
+        "Nie musisz być doskonała — wystarczy, że będziesz sobą",
+        "Rzuć szkołę",
+        "Nigdy nie mów nie"
+      ],
+      "correctIndex": 1,
+      "explanation": "W wywiadzie mówi: „Nie musisz być taka doskonała. Wystarczy, że będziesz sobą”."
+    }
+  ]
+}

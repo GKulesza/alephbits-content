@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O której godzinie Przemek budzi się na początku opowieści?",
+      "answers": [
+        "O 6:00",
+        "O 5:47",
+        "O 7:15",
+        "O 5:30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst zaczyna się: „Przemek obudził się o 5:47.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co widzi na drzwiach na trzecim piętrze UEP?",
+      "answers": [
+        "Tabliczkę dziekanatu",
+        "Tabliczkę: Legalizacja pobytu – bez odmów, bez stresu",
+        "Ogłoszenie o egzaminie",
+        "Plakat UPA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na drzwiach wisi tabliczka o legalizacji pobytu „bez odmów, bez stresu”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi kobieta z biura, gdy Przemek puka?",
+      "answers": [
+        "Zamyka drzwi i woła ochronę",
+        "Otwiera natychmiast i już nagrywa telefonem",
+        "Prosi o legitymację policyjną",
+        "Odmawia rozmowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drzwi otwierają się od razu; kobieta ma telefon i już nagrywa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile dni po wizycie na UEP policja przychodzi do domu?",
+      "answers": [
+        "Następnego dnia",
+        "Siedem dni",
+        "Miesiąc",
+        "Tej samej nocy"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Siedem dni później, o 5:47, ktoś zapukał do drzwi.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Przemek rozumie po powrocie z prokuratury?",
+      "answers": [
+        "Że zrobił błąd formalny",
+        "Że państwo przyszło po niego, bo zadał pytanie — granica legalnego przesunęła się",
+        "Że Ukrainka wycofała skargę",
+        "Że sprawa jest zamknięta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek rozumie, że państwo przyszło po niego za pytanie, a granica legalnego się przesunęła."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Lena?",
+      "answers": [
+        "Osiem",
+        "Dziesięć",
+        "Dwanaście",
+        "Siedem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Lena miała dziesięć lat”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co otwiera drzwi do zaczarowanej krainy?",
+      "answers": [
+        "Srebrny klucz",
+        "Złota moneta",
+        "Mapa",
+        "Piosenka bez klucza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babcia wyciąga srebrny klucz ze szuflady fartucha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim okazuje się babcia Rózia na końcu?",
+      "answers": [
+        "Królową Wiatru",
+        "Królową Deszczu",
+        "Ciotką Stellą",
+        "Śnieżynką"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi: „Kiedyś byłam Królową Wiatru”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką piosenkę Lena śpiewa, by otworzyć drzwi?",
+      "answers": [
+        "Kap, kap, kap, otwórz proszę drzwi…",
+        "Deszczu spłyń na tę ziemię",
+        "Kukuryku",
+        "Muuu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babcia uczy piosenki zaczynającej się od „Kap, kap, kap…”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Lena robi, by uratować suknię Królowej Kropei?",
+      "answers": [
+        "Gra na flecie",
+        "Tańczy",
+        "Śpiewa o deszczu",
+        "Podlewa kwiaty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lena gra melodię na flecie, by odmrozić suknię z kropli."
+    }
+  ]
+}

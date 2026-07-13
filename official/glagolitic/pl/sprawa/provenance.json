@@ -1,0 +1,22 @@
+{
+  "packId": "polish_sprawa",
+  "bookId": "sprawa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Artykuł inspirowany realnymi wydarzeniami; P0 founder review — polityka, areszt, lista Myrotworec."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "NX29uqSdBI8"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

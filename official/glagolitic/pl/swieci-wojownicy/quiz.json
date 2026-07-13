@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat miał narrator, gdy pierwszy raz usłyszał o templariuszach?",
+      "answers": [
+        "Dziesięć",
+        "Dwanaście",
+        "Piętnaście",
+        "Siedem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst mówi: „Kiedy miałem dwanaście lat, pierwszy raz usłyszałem o templariuszach.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo narrator wspomina jako „świętego wojownika” w sensie ludzkim?",
+      "answers": [
+        "Ojca",
+        "Dziadka z AK",
+        "Artura Wójtowicza",
+        "Atora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dziadek był żołnierzem Armii Krajowej i znalazł spokój w akceptacji przeszłości."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co narrator nosił jako dziecko?",
+      "answers": [
+        "Medalik z Matką Boską",
+        "Czerwony krzyż",
+        "Amulet samurajski",
+        "Order"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wspomina medalik z Matką Boską, w który wierzył jako dziecko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wniosek wyciąga narrator na końcu?",
+      "answers": [
+        "Trzeba wrócić do religii",
+        "Może wystarczy wiara w siebie i nadanie życiu sensu",
+        "Wojna jest zawsze słuszna",
+        "Rytuały są bezużyteczne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy myślą, że może nie potrzebujemy wiary w bogów — wystarczy wiara w siebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie siedzi narrator podczas słuchania podcastu?",
+      "answers": [
+        "W warszawskim mieszkaniu",
+        "W Krakowie",
+        "W Poznaniu",
+        "Na wsi u dziadka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opowieść zaczyna się od „siedzę w swoim warszawskim mieszkaniu”."
+    }
+  ]
+}

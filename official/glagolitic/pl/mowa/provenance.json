@@ -1,0 +1,22 @@
+{
+  "packId": "polish_mowa",
+  "bookId": "mowa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o strachu przed wystąpieniami; część serii Kammel — komunikacja."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "pi146mN3cDU"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

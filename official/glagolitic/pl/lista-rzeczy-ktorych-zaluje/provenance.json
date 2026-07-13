@@ -1,0 +1,22 @@
+{
+  "packId": "polish_lista_rzeczy_ktorych_zaluje",
+  "bookId": "lista-rzeczy-ktorych-zaluje",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Tytuł podobny do C9 „Lista” — inna fabuła; slug rozróżnia."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "rqugxbDkCro"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

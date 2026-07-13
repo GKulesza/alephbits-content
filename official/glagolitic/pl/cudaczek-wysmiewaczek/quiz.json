@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czym żywi się Cudaczek-Wyśmiewaczek?",
+      "answers": [
+        "Śmiechem",
+        "Chlebem",
+        "Mlekiem",
+        "Owocami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Licho „żywiło się tylko śmiechem”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką radę daje staruszek?",
+      "answers": [
+        "Przez trzy dni ani razu się nie obraź",
+        "Nie chodź do szkoły",
+        "Wyprowadź się na stałe",
+        "Zjedz więcej grochówki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Staruszek każe wytrzymać trzy dni bez obrażania się."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie mieszka Cudaczek?",
+      "answers": [
+        "W jasnych warkoczykach dziewczynki",
+        "W piwnicy",
+        "W szafie",
+        "W kominie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mieszka w warkoczykach Panny Obrażalskiej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dziewczynka wiąże na ręce na pamiątkę?",
+      "answers": [
+        "Niebieską tasiemkę",
+        "Czerwoną wstążkę",
+        "Sznurek",
+        "Bransoletkę"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zawiązuje niebieską tasiemkę po radzie staruszka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się z Cudaczkiem po trzecim dniu?",
+      "answers": [
+        "Słabnie i ucieka z domu",
+        "Rośnie w siłę",
+        "Zamienia się w psa",
+        "Zostaje na zawsze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Po trzecim dniu Cudaczek słabnie i wychodzi z domu."
+    }
+  ]
+}

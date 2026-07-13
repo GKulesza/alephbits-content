@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię syrenka?",
+      "answers": [
+        "Marina",
+        "Ariel",
+        "Kropeia",
+        "Zosia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marina oddaje wiedźmie?",
+      "answers": [
+        "Głos",
+        "Ogon",
+        "Korona",
+        "Perły"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Marina ratuje podczas burzy?",
+      "answers": [
+        "Księcia",
+        "Króla",
+        "Rybaka",
+        "Kapitana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Marina nie robi z nożem?",
+      "answers": [
+        "Nie zabija księcia",
+        "Zabija wiedźmę",
+        "Rzuca w siostry",
+        "Niszczy statek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim Marina zostaje na końcu?",
+      "answers": [
+        "Córką powietrza",
+        "Królową mórz",
+        "Człowiekiem z duszą od razu",
+        "Pianą na zawsze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "packId": "polish_cudaczek_wysmiewaczek",
+  "bookId": "cudaczek-wysmiewaczek",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Bajka moralna o przemianie postawy; humorystyczny ton, bez przemocy."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eleven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

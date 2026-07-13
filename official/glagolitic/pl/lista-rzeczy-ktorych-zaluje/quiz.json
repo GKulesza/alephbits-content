@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Anna?",
+      "answers": [
+        "32",
+        "42",
+        "52",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Anna miała czterdzieści dwa lata”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tomek pamięta z dzieciństwa bolesnego dla Anny?",
+      "answers": [
+        "Tylko prezenty",
+        "Że mama często krzyczała i odwołała wyjście do kina",
+        "Tylko wakacje",
+        "Nic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek wspomina krzyk i odwołane kino."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po co Anna pisze listę?",
+      "answers": [
+        "Dla sąsiadów",
+        "By zrozumieć błędy i coś zmienić — nie by się obwiniać",
+        "Dla sądu",
+        "Dla szkoły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napisała listę, żeby zrozumieć i zmienić, nie by się obwiniać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tomek robi ze starymi zdjęciami?",
+      "answers": [
+        "Wyrzuca je",
+        "Skanuje i porządkuje album wspomnień",
+        "Sprzedaje",
+        "Palą"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek skanuje zdjęcia z pudła — „nasze wspomnienia”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Tomek pisze o liście żalów?",
+      "answers": [
+        "Jest zły",
+        "Jest wdzięczny — widać, że mamie zależy i ją kocha",
+        "Ignoruje matkę",
+        "Chce pieniędzy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek: lista pokazuje, że zależy i kocha — to najważniejsze."
+    }
+  ]
+}

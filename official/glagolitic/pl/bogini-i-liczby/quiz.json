@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest głównym bohaterem opowieści?",
+      "answers": [
+        "Isaac Newton",
+        "Srinivasa Ramanujan",
+        "Albert Einstein",
+        "Ada Lovelace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opowieść śledzi życie Ramanujana."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto w Cambridge otrzymuje list pełen twierdzeń bez dowodów?",
+      "answers": [
+        "Littlewood",
+        "Hardy",
+        "Euler",
+        "Gauss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy czyta list od Ramanujana w Trinity College."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką boginię Ramanujan wspomina?",
+      "answers": [
+        "Lakshmi",
+        "Namagiri z Namakkalu",
+        "Kali",
+        "Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matka słyszy we śnie głos bogini Namagiri."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat miał Ramanujan, gdy zmarł?",
+      "answers": [
+        "42",
+        "32",
+        "22",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "26 kwietnia 1920 — miał 32 lata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ramanujan mówi o równaniach?",
+      "answers": [
+        "Muszą być krótkie",
+        "Nie mają sensu, jeśli nie wyrażają myśli Boga",
+        "Są tylko dla inżynierów",
+        "Nie lubi równań"
+      ],
+      "correctIndex": 1,
+      "explanation": "Powtarza: równanie bez sensu, jeśli nie wyraża myśli Boga."
+    }
+  ]
+}

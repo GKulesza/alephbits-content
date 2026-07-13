@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-12T00:00:00Z",
-  "officialPackCount": 82,
+  "generatedAt": "2026-07-13T00:00:00Z",
+  "officialPackCount": 125,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -14,6 +14,11 @@
   ],
   "categories": [
     {
+      "id": "adventure",
+      "title": "Adventure",
+      "description": ""
+    },
+    {
       "id": "article",
       "title": "Article",
       "description": "Short non-fiction articles."
@@ -22,6 +27,11 @@
       "id": "biography",
       "title": "Biography",
       "description": "Lives and memoirs."
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "description": ""
     },
     {
       "id": "demo",
@@ -36,6 +46,16 @@
     {
       "id": "everyday_live",
       "title": "Everyday Live",
+      "description": ""
+    },
+    {
+      "id": "fairy_tale",
+      "title": "Fairy Tale",
+      "description": "Classic and original fairy tales."
+    },
+    {
+      "id": "family",
+      "title": "Family",
       "description": ""
     },
     {
@@ -125,23 +145,34 @@
       "title": "Official Starter Shelf",
       "description": "The first curated collection of AlephBits official reading packs.",
       "packIds": [
+        "polish_98_procent",
         "polish_algorytm_szczescia",
+        "polish_autorytet_na_przepraszam",
         "polish_betonowy_dom",
         "polish_blitzkrieg",
+        "polish_bogini_i_liczby",
         "polish_boliewicz",
         "polish_brudne_pieniadze_czysta_nauka",
         "polish_buty",
         "polish_cel_na_ten_rok_to_nic",
         "polish_cena_widoku",
+        "polish_chor",
+        "polish_ciche_serce_dzwonka",
+        "polish_ciekawska_zosia_i_skarb_przyjazni",
         "polish_cien_skrzydel_nad_oceanem",
+        "polish_cisza_dom",
         "polish_cisza_przed_burza",
+        "polish_cudaczek_wysmiewaczek",
+        "polish_cukierek_z_magicznego_drzewa",
         "polish_czarna_plachta",
         "polish_czarna_skrzynka",
         "polish_czarny_kodeks",
         "polish_czarny_mnich_z_nikiszowca",
         "polish_czarny_rynek_tokenow",
+        "polish_czterech_w_lodce",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
         "polish_dlaczego_niebo_jest_niebieskie",
+        "polish_dobra_dziewczynka",
         "polish_domek",
         "polish_domysl_sie",
         "polish_dostrojony_dom",
@@ -151,56 +182,88 @@
         "polish_dziewczyna_z_jelania",
         "polish_dziewczyna_ktora_zniknela_o_swicie",
         "polish_dzien_z_reszty_zycia",
+        "polish_etykieta",
+        "polish_franek_i_maly_karolek",
         "polish_froteryzm_intelektualny",
         "polish_garnek_na_glowie",
         "polish_granice_imperium",
         "polish_groby",
         "polish_gruby_dzienniczek",
+        "polish_glos_i_cisza",
         "polish_glosy_z_ziemi",
         "polish_oczy_ktore_nie_widza",
+        "polish_igla_z_widly",
         "polish_ikonka_na_pulpicie",
         "polish_iskra",
         "polish_jak_bor_z_jasnego_nieba",
+        "polish_jeszcze",
         "polish_kamera_na_ulicy",
         "polish_kamien_pamieci",
+        "polish_kapusciana_tajemnica",
+        "polish_kij_i_marchewka",
+        "polish_klucz_babci_rozi",
+        "polish_klucz_do_deszczowej_krainy",
         "polish_koniec_epoki_pudelek",
         "polish_kontrolowana_halucynacja",
         "polish_kot_1011",
+        "polish_koziolek_matolek_i_podroz_do_pacanowa",
         "polish_kubek",
         "polish_kakuter_i_chomik",
+        "polish_lista_myrotworec",
+        "polish_lista_rzeczy_ktorych_zaluje",
         "polish_mamy_trupa_i_co_dalej",
         "polish_martwe_oczy",
         "polish_metoda_feynmana",
         "polish_misja_ktora_pekla",
+        "polish_mowa",
         "polish_na_dworcu",
         "polish_na_targu",
+        "polish_naczynia_polaczone",
         "polish_nadwyzka",
+        "polish_niedzwiedz",
+        "polish_nowy_ogrod",
         "polish_nowy_pacjent",
+        "polish_nowy_swiat",
         "polish_obserwator",
         "polish_odpowiedzialnosc",
         "polish_ofiary",
+        "polish_ognioskoczek",
+        "polish_opowiesci_z_poprzedniego_zycia",
+        "polish_pies_pankracy_i_sprawy_wazne",
+        "polish_poligon",
         "polish_powrot",
         "polish_powrot_siebie",
         "polish_prolog_wiatru",
+        "polish_przedszkole_bez_scian",
         "polish_przerwa",
         "polish_przerwa_nauka",
+        "polish_prog",
         "polish_pudelko_po_ciastkach",
         "polish_poltora_metra",
+        "polish_radio_w_glowie",
         "polish_samolot",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_demo_lesson",
+        "polish_sprawa",
         "polish_susza",
+        "polish_symetria",
         "polish_synchronicznosc",
         "polish_szpital_poludniowy",
+        "polish_tajwan",
         "polish_taniec",
         "polish_trzy_godziny",
         "polish_trzynascie_zasad",
+        "polish_ulamki",
+        "polish_w_pelni",
         "polish_wiatr_nad_rzeka",
         "polish_worek_z_piaskiem",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zakazana_energia",
+        "polish_zamowienie",
         "polish_zasady",
         "polish_zielona_poswiata",
+        "polish_zloto_i_zwykle_szczescie",
+        "polish_swieci_wojownicy",
         "polish_w_kawiarni",
         "polish_pierwszy_lot_na_marsa",
         "polish_legenda_o_smoku_wawelskim",
@@ -214,40 +277,68 @@
       "title": "First Reads",
       "description": "Best introductory texts for new readers.",
       "packIds": [
+        "polish_ciche_serce_dzwonka",
+        "polish_ciekawska_zosia_i_skarb_przyjazni",
+        "polish_cudaczek_wysmiewaczek",
+        "polish_cukierek_z_magicznego_drzewa",
         "polish_demo_lesson",
+        "polish_franek_i_maly_karolek",
         "polish_jak_ugotowac_herbate",
+        "polish_klucz_babci_rozi",
+        "polish_klucz_do_deszczowej_krainy",
+        "polish_nowy_ogrod",
+        "polish_pies_pankracy_i_sprawy_wazne",
         "polish_rozmowa_z_lekarzem",
+        "polish_ulamki",
         "polish_wiatr_nad_rzeka",
+        "polish_cisza_dom",
         "polish_dlaczego_niebo_jest_niebieskie",
+        "polish_dobra_dziewczynka",
         "polish_dzien_z_reszty_zycia",
+        "polish_glos_i_cisza",
+        "polish_jeszcze",
         "polish_kakuter_i_chomik",
+        "polish_kapusciana_tajemnica",
+        "polish_kij_i_marchewka",
+        "polish_koziolek_matolek_i_podroz_do_pacanowa",
         "polish_legenda_o_smoku_wawelskim",
         "polish_na_dworcu",
         "polish_na_targu",
+        "polish_nowy_swiat",
         "polish_oczy_ktore_nie_widza",
+        "polish_ognioskoczek",
         "polish_pierwszy_lot_na_marsa",
+        "polish_przedszkole_bez_scian",
         "polish_przerwa",
         "polish_przerwa_nauka",
+        "polish_radio_w_glowie",
         "polish_taniec",
         "polish_trzynascie_zasad",
         "polish_w_kawiarni",
         "polish_wyraz_ktorego_nie_ma",
         "polish_zasady",
+        "polish_zloto_i_zwykle_szczescie",
+        "polish_autorytet_na_przepraszam",
         "polish_blitzkrieg",
         "polish_cel_na_ten_rok_to_nic",
+        "polish_chor",
         "polish_czarna_skrzynka",
         "polish_czarny_mnich_z_nikiszowca",
         "polish_domek",
         "polish_domysl_sie",
         "polish_dostrojony_dom",
         "polish_dziewczyna_z_jelania",
+        "polish_etykieta",
         "polish_froteryzm_intelektualny",
         "polish_gruby_dzienniczek",
         "polish_ikonka_na_pulpicie",
         "polish_koniec_epoki_pudelek",
         "polish_kubek",
+        "polish_lista_rzeczy_ktorych_zaluje",
         "polish_mamy_trupa_i_co_dalej",
         "polish_maria_skodowska_curie",
+        "polish_naczynia_polaczone",
+        "polish_niedzwiedz",
         "polish_obserwator",
         "polish_odpowiedzialnosc",
         "polish_poltora_metra",
@@ -255,6 +346,7 @@
         "polish_prolog_wiatru",
         "polish_samolot",
         "polish_synchronicznosc",
+        "polish_w_pelni",
         "polish_algorytm_szczescia",
         "polish_betonowy_dom",
         "polish_buty",
@@ -262,22 +354,29 @@
         "polish_czarna_plachta",
         "polish_czarny_rynek_tokenow",
         "polish_garnek_na_glowie",
+        "polish_igla_z_widly",
         "polish_iskra",
         "polish_martwe_oczy",
         "polish_misja_ktora_pekla",
+        "polish_mowa",
+        "polish_poligon",
         "polish_powrot_siebie",
         "polish_pudelko_po_ciastkach",
         "polish_siedem_gor_i_jeden_ocean",
         "polish_susza",
+        "polish_swieci_wojownicy",
         "polish_szpital_poludniowy",
         "polish_trzy_godziny",
         "polish_worek_z_piaskiem",
         "polish_zakazana_energia",
+        "polish_98_procent",
+        "polish_bogini_i_liczby",
         "polish_boliewicz",
         "polish_brudne_pieniadze_czysta_nauka",
         "polish_cien_skrzydel_nad_oceanem",
         "polish_cisza_przed_burza",
         "polish_czarny_kodeks",
+        "polish_czterech_w_lodce",
         "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
         "polish_drugie_dno",
         "polish_drugie_kolo",
@@ -291,30 +390,37 @@
         "polish_metoda_feynmana",
         "polish_nowy_pacjent",
         "polish_ofiary",
+        "polish_opowiesci_z_poprzedniego_zycia",
+        "polish_tajwan",
+        "polish_zamowienie",
         "polish_zielona_poswiata",
         "polish_glosy_z_ziemi",
         "polish_groby",
         "polish_kamera_na_ulicy",
-        "polish_nadwyzka"
+        "polish_lista_myrotworec",
+        "polish_nadwyzka",
+        "polish_prog",
+        "polish_sprawa",
+        "polish_symetria"
       ]
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 82,
-    "totalWords": 112625,
-    "totalEstimatedReadingTimeMinutes": 608,
+    "totalPacks": 125,
+    "totalWords": 165534,
+    "totalEstimatedReadingTimeMinutes": 894,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 21,
+    "categoryCount": 25,
     "largestPack": {
       "id": "polish_nowy_pacjent",
       "bookId": "nowy-pacjent",
       "wordCount": 3979
     },
     "newestPack": {
-      "id": "polish_algorytm_szczescia",
-      "bookId": "algorytm-szczescia",
-      "updated": "2026-07-12"
+      "id": "polish_98_procent",
+      "bookId": "98-procent",
+      "updated": "2026-07-13"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -323,6 +429,29 @@
     }
   },
   "packs": [
+    {
+      "id": "polish_98_procent",
+      "bookId": "98-procent",
+      "path": "official/glagolitic/pl/98-procent",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "98%",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "psychology",
+        "philosophy"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Geniusze, które szkoła gasi",
+      "audience": "adult",
+      "trustClassification": "popular_science",
+      "difficulty": 6,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
     {
       "id": "polish_algorytm_szczescia",
       "bookId": "algorytm-szczescia",
@@ -344,6 +473,28 @@
       "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_autorytet_na_przepraszam",
+      "bookId": "autorytet-na-przepraszam",
+      "path": "official/glagolitic/pl/autorytet-na-przepraszam",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Autorytet na przepraszam",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Prawdziwy autorytet rodzica",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -387,6 +538,29 @@
       "audience": "adult",
       "trustClassification": "fiction",
       "difficulty": 4,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_bogini_i_liczby",
+      "bookId": "bogini-i-liczby",
+      "path": "official/glagolitic/pl/bogini-i-liczby",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Bogini i liczby",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "biography",
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "biography",
+      "subtitle": "Ramanujan, Hardy i wizje we śnie",
+      "audience": "teen",
+      "trustClassification": "adapted_from_real_events",
+      "difficulty": 6,
       "estimatedReadingTime": 8,
       "featured": true
     },
@@ -501,6 +675,72 @@
       "featured": true
     },
     {
+      "id": "polish_chor",
+      "bookId": "chor",
+      "path": "official/glagolitic/pl/chor",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Chór",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Kłótnia o tablet i głosy pokoleń",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 11,
+      "featured": true
+    },
+    {
+      "id": "polish_ciche_serce_dzwonka",
+      "bookId": "ciche-serce-dzwonka",
+      "path": "official/glagolitic/pl/ciche-serce-dzwonka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ciche serce dzwonka",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "short_story",
+      "subtitle": "Gdy głośny dźwięk nie jest potrzebny",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 3,
+      "featured": true
+    },
+    {
+      "id": "polish_ciekawska_zosia_i_skarb_przyjazni",
+      "bookId": "ciekawska-zosia-i-skarb-przyjazni",
+      "path": "official/glagolitic/pl/ciekawska-zosia-i-skarb-przyjazni",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ciekawska Zosia i skarb przyjaźni",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "nature",
+      "subtitle": "Ciekawość, obietnica i suszone kwiaty",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
       "id": "polish_cien_skrzydel_nad_oceanem",
       "bookId": "cien-skrzydel-nad-oceanem",
       "path": "official/glagolitic/pl/cien-skrzydel-nad-oceanem",
@@ -523,6 +763,29 @@
       "featured": true
     },
     {
+      "id": "polish_cisza_dom",
+      "bookId": "cisza-dom",
+      "path": "official/glagolitic/pl/cisza-dom",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cisza",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "instruction",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Shitsuke, mimamoru i amae w domu",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_cisza_przed_burza",
       "bookId": "cisza-przed-burza",
       "path": "official/glagolitic/pl/cisza-przed-burza",
@@ -542,6 +805,50 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_cudaczek_wysmiewaczek",
+      "bookId": "cudaczek-wysmiewaczek",
+      "path": "official/glagolitic/pl/cudaczek-wysmiewaczek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cudaczek-Wyśmiewaczek",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Panna Obrażalska i licho od śmiechu",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_cukierek_z_magicznego_drzewa",
+      "bookId": "cukierek-z-magicznego-drzewa",
+      "path": "official/glagolitic/pl/cukierek-z-magicznego-drzewa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Cukierek z magicznego drzewa",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "nature",
+      "subtitle": "Kiedy pomoc musi być szczera",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 3,
       "featured": true
     },
     {
@@ -654,6 +961,29 @@
       "featured": true
     },
     {
+      "id": "polish_czterech_w_lodce",
+      "bookId": "czterech-w-lodce",
+      "path": "official/glagolitic/pl/czterech-w-lodce",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Czterech w łódce",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "everyday_live",
+        "business"
+      ],
+      "coverFamily": "article",
+      "subtitle": "Równy podział i nierówny los",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
       "id": "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
       "bookId": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
       "path": "official/glagolitic/pl/dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
@@ -694,6 +1024,28 @@
       "trustClassification": "popular_science",
       "difficulty": 3,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_dobra_dziewczynka",
+      "bookId": "dobra-dziewczynka",
+      "path": "official/glagolitic/pl/dobra-dziewczynka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Dobra dziewczynka",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Perfekcja, pamiętnik i powrót do siebie",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -897,6 +1249,49 @@
       "featured": true
     },
     {
+      "id": "polish_etykieta",
+      "bookId": "etykieta",
+      "path": "official/glagolitic/pl/etykieta",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Etykieta",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Samospełniająca się etykieta „lenia”",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_franek_i_maly_karolek",
+      "bookId": "franek-i-maly-karolek",
+      "path": "official/glagolitic/pl/franek-i-maly-karolek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Franek i mały Karolek",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Urwis, który został bratem",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_froteryzm_intelektualny",
       "bookId": "froteryzm-intelektualny",
       "path": "official/glagolitic/pl/froteryzm-intelektualny",
@@ -937,6 +1332,28 @@
       "audience": "adult",
       "trustClassification": "fiction",
       "difficulty": 5,
+      "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_glos_i_cisza",
+      "bookId": "glos-i-cisza",
+      "path": "official/glagolitic/pl/glos-i-cisza",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Głos i cisza",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Syrenka, która oddała głos za miłość",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 3,
       "estimatedReadingTime": 5,
       "featured": true
     },
@@ -1030,6 +1447,29 @@
       "featured": true
     },
     {
+      "id": "polish_igla_z_widly",
+      "bookId": "igla-z-widly",
+      "path": "official/glagolitic/pl/igla-z-widly",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Igła z widły",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "psychology",
+        "everyday_live"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Gdy rozmowa odciąga od tematu",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_ikonka_na_pulpicie",
       "bookId": "ikonka-na-pulpicie",
       "path": "official/glagolitic/pl/ikonka-na-pulpicie",
@@ -1117,6 +1557,29 @@
       "featured": true
     },
     {
+      "id": "polish_jeszcze",
+      "bookId": "jeszcze",
+      "path": "official/glagolitic/pl/jeszcze",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Jeszcze",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "instruction",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Growth mindset — „jeszcze nie umiem”",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_kakuter_i_chomik",
       "bookId": "kakuter-i-chomik",
       "path": "official/glagolitic/pl/kakuter-i-chomik",
@@ -1180,6 +1643,95 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 6,
       "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_kapusciana_tajemnica",
+      "bookId": "kapusciana-tajemnica",
+      "path": "official/glagolitic/pl/kapusciana-tajemnica",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kapuściana tajemnica",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "adventure",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Nudna babcia i mapa do skarbów",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_kij_i_marchewka",
+      "bookId": "kij-i-marchewka",
+      "path": "official/glagolitic/pl/kij-i-marchewka",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Kij i marchewka",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "instruction",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Bez kar i nagród — tylko relacja",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_klucz_babci_rozi",
+      "bookId": "klucz-babci-rozi",
+      "path": "official/glagolitic/pl/klucz-babci-rozi",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Klucz babci Rózi",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Susza, trzy domki i Królowa Deszczu",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_klucz_do_deszczowej_krainy",
+      "bookId": "klucz-do-deszczowej-krainy",
+      "path": "official/glagolitic/pl/klucz-do-deszczowej-krainy",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Klucz do deszczowej krainy",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Zosia, babcia i zamek Kropei",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -1248,6 +1800,28 @@
       "featured": true
     },
     {
+      "id": "polish_koziolek_matolek_i_podroz_do_pacanowa",
+      "bookId": "koziolek-matolek-i-podroz-do-pacanowa",
+      "path": "official/glagolitic/pl/koziolek-matolek-i-podroz-do-pacanowa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Koziołek Matołek i podróż do Pacanowa",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Skrócona podróż najsłynniejszego koziołka",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 4,
+      "featured": true
+    },
+    {
       "id": "polish_kubek",
       "bookId": "kubek",
       "path": "official/glagolitic/pl/kubek",
@@ -1288,6 +1862,51 @@
       "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_lista_myrotworec",
+      "bookId": "lista-myrotworec",
+      "path": "official/glagolitic/pl/lista-myrotworec",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Lista",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "history",
+        "everyday_live"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Nazwisko po fladze w Strasburgu",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 7,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
+      "id": "polish_lista_rzeczy_ktorych_zaluje",
+      "bookId": "lista-rzeczy-ktorych-zaluje",
+      "path": "official/glagolitic/pl/lista-rzeczy-ktorych-zaluje",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Lista rzeczy, których żałuję",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Regret list matki dorosłych dzieci",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -1401,6 +2020,29 @@
       "featured": true
     },
     {
+      "id": "polish_mowa",
+      "bookId": "mowa",
+      "path": "official/glagolitic/pl/mowa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Mowa",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "psychology",
+        "biography"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Głos, który znika pod oczami obcych",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_na_dworcu",
       "bookId": "na-dworcu",
       "path": "official/glagolitic/pl/na-dworcu",
@@ -1445,6 +2087,28 @@
       "featured": true
     },
     {
+      "id": "polish_naczynia_polaczone",
+      "bookId": "naczynia-polaczone",
+      "path": "official/glagolitic/pl/naczynia-polaczone",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Naczynia połączone",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Agresja w szkole, system w domu",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_nadwyzka",
       "bookId": "nadwyzka",
       "path": "official/glagolitic/pl/nadwyzka",
@@ -1467,6 +2131,51 @@
       "featured": true
     },
     {
+      "id": "polish_niedzwiedz",
+      "bookId": "niedzwiedz",
+      "path": "official/glagolitic/pl/niedzwiedz",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Niedźwiedź",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "psychology",
+        "everyday_live"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Słowo, które zatrzymuje kłótnię",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 4,
+      "featured": true
+    },
+    {
+      "id": "polish_nowy_ogrod",
+      "bookId": "nowy-ogrod",
+      "path": "official/glagolitic/pl/nowy-ogrod",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Nowy ogród",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "nature",
+        "short_story"
+      ],
+      "coverFamily": "nature",
+      "subtitle": "Myszka Terka, susza i ślimak-wynalazca",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_nowy_pacjent",
       "bookId": "nowy-pacjent",
       "path": "official/glagolitic/pl/nowy-pacjent",
@@ -1486,6 +2195,28 @@
       "trustClassification": "popular_science",
       "difficulty": 6,
       "estimatedReadingTime": 20,
+      "featured": true
+    },
+    {
+      "id": "polish_nowy_swiat",
+      "bookId": "nowy-swiat",
+      "path": "official/glagolitic/pl/nowy-swiat",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Nowy świat",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Od „słuchaj” do „rozmawiaj”",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -1576,6 +2307,51 @@
       "featured": true
     },
     {
+      "id": "polish_ognioskoczek",
+      "bookId": "ognioskoczek",
+      "path": "official/glagolitic/pl/ognioskoczek",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ognioskoczek",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Duszek z psót i czerwona czapeczka",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_opowiesci_z_poprzedniego_zycia",
+      "bookId": "opowiesci-z-poprzedniego-zycia",
+      "path": "official/glagolitic/pl/opowiesci-z-poprzedniego-zycia",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Opowieści z poprzedniego życia",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "psychology",
+        "family"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Pamięć, która może nie być twoja",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_pierwszy_lot_na_marsa",
       "bookId": "pierwszy-lot-na-marsa",
       "path": "official/glagolitic/pl/pierwszy-lot-na-marsa",
@@ -1594,6 +2370,49 @@
       "trustClassification": "popular_science",
       "difficulty": 3,
       "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_pies_pankracy_i_sprawy_wazne",
+      "bookId": "pies-pankracy-i-sprawy-wazne",
+      "path": "official/glagolitic/pl/pies-pankracy-i-sprawy-wazne",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Pies Pankracy i sprawy ważne",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Starszy brat ma cztery łapy",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_poligon",
+      "bookId": "poligon",
+      "path": "official/glagolitic/pl/poligon",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Poligon",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Twardy ojciec i przerwanie łańcucha",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -1663,6 +2482,29 @@
       "featured": true
     },
     {
+      "id": "polish_prog",
+      "bookId": "prog",
+      "path": "official/glagolitic/pl/prog",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Próg",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "everyday_live",
+        "article"
+      ],
+      "coverFamily": "article",
+      "subtitle": "Piąta czterdzieści siedem i pukanie policji",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 7,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_prolog_wiatru",
       "bookId": "prolog-wiatru",
       "path": "official/glagolitic/pl/prolog-wiatru",
@@ -1682,6 +2524,28 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 4,
       "estimatedReadingTime": 5,
+      "featured": true
+    },
+    {
+      "id": "polish_przedszkole_bez_scian",
+      "bookId": "przedszkole-bez-scian",
+      "path": "official/glagolitic/pl/przedszkole-bez-scian",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Przedszkole bez ścian",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "instruction",
+        "short_story"
+      ],
+      "coverFamily": "everyday_live",
+      "subtitle": "Nauka przez naturę i projekty",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
       "featured": true
     },
     {
@@ -1748,6 +2612,28 @@
       "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_radio_w_glowie",
+      "bookId": "radio-w-glowie",
+      "path": "official/glagolitic/pl/radio-w-glowie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Radio w głowie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "ADHD jak stacje grające naraz",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 7,
       "featured": true
     },
     {
@@ -1838,6 +2724,29 @@
       "featured": true
     },
     {
+      "id": "polish_sprawa",
+      "bookId": "sprawa",
+      "path": "official/glagolitic/pl/sprawa",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Sprawa",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "everyday_live",
+        "history"
+      ],
+      "coverFamily": "article",
+      "subtitle": "Pytanie, za które przyszła policja",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 7,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
       "id": "polish_susza",
       "bookId": "susza",
       "path": "official/glagolitic/pl/susza",
@@ -1857,6 +2766,52 @@
       "trustClassification": "inspired_by_reality",
       "difficulty": 5,
       "estimatedReadingTime": 10,
+      "featured": true
+    },
+    {
+      "id": "polish_swieci_wojownicy",
+      "bookId": "swieci-wojownicy",
+      "path": "official/glagolitic/pl/swieci-wojownicy",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Święci wojownicy",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "philosophy",
+        "history",
+        "short_story"
+      ],
+      "coverFamily": "philosophy",
+      "subtitle": "Podcast, rytuały i wojownicy wszystkich kultur",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 5,
+      "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_symetria",
+      "bookId": "symetria",
+      "path": "official/glagolitic/pl/symetria",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Symetria",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "history",
+        "philosophy"
+      ],
+      "coverFamily": "history",
+      "subtitle": "Wołyń kontra wygodne kłamstwo",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 8,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -1901,6 +2856,29 @@
       "trustClassification": "fiction",
       "difficulty": 5,
       "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
+      "id": "polish_tajwan",
+      "bookId": "tajwan",
+      "path": "official/glagolitic/pl/tajwan",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Tajwan",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "short_story",
+        "travel",
+        "article"
+      ],
+      "coverFamily": "travel",
+      "subtitle": "Paszport, którego system nie widzi",
+      "audience": "adult",
+      "trustClassification": "fiction",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
       "featured": true
     },
     {
@@ -1970,6 +2948,29 @@
       "featured": true
     },
     {
+      "id": "polish_ulamki",
+      "bookId": "ulamki",
+      "path": "official/glagolitic/pl/ulamki",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Ułamki",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "instruction",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Podziel czynność na kroki",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 2,
+      "estimatedReadingTime": 7,
+      "featured": true
+    },
+    {
       "id": "polish_w_kawiarni",
       "bookId": "w-kawiarni",
       "path": "official/glagolitic/pl/w-kawiarni",
@@ -1989,6 +2990,28 @@
       "trustClassification": "fiction",
       "difficulty": 3,
       "estimatedReadingTime": 6,
+      "featured": true
+    },
+    {
+      "id": "polish_w_pelni",
+      "bookId": "w-pelni",
+      "path": "official/glagolitic/pl/w-pelni",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "W pełni",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "psychology",
+        "short_story"
+      ],
+      "coverFamily": "psychology",
+      "subtitle": "Dziecko kompletne od urodzenia",
+      "audience": "family",
+      "trustClassification": "fiction",
+      "difficulty": 4,
+      "estimatedReadingTime": 9,
       "featured": true
     },
     {
@@ -2079,6 +3102,29 @@
       "featured": true
     },
     {
+      "id": "polish_zamowienie",
+      "bookId": "zamowienie",
+      "path": "official/glagolitic/pl/zamowienie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Zamówienie",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "article",
+        "everyday_live",
+        "medicine"
+      ],
+      "coverFamily": "medicine",
+      "subtitle": "L4 w piętnaście minut bez pytań",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 6,
+      "estimatedReadingTime": 8,
+      "featured": true
+    },
+    {
       "id": "polish_zasady",
       "bookId": "zasady",
       "path": "official/glagolitic/pl/zasady",
@@ -2120,6 +3166,29 @@
       "trustClassification": "fiction",
       "difficulty": 6,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_zloto_i_zwykle_szczescie",
+      "bookId": "zloto-i-zwykle-szczescie",
+      "path": "official/glagolitic/pl/zloto-i-zwykle-szczescie",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Złoto i zwykłe szczęście",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "fairy_tale",
+        "legends",
+        "short_story"
+      ],
+      "coverFamily": "legends",
+      "subtitle": "Legenda o złotej kaczce i szewczyku Lutku",
+      "audience": "children_8_12",
+      "trustClassification": "fiction",
+      "difficulty": 3,
+      "estimatedReadingTime": 6,
       "featured": true
     }
   ]

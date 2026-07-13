@@ -1,0 +1,309 @@
+# Dobra dziewczynka
+
+## Metadata
+
+**Pack ID:** `polish_dobra_dziewczynka`  
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Dobra dziewczynka  
+**Subtitle:** Perfekcja, pamiętnik i powrót do siebie  
+**Blurb:** Zosia przez dekady była „grzeczną dziewczynką” — czerwony pasek, chór, pamiętnik w szufladzie. Dopiero ciąża w pandemii i media społecznościowe pomagają jej zdjąć maskę i powiedzieć innym matkom: wystarczy być sobą.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Dobra dziewczynka — Collection Ten official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** perfekcjonizm, macierzyństwo, media społecznościowe, Collection Ten  
+
+**Keywords:** Dobra dziewczynka, Zosia, perfekcja, macierzyństwo  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- childhood
+- motherhood
+- writing
+- memory
+- shame
+- forgiveness
+
+**Editorial notes:** Fikcja w formie wywiadu radiowego; słabszy ton autopromocyjny.
+
+**Inspiration:** Motyw perfekcjonizmu i maski „grzecznej dziewczynki” w macierzyństwie.
+
+---
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** *(manuscript)*  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Akceptowalna — ważny temat, struktura wywiadu słabsza niż najlepsze opowiadania C10. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**DOBRA DZIEWCZYNKA**
+
+Miała pięć lat, kiedy pierwszy raz usłyszała te słowa. Nie pamiętała okoliczności, pamiętała tylko, że mama uśmiechnęła się do niej nad śniadaniem i powiedziała: "Zosia, jesteś taką grzeczną dziewczynką."
+
+I to było jak nakrętka. Jak coś, co wkręca się w środek człowieka i już nigdy nie wypada. Od tamtej pory Zosia wiedziała, kim ma być. Grzeczna. Dobra. Idealna. Taka, która nie sprawia problemów, która się uczy na czerwony pasek, która nosi włosy związane w koński ogon i nie krzyczy, nawet gdy chce krzyczeć.
+
+---
+W domu rodzinnym zawsze były gazety. Leżały na stole, na podłodze, na półkach. Jej ojciec, człowiek o wielkich rękach i jeszcze większym sercu, czytał je przy śniadaniu, przy kolacji, w każdym wolnym momencie. Zosia dorastała wśród słów – drukowanych, wypowiadanych, szeptanych. Wiedziała, że słowa mają moc. Że mogą budować albo niszczyć. Że trzeba je ważyć jak złoto.
+
+Miała dwie siostry, starsze o dwadzieścia lat. Dla Zosi były jak ciotki, jak drugie matki. Obserwowała ich życie z dystansu, widziała ich błędy, ich sukcesy, ich rozczarowania. I uczyła się na ich błędach. Ona nie powtórzy tych samych pomyłek. Ona będzie lepsza. Perfekcyjna.
+
+Bo tego właśnie oczekiwał od niej świat. A ona, grzeczna dziewczynka, zawsze dawała światu to, czego chciał.
+
+---
+Szkoła żeńska. Sześć lat wśród dziewczyn. Dla innych to było więzienie, dla Zosi – azyl. Tam, gdzie nie było chłopaków, nie było rywalizacji. Były przyjaźnie, które przetrwały do dziś. Była solidarność, której nigdy później nie zaznała.
+
+Ale to nie znaczy, że było łatwo. Każdego dnia, kiedy wychodziła z domu w tym samym granatowym mundurku, czuła na sobie ciężar oczekiwań. Musiała być najlepsza. Musiała mieć czerwony pasek. Musiała być wzorem do naśladowania. Bo jeśli nie będzie, to zawiedzie rodziców. A zawieść rodziców to było najgorsze, co mogło ją spotkać.
+
+Więc była. Codziennie. Godzinę po godzinie. Zamykała się w swoim pokoju z książkami, z Harrym Potterem, z pamiętnikiem, który dostawała na koniec każdego roku szkolnego. Pisała wszystko. O rodzicach, którzy jej nie rozumieli. O siostrach, które miały łatwiej. O chłopcach, którzy nigdy na nią nie patrzyli. O tym, że jest sama, nawet w tłumie.
+
+A potem zamykała pamiętnik i chowała go do szuflady. Bo grzeczna dziewczynka nie narzeka. Grzeczna dziewczynka się uśmiecha.
+
+---
+Tenis, taniec, śpiew, języki. Zajęcia, których nie znosiła, ale które musiała robić. Bo rodzice chcieli, żeby była przygotowana na życie. Żeby umiała wszystko. Żeby nigdy nie musiała prosić o pomoc.
+
+– Zosia, zobaczysz – mówił tata. – Będziesz wdzięczna, że cię nauczyliśmy. Jednego dnia podziękujesz nam za wszystko.
+
+Oni mieli rację. Robili to z miłości. Ale Zosia nie umiała im tego wybaczyć. Nie za to, że ją pchali. Za to, że nigdy nie zapytali, czego ona chce.
+
+I wtedy, pewnego dnia, coś się w niej złamało. To był zwykły poranek, przed wyjazdem na próbę chóru. Miała wtedy może piętnaście lat. Spakowała torbę, ubrała się, wyszła z pokoju. I stanęła w drzwiach łazienki. I nie mogła zrobić kolejnego kroku.
+
+– Nie jadę – powiedziała cicho.
+
+– Co? – mama spojrzała na nią zaskoczona.
+
+– Nie jadę. Ja nie chcę tam jechać. Ja nigdy nie chciałam.
+
+Zamknęła się w łazience i siedziała tam, dopóki nie usłyszała, że rodzice odwołali wyjazd. Tego dnia pierwszy raz w życiu powiedziała "nie". I choć bała się, że świat się zawali, on się nie zawalił. Rodzice wciąż ją kochali. A ona poczuła, że oddycha po raz pierwszy od lat.
+
+---
+Studia. Dziennikarstwo. Rozczarowanie, które miało kształt wykładów o nakładach gazet i datach założenia telewizji. Zosia chciała pisać, a uczono ją historii. Chciała tworzyć, a mówiono jej o statystykach.
+
+Więc zmieniła kierunek. Poszła na europeistykę, bo nęcił ją Erasmus, podróże, poznawanie świata. I tam poznała swojego męża. Tam, gdzie najmniej się tego spodziewała.
+
+Był pierwszym chłopakiem, który na nią spojrzał. I pierwszym, na którego ona spojrzała. Przez lata była przekonana, że jest niewidzialna. Że nie ma w niej nic, co mogłoby kogoś zainteresować. A on przyszedł i powiedział: "Widzę cię".
+
+I wtedy, po raz pierwszy, zrozumiała, że nie musi być doskonała. Że może być po prostu sobą.
+
+---
+Praca w mediach. Redakcja, w której dorośli mężczyźni płakali po spotkaniach. Toczyli wojny o stanowiska, o tytuły, o uznanie. A ona, grzeczna dziewczynka, patrzyła na to wszystko z boku i myślała: "To nie jest dla mnie".
+
+Miała już dość. Dość kłamstw, do których media próbowały przekonać widzów. Dość przemysłu emocji, w którym najważniejszy był klik, a nie prawda. Dość ludzi, którzy mówili jedno, a robili drugie. Dość siebie, która udawała, że wszystko jest w porządku.
+
+W 2017 roku odeszła. Zrezygnowała z pracy w kancelarii premiera, z pracy w WP, z tego całego świata, który ją pochłaniał. Wróciła do domu. Do męża. Do dzieci, które jeszcze nie istniały, ale już czekały.
+
+I zaczęła oddychać.
+
+---
+Pandemia. Ciąża, która nie była łatwa. Siedem miesięcy w łóżku, z telefonem w ręku, z mężem w pokoju obok, z dźwiękiem własnych myśli w głowie. To był czas, kiedy pierwszy raz poczuła, że naprawdę potrzebuje pomocy. Że nie da rady być doskonała. Że niektóre rzeczy są od niej większe.
+
+Przeczytała wtedy wszystkie poradniki, jakie tylko znalazła. I za każdym razem czuła się gorzej. Bo poradniki mówiły: "Musisz być spokojna", "Musisz być wyrozumiała", "Musisz być idealna". A ona nie była. I czuła, że zawodzi.
+
+Aż pewnego dnia, leżąc w łóżku, zrozumiała, że to wszystko jest kłamstwem. Że nie ma jednej dobrej drogi. Że każdy rodzic jest inny. Że nie trzeba być idealnym, żeby być dobrym.
+
+I wtedy zaczęła pisać.
+
+---
+Potem przyszedł synek. I Zosia, która przez całe życie robiła wszystko, żeby być dobra dla innych, zrozumiała, że teraz ma szansę być dobra dla niego. Nie w sposób, w jaki wychowywali ją rodzice – przez wymagania, przez oczekiwania, przez niezadowolenie. Ale inaczej. Przez słuchanie. Przez bycie obok. Przez pokazywanie, że można być niedoskonałym i wciąż być kochanym.
+
+Zaczęła nagrywać rozmowy. Z początku tylko dla siebie, dla rodziny. Potem – na Instagram, na TikToka, na YouTube. I okazało się, że ludzie tego potrzebują. Że setki tysięcy matek, ojców, dziadków – wszyscy szukają tego samego: kogoś, kto powie im, że wystarczy.
+
+I Zosia, która przez całe życie ukrywała swoją wrażliwość pod maską perfekcji, zaczęła ją pokazywać. W swoich filmikach, w swoich opowieściach, w rozmowach z synem, który miał trzy latka i mówił lepiej niż niektórzy dorośli.
+
+Bo ona rozmawiała z nim jak z człowiekiem. Nie jak z dzieckiem. Nie jak z kimś, kto nie rozumie. Ona traktowała go poważnie. I on jej odpowiadał.
+
+---
+– Dlaczego ludzie tak bardzo cię kochają? – zapytał ją kiedyś Żurnalista w podcaście.
+
+Zosia zastanowiła się przez chwilę.
+
+– Może dlatego – powiedziała – że jestem po prostu normalna. Że pokazuję, że można być matką i być sobą. Że nie trzeba być idealnym, żeby być dobrym rodzicem.
+
+– A co byś powiedziała tamtej dziewczynce, która pisała pamiętniki w swoim pokoju?
+
+Zosia uśmiechnęła się.
+
+– Powiedziałabym jej: "Będzie dobrze. Nie musisz być taka doskonała. Wystarczy, że będziesz sobą."
+
+---
+Potem Zosia opowiadała o pracy, o dzieciach, o mężu. O tym, jak nauczyła się mówić "nie" – po trzydziestu latach życia, po dziesiątkach lat bycia grzeczną dziewczynką. O tym, jak wciąż ma problem z przyjmowaniem komplementów, bo w głowie wciąż słyszy głos, który mówi: "Nie zasługujesz".
+
+Ale też o tym, że każdego dnia pracuje nad sobą. Że idzie na terapię, choć się boi. Że rozmawia z mężem o swoich lękach. Że uczy się być asertywna – nie tylko wobec świata, ale i wobec siebie.
+
+Pod koniec rozmowy, gdy Żurnalista zapytał, czy wierzy w przeznaczenie, Zosia odpowiedziała:
+
+– Tak. Wierzę, że ktoś nade mną czuwa. I wierzę, że jeśli słuchamy swojej intuicji, jeśli jesteśmy autentyczni, to życie prowadzi nas tam, gdzie powinniśmy być.
+
+I wtedy, po raz pierwszy w tej rozmowie, zrozumiałam, że Zosia nie jest idealna. Że nigdy nie była. Że przez całe życie uczyła się być sobą, odrzucając maskę perfekcji, którą włożyła na siebie jako mała dziewczynka.
+
+I że właśnie to jest jej największym sukcesem.
+
+---
+Zosia wzięła łyk wody. W studiu było ciepło, żarówki oświetlały jej twarz, która mimo wszystko – mimo lat zmagań, mimo ciężkich chwil – wciąż promieniała.
+
+– Dziękuję – powiedziała. – Za to, że mogłam być sobą.
+
+– Byłaś – odpowiedział Żurnalista. – I to właśnie sprawia, że jesteś tak wyjątkowa.
+
+Zosia zaśmiała się cicho.
+
+A gdzieś w jej głowie, w szufladzie z pamiętnikami, mała dziewczynka z zeszytem w ręku powiedziała: "Widzisz? Mówiłam ci, że będzie dobrze."
+
+**KONIEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kiedy Zosia po raz pierwszy słyszy, że jest „grzeczną dziewczynką”?
+
+**Answers:**
+- A) W szkole
+- B) Ma około pięciu lat przy śniadaniu
+- C) Na studiach
+- D) Po urodzeniu syna
+
+**Correct:** B
+**Explanation:** Mama mówi jej to nad śniadaniem, gdy ma pięć lat.
+**Text reference:** pięć lat
+
+### Question 2
+
+**Question:** Co Zosia robi po raz pierwszy w wieku ~15 lat?
+
+**Answers:**
+- A) Zmienia szkołę
+- B) Mówi „nie jadę” na próbę chóru
+- C) Wyjeżdża na Erasmusa
+- D) Rezygnuje z Instagrama
+
+**Correct:** B
+**Explanation:** Odmawia wyjazdu na próbę chóru i zamyka się w łazience.
+**Text reference:** Nie jadę
+
+### Question 3
+
+**Question:** Jaki kierunek studiów wybiera po rozczarowaniu dziennikarstwem?
+
+**Answers:**
+- A) Psychologię
+- B) Europeistykę
+- C) Medycynę
+- D) Prawo
+
+**Correct:** B
+**Explanation:** Przenosi się na europeistykę ze względu na Erasmusa i podróże.
+**Text reference:** europeistykę
+
+### Question 4
+
+**Question:** Co Zosia zaczyna robić w czasie pandemii i trudnej ciąży?
+
+**Answers:**
+- A) Pisać powieść kryminalną
+- B) Nagrywać rozmowy i publikować w social media
+- C) Prowadzić restaurację
+- D) Uczyć się programowania
+
+**Correct:** B
+**Explanation:** Nagrywa rozmowy dla rodziny, potem Instagram/TikTok/YouTube.
+**Text reference:** Nagrywać rozmowy
+
+### Question 5
+
+**Question:** Co Zosia powiedziałaby swojej młodej wersji?
+
+**Answers:**
+- A) Bądź jeszcze bardziej idealna
+- B) Nie musisz być doskonała — wystarczy, że będziesz sobą
+- C) Rzuć szkołę
+- D) Nigdy nie mów nie
+
+**Correct:** B
+**Explanation:** W wywiadzie mówi: „Nie musisz być taka doskonała. Wystarczy, że będziesz sobą”.
+**Text reference:** Wystarczy, że będziesz sobą
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

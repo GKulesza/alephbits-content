@@ -1,0 +1,22 @@
+{
+  "packId": "polish_franek_i_maly_karolek",
+  "bookId": "franek-i-maly-karolek",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Wątek śmierci matki Karolka — delikatnie ujęty; mocny motyw nauki czytania dla brata."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "LdKDbVor0Qk"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

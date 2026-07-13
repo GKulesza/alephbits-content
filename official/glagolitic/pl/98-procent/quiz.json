@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki procent pięciolatków wykazuje kreatywność na poziomie geniuszu według badań Landa?",
+      "answers": [
+        "30%",
+        "98%",
+        "12%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz cytuje: wśród pięciolatków aż 98% na poziomie geniuszu kreatywności."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki procent dorosłych powyżej 25 roku życia zachowuje tę kreatywność?",
+      "answers": [
+        "12%",
+        "30%",
+        "2%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "U dorosłych powyżej 25 lat zostaje ok. 2% — resztę „zabija” system."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Tomasz obserwuje sześcioro pięciolatek bawiących się w domku?",
+      "answers": [
+        "W Warszawie",
+        "W przedszkolu w Kopytkowie na Podlasiu",
+        "W Krakowie",
+        "W Gdańsku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stoi przed przedszkolem w Kopytkowie, gdzieś na Podlasiu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Tomasz uczy dzieci dni tygodnia w Kopytkowie?",
+      "answers": [
+        "Przez kserówkę i test",
+        "Przez ruch — siedmioro dzieci chodzi po sali i przekazuje sobie dni",
+        "Tylko przez piosenkę z YouTube",
+        "Przez karę za błędy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stawia siedmioro w środku — każde mówi dzień tygodnia, chodząc i współpracując."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co nauczyciel w Kopytkowie mówi Tomaszowi o systemie?",
+      "answers": [
+        "Że dyrektor go chwali",
+        "Że wie, że ma sens, ale system nie pozwala — program, sprawdziany, strach przed zwolnieniem",
+        "Że rodzice protestują",
+        "Że zmienią podstawę programową jutro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nauczyciel mówi: „System mi nie pozwala. Mam program, sprawdziany, oceny.”"
+    }
+  ]
+}

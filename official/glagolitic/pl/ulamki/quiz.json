@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Aga Rogala mówi o zdaniu „Załóż kurtkę”?",
+      "answers": [
+        "To jedno proste polecenie",
+        "To wiele kroków: haczyk, rękawy, zamek itd.",
+        "To nie ma sensu",
+        "To tylko dla dorosłych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dla dziecka jedno zdanie = seria skomplikowanych czynności."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda robi następnego ranka?",
+      "answers": [
+        "Wkłada kurtkę Zosi sama",
+        "Siada obok i prowadzi krok po kroku",
+        "Rezygnuje z przedszkola",
+        "Krzyknie"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Pokażę ci, jak się ubieramy. Razem”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Magda tłumaczy „szykuj się do spania”?",
+      "answers": [
+        "Jednym słowem wystarczy",
+        "Dzieli na: łazienka, zęby, piżama, łóżko",
+        "Każe iść spać w ubraniu",
+        "Ignoruje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konkretna lista kroków wieczornych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Zosia porównuje instrukcje do piosenki?",
+      "answers": [
+        "Nie lubi piosenek",
+        "Jak zna słowa — śpiewa sama; jak nie — mama pomaga",
+        "Zawsze potrzebuje mamy",
+        "Nigdy nie pamięta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metafora piosenki = stopniowa samodzielność."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia robi sama po kilku tygodniach?",
+      "answers": [
+        "Gotuje obiad dla rodziny",
+        "Robi kanapkę i herbatę krok po kroku",
+        "Jedzie autobusem",
+        "Pisze list do Agi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisuje kroki: chleb, masło, ser, herbata."
+    }
+  ]
+}

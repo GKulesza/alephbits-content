@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co uprawia Terka?",
+      "answers": [
+        "Kukurydzę",
+        "Pszenicę",
+        "Truskawki",
+        "Winogrona"
+      ],
+      "correctIndex": 0,
+      "explanation": "Terka dba o swoje pole kukurydzy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Tygrys?",
+      "answers": [
+        "Ślimakiem-wynalazcą",
+        "Kotem",
+        "Potworem",
+        "Krową"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tygrys przedstawia się jako ślimak i wynalazca."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po co Tygrys kopie doły na skraju pola?",
+      "answers": [
+        "By posadzić drzewa zatrzymujące wodę",
+        "By zniszczyć kukurydzę",
+        "By szukać skarbów",
+        "By zrobić basen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyjaśnia, że korzenie drzew pomagają zatrzymać wodę w glebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywają się przyjaciele Terki?",
+      "answers": [
+        "Tola i Urwis",
+        "Burek i Azor",
+        "Filek i Milek",
+        "Hania i Basia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tola (kotka) i Urwis (piesek) pomagają Terce."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co się dzieje po pierwszej burzy?",
+      "answers": [
+        "Ziemia wilgotnieje, kukurydza odżywa",
+        "Pole zostaje zalane i zniszczone",
+        "Terka wyjeżdża z wsi",
+        "Tygrys znika na zawsze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deszcz zatrzymuje się w glebie dzięki drzewom, kukurydza wygląda lepiej."
+    }
+  ]
+}

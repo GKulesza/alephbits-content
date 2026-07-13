@@ -1,0 +1,22 @@
+{
+  "packId": "polish_autorytet_na_przepraszam",
+  "bookId": "autorytet-na-przepraszam",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o współrodzicielstwie; adaptacja podcastu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "ewtts_glfwg"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

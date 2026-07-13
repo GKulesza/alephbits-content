@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co ojciec Kamila mówił mu regularnie?",
+      "answers": [
+        "Jesteś geniuszem",
+        "Jesteś leniwy / z ciebie leń",
+        "Idź spać",
+        "Kocham cię"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Ty to jesteś leniwy jak nic”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką książkę czyta Kamil?",
+      "answers": [
+        "Harry Potter",
+        "Dziki ojciec Szymona Grzelaka",
+        "W pustyni i w puszczy",
+        "1984"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czyta „Dziki ojciec” Grzelaka o etykietach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kamil mówi Adamowi po trójce z kartkówki?",
+      "answers": [
+        "Zawsze z ciebie był leń",
+        "Widzę, że się przygotowałeś — to wytrwałość",
+        "Idź do pokoju",
+        "Nigdy więcej sportu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisowe docenienie wysiłku, nie oceny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Adam mówi o „leniu” na końcu?",
+      "answers": [
+        "Nadal w to wierzy",
+        "Wie, że nie jest leniem — czasem brakuje mu motywacji, ale może to zmienić",
+        "Nienawidzi taty",
+        "Nie chce chodzić do szkoły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam: nie jest leniem, czasem brak motywacji — ale może zmienić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Kamil reaguje na zepsuty projekt szkolny?",
+      "answers": [
+        "Krzyknie o nieuważności",
+        "Pyta spokojnie co się stało i co Adam może zrobić",
+        "Kupuje nowy projekt",
+        "Anuluje lekcje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pyta o rozwiązanie i lekcję na przyszłość."
+    }
+  ]
+}

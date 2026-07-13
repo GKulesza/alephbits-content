@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co oznacza shitsuke w opowieści?",
+      "answers": [
+        "Karanie za każdy błąd",
+        "Budowanie umiejętności zamiast karania",
+        "Ignorowanie dziecka",
+        "Nagradzanie słodyczami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shitsuke pyta: jakiej umiejętności brakuje dziecku?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Kasia, gdy Franek nie może zapiąć kurtki?",
+      "answers": [
+        "Zapina za niego od razu",
+        "Czeka 10 sekund zanim pomoże",
+        "Krzyknie",
+        "Wychodzi bez niego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mimamoru — czeka z miłością; Franek sam zapina."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co to amae według filmu?",
+      "answers": [
+        "Karanie publiczne",
+        "Bycie bezpiecznym bez słów — dziecko może oprzeć się na miłości",
+        "Samodzielność bez rodzica",
+        "Konkursy piękności"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amae = bezpieczne przywiązanie umożliwiające spokój."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi głos z filmu o wychowaniu?",
+      "answers": [
+        "Wychowanie zmienia dziecko",
+        "Wychowanie zmienia ciebie — i to wystarczy",
+        "Wychowanie nie ma znaczenia",
+        "Wychowanie to tylko kara"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Wychowanie nie zmienia twojego dziecka. Zmienia ciebie”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka cisza zapanowała w domu na końcu?",
+      "answers": [
+        "Cisza napięcia i strachu",
+        "Cisza zaufania i obecności",
+        "Cisza, bo wszyscy poszli spać",
+        "Brak rozmów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cisza obecności, zaufania i miłości — nie braku dźwięków."
+    }
+  ]
+}

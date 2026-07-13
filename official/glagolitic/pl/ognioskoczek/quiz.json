@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Skąd bierze moc Ognioskoczek?",
+      "answers": [
+        "Z psót i złych myśli dzieci",
+        "Ze słońca",
+        "Z księgi bez psów",
+        "Z wody"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pan Stanisław mówi, że powstał z psót i złych myśli."
+    },
+    {
+      "type": "single_choice",
+      "question": "W czym uwięzią Ognioskoczka?",
+      "answers": [
+        "W szklanym gąsiorze ze słodyczami",
+        "W worku",
+        "W piwnicy",
+        "W szafie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przygotowują gąsior z miodem i konfiturami jako pułapkę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co traci duszek, gdy traci czapeczkę?",
+      "answers": [
+        "Całą swoją siłę",
+        "Głos",
+        "Pamięć",
+        "Skarb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Księga mówi, że bez czerwonej czapeczki traci całą moc."
+    },
+    {
+      "type": "single_choice",
+      "question": "W kim zamienia się Ognioskoczek na końcu?",
+      "answers": [
+        "Mały czerwony kamyczek",
+        "Motyl",
+        "Kot",
+        "Iskra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kurczy się i zamienia w mały czerwony kamyczek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się księga zaklęć?",
+      "answers": [
+        "O duchach, czarach i zaklęciach — dzieło mistrza Adalberta",
+        "Harry Potter",
+        "Koziołek Matołek",
+        "Pan Tadeusz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pan Stanisław znajduje księgę mistrza Adalberta o duchach."
+    }
+  ]
+}

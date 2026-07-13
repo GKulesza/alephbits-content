@@ -1,0 +1,22 @@
+{
+  "packId": "polish_klucz_babci_rozi",
+  "bookId": "klucz-babci-rozi",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Klasyczna bajka o trzech domkach i zagadkach; końcówka ujawnia, że babcia była Królową Wiatru."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

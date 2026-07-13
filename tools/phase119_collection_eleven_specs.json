@@ -1,0 +1,1402 @@
+{
+  "Święci wojownicy": {
+    "manuscript_title": "Święci wojownicy",
+    "slug": "swieci-wojownicy",
+    "pack_id": "polish_swieci_wojownicy",
+    "display_title": "Święci wojownicy",
+    "subtitle": "Podcast, rytuały i wojownicy wszystkich kultur",
+    "blurb": "Dorosły narrator słucha podcastu o templariuszach, samurajach, wikingach i mudżahedinach — i przypomina sobie medalik z dzieciństwa, dziadka z AK oraz pytanie: czy potrzebujemy wiary w bogów, by walczyć własne wojny?",
+    "genres": "philosophy, history, short_story",
+    "cover_family": "philosophy",
+    "audience": "adult",
+    "difficulty": 5,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "podcast, wojownicy, rytuały, templariusze, Collection Eleven",
+    "keywords": "Święci wojownicy, templariusze, samuraje, rytuały, podcast",
+    "editorial_notes": "Eseistyczna fikcja inspirowana podcastem Atora i Artura Wójtowicza; odniesienia historyczne (berserkerzy, II wojna światowa, islam) w narracji dorosłego bohatera — nie lekcja historii.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube -vRABYN-UAA (13.07.2026); YouTube -vRABYN-UAA (2026-07-13).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Silna refleksja o sensie, rytuałach i akceptacji — dobry ton AlephBits dla dorosłych; nie dla dzieci.",
+    "founder_notes": [
+      "Founder note: Treści wojenne i narkotyki w kontekście historycznym — fiction framing.",
+      "Founder note: Powiązanie z serią podcastową — rozważyć tag serii."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat miał narrator, gdy pierwszy raz usłyszał o templariuszach?",
+        "answers": [
+          "Dziesięć",
+          "Dwanaście",
+          "Piętnaście",
+          "Siedem"
+        ],
+        "correct": "B",
+        "explanation": "Tekst mówi: „Kiedy miałem dwanaście lat, pierwszy raz usłyszałem o templariuszach.”",
+        "reference": "dwanaście lat"
+      },
+      {
+        "question": "Kogo narrator wspomina jako „świętego wojownika” w sensie ludzkim?",
+        "answers": [
+          "Ojca",
+          "Dziadka z AK",
+          "Artura Wójtowicza",
+          "Atora"
+        ],
+        "correct": "B",
+        "explanation": "Dziadek był żołnierzem Armii Krajowej i znalazł spokój w akceptacji przeszłości.",
+        "reference": "dziadek"
+      },
+      {
+        "question": "Co narrator nosił jako dziecko?",
+        "answers": [
+          "Medalik z Matką Boską",
+          "Czerwony krzyż",
+          "Amulet samurajski",
+          "Order"
+        ],
+        "correct": "A",
+        "explanation": "Wspomina medalik z Matką Boską, w który wierzył jako dziecko.",
+        "reference": "medalik"
+      },
+      {
+        "question": "Jaki wniosek wyciąga narrator na końcu?",
+        "answers": [
+          "Trzeba wrócić do religii",
+          "Może wystarczy wiara w siebie i nadanie życiu sensu",
+          "Wojna jest zawsze słuszna",
+          "Rytuały są bezużyteczne"
+        ],
+        "correct": "B",
+        "explanation": "Kończy myślą, że może nie potrzebujemy wiary w bogów — wystarczy wiara w siebie.",
+        "reference": "wiara w siebie"
+      },
+      {
+        "question": "Gdzie siedzi narrator podczas słuchania podcastu?",
+        "answers": [
+          "W warszawskim mieszkaniu",
+          "W Krakowie",
+          "W Poznaniu",
+          "Na wsi u dziadka"
+        ],
+        "correct": "A",
+        "explanation": "Opowieść zaczyna się od „siedzę w swoim warszawskim mieszkaniu”.",
+        "reference": "warszawskim mieszkaniu"
+      }
+    ],
+    "motifs": [
+      "warrior",
+      "faith",
+      "ritual",
+      "memory",
+      "mentor",
+      "question"
+    ]
+  },
+  "Klucz babci Rózi": {
+    "manuscript_title": "Klucz babci Rózi",
+    "slug": "klucz-babci-rozi",
+    "pack_id": "polish_klucz_babci_rozi",
+    "display_title": "Klucz babci Rózi",
+    "subtitle": "Susza, trzy domki i Królowa Deszczu",
+    "blurb": "Dziesięcioletnia Lena wędruje przez zaczarowaną krainę za srebrnym kluczem, by prosić Królową Deszczu o deszcz dla wyschniętego gospodarstwa — i odkrywa, że jej babci Rózi skrywa własną magiczną przeszłość.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "bajka, susza, magia, babcia, Collection Eleven",
+    "keywords": "Klucz babci Rózi, Królowa Deszczu, Lena, bajka",
+    "editorial_notes": "Klasyczna bajka o trzech domkach i zagadkach; końcówka ujawnia, że babcia była Królową Wiatru.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube 55rrx4XtY8g (06.01.2022); YouTube 55rrx4XtY8g (2022-01-06).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Ciepła opowieść o odwadze, rodzinie i pomocy innym — mocny kandydat na półkę dziecięcą.",
+    "founder_notes": [
+      "Founder note: Near-duplicate z „Klucz do deszczowej krainy” — ta sama ścieżka fabuły i ten sam YouTube; rozważyć jedną wersję na półce."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Lena?",
+        "answers": [
+          "Osiem",
+          "Dziesięć",
+          "Dwanaście",
+          "Siedem"
+        ],
+        "correct": "B",
+        "explanation": "Tekst: „Lena miała dziesięć lat”.",
+        "reference": "dziesięć lat"
+      },
+      {
+        "question": "Co otwiera drzwi do zaczarowanej krainy?",
+        "answers": [
+          "Srebrny klucz",
+          "Złota moneta",
+          "Mapa",
+          "Piosenka bez klucza"
+        ],
+        "correct": "A",
+        "explanation": "Babcia wyciąga srebrny klucz ze szuflady fartucha.",
+        "reference": "srebrny klucz"
+      },
+      {
+        "question": "Kim okazuje się babcia Rózia na końcu?",
+        "answers": [
+          "Królową Wiatru",
+          "Królową Deszczu",
+          "Ciotką Stellą",
+          "Śnieżynką"
+        ],
+        "correct": "A",
+        "explanation": "Mówi: „Kiedyś byłam Królową Wiatru”.",
+        "reference": "Królową Wiatru"
+      },
+      {
+        "question": "Jaką piosenkę Lena śpiewa, by otworzyć drzwi?",
+        "answers": [
+          "Kap, kap, kap, otwórz proszę drzwi…",
+          "Deszczu spłyń na tę ziemię",
+          "Kukuryku",
+          "Muuu"
+        ],
+        "correct": "A",
+        "explanation": "Babcia uczy piosenki zaczynającej się od „Kap, kap, kap…”.",
+        "reference": "Kap, kap, kap"
+      },
+      {
+        "question": "Co Lena robi, by uratować suknię Królowej Kropei?",
+        "answers": [
+          "Gra na flecie",
+          "Tańczy",
+          "Śpiewa o deszczu",
+          "Podlewa kwiaty"
+        ],
+        "correct": "A",
+        "explanation": "Lena gra melodię na flecie, by odmrozić suknię z kropli.",
+        "reference": "flet"
+      }
+    ],
+    "motifs": [
+      "key",
+      "rain",
+      "journey",
+      "grandmother",
+      "courage",
+      "wonder"
+    ]
+  },
+  "Cudaczek-Wyśmiewaczek": {
+    "manuscript_title": "Cudaczek-Wyśmiewaczek",
+    "slug": "cudaczek-wysmiewaczek",
+    "pack_id": "polish_cudaczek_wysmiewaczek",
+    "display_title": "Cudaczek-Wyśmiewaczek",
+    "subtitle": "Panna Obrażalska i licho od śmiechu",
+    "blurb": "Ośmioletnia dziewczynka, którą wszyscy nazywają Panną Obrażalską, żyje w symbiozie z lichutkim Cudaczkiem-Wyśmiewaczkiem — dopóki staruszek nie każe jej przez trzy dni ani razu się nie obrazić.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "obrazki, charakter, szkoła, Collection Eleven",
+    "keywords": "Cudaczek-Wyśmiewaczek, Panna Obrażalska, licho",
+    "editorial_notes": "Bajka moralna o przemianie postawy; humorystyczny ton, bez przemocy.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube Xe3B8tGjKXE (10.04.2019).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Prosta, skuteczna opowieść o emocjach i współpracy — dobra dla młodszych czytelników.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Czym żywi się Cudaczek-Wyśmiewaczek?",
+        "answers": [
+          "Śmiechem",
+          "Chlebem",
+          "Mlekiem",
+          "Owocami"
+        ],
+        "correct": "A",
+        "explanation": "Licho „żywiło się tylko śmiechem”.",
+        "reference": "śmiechem"
+      },
+      {
+        "question": "Jaką radę daje staruszek?",
+        "answers": [
+          "Przez trzy dni ani razu się nie obraź",
+          "Nie chodź do szkoły",
+          "Wyprowadź się na stałe",
+          "Zjedz więcej grochówki"
+        ],
+        "correct": "A",
+        "explanation": "Staruszek każe wytrzymać trzy dni bez obrażania się.",
+        "reference": "trzy dni"
+      },
+      {
+        "question": "Gdzie mieszka Cudaczek?",
+        "answers": [
+          "W jasnych warkoczykach dziewczynki",
+          "W piwnicy",
+          "W szafie",
+          "W kominie"
+        ],
+        "correct": "A",
+        "explanation": "Mieszka w warkoczykach Panny Obrażalskiej.",
+        "reference": "warkoczykach"
+      },
+      {
+        "question": "Co dziewczynka wiąże na ręce na pamiątkę?",
+        "answers": [
+          "Niebieską tasiemkę",
+          "Czerwoną wstążkę",
+          "Sznurek",
+          "Bransoletkę"
+        ],
+        "correct": "A",
+        "explanation": "Zawiązuje niebieską tasiemkę po radzie staruszka.",
+        "reference": "niebieską tasiemkę"
+      },
+      {
+        "question": "Co dzieje się z Cudaczkiem po trzecim dniu?",
+        "answers": [
+          "Słabnie i ucieka z domu",
+          "Rośnie w siłę",
+          "Zamienia się w psa",
+          "Zostaje na zawsze"
+        ],
+        "correct": "A",
+        "explanation": "Po trzecim dniu Cudaczek słabnie i wychodzi z domu.",
+        "reference": "ucieknie gdzie pieprz rośnie"
+      }
+    ],
+    "motifs": [
+      "childhood",
+      "anger",
+      "forgiveness",
+      "home",
+      "teaching",
+      "companionship"
+    ]
+  },
+  "Kapuściana tajemnica": {
+    "manuscript_title": "Kapuściana tajemnica",
+    "slug": "kapusciana-tajemnica",
+    "pack_id": "polish_kapusciana_tajemnica",
+    "display_title": "Kapuściana tajemnica",
+    "subtitle": "Nudna babcia i mapa do skarbów",
+    "blurb": "Jedenastoletni Kacper nudzi się u babci i jej kapuśniaka — dopóki nie odkryje, że starsza pani z kryminałów i zupy to dawna poszukiwaczka skarbów z młodości pełnej pościgów.",
+    "genres": "adventure, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "babcia, tajemnica, czytanie, Collection Eleven",
+    "keywords": "Kapuściana tajemnica, Kacper, babcia, skarb",
+    "editorial_notes": "Motyw trudności w czytaniu (Kacper zostaje na drugi rok) — pozytywnie; wątek gangsterski w przeszłości babci jako tło, nie przemoc na pierwszym planie.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube DoKNiN4QpYI (08.09.2015); YouTube DoKNiN4QpYI (2015-09-08).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Ciepła opowieść o patrzeniu ponad stereotypy i wspólne czytanie.",
+    "founder_notes": [
+      "Founder note: Delikatny wątek trudności szkolnych / czytania — pozytywnie ujęty."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Kacper?",
+        "answers": [
+          "Dziewięć",
+          "Jedenastu",
+          "Trzynaście",
+          "Osiem"
+        ],
+        "correct": "B",
+        "explanation": "Tekst: „Kacper miał jedenaście lat”.",
+        "reference": "jedenaście lat"
+      },
+      {
+        "question": "Jakie ciasto podaje babcia po zupie?",
+        "answers": [
+          "Kapuściane",
+          "Jabłkowe",
+          "Marchewkowe",
+          "Miodowe"
+        ],
+        "correct": "A",
+        "explanation": "Po zupie nadeszła kolej na kapuściane ciasto.",
+        "reference": "Kapuściane"
+      },
+      {
+        "question": "Jaką książkę babcia nazywa ulubioną?",
+        "answers": [
+          "Wielki skarb",
+          "Harry Potter",
+          "Pinokio",
+          "Robinson"
+        ],
+        "correct": "A",
+        "explanation": "Mówi o „Wielkim skarbie” — o chłopcu i mapach w piwnicy.",
+        "reference": "Wielki skarb"
+      },
+      {
+        "question": "Co Kacper odkrywa za obrazkiem?",
+        "answers": [
+          "Srebrny kluczyk",
+          "Złoto",
+          "Pistolet",
+          "List"
+        ],
+        "correct": "A",
+        "explanation": "Babcia wyjmuje mały srebrny kluczyk spod obrazka.",
+        "reference": "srebrny kluczyk"
+      },
+      {
+        "question": "Dlaczego babcia i dziadek przestali rabować?",
+        "answers": [
+          "Dla bezpieczeństwa rodziny",
+          "Bo stracili mapę",
+          "Bo poszli do więzienia",
+          "Bo nie lubili skarbów"
+        ],
+        "correct": "A",
+        "explanation": "Mówi: „Dla was. Dla rodziny. Dla waszego bezpieczeństwa.”",
+        "reference": "Dla rodziny"
+      }
+    ],
+    "motifs": [
+      "grandmother",
+      "secret",
+      "discovery",
+      "reading",
+      "adventure",
+      "treasure"
+    ]
+  },
+  "Złoto i zwykłe szczęście": {
+    "manuscript_title": "Złoto i zwykłe szczęście",
+    "slug": "zloto-i-zwykle-szczescie",
+    "pack_id": "polish_zloto_i_zwykle_szczescie",
+    "display_title": "Złoto i zwykłe szczęście",
+    "subtitle": "Legenda o złotej kaczce i szewczyku Lutku",
+    "blurb": "Biedny praktykant Lutek w noc świętojańską odnajduje w lochach Zamku Ostrogskich zaklętą królewnę-kaczkę — lecz prawdziwe bogactwo okazuje się nie w sakiewce, lecz w jednym geście wobec głodnego starca.",
+    "genres": "fairy_tale, legends, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "legenda warszawska, szewc, hojność, Collection Eleven",
+    "keywords": "Złoto i zwykłe szczęście, Zamek Ostrogskich, Lutek, legenda",
+    "editorial_notes": "Klasyczna baśń z morałem; odniesienia do Kilińskiego i Starówki jako tło kulturowe.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube WFOCPSWVVvE (17.03.2019); YouTube WFOCPSWVVvE (2019-03-17).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Uniwersalna opowieść o hojności vs chciwości — mocny materiał edukacyjno-moralny.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Kiedy można znaleźć królewnę według legendy?",
+        "answers": [
+          "W noc świętojańską",
+          "W Wigilię",
+          "W noc andrzejkową",
+          "W każdą noc"
+        ],
+        "correct": "A",
+        "explanation": "Legenda mówi, że można tego dokonać tylko w noc świętojańską.",
+        "reference": "noc świętojańską"
+      },
+      {
+        "question": "Ile dukatów dostaje Lutek od królewny?",
+        "answers": [
+          "Sto",
+          "Pięćdziesiąt",
+          "Dziesięć",
+          "Tysiąc"
+        ],
+        "correct": "A",
+        "explanation": "Królewna daje mu sakiewkę ze stu dukatami.",
+        "reference": "stu dukatami"
+      },
+      {
+        "question": "Na co Lutek ostatecznie wydaje pieniądze?",
+        "answers": [
+          "Daje je głodnemu staruszkowi",
+          "Kupuje pałac",
+          "Gra w karty do rana",
+          "Chowa pod podłogą"
+        ],
+        "correct": "A",
+        "explanation": "Wysypuje pozostałe dukaty staruszkowi-inwalidzie.",
+        "reference": "staruszka"
+      },
+      {
+        "question": "Kim zostaje Lutek na końcu opowieści?",
+        "answers": [
+          "Majstrem szewskim z własnym warsztatem",
+          "Królem",
+          "Kupcem",
+          "Żołnierzem"
+        ],
+        "correct": "A",
+        "explanation": "Wkrótce Lutek zostaje majstrem i otwiera własny warsztat.",
+        "reference": "majstrem"
+      },
+      {
+        "question": "Gdzie znajduje się legenda o kaczce?",
+        "answers": [
+          "W lochach Zamku Ostrogskich na Tamce",
+          "W Wawelu",
+          "Na Woli",
+          "W Łazienkach"
+        ],
+        "correct": "A",
+        "explanation": "Szewcy mówią o lochach Zamku Ostrogskich na Tamce.",
+        "reference": "Zamek Ostrogskich"
+      }
+    ],
+    "motifs": [
+      "gold",
+      "generosity",
+      "legend",
+      "home",
+      "shame",
+      "gratitude"
+    ]
+  },
+  "Ciekawska Zosia i skarb przyjaźni": {
+    "manuscript_title": "Ciekawska Zosia i skarb przyjaźni",
+    "slug": "ciekawska-zosia-i-skarb-przyjazni",
+    "pack_id": "polish_ciekawska_zosia_i_skarb_przyjazni",
+    "display_title": "Ciekawska Zosia i skarb przyjaźni",
+    "subtitle": "Ciekawość, obietnica i suszone kwiaty",
+    "blurb": "Zosia nie potrafi powstrzymać ciekawości — aż wnuczka u babci na wsi łamie obietnicę, puszcza mysz z kredensu i uczy się, że prawdziwy skarb to panowanie nad ciekawością i dzielenie się pięknem natury.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "nature",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "ciekawość, babcia, natura, Collection Eleven",
+    "keywords": "Ciekawska Zosia, skarb przyjaźni, ciekawość",
+    "editorial_notes": "Morał o ciekawości bez moralizowania; pozytywne zakończenie z pasją botaniczną.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube gGZ7a47-rW4 (21.03.2016); YouTube gGZ7a47-rW4 (2016-03-21).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra opowieść o samokontroli i przekierowaniu ciekawości — AlephBits-friendly.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Co wyskakuje z kredensu, gdy Zosia go otwiera?",
+        "answers": [
+          "Biała mysz",
+          "Kot",
+          "Motyl",
+          "Pająk"
+        ],
+        "correct": "A",
+        "explanation": "Z kredensu wyskakuje biała mysz.",
+        "reference": "biała mysz"
+      },
+      {
+        "question": "Co obiecuje babcia dać Zosi, gdy przestanie być zbyt ciekawska?",
+        "answers": [
+          "Zabawki z kredensu",
+          "Konie",
+          "Telefon",
+          "Pieniądze"
+        ],
+        "correct": "A",
+        "explanation": "W kredensie stoją lalka, pajac, wózek i piłka.",
+        "reference": "zabawki"
+      },
+      {
+        "question": "Jaką nową pasję odkrywa Zosia?",
+        "answers": [
+          "Suszenie kwiatów i roślin",
+          "Grę w piłkę",
+          "Gotowanie",
+          "Tańce"
+        ],
+        "correct": "A",
+        "explanation": "Zaczyna suszyć kwiaty i robić z nich prezenty.",
+        "reference": "suszenie kwiatów"
+      },
+      {
+        "question": "Co łapie Zosi za palec w koszyku?",
+        "answers": [
+          "Rak",
+          "Krab",
+          "Ryba",
+          "Żaba"
+        ],
+        "correct": "A",
+        "explanation": "Rak schowany w koszyku chwyta ją za palec.",
+        "reference": "rak"
+      },
+      {
+        "question": "Jaki wniosek wyciąga babcia w liście?",
+        "answers": [
+          "Ciekawość jest dobra, gdy nie łamie obietnic i nie krzywdzi",
+          "Ciekawość jest zawsze zła",
+          "Nigdy nie wolno dotykać niczego",
+          "Zabawki są najważniejsze"
+        ],
+        "correct": "A",
+        "explanation": "Babcia pisze, że ciekawość jest dobra, gdy nie krzywdzi i nie łamie obietnic.",
+        "reference": "nie krzywdzi innych"
+      }
+    ],
+    "motifs": [
+      "curiosity",
+      "childhood",
+      "forgiveness",
+      "nature",
+      "grandmother",
+      "discovery"
+    ]
+  },
+  "Koziołek Matołek i podróż do Pacanowa": {
+    "manuscript_title": "Koziołek Matołek i podróż do Pacanowa",
+    "slug": "koziolek-matolek-i-podroz-do-pacanowa",
+    "pack_id": "polish_koziolek_matolek_i_podroz_do_pacanowa",
+    "display_title": "Koziołek Matołek i podróż do Pacanowa",
+    "subtitle": "Skrócona podróż najsłynniejszego koziołka",
+    "blurb": "Koziołek Matołek rusza do Pacanowa po podkowy — i przez więzienie, czarownicę, utratę brody i podróż aż na Księżyc odkrywa, że najlepiej jest w domu, wśród swoich.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 3,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "Koziołek Matołek, Pacanów, klasyka, Collection Eleven",
+    "keywords": "Koziołek Matołek, Pacanów, Kornel Makuszyński",
+    "editorial_notes": "Skondensowane streszczenie klasyki Makuszyńskiego; niektóre epizody (ścięcie brody, czarownica) mogą być intensywne dla najmłodszych.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube C18gZmTbHh4 (26.01.2024); postać z twórczości Kornela Makuszyńskiego; YouTube C18gZmTbHh4 (2024-01-26).",
+    "philosophy_stars": 3,
+    "philosophy_note": "Przyjemna abridżacja klasyki, lecz bardzo skrótowa — słabsza niż pełne opowiadania Makuszyńskiego.",
+    "founder_notes": [
+      "Founder note: Prawa autorskie — postać public domain / klasyka; sprawdzić status Makuszyńskiego w katalogu.",
+      "Founder note: Epizody strachu (czarownica, więzienie) — rozważyć age note."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Dokąd Matołek chce dotrzeć na początku?",
+        "answers": [
+          "Do Pacanowa",
+          "Do Warszawy",
+          "Do Afryki",
+          "Na Księżyc"
+        ],
+        "correct": "A",
+        "explanation": "Rusza do Pacanowa, by założyć podkowy.",
+        "reference": "Pacanowie"
+      },
+      {
+        "question": "Kogo spotyka Matołek na Księżycu?",
+        "answers": [
+          "Pana Twardowskiego",
+          "Smoka",
+          "Króla",
+          "Czarownicę"
+        ],
+        "correct": "A",
+        "explanation": "Na Księżycu spotyka pana Twardowskiego.",
+        "reference": "pana Twardowskiego"
+      },
+      {
+        "question": "Co traci Matołek w mieście z dziwnym prawem?",
+        "answers": [
+          "Broda",
+          "Podkowy",
+          "Tobołek",
+          "Nogi"
+        ],
+        "correct": "A",
+        "explanation": "W mieście, gdzie brodacze muszą ją stracić, ścinają mu brodę.",
+        "reference": "brodę"
+      },
+      {
+        "question": "Gdzie Matołek ostatecznie zostaje?",
+        "answers": [
+          "W Polsce wśród swoich",
+          "W Pacanowie na stałe",
+          "W Afryce jako król",
+          "Na Księżycu"
+        ],
+        "correct": "A",
+        "explanation": "Mówi: „Zostanę! Już nigdy nie opuszczę Polski.”",
+        "reference": "wśród swoich"
+      },
+      {
+        "question": "Kto przyszywa Matołkowi głowę po utracie brody?",
+        "answers": [
+          "Szewc",
+          "Czarownica",
+          "Księżniczka",
+          "Kowal"
+        ],
+        "correct": "A",
+        "explanation": "Poczciwy szewc przyszywa mu głowę do tułowia.",
+        "reference": "szewc"
+      }
+    ],
+    "motifs": [
+      "journey",
+      "home",
+      "courage",
+      "discovery",
+      "fear",
+      "companionship"
+    ]
+  },
+  "Nowy ogród": {
+    "manuscript_title": "Nowy ogród",
+    "slug": "nowy-ogrod",
+    "pack_id": "polish_nowy_ogrod",
+    "display_title": "Nowy ogród",
+    "subtitle": "Myszka Terka, susza i ślimak-wynalazca",
+    "blurb": "Myszka Terka walczy o uratowanie pola kukurydzy w suszy — dopóki tajemniczy ślimak Tygrys nie wyjaśnia, że drzewa na skraju pola mogą zatrzymać wodę lepiej niż sama kukurydza.",
+    "genres": "nature, short_story",
+    "cover_family": "nature",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "ekologia, susza, ogrodnictwo, Collection Eleven",
+    "keywords": "Nowy ogród, Terka, Tygrys, susza",
+    "editorial_notes": "Opowieść edukacyjna o roli drzew i retencji wody; postacie zwierzęce.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube SdQAa0A4XvA (23.07.2019); YouTube SdQAa0A4XvA (2019-07-23).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Delikatna ekologia i współpraca — dobry materiał dla dzieci.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Co uprawia Terka?",
+        "answers": [
+          "Kukurydzę",
+          "Pszenicę",
+          "Truskawki",
+          "Winogrona"
+        ],
+        "correct": "A",
+        "explanation": "Terka dba o swoje pole kukurydzy.",
+        "reference": "kukurydzy"
+      },
+      {
+        "question": "Kim jest Tygrys?",
+        "answers": [
+          "Ślimakiem-wynalazcą",
+          "Kotem",
+          "Potworem",
+          "Krową"
+        ],
+        "correct": "A",
+        "explanation": "Tygrys przedstawia się jako ślimak i wynalazca.",
+        "reference": "ślimak"
+      },
+      {
+        "question": "Po co Tygrys kopie doły na skraju pola?",
+        "answers": [
+          "By posadzić drzewa zatrzymujące wodę",
+          "By zniszczyć kukurydzę",
+          "By szukać skarbów",
+          "By zrobić basen"
+        ],
+        "correct": "A",
+        "explanation": "Wyjaśnia, że korzenie drzew pomagają zatrzymać wodę w glebie.",
+        "reference": "drzewa"
+      },
+      {
+        "question": "Jak nazywają się przyjaciele Terki?",
+        "answers": [
+          "Tola i Urwis",
+          "Burek i Azor",
+          "Filek i Milek",
+          "Hania i Basia"
+        ],
+        "correct": "A",
+        "explanation": "Tola (kotka) i Urwis (piesek) pomagają Terce.",
+        "reference": "Tola i Urwis"
+      },
+      {
+        "question": "Co się dzieje po pierwszej burzy?",
+        "answers": [
+          "Ziemia wilgotnieje, kukurydza odżywa",
+          "Pole zostaje zalane i zniszczone",
+          "Terka wyjeżdża z wsi",
+          "Tygrys znika na zawsze"
+        ],
+        "correct": "A",
+        "explanation": "Deszcz zatrzymuje się w glebie dzięki drzewom, kukurydza wygląda lepiej.",
+        "reference": "wilgotna ziemia"
+      }
+    ],
+    "motifs": [
+      "garden",
+      "nature",
+      "drought",
+      "community",
+      "discovery",
+      "teaching"
+    ]
+  },
+  "Ciche serce dzwonka": {
+    "manuscript_title": "Ciche serce dzwonka",
+    "slug": "ciche-serce-dzwonka",
+    "pack_id": "polish_ciche_serce_dzwonka",
+    "display_title": "Ciche serce dzwonka",
+    "subtitle": "Gdy głośny dźwięk nie jest potrzebny",
+    "blurb": "Złoty Dzwonek w sklepiku z instrumentami wstydzi się, że dzwoni tylko szeptem — dopóki wiolonczela i mała dziewczynka nie pokażą mu, że cisza też może być piękna.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "short_story",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "muzyka, pewność siebie, Collection Eleven",
+    "keywords": "Ciche serce dzwonka, Złoty Dzwonek, instrumenty",
+    "editorial_notes": "Allegoria o akceptacji siebie; delikatny ton, bez konfliktu.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube RXdgMlRqr-E (02.02.2022); YouTube RXdgMlRqr-E (2022-02-02).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Prosta, ciepła opowieść o samoaceptacji — idealna dla młodszych.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Czym różni się Złoty Dzwonek od innych instrumentów?",
+        "answers": [
+          "Dzwoni bardzo cicho",
+          "Nie ma dzwonka",
+          "Jest największy",
+          "Nie lubi muzyki"
+        ],
+        "correct": "A",
+        "explanation": "Jego dźwięk jest cichutki jak szept.",
+        "reference": "cichutki"
+      },
+      {
+        "question": "Co mówi wiolonczela o szeptach?",
+        "answers": [
+          "Że też mają znaczenie",
+          "Że są bezużyteczne",
+          "Że trzeba krzyczeć",
+          "Że dzwonek jest zepsuty"
+        ],
+        "correct": "A",
+        "explanation": "Wiolonczela mówi, że szepty też mają znaczenie.",
+        "reference": "Szepty też mają znaczenie"
+      },
+      {
+        "question": "Kto kupuje dzwonek?",
+        "answers": [
+          "Mała dziewczynka",
+          "Pan sklepikarz",
+          "Nauczyciel",
+          "Staruszek"
+        ],
+        "correct": "A",
+        "explanation": "Dziewczynka słyszy jego cichy dźwięk i go kupuje.",
+        "reference": "dziewczynka"
+      },
+      {
+        "question": "Gdzie dziewczynka wiesza dzwonek?",
+        "answers": [
+          "Na oknie w pokoju",
+          "W piwnicy",
+          "Na dachu",
+          "W szkole"
+        ],
+        "correct": "A",
+        "explanation": "Powiesiła go na oknie, gdzie wieje wietrzyk.",
+        "reference": "na oknie"
+      },
+      {
+        "question": "Jaki wniosek wyciąga dzwonek?",
+        "answers": [
+          "Nie musi być głośny, by być ważny",
+          "Musi grać jak bęben",
+          "Powinien się chować",
+          "Cisza jest zła"
+        ],
+        "correct": "A",
+        "explanation": "Rozumie, że jego cichy dźwięk jest wyjątkowy i ważny.",
+        "reference": "nie musi być głośny"
+      }
+    ],
+    "motifs": [
+      "music",
+      "silence",
+      "self_acceptance",
+      "discovery",
+      "home",
+      "wonder"
+    ]
+  },
+  "Głos i cisza": {
+    "manuscript_title": "Głos i cisza",
+    "slug": "glos-i-cisza",
+    "pack_id": "polish_glos_i_cisza",
+    "display_title": "Głos i cisza",
+    "subtitle": "Syrenka, która oddała głos za miłość",
+    "blurb": "Marina, najmłodsza córka Króla Mórz, ratuje tonącego księcia i oddaje głos wiedźmie, by zostać człowiekiem — lecz prawdziwa miłość okazuje się dawaniem, nie posiadaniem.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "syrenka, baśń, miłość, Collection Eleven",
+    "keywords": "Głos i cisza, Marina, syrenka, baśń",
+    "editorial_notes": "Adaptacja motywu Małej Syrenki (Andersen); wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Uniwersalna baśń o bezinteresownej miłości — mocny materiał z znanym motywem.",
+    "founder_notes": [
+      "Founder note: Wątek noża i ofiary — rozważyć age note dla 8–9 lat."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Jak ma na imię syrenka?",
+        "answers": [
+          "Marina",
+          "Ariel",
+          "Kropeia",
+          "Zosia"
+        ],
+        "correct": "A",
+        "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina.",
+        "reference": "Marina"
+      },
+      {
+        "question": "Co Marina oddaje wiedźmie?",
+        "answers": [
+          "Głos",
+          "Ogon",
+          "Korona",
+          "Perły"
+        ],
+        "correct": "A",
+        "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi.",
+        "reference": "głos"
+      },
+      {
+        "question": "Kogo Marina ratuje podczas burzy?",
+        "answers": [
+          "Księcia",
+          "Króla",
+          "Rybaka",
+          "Kapitana"
+        ],
+        "correct": "A",
+        "explanation": "Ratuje tonącego księcia i wynosi na brzeg.",
+        "reference": "księcia"
+      },
+      {
+        "question": "Czego Marina nie robi z nożem?",
+        "answers": [
+          "Nie zabija księcia",
+          "Zabija wiedźmę",
+          "Rzuca w siostry",
+          "Niszczy statek"
+        ],
+        "correct": "A",
+        "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale.",
+        "reference": "nie może tego zrobić"
+      },
+      {
+        "question": "Kim Marina zostaje na końcu?",
+        "answers": [
+          "Córką powietrza",
+          "Królową mórz",
+          "Człowiekiem z duszą od razu",
+          "Pianą na zawsze"
+        ],
+        "correct": "A",
+        "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro.",
+        "reference": "córką powietrza"
+      }
+    ],
+    "motifs": [
+      "ocean",
+      "voice",
+      "sacrifice",
+      "love",
+      "transformation",
+      "dream"
+    ]
+  },
+  "Franek i mały Karolek": {
+    "manuscript_title": "Franek i mały Karolek",
+    "slug": "franek-i-maly-karolek",
+    "pack_id": "polish_franek_i_maly_karolek",
+    "display_title": "Franek i mały Karolek",
+    "subtitle": "Urwis, który został bratem",
+    "blurb": "Dziesięcioletni urwis Franek ze starej kamienicy prosi rodziców, by wzięli osierocony Karolek — i odkrywa, że miłość do małego brata może zmienić nawet największego psotnika.",
+    "genres": "short_story",
+    "cover_family": "everyday_live",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★★",
+    "trust": "Fiction",
+    "tags": "rodzeństwo, odpowiedzialność, czytanie, Collection Eleven",
+    "keywords": "Franek, Karolek, brat, kamienica",
+    "editorial_notes": "Wątek śmierci matki Karolka — delikatnie ujęty; mocny motyw nauki czytania dla brata.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube LdKDbVor0Qk (18.12.2015); YouTube LdKDbVor0Qk (2015-12-18).",
+    "philosophy_stars": 5,
+    "philosophy_note": "Wzorcowa opowieść AlephBits o odpowiedzialności, czytaniu i przemianie — najsilniejsza w kolekcji.",
+    "founder_notes": [
+      "Founder note: Wątek śmierci matki — fiction framing; rozważyć age note 8+."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Franek?",
+        "answers": [
+          "Siedem",
+          "Dziesięć",
+          "Dwanaście",
+          "Osiem"
+        ],
+        "correct": "B",
+        "explanation": "Tekst: „Franek miał dziesięć lat”.",
+        "reference": "dziesięć lat"
+      },
+      {
+        "question": "Co Franek obiecuje, gdy prosi o Karolka?",
+        "answers": [
+          "Że nigdy więcej nie zrobi figla",
+          "Że wyjedzie z domu",
+          "Że przestanie chodzić do szkoły",
+          "Że odda wszystkie zabawki"
+        ],
+        "correct": "A",
+        "explanation": "Przysięga, że już nigdy nie zrobi żadnego figla.",
+        "reference": "nie zrobię żadnego figla"
+      },
+      {
+        "question": "Kogo Franek prosi, by nauczył go czytać?",
+        "answers": [
+          "Tatę",
+          "Pannę Gertrudę",
+          "Pani Gienię",
+          "Nauczyciela"
+        ],
+        "correct": "A",
+        "explanation": "Prosi tatę o naukę czytania dla Karolka.",
+        "reference": "Nauczysz mnie?"
+      },
+      {
+        "question": "Co Franek czyta Karolkowi wieczorami?",
+        "answers": [
+          "Książki o przyrodzie i przyjaźni",
+          "Gazety",
+          "Komiks grozy",
+          "Mapy"
+        ],
+        "correct": "A",
+        "explanation": "Czyta o wiewiórkach, kasztanach, jesiennych liściach, przyjaźni.",
+        "reference": "wiewiórkach"
+      },
+      {
+        "question": "Jak zmienia się Franek w oczach sąsiadów?",
+        "answers": [
+          "Z „urwisa” w szanowanego chłopca",
+          "Znika z kamienicy",
+          "Zostaje dorosłym",
+          "Nic się nie zmienia"
+        ],
+        "correct": "A",
+        "explanation": "Mówią o nim „Franek”, a nie „Franek łobuz”.",
+        "reference": "Franek łobuz"
+      }
+    ],
+    "motifs": [
+      "brotherhood",
+      "reading",
+      "home",
+      "responsibility",
+      "forgiveness",
+      "community"
+    ]
+  },
+  "Klucz do deszczowej krainy": {
+    "manuscript_title": "Klucz do deszczowej krainy",
+    "slug": "klucz-do-deszczowej-krainy",
+    "pack_id": "polish_klucz_do_deszczowej_krainy",
+    "display_title": "Klucz do deszczowej krainy",
+    "subtitle": "Zosia, babcia i zamek Kropei",
+    "blurb": "Dziewięcioletnia Zosia przechodzi przez trzy magiczne krainy z kluczykiem babci, by obudzić zamrożoną Królową Deszczu Kropeię i uratować wyschnięty ogród mamy.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★☆☆",
+    "trust": "Fiction",
+    "tags": "bajka, susza, magia, Collection Eleven",
+    "keywords": "Klucz do deszczowej krainy, Zosia, Kropeia",
+    "editorial_notes": "Wariant tej samej baśni co „Klucz babci Rózi” (Lena, inne imię bohaterki); ta sama struktura trzech domków i Królowej Deszczu.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube 55rrx4XtY8g (06.01.2022); YouTube 55rrx4XtY8g (2022-01-06).",
+    "philosophy_stars": 3,
+    "philosophy_note": "Dobra bajka, lecz near-duplicate — słabsza pozycja na półce obok „Klucz babci Rózi”.",
+    "founder_notes": [
+      "Founder note: Near-duplicate z „Klucz babci Rózi” — ten sam YouTube i ten sam łuk fabularny; founder wybiera jedną wersję."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Zosia?",
+        "answers": [
+          "Siedem",
+          "Dziewięć",
+          "Jedenastu",
+          "Dwanaście"
+        ],
+        "correct": "B",
+        "explanation": "Tekst: „Zosia miała dziewięć lat”.",
+        "reference": "dziewięć lat"
+      },
+      {
+        "question": "Jak nazywa się Królowa Deszczu?",
+        "answers": [
+          "Kropeia",
+          "Rózia",
+          "Śnieżynka",
+          "Stella"
+        ],
+        "correct": "A",
+        "explanation": "Królowa nazywa się Kropeia.",
+        "reference": "Kropeia"
+      },
+      {
+        "question": "Co otwiera drzwi do zaczarowanej ścieżki?",
+        "answers": [
+          "Srebrny kluczyk",
+          "Mapa",
+          "Zaklęcie bez klucza",
+          "Piosenka bez klucza"
+        ],
+        "correct": "A",
+        "explanation": "Babcia wyjmuje mały srebrny kluczyk z fartuszka.",
+        "reference": "srebrny kluczyk"
+      },
+      {
+        "question": "Jakie trzy dźwięki zgaduje Zosia u motylka?",
+        "answers": [
+          "Kogut, krowa, świerszcze",
+          "Pies, kot, kura",
+          "Deszcz, wiatr, grzmot",
+          "Flet, harfa, bęben"
+        ],
+        "correct": "A",
+        "explanation": "Odgaduje koguta (kukuryku), krowę (muuu) i świerszcze (cyk-cyk).",
+        "reference": "kukuryku"
+      },
+      {
+        "question": "Co Kropeia robi nad wyschniętą krainą?",
+        "answers": [
+          "Śpiewa piosenkę deszczu",
+          "Rzuca klucz",
+          "Zamraża jezioro",
+          "Ucieka na Księżyc"
+        ],
+        "correct": "A",
+        "explanation": "Kropeia śpiewa, a z chmur spada obfity deszcz.",
+        "reference": "piosenkę deszczu"
+      }
+    ],
+    "motifs": [
+      "key",
+      "rain",
+      "journey",
+      "grandmother",
+      "courage",
+      "wonder"
+    ]
+  },
+  "Ognioskoczek": {
+    "manuscript_title": "Ognioskoczek",
+    "slug": "ognioskoczek",
+    "pack_id": "polish_ognioskoczek",
+    "display_title": "Ognioskoczek",
+    "subtitle": "Duszek z psót i czerwona czapeczka",
+    "blurb": "W starym dworze rodzeństwo i poeta-nauczyciel muszą uwięzić Ognioskoczka — duszka zrodzonego z kłótni i psot — zanim zniszczy cały dom; lecz prawdziwa broń to czerwona czapeczka i dobroć.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "legends",
+    "audience": "children_8_12",
+    "difficulty": 3,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "duchy, przygoda, rodzeństwo, Collection Eleven",
+    "keywords": "Ognioskoczek, dwór, duszek, czapeczka",
+    "editorial_notes": "Baśń grozy w łagodnym tonie; epizod podziemi ze skarbami i szkieletem ichtiozaura — adventure, nie horror.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube NFtFrlt62Zs (18.03.2016).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Dobra opowieść o konsekwencjach psot i współpracy rodzeństwa.",
+    "founder_notes": [
+      "Founder note: Delikatne elementy grozy — age note 8+."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Skąd bierze moc Ognioskoczek?",
+        "answers": [
+          "Z psót i złych myśli dzieci",
+          "Ze słońca",
+          "Z księgi bez psów",
+          "Z wody"
+        ],
+        "correct": "A",
+        "explanation": "Pan Stanisław mówi, że powstał z psót i złych myśli.",
+        "reference": "psót i złych myśli"
+      },
+      {
+        "question": "W czym uwięzią Ognioskoczka?",
+        "answers": [
+          "W szklanym gąsiorze ze słodyczami",
+          "W worku",
+          "W piwnicy",
+          "W szafie"
+        ],
+        "correct": "A",
+        "explanation": "Przygotowują gąsior z miodem i konfiturami jako pułapkę.",
+        "reference": "gąsior"
+      },
+      {
+        "question": "Co traci duszek, gdy traci czapeczkę?",
+        "answers": [
+          "Całą swoją siłę",
+          "Głos",
+          "Pamięć",
+          "Skarb"
+        ],
+        "correct": "A",
+        "explanation": "Księga mówi, że bez czerwonej czapeczki traci całą moc.",
+        "reference": "czerwonej czapeczce"
+      },
+      {
+        "question": "W kim zamienia się Ognioskoczek na końcu?",
+        "answers": [
+          "Mały czerwony kamyczek",
+          "Motyl",
+          "Kot",
+          "Iskra"
+        ],
+        "correct": "A",
+        "explanation": "Kurczy się i zamienia w mały czerwony kamyczek.",
+        "reference": "czerwony kamyczek"
+      },
+      {
+        "question": "Jak nazywa się księga zaklęć?",
+        "answers": [
+          "O duchach, czarach i zaklęciach — dzieło mistrza Adalberta",
+          "Harry Potter",
+          "Koziołek Matołek",
+          "Pan Tadeusz"
+        ],
+        "correct": "A",
+        "explanation": "Pan Stanisław znajduje księgę mistrza Adalberta o duchach.",
+        "reference": "mistrza Adalberta"
+      }
+    ],
+    "motifs": [
+      "fire",
+      "fear",
+      "family",
+      "adventure",
+      "forgiveness",
+      "home"
+    ]
+  },
+  "Cukierek z magicznego drzewa": {
+    "manuscript_title": "Cukierek z magicznego drzewa",
+    "slug": "cukierek-z-magicznego-drzewa",
+    "pack_id": "polish_cukierek_z_magicznego_drzewa",
+    "display_title": "Cukierek z magicznego drzewa",
+    "subtitle": "Kiedy pomoc musi być szczera",
+    "blurb": "Lisek Rudi chce zdobyć cukierki z magicznego drzewa, pomagając innym tylko po to, by dostać nagrodę — dopóki nie odkrywa, że drzewo obdarowuje tylko tych, którzy pomagają bezinteresownie.",
+    "genres": "fairy_tale, short_story",
+    "cover_family": "nature",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "leśni przyjaciele, hojność, Collection Eleven",
+    "keywords": "Cukierek, magiczne drzewo, Rudi, Kicek, Kolczuś",
+    "editorial_notes": "Prosta morałka o bezinteresownej pomocy; postacie zwierzęce.",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube 5s-nYusLT9o (21.06.2021); YouTube 5s-nYusLT9o (2021-06-21).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Klasyczna opowieść moralna — czytelna i pozytywna.",
+    "founder_notes": [],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Jak nazywają się trzej przyjaciele?",
+        "answers": [
+          "Kicek, Kolczuś i Rudi",
+          "Burek, Azor i Filek",
+          "Matołek, Tygrys i Terka",
+          "Kicek, Rudi i Terka"
+        ],
+        "correct": "A",
+        "explanation": "To zajączek Kicek, jeżyk Kolczuś i lisek Rudi.",
+        "reference": "Kicek, Kolczuś i Rudi"
+      },
+      {
+        "question": "Kto pierwszy dostaje cukierka?",
+        "answers": [
+          "Kolczuś",
+          "Rudi",
+          "Kicek",
+          "Nikt"
+        ],
+        "correct": "A",
+        "explanation": "Kolczuś pomaga Kickowi z kolcem bezinteresownie i dostaje cukierka.",
+        "reference": "Kolczuś"
+      },
+      {
+        "question": "Dlaczego Rudi początkowo nie dostaje cukierków?",
+        "answers": [
+          "Pomaga tylko po to, by dostać nagrodę",
+          "Nie zna drzewa",
+          "Jest chory",
+          "Nie lubi słodyczy"
+        ],
+        "correct": "A",
+        "explanation": "Jego pomoc nie jest bezinteresowna — oczekuje nagrody.",
+        "reference": "oczekiwał nagrody"
+      },
+      {
+        "question": "Co robi Rudi, gdy w końcu dostaje cukierki?",
+        "answers": [
+          "Dzieli się nimi z innymi",
+          "Je wszystkie sam",
+          "Wyrzuca je",
+          "Chowa na zimę"
+        ],
+        "correct": "A",
+        "explanation": "Mówi, że podzieli się z tymi, którym pomógł, a resztę zjedzą razem.",
+        "reference": "Podzielę się"
+      },
+      {
+        "question": "Kiedy liść zamienia się w cukierka?",
+        "answers": [
+          "Gdy Kolczuś bezinteresownie pomaga Kickowi",
+          "Gdy pada deszcz",
+          "Gdy Rudi krzyczy",
+          "W nocy"
+        ],
+        "correct": "A",
+        "explanation": "Drzewo reaguje na bezinteresowną pomoc Kolczusia.",
+        "reference": "pomógł Kickowi"
+      }
+    ],
+    "motifs": [
+      "forest",
+      "generosity",
+      "friendship",
+      "teaching",
+      "discovery",
+      "home"
+    ]
+  },
+  "Pies Pankracy i sprawy ważne": {
+    "manuscript_title": "Pies Pankracy i sprawy ważne",
+    "slug": "pies-pankracy-i-sprawy-wazne",
+    "pack_id": "polish_pies_pankracy_i_sprawy_wazne",
+    "display_title": "Pies Pankracy i sprawy ważne",
+    "subtitle": "Starszy brat ma cztery łapy",
+    "blurb": "Siedmioletni Franek czuje się najsłabszy na podwórku — dopóki sąsiad nie puszcza kasety z „Piątkiem z Pankracym” i Franek nie rozumie, że jego kudłaty pies może być najlepszym starszym bratem.",
+    "genres": "short_story",
+    "cover_family": "everyday_live",
+    "audience": "children_8_12",
+    "difficulty": 2,
+    "reader_stars": "★★★★☆",
+    "trust": "Fiction",
+    "tags": "przyjaźń, pies, rodzeństwo, Collection Eleven",
+    "keywords": "Pankracy, Franek, Piątek z Pankracym, pies",
+    "editorial_notes": "Nostalgiczna opowieść nawiązująca do programu „Piątek z Pankracym”; imię Franek jak w innej opowieści C11, inny bohater (7 vs 10 lat).",
+    "inspiration": "Manuskrypt Collection Eleven; YouTube omVdhhraUiY (27.11.2022); nawiązanie do programu TVP „Piątek z Pankracym”; YouTube omVdhhraUiY (2022-11-27).",
+    "philosophy_stars": 4,
+    "philosophy_note": "Ciepła opowieść o przyjaźni i odwadze — dobra dla młodszych czytelników.",
+    "founder_notes": [
+      "Founder note: Imię „Franek” też w „Franek i mały Karolek” — inne postacie; brak kolizji fabularnej."
+    ],
+    "series": "Collection Eleven",
+    "quiz": [
+      {
+        "question": "Ile lat ma Franek w tej opowieści?",
+        "answers": [
+          "Siedem",
+          "Dziesięć",
+          "Pięć",
+          "Dwanaście"
+        ],
+        "correct": "A",
+        "explanation": "Tekst: „Franek miał siedem lat”.",
+        "reference": "siedem lat"
+      },
+      {
+        "question": "Jak nazywa się pies?",
+        "answers": [
+          "Pankracy",
+          "Burek",
+          "Azor",
+          "Rudi"
+        ],
+        "correct": "A",
+        "explanation": "Pankracy należy do pana Zygmunta z parteru.",
+        "reference": "Pankracy"
+      },
+      {
+        "question": "Z jakiego programu puszcza pan Zygmunt kasetę?",
+        "answers": [
+          "Piątek z Pankracym",
+          "Słonecznik",
+          "Teleranek",
+          "Klan"
+        ],
+        "correct": "A",
+        "explanation": "Kaseta pochodzi z programu „Piątek z Pankracym”.",
+        "reference": "Piątek z Pankracym"
+      },
+      {
+        "question": "Co mówi wrona o bałwanie?",
+        "answers": [
+          "Wyglądać a być to dwie różne sprawy",
+          "Bałwan jest żywy",
+          "Bałwan to król",
+          "Bałwan trzeba zniszczyć"
+        ],
+        "correct": "A",
+        "explanation": "Wrona mówi: „Wyglądać a być, to dwie różne sprawy”.",
+        "reference": "dwie różne sprawy"
+      },
+      {
+        "question": "Jak Pankracy pomaga Frankowi na podwórku?",
+        "answers": [
+          "Staje obok niego — jeden krok wystarcza, by odpłoszyć chłopca",
+          "Gryzie wszystkich",
+          "Uczy go piłki",
+          "Zabiera go do domu"
+        ],
+        "correct": "A",
+        "explanation": "Pankracy robi krok do przodu i chłopiec cofa się.",
+        "reference": "krok do przodu"
+      }
+    ],
+    "motifs": [
+      "dog",
+      "courage",
+      "friendship",
+      "childhood",
+      "home",
+      "companionship"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co wyskakuje z kredensu, gdy Zosia go otwiera?",
+      "answers": [
+        "Biała mysz",
+        "Kot",
+        "Motyl",
+        "Pająk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Z kredensu wyskakuje biała mysz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co obiecuje babcia dać Zosi, gdy przestanie być zbyt ciekawska?",
+      "answers": [
+        "Zabawki z kredensu",
+        "Konie",
+        "Telefon",
+        "Pieniądze"
+      ],
+      "correctIndex": 0,
+      "explanation": "W kredensie stoją lalka, pajac, wózek i piłka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką nową pasję odkrywa Zosia?",
+      "answers": [
+        "Suszenie kwiatów i roślin",
+        "Grę w piłkę",
+        "Gotowanie",
+        "Tańce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaczyna suszyć kwiaty i robić z nich prezenty."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co łapie Zosi za palec w koszyku?",
+      "answers": [
+        "Rak",
+        "Krab",
+        "Ryba",
+        "Żaba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rak schowany w koszyku chwyta ją za palec."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wniosek wyciąga babcia w liście?",
+      "answers": [
+        "Ciekawość jest dobra, gdy nie łamie obietnic i nie krzywdzi",
+        "Ciekawość jest zawsze zła",
+        "Nigdy nie wolno dotykać niczego",
+        "Zabawki są najważniejsze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babcia pisze, że ciekawość jest dobra, gdy nie krzywdzi i nie łamie obietnic."
+    }
+  ]
+}

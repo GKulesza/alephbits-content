@@ -1,0 +1,22 @@
+{
+  "packId": "polish_cukierek_z_magicznego_drzewa",
+  "bookId": "cukierek-z-magicznego-drzewa",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Prosta morałka o bezinteresownej pomocy; postacie zwierzęce."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "5s-nYusLT9o"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

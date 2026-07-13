@@ -1,0 +1,22 @@
+{
+  "packId": "polish_pies_pankracy_i_sprawy_wazne",
+  "bookId": "pies-pankracy-i-sprawy-wazne",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Nostalgiczna opowieść nawiązująca do programu „Piątek z Pankracym”; imię Franek jak w innej opowieści C11, inny bohater (7 vs 10 lat)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "omVdhhraUiY"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

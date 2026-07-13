@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czyja teza o dziecku „w 100% kompletnym” zmienia myślenie Oli?",
+      "answers": [
+        "Agi Rogali",
+        "Jespera Jula",
+        "Hardy'ego",
+        "Szymona Grzelaka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Słyszy o Jesperze Julu i tezie o kompletnym człowieku od narodzin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ola robi, gdy Franek boi się basenu?",
+      "answers": [
+        "Zmusza go do nauki pływania",
+        "Pyta o uczucia i proponuje rękawki",
+        "Anuluje wyjazd",
+        "Krzyknie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pyta „Co czujesz?” i wspólnie szukają bezpieczeństwa (rękawki)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Franek mówi po udanym pływaniu?",
+      "answers": [
+        "Nigdy więcej na basen",
+        "Mamo, ja mogę wszystko, jak mi pozwolisz",
+        "Chcę zostać trenerem",
+        "Basen jest głupi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: „Mamo, ja mogę wszystko, jak mi pozwolisz”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia robi z nożyczkami mimo pierwszego odruchu matki?",
+      "answers": [
+        "Zabrania im używać",
+        "Pyta o bezpieczne użycie i pozwala wyciąć serduszko",
+        "Oddaje nożyczki nauczycielce",
+        "Karze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola pyta o bezpieczne użycie i towarzyszy — Zosia wycina serduszko sama."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego wprowadza rutyny dla Zosi?",
+      "answers": [
+        "Jako kary",
+        "Jako pomoc przy możliwym ADHD — mniej bodźców, stały rytm snu, bez ekranów",
+        "Bo nauczyciel każe",
+        "Dla sportu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uporządkowana przestrzeń, rutyna, timer do zębów, brak ekranów przed snem."
+    }
+  ]
+}

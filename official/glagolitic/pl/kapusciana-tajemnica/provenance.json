@@ -1,0 +1,22 @@
+{
+  "packId": "polish_kapusciana_tajemnica",
+  "bookId": "kapusciana-tajemnica",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Motyw trudności w czytaniu (Kacper zostaje na drugi rok) — pozytywnie; wątek gangsterski w przeszłości babci jako tło, nie przemoc na pierwszym planie."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DoKNiN4QpYI"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

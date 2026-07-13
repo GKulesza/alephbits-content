@@ -1,0 +1,22 @@
+{
+  "packId": "polish_ognioskoczek",
+  "bookId": "ognioskoczek",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Baśń grozy w łagodnym tonie; epizod podziemi ze skarbami i szkieletem ichtiozaura — adventure, nie horror."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eleven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

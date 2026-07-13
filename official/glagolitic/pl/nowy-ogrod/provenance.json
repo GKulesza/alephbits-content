@@ -1,0 +1,22 @@
+{
+  "packId": "polish_nowy_ogrod",
+  "bookId": "nowy-ogrod",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Opowieść edukacyjna o roli drzew i retencji wody; postacie zwierzęce."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "SdQAa0A4XvA"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

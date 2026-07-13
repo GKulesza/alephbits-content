@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czym różni się Złoty Dzwonek od innych instrumentów?",
+      "answers": [
+        "Dzwoni bardzo cicho",
+        "Nie ma dzwonka",
+        "Jest największy",
+        "Nie lubi muzyki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jego dźwięk jest cichutki jak szept."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi wiolonczela o szeptach?",
+      "answers": [
+        "Że też mają znaczenie",
+        "Że są bezużyteczne",
+        "Że trzeba krzyczeć",
+        "Że dzwonek jest zepsuty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wiolonczela mówi, że szepty też mają znaczenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto kupuje dzwonek?",
+      "answers": [
+        "Mała dziewczynka",
+        "Pan sklepikarz",
+        "Nauczyciel",
+        "Staruszek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dziewczynka słyszy jego cichy dźwięk i go kupuje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie dziewczynka wiesza dzwonek?",
+      "answers": [
+        "Na oknie w pokoju",
+        "W piwnicy",
+        "Na dachu",
+        "W szkole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Powiesiła go na oknie, gdzie wieje wietrzyk."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wniosek wyciąga dzwonek?",
+      "answers": [
+        "Nie musi być głośny, by być ważny",
+        "Musi grać jak bęben",
+        "Powinien się chować",
+        "Cisza jest zła"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozumie, że jego cichy dźwięk jest wyjątkowy i ważny."
+    }
+  ]
+}

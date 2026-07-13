@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Zosia?",
+      "answers": [
+        "Siedem",
+        "Dziewięć",
+        "Jedenastu",
+        "Dwanaście"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Zosia miała dziewięć lat”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się Królowa Deszczu?",
+      "answers": [
+        "Kropeia",
+        "Rózia",
+        "Śnieżynka",
+        "Stella"
+      ],
+      "correctIndex": 0,
+      "explanation": "Królowa nazywa się Kropeia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co otwiera drzwi do zaczarowanej ścieżki?",
+      "answers": [
+        "Srebrny kluczyk",
+        "Mapa",
+        "Zaklęcie bez klucza",
+        "Piosenka bez klucza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babcia wyjmuje mały srebrny kluczyk z fartuszka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie trzy dźwięki zgaduje Zosia u motylka?",
+      "answers": [
+        "Kogut, krowa, świerszcze",
+        "Pies, kot, kura",
+        "Deszcz, wiatr, grzmot",
+        "Flet, harfa, bęben"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odgaduje koguta (kukuryku), krowę (muuu) i świerszcze (cyk-cyk)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kropeia robi nad wyschniętą krainą?",
+      "answers": [
+        "Śpiewa piosenkę deszczu",
+        "Rzuca klucz",
+        "Zamraża jezioro",
+        "Ucieka na Księżyc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kropeia śpiewa, a z chmur spada obfity deszcz."
+    }
+  ]
+}

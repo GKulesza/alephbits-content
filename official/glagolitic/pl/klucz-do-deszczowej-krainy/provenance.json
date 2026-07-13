@@ -1,0 +1,22 @@
+{
+  "packId": "polish_klucz_do_deszczowej_krainy",
+  "bookId": "klucz-do-deszczowej-krainy",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Wariant tej samej baśni co „Klucz babci Rózi” (Lena, inne imię bohaterki); ta sama struktura trzech domków i Królowej Deszczu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

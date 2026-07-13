@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaka lista pojawia się w opowieści?",
+      "answers": [
+        "Lista kandydatów PE",
+        "Ukraińska lista Myrotworec — wrogowie Ukrainy",
+        "Lista zakupów Ewy",
+        "Lista świadków w sądzie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dziennikarz mówi, że Ewa pojawiła się na liście Myrotworec."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa podnosi podczas wystąpienia w PE?",
+      "answers": [
+        "Biało-czerwoną flagę Polski",
+        "Czerwono-czarną flagę jako dowód",
+        "Zdjęcie ofiar",
+        "Petycję mieszkańców"
+      ],
+      "correctIndex": 1,
+      "explanation": "W teczce ma czerwono-czarną flagę i podnosi ją jako dowód podczas przemówienia o Wołyniu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa mówi do przedstawiciela MSZ o nocie dyplomatycznej?",
+      "answers": [
+        "Że dziękuje za szybką reakcję",
+        "Że nota jest gotowa od lat i nic się nie zmieniło — chce działania",
+        "Że woli milczeć",
+        "Że sama jedzie do Kijowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa mówi: „Macie już tę notę gotową od lat... Mów mi o działaniu.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Anna Bryłka mówi Ewie przez telefon?",
+      "answers": [
+        "Żeby się wycofała",
+        "Że ona też jest na liście od dawna — „witaj w klubie”",
+        "Że nie zna Myrotworca",
+        "Że PE usunęło nagranie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna odpowiada: „Ja też jestem od dawna. Witaj w klubie.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Ewa mówi w vlogu po trafieniu na listę?",
+      "answers": [
+        "Że kończy politykę",
+        "Że nie przestanie mówić o Wołyniu — będzie mówić jeszcze głośniej",
+        "Że przeprasza Ukrainę",
+        "Że usuwa nagranie z PE"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa mówi: „Nie przestanę mówić o Wołyniu. Będę mówić jeszcze głośniej.”"
+    }
+  ]
+}

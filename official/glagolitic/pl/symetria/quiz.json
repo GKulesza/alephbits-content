@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki tytuł miał tekst Rafała z 2008 roku w Rzeczpospolitej?",
+      "answers": [
+        "Symetria krzywd",
+        "Myśmy wszystko zapomnieli",
+        "Lista proskrypcyjna",
+        "Wołyń bez cenzury"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał przypomina tekst z tytułem od Wyspiańskiego: „Myśmy wszystko zapomnieli”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Rafał nazywa „cholerną symetrią”?",
+      "answers": [
+        "Równowagę władzy w UE",
+        "Porównywanie ludobójstwa z „Polacy też krzywdzili”",
+        "Symetrię w architekturze",
+        "Symetrię w mediach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salonowe „symetrie” bagatelizują Wołyń: „Polacy też krzywdzili, no nie?”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką scenę z poematu Szewczenki Rafał przywołuje?",
+      "answers": [
+        "Iwan Gonta mordujący własne dzieci",
+        "Bitwę pod Grunwaldem",
+        "Podpisanie pokoju",
+        "Ślub bohatera"
+      ],
+      "correctIndex": 0,
+      "explanation": "W „Hajdamakach” kluczowa scena: Iwan Gonta morduje własne dzieci z „lackiej krwi”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Za co Rafał dostał medal od środowisk kresowych?",
+      "answers": [
+        "Za pracę w TVP",
+        "Za przypominanie o Wołyniu",
+        "Za tekst o Tajwanie",
+        "Za udział w PE"
+      ],
+      "correctIndex": 1,
+      "explanation": "Środowiska kresowe honorują tych, którzy nie zapomnieli — Rafał dostał medal za przypominanie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Rafał boi się bardziej niż żmij z ballady Kaczmarskiego?",
+      "answers": [
+        "Krytyki w social media",
+        "Ciszy i zapomnienia",
+        "Utraty pracy",
+        "Emigracji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał mówi: nie boi się żmij — boi się ciszy i zapomnienia."
+    }
+  ]
+}

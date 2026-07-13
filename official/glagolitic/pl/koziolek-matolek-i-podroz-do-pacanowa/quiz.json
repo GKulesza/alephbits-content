@@ -1,0 +1,65 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dokąd Matołek chce dotrzeć na początku?",
+      "answers": [
+        "Do Pacanowa",
+        "Do Warszawy",
+        "Do Afryki",
+        "Na Księżyc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rusza do Pacanowa, by założyć podkowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo spotyka Matołek na Księżycu?",
+      "answers": [
+        "Pana Twardowskiego",
+        "Smoka",
+        "Króla",
+        "Czarownicę"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na Księżycu spotyka pana Twardowskiego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co traci Matołek w mieście z dziwnym prawem?",
+      "answers": [
+        "Broda",
+        "Podkowy",
+        "Tobołek",
+        "Nogi"
+      ],
+      "correctIndex": 0,
+      "explanation": "W mieście, gdzie brodacze muszą ją stracić, ścinają mu brodę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Matołek ostatecznie zostaje?",
+      "answers": [
+        "W Polsce wśród swoich",
+        "W Pacanowie na stałe",
+        "W Afryce jako król",
+        "Na Księżycu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi: „Zostanę! Już nigdy nie opuszczę Polski.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto przyszywa Matołkowi głowę po utracie brody?",
+      "answers": [
+        "Szewc",
+        "Czarownica",
+        "Księżniczka",
+        "Kowal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poczciwy szewc przyszywa mu głowę do tułowia."
+    }
+  ]
+}

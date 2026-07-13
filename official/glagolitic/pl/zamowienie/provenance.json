@@ -1,0 +1,22 @@
+{
+  "packId": "polish_zamowienie",
+  "bookId": "zamowienie",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Artykuł inspirowany procederem fałszywych zwolnień; nie zachęca do nadużyć — refleksja o systemie."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "501hdB1e5iM"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

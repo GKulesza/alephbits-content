@@ -1,0 +1,22 @@
+{
+  "packId": "polish_przedszkole_bez_scian",
+  "bookId": "przedszkole-bez-scian",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o alternatywnej edukacji; dość idealizująca."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DYI8zmmdtdk"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

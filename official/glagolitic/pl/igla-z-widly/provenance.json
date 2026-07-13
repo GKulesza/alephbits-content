@@ -1,0 +1,22 @@
+{
+  "packId": "polish_igla_z_widly",
+  "bookId": "igla-z-widly",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o technikach manipulacji w rozmowie; część serii Kammel — komunikacja."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "ZnTFuX--Uxc"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}
