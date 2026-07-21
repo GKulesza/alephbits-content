@@ -78,9 +78,4 @@ See [PHASE_TBD_WORLD_CONTENT_BACKFILL.md](../docs/product/PHASE_TBD_WORLD_CONTEN
 
 ## Review candidates
 
-Singletons or approximations parked for later editorial decision (do not expand casually):
-
-- `market_square` — merge into `market`?
-- `forge` — merge into `shop`?
-- `monk`, `ram`, `burrow` — story-niche; keep only if reuse appears
-- Deferred new ids: `shoe`, `camera`, `box`, `station`, `plane`
+Living list with usage counts and reasons: [REVIEW_CANDIDATES.md](REVIEW_CANDIDATES.md).

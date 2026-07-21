@@ -40,6 +40,11 @@
 
 ---
 
+**World:**
+- places: home, street
+- creatures: dog
+- objects: window
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -127,17 +127,37 @@ Maximize reuse; only three new ids (`bridge`, `window`, `glass`).
 
 ### Review candidates (accumulated)
 
-| Id | Notes |
-|----|-------|
-| `market_square` | Possibly merge into `market` or `town` |
-| `bridge` | Keep — reusable; await more river books |
-| `boat` | Keep — reusable |
-| `monk` | Story-legend specific; watch |
-| `forge` | Possibly merge into `shop` |
-| `library` | Keep — reusable |
-| `burrow` | Animal-home niche; watch |
-| `ram` | Legend-specific; watch vs `sheep` alias |
-| deferred: `shoe`, `camera`, `box`, `station`, `plane` | Rejected as new ids this phase |
+Living list: [world/REVIEW_CANDIDATES.md](../../world/REVIEW_CANDIDATES.md).
+
+---
+
+## Batch 6 (2026-07-21) — zero growth, singleton promotion
+
+**New concepts: 0.** Element slots: 22. Reuse ratio ∞.
+
+| Book | Elements |
+|------|----------|
+| Naczynia połączone | `school`, `home` |
+| Kij i marchewka | `home`, `school` |
+| Powrót | `home`, `street`, `dog`, `window` |
+| Przedszkole bez ścian | `school`, `forest`, `garden` |
+| Ułamki | `home`, `school`, `clock` |
+| Nowy pacjent | `office`, `library`, `book` |
+| Siedem gór i jeden ocean | `mountain`, `home`, `book` |
+| W pełni | `home`, `book` |
+
+### Editorial approximations (Batch 6)
+
+| Mapping | Status | Reason |
+|---------|--------|--------|
+| preschool → `school` | acceptable | Learning place for children |
+| Almaty flat → `home` | excellent | Dwelling |
+| clinic bookshelves → `library` | acceptable | Knowledge room |
+| ocean (title) → deferred; used `mountain` | temporary | Prefer existing; `ocean` on review list |
+
+### Concepts becoming multi-use
+
+`dog`, `library`, `mountain`
 
 Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
 

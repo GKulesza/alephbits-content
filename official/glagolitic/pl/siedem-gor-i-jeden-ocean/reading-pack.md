@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- places: mountain, home
+- objects: book
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -49,6 +49,9 @@
 
 ---
 
+**World:**
+- places: school, forest, garden
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
