@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o nauce czytania i rodzicielskiej wytrwałości.
 
 ---
+**World:**
+- objects: book
+- places: home, school
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

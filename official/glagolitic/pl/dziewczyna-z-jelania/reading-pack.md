@@ -36,6 +36,10 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
+**World:**
+- objects: jacket
+- places: town, street, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

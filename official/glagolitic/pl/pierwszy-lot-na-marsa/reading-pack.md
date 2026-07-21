@@ -31,6 +31,10 @@
 
 ---
 
+**World:**
+- objects: book, window
+- places: home, office
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

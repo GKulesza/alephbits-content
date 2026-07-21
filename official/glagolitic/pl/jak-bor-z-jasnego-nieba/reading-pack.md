@@ -36,6 +36,10 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
+**World:**
+- objects: glass
+- places: office
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

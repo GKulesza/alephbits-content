@@ -106,5 +106,14 @@
   ],
   "inspiredBy": {
     "youtube": "-vRABYN-UAA"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "home",
+      "castle"
+    ]
   }
 }

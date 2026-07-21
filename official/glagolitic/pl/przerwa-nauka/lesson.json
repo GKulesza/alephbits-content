@@ -105,5 +105,15 @@
   ],
   "inspiredBy": {
     "youtube": "S2IOrt-n2fc"
+  },
+  "world": {
+    "objects": [
+      "book",
+      "window"
+    ],
+    "places": [
+      "home",
+      "school"
+    ]
   }
 }

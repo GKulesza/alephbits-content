@@ -102,5 +102,14 @@
   },
   "inspirationDates": [
     "2026-07-12"
-  ]
+  ],
+  "world": {
+    "objects": [
+      "ball"
+    ],
+    "places": [
+      "home",
+      "street"
+    ]
+  }
 }

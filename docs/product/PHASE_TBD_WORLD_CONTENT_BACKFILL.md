@@ -6,7 +6,10 @@
 **Goal:** Curate semantic `world` metadata across the library and grow the shared World Dictionary **slowly**.
 
 **Editorial authority:** [world/README.md](../../world/README.md)  
-**Milestone Review 01:** [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](WORLD_DICTIONARY_MILESTONE_REVIEW_01.md)
+**Milestone Review 01:** [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](WORLD_DICTIONARY_MILESTONE_REVIEW_01.md)  
+**Final report (100% coverage):** [WORLD_DICTIONARY_FINAL_REPORT.md](WORLD_DICTIONARY_FINAL_REPORT.md)
+
+**Status:** Backfill **complete** — all published official PL packs carry curated `world` metadata.
 
 ---
 

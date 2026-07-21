@@ -106,5 +106,13 @@
   ],
   "inspiredBy": {
     "youtube": "ZnTFuX--Uxc"
+  },
+  "world": {
+    "objects": [
+      "glass"
+    ],
+    "places": [
+      "home"
+    ]
   }
 }

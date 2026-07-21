@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- objects: boat
+- places: home, river
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

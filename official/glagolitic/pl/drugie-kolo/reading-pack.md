@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- objects: ball
+- places: home, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

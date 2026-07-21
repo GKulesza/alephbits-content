@@ -52,7 +52,7 @@
 **World:**
 - creatures: goat
 - objects: horseshoe
-- places: forge, town
+- places: shop, town
 
 ## Editorial Transparency
 

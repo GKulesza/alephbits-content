@@ -2,6 +2,7 @@
 #
 # Status: proposed | approved
 # See world/README.md and world/REVIEW_CANDIDATES.md.
+# Milestone Review 01 completed; coverage completion pass 2026-07-21.
 
 version: 1
 updated: 2026-07-21
@@ -12,7 +13,9 @@ entries:
     category: places
     status: proposed
     aliases: []
-    usedByBooks: [polish_wiatr_nad_rzeka]
+    usedByBooks:
+      - polish_wiatr_nad_rzeka
+      - polish_worek_z_piaskiem
 
   - id: burrow
     category: places
@@ -27,7 +30,9 @@ entries:
     usedByBooks:
       - polish_demo_lesson
       - polish_glos_i_cisza
+      - polish_granice_imperium
       - polish_legenda_o_smoku_wawelskim
+      - polish_swieci_wojownicy
       - polish_zloto_i_zwykle_szczescie
 
   - id: cave
@@ -43,15 +48,12 @@ entries:
     usedByBooks:
       - polish_cukierek_z_magicznego_drzewa
       - polish_klucz_do_deszczowej_krainy
+      - polish_martwe_oczy
       - polish_ognioskoczek
+      - polish_poligon
       - polish_przedszkole_bez_scian
       - polish_susza
-
-  - id: forge
-    category: places
-    status: proposed
-    aliases: [smithy]
-    usedByBooks: [polish_koziolek_matolek_i_podroz_do_pacanowa]
+      - polish_synchronicznosc
 
   - id: garden
     category: places
@@ -73,17 +75,41 @@ entries:
     status: proposed
     aliases: [house]
     usedByBooks:
+      - polish_98_procent
+      - polish_algorytm_szczescia
+      - polish_autorytet_na_przepraszam
       - polish_betonowy_dom
+      - polish_blitzkrieg
+      - polish_bogini_i_liczby
+      - polish_boliewicz
       - polish_buty
+      - polish_cel_na_ten_rok_to_nic
+      - polish_cena_widoku
       - polish_chor
+      - polish_cien_skrzydel_nad_oceanem
       - polish_cisza_dom
       - polish_cudaczek_wysmiewaczek
+      - polish_czarna_plachta
+      - polish_czarna_skrzynka
+      - polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie
+      - polish_dlaczego_niebo_jest_niebieskie
       - polish_dobra_dziewczynka
       - polish_domek
+      - polish_domysl_sie
       - polish_dostrojony_dom
+      - polish_drugie_dno
+      - polish_drugie_kolo
+      - polish_dzien_z_reszty_zycia
+      - polish_dziewczyna_ktora_zniknela_o_swicie
+      - polish_dziewczyna_z_jelania
       - polish_etykieta
       - polish_franek_i_maly_karolek
+      - polish_garnek_na_glowie
+      - polish_glosy_z_ziemi
       - polish_gruby_dzienniczek
+      - polish_igla_z_widly
+      - polish_ikonka_na_pulpicie
+      - polish_iskra
       - polish_jak_ugotowac_herbate
       - polish_jeszcze
       - polish_kakuter_i_chomik
@@ -91,63 +117,117 @@ entries:
       - polish_kapusciana_tajemnica
       - polish_kij_i_marchewka
       - polish_klucz_babci_rozi
+      - polish_koniec_epoki_pudelek
+      - polish_kontrolowana_halucynacja
+      - polish_kot_1011
       - polish_kubek
+      - polish_lista_myrotworec
+      - polish_lista_rzeczy_ktorych_zaluje
+      - polish_mamy_trupa_i_co_dalej
       - polish_maria_skodowska_curie
+      - polish_martwe_oczy
+      - polish_misja_ktora_pekla
       - polish_mowa
       - polish_naczynia_polaczone
+      - polish_nadwyzka
       - polish_niedzwiedz
+      - polish_nowy_swiat
+      - polish_obserwator
+      - polish_oczy_ktore_nie_widza
+      - polish_odpowiedzialnosc
+      - polish_ofiary
       - polish_opowiesci_z_poprzedniego_zycia
+      - polish_pierwszy_lot_na_marsa
+      - polish_poltora_metra
       - polish_powrot
+      - polish_powrot_siebie
       - polish_prog
+      - polish_prolog_wiatru
       - polish_przerwa
+      - polish_przerwa_nauka
       - polish_pudelko_po_ciastkach
       - polish_radio_w_glowie
       - polish_rozmowa_z_lekarzem
+      - polish_samolot
       - polish_siedem_gor_i_jeden_ocean
+      - polish_swieci_wojownicy
+      - polish_symetria
+      - polish_synchronicznosc
+      - polish_szpital_poludniowy
+      - polish_tajwan
       - polish_taniec
+      - polish_trzy_godziny
+      - polish_trzynascie_zasad
       - polish_ulamki
       - polish_w_pelni
+      - polish_wyraz_ktorego_nie_ma
+      - polish_zamowienie
+      - polish_zasady
+      - polish_zielona_poswiata
 
   - id: library
     category: places
     status: proposed
     aliases: [bookshelf]
     usedByBooks:
+      - polish_brudne_pieniadze_czysta_nauka
+      - polish_czarny_kodeks
+      - polish_froteryzm_intelektualny
+      - polish_groby
       - polish_nowy_pacjent
       - polish_ognioskoczek
 
   - id: market
     category: places
     status: proposed
-    aliases: [marketplace, bazaar]
+    aliases: [marketplace, bazaar, market_square, square, plaza]
     usedByBooks:
+      - polish_demo_lesson
       - polish_franek_i_maly_karolek
       - polish_na_targu
-
-  - id: market_square
-    category: places
-    status: proposed
-    aliases: [square, plaza]
-    usedByBooks: [polish_demo_lesson]
 
   - id: mountain
     category: places
     status: proposed
     aliases: [mountains, peak]
     usedByBooks:
+      - polish_cena_widoku
       - polish_na_targu
       - polish_siedem_gor_i_jeden_ocean
 
   - id: office
     category: places
     status: proposed
-    aliases: [cabinet, clinic, embassy]
+    aliases: [cabinet, clinic, embassy, hospital]
     usedByBooks:
+      - polish_blitzkrieg
+      - polish_brudne_pieniadze_czysta_nauka
       - polish_buty
+      - polish_cisza_przed_burza
+      - polish_czarny_kodeks
       - polish_czterech_w_lodce
+      - polish_dylemat_szatniarza
+      - polish_froteryzm_intelektualny
+      - polish_glosy_z_ziemi
+      - polish_groby
+      - polish_ikonka_na_pulpicie
+      - polish_jak_bor_z_jasnego_nieba
       - polish_kamien_pamieci
+      - polish_lista_myrotworec
+      - polish_mamy_trupa_i_co_dalej
+      - polish_metoda_feynmana
+      - polish_misja_ktora_pekla
       - polish_nowy_pacjent
+      - polish_ofiary
+      - polish_pierwszy_lot_na_marsa
+      - polish_powrot_siebie
       - polish_rozmowa_z_lekarzem
+      - polish_samolot
+      - polish_sprawa
+      - polish_symetria
+      - polish_szpital_poludniowy
+      - polish_zamowienie
+      - polish_zielona_poswiata
 
   - id: river
     category: places
@@ -156,32 +236,47 @@ entries:
     usedByBooks:
       - polish_cudaczek_wysmiewaczek
       - polish_demo_lesson
+      - polish_drugie_dno
       - polish_glos_i_cisza
       - polish_legenda_o_smoku_wawelskim
+      - polish_prolog_wiatru
       - polish_wiatr_nad_rzeka
+      - polish_worek_z_piaskiem
 
   - id: school
     category: places
     status: proposed
     aliases: [schoolyard, preschool, classroom]
     usedByBooks:
+      - polish_autorytet_na_przepraszam
+      - polish_bogini_i_liczby
+      - polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie
+      - polish_dlaczego_niebo_jest_niebieskie
       - polish_etykieta
       - polish_jeszcze
       - polish_kij_i_marchewka
       - polish_maria_skodowska_curie
+      - polish_metoda_feynmana
       - polish_naczynia_polaczone
+      - polish_odpowiedzialnosc
       - polish_pies_pankracy_i_sprawy_wazne
       - polish_przedszkole_bez_scian
+      - polish_przerwa_nauka
       - polish_radio_w_glowie
+      - polish_sprawa
       - polish_ulamki
+      - polish_wyraz_ktorego_nie_ma
 
   - id: shop
     category: places
     status: proposed
-    aliases: [store, cafe, café, workshop]
+    aliases: [store, cafe, café, workshop, smithy, forge]
     usedByBooks:
       - polish_betonowy_dom
       - polish_ciche_serce_dzwonka
+      - polish_czarny_rynek_tokenow
+      - polish_koziolek_matolek_i_podroz_do_pacanowa
+      - polish_nadwyzka
       - polish_w_kawiarni
       - polish_zloto_i_zwykle_szczescie
 
@@ -191,27 +286,53 @@ entries:
     aliases: [alley]
     usedByBooks:
       - polish_ciche_serce_dzwonka
+      - polish_cisza_przed_burza
       - polish_czarny_mnich_z_nikiszowca
+      - polish_drugie_kolo
+      - polish_dziewczyna_ktora_zniknela_o_swicie
+      - polish_dziewczyna_z_jelania
       - polish_franek_i_maly_karolek
       - polish_gruby_dzienniczek
       - polish_kamera_na_ulicy
       - polish_na_dworcu
       - polish_opowiesci_z_poprzedniego_zycia
+      - polish_poltora_metra
       - polish_powrot
+      - polish_tajwan
+      - polish_trzy_godziny
+      - polish_worek_z_piaskiem
+      - polish_zakazana_energia
 
   - id: town
     category: places
     status: proposed
     aliases: [small_town, city]
     usedByBooks:
+      - polish_algorytm_szczescia
+      - polish_boliewicz
       - polish_ciekawska_zosia_i_skarb_przyjazni
+      - polish_cisza_przed_burza
       - polish_cudaczek_wysmiewaczek
+      - polish_czarny_rynek_tokenow
+      - polish_dzien_z_reszty_zycia
+      - polish_dziewczyna_ktora_zniknela_o_swicie
+      - polish_dziewczyna_z_jelania
+      - polish_granice_imperium
       - polish_klucz_babci_rozi
       - polish_koziolek_matolek_i_podroz_do_pacanowa
       - polish_maria_skodowska_curie
       - polish_na_dworcu
+      - polish_nowy_swiat
+      - polish_obserwator
+      - polish_poligon
       - polish_pudelko_po_ciastkach
+      - polish_tajwan
+      - polish_trzy_godziny
+      - polish_trzynascie_zasad
       - polish_w_kawiarni
+      - polish_worek_z_piaskiem
+      - polish_zakazana_energia
+      - polish_zielona_poswiata
       - polish_zloto_i_zwykle_szczescie
 
   # --- objects ---
@@ -220,6 +341,7 @@ entries:
     status: proposed
     aliases: [playball]
     usedByBooks:
+      - polish_drugie_kolo
       - polish_opowiesci_z_poprzedniego_zycia
       - polish_pies_pankracy_i_sprawy_wazne
 
@@ -233,25 +355,69 @@ entries:
     category: objects
     status: proposed
     aliases: [rowboat]
-    usedByBooks: [polish_czterech_w_lodce]
+    usedByBooks:
+      - polish_czterech_w_lodce
+      - polish_drugie_dno
 
   - id: book
     category: objects
     status: proposed
     aliases: []
     usedByBooks:
+      - polish_98_procent
+      - polish_algorytm_szczescia
+      - polish_autorytet_na_przepraszam
+      - polish_blitzkrieg
+      - polish_bogini_i_liczby
+      - polish_boliewicz
+      - polish_brudne_pieniadze_czysta_nauka
+      - polish_cien_skrzydel_nad_oceanem
+      - polish_cisza_przed_burza
+      - polish_czarny_kodeks
+      - polish_czarny_rynek_tokenow
+      - polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie
+      - polish_dlaczego_niebo_jest_niebieskie
       - polish_dobra_dziewczynka
+      - polish_domysl_sie
       - polish_franek_i_maly_karolek
+      - polish_froteryzm_intelektualny
+      - polish_glosy_z_ziemi
+      - polish_granice_imperium
+      - polish_groby
       - polish_gruby_dzienniczek
+      - polish_iskra
       - polish_jeszcze
+      - polish_kontrolowana_halucynacja
       - polish_kubek
+      - polish_lista_myrotworec
+      - polish_lista_rzeczy_ktorych_zaluje
+      - polish_mamy_trupa_i_co_dalej
       - polish_maria_skodowska_curie
+      - polish_metoda_feynmana
+      - polish_misja_ktora_pekla
       - polish_mowa
       - polish_nowy_pacjent
+      - polish_nowy_swiat
+      - polish_oczy_ktore_nie_widza
+      - polish_odpowiedzialnosc
+      - polish_ofiary
       - polish_ognioskoczek
+      - polish_pierwszy_lot_na_marsa
+      - polish_powrot_siebie
       - polish_prog
+      - polish_prolog_wiatru
+      - polish_przerwa_nauka
       - polish_siedem_gor_i_jeden_ocean
+      - polish_sprawa
+      - polish_swieci_wojownicy
+      - polish_symetria
+      - polish_synchronicznosc
+      - polish_tajwan
+      - polish_trzynascie_zasad
       - polish_w_pelni
+      - polish_wyraz_ktorego_nie_ma
+      - polish_zakazana_energia
+      - polish_zasady
 
   - id: candy
     category: objects
@@ -264,6 +430,8 @@ entries:
     status: proposed
     aliases: []
     usedByBooks:
+      - polish_czarna_skrzynka
+      - polish_dzien_z_reszty_zycia
       - polish_kapusciana_tajemnica
       - polish_prog
       - polish_ulamki
@@ -279,12 +447,21 @@ entries:
     status: proposed
     aliases: [cup, mug, tumbler]
     usedByBooks:
+      - polish_algorytm_szczescia
+      - polish_cel_na_ten_rok_to_nic
       - polish_chor
       - polish_cisza_dom
+      - polish_dylemat_szatniarza
+      - polish_igla_z_widly
+      - polish_jak_bor_z_jasnego_nieba
       - polish_jak_ugotowac_herbate
+      - polish_koniec_epoki_pudelek
       - polish_kubek
       - polish_mowa
+      - polish_nadwyzka
       - polish_w_kawiarni
+      - polish_zamowienie
+      - polish_zasady
 
   - id: horseshoe
     category: objects
@@ -296,7 +473,9 @@ entries:
     category: objects
     status: proposed
     aliases: [coat]
-    usedByBooks: [polish_na_targu]
+    usedByBooks:
+      - polish_dziewczyna_z_jelania
+      - polish_na_targu
 
   - id: key
     category: objects
@@ -311,21 +490,49 @@ entries:
     status: proposed
     aliases: [pebble]
     usedByBooks:
+      - polish_groby
       - polish_kamien_pamieci
       - polish_ognioskoczek
+      - polish_poligon
 
   - id: window
     category: objects
     status: proposed
     aliases: []
     usedByBooks:
+      - polish_cel_na_ten_rok_to_nic
+      - polish_cena_widoku
+      - polish_czarna_plachta
+      - polish_czarna_skrzynka
+      - polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie
+      - polish_dlaczego_niebo_jest_niebieskie
       - polish_domek
       - polish_dostrojony_dom
+      - polish_dzien_z_reszty_zycia
+      - polish_dziewczyna_ktora_zniknela_o_swicie
+      - polish_garnek_na_glowie
+      - polish_ikonka_na_pulpicie
+      - polish_koniec_epoki_pudelek
+      - polish_kontrolowana_halucynacja
+      - polish_kot_1011
+      - polish_lista_rzeczy_ktorych_zaluje
+      - polish_martwe_oczy
+      - polish_nowy_swiat
+      - polish_obserwator
+      - polish_oczy_ktore_nie_widza
+      - polish_pierwszy_lot_na_marsa
+      - polish_poltora_metra
       - polish_powrot
       - polish_prog
+      - polish_prolog_wiatru
       - polish_przerwa
+      - polish_przerwa_nauka
       - polish_pudelko_po_ciastkach
+      - polish_samolot
+      - polish_szpital_poludniowy
       - polish_taniec
+      - polish_trzy_godziny
+      - polish_zielona_poswiata
 
   # --- creatures ---
   - id: bear
@@ -341,6 +548,7 @@ entries:
     usedByBooks:
       - polish_pies_pankracy_i_sprawy_wazne
       - polish_powrot
+      - polish_szpital_poludniowy
 
   - id: dragon
     category: creatures

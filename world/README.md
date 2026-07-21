@@ -75,7 +75,10 @@ Usually **3–5** elements per book. Sparse is better than noisy. Empty `world` 
 ## Backfill
 
 See [PHASE_TBD_WORLD_CONTENT_BACKFILL.md](../docs/product/PHASE_TBD_WORLD_CONTENT_BACKFILL.md).  
-Milestone checkpoint: [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](../docs/product/WORLD_DICTIONARY_MILESTONE_REVIEW_01.md).
+Milestone: [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](../docs/product/WORLD_DICTIONARY_MILESTONE_REVIEW_01.md).  
+**Final report:** [WORLD_DICTIONARY_FINAL_REPORT.md](../docs/product/WORLD_DICTIONARY_FINAL_REPORT.md).
+
+**Coverage:** 125 / 125 packs (100%).
 
 ## Review candidates
 

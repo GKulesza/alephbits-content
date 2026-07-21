@@ -105,5 +105,15 @@
   ],
   "inspiredBy": {
     "youtube": "EPSynLaX9L0"
+  },
+  "world": {
+    "objects": [
+      "window"
+    ],
+    "places": [
+      "office",
+      "home",
+      "town"
+    ]
   }
 }

@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- objects: book
+- places: office, town, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

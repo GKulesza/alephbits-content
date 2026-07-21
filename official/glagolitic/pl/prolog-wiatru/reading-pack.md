@@ -36,6 +36,10 @@
 **Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
 
 ---
+**World:**
+- objects: book, window
+- places: home, river
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

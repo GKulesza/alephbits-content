@@ -106,5 +106,14 @@
   ],
   "inspiredBy": {
     "youtube": "TemssaBn_lI"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "school",
+      "office"
+    ]
   }
 }

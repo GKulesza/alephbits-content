@@ -102,5 +102,15 @@
   },
   "inspirationDates": [
     "2026-07-12"
-  ]
+  ],
+  "world": {
+    "objects": [
+      "book",
+      "glass"
+    ],
+    "places": [
+      "home",
+      "town"
+    ]
+  }
 }

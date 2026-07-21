@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- objects: window
+- places: home, street, town
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

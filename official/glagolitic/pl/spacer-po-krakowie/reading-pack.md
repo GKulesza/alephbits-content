@@ -39,7 +39,7 @@
 ---
 
 **World:**
-- places: market_square, castle, river
+- places: market, castle, river
 
 ## Editorial Transparency
 
