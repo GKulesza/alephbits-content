@@ -105,5 +105,17 @@
   ],
   "inspiredBy": {
     "youtube": "C18gZmTbHh4"
+  },
+  "world": {
+    "objects": [
+      "horseshoe"
+    ],
+    "creatures": [
+      "goat"
+    ],
+    "places": [
+      "forge",
+      "town"
+    ]
   }
 }

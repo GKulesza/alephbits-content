@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- places: town
+- objects: doll
+- symbols: treasure
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

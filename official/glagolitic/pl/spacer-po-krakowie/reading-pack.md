@@ -38,6 +38,9 @@
 
 ---
 
+**World:**
+- places: market_square, castle, river
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Contributors  

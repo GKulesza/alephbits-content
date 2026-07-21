@@ -59,12 +59,38 @@ dart run tools/compile_pack.dart official/glagolitic/pl/spacer-po-krakowie/
 
 | Section | Parser behavior |
 |---------|-----------------|
-| **Metadata** | Bold `**Label:** value` lines; tables optional |
+| **Metadata** | Bold `**Label:** value` lines; tables optional; optional multi-line `**World:**` → `lesson.json` `world` |
 | **Editorial Transparency** | Revision table → `provenance.json` |
 | **Sources** | Each `### Source N` → `sources[]` entry |
 | **Text** | All content until `## Quiz` → `text.txt`; paragraphs joined with `\n\n` |
 | **Quiz** | Each `### Question N` → `questions[]`; answers stripped of `A)` prefix |
 | **Future Extensions** | Ignored in v1 |
+
+### Optional `world` metadata
+
+When present under Metadata:
+
+```markdown
+**World:**
+- objects: flashlight, painting
+- creatures: green_elephant
+- places: forest
+```
+
+Compiled into `lesson.json` as:
+
+```json
+"world": {
+  "objects": ["flashlight", "painting"],
+  "creatures": ["green_elephant"],
+  "places": ["forest"]
+}
+```
+
+Missing `world` never fails compile. Invalid ids are skipped.
+
+Shared vocabulary: [world/dictionary.yaml](../world/dictionary.yaml).
+
 
 ### Determinism
 

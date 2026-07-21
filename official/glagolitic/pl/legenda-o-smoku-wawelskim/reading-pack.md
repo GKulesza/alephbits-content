@@ -31,6 +31,11 @@
 
 ---
 
+**World:**
+- creatures: dragon
+- places: castle, cave, river
+- objects: stuffed_ram
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

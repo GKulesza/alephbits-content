@@ -146,6 +146,10 @@ class ReadingPackCompiler {
 
     lesson.addAll(editorialProvenance.toLessonJson());
 
+    if (doc.world != null && !doc.world!.isEmpty) {
+      lesson['world'] = doc.world!.toJson();
+    }
+
     return lesson;
   }
 

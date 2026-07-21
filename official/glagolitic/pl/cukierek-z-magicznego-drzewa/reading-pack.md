@@ -49,6 +49,12 @@
 
 ---
 
+**World:**
+- places: forest
+- plants: magical_tree
+- objects: candy
+- creatures: fox, rabbit
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

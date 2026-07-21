@@ -108,5 +108,18 @@
   ],
   "inspiredBy": {
     "youtube": "Z-DJ7XocjRY, vZ_As1yDPAc, 1wAJ0mC5nbc, pACvHQUZMqk, 1J_Y12RqeLM"
+  },
+  "world": {
+    "objects": [
+      "stuffed_ram"
+    ],
+    "creatures": [
+      "dragon"
+    ],
+    "places": [
+      "castle",
+      "cave",
+      "river"
+    ]
   }
 }

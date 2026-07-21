@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- creatures: goat
+- objects: horseshoe
+- places: forge, town
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

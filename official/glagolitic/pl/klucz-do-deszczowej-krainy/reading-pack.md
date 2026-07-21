@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- objects: key
+- places: forest, rainy_realm
+- plants: flower
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

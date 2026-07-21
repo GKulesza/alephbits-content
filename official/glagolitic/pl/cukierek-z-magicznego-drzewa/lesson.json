@@ -104,5 +104,20 @@
   ],
   "inspiredBy": {
     "youtube": "5s-nYusLT9o"
+  },
+  "world": {
+    "objects": [
+      "candy"
+    ],
+    "creatures": [
+      "fox",
+      "rabbit"
+    ],
+    "plants": [
+      "magical_tree"
+    ],
+    "places": [
+      "forest"
+    ]
   }
 }

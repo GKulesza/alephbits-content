@@ -102,5 +102,12 @@
   },
   "inspirationDates": [
     "2026-07-06"
-  ]
+  ],
+  "world": {
+    "places": [
+      "market_square",
+      "castle",
+      "river"
+    ]
+  }
 }

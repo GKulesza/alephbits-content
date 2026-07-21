@@ -109,5 +109,14 @@
   ],
   "inspiredBy": {
     "youtube": "xgvKeRGBgV8, V2gj8ec1pWQ, 7JxsQXeilHg"
+  },
+  "world": {
+    "objects": [
+      "jacket"
+    ],
+    "places": [
+      "market",
+      "mountain"
+    ]
   }
 }

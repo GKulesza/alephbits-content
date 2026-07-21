@@ -48,6 +48,10 @@
 
 ---
 
+**World:**
+- creatures: bear
+- places: home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
