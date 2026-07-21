@@ -142,6 +142,8 @@ Remaining weakness: temporary travel/water concepts (`station`, `ocean`) and thi
 
 **Do not** implement QuietLibrary in this phase.
 
+**Next design document:** [RFC_QUIETLIBRARY_EXPERIENCE.md](RFC_QUIETLIBRARY_EXPERIENCE.md) (proposal only).
+
 ---
 
 ## 8. What this phase delivered
