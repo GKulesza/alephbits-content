@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- places: garden, burrow
+- plants: corn, flower
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

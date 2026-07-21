@@ -32,9 +32,8 @@
 ---
 
 **World:**
-- creatures: dragon
+- creatures: dragon, ram
 - places: castle, cave, river
-- objects: stuffed_ram
 
 ## Editorial Transparency
 

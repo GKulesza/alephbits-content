@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- plants: cabbage
+- places: home
+- objects: clock
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -106,5 +106,14 @@
   ],
   "inspiredBy": {
     "youtube": "Ppqyyz1tTj8"
+  },
+  "world": {
+    "symbols": [
+      "monk"
+    ],
+    "places": [
+      "gate",
+      "street"
+    ]
   }
 }

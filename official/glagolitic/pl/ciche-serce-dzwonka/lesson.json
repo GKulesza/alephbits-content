@@ -104,5 +104,14 @@
   ],
   "inspiredBy": {
     "youtube": "RXdgMlRqr-E"
+  },
+  "world": {
+    "objects": [
+      "bell"
+    ],
+    "places": [
+      "shop",
+      "street"
+    ]
   }
 }

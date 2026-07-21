@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- objects: bell
+- places: shop, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

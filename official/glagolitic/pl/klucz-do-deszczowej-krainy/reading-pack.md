@@ -51,7 +51,7 @@
 
 **World:**
 - objects: key
-- places: forest, rainy_realm
+- places: forest
 - plants: flower
 
 ## Editorial Transparency

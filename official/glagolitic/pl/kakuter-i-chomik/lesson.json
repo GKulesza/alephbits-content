@@ -105,5 +105,13 @@
   ],
   "inspiredBy": {
     "youtube": "gYxMl3bizJo"
+  },
+  "world": {
+    "creatures": [
+      "hamster"
+    ],
+    "places": [
+      "home"
+    ]
   }
 }

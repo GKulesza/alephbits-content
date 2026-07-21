@@ -106,5 +106,13 @@
   ],
   "inspiredBy": {
     "youtube": "_ByoSBSkJZg"
+  },
+  "world": {
+    "objects": [
+      "boat"
+    ],
+    "places": [
+      "office"
+    ]
   }
 }

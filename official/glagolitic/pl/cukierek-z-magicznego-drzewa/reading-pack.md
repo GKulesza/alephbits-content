@@ -51,7 +51,7 @@
 
 **World:**
 - places: forest
-- plants: magical_tree
+- plants: tree
 - objects: candy
 - creatures: fox, rabbit
 

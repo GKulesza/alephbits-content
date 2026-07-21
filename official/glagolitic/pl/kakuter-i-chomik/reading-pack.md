@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- creatures: hamster
+- places: home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

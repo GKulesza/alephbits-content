@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- places: forest, library
+- objects: book, stone
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
