@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- places: home
+- objects: window
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

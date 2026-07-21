@@ -105,5 +105,11 @@
   ],
   "inspiredBy": {
     "youtube": "ULE1XyyNfkY"
+  },
+  "world": {
+    "places": [
+      "home",
+      "school"
+    ]
   }
 }

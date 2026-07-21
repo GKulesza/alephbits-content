@@ -49,6 +49,9 @@
 
 ---
 
+**World:**
+- places: home, school
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

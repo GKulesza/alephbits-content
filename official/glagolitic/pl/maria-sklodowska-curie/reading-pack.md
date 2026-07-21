@@ -31,6 +31,10 @@
 
 ---
 
+**World:**
+- places: home, town, school
+- objects: book
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

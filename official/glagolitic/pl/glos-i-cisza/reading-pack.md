@@ -49,6 +49,9 @@
 
 ---
 
+**World:**
+- places: castle, river
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -1,7 +1,6 @@
 # AlephBits World Dictionary (content authority)
 #
 # Status: proposed | approved
-# Grow slowly. Prefer reuse and generic concepts over story-specific ids.
 # See world/README.md and world/REVIEW_CANDIDATES.md.
 
 version: 1
@@ -24,9 +23,10 @@ entries:
   - id: castle
     category: places
     status: proposed
-    aliases: []
+    aliases: [palace]
     usedByBooks:
       - polish_demo_lesson
+      - polish_glos_i_cisza
       - polish_legenda_o_smoku_wawelskim
       - polish_zloto_i_zwykle_szczescie
 
@@ -81,6 +81,7 @@ entries:
       - polish_dobra_dziewczynka
       - polish_domek
       - polish_dostrojony_dom
+      - polish_etykieta
       - polish_franek_i_maly_karolek
       - polish_gruby_dzienniczek
       - polish_jak_ugotowac_herbate
@@ -91,13 +92,19 @@ entries:
       - polish_kij_i_marchewka
       - polish_klucz_babci_rozi
       - polish_kubek
+      - polish_maria_skodowska_curie
+      - polish_mowa
       - polish_naczynia_polaczone
       - polish_niedzwiedz
+      - polish_opowiesci_z_poprzedniego_zycia
       - polish_powrot
       - polish_prog
+      - polish_przerwa
       - polish_pudelko_po_ciastkach
       - polish_radio_w_glowie
+      - polish_rozmowa_z_lekarzem
       - polish_siedem_gor_i_jeden_ocean
+      - polish_taniec
       - polish_ulamki
       - polish_w_pelni
 
@@ -140,14 +147,16 @@ entries:
       - polish_czterech_w_lodce
       - polish_kamien_pamieci
       - polish_nowy_pacjent
+      - polish_rozmowa_z_lekarzem
 
   - id: river
     category: places
     status: proposed
-    aliases: [vistula]
+    aliases: [vistula, ocean]
     usedByBooks:
       - polish_cudaczek_wysmiewaczek
       - polish_demo_lesson
+      - polish_glos_i_cisza
       - polish_legenda_o_smoku_wawelskim
       - polish_wiatr_nad_rzeka
 
@@ -156,8 +165,10 @@ entries:
     status: proposed
     aliases: [schoolyard, preschool, classroom]
     usedByBooks:
+      - polish_etykieta
       - polish_jeszcze
       - polish_kij_i_marchewka
+      - polish_maria_skodowska_curie
       - polish_naczynia_polaczone
       - polish_pies_pankracy_i_sprawy_wazne
       - polish_przedszkole_bez_scian
@@ -185,6 +196,7 @@ entries:
       - polish_gruby_dzienniczek
       - polish_kamera_na_ulicy
       - polish_na_dworcu
+      - polish_opowiesci_z_poprzedniego_zycia
       - polish_powrot
 
   - id: town
@@ -196,6 +208,7 @@ entries:
       - polish_cudaczek_wysmiewaczek
       - polish_klucz_babci_rozi
       - polish_koziolek_matolek_i_podroz_do_pacanowa
+      - polish_maria_skodowska_curie
       - polish_na_dworcu
       - polish_pudelko_po_ciastkach
       - polish_w_kawiarni
@@ -205,8 +218,10 @@ entries:
   - id: ball
     category: objects
     status: proposed
-    aliases: []
-    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
+    aliases: [playball]
+    usedByBooks:
+      - polish_opowiesci_z_poprzedniego_zycia
+      - polish_pies_pankracy_i_sprawy_wazne
 
   - id: bell
     category: objects
@@ -230,6 +245,8 @@ entries:
       - polish_gruby_dzienniczek
       - polish_jeszcze
       - polish_kubek
+      - polish_maria_skodowska_curie
+      - polish_mowa
       - polish_nowy_pacjent
       - polish_ognioskoczek
       - polish_prog
@@ -266,6 +283,7 @@ entries:
       - polish_cisza_dom
       - polish_jak_ugotowac_herbate
       - polish_kubek
+      - polish_mowa
       - polish_w_kawiarni
 
   - id: horseshoe
@@ -305,7 +323,9 @@ entries:
       - polish_dostrojony_dom
       - polish_powrot
       - polish_prog
+      - polish_przerwa
       - polish_pudelko_po_ciastkach
+      - polish_taniec
 
   # --- creatures ---
   - id: bear

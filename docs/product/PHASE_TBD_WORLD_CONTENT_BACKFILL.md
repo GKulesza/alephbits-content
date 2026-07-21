@@ -163,6 +163,42 @@ Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
 
 ---
 
+## Batch 7 (2026-07-21) — zero growth, inevitable-concept discipline
+
+**New concepts: 0.** Element slots: 20. Reuse ratio ∞.
+
+| Book | Elements |
+|------|----------|
+| Przerwa | `home`, `window` |
+| Taniec | `home`, `window` |
+| Mowa | `home`, `glass`, `book` |
+| Rozmowa z lekarzem | `office`, `home` |
+| Opowieści z poprzedniego życia | `home`, `street`, `ball` |
+| Etykieta | `home`, `school` |
+| Głos i cisza | `castle`, `river` |
+| Maria Skłodowska-Curie | `home`, `town`, `school`, `book` |
+
+### Editorial approximations (Batch 7)
+
+| Mapping | Status | Possible future concept |
+|---------|--------|-------------------------|
+| sea palace → `castle` | excellent | — |
+| deep ocean → `river` (alias `ocean`) | temporary | `ocean` |
+| playground → `street` + `ball` | acceptable | `playground` |
+| dance hall → `home` | temporary | `hall` / `stage` |
+
+### Concepts becoming multi-use
+
+`ball`
+
+### Review candidate classifications
+
+Updated in [world/REVIEW_CANDIDATES.md](../../world/REVIEW_CANDIDATES.md) (`keep` / `merge` / `generalize` / `revisit later`).
+
+Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
+
+---
+
 ## Non-goals
 
 QuietLibrary · Reader UI · Recommendations · Runtime AI

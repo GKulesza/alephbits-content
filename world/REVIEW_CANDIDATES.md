@@ -1,50 +1,67 @@
 # World Dictionary — Review Candidates
 
-Living editorial list. Update usage counts after each batch; do not rewrite from scratch.
+Living editorial list. Update after each batch; classify only — no speculative renames.
 
-Status meanings:
+## Classification legend
 
-- **watch** — niche singleton; keep unless a merge becomes obvious  
-- **merge?** — consider folding into a more general id  
-- **deferred** — proposed new id rejected for now  
-- **temporary approx** — current pack mapping may deserve its own concept later  
-- **stable** — promoted to multi-use; leave unless a merge is still debated  
+| Action | Meaning |
+|--------|---------|
+| **keep** | Characteristic and worth retaining |
+| **merge** | Fold into a more general existing id when editing |
+| **generalize** | Rename/broaden later (not now) |
+| **remove** | Drop from packs when next touched |
+| **revisit later** | Need more library evidence |
 
-| Identifier | Usage | Status | Reason |
-|------------|------:|--------|--------|
-| `market_square` | 1 | merge? | Possibly generalize to `market` or `town` |
-| `forge` | 1 | merge? | Possibly fold into `shop` |
-| `monk` | 1 | watch | Legend-specific symbol |
-| `ram` | 1 | watch | Legend-specific; alias `sheep` already noted |
-| `burrow` | 1 | watch | Animal-home niche |
-| `boat` | 1 | watch | Keep — likely reusable |
-| `bridge` | 1 | watch | Keep — likely reusable with river books |
-| `ball` | 1 | watch | Playground object; await reuse |
-| `bell` | 1 | watch | Characteristic; await reuse |
-| `dragon` | 1 | watch | Keep — high reuse potential |
-| `cave` | 1 | watch | Keep with castle/dragon cluster |
-| `library` | 2 | stable | Promoted Batch 6 (*Nowy pacjent*) |
-| `mountain` | 2 | stable | Promoted Batch 6 (*Siedem gór…*) |
-| `dog` | 2 | stable | Promoted Batch 6 (*Powrót*) |
-| deferred: `shoe` | — | deferred | *Buty*; clinic → `office` |
-| deferred: `camera` | — | deferred | *Kamera na ulicy*; street/home preferred |
-| deferred: `station` | — | temporary approx | → `town` + `street` |
-| deferred: `plane` | — | deferred | *Samolot* not yet mapped |
-| deferred: `ocean` | — | temporary approx | *Siedem gór…* used `mountain` |
-| deferred: `box` | — | deferred | Packaging / cookie-tin stories |
+## Candidates
+
+| Identifier | Usage | Classification | Reason |
+|------------|------:|----------------|--------|
+| `market_square` | 1 | generalize | Likely better as `market` or civic `town` |
+| `forge` | 1 | merge | Fold into `shop` when pack is next edited |
+| `monk` | 1 | keep | Distinct legend symbol; await second legend |
+| `ram` | 1 | revisit later | Legend-specific; `sheep` alias exists |
+| `burrow` | 1 | revisit later | Animal dwelling niche |
+| `boat` | 1 | keep | High future reuse |
+| `bridge` | 1 | keep | Pairs with `river` |
+| `bell` | 1 | keep | Characteristic object |
+| `dragon` | 1 | keep | High QuietLibrary / legend value |
+| `cave` | 1 | keep | Clusters with castle/dragon |
+| `bear` | 1 | keep | Title creature; await second use |
+| `candy` | 1 | revisit later | Story prop; may stay niche |
+| `cabbage` | 1 | revisit later | Story-specific plant |
+| `corn` | 1 | revisit later | Garden niche |
+| `doll` | 1 | keep | Childhood object; reusable |
+| `fox` / `rabbit` / `goat` / `hamster` | 1 | keep | Creatures; await natural reuse |
+| `gate` | 1 | keep | Place element; reusable |
+| `horseshoe` | 1 | revisit later | Matołek niche |
+| `jacket` | 1 | revisit later | Market prop |
+| `ball` | 2 | keep | Promoted Batch 7 |
+| `library` | 2 | keep | Stable multi-use |
+| `mountain` | 2 | keep | Stable multi-use |
+| `dog` | 2 | keep | Stable multi-use |
+| deferred: `shoe` | — | revisit later | Rejected; clinic → `office` |
+| deferred: `camera` | — | revisit later | street/home preferred |
+| deferred: `station` | — | revisit later | Mapped town+street |
+| deferred: `plane` | — | revisit later | *Samolot* unmapped |
+| deferred: `ocean` | — | revisit later | Mapped via `river` (+alias) temporarily |
+| deferred: `box` | — | revisit later | Packaging stories |
 
 ## Approximation log
 
-| Mapping | Status | Batch | Reason |
-|---------|--------|------:|--------|
-| café → `shop` | excellent | 4 | Place of trade/service |
-| mug/cup/tea vessel → `glass` | acceptable | 4–5 | Drinking vessel family |
-| station → `town` + `street` | temporary | 5 | May deserve `station` later |
-| cobbler workshop → `shop` | excellent | 5 | Workplace of trade |
-| gold fortune → `treasure` | excellent | 5 | Shared symbol |
-| doctor's cabinet → `office` | excellent | 5–6 | Professional room |
-| preschool classroom → `school` | acceptable | 6 | Learning place |
-| embassy/clinic → `office` | excellent | 3–5 | Institutional room |
-| Almaty flat → `home` | excellent | 6 | Dwelling |
-| ocean (Korea title) → omitted; used `mountain` | temporary | 6 | Deferred `ocean` as review candidate |
-| hospital scent / paper shelves → `library` | acceptable | 6 | Room of books/knowledge in clinic |
+| Mapping | Status | Batch | Future concept (if temporary) |
+|---------|--------|------:|-------------------------------|
+| café → `shop` | excellent | 4 | — |
+| mug/cup/tea vessel → `glass` | acceptable | 4–5 | — |
+| station → `town` + `street` | temporary | 5 | Possible future: `station` |
+| cobbler workshop → `shop` | excellent | 5 | — |
+| gold fortune → `treasure` | excellent | 5 | — |
+| doctor's cabinet → `office` | excellent | 5–7 | — |
+| preschool classroom → `school` | acceptable | 6 | — |
+| Almaty flat → `home` | excellent | 6 | — |
+| ocean (Korea title) → `mountain` only | temporary | 6 | Possible future: `ocean` |
+| clinic bookshelves → `library` | acceptable | 6 | — |
+| sea-king palace → `castle` | excellent | 7 | — |
+| deep ocean → `river` (+alias ocean) | temporary | 7 | Possible future: `ocean` |
+| playground → `street` + `ball` | acceptable | 7 | Possible future: `playground` |
+| dance hall → `home` | temporary | 7 | Possible future: `hall` / `stage` |
+| airport gate → deferred (*Tajwan* not in batch) | temporary | — | Possible future: `station` or `airport` |
