@@ -79,6 +79,26 @@ Maximize reuse; only three new ids (`bridge`, `window`, `glass`).
 | Cisza | `home`, `glass` | `glass` |
 | Betonowy dom | `home`, `shop` | none |
 
+---
+
+## Batch 4 (2026-07-21) — zero growth
+
+**New concepts: 0.** All 21 element slots reused existing vocabulary.
+
+| Book | Elements |
+|------|----------|
+| Dostrojony dom | `home`, `window` |
+| Klucz babci Rózi | `key`, `flower`, `home`, `town` |
+| Kamień pamięci | `stone`, `office` |
+| Kubek | `home`, `glass`, `book` |
+| Jak ugotować herbatę | `home`, `glass` |
+| W kawiarni | `shop`, `town`, `glass` |
+| Jeszcze | `school`, `home`, `book` |
+| Radio w głowie | `school`, `home` |
+
+**Singleton → multi-use this batch:** `key`, `stone`, `office`, `window`, `school`, `glass`, `shop`  
+**Approximate reuse notes:** café → `shop`; mug/cup/tea vessel → `glass`
+
 Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
 
 ---

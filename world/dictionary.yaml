@@ -75,10 +75,16 @@ entries:
       - polish_cudaczek_wysmiewaczek
       - polish_dobra_dziewczynka
       - polish_domek
+      - polish_dostrojony_dom
       - polish_franek_i_maly_karolek
+      - polish_jak_ugotowac_herbate
+      - polish_jeszcze
       - polish_kakuter_i_chomik
       - polish_kapusciana_tajemnica
+      - polish_klucz_babci_rozi
+      - polish_kubek
       - polish_niedzwiedz
+      - polish_radio_w_glowie
 
   - id: library
     category: places
@@ -110,7 +116,9 @@ entries:
     category: places
     status: proposed
     aliases: []
-    usedByBooks: [polish_czterech_w_lodce]
+    usedByBooks:
+      - polish_czterech_w_lodce
+      - polish_kamien_pamieci
 
   - id: river
     category: places
@@ -126,15 +134,19 @@ entries:
     category: places
     status: proposed
     aliases: [schoolyard]
-    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
+    usedByBooks:
+      - polish_jeszcze
+      - polish_pies_pankracy_i_sprawy_wazne
+      - polish_radio_w_glowie
 
   - id: shop
     category: places
     status: proposed
-    aliases: [store]
+    aliases: [store, cafe, café]
     usedByBooks:
       - polish_betonowy_dom
       - polish_ciche_serce_dzwonka
+      - polish_w_kawiarni
 
   - id: street
     category: places
@@ -152,7 +164,9 @@ entries:
     usedByBooks:
       - polish_ciekawska_zosia_i_skarb_przyjazni
       - polish_cudaczek_wysmiewaczek
+      - polish_klucz_babci_rozi
       - polish_koziolek_matolek_i_podroz_do_pacanowa
+      - polish_w_kawiarni
 
   # --- objects ---
   - id: ball
@@ -180,6 +194,8 @@ entries:
     usedByBooks:
       - polish_dobra_dziewczynka
       - polish_franek_i_maly_karolek
+      - polish_jeszcze
+      - polish_kubek
       - polish_ognioskoczek
 
   - id: candy
@@ -203,8 +219,12 @@ entries:
   - id: glass
     category: objects
     status: proposed
-    aliases: []
-    usedByBooks: [polish_cisza_dom]
+    aliases: [cup, mug, tumbler]
+    usedByBooks:
+      - polish_cisza_dom
+      - polish_jak_ugotowac_herbate
+      - polish_kubek
+      - polish_w_kawiarni
 
   - id: horseshoe
     category: objects
@@ -221,20 +241,26 @@ entries:
   - id: key
     category: objects
     status: proposed
-    aliases: []
-    usedByBooks: [polish_klucz_do_deszczowej_krainy]
+    aliases: [skeleton_key]
+    usedByBooks:
+      - polish_klucz_babci_rozi
+      - polish_klucz_do_deszczowej_krainy
 
   - id: stone
     category: objects
     status: proposed
     aliases: [pebble]
-    usedByBooks: [polish_ognioskoczek]
+    usedByBooks:
+      - polish_kamien_pamieci
+      - polish_ognioskoczek
 
   - id: window
     category: objects
     status: proposed
     aliases: []
-    usedByBooks: [polish_domek]
+    usedByBooks:
+      - polish_domek
+      - polish_dostrojony_dom
 
   # --- creatures ---
   - id: bear
@@ -303,6 +329,7 @@ entries:
     status: proposed
     aliases: []
     usedByBooks:
+      - polish_klucz_babci_rozi
       - polish_klucz_do_deszczowej_krainy
       - polish_nowy_ogrod
 

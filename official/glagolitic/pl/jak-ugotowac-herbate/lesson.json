@@ -108,5 +108,13 @@
   ],
   "inspiredBy": {
     "youtube": "M1_TL3gHz6s, xD7qUfSOGOE, 6gyvcWF1XaY, SqUX2lZP_Iw, xzHM4HkqmGQ"
+  },
+  "world": {
+    "objects": [
+      "glass"
+    ],
+    "places": [
+      "home"
+    ]
   }
 }

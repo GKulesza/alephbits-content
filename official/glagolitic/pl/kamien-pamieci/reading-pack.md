@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach.
 
 ---
+**World:**
+- objects: stone
+- places: office
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
