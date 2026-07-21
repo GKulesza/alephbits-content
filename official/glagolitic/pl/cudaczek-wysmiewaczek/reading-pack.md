@@ -49,6 +49,9 @@
 
 ---
 
+**World:**
+- places: town, river, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

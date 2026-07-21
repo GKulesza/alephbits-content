@@ -9,50 +9,31 @@ updated: 2026-07-21
 
 entries:
   # --- places ---
-  - id: market_square
+  - id: bridge
     category: places
     status: proposed
-    aliases: [square, plaza]
-    usedByBooks: [polish_demo_lesson]
+    aliases: []
+    usedByBooks: [polish_wiatr_nad_rzeka]
+
+  - id: burrow
+    category: places
+    status: proposed
+    aliases: [den]
+    usedByBooks: [polish_nowy_ogrod]
 
   - id: castle
     category: places
     status: proposed
     aliases: []
-    usedByBooks: [polish_demo_lesson, polish_legenda_o_smoku_wawelskim]
-
-  - id: river
-    category: places
-    status: proposed
-    aliases: [vistula]
-    usedByBooks: [polish_demo_lesson, polish_legenda_o_smoku_wawelskim]
-
-  - id: market
-    category: places
-    status: proposed
-    aliases: [marketplace, bazaar]
-    usedByBooks: [polish_na_targu]
-
-  - id: mountain
-    category: places
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_na_targu]
+    usedByBooks:
+      - polish_demo_lesson
+      - polish_legenda_o_smoku_wawelskim
 
   - id: cave
     category: places
     status: proposed
     aliases: []
     usedByBooks: [polish_legenda_o_smoku_wawelskim]
-
-  - id: home
-    category: places
-    status: proposed
-    aliases: [house]
-    usedByBooks:
-      - polish_niedzwiedz
-      - polish_kakuter_i_chomik
-      - polish_kapusciana_tajemnica
 
   - id: forest
     category: places
@@ -62,14 +43,7 @@ entries:
       - polish_cukierek_z_magicznego_drzewa
       - polish_klucz_do_deszczowej_krainy
       - polish_ognioskoczek
-
-  - id: town
-    category: places
-    status: proposed
-    aliases: [small_town]
-    usedByBooks:
-      - polish_ciekawska_zosia_i_skarb_przyjazni
-      - polish_koziolek_matolek_i_podroz_do_pacanowa
+      - polish_susza
 
   - id: forge
     category: places
@@ -77,11 +51,90 @@ entries:
     aliases: [smithy]
     usedByBooks: [polish_koziolek_matolek_i_podroz_do_pacanowa]
 
+  - id: garden
+    category: places
+    status: proposed
+    aliases: []
+    usedByBooks:
+      - polish_franek_i_maly_karolek
+      - polish_nowy_ogrod
+
+  - id: gate
+    category: places
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_czarny_mnich_z_nikiszowca]
+
+  - id: home
+    category: places
+    status: proposed
+    aliases: [house]
+    usedByBooks:
+      - polish_betonowy_dom
+      - polish_cisza_dom
+      - polish_cudaczek_wysmiewaczek
+      - polish_dobra_dziewczynka
+      - polish_domek
+      - polish_franek_i_maly_karolek
+      - polish_kakuter_i_chomik
+      - polish_kapusciana_tajemnica
+      - polish_niedzwiedz
+
+  - id: library
+    category: places
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_ognioskoczek]
+
+  - id: market
+    category: places
+    status: proposed
+    aliases: [marketplace, bazaar]
+    usedByBooks:
+      - polish_franek_i_maly_karolek
+      - polish_na_targu
+
+  - id: market_square
+    category: places
+    status: proposed
+    aliases: [square, plaza]
+    usedByBooks: [polish_demo_lesson]
+
+  - id: mountain
+    category: places
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_na_targu]
+
+  - id: office
+    category: places
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_czterech_w_lodce]
+
+  - id: river
+    category: places
+    status: proposed
+    aliases: [vistula]
+    usedByBooks:
+      - polish_cudaczek_wysmiewaczek
+      - polish_demo_lesson
+      - polish_legenda_o_smoku_wawelskim
+      - polish_wiatr_nad_rzeka
+
+  - id: school
+    category: places
+    status: proposed
+    aliases: [schoolyard]
+    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
+
   - id: shop
     category: places
     status: proposed
     aliases: [store]
-    usedByBooks: [polish_ciche_serce_dzwonka]
+    usedByBooks:
+      - polish_betonowy_dom
+      - polish_ciche_serce_dzwonka
 
   - id: street
     category: places
@@ -90,73 +143,23 @@ entries:
     usedByBooks:
       - polish_ciche_serce_dzwonka
       - polish_czarny_mnich_z_nikiszowca
+      - polish_franek_i_maly_karolek
 
-  - id: gate
+  - id: town
     category: places
     status: proposed
-    aliases: []
-    usedByBooks: [polish_czarny_mnich_z_nikiszowca]
-
-  - id: office
-    category: places
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_czterech_w_lodce]
-
-  - id: school
-    category: places
-    status: proposed
-    aliases: [schoolyard]
-    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
-
-  - id: library
-    category: places
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_ognioskoczek]
-
-  - id: garden
-    category: places
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_nowy_ogrod]
-
-  - id: burrow
-    category: places
-    status: proposed
-    aliases: [den]
-    usedByBooks: [polish_nowy_ogrod]
+    aliases: [small_town]
+    usedByBooks:
+      - polish_ciekawska_zosia_i_skarb_przyjazni
+      - polish_cudaczek_wysmiewaczek
+      - polish_koziolek_matolek_i_podroz_do_pacanowa
 
   # --- objects ---
-  - id: jacket
-    category: objects
-    status: proposed
-    aliases: [coat]
-    usedByBooks: [polish_na_targu]
-
-  - id: candy
-    category: objects
-    status: proposed
-    aliases: [sweet]
-    usedByBooks: [polish_cukierek_z_magicznego_drzewa]
-
-  - id: key
+  - id: ball
     category: objects
     status: proposed
     aliases: []
-    usedByBooks: [polish_klucz_do_deszczowej_krainy]
-
-  - id: doll
-    category: objects
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_ciekawska_zosia_i_skarb_przyjazni]
-
-  - id: horseshoe
-    category: objects
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_koziolek_matolek_i_podroz_do_pacanowa]
+    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
 
   - id: bell
     category: objects
@@ -170,23 +173,20 @@ entries:
     aliases: [rowboat]
     usedByBooks: [polish_czterech_w_lodce]
 
-  - id: ball
-    category: objects
-    status: proposed
-    aliases: []
-    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
-
   - id: book
     category: objects
     status: proposed
     aliases: []
-    usedByBooks: [polish_ognioskoczek]
+    usedByBooks:
+      - polish_dobra_dziewczynka
+      - polish_franek_i_maly_karolek
+      - polish_ognioskoczek
 
-  - id: stone
+  - id: candy
     category: objects
     status: proposed
-    aliases: [pebble]
-    usedByBooks: [polish_ognioskoczek]
+    aliases: [sweet]
+    usedByBooks: [polish_cukierek_z_magicznego_drzewa]
 
   - id: clock
     category: objects
@@ -194,35 +194,71 @@ entries:
     aliases: []
     usedByBooks: [polish_kapusciana_tajemnica]
 
-  # --- creatures ---
-  - id: dragon
-    category: creatures
+  - id: doll
+    category: objects
     status: proposed
     aliases: []
-    usedByBooks: [polish_legenda_o_smoku_wawelskim]
+    usedByBooks: [polish_ciekawska_zosia_i_skarb_przyjazni]
 
-  - id: ram
-    category: creatures
+  - id: glass
+    category: objects
     status: proposed
-    aliases: [sheep]
-    usedByBooks: [polish_legenda_o_smoku_wawelskim]
+    aliases: []
+    usedByBooks: [polish_cisza_dom]
 
+  - id: horseshoe
+    category: objects
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_koziolek_matolek_i_podroz_do_pacanowa]
+
+  - id: jacket
+    category: objects
+    status: proposed
+    aliases: [coat]
+    usedByBooks: [polish_na_targu]
+
+  - id: key
+    category: objects
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_klucz_do_deszczowej_krainy]
+
+  - id: stone
+    category: objects
+    status: proposed
+    aliases: [pebble]
+    usedByBooks: [polish_ognioskoczek]
+
+  - id: window
+    category: objects
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_domek]
+
+  # --- creatures ---
   - id: bear
     category: creatures
     status: proposed
     aliases: []
     usedByBooks: [polish_niedzwiedz]
 
+  - id: dog
+    category: creatures
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
+
+  - id: dragon
+    category: creatures
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_legenda_o_smoku_wawelskim]
+
   - id: fox
     category: creatures
     status: proposed
     aliases: []
-    usedByBooks: [polish_cukierek_z_magicznego_drzewa]
-
-  - id: rabbit
-    category: creatures
-    status: proposed
-    aliases: [hare]
     usedByBooks: [polish_cukierek_z_magicznego_drzewa]
 
   - id: goat
@@ -237,27 +273,19 @@ entries:
     aliases: []
     usedByBooks: [polish_kakuter_i_chomik]
 
-  - id: dog
+  - id: rabbit
     category: creatures
     status: proposed
-    aliases: []
-    usedByBooks: [polish_pies_pankracy_i_sprawy_wazne]
-
-  # --- plants ---
-  - id: tree
-    category: plants
-    status: proposed
-    aliases: [magical_tree, magic_tree]
+    aliases: [hare]
     usedByBooks: [polish_cukierek_z_magicznego_drzewa]
 
-  - id: flower
-    category: plants
+  - id: ram
+    category: creatures
     status: proposed
-    aliases: []
-    usedByBooks:
-      - polish_klucz_do_deszczowej_krainy
-      - polish_nowy_ogrod
+    aliases: [sheep]
+    usedByBooks: [polish_legenda_o_smoku_wawelskim]
 
+  # --- plants ---
   - id: cabbage
     category: plants
     status: proposed
@@ -270,15 +298,31 @@ entries:
     aliases: [maize]
     usedByBooks: [polish_nowy_ogrod]
 
-  # --- symbols ---
-  - id: treasure
-    category: symbols
+  - id: flower
+    category: plants
     status: proposed
     aliases: []
-    usedByBooks: [polish_ciekawska_zosia_i_skarb_przyjazni]
+    usedByBooks:
+      - polish_klucz_do_deszczowej_krainy
+      - polish_nowy_ogrod
 
+  - id: tree
+    category: plants
+    status: proposed
+    aliases: [magical_tree, magic_tree]
+    usedByBooks:
+      - polish_cukierek_z_magicznego_drzewa
+      - polish_susza
+
+  # --- symbols ---
   - id: monk
     category: symbols
     status: proposed
     aliases: []
     usedByBooks: [polish_czarny_mnich_z_nikiszowca]
+
+  - id: treasure
+    category: symbols
+    status: proposed
+    aliases: []
+    usedByBooks: [polish_ciekawska_zosia_i_skarb_przyjazni]

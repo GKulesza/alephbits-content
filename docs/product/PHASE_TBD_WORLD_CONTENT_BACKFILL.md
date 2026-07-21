@@ -62,6 +62,23 @@
 | Kapuściana tajemnica | `cabbage`, `home`, `clock` |
 | Nowy ogród | `garden`, `burrow`, `corn`, `flower` |
 
+---
+
+## Batch 3 (2026-07-21) — dictionary gravity
+
+Maximize reuse; only three new ids (`bridge`, `window`, `glass`).
+
+| Book | Elements | New? |
+|------|----------|------|
+| Franek i mały Karolek | `street`, `market`, `garden`, `home`, `book` | none |
+| Cudaczek-Wyśmiewaczek | `town`, `river`, `home` | none |
+| Wiatr nad rzeką | `river`, `bridge` | `bridge` |
+| Susza | `forest`, `tree` | none |
+| Dobra dziewczynka | `home`, `book` | none |
+| Domek | `home`, `window` | `window` |
+| Cisza | `home`, `glass` | `glass` |
+| Betonowy dom | `home`, `shop` | none |
+
 Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
 
 ---

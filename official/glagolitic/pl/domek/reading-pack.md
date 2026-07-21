@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.
 
 ---
+**World:**
+- places: home
+- objects: window
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

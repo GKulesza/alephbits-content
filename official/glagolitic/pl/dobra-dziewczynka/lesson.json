@@ -102,5 +102,13 @@
   },
   "inspirationDates": [
     "2026-07-13"
-  ]
+  ],
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "home"
+    ]
+  }
 }

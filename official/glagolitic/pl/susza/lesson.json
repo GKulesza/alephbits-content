@@ -105,5 +105,13 @@
   ],
   "inspiredBy": {
     "youtube": "JsFiTY_Cnf0"
+  },
+  "world": {
+    "plants": [
+      "tree"
+    ],
+    "places": [
+      "forest"
+    ]
   }
 }
