@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- places: castle, town, shop
+- symbols: treasure
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -75,3 +75,12 @@ Usually **3–5** elements per book. Sparse is better than noisy. Empty `world` 
 ## Backfill
 
 See [PHASE_TBD_WORLD_CONTENT_BACKFILL.md](../docs/product/PHASE_TBD_WORLD_CONTENT_BACKFILL.md).
+
+## Review candidates
+
+Singletons or approximations parked for later editorial decision (do not expand casually):
+
+- `market_square` — merge into `market`?
+- `forge` — merge into `shop`?
+- `monk`, `ram`, `burrow` — story-niche; keep only if reuse appears
+- Deferred new ids: `shoe`, `camera`, `box`, `station`, `plane`

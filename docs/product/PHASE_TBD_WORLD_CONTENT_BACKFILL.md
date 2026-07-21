@@ -99,6 +99,46 @@ Maximize reuse; only three new ids (`bridge`, `window`, `glass`).
 **Singleton → multi-use this batch:** `key`, `stone`, `office`, `window`, `school`, `glass`, `shop`  
 **Approximate reuse notes:** café → `shop`; mug/cup/tea vessel → `glass`
 
+---
+
+## Batch 5 (2026-07-21) — zero growth, denser network
+
+**New concepts: 0.** Element slots: 22. Reuse ratio ∞.
+
+| Book | Elements |
+|------|----------|
+| Chór | `home`, `glass` |
+| Kamera na ulicy | `street`, `home` |
+| Pudełko po ciastkach | `home`, `town`, `window` |
+| Na dworcu | `town`, `street` |
+| Buty | `office`, `home` |
+| Gruby dzienniczek | `book`, `home`, `street` |
+| Złoto i zwykłe szczęście | `castle`, `town`, `shop`, `treasure` |
+| Próg | `home`, `clock`, `window`, `book` |
+
+### Editorial approximations (Batch 5)
+
+| Approximation | Reason |
+|---------------|--------|
+| train station → `town` + `street` | Station not in dictionary; journey world is civic streetscape |
+| cobbler workshop → `shop` | Workshop as place of trade |
+| gold duck / gold fortune → `treasure` | Symbol already present; promotes singleton |
+| shoes (title of *Buty*) deferred | Avoid new `shoe` singleton; story world is clinic/office |
+
+### Review candidates (accumulated)
+
+| Id | Notes |
+|----|-------|
+| `market_square` | Possibly merge into `market` or `town` |
+| `bridge` | Keep — reusable; await more river books |
+| `boat` | Keep — reusable |
+| `monk` | Story-legend specific; watch |
+| `forge` | Possibly merge into `shop` |
+| `library` | Keep — reusable |
+| `burrow` | Animal-home niche; watch |
+| `ram` | Legend-specific; watch vs `sheep` alias |
+| deferred: `shoe`, `camera`, `box`, `station`, `plane` | Rejected as new ids this phase |
+
 Dictionary: [world/dictionary.yaml](../../world/dictionary.yaml)
 
 ---

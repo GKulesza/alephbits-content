@@ -31,6 +31,9 @@
 
 ---
 
+**World:**
+- places: town, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

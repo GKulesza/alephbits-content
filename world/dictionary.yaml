@@ -28,6 +28,7 @@ entries:
     usedByBooks:
       - polish_demo_lesson
       - polish_legenda_o_smoku_wawelskim
+      - polish_zloto_i_zwykle_szczescie
 
   - id: cave
     category: places
@@ -71,19 +72,25 @@ entries:
     aliases: [house]
     usedByBooks:
       - polish_betonowy_dom
+      - polish_buty
+      - polish_chor
       - polish_cisza_dom
       - polish_cudaczek_wysmiewaczek
       - polish_dobra_dziewczynka
       - polish_domek
       - polish_dostrojony_dom
       - polish_franek_i_maly_karolek
+      - polish_gruby_dzienniczek
       - polish_jak_ugotowac_herbate
       - polish_jeszcze
       - polish_kakuter_i_chomik
+      - polish_kamera_na_ulicy
       - polish_kapusciana_tajemnica
       - polish_klucz_babci_rozi
       - polish_kubek
       - polish_niedzwiedz
+      - polish_prog
+      - polish_pudelko_po_ciastkach
       - polish_radio_w_glowie
 
   - id: library
@@ -115,8 +122,9 @@ entries:
   - id: office
     category: places
     status: proposed
-    aliases: []
+    aliases: [cabinet, clinic, embassy]
     usedByBooks:
+      - polish_buty
       - polish_czterech_w_lodce
       - polish_kamien_pamieci
 
@@ -142,31 +150,38 @@ entries:
   - id: shop
     category: places
     status: proposed
-    aliases: [store, cafe, café]
+    aliases: [store, cafe, café, workshop]
     usedByBooks:
       - polish_betonowy_dom
       - polish_ciche_serce_dzwonka
       - polish_w_kawiarni
+      - polish_zloto_i_zwykle_szczescie
 
   - id: street
     category: places
     status: proposed
-    aliases: [alley]
+    aliases: [alley, station_street]
     usedByBooks:
       - polish_ciche_serce_dzwonka
       - polish_czarny_mnich_z_nikiszowca
       - polish_franek_i_maly_karolek
+      - polish_gruby_dzienniczek
+      - polish_kamera_na_ulicy
+      - polish_na_dworcu
 
   - id: town
     category: places
     status: proposed
-    aliases: [small_town]
+    aliases: [small_town, city]
     usedByBooks:
       - polish_ciekawska_zosia_i_skarb_przyjazni
       - polish_cudaczek_wysmiewaczek
       - polish_klucz_babci_rozi
       - polish_koziolek_matolek_i_podroz_do_pacanowa
+      - polish_na_dworcu
+      - polish_pudelko_po_ciastkach
       - polish_w_kawiarni
+      - polish_zloto_i_zwykle_szczescie
 
   # --- objects ---
   - id: ball
@@ -194,9 +209,11 @@ entries:
     usedByBooks:
       - polish_dobra_dziewczynka
       - polish_franek_i_maly_karolek
+      - polish_gruby_dzienniczek
       - polish_jeszcze
       - polish_kubek
       - polish_ognioskoczek
+      - polish_prog
 
   - id: candy
     category: objects
@@ -208,7 +225,9 @@ entries:
     category: objects
     status: proposed
     aliases: []
-    usedByBooks: [polish_kapusciana_tajemnica]
+    usedByBooks:
+      - polish_kapusciana_tajemnica
+      - polish_prog
 
   - id: doll
     category: objects
@@ -221,6 +240,7 @@ entries:
     status: proposed
     aliases: [cup, mug, tumbler]
     usedByBooks:
+      - polish_chor
       - polish_cisza_dom
       - polish_jak_ugotowac_herbate
       - polish_kubek
@@ -261,6 +281,8 @@ entries:
     usedByBooks:
       - polish_domek
       - polish_dostrojony_dom
+      - polish_prog
+      - polish_pudelko_po_ciastkach
 
   # --- creatures ---
   - id: bear
@@ -351,5 +373,7 @@ entries:
   - id: treasure
     category: symbols
     status: proposed
-    aliases: []
-    usedByBooks: [polish_ciekawska_zosia_i_skarb_przyjazni]
+    aliases: [gold]
+    usedByBooks:
+      - polish_ciekawska_zosia_i_skarb_przyjazni
+      - polish_zloto_i_zwykle_szczescie

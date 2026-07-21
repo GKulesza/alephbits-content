@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja psychologiczna o budowaniu nawyków; inspiracja kulturą self-improvement.
 
 ---
+**World:**
+- objects: book
+- places: home, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  
