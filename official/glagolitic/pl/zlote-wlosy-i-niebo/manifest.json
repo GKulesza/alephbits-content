@@ -1,0 +1,29 @@
+{
+  "bookId": "zlote-wlosy-i-niebo",
+  "currentVersion": "1.0.0",
+  "title": "Złote włosy i niebo",
+  "defaultLanguage": "pl",
+  "supportedLanguages": [
+    "pl"
+  ],
+  "availableTranslations": {
+    "pl": {
+      "path": ".",
+      "version": "1.0.0",
+      "title": "Złote włosy i niebo"
+    }
+  },
+  "writingSystem": "glagolitic",
+  "genres": [
+    "biography",
+    "literary"
+  ],
+  "revisionHistory": [
+    {
+      "version": "1.0.0",
+      "date": "2026-07-26",
+      "note": "Collection Thirteen publish-ready pack after founder editorial pass."
+    }
+  ],
+  "dependencies": []
+}
