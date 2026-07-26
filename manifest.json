@@ -2,8 +2,8 @@
   "repositoryVersion": "1.0.0",
   "schemaVersion": "1",
   "minimumAppVersion": "0.5.0",
-  "generatedAt": "2026-07-13T00:00:00Z",
-  "officialPackCount": 125,
+  "generatedAt": "2026-07-26T00:00:00Z",
+  "officialPackCount": 126,
   "communityPackCount": 0,
   "experimentalPackCount": 0,
   "supportedLanguages": [
@@ -86,6 +86,11 @@
     {
       "id": "legends",
       "title": "Legends",
+      "description": ""
+    },
+    {
+      "id": "literary",
+      "title": "Literary",
       "description": ""
     },
     {
@@ -262,6 +267,7 @@
         "polish_zamowienie",
         "polish_zasady",
         "polish_zielona_poswiata",
+        "polish_zlote_wlosy_i_niebo",
         "polish_zloto_i_zwykle_szczescie",
         "polish_swieci_wojownicy",
         "polish_w_kawiarni",
@@ -394,6 +400,7 @@
         "polish_tajwan",
         "polish_zamowienie",
         "polish_zielona_poswiata",
+        "polish_zlote_wlosy_i_niebo",
         "polish_glosy_z_ziemi",
         "polish_groby",
         "polish_kamera_na_ulicy",
@@ -406,21 +413,21 @@
     }
   ],
   "libraryStatistics": {
-    "totalPacks": 125,
-    "totalWords": 165534,
-    "totalEstimatedReadingTimeMinutes": 894,
+    "totalPacks": 126,
+    "totalWords": 168620,
+    "totalEstimatedReadingTimeMinutes": 915,
     "languageCount": 1,
     "writingSystemCount": 1,
-    "categoryCount": 25,
+    "categoryCount": 26,
     "largestPack": {
       "id": "polish_nowy_pacjent",
       "bookId": "nowy-pacjent",
       "wordCount": 3979
     },
     "newestPack": {
-      "id": "polish_98_procent",
-      "bookId": "98-procent",
-      "updated": "2026-07-13"
+      "id": "polish_zlote_wlosy_i_niebo",
+      "bookId": "zlote-wlosy-i-niebo",
+      "updated": "2026-07-26"
     },
     "oldestPack": {
       "id": "polish_demo_lesson",
@@ -3166,6 +3173,28 @@
       "trustClassification": "fiction",
       "difficulty": 6,
       "estimatedReadingTime": 9,
+      "featured": true
+    },
+    {
+      "id": "polish_zlote_wlosy_i_niebo",
+      "bookId": "zlote-wlosy-i-niebo",
+      "path": "official/glagolitic/pl/zlote-wlosy-i-niebo",
+      "tier": "official",
+      "writingSystem": "glagolitic",
+      "language": "pl",
+      "title": "Złote włosy i niebo",
+      "version": "1.0.0",
+      "editionVersion": "1.0.0",
+      "categories": [
+        "biography",
+        "literary"
+      ],
+      "coverFamily": "biography",
+      "subtitle": "Opowieść o pilocie, który napisał najczulszą baśń świata",
+      "audience": "adult",
+      "trustClassification": "inspired_by_reality",
+      "difficulty": 6,
+      "estimatedReadingTime": 21,
       "featured": true
     },
     {
