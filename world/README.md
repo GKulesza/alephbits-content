@@ -78,7 +78,8 @@ See [PHASE_TBD_WORLD_CONTENT_BACKFILL.md](../docs/product/PHASE_TBD_WORLD_CONTEN
 Milestone: [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](../docs/product/WORLD_DICTIONARY_MILESTONE_REVIEW_01.md).  
 **Final report:** [WORLD_DICTIONARY_FINAL_REPORT.md](../docs/product/WORLD_DICTIONARY_FINAL_REPORT.md).
 
-**Coverage:** 125 / 125 packs (100%).
+**Coverage:** 125 / 125 packs (100%).  
+**QuietLibrary beta:** 25 backbone concepts marked `approved` (2026-07-22); remainder stay `proposed`.
 
 ## Review candidates
 

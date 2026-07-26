@@ -11,7 +11,7 @@ entries:
   # --- places ---
   - id: bridge
     category: places
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_wiatr_nad_rzeka
@@ -25,7 +25,7 @@ entries:
 
   - id: castle
     category: places
-    status: proposed
+    status: approved
     aliases: [palace]
     usedByBooks:
       - polish_demo_lesson
@@ -43,7 +43,7 @@ entries:
 
   - id: forest
     category: places
-    status: proposed
+    status: approved
     aliases: [woods]
     usedByBooks:
       - polish_cukierek_z_magicznego_drzewa
@@ -57,7 +57,7 @@ entries:
 
   - id: garden
     category: places
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_franek_i_maly_karolek
@@ -72,7 +72,7 @@ entries:
 
   - id: home
     category: places
-    status: proposed
+    status: approved
     aliases: [house]
     usedByBooks:
       - polish_98_procent
@@ -167,7 +167,7 @@ entries:
 
   - id: library
     category: places
-    status: proposed
+    status: approved
     aliases: [bookshelf]
     usedByBooks:
       - polish_brudne_pieniadze_czysta_nauka
@@ -179,7 +179,7 @@ entries:
 
   - id: market
     category: places
-    status: proposed
+    status: approved
     aliases: [marketplace, bazaar, market_square, square, plaza]
     usedByBooks:
       - polish_demo_lesson
@@ -188,7 +188,7 @@ entries:
 
   - id: mountain
     category: places
-    status: proposed
+    status: approved
     aliases: [mountains, peak]
     usedByBooks:
       - polish_cena_widoku
@@ -197,7 +197,7 @@ entries:
 
   - id: office
     category: places
-    status: proposed
+    status: approved
     aliases: [cabinet, clinic, embassy, hospital]
     usedByBooks:
       - polish_blitzkrieg
@@ -231,7 +231,7 @@ entries:
 
   - id: river
     category: places
-    status: proposed
+    status: approved
     aliases: [vistula, ocean]
     usedByBooks:
       - polish_cudaczek_wysmiewaczek
@@ -245,7 +245,7 @@ entries:
 
   - id: school
     category: places
-    status: proposed
+    status: approved
     aliases: [schoolyard, preschool, classroom]
     usedByBooks:
       - polish_autorytet_na_przepraszam
@@ -269,7 +269,7 @@ entries:
 
   - id: shop
     category: places
-    status: proposed
+    status: approved
     aliases: [store, cafe, café, workshop, smithy, forge]
     usedByBooks:
       - polish_betonowy_dom
@@ -282,7 +282,7 @@ entries:
 
   - id: street
     category: places
-    status: proposed
+    status: approved
     aliases: [alley]
     usedByBooks:
       - polish_ciche_serce_dzwonka
@@ -305,7 +305,7 @@ entries:
 
   - id: town
     category: places
-    status: proposed
+    status: approved
     aliases: [small_town, city]
     usedByBooks:
       - polish_algorytm_szczescia
@@ -338,7 +338,7 @@ entries:
   # --- objects ---
   - id: ball
     category: objects
-    status: proposed
+    status: approved
     aliases: [playball]
     usedByBooks:
       - polish_drugie_kolo
@@ -353,7 +353,7 @@ entries:
 
   - id: boat
     category: objects
-    status: proposed
+    status: approved
     aliases: [rowboat]
     usedByBooks:
       - polish_czterech_w_lodce
@@ -361,7 +361,7 @@ entries:
 
   - id: book
     category: objects
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_98_procent
@@ -427,7 +427,7 @@ entries:
 
   - id: clock
     category: objects
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_czarna_skrzynka
@@ -444,7 +444,7 @@ entries:
 
   - id: glass
     category: objects
-    status: proposed
+    status: approved
     aliases: [cup, mug, tumbler]
     usedByBooks:
       - polish_algorytm_szczescia
@@ -479,7 +479,7 @@ entries:
 
   - id: key
     category: objects
-    status: proposed
+    status: approved
     aliases: [skeleton_key]
     usedByBooks:
       - polish_klucz_babci_rozi
@@ -487,7 +487,7 @@ entries:
 
   - id: stone
     category: objects
-    status: proposed
+    status: approved
     aliases: [pebble]
     usedByBooks:
       - polish_groby
@@ -497,7 +497,7 @@ entries:
 
   - id: window
     category: objects
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_cel_na_ten_rok_to_nic
@@ -543,7 +543,7 @@ entries:
 
   - id: dog
     category: creatures
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_pies_pankracy_i_sprawy_wazne
@@ -601,7 +601,7 @@ entries:
 
   - id: flower
     category: plants
-    status: proposed
+    status: approved
     aliases: []
     usedByBooks:
       - polish_klucz_babci_rozi
@@ -610,7 +610,7 @@ entries:
 
   - id: tree
     category: plants
-    status: proposed
+    status: approved
     aliases: [magical_tree, magic_tree]
     usedByBooks:
       - polish_cukierek_z_magicznego_drzewa
