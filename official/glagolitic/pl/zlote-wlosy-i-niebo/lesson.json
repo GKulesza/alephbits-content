@@ -120,5 +120,26 @@
   ],
   "inspiredBy": {
     "youtube": "dA95nIHACFM, lN8hHquERTg"
+  },
+  "world": {
+    "objects": [
+      "typewriter",
+      "lamp",
+      "chair",
+      "bracelet"
+    ],
+    "symbols": [
+      "rose",
+      "planet",
+      "fox",
+      "stars",
+      "silence"
+    ],
+    "places": [
+      "attic",
+      "desert",
+      "fort",
+      "ocean"
+    ]
   }
 }
