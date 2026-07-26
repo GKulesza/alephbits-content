@@ -3,8 +3,8 @@
 ## Metadata
 
 **Pack ID:** `polish_zlote_wlosy_i_niebo`  
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Złote włosy i niebo  
 **Subtitle:** Opowieść o pilocie, który napisał najczulszą baśń świata  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-26 | Collection Thirteen publish-ready pack after founder editorial pass |
+| 1.0.1 | 2026-07-26 | Include production vignette in sync/bundle pipeline |
 
 ### Editorial history
 
