@@ -105,5 +105,15 @@
   ],
   "inspiredBy": {
     "youtube": "SdQAa0A4XvA"
+  },
+  "world": {
+    "plants": [
+      "corn",
+      "flower"
+    ],
+    "places": [
+      "garden",
+      "burrow"
+    ]
   }
 }

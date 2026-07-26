@@ -105,5 +105,13 @@
   ],
   "inspiredBy": {
     "youtube": "4txWwCTJqYw"
+  },
+  "world": {
+    "places": [
+      "river",
+      "bridge",
+      "town",
+      "street"
+    ]
   }
 }

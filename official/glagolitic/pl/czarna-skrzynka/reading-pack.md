@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli.
 
 ---
+**World:**
+- objects: clock, window
+- places: home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

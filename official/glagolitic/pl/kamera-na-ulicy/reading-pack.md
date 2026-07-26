@@ -36,6 +36,9 @@
 **Editorial notes:** Adaptacja realnej sprawy kryminalnej; materiał wrażliwy, wymaga oznaczenia trust i ostrożnej promocji.
 
 ---
+**World:**
+- places: street, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

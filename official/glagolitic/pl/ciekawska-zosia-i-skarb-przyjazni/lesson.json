@@ -105,5 +105,16 @@
   ],
   "inspiredBy": {
     "youtube": "gGZ7a47-rW4"
+  },
+  "world": {
+    "objects": [
+      "doll"
+    ],
+    "symbols": [
+      "treasure"
+    ],
+    "places": [
+      "town"
+    ]
   }
 }

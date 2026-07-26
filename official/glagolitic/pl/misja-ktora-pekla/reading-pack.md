@@ -36,6 +36,10 @@
 **Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
 
 ---
+**World:**
+- objects: book
+- places: office, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

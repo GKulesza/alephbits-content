@@ -106,5 +106,13 @@
   ],
   "inspiredBy": {
     "youtube": "F7YtLJEj8Nk"
+  },
+  "world": {
+    "creatures": [
+      "bear"
+    ],
+    "places": [
+      "home"
+    ]
   }
 }

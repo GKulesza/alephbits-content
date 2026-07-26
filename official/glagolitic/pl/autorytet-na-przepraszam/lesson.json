@@ -105,5 +105,14 @@
   ],
   "inspiredBy": {
     "youtube": "ewtts_glfwg"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "home",
+      "school"
+    ]
   }
 }

@@ -36,6 +36,10 @@
 **Editorial notes:** Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.
 
 ---
+**World:**
+- places: home
+- objects: window
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

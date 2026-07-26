@@ -48,6 +48,10 @@
 
 ---
 
+**World:**
+- objects: book
+- places: office, school
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

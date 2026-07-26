@@ -105,5 +105,15 @@
   ],
   "inspiredBy": {
     "youtube": "8t62FJAeb_c"
+  },
+  "world": {
+    "objects": [
+      "jacket"
+    ],
+    "places": [
+      "town",
+      "street",
+      "home"
+    ]
   }
 }

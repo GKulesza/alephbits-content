@@ -36,6 +36,10 @@
 **Editorial notes:** Publicystyczna fikcja polityczna; wymaga ręcznej oceny odniesień do realnych wydarzeń i postaci.
 
 ---
+**World:**
+- objects: glass
+- places: office
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

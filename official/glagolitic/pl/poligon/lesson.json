@@ -105,5 +105,14 @@
   ],
   "inspiredBy": {
     "youtube": "roUXYWHyT4o"
+  },
+  "world": {
+    "objects": [
+      "stone"
+    ],
+    "places": [
+      "forest",
+      "town"
+    ]
   }
 }

@@ -105,5 +105,17 @@
   ],
   "inspiredBy": {
     "youtube": "B1Xtmu1jgaE"
+  },
+  "world": {
+    "objects": [
+      "window"
+    ],
+    "creatures": [
+      "dog"
+    ],
+    "places": [
+      "home",
+      "street"
+    ]
   }
 }

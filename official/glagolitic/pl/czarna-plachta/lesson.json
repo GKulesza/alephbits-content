@@ -102,5 +102,13 @@
   },
   "inspirationDates": [
     "2026-05-28"
-  ]
+  ],
+  "world": {
+    "objects": [
+      "window"
+    ],
+    "places": [
+      "home"
+    ]
+  }
 }

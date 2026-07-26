@@ -48,6 +48,10 @@
 
 ---
 
+**World:**
+- objects: book
+- places: home, town, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

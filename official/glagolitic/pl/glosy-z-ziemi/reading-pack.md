@@ -36,6 +36,10 @@
 **Editorial notes:** Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.
 
 ---
+**World:**
+- objects: book
+- places: office, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

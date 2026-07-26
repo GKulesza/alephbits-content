@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- objects: stone
+- places: forest, town
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

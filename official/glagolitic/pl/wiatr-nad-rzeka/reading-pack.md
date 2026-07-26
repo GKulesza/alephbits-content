@@ -38,6 +38,9 @@
 
 ---
 
+**World:**
+- places: river, bridge
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

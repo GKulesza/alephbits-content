@@ -105,5 +105,11 @@
   ],
   "inspiredBy": {
     "youtube": "VubCpPqFNPM"
+  },
+  "world": {
+    "places": [
+      "castle",
+      "river"
+    ]
   }
 }

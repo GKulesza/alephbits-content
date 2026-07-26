@@ -31,6 +31,10 @@
 
 ---
 
+**World:**
+- places: home
+- objects: glass
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

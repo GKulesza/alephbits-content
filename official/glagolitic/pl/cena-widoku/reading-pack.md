@@ -36,6 +36,10 @@
 **Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
 
 ---
+**World:**
+- objects: window
+- places: home, mountain
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -105,5 +105,12 @@
   ],
   "inspiredBy": {
     "youtube": "DYI8zmmdtdk"
+  },
+  "world": {
+    "places": [
+      "school",
+      "forest",
+      "garden"
+    ]
   }
 }

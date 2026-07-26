@@ -38,6 +38,10 @@
 
 ---
 
+**World:**
+- places: market, mountain
+- objects: jacket
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Contributors  

@@ -106,5 +106,14 @@
   ],
   "inspiredBy": {
     "youtube": "uSPpMgqoBXo"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "office",
+      "home"
+    ]
   }
 }

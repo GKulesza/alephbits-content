@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- objects: book, window
+- places: home, town
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

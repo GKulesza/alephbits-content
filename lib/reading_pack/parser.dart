@@ -1,5 +1,7 @@
 import 'package:path/path.dart' as p;
 
+import 'world_metadata.dart';
+
 class RevisionEntry {
   RevisionEntry({required this.version, required this.date, required this.note});
 
@@ -64,6 +66,7 @@ class ReadingPackDocument {
     required this.sources,
     required this.text,
     this.quiz,
+    this.world,
   });
 
   final String title;
@@ -73,6 +76,9 @@ class ReadingPackDocument {
   final List<SourceEntry> sources;
   final String text;
   final QuizSection? quiz;
+
+  /// Optional semantic world furniture — never required for compile.
+  final PackWorldMetadata? world;
 }
 
 class ReadingPackParseException implements Exception {
@@ -118,6 +124,7 @@ class ReadingPackParser {
     final sources = _parseSources(sections['Sources'] ?? '');
     final text = _parseTextSection(sections['Text'] ?? '');
     final quiz = _parseQuiz(sections['Quiz'] ?? '');
+    final world = PackWorldMetadata.parse(sections['Metadata'] ?? '');
 
     if (text.trim().isEmpty) {
       throw ReadingPackParseException('Text section must not be empty.');
@@ -139,6 +146,7 @@ class ReadingPackParser {
       sources: sources,
       text: text.trim(),
       quiz: quiz,
+      world: world,
     );
   }
 

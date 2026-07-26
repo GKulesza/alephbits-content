@@ -31,6 +31,10 @@
 
 ---
 
+**World:**
+- creatures: dragon, ram
+- places: castle, cave, river
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

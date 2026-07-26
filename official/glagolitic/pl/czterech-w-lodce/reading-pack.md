@@ -48,6 +48,10 @@
 
 ---
 
+**World:**
+- objects: boat
+- places: office
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

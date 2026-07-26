@@ -31,6 +31,9 @@
 
 ---
 
+**World:**
+- places: office, home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

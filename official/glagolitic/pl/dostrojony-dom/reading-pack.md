@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
 
 ---
+**World:**
+- places: home
+- objects: window
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

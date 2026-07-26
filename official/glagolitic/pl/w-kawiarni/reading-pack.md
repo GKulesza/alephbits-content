@@ -31,6 +31,10 @@
 
 ---
 
+**World:**
+- places: shop, town
+- objects: glass
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

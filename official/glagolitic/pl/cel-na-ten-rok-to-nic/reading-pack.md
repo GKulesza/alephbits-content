@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami.
 
 ---
+**World:**
+- objects: glass, window
+- places: home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

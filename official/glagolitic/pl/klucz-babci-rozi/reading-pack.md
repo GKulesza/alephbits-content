@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- objects: key
+- plants: flower
+- places: home, town
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

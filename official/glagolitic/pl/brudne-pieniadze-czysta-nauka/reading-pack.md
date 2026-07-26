@@ -36,6 +36,10 @@
 **Editorial notes:** Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych.
 
 ---
+**World:**
+- objects: book
+- places: office, library
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

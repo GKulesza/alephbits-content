@@ -48,6 +48,10 @@
 
 ---
 
+**World:**
+- objects: book
+- places: home
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

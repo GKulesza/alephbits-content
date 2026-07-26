@@ -36,6 +36,9 @@
 **Editorial notes:** Opowieść inspirowana lokalną legendą o przewożeniu piasku przez granicę.
 
 ---
+**World:**
+- places: river, bridge, town, street
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

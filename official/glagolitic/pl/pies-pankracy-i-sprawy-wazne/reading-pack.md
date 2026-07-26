@@ -49,6 +49,11 @@
 
 ---
 
+**World:**
+- creatures: dog
+- places: school
+- objects: ball
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

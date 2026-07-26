@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.
 
 ---
+**World:**
+- places: forest
+- plants: tree
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -36,6 +36,10 @@
 **Editorial notes:** Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli.
 
 ---
+**World:**
+- places: home
+- objects: glass, book
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

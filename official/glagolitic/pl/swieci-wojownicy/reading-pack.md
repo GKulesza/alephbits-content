@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- objects: book
+- places: home, castle
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

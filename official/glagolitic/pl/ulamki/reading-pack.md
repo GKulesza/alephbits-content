@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- places: home, school
+- objects: clock
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

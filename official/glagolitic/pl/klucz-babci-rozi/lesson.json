@@ -106,5 +106,17 @@
   ],
   "inspiredBy": {
     "youtube": "55rrx4XtY8g"
+  },
+  "world": {
+    "objects": [
+      "key"
+    ],
+    "plants": [
+      "flower"
+    ],
+    "places": [
+      "home",
+      "town"
+    ]
   }
 }

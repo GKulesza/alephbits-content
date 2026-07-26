@@ -106,5 +106,15 @@
   ],
   "inspiredBy": {
     "youtube": "NX29uqSdBI8"
+  },
+  "world": {
+    "objects": [
+      "clock",
+      "window",
+      "book"
+    ],
+    "places": [
+      "home"
+    ]
   }
 }

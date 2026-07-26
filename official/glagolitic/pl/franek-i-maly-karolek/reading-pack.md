@@ -49,6 +49,10 @@
 
 ---
 
+**World:**
+- places: street, market, garden, home
+- objects: book
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

@@ -105,5 +105,15 @@
   ],
   "inspiredBy": {
     "youtube": "WFOCPSWVVvE"
+  },
+  "world": {
+    "symbols": [
+      "treasure"
+    ],
+    "places": [
+      "castle",
+      "town",
+      "shop"
+    ]
   }
 }

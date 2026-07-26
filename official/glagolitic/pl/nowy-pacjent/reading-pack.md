@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- places: office, library
+- objects: book
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

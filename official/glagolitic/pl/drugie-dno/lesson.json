@@ -105,5 +105,14 @@
   ],
   "inspiredBy": {
     "youtube": "oCX5erg9_KE"
+  },
+  "world": {
+    "objects": [
+      "boat"
+    ],
+    "places": [
+      "home",
+      "river"
+    ]
   }
 }

@@ -40,6 +40,10 @@
 
 ---
 
+**World:**
+- places: gate, street
+- symbols: monk
+
 ## Editorial Transparency
 
 **Created by:** AlephBits Editorial  

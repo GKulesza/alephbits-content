@@ -102,5 +102,15 @@
   },
   "inspirationDates": [
     "2026-07-13"
-  ]
+  ],
+  "world": {
+    "objects": [
+      "book",
+      "stone"
+    ],
+    "places": [
+      "forest",
+      "library"
+    ]
+  }
 }
