@@ -1,11 +1,15 @@
 # Official Starter Shelf
 
-Collection v1 — twelve curated categories for the first public library release.
+Collection v1 planning anchors for the twelve curated library categories.
 
-Each subdirectory is a genre placeholder. Official packs will be added under the standard path convention:
+**Packs do not live here.** Official reading packs use:
 
-```
+```text
 official/<writing_system>/<language>/<slug>/
 ```
 
-Category folders here are planning anchors only; they do not contain packs directly.
+Category definitions, length bands, and quiz guidance live in the app docs:
+
+[COLLECTION_V1_FOUNDATION.md](https://github.com/alephbits/alephbits/blob/main/docs/content/COLLECTION_V1_FOUNDATION.md)
+
+Do not duplicate category briefs in this repository.

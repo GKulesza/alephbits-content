@@ -16,7 +16,7 @@ This repository holds **Reading Packs**: curated texts with metadata, licenses, 
 | `covers/` | Shared cover-family artwork |
 | `schemas/` | JSON Schema validation contracts |
 | `scripts/` | `validate_pack` and related validation |
-| `tools/` | Living CLIs (`compile_pack`, `build_manifest`) and historical import scripts |
+| `tools/` | Living CLIs (`compile_pack`, `build_manifest`, optional bulk ops) |
 | `docs/` | Repository docs — see [docs/README.md](docs/README.md) |
 
 ## Repository philosophy
