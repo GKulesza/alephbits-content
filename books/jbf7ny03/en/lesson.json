@@ -1,0 +1,120 @@
+{
+  "id": "jbf7ny03:en",
+  "bookId": "jbf7ny03",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_wiatr_nad_rzeka",
+  "legacySlug": "wiatr-nad-rzeka",
+  "title": "Wind Over the River",
+  "language": "en",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Anna pauses on the boulevard by the Vistula while the city rushes on without her. An older man speaks of a wind that remembers what the water carried — and an ordinary walk becomes a moment of stillness. A brief, quiet scene about returning to places that wait patiently.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 1,
+  "translation": "English literary translation of the Polish verification micro-fiction (pilot).",
+  "text": "**WIND OVER THE RIVER**\n\nAnna stood on the boulevard and felt the cool wind over the Vistula. The city hummed in the background, but here, by the water, everything seemed slower.\n\nAn older man in a navy jacket sat down beside her. For a moment they were silent. Then he said:\n\n— Today the wind remembers everything the water carried.\n\nAnna smiled.\n\n— And how do you know that?\n\n— Because I come back here every day — he answered. — And each time the wind brings something different.\n\nAnna looked at the river. The waves reflected the lantern light in short, quiet flashes. She thought that maybe this is what a moment looks like when it is worth stopping the rush.\n\nThe man stood up, nodded, and walked toward the bridge. Anna stayed a few more minutes, listening to the wind. When she finally started back, she already knew she would return tomorrow.\n\n**THE END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Where does the scene take place?",
+        "answers": [
+          "On the boulevard by the Vistula",
+          "In Kraków’s market square",
+          "In a forest",
+          "At a train station"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stands on the boulevard by the Vistula."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the older man say about the wind?",
+        "answers": [
+          "The wind remembers what the water carried",
+          "The wind is always cold",
+          "The wind stops the bridge",
+          "The wind never returns"
+        ],
+        "correctIndex": 0,
+        "explanation": "He says the wind remembers everything the water carried."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Anna decide at the end?",
+        "answers": [
+          "To come back tomorrow",
+          "Never to return",
+          "To go to the sea",
+          "To call a friend"
+        ],
+        "correctIndex": 0,
+        "explanation": "The last sentence says she will return tomorrow."
+      },
+      {
+        "type": "single_choice",
+        "question": "What is the heroine’s name?",
+        "answers": [
+          "Anna",
+          "Maria",
+          "Kasia",
+          "Ewa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stands on the boulevard."
+      },
+      {
+        "type": "single_choice",
+        "question": "By which river does Anna stand?",
+        "answers": [
+          "The Vistula",
+          "The Oder",
+          "The Warta",
+          "The San"
+        ],
+        "correctIndex": 0,
+        "explanation": "The scene unfolds by the Vistula."
+      }
+    ]
+  },
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "A short verification scene",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "places": [
+      "river",
+      "bridge"
+    ]
+  }
+}

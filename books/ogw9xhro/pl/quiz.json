@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Po co Marek przychodzi do kawiarni?",
+      "answers": [
+        "Żeby mieć chwilę innego życia",
+        "Żeby odebrać pensję",
+        "Żeby pracować za barem",
+        "Żeby kupić kawę na wynos dla syna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek szuka miejsca, w którym może udawać kogoś innego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek zamawia przy barze?",
+      "answers": [
+        "Cappuccino z mlekiem owsianym",
+        "Herbatę z cytryną",
+        "Podwójne espresso",
+        "Sernik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamawia duże cappuccino z mlekiem owsianym."
+    },
+    {
+      "type": "single_choice",
+      "question": "O kim Marek myśli, czekając w kawiarni?",
+      "answers": [
+        "O synu Kubie",
+        "O szefie z biura",
+        "O matce",
+        "O lekarzu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wspomina rozmowę, w której Kuba pyta, czy tata wróci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co baristka daje Marekowi przy drugiej wizycie?",
+      "answers": [
+        "Kawę na koszt firmy",
+        "Rachunek do zapłaty",
+        "Wizytówkę z pracy",
+        "Sernik gratis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wraca z kubkiem i mówi: „Na koszt firmy”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek robi z wizytówką fundacji?",
+      "answers": [
+        "Dzwoni i pyta, jak zacząć od nowa",
+        "Wyrzuca ją w kosz",
+        "Oddaje baristce",
+        "Wysyła SMS do byłej żony"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na końcu dzwoni i pyta o fundację."
+    }
+  ]
+}

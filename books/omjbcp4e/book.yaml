@@ -1,0 +1,7 @@
+book_id: "omjbcp4e"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_igla_z_widly"
+legacy_slug: "igla-z-widly"

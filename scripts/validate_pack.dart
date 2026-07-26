@@ -4,6 +4,8 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:alephbits_content/content/audience_vocabulary.dart';
+import 'package:alephbits_content/content/book_visual_assets.dart';
 import 'package:alephbits_content/manifest/builder.dart';
 import 'package:alephbits_content/manifest/manifest_runner.dart';
 import 'package:alephbits_content/reading_pack/compile_runner.dart';
@@ -23,7 +25,9 @@ void main(List<String> args) {
   final errors = <String>[];
   _validateManifestDrift(repo, errors);
   _validateRepositoryManifest(repo, errors);
+  _validateBookYamlOwnership(repo, errors);
   _validateAllPacks(repo, errors);
+  _validateStudies(repo, errors);
   _validateCoverAudit(repo, errors);
 
   if (errors.isEmpty) {
@@ -128,13 +132,18 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
     packIds.add(id);
 
     if (bookId is String && bookId.isNotEmpty) {
-      final existing = bookIdOwners[bookId];
+      final language = entry['language'];
+      final localeKey = language is String && language.isNotEmpty
+          ? '$bookId:${language.split(RegExp(r'[-_]')).first.toLowerCase()}'
+          : bookId;
+      final existing = bookIdOwners[localeKey];
       if (existing != null) {
         errors.add(
-          'manifest.json: duplicate bookId "$bookId" (packs "$existing" and "$id")',
+          'manifest.json: duplicate edition for bookId "$bookId" '
+          'locale "${language ?? '?'}" (packs "$existing" and "$id")',
         );
       } else {
-        bookIdOwners[bookId] = id;
+        bookIdOwners[localeKey] = id;
       }
     }
 
@@ -218,9 +227,11 @@ void _validateAllPacks(Directory repo, List<String> errors) {
     if (!seenBookPaths.add(relativePath)) {
       errors.add('Duplicate pack directory: $relativePath');
     }
-    final slug = relativePath.split('/').last;
-    if (!seenSlugs.add(slug)) {
-      errors.add('Duplicate pack slug "$slug"');
+    if (!relativePath.startsWith('books/')) {
+      final slug = relativePath.split('/').last;
+      if (!seenSlugs.add(slug)) {
+        errors.add('Duplicate pack slug "$slug"');
+      }
     }
     _validatePackDirectory(
       repo,
@@ -230,6 +241,112 @@ void _validateAllPacks(Directory repo, List<String> errors) {
       manifestPackIds,
       errors,
     );
+  }
+}
+
+/// book.yaml may only hold book-level identity — not edition editorial fields.
+void _validateBookYamlOwnership(Directory repo, List<String> errors) {
+  final booksRoot = Directory('${repo.path}/books');
+  if (!booksRoot.existsSync()) return;
+
+  const forbidden = {'editorial_metadata', 'license', 'author'};
+  const required = {'book_id', 'status', 'default_locale'};
+
+  for (final bookDir in booksRoot.listSync().whereType<Directory>()) {
+    final yamlFile = File('${bookDir.path}/book.yaml');
+    final relative = _relativePath(repo.path, yamlFile.path);
+    if (!yamlFile.existsSync()) {
+      errors.add('$relative: missing required book.yaml');
+      continue;
+    }
+
+    final keys = <String>{};
+    for (final rawLine in yamlFile.readAsLinesSync()) {
+      final line = rawLine.trimRight();
+      if (line.isEmpty || line.trimLeft().startsWith('#')) continue;
+      if (RegExp(r'^\s').hasMatch(line)) continue;
+      final match = RegExp(r'^([A-Za-z0-9_]+)\s*:').firstMatch(line);
+      if (match != null) {
+        keys.add(match.group(1)!);
+      }
+    }
+
+    for (final key in required) {
+      if (!keys.contains(key)) {
+        errors.add('$relative: missing required field "$key"');
+      }
+    }
+    for (final key in forbidden) {
+      if (keys.contains(key)) {
+        errors.add(
+          '$relative: "$key" is not owned by book.yaml '
+          '(see docs/EDITORIAL_OWNERSHIP.md — use reading-pack.md)',
+        );
+      }
+    }
+  }
+}
+
+/// Studies own their questionnaire; packs own reader quiz separately.
+void _validateStudies(Directory repo, List<String> errors) {
+  final studiesRoot = Directory('${repo.path}/studies');
+  if (!studiesRoot.existsSync()) return;
+
+  final bookIds = <String>{};
+  final booksRoot = Directory('${repo.path}/books');
+  if (booksRoot.existsSync()) {
+    for (final bookDir in booksRoot.listSync().whereType<Directory>()) {
+      final name = bookDir.path.split(Platform.pathSeparator).last;
+      if (name.isNotEmpty) bookIds.add(name);
+    }
+  }
+
+  for (final studyDir in studiesRoot.listSync().whereType<Directory>()) {
+    final studyFile = File('${studyDir.path}/study.yaml');
+    final relative = _relativePath(repo.path, studyFile.path);
+    if (!studyFile.existsSync()) {
+      // studies/manifest.json sibling dirs only
+      if (File('${studyDir.path}/manifest.json').existsSync()) continue;
+      continue;
+    }
+
+    final lines = studyFile.readAsLinesSync();
+    String? bookRef;
+    String? questionsFile;
+    for (final raw in lines) {
+      final line = raw.trim();
+      if (line.startsWith('book:')) {
+        bookRef = line.substring(5).trim().replaceAll('"', '').replaceAll("'", '');
+      }
+      if (line.startsWith('questions:')) {
+        questionsFile =
+            line.substring(10).trim().replaceAll('"', '').replaceAll("'", '');
+      }
+    }
+
+    if (bookRef == null || bookRef.isEmpty) {
+      errors.add('$relative: missing book: (must be permanent book_id)');
+    } else if (bookIds.isNotEmpty && !bookIds.contains(bookRef)) {
+      errors.add('$relative: book "$bookRef" does not match books/<book_id>/');
+    }
+
+    if (questionsFile == null || questionsFile.isEmpty) {
+      errors.add('$relative: missing questions: file');
+    } else {
+      final qPath = File('${studyDir.path}/$questionsFile');
+      if (!qPath.existsSync()) {
+        errors.add('$relative: questions file "$questionsFile" not found');
+      }
+    }
+
+    // Study must not treat pack quiz.json as SoT.
+    final packQuiz = File('${studyDir.path}/quiz.json');
+    if (packQuiz.existsSync()) {
+      errors.add(
+        '$relative: quiz.json is not allowed under studies/ '
+        '(use questions.*.json — see docs/EDITORIAL_OWNERSHIP.md)',
+      );
+    }
   }
 }
 
@@ -253,7 +370,6 @@ void _validateCoverAudit(Directory repo, List<String> errors) {
 
   final defaultFamily = catalog['defaultFamily'];
   final families = catalog['families'];
-  final customCovers = catalog['customCovers'];
   if (defaultFamily is! String || defaultFamily.isEmpty) {
     errors.add('covers/catalog.json missing non-empty "defaultFamily"');
     return;
@@ -297,32 +413,25 @@ void _validateCoverAudit(Directory repo, List<String> errors) {
     return;
   }
 
-  final customCoverMap =
-      customCovers is Map<String, dynamic> ? customCovers : const <String, dynamic>{};
-
   for (final entry in packs.whereType<Map<String, dynamic>>()) {
     final id = entry['id'];
     final path = entry['path'];
     if (id is! String || path is! String) continue;
 
+    if (BookVisualAssets.hasCover('${repo.path}/$path')) {
+      continue;
+    }
+
     final lessonFile = File('${repo.path}/$path/lesson.json');
     final lesson = _readJsonObject(lessonFile, errors, '$path/lesson.json');
     if (lesson == null) continue;
 
-    final explicitCover = _nonEmptyString(entry['cover']) ?? _nonEmptyString(lesson['cover']);
     final explicitCoverFamily =
         _nonEmptyString(entry['coverFamily']) ?? _nonEmptyString(lesson['coverFamily']);
     final categories =
         (entry['categories'] is List)
             ? (entry['categories'] as List).whereType<String>().where((s) => s.isNotEmpty).toList()
             : const <String>[];
-
-    if (explicitCover != null) {
-      if (!customCoverMap.containsKey(explicitCover)) {
-        errors.add('pack "$id" references missing custom cover "$explicitCover"');
-      }
-      continue;
-    }
 
     if (explicitCoverFamily != null) {
       if (!families.containsKey(explicitCoverFamily)) {
@@ -337,7 +446,8 @@ void _validateCoverAudit(Directory repo, List<String> errors) {
     );
     if (matchingCategoryFamily.isEmpty) {
       errors.add(
-        'pack "$id" would fall back to default cover because no category or coverFamily matches a cover family',
+        'pack "$id" has no cover.webp and no stock coverFamily/category match '
+        '(add books/<id>/default/cover.webp or a catalog family hint)',
       );
     }
   }
@@ -384,19 +494,63 @@ void _validatePackDirectory(
   }
 
   final readingPackFile = File('${packDir.path}/reading-pack.md');
+  final underBooks = relativePath.startsWith('books/');
+  if (underBooks && !readingPackFile.existsSync()) {
+    errors.add(
+      '$prefix missing reading-pack.md '
+      '(editorial SoT required under books/ — see docs/EDITORIAL_OWNERSHIP.md)',
+    );
+  }
   if (readingPackFile.existsSync()) {
     final compileResult = compileAndCheckDirectory(packDir.path);
     if (compileResult.parseError != null) {
       errors.add('$prefix reading-pack.md parse error: ${compileResult.parseError}');
     } else if (compileResult.hasDrift) {
       for (final drift in compileResult.drift) {
-        errors.add('$prefix compile drift in ${drift.file}: ${drift.message}');
+        errors.add(
+          '$prefix generated artifact "${drift.file}" is not read-only / drifted: '
+          '${drift.message} (edit reading-pack.md, then recompile)',
+        );
       }
     }
+  } else if (quizFile.existsSync()) {
+    errors.add(
+      '$prefix quiz.json present without reading-pack.md '
+      '(quiz.json is generated-only — see docs/EDITORIAL_OWNERSHIP.md)',
+    );
   }
 
   final lesson = _readJsonObject(lessonFile, errors, '$relativePath/lesson.json');
   if (lesson == null) return;
+
+  if (readingPackFile.existsSync()) {
+    _requireGeneratedMarker(lesson, errors, '$prefix lesson.json');
+    if (quizFile.existsSync()) {
+      final quiz = _readJsonObject(quizFile, errors, '$relativePath/quiz.json');
+      if (quiz != null) {
+        _requireGeneratedMarker(quiz, errors, '$prefix quiz.json');
+      }
+    }
+    if (provenanceFile.existsSync()) {
+      final provenance = _readJsonObject(
+        provenanceFile,
+        errors,
+        '$relativePath/provenance.json',
+      );
+      if (provenance != null) {
+        _requireGeneratedMarker(provenance, errors, '$prefix provenance.json');
+      }
+    }
+    final licenseText = licenseFile.existsSync()
+        ? licenseFile.readAsStringSync()
+        : '';
+    if (!licenseText.contains('GENERATED by compile_pack')) {
+      errors.add(
+        '$prefix license.md missing generated marker '
+        '(recompile from reading-pack.md)',
+      );
+    }
+  }
 
   final id = lesson['id'];
   final title = lesson['title'];
@@ -427,6 +581,17 @@ void _validatePackDirectory(
   final difficulty = lesson['difficulty'];
   if (difficulty is int && (difficulty < 1 || difficulty > 8)) {
     errors.add('$prefix difficulty must be between 1 and 8');
+  }
+
+  final audience = lesson['audience'];
+  if (audience is! String || audience.trim().isEmpty) {
+    errors.add('$prefix lesson.json missing non-empty "audience"');
+  } else if (!AudienceVocabulary.accepted.contains(audience.trim())) {
+    errors.add(
+      '$prefix audience "$audience" is not a Content Model v2 audience id '
+      '(allowed: ${AudienceVocabulary.canonical.join(', ')}; '
+      'legacy aliases still accepted: ${AudienceVocabulary.legacyAliases.join(', ')})',
+    );
   }
 
   final editionVersion = lesson['editionVersion'];
@@ -699,4 +864,18 @@ String? _nonEmptyString(Object? value) {
   if (value is! String) return null;
   final trimmed = value.trim();
   return trimmed.isEmpty ? null : trimmed;
+}
+
+void _requireGeneratedMarker(
+  Map<String, dynamic> json,
+  List<String> errors,
+  String label,
+) {
+  if (json['generatedBy'] != 'compile_pack' ||
+      json['generatedFrom'] != 'reading-pack.md') {
+    errors.add(
+      '$label missing generatedBy/generatedFrom markers '
+      '(artifact is read-only — recompile from reading-pack.md)',
+    );
+  }
 }

@@ -1,0 +1,7 @@
+book_id: "mi8x76rk"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_pudelko_po_ciastkach"
+legacy_slug: "pudelko-po-ciastkach"

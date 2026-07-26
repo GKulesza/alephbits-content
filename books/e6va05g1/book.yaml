@@ -1,0 +1,7 @@
+book_id: "e6va05g1"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_klucz_do_deszczowej_krainy"
+legacy_slug: "klucz-do-deszczowej-krainy"

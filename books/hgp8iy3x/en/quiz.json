@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where did the author stop by the well?",
+      "answers": [
+        "In the Small Market Square",
+        "At Wawel",
+        "In the Planty",
+        "By the Vistula"
+      ],
+      "correctIndex": 0,
+      "explanation": "The author writes about the Small Market Square."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did the author buy at the café?",
+      "answers": [
+        "A roll",
+        "Coffee",
+        "Water",
+        "A cake"
+      ],
+      "correctIndex": 0,
+      "explanation": "He bought a roll and ate it slowly."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the author see on the hill?",
+      "answers": [
+        "Wawel",
+        "The Planty",
+        "A museum",
+        "A bridge"
+      ],
+      "correctIndex": 0,
+      "explanation": "On the hill he saw Wawel."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the author hear on the way to the Planty?",
+      "answers": [
+        "Street musicians on violins",
+        "Church bells",
+        "A tram siren",
+        "The waves of the Vistula"
+      ],
+      "correctIndex": 0,
+      "explanation": "He heard musicians playing an old melody."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does the author draw at the end?",
+      "answers": [
+        "Reading about a familiar place helps you remember signs",
+        "It is best to learn only in a museum",
+        "Kraków has no history",
+        "Street musicians get in the way of learning"
+      ],
+      "correctIndex": 0,
+      "explanation": "The last paragraph summarises the benefit of reading about a familiar place."
+    }
+  ]
+}

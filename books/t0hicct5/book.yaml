@@ -1,0 +1,7 @@
+book_id: "t0hicct5"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_siedem_gor_i_jeden_ocean"
+legacy_slug: "siedem-gor-i-jeden-ocean"

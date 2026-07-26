@@ -1,0 +1,120 @@
+{
+  "id": "jbf7ny03:isv_cyrl",
+  "bookId": "jbf7ny03",
+  "locale": "isv_cyrl",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_wiatr_nad_rzeka",
+  "legacySlug": "wiatr-nad-rzeka",
+  "title": "Вєтр над рєкоју",
+  "language": "isv_cyrl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Анна стаје на булвару над Вислоју, доколє мєсто бєжи даље без њеј. Стары муж говори о вєтру, кторы памęта то, что носила вода — и обычна прошетка стаје се часом застановања. Кратка, спокојна сцена о поврату до мєст, кторе чекајут с трєпєњами.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 1,
+  "translation": "Литерарны прєвод до меџусловјанского (латиница) пољској микропрозы за контролу (пилот).",
+  "text": "**ВЄТР НАД РЄКОЈУ**\n\nАнна стала на булвару и почула хлад вєтра над Вислоју. Мєсто шумєло в позадју, але тут, при водє, все казало се медленнєјше.\n\nОбок њеј сєл стары пан в темно-сињеј курткє. Чрез час они молчали. Потом он рекл:\n\n— Вєтр днес памęта все, что носила вода.\n\nАнна усмєхнула се.\n\n— А откųды вы то знајуете?\n\n— Бо ја кажды дењ врацају се туды — одговорил. — И кажды раз вєтр несе нєчто инако.\n\nАнна погледєла на рєку. Валы одразали свєтло лантернов как кратке, тихе блєски. Она помыслила, же можебыт именно так изгледа час, в ктором варто јест перестати бєгати.\n\nПан встал, климнул главју и одшел в сторону моста. Анна остала јешче нєколико минут, слухајучи вєтр. Когда она напослєдок пошла назад, она уже знала, же вратит се јутро.\n\n**КОНЕЦ**",
+  "quiz": {
+    "title": "Провєри разумєње",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Кде одеиграје се сцена?",
+        "answers": [
+          "На булвару над Вислоју",
+          "На рынку в Краковє",
+          "В лєсу",
+          "На дворцу"
+        ],
+        "correctIndex": 0,
+        "explanation": "Анна стоји на булвару над Вислоју."
+      },
+      {
+        "type": "single_choice",
+        "question": "Что говори стары пан о вєтру?",
+        "answers": [
+          "Вєтр памęта то, что носила вода",
+          "Вєтр всегда јест хладны",
+          "Вєтр затримује мост",
+          "Вєтр не врацаје се"
+        ],
+        "correctIndex": 0,
+        "explanation": "Пан говори, же вєтр памęта все, что носила вода."
+      },
+      {
+        "type": "single_choice",
+        "question": "Что Анна рєшаје на концу?",
+        "answers": [
+          "Вратиити се јутро",
+          "Никогда не врацати се",
+          "Појехати к морју",
+          "Позвонити пријатељу"
+        ],
+        "correctIndex": 0,
+        "explanation": "Послєдње речење говори, же она вратит се јутро."
+      },
+      {
+        "type": "single_choice",
+        "question": "Как называје се хероина?",
+        "answers": [
+          "Анна",
+          "Мариа",
+          "Касиа",
+          "Еwа"
+        ],
+        "correctIndex": 0,
+        "explanation": "Анна стоји на булвару."
+      },
+      {
+        "type": "single_choice",
+        "question": "Над којоју рєкоју стоји Анна?",
+        "answers": [
+          "Вислоју",
+          "Одроју",
+          "Вартоју",
+          "Саном"
+        ],
+        "correctIndex": 0,
+        "explanation": "Сцена одеиграје се над Вислоју."
+      }
+    ]
+  },
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "Кратка контролна сцена",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "places": [
+      "river",
+      "bridge"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "packId": "t0hicct5:pl",
+  "bookId": "t0hicct5",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "kppDpA5xukU"
+    }
+  ],
+  "revisionNotes": "Collection One migration (Phase 39). Trust: Inspired by reality."
+}

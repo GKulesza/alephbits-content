@@ -1,0 +1,122 @@
+{
+  "id": "hgp8iy3x:en",
+  "bookId": "hgp8iy3x",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_demo_lesson",
+  "legacySlug": "spacer-po-krakowie",
+  "title": "A Walk Through Kraków",
+  "language": "en",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-06",
+  "description": "A walk through a familiar city can sound simple — until you read it in a new script. The Main Square, the Planty, the Vistula and Wawel become a story about a place you remember and a language you are learning again. A reading lesson for those who like a text that leads them step by step.",
+  "author": {
+    "name": "AlephBits Contributors"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "demo",
+    "polish",
+    "beginner",
+    "krakow",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 2,
+  "translation": "English literary translation of the Polish Kraków demo walk (pilot).",
+  "text": "Early in the morning I went out into the street and felt the city’s fresh air. The sun was only just rising over the rooftops of the tenement houses, and the Main Square was still quiet and empty.\n\nI walked past the Cloth Hall and touched the cool stones of the wall. I thought of the hundreds of years of history that had seen the same cobbled streets and the same church bells.\n\nIn the Small Market Square I stopped by the well. The water in it was dark and calm like a mirror. Birds sang in the crowns of the trees, and I listened to their voices and rested for a moment.\n\nThen I turned into a side street and saw a small café. The smell of fresh coffee mixed with the aroma of baked bread. I bought a roll and ate it slowly, watching the passers-by.\n\nOn the way to the Planty I heard street musicians. They were playing an old melody on violins that I knew from childhood. People stopped, smiled, and dropped small coins into an open suitcase.\n\nBeyond the city walls I walked toward the Vistula. The river flowed calmly, carrying reflections of clouds and bridges. Boats were moored at the embankment, and the wind stirred the flags on the masts.\n\nOn the hill I saw Wawel. The white walls of the castle shone in the sun, and ravens circled above the towers. I felt proud that I could live so close to such an important place.\n\nI went back down to the centre and entered a museum. In the rooms hung paintings of the city’s earlier life. Each painting told a different story about the people who had lived here.\n\nIn the evening I returned to the Main Square. Lanterns lit up one after another, and the tenement houses took on a golden glow. The city pulsed with life, and I felt part of that great story.\n\nThat day I learned that reading about a familiar place helps you remember new signs. Every word becomes a bridge between the language I know and the script I am learning.",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Where did the author stop by the well?",
+        "answers": [
+          "In the Small Market Square",
+          "At Wawel",
+          "In the Planty",
+          "By the Vistula"
+        ],
+        "correctIndex": 0,
+        "explanation": "The author writes about the Small Market Square."
+      },
+      {
+        "type": "single_choice",
+        "question": "What did the author buy at the café?",
+        "answers": [
+          "A roll",
+          "Coffee",
+          "Water",
+          "A cake"
+        ],
+        "correctIndex": 0,
+        "explanation": "He bought a roll and ate it slowly."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the author see on the hill?",
+        "answers": [
+          "Wawel",
+          "The Planty",
+          "A museum",
+          "A bridge"
+        ],
+        "correctIndex": 0,
+        "explanation": "On the hill he saw Wawel."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the author hear on the way to the Planty?",
+        "answers": [
+          "Street musicians on violins",
+          "Church bells",
+          "A tram siren",
+          "The waves of the Vistula"
+        ],
+        "correctIndex": 0,
+        "explanation": "He heard musicians playing an old melody."
+      },
+      {
+        "type": "single_choice",
+        "question": "What conclusion does the author draw at the end?",
+        "answers": [
+          "Reading about a familiar place helps you remember signs",
+          "It is best to learn only in a museum",
+          "Kraków has no history",
+          "Street musicians get in the way of learning"
+        ],
+        "correctIndex": 0,
+        "explanation": "The last paragraph summarises the benefit of reading about a familiar place."
+      }
+    ]
+  },
+  "coverFamily": "travel",
+  "audience": "adult",
+  "subtitle": "First lesson — a walk through Kraków",
+  "trustClassification": "demo",
+  "editorialHistory": {
+    "firstPublished": "2026-07-06",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-06"
+  ],
+  "world": {
+    "places": [
+      "market",
+      "castle",
+      "river"
+    ]
+  }
+}

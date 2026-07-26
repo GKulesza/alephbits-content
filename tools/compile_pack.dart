@@ -3,6 +3,7 @@
 
 import 'dart:io';
 
+import 'package:alephbits_content/content/book_visual_assets.dart';
 import 'package:alephbits_content/reading_pack/compile_runner.dart';
 import 'package:path/path.dart' as p;
 
@@ -74,9 +75,30 @@ void main(List<String> args) {
     } else {
       print('✓ $relative already up to date (use --overwrite to force)');
     }
+    _printVisualAssets(relative, packPath);
   }
 
   exit(exitCode);
+}
+
+void _printVisualAssets(String relative, String packPath) {
+  final cover = BookVisualAssets.resolveExisting(
+    packPath,
+    BookVisualAssets.coverFileName,
+  );
+  final vignette = BookVisualAssets.resolveExisting(
+    packPath,
+    BookVisualAssets.vignetteFileName,
+  );
+  if (cover == null && vignette == null) {
+    return;
+  }
+  if (cover != null) {
+    print('  · cover: ${p.relative(cover, from: Directory.current.path)}');
+  }
+  if (vignette != null) {
+    print('  · vignette: ${p.relative(vignette, from: Directory.current.path)}');
+  }
 }
 
 class _Options {

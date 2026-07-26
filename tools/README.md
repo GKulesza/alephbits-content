@@ -10,7 +10,7 @@ Living maintenance CLIs only. Spent phase importers were removed; recover from g
 | `../scripts/validate_pack.dart` | Full repository validation |
 
 ```bash
-dart run tools/compile_pack.dart --overwrite official/glagolitic/pl/<slug>
+dart run tools/compile_pack.dart --overwrite books/<book_id>/<locale>
 dart run tools/build_manifest.dart --overwrite
 dart run scripts/validate_pack.dart
 ```

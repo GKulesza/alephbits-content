@@ -1,0 +1,7 @@
+book_id: "zrenun5z"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cel_na_ten_rok_to_nic"
+legacy_slug: "cel-na-ten-rok-to-nic"

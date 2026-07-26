@@ -1,0 +1,7 @@
+book_id: "hgp8iy3x"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_demo_lesson"
+legacy_slug: "spacer-po-krakowie"

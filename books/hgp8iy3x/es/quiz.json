@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Dónde se detuvo el autor junto al pozo?",
+      "answers": [
+        "En la Plaza Pequeña",
+        "En Wawel",
+        "En los Planty",
+        "Junto al Vístula"
+      ],
+      "correctIndex": 0,
+      "explanation": "El autor escribe sobre la Plaza Pequeña."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué compró el autor en el café?",
+      "answers": [
+        "Un panecillo",
+        "Café",
+        "Agua",
+        "Un pastel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compró un panecillo y lo comió despacio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve el autor en la colina?",
+      "answers": [
+        "Wawel",
+        "Los Planty",
+        "Un museo",
+        "Un puente"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la colina vio Wawel."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué oye el autor de camino a los Planty?",
+      "answers": [
+        "Músicos callejeros con violines",
+        "Campanas de iglesia",
+        "La sirena de un tranvía",
+        "Las olas del Vístula"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oyó a músicos tocando una vieja melodía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión saca el autor al final?",
+      "answers": [
+        "Leer sobre un lugar conocido ayuda a recordar signos nuevos",
+        "Lo mejor es aprender solo en un museo",
+        "Cracovia no tiene historia",
+        "Los músicos callejeros estorban el aprendizaje"
+      ],
+      "correctIndex": 0,
+      "explanation": "El último párrafo resume el beneficio de leer sobre un lugar conocido."
+    }
+  ]
+}

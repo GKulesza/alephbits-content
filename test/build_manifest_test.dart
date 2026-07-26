@@ -41,7 +41,7 @@ void main() {
       final manifest = ManifestBuilder().build(repoRoot);
       final packs = (manifest['packs'] as List).whereType<Map<String, dynamic>>();
       final cenaWidoku = packs.firstWhere(
-        (pack) => pack['id'] == 'polish_cena_widoku',
+        (pack) => pack['id'] == 'dhjk1eyy:pl' || pack['bookId'] == 'dhjk1eyy',
       );
 
       expect(cenaWidoku['coverFamily'], 'article');

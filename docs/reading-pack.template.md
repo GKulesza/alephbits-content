@@ -12,7 +12,7 @@
 
 **Genres:** {category_id}  
 **Series:** *(none)*  
-**Audience:** {e.g. beginner adults}  
+**Audience:** {children | family_reading | teens | adults | everyone}
 
 **Difficulty:** {1–10}  
 **Reader difficulty:** {★☆☆☆☆ to ★★★★★}  

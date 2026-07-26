@@ -1,4 +1,8 @@
+import 'dart:io';
+
 import 'package:path/path.dart' as p;
+
+import 'package:alephbits_content/content/edition_identity.dart';
 
 import 'editorial_provenance.dart';
 import 'json_writer.dart';
@@ -38,8 +42,8 @@ class ReadingPackCompiler {
     final bookId = _bookId(doc, packDirPath);
     final text = _normalizeText(doc.text);
     final quiz = _buildQuiz(doc.quiz);
-    final lesson = _buildLesson(doc, text, quiz);
-    final provenance = _buildProvenance(doc, tier, bookId);
+    final lesson = _buildLesson(doc, text, quiz, packDirPath: packDirPath);
+    final provenance = _buildProvenance(doc, tier, bookId, packDirPath: packDirPath);
     final license = _buildLicense(doc);
 
     return CompiledArtifacts(
@@ -52,6 +56,10 @@ class ReadingPackCompiler {
   }
 
   String _detectTier(String packDirPath) {
+    final fromBookYaml = _bookYamlField(packDirPath, 'status');
+    if (fromBookYaml != null && fromBookYaml.isNotEmpty) {
+      return fromBookYaml;
+    }
     final normalized = p.normalize(packDirPath);
     final parts = p.split(normalized);
     for (final tier in ['official', 'community', 'experimental']) {
@@ -65,7 +73,38 @@ class ReadingPackCompiler {
     if (fromMetadata != null && fromMetadata.isNotEmpty) {
       return fromMetadata;
     }
+    final fromLayout = _bookIdFromBooksLayout(packDirPath);
+    if (fromLayout != null && fromLayout.isNotEmpty) {
+      return fromLayout;
+    }
     return p.basename(packDirPath);
+  }
+
+  String? _bookIdFromBooksLayout(String packDirPath) {
+    final parts = p.split(p.normalize(packDirPath));
+    final booksIndex = parts.lastIndexOf('books');
+    if (booksIndex != -1 && booksIndex + 2 < parts.length) {
+      return parts[booksIndex + 1];
+    }
+    return null;
+  }
+
+  String? _bookYamlField(String packDirPath, String field) {
+    final parts = p.split(p.normalize(packDirPath));
+    final booksIndex = parts.lastIndexOf('books');
+    if (booksIndex == -1 || booksIndex + 1 >= parts.length) {
+      return null;
+    }
+    final bookDir = p.joinAll(parts.take(booksIndex + 2));
+    final file = File(p.join(bookDir, 'book.yaml'));
+    if (!file.existsSync()) return null;
+    for (final rawLine in file.readAsLinesSync()) {
+      final line = rawLine.trim();
+      if (line.startsWith('$field:')) {
+        return line.substring(field.length + 1).trim().replaceAll('"', '').replaceAll("'", '');
+      }
+    }
+    return null;
   }
 
   String _normalizeText(String text) {
@@ -81,6 +120,7 @@ class ReadingPackCompiler {
     ReadingPackDocument doc,
     String text,
     Map<String, dynamic> quiz,
+    {required String packDirPath,}
   ) {
     final metadata = doc.metadata;
     final transparency = doc.transparency;
@@ -100,11 +140,22 @@ class ReadingPackCompiler {
 
     final editorialHistory = _buildEditorialHistory(doc);
     final editorialProvenance = buildEditorialProvenance(doc);
+    final bookId = _bookId(doc, packDirPath);
+    final language = metadata['Original language'] ?? '';
+    final locale = _locale(packDirPath, language);
+    final editionId = editionIdFor(bookId: bookId, locale: locale);
 
     final lesson = <String, dynamic>{
-      'id': metadata['Pack ID'] ?? '',
+      'id': editionId,
+      'bookId': bookId,
+      'locale': locale,
+      'generatedBy': 'compile_pack',
+      'generatedFrom': 'reading-pack.md',
+      if (_nonEmpty(metadata['Legacy Pack ID']) case final legacyPackId?)
+        'legacyPackId': legacyPackId,
+      if (_legacySlug(packDirPath) case final legacySlug?) 'legacySlug': legacySlug,
       'title': metadata['Title'] ?? doc.title,
-      'language': metadata['Original language'] ?? '',
+      'language': language,
       'version': metadata['Version'] ?? '1.0.0',
       'editionVersion': editionVersion,
       'updated': _earliestRevisionDate(doc.revisions),
@@ -153,13 +204,28 @@ class ReadingPackCompiler {
     return lesson;
   }
 
+  String? _legacySlug(String packDirPath) {
+    final metadataSlug = _bookYamlField(packDirPath, 'legacy_slug');
+    if (metadataSlug != null && metadataSlug.isNotEmpty) {
+      return metadataSlug;
+    }
+    return null;
+  }
+
   Map<String, dynamic> _buildQuiz(QuizSection? quiz) {
     if (quiz == null || quiz.questions.isEmpty) {
-      return {'title': '', 'questions': <Map<String, dynamic>>[]};
+      return {
+        'title': '',
+        'generatedBy': 'compile_pack',
+        'generatedFrom': 'reading-pack.md',
+        'questions': <Map<String, dynamic>>[],
+      };
     }
 
     return {
       'title': quiz.title ?? '',
+      'generatedBy': 'compile_pack',
+      'generatedFrom': 'reading-pack.md',
       'questions': quiz.questions.map((q) {
         return {
           'type': 'single_choice',
@@ -173,18 +239,34 @@ class ReadingPackCompiler {
     };
   }
 
+  String _locale(String packDirPath, String language) {
+    final fromLanguage = primaryLocale(language);
+    if (fromLanguage.isNotEmpty) return fromLanguage;
+    final parts = p.split(p.normalize(packDirPath));
+    final booksIndex = parts.lastIndexOf('books');
+    if (booksIndex != -1 && booksIndex + 2 < parts.length) {
+      return primaryLocale(parts[booksIndex + 2]);
+    }
+    return primaryLocale(p.basename(packDirPath));
+  }
+
   Map<String, dynamic> _buildProvenance(
     ReadingPackDocument doc,
     String tier,
-    String bookId,
-  ) {
+    String bookId, {
+    required String packDirPath,
+  }) {
     final metadata = doc.metadata;
     final transparency = doc.transparency;
     final editorialProvenance = buildEditorialProvenance(doc);
+    final language = metadata['Original language'] ?? '';
+    final locale = _locale(packDirPath, language);
 
     return {
-      'packId': metadata['Pack ID'] ?? '',
+      'packId': editionIdFor(bookId: bookId, locale: locale),
       'bookId': bookId,
+      'generatedBy': 'compile_pack',
+      'generatedFrom': 'reading-pack.md',
       'editorialStatus': tier,
       'createdAt': _earliestRevisionDate(doc.revisions),
       'lastReviewedAt': _parseHumanReviewDate(
@@ -209,7 +291,8 @@ class ReadingPackCompiler {
         ? ' (public domain dedication)'
         : '';
 
-    return '''# License
+    return '''<!-- GENERATED by compile_pack from reading-pack.md — do not edit -->
+# License
 
 **$title** is released under **${license.name}**$dedication.
 

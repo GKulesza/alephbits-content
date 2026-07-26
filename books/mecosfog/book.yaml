@@ -1,0 +1,7 @@
+book_id: "mecosfog"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_bogini_i_liczby"
+legacy_slug: "bogini-i-liczby"

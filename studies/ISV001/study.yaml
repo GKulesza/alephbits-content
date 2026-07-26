@@ -3,7 +3,7 @@ title: Przerwa — Reading Comprehension Pilot
 description: "First AlephBits scientific pilot. Participants read the Polish literary text Przerwa and answer a short comprehension questionnaire. The study validates end-to-end scientific data collection (anonymous participation, local export, provenance) ahead of larger Interslavic and specialized-text trials."
 consent: "You are invited to take part in a voluntary reading comprehension pilot. Participation is anonymous. AlephBits does not collect your name, email, phone number, or account. On this device you receive a random Participant ID (format SP-XXXX-XXXX) reused only for study exports from this installation. During the study the app records reading time, verified reading time, reading speed (WPM when available), quiz answers, and time spent on each question. Results stay on your device until you choose Export Results. Export creates a JSON file that you may share with the investigators; nothing is uploaded automatically. You may stop at any time by leaving the study screens—there is no penalty. By tapping Start Study you confirm that you have read this information and agree to participate."
 participant_information: "What you will do: (1) review this study overview, (2) read the short story Przerwa in the AlephBits reader, (3) answer six multiple-choice comprehension questions, (4) optionally export an anonymous results file. Estimated time: about 15–20 minutes. Interface languages for this package: Polish (primary questionnaire) and English (overview strings where available). You need no prior AlephBits training. If you feel uncomfortable, stop and do not export. Protocol reference: EXP-001."
-book: polish_przerwa
+book: omqigct2
 estimated_duration: 18
 difficulty: 3
 interface_language: pl

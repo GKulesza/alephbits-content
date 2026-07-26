@@ -9,26 +9,30 @@
 
 ## Purpose
 
-`compile_pack` transforms **`reading-pack.md`** (human source) into the JSON and Markdown files the app and validator consume today.
+`compile_pack` transforms **`reading-pack.md`** (the only editorial source for an edition) into generated runtime artifacts. See [EDITORIAL_OWNERSHIP.md](EDITORIAL_OWNERSHIP.md).
+
+`quiz.json` is **generated**, never hand-edited.
+
+Book visual assets (`cover.webp`, `vignette.webp`) are **not** compiled — they are authored under `default/` (locale may override) and discovered by the app. See [MIGRATION_NOTES_V2_ASSETS.md](MIGRATION_NOTES_V2_ASSETS.md).
 
 ---
 
 ## Pipeline
 
 ```
-reading-pack.md
+reading-pack.md (+ book.yaml identity/status)
       │
       ▼
  compile_pack.dart
       │
-      ├── lesson.json      (metadata + inline text + quiz — v1 app)
-      ├── text.txt         (extracted prose)
-      ├── quiz.json        (extracted quiz)
-      ├── license.md       (from Editorial Transparency)
-      ├── provenance.json  (from Transparency + Sources)
+      ├── lesson.json      GENERATED (runtime monolith)
+      ├── text.txt         GENERATED
+      ├── quiz.json        GENERATED
+      ├── license.md       GENERATED
+      ├── provenance.json  GENERATED
       │
       ▼
- validate_pack.dart
+ validate_pack.dart   (fails if generated files drift)
 ```
 
 Repository root `manifest.json` is updated separately by `build_manifest.dart`.
@@ -38,8 +42,8 @@ Repository root `manifest.json` is updated separately by `build_manifest.dart`.
 ## CLI (implemented)
 
 ```bash
-# Compile one pack
-dart run tools/compile_pack.dart official/glagolitic/pl/spacer-po-krakowie/
+# Compile one locale edition
+dart run tools/compile_pack.dart books/hgp8iy3x/pl/
 
 # Flags: --check, --overwrite, --dry-run, --all
 ```

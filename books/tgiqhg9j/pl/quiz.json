@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaki problem mają Magda i Grzesiek?",
+      "answers": [
+        "Unikają szczerej rozmowy o potrzebach",
+        "Magda nie lubi jazzu",
+        "Grzesiek nie kupuje mleka",
+        "Magda nie chce się przytulać"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oboje reagują urazą zamiast mówić wprost."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda zrozumiała na spotkaniu Kapci?",
+      "answers": [
+        "Udawała zainteresowania Grześkowi",
+        "Powinna częściej kupować mleko",
+        "Grzesiek jest idealny",
+        "Jazz jest lepszy od popu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przypomniała sobie udawanie zainteresowania spacerami i jazzem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się opowiadanie?",
+      "answers": [
+        "Zaczynają mówić wprost o potrzebach",
+        "Rozstają się",
+        "Grzesiek wyjeżdża",
+        "Magda wraca do udawania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epilog opisuje szczerą komunikację."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Grzesiek zaczyna robić po zmianie?",
+      "answers": [
+        "Zapisuje prośby Magdy",
+        "Sprzedaje jazzowe płyty",
+        "Przeprowadza się",
+        "Przestaje słuchać muzyki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzesiek zapisuje prośby, by ich nie zapomnieć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Magda udawała zainteresowanie jazzem?",
+      "answers": [
+        "Bała się odrzucenia",
+        "Uwielbiała ten gatunek",
+        "Grzesiek tego wymagał",
+        "Chciała zostać muzykiem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Udawała z lęku przed odrzuceniem."
+    }
+  ]
+}

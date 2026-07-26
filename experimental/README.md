@@ -1,5 +1,12 @@
 # Experimental Packs
 
-Drafts, prototypes, and research packs. Not featured by default.
+Draft and prototype packs use Content Model v2 under `books/<book_id>/` with:
 
-Use `experimental/<slug>/` for early work. Promote to `community/` or `official/` after full review.
+```yaml
+# books/<book_id>/book.yaml
+status: experimental
+```
+
+Do not create packs under `experimental/<slug>/` — that Collection v1 path is retired.
+
+Promotion to `community` or `official` is a `book.yaml` `status:` change plus full review.

@@ -78,7 +78,7 @@ Removed packs are marked `deprecated: true` in the manifest for one release cycl
 
 ## Design constraints carried forward
 
-1. **Stable paths** — `official/glagolitic/pl/spacer-po-krakowie/` never renames; new editions bump `version`.
+1. **Stable edition paths** — `books/<book_id>/<locale>/` never renames; new editions bump `version`. Legacy Collection v1 paths (`official/<ws>/<lang>/<slug>/`) are retired.
 2. **Split files** — `text.txt` and `quiz.json` enable small diffs and partial updates.
 3. **Book manifest** — separates book identity from language variants.
 4. **Flat pack index** — repository manifest enables O(n) diff without walking directories.

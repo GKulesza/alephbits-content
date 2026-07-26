@@ -9,10 +9,7 @@ void main() {
   final repoRoot = p.normalize(p.join(Directory.current.path));
 
   test('compiles YouTube inspiration as video IDs only', () {
-    final pack = p.join(
-      repoRoot,
-      'official/glagolitic/pl/jak-ugotowac-herbate',
-    );
+    final pack = p.join(repoRoot, 'books/y088o5or/pl');
     final compiled = compilePackDirectory(pack);
     final lesson = jsonDecode(compiled.lessonJson) as Map<String, dynamic>;
 

@@ -1,0 +1,119 @@
+{
+  "id": "jbf7ny03:pl",
+  "bookId": "jbf7ny03",
+  "locale": "pl",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_wiatr_nad_rzeka",
+  "legacySlug": "wiatr-nad-rzeka",
+  "title": "Wiatr nad rzeką",
+  "language": "pl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Anna zatrzymuje się na bulwarze nad Wisłą, gdy miasto pędzi dalej bez niej. Starszy mężczyzna mówi o wietrze, który pamięta to, co niosła woda — i nagle zwykły spacer staje się chwilą zatrzymania. Krótka, spokojna scena o powrocie do miejsc, które czekają cierpliwie.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 1,
+  "translation": "Micro-fiction for remote publishing verification.",
+  "text": "**WIATR NAD RZEKĄ**\n\nAnna stanęła na bulwarze i poczuła chłód wiatru nad Wisłą. Miasto szumiało w tle, ale tutaj, przy wodzie, wszystko wydawało się wolniejsze.\n\nObok niej usiadł starszy pan w granatowej kurtce. Przez chwilę milczeli. Potem powiedział:\n\n— Wiatr dziś pamięta wszystko, co niosła woda.\n\nAnna uśmiechnęła się.\n\n— A pan skąd to wie?\n\n— Bo codziennie tu wracam — odparł. — I za każdym razem wiatr niesie coś innego.\n\nAnna spojrzała na rzekę. Fale odbijały światło latarni jak krótkie, ciche błyski. Pomyślała, że może właśnie tak wygląda chwila, w której warto przestać biec.\n\nPan wstał, skinął głową i odszedł w stronę mostu. Anna została jeszcze kilka minut, słuchając wiatru. Gdy w końcu ruszyła w drogę powrotną, wiedziała już, że wróci tu jutro.\n\n**KONIEC**",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gdzie rozgrywa się scena?",
+        "answers": [
+          "Na bulwarze nad Wisłą",
+          "Na rynku w Krakowie",
+          "W lesie",
+          "Na dworcu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stoi na bulwarze nad Wisłą."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co mówi starszy pan o wietrze?",
+        "answers": [
+          "Wiatr pamięta to, co niosła woda",
+          "Wiatr jest zawsze zimny",
+          "Wiatr zatrzymuje most",
+          "Wiatr nie wraca"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pan mówi, że wiatr pamięta wszystko, co niosła woda."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Anna postanawia na końcu?",
+        "answers": [
+          "Wrócić jutro",
+          "Nigdy tu nie wracać",
+          "Pojechać nad morze",
+          "Zadzwonić do przyjaciela"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ostatnie zdanie mówi, że wróci jutro."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jak ma na imię bohaterka?",
+        "answers": [
+          "Anna",
+          "Maria",
+          "Kasia",
+          "Ewa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stoi na bulwarze."
+      },
+      {
+        "type": "single_choice",
+        "question": "Nad jaką rzeką stoi Anna?",
+        "answers": [
+          "Wisłą",
+          "Odrą",
+          "Wartą",
+          "Sanem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Scena toczy się nad Wisłą."
+      }
+    ]
+  },
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "Krótka scena weryfikacyjna",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "places": [
+      "river",
+      "bridge"
+    ]
+  }
+}

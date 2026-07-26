@@ -1,0 +1,122 @@
+{
+  "id": "hgp8iy3x:es",
+  "bookId": "hgp8iy3x",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_demo_lesson",
+  "legacySlug": "spacer-po-krakowie",
+  "title": "Un paseo por Cracovia",
+  "language": "es",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-06",
+  "description": "Un paseo por una ciudad conocida puede sonar sencillo — hasta que lo lees en una escritura nueva. La Plaza Mayor, los Planty, el Vístula y Wawel se convierten en una historia sobre un lugar que recuerdas y un idioma que aprendes de nuevo. Una lección de lectura para quienes disfrutan cuando el texto guía paso a paso.",
+  "author": {
+    "name": "AlephBits Contributors"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "demo",
+    "polish",
+    "beginner",
+    "krakow",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 2,
+  "translation": "Traducción literaria al español del paseo polaco por Cracovia (piloto).",
+  "text": "Muy temprano salí a la calle y sentí el aire fresco de la ciudad. El sol apenas comenzaba a elevarse sobre los tejados de las casas, y la Plaza Mayor aún estaba tranquila y vacía.\n\nPasé junto a la Lonja de los Paños y toqué las frías piedras del muro. Pensé en los cientos de años de historia que habían visto las mismas calles empedradas y las mismas campanas de las iglesias.\n\nEn la Plaza Pequeña me detuve junto al pozo. El agua estaba oscura y tranquila como un espejo. Los pájaros cantaban en las copas de los árboles, y yo escuchaba sus voces y descansaba un momento.\n\nLuego giré hacia una calle lateral y vi un pequeño café. El aroma del café recién hecho se mezclaba con el del pan horneado. Compré un panecillo y lo comí despacio, observando a los transeúntes.\n\nDe camino a los Planty oí a unos músicos callejeros. Tocaban en violines una vieja melodía que conocía desde la infancia. La gente se detenía, sonreía y echaba monedas en una maleta abierta.\n\nTras las murallas de la ciudad caminé hacia el Vístula. El río fluía con calma, llevando reflejos de nubes y puentes. Los barcos estaban amarrados en el embarcadero, y el viento movía las banderas en los mástiles.\n\nEn la colina vi Wawel. Los muros blancos del castillo brillaban al sol, y los cuervos volaban en círculos sobre las torres. Sentí orgullo de poder vivir tan cerca de un lugar tan importante.\n\nBajé de nuevo al centro y entré en un museo. En las salas colgaban cuadros que representaban la vida antigua de la ciudad. Cada cuadro contaba una historia diferente sobre las personas que habían vivido allí.\n\nAl anochecer regresé a la Plaza Mayor. Las farolas se encendían una tras otra, y las fachadas de las casas adquirían un brillo dorado. La ciudad vibraba de vida, y yo me sentía parte de esa gran historia.\n\nEse día aprendí que leer sobre un lugar conocido ayuda a recordar signos nuevos. Cada palabra se convierte en un puente entre el idioma que conozco y la escritura que estoy aprendiendo.",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿Dónde se detuvo el autor junto al pozo?",
+        "answers": [
+          "En la Plaza Pequeña",
+          "En Wawel",
+          "En los Planty",
+          "Junto al Vístula"
+        ],
+        "correctIndex": 0,
+        "explanation": "El autor escribe sobre la Plaza Pequeña."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué compró el autor en el café?",
+        "answers": [
+          "Un panecillo",
+          "Café",
+          "Agua",
+          "Un pastel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Compró un panecillo y lo comió despacio."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué ve el autor en la colina?",
+        "answers": [
+          "Wawel",
+          "Los Planty",
+          "Un museo",
+          "Un puente"
+        ],
+        "correctIndex": 0,
+        "explanation": "En la colina vio Wawel."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué oye el autor de camino a los Planty?",
+        "answers": [
+          "Músicos callejeros con violines",
+          "Campanas de iglesia",
+          "La sirena de un tranvía",
+          "Las olas del Vístula"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oyó a músicos tocando una vieja melodía."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué conclusión saca el autor al final?",
+        "answers": [
+          "Leer sobre un lugar conocido ayuda a recordar signos nuevos",
+          "Lo mejor es aprender solo en un museo",
+          "Cracovia no tiene historia",
+          "Los músicos callejeros estorban el aprendizaje"
+        ],
+        "correctIndex": 0,
+        "explanation": "El último párrafo resume el beneficio de leer sobre un lugar conocido."
+      }
+    ]
+  },
+  "coverFamily": "travel",
+  "audience": "adult",
+  "subtitle": "Primera lección — un paseo por Cracovia",
+  "trustClassification": "demo",
+  "editorialHistory": {
+    "firstPublished": "2026-07-06",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-06"
+  ],
+  "world": {
+    "places": [
+      "market",
+      "castle",
+      "river"
+    ]
+  }
+}

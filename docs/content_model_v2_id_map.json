@@ -1,0 +1,1142 @@
+{
+  "version": 2,
+  "seed": 42,
+  "books": [
+    {
+      "book_id": "hbrpoig8",
+      "legacy_pack_id": "polish_98_procent",
+      "slug": "98-procent",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/98-procent",
+      "to": "books/hbrpoig8"
+    },
+    {
+      "book_id": "f1cbfno6",
+      "legacy_pack_id": "polish_algorytm_szczescia",
+      "slug": "algorytm-szczescia",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/algorytm-szczescia",
+      "to": "books/f1cbfno6"
+    },
+    {
+      "book_id": "b9m80o2r",
+      "legacy_pack_id": "polish_autorytet_na_przepraszam",
+      "slug": "autorytet-na-przepraszam",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/autorytet-na-przepraszam",
+      "to": "books/b9m80o2r"
+    },
+    {
+      "book_id": "ak1vrjnv",
+      "legacy_pack_id": "polish_betonowy_dom",
+      "slug": "betonowy-dom",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/betonowy-dom",
+      "to": "books/ak1vrjnv"
+    },
+    {
+      "book_id": "gfygwwqc",
+      "legacy_pack_id": "polish_blitzkrieg",
+      "slug": "blitzkrieg",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/blitzkrieg",
+      "to": "books/gfygwwqc"
+    },
+    {
+      "book_id": "mecosfog",
+      "legacy_pack_id": "polish_bogini_i_liczby",
+      "slug": "bogini-i-liczby",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/bogini-i-liczby",
+      "to": "books/mecosfog"
+    },
+    {
+      "book_id": "yr3xkxwn",
+      "legacy_pack_id": "polish_boliewicz",
+      "slug": "boliewicz",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/boliewicz",
+      "to": "books/yr3xkxwn"
+    },
+    {
+      "book_id": "rek8pk3y",
+      "legacy_pack_id": "polish_brudne_pieniadze_czysta_nauka",
+      "slug": "brudne-pieniadze-czysta-nauka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/brudne-pieniadze-czysta-nauka",
+      "to": "books/rek8pk3y"
+    },
+    {
+      "book_id": "r9oudocu",
+      "legacy_pack_id": "polish_buty",
+      "slug": "buty",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/buty",
+      "to": "books/r9oudocu"
+    },
+    {
+      "book_id": "zrenun5z",
+      "legacy_pack_id": "polish_cel_na_ten_rok_to_nic",
+      "slug": "cel-na-ten-rok-to-nic",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cel-na-ten-rok-to-nic",
+      "to": "books/zrenun5z"
+    },
+    {
+      "book_id": "dhjk1eyy",
+      "legacy_pack_id": "polish_cena_widoku",
+      "slug": "cena-widoku",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cena-widoku",
+      "to": "books/dhjk1eyy"
+    },
+    {
+      "book_id": "vhs1k3aq",
+      "legacy_pack_id": "polish_chor",
+      "slug": "chor",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/chor",
+      "to": "books/vhs1k3aq"
+    },
+    {
+      "book_id": "xk87au5b",
+      "legacy_pack_id": "polish_ciche_serce_dzwonka",
+      "slug": "ciche-serce-dzwonka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ciche-serce-dzwonka",
+      "to": "books/xk87au5b"
+    },
+    {
+      "book_id": "hxtpdpff",
+      "legacy_pack_id": "polish_ciekawska_zosia_i_skarb_przyjazni",
+      "slug": "ciekawska-zosia-i-skarb-przyjazni",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ciekawska-zosia-i-skarb-przyjazni",
+      "to": "books/hxtpdpff"
+    },
+    {
+      "book_id": "q71n8mtz",
+      "legacy_pack_id": "polish_cien_skrzydel_nad_oceanem",
+      "slug": "cien-skrzydel-nad-oceanem",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cien-skrzydel-nad-oceanem",
+      "to": "books/q71n8mtz"
+    },
+    {
+      "book_id": "x272hpoe",
+      "legacy_pack_id": "polish_cisza_dom",
+      "slug": "cisza-dom",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cisza-dom",
+      "to": "books/x272hpoe"
+    },
+    {
+      "book_id": "vb9ooaed",
+      "legacy_pack_id": "polish_cisza_przed_burza",
+      "slug": "cisza-przed-burza",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cisza-przed-burza",
+      "to": "books/vb9ooaed"
+    },
+    {
+      "book_id": "oecve6pr",
+      "legacy_pack_id": "polish_cudaczek_wysmiewaczek",
+      "slug": "cudaczek-wysmiewaczek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cudaczek-wysmiewaczek",
+      "to": "books/oecve6pr"
+    },
+    {
+      "book_id": "mgg1w103",
+      "legacy_pack_id": "polish_cukierek_z_magicznego_drzewa",
+      "slug": "cukierek-z-magicznego-drzewa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/cukierek-z-magicznego-drzewa",
+      "to": "books/mgg1w103"
+    },
+    {
+      "book_id": "dgdzvgpm",
+      "legacy_pack_id": "polish_czarna_plachta",
+      "slug": "czarna-plachta",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czarna-plachta",
+      "to": "books/dgdzvgpm"
+    },
+    {
+      "book_id": "m82i1lr3",
+      "legacy_pack_id": "polish_czarna_skrzynka",
+      "slug": "czarna-skrzynka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czarna-skrzynka",
+      "to": "books/m82i1lr3"
+    },
+    {
+      "book_id": "pe29gd8a",
+      "legacy_pack_id": "polish_czarny_kodeks",
+      "slug": "czarny-kodeks",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czarny-kodeks",
+      "to": "books/pe29gd8a"
+    },
+    {
+      "book_id": "fpk054nz",
+      "legacy_pack_id": "polish_czarny_mnich_z_nikiszowca",
+      "slug": "czarny-mnich-z-nikiszowca",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czarny-mnich-z-nikiszowca",
+      "to": "books/fpk054nz"
+    },
+    {
+      "book_id": "dkyayq3s",
+      "legacy_pack_id": "polish_czarny_rynek_tokenow",
+      "slug": "czarny-rynek-tokenow",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czarny-rynek-tokenow",
+      "to": "books/dkyayq3s"
+    },
+    {
+      "book_id": "kd6fleep",
+      "legacy_pack_id": "polish_czterech_w_lodce",
+      "slug": "czterech-w-lodce",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/czterech-w-lodce",
+      "to": "books/kd6fleep"
+    },
+    {
+      "book_id": "zhpcf07u",
+      "legacy_pack_id": "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+      "slug": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+      "to": "books/zhpcf07u"
+    },
+    {
+      "book_id": "qnupqzit",
+      "legacy_pack_id": "polish_dlaczego_niebo_jest_niebieskie",
+      "slug": "dlaczego-niebo-jest-niebieskie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dlaczego-niebo-jest-niebieskie",
+      "to": "books/qnupqzit"
+    },
+    {
+      "book_id": "n6qiwepx",
+      "legacy_pack_id": "polish_dobra_dziewczynka",
+      "slug": "dobra-dziewczynka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dobra-dziewczynka",
+      "to": "books/n6qiwepx"
+    },
+    {
+      "book_id": "sk28t7a9",
+      "legacy_pack_id": "polish_domek",
+      "slug": "domek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/domek",
+      "to": "books/sk28t7a9"
+    },
+    {
+      "book_id": "tgiqhg9j",
+      "legacy_pack_id": "polish_domysl_sie",
+      "slug": "domysl-sie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/domysl-sie",
+      "to": "books/tgiqhg9j"
+    },
+    {
+      "book_id": "rsnvnq65",
+      "legacy_pack_id": "polish_dostrojony_dom",
+      "slug": "dostrojony-dom",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dostrojony-dom",
+      "to": "books/rsnvnq65"
+    },
+    {
+      "book_id": "qdf1rcav",
+      "legacy_pack_id": "polish_drugie_dno",
+      "slug": "drugie-dno",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/drugie-dno",
+      "to": "books/qdf1rcav"
+    },
+    {
+      "book_id": "iqk2919a",
+      "legacy_pack_id": "polish_drugie_kolo",
+      "slug": "drugie-kolo",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/drugie-kolo",
+      "to": "books/iqk2919a"
+    },
+    {
+      "book_id": "hej8cx9j",
+      "legacy_pack_id": "polish_dylemat_szatniarza",
+      "slug": "dylemat-szatniarza",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dylemat-szatniarza",
+      "to": "books/hej8cx9j"
+    },
+    {
+      "book_id": "pgw90jpk",
+      "legacy_pack_id": "polish_dzien_z_reszty_zycia",
+      "slug": "dzien-z-reszty-zycia",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dzien-z-reszty-zycia",
+      "to": "books/pgw90jpk"
+    },
+    {
+      "book_id": "l0blv0pr",
+      "legacy_pack_id": "polish_dziewczyna_ktora_zniknela_o_swicie",
+      "slug": "dziewczyna-ktora-zniknela-o-swicie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dziewczyna-ktora-zniknela-o-swicie",
+      "to": "books/l0blv0pr"
+    },
+    {
+      "book_id": "kgyc4om3",
+      "legacy_pack_id": "polish_dziewczyna_z_jelania",
+      "slug": "dziewczyna-z-jelania",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/dziewczyna-z-jelania",
+      "to": "books/kgyc4om3"
+    },
+    {
+      "book_id": "wtoobmzv",
+      "legacy_pack_id": "polish_etykieta",
+      "slug": "etykieta",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/etykieta",
+      "to": "books/wtoobmzv"
+    },
+    {
+      "book_id": "rerw6z8v",
+      "legacy_pack_id": "polish_franek_i_maly_karolek",
+      "slug": "franek-i-maly-karolek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/franek-i-maly-karolek",
+      "to": "books/rerw6z8v"
+    },
+    {
+      "book_id": "bhqlqcg1",
+      "legacy_pack_id": "polish_froteryzm_intelektualny",
+      "slug": "froteryzm-intelektualny",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/froteryzm-intelektualny",
+      "to": "books/bhqlqcg1"
+    },
+    {
+      "book_id": "wu16hymq",
+      "legacy_pack_id": "polish_garnek_na_glowie",
+      "slug": "garnek-na-glowie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/garnek-na-glowie",
+      "to": "books/wu16hymq"
+    },
+    {
+      "book_id": "c1a78mx1",
+      "legacy_pack_id": "polish_glos_i_cisza",
+      "slug": "glos-i-cisza",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/glos-i-cisza",
+      "to": "books/c1a78mx1"
+    },
+    {
+      "book_id": "evuht6t0",
+      "legacy_pack_id": "polish_glosy_z_ziemi",
+      "slug": "glosy-z-ziemi",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/glosy-z-ziemi",
+      "to": "books/evuht6t0"
+    },
+    {
+      "book_id": "uzs9im0y",
+      "legacy_pack_id": "polish_granice_imperium",
+      "slug": "granice-imperium",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/granice-imperium",
+      "to": "books/uzs9im0y"
+    },
+    {
+      "book_id": "ltz9atsn",
+      "legacy_pack_id": "polish_groby",
+      "slug": "groby",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/groby",
+      "to": "books/ltz9atsn"
+    },
+    {
+      "book_id": "kfs6vfpt",
+      "legacy_pack_id": "polish_gruby_dzienniczek",
+      "slug": "gruby-dzienniczek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/gruby-dzienniczek",
+      "to": "books/kfs6vfpt"
+    },
+    {
+      "book_id": "omjbcp4e",
+      "legacy_pack_id": "polish_igla_z_widly",
+      "slug": "igla-z-widly",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/igla-z-widly",
+      "to": "books/omjbcp4e"
+    },
+    {
+      "book_id": "ag1ol73d",
+      "legacy_pack_id": "polish_ikonka_na_pulpicie",
+      "slug": "ikonka-na-pulpicie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ikonka-na-pulpicie",
+      "to": "books/ag1ol73d"
+    },
+    {
+      "book_id": "u26192k4",
+      "legacy_pack_id": "polish_iskra",
+      "slug": "iskra",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/iskra",
+      "to": "books/u26192k4"
+    },
+    {
+      "book_id": "fijoyjne",
+      "legacy_pack_id": "polish_jak_bor_z_jasnego_nieba",
+      "slug": "jak-bor-z-jasnego-nieba",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/jak-bor-z-jasnego-nieba",
+      "to": "books/fijoyjne"
+    },
+    {
+      "book_id": "y088o5or",
+      "legacy_pack_id": "polish_jak_ugotowac_herbate",
+      "slug": "jak-ugotowac-herbate",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/jak-ugotowac-herbate",
+      "to": "books/y088o5or"
+    },
+    {
+      "book_id": "i8bzbf1i",
+      "legacy_pack_id": "polish_jeszcze",
+      "slug": "jeszcze",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/jeszcze",
+      "to": "books/i8bzbf1i"
+    },
+    {
+      "book_id": "uvyr0qf4",
+      "legacy_pack_id": "polish_kakuter_i_chomik",
+      "slug": "kakuter-i-chomik",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kakuter-i-chomik",
+      "to": "books/uvyr0qf4"
+    },
+    {
+      "book_id": "b8dwoecb",
+      "legacy_pack_id": "polish_kamera_na_ulicy",
+      "slug": "kamera-na-ulicy",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kamera-na-ulicy",
+      "to": "books/b8dwoecb"
+    },
+    {
+      "book_id": "pmbjpi4h",
+      "legacy_pack_id": "polish_kamien_pamieci",
+      "slug": "kamien-pamieci",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kamien-pamieci",
+      "to": "books/pmbjpi4h"
+    },
+    {
+      "book_id": "n3qxkhkt",
+      "legacy_pack_id": "polish_kapusciana_tajemnica",
+      "slug": "kapusciana-tajemnica",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kapusciana-tajemnica",
+      "to": "books/n3qxkhkt"
+    },
+    {
+      "book_id": "gbtyzmep",
+      "legacy_pack_id": "polish_kij_i_marchewka",
+      "slug": "kij-i-marchewka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kij-i-marchewka",
+      "to": "books/gbtyzmep"
+    },
+    {
+      "book_id": "gthcw81x",
+      "legacy_pack_id": "polish_klucz_babci_rozi",
+      "slug": "klucz-babci-rozi",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/klucz-babci-rozi",
+      "to": "books/gthcw81x"
+    },
+    {
+      "book_id": "e6va05g1",
+      "legacy_pack_id": "polish_klucz_do_deszczowej_krainy",
+      "slug": "klucz-do-deszczowej-krainy",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/klucz-do-deszczowej-krainy",
+      "to": "books/e6va05g1"
+    },
+    {
+      "book_id": "x3j1l7r8",
+      "legacy_pack_id": "polish_koniec_epoki_pudelek",
+      "slug": "koniec-epoki-pudelek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/koniec-epoki-pudelek",
+      "to": "books/x3j1l7r8"
+    },
+    {
+      "book_id": "l5nwqvrr",
+      "legacy_pack_id": "polish_kontrolowana_halucynacja",
+      "slug": "kontrolowana-halucynacja",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kontrolowana-halucynacja",
+      "to": "books/l5nwqvrr"
+    },
+    {
+      "book_id": "ozptx497",
+      "legacy_pack_id": "polish_kot_1011",
+      "slug": "kot-1011",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kot-1011",
+      "to": "books/ozptx497"
+    },
+    {
+      "book_id": "w19vw3rt",
+      "legacy_pack_id": "polish_koziolek_matolek_i_podroz_do_pacanowa",
+      "slug": "koziolek-matolek-i-podroz-do-pacanowa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/koziolek-matolek-i-podroz-do-pacanowa",
+      "to": "books/w19vw3rt"
+    },
+    {
+      "book_id": "qohmuh8l",
+      "legacy_pack_id": "polish_kubek",
+      "slug": "kubek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/kubek",
+      "to": "books/qohmuh8l"
+    },
+    {
+      "book_id": "mn4r7sgm",
+      "legacy_pack_id": "polish_legenda_o_smoku_wawelskim",
+      "slug": "legenda-o-smoku-wawelskim",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/legenda-o-smoku-wawelskim",
+      "to": "books/mn4r7sgm"
+    },
+    {
+      "book_id": "soxlta8i",
+      "legacy_pack_id": "polish_lista_myrotworec",
+      "slug": "lista-myrotworec",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/lista-myrotworec",
+      "to": "books/soxlta8i"
+    },
+    {
+      "book_id": "rcd9si5g",
+      "legacy_pack_id": "polish_lista_rzeczy_ktorych_zaluje",
+      "slug": "lista-rzeczy-ktorych-zaluje",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/lista-rzeczy-ktorych-zaluje",
+      "to": "books/rcd9si5g"
+    },
+    {
+      "book_id": "as442vld",
+      "legacy_pack_id": "polish_mamy_trupa_i_co_dalej",
+      "slug": "mamy-trupa-i-co-dalej",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/mamy-trupa-i-co-dalej",
+      "to": "books/as442vld"
+    },
+    {
+      "book_id": "q4hez5ed",
+      "legacy_pack_id": "polish_maria_skodowska_curie",
+      "slug": "maria-sklodowska-curie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/maria-sklodowska-curie",
+      "to": "books/q4hez5ed"
+    },
+    {
+      "book_id": "jjtfph90",
+      "legacy_pack_id": "polish_martwe_oczy",
+      "slug": "martwe-oczy",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/martwe-oczy",
+      "to": "books/jjtfph90"
+    },
+    {
+      "book_id": "o7y22t1t",
+      "legacy_pack_id": "polish_metoda_feynmana",
+      "slug": "metoda-feynmana",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/metoda-feynmana",
+      "to": "books/o7y22t1t"
+    },
+    {
+      "book_id": "dgnnqfkp",
+      "legacy_pack_id": "polish_misja_ktora_pekla",
+      "slug": "misja-ktora-pekla",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/misja-ktora-pekla",
+      "to": "books/dgnnqfkp"
+    },
+    {
+      "book_id": "l9eka024",
+      "legacy_pack_id": "polish_mowa",
+      "slug": "mowa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/mowa",
+      "to": "books/l9eka024"
+    },
+    {
+      "book_id": "scoss3eo",
+      "legacy_pack_id": "polish_na_dworcu",
+      "slug": "na-dworcu",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/na-dworcu",
+      "to": "books/scoss3eo"
+    },
+    {
+      "book_id": "qm1h8ojr",
+      "legacy_pack_id": "polish_na_targu",
+      "slug": "na-targu",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/na-targu",
+      "to": "books/qm1h8ojr"
+    },
+    {
+      "book_id": "jedkts2h",
+      "legacy_pack_id": "polish_naczynia_polaczone",
+      "slug": "naczynia-polaczone",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/naczynia-polaczone",
+      "to": "books/jedkts2h"
+    },
+    {
+      "book_id": "fc1uqbfo",
+      "legacy_pack_id": "polish_nadwyzka",
+      "slug": "nadwyzka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/nadwyzka",
+      "to": "books/fc1uqbfo"
+    },
+    {
+      "book_id": "brcl472r",
+      "legacy_pack_id": "polish_niedzwiedz",
+      "slug": "niedzwiedz",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/niedzwiedz",
+      "to": "books/brcl472r"
+    },
+    {
+      "book_id": "l15f4w0v",
+      "legacy_pack_id": "polish_nowy_ogrod",
+      "slug": "nowy-ogrod",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/nowy-ogrod",
+      "to": "books/l15f4w0v"
+    },
+    {
+      "book_id": "ugkv05sz",
+      "legacy_pack_id": "polish_nowy_pacjent",
+      "slug": "nowy-pacjent",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/nowy-pacjent",
+      "to": "books/ugkv05sz"
+    },
+    {
+      "book_id": "z6a830dm",
+      "legacy_pack_id": "polish_nowy_swiat",
+      "slug": "nowy-swiat",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/nowy-swiat",
+      "to": "books/z6a830dm"
+    },
+    {
+      "book_id": "is25hbpk",
+      "legacy_pack_id": "polish_obserwator",
+      "slug": "obserwator",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/obserwator",
+      "to": "books/is25hbpk"
+    },
+    {
+      "book_id": "t9a90foh",
+      "legacy_pack_id": "polish_oczy_ktore_nie_widza",
+      "slug": "oczy-ktore-nie-widza",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/oczy-ktore-nie-widza",
+      "to": "books/t9a90foh"
+    },
+    {
+      "book_id": "ast5j284",
+      "legacy_pack_id": "polish_odpowiedzialnosc",
+      "slug": "odpowiedzialnosc",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/odpowiedzialnosc",
+      "to": "books/ast5j284"
+    },
+    {
+      "book_id": "wv98y3um",
+      "legacy_pack_id": "polish_ofiary",
+      "slug": "ofiary",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ofiary",
+      "to": "books/wv98y3um"
+    },
+    {
+      "book_id": "pyo0cu4y",
+      "legacy_pack_id": "polish_ognioskoczek",
+      "slug": "ognioskoczek",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ognioskoczek",
+      "to": "books/pyo0cu4y"
+    },
+    {
+      "book_id": "yj5ci6vg",
+      "legacy_pack_id": "polish_opowiesci_z_poprzedniego_zycia",
+      "slug": "opowiesci-z-poprzedniego-zycia",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/opowiesci-z-poprzedniego-zycia",
+      "to": "books/yj5ci6vg"
+    },
+    {
+      "book_id": "e4qvzfv8",
+      "legacy_pack_id": "polish_pierwszy_lot_na_marsa",
+      "slug": "pierwszy-lot-na-marsa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/pierwszy-lot-na-marsa",
+      "to": "books/e4qvzfv8"
+    },
+    {
+      "book_id": "yu58ceps",
+      "legacy_pack_id": "polish_pies_pankracy_i_sprawy_wazne",
+      "slug": "pies-pankracy-i-sprawy-wazne",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/pies-pankracy-i-sprawy-wazne",
+      "to": "books/yu58ceps"
+    },
+    {
+      "book_id": "of1gg2kt",
+      "legacy_pack_id": "polish_poligon",
+      "slug": "poligon",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/poligon",
+      "to": "books/of1gg2kt"
+    },
+    {
+      "book_id": "bcudswx1",
+      "legacy_pack_id": "polish_poltora_metra",
+      "slug": "poltora-metra",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/poltora-metra",
+      "to": "books/bcudswx1"
+    },
+    {
+      "book_id": "jp70lklf",
+      "legacy_pack_id": "polish_powrot",
+      "slug": "powrot",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/powrot",
+      "to": "books/jp70lklf"
+    },
+    {
+      "book_id": "yp5jo3q3",
+      "legacy_pack_id": "polish_powrot_siebie",
+      "slug": "powrot-siebie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/powrot-siebie",
+      "to": "books/yp5jo3q3"
+    },
+    {
+      "book_id": "qa3s8ke2",
+      "legacy_pack_id": "polish_prog",
+      "slug": "prog",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/prog",
+      "to": "books/qa3s8ke2"
+    },
+    {
+      "book_id": "wt1q3tmy",
+      "legacy_pack_id": "polish_prolog_wiatru",
+      "slug": "prolog-wiatru",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/prolog-wiatru",
+      "to": "books/wt1q3tmy"
+    },
+    {
+      "book_id": "zrad5sow",
+      "legacy_pack_id": "polish_przedszkole_bez_scian",
+      "slug": "przedszkole-bez-scian",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/przedszkole-bez-scian",
+      "to": "books/zrad5sow"
+    },
+    {
+      "book_id": "omqigct2",
+      "legacy_pack_id": "polish_przerwa",
+      "slug": "przerwa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/przerwa",
+      "to": "books/omqigct2"
+    },
+    {
+      "book_id": "cxifsu0l",
+      "legacy_pack_id": "polish_przerwa_nauka",
+      "slug": "przerwa-nauka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/przerwa-nauka",
+      "to": "books/cxifsu0l"
+    },
+    {
+      "book_id": "mi8x76rk",
+      "legacy_pack_id": "polish_pudelko_po_ciastkach",
+      "slug": "pudelko-po-ciastkach",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/pudelko-po-ciastkach",
+      "to": "books/mi8x76rk"
+    },
+    {
+      "book_id": "q4svh3ej",
+      "legacy_pack_id": "polish_radio_w_glowie",
+      "slug": "radio-w-glowie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/radio-w-glowie",
+      "to": "books/q4svh3ej"
+    },
+    {
+      "book_id": "oz9xfzaq",
+      "legacy_pack_id": "polish_rozmowa_z_lekarzem",
+      "slug": "rozmowa-z-lekarzem",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/rozmowa-z-lekarzem",
+      "to": "books/oz9xfzaq"
+    },
+    {
+      "book_id": "o4b9uoe3",
+      "legacy_pack_id": "polish_samolot",
+      "slug": "samolot",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/samolot",
+      "to": "books/o4b9uoe3"
+    },
+    {
+      "book_id": "t0hicct5",
+      "legacy_pack_id": "polish_siedem_gor_i_jeden_ocean",
+      "slug": "siedem-gor-i-jeden-ocean",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/siedem-gor-i-jeden-ocean",
+      "to": "books/t0hicct5"
+    },
+    {
+      "book_id": "hgp8iy3x",
+      "legacy_pack_id": "polish_demo_lesson",
+      "slug": "spacer-po-krakowie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/spacer-po-krakowie",
+      "to": "books/hgp8iy3x"
+    },
+    {
+      "book_id": "cxn22pxg",
+      "legacy_pack_id": "polish_sprawa",
+      "slug": "sprawa",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/sprawa",
+      "to": "books/cxn22pxg"
+    },
+    {
+      "book_id": "x8wdzrmh",
+      "legacy_pack_id": "polish_susza",
+      "slug": "susza",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/susza",
+      "to": "books/x8wdzrmh"
+    },
+    {
+      "book_id": "ne9nnovj",
+      "legacy_pack_id": "polish_swieci_wojownicy",
+      "slug": "swieci-wojownicy",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/swieci-wojownicy",
+      "to": "books/ne9nnovj"
+    },
+    {
+      "book_id": "arji8qlh",
+      "legacy_pack_id": "polish_symetria",
+      "slug": "symetria",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/symetria",
+      "to": "books/arji8qlh"
+    },
+    {
+      "book_id": "biawpubl",
+      "legacy_pack_id": "polish_synchronicznosc",
+      "slug": "synchronicznosc",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/synchronicznosc",
+      "to": "books/biawpubl"
+    },
+    {
+      "book_id": "qdi07he4",
+      "legacy_pack_id": "polish_szpital_poludniowy",
+      "slug": "szpital-poludniowy",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/szpital-poludniowy",
+      "to": "books/qdi07he4"
+    },
+    {
+      "book_id": "g52efuje",
+      "legacy_pack_id": "polish_tajwan",
+      "slug": "tajwan",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/tajwan",
+      "to": "books/g52efuje"
+    },
+    {
+      "book_id": "ir9uy7s3",
+      "legacy_pack_id": "polish_taniec",
+      "slug": "taniec",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/taniec",
+      "to": "books/ir9uy7s3"
+    },
+    {
+      "book_id": "o0v3z0gu",
+      "legacy_pack_id": "polish_trzy_godziny",
+      "slug": "trzy-godziny",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/trzy-godziny",
+      "to": "books/o0v3z0gu"
+    },
+    {
+      "book_id": "ff1gxi9d",
+      "legacy_pack_id": "polish_trzynascie_zasad",
+      "slug": "trzynascie-zasad",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/trzynascie-zasad",
+      "to": "books/ff1gxi9d"
+    },
+    {
+      "book_id": "stwg6nj4",
+      "legacy_pack_id": "polish_ulamki",
+      "slug": "ulamki",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/ulamki",
+      "to": "books/stwg6nj4"
+    },
+    {
+      "book_id": "ogw9xhro",
+      "legacy_pack_id": "polish_w_kawiarni",
+      "slug": "w-kawiarni",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/w-kawiarni",
+      "to": "books/ogw9xhro"
+    },
+    {
+      "book_id": "tvwaljze",
+      "legacy_pack_id": "polish_w_pelni",
+      "slug": "w-pelni",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/w-pelni",
+      "to": "books/tvwaljze"
+    },
+    {
+      "book_id": "jbf7ny03",
+      "legacy_pack_id": "polish_wiatr_nad_rzeka",
+      "slug": "wiatr-nad-rzeka",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/wiatr-nad-rzeka",
+      "to": "books/jbf7ny03"
+    },
+    {
+      "book_id": "vkxtufdj",
+      "legacy_pack_id": "polish_worek_z_piaskiem",
+      "slug": "worek-z-piaskiem",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/worek-z-piaskiem",
+      "to": "books/vkxtufdj"
+    },
+    {
+      "book_id": "kdfr2152",
+      "legacy_pack_id": "polish_wyraz_ktorego_nie_ma",
+      "slug": "wyraz-ktorego-nie-ma",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/wyraz-ktorego-nie-ma",
+      "to": "books/kdfr2152"
+    },
+    {
+      "book_id": "s57tcozd",
+      "legacy_pack_id": "polish_zakazana_energia",
+      "slug": "zakazana-energia",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zakazana-energia",
+      "to": "books/s57tcozd"
+    },
+    {
+      "book_id": "antniqsu",
+      "legacy_pack_id": "polish_zamowienie",
+      "slug": "zamowienie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zamowienie",
+      "to": "books/antniqsu"
+    },
+    {
+      "book_id": "ha51liy8",
+      "legacy_pack_id": "polish_zasady",
+      "slug": "zasady",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zasady",
+      "to": "books/ha51liy8"
+    },
+    {
+      "book_id": "o69wezc1",
+      "legacy_pack_id": "polish_zielona_poswiata",
+      "slug": "zielona-poswiata",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zielona-poswiata",
+      "to": "books/o69wezc1"
+    },
+    {
+      "book_id": "b3eu1z0s",
+      "legacy_pack_id": "polish_zlote_wlosy_i_niebo",
+      "slug": "zlote-wlosy-i-niebo",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zlote-wlosy-i-niebo",
+      "to": "books/b3eu1z0s"
+    },
+    {
+      "book_id": "hzbuk3xf",
+      "legacy_pack_id": "polish_zloto_i_zwykle_szczescie",
+      "slug": "zloto-i-zwykle-szczescie",
+      "locale": "pl",
+      "from": "official/glagolitic/pl/zloto-i-zwykle-szczescie",
+      "to": "books/hzbuk3xf"
+    }
+  ],
+  "legacy_pack_id_to_book_id": {
+    "polish_98_procent": "hbrpoig8",
+    "polish_algorytm_szczescia": "f1cbfno6",
+    "polish_autorytet_na_przepraszam": "b9m80o2r",
+    "polish_betonowy_dom": "ak1vrjnv",
+    "polish_blitzkrieg": "gfygwwqc",
+    "polish_bogini_i_liczby": "mecosfog",
+    "polish_boliewicz": "yr3xkxwn",
+    "polish_brudne_pieniadze_czysta_nauka": "rek8pk3y",
+    "polish_buty": "r9oudocu",
+    "polish_cel_na_ten_rok_to_nic": "zrenun5z",
+    "polish_cena_widoku": "dhjk1eyy",
+    "polish_chor": "vhs1k3aq",
+    "polish_ciche_serce_dzwonka": "xk87au5b",
+    "polish_ciekawska_zosia_i_skarb_przyjazni": "hxtpdpff",
+    "polish_cien_skrzydel_nad_oceanem": "q71n8mtz",
+    "polish_cisza_dom": "x272hpoe",
+    "polish_cisza_przed_burza": "vb9ooaed",
+    "polish_cudaczek_wysmiewaczek": "oecve6pr",
+    "polish_cukierek_z_magicznego_drzewa": "mgg1w103",
+    "polish_czarna_plachta": "dgdzvgpm",
+    "polish_czarna_skrzynka": "m82i1lr3",
+    "polish_czarny_kodeks": "pe29gd8a",
+    "polish_czarny_mnich_z_nikiszowca": "fpk054nz",
+    "polish_czarny_rynek_tokenow": "dkyayq3s",
+    "polish_czterech_w_lodce": "kd6fleep",
+    "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie": "zhpcf07u",
+    "polish_dlaczego_niebo_jest_niebieskie": "qnupqzit",
+    "polish_dobra_dziewczynka": "n6qiwepx",
+    "polish_domek": "sk28t7a9",
+    "polish_domysl_sie": "tgiqhg9j",
+    "polish_dostrojony_dom": "rsnvnq65",
+    "polish_drugie_dno": "qdf1rcav",
+    "polish_drugie_kolo": "iqk2919a",
+    "polish_dylemat_szatniarza": "hej8cx9j",
+    "polish_dzien_z_reszty_zycia": "pgw90jpk",
+    "polish_dziewczyna_ktora_zniknela_o_swicie": "l0blv0pr",
+    "polish_dziewczyna_z_jelania": "kgyc4om3",
+    "polish_etykieta": "wtoobmzv",
+    "polish_franek_i_maly_karolek": "rerw6z8v",
+    "polish_froteryzm_intelektualny": "bhqlqcg1",
+    "polish_garnek_na_glowie": "wu16hymq",
+    "polish_glos_i_cisza": "c1a78mx1",
+    "polish_glosy_z_ziemi": "evuht6t0",
+    "polish_granice_imperium": "uzs9im0y",
+    "polish_groby": "ltz9atsn",
+    "polish_gruby_dzienniczek": "kfs6vfpt",
+    "polish_igla_z_widly": "omjbcp4e",
+    "polish_ikonka_na_pulpicie": "ag1ol73d",
+    "polish_iskra": "u26192k4",
+    "polish_jak_bor_z_jasnego_nieba": "fijoyjne",
+    "polish_jak_ugotowac_herbate": "y088o5or",
+    "polish_jeszcze": "i8bzbf1i",
+    "polish_kakuter_i_chomik": "uvyr0qf4",
+    "polish_kamera_na_ulicy": "b8dwoecb",
+    "polish_kamien_pamieci": "pmbjpi4h",
+    "polish_kapusciana_tajemnica": "n3qxkhkt",
+    "polish_kij_i_marchewka": "gbtyzmep",
+    "polish_klucz_babci_rozi": "gthcw81x",
+    "polish_klucz_do_deszczowej_krainy": "e6va05g1",
+    "polish_koniec_epoki_pudelek": "x3j1l7r8",
+    "polish_kontrolowana_halucynacja": "l5nwqvrr",
+    "polish_kot_1011": "ozptx497",
+    "polish_koziolek_matolek_i_podroz_do_pacanowa": "w19vw3rt",
+    "polish_kubek": "qohmuh8l",
+    "polish_legenda_o_smoku_wawelskim": "mn4r7sgm",
+    "polish_lista_myrotworec": "soxlta8i",
+    "polish_lista_rzeczy_ktorych_zaluje": "rcd9si5g",
+    "polish_mamy_trupa_i_co_dalej": "as442vld",
+    "polish_maria_skodowska_curie": "q4hez5ed",
+    "polish_martwe_oczy": "jjtfph90",
+    "polish_metoda_feynmana": "o7y22t1t",
+    "polish_misja_ktora_pekla": "dgnnqfkp",
+    "polish_mowa": "l9eka024",
+    "polish_na_dworcu": "scoss3eo",
+    "polish_na_targu": "qm1h8ojr",
+    "polish_naczynia_polaczone": "jedkts2h",
+    "polish_nadwyzka": "fc1uqbfo",
+    "polish_niedzwiedz": "brcl472r",
+    "polish_nowy_ogrod": "l15f4w0v",
+    "polish_nowy_pacjent": "ugkv05sz",
+    "polish_nowy_swiat": "z6a830dm",
+    "polish_obserwator": "is25hbpk",
+    "polish_oczy_ktore_nie_widza": "t9a90foh",
+    "polish_odpowiedzialnosc": "ast5j284",
+    "polish_ofiary": "wv98y3um",
+    "polish_ognioskoczek": "pyo0cu4y",
+    "polish_opowiesci_z_poprzedniego_zycia": "yj5ci6vg",
+    "polish_pierwszy_lot_na_marsa": "e4qvzfv8",
+    "polish_pies_pankracy_i_sprawy_wazne": "yu58ceps",
+    "polish_poligon": "of1gg2kt",
+    "polish_poltora_metra": "bcudswx1",
+    "polish_powrot": "jp70lklf",
+    "polish_powrot_siebie": "yp5jo3q3",
+    "polish_prog": "qa3s8ke2",
+    "polish_prolog_wiatru": "wt1q3tmy",
+    "polish_przedszkole_bez_scian": "zrad5sow",
+    "polish_przerwa": "omqigct2",
+    "polish_przerwa_nauka": "cxifsu0l",
+    "polish_pudelko_po_ciastkach": "mi8x76rk",
+    "polish_radio_w_glowie": "q4svh3ej",
+    "polish_rozmowa_z_lekarzem": "oz9xfzaq",
+    "polish_samolot": "o4b9uoe3",
+    "polish_siedem_gor_i_jeden_ocean": "t0hicct5",
+    "polish_demo_lesson": "hgp8iy3x",
+    "polish_sprawa": "cxn22pxg",
+    "polish_susza": "x8wdzrmh",
+    "polish_swieci_wojownicy": "ne9nnovj",
+    "polish_symetria": "arji8qlh",
+    "polish_synchronicznosc": "biawpubl",
+    "polish_szpital_poludniowy": "qdi07he4",
+    "polish_tajwan": "g52efuje",
+    "polish_taniec": "ir9uy7s3",
+    "polish_trzy_godziny": "o0v3z0gu",
+    "polish_trzynascie_zasad": "ff1gxi9d",
+    "polish_ulamki": "stwg6nj4",
+    "polish_w_kawiarni": "ogw9xhro",
+    "polish_w_pelni": "tvwaljze",
+    "polish_wiatr_nad_rzeka": "jbf7ny03",
+    "polish_worek_z_piaskiem": "vkxtufdj",
+    "polish_wyraz_ktorego_nie_ma": "kdfr2152",
+    "polish_zakazana_energia": "s57tcozd",
+    "polish_zamowienie": "antniqsu",
+    "polish_zasady": "ha51liy8",
+    "polish_zielona_poswiata": "o69wezc1",
+    "polish_zlote_wlosy_i_niebo": "b3eu1z0s",
+    "polish_zloto_i_zwykle_szczescie": "hzbuk3xf"
+  }
+}

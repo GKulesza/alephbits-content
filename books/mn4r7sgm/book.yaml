@@ -1,0 +1,7 @@
+book_id: "mn4r7sgm"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_legenda_o_smoku_wawelskim"
+legacy_slug: "legenda-o-smoku-wawelskim"

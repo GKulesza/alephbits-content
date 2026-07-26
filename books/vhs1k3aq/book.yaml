@@ -1,0 +1,7 @@
+book_id: "vhs1k3aq"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_chor"
+legacy_slug: "chor"

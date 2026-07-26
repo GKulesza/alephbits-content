@@ -1,0 +1,122 @@
+{
+  "id": "hgp8iy3x:isv",
+  "bookId": "hgp8iy3x",
+  "locale": "isv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_demo_lesson",
+  "legacySlug": "spacer-po-krakowie",
+  "title": "Prohod po Krakovu",
+  "language": "isv",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-06",
+  "description": "Prohod po znanom městě možet byti prost — doky ne čitateš go v novom pismě. Rynek, Planty, Visla i Vavel sę stanut pověstju o městě, ktoroe pomniš, i języku, ktorogo učiš sę iznova. Lekcija čitanja dlja tih, ktorim tekst vodi krok za krokom.",
+  "author": {
+    "name": "AlephBits Contributors"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "demo",
+    "polish",
+    "beginner",
+    "krakow",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 2,
+  "translation": "Medžuslovjanska literatura překlad polskogo prohoda po Krakovu (pilot).",
+  "text": "Rano rano vyjdoh na ulicu i počustvovah svěžij vozduh města. Slnce jedva vshodilo nad kryšami domov, a Glavnyj rynek byl ješče tih i pust.\n\nProjdoh mimo Sukiennice i dotknuh sę hladnyh kamenij stěny. Myslih o stotinah lět istorije, ktoryje viděli tyže mostjonyje ulice i tyže zvony cerkvej.\n\nNa Malom Rynku ustavin sę u studnje. Voda v nej byla temna i spokojna kako zrcalo. Ptici pěli v korunah drěv, a ja slušah ih glasy i odpčivah chvilju.\n\nPotom svrnh v bokovuju uličku i uviděh malenkuju kavarnju. Vonja svěžej kavy měšala sę s aromatom pečenogo hlěba. Kupih bulku i jědl ju pomalu, ględajuć na prohožajih.\n\nNa puti do Plant uslyšah uličnyh muzikantov. Igrali na skripkah staru melodiju, ktoru znah iz dětstva. Ljudje ustavali sę, usměhali sę i metali drobnyje monety v otvorenyj valiz.\n\nZa městskymi stěnami pojdoh k Visle. Reka tekla spokojno, nesući odraženja oblakov i mostov. Lodě stajali u nabřežja, a větr dvigal flagi na mačtah.\n\nNa hlmě uviděh Vavel. Bělyje stěny zamka světili v slncu, a vrani kružili nad vežami. Počustvovah gordost, že mogu žiti tak blizko k tako važnomu městu.\n\nSnikoh nazad do centra i vnidoh v muzej. V salah visěli obrazy, predstavjajući davnuju žizn města. Každyj obraz pověděl inu pověst o ljudjah, ktoryje tut žili.\n\nVečerom vratih sę na Glavnyj rynek. Latarnje zažigali sę jedna za drugoju, a domy nabrali zlatyj blesk. Město tepalo žiznju, a ja čustvoval sę čestju toj velikoj pověsti.\n\nTogo dnja naučih sę, že čitanje o znanom městě pomaga zapomněti novyje znaky. Každoje slovo staje mostom meždu jazykom, ktoroj znaju, i pismom, ktorogo uči sę.",
+  "quiz": {
+    "title": "Prověrte vaše razuměnje",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gdě avtor ustavin sę u studnje?",
+        "answers": [
+          "Na Malom Rynku",
+          "Na Vavelu",
+          "Na Plantah",
+          "U Visly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Avtor piše o Malom Rynku."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto avtor kupil v kavarnje?",
+        "answers": [
+          "Bulku",
+          "Kavu",
+          "Vodu",
+          "Pirožno"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kupil bulku i jědl ju pomalu."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto avtor vidi na hlmě?",
+        "answers": [
+          "Vavel",
+          "Planty",
+          "Muzej",
+          "Most"
+        ],
+        "correctIndex": 0,
+        "explanation": "Na hlmě uviděl Vavel."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto avtor slyši na puti do Plant?",
+        "answers": [
+          "Uličnyh muzikantov na skripkah",
+          "Cerkvenyje zvony",
+          "Tramvajnu sirenu",
+          "Valny Visly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Uslyšal muzikantov, igrajućih staru melodiju."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kakoj zaključenje avtor dělaje na koncu?",
+        "answers": [
+          "Čitanje o znanom městě pomaga zapomněti znaky",
+          "Najlučše jest učiti sę jedino v muzeju",
+          "Krakov nema istoriju",
+          "Uličnyje muzikanty měšajut učenju"
+        ],
+        "correctIndex": 0,
+        "explanation": "Poslědnyj odstavěk podsumovaje korist čitanja o znanom městě."
+      }
+    ]
+  },
+  "coverFamily": "travel",
+  "audience": "adult",
+  "subtitle": "Prva lekcija — prohod po Krakovu",
+  "trustClassification": "demo",
+  "editorialHistory": {
+    "firstPublished": "2026-07-06",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-06"
+  ],
+  "world": {
+    "places": [
+      "market",
+      "castle",
+      "river"
+    ]
+  }
+}

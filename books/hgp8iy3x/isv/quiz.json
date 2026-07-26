@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte vaše razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě avtor ustavin sę u studnje?",
+      "answers": [
+        "Na Malom Rynku",
+        "Na Vavelu",
+        "Na Plantah",
+        "U Visly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avtor piše o Malom Rynku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto avtor kupil v kavarnje?",
+      "answers": [
+        "Bulku",
+        "Kavu",
+        "Vodu",
+        "Pirožno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kupil bulku i jědl ju pomalu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto avtor vidi na hlmě?",
+      "answers": [
+        "Vavel",
+        "Planty",
+        "Muzej",
+        "Most"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na hlmě uviděl Vavel."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto avtor slyši na puti do Plant?",
+      "answers": [
+        "Uličnyh muzikantov na skripkah",
+        "Cerkvenyje zvony",
+        "Tramvajnu sirenu",
+        "Valny Visly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uslyšal muzikantov, igrajućih staru melodiju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoj zaključenje avtor dělaje na koncu?",
+      "answers": [
+        "Čitanje o znanom městě pomaga zapomněti znaky",
+        "Najlučše jest učiti sę jedino v muzeju",
+        "Krakov nema istoriju",
+        "Uličnyje muzikanty měšajut učenju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poslědnyj odstavěk podsumovaje korist čitanja o znanom městě."
+    }
+  ]
+}

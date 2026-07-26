@@ -1,0 +1,7 @@
+book_id: "dgdzvgpm"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_czarna_plachta"
+legacy_slug: "czarna-plachta"

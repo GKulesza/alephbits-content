@@ -1,0 +1,7 @@
+book_id: "f1cbfno6"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_algorytm_szczescia"
+legacy_slug: "algorytm-szczescia"

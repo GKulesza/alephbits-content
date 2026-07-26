@@ -1,0 +1,24 @@
+{
+  "packId": "jbf7ny03:isv",
+  "bookId": "jbf7ny03",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-29",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Napisano za kontrolu pipeline; toje izdanje jest literarny prěvod poljskogo iztočnika."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Original micro-fiction (AlephBits)"
+    }
+  ],
+  "revisionNotes": "Multilingual translation pilot — Interslavic Latin edition."
+}

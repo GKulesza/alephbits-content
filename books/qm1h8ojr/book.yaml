@@ -1,0 +1,7 @@
+book_id: "qm1h8ojr"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_na_targu"
+legacy_slug: "na-targu"

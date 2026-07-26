@@ -7,6 +7,15 @@ Living documents for the content repository. Prefer this index over phase report
 | Document | Purpose |
 |----------|---------|
 | [reading-pack.template.md](reading-pack.template.md) | Starter `reading-pack.md` |
+| [EDITORIAL_OWNERSHIP.md](EDITORIAL_OWNERSHIP.md) | Exactly one owner per editable field |
+| [CONTENT_MODEL_DEFINITIONS.md](CONTENT_MODEL_DEFINITIONS.md) | Natural-language Book / Edition / Audience definitions (links to app SoT) |
+| [HOW_WE_THINK_ABOUT_BOOKS.md](HOW_WE_THINK_ABOUT_BOOKS.md) | Product thinking for humans — ideas that should outlive code |
+| [BRAND.md](BRAND.md) | Pointer to app `docs/brand/` — philosophy & marketing copy |
+| [MIGRATION_NOTES_V2_ASSETS.md](MIGRATION_NOTES_V2_ASSETS.md) | Book `default/` cover + vignette ownership |
+| [METADATA_MODEL.md](METADATA_MODEL.md) | Audience / Category / Difficulty definitions |
+| [METADATA_MODEL_V2_AUDIT_REPORT.md](METADATA_MODEL_V2_AUDIT_REPORT.md) | Part 4 audit + proposed renames |
+| [MIGRATION_NOTES_V2.md](MIGRATION_NOTES_V2.md) | Layout migration overview |
+| [MIGRATION_NOTES_V2_IDENTITY.md](MIGRATION_NOTES_V2_IDENTITY.md) | Book vs Edition identity |
 | [COMPILE_PIPELINE.md](COMPILE_PIPELINE.md) | `compile_pack` — Markdown → pack artifacts |
 | [MANIFEST.md](MANIFEST.md) | Generated `manifest.json` catalog |
 | [VALIDATION_POLICY.md](VALIDATION_POLICY.md) | What `validate_pack` requires |

@@ -1,0 +1,7 @@
+book_id: "ag1ol73d"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_ikonka_na_pulpicie"
+legacy_slug: "ikonka-na-pulpicie"

@@ -1,0 +1,7 @@
+book_id: "qohmuh8l"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_kubek"
+legacy_slug: "kubek"

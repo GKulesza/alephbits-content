@@ -1,0 +1,24 @@
+{
+  "packId": "wv98y3um:pl",
+  "bookId": "wv98y3um",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o trudnej historii; wymaga ostrożnej ramy — temat wrażliwy politycznie."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "G6s2-iofknI"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

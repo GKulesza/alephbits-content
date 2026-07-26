@@ -1,8 +1,14 @@
-# AlephBits Cover Assets
+# AlephBits Cover Assets (stock fallback)
 
-This directory contains **production cover assets only**.
+This directory contains **temporary stock cover art** used only when a book does
+not yet ship `books/<book_id>/default/cover.webp`.
 
-Master PNG artwork lives outside the repository and must not be committed here. The repository stores lightweight JPEG derivatives plus a resolver catalog that remains compatible with the current app cover system.
+**Canonical ownership:** book-owned WebP under `books/<book_id>/default/`
+(locale may override). See [docs/MIGRATION_NOTES_V2_ASSETS.md](../docs/MIGRATION_NOTES_V2_ASSETS.md).
+
+Master PNG artwork lives outside the repository and must not be committed here.
+The repository stores lightweight JPEG derivatives plus a resolver catalog for
+the stock fallback path.
 
 ## Layout
 
@@ -13,13 +19,8 @@ covers/
 ├── catalog.json
 ├── biology/
 │   ├── cover-01.jpg
-│   ├── cover-02.jpg
-│   ├── cover-03.jpg
-│   ├── cover-04.jpg
-│   └── cover-05.jpg
-├── history/
-│   └── cover-01.jpg ... cover-05.jpg
-└── ...
+│   └── …
+└── …
 ```
 
 ## Processing rules

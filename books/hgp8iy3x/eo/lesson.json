@@ -1,0 +1,122 @@
+{
+  "id": "hgp8iy3x:eo",
+  "bookId": "hgp8iy3x",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_demo_lesson",
+  "legacySlug": "spacer-po-krakowie",
+  "title": "Promeno tra Krakovo",
+  "language": "eo",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-06",
+  "description": "Promeno tra konata urbo povas ŝajni simpla — ĝis vi legas ĝin per nova skribo. La Ĉefplaco, la Plantoj, la Vistulo kaj Vavelo iĝas rakonto pri loko, kiun vi memoras, kaj lingvo, kiun vi lernas denove. Legolernado por tiuj, kiuj ŝatas, kiam teksto gvidas paŝon post paŝo.",
+  "author": {
+    "name": "AlephBits Contributors"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "demo",
+    "polish",
+    "beginner",
+    "krakow",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 2,
+  "translation": "Esperanta literatura traduko de la pola promeno tra Krakovo (piloto).",
+  "text": "Frue matene mi eliris sur la straton kaj sentis la freŝan aeron de la urbo. La suno ĵus leviĝis super la tegmentoj de la domoj, kaj la Ĉefplaco estis ankoraŭ silenta kaj malplena.\n\nMi preterpasis la Draponhalon kaj tuŝis la malvarmajn ŝtonojn de la muro. Mi pensis pri la centoj da jaroj de historio, kiuj vidis la samajn ŝtonplankitajn stratojn kaj la samajn preĝejajn sonorilojn.\n\nSur la Malgranda Placo mi haltis ĉe la puto. La akvo en ĝi estis malhela kaj trankvila kiel spegulo. Birdoj kantis en la kronoj de la arboj, kaj mi aŭskultis iliajn voĉojn kaj ripozis momenton.\n\nPoste mi turniĝis en flankan straton kaj vidis malgrandan kafejon. La odoro de freŝa kafo miksiĝis kun la aromo de bakita pano. Mi aĉetis bulkon kaj manĝis ĝin malrapide, rigardante la preterpasantojn.\n\nSur la vojo al la Plantoj mi aŭdis stratmuzikistojn. Ili ludis malnovan melodion per violonoj, kiun mi konis de infanaĝo. Homoj haltis, ridetis kaj ĵetis monerojn en malfermitan valizon.\n\nTrans la urbomuroj mi marŝis al la Vistulo. La rivero fluis trankvile, portante reflektojn de nuboj kaj pontoj. Boatoj estis alligitaj ĉe la kajo, kaj la vento movis la flagojn sur la mastoj.\n\nSur la monteto mi vidis Vavelon. La blankaj muroj de la kastelo brilis en la suno, kaj korvoj rondflugis super la turoj. Mi sentis fieron, ke mi povas vivi tiel proksime al tiel grava loko.\n\nMi reiris malsupren al la centro kaj eniris muzeon. En la salonoj pendis pentraĵoj prezentantaj la antikvan vivon de la urbo. Ĉiu pentraĵo rakontis malsaman historion pri la homoj, kiuj loĝis tie.\n\nVespere mi revenis al la Ĉefplaco. La lanternoj ekbrulis unu post la alia, kaj la domoj akiris oran brilon. La urbo pulsis per vivo, kaj mi sentis min parto de tiu granda rakonto.\n\nTiun tagon mi lernis, ke legado pri konata loko helpas memori novajn signojn. Ĉiu vorto iĝas ponto inter la lingvo, kiun mi konas, kaj la skribo, kiun mi lernas.",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kie la aŭtoro haltis ĉe la puto?",
+        "answers": [
+          "Sur la Malgranda Placo",
+          "Ĉe Vavelo",
+          "Sur la Plantoj",
+          "Ĉe la Vistulo"
+        ],
+        "correctIndex": 0,
+        "explanation": "La aŭtoro skribas pri la Malgranda Placo."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion la aŭtoro aĉetis en la kafejo?",
+        "answers": [
+          "Bulkon",
+          "Kafon",
+          "Akvon",
+          "Kukon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Li aĉetis bulkon kaj manĝis ĝin malrapide."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion la aŭtoro vidas sur la monteto?",
+        "answers": [
+          "Vavelon",
+          "La Plantojn",
+          "Muzeon",
+          "Ponton"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sur la monteto li vidis Vavelon."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion la aŭtoro aŭdas survoje al la Plantoj?",
+        "answers": [
+          "Stratmuzikistojn per violonoj",
+          "Preĝejaj sonoriloj",
+          "Traman sirenon",
+          "La ondojn de la Vistulo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Li aŭdis muzikistojn ludantajn malnovan melodion."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kian konkludon la aŭtoro faras fine?",
+        "answers": [
+          "Legado pri konata loko helpas memori novajn signojn",
+          "Plej bone estas lerni nur en muzeo",
+          "Krakovo ne havas historion",
+          "Stratmuzikistoj malhelpas lernadon"
+        ],
+        "correctIndex": 0,
+        "explanation": "La lasta alineo resumas la utilon de legado pri konata loko."
+      }
+    ]
+  },
+  "coverFamily": "travel",
+  "audience": "adult",
+  "subtitle": "Unua leciono — promeno tra Krakovo",
+  "trustClassification": "demo",
+  "editorialHistory": {
+    "firstPublished": "2026-07-06",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-06"
+  ],
+  "world": {
+    "places": [
+      "market",
+      "castle",
+      "river"
+    ]
+  }
+}

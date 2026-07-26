@@ -1,0 +1,7 @@
+book_id: "wu16hymq"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_garnek_na_glowie"
+legacy_slug: "garnek-na-glowie"

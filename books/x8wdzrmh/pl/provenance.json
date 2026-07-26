@@ -1,0 +1,24 @@
+{
+  "packId": "x8wdzrmh:pl",
+  "bookId": "x8wdzrmh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "JsFiTY_Cnf0"
+    }
+  ],
+  "revisionNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich."
+}

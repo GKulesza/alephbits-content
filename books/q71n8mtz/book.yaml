@@ -1,0 +1,7 @@
+book_id: "q71n8mtz"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cien_skrzydel_nad_oceanem"
+legacy_slug: "cien-skrzydel-nad-oceanem"

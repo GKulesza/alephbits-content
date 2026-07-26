@@ -43,7 +43,7 @@
     "officialPackCount": {
       "type": "integer",
       "minimum": 0,
-      "description": "Number of packs under official/ indexed in packs."
+      "description": "Number of packs with tier official indexed in packs."
     },
     "communityPackCount": {
       "type": "integer",

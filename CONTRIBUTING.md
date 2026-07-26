@@ -6,38 +6,40 @@ Thank you for helping build a calm, trustworthy reading library.
 
 1. Read [README.md](README.md) — repository and editorial philosophy.
 2. Read [Reading Pack Authoring Format](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md) — **write `reading-pack.md` first**.
-3. Copy [reading-pack.template.md](docs/reading-pack.template.md) or the [demo pack](official/glagolitic/pl/spacer-po-krakowie/reading-pack.md).
+3. Copy [reading-pack.template.md](docs/reading-pack.template.md) or the demo edition [`books/hgp8iy3x/pl/reading-pack.md`](books/hgp8iy3x/pl/reading-pack.md).
 
 ## Your first Reading Pack
 
-### 1. Choose a tier
+### 1. Choose book id, locale, and status
 
-| Tier | Path | When to use |
-|------|------|-------------|
-| Experimental | `experimental/<slug>/` | Drafts, prototypes, personal experiments |
-| Community | `community/<handle>/<slug>/` | Finished packs for public sharing |
-| Official | `official/<writing_system>/<language>/<slug>/` | AlephBits Editorial only — do not self-submit |
+| Field | Where | Notes |
+|-------|-------|-------|
+| `book_id` | Directory `books/<book_id>/` | Permanent random id — **not** a title slug |
+| Locale | `books/<book_id>/<locale>/` | Edition identity; pack id is `{book_id}:{locale}` |
+| Status / tier | `book.yaml` `status:` | `experimental` · `community` · `official` |
+
+Do **not** place packs under `official/<writing_system>/<language>/<slug>/` — that Collection v1 layout is retired.
 
 ### 2. Author `reading-pack.md`
 
 ```
-your-pack/
-├── reading-pack.md     # SOURCE — edit this
-├── lesson.json         # GENERATED
-├── text.txt            # GENERATED
-├── quiz.json           # GENERATED
-├── license.md          # GENERATED
-├── provenance.json     # GENERATED
-└── vignette.webp       # OPTIONAL — see vignettes below
+books/<book_id>/
+├── book.yaml           # SOURCE — identity / status only
+├── default/            # OPTIONAL shared cover.webp / vignette.webp
+└── <locale>/
+    ├── reading-pack.md # SOURCE — edit this
+    ├── lesson.json     # GENERATED
+    ├── text.txt        # GENERATED
+    ├── quiz.json       # GENERATED
+    ├── license.md      # GENERATED
+    └── provenance.json # GENERATED
 ```
-
-Copy [docs/reading-pack.template.md](docs/reading-pack.template.md) or `official/glagolitic/pl/spacer-po-krakowie/reading-pack.md`.
 
 ### 3. Compile and catalog
 
 ```bash
 dart pub get
-dart run tools/compile_pack.dart --overwrite path/to/your-pack
+dart run tools/compile_pack.dart --overwrite books/<book_id>/<locale>
 dart run tools/build_manifest.dart --overwrite
 ```
 
@@ -45,23 +47,25 @@ Do **not** hand-edit `manifest.json`. See [docs/MANIFEST.md](docs/MANIFEST.md) a
 
 ### 4. Required sections in `reading-pack.md`
 
-- **Metadata** — title, pack id, difficulty, language, genres, cover family
+- **Metadata** — title, audience, difficulty, language, genres, cover family
 - **Editorial Transparency** — license, AI disclosure, revision history
 - **Sources** — every source with license and retrieval date
 - **Text** — complete reading prose
 - **Quiz** — comprehension questions with explanations (count by length; see app quiz guidelines)
 
-### 5. Optional vignette
+Edition pack id (`{book_id}:{locale}`) is derived at compile time — do not invent `polish_*` ids.
 
-A pack may ship a literary title vignette:
+### 5. Optional art
+
+Prefer book-owned assets:
 
 ```text
-vignette.webp            # 512×512 transparent WebP (preferred)
-vignette.<lang>.webp     # exceptional language override
+books/<book_id>/default/cover.webp
+books/<book_id>/default/vignette.webp
+# optional locale overrides under books/<book_id>/<locale>/
 ```
 
-Symbolic only — not a cover, not typography, not the opening scene.  
-Full production rules: [VIGNETTE_ASSET_SPEC.md](https://github.com/alephbits/alephbits/blob/main/docs/content/VIGNETTE_ASSET_SPEC.md) (app repository). Keep source art outside this repo.
+Full rules: [VIGNETTE_ASSET_SPEC.md](https://github.com/alephbits/alephbits/blob/main/docs/content/VIGNETTE_ASSET_SPEC.md) and [docs/MIGRATION_NOTES_V2_ASSETS.md](docs/MIGRATION_NOTES_V2_ASSETS.md).
 
 ### 6. License
 
@@ -93,7 +97,7 @@ Fix all reported errors before opening a PR.
 
 CI runs `validate_pack` on every PR. Include:
 
-- Pack tier and intended audience
+- Intended `status:` and audience
 - License summary
 - Source / provenance summary
 - Whether AI assistance was used
@@ -102,15 +106,15 @@ CI runs `validate_pack` on every PR. Include:
 
 - [ ] `validate_pack` passes
 - [ ] License is clear and acceptable
-- [ ] Text quality is appropriate for the tier
+- [ ] Text quality is appropriate for the status
 - [ ] Quiz questions match the text (if present)
-- [ ] No duplicate pack IDs
+- [ ] No duplicate edition ids
 - [ ] Manifest regenerated (not hand-edited)
-- [ ] Vignette (if present) matches the asset spec
+- [ ] Assets (if present) match the asset specs
 
 ## Code of conduct
 
-Be respectful. Disputed works are rejected or moved to `experimental/`. AlephBits moderators have final say on featuring and promotion.
+Be respectful. Disputed works are rejected or kept at `status: experimental`. AlephBits moderators have final say on featuring and promotion.
 
 ## Questions
 

@@ -1,0 +1,24 @@
+{
+  "packId": "jjtfph90:pl",
+  "bookId": "jjtfph90",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o toksycznych relacjach; terminologia psychopatii jest edukacyjna w narracji, nie diagnozą katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DRDpDAGHqxE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

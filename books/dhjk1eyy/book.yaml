@@ -1,0 +1,7 @@
+book_id: "dhjk1eyy"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cena_widoku"
+legacy_slug: "cena-widoku"

@@ -1,0 +1,7 @@
+book_id: "dkyayq3s"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_czarny_rynek_tokenow"
+legacy_slug: "czarny-rynek-tokenow"

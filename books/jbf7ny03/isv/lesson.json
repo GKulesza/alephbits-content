@@ -1,0 +1,120 @@
+{
+  "id": "jbf7ny03:isv",
+  "bookId": "jbf7ny03",
+  "locale": "isv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_wiatr_nad_rzeka",
+  "legacySlug": "wiatr-nad-rzeka",
+  "title": "Větr nad rěkoju",
+  "language": "isv",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Anna staje na bulvaru nad Visloju, dokolě město běži dalje bez njej. Stary muž govori o větru, ktory pamęta to, čto nosila voda — i obyčna prošetka staje se časom zastanovanja. Kratka, spokojna scena o povratu do měst, ktore čekajut s trěpěnjami.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 1,
+  "translation": "Literarny prěvod do medžuslovjanskogo (latinica) poljskoj mikroprozy za kontrolu (pilot).",
+  "text": "**VĚTR NAD RĚKOJU**\n\nAnna stala na bulvaru i počula hlad větra nad Visloju. Město šumělo v pozadju, ale tut, pri vodě, vse kazalo se medlennějše.\n\nObok njej sěl stary pan v temno-sinjej kurtkě. Črez čas oni molčali. Potom on rekl:\n\n— Větr dnes pamęta vse, čto nosila voda.\n\nAnna usměhnula se.\n\n— A otkųdy vy to znajuete?\n\n— Bo ja každy denj vracaju se tudy — odgovoril. — I každy raz větr nese něčto inako.\n\nAnna pogleděla na rěku. Valy odrazali světlo lanternov kak kratke, tihe blěski. Ona pomyslila, že možebyt imenno tak izgleda čas, v ktorom varto jest perestati běgati.\n\nPan vstal, klimnul glavju i odšel v storonu mosta. Anna ostala ješče několiko minut, sluhajuči větr. Kogda ona naposlědok pošla nazad, ona uže znala, že vratit se jutro.\n\n**KONEC**",
+  "quiz": {
+    "title": "Prověri razuměnje",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kde odeigraje se scena?",
+        "answers": [
+          "Na bulvaru nad Visloju",
+          "Na rynku v Krakově",
+          "V lěsu",
+          "Na dvorcu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stoji na bulvaru nad Visloju."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto govori stary pan o větru?",
+        "answers": [
+          "Větr pamęta to, čto nosila voda",
+          "Větr vsegda jest hladny",
+          "Větr zatrimuje most",
+          "Větr ne vracaje se"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pan govori, že větr pamęta vse, čto nosila voda."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto Anna rěšaje na koncu?",
+        "answers": [
+          "Vratiiti se jutro",
+          "Nikogda ne vracati se",
+          "Pojehati k morju",
+          "Pozvoniti prijatelju"
+        ],
+        "correctIndex": 0,
+        "explanation": "Poslědnje rečenje govori, že ona vratit se jutro."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kak nazyvaje se heroina?",
+        "answers": [
+          "Anna",
+          "Maria",
+          "Kasia",
+          "Ewa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna stoji na bulvaru."
+      },
+      {
+        "type": "single_choice",
+        "question": "Nad kojoju rěkoju stoji Anna?",
+        "answers": [
+          "Visloju",
+          "Odroju",
+          "Vartoju",
+          "Sanom"
+        ],
+        "correctIndex": 0,
+        "explanation": "Scena odeigraje se nad Visloju."
+      }
+    ]
+  },
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "Kratka kontrolna scena",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "places": [
+      "river",
+      "bridge"
+    ]
+  }
+}

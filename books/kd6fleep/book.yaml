@@ -1,0 +1,7 @@
+book_id: "kd6fleep"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_czterech_w_lodce"
+legacy_slug: "czterech-w-lodce"

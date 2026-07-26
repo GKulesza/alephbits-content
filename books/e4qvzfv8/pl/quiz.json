@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Marek, gdy słyszy o Marsie?",
+      "answers": [
+        "Osiem",
+        "Szesnaście",
+        "Sześćdziesiąt",
+        "Trzydzieści"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek widzi na pierwszym zdjęciu z Viking?",
+      "answers": [
+        "Coś jak twarz",
+        "Kanały wody",
+        "Miasto",
+        "Statek kosmiczny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wskazuje formację skalną wyglądającą jak twarz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co odkrywa łazik Perseverance w kraterze Jezero?",
+      "answers": [
+        "Starożytną deltę rzeki",
+        "Bazę obcych",
+        "Lodowiec",
+        "Wulkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się skała z okrągłymi plamami?",
+      "answers": [
+        "Cheyava Falls",
+        "ALH84001",
+        "Twarz z Cydonii",
+        "Viking Rock"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perseverance znalazł skałę Cheyava Falls."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co ojciec mówi o błędzie z kanałami na Marsie?",
+      "answers": [
+        "Sprawił, że ludzie zaczęli marzyć",
+        "Udowodnił, że na Marsie jest życie",
+        "Zniszczył astronomię",
+        "Był ważniejszy niż prawda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć."
+    }
+  ]
+}

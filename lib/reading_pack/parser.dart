@@ -130,9 +130,15 @@ class ReadingPackParser {
       throw ReadingPackParseException('Text section must not be empty.');
     }
 
-    // Default book ID from directory slug when not in metadata.
+    // Default book ID from the locale directory's parent when using
+    // books/<book_id>/<locale>/, otherwise fallback to the directory slug.
     metadata.putIfAbsent('Book ID', () {
       if (packDirPath != null) {
+        final parts = p.split(p.normalize(packDirPath));
+        final booksIndex = parts.lastIndexOf('books');
+        if (booksIndex != -1 && booksIndex + 2 < parts.length) {
+          return parts[booksIndex + 1];
+        }
         return p.basename(packDirPath);
       }
       return '';

@@ -1,0 +1,7 @@
+book_id: "as442vld"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_mamy_trupa_i_co_dalej"
+legacy_slug: "mamy-trupa-i-co-dalej"

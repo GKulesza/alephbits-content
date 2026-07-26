@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie rodzi się Maria?",
+      "answers": [
+        "W Warszawie",
+        "W Paryżu",
+        "W Krakowie",
+        "We Francji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warszawa, rok 1867 — rodzina Skłodowskich."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Maria traci wiarę w Boga?",
+      "answers": [
+        "Po śmierci matki",
+        "Po wojnie",
+        "Po śmierci ojca",
+        "Po rozwodzie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Po śmierci matki na gruźlicę przestaje wierzyć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Maria dociera na Sorbonę?",
+      "answers": [
+        "Pracuje i wspiera siostrę Bronię",
+        "Dostaje stypendium od cara",
+        "Jedzie z mężem Pierre'em",
+        "Wygrywa konkurs naukowy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Z Bronią zawiera pakt: najpierw jedna studiuje, druga pracuje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazwała pierwiastek ku czci Polski?",
+      "answers": [
+        "Polon",
+        "Radium",
+        "Uran",
+        "Curium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria nazywa go Polonem — hołd dla Polski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile razy Maria dostała Nagrodę Nobla?",
+      "answers": [
+        "Dwa razy",
+        "Raz",
+        "Trzy razy",
+        "Nigdy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nobel z fizyki i z chemii."
+    }
+  ]
+}

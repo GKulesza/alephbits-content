@@ -1,0 +1,7 @@
+book_id: "ogw9xhro"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_w_kawiarni"
+legacy_slug: "w-kawiarni"

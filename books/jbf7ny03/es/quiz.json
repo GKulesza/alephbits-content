@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Dónde ocurre la escena?",
+      "answers": [
+        "En el bulevar junto al Vístula",
+        "En la plaza del mercado de Cracovia",
+        "En un bosque",
+        "En una estación de tren"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna está en el bulevar junto al Vístula."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el señor mayor sobre el viento?",
+      "answers": [
+        "El viento recuerda lo que llevó el agua",
+        "El viento siempre es frío",
+        "El viento detiene el puente",
+        "El viento no vuelve"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice que el viento recuerda todo lo que llevó el agua."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué decide Anna al final?",
+      "answers": [
+        "Volver mañana",
+        "No volver nunca",
+        "Ir al mar",
+        "Llamar a una amiga"
+      ],
+      "correctIndex": 0,
+      "explanation": "La última frase dice que volverá mañana."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama la protagonista?",
+      "answers": [
+        "Anna",
+        "María",
+        "Kasia",
+        "Ewa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna está en el bulevar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Junto a qué río está Anna?",
+      "answers": [
+        "El Vístula",
+        "El Óder",
+        "El Warta",
+        "El San"
+      ],
+      "correctIndex": 0,
+      "explanation": "La escena ocurre junto al Vístula."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kde odeigraje se scena?",
+      "answers": [
+        "Na bulvaru nad Visloju",
+        "Na rynku v Krakově",
+        "V lěsu",
+        "Na dvorcu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna stoji na bulvaru nad Visloju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govori stary pan o větru?",
+      "answers": [
+        "Větr pamęta to, čto nosila voda",
+        "Větr vsegda jest hladny",
+        "Větr zatrimuje most",
+        "Větr ne vracaje se"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pan govori, že větr pamęta vse, čto nosila voda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Anna rěšaje na koncu?",
+      "answers": [
+        "Vratiiti se jutro",
+        "Nikogda ne vracati se",
+        "Pojehati k morju",
+        "Pozvoniti prijatelju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poslědnje rečenje govori, že ona vratit se jutro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kak nazyvaje se heroina?",
+      "answers": [
+        "Anna",
+        "Maria",
+        "Kasia",
+        "Ewa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna stoji na bulvaru."
+    },
+    {
+      "type": "single_choice",
+      "question": "Nad kojoju rěkoju stoji Anna?",
+      "answers": [
+        "Visloju",
+        "Odroju",
+        "Vartoju",
+        "Sanom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scena odeigraje se nad Visloju."
+    }
+  ]
+}

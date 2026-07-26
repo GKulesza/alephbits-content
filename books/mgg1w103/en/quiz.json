@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What are the names of the three friends?",
+      "answers": [
+        "Kicek, Kolczuś and Rudy",
+        "Burek, Azor and Filek",
+        "Matołek, Tygrys and Terka",
+        "Kicek, Rudy and Terka"
+      ],
+      "correctIndex": 0,
+      "explanation": "They are Kicek the rabbit, Kolczuś the hedgehog and Rudy the fox."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who gets the candy first?",
+      "answers": [
+        "Kolczuś",
+        "Rudy",
+        "Kicek",
+        "No one"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolczuś helps Kicek with the thorn selflessly and gets a candy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Rudy not get candies at first?",
+      "answers": [
+        "He only helps to get a reward",
+        "He does not know the tree",
+        "He is sick",
+        "He does not like sweets"
+      ],
+      "correctIndex": 0,
+      "explanation": "His help is not selfless — he expects a reward."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Rudy do when he finally gets the candies?",
+      "answers": [
+        "He shares them with others",
+        "He eats them all himself",
+        "He throws them away",
+        "He hides them for winter"
+      ],
+      "correctIndex": 0,
+      "explanation": "He says he will share with those he helped and eat the rest together."
+    },
+    {
+      "type": "single_choice",
+      "question": "When does a leaf turn into a candy?",
+      "answers": [
+        "When Kolczuś selflessly helps Kicek",
+        "When it rains",
+        "When Rudy shouts",
+        "At night"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tree reacts to Kolczuś's selfless help."
+    }
+  ]
+}

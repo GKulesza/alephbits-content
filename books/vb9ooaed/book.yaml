@@ -1,0 +1,7 @@
+book_id: "vb9ooaed"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cisza_przed_burza"
+legacy_slug: "cisza-przed-burza"

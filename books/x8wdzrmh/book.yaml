@@ -1,0 +1,7 @@
+book_id: "x8wdzrmh"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_susza"
+legacy_slug: "susza"

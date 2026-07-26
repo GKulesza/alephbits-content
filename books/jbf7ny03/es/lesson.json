@@ -1,0 +1,120 @@
+{
+  "id": "jbf7ny03:es",
+  "bookId": "jbf7ny03",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_wiatr_nad_rzeka",
+  "legacySlug": "wiatr-nad-rzeka",
+  "title": "Viento sobre el río",
+  "language": "es",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "Anna se detiene en el bulevar junto al Vístula mientras la ciudad sigue corriendo sin ella. Un hombre mayor habla de un viento que recuerda lo que arrastró el agua — y un paseo ordinario se convierte en un instante de calma. Una escena breve y serena sobre volver a los lugares que esperan con paciencia.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "polish",
+    "verification",
+    "phase-66",
+    "translation-pilot"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 1,
+  "translation": "Traducción literaria al español de la microficción polaca de verificación (piloto).",
+  "text": "**VIENTO SOBRE EL RÍO**\n\nAnna se detuvo en el bulevar y sintió el frío del viento sobre el Vístula. La ciudad murmuraba al fondo, pero aquí, junto al agua, todo parecía más lento.\n\nA su lado se sentó un señor mayor con una chaqueta azul marino. Durante un momento callaron. Luego dijo:\n\n— Hoy el viento recuerda todo lo que llevó el agua.\n\nAnna sonrió.\n\n— ¿Y usted cómo lo sabe?\n\n— Porque vuelvo aquí cada día — respondió. — Y cada vez el viento trae algo distinto.\n\nAnna miró el río. Las olas reflejaban la luz de las farolas en destellos breves y silenciosos. Pensó que quizá así se ve un instante en el que vale la pena dejar de correr.\n\nEl hombre se levantó, asentió con la cabeza y se alejó hacia el puente. Anna se quedó unos minutos más, escuchando el viento. Cuando por fin emprendió el camino de vuelta, ya sabía que regresaría mañana.\n\n**FIN**",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿Dónde ocurre la escena?",
+        "answers": [
+          "En el bulevar junto al Vístula",
+          "En la plaza del mercado de Cracovia",
+          "En un bosque",
+          "En una estación de tren"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna está en el bulevar junto al Vístula."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué dice el señor mayor sobre el viento?",
+        "answers": [
+          "El viento recuerda lo que llevó el agua",
+          "El viento siempre es frío",
+          "El viento detiene el puente",
+          "El viento no vuelve"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dice que el viento recuerda todo lo que llevó el agua."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué decide Anna al final?",
+        "answers": [
+          "Volver mañana",
+          "No volver nunca",
+          "Ir al mar",
+          "Llamar a una amiga"
+        ],
+        "correctIndex": 0,
+        "explanation": "La última frase dice que volverá mañana."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Cómo se llama la protagonista?",
+        "answers": [
+          "Anna",
+          "María",
+          "Kasia",
+          "Ewa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Anna está en el bulevar."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Junto a qué río está Anna?",
+        "answers": [
+          "El Vístula",
+          "El Óder",
+          "El Warta",
+          "El San"
+        ],
+        "correctIndex": 0,
+        "explanation": "La escena ocurre junto al Vístula."
+      }
+    ]
+  },
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "Una breve escena de verificación",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-29"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "places": [
+      "river",
+      "bridge"
+    ]
+  }
+}

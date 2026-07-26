@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co Patryk myśli o podwójnym czajniku tureckim?",
+      "answers": [
+        "Że to sprytny wynalazek",
+        "Że służy do kawy",
+        "Że jest zepsuty",
+        "Że parzy tylko zioła"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patryk uważa podwójny czajnik za genialny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Furkan mówi Patrykowi o parzeniu?",
+      "answers": [
+        "Za mało herbaty i za krótko",
+        "Za dużo cukru",
+        "Zimna woda",
+        "Złe liście"
+      ],
+      "correctIndex": 0,
+      "explanation": "Furkan radzi: więcej liści i dłuższe parzenie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mistrzyni matcha mówi o herbacie?",
+      "answers": [
+        "Że to harmonia i szacunek",
+        "Że trzeba pić szybko",
+        "Że jest tylko napojem",
+        "Że jest zawsze gorzka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi: harmonia, szacunek, czystość, spokój."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak pije się herbatę w Turcji według tekstu?",
+      "answers": [
+        "Mocna i słodka w małych szklankach",
+        "Zimna bez cukru",
+        "Tylko wieczorem",
+        "Wyłącznie w ceremonii"
+      ],
+      "correctIndex": 0,
+      "explanation": "W Turcji piją ją mocną, słodką, w małych szklankach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki wniosek wyciąga Patryk na końcu?",
+      "answers": [
+        "Każdy ma swój dobry sposób parzenia",
+        "Tylko matcha się liczy",
+        "Herbata jest wszędzie taka sama",
+        "Polska herbata jest najlepsza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdy ma swój sposób — i każdy jest dobry."
+    }
+  ]
+}

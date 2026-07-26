@@ -1,0 +1,7 @@
+book_id: "oecve6pr"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cudaczek_wysmiewaczek"
+legacy_slug: "cudaczek-wysmiewaczek"

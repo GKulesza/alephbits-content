@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kie la aŭtoro haltis ĉe la puto?",
+      "answers": [
+        "Sur la Malgranda Placo",
+        "Ĉe Vavelo",
+        "Sur la Plantoj",
+        "Ĉe la Vistulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La aŭtoro skribas pri la Malgranda Placo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la aŭtoro aĉetis en la kafejo?",
+      "answers": [
+        "Bulkon",
+        "Kafon",
+        "Akvon",
+        "Kukon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li aĉetis bulkon kaj manĝis ĝin malrapide."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la aŭtoro vidas sur la monteto?",
+      "answers": [
+        "Vavelon",
+        "La Plantojn",
+        "Muzeon",
+        "Ponton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur la monteto li vidis Vavelon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la aŭtoro aŭdas survoje al la Plantoj?",
+      "answers": [
+        "Stratmuzikistojn per violonoj",
+        "Preĝejaj sonoriloj",
+        "Traman sirenon",
+        "La ondojn de la Vistulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li aŭdis muzikistojn ludantajn malnovan melodion."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian konkludon la aŭtoro faras fine?",
+      "answers": [
+        "Legado pri konata loko helpas memori novajn signojn",
+        "Plej bone estas lerni nur en muzeo",
+        "Krakovo ne havas historion",
+        "Stratmuzikistoj malhelpas lernadon"
+      ],
+      "correctIndex": 0,
+      "explanation": "La lasta alineo resumas la utilon de legado pri konata loko."
+    }
+  ]
+}

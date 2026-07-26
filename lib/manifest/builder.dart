@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:alephbits_content/content/edition_identity.dart';
 import 'package:alephbits_content/manifest/catalog.dart';
 import 'package:alephbits_content/reading_pack/json_writer.dart';
 import 'package:alephbits_content/reading_pack/parser.dart';
@@ -66,6 +67,7 @@ class PackIndexEntry {
       'tier': tier,
       'writingSystem': writingSystem,
       'language': language,
+      'locale': primaryLocale(language),
       'title': title,
       'version': version,
       'editionVersion': editionVersion,
@@ -86,7 +88,7 @@ class ManifestBuilder {
   Map<String, dynamic> build(String repoRoot) {
     final discovered = discoverPacksWithLesson(repoRoot);
     if (discovered.isEmpty) {
-      throw ManifestBuildException('No Reading Packs found under official/, community/, or experimental/.');
+      throw ManifestBuildException('No Reading Packs found under books/<book_id>/<locale>/.');
     }
 
     final entries = <PackIndexEntry>[];
@@ -192,10 +194,10 @@ class ManifestBuilder {
   }
 
   String _writingSystem(DiscoveredPack pack, Map<String, dynamic> lesson) {
-    if (pack.tier == 'official') {
-      final parts = pack.relativePath.split('/');
-      if (parts.length >= 3) {
-        return parts[1];
+    if (pack.bookId != null) {
+      final fromBookYaml = _bookYamlField(pack, 'writing_system');
+      if (fromBookYaml != null && fromBookYaml.isNotEmpty) {
+        return fromBookYaml;
       }
     }
     final fromLesson = lesson['recommendedWritingSystem'];
@@ -206,6 +208,9 @@ class ManifestBuilder {
   }
 
   String _bookId(DiscoveredPack pack) {
+    if (pack.bookId != null && pack.bookId!.isNotEmpty) {
+      return pack.bookId!;
+    }
     final provenanceFile = File(p.join(pack.absolutePath, 'provenance.json'));
     if (provenanceFile.existsSync()) {
       final provenance = _readJsonObject(provenanceFile);
@@ -215,6 +220,26 @@ class ManifestBuilder {
       }
     }
     return p.basename(pack.absolutePath);
+  }
+
+  String? _bookYamlField(DiscoveredPack pack, String field) {
+    if (pack.bookId == null) return null;
+    final absolute = p.normalize(pack.absolutePath);
+    final parts = p.split(absolute);
+    final booksIndex = parts.lastIndexOf('books');
+    if (booksIndex == -1 || booksIndex + 1 >= parts.length) {
+      return null;
+    }
+    final bookDir = p.joinAll(parts.take(booksIndex + 2));
+    final file = File(p.join(bookDir, 'book.yaml'));
+    if (!file.existsSync()) return null;
+    for (final rawLine in file.readAsLinesSync()) {
+      final line = rawLine.trim();
+      if (line.startsWith('$field:')) {
+        return line.substring(field.length + 1).trim().replaceAll('"', '').replaceAll("'", '');
+      }
+    }
+    return null;
   }
 
   List<String> _categories(DiscoveredPack pack) {

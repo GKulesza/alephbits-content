@@ -62,6 +62,8 @@
         ]
       }
     },
-    "revisionNotes": { "type": "string" }
+    "revisionNotes": { "type": "string" },
+    "generatedBy": { "const": "compile_pack" },
+    "generatedFrom": { "const": "reading-pack.md" }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "packId": "ag1ol73d:pl",
+  "bookId": "ag1ol73d",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o długich związkach; blisko „Froteryzmu intelektualnego” — inny slug."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Mlunu1IKmYE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

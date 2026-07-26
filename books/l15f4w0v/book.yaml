@@ -1,0 +1,7 @@
+book_id: "l15f4w0v"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_nowy_ogrod"
+legacy_slug: "nowy-ogrod"

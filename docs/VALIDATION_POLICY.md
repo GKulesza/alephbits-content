@@ -37,14 +37,21 @@
 
 | Check | Tier | Implemented |
 |-------|------|-------------|
+| `reading-pack.md` exists under `books/` | Required | ✓ |
 | `lesson.json` exists | Required | ✓ |
 | `license.md` exists | Required | ✓ |
-| `provenance.json` for `official/` | Required | ✓ |
+| Generated artifacts match `compile_pack` (read-only) | Required | ✓ |
+| `generatedBy` / `generatedFrom` markers on JSON artifacts | Required | ✓ |
+| `provenance.json` for official | Required | ✓ |
 | Valid JSON in all `.json` files | Required | ✓ |
 | `lesson.json`: `id`, `title`, `language`, `text` | Required | ✓ |
-| `difficulty` in 1–10 if present | Required | ✓ |
+| `difficulty` in 1–8 | Required | ✓ |
+| `audience` present and known (canonical or legacy alias) | Required | ✓ |
+| Audience ≠ Category (axes independent) | Required (policy) | ✓ docs |
+| Audience ≠ Difficulty (axes independent) | Required (policy) | ✓ docs |
 | `text.txt` matches `lesson.json` text if present | Required | ✓ |
 | `quiz.json` matches inline quiz if both present | Required | ✓ |
+| `quiz.json` without `reading-pack.md` rejected | Required | ✓ |
 | `provenance.packId` matches `lesson.id` | Required | ✓ |
 | Official provenance not under wrong tier | Required | ✓ |
 | Book `manifest.json` language consistency | Required | ✓ |
@@ -53,6 +60,24 @@
 | `estimatedReadingTime` vs word count | Recommended | — |
 | `author`, `description`, `license` in lesson | Recommended | — |
 | Cover image exists if referenced | Future | — |
+
+## Book ownership (`book.yaml`)
+
+| Check | Tier | Implemented |
+|-------|------|-------------|
+| `book.yaml` present for each `books/<id>/` | Required | ✓ |
+| Required: `book_id`, `status`, `default_locale` | Required | ✓ |
+| Forbidden: `editorial_metadata`, `license`, `author` | Required | ✓ |
+
+## Studies
+
+| Check | Tier | Implemented |
+|-------|------|-------------|
+| `study.yaml` `book:` is a real `book_id` | Required | ✓ |
+| `questions:` file exists | Required | ✓ |
+| No `quiz.json` under `studies/` | Required | ✓ |
+
+Ownership policy: [EDITORIAL_OWNERSHIP.md](EDITORIAL_OWNERSHIP.md).
 
 ---
 
@@ -88,7 +113,7 @@ These are **not** automated — see [EDITORIAL_QUALITY_STANDARDS.md](https://git
 
 ## Official pack publication gate
 
-Before merging to `official/`:
+Before promoting to `status: official`:
 
 1. All **Required** checks pass in CI
 2. Human checklist in EDITORIAL_QUALITY_STANDARDS complete

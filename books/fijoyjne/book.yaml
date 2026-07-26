@@ -1,0 +1,7 @@
+book_id: "fijoyjne"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_jak_bor_z_jasnego_nieba"
+legacy_slug: "jak-bor-z-jasnego-nieba"

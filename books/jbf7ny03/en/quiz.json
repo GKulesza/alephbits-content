@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does the scene take place?",
+      "answers": [
+        "On the boulevard by the Vistula",
+        "In Kraków’s market square",
+        "In a forest",
+        "At a train station"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna stands on the boulevard by the Vistula."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the older man say about the wind?",
+      "answers": [
+        "The wind remembers what the water carried",
+        "The wind is always cold",
+        "The wind stops the bridge",
+        "The wind never returns"
+      ],
+      "correctIndex": 0,
+      "explanation": "He says the wind remembers everything the water carried."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anna decide at the end?",
+      "answers": [
+        "To come back tomorrow",
+        "Never to return",
+        "To go to the sea",
+        "To call a friend"
+      ],
+      "correctIndex": 0,
+      "explanation": "The last sentence says she will return tomorrow."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the heroine’s name?",
+      "answers": [
+        "Anna",
+        "Maria",
+        "Kasia",
+        "Ewa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna stands on the boulevard."
+    },
+    {
+      "type": "single_choice",
+      "question": "By which river does Anna stand?",
+      "answers": [
+        "The Vistula",
+        "The Oder",
+        "The Warta",
+        "The San"
+      ],
+      "correctIndex": 0,
+      "explanation": "The scene unfolds by the Vistula."
+    }
+  ]
+}

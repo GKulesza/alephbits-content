@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu la komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kie okazas la sceno?",
+      "answers": [
+        "Sur la bulvardo apud Vislo",
+        "Sur la merkatoplaco de Krakovo",
+        "En arbaro",
+        "Ĉe stacidomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna staras sur la bulvardo apud Vislo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la pli aĝa sinjoro pri la vento?",
+      "answers": [
+        "La vento memoras tion, kion portis la akvo",
+        "La vento ĉiam estas malvarma",
+        "La vento haltigas la ponton",
+        "La vento ne revenas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li diras, ke la vento memoras ĉion, kion portis la akvo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anna decidas en la fino?",
+      "answers": [
+        "Reveni morgaŭ",
+        "Neniam reveni",
+        "Iri al la maro",
+        "Telefoni al amiko"
+      ],
+      "correctIndex": 0,
+      "explanation": "La lasta frazo diras, ke ŝi revenos morgaŭ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la heroino?",
+      "answers": [
+        "Anna",
+        "Maria",
+        "Kasia",
+        "Ewa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anna staras sur la bulvardo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Apud kiu rivero staras Anna?",
+      "answers": [
+        "Vislo",
+        "Odro",
+        "Varto",
+        "Sano"
+      ],
+      "correctIndex": 0,
+      "explanation": "La sceno okazas apud Vislo."
+    }
+  ]
+}

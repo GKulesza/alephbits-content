@@ -1,0 +1,7 @@
+book_id: "wt1q3tmy"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_prolog_wiatru"
+legacy_slug: "prolog-wiatru"

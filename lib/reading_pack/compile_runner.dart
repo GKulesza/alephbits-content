@@ -76,14 +76,15 @@ void writeArtifacts(String packDirPath, CompiledArtifacts compiled) {
 
 List<String> discoverPackDirectoriesWithReadingPack(String repoRoot) {
   final results = <String>[];
-  for (final tier in ['official', 'community', 'experimental']) {
-    final tierDir = Directory(p.join(repoRoot, tier));
-    if (!tierDir.existsSync()) continue;
-    for (final entity in tierDir.listSync(recursive: true)) {
-      if (entity is! Directory) continue;
-      final md = File(p.join(entity.path, 'reading-pack.md'));
-      if (md.existsSync()) {
-        results.add(entity.path);
+  final booksRoot = Directory(p.join(repoRoot, 'books'));
+  if (booksRoot.existsSync()) {
+    for (final bookDir in booksRoot.listSync().whereType<Directory>()) {
+      for (final entity in bookDir.listSync().whereType<Directory>()) {
+        if (p.basename(entity.path) == 'default') continue;
+        final md = File(p.join(entity.path, 'reading-pack.md'));
+        if (md.existsSync()) {
+          results.add(entity.path);
+        }
       }
     }
   }

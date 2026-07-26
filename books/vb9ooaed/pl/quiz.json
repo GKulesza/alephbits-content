@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jakie podejście Rejewski proponuje wobec Enigmy?",
+      "answers": [
+        "Zrozumieć działanie urządzenia",
+        "Analizować tylko teksty",
+        "Czekać na komputer",
+        "Ignorować dokumentację"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski mówi, że trzeba zrozumieć maszynę — to matematyka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką słabość Niemców odkrywa Rejewski?",
+      "answers": [
+        "Porządek alfabetyczny w połączeniach",
+        "Losowe połączenia",
+        "Brak wirników",
+        "Jeden klucz rocznie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konstruktorzy wybrali porządek alfabetyczny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym jest bomba kryptologiczna?",
+      "answers": [
+        "Urządzeniem symulującym Enigmy",
+        "Bronią palną",
+        "Instrumentem pogodowym",
+        "Książką instruktażową"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bomba symuluje działanie wielu Enigm."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest głównym bohaterem opowieści?",
+      "answers": [
+        "Marian Rejewski",
+        "Alan Turing",
+        "Hitler",
+        "Generał Sikorski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski prowadzi prace nad łamaniem Enigmy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Rejewski mówi o Enigmie na początku?",
+      "answers": [
+        "To matematyka, nie język",
+        "To niemożliwe do złamania",
+        "To tylko legenda",
+        "To amerykański wynalazek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Podkreśla, że trzeba myśleć matematycznie."
+    }
+  ]
+}

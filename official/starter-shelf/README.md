@@ -1,15 +1,16 @@
 # Official Starter Shelf
 
-Collection v1 planning anchors for the twelve curated library categories.
+**Historical** Collection v1 planning anchors for the twelve curated library categories.
 
-**Packs do not live here.** Official reading packs use:
+**Packs do not live here.** Content Model v2 packs live under:
 
 ```text
-official/<writing_system>/<language>/<slug>/
+books/<book_id>/<locale>/
 ```
 
-Category definitions, length bands, and quiz guidance live in the app docs:
+Category vocabulary and metadata live in the app docs:
 
-[COLLECTION_V1_FOUNDATION.md](https://github.com/alephbits/alephbits/blob/main/docs/content/COLLECTION_V1_FOUNDATION.md)
+- [METADATA_MODEL.md](https://github.com/alephbits/alephbits/blob/main/docs/content/METADATA_MODEL.md)
+- [COLLECTION_V1_FOUNDATION.md](https://github.com/alephbits/alephbits/blob/main/docs/content/COLLECTION_V1_FOUNDATION.md) (historical shelf briefs)
 
 Do not duplicate category briefs in this repository.

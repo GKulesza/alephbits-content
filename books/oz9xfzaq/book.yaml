@@ -1,0 +1,7 @@
+book_id: "oz9xfzaq"
+created: "2026-07-27"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_rozmowa_z_lekarzem"
+legacy_slug: "rozmowa-z-lekarzem"

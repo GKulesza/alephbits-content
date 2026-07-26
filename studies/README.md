@@ -19,11 +19,13 @@ studies/
 ```yaml
 id: ISV001
 title: Interslavic Comprehension
-book: polish_przerwa        # pack id or bookId — never duplicate the book
+book: omqigct2           # book_id (preferred) or edition id — never duplicate the book
 language: pl
 questions: questions.pl.json
 export: true
 ```
+
+Legacy `polish_*` pack ids still resolve via app remapping for existing study configs; new studies should use `book_id`.
 
 ## Sync
 
@@ -37,4 +39,4 @@ Join codes normalize to the study `id`: case-insensitive, spaces and hyphens ign
 
 ## Relationship to books
 
-Studies never duplicate books. They reference a pack by catalog `id` or `bookId` under `official/`, `community/`, or `experimental/`.
+Studies never duplicate books. They reference a catalog book by permanent `book_id` (or edition id `{book_id}:{locale}`) under `books/`.
