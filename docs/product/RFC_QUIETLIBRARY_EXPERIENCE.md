@@ -3,7 +3,7 @@
 **Status:** Proposal (architecture & UX only)  
 **Date:** 2026-07-21  
 **Audience:** Founder, product, future client implementers  
-**Depends on:** World Engine Foundation · World Dictionary (100% coverage) · [WORLD_DICTIONARY_FINAL_REPORT.md](WORLD_DICTIONARY_FINAL_REPORT.md) · Milestone Review 01  
+**Depends on:** World Engine Foundation · World Dictionary (see [world/README.md](../../world/README.md))
 
 **Non-goals for this RFC:** Do **not** implement QuietLibrary, Reader changes, recommendations, AI runtime, SVG artwork, or approval automation. This document designs the experience only.
 
@@ -439,8 +439,6 @@ PASS when stakeholders agree that:
 
 ## 15. References
 
-- [WORLD_DICTIONARY_FINAL_REPORT.md](WORLD_DICTIONARY_FINAL_REPORT.md)  
-- [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](WORLD_DICTIONARY_MILESTONE_REVIEW_01.md)  
 - [world/README.md](../../world/README.md)  
 - [world/REVIEW_CANDIDATES.md](../../world/REVIEW_CANDIDATES.md)  
 - App-layer: World Engine Foundation · RFC Book World Metadata (alephbits)

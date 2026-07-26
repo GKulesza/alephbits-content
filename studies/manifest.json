@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "studies": [
+    {
+      "id": "ISV001",
+      "title": "Przerwa — Reading Comprehension Pilot",
+      "path": "studies/ISV001",
+      "version": "2",
+      "status": "pilot",
+      "enabled": true,
+      "updated": "2026-07-19"
+    }
+  ]
+}

@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # AlephBits Content
 
 The official open content repository for [AlephBits](https://github.com/alephbits/alephbits) — a calm, private reading library for discovering new writing systems through real books.
 
-This repository holds **Reading Packs**: curated texts with metadata, licenses, optional quizzes, and editorial provenance. The AlephBits app syncs from this repository; packs are not buried inside the app binary.
+This repository holds **Reading Packs**: curated texts with metadata, licenses, optional quizzes, vignettes, and editorial provenance. The AlephBits app syncs from this repository; packs are not buried inside the app binary.
 
 ## What lives here
 
@@ -12,9 +11,13 @@ This repository holds **Reading Packs**: curated texts with metadata, licenses, 
 | `official/` | AlephBits Editorial packs — full quality bar, provenance required |
 | `community/` | Contributor packs — PR review, license required |
 | `experimental/` | Drafts and prototypes — hidden unless explicitly enabled |
+| `world/` | World Dictionary — shared vocabulary for pack `world` metadata |
+| `studies/` | Optional experiment scenarios that reference existing packs |
+| `covers/` | Shared cover-family artwork |
 | `schemas/` | JSON Schema validation contracts |
-| `scripts/` | `validate_pack` CLI and future tooling |
-| `docs/` | Repository philosophy and future sync design |
+| `scripts/` | `validate_pack` and related validation |
+| `tools/` | Living CLIs (`compile_pack`, `build_manifest`) and historical import scripts |
+| `docs/` | Repository docs — see [docs/README.md](docs/README.md) |
 
 ## Repository philosophy
 
@@ -26,15 +29,13 @@ This repository holds **Reading Packs**: curated texts with metadata, licenses, 
 
 ## Editorial philosophy
 
-AlephBits Editorial treats every pack as a reading invitation:
-
 1. The text must reward reading on its own — conversion enhances, never replaces.
 2. Native reading (without script conversion) is always valid.
 3. Quizzes check comprehension gently; they are optional companions, not exams.
 4. Provenance answers *where did this text come from?* for every official pack.
 5. Categories grow in data — new genres do not require app releases.
 
-See the main app docs for the full editorial playbook: [EDITORIAL_PLAYBOOK.md](https://github.com/alephbits/alephbits/blob/main/docs/content/EDITORIAL_PLAYBOOK.md).
+Full editorial playbook (app repo): [EDITORIAL_PLAYBOOK.md](https://github.com/alephbits/alephbits/blob/main/docs/content/EDITORIAL_PLAYBOOK.md).
 
 ## How packs are reviewed
 
@@ -61,25 +62,24 @@ See the main app docs for the full editorial playbook: [EDITORIAL_PLAYBOOK.md](h
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
-**Author in Markdown:** copy [docs/reading-pack.template.md](docs/reading-pack.template.md), fill sections, compile to JSON (future), run `validate_pack`.
-
-Quick start for your first pack:
-
-1. Fork this repository.
-2. Copy the structure from `official/glagolitic/pl/spacer-po-krakowie/`.
-3. Place community packs under `community/<your-handle>/<slug>/`.
-4. Run validation locally:
+**Author in Markdown:** copy [docs/reading-pack.template.md](docs/reading-pack.template.md), fill sections, then:
 
 ```bash
-dart pub get
+dart run tools/compile_pack.dart --overwrite path/to/pack
+dart run tools/build_manifest.dart --overwrite
 dart run scripts/validate_pack.dart
 ```
 
-5. Open a PR. CI runs the same validation automatically.
+Quick start:
+
+1. Fork this repository.
+2. Copy structure from `official/glagolitic/pl/spacer-po-krakowie/`.
+3. Place community packs under `community/<your-handle>/<slug>/`.
+4. Validate and open a PR. CI runs the same validation.
 
 ## Manifest
 
-`manifest.json` at the repository root is the library catalog. It indexes every pack, category, and featured collection. See [docs/MANIFEST.md](docs/MANIFEST.md) for field documentation.
+`manifest.json` at the repository root is the **generated** library catalog. Never edit it by hand — regenerate with `dart run tools/build_manifest.dart --overwrite`. See [docs/MANIFEST.md](docs/MANIFEST.md).
 
 ## Validation
 
@@ -88,18 +88,9 @@ dart pub get
 dart run scripts/validate_pack.dart
 ```
 
-The validator checks:
-
-- Required files (`lesson.json`, `license.md`, `provenance.json` for official)
-- Schema structural validity
-- Duplicate pack IDs
-- `text.txt` / `quiz.json` consistency with `lesson.json`
-- Manifest references to existing pack paths
-- Quiz answer integrity
-
 ## App integration
 
-The AlephBits app references this repository via a sibling checkout symlinked at `alephbits/alephbits-content`. Future releases will sync packs from the repository manifest with selective download.
+The AlephBits app references this repository via a sibling checkout symlinked at `alephbits/alephbits-content`. Production builds pin the GitHub `main` catalog URL.
 
 ## License
 
@@ -109,13 +100,10 @@ Individual packs carry their own licenses in `license.md`. Always check per-pack
 
 ## Related documents
 
-- [Author workflow (app docs)](https://github.com/alephbits/alephbits/blob/main/docs/content/AUTHOR_WORKFLOW.md)
-- [Tooling roadmap](https://github.com/alephbits/alephbits/blob/main/docs/content/TOOLING_ROADMAP.md)
+- [Documentation index](docs/README.md)
+- [Authoring format (app)](https://github.com/alephbits/alephbits/blob/main/docs/content/READING_PACK_AUTHORING_FORMAT.md)
+- [Vignette asset spec (app)](https://github.com/alephbits/alephbits/blob/main/docs/content/VIGNETTE_ASSET_SPEC.md)
 - [Compile pipeline](docs/COMPILE_PIPELINE.md)
-- [Delta update philosophy](docs/DELTA_UPDATES.md)
-- [Manifest field reference](docs/MANIFEST.md)
+- [Manifest](docs/MANIFEST.md)
 - [Validation policy](docs/VALIDATION_POLICY.md)
-=======
-# alephbits-content
-Official Reading Pack library for AlephBits. Multilingual educational content with transparent sources and editorial metadata.
->>>>>>> 74e434635b761147a697a0605c848a2aaa92ee52
+- [World Dictionary](world/README.md)

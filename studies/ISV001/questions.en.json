@@ -1,0 +1,77 @@
+{
+  "title": "ISV001 — Przerwa (comprehension)",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How many hours had Patryk worked before he closed the laptop?",
+      "answers": [
+        "Eight",
+        "Ten",
+        "Fourteen",
+        "Twenty-four"
+      ],
+      "correctIndex": 2,
+      "explanation": "The opening states that he had worked fourteen hours."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Patryk write on the first page of the notebook?",
+      "answers": [
+        "That he cannot remember when he last felt truly well and truly breathed",
+        "An outline for tomorrow’s presentation",
+        "A list of medicines and sleep hours",
+        "The address of a sleep clinic"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first entry is about forgetting when he last felt well and really breathed."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where did Patryk’s notebook come from?",
+      "answers": [
+        "He bought it in a bookshop",
+        "He found it at the office",
+        "A coworker gave it to him",
+        "His wife gave it to him for his birthday three years ago"
+      ],
+      "correctIndex": 3,
+      "explanation": "An old notebook from his wife’s birthday gift three years ago is in the drawer."
+    },
+    {
+      "type": "single_choice",
+      "question": "In the traffic jam, which question does Patryk ask himself out loud?",
+      "answers": [
+        "Will I make it to the presentation?",
+        "Do I have to stress about this?",
+        "Why is the boss never satisfied?",
+        "When did I last sleep well?"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the jam he repeats the podcast question about whether he must stress about it."
+    },
+    {
+      "type": "single_choice",
+      "question": "By the end of the story, how does Patryk understand stress?",
+      "answers": [
+        "As an enemy to defeat with coffee and overtime",
+        "As a reason to change jobs immediately",
+        "As information from the body; the answer is pausing and breathing",
+        "As a signal to return to the presentation that same night"
+      ],
+      "correctIndex": 2,
+      "explanation": "The closing reflection treats stress as information answered by stopping and breathing."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the story end?",
+      "answers": [
+        "Patryk returns to the laptop and finishes an email to his boss",
+        "He goes for a run across Warsaw",
+        "He throws away the notebook and buys a new one",
+        "He lies down beside his wife and falls asleep calmly"
+      ],
+      "correctIndex": 3,
+      "explanation": "He closes the notebook, lies down beside his wife, and falls asleep calmly."
+    }
+  ]
+}

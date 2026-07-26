@@ -1,0 +1,77 @@
+{
+  "title": "ISV001 — Przerwa (comprehension)",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile godzin Patryk pracował, zanim zamknął laptopa?",
+      "answers": [
+        "Osiem",
+        "Dziesięć",
+        "Czternaście",
+        "Dwadzieścia cztery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tekst otwiera się informacją: „Pracował czternaście godzin.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Patryk zapisuje na pierwszej stronie notesu?",
+      "answers": [
+        "Że nie pamięta, kiedy czuł się naprawdę dobrze i naprawdę oddychał",
+        "Plan jutrzejszej prezentacji",
+        "Listę leków i godzin snu",
+        "Adres kliniki snu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pierwszy wpis dotyczy niepamięci dobrego samopoczucia i prawdziwego oddechu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi notes Patryka?",
+      "answers": [
+        "Kupił go w księgarni",
+        "Znalazł go w biurze",
+        "Dostał od kolegi z pracy",
+        "Dostał od żony na urodziny trzy lata temu"
+      ],
+      "correctIndex": 3,
+      "explanation": "W szufladzie leży stary notes od żony na urodziny sprzed trzech lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "W korku Patryk zadaje sobie na głos pytanie. Które?",
+      "answers": [
+        "Czy zdążę na prezentację?",
+        "Czy ja się muszę tym stresować?",
+        "Dlaczego szef nigdy nie jest zadowolony?",
+        "Kiedy ostatnio dobrze spałem?"
+      ],
+      "correctIndex": 1,
+      "explanation": "W korku powtarza pytanie z podcastu: „Czy ja się muszę tym stresować?”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Patryk ostatecznie rozumie stres pod koniec opowiadania?",
+      "answers": [
+        "Jako wroga, którego trzeba pokonać kawą i nadgodzinami",
+        "Jako powód do natychmiastowej zmiany pracy",
+        "Jako informację od ciała; odpowiedzią jest zatrzymanie się i oddech",
+        "Jako sygnał, by wrócić do prezentacji tej samej nocy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Końcowa refleksja: stres to informacja, a odpowiedzią jest zatrzymanie i oddychanie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się opowiadanie?",
+      "answers": [
+        "Patryk wraca do laptopa i dokańcza maila do szefa",
+        "Wychodzi biegać po Warszawie",
+        "Wyrzuca notes i kupuje nowy",
+        "Kładzie się obok żony i zasypia spokojnie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zamyka notes, kładzie się obok żony i po raz pierwszy od dawna zasypia spokojnie."
+    }
+  ]
+}

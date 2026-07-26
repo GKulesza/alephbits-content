@@ -58,7 +58,7 @@ Only these five:
 - `symbols`
 - `places`
 
-Do **not** add categories in this phase.
+Do **not** add categories without an explicit dictionary revision.
 
 ### 6. Status
 
@@ -72,15 +72,12 @@ Usually **3–5** elements per book. Sparse is better than noisy. Empty `world` 
 
 ---
 
-## Backfill
+## Coverage
 
-See [PHASE_TBD_WORLD_CONTENT_BACKFILL.md](../docs/product/PHASE_TBD_WORLD_CONTENT_BACKFILL.md).  
-Milestone: [WORLD_DICTIONARY_MILESTONE_REVIEW_01.md](../docs/product/WORLD_DICTIONARY_MILESTONE_REVIEW_01.md).  
-**Final report:** [WORLD_DICTIONARY_FINAL_REPORT.md](../docs/product/WORLD_DICTIONARY_FINAL_REPORT.md).
+All published packs carry `world` metadata (126 packs as of 2026-07-26).
 
-**Coverage:** 125 / 125 packs (100%).  
-**QuietLibrary beta:** 25 backbone concepts marked `approved` (2026-07-22); remainder stay `proposed`.
+QuietLibrary beta: **25** backbone concepts marked `approved`; remainder stay `proposed`.
 
-## Review candidates
+Keep / merge / revisit candidates: [REVIEW_CANDIDATES.md](REVIEW_CANDIDATES.md).
 
-Living list with usage counts and reasons: [REVIEW_CANDIDATES.md](REVIEW_CANDIDATES.md).
+Historical batch notes and milestone diaries were removed in the 2026-07 maintenance cleanup — git history retains them.
