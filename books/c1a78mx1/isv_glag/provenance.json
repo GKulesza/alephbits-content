@@ -1,0 +1,24 @@
+{
+  "packId": "c1a78mx1:isv_glag",
+  "bookId": "c1a78mx1",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "VubCpPqFNPM"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

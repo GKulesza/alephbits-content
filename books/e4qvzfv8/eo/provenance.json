@@ -1,0 +1,28 @@
+{
+  "packId": "e4qvzfv8:eo",
+  "bookId": "e4qvzfv8",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "HfXR5ME4byc"
+    },
+    {
+      "type": "youtube",
+      "videoId": "c7owS-PRE0s"
+    }
+  ],
+  "revisionNotes": "Phase 75 catalog migration"
+}
