@@ -63,6 +63,21 @@
       }
     },
     "revisionNotes": { "type": "string" },
+    "translationStatus": {
+      "type": "string",
+      "enum": ["machine", "reviewed", "final"],
+      "description": "Optional. Declared translation state for translated editions (absent for source editions)."
+    },
+    "translationSource": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+:[a-z0-9_]+$",
+      "description": "Optional. Edition id of the source edition a translation was generated from, e.g. hgp8iy3x:pl."
+    },
+    "translationSourceVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+(\\.\\d+)?$",
+      "description": "Optional. Version of the source edition a translation was generated from."
+    },
     "generatedBy": { "const": "compile_pack" },
     "generatedFrom": { "const": "reading-pack.md" }
   }

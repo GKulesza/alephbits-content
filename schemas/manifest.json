@@ -179,12 +179,31 @@
         "tier": { "type": "string", "enum": ["official", "community", "experimental"] },
         "writingSystem": { "type": "string", "minLength": 1 },
         "language": { "type": "string", "minLength": 2 },
+        "locale": { "type": "string", "minLength": 2 },
         "title": { "type": "string", "minLength": 1 },
         "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "editionVersion": { "type": "string", "minLength": 1 },
         "categories": {
           "type": "array",
           "items": { "type": "string" },
           "uniqueItems": true
+        },
+        "coverFamily": { "type": "string", "minLength": 1 },
+        "subtitle": { "type": "string", "minLength": 1 },
+        "audience": { "type": "string", "minLength": 1 },
+        "trustClassification": { "type": "string", "minLength": 1 },
+        "translationStatus": {
+          "type": "string",
+          "enum": ["machine", "reviewed", "final"],
+          "description": "Compact translation state exposed for indexing (M/R/F words); canonical source is reading-pack.md metadata."
+        },
+        "translationSource": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+:[a-z0-9_]+$"
+        },
+        "translationSourceVersion": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+(\\.\\d+)?$"
         },
         "cover": {
           "type": "string",

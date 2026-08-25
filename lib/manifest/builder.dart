@@ -37,6 +37,9 @@ class PackIndexEntry {
     this.subtitle,
     this.audience,
     this.trustClassification,
+    this.translationStatus,
+    this.translationSource,
+    this.translationSourceVersion,
   });
 
   final String id;
@@ -59,6 +62,16 @@ class PackIndexEntry {
   final String? audience;
   final String? trustClassification;
 
+  /// Declared translation state of a translated edition: machine | reviewed | final.
+  final String? translationStatus;
+
+  /// Provenance anchor of the edition this translation was generated from,
+  /// e.g. `hgp8iy3x:pl`.
+  final String? translationSource;
+
+  /// Version of the source edition this translation was generated from.
+  final String? translationSourceVersion;
+
   Map<String, dynamic> toManifestEntry() {
     return {
       'id': id,
@@ -77,6 +90,12 @@ class PackIndexEntry {
       if (audience != null && audience!.isNotEmpty) 'audience': audience,
       if (trustClassification != null && trustClassification!.isNotEmpty)
         'trustClassification': trustClassification,
+      if (translationStatus != null && translationStatus!.isNotEmpty)
+        'translationStatus': translationStatus,
+      if (translationSource != null && translationSource!.isNotEmpty)
+        'translationSource': translationSource,
+      if (translationSourceVersion != null && translationSourceVersion!.isNotEmpty)
+        'translationSourceVersion': translationSourceVersion,
       'difficulty': difficulty,
       'estimatedReadingTime': estimatedReadingTime,
       'featured': featured,
@@ -190,6 +209,9 @@ class ManifestBuilder {
       subtitle: _optionalString(lesson['subtitle']),
       audience: _optionalString(lesson['audience']),
       trustClassification: _optionalString(lesson['trustClassification']),
+      translationStatus: _optionalString(lesson['translationStatus']),
+      translationSource: _optionalString(lesson['translationSource']),
+      translationSourceVersion: _optionalString(lesson['translationSourceVersion']),
     );
   }
 

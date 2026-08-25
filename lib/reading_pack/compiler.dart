@@ -177,6 +177,13 @@ class ReadingPackCompiler {
       'translation': metadata['Translation summary'] ?? '',
       'text': text,
       'quiz': quiz,
+      if (_nonEmpty(metadata['Translation status']) case final translationStatus?)
+        'translationStatus': translationStatus,
+      if (_nonEmpty(metadata['Translation source']) case final translationSource?)
+        'translationSource': translationSource,
+      if (_nonEmpty(metadata['Translation source version'])
+          case final translationSourceVersion?)
+        'translationSourceVersion': translationSourceVersion,
     };
 
     if (coverFamily != null) {
@@ -262,7 +269,7 @@ class ReadingPackCompiler {
     final language = metadata['Original language'] ?? '';
     final locale = _locale(packDirPath, language);
 
-    return {
+    final provenance = <String, dynamic>{
       'packId': editionIdFor(bookId: bookId, locale: locale),
       'bookId': bookId,
       'generatedBy': 'compile_pack',
@@ -281,6 +288,19 @@ class ReadingPackCompiler {
       'sources': _buildProvenanceSources(doc, editorialProvenance),
       'revisionNotes': _revisionNotes(doc),
     };
+
+    if (_nonEmpty(metadata['Translation status']) case final translationStatus?) {
+      provenance['translationStatus'] = translationStatus;
+    }
+    if (_nonEmpty(metadata['Translation source']) case final translationSource?) {
+      provenance['translationSource'] = translationSource;
+    }
+    if (_nonEmpty(metadata['Translation source version'])
+        case final translationSourceVersion?) {
+      provenance['translationSourceVersion'] = translationSourceVersion;
+    }
+
+    return provenance;
   }
 
   String _buildLicense(ReadingPackDocument doc) {
