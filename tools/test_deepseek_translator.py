@@ -184,11 +184,16 @@ class DeepSeekTranslatorTests(unittest.TestCase):
         body = json.loads(fake.request_body)
         self.assertEqual(body["model"], "deepseek-custom")
 
-    def test_default_model(self):
+    def test_default_model_fallback(self):
+        # The default must be a current DeepSeek model, not the retired
+        # "deepseek-chat" alias (retired 2026-07-24). Assert the literal
+        # value so a regression back to the legacy default fails.
         fake = FakeHttp()
+        os.environ.pop(ds.MODEL_ENV, None)
         self.translate(fake)
         body = json.loads(fake.request_body)
-        self.assertEqual(body["model"], ds.DEFAULT_MODEL)
+        self.assertEqual(body["model"], "deepseek-v4-flash")
+        self.assertEqual(ds.DEFAULT_MODEL, "deepseek-v4-flash")
 
     def test_low_temperature_default(self):
         fake = FakeHttp()

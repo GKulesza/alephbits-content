@@ -11,7 +11,7 @@ stored in the repository.**
 | Variable | Required | Default | Purpose |
 |---|---|---|---|
 | `DEEPSEEK_API_KEY` | yes | — | DeepSeek API key (Bearer auth). |
-| `DEEPSEEK_MODEL` | no | `deepseek-chat` | Model identifier. |
+| `DEEPSEEK_MODEL` | no | `deepseek-v4-flash` | Model identifier. |
 | `DEEPSEEK_TEMPERATURE` | no | `0.3` | Sampling temperature (lower = more deterministic). |
 | `DEEPSEEK_TIMEOUT_SECONDS` | no | `180` | HTTP request timeout. |
 

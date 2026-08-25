@@ -15,7 +15,7 @@ library only — no third-party SDK or network dependency is introduced.
 Network behavior:
     * POST https://api.deepseek.com/chat/completions
     * Authorization: Bearer <DEEPSEEK_API_KEY>
-    * Model: DEEPSEEK_MODEL (default "deepseek-chat")
+    * Model: DEEPSEEK_MODEL (default "deepseek-v4-flash")
     * Temperature: DEEPSEEK_TEMPERATURE (default 0.3) for deterministic output
 
 Output policy (strict):
@@ -53,7 +53,7 @@ TEMPERATURE_ENV = "DEEPSEEK_TEMPERATURE"
 TIMEOUT_ENV = "DEEPSEEK_TIMEOUT_SECONDS"
 
 DEFAULT_API_URL = "https://api.deepseek.com/chat/completions"
-DEFAULT_MODEL = "deepseek-chat"
+DEFAULT_MODEL = "deepseek-v4-flash"
 DEFAULT_TEMPERATURE = 0.3
 DEFAULT_TIMEOUT_SECONDS = 180
 
