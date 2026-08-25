@@ -220,6 +220,125 @@ def quiz_shape_matches(source_markdown: str, target_markdown: str) -> bool:
 
 
 # ---------------------------------------------------------------------------
+# Translation structural validation (runs before anything is written)
+# ---------------------------------------------------------------------------
+
+#: `##` section headings that must survive translation when present in the source.
+REQUIRED_SECTIONS = {
+    "Metadata",
+    "Editorial Transparency",
+    "Sources",
+    "Text",
+    "Quiz",
+}
+
+#: Structural metadata values that are canonical IDs or fixed values and must
+#: never be translated, rewritten, or dropped. `Original language` is excluded:
+#: it is the edition's own locale and is retargeted deterministically by the
+#: pipeline (enforced by a separate check below).
+STRUCTURAL_METADATA_KEYS = {
+    "Pack ID",
+    "Book ID",
+    "Legacy Pack ID",
+    "Genres",
+    "Audience",
+    "Difficulty",
+    "Estimated reading time",
+    "Recommended profile",
+    "Recommended level",
+    "Writing system",
+    "Trust classification",
+    "Tags",
+    "Cover family",
+    "Series",
+    "Version",
+    "Edition version",
+    "Publication date",
+    "Historical period",
+}
+
+_URL_RE = re.compile(r"https?://\S+")
+_SPDX_RE = re.compile(r"SPDX:\s*[A-Za-z0-9.+-]+")
+_CORRECT_MARKER_RE = re.compile(r"^\*\*Correct:\*\*\s*([A-F])\s*$", re.MULTILINE)
+
+
+def section_headings(markdown: str) -> set:
+    return {
+        line.strip()[3:].strip()
+        for line in markdown.splitlines()
+        if line.strip().startswith("## ")
+    }
+
+
+def validate_translated_content(
+    source_markdown: str,
+    target_markdown: str,
+    *,
+    target_locale: str,
+) -> list:
+    """Return a list of structural violations, empty when [target_markdown] is safe.
+
+    Every violation means the edition MUST NOT be written. This is the last
+    line of defense before write; the provider instructions already ask the
+    model to preserve these invariants.
+    """
+    errors: list = []
+
+    source_fields = parse_edition_fields(source_markdown)
+    target_fields = parse_edition_fields(target_markdown)
+
+    for key in ("Pack ID", "Book ID"):
+        source_value = source_fields.get(key)
+        if source_value is not None and target_fields.get(key) != source_value:
+            errors.append(
+                f"structural metadata '{key}' changed "
+                f"({source_value!r} -> {target_fields.get(key)!r})"
+            )
+
+    for key in sorted(STRUCTURAL_METADATA_KEYS - {"Pack ID", "Book ID"}):
+        if key not in source_fields:
+            continue
+        source_value = source_fields[key]
+        if target_fields.get(key) != source_value:
+            errors.append(
+                f"structural metadata '{key}' changed "
+                f"({source_value!r} -> {target_fields.get(key)!r})"
+            )
+
+    source_sections = section_headings(source_markdown)
+    target_sections = section_headings(target_markdown)
+    for section in REQUIRED_SECTIONS:
+        if section in source_sections and section not in target_sections:
+            errors.append(f"required section '## {section}' is missing")
+
+    if not source_markdown.startswith("# "):
+        errors.append("source document is missing the leading '# Title' heading")
+    elif not target_markdown.startswith("# "):
+        errors.append("translated document is missing the leading '# Title' heading")
+
+    if _URL_RE.findall(source_markdown) != _URL_RE.findall(target_markdown):
+        errors.append("URLs changed between source and translation")
+
+    if _SPDX_RE.findall(source_markdown) != _SPDX_RE.findall(target_markdown):
+        errors.append("SPDX/license identifiers changed between source and translation")
+
+    if _CORRECT_MARKER_RE.findall(source_markdown) != _CORRECT_MARKER_RE.findall(target_markdown):
+        errors.append("quiz correct-answer markers changed (answer order must be preserved)")
+
+    if not quiz_shape_matches(source_markdown, target_markdown):
+        errors.append("quiz structure changed (question count or answer count per question)")
+
+    if target_locale and target_fields.get("Original language") != target_locale:
+        errors.append(
+            f"'Original language' is {target_fields.get('Original language')!r}, "
+            f"expected {target_locale!r}"
+        )
+
+    return errors
+
+
+
+# ---------------------------------------------------------------------------
 # Translators
 # ---------------------------------------------------------------------------
 
@@ -740,10 +859,15 @@ def execute(
                     source_version=job.src_version,
                     status=status,
                 )
-                if not quiz_shape_matches(source_md, translated):
+                violations = validate_translated_content(
+                    source_md,
+                    translated,
+                    target_locale=job.locale,
+                )
+                if violations:
                     failed.append(
-                        f"{edition}: quiz answer-order/structural guard failed — "
-                        "translation changed the number of questions or answers"
+                        f"{edition}: structural validation failed — "
+                        + "; ".join(violations)
                     )
                     continue
                 write_text_atomic(
@@ -767,10 +891,15 @@ def execute(
                     source_version=job.src_version,
                     status=status,
                 )
-                if not quiz_shape_matches(source_md, transformed):
+                violations = validate_translated_content(
+                    source_md,
+                    transformed,
+                    target_locale=job.locale,
+                )
+                if violations:
                     failed.append(
-                        f"{edition}: quiz answer-order/structural guard failed during "
-                        "ISV script derivation"
+                        f"{edition}: ISV derivation validation failed — "
+                        + "; ".join(violations)
                     )
                     continue
                 write_text_atomic(

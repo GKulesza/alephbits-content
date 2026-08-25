@@ -407,6 +407,26 @@ class DerivedGenerationTests(unittest.TestCase):
         # Prose actually changed script (transliterated), not copied verbatim.
         self.assertNotEqual(transformed, isv_md)
 
+    def test_derived_edition_passes_structural_validation(self):
+        import generate_isv_script_editions as isv_tool
+
+        isv_md = pack_markdown("isv", version="1.0.0")
+        transformed = isv_tool.transform_pack(isv_md, "isv_cyrl")
+        patched = tp.patch_translation_metadata(
+            transformed,
+            book_id="test",
+            target_locale="isv_cyrl",
+            source_locale="isv",
+            source_version="1.0.0",
+            status="machine",
+        )
+        violations = tp.validate_translated_content(
+            isv_md,
+            patched,
+            target_locale="isv_cyrl",
+        )
+        self.assertEqual(violations, [])
+
 
 class DiscoveryAndPlanTests(unittest.TestCase):
     def setUp(self):
@@ -457,6 +477,79 @@ class DiscoveryAndPlanTests(unittest.TestCase):
         first = [(j.book_id, j.locale, j.state, j.action) for j in tp.plan(self.root).jobs]
         second = [(j.book_id, j.locale, j.state, j.action) for j in tp.plan(self.root).jobs]
         self.assertEqual(first, second)
+
+
+class StructuralValidationTests(unittest.TestCase):
+    """validate_translated_content must reject anything that would corrupt an edition."""
+
+    def valid_target(self, md=None):
+        if md is None:
+            md = pack_markdown("pl", version="1.0.0")
+        # A correct translation retargets Original language but keeps structure.
+        return md.replace("**Original language:** pl  ", "**Original language:** en  ")
+
+    def validate(self, target_md, source_md=None, target_locale="en"):
+        return tp.validate_translated_content(
+            source_md or pack_markdown("pl"),
+            target_md,
+            target_locale=target_locale,
+        )
+
+    def test_valid_translation_passes(self):
+        self.assertEqual(self.validate(self.valid_target()), [])
+
+    def test_changed_book_id_is_rejected(self):
+        target = self.valid_target().replace("**Book ID:** test", "**Book ID:** other")
+        self.assertIn("'Book ID' changed", self.validate(target)[0])
+
+    def test_changed_genres_is_rejected(self):
+        target = self.valid_target().replace(
+            "**Genres:** travel", "**Genres:** podróże",
+        )
+        self.assertIn("'Genres' changed", self.validate(target)[0])
+
+    def test_missing_required_section_is_rejected(self):
+        target = self.valid_target().replace("## Quiz\n", "")
+        self.assertIn("required section '## Quiz' is missing", self.validate(target)[0])
+
+    def test_missing_title_heading_is_rejected(self):
+        target = self.valid_target().replace("# Title", "Title")
+        self.assertTrue(any("'# Title' heading" in e for e in self.validate(target)))
+
+    def test_changed_url_is_rejected(self):
+        source = pack_markdown("pl") + "Source: https://example.com/a\n"
+        target = source.replace(
+            "**Original language:** pl  ", "**Original language:** en  "
+        ).replace("https://example.com/a", "https://example.com/b")
+        self.assertIn("URLs changed", self.validate(target, source_md=source)[0])
+
+    def test_changed_spdx_is_rejected(self):
+        source = pack_markdown("pl")
+        target = self.valid_target(source).replace("CC0-1.0", "MIT")
+        self.assertIn("SPDX", self.validate(target, source_md=source)[0])
+
+    def test_changed_correct_marker_is_rejected(self):
+        source = pack_markdown("pl")
+        target = self.valid_target(source).replace("**Correct:** A", "**Correct:** B")
+        self.assertIn("correct-answer markers", self.validate(target, source_md=source)[0])
+
+    def test_answer_count_change_is_rejected(self):
+        source = pack_markdown("pl")
+        target = self.valid_target(source).replace(
+            "- A) One\n- B) Two\n", "- A) One\n", 1,
+        )
+        self.assertIn("quiz structure changed", self.validate(target, source_md=source)[0])
+
+    def test_retargeted_original_language_required(self):
+        target = pack_markdown("pl")  # still says pl, not retargeted
+        self.assertIn("'Original language' is", self.validate(target)[0])
+
+    def test_changed_tags_are_rejected(self):
+        source = pack_markdown("pl").replace(
+            "**Genres:** travel", "**Genres:** travel\n**Tags:** a, b",
+        )
+        target = self.valid_target(source).replace("**Tags:** a, b", "**Tags:** x")
+        self.assertIn("'Tags' changed", self.validate(target, source_md=source)[0])
 
 
 if __name__ == "__main__":
