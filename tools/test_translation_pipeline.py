@@ -6,6 +6,7 @@ Run with:
   python3 -m unittest discover -s tools -p 'test_*.py'
 """
 
+import json
 import os
 import sys
 import tempfile
@@ -470,6 +471,56 @@ class DiscoveryAndPlanTests(unittest.TestCase):
         plan_result = tp.plan(self.root, selected_locales=["en"])
         locales = {job.locale for job in plan_result.jobs}
         self.assertEqual(locales, {"en"})
+
+    def test_plan_missing_only_restricts_to_missing(self):
+        write_book(self.root, book_id="a1")
+        # a1:en exists and is current; the other targets are missing.
+        write_edition(
+            self.root, "a1", "en", version="1.0.0",
+            status="machine", source="a1:pl", source_version="1.0.0",
+        )
+        plan_result = tp.plan(self.root, missing_only=True)
+        states = {job.locale: job.state for job in plan_result.jobs}
+        self.assertEqual(states, {"es": "missing", "eo": "missing", "isv": "missing"})
+        self.assertNotIn("en", states)
+
+    def test_plan_missing_only_keeps_missing_derived(self):
+        write_book(self.root, book_id="a1")
+        write_edition(
+            self.root, "a1", "isv", version="1.0.0",
+            status="machine", source="a1:pl", source_version="1.0.0",
+        )
+        plan_result = tp.plan(self.root, missing_only=True)
+        locales = {job.locale: job.action for job in plan_result.jobs}
+        self.assertEqual(locales.get("isv_cyrl"), "transliterate")
+        self.assertEqual(locales.get("isv_glag"), "transliterate")
+
+    def test_report_json_contains_per_edition_jobs(self):
+        write_book(self.root, book_id="a1")
+        write_book(self.root, book_id="b2")
+        plan_result = tp.plan(self.root)
+        payload = json.loads(tp.report_json(plan_result, executing=False))
+        jobs = payload["jobs"]
+        self.assertGreater(len(jobs), 0)
+        for job in jobs:
+            self.assertIn("bookId", job)
+            self.assertIn("locale", job)
+            self.assertIn("state", job)
+            self.assertIn("action", job)
+        missing = [j for j in jobs if j["state"] == "missing"]
+        self.assertTrue(missing)
+        self.assertEqual(missing[0]["action"], "create")
+
+    def test_report_json_reflects_missing_only_plan(self):
+        write_book(self.root, book_id="a1")
+        write_edition(
+            self.root, "a1", "en", version="1.0.0",
+            status="machine", source="a1:pl", source_version="1.0.0",
+        )
+        plan_result = tp.plan(self.root, missing_only=True)
+        payload = json.loads(tp.report_json(plan_result, executing=False))
+        self.assertEqual({j["locale"] for j in payload["jobs"]}, {"es", "eo", "isv"})
+        self.assertTrue(all(j["action"] == "create" for j in payload["jobs"]))
 
     def test_plan_is_deterministic(self):
         for book_id in ("b2", "a1"):

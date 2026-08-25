@@ -633,6 +633,7 @@ def plan(
     selected_locales: Optional[list] = None,
     unlock_final: bool = False,
     regenerate_reviewed: bool = False,
+    missing_only: bool = False,
 ) -> Plan:
     result = Plan(repo_root=repo_root, books=discover_books(repo_root))
     if not result.books:
@@ -656,17 +657,21 @@ def plan(
                 src_locale, src_version = "isv", isv_version
             else:
                 src_locale, src_version = source_locale, source_version
-            result.jobs.append(
-                classify_edition(
-                    repo_root=repo_root,
-                    book_id=book_id,
-                    locale=locale,
-                    src_locale=src_locale,
-                    src_version=src_version,
-                    unlock_final=unlock_final,
-                    regenerate_reviewed=regenerate_reviewed,
-                )
+            job = classify_edition(
+                repo_root=repo_root,
+                book_id=book_id,
+                locale=locale,
+                src_locale=src_locale,
+                src_version=src_version,
+                unlock_final=unlock_final,
+                regenerate_reviewed=regenerate_reviewed,
             )
+            if missing_only and job.state != "missing":
+                # Restrict the plan to editions that do not exist yet. Current,
+                # stale, final, reviewed and unclassified editions are excluded
+                # from both the report and execution.
+                continue
+            result.jobs.append(job)
     return result
 
 
@@ -758,11 +763,30 @@ def report_json(plan_result: Plan, *, executing: bool, run_summary: Optional[dic
             "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "mode": "execute" if executing else "dry-run",
             **summarize(plan_result),
+            "jobs": [_job_dict(job) for job in plan_result.jobs],
             "run": run_summary,
         },
         indent=2,
         sort_keys=True,
     )
+
+
+def _job_dict(job: EditionState) -> dict:
+    """Machine-readable plan detail for one edition (used by Studio dry-runs)."""
+    return {
+        "bookId": job.book_id,
+        "locale": job.locale,
+        "state": job.state,
+        "action": job.action,
+        "kind": job.kind,
+        "status": job.status,
+        "editionVersion": job.edition_version,
+        "translationSourceVersion": job.translation_source_version,
+        "translationSource": job.translation_source,
+        "srcLocale": job.src_locale,
+        "srcVersion": job.src_version,
+        "reason": job.reason,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -1003,6 +1027,13 @@ def parse_args(argv: Optional[list] = None) -> argparse.Namespace:
         "Without it, stale reviewed editions are reported and skipped.",
     )
     parser.add_argument(
+        "--missing-only",
+        action="store_true",
+        help="Restrict the run to editions that are missing (create/transliterate). "
+        "Current, stale, final, reviewed and unclassified editions are excluded "
+        "from the plan entirely.",
+    )
+    parser.add_argument(
         "--books",
         default=None,
         help="Comma-separated book ids to limit the run (default: all canonical books).",
@@ -1058,6 +1089,7 @@ def main(argv: Optional[list] = None) -> int:
         selected_locales=selected_locales,
         unlock_final=args.unlock_final,
         regenerate_reviewed=args.regenerate_reviewed,
+        missing_only=args.missing_only,
     )
 
     run_summary = None
