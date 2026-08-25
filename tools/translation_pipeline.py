@@ -853,7 +853,8 @@ def parse_args(argv: Optional[list] = None) -> argparse.Namespace:
         "--translator",
         default=None,
         help="Translator: `builtin:copy` or a python module exposing "
-        "`translate(source_markdown: str) -> str`. Required to create/regenerate.",
+        "`translate(source_markdown, *, source_locale, target_locale) -> str`. "
+        "Required to create/regenerate.",
     )
     parser.add_argument(
         "--status",
