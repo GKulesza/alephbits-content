@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who referred Darek to Dr Cubała?",
+      "answers": [
+        "Marta",
+        "Professor Czupryniak",
+        "A psychologist",
+        "His boss"
+      ],
+      "correctIndex": 1,
+      "explanation": "The note: Professor Czupryniak says — this isn't diabetes, go to Dr Cubała."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is wrong with Darek's cortisol curve?",
+      "answers": [
+        "It's too high in the morning",
+        "In the morning cortisol barely \"breathes\", in the evening it shoots up",
+        "There's no cortisol",
+        "It's a constant level"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magdalena explains the reversed daily rhythm of cortisol."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magdalena say about the gut-brain axis?",
+      "answers": [
+        "That it doesn't exist",
+        "That it's a two-way highway — stress ruins the gut, a sick gut stresses the brain",
+        "That it only concerns children",
+        "That an antibiotic cures it"
+      ],
+      "correctIndex": 1,
+      "explanation": "She describes the vicious circle between stress and the gut."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Darek admit about the divorce from Marta?",
+      "answers": [
+        "That Marta was to blame",
+        "That he had no strength to argue and thought she was exaggerating — and now he sees he \"broke\"",
+        "That he never loved her",
+        "That he'll go back to her"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says: I'm the one who broke. Literally."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magdalena say about emotions and cortisol?",
+      "answers": [
+        "That emotions don't matter",
+        "That holding on to resentment produces cortisol — the body is constantly in a state of war",
+        "That emotions must be suppressed",
+        "That only medication helps"
+      ],
+      "correctIndex": 1,
+      "explanation": "She talks about emotions producing cortisol and the state of siege."
+    }
+  ]
+}

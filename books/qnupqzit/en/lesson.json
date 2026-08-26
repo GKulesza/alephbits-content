@@ -1,0 +1,129 @@
+{
+  "id": "qnupqzit:en",
+  "bookId": "qnupqzit",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_dlaczego_niebo_jest_niebieskie",
+  "legacySlug": "dlaczego-niebo-jest-niebieskie",
+  "title": "Why Is the Sky Blue?",
+  "language": "en",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-10",
+  "description": "The sky seems obvious — until you start asking where that colour comes from. From the scattering of light, through Homer having no word for blue, to modern physics and the limits of our vision. A calm, deep story about how even the simplest question can open several layers of truth at once.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "polish",
+    "popular_science",
+    "dlaczego-niebo-jest-niebieskie"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 9,
+  "translation": "English translation of the Polish reading pack \"Dlaczego niebo jest niebieskie?\" — Collection Zero official edition.",
+  "text": "**Why Is the Sky Blue?**\n\nWhen we open our eyes in the morning and look up, we see a familiar sight – a bright, blue sky. It seems obvious, almost natural. But the truth is that the sky isn't blue at all. At least not in the way we think.\n\nRichard Feynman, one of the greatest physicists of the twentieth century, knew this well. Once he was sitting in a café in Pasadena, looking through the window at a perfectly blue sky, when he heard his companion say:\n\n– Beautiful day.\n\nFeynman turned and asked:\n\n– What do you mean by \"blue\"?\n\nHis companion burst out laughing. He thought it was a joke. Feynman wasn't joking. For the next half hour he explained that the blue colour of the sky is not a property of the sky, nor even a property of sunlight. It's a product – something your brain generates in the darkness of its own interior, on the basis of completely colourless input information.\n\nThis question – what the colour you see really is – is one of the most fundamental questions of physics and neurobiology at once. And, like most fundamental questions, at first it sounds like nonsense.\n\n---\n\n**Layer one: Physics**\n\nLet's start with what we know for certain. Sunlight is white. Not yellow, not golden, not blue. White in the physical sense means a mixture of all wavelengths of electromagnetic radiation visible to the human eye – red, orange, yellow, green, blue and violet. Each of these colours has a different wavelength. Red light has long waves, blue and violet – short ones.\n\nWhen this light reaches the Earth's atmosphere, it doesn't pass through unchanged. Waves of light collide with gas molecules – mainly nitrogen and oxygen – and bounce off in different directions. This phenomenon is called scattering. And the key to the puzzle was discovered in 1871 by the British physicist John William Strutt, Baron Rayleigh. He described the phenomenon we now call Rayleigh scattering.\n\nHe discovered that short waves – blue and violet – scatter many times more strongly than long waves – red or yellow. The difference is not small – blue light scatters up to 10 times more strongly than red light. That's why, looking up in any direction, we see mainly the blue part of the light scattered in all directions.\n\nAnd why not violet? If violet scatters even more strongly than blue, why isn't the sky violet? There are two reasons. First, the human eye responds weakly to violet – we are more sensitive to blue. Second, the upper layers of the atmosphere absorb part of the violet light, especially ozone. The final effect is that the sky appears blue, not purple.\n\nYou can imagine the atmosphere as a huge light diffuser. The sun shines from one direction, but air molecules scatter the short waves in all directions, which is why the whole celestial dome glows evenly.\n\n---\n\n**Layer two: The eye and the brain**\n\nBut Rayleigh's physics only explains why more photons of a particular frequency reach your eyes. It doesn't explain how colour arises from those photons. That is a different question, and it's deeper.\n\nYour eye is an extraordinary device. In it you have two types of light-sensitive receptors – rods, which work in dim light and don't distinguish colours, and cones, of which there are three types. Each is sensitive to a different range of frequencies. L-cones are sensitive to long waves – what the brain will label as red. M-cones to medium ones – green. S-cones to short ones – blue.\n\nWhen a photon hits a cone, it triggers a photochemical reaction. An electrical signal travels along the optic nerve to the brain. And stop here for a moment, because this is the boundary between physics and something else. The signal that reaches the visual cortex is a stream of nerve impulses. There is no colour in it. There is only information – which frequency, what intensity, from which cone. From this information your brain produces colour.\n\nFeynman was very precise on this point. He would say: \"Colour is not a property of light. Colour is the way your nervous system categorises electromagnetic radiation.\"\n\nAnd this is not an opinion. It's a physiological fact that can be measured. You can have two completely different spectral compositions of light – two completely different sets of photons of different frequencies – that produce identical excitation of the L, M and S cones, and therefore an identical experience of colour. These two physically different stimuli are indistinguishable to your brain. Physicists call this metamerism. Painters have known it intuitively for centuries – you can mix different pigments and get the same final colour.\n\nColour is not a property of objects. It is a ratio of activation between three types of cones, processed by a neural network that, through years of learning, has learned how to categorise that ratio.\n\n---\n\n**Layer three: The colour constancy trap**\n\nIn February 2015 a photo of a dress appeared on Twitter. The question was simple: what colours do you see? Black-and-gold or blue-and-white? Within 48 hours more than 10 million people had seen the photo. Half saw a black-and-gold dress, the other half a blue-and-white one. Couples had crises, newsrooms rushed out urgent articles. And the dress was objectively blue and black – but that was almost irrelevant.\n\nWhat matters is that both groups saw truly. Their eyes registered identical photons, their brains processed the same electrical signals, and then did something completely different with them.\n\nThe mechanism is called colour constancy. Your brain constantly computes what the lighting in a given environment is – whether it's daylight, a light bulb or a fluorescent lamp. And it subtracts that lighting from the colours it processes. That's why an apple is red for you both at noon in the sun and in the evening under the yellow light of a lamp – even though the photons reaching your eyes are completely different in the two cases.\n\nWith the dress, the brains of the participants made different assumptions about the lighting. Some assumed the photo was taken in strong daylight and subtracted the blue tint as an effect of the lighting, seeing gold. Others assumed artificial lighting and saw blue. Feynman would smile: \"You don't see the dress. You see your interpretation of the dress.\"\n\n---\n\n**Layer four: Language and perception**\n\nIn 1858 William Edward Gladstone, later Prime Minister of Great Britain, published a three-volume study of ancient Greece. He was a fanatical reader of Homer – he knew the Iliad and the Odyssey in the original. And at some point he came across something that troubled him. Homer, describing the sea, uses the word \"wine-dark\". Sheep are sometimes violet in his work. The sky appears as \"bronze\", \"iron\", \"starry\". But nowhere – in none of the tens of thousands of lines – did Homer use the word \"blue\" in relation to the sky.\n\nGladstone started counting. White appears in Homer over 100 times. Black almost 200. Red a few dozen. Blue – zero.\n\nGladstone published the results and put forward a hypothesis that sounded like madness: perhaps the ancient Greeks didn't see the colour blue. Perhaps their vision was biologically different. He was wrong in his diagnosis, but he had discovered the right problem.\n\nSeveral decades later the linguist Lazarus Geiger conducted a systematic study of ancient texts – the Rigveda, the Koran, the Bible, Old Icelandic sagas, Chinese texts. In none of them was blue a separate category. Then researchers began to map how different languages around the world encode colours. They discovered a striking pattern: all languages distinguish black and white. If they distinguish more, they add red. Then yellow or green. And blue appears as a separate category only at stage five or later.\n\nLanguages without a separate word for blue process colours differently at the neural level. Experiments with the Himba people of Namibia showed that their language doesn't distinguish blue and green – one word covers both categories.\n\nWhen they were shown a circle made of 12 coloured squares, 11 of which were green and one blue, they had enormous difficulty with it. But when they were shown a circle in which one green square had a slightly different shade than the rest – a shade that would look identical to a European – the Himba pointed to it immediately, without hesitation. Their brains saw differently. Not because they had different eyes. Because they had different categories.\n\n---\n\n**Layer five: The hard problem**\n\nFeynman was a Nobel laureate in physics. He formulated quantum electrodynamics – one of the most precise descriptions of nature in the history of science. But with everything he knew, he returned to a certain kind of fundamental humility. He once said: \"I think I can safely say that nobody understands quantum mechanics.\" He said it seriously, not as a rhetorical paradox.\n\nIt is the same with perception. We have neuroscience that describes the mechanisms of vision down to the molecular level. We know which protein changes shape when a photon hits it. We know how the signal travels to the visual cortex. We know which areas of the brain activate with different colours. But the question of how the subjective experience of seeing blue arises from nerve impulses – that question still has no answer.\n\nPhilosophers call it \"the hard problem of consciousness\". Neurologists sometimes pretend it doesn't exist. Feynman wouldn't. He said many times that an honest admission of not knowing is more important than a false impression of understanding. \"I would rather have questions that can't be answered than answers that can't be questioned.\"\n\n---\n\n**Feynman in the café**\n\nLet's return to the café in Pasadena. Feynman finished his second coffee and drew a diagram on a napkin: Sun – arrow – atmosphere – arrow – eye – arrow – brain – arrow – blue. He marked every step with arrows. Then he drew a cross on the word \"blue\" at the end of the diagram and wrote beside it: \"Equals a product, not a property.\"\n\nThe waitress came over to ask if he wanted anything else. Feynman showed her the napkin and asked if the sky was blue. The waitress looked through the window.\n\n– Yes.\n\n– How do you know?\n\nThe waitress shrugged and walked away. Feynman left the napkin as a tip.\n\nThat day a first-year physics student at Berkeley found the napkin and kept it. Sixty years later he told this story at Feynman's funeral. I don't know whether this story is true. There is no evidence for it. But it sounds like Feynman – and that may be more important.\n\n---\n\nGo outside and look at the sky. You now have several layers to choose from.\n\nYou can see a blue sky – a simple category, useful, everyday, requiring no further thought.\n\nYou can see Rayleigh scattering – photons of short wavelength, scattered by the atmosphere 10 times more effectively than long-wave photons, flooding the dome of the sky evenly from all directions.\n\nYou can see a learned construct – the category \"blue\" that your brain has acquired over years, automatically overlaid on the pattern of excitation of the S, M and L cones.\n\nYou can see an unanswered question – whatever it is, that subjective experience of colour that appears somewhere between a nerve impulse and consciousness, and which science cannot yet explain.\n\nAll four layers are true. All four are, at the same time, the same sky.\n\nFeynman once said about flowers: \"A scientist can see the beauty of a flower and everything his knowledge has taught him. And these things do not contradict each other. They add up. The flower is more beautiful, not less, when you know more about it.\"\n\nThe same applies to the sky. The blue colour of the sky is beautiful. The fact that this colour is a product of your brain doesn't diminish its beauty. And the fact that we don't know why this product is blue, and not, for example, buzzing like a sound – that is a question that makes the world far more interesting than if we had answered it.\n\nFeynman used to say that a good question is more important than a good answer. And although the sky is still blue, you will never look at it the same way again.",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Why does the sky look blue?",
+        "answers": [
+          "The scattering of short-wave light",
+          "Paint in the clouds",
+          "The reflection of the sea",
+          "An illusion at dusk"
+        ],
+        "correctIndex": 0,
+        "explanation": "The text explains Rayleigh scattering — blue waves scatter more strongly."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Gladstone notice in Homer?",
+        "answers": [
+          "The absence of a word for blue",
+          "Hundreds of descriptions of the sky",
+          "Only the colour white",
+          "A description of a rainbow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gladstone counts the colours in Homer — blue does not occur."
+      },
+      {
+        "type": "single_choice",
+        "question": "Who does the text mention when discussing the hard problem of consciousness?",
+        "answers": [
+          "Feynman",
+          "Newton",
+          "Einstein",
+          "Copernicus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Feynman returns to humility in the face of what we don't understand."
+      },
+      {
+        "type": "single_choice",
+        "question": "What do the Himba do differently from Europeans?",
+        "answers": [
+          "They see shades of green better",
+          "They don't see at all",
+          "They don't distinguish red",
+          "They only see in black and white"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Himba point out different shades of green faster."
+      },
+      {
+        "type": "single_choice",
+        "question": "What question does Feynman ask the waitress?",
+        "answers": [
+          "How do you know the sky is blue?",
+          "How much is the coffee?",
+          "Where is Berkeley?",
+          "Do you like physics?"
+        ],
+        "correctIndex": 0,
+        "explanation": "He asks: how do you know — and the waitress shrugs."
+      }
+    ]
+  },
+  "coverFamily": "popular_science",
+  "audience": "family",
+  "subtitle": "A brief explanation of science",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2022-05-22",
+    "2023-01-13",
+    "2025-09-22",
+    "2026-04-25"
+  ],
+  "inspiredBy": {
+    "youtube": "eXXhvWy523s, ko0tdQdv2_0, nAWwIUH5zac, D0NvyrU1TW4"
+  },
+  "world": {
+    "objects": [
+      "book",
+      "window"
+    ],
+    "places": [
+      "home",
+      "school"
+    ]
+  }
+}

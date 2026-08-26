@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What is Marek's profession?",
+      "answers": [
+        "A nurse",
+        "A surgeon at the Southern Hospital",
+        "A journalist",
+        "A politician"
+      ],
+      "correctIndex": 1,
+      "explanation": "He has worked as a surgeon at the Southern Hospital for three years."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek diagnose in the patient in room four?",
+      "answers": [
+        "The flu",
+        "A heart attack at an early stage",
+        "A fracture",
+        "Anaemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "After the examination he diagnoses a heart attack at an early stage."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does his colleague Nowak say about the system?",
+      "answers": [
+        "That it's perfect",
+        "That it's the tip of the iceberg — the system has been rotting for years",
+        "That it's improving",
+        "That it doesn't affect their hospital"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak says this is the tip of the iceberg and the system rots."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek do instead of going to the hospital the next morning?",
+      "answers": [
+        "Goes on holiday",
+        "Sits and writes notes about what he has seen",
+        "Resigns without a word",
+        "Goes to see a politician"
+      ],
+      "correctIndex": 1,
+      "explanation": "The next day he writes notes, memories and observations."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens a week after the text is published?",
+      "answers": [
+        "He receives a prize",
+        "He is fired, but feels he has done what he had to",
+        "He returns to work as if nothing had happened",
+        "He pretends he never wrote anything"
+      ],
+      "correctIndex": 1,
+      "explanation": "He is fired, but doesn't feel like a loser — he told the truth."
+    }
+  ]
+}

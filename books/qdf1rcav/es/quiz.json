@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién derivó a Darek a la Dra. Cubała?",
+      "answers": [
+        "Marta",
+        "El profesor Czupryniak",
+        "Una psicóloga",
+        "Su jefe"
+      ],
+      "correctIndex": 1,
+      "explanation": "La nota: el profesor Czupryniak dice — esto no es diabetes, vaya a la Dra. Cubała."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hay de anormal en la curva de cortisol de Darek?",
+      "answers": [
+        "Es demasiado alto por la mañana",
+        "Por la mañana el cortisol apenas \"respira\"; por la tarde se dispara",
+        "No hay cortisol",
+        "Es un nivel constante"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magdalena explica el ritmo diario invertido del cortisol."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Magdalena sobre el eje intestino-cerebro?",
+      "answers": [
+        "Que no existe",
+        "Que es una autopista de doble sentido: el estrés daña el intestino, el intestino enfermo estresa el cerebro",
+        "Que solo afecta a los niños",
+        "Que lo cura un antibiótico"
+      ],
+      "correctIndex": 1,
+      "explanation": "Describe el círculo vicioso entre el estrés y el intestino."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué admite Darek sobre el divorcio de Marta?",
+      "answers": [
+        "Que Marta tenía la culpa",
+        "Que no tenía fuerzas para discutir y creía que ella exageraba; ahora ve que \"se ha roto\"",
+        "Que nunca la quiso",
+        "Que volverá con ella"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: el que se ha roto soy yo. Literalmente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Magdalena sobre las emociones y el cortisol?",
+      "answers": [
+        "Que las emociones no importan",
+        "Que guardar rencor produce cortisol: el cuerpo está constantemente en estado de guerra",
+        "Que hay que reprimirlas",
+        "Que solo ayudan los medicamentos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habla de las emociones que producen cortisol y del estado de asedio."
+    }
+  ]
+}

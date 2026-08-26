@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "At what time does Przemek wake up at the beginning of the story?",
+      "answers": [
+        "At 6:00",
+        "At 5:47",
+        "At 7:15",
+        "At 5:30"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text begins: \"Przemek woke up at 5:47.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does he see on the door on the third floor of the university?",
+      "answers": [
+        "A dean's office sign",
+        "A sign: Residence legalisation – no refusals, no stress",
+        "A notice about an exam",
+        "A UPA poster"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the door hangs a sign about residence legalisation \"no refusals, no stress\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the woman from the office do when Przemek knocks?",
+      "answers": [
+        "She closes the door and calls security",
+        "She opens immediately and is already recording with her phone",
+        "She asks for his police badge",
+        "She refuses to talk"
+      ],
+      "correctIndex": 1,
+      "explanation": "The door opens at once; the woman has a phone and is already recording."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many days after the visit to the university do the police come to the house?",
+      "answers": [
+        "The next day",
+        "Seven days",
+        "A month",
+        "That same night"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Seven days later, at 5:47, someone knocked on the door.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Przemek understand after returning from the prosecutor's office?",
+      "answers": [
+        "That he made a formal mistake",
+        "That the state came for him because he asked a question — the line of legality had shifted",
+        "That the Ukrainian woman withdrew her complaint",
+        "That the case is closed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek understands that the state came for him for asking a question, and the line of legality had shifted."
+    }
+  ]
+}

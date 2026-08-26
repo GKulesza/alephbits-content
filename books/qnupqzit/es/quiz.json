@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué el cielo parece azul?",
+      "answers": [
+        "Por la dispersión de la luz de onda corta",
+        "Por la pintura de las nubes",
+        "Por el reflejo del mar",
+        "Por una ilusión al anochecer"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto explica la dispersión de Rayleigh: las ondas azules se dispersan más."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué observa Gladstone en Homero?",
+      "answers": [
+        "La ausencia de una palabra para el azul",
+        "Cientos de descripciones del cielo",
+        "Solo el color blanco",
+        "Una descripción del arcoíris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gladstone cuenta los colores en Homero: el azul no aparece."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién menciona el texto al hablar del problema difícil de la conciencia?",
+      "answers": [
+        "A Feynman",
+        "A Newton",
+        "A Einstein",
+        "A Copérnico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feynman vuelve a la humildad ante lo que no entendemos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hacen los himba de manera distinta a los europeos?",
+      "answers": [
+        "Ven mejor los tonos de verde",
+        "No ven nada",
+        "No distinguen el rojo",
+        "Solo ven en blanco y negro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los himba señalan más rápido los distintos tonos de verde."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pregunta Feynman a la camarera?",
+      "answers": [
+        "¿Cómo sabes que el cielo es azul?",
+        "¿Cuánto cuesta el café?",
+        "¿Dónde está Berkeley?",
+        "¿Te gusta la física?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pregunta: ¿cómo lo sabes? — y la camarera se encoge de hombros."
+    }
+  ]
+}

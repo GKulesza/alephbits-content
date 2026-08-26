@@ -1,0 +1,335 @@
+# El umbral
+
+## Metadata
+
+**Pack ID:** qa3s8ke2
+**Book ID:** qa3s8ke2
+**Legacy Pack ID:** polish_prog
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** El umbral  
+**Subtitle:** Las cinco cuarenta y siete y el golpe de la policía  
+**Blurb:** Przemek se despierta cada día a las 5:47. Una mañana va a la Universidad de Economía solo con una libreta y el carné de identidad: a hacer preguntas sobre el alquiler y la oficina de legalización. Una semana después, a la misma hora, llama la policía. Una historia contada desde el umbral: de una pregunta en un pasillo a las esposas en la cocina.
+
+**Genres:** short_story, everyday_live, article  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 7 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Próg" — edición oficial de Collection Nine.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 5  
+
+**Tags:** UEP, próg, policja, obywatel, Collection Nine  
+
+**Keywords:** Próg, Przemek, 5:47, UEP, zatrzymanie  
+
+**Cover family:** article
+
+
+**Motifs:**
+- threshold
+- door
+- question
+- fear
+- clock
+
+**Editorial notes:** Fikcja-inspirowana companion do Sprawa; ten sam incydent, perspektywa progu domu. P0 founder review.
+
+**Inspiration:** Ten sam incydent UEP — narracja od budzenia o 5:47 do pukania policji.
+
+---
+
+**World:**
+- places: home
+- objects: clock, window, book
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 10.07.2026 -> https://www.youtube.com/watch?v=NX29uqSdBI8  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar fix "drzwi otworzyły się" |
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Mocna struktura progowej — granica między pytaniem a represją. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=NX29uqSdBI8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-10  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**EL UMBRAL**
+
+Przemek se despertó a las 5:47. No por el despertador: simplemente era así. La hora a la que siempre abría los ojos, antes de que el sol llegara siquiera a asomarse por la ventana. Bebió un sorbo del té frío que llevaba en la mesilla desde ayer. Encendió el móvil. En el grupo del barrio alguien había colgado un enlace sobre el caso de la Universidad de Economía.
+
+– Przemek, mira – escribió Kamil. – Alquilan un local por 1200 zlotys. El mercado está en 3500. Y alguien está legalizando a extranjeros allí. Dentro del campus universitario. ¿De verdad quieres ir?
+
+Przemek pasó por los comentarios. La gente escribía lo mismo: "Alguien debería comprobarlo", "A lo mejor alguien pregunta", "Pero tengo miedo de que nos llamen a la policía". Przemek dejó el móvil. Pensó en su padre, que en los años noventa perdió el trabajo por preguntarle al jefe por las facturas que desaparecían. "No hagas preguntas, hijo" – decía después. "Las preguntas son caras."
+
+Przemek se levantó. En la cocina se hizo un sándwich y lo envolvió en papel de aluminio. En la mochila metió una libreta, un bolígrafo y el carné de identidad. No necesitaba más autorización que eso. No era policía, no era fiscal. Era solo un hombre que quería saber por qué una universidad pública alquilaba sus locales por un tercio de su valor de mercado. Y si aquella empresa operaba de verdad dentro de la ley.
+
+Al salir, su mujer lo miró por encima del libro.
+
+– ¿Adónde vas?
+
+– A la universidad.
+
+– ¿Para qué?
+
+– A preguntar algo.
+
+– Ten cuidado.
+
+– Siempre lo tengo.
+
+---
+La Universidad de Economía de Poznań olía a producto de limpieza y a café eterno. La escalera estaba limpia, silenciosa. En el tercer piso, en la puerta, colgaba un pequeño cartel: _Legalización de estancia: sin rechazos, sin estrés, eficacia total_. Przemek miró a Kamil. Kamil se encogió de hombros.
+
+– Pues llama.
+
+Przemek llamó. La puerta se abrió al instante, como si alguien hubiera estado esperando detrás. En ella estaba una mujer joven, sonriente, con el móvil en la mano: ya estaba grabando.
+
+– Buenos días – dijo Przemek. – Me llamo Przemysław Grzegorek. ¿Puedo hacerle unas preguntas?
+
+– Por supuesto.
+
+No entraron. Se quedaron en el pasillo, como en las conversaciones educadas. La mujer hablaba bien, con fluidez, pero en su voz no había ni sorpresa ni indignación. Estaba preparada. No preguntó quiénes eran, no pidió ninguna credencial, no cerró la puerta. Przemek preguntó por el precio del alquiler, por la legalización, por la base jurídica. Ella respondía con generalidades. En cierto momento Przemek preguntó por la bandera y el culto a la UPA.
+
+– Este no es el lugar para discusiones políticas – respondió ella.
+
+– Entiendo. Gracias.
+
+Salieron. En las escaleras, Kamil dijo:
+
+– Sabía que íbamos a venir.
+
+– Lo sé. No se puso nerviosa lo más mínimo.
+
+– Y lo grababa todo.
+
+– Eso está bien. Que grabe. Yo también grababa.
+
+Przemek guardó el móvil en el bolsillo. Pensó que eso era el final. Que volvería a casa, tomaría notas, escribiría un correo al rector. Quizá el caso llegaría a los medios, quizá no. Pero había hecho lo suyo. Había preguntado. Eso bastaba.
+
+---
+Siete días después, a las 5:47, alguien llamó a la puerta. Przemek abrió los ojos antes de que el golpe se apagara del todo. Se levantó de la cama y puso el hervidor. Pensó: quizá el cartero. O el vecino de arriba, al que siempre le gotea el agua.
+
+Luego el golpe se repitió, más fuerte, más regular. Y una voz: _¡Policía, abran!_
+
+Przemek no llegó a tocar el picaporte. La puerta se abrió sola: alguien tenía llaves. En el umbral había seis hombres de uniforme azul. Uno sostenía una cámara de fotos. Otro, una cámara de vídeo. El tercero agarró a Przemek antes de que pudiera dar un paso atrás.
+
+– ¿Przemysław Grzegorek?
+
+– Sí.
+
+– Detención. Dése la vuelta y ponga las manos detrás de la espalda.
+
+Przemek obedeció. Sintió el metal frío en las muñecas: por detrás, no por delante. Alguien le echó una chaqueta sobre los hombros para ocultar las esposas. Lo sacaron por el pasillo. En la puerta de la cocina estaba su mujer. Lo miraba como si viera a un hombre desconocido. En la ventana del piso de arriba, una cara infantil pegada al cristal. Przemek quiso decir: "Todo irá bien", pero no le dio tiempo. Lo empujaron hacia las escaleras.
+
+En el coche patrulla olía a sudor y a plástico. Uno de los policías escribía algo en una libreta. Otro miraba el móvil. Nadie hablaba. Przemek intentaba entender qué estaba pasando, pero en su cabeza solo funcionaba una pregunta: _¿por qué?_
+
+En la fiscalía le mandaron sentarse. Seguía esposado. Declaró con las esposas puestas. Dictaba, y el funcionario tecleaba en el ordenador. Al cabo de una hora, alguien se acercó y le quitó un par de esposas, volviéndole a poner las manos por delante.
+
+– Tiene que firmar – dijo.
+
+Przemek miró sus manos. Estaban amoratadas. Firmó.
+
+– Artículo 212. Difamación pública. Castigada con multa o un año de cárcel.
+
+– ¿Es un delito perseguible a instancia de parte? – preguntó Przemek.
+
+El fiscal lo miró con atención.
+
+– Lo es.
+
+– Entonces, ¿por qué la policía vino a mi casa a las 6 de la mañana?
+
+Nadie respondió.
+
+---
+Salió al cabo de dos horas. Volvió a casa en taxi, porque le habían quitado el móvil y el portátil. En la puerta lo recibió su mujer. Durante un momento estuvieron en silencio.
+
+– Le preguntaste por esa empresa – dijo ella. – Solo preguntaste.
+
+– Sí.
+
+– Y por eso te esposaron.
+
+Przemek se sentó en la cocina. Se sirvió té, aunque ya se había enfriado. En la cabeza armaba un rompecabezas: la policía no debería actuar de oficio en el 212. Es un asunto civil. La perjudicada tiene que denunciarlo ella misma. Y la perjudicada — esa ucraniana de la universidad — no había denunciado. Sí, había presentado una denuncia, pero solo después de que la policía la localizara por su cuenta, la encontrara y la llevara a comisaría. La iniciativa había salido de los agentes. Y además las fotos: publicadas en la página de Facebook de la comisaría, bajándolo por las escaleras como si fuera un asesino. Fotos hechas para los medios, para los políticos, para los espectadores.
+
+Przemek abrió el portátil que le habían devuelto. Encendió el navegador. Encontró el perfil de Paweł Wyrzykowski. Alguien le había hablado de él. Un periodista que llevaba años siendo blanco de una cacería. Un hombre que también había acabado en la lista de muerte ucraniana. Przemek escribió: _Necesito ayuda._
+
+La respuesta llegó a los diez minutos: _Estás detenido por hacer preguntas. Lo sé. Llámame._
+
+---
+– ¿Dices que te esposaron por detrás? – preguntó Paweł por teléfono.
+
+– Sí. Y también durante la declaración. Solo antes de firmar el acta me pusieron las manos por delante.
+
+– Es un escándalo que no veía desde hace años. Escucha: ya tengo cuatro hijos. A setenta kilómetros de mí asesinaron a un hombre de la misma lista en la que estoy. No me detendré ante nada.
+
+Przemek escuchaba. La voz de Paweł era tranquila, pero de fondo se oían niños: risas, pasos, vida normal. Y sin embargo ese hombre hablaba de su propia muerte como de un escenario posible.
+
+– No estás solo – añadió Paweł. – Detrás de ti hay gente que cree que en Polonia todavía se puede preguntar algo sin esposas. Tendrás ayuda legal. No te rindas.
+
+Przemek colgó. La cocina estaba en silencio. Por la ventana se veía la calle: coches, gente yendo al trabajo, niños al colegio. Todo parecía normal. Solo que dentro de Przemek algo se había roto. No de miedo. De otra cosa.
+
+Comprendió que el Estado, que debería proteger, había ido a por él porque había hecho una pregunta. Que la frontera entre lo legal y lo ilegal se había desplazado tanto que ya no sabía de qué lado estaba. Y que ya no podía fingir que aquello no iba con él.
+
+Cogió una libreta y un bolígrafo. Se sentó a la mesa. Empezó a escribir una lista: nombres, fechas, números de expediente, nombres de empresas. Cada detalle, cada pieza del rompecabezas. Cuando terminó, miró a su mujer.
+
+– Voy a reclamar mis derechos.
+
+– Lo sé.
+
+– Porque si no yo, ¿quién? Si nosotros no preguntamos, nadie preguntará.
+
+– Vete a dormir – dijo su mujer. – Mañana empezamos de nuevo.
+
+Przemek cerró la libreta. Se tumbó en la cama. Por la ventana abierta llegaba el sonido de una sirena: en algún lugar lejano, quizá al otro extremo de la ciudad. Antes pensaba que una sirena era señal de que alguien necesitaba ayuda. Ahora sabía que a veces significa algo completamente distinto: que alguien ha preguntado algo que no debía.
+
+Se durmió después de las 23:00. Se despertó a las 5:47. Con el despertador.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿A qué hora se despierta Przemek al principio de la historia?
+
+**Answers:**
+- A) A las 6:00
+- B) A las 5:47
+- C) A las 7:15
+- D) A las 5:30
+
+**Correct:** B
+**Explanation:** El texto empieza: "Przemek se despertó a las 5:47."
+**Text reference:** 5:47
+
+### Question 2
+
+**Question:** ¿Qué ve en la puerta del tercer piso de la universidad?
+
+**Answers:**
+- A) Un cartel del decanato
+- B) Un cartel: Legalización de estancia: sin rechazos, sin estrés
+- C) Un anuncio de examen
+- D) Un cartel de la UPA
+
+**Correct:** B
+**Explanation:** En la puerta cuelga un cartel sobre legalización de estancia "sin rechazos, sin estrés".
+**Text reference:** Legalización de estancia
+
+### Question 3
+
+**Question:** ¿Qué hace la mujer de la oficina cuando Przemek llama?
+
+**Answers:**
+- A) Cierra la puerta y llama a seguridad
+- B) Abre al instante y ya está grabando con el móvil
+- C) Pide su placa de policía
+- D) Se niega a hablar
+
+**Correct:** B
+**Explanation:** La puerta se abre enseguida; la mujer tiene el móvil y ya graba.
+**Text reference:** ya estaba grabando
+
+### Question 4
+
+**Question:** ¿Cuántos días después de la visita a la universidad viene la policía a su casa?
+
+**Answers:**
+- A) Al día siguiente
+- B) Siete días
+- C) Un mes
+- D) Esa misma noche
+
+**Correct:** B
+**Explanation:** "Siete días después, a las 5:47, alguien llamó a la puerta."
+**Text reference:** Siete días después
+
+### Question 5
+
+**Question:** ¿Qué comprende Przemek al volver de la fiscalía?
+
+**Answers:**
+- A) Que cometió un error formal
+- B) Que el Estado fue a por él porque hizo una pregunta: la frontera de lo legal se había desplazado
+- C) Que la ucraniana retiró la denuncia
+- D) Que el caso está cerrado
+
+**Correct:** B
+**Explanation:** Przemek comprende que el Estado fue a por él por hacer una pregunta y que la frontera de lo legal se había desplazado.
+**Text reference:** el Estado, que debería proteger
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

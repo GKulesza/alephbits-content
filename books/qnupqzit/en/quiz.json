@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does the sky look blue?",
+      "answers": [
+        "The scattering of short-wave light",
+        "Paint in the clouds",
+        "The reflection of the sea",
+        "An illusion at dusk"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text explains Rayleigh scattering — blue waves scatter more strongly."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Gladstone notice in Homer?",
+      "answers": [
+        "The absence of a word for blue",
+        "Hundreds of descriptions of the sky",
+        "Only the colour white",
+        "A description of a rainbow"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gladstone counts the colours in Homer — blue does not occur."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does the text mention when discussing the hard problem of consciousness?",
+      "answers": [
+        "Feynman",
+        "Newton",
+        "Einstein",
+        "Copernicus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feynman returns to humility in the face of what we don't understand."
+    },
+    {
+      "type": "single_choice",
+      "question": "What do the Himba do differently from Europeans?",
+      "answers": [
+        "They see shades of green better",
+        "They don't see at all",
+        "They don't distinguish red",
+        "They only see in black and white"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Himba point out different shades of green faster."
+    },
+    {
+      "type": "single_choice",
+      "question": "What question does Feynman ask the waitress?",
+      "answers": [
+        "How do you know the sky is blue?",
+        "How much is the coffee?",
+        "Where is Berkeley?",
+        "Do you like physics?"
+      ],
+      "correctIndex": 0,
+      "explanation": "He asks: how do you know — and the waitress shrugs."
+    }
+  ]
+}

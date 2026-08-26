@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la profesión de Marek?",
+      "answers": [
+        "Enfermero",
+        "Cirujano en el Hospital del Sur",
+        "Periodista",
+        "Político"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lleva tres años trabajando como cirujano en el Hospital del Sur."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué diagnostica Marek en el paciente de la sala cuatro?",
+      "answers": [
+        "Gripe",
+        "Un infarto en fase temprana",
+        "Una fractura",
+        "Anemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras el examen, diagnostica un infarto en fase temprana."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice su colega Nowak sobre el sistema?",
+      "answers": [
+        "Que es perfecto",
+        "Que es la punta del iceberg: el sistema lleva años pudriéndose",
+        "Que está mejorando",
+        "Que no afecta a su hospital"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak dice que es la punta del iceberg y que el sistema se pudre."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Marek en lugar de ir al hospital a la mañana siguiente?",
+      "answers": [
+        "Se va de vacaciones",
+        "Se sienta y escribe notas sobre lo que ha visto",
+        "Dimite sin decir palabra",
+        "Va a ver a un político"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al día siguiente escribe notas, recuerdos y observaciones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ocurre una semana después de la publicación del texto?",
+      "answers": [
+        "Recibe un premio",
+        "Es despedido, pero siente que ha hecho lo que debía",
+        "Vuelve al trabajo como si nada",
+        "Finge que nunca escribió nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es despedido, pero no se siente derrotado: dijo la verdad."
+    }
+  ]
+}

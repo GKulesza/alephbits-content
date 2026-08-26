@@ -1,0 +1,36 @@
+{
+  "packId": "qnupqzit:en",
+  "bookId": "qnupqzit",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "eXXhvWy523s"
+    },
+    {
+      "type": "youtube",
+      "videoId": "ko0tdQdv2_0"
+    },
+    {
+      "type": "youtube",
+      "videoId": "nAWwIUH5zac"
+    },
+    {
+      "type": "youtube",
+      "videoId": "D0NvyrU1TW4"
+    }
+  ],
+  "revisionNotes": "Phase 75 catalog migration"
+}

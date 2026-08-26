@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué provoca la discusión entre Ewa y Wojtek?",
+      "answers": [
+        "Un asunto de notas del colegio",
+        "La decisión de que Wojtek no vaya a una fiesta",
+        "La compra de un móvil nuevo",
+        "Un viaje de vacaciones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wojtek se encierra en su habitación después de que Ewa le prohíba ir a una fiesta."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lee Ewa en el móvil que la conmueve?",
+      "answers": [
+        "Una receta de bizcocho",
+        "Posts sobre la crianza comprensiva de un adolescente",
+        "Una oferta de trabajo",
+        "Un mensaje del colegio"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la pantalla aparece un post de una mujer que se llama a sí misma madre comprensiva de un adolescente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué frase detiene especialmente a Ewa?",
+      "answers": [
+        "Los niños siempre escuchan a los padres",
+        "No tienes que ser perfecta. Tienes que estar presente",
+        "Los castigos son el mejor método",
+        "Los adolescentes no sienten emociones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se detiene en la frase: no tienes que ser perfecta, tienes que estar presente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué es Ewa de formación?",
+      "answers": [
+        "Médica",
+        "Psicóloga",
+        "Arquitecta",
+        "Abogada"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice directamente que Ewa era psicóloga de formación."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué comprende Ewa al final de la historia?",
+      "answers": [
+        "Que su hijo ha dejado de quererla",
+        "Que lo más importante lo aprendió de su hijo: sobre estar presente y ser auténtica",
+        "Que debería enviar a su hijo a un internado",
+        "Que los talleres no sirvieron de nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice que lo más importante le llegó de su hijo, que la había estado viendo todo el tiempo."
+    }
+  ]
+}

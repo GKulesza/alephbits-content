@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A qué hora se despierta Przemek al principio de la historia?",
+      "answers": [
+        "A las 6:00",
+        "A las 5:47",
+        "A las 7:15",
+        "A las 5:30"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto empieza: \"Przemek se despertó a las 5:47.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve en la puerta del tercer piso de la universidad?",
+      "answers": [
+        "Un cartel del decanato",
+        "Un cartel: Legalización de estancia: sin rechazos, sin estrés",
+        "Un anuncio de examen",
+        "Un cartel de la UPA"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la puerta cuelga un cartel sobre legalización de estancia \"sin rechazos, sin estrés\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace la mujer de la oficina cuando Przemek llama?",
+      "answers": [
+        "Cierra la puerta y llama a seguridad",
+        "Abre al instante y ya está grabando con el móvil",
+        "Pide su placa de policía",
+        "Se niega a hablar"
+      ],
+      "correctIndex": 1,
+      "explanation": "La puerta se abre enseguida; la mujer tiene el móvil y ya graba."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos días después de la visita a la universidad viene la policía a su casa?",
+      "answers": [
+        "Al día siguiente",
+        "Siete días",
+        "Un mes",
+        "Esa misma noche"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Siete días después, a las 5:47, alguien llamó a la puerta.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué comprende Przemek al volver de la fiscalía?",
+      "answers": [
+        "Que cometió un error formal",
+        "Que el Estado fue a por él porque hizo una pregunta: la frontera de lo legal se había desplazado",
+        "Que la ucraniana retiró la denuncia",
+        "Que el caso está cerrado"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek comprende que el Estado fue a por él por hacer una pregunta y que la frontera de lo legal se había desplazado."
+    }
+  ]
+}

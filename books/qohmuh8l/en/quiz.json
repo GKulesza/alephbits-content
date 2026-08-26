@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What triggers the argument between Ewa and Wojtek?",
+      "answers": [
+        "A matter about school grades",
+        "The decision that Wojtek can't go to a party",
+        "Buying a new phone",
+        "A holiday trip"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wojtek shuts himself in his room after Ewa forbids him from going to a party."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa read on her phone that moves her?",
+      "answers": [
+        "A recipe for a cake",
+        "Posts about supportive parenting of a teenager",
+        "A job offer",
+        "A message from the school"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the screen appears a post by a woman who calls herself a supportive mother of a teenager."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which sentence particularly stops Ewa?",
+      "answers": [
+        "Children always listen to their parents",
+        "You don't have to be perfect. You have to be present",
+        "Punishments are the best method",
+        "Teenagers don't feel emotions"
+      ],
+      "correctIndex": 1,
+      "explanation": "She stops at the sentence: you don't have to be perfect, you have to be present."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Ewa by training?",
+      "answers": [
+        "A doctor",
+        "A psychologist",
+        "An architect",
+        "A lawyer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says directly that Ewa was a psychologist by training."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa understand at the end of the story?",
+      "answers": [
+        "That her son has stopped loving her",
+        "That what mattered most she learned from her son — about being present and authentic",
+        "That she should send her son to boarding school",
+        "That the workshops changed nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection says that what mattered most came from her son, who had been seeing her all along."
+    }
+  ]
+}
