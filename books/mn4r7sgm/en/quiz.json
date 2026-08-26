@@ -1,0 +1,67 @@
+{
+  "title": "Test your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who is Skuba?",
+      "answers": [
+        "A cobbler",
+        "A king",
+        "A knight from the start",
+        "A merchant from the market"
+      ],
+      "correctIndex": 0,
+      "explanation": "Skuba is a simple cobbler from Kraków."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Skuba put inside the ram?",
+      "answers": [
+        "Sulphur and tar",
+        "Gold",
+        "Poison from the apothecary",
+        "Stones"
+      ],
+      "correctIndex": 0,
+      "explanation": "He fills the ram with sulphur and tar."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the dragon die?",
+      "answers": [
+        "It drinks too much water and bursts",
+        "It falls from a tower",
+        "It dies by the sword",
+        "It flees to the mountains"
+      ],
+      "correctIndex": 0,
+      "explanation": "It drank from the Vistula until it burst."
+    },
+    {
+      "type": "single_choice",
+      "question": "What title does Skuba receive?",
+      "answers": [
+        "Dragon Bane",
+        "King of Kraków",
+        "Army Commander",
+        "Guardian of the Vistula"
+      ],
+      "correctIndex": 0,
+      "explanation": "The king bestows on him the title of Dragon Bane."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the king announce at the end?",
+      "answers": [
+        "A great wedding",
+        "A new war",
+        "The demolition of the castle",
+        "Banishing Skuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "The king announces a great wedding with Princess Wanda."
+    }
+  ]
+}

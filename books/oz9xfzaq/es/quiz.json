@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué alerta a Kasia antes de la visita al médico?",
+      "answers": [
+        "La primera vena varicosa gruesa",
+        "Una fractura de pierna",
+        "Una alergia cutánea",
+        "Un calambre en el brazo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aparece la primera vena varicosa gruesa y retorcida."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo funcionan las válvulas de las venas según el médico?",
+      "answers": [
+        "Se abren solo hacia arriba",
+        "Dejan pasar la sangre en ambas direcciones",
+        "Cierran la vena de forma permanente",
+        "No existen en los humanos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Las válvulas se abren solo en dirección al corazón."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué consiste la escleroterapia?",
+      "answers": [
+        "Inyectar un líquido que cierra la vena",
+        "Una operación en el hospital con anestesia",
+        "Aplicar una crema para las arañitas",
+        "Un baño caliente para las piernas"
+      ],
+      "correctIndex": 0,
+      "explanation": "La espuma desplaza la sangre y cierra el vaso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué recibe Kasia al salir de la primera visita?",
+      "answers": [
+        "La derivación y las recomendaciones",
+        "La baja médica",
+        "Solo una receta de crema",
+        "El contrato de la operación"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sale con una hoja de recomendaciones y la derivación para la ecografía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo están las piernas de Kasia después de tres meses?",
+      "answers": [
+        "Sin rastro de varices",
+        "Peor que antes",
+        "Siguen doliendo mucho",
+        "Requieren amputación"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la revisión no hay rastro de varices."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia vidas en la okuloj de Karol nokte?",
+      "answers": [
+        "Ĝojon",
+        "Malplenon — mortaj okuloj",
+        "Larmojn",
+        "Dormon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi priskribas la okulojn kiel malplenajn, mortajn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion ŝia amikino konsilas al Kasia en la mesaĝo?",
+      "answers": [
+        "Ke ŝi revenu al Karol",
+        "Ke ŝi aŭskultu sian intuicion kaj gardu sin kontraŭ liaj okuloj",
+        "Ke ŝi iru al laboro",
+        "Ke ŝi ignoru tion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La amikino skribas: aŭskultu intuicion, ĉio videblas en la okuloj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia vidas en Karol, kiam ŝi demandas pri amo?",
+      "answers": [
+        "Sinceran emocion",
+        "Kalkulon — kvazaŭ li pesus la avantaĝan respondon",
+        "Koleron",
+        "Dormon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dum momento la masko falas kaj videblas la malvarma malpleno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia aldonas en sia kajero post la legado?",
+      "answers": [
+        "Ke ŝi estas malforta",
+        "Ke ili ne scias, kio estas forto",
+        "Ke ŝi revenos al Karol",
+        "Ke psikopatio ne ekzistas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi aldonas, ke tio ne signifas, ke ŝi estas malforta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia diras al Ola, kiam ŝi renkontas Karolon hazarde?",
+      "answers": [
+        "Ke Karol estas bona",
+        "\"Gardu vin kontraŭ li. Li havas malvarmajn okulojn.\"",
+        "Ke ŝi revenas al li",
+        "Nenion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi avertas Ola: gardu vin, li havas malvarmajn okulojn."
+    }
+  ]
+}

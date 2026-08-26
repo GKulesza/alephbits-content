@@ -1,0 +1,126 @@
+{
+  "id": "ha51liy8:en",
+  "bookId": "ha51liy8",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_zasady",
+  "legacySlug": "zasady",
+  "title": "The Principles",
+  "language": "en",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-09",
+  "description": "Łukasz reads a newsletter from Paweł Kadysz and recognises his own pattern: planning instead of acting, choosing instead of taking a step. Five simple rules sound easy — until you have to apply them the very same morning. A story about procrastination without moralising and about how hard it is to start with a small thing.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "polish",
+    "reference",
+    "productivity",
+    "habits"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 4,
+  "translation": "English translation of the Polish reading pack \"Zasady\" — Collection One official edition.",
+  "text": "**THE PRINCIPLES**\n\nWhen Łukasz first opened his inbox and saw a message from Paweł Kadysz, he did not know what to expect. He had once bought his course on productivity — the one about habits that changed his approach to life — and ever since he regularly received emails. But this one was different. It was longer, more personal. And it contained something Łukasz had not expected to find in a marketing email: the truth.\n\n_\"How often do you decide to do something that later comes to nothing? How does it happen that you almost always manage to find an excuse not to do something? Even if it is good for you?\"_\n\nŁukasz froze. It was the question he had been asking himself every week for years. Ever since he turned thirty, ever since he started working for himself, ever since he promised himself that he would finally get down to all those projects he had been putting off for months. And every time — he ended up with nothing.\n\nHe read on.\n\n_\"It happens because you give yourself a choice. Every time you have to make a decision — you face a choice... and you hesitate. And once you start hesitating — trust me — your mind will instantly find a thousand excuses not to do something.\"_\n\nŁukasz put down his phone. He looked at the desk, where a stack of papers lay, a notebook with a list of tasks that had not changed for a week, and an empty coffee cup. He knew Paweł was right. He knew the problem was not a lack of time or motivation. The problem was that every time he sat down to work, he wondered: _\"Is this the right task? Or maybe I should do something else? Isn't there a better way?\"_\n\nAnd then he would start searching the internet. New apps, new methods, new lifehacks. And instead of working, he read about working.\n\nThat evening Łukasz decided to change something. He sat down at the desk, took out a blank sheet of paper and wrote at the top: _\"My principles\"_.\n\nHe remembered what Paweł had written next:\n\n_\"One of the best things I have ever done for myself and for my productivity was writing out a list of principles I am supposed to follow in life. It is a simple document that eliminates the need to make often difficult decisions.\"_\n\nŁukasz started writing.\n\nThe first principle: _\"When I sit down to work, I don't get up for 25 minutes. I don't open the browser. I don't check the phone. I only work.\"_\n\nThe second principle: _\"Every morning I plan only three things to do. If I do them all — the day is a success. Anything more is a bonus.\"_\n\nThe third principle: _\"I don't buy new courses until I finish the one I already have.\"_\n\nThe fourth principle: _\"On Sunday evening I review what I managed to do during the week. Not what I didn't do — only what I did.\"_\n\nThe fifth principle: _\"When someone asks me for something that doesn't match my goals — I refuse. No negotiation.\"_\n\nThe sixth principle: _\"I don't drink alcohol on weekdays. A decision made once — I don't have to make it every day.\"_\n\nThe seventh principle: _\"I don't check emails before 10:00.\"_\n\nThe eighth principle: _\"I don't compare myself to others. I compare myself to myself from a month ago.\"_\n\nThe ninth principle: _\"If something takes less than 2 minutes — I do it right away, I don't put it off.\"_\n\nThe tenth principle: _\"I don't look for the perfect system. I look for a system that works for me.\"_\n\nWhen he finished, he looked at the sheet of paper. There were ten principles on it. Ten simple, firm rules that were supposed to help him stop hesitating and start acting.\n\nHe did not know whether it would work. He did not know whether he would last longer than a week. But he knew one thing — that for the first time in a long while he felt he had control. That he did not have to make those same difficult decisions every day. That he could simply... act.\n\nThe next morning he woke up at 6:00. He made coffee, sat down at the desk and looked at the list of principles. The first principle: _\"When I sit down to work, I don't get up for 25 minutes.\"_\n\nHe set a timer for 25 minutes. He closed the browser. He turned off the phone. And he started working.\n\nFor the first five minutes he felt restless. He wanted to check whether someone had written to him, whether a new notification had appeared. But he stuck to the principle. After ten minutes he began to focus. After fifteen — he was getting into the rhythm. After twenty — he forgot about the world.\n\nThe timer rang. Łukasz stood up, stretched his legs, drank some water. And sat back down. Another 25 minutes. Another one.\n\nThat day he did more than in the previous three days combined.\n\nIn the evening, before going to bed, he picked up the list of principles. He read it once more. Then he added at the bottom, in small letters:\n\n_\"You don't have to be perfect. You have to be consistent.\"_\n\nHe closed the notebook. And for the first time in a long while he fell asleep without the feeling that something had slipped away from him. That there was something he should have done and had not.\n\nHe knew this was only the beginning. That the principles would be tested, that situations would appear in which he would want to break them. But he also knew that he now had something he had not had before: clarity.\n\nAnd that was enough to start.\n\n**END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "What problem does Kadysz name in the letter?",
+        "answers": [
+          "We decide to do things that come to nothing",
+          "Lack of time for reading",
+          "Too many meetings",
+          "No internet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The letter asks how often we decide to do something that comes to nothing."
+      },
+      {
+        "type": "single_choice",
+        "question": "What happens when we give ourselves a choice?",
+        "answers": [
+          "The mind finds excuses",
+          "We always choose the difficult task",
+          "Motivation grows without limit",
+          "It has no effect"
+        ],
+        "correctIndex": 0,
+        "explanation": "When we hesitate, the mind quickly finds excuses."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Łukasz do instead of working?",
+        "answers": [
+          "Searches the internet for new methods",
+          "Sleeps all day",
+          "Calls to take leave",
+          "Sells his computer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Instead of working, he reads about work on the internet."
+      },
+      {
+        "type": "single_choice",
+        "question": "Who wrote the letter in the story?",
+        "answers": [
+          "Kadysz",
+          "Łukasz",
+          "Maria",
+          "Adam"
+        ],
+        "correctIndex": 0,
+        "explanation": "The letter opens with a quote from Kadysz."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Łukasz do when he starts doubting?",
+        "answers": [
+          "Reads about apps and lifehacks",
+          "Finishes work right away",
+          "Goes on vacation",
+          "Hires an assistant"
+        ],
+        "correctIndex": 0,
+        "explanation": "He looks for new apps instead of acting."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "ha51liy8:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "instruction",
+  "audience": "adult",
+  "subtitle": "A letter about decisions without excuses",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-08-26"
+  },
+  "inspirationDates": [
+    "2026-07-08"
+  ],
+  "world": {
+    "objects": [
+      "book",
+      "glass"
+    ],
+    "places": [
+      "home"
+    ]
+  }
+}

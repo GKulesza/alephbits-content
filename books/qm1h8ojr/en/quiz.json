@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does the described market take place?",
+      "answers": [
+        "In Nowy Targ",
+        "In Elbląg",
+        "In Kraków",
+        "In Budapest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adam travels to the market in Nowy Targ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why were prices given in euros?",
+      "answers": [
+        "Hungarians and Slovaks did not want to convert",
+        "The euro is Poland's currency",
+        "The ATMs did not work",
+        "The sellers did not know Polish"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seller explains that customers from Hungary and Slovakia prefer the euro."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam trade in the end?",
+      "answers": [
+        "Leather jackets and shoes",
+        "Cashmere",
+        "Electronics",
+        "Vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "He has his own stall with leather jackets and shoes."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where do the merchants come to the market from?",
+      "answers": [
+        "From Hungary, the Czech Republic and Slovakia",
+        "Only from Poland",
+        "From Japan",
+        "From the USA"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text mentions Hungarians, Czechs and Slovaks."
+    },
+    {
+      "type": "single_choice",
+      "question": "How much did the cashmere cost at the stall?",
+      "answers": [
+        "270 zlotys",
+        "50 euros",
+        "100 zlotys",
+        "10 zlotys"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seller offers cashmere for 270 zlotys."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What is Chen Ching Ting's profession?",
+      "answers": [
+        "A doctor",
+        "A publisher",
+        "A pilot",
+        "A civil servant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ching Ting is a publisher, travelling to the Frankfurt Book Fair."
+    },
+    {
+      "type": "single_choice",
+      "question": "What do the officers say about her passport?",
+      "answers": [
+        "That it is expired",
+        "That it is forged — the number does not exist in the system",
+        "That the visa is missing",
+        "That the photo is too old"
+      ],
+      "correctIndex": 1,
+      "explanation": "They say: \"Your passport is forged. The number does not exist in the system.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "How long does the interrogation at the airport last?",
+      "answers": [
+        "An hour",
+        "Four hours",
+        "A day",
+        "Fifteen minutes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says it plainly: four hours of interrogation."
+    },
+    {
+      "type": "single_choice",
+      "question": "In which year was Taiwan expelled from the UN, according to the story?",
+      "answers": [
+        "1949",
+        "1971",
+        "1989",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1971 Taiwan was expelled from the UN after refusing \"dual representation\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which company from Taiwan does the text name as a producer of advanced chips?",
+      "answers": [
+        "Intel",
+        "TSMC",
+        "Samsung",
+        "Huawei"
+      ],
+      "correctIndex": 1,
+      "explanation": "TSMC in Taiwan produces about 90% of the most advanced chips."
+    }
+  ]
+}

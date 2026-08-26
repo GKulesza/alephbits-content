@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiun problemon nomis Kadysz en la letero?",
+      "answers": [
+        "Ni decidas fari aferojn, kiuj rezultas en nenio",
+        "Manko de tempo por legado",
+        "Tro multe da kunvenoj",
+        "Manko de interreto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La letero demandas, kiom ofte ni decidas fari ion, kio rezultas en nenio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas, kiam ni donas al ni elekton?",
+      "answers": [
+        "La menso trovas pretekstojn",
+        "Ni ĉiam elektas la malfacilan taskon",
+        "La instigo kreskas senlime",
+        "Ĝi havas neniun efikon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dum hezitado la menso rapide trovas pretekstojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Łukasz anstataŭ labori?",
+      "answers": [
+        "Serĉas en la interreto novajn metodojn",
+        "Dormas la tutan tagon",
+        "Telefonas por peti libertempon",
+        "Vendas sian komputilon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anstataŭ labori, li legas pri laboro en la interreto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu skribis la leteron en la rakonto?",
+      "answers": [
+        "Kadysz",
+        "Łukasz",
+        "Maria",
+        "Adam"
+      ],
+      "correctIndex": 0,
+      "explanation": "La letero komenciĝas per citaĵo de Kadysz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Łukasz, kiam li komencas dubi?",
+      "answers": [
+        "Legas pri aplikaĵoj kaj lifehackoj",
+        "Tuj finas la laboron",
+        "Forveturas ferien",
+        "Dungas asistanton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li serĉas novajn aplikaĵojn anstataŭ agi."
+    }
+  ]
+}

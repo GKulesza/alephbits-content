@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Otkuda jest Anastazja?",
+      "answers": [
+        "Iz Varšavy",
+        "Iz Almaty v Kazahstaně",
+        "Iz Kijeva",
+        "Iz Vilny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Živje v Almaty; doč Poljky i Kazaha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začemu ambasada otkazivaje vizu?",
+      "answers": [
+        "Nedostatok deneg",
+        "Nepravilno ukazana cel povtěšenja",
+        "Nedostatok pasporta",
+        "Věk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pismo govori: odkaz — nepravilno ukazana cel povtěšenja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Justyna govori o Poljskojě?",
+      "answers": [
+        "Že to tolko kraj",
+        "Že Poljska je dom v serdce, ne v bumagah",
+        "Že treba zabyvati korjeni",
+        "Že viza je něobhodima"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govori: Poljska ne tolko kraj — to dom, daže bez vizy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Anastazja piše v kajetě pod voprosom \"Kto ja?\"",
+      "answers": [
+        "Že je Kazahkoju",
+        "Že je doč Poljky i Kazaha, a Poljska je jej dom",
+        "Že ne znajet",
+        "Že potřebujet vizu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisivaje poljske korjeni i čutje doma."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kamo ide Anastazja v epilogě?",
+      "answers": [
+        "Do Almaty navsegda",
+        "Na letišče — razproščajetsja s rodnym gorodom",
+        "Do ambasady",
+        "Na universitet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stojí na holmu, proščajetsja s Almaty i ide k letišču."
+    }
+  ]
+}

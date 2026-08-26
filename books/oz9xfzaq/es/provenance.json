@@ -1,0 +1,47 @@
+{
+  "packId": "oz9xfzaq:es",
+  "bookId": "oz9xfzaq",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrado del catálogo CollectionZero (fase 75)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "fJYhsoLvCoo"
+    },
+    {
+      "type": "youtube",
+      "videoId": "MDDgV3wpW2U"
+    },
+    {
+      "type": "youtube",
+      "videoId": "34gGO91R68I"
+    },
+    {
+      "type": "youtube",
+      "videoId": "VE5k9xBrP_E"
+    },
+    {
+      "type": "youtube",
+      "videoId": "Qeb47TM0I90"
+    },
+    {
+      "type": "youtube",
+      "videoId": "9OQ2yjLh_1w"
+    }
+  ],
+  "revisionNotes": "Phase 75 catalog migration",
+  "translationStatus": "machine",
+  "translationSource": "oz9xfzaq:pl",
+  "translationSourceVersion": "1.0.1"
+}

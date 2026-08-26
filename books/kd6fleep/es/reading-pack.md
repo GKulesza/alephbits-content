@@ -1,0 +1,326 @@
+# Cuatro en una barca
+
+## Metadata
+
+**Pack ID:** kd6fleep
+**Book ID:** kd6fleep
+**Legacy Pack ID:** polish_czterech_w_lodce
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Cuatro en una barca  
+**Subtitle:** Reparto igual y destino desigual  
+**Blurb:** Tomek se despierta con los resultados del Kanał Sportowy: caída de un tercio, pérdidas, y al lado el éxito del Kanał Zero de Krzysiek. Vuelve con la mente a Masuria, donde cuatro socios dividieron la empresa al 25% cada uno y creyeron que la justicia bastaría. Una historia sobre por qué el reparto equitativo de acciones no protege contra la separación.
+
+**Genres:** article, everyday_live, business  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del paquete de lectura polaco "Czterech w łódce" — edición oficial de Collection Nine.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** startup, wspólnicy, YouTube, biznes, Collection Nine  
+
+**Keywords:** Cuatro en una barca, Kanał Sportowy, socios, Krzysiek Stanowski, Tomek  
+
+**Cover family:** article
+
+
+**Motifs:**
+- ship
+- betrayal
+- pride
+- storm
+- letter
+
+**Editorial notes:** Traducción al español de la edición canónica polaca (manuscrito Collection Nine). Texto completo preservado — sin abreviar.
+**Inspiration:** La historia de los canales deportivos polacos y la metáfora de cuatro socios en una barca.
+
+**Translation status:** machine  
+**Translation source:** kd6fleep:pl  
+**Translation source version:** 1.0.1  
+
+---
+
+**World:**
+- objects: barca
+- places: oficina
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 13.07.2026 -> https://www.youtube.com/watch?v=_ByoSBSkJZg  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — contradiction and grammar |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Dobre dopasowanie — lekcja o strukturze władzy, ego i odpowiedzialności w biznesie. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=_ByoSBSkJZg  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**Cuatro en una barca**
+
+Tomek se despertó a las cinco de la mañana, como siempre. Tras años trabajando en una redacción deportiva se había acostumbrado a levantarse temprano: partidos, alineaciones, lesiones, todo ocurría antes del desayuno. Pero hoy no lo despertó el sonido del teléfono ni el despertador. Lo despertó el silencio. Ese silencio específico de la mañana del lunes, cuando sabes que algo ha cambiado, solo que todavía no sabes qué.
+
+Cogió el teléfono. En la pantalla, una notificación de Google Alert: el nombre que había tecleado hace años y nunca había borrado. "Kanał Sportowy publica los resultados de 2025". Abrió el enlace y durante un momento se limitó a mirar las cifras.
+
+Nueve y nueve décimas de millón de ingresos. Trescientas mil de pérdidas. Una caída de un tercio interanual.
+
+Dejó el teléfono sobre el edredón y miró al techo. Recordaba con exactitud aquel día, casi seis años atrás, cuando los cuatro se sentaron en una casita de Masuria — él, Krzysiek, Mateusz y Michał — y esbozaron en una servilleta la estructura de participaciones. Todos a partes iguales. Con justicia. Porque, después de todo, ¿qué podía salir mal? Cada uno tenía veinticinco por ciento, cada uno tenía voto, cada uno tenía la misma visión: construir el canal deportivo más grande del YouTube polaco.
+
+"Con justicia" — pensó ahora, mirando al techo. — "Esa palabra debería estar tachada en todos los diccionarios de negocios."
+
+Se levantó, se hizo un café y se sentó en el escritorio. En el portátil aún tenía abierta la página con los resultados. Junto a ella le saltó una notificación de Twitter: Krzysiek Stanowski acababa de presumir de que Kanał Zero había superado los dos mil millones de visualizaciones en total y de que solo con AdSense había generado veintidós millones y medio de zlotys. Más de lo que todo Kanał Sportowy había ganado en un año.
+
+Tomek se rio con amargura. Abrió el cajón del escritorio y sacó una servilleta vieja, ya amarillenta. La misma en la que entonces dibujaron la estructura de la empresa. "KS — participaciones: 4 x 25%". Debajo, la nota de Krzysiek: "O todos o ninguno".
+
+---
+
+Seis años antes, la casita de Masuria, un fin de semana de mayo.
+
+Estaban sentados en la terraza, bebiendo cerveza y hablando del futuro. Krzysiek — el visionario, el hombre que veía más lejos que nadie. Mateusz — el periodista con el ego más grande que Tomek había visto jamás, pero también con un olfato increíble para el tema. Michał — sereno, prudente, el que siempre decía "esperemos, pensémoslo". Y él mismo — el cuarto, el menos conocido, pero con cabeza para los números y la organización.
+
+— Escuchad — decía Krzysiek, dibujando en la servilleta — fundamos una empresa. Cada uno a partes iguales. Ninguno de nosotros es más importante que otro. Todos tiramos del carro y todos compartimos el beneficio.
+
+Tomek recordaba que ya entonces algo no le cuadraba. No es que no confiara en los chicos — confiaba. Pero veía lo diferentes que eran sus enfoques del trabajo, sus necesidades económicas, sus planes de vida. Krzysiek ya era rico entonces, tras vender Weszło. Mateusz ganaba dinero aparte. Michał tenía ahorros. Y él, Tomek, tenía una hipoteca y dos hijos.
+
+— ¿Y si a alguien le importa más que a los demás? — preguntó entonces.
+
+Krzysiek hizo un gesto con la mano.
+
+— Imposible. Todos creemos en esto.
+
+Tomek dio un sorbo de cerveza y no dijo nada. Pero en su fuero interno pensó que la "fe" no es una buena base para construir una empresa.
+
+---
+
+Cuatro años después, Varsovia, la oficina de Kanał Sportowy.
+
+Estaban sentados en la sala de reuniones — la misma donde grabaron los primeros programas, cuando todo olía aún a frescura y éxito. Sobre la mesa había una impresión con los resultados del último trimestre. Las cosas iban bien. Muy bien. Los ingresos crecían, las suscripciones crecían, todo crecía.
+
+Pero el ambiente era denso como antes de una tormenta.
+
+— Yo quiero seguir desarrollando el canal — decía Krzysiek, golpeando con el bolígrafo en la mesa. — Más formatos, más gente, más de todo. Tenemos inercia. Hay que aprovecharla.
+
+— Y yo creo que deberíamos centrarnos en lo que tenemos — respondía Michał. — No podemos dispersarnos. Si hacemos demasiadas cosas a la vez, todo se vendrá abajo.
+
+Mateusz callaba. Siempre callaba cuando no podía salirse con la suya. Y Tomek contaba mentalmente: cuánto costaría el equipo nuevo, cuánta gente habría que contratar, qué impacto tendría en sus pagos personales. Porque él, a diferencia de Krzysiek, no tenía colchón financiero de negocios anteriores.
+
+— Pues votemos — propuso alguien.
+
+Y votaron. Dos a dos. Empate.
+
+Krzysiek miró a Tomek con algo que parecía decepción.
+
+— Creía que tú lo entenderías — dijo.
+
+Y Tomek quiso responder: "Yo lo entiendo. Pero no puedo permitirme el riesgo que tú puedes permitirte." No lo dijo. En lugar de eso salió de la sala y llamó a su mujer.
+
+— ¿Qué tal? — preguntó.
+
+— Creo que empiezo a entender por qué los socios se separan — respondió.
+
+---
+
+Dos años después, el juzgado de registro, un extracto del Registro Nacional.
+
+Tomek estaba ante la funcionaria y presentaba la solicitud para que lo dieran de baja de la empresa. Era el segundo que se iba. El primero había sido Michał — harto de las discusiones constantes, dijo que "no fundó un canal deportivo para pelear cada día con los colegas". El segundo fue él, Tomek — porque entendió que una empresa en la que nadie tiene mayoría y todos tienen el mismo ego no es una empresa, sino un campo de minas.
+
+Quedaron solo Krzysiek y Mateusz. Los dos egos más grandes en una misma sala. Como dos agujeros negros que no pueden existir uno junto al otro, porque al final uno engulle al otro.
+
+Y engulló. Krzysiek se fue, fundó Kanał Zero, y Mateusz se quedó con un canal que, lenta e inexorablemente, empezó a perder espectadores, ingresos, relevancia.
+
+Tomek miraba ahora los resultados de 2025 y pensaba en lo que había dicho entonces, años atrás, en Masuria: "¿Y si a alguien le importa más que a los demás?". Nadie lo escuchó. Nadie quiso escuchar. Porque la visión era demasiado hermosa, demasiado atractiva, demasiado justa.
+
+Y sin embargo, el negocio no va de justicia. El negocio va de resultados.
+
+---
+
+Sentado en el escritorio, seguía repasando. Meczyki — un canal que empezó como pequeño proyecto de Sebastian Felkner — acababa de superar a Kanał Sportowy en audiencia. Tomek conocía a Sebastian. Una vez, en alguna conferencia del sector, tomaron café juntos y Sebastian le dijo algo que entonces sonó a herejía:
+
+— Yo no cojo socios. Cojo empleados. Y les doy unas condiciones para que trabajen como socios, pero sin derecho a voto cuando hay que tomar una decisión.
+
+Tomek pensó entonces que era frío, calculador, corporativo. Y ahora miraba los resultados de Meczyki — crecientes, estables, sin guerras internas ni separaciones públicas — y pensaba que quizá Sebastian tenía razón.
+
+---
+
+Recordó otra historia más. Hacía unas semanas había leído sobre la empresa mPay. También estuvo una vez en la cresta de la ola, también tenía grandes planes: una stablecoin, una revolución de pagos, "mejor que Blik". Las acciones volaban, los embaucadores se frotaban las manos. Y entonces la KNF les retiró la licencia. Las acciones cayeron a la mitad en un solo día. Otra empresa, otra caída, otra prueba de que los cimientos — no las visiones — deciden la supervivencia.
+
+"Curioso" — pensó Tomek — "cuántos inversores de mPay escucharon todas esas visiones y perdieron los ahorros de su vida. Y cuántos de ellos pensaron que, puesto que tantos hablan bien de ello, debe ser seguro."
+
+Igual que todos ellos pensaron de Kanał Sportowy. Que como son cuatro, como todos creen, como todo está repartido con justicia, tiene que salir bien.
+
+---
+
+Cerró el portátil. Fuera de la ventana despuntaba el día — gris, brumoso, de lunes. Miró la servilleta en su mano y durante un momento tuvo ganas de romperla. Pero no lo hizo. La guardó de nuevo en el cajón, bajo una pila de documentos, junto con los demás recuerdos de aquella época.
+
+Luego cogió el teléfono y le escribió a Krzysiek. Llevaban meses sin hablar — no porque se hubieran peleado, sino porque la vida había tomado caminos distintos. Pero hoy, tras leer todos esos resultados, sintió la necesidad de ponerse en contacto.
+
+"He visto los resultados. Siento que haya salido así. Pero visto con perspectiva — no podía salir bien. Cuatro tíos con las mismas competencias, el mismo ego y carteras distintas. Era una bomba de relojería."
+
+La respuesta llegó a los pocos minutos.
+
+"Lo sé. Yo también lo he pensado. ¿Sabes qué es lo peor? Que yo lo vi todo desde el principio. Solo que no quise creerlo. Porque la visión era demasiado hermosa."
+
+Tomek sonrió con tristeza. Exactamente eso había pensado él entonces, en Masuria, cuando veía a Krzysiek dibujar cuatro porciones iguales de tarta en una servilleta.
+
+"La próxima vez" — respondió — "quizá solo dibuje uno, y los demás hagan preguntas."
+
+"La próxima vez" — respondió Krzysiek — "no habrá socios."
+
+Tomek dejó el teléfono y miró por la ventana. La niebla se levantaba lentamente, descubriendo los tejados de los bloques de Varsovia. En algún lugar, en un edificio de oficinas al otro lado de la ciudad, Mateusz seguramente ya estaría trabajando en la estrategia del próximo trimestre. En otro lugar, Sebastian Felkner abría las estadísticas matutinas de Meczyki — crecientes, como siempre. Y un poco más lejos, Krzysiek planeaba su próxima gran cosa, solo, sin socios, sin votaciones, sin empates dos a dos.
+
+Y él, Tomek, estaba sentado en casa, bebiendo el café ya frío y pensando que a veces el mayor valor que sacas de un fracaso no es el dinero, ni los contactos, ni la experiencia. Sino la conciencia de qué salió mal. Y de que la próxima vez — si es que hay próxima vez — no repetirás el mismo error.
+
+Aunque seguro que lo repetirás. Porque el negocio, igual que la vida, no da garantías. Solo da lecciones.
+
+Y la lección número uno era: nunca dividas una empresa en cuatro partes iguales si no estás preparado para que algún día dos de ellas voten contra ti.
+
+Guardó la servilleta más hondo en el cajón y fue a hacerse un café fresco.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cuál fue el ingreso de Kanał Sportowy en 2025 según los resultados?
+
+**Answers:**
+- A) Nueve y nueve décimas de millón de zlotys
+- B) Dos mil millones de zlotys
+- C) Cinco millones de zlotys
+- D) Un millón de zlotys
+
+**Correct:** A
+**Explanation:** Tomek lee: nueve y nueve décimas de millón de ingresos y trescientas mil de pérdidas.
+**Text reference:** Nueve y nueve décimas
+
+### Question 2
+
+**Question:** ¿Cómo repartieron las participaciones en Masuria?
+
+**Answers:**
+- A) Uno tenía el 51%, el resto el 16%
+- B) Cuatro veces el 25%
+- C) Dos veces el 50%
+- D) Tres veces el 33%
+
+**Correct:** B
+**Explanation:** En la servilleta escribieron: "KS — participaciones: 4 x 25%".
+**Text reference:** 4 x 25%
+
+### Question 3
+
+**Question:** ¿Cuál fue el resultado de la votación sobre el desarrollo del canal?
+
+**Answers:**
+- A) Tres a uno
+- B) Dos a dos — empate
+- C) Unánime a favor
+- D) Todos contra Krzysiek
+
+**Correct:** B
+**Explanation:** Votaron y salió dos a dos: un empate sin mayoría decisoria.
+**Text reference:** Dos a dos
+
+### Question 4
+
+**Question:** ¿Qué dice Sebastian Felkner sobre los socios?
+
+**Answers:**
+- A) Que todos deberían tener lo mismo
+- B) Que coge empleados con condiciones de socios, pero sin derecho a voto en las decisiones
+- C) Que los socios son necesarios
+- D) Que nunca funda empresas
+
+**Correct:** B
+**Explanation:** Sebastian dice que da a los empleados condiciones de socios, pero sin voto en las decisiones.
+**Text reference:** no cojo socios
+
+### Question 5
+
+**Question:** ¿Qué responde Krzysiek a Tomek al final de la correspondencia?
+
+**Answers:**
+- A) Que quiere volver a Kanał Sportowy
+- B) Que la próxima vez no habrá socios
+- C) Que la culpa es de Tomek
+- D) Que venderán el canal
+
+**Correct:** B
+**Explanation:** Krzysiek responde: "La próxima vez — no habrá socios."
+**Text reference:** no habrá socios
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

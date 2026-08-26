@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De dónde es Anastazja?",
+      "answers": [
+        "De Varsovia",
+        "De Almaty, en Kazajistán",
+        "De Kiev",
+        "De Vilna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vive en Almaty; hija de una polaca y un kazajo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué le deniega la visa la embajada?",
+      "answers": [
+        "Falta de dinero",
+        "Finalidad del viaje indicada incorrectamente",
+        "Falta de pasaporte",
+        "La edad"
+      ],
+      "correctIndex": 1,
+      "explanation": "El correo dice: denegación — finalidad del viaje indicada incorrectamente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Justyna sobre Polonia?",
+      "answers": [
+        "Que es solo un país",
+        "Que Polonia es un hogar en el corazón, no en los papeles",
+        "Que hay que olvidar las raíces",
+        "Que la visa es necesaria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: Polonia no es solo un país — es un hogar, incluso sin visa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Anastazja en el cuaderno bajo la pregunta \"¿Quién soy?\"",
+      "answers": [
+        "Que es kazaja",
+        "Que es hija de una polaca y un kazajo, y Polonia es su hogar",
+        "Que no lo sabe",
+        "Que necesita una visa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Describe sus raíces polacas y el sentimiento de hogar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A dónde va Anastazja en el epílogo?",
+      "answers": [
+        "A Almaty para siempre",
+        "Al aeropuerto — se despide de su ciudad natal",
+        "A la embajada",
+        "A la universidad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Está en la colina, se despide de Almaty y camina hacia el aeropuerto."
+    }
+  ]
+}

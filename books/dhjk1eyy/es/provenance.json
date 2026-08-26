@@ -1,0 +1,27 @@
+{
+  "packId": "dhjk1eyy:es",
+  "bookId": "dhjk1eyy",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection Three). Texto íntegro — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "0pCoIfeoQuU"
+    }
+  ],
+  "revisionNotes": "Ficción de carácter periodístico inspirada en una crisis hotelera mediática; requiere evaluación manual del riesgo de referencias a entidades reales.",
+  "translationStatus": "machine",
+  "translationSource": "dhjk1eyy:pl",
+  "translationSourceVersion": "1.0.0"
+}

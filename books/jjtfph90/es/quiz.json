@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve Kasia en los ojos de Karol por la noche?",
+      "answers": [
+        "Alegría",
+        "Vacío — ojos muertos",
+        "Lágrimas",
+        "Sueño"
+      ],
+      "correctIndex": 1,
+      "explanation": "Describe los ojos como vacíos, muertos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le aconseja su amiga a Kasia en el mensaje?",
+      "answers": [
+        "Que vuelva con Karol",
+        "Que escuche su intuición y se cuide de sus ojos",
+        "Que vaya al trabajo",
+        "Que lo ignore"
+      ],
+      "correctIndex": 1,
+      "explanation": "Su amiga le escribe: escucha tu intuición, todo se ve en los ojos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve Kasia en Karol cuando le pregunta por el amor?",
+      "answers": [
+        "Emoción sincera",
+        "Cálculo — como si sopesara la respuesta ventajosa",
+        "Enfado",
+        "Sueño"
+      ],
+      "correctIndex": 1,
+      "explanation": "Por un instante la máscara cae y se ve el vacío frío."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué anota Kasia en su cuaderno después de la lectura?",
+      "answers": [
+        "Que ella es débil",
+        "Que ellos no saben qué es la fuerza",
+        "Que volverá con Karol",
+        "Que la psicopatía no existe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anota que eso no significa que ella sea débil."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Kasia a Ola cuando se encuentra con Karol por casualidad?",
+      "answers": [
+        "Que Karol es bueno",
+        "\"Cuídate de él. Tiene los ojos fríos.\"",
+        "Que vuelve con él",
+        "Nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Advierte a Ola: cuidado, tiene los ojos fríos."
+    }
+  ]
+}

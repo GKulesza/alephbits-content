@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Tomek know it will be hot that morning?",
+      "answers": [
+        "Only from the TV forecast",
+        "From his experience of the forest — he recognises drought without a thermometer",
+        "From tourists on the bus",
+        "From a running app"
+      ],
+      "correctIndex": 1,
+      "explanation": "His father taught him to read the forest by looking, not from books; Tomek recognises drought without a thermometer."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the father tell Tomek about the drought?",
+      "answers": [
+        "That it's normal spring weather",
+        "That it is no longer a normal drought but a change, and he doesn't know how long the trees will hold out",
+        "That it's enough to water the forest with a garden hose",
+        "That pines are resistant to everything"
+      ],
+      "correctIndex": 1,
+      "explanation": "The father says every year it gets worse and it is no longer a normal drought but a change."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the idea of planting different trees prove difficult?",
+      "answers": [
+        "Because pines have grown on the sands of the Bory for centuries",
+        "Because the forest is protected by building regulations",
+        "Because Tomek doesn't like plants",
+        "Because there's no room for trees"
+      ],
+      "correctIndex": 0,
+      "explanation": "The father says these are sands and pine has grown here for centuries; if it can't make it, he doesn't know what can."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens in the epilogue in 2029?",
+      "answers": [
+        "The forest is completely cut down",
+        "A water retention programme and adaptation measures appear",
+        "Tomek abandons his work in the forest",
+        "The drought ends immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue describes the programme for rebuilding retention, new reservoirs and the actions of cities and farmers."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the characters' attitude at the end of the story?",
+      "answers": [
+        "Pessimism without action",
+        "Awareness of the difficulties, but the feeling that trying makes sense",
+        "Belief that the problem has been solved",
+        "Giving up on ecology"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ending says that if something changes now, maybe it will be possible to stop what is inevitable — and if not, at least they tried."
+    }
+  ]
+}

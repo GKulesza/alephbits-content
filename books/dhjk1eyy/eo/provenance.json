@@ -1,0 +1,27 @@
+{
+  "packId": "dhjk1eyy:eo",
+  "bookId": "dhjk1eyy",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Esperanta traduko de la kanona pola eldono (manuskripto de Collection Three). Plena teksto — ne mallongigita."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "0pCoIfeoQuU"
+    }
+  ],
+  "revisionNotes": "Ĵurnalismeca fikcio inspirita de amaskomunikila hotelkrizo; postulas manan takson de la risko de referencoj al realaj unuoj.",
+  "translationStatus": "machine",
+  "translationSource": "dhjk1eyy:pl",
+  "translationSourceVersion": "1.0.0"
+}

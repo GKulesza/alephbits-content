@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What fundamental contradiction does the narrator working at the hotel experience?",
+      "answers": [
+        "He has too much free time",
+        "He serves the luxury sold to guests while knowing about the hidden failures and the poor realities of the work",
+        "He doesn't want to work at night because he likes mornings",
+        "He doesn't understand the hotel rules"
+      ],
+      "correctIndex": 1,
+      "explanation": "The contrast between the price of the suites and the working conditions and quality of service is the axis of the text."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why is the conversation with the mysterious man on the terrace a turning point?",
+      "answers": [
+        "Because he gets a promotion offer",
+        "Because he hears from the designer that the hotel's problems were known and hidden from the very beginning",
+        "Because he meets a new VIP guest",
+        "Because he finds a lost phone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The man reveals that the system had been faulty from the start and that someone knew about it."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the narrator already know before the man names it directly?",
+      "answers": [
+        "That the hotel will be sold within a month",
+        "That the internal emails confirmed that technical warnings were being ignored",
+        "That the media made everything up",
+        "That the air conditioning is perfect"
+      ],
+      "correctIndex": 1,
+      "explanation": "He had seen the technicians' notes that ended up in the bin."
+    },
+    {
+      "type": "single_choice",
+      "question": "What decision does the narrator make after returning from the terrace?",
+      "answers": [
+        "He decides to delete all the emails",
+        "He writes a letter and contacts someone who can publish the true story",
+        "He leaves right away before dawn without a trace",
+        "He asks for a raise"
+      ],
+      "correctIndex": 1,
+      "explanation": "The climax is the letter to the management and the phone call asking for the truth to be published."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the epilogue with the trip to Japan mean?",
+      "answers": [
+        "That the hotel is a great success",
+        "That the narrator regains his agency and closes the chapter of a life based on pretending",
+        "That he returns to the same job after the renovation",
+        "That he wants to design air conditioning"
+      ],
+      "correctIndex": 1,
+      "explanation": "The departure symbolises leaving a toxic arrangement and the beginning of a new chapter."
+    }
+  ]
+}

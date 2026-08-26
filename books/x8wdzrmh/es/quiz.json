@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo sabe Tomek que hará calor esa mañana?",
+      "answers": [
+        "Solo por el pronóstico de la televisión",
+        "Por su experiencia del bosque — reconoce la sequía sin termómetro",
+        "Por los turistas del autobús",
+        "Por una aplicación de running"
+      ],
+      "correctIndex": 1,
+      "explanation": "Su padre le enseñó a leer el bosque mirando, no de los libros; Tomek reconoce la sequía sin termómetro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice el padre a Tomek sobre la sequía?",
+      "answers": [
+        "Que es un tiempo primaveral normal",
+        "Que ya no es una sequía normal, sino un cambio, y no sabe cuánto aguantarán los árboles",
+        "Que basta con regar el bosque con una manguera de jardín",
+        "Que los pinos son resistentes a todo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El padre dice que cada año es peor y que ya no es una sequía normal, sino un cambio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la idea de plantar otros árboles resulta difícil?",
+      "answers": [
+        "Porque en los Bosques el pino creció durante siglos en las arenas",
+        "Porque el bosque está protegido por la ley de construcción",
+        "Porque a Tomek no le gustan las plantas",
+        "Porque no hay sitio para árboles"
+      ],
+      "correctIndex": 0,
+      "explanation": "El padre dice que esto son arenas y que el pino creció allí durante siglos; si él no aguanta, no sabe qué aguantará."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ocurre en el epílogo de 2029?",
+      "answers": [
+        "El bosque se tala por completo",
+        "Aparece un programa de retención de agua y medidas de adaptación",
+        "Tomek abandona su trabajo en el bosque",
+        "La sequía termina de inmediato"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo describe el programa de reconstrucción de la retención, nuevos embalses y las acciones de ciudades y agricultores."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la actitud de los personajes al final de la historia?",
+      "answers": [
+        "Pesimismo sin acción",
+        "Conciencia de las dificultades, pero la sensación de que intentarlo tiene sentido",
+        "Creencia de que el problema está resuelto",
+        "Renuncia a la ecología"
+      ],
+      "correctIndex": 1,
+      "explanation": "El final dice que si algo cambia ahora, quizá se consiga detener lo inevitable — y si no, al menos lo intentaron."
+    }
+  ]
+}

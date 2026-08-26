@@ -1,0 +1,43 @@
+{
+  "packId": "mn4r7sgm:en",
+  "bookId": "mn4r7sgm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition (CollectionZero catalog). Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Z-DJ7XocjRY"
+    },
+    {
+      "type": "youtube",
+      "videoId": "vZ_As1yDPAc"
+    },
+    {
+      "type": "youtube",
+      "videoId": "1wAJ0mC5nbc"
+    },
+    {
+      "type": "youtube",
+      "videoId": "pACvHQUZMqk"
+    },
+    {
+      "type": "youtube",
+      "videoId": "1J_Y12RqeLM"
+    }
+  ],
+  "revisionNotes": "Polish prose correction — garbled fragment (posłańców)",
+  "translationStatus": "machine",
+  "translationSource": "mn4r7sgm:pl",
+  "translationSourceVersion": "1.0.1"
+}

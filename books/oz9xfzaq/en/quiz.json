@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What alarms Kasia before her visit to the doctor?",
+      "answers": [
+        "The first thick varicose vein",
+        "A broken leg",
+        "A skin allergy",
+        "A cramp in the arm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first thick, twisted varicose vein appears."
+    },
+    {
+      "type": "single_choice",
+      "question": "How do the valves in the veins work according to the doctor?",
+      "answers": [
+        "They open only upwards",
+        "They let blood through in both directions",
+        "They close the vein permanently",
+        "They do not occur in humans"
+      ],
+      "correctIndex": 0,
+      "explanation": "The valves open only in the direction of the heart."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does sclerotherapy consist of?",
+      "answers": [
+        "Injecting a fluid that closes the vein",
+        "A hospital operation under general anaesthesia",
+        "Using a cream for spider veins",
+        "A hot bath for the legs"
+      ],
+      "correctIndex": 0,
+      "explanation": "The foam pushes out the blood and closes the vessel."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia get when she leaves the first visit?",
+      "answers": [
+        "A referral and recommendations",
+        "Sick leave",
+        "Only a prescription for a cream",
+        "An agreement for the operation"
+      ],
+      "correctIndex": 0,
+      "explanation": "She leaves with a sheet of recommendations and a referral for an ultrasound."
+    },
+    {
+      "type": "single_choice",
+      "question": "How do Kasia's legs look after three months?",
+      "answers": [
+        "No trace of varicose veins",
+        "Worse than before",
+        "They still hurt a lot",
+        "They require amputation"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the follow-up there is no trace of varicose veins."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "x8wdzrmh:es",
+  "bookId": "x8wdzrmh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ficción de reportaje sobre la sequía y el cambio climático en los Bosques de Tuchola."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "JsFiTY_Cnf0"
+    }
+  ],
+  "revisionNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.",
+  "translationStatus": "machine",
+  "translationSource": "x8wdzrmh:pl",
+  "translationSourceVersion": "1.1.0"
+}

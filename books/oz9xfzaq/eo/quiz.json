@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio alarmas Kasia antaŭ la vizito al la kuracisto?",
+      "answers": [
+        "La unua dika variko",
+        "Ostofrakto de la gambo",
+        "Haŭta alergio",
+        "Kramfo en la brako"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aperas la unua dika, torda variko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel funkcias la valvoj en la vejnoj laŭ la kuracisto?",
+      "answers": [
+        "Ili malfermiĝas nur supren",
+        "Ili lasas la sangon ambaŭdirekte",
+        "Ili fermas la vejnon por ĉiam",
+        "Ili ne ekzistas ĉe homoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "La valvoj malfermiĝas nur direkte al la koro."
+    },
+    {
+      "type": "single_choice",
+      "question": "El kio konsistas skleroterapio?",
+      "answers": [
+        "Injekto de likvaĵo, kiu fermas la vejnon",
+        "Operacio en hospitalo kun anestezo",
+        "Uzo de kremo kontraŭ araneetoj",
+        "Varma bano por la gamboj"
+      ],
+      "correctIndex": 0,
+      "explanation": "La ŝaŭmo forpuŝas la sangon kaj fermas la vaskulon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia ricevas forirante de la unua vizito?",
+      "answers": [
+        "Sendilon kaj rekomendojn",
+        "Malsanpermeson",
+        "Nur recepton por kremo",
+        "Kontrakton por la operacio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi foriras kun papero de rekomendoj kaj sendilo por ultrasono."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel aspektas la gamboj de Kasia post tri monatoj?",
+      "answers": [
+        "Sen spuro de varikoj",
+        "Pli malbone ol antaŭe",
+        "Ili ankoraŭ multe doloras",
+        "Ili bezonas amputon"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la kontrolo ne estas spuro de varikoj."
+    }
+  ]
+}

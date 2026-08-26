@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la profesión de Chen Ching Ting?",
+      "answers": [
+        "Médica",
+        "Editora",
+        "Piloto",
+        "Funcionaria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ching Ting es editora; viaja a la Feria del Libro de Fráncfort."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dicen los funcionarios sobre su pasaporte?",
+      "answers": [
+        "Que está caducado",
+        "Que es falso — el número no existe en el sistema",
+        "Que falta el visado",
+        "Que la foto es demasiado antigua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dicen: «Su pasaporte es falso. El número no existe en el sistema»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto dura el interrogatorio en el aeropuerto?",
+      "answers": [
+        "Una hora",
+        "Cuatro horas",
+        "Un día",
+        "Quince minutos"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto lo dice directamente: cuatro horas de interrogatorio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué año fue Taiwán expulsado de la ONU según la historia?",
+      "answers": [
+        "1949",
+        "1971",
+        "1989",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1971 Taiwán fue expulsado de la ONU tras rechazar la «doble representación»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué empresa de Taiwán menciona el texto como productora de chips avanzados?",
+      "answers": [
+        "Intel",
+        "TSMC",
+        "Samsung",
+        "Huawei"
+      ],
+      "correctIndex": 1,
+      "explanation": "TSMC, en Taiwán, produce alrededor del 90% de los chips más avanzados."
+    }
+  ]
+}

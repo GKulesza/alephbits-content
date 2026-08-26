@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Dónde se celebra el mercado descrito?",
+      "answers": [
+        "En Nowy Targ",
+        "En Elbląg",
+        "En Cracovia",
+        "En Budapest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adam viaja al mercado de Nowy Targ."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se ponían los precios en euros?",
+      "answers": [
+        "Los húngaros y los eslovacos no querían hacer cuentas",
+        "El euro es la moneda de Polonia",
+        "Los cajeros no funcionaban",
+        "Los vendedores no sabían polaco"
+      ],
+      "correctIndex": 0,
+      "explanation": "El vendedor explica que los clientes de Hungría y Eslovaquia prefieren el euro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Con qué comercia Adam al final?",
+      "answers": [
+        "Chaquetas de cuero y zapatos",
+        "Cachemir",
+        "Electrónica",
+        "Verduras"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiene su propio puesto de chaquetas de cuero y zapatos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De dónde vienen los comerciantes al mercado?",
+      "answers": [
+        "De Hungría, la República Checa y Eslovaquia",
+        "Solo de Polonia",
+        "De Japón",
+        "De Estados Unidos"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto menciona a húngaros, checos y eslovacos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto costaba el cachemir en el puesto?",
+      "answers": [
+        "270 zlotys",
+        "50 euros",
+        "100 zlotys",
+        "10 zlotys"
+      ],
+      "correctIndex": 0,
+      "explanation": "El vendedor ofrece cachemir por 270 zlotys."
+    }
+  ]
+}

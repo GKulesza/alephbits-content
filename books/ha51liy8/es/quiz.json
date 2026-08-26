@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué problema nombra Kadysz en la carta?",
+      "answers": [
+        "Nos proponemos cosas que no llegan a nada",
+        "Falta de tiempo para leer",
+        "Demasiadas reuniones",
+        "No hay internet"
+      ],
+      "correctIndex": 0,
+      "explanation": "La carta pregunta con qué frecuencia nos proponemos algo que no llega a nada."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ocurre cuando nos dan a elegir?",
+      "answers": [
+        "La mente encuentra excusas",
+        "Siempre elegimos la tarea difícil",
+        "La motivación crece sin límite",
+        "No tiene ningún efecto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Al quedarnos pensando, la mente encuentra excusas rápidamente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Łukasz en lugar de trabajar?",
+      "answers": [
+        "Busca métodos nuevos en internet",
+        "Duerme todo el día",
+        "Llama para pedir vacaciones",
+        "Vende su ordenador"
+      ],
+      "correctIndex": 0,
+      "explanation": "En lugar de trabajar, lee sobre el trabajo en internet."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién escribió la carta del relato?",
+      "answers": [
+        "Kadysz",
+        "Łukasz",
+        "Maria",
+        "Adam"
+      ],
+      "correctIndex": 0,
+      "explanation": "La carta comienza con una cita de Kadysz."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Łukasz cuando empieza a dudar?",
+      "answers": [
+        "Lee sobre aplicaciones y lifehacks",
+        "Termina el trabajo de inmediato",
+        "Se va de vacaciones",
+        "Contrata a un asistente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Busca aplicaciones nuevas en lugar de actuar."
+    }
+  ]
+}

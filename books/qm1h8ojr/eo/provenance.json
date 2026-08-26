@@ -1,0 +1,35 @@
+{
+  "packId": "qm1h8ojr:eo",
+  "bookId": "qm1h8ojr",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-08",
+  "lastReviewedAt": "2026-07-08",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Founder-authored prose from Collection Zero vault."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "xgvKeRGBgV8"
+    },
+    {
+      "type": "youtube",
+      "videoId": "V2gj8ec1pWQ"
+    },
+    {
+      "type": "youtube",
+      "videoId": "7JxsQXeilHg"
+    }
+  ],
+  "revisionNotes": "First Collection Zero migration via compile_pack dogfooding sprint.",
+  "translationStatus": "machine",
+  "translationSource": "qm1h8ojr:pl",
+  "translationSourceVersion": "1.0.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kian fundamentan kontraŭdiron spertas la rakontanto laboranta en la hotelo?",
+      "answers": [
+        "Li havas tro multe da libera tempo",
+        "Li servas la lukson vendatan al la gastoj, sciante pri la kaŝitaj paneoj kaj la malfacila realo de la laboro",
+        "Li ne volas labori nokte, ĉar li ŝatas matenojn",
+        "Li ne komprenas la hotelajn regulojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La kontrasto inter la prezo de la apartamentoj kaj la laborkondiĉoj kaj kvalito de la servo estas la akso de la teksto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la konversacio kun la mistera viro sur la teraso estas turnopunkto?",
+      "answers": [
+        "Ĉar li ricevas proponon pri promocio",
+        "Ĉar li aŭdas de la projektanto, ke la hotelaj problemoj estis konataj kaj kaŝitaj de la komenco",
+        "Ĉar li renkontas novan VIP-gaston",
+        "Ĉar li trovas perditan telefonon"
+      ],
+      "correctIndex": 1,
+      "explanation": "La viro malkaŝas, ke la sistemo estis difekta de la komenco kaj ke iu sciis pri tio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la rakontanto jam scias antaŭ ol la viro diras ĝin rekte?",
+      "answers": [
+        "Ke la hotelo estos vendita post unu monato",
+        "Ke la internaj retleteroj konfirmis, ke la teknikaj avertoj estis ignorataj",
+        "Ke la amaskomunikiloj elpensis ĉion",
+        "Ke la klimatizilo funkcias perfekte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li vidis la notojn de la teknikistoj, kiuj finiĝis en la rubujo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian decidon faras la rakontanto post la reveno de la teraso?",
+      "answers": [
+        "Li decidas forigi ĉiujn retleterojn",
+        "Li skribas leteron kaj kontaktas iun, kiu povas publikigi la veran historion",
+        "Li foriras tuj antaŭ la tagiĝo, sen spuro",
+        "Li petas plialtigon de salajro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La kulmino estas la letero al la direkcio kaj la voko petanta publikigi la veron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion signifas la epilogo kun la vojaĝo al Japanio?",
+      "answers": [
+        "Ke la hotelo estas granda sukceso",
+        "Ke la rakontanto reakiras sian iniciativon kaj fermas la ĉapitron de vivo bazita sur ŝajnigado",
+        "Ke li revenas al la sama laboro post la renovigo",
+        "Ke li volas projektadi klimatizilojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La foriro simbolas lasi toksan aranĝon kaj la komencon de nova ĉapitro."
+    }
+  ]
+}

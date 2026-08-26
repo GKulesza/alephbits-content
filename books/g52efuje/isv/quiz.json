@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Chen Ching Ting po profesiji?",
+      "answers": [
+        "Lekarka",
+        "Izdatelnica",
+        "Pilotka",
+        "Urjadnica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ching Ting jest izdatelniceju, jede na Knižny jarmark vo Frankfurt."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto funkcionary govorit o jeje pasportu?",
+      "answers": [
+        "Že jest prosročeny",
+        "Že jest falsivy — numer ne jest v sistemě",
+        "Že ne dostaje vizy",
+        "Že fotografija jest za stara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govorjat: „Vaš pasport jest falsivy. Numer ne jest v sistemě.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko trva dopros na aerodromu?",
+      "answers": [
+        "Godinu",
+        "Četyre hodiny",
+        "Deň",
+        "Petnact minut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst govorit prjamo: četyre hodiny doprosa."
+    },
+    {
+      "type": "single_choice",
+      "question": "V ktorom godu Tajvan byl isklučen iz OON po povesti?",
+      "answers": [
+        "1949",
+        "1971",
+        "1989",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "V 1971 godu Tajvan byl isklučen iz OON po otkazu ot „dvojnogo predstavitelstva”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoru firmu iz Tajvana tekst imenuje proizvoditelom razvityh čipov?",
+      "answers": [
+        "Intel",
+        "TSMC",
+        "Samsung",
+        "Huawei"
+      ],
+      "correctIndex": 1,
+      "explanation": "TSMC na Tajvaně proizvodit okolo 90% najbolě razvityh čipov."
+    }
+  ]
+}

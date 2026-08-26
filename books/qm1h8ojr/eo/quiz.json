@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kie okazas la priskribita bazaro?",
+      "answers": [
+        "En Nowy Targ",
+        "En Elbląg",
+        "En Krakovo",
+        "En Budapeŝto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adamo veturas al la bazaro en Nowy Targ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial oni indikis la prezojn en eŭroj?",
+      "answers": [
+        "La hungaroj kaj slovakoj ne volis kalkuli",
+        "La eŭro estas la valuto de Pollando",
+        "La bankaŭtomatoj ne funkciis",
+        "La vendistoj ne scipovis la polan"
+      ],
+      "correctIndex": 0,
+      "explanation": "La vendisto klarigas, ke la klientoj el Hungario kaj Slovakio preferas la eŭron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Per kio komercas Adamo fine?",
+      "answers": [
+        "Ledaj jakoj kaj ŝuoj",
+        "Kaŝmiro",
+        "Elektroniko",
+        "Legomoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li havas sian propran budon kun ledaj jakoj kaj ŝuoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "De kie venas la komercistoj al la bazaro?",
+      "answers": [
+        "El Hungario, Ĉeĥio kaj Slovakio",
+        "Nur el Pollando",
+        "El Japanio",
+        "El Usono"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto mencias hungarojn, ĉeĥojn kaj slovakojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom kostis la kaŝmiro ĉe la budo?",
+      "answers": [
+        "270 zlotoj",
+        "50 eŭroj",
+        "100 zlotoj",
+        "10 zlotoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "La vendisto proponas kaŝmiron por 270 zlotoj."
+    }
+  ]
+}

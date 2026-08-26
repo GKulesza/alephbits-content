@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto Kasia vidi v očah Karola v noči?",
+      "answers": [
+        "Radost",
+        "Pustotu — mrtve oči",
+        "Slzy",
+        "Sen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opisivaje oči kako puste, mrtve."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto prijateljica sovětuje Kasi v soobščeniji?",
+      "answers": [
+        "Čtoby se vernula k Karolu",
+        "Čtoby slušala intuiciju i ostoržna byla s očami",
+        "Čtoby pošla na rabotu",
+        "Čtoby to ignorovala"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prijateljica piše: slušaj intuiciju, vsě vidno v očah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Kasia vidi u Karola, kogda voprosaje o ljubvi?",
+      "answers": [
+        "Iskrenneje vznušenije",
+        "Sčitanije — kako by měril koristnyj odgovor",
+        "Zlost",
+        "Sen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Črez moment maska pada i vidno studenu pustotu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Kasia dopisuje v kajetě po čteniju?",
+      "answers": [
+        "Že ona slaba",
+        "Že oni ne znajut, čto je sila",
+        "Že se vernut k Karolu",
+        "Že psihopatija ne jestvujet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dopisuje, že to ne značit, že ona slaba."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Kasia govori Oli, kogda vstrečaje Karola slučajno?",
+      "answers": [
+        "Že Karol je dobroj",
+        "\"Ostoržno s nim. On imějet studene oči.\"",
+        "Že se vernut k nemu",
+        "Ničego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ostrěgaje Olu: ostoržno, on imějet studene oči."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estis la enspezo de Kanał Sportowy en 2025 laŭ la rezultoj?",
+      "answers": [
+        "Naŭ kaj naŭ dekunoj de miliono da zlotoj",
+        "Du miliardoj da zlotoj",
+        "Kvin milionoj da zlotoj",
+        "Unu miliono da zlotoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek legas: naŭ kaj naŭ dekunoj de miliono da enspezo kaj tricent miloj da perdo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel ili dividis la akciojn en Mazurio?",
+      "answers": [
+        "Unu havis 51%, la ceteraj po 16%",
+        "Kvarfoje po 25%",
+        "Dufoje po 50%",
+        "Trifoje po 33%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur la buŝtuko ili skribis: \"KS — akcioj: 4 x 25%\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estis la rezulto de la voĉdono pri plua disvolvo de la kanalo?",
+      "answers": [
+        "Tri kontraŭ unu",
+        "Du kontraŭ du — remiso",
+        "Unuanime por",
+        "Ĉiuj kontraŭ Krzysiek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ili voĉdonis kaj rezultis du kontraŭ du — remiso sen decida plimulto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras Sebastian Felkner pri partneroj?",
+      "answers": [
+        "Ke ĉiu devus havi egale",
+        "Ke li prenas dungitojn kun kondiĉoj kiel ĉe partneroj, sed sen voĉdonrajto en decidoj",
+        "Ke partneroj estas necesaj",
+        "Ke li neniam fondas firmaojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian diras, ke li donas al dungitoj kondiĉojn kiel al partneroj, sed sen voĉo en decidoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Krzysiek respondas al Tomek fine de la korespondado?",
+      "answers": [
+        "Ke li volas reveni al Kanał Sportowy",
+        "Ke venontan fojon ne estos partneroj",
+        "Ke kulpas Tomek",
+        "Ke ili vendos la kanalon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysiek respondas: \"Venontan fojon — ne estos partneroj.\""
+    }
+  ]
+}

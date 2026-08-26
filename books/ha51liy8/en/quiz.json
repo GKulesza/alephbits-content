@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What problem does Kadysz name in the letter?",
+      "answers": [
+        "We decide to do things that come to nothing",
+        "Lack of time for reading",
+        "Too many meetings",
+        "No internet"
+      ],
+      "correctIndex": 0,
+      "explanation": "The letter asks how often we decide to do something that comes to nothing."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens when we give ourselves a choice?",
+      "answers": [
+        "The mind finds excuses",
+        "We always choose the difficult task",
+        "Motivation grows without limit",
+        "It has no effect"
+      ],
+      "correctIndex": 0,
+      "explanation": "When we hesitate, the mind quickly finds excuses."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Łukasz do instead of working?",
+      "answers": [
+        "Searches the internet for new methods",
+        "Sleeps all day",
+        "Calls to take leave",
+        "Sells his computer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Instead of working, he reads about work on the internet."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who wrote the letter in the story?",
+      "answers": [
+        "Kadysz",
+        "Łukasz",
+        "Maria",
+        "Adam"
+      ],
+      "correctIndex": 0,
+      "explanation": "The letter opens with a quote from Kadysz."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Łukasz do when he starts doubting?",
+      "answers": [
+        "Reads about apps and lifehacks",
+        "Finishes work right away",
+        "Goes on vacation",
+        "Hires an assistant"
+      ],
+      "correctIndex": 0,
+      "explanation": "He looks for new apps instead of acting."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "dhjk1eyy:isv",
+  "bookId": "dhjk1eyy",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Medžuslovjansky prevod kanonnogo poljskogo izdanija (rukopis Collection Three). Polny tekst — ne sokraščennyj."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "0pCoIfeoQuU"
+    }
+  ],
+  "revisionNotes": "Reportažna fikcija, inspirirovana medijnym hotelnym krizom; trebuje ručnoju ocenku rizika odsylok na realne subjekty.",
+  "translationStatus": "machine",
+  "translationSource": "dhjk1eyy:pl",
+  "translationSourceVersion": "1.0.0"
+}

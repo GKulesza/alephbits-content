@@ -1,0 +1,27 @@
+{
+  "packId": "ha51liy8:es",
+  "bookId": "ha51liy8",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrado desde el manuscrito de Collection One. Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection One manuscript (Paweł Kadysz mailing)"
+    }
+  ],
+  "revisionNotes": "Tekst inspirowany mailingiem Pawła Kadysza; narracja o Łukaszu jest oprawą literacką.",
+  "translationStatus": "machine",
+  "translationSource": "ha51liy8:pl",
+  "translationSourceVersion": "1.0.1"
+}

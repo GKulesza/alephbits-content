@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuál fue el ingreso de Kanał Sportowy en 2025 según los resultados?",
+      "answers": [
+        "Nueve y nueve décimas de millón de zlotys",
+        "Dos mil millones de zlotys",
+        "Cinco millones de zlotys",
+        "Un millón de zlotys"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek lee: nueve y nueve décimas de millón de ingresos y trescientas mil de pérdidas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo repartieron las participaciones en Masuria?",
+      "answers": [
+        "Uno tenía el 51%, el resto el 16%",
+        "Cuatro veces el 25%",
+        "Dos veces el 50%",
+        "Tres veces el 33%"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la servilleta escribieron: \"KS — participaciones: 4 x 25%\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál fue el resultado de la votación sobre el desarrollo del canal?",
+      "answers": [
+        "Tres a uno",
+        "Dos a dos — empate",
+        "Unánime a favor",
+        "Todos contra Krzysiek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Votaron y salió dos a dos: un empate sin mayoría decisoria."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Sebastian Felkner sobre los socios?",
+      "answers": [
+        "Que todos deberían tener lo mismo",
+        "Que coge empleados con condiciones de socios, pero sin derecho a voto en las decisiones",
+        "Que los socios son necesarios",
+        "Que nunca funda empresas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian dice que da a los empleados condiciones de socios, pero sin voto en las decisiones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué responde Krzysiek a Tomek al final de la correspondencia?",
+      "answers": [
+        "Que quiere volver a Kanał Sportowy",
+        "Que la próxima vez no habrá socios",
+        "Que la culpa es de Tomek",
+        "Que venderán el canal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysiek responde: \"La próxima vez — no habrá socios.\""
+    }
+  ]
+}

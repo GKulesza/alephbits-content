@@ -1,0 +1,27 @@
+{
+  "packId": "g52efuje:en",
+  "bookId": "g52efuje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fiction inspired by the problem of recognition of Taiwanese passports; foreign policy as background."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "7EmJWtoWz9w"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "g52efuje:pl",
+  "translationSourceVersion": "1.1.0"
+}

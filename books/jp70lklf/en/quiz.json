@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where is Anastazja from?",
+      "answers": [
+        "From Warsaw",
+        "From Almaty in Kazakhstan",
+        "From Kyiv",
+        "From Vilnius"
+      ],
+      "correctIndex": 1,
+      "explanation": "She lives in Almaty; the daughter of a Polish woman and a Kazakh man."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the embassy refuse her visa?",
+      "answers": [
+        "Lack of money",
+        "Incorrectly stated purpose of travel",
+        "No passport",
+        "Age"
+      ],
+      "correctIndex": 1,
+      "explanation": "The email says: refusal — incorrectly stated purpose of travel."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Justyna say about Poland?",
+      "answers": [
+        "That it's just a country",
+        "That Poland is a home in the heart, not in the papers",
+        "That one must forget one's roots",
+        "That the visa is necessary"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says: Poland isn't only a country — it's a home, even without a visa."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anastazja write in her notebook under the question \"Who am I?\"",
+      "answers": [
+        "That she is Kazakh",
+        "That she is the daughter of a Polish woman and a Kazakh man, and Poland is her home",
+        "That she doesn't know",
+        "That she needs a visa"
+      ],
+      "correctIndex": 1,
+      "explanation": "She describes her Polish roots and the feeling of home."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Anastazja go in the epilogue?",
+      "answers": [
+        "To Almaty for good",
+        "To the airport — saying goodbye to her birth city",
+        "To the embassy",
+        "To university"
+      ],
+      "correctIndex": 1,
+      "explanation": "She stands on the hill, says goodbye to Almaty and walks towards the airport."
+    }
+  ]
+}

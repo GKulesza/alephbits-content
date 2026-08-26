@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What was Kanał Sportowy's revenue in 2025 according to the results?",
+      "answers": [
+        "Nine and nine tenths of a million zlotys",
+        "Two billion zlotys",
+        "Five million zlotys",
+        "One million zlotys"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek reads: nine and nine tenths of a million in revenue and three hundred thousand in losses."
+    },
+    {
+      "type": "single_choice",
+      "question": "How did they divide the shares in Masuria?",
+      "answers": [
+        "One had 51%, the rest 16% each",
+        "Four times 25%",
+        "Two times 50%",
+        "Three times 33%"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the napkin they wrote: \"KS – shares: 4 x 25%\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What was the result of the vote on further development of the channel?",
+      "answers": [
+        "Three to one",
+        "Two to two — a tie",
+        "Unanimously in favour",
+        "Everyone against Krzysiek"
+      ],
+      "correctIndex": 1,
+      "explanation": "They voted and it came out two to two — a tie without a decision-making majority."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Sebastian Felkner say about partners?",
+      "answers": [
+        "That everyone should have equal shares",
+        "That he takes employees with partner-like conditions but no voting rights in decisions",
+        "That partners are necessary",
+        "That he never founds companies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian says he gives employees partner-like conditions, but without a vote in decisions."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Krzysiek reply to Tomek at the end of the correspondence?",
+      "answers": [
+        "That he wants to return to Kanał Sportowy",
+        "That next time there will be no partners",
+        "That Tomek is to blame",
+        "That they will sell the channel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysiek replies: \"Next time – there will be no partners.\""
+    }
+  ]
+}

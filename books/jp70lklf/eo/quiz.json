@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "De kie devenas Anastazja?",
+      "answers": [
+        "El Varsovio",
+        "El Almaty en Kazaĥio",
+        "El Kievo",
+        "El Vilno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi loĝas en Almaty; filino de polino kaj kazaĥo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la ambasadejo rifuzas al ŝi la vizon?",
+      "answers": [
+        "Manko de mono",
+        "Celo de vojaĝo indikita malĝuste",
+        "Manko de pasporto",
+        "La aĝo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retpoŝto diras: rifuzo — celo de vojaĝo indikita malĝuste."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Justyna diras pri Pollando?",
+      "answers": [
+        "Ke ĝi estas nur lando",
+        "Ke Pollando estas hejmo en la koro, ne en la paperoj",
+        "Ke oni devas forgesi la radikojn",
+        "Ke la vizo estas necesa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi diras: Pollando ne estas nur lando — ĝi estas hejmo, eĉ sen vizo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anastazja skribas en la kajero sub la demando \"Kiu mi estas?\"",
+      "answers": [
+        "Ke ŝi estas kazaĥino",
+        "Ke ŝi estas filino de polino kaj kazaĥo, kaj Pollando estas ŝia hejmo",
+        "Ke ŝi ne scias",
+        "Ke ŝi bezonas vizon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi priskribas siajn polajn radikojn kaj la senton de hejmo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kien iras Anastazja en la epilogo?",
+      "answers": [
+        "Al Almaty por ĉiam",
+        "Al la flughaveno — adiaŭante sian naskiĝurbon",
+        "Al la ambasadejo",
+        "Al la universitato"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi staras sur la monteto, adiaŭas Almaty kaj iras al la flughaveno."
+    }
+  ]
+}

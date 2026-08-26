@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kakoj byl dohod Kanala Sportowy v 2025 godu po rezultatam?",
+      "answers": [
+        "Devet i devet desetin miljona zlotyh",
+        "Dva milijardy zlotyh",
+        "Pet milionov zlotyh",
+        "Jedin milion zlotyh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek čitaje: devet i devet desetin miljona dohoda i trista tysěč straty."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako rozdělili uděly na Mazurah?",
+      "answers": [
+        "Jedin iměl 51%, ostanek po 16%",
+        "Četyre po 25%",
+        "Dva po 50%",
+        "Tri po 33%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na servetkě zapisali: \"KS — uděly: 4 x 25%\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoj byl rezultat golosovanija o dalnějšem razvitiji kanala?",
+      "answers": [
+        "Tri na jedin",
+        "Dva na dva — remis",
+        "Jednoglasno za",
+        "Vsi protiv Krzyška"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zagolosovali i vyjšlo dva na dva — remis bez rešajučego večšinstva."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Sebastian Felkner govori o sovlasnikah?",
+      "answers": [
+        "Že každyj treba iměti po rovnu",
+        "Že bere rabotnikiv s uslovijami kako u sovlasnikov, ale bez prava glasa pri odlukah",
+        "Že sovlasniky sut něobhodimy",
+        "Že nikogda ne osnovaje firm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian govori, že davaje rabotnikam uslovija kako sovlasnikam, ale bez glasa pri odlukah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Krzysiek otvěčaje Tomku na konec korespondencije?",
+      "answers": [
+        "Že hočet se vernuti v Kanał Sportowy",
+        "Že naslědujuščij raz ne budet sovlasnikov",
+        "Že vinovat Tomek",
+        "Že prodajut kanal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysiek otvěčaje: \"Naslědujuščij raz — ne budet sovlasnikov.\""
+    }
+  ]
+}

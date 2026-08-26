@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Kasia see in Karol's eyes at night?",
+      "answers": [
+        "Joy",
+        "Emptiness — dead eyes",
+        "Tears",
+        "Sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "She describes the eyes as empty, dead."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does her friend advise Kasia in the message?",
+      "answers": [
+        "To go back to Karol",
+        "To listen to her intuition and watch the eyes",
+        "To go to work",
+        "To ignore it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Her friend writes: listen to intuition, everything shows in the eyes."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia see in Karol when she asks about love?",
+      "answers": [
+        "Genuine emotion",
+        "Calculation — as if weighing the advantageous answer",
+        "Anger",
+        "Sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a moment the mask slips and cold emptiness is visible."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia add in her notebook after reading?",
+      "answers": [
+        "That she is weak",
+        "That they don't know what strength is",
+        "That she will return to Karol",
+        "That psychopathy doesn't exist"
+      ],
+      "correctIndex": 1,
+      "explanation": "She adds that it doesn't mean she is weak."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia say to Ola when she meets Karol by chance?",
+      "answers": [
+        "That Karol is good",
+        "\"Watch out for him. He has cold eyes.\"",
+        "That she's going back to him",
+        "Nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "She warns Ola: watch out, he has cold eyes."
+    }
+  ]
+}

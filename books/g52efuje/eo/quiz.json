@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio estas la profesio de Chen Ching Ting?",
+      "answers": [
+        "Kuracistino",
+        "Eldonistino",
+        "Pilotino",
+        "Oficistino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ching Ting estas eldonistino; ŝi veturas al la Frankfurta Librofoiro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la funkciuloj pri ŝia pasporto?",
+      "answers": [
+        "Ke ĝi estas eksvalidiĝinta",
+        "Ke ĝi estas falsa — la numero ne ekzistas en la sistemo",
+        "Ke mankas la vizo",
+        "Ke la foto estas tro malnova"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ili diras: „Via pasporto estas falsa. La numero ne ekzistas en la sistemo.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom daŭras la pridemandado en la flughaveno?",
+      "answers": [
+        "Unu horon",
+        "Kvar horojn",
+        "Unu tagon",
+        "Dek kvin minutojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras rekte: kvar horoj da pridemandado."
+    },
+    {
+      "type": "single_choice",
+      "question": "En kiu jaro Tajvano estis elpelita el UN laŭ la rakonto?",
+      "answers": [
+        "1949",
+        "1971",
+        "1989",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1971 Tajvano estis elpelita el UN post rifuzo de la „duobla reprezento”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun tajvanan entreprenon la teksto nomas produktanto de progresintaj blatoj?",
+      "answers": [
+        "Intel",
+        "TSMC",
+        "Samsung",
+        "Huawei"
+      ],
+      "correctIndex": 1,
+      "explanation": "TSMC en Tajvano produktas ĉirkaŭ 90% de la plej progresintaj blatoj."
+    }
+  ]
+}

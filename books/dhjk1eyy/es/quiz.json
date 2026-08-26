@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué contradicción fundamental vive el narrador que trabaja en el hotel?",
+      "answers": [
+        "Tiene demasiado tiempo libre",
+        "Sirve el lujo que se vende a los huéspedes sabiendo de las averías ocultas y de la pobre realidad del trabajo",
+        "No quiere trabajar de noche porque le gustan las mañanas",
+        "No entiende las normas del hotel"
+      ],
+      "correctIndex": 1,
+      "explanation": "El contraste entre el precio de las suites y las condiciones de trabajo y la calidad del servicio es el eje del texto."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la conversación con el misterioso hombre de la terraza es un punto de inflexión?",
+      "answers": [
+        "Porque le ofrecen un ascenso",
+        "Porque oye del diseñador que los problemas del hotel eran conocidos y ocultos desde el principio",
+        "Porque conoce a un nuevo huésped VIP",
+        "Porque encuentra un teléfono perdido"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hombre revela que el sistema había fallado desde el principio y que alguien lo sabía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué sabe ya el narrador antes de que el hombre lo nombre directamente?",
+      "answers": [
+        "Que el hotel se venderá en un mes",
+        "Que los correos internos confirmaban que se ignoraban las advertencias técnicas",
+        "Que los medios lo habían inventado todo",
+        "Que el aire acondicionado funciona perfectamente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Había visto las notas de los técnicos que acababan en la papelera."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué decisión toma el narrador al volver de la terraza?",
+      "answers": [
+        "Decide borrar todos los correos",
+        "Escribe una carta y contacta con alguien que pueda publicar la verdadera historia",
+        "Se marcha al instante, antes del amanecer, sin dejar rastro",
+        "Pide un aumento de sueldo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El clímax es la carta a la dirección y la llamada pidiendo que se publique la verdad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué significa el epílogo con el viaje a Japón?",
+      "answers": [
+        "Que el hotel es un gran éxito",
+        "Que el narrador recupera su capacidad de actuar y cierra el capítulo de una vida basada en el fingimiento",
+        "Que vuelve al mismo trabajo después de la reforma",
+        "Que quiere diseñar aire acondicionado"
+      ],
+      "correctIndex": 1,
+      "explanation": "La marcha simboliza dejar atrás un acuerdo tóxico y el comienzo de un nuevo capítulo."
+    }
+  ]
+}

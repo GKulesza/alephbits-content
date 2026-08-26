@@ -1,0 +1,67 @@
+{
+  "title": "Prověrje svoje ponimanje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kakoje fundamentnoje protivurěčije pereživaje narrator, ktoryj rabotaje v hotelu?",
+      "answers": [
+        "Imaje sliškom mnogo slobodnogo vremena",
+        "Služi luks, prodvanyj gostam, znajemo o skrytyh avarijah i o trudnoj realnosti raboty",
+        "Ne hočet rabotati nočju, bo ljubit utra",
+        "Ne ponimaje hotelnyje pravila"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrast mež cenu apartamentov i uslovijami raboty i kakovostju služby jest osju teksta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začim razgovor s tajnym mužčinoju na terase jest perelomom?",
+      "answers": [
+        "Bo jemu predlagajut povyšenje",
+        "Bo on slyšaje od projektanta, že hotelnyje problemy były izvěstny i skryty od samogo načala",
+        "Bo on poznaje novogo VIP-gosta",
+        "Bo on nahodit zagubleny telefon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mužčina malkašaje, že systema była defektna od načala i že kto-to o tom věděl."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto narrator uže znajet prěžde čem mužčina skaže to prjamo?",
+      "answers": [
+        "Že hotel bude prodany črez měsęc",
+        "Že vnutrennyje maily potvržajut, že tehničnyje voroždenija byly ignorovany",
+        "Že mediji vse vydumali",
+        "Že klimatizacija rabotaje prekrasno"
+      ],
+      "correctIndex": 1,
+      "explanation": "On viděl noty tehnykov, ktoryje končili sę v košě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoju decyziju prinimaje narrator po vozvraščeniji s terasy?",
+      "answers": [
+        "Rešaje iztrěti vse maily",
+        "Piše pismo i kontaktuje s někym, kto možet opublikovati pravdive istoriju",
+        "Uhodit srazu prěd zoreju, bez slěda",
+        "Prosi povyšenije žalovanija"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kulminacija jest pismo do pravlenija i zvonok, v ktorom on prosit opublikovati pravdu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto značit epilog s putešestvijem do Japoniji?",
+      "answers": [
+        "Že hotel jest veliky uspěh",
+        "Že narrator vrativaje sebě iniciativu i zakryvaje glavu života, osnovanogo na pritvorjaniji",
+        "Že on vratits sę k toj že rabotě po renovaciji",
+        "Že hočet projektovati klimatizacije"
+      ],
+      "correctIndex": 1,
+      "explanation": "Othod simbolizuje ostavljenje toksičnogo aranžmenta i načalo novoj glavy."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+# El precio de la vista
+
+## Metadata
+
+**Pack ID:** dhjk1eyy
+**Book ID:** dhjk1eyy
+**Legacy Pack ID:** polish_cena_widoku
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** El precio de la vista  
+**Subtitle:** Hotel, filtración y una decisión nocturna  
+**Blurb:** Un turno de noche en un hotel junto al mar. Tras los muros de cristal, los huéspedes pagan por la vista, y el narrador también ve las averías que se ocultan a la recepción. Cuando en la terraza aparece un desconocido con una pregunta difícil, la rutina diaria empieza a resquebrajarse. Una historia sobre el trabajo que finge ser lujo y sobre el precio de contemplar el confort ajeno desde el otro lado del mostrador.
+
+**Genres:** article, short_story  
+**Cover family:** article  
+**Series:** Collection Three  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco «Cena widoku» — edición oficial de Collection Three.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** hotel, whistleblowing, coast, labour, scandal  
+
+**Keywords:** hotel, aire acondicionado, mar, carta a la dirección  
+
+**Editorial notes:** Traducción al español de la edición canónica polaca (manuscrito de Collection Three). Texto íntegro — sin abreviar.
+
+**Translation status:** machine  
+**Translation source:** dhjk1eyy:pl  
+**Translation source version:** 1.0.0  
+
+---
+**World:**
+- objects: window
+- places: home, mountain
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Inspired by reality
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 09.07.2026 -> https://www.youtube.com/watch?v=0pCoIfeoQuU  
+**Revision notes:** Ficción de carácter periodístico inspirada en una crisis hotelera mediática; requiere evaluación manual del riesgo de referencias a entidades reales.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
+
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=0pCoIfeoQuU  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-09  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** La fuente se indica en el bloque source del manuscrito; el texto es una adaptación editorial.
+
+---
+
+## Text
+
+**EL PRECIO DE LA VISTA**
+
+**Un relato breve**
+
+Cuando entraba al turno de noche, en la recepción ya flotaba un infierno de aromas. Recién limpiada, olía como un pasillo de hospital donde alguien hubiera derramado perfume de la estantería de una droguería. Aspiró el aire y supo al instante que esa noche iba a ser larga.
+
+Tenía veintiocho años, llevaba ocho meses trabajando en ese hotel y sabía perfectamente que su trabajo consistía en fingir. Fingir que se tenía algún control sobre la situación. Fingir que los problemas eran temporales. Fingir que el huésped del apartamento 512 no estaba durmiendo en la sauna porque el aire acondicionado se había estropeado hacía tres días y nadie tenía idea de cuándo volvería a la vida.
+
+Se frotó los ojos, sacó un montón de impresiones del armario y las extendió frente a sí. Reservas. Cancelaciones. Reclamaciones. Llamadas de gente que había visto la película en Internet y ahora llamaba con preguntas. Unos querían saber si el aire acondicionado funcionaba. Otros, si el agua era amarilla. Y otros llamaban solo para reírse.
+
+— Dígame —oyó en el auricular por duodécima vez aquella noche—, ¿es verdad que cobran el cincuenta por ciento del valor del pedido por el servicio de comida a la habitación?
+
+— Señor —respondió apretando los dientes—, todas las tasas están claramente especificadas en el reglamento disponible en recepción y en la página web.
+
+— Ajá, o sea que es verdad.
+
+Colgó antes de que el hombre pudiera responder. De todos modos, ya no le quedaban fuerzas para más explicaciones.
+
+Respiró hondo y se acercó a las puertas de cristal que daban a la terraza. Al otro lado se extendía la bahía nocturna, negra como tinta, atravesada por las luces danzantes de las farolas. A lo lejos se oía el murmullo de las olas. El hotel estaba sobre un acantilado, y él venía todos los días desde un pueblo a una hora de distancia, para mirar el mar a través del cristal y fingir que todo aquello tenía sentido.
+
+Pero esa noche no estaba de humor para fingir. Algo se había resquebrajado en él. Tal vez fuera la película, que ya había visto dos veces —una en la pausa y otra en casa, en el pequeño piso que alquilaba a su tía en las afueras—. O tal vez el agua amarilla, que de verdad salía de los grifos en parte de los apartamentos, aunque sus superiores le mandaban repetir a los huéspedes que era efecto de un «tratamiento temporal». O quizá eran simplemente las 2:37 de la madrugada, y sentía que su vida era como ese aire acondicionado: parecía funcionar, pero por dentro estaba caliente, sofocante, y nadie sabía cómo arreglarlo.
+
+Abrió las puertas de la terraza. El aire frío le golpeó la cara y le desplegó los pulmones. Debería haber vuelto dentro, pero no lo hizo. Se quedó mirando el mar. Y entonces lo oyó.
+
+Pasos. Quedos, rítmicos, que se acercaban desde la playa. Alguien caminaba por la grava, que resonaba contra el muro de hormigón del hotel. Se giró. A la luz de la farola distinguió una figura: un hombre con abrigo oscuro y una bolsa al hombro. Caminaba despacio, como si no quisiera despertar a nadie, y al mismo tiempo como si supiera exactamente adónde iba.
+
+— Buenas noches —dijo el hombre, deteniéndose a unos metros. Hablaba polaco con acento extranjero, pero no lograba ubicarlo—. Busco la recepción.
+
+— Ha llegado al lugar adecuado —respondió, sorprendido de que alguien viniera de la playa a esas horas en lugar de por la entrada principal—. Pero la recepción está en la fachada. Las puertas laterales están cerradas por la noche.
+
+El hombre sonrió. Había algo en esa sonrisa que lo inquietaba: no tanto amistosa como... expectante.
+
+— No necesito la recepción de la fachada —dijo—. Necesito a alguien que escuche.
+
+Miró a su alrededor, como si comprobara que nadie los observaba.
+
+— ¿Ha visto la película? —preguntó, acercándose—. La de su hotel.
+
+— Quién no —respondió, esforzándose por sonar indiferente—. Todo el país la ha visto.
+
+— Todo el país —repitió el hombre—. ¿Y usted qué cree? ¿Cree que el hotel se hundirá?
+
+Se encogió de hombros.
+
+— No lo sé. La gente habla. Unos dicen que perderán millones. Otros, que es la mejor publicidad que podrían haber tenido.
+
+— ¿Y usted? ¿Qué opina?
+
+Dudó.
+
+— Opino que no tiene importancia. Dentro de un año nadie lo recordará. La gente vendrá de todos modos, porque aquí está el mar. Porque aquí están las vistas. Y el resto... el resto no cuenta.
+
+El hombre asintió.
+
+— Palabras sabias. Y ingenuas —añadió tras un momento—. Verá, yo no soy un huésped. No busco una habitación ni un lugar donde quedarme. Busco la respuesta a una pregunta que nadie en este hotel quiere plantear.
+
+— ¿Qué pregunta?
+
+El hombre se acercó aún más, casi tocándole el hombro. A la luz de la farola vio su rostro: tenía profundas arrugas alrededor de los ojos, pero su mirada era afilada como una cuchilla.
+
+— Cuánto hay que pagar para que alguien, por fin, diga la verdad.
+
+Se quedó helado.
+
+— ¿De qué habla?
+
+— Hablo de que ese aire acondicionado no se estropeó hace tres días. Hablo de que nunca funcionó. Hablo de que alguien de su dirección lo sabía desde el principio y contaba con ocultarlo hasta el final de la temporada. Y ahora que todo ha salido a la luz, intenta hacer ver que es culpa del proveedor, o del tiempo, o de cualquier otra cosa.
+
+Quería negarlo, decir que no era verdad, que era imposible, que era absurdo. Pero las palabras se le quedaron atascadas en la garganta. Porque sabía que el hombre tenía razón. Había visto los correos internos que circulaban entre las oficinas, había visto las notas de las reuniones en las que los técnicos escribían en blanco y negro que el sistema no estaba preparado para temperaturas tan altas. Y había visto cómo esas notas acababan en la papelera, porque «alguien de arriba» había decidido que aquello no era una prioridad.
+
+— ¿Cómo lo sabe? —preguntó por fin.
+
+El hombre sonrió con tristeza.
+
+— Porque fui yo quien lo diseñó.
+
+Y entonces todo quedó claro. Ese hombre, ese desconocido del abrigo oscuro, era el arquitecto. O el ingeniero. Alguien que sabía cómo se había construido ese hotel —y cuánto se había recortado para ahorrar dinero.
+
+— He venido porque quería ver si alguien preguntaría por fin —prosiguió el hombre—. Si alguien plantearía la pregunta: ¿por qué? ¿Por qué pagaron por un sistema que no funciona? ¿Por qué ahorraron en las piezas que debían dar confort? ¿Por qué prefirieron fingir que todo estaba bien antes que admitir el error?
+
+Él guardó silencio. El viento susurraba entre los árboles, las olas golpeaban las rocas abajo.
+
+— Y usted —dijo al fin—. Usted está aquí, en el turno de noche. Mira ese mar y piensa: «¿Y a mí qué me aporta todo esto?». ¿Y sabe qué? Tiene razón. La única pregunta es qué va a hacer al respecto.
+
+Se dio la vuelta y se encaminó hacia la playa, desapareciendo en la oscuridad tan deprisa como había aparecido. Él se quedó solo en la terraza, con el viento frío en la cara y un centenar de pensamientos dándole vueltas en la cabeza.
+
+Durante un momento pensó en volver dentro y fingir que no había pasado nada. Regresar a su puesto, contestar el teléfono, responder a un correo, registrar una reclamación. Hacer lo que había hecho todos los días durante ocho meses.
+
+Pero algo no se lo permitía.
+
+Volvió a la recepción, abrió el cajón y sacó un papel. El bolígrafo le temblaba en la mano mientras empezaba a escribir. Aún no sabía qué haría con aquella carta. Tal vez la enviaría a los medios. Tal vez la dejaría sobre el escritorio de su superior. O tal vez la tiraría a la papelera, como habían hecho otros antes que él.
+
+Escribió.
+
+_No sé si alguien leerá esto. No sé si importa. Pero estoy aquí, en un hotel que debía ser el símbolo del lujo polaco, mirando el mar. Y no dejo de pensar que todo esto es tan absurdo que casi resulta cómico._
+
+_5.000 eslotis la noche. Eso cuesta la suite donde no funciona el aire acondicionado. 315 eslotis por la comida a la habitación. Eso hay que pagar para que alguien te suba un plato desde la cocina._
+
+_¿Y yo? Gano 18 eslotis la hora. Lo mismo que hace cinco años en el supermercado. Y cada semana vengo aquí a contestar las llamadas de gente furiosa que tiene todo el derecho a estarlo. Porque pagaron por algo que nunca recibieron._
+
+_Sé que no es culpa del personal de recepción. Sé que no es culpa de las limpiadoras, de los cocineros ni de los de mantenimiento. Sé que el problema está más arriba. Mucho más arriba._
+
+_Pero también sé que esto no puede seguir así. Que en algún momento alguien tiene que decir: «Basta. Lo sentimos. Es culpa nuestra. Lo arreglaremos»._
+
+_Solo que nadie tiene el valor._
+
+_Por eso lo haré yo._
+
+
+Terminó de escribir. Dobló el papel, lo metió en un sobre y escribió en él: «Para la dirección».
+
+Luego se levantó, caminó hasta la puerta y salió a la terraza. El cielo por el este empezaba a aclararse. Llegaba el alba. Y se quedó allí, mirando el mar, sabiendo que en unas horas todo cambiaría.
+
+Quizá perdería el trabajo. Quizá el asunto iría más lejos. Quizá nadie haría caso a su carta.
+
+O quizá alguien la leería al fin. Alguien con poder para cambiar las cosas. Alguien que planteara la pregunta que todos temían responder.
+
+Volvió dentro, cogió el teléfono y marcó un número.
+
+— Buenos días —dijo cuando al otro lado respondió una voz conocida—. Soy yo. Necesito tu ayuda. Tengo algo que debe publicarse.
+
+Hubo silencio al otro lado. Luego oyó:
+
+— ¿A qué te refieres?
+
+— La historia verdadera de este hotel. De principio a fin. Quién lo sabía, quién fingía, quién se beneficiaba y quién perdió. Todo.
+
+Una pausa. Luego:
+
+— ¿Estás seguro?
+
+Miró el sobre que seguía sobre el mostrador.
+
+— Nunca lo estuve más.
+
+Fuera, el sol salía, y sabía que aquella noche lo había cambiado todo. Quizá no para el mundo entero. Pero para él, seguro.
+
+
+**Epílogo**
+
+Seis meses después, el hotel cerró por reformas. Esta vez de verdad. Sustituyeron el aire acondicionado, rediseñaron los sistemas, elevaron los estándares. Cambió la mitad de la dirección. Nadie recordaba ya el asunto, al menos oficialmente.
+
+Y él viajaba en un tren hacia el otro extremo de Polonia. Delante tenía un billete de avión a Japón. El yen estaba al precio más bajo en años, y siempre había querido ver Tokio. Los relojes que allí se vendían eran más baratos que en Europa. Al parecer, con cuatro mil eslotis se podía ir y volver.
+
+Sonrió, mirando por la ventanilla los campos y los bosques que pasaban.
+
+No sabía qué le esperaba. Quizá un trabajo nuevo. Quizá una vida nueva. Quizá solo una semana de las vacaciones que nunca había tenido.
+
+Pero sabía una cosa: no volvería jamás al hotel donde había fingido que todo iba bien.
+
+Y eso era lo más importante.
+
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué contradicción fundamental vive el narrador que trabaja en el hotel?
+
+**Answers:**
+- A) Tiene demasiado tiempo libre
+- B) Sirve el lujo que se vende a los huéspedes sabiendo de las averías ocultas y de la pobre realidad del trabajo
+- C) No quiere trabajar de noche porque le gustan las mañanas
+- D) No entiende las normas del hotel
+
+**Correct:** B
+**Explanation:** El contraste entre el precio de las suites y las condiciones de trabajo y la calidad del servicio es el eje del texto.
+**Text reference:** su trabajo consistía en fingir
+
+### Question 2
+
+**Question:** ¿Por qué la conversación con el misterioso hombre de la terraza es un punto de inflexión?
+
+**Answers:**
+- A) Porque le ofrecen un ascenso
+- B) Porque oye del diseñador que los problemas del hotel eran conocidos y ocultos desde el principio
+- C) Porque conoce a un nuevo huésped VIP
+- D) Porque encuentra un teléfono perdido
+
+**Correct:** B
+**Explanation:** El hombre revela que el sistema había fallado desde el principio y que alguien lo sabía.
+**Text reference:** fui yo quien lo diseñó
+
+### Question 3
+
+**Question:** ¿Qué sabe ya el narrador antes de que el hombre lo nombre directamente?
+
+**Answers:**
+- A) Que el hotel se venderá en un mes
+- B) Que los correos internos confirmaban que se ignoraban las advertencias técnicas
+- C) Que los medios lo habían inventado todo
+- D) Que el aire acondicionado funciona perfectamente
+
+**Correct:** B
+**Explanation:** Había visto las notas de los técnicos que acababan en la papelera.
+**Text reference:** había visto los correos internos
+
+### Question 4
+
+**Question:** ¿Qué decisión toma el narrador al volver de la terraza?
+
+**Answers:**
+- A) Decide borrar todos los correos
+- B) Escribe una carta y contacta con alguien que pueda publicar la verdadera historia
+- C) Se marcha al instante, antes del amanecer, sin dejar rastro
+- D) Pide un aumento de sueldo
+
+**Correct:** B
+**Explanation:** El clímax es la carta a la dirección y la llamada pidiendo que se publique la verdad.
+**Text reference:** Tengo algo que debe publicarse
+
+### Question 5
+
+**Question:** ¿Qué significa el epílogo con el viaje a Japón?
+
+**Answers:**
+- A) Que el hotel es un gran éxito
+- B) Que el narrador recupera su capacidad de actuar y cierra el capítulo de una vida basada en el fingimiento
+- C) Que vuelve al mismo trabajo después de la reforma
+- D) Que quiere diseñar aire acondicionado
+
+**Correct:** B
+**Explanation:** La marcha simboliza dejar atrás un acuerdo tóxico y el comienzo de un nuevo capítulo.
+**Text reference:** no volvería jamás al hotel
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

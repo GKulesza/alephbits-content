@@ -1,0 +1,27 @@
+{
+  "packId": "x8wdzrmh:en",
+  "bookId": "x8wdzrmh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Reportage-style fiction about drought and climate change in the Bory Tucholskie forest."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "JsFiTY_Cnf0"
+    }
+  ],
+  "revisionNotes": "Fikcja reportażowa o suszy i zmianie klimatu w Borach Tucholskich.",
+  "translationStatus": "machine",
+  "translationSource": "x8wdzrmh:pl",
+  "translationSourceVersion": "1.1.0"
+}

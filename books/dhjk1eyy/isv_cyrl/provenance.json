@@ -1,0 +1,27 @@
+{
+  "packId": "dhjk1eyy:isv_cyrl",
+  "bookId": "dhjk1eyy",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанскы превод канонного пољского изданија (рукопис Цоллецтион Тхрее). Полны текст — не сокрашченныј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "0pCoIfeoQuU"
+    }
+  ],
+  "revisionNotes": "Репортажна фикција, инспирирована медијным хотелным кризом; требује ручноју оценку ризика одсылок на реалне субјекты.",
+  "translationStatus": "мацхине",
+  "translationSource": "дхјк1еыы:пл",
+  "translationSourceVersion": "1.0.0"
+}

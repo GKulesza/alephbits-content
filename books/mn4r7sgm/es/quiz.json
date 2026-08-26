@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Skuba?",
+      "answers": [
+        "Un zapatero",
+        "Un rey",
+        "Un caballero desde el principio",
+        "Un mercader de la plaza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Skuba es un sencillo zapatero de Cracovia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué mete Skuba dentro del carnero?",
+      "answers": [
+        "Azufre y brea",
+        "Oro",
+        "Veneno de la botica",
+        "Piedras"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rellena el carnero con azufre y brea."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué muere el dragón?",
+      "answers": [
+        "Bebe demasiada agua y estalla",
+        "Se cae de una torre",
+        "Muere por la espada",
+        "Huye a las montañas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bebió del Vístula hasta estallar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué título recibe Skuba?",
+      "answers": [
+        "Flagelo del Dragón",
+        "Rey de Cracovia",
+        "Jefe del ejército",
+        "Guardián del Vístula"
+      ],
+      "correctIndex": 0,
+      "explanation": "El rey le otorga el título de Flagelo del Dragón."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué anuncia el rey al final?",
+      "answers": [
+        "Una gran boda",
+        "Una nueva guerra",
+        "La demolición del castillo",
+        "El destierro de Skuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "El rey anuncia una gran boda con la princesa Wanda."
+    }
+  ]
+}

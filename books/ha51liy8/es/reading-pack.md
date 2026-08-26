@@ -1,0 +1,261 @@
+# Los Principios
+
+## Metadata
+
+**Pack ID:** ha51liy8
+**Book ID:** ha51liy8
+**Legacy Pack ID:** polish_zasady
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Los Principios  
+**Subtitle:** Una carta sobre decisiones sin excusas  
+**Blurb:** Łukasz lee un boletín de Paweł Kadysz y reconoce su propio esquema: planear en lugar de actuar, elegir en lugar de dar un paso. Cinco reglas simples suenan fáciles — hasta que hay que aplicarlas esa misma mañana. Una historia sobre la procrastinación sin moralizar y sobre lo difícil que es empezar por algo pequeño.
+
+**Genres:** instruction, article  
+**Series:** Collection One  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 4 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del libro de lectura polaco «Zasady» — edición oficial de Collection One.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** polish, reference, productivity, habits  
+
+**Keywords:** productividad, hábitos, decisiones, boletín  
+
+**Editorial notes:** Migrado desde el manuscrito de Collection One. Texto completo conservado — sin abreviar.
+
+**Translation status:** machine  
+**Translation source:** ha51liy8:pl  
+**Translation source version:** 1.0.1  
+
+---
+
+**Cover family:** instruction
+
+---
+
+**World:**
+- objects: book, glass
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude (editorial migration)  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Instruction
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Tekst inspirowany mailingiem Pawła Kadysza; narracja o Łukaszu jest oprawą literacką.
+
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — stray formatting, missing comma |
+
+---
+## Sources
+
+### Source 1: Collection One manuscript (Paweł Kadysz mailing)
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — mailing reference)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-08  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Paweł Kadysz: mailing
+
+---
+## Text
+
+**LOS PRINCIPIOS**
+
+
+Cuando Łukasz abrió por primera vez su buzón de correo y vio un mensaje de Paweł Kadysz, no sabía qué esperar. Una vez había comprado su curso de productividad — el de los hábitos que cambió su forma de ver la vida — y desde entonces recibía correos con regularidad. Pero este era diferente. Era más largo, más personal. Y contenía algo que Łukasz no esperaba encontrar en un correo de marketing: la verdad.
+
+_"¿Con qué frecuencia te propones algo que después no llega a nada? ¿Cómo es que casi siempre consigues encontrar una excusa para no hacer algo? ¿Incluso si es bueno para ti?"_
+
+Łukasz se quedó helado. Era la pregunta que se hacía cada semana desde hacía años. Desde que cumplió treinta años, desde que empezó a trabajar por cuenta propia, desde que se prometió que por fin se pondría con todos esos proyectos que llevaba meses posponiendo. Y cada vez — terminaba sin nada.
+
+Siguió leyendo.
+
+_"Ocurre porque te das a elegir. Cada vez que tienes que tomar una decisión — te enfrentas a una elección... y te quedas pensando. Y cuando empiezas a pensar, créeme, tu mente encuentra al instante mil excusas para no hacer algo."_
+
+Łukasz dejó el teléfono. Miró el escritorio, donde yacía una pila de papeles, un cuaderno con una lista de tareas que no había cambiado en una semana, y una taza vacía de café. Sabía que Paweł tenía razón. Sabía que el problema no era la falta de tiempo ni de motivación. El problema era que cada vez que se sentaba a trabajar se preguntaba: _"¿Es esta la tarea correcta? ¿O quizá debería hacer otra cosa? ¿No habrá una manera mejor?"_
+
+Y entonces empezaba a buscar en internet. Nuevas aplicaciones, nuevos métodos, nuevos lifehacks. Y en lugar de trabajar, leía sobre el trabajo.
+
+
+Esa noche Łukasz decidió cambiar algo. Se sentó al escritorio, sacó una hoja en blanco y escribió arriba: _"Mis principios"_.
+
+Recordó lo que Paweł escribía más adelante:
+
+_"Una de las mejores cosas que he hecho por mí y por mi productividad fue escribir una lista de principios que he de seguir en la vida. Es un documento sencillo que elimina la necesidad de tomar decisiones a menudo difíciles."_
+
+Łukasz empezó a escribir.
+
+El primer principio: _"Cuando me siento a trabajar, no me levanto durante 25 minutos. No abro el navegador. No miro el teléfono. Solo trabajo."_
+
+El segundo principio: _"Cada mañana planeo solo tres cosas por hacer. Si las hago todas — el día es un éxito. Todo lo demás es un extra."_
+
+El tercer principio: _"No compro cursos nuevos hasta que termino el que ya tengo."_
+
+El cuarto principio: _"El domingo por la noche repaso lo que logré hacer en la semana. No lo que no hice — solo lo que hice."_
+
+El quinto principio: _"Cuando alguien me pide algo que no concuerda con mis metas — me niego. Sin negociación."_
+
+El sexto principio: _"No bebo alcohol entre semana. Una decisión tomada una vez — no tengo que tomarla todos los días."_
+
+El séptimo principio: _"No reviso los correos antes de las 10:00."_
+
+El octavo principio: _"No me comparo con los demás. Me comparo conmigo de hace un mes."_
+
+El noveno principio: _"Si algo toma menos de 2 minutos — lo hago de inmediato, no lo dejo para después."_
+
+El décimo principio: _"No busco el sistema perfecto. Busco el sistema que funciona para mí."_
+
+
+Cuando terminó, miró la hoja. Había diez principios. Diez reglas simples y firmes que debían ayudarle a dejar de pensar y empezar a actuar.
+
+No sabía si funcionaría. No sabía si aguantaría más de una semana. Pero sabía una cosa: que por primera vez en mucho tiempo sentía que tenía el control. Que no tenía que tomar cada día las mismas decisiones difíciles. Que podía, simplemente... actuar.
+
+A la mañana siguiente se despertó a las 6:00. Hizo café, se sentó al escritorio y miró la lista de principios. El primer principio: _"Cuando me siento a trabajar, no me levanto durante 25 minutos."_
+
+Puso un temporizador de 25 minutos. Cerró el navegador. Apagó el teléfono. Y empezó a trabajar.
+
+Durante los primeros cinco minutos sintió inquietud. Quería comprobar si alguien le había escrito, si había aparecido una notificación nueva. Pero se mantuvo fiel al principio. A los diez minutos empezó a concentrarse. A los quince — entraba en el ritmo. A los veinte — se olvidó del mundo.
+
+Sonó el temporizador. Łukasz se levantó, estiró las piernas, bebió un poco de agua. Y volvió a sentarse. Otros 25 minutos. Otros más.
+
+Ese día hizo más que en los tres días anteriores juntos.
+
+
+Por la noche, antes de acostarse, cogió la lista de principios. La leyó una vez más. Luego añadió al final, con letras pequeñas:
+
+_"No tienes que ser perfecto. Tienes que ser constante."_
+
+Cerró el cuaderno. Y por primera vez en mucho tiempo se durmió sin la sensación de que algo se le había escapado. De que había algo que debía haber hecho y no hizo.
+
+Sabía que esto era solo el principio. Que los principios serían puestos a prueba, que aparecerían situaciones en las que querría romperlos. Pero también sabía que ahora tenía algo que antes no tenía: claridad.
+
+Y eso bastaba para empezar.
+
+
+**FIN**
+
+---
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué problema nombra Kadysz en la carta?
+
+**Answers:**
+- A) Nos proponemos cosas que no llegan a nada
+- B) Falta de tiempo para leer
+- C) Demasiadas reuniones
+- D) No hay internet
+
+**Correct:** A
+**Explanation:** La carta pregunta con qué frecuencia nos proponemos algo que no llega a nada.
+**Text reference:** no llega a nada
+
+### Question 2
+
+**Question:** ¿Qué ocurre cuando nos dan a elegir?
+
+**Answers:**
+- A) La mente encuentra excusas
+- B) Siempre elegimos la tarea difícil
+- C) La motivación crece sin límite
+- D) No tiene ningún efecto
+
+**Correct:** A
+**Explanation:** Al quedarnos pensando, la mente encuentra excusas rápidamente.
+**Text reference:** mil excusas
+
+### Question 3
+
+**Question:** ¿Qué hace Łukasz en lugar de trabajar?
+
+**Answers:**
+- A) Busca métodos nuevos en internet
+- B) Duerme todo el día
+- C) Llama para pedir vacaciones
+- D) Vende su ordenador
+
+**Correct:** A
+**Explanation:** En lugar de trabajar, lee sobre el trabajo en internet.
+**Text reference:** buscar en internet
+
+### Question 4
+
+**Question:** ¿Quién escribió la carta del relato?
+
+**Answers:**
+- A) Kadysz
+- B) Łukasz
+- C) Maria
+- D) Adam
+
+**Correct:** A
+**Explanation:** La carta comienza con una cita de Kadysz.
+**Text reference:** Kadysz
+
+### Question 5
+
+**Question:** ¿Qué hace Łukasz cuando empieza a dudar?
+
+**Answers:**
+- A) Lee sobre aplicaciones y lifehacks
+- B) Termina el trabajo de inmediato
+- C) Se va de vacaciones
+- D) Contrata a un asistente
+
+**Correct:** A
+**Explanation:** Busca aplicaciones nuevas en lugar de actuar.
+**Text reference:** nuevas aplicaciones
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*
