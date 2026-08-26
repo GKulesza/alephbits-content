@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Ⱇⰹⰽⱌⰺⰰ ⱁ wⱄⱂółⱃⱁⰴⰸⰹⱌⰹⰵⰾⱄⱅwⰹⰵ; ⰰⰴⰰⱂⱅⰰⱌⰺⰰ ⱂⱁⰴⱌⰰⱄⱅⱆ."
+    "humanReview": "Ⱇⰹⰽⱌⰹⰺⰰ ⱁ ⱄⱁⰲⰿⰵⱄⱅⱀⱁⰿ ⱃⱁⰴⰹⱅⰵⱙⱄⱅⰲⱑ; ⰰⰴⰰⱂⱅⰰⱌⰹⰺⰰ ⱂⱁⰴⰽⰰⱄⱅⰰ."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "ewtts_glfwg"
     }
   ],
-  "revisionNotes": "Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ."
+  "revisionNotes": "Ⰹⰿⱂⱁⱃⱅ ⱇⰰⰸⱐ 119."
 }

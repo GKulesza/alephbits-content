@@ -1,16 +1,16 @@
-# Autorytet na przepraszam
+# Avtoritet na Izvinenie
 
 ## Metadata
 
 **Pack ID:** b9m80o2r
 **Book ID:** b9m80o2r
 **Legacy Pack ID:** polish_autorytet_na_przepraszam
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Avtoritet na Izvinenie  
 **Subtitle:** Pravdivyj avtoritet roditelja  
-**Blurb:** Ustalaja Ana i surovyj Marek prepirajut se o vospitaniji. Podcast Marije Berlińskiej uči jih, že avtoritet se gradit na 'prosti.' Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.
+**Blurb:** Ustalaja Ana i surovyj Marek prepirajut sę o vospitaniji. Podkast Marije Berlinskej uči jih, že avtoritet gradit sę na „izvini".
 
 **Genres:** psychology, short_story  
 **Series:** Collection Ten  
@@ -24,7 +24,7 @@
 **Historical period:** contemporary  
 
 **Original language:** isv  
-**Translation summary:** Multilingual translation edition. Source: pl. — Collection Ten official reading pack (Polish).  
+**Translation summary:** Medžuslovjansky prevod poljskogo izdanija.  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
@@ -32,7 +32,7 @@
 
 **Tags:** isv, parenting, authority, translation, chwalenie, Collection Ten  
 
-**Keywords:** Autorytet na przepraszam, Ania, Marek  
+**Keywords:** Avtoritet na Izvinenie, Ania, Marek  
 
 **Cover family:** psychology
 
@@ -45,9 +45,9 @@
 - forgiveness
 - home
 
-**Editorial notes:** Fikcja o współrodzicielstwie; adaptacja podcastu.
+**Editorial notes:** Fikcija o sovmestnom roditeljstvě; adaptacija podkasta.
 
-**Inspiration:** Podcast Marii Berlińskiej o autorytecie przez przepraszanie; YouTube ewtts_glfwg (2024-10-13).
+**Inspiration:** Podkast Marije Berlinskej o avtoritetě črez izvinjenje (2024-10-13).
 
 ---
 
@@ -66,14 +66,14 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 13.10.2024 -> https://www.youtube.com/watch?v=ewtts_glfwg  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Import fazy 119.
 
 ### Revision history
 
 | Version | Date | Note |
-|
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Complete Inter-Slavic translation; replaces erroneous Polish text |
 | 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
----------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -94,233 +94,233 @@
 **Retrieval date:** 2024-10-13  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Iztočnik je ukazany v bloku iztočnika rukopisa; tekst jest redakcijska adaptacija.
 
 ---
 
 ## Text
 
-**AUTORYTET NA PRZEPRASZAM**
+**AVTORITET NA IZVINENIE**
 
-Kiedy Ania zamknęła drzwi za Markiem, opadła na kanapę i pozwoliła sobie na chwilę słabości. Z oczu popłynęły jej łzy – nie pierwsze tego dnia. W kuchni stały brudne talerze po obiedzie, w salonie leżały porozrzucane klocki, a na piętrze córki – siedmioletnia Marysia i trzyletnia Ala – właśnie się kłóciły o to, która z nich pierwsza weźmie kąpiel.
+Kogda Ana zatvorila dveri za Markom, upala na divan i dala sebe hvilju slabosti. Iz očij teklis slzy – ne pervyje v toj denj. V kuhyni stojali brudne tarelky po obedě, v salonu ležali razbrosane kubiki, a na povyše dočki – sedmilětaja Marisja i trělětaja Ala – svadili sę o to, ktoraja iz nih perva budet sę kupati.
 
-– Marysia! Ala! – krzyknęła, nie wstając z kanapy. – Przestańcie! Zaraz tam przyjdę!
+– Marisja! Ala! – kriknula ona, ne vstavaja s divana. – Prestanite! Uže idu!
 
-Głos w jej głowie brzmiał zmęczony. Zmęczony, bo taki właśnie był. Cały dzień w pracy, potem zakupy, potem odbiór dzieci z przedszkola i szkoły, potem obiad, potem sprzątanie, potem kłótnia z Markiem o to, że on znowu wrócił późno i że ona nie daje rady. I o to, że on zbyt surowo traktuje Marysię, która przecież dopiero uczy się czytać i ma prawo popełniać błędy. I o to, że ona zbyt miękko, że wychowuje "śnieżynki", że Marysia nie potrafi przegrywać, że Ala robi awantury o każdy kubek.
+Glas v jeje golově zvučal ustaly. Ustaly, bo takym on v istině byl. Celyj denj v rabotě, potom kupovanja, potom zabiranje djeti iz predškoly i školy, potom obed, potom ubiranje, potom svada s Markom o to, že on iznova vratil sę pozdno i že ona ne imaje sily. I o to, že on sliškoma strogo odnosil sę do Marisi, ktoraja ješče tolko uči sę čitati i imaje pravo dělati grěšky. I o to, že ona sliškoma mjako, že vospitaje „sněžinky", že Marisja ne uměje proigryvati, že Ala dělaje avantury o každuju tarelku.
 
-– Ty je rozpuszczasz! – powiedział Marek, wychodząc z domu. – Nie ma w tobie żadnej konsekwencji. Ja nie mogę na to patrzeć.
+– Ty jih razmazvaješ! – rekl Marek, vyhodja iz doma. – V tebě jest nikakaja poslědovatelnost. Ja ne mogu na to smotrěti.
 
-Ania wtedy nie odpowiedziała. Nie miała siły. Nie miała też argumentów, bo w głębi serca czuła, że coś jest nie tak, ale nie wiedziała co. Była przecież dobrą matką. Kochała swoje dzieci. Poświęcała im cały czas, całą siebie. Dlaczego więc czuła, że zawodzi?
-
----
-Telefon w jej dłoni wibrował. Spojrzała na ekran – powiadomienie z YouTube. Kanał, który ostatnio zaczęła oglądać, opublikował nowy podcast. "Jak wychować dziecko, żeby było szczęśliwe?" – brzmiał tytuł. Gościem była psycholog, która od lat prowadzi rodzinny dom dziecka i pomaga rodzicom w kryzysie.
-
-Ania wcisnęła play, nie mając siły na nic innego.
-
-Głos pani Marii był spokojny, ale stanowczy. Ania słuchała, pijąc wystygłą herbatę, nie odrywając wzroku od ekranu. I słowo po słowie, zdanie po zdaniu, coś w niej zaczęło pękać.
-
-– Autorytet nie buduje się na nakazach i zakazach – mówiła pani Maria. – Prędzej zbuduje się go na przepraszam. Bo rodzic, który potrafi powiedzieć "przepraszam", przyznać się do błędu – jest wielki.
-
-Ania wstrzymała oddech. Przypomniała sobie, jak wczoraj krzyknęła na Marysię, że jest niezdarna, kiedy rozlała sok na dywan. Nie przeprosiła. Uznała, że to niepotrzebne, że dziecko musi wiedzieć, że zrobiło źle. A przecież widziała łzy w oczach córki, widziała, jak Marysia skuliła się w sobie, jakby oczekiwała ciosu.
-
-– Poczucie wartości buduje się w zakochanych oczach rodziców – kontynuowała pani Maria. – To, że rodzic patrzy na dziecko i ono wie, że jest kochane, nawet takie nieidealne. Niezależnie od tego, czy dostanie piątkę, czy dwójkę, czy rozleje sok, czy nie.
-
-Ania zaczęła płakać. Płakała cicho, żeby dzieci nie usłyszały. Płakała za sobą – za tą małą dziewczynką, która kiedyś też chciała być kochana bezwarunkowo. Która słyszała: "No, Ania, no dobrze", podczas gdy siostrze uśmiechali się w oczy. Która do dzisiaj, mimo że skończyła studia, miała dobrą pracę i kochającą rodzinę, czuła, że jest niewystarczająca.
-
-– Jak chwalić? – pytał prowadzący.
-
-– Opisowo – odpowiadała pani Maria. – Nie mówimy: "Jesteś piękny". Mówimy: "Widzę, że dobrałaś ładne kolory do tej sukienki". Nie mówimy: "Świetnie". Mówimy: "Widzę, że długo nad tym pracowałeś i udało ci się. To nie było łatwe, ale dałeś radę".
-
-Ania słuchała dalej. Usłyszała o żłobkach – że do trzeciego roku życia dziecko potrzebuje głównego opiekuna, bo wtedy kształtują się wzorce przywiązania. Usłyszała, że konflikt w małżeństwie nie jest zły, że ważne jest, jak się go rozwiązuje. Usłyszała, że jeśli chcemy wychować dzieci, musimy pracować nad sobą i nad swoim małżeństwem, bo to jest wzorzec dla dzieci.
-
-– To, co myślimy o sobie, bierze początek w rodzinie – powiedziała pani Maria. – Niesiemy swoich rodziców, ich lęki, ich fascynacje. Niewiele o sobie wiemy, dopóki nie wejdziemy w związek i nie zaczniemy się odkrywać.
-
-Ania pomyślała o Marku. O tym, jak on też nosi swoje lęki. O tym, że jego ojciec był surowy, wymagający, nigdy go nie chwalił. I że Marek, chcąc być lepszym ojcem, stał się właśnie taki – surowy, wymagający, bojący się, że jeśli odpuści, dzieci wyrosną na "mięczaków". I że on też potrzebuje usłyszeć, że jest wystarczający.
+Ana togda ne otgovorila. Ne iměla sily. Ne iměla takože argumentov, bo v glubině srca čula, že čto-to jest ne tak, no ne věděla, čto. Ona v istině byla dobra mati. Ljubila svoje djeti. Davaše jim ves svoj čas, vse sebe. Počemu že čula, že podvodi?
 
 ---
-Kiedy dzieci w końcu zasnęły, Ania usiadła w salonie. Marek wrócił, ale zamknął się w swoim pokoju. Ania wzięła głęboki oddech i poszła do niego.
+Telefon v jeje dlaně vibriral. Smotrěla na ekran – izvěščenje s YouTube. Kanal, ktoryj ona nedavno načela ględati, opublikoval novy podkast. „Kako vospitati dite, da by ono bylo sčastlivo?" – zvučal titul. Gostju byla psiholog, ktoraja godami vodi semejny dom za djeti i pomaga roditeljam v krizě.
 
-– Marek – powiedziała cicho. – Musimy porozmawiać.
+Ana pritisnula play, ne imějuči sily na ničto drugoje.
 
-– Nie mam siły na kolejną kłótnię – odpowiedział, nie podnosząc wzroku.
+Glas pani Marii byl spokojny, no tverdy. Ana slušala, pijuči prostudženyj čaj, ne otryvaja oči ot ekrana. I slovo za slovom, predloženje za predloženjem, čto-to v nej načalo pukati.
 
-– Nie chcę się kłócić. Chcę cię przeprosić.
+– Avtoritet ne gradit sę na prikazah i zapretjenjah – govorila pani Maria. – Skoro sgradit sę na izvinenje. Bo roditelj, ktoryj uměje skazati „izvini", priznati sę v grěškě – jest veliky.
 
-Marek spojrzał na nią zdziwiony.
+Ana zaderžala dyh. Vspomnila, kako včera kriknula na Marisju, že jest neukljuža, kogda ona razlila sok na dyvan. Ne izvinila sę. Uznala, že to jest nepotrebno, že dite imaje věděti, že sčinilo zlo. A predsę viděla slzy v očah dočki, viděla, kako Marisja skrutila sę v sebě, kako by očekivala udar.
 
-– Przeprosić? Za co?
+– Čuvstvo cennosti gradit sę v vljubljenyh očah roditelja – prodolžala pani Maria. – To, že roditelj smotrit na dite i ono vědaje, že jest ljubleno, daže takoje neidealnoje. Nezavisimo od togo, či dostane pętku ili dvojku, či razleje sok ili ne.
 
-– Że cię nie słuchałam. Że nie próbowałam zrozumieć, dlaczego tak reagujesz. I że – sama tego nie widziałam – ale też krytykowałam ciebie w oczach dzieci.
+Ana načela plakati. Plakala tiho, da by djeti ne uslyšali. Plakala za soboj – za toj maloj děvočkoj, ktoraja někogda takože hotěla byti ljublena bezuvjetno. Ktoraja slyšala: „Nu, Ana, nu dobre", kogda sestrě usměhali sę v oči. Ktoraja do sego dnja, hote končila studiji, iměla dobru rabotu i ljubjaščuju familiju, čula, že jest nedostatočna.
 
-Marek milczał. Ania usiadła obok niego.
+– Kako hvaliti? – voprosil veduščij.
 
-– Słuchałam dzisiaj jednego podcastu – powiedziała. – Mówili o tym, że autorytet buduje się na przepraszaniu. Że dzieci potrzebują widzieć, że rodzice też popełniają błędy i że się do nich przyznają. I że jeśli chcemy, żeby nasze dzieci miały poczucie wartości, to my musimy być dla nich bezpiecznym wzorcem.
+– Opisno – otgovarjala pani Maria. – Ne govorimo: „Ty jest lěpy". Govorimo: „Vižu, že ty podbrala krasny kolory do toj suknje". Ne govorimo: „Divno". Govorimo: „Vižu, že ty dolgo nad tym rabotala i tebě sę udalo. To ne bylo legko, no ty smogla".
 
-Marek spojrzał na nią.
+Ana slušala daleje. Uslyšala o jaslah – že do tretjego goda života dite imaje potrebu v glavnom opěkuně, bo togda sę formirujut obrazci privjazanosti. Uslyšala, že konflikt v braku ne jest zly, že važno jest, kako sę go razrěšaje. Uslyšala, že jesli hočemo vospitati djeti, imajemo rabotati nad soboj i nad svojim brakom, bo to jest obrazec za djeti.
 
-– I co z tego? – zapytał. – To znaczy, że mam przestać wymagać? Że mam im pozwalać na wszystko?
+– To, čto myslimo o sebě, bere počinok v familiji – rekla pani Maria. – Nesemo svoje roditeli, jih strahy, jih fascinacije. Nemnogo o sebě vědemo, doky ne vstupimo v brak i ne načnemo otkryvati sebe.
 
-– Nie. To znaczy, że mamy wymagać inaczej. Z szacunkiem. Że mamy mówić: "Kochanie, nie mogę się zgodzić na to, co robisz, bo to ci szkodzi", a nie: "Jesteś beznadziejny". Że mamy chwalić je opisowo, a nie oceniać. I że mamy przepraszać, kiedy zawiedziemy.
-
-Marek oparł głowę na rękach.
-
-– Ja nie umiem – powiedział cicho. – Mój ojciec nigdy mnie nie przeprosił. Nigdy nie powiedział: "Dobrze cię wychowałem". Nigdy nie powiedział: "Kocham cię". A ja nie chcę być taki jak on. Ale nie wiem, jak być inaczej.
-
-Ania położyła dłoń na jego ramieniu.
-
-– Możemy się nauczyć. Razem.
+Ana pomyslila o Marku. O tom, kako on takože nosi svoje strahy. O tom, že jego otac byl strog, trebovatelny, nikogda jego ne hvalil. I že Marek, hote byti lučšim otcem, stal sę imenno takym – strogym i trebovatelnym, bo sę bojal, že jesli popustit, djeti vyrastut na „slabjakov". I že on takože imaje potrebu uslyšati, že jest dostatočny.
 
 ---
-Następnego dnia, przy śniadaniu, Marysia rozlała mleko. Jej oczy wypełniły się łzami, zanim jeszcze ktokolwiek zdążył cokolwiek powiedzieć.
+Kogda djeti nakoněc usnuli, Ana sěla v salonu. Marek vratil sę, no zatvoril sę v svojej komnatě. Ana vzjala glubokyj dyh i išla k nemu.
 
-– Przepraszam – wyszeptała. – Przepraszam, mamo.
+– Marek – rekla tiho. – Imajemo pogovoriti.
 
-Ania wzięła głęboki oddech. Dawniej powiedziałaby: "Znowu? Ile razy ci mówiłam, żebyś uważała?" Zamiast tego podeszła do Marysi, przytuliła ją i powiedziała:
+– Ne imaju sily na novuju svadu – otgovoril on, ne podnimaja vzgljad.
 
-– Widzę, że jest ci przykro. To nie jest przyjemne, kiedy coś się rozlewa, prawda? Ale nic się nie stało. Weźmiemy ściereczkę, wytrzemy i będzie dobrze. Chcesz mi pomóc?
+– Ne hoču svačiti sę. Hoču tebe izviniti.
 
-Marysia spojrzała na nią zaskoczona. Skinęła głową. Razem wytały mleko. Potem Ania dodała:
+Marek smotrěl na nje udivleno.
 
-– Widzę, że bardzo się starałaś nalać sobie mleka samej. To nie było łatwe, ale próbowałaś. Jestem z ciebie dumna.
+– Izviniti? Za čto?
 
-Marysia uśmiechnęła się. Po raz pierwszy od wielu dni.
+– Že ja tebe ne slušala. Že ne starala sę razuměti, počemu ty tako reaguješ. I že – sama togo ne viděla – no takože kritikovala tebe v očah djeti.
 
-Marek obserwował to wszystko z kąta. Nic nie powiedział. Ale Ania widziała w jego oczach coś, czego nie widziała od dawna – refleksję.
+Marek molčal. Ana sěla podlě nego.
 
----
-Kilka dni później Marek wrócił z pracy wcześniej. Marysia pokazywała mu rysunek, który narysowała w szkole.
+– Slušala sego dnja jedin podkast – rekla. – Govorili o tom, že avtoritet gradit sę na izvinjenji. Že djeti imajut potrebu viděti, že roditeli takože dělajut grěšky i priznajut jih. I že jesli hočemo, da by naše djeti iměli čuvstvo cennosti, togda my imajemo byti za nih bezpečnym obrazcem.
 
-– Zobacz, tato! To nasza rodzina.
+Marek smotrěl na nje.
 
-Marek spojrzał na rysunek. Wszyscy się uśmiechali. Nawet pies.
+– I čto iz togo? – voprosil. – To znači, že imaju prestati trebovati? Že imaju jim dovoliti vse?
 
-– Piękny – powiedział. I wtedy, ku zaskoczeniu Ani, dodał: – Widzę, że długo nad nim pracowałaś. Są tu szczegóły, których nie widziałem wcześniej – na przykład te kwiatki w tle. Potrafisz rysować rzeczy, których inni by nie zauważyli.
+– Ne. To znači, že imajemo trebovati inače. S uvagoj. Že imajemo govoriti: „Milaja, ne mogu soglasiti sę s tym, čto ty činiš, bo to tebě škodi", a ne: „Ty jest beznadežna". Že imajemo hvaliti jih opisno, a ne ocenjati. I že imajemo izvinjati sę, kogda podvedemo.
 
-Marysia promieniała.
+Marek opiral glavu na rukah.
 
-Ania podeszła do męża i szepnęła:
+– Ja ne uměju – rekl tiho. – Moj otac nikogda mę ne izvinil. Nikogda ne rekl: „Dobre te vospital". Nikogda ne rekl: „Ljublju te". A ja ne hoču byti takym kako on. No ne věděju, kako byti inače.
 
-– Widzę, że uczysz się chwalić.
+Ana položila dlan na jego rameni.
 
-– Ty też się uczysz – odpowiedział. – I widzę, że to działa.
-
----
-Wieczorem, kiedy dzieci spały, Ania i Marek usiedli na kanapie. Marek wziął ją za rękę.
-
-– Przepraszam – powiedział. – Za to, że cię krytykowałem. Że nie widziałem, że ty też dajesz z siebie wszystko. I że czasami byłem zbyt surowy wobec Marysi. To nie jest jej wina, że ja nie umiem inaczej. Ale chcę się nauczyć.
-
-Ania przytuliła się do niego.
-
-– Ja też cię przepraszam – powiedziała. – Że nie umiałam cię wysłuchać. Że nie widziałam, że ty też potrzebujesz wsparcia. I że czasami mówiłam o tobie źle przy dzieciach. To był błąd.
-
-– Będziemy się uczyć – powiedział Marek.
-
-– Razem.
+– Možemo sę naučiti. Vkupě.
 
 ---
-Miesiąc później Ania usiadła do laptopa, żeby napisać wiadomość do autora podcastu. Chciała podziękować. Za to, że znalazła odwagę, żeby zmienić swoje życie. Za to, że zrozumiała, że wychowanie to nie tresura, tylko relacja. I że największym prezentem, jaki może dać swoim dzieciom, jest poczucie własnej wartości – które buduje się w zakochanych oczach rodziców.
+Na slědujuščij denj, pri zajutraku, Marisja razlila mlěko. Jeje oči napolnili sę slzami, ješče prěždě než ktokoli uspěl čto-koli skazati.
 
-Pomyślała o tym, co powiedziała pani Maria: "Miłość to czas, który dajemy". I zrozumiała, że nie chodzi o to, żeby być idealnym rodzicem. Chodzi o to, żeby być obecnym. I żeby codziennie próbować jeszcze raz.
+– Izvini – šepnula. – Izvini, mama.
 
-– Mamo – zawołała Marysia z pokoju. – Chodź, przeczytasz mi bajkę?
+Ana vzjala glubokyj dyh. Raněje rekla by: „Iznova? Koliko razov ti govorila, da by ty byla pozorna?" Zaměsto togo prišla k Marisi, obnjala jeje i rekla:
 
-Ania zamknęła laptopa.
+– Vižu, že tebě jest žal. To ne jest prijatno, kogda čto-to razliva sę, ne li? No ničto ne slučilo sę. Vzmemo platniček, utremo i bude dobro. Hočeš mi pomoči?
 
-– Idę, kochanie.
+Marisja smotrěla na nje udivlena. Kivnula glavoj. Vkupě utrili mlěko. Potom Ana dobavila:
 
-Wstała, podeszła do drzwi i spojrzała na swoje dzieci. Marysia leżała w łóżku z książką na kolanach. Ala tuliła się do swojego misia.
+– Vižu, že ty silno starala sę naliti sebě mlěka same. To ne bylo legko, no ty probovala. Ja gorda na tebe.
 
-Ania usiadła między nimi.
+Marisja usměhnula sę. Pervyj raz od mnogih dny.
 
-– Jaka bajka dzisiaj?
+Marek smotrěl vse to iz kuta. Ničto ne skazal. No Ana viděla v jego očah čto-to, čto ne viděla od davna – refleksiju.
 
-– O smoku, który nie umiał przepraszać – powiedziała Marysia.
+---
+Několiko dny pozněje Marek vratil sę iz raboty raněje. Marisja pokazyvala jemu risunok, ktoryj narisovala v školě.
 
-Ania uśmiechnęła się. Otworzyła książkę i zaczęła czytać.
+– Viž, tato! To naša familija.
 
-A w jej głowie wciąż brzmiały słowa, które zmieniły wszystko: "Autorytet nie buduje się na nakazach i zakazach. Prędzej zbuduje się go na przepraszam".
+Marek smotrěl na risunok. Vsi usměhali sę. Daže pes.
 
-I wiedziała, że to prawda. Bo w tych trzech słowach – w "kocham cię", w "jesteś ważna" i w "przepraszam" – kryło się wszystko, czego dzieci potrzebują, żeby być szczęśliwymi.
+– Lěpy – rekl. I togda, k udivljeniju Any, dobavil: – Vižu, že ty dolgo nad nim rabotala. Tut sut detalje, ktoryje ja ne viděl raněje – napriměr ty květky na fonu. Ty uměješ risovati to, čto drugi ne bi zamětili.
 
-I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała: wystarczy, że będzie prawdziwa.
+Marisja sijala.
 
-**KONIEC**
+Ana prišla k mužu i šepnula:
+
+– Vižu, že učiš sę hvaliti.
+
+– Ty takože učiš sę – otgovoril. – I vižu, že to dějstvuje.
+
+---
+Večerom, kogda djeti spali, Ana i Marek sěli na divan. Marek vzel jeje za ruku.
+
+– Izvini – rekl. – Za to, že tebe kritikoval. Že ne viděl, že ty takože daješ ot sebe vse. I že někogda byl sliškoma strog do Marisi. To ne jest jeje vina, že ja ne uměju inače. No hoču sę naučiti.
+
+Ana pritulila sę k nemu.
+
+– Ja takože tebe izvinjaju – rekla. – Že ne uměla tebe vyslušati. Že ne viděla, že ty takože imaješ potrebu v podporě. I že někogda govorila o tebě zlo pri djetjah. To byla grěška.
+
+– Budemo sę učiti – rekl Marek.
+
+– Vkupě.
+
+---
+Měsec pozněje Ana sěla k laptopu, da by napisati poslanje avtoru podkasta. Hotěla blagodariti. Za to, že našla smělost izměniti svoje život. Za to, že razuměla, že vospitanje ne jest dresura, no otnošenje. I že najvelikym darom, ktoryj možet dati svojim djetjam, jest čuvstvo vlastnoj cennosti – ktoroe gradit sę v vljubljenyh očah roditelja.
+
+Pomyslila o tom, čto rekla pani Maria: „Ljubov jest čas, ktoryj dajemo". I razuměla, že ne jest o tom, da by byti idealnym roditeljem. Jest o tom, da by byti prisutnym. I da by každodenjno probovati ješče raz.
+
+– Mama – poklikala Marisja iz komnaty. – Pojdi, pročitaš mi skazku?
+
+Ana zatvorila laptop.
+
+– Idu, milaja.
+
+Vstala, prišla k dveri i smotrěla na svoje djeti. Marisja ležala v postelji s knigoj na kolenah. Ala tulila sę k svojemu medvědiku.
+
+Ana sěla medžu nimi.
+
+– Kakaja skazka sego dnja?
+
+– O zmoku, ktoryj ne uměl izvinjati sę – rekla Marisja.
+
+Ana usměhnula sę. Otvorila knigu i načela čitati.
+
+A v jeje golově ješče zvučaly slova, ktoryje izměnili vse: „Avtoritet ne gradit sę na prikazah i zapretjenjah. Skoro sgradit sę na izvinenje".
+
+I věděla, že to jest pravda. Bo v teh trěh slovah – v „ljublju te", v „ty jest važna" i v „izvini" – krylo sę vse, čto djeti imajut potrebu, da by byti sčastlivymi.
+
+I Ana, ktoraja godami myslila, že imaje byti idealna, nakoněc razuměla: dostane, da by byla istinna.
+
+**KONEC**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Proveri razuměnje
 
 ### Question 1
 
-**Question:** Jak pani Maria definiuje budowanie autorytetu?
+**Question:** Kako pani Maria opreděljaje budovanje avtoriteta?
 
 **Answers:**
-- A) Na nakazach i zakazach
-- B) Na „przepraszam” i przyznawaniu się do błędów
-- C) Na karach
-- D) Na nagrodach
+- A) Na prikazah i zapretjenjah
+- B) Na „izvini" i priznavanji grěškov
+- C) Na karah
+- D) Na nagradah
 
 **Correct:** B
-**Explanation:** „Autorytet… zbuduje się go na przepraszam”.
-**Text reference:** na przepraszam
+**Explanation:** „Avtoritet… sgradit sę na izvinenje".
+**Text reference:** na izvinenje
 
 ### Question 2
 
-**Question:** Co Ania robi, gdy Marysia rozlewa mleko?
+**Question:** Čto Ana dělaje, kogda Marisja razliva mlěko?
 
 **Answers:**
-- A) Krzyknie „Znowu?”
-- B) Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności
-- C) Każe iść do pokoju
-- D) Ignoruje
+- A) Krikne „Iznova?"
+- B) Obnimaje i hvali probu samostojnosti
+- C) Velevaje iti v komnatu
+- D) Ignoruje vsju situaciju
 
 **Correct:** B
-**Explanation:** Opisowe wsparcie zamiast strofowania.
-**Text reference:** Widzę, że bardzo się starałaś
+**Explanation:** Opisna podpora zaměsto strofovanja.
+**Text reference:** Vižu, že ty silno starala sę
 
 ### Question 3
 
-**Question:** Jak Marek chwali rysunek Marysi?
+**Question:** Kako Marek hvali risunok Marisi?
 
 **Answers:**
-- A) „Jesteś piękna”
-- B) Opisowo: widzi szczegóły, czas pracy, talent do obserwacji
-- C) „Świetnie” i koniec
-- D) Nie chwali
+- A) „Ty jest lěpa"
+- B) Opisno: vidit detalje i čas raboty
+- C) „Divno" i konec
+- D) Ne hvali vovse
 
 **Correct:** B
-**Explanation:** Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.
-**Text reference:** kwiatki w tle
+**Explanation:** Marek govori o květkah na fonu i dolgoj rabotě nad risunkom.
+**Text reference:** květky na fonu
 
 ### Question 4
 
-**Question:** Czego Marek się boi, mówiąc o swoim ojcu?
+**Question:** Čego Marek sę bojit, govorja o svojem otcu?
 
 **Answers:**
-- A) Że syn go nie kocha
-- B) Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”
-- C) Że straci pracę
-- D) Że wyjadą za granicę
+- A) Že syn jego ne ljubit
+- B) Že bude takym kako otac, ktoryj ne izvinjal
+- C) Že zgubit rabotu
+- D) Že vyjedut za granicu
 
 **Correct:** B
-**Explanation:** Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej.
-**Text reference:** nigdy mnie nie przeprosił
+**Explanation:** Marek: otac nikogda ne izvinjal – on ne vědaje, kako byti inače.
+**Text reference:** nikogda mę ne izvinil
 
 ### Question 5
 
-**Question:** Jaką bajkę czyta Ania na koniec?
+**Question:** Kakoju skazku Ana čitaje nakoněc?
 
 **Answers:**
-- A) O Kopciuszku
-- B) O smoku, który nie umiał przepraszać
-- C) O kosmonaucie
-- D) O psie
+- A) O Pepeljuške
+- B) O zmoku, ktoryj ne uměl izvinjati sę
+- C) O kosmonavtě
+- D) O psu
 
 **Correct:** B
-**Explanation:** Marysia prosi: „O smoku, który nie umiał przepraszać”.
-**Text reference:** smoku, który nie umiał przepraszać
+**Explanation:** Marisja prosit: „O zmoku, ktoryj ne uměl izvinjati sę".
+**Text reference:** zmok, ktoryj ne uměl izvinjati sę
 
 
 ---

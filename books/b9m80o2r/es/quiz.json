@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Comprueba tu comprensión",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak pani Maria definiuje budowanie autorytetu?",
+      "question": "¿Cómo define la señora María la construcción de la autoridad?",
       "answers": [
-        "Na nakazach i zakazach",
-        "Na „przepraszam” i przyznawaniu się do błędów",
-        "Na karach",
-        "Na nagrodach"
+        "Con órdenes y prohibiciones",
+        "Con un \"perdón\" y reconociendo los errores",
+        "Con castigos",
+        "Con premios"
       ],
       "correctIndex": 1,
-      "explanation": "„Autorytet… zbuduje się go na przepraszam”."
+      "explanation": "„La autoridad… mucho antes se construye con un 'perdón'.\""
     },
     {
       "type": "single_choice",
-      "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+      "question": "¿Qué hace Ana cuando Marysia derrama la leche?",
       "answers": [
-        "Krzyknie „Znowu?”",
-        "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
-        "Każe iść do pokoju",
-        "Ignoruje"
+        "Grita \"¿Otra vez?\"",
+        "La abraza y elogia su intento de ser independiente",
+        "La manda a su cuarto",
+        "Ignora la situación"
       ],
       "correctIndex": 1,
-      "explanation": "Opisowe wsparcie zamiast strofowania."
+      "explanation": "Apoyo descriptivo en lugar de regañar."
     },
     {
       "type": "single_choice",
-      "question": "Jak Marek chwali rysunek Marysi?",
+      "question": "¿Cómo elogia Marek el dibujo de Marysia?",
       "answers": [
-        "„Jesteś piękna”",
-        "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
-        "„Świetnie” i koniec",
-        "Nie chwali"
+        "\"Eres preciosa\"",
+        "Describiendo: ve detalles, esfuerzo y talento para observar",
+        "\"Muy bien\" y punto",
+        "No la elogia"
       ],
       "correctIndex": 1,
-      "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
+      "explanation": "Marek habla de las florecitas del fondo y del tiempo dedicado al dibujo."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+      "question": "¿A qué tiene miedo Marek cuando habla de su padre?",
       "answers": [
-        "Że syn go nie kocha",
-        "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
-        "Że straci pracę",
-        "Że wyjadą za granicę"
+        "A que su hijo no le quiera",
+        "A convertirse en alguien como su padre, que nunca pidió perdón ni dijo \"te quiero\"",
+        "A perder el trabajo",
+        "A que se muden al extranjero"
       ],
       "correctIndex": 1,
-      "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej."
+      "explanation": "Marek: su padre nunca pidió perdón — él no sabe ser de otra manera."
     },
     {
       "type": "single_choice",
-      "question": "Jaką bajkę czyta Ania na koniec?",
+      "question": "¿Qué cuento lee Ana al final?",
       "answers": [
-        "O Kopciuszku",
-        "O smoku, który nie umiał przepraszać",
-        "O kosmonaucie",
-        "O psie"
+        "La Cenicienta",
+        "El del dragón que no sabía pedir perdón",
+        "El del astronauta",
+        "El del perro"
       ],
       "correctIndex": 1,
-      "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”."
+      "explanation": "Marysia pide: \"El del dragón que no sabía pedir perdón\"."
     }
   ]
 }

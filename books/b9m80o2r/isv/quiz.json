@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Proveri razuměnje",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak pani Maria definiuje budowanie autorytetu?",
+      "question": "Kako pani Maria opreděljaje budovanje avtoriteta?",
       "answers": [
-        "Na nakazach i zakazach",
-        "Na „przepraszam” i przyznawaniu się do błędów",
-        "Na karach",
-        "Na nagrodach"
+        "Na prikazah i zapretjenjah",
+        "Na „izvini\" i priznavanji grěškov",
+        "Na karah",
+        "Na nagradah"
       ],
       "correctIndex": 1,
-      "explanation": "„Autorytet… zbuduje się go na przepraszam”."
+      "explanation": "„Avtoritet… sgradit sę na izvinenje\"."
     },
     {
       "type": "single_choice",
-      "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+      "question": "Čto Ana dělaje, kogda Marisja razliva mlěko?",
       "answers": [
-        "Krzyknie „Znowu?”",
-        "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
-        "Każe iść do pokoju",
-        "Ignoruje"
+        "Krikne „Iznova?\"",
+        "Obnimaje i hvali probu samostojnosti",
+        "Velevaje iti v komnatu",
+        "Ignoruje vsju situaciju"
       ],
       "correctIndex": 1,
-      "explanation": "Opisowe wsparcie zamiast strofowania."
+      "explanation": "Opisna podpora zaměsto strofovanja."
     },
     {
       "type": "single_choice",
-      "question": "Jak Marek chwali rysunek Marysi?",
+      "question": "Kako Marek hvali risunok Marisi?",
       "answers": [
-        "„Jesteś piękna”",
-        "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
-        "„Świetnie” i koniec",
-        "Nie chwali"
+        "„Ty jest lěpa\"",
+        "Opisno: vidit detalje i čas raboty",
+        "„Divno\" i konec",
+        "Ne hvali vovse"
       ],
       "correctIndex": 1,
-      "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
+      "explanation": "Marek govori o květkah na fonu i dolgoj rabotě nad risunkom."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+      "question": "Čego Marek sę bojit, govorja o svojem otcu?",
       "answers": [
-        "Że syn go nie kocha",
-        "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
-        "Że straci pracę",
-        "Że wyjadą za granicę"
+        "Že syn jego ne ljubit",
+        "Že bude takym kako otac, ktoryj ne izvinjal",
+        "Že zgubit rabotu",
+        "Že vyjedut za granicu"
       ],
       "correctIndex": 1,
-      "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej."
+      "explanation": "Marek: otac nikogda ne izvinjal – on ne vědaje, kako byti inače."
     },
     {
       "type": "single_choice",
-      "question": "Jaką bajkę czyta Ania na koniec?",
+      "question": "Kakoju skazku Ana čitaje nakoněc?",
       "answers": [
-        "O Kopciuszku",
-        "O smoku, który nie umiał przepraszać",
-        "O kosmonaucie",
-        "O psie"
+        "O Pepeljuške",
+        "O zmoku, ktoryj ne uměl izvinjati sę",
+        "O kosmonavtě",
+        "O psu"
       ],
       "correctIndex": 1,
-      "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”."
+      "explanation": "Marisja prosit: „O zmoku, ktoryj ne uměl izvinjati sę\"."
     }
   ]
 }

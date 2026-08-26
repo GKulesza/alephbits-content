@@ -1,16 +1,16 @@
-# Autorytet na przepraszam
+# Aŭtoritato per "pardonu"
 
 ## Metadata
 
 **Pack ID:** b9m80o2r
 **Book ID:** b9m80o2r
 **Legacy Pack ID:** polish_autorytet_na_przepraszam
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
-**Title:** Aŭtoritato pri Pardono  
+**Title:** Aŭtoritato per "pardonu"  
 **Subtitle:** La vera aŭtoritato de gepatro  
-**Blurb:** Laca Anja kaj severa Marek disputas pri gepatrado. Podkasto de Maria Berlińska instruas ilin, ke aŭtoritato konstruiĝas per 'pardonu.' Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.
+**Blurb:** Laca Ania kaj severa Marek disputas pri gepatrado. Podkasto de Maria Berlińska instruas ilin, ke aŭtoritato konstruiĝas per 'pardonu.'
 
 **Genres:** psychology, short_story  
 **Series:** Collection Ten  
@@ -24,7 +24,7 @@
 **Historical period:** contemporary  
 
 **Original language:** eo  
-**Translation summary:** Multilingual translation edition. Source: pl. — Collection Ten official reading pack (Polish).  
+**Translation summary:** Esperanta traduko de la pola eldono „Autorytet na przepraszam" (Collection Ten).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
@@ -32,7 +32,7 @@
 
 **Tags:** eo, parenting, authority, translation, chwalenie, Collection Ten  
 
-**Keywords:** Autorytet na przepraszam, Ania, Marek  
+**Keywords:** Aŭtoritato per "pardonu", Ania, Marek  
 
 **Cover family:** psychology
 
@@ -45,9 +45,9 @@
 - forgiveness
 - home
 
-**Editorial notes:** Fikcja o współrodzicielstwie; adaptacja podcastu.
+**Editorial notes:** Fikcio pri komuna gepatrado; adapto de podkasto.
 
-**Inspiration:** Podcast Marii Berlińskiej o autorytecie przez przepraszanie; YouTube ewtts_glfwg (2024-10-13).
+**Inspiration:** Podkasto de Maria Berlińska pri aŭtoritato per pardonpetado; YouTube ewtts_glfwg (2024-10-13).
 
 ---
 
@@ -66,14 +66,14 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 13.10.2024 -> https://www.youtube.com/watch?v=ewtts_glfwg  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Plena esperanta traduko; anstataŭigas la eraran polan tekston.
 
 ### Revision history
 
 | Version | Date | Note |
-|
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Plena esperanta traduko; anstataŭigas la eraran polan tekston |
 | 1.0.0 | 2026-07-30 | Esperanto translation edition |
----------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -94,233 +94,233 @@
 **Retrieval date:** 2024-10-13  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** La fonto estas indikita en la source-bloko de la manuskripto; la teksto estas redakcia adapto.
 
 ---
 
 ## Text
 
-**AUTORYTET NA PRZEPRASZAM**
+**AŬTORITATO PER "PARDONU"**
 
-Kiedy Ania zamknęła drzwi za Markiem, opadła na kanapę i pozwoliła sobie na chwilę słabości. Z oczu popłynęły jej łzy – nie pierwsze tego dnia. W kuchni stały brudne talerze po obiedzie, w salonie leżały porozrzucane klocki, a na piętrze córki – siedmioletnia Marysia i trzyletnia Ala – właśnie się kłóciły o to, która z nich pierwsza weźmie kąpiel.
+Kiam Ania fermis la pordon post Marek, ŝi falis sur la kanapon kaj permesis al si momenton de malforto. Larmoj fluis el ŝiaj okuloj — ne la unuaj tiutage. En la kuirejo staris malpuraj teleroj post la tagmanĝo, en la salono kuŝis disĵetitaj konstrukuboj, kaj supre la filinoj — sepjara Marysia kaj trijara Ala — ĵus disputis pri tio, kiu baniĝos unue.
 
-– Marysia! Ala! – krzyknęła, nie wstając z kanapy. – Przestańcie! Zaraz tam przyjdę!
+– Marysia! Ala! – ŝi ekkriis, ne leviĝante de la kanapo. – Ĉesu! Mi tuj venos!
 
-Głos w jej głowie brzmiał zmęczony. Zmęczony, bo taki właśnie był. Cały dzień w pracy, potem zakupy, potem odbiór dzieci z przedszkola i szkoły, potem obiad, potem sprzątanie, potem kłótnia z Markiem o to, że on znowu wrócił późno i że ona nie daje rady. I o to, że on zbyt surowo traktuje Marysię, która przecież dopiero uczy się czytać i ma prawo popełniać błędy. I o to, że ona zbyt miękko, że wychowuje "śnieżynki", że Marysia nie potrafi przegrywać, że Ala robi awantury o każdy kubek.
+La voĉo en ŝia kapo sonis laca. Laca, ĉar tia ĝi vere estis. Tutan tagon ĉe la laboro, poste aĉetado, poste preno de la infanoj el la infanĝardeno kaj la lernejo, poste tagmanĝo, poste purigado, poste disputo kun Marek, ĉar li denove revenis malfrue kaj ĉar ŝi ne plu eltenas. Kaj pri tio, ke li traktas Marysia tro severe, ŝin, kiu ankoraŭ nur lernas legi kaj rajtas erari. Kaj pri tio, ke ŝi estas tro mola, ke ŝi edukas "neĝerojn", ke Marysia ne scipovas perdi, ke Ala faras scenojn pro ĉiu taso.
 
-– Ty je rozpuszczasz! – powiedział Marek, wychodząc z domu. – Nie ma w tobie żadnej konsekwencji. Ja nie mogę na to patrzeć.
+– Vi ilin dorlotas! – diris Marek, forirante el la domo. – Vi havas neniom da konsekvenco. Mi ne povas rigardi tion.
 
-Ania wtedy nie odpowiedziała. Nie miała siły. Nie miała też argumentów, bo w głębi serca czuła, że coś jest nie tak, ale nie wiedziała co. Była przecież dobrą matką. Kochała swoje dzieci. Poświęcała im cały czas, całą siebie. Dlaczego więc czuła, że zawodzi?
-
----
-Telefon w jej dłoni wibrował. Spojrzała na ekran – powiadomienie z YouTube. Kanał, który ostatnio zaczęła oglądać, opublikował nowy podcast. "Jak wychować dziecko, żeby było szczęśliwe?" – brzmiał tytuł. Gościem była psycholog, która od lat prowadzi rodzinny dom dziecka i pomaga rodzicom w kryzysie.
-
-Ania wcisnęła play, nie mając siły na nic innego.
-
-Głos pani Marii był spokojny, ale stanowczy. Ania słuchała, pijąc wystygłą herbatę, nie odrywając wzroku od ekranu. I słowo po słowie, zdanie po zdaniu, coś w niej zaczęło pękać.
-
-– Autorytet nie buduje się na nakazach i zakazach – mówiła pani Maria. – Prędzej zbuduje się go na przepraszam. Bo rodzic, który potrafi powiedzieć "przepraszam", przyznać się do błędu – jest wielki.
-
-Ania wstrzymała oddech. Przypomniała sobie, jak wczoraj krzyknęła na Marysię, że jest niezdarna, kiedy rozlała sok na dywan. Nie przeprosiła. Uznała, że to niepotrzebne, że dziecko musi wiedzieć, że zrobiło źle. A przecież widziała łzy w oczach córki, widziała, jak Marysia skuliła się w sobie, jakby oczekiwała ciosu.
-
-– Poczucie wartości buduje się w zakochanych oczach rodziców – kontynuowała pani Maria. – To, że rodzic patrzy na dziecko i ono wie, że jest kochane, nawet takie nieidealne. Niezależnie od tego, czy dostanie piątkę, czy dwójkę, czy rozleje sok, czy nie.
-
-Ania zaczęła płakać. Płakała cicho, żeby dzieci nie usłyszały. Płakała za sobą – za tą małą dziewczynką, która kiedyś też chciała być kochana bezwarunkowo. Która słyszała: "No, Ania, no dobrze", podczas gdy siostrze uśmiechali się w oczy. Która do dzisiaj, mimo że skończyła studia, miała dobrą pracę i kochającą rodzinę, czuła, że jest niewystarczająca.
-
-– Jak chwalić? – pytał prowadzący.
-
-– Opisowo – odpowiadała pani Maria. – Nie mówimy: "Jesteś piękny". Mówimy: "Widzę, że dobrałaś ładne kolory do tej sukienki". Nie mówimy: "Świetnie". Mówimy: "Widzę, że długo nad tym pracowałeś i udało ci się. To nie było łatwe, ale dałeś radę".
-
-Ania słuchała dalej. Usłyszała o żłobkach – że do trzeciego roku życia dziecko potrzebuje głównego opiekuna, bo wtedy kształtują się wzorce przywiązania. Usłyszała, że konflikt w małżeństwie nie jest zły, że ważne jest, jak się go rozwiązuje. Usłyszała, że jeśli chcemy wychować dzieci, musimy pracować nad sobą i nad swoim małżeństwem, bo to jest wzorzec dla dzieci.
-
-– To, co myślimy o sobie, bierze początek w rodzinie – powiedziała pani Maria. – Niesiemy swoich rodziców, ich lęki, ich fascynacje. Niewiele o sobie wiemy, dopóki nie wejdziemy w związek i nie zaczniemy się odkrywać.
-
-Ania pomyślała o Marku. O tym, jak on też nosi swoje lęki. O tym, że jego ojciec był surowy, wymagający, nigdy go nie chwalił. I że Marek, chcąc być lepszym ojcem, stał się właśnie taki – surowy, wymagający, bojący się, że jeśli odpuści, dzieci wyrosną na "mięczaków". I że on też potrzebuje usłyszeć, że jest wystarczający.
+Ania tiam ne respondis. Ŝi ne havis forton. Ŝi ankaŭ ne havis argumentojn, ĉar en la profundo de la koro ŝi sentis, ke io ne estas en ordo, sed ŝi ne sciis, kio. Ŝi ja estis bona patrino. Ŝi amis siajn infanojn. Ŝi donis al ili sian tutan tempon, sin mem. Do kial ŝi sentis, ke ŝi malsukcesas?
 
 ---
-Kiedy dzieci w końcu zasnęły, Ania usiadła w salonie. Marek wrócił, ale zamknął się w swoim pokoju. Ania wzięła głęboki oddech i poszła do niego.
+La telefono en ŝia mano vibras. Ŝi rigardis la ekranon — sciigo de YouTube. La kanalo, kiun ŝi lastatempe komencis spekti, publikigis novan podkaston. "Kiel eduki infanon, por ke ĝi estu feliĉa?" – tekstis la titolo. La gasto estis psikologino, kiu dum jaroj gvidas familian hejmon por infanoj kaj helpas gepatrojn en krizo.
 
-– Marek – powiedziała cicho. – Musimy porozmawiać.
+Ania premis ludon, ne havante forton por io alia.
 
-– Nie mam siły na kolejną kłótnię – odpowiedział, nie podnosząc wzroku.
+La voĉo de sinjorino Maria estis trankvila, sed firma. Ania aŭskultis, trinkante malvarmiĝintan teon, ne fortirante la rigardon de la ekrano. Kaj vorton post vorto, frazon post frazo, io en ŝi komencis krevi.
 
-– Nie chcę się kłócić. Chcę cię przeprosić.
+– Aŭtoritato ne konstruiĝas per ordonoj kaj malpermesoj – diris sinjorino Maria. – Pli vere ĝi konstruiĝas per "pardonu". Ĉar gepatro, kiu scipovas diri "pardonu", agnoski sian eraron – estas granda.
 
-Marek spojrzał na nią zdziwiony.
+Ania retenis la spiron. Ŝi rememoris, kiel hieraŭ ŝi kriis al Marysia, ke ŝi estas mallerta, kiam ŝi verŝis sukon sur la tapiŝon. Ŝi ne pardonpetis. Ŝi opiniis, ke tio ne necesas, ke la infano devas scii, ke ĝi agis malbone. Kaj tamen ŝi vidis la larmojn en la okuloj de la filino, vidis, kiel Marysia kuntiriĝis en si, kvazaŭ atendante baton.
 
-– Przeprosić? Za co?
+– Memvaloro konstruiĝas en la amaj okuloj de la gepatroj – daŭrigis sinjorino Maria. – Ke la gepatro rigardas la infanon kaj tiu scias, ke ĝi estas amata, eĉ tia neperfekta. Sendepende de tio, ĉu ĝi ricevos kvinon aŭ duon, ĉu ĝi verŝos la sukon aŭ ne.
 
-– Że cię nie słuchałam. Że nie próbowałam zrozumieć, dlaczego tak reagujesz. I że – sama tego nie widziałam – ale też krytykowałam ciebie w oczach dzieci.
+Ania ekploris. Ŝi ploris silente, por ke la infanoj ne aŭdu. Ŝi ploris pro si – pro tiu malgranda knabino, kiu iam ankaŭ volis esti amata senkondiĉe. Kiu aŭdis: "Nu, Ania, nu bone", dum al la fratino oni ridetis en la okulojn. Kiu ĝis hodiaŭ, kvankam ŝi finis la studojn, havis bonan laboron kaj aman familion, sentis, ke ŝi ne sufiĉas.
 
-Marek milczał. Ania usiadła obok niego.
+– Kiel laŭdi? – demandis la prezentanto.
 
-– Słuchałam dzisiaj jednego podcastu – powiedziała. – Mówili o tym, że autorytet buduje się na przepraszaniu. Że dzieci potrzebują widzieć, że rodzice też popełniają błędy i że się do nich przyznają. I że jeśli chcemy, żeby nasze dzieci miały poczucie wartości, to my musimy być dla nich bezpiecznym wzorcem.
+– Priskribe – respondis sinjorino Maria. – Ni ne diras: "Vi estas bela". Ni diras: "Mi vidas, ke vi elektis belajn kolorojn por tiu robo". Ni ne diras: "Bonege". Ni diras: "Mi vidas, ke vi longe laboris pri tio kaj sukcesis. Tio ne estis facila, sed vi plenumis ĝin".
 
-Marek spojrzał na nią.
+Ania aŭskultis plu. Ŝi aŭdis pri infanvartejoj – ke ĝis la tria vivojaro infano bezonas ĉefan prizorganton, ĉar tiam formiĝas la ŝablonoj de alkroĉiĝo. Ŝi aŭdis, ke konflikto en geedzeco ne estas malbona, ke gravas, kiel oni ĝin solvas. Ŝi aŭdis, ke se ni volas bone eduki la infanojn, ni devas labori pri ni mem kaj pri nia geedzeco, ĉar tio estas la modelo por la infanoj.
 
-– I co z tego? – zapytał. – To znaczy, że mam przestać wymagać? Że mam im pozwalać na wszystko?
+– Tio, kion ni pensas pri ni mem, devenas el la familio – diris sinjorino Maria. – Ni portas niajn gepatrojn, iliajn timojn, iliajn fascinojn. Ni scias malmulton pri ni mem, ĝis ni eniras rilaton kaj komencas malkovri nin.
 
-– Nie. To znaczy, że mamy wymagać inaczej. Z szacunkiem. Że mamy mówić: "Kochanie, nie mogę się zgodzić na to, co robisz, bo to ci szkodzi", a nie: "Jesteś beznadziejny". Że mamy chwalić je opisowo, a nie oceniać. I że mamy przepraszać, kiedy zawiedziemy.
-
-Marek oparł głowę na rękach.
-
-– Ja nie umiem – powiedział cicho. – Mój ojciec nigdy mnie nie przeprosił. Nigdy nie powiedział: "Dobrze cię wychowałem". Nigdy nie powiedział: "Kocham cię". A ja nie chcę być taki jak on. Ale nie wiem, jak być inaczej.
-
-Ania położyła dłoń na jego ramieniu.
-
-– Możemy się nauczyć. Razem.
+Ania pensis pri Marek. Pri tio, kiel ankaŭ li portas siajn timojn. Pri tio, ke lia patro estis severa, postulema, neniam laŭdis lin. Kaj ke Marek, volante esti pli bona patro, fariĝis ĝuste tia – severa, postulema, timante, ke se li mildiĝos, la infanoj fariĝos "moluloj". Kaj ke ankaŭ li bezonas aŭdi, ke li sufiĉas.
 
 ---
-Następnego dnia, przy śniadaniu, Marysia rozlała mleko. Jej oczy wypełniły się łzami, zanim jeszcze ktokolwiek zdążył cokolwiek powiedzieć.
+Kiam la infanoj fine endormiĝis, Ania sidiĝis en la salono. Marek revenis, sed fermis sin en sia ĉambro. Ania profunde enspiris kaj iris al li.
 
-– Przepraszam – wyszeptała. – Przepraszam, mamo.
+– Marek – ŝi diris mallaŭte. – Ni devas paroli.
 
-Ania wzięła głęboki oddech. Dawniej powiedziałaby: "Znowu? Ile razy ci mówiłam, żebyś uważała?" Zamiast tego podeszła do Marysi, przytuliła ją i powiedziała:
+– Mi ne havas forton por alia disputo – li respondis, ne levinte la rigardon.
 
-– Widzę, że jest ci przykro. To nie jest przyjemne, kiedy coś się rozlewa, prawda? Ale nic się nie stało. Weźmiemy ściereczkę, wytrzemy i będzie dobrze. Chcesz mi pomóc?
+– Mi ne volas disputi. Mi volas pardonpeti al vi.
 
-Marysia spojrzała na nią zaskoczona. Skinęła głową. Razem wytały mleko. Potem Ania dodała:
+Marek rigardis ŝin surprizite.
 
-– Widzę, że bardzo się starałaś nalać sobie mleka samej. To nie było łatwe, ale próbowałaś. Jestem z ciebie dumna.
+– Pardonpeti? Pri kio?
 
-Marysia uśmiechnęła się. Po raz pierwszy od wielu dni.
+– Ke mi ne aŭskultis vin. Ke mi ne provis kompreni, kial vi tiel reagas. Kaj ke – mi mem tion ne vidis – mi ankaŭ kritikis vin antaŭ la infanoj.
 
-Marek obserwował to wszystko z kąta. Nic nie powiedział. Ale Ania widziała w jego oczach coś, czego nie widziała od dawna – refleksję.
+Marek silentis. Ania sidiĝis apud li.
 
----
-Kilka dni później Marek wrócił z pracy wcześniej. Marysia pokazywała mu rysunek, który narysowała w szkole.
+– Mi aŭskultis hodiaŭ unu podkaston – ŝi diris. – Ili parolis pri tio, ke aŭtoritato konstruiĝas per pardonpetado. Ke la infanoj bezonas vidi, ke la gepatroj ankaŭ eraras kaj agnoskas tion. Kaj ke se ni volas, ke niaj infanoj havu memvaloron, ni devas esti por ili sekura modelo.
 
-– Zobacz, tato! To nasza rodzina.
+Marek rigardis ŝin.
 
-Marek spojrzał na rysunek. Wszyscy się uśmiechali. Nawet pies.
+– Kaj kio el tio? – li demandis. – Ĉu tio signifas, ke mi ĉesu postuli? Ke mi permesu al ili ĉion?
 
-– Piękny – powiedział. I wtedy, ku zaskoczeniu Ani, dodał: – Widzę, że długo nad nim pracowałaś. Są tu szczegóły, których nie widziałem wcześniej – na przykład te kwiatki w tle. Potrafisz rysować rzeczy, których inni by nie zauważyli.
+– Ne. Tio signifas, ke ni devas postuli alimaniere. Kun respekto. Ke ni devas diri: "Kara, mi ne povas konsenti pri tio, kion vi faras, ĉar tio damaĝas vin", kaj ne: "Vi estas senespera". Ke ni devas laŭdi ilin priskribe, ne juĝi. Kaj ke ni devas pardonpeti, kiam ni seniluziigas ilin.
 
-Marysia promieniała.
+Marek apogis la kapon sur la manojn.
 
-Ania podeszła do męża i szepnęła:
+– Mi ne scipovas – li diris mallaŭte. – Mia patro neniam pardonpetis al mi. Li neniam diris: "Mi bone edukis vin". Li neniam diris: "Mi amas vin". Kaj mi ne volas esti kiel li. Sed mi ne scias, kiel esti alie.
 
-– Widzę, że uczysz się chwalić.
+Ania metis la manon sur lian ŝultron.
 
-– Ty też się uczysz – odpowiedział. – I widzę, że to działa.
-
----
-Wieczorem, kiedy dzieci spały, Ania i Marek usiedli na kanapie. Marek wziął ją za rękę.
-
-– Przepraszam – powiedział. – Za to, że cię krytykowałem. Że nie widziałem, że ty też dajesz z siebie wszystko. I że czasami byłem zbyt surowy wobec Marysi. To nie jest jej wina, że ja nie umiem inaczej. Ale chcę się nauczyć.
-
-Ania przytuliła się do niego.
-
-– Ja też cię przepraszam – powiedziała. – Że nie umiałam cię wysłuchać. Że nie widziałam, że ty też potrzebujesz wsparcia. I że czasami mówiłam o tobie źle przy dzieciach. To był błąd.
-
-– Będziemy się uczyć – powiedział Marek.
-
-– Razem.
+– Ni povas lerni. Kune.
 
 ---
-Miesiąc później Ania usiadła do laptopa, żeby napisać wiadomość do autora podcastu. Chciała podziękować. Za to, że znalazła odwagę, żeby zmienić swoje życie. Za to, że zrozumiała, że wychowanie to nie tresura, tylko relacja. I że największym prezentem, jaki może dać swoim dzieciom, jest poczucie własnej wartości – które buduje się w zakochanych oczach rodziców.
+La sekvan tagon, dum la matenmanĝo, Marysia verŝis la lakton. Ŝiaj okuloj pleniĝis de larmoj, antaŭ ol iu ajn sukcesis ion diri.
 
-Pomyślała o tym, co powiedziała pani Maria: "Miłość to czas, który dajemy". I zrozumiała, że nie chodzi o to, żeby być idealnym rodzicem. Chodzi o to, żeby być obecnym. I żeby codziennie próbować jeszcze raz.
+– Pardonu – ŝi flustris. – Pardonu, panjo.
 
-– Mamo – zawołała Marysia z pokoju. – Chodź, przeczytasz mi bajkę?
+Ania profunde enspiris. Iam ŝi dirus: "Denove? Kiom da fojoj mi diris al vi, ke vi atentu?" Anstataŭ tio ŝi alproksimiĝis al Marysia, ĉirkaŭprenis ŝin kaj diris:
 
-Ania zamknęła laptopa.
+– Mi vidas, ke vi estas malgaja. Ne estas agrable, kiam io verŝiĝas, ĉu ne? Sed nenio okazis. Ni prenos tukan, viŝos kaj estos bone. Ĉu vi volas helpi min?
 
-– Idę, kochanie.
+Marysia rigardis ŝin surprizite. Ŝi kapjesis. Kune ili viŝis la lakton. Poste Ania aldonis:
 
-Wstała, podeszła do drzwi i spojrzała na swoje dzieci. Marysia leżała w łóżku z książką na kolanach. Ala tuliła się do swojego misia.
+– Mi vidas, ke vi tre penis verŝi al vi la lakton mem. Tio ne estis facila, sed vi provis. Mi fieras pri vi.
 
-Ania usiadła między nimi.
+Marysia ridetis. Unuafoje post multaj tagoj.
 
-– Jaka bajka dzisiaj?
+Marek observis ĉion el la angulo. Li diris nenion. Sed Ania vidis en liaj okuloj ion, kion ŝi longe ne vidis – pripenson.
 
-– O smoku, który nie umiał przepraszać – powiedziała Marysia.
+---
+Kelkajn tagojn poste Marek revenis el la laboro pli frue. Marysia montris al li desegnaĵon, kiun ŝi faris en la lernejo.
 
-Ania uśmiechnęła się. Otworzyła książkę i zaczęła czytać.
+– Rigardu, paĉjo! Tio estas nia familio.
 
-A w jej głowie wciąż brzmiały słowa, które zmieniły wszystko: "Autorytet nie buduje się na nakazach i zakazach. Prędzej zbuduje się go na przepraszam".
+Marek rigardis la desegnaĵon. Ĉiuj ridetis. Eĉ la hundo.
 
-I wiedziała, że to prawda. Bo w tych trzech słowach – w "kocham cię", w "jesteś ważna" i w "przepraszam" – kryło się wszystko, czego dzieci potrzebują, żeby być szczęśliwymi.
+– Bela – li diris. Kaj tiam, al la surprizo de Ania, li aldonis: – Mi vidas, ke vi longe laboris pri ĝi. Estas ĉi tie detaloj, kiujn mi antaŭe ne vidis – ekzemple tiuj floretoj en la fono. Vi scipovas desegni aferojn, kiujn aliaj ne rimarkus.
 
-I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała: wystarczy, że będzie prawdziwa.
+Marysia radiis.
 
-**KONIEC**
+Ania aliris al sia edzo kaj flustris:
+
+– Mi vidas, ke vi lernas laŭdi.
+
+– Ankaŭ vi lernas – li respondis. – Kaj mi vidas, ke tio funkcias.
+
+---
+Vespere, kiam la infanoj dormis, Ania kaj Marek sidiĝis sur la kanapo. Marek prenis ŝian manon.
+
+– Pardonu – li diris. – Pro tio, ke mi kritikis vin. Ke mi ne vidis, ke ankaŭ vi donas ĉion el vi. Kaj ke kelkfoje mi estis tro severa kontraŭ Marysia. Ne estas ŝia kulpo, ke mi ne scipovas alie. Sed mi volas lerni.
+
+Ania apogiĝis al li.
+
+– Ankaŭ mi pardonpetas al vi – ŝi diris. – Ke mi ne scipovis aŭskulti vin. Ke mi ne vidis, ke ankaŭ vi bezonas subtenon. Kaj ke kelkfoje mi parolis malbone pri vi antaŭ la infanoj. Tio estis eraro.
+
+– Ni lernos – diris Marek.
+
+– Kune.
+
+---
+Monaton poste Ania sidiĝis ĉe la tekkomputilo, por skribi mesaĝon al la aŭtoro de la podkasto. Ŝi volis danki. Pro tio, ke ŝi trovis la kuraĝon ŝanĝi sian vivon. Pro tio, ke ŝi komprenis, ke edukado ne estas dresado, sed rilato. Kaj ke la plej granda donaco, kiun ŝi povas doni al siaj infanoj, estas memvaloro – kiu konstruiĝas en la amaj okuloj de la gepatroj.
+
+Ŝi pensis pri tio, kion diris sinjorino Maria: "Amo estas la tempo, kiun ni donas". Kaj ŝi komprenis, ke ne temas pri esti perfekta gepatro. Temas pri esti ĉeestanta. Kaj pri provi denove ĉiun tagon.
+
+– Panjo! – vokis Marysia el la ĉambro. – Venu, ĉu vi legos al mi fabelon?
+
+Ania fermis la tekkomputilon.
+
+– Mi venas, kara.
+
+Ŝi leviĝis, aliris al la pordo kaj rigardis siajn infanojn. Marysia kuŝis en la lito kun libro sur la genuoj. Ala ĉirkaŭbrakis sian pluŝan urseton.
+
+Ania sidiĝis inter ili.
+
+– Kia fabelo hodiaŭ?
+
+– Pri drako, kiu ne scipovis pardonpeti – diris Marysia.
+
+Ania ridetis. Ŝi malfermis la libron kaj komencis legi.
+
+Kaj en ŝia kapo ankoraŭ sonis la vortoj, kiuj ŝanĝis ĉion: "Aŭtoritato ne konstruiĝas per ordonoj kaj malpermesoj. Pli vere ĝi konstruiĝas per 'pardonu'".
+
+Kaj ŝi sciis, ke tio estas vero. Ĉar en tiuj tri frazoj – en "mi amas vin", en "vi estas grava" kaj en "pardonu" – kaŝiĝis ĉio, kion la infanoj bezonas por esti feliĉaj.
+
+Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufiĉas, ke ŝi estu vera.
+
+**FINO**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Kontrolu vian komprenon
 
 ### Question 1
 
-**Question:** Jak pani Maria definiuje budowanie autorytetu?
+**Question:** Kiel sinjorino Maria difinas la konstruadon de aŭtoritato?
 
 **Answers:**
-- A) Na nakazach i zakazach
-- B) Na „przepraszam” i przyznawaniu się do błędów
-- C) Na karach
-- D) Na nagrodach
+- A) Per ordonoj kaj malpermesoj
+- B) Per "pardonu" kaj agnosko de eraroj
+- C) Per punoj
+- D) Per rekompencoj
 
 **Correct:** B
-**Explanation:** „Autorytet… zbuduje się go na przepraszam”.
-**Text reference:** na przepraszam
+**Explanation:** „Aŭtoritato… konstruiĝas per 'pardonu'."
+**Text reference:** konstruiĝas per "pardonu"
 
 ### Question 2
 
-**Question:** Co Ania robi, gdy Marysia rozlewa mleko?
+**Question:** Kion faras Ania, kiam Marysia verŝas la lakton?
 
 **Answers:**
-- A) Krzyknie „Znowu?”
-- B) Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności
-- C) Każe iść do pokoju
-- D) Ignoruje
+- A) Krias "Denove?"
+- B) Ĉirkaŭprenas ŝin kaj laŭdas la provon de memstareco
+- C) Ordonas iri en la ĉambron
+- D) Ignoras la tutan situacion
 
 **Correct:** B
-**Explanation:** Opisowe wsparcie zamiast strofowania.
-**Text reference:** Widzę, że bardzo się starałaś
+**Explanation:** Priskriba subteno anstataŭ riproĉado.
+**Text reference:** vi tre penis
 
 ### Question 3
 
-**Question:** Jak Marek chwali rysunek Marysi?
+**Question:** Kiel Marek laŭdas la desegnaĵon de Marysia?
 
 **Answers:**
-- A) „Jesteś piękna”
-- B) Opisowo: widzi szczegóły, czas pracy, talent do obserwacji
-- C) „Świetnie” i koniec
-- D) Nie chwali
+- A) "Vi estas bela"
+- B) Priskribe: li vidas detalojn, penon kaj talenton observi
+- C) "Bonege" kaj fino
+- D) Li tute ne laŭdas
 
 **Correct:** B
-**Explanation:** Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.
-**Text reference:** kwiatki w tle
+**Explanation:** Marek parolas pri la floretoj en la fono kaj la longa laboro pri la desegnaĵo.
+**Text reference:** floretoj en la fono
 
 ### Question 4
 
-**Question:** Czego Marek się boi, mówiąc o swoim ojcu?
+**Question:** Kion timas Marek, parolante pri sia patro?
 
 **Answers:**
-- A) Że syn go nie kocha
-- B) Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”
-- C) Że straci pracę
-- D) Że wyjadą za granicę
+- A) Ke lia filo ne amas lin
+- B) Ke li fariĝos kiel la patro, kiu neniam pardonpetis nek diris "mi amas vin"
+- C) Ke li perdos la laboron
+- D) Ke ili foriros eksterlanden
 
 **Correct:** B
-**Explanation:** Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej.
-**Text reference:** nigdy mnie nie przeprosił
+**Explanation:** Marek: la patro neniam pardonpetis – li ne scias, kiel esti alie.
+**Text reference:** neniam pardonpetis al mi
 
 ### Question 5
 
-**Question:** Jaką bajkę czyta Ania na koniec?
+**Question:** Kian fabelon legas Ania fine?
 
 **Answers:**
-- A) O Kopciuszku
-- B) O smoku, który nie umiał przepraszać
-- C) O kosmonaucie
-- D) O psie
+- A) Pri Cindrulino
+- B) Pri drako, kiu ne scipovis pardonpeti
+- C) Pri kosmonaŭto
+- D) Pri hundo
 
 **Correct:** B
-**Explanation:** Marysia prosi: „O smoku, który nie umiał przepraszać”.
-**Text reference:** smoku, który nie umiał przepraszać
+**Explanation:** Marysia petas: "Pri drako, kiu ne scipovis pardonpeti".
+**Text reference:** drako, kiu ne scipovis pardonpeti
 
 
 ---

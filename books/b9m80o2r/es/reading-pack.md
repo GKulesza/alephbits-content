@@ -1,16 +1,16 @@
-# Autorytet na przepraszam
+# La autoridad del perdón
 
 ## Metadata
 
 **Pack ID:** b9m80o2r
 **Book ID:** b9m80o2r
 **Legacy Pack ID:** polish_autorytet_na_przepraszam
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
-**Title:** Autoridad para disculparse  
+**Title:** La autoridad del perdón  
 **Subtitle:** La verdadera autoridad de un padre  
-**Blurb:** Ana, cansada, y Marcos, severo, discuten sobre la crianza. Un pódcast de María Berlińska les enseña que la autoridad se construye pidiendo perdón. Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.
+**Blurb:** Ana, cansada, y Marek, severo, discuten sobre la crianza. Un pódcast de María Berlińska les enseña que la autoridad se construye pidiendo perdón.
 
 **Genres:** psychology, short_story  
 **Series:** Collection Ten  
@@ -24,7 +24,7 @@
 **Historical period:** contemporary  
 
 **Original language:** es  
-**Translation summary:** Multilingual translation edition. Source: pl. — Collection Ten official reading pack (Polish).  
+**Translation summary:** Traducción al español de la edición polaca „Autorytet na przepraszam" (Collection Ten).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
@@ -32,7 +32,7 @@
 
 **Tags:** es, parenting, authority, translation, chwalenie, Collection Ten  
 
-**Keywords:** Autorytet na przepraszam, Ania, Marek  
+**Keywords:** La autoridad del perdón, Ana, Marek  
 
 **Cover family:** psychology
 
@@ -45,9 +45,9 @@
 - forgiveness
 - home
 
-**Editorial notes:** Fikcja o współrodzicielstwie; adaptacja podcastu.
+**Editorial notes:** Ficción sobre la corresponsabilidad parental; adaptación de un pódcast.
 
-**Inspiration:** Podcast Marii Berlińskiej o autorytecie przez przepraszanie; YouTube ewtts_glfwg (2024-10-13).
+**Inspiration:** Pódcast de María Berlińska sobre la autoridad a través del perdón; YouTube ewtts_glfwg (2024-10-13).
 
 ---
 
@@ -66,14 +66,14 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 13.10.2024 -> https://www.youtube.com/watch?v=ewtts_glfwg  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Traducción completa al español; sustituye el texto polaco erróneo.
 
 ### Revision history
 
 | Version | Date | Note |
-|
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Traducción completa al español; sustituye el texto polaco erróneo |
 | 1.0.0 | 2026-07-30 | Spanish translation edition |
----------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -94,233 +94,233 @@
 **Retrieval date:** 2024-10-13  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** La fuente se indica en el bloque source del manuscrito; el texto es una adaptación editorial.
 
 ---
 
 ## Text
 
-**AUTORYTET NA PRZEPRASZAM**
+**LA AUTORIDAD DEL PERDÓN**
 
-Kiedy Ania zamknęła drzwi za Markiem, opadła na kanapę i pozwoliła sobie na chwilę słabości. Z oczu popłynęły jej łzy – nie pierwsze tego dnia. W kuchni stały brudne talerze po obiedzie, w salonie leżały porozrzucane klocki, a na piętrze córki – siedmioletnia Marysia i trzyletnia Ala – właśnie się kłóciły o to, która z nich pierwsza weźmie kąpiel.
+Cuando Ana cerró la puerta detrás de Marek, se dejó caer en el sofá y se permitió un momento de debilidad. Las lágrimas brotaron de sus ojos, y no eran las primeras del día. En la cocina quedaban platos sucios de la comida, en el salón había bloques de construcción esparcidos por el suelo, y arriba sus hijas —Marysia, de siete años, y Ala, de tres— se peleaban por quién se bañaba primero.
 
-– Marysia! Ala! – krzyknęła, nie wstając z kanapy. – Przestańcie! Zaraz tam przyjdę!
+– ¡Marysia! ¡Ala! – gritó sin levantarse del sofá. – ¡Basta! ¡Ya voy!
 
-Głos w jej głowie brzmiał zmęczony. Zmęczony, bo taki właśnie był. Cały dzień w pracy, potem zakupy, potem odbiór dzieci z przedszkola i szkoły, potem obiad, potem sprzątanie, potem kłótnia z Markiem o to, że on znowu wrócił późno i że ona nie daje rady. I o to, że on zbyt surowo traktuje Marysię, która przecież dopiero uczy się czytać i ma prawo popełniać błędy. I o to, że ona zbyt miękko, że wychowuje "śnieżynki", że Marysia nie potrafi przegrywać, że Ala robi awantury o każdy kubek.
+La voz en su cabeza sonaba cansada. Cansada, porque así era ella. Todo el día en el trabajo, luego la compra, luego recoger a las niñas de la guardería y del colegio, luego la comida, luego limpiar, luego la discusión con Marek porque había vuelto a llegar tarde y porque ella no daba abasto. Y porque trataba a Marysia con demasiada dureza, a ella, que apenas estaba aprendiendo a leer y tenía todo el derecho a equivocarse. Y porque ella era demasiado blanda, porque criaba "copos de nieve", porque Marysia no sabía perder, porque Ala montaba un escándalo por cada vaso.
 
-– Ty je rozpuszczasz! – powiedział Marek, wychodząc z domu. – Nie ma w tobie żadnej konsekwencji. Ja nie mogę na to patrzeć.
+– ¡Los estás malcriando! – dijo Marek al salir de casa. – No tienes ninguna constancia. Yo no puedo soportar ver esto.
 
-Ania wtedy nie odpowiedziała. Nie miała siły. Nie miała też argumentów, bo w głębi serca czuła, że coś jest nie tak, ale nie wiedziała co. Była przecież dobrą matką. Kochała swoje dzieci. Poświęcała im cały czas, całą siebie. Dlaczego więc czuła, że zawodzi?
-
----
-Telefon w jej dłoni wibrował. Spojrzała na ekran – powiadomienie z YouTube. Kanał, który ostatnio zaczęła oglądać, opublikował nowy podcast. "Jak wychować dziecko, żeby było szczęśliwe?" – brzmiał tytuł. Gościem była psycholog, która od lat prowadzi rodzinny dom dziecka i pomaga rodzicom w kryzysie.
-
-Ania wcisnęła play, nie mając siły na nic innego.
-
-Głos pani Marii był spokojny, ale stanowczy. Ania słuchała, pijąc wystygłą herbatę, nie odrywając wzroku od ekranu. I słowo po słowie, zdanie po zdaniu, coś w niej zaczęło pękać.
-
-– Autorytet nie buduje się na nakazach i zakazach – mówiła pani Maria. – Prędzej zbuduje się go na przepraszam. Bo rodzic, który potrafi powiedzieć "przepraszam", przyznać się do błędu – jest wielki.
-
-Ania wstrzymała oddech. Przypomniała sobie, jak wczoraj krzyknęła na Marysię, że jest niezdarna, kiedy rozlała sok na dywan. Nie przeprosiła. Uznała, że to niepotrzebne, że dziecko musi wiedzieć, że zrobiło źle. A przecież widziała łzy w oczach córki, widziała, jak Marysia skuliła się w sobie, jakby oczekiwała ciosu.
-
-– Poczucie wartości buduje się w zakochanych oczach rodziców – kontynuowała pani Maria. – To, że rodzic patrzy na dziecko i ono wie, że jest kochane, nawet takie nieidealne. Niezależnie od tego, czy dostanie piątkę, czy dwójkę, czy rozleje sok, czy nie.
-
-Ania zaczęła płakać. Płakała cicho, żeby dzieci nie usłyszały. Płakała za sobą – za tą małą dziewczynką, która kiedyś też chciała być kochana bezwarunkowo. Która słyszała: "No, Ania, no dobrze", podczas gdy siostrze uśmiechali się w oczy. Która do dzisiaj, mimo że skończyła studia, miała dobrą pracę i kochającą rodzinę, czuła, że jest niewystarczająca.
-
-– Jak chwalić? – pytał prowadzący.
-
-– Opisowo – odpowiadała pani Maria. – Nie mówimy: "Jesteś piękny". Mówimy: "Widzę, że dobrałaś ładne kolory do tej sukienki". Nie mówimy: "Świetnie". Mówimy: "Widzę, że długo nad tym pracowałeś i udało ci się. To nie było łatwe, ale dałeś radę".
-
-Ania słuchała dalej. Usłyszała o żłobkach – że do trzeciego roku życia dziecko potrzebuje głównego opiekuna, bo wtedy kształtują się wzorce przywiązania. Usłyszała, że konflikt w małżeństwie nie jest zły, że ważne jest, jak się go rozwiązuje. Usłyszała, że jeśli chcemy wychować dzieci, musimy pracować nad sobą i nad swoim małżeństwem, bo to jest wzorzec dla dzieci.
-
-– To, co myślimy o sobie, bierze początek w rodzinie – powiedziała pani Maria. – Niesiemy swoich rodziców, ich lęki, ich fascynacje. Niewiele o sobie wiemy, dopóki nie wejdziemy w związek i nie zaczniemy się odkrywać.
-
-Ania pomyślała o Marku. O tym, jak on też nosi swoje lęki. O tym, że jego ojciec był surowy, wymagający, nigdy go nie chwalił. I że Marek, chcąc być lepszym ojcem, stał się właśnie taki – surowy, wymagający, bojący się, że jeśli odpuści, dzieci wyrosną na "mięczaków". I że on też potrzebuje usłyszeć, że jest wystarczający.
+Ana no respondió entonces. No tenía fuerzas. Tampoco tenía argumentos, porque en el fondo de su corazón sentía que algo no iba bien, pero no sabía qué. Después de todo, era una buena madre. Quería a sus hijas. Les daba todo su tiempo, todo su ser. Entonces, ¿por qué sentía que estaba fallando?
 
 ---
-Kiedy dzieci w końcu zasnęły, Ania usiadła w salonie. Marek wrócił, ale zamknął się w swoim pokoju. Ania wzięła głęboki oddech i poszła do niego.
+El teléfono vibraba en su mano. Miró la pantalla: una notificación de YouTube. El canal que había empezado a seguir hacía poco había publicado un nuevo pódcast. "¿Cómo educar a un hijo para que sea feliz?", rezaba el título. La invitada era una psicóloga que llevaba años dirigiendo una casa de acogida familiar y ayudaba a padres en crisis.
 
-– Marek – powiedziała cicho. – Musimy porozmawiać.
+Ana pulsó play, sin fuerzas para nada más.
 
-– Nie mam siły na kolejną kłótnię – odpowiedział, nie podnosząc wzroku.
+La voz de la señora María era tranquila, pero firme. Ana escuchaba, bebiendo el té ya frío, sin apartar los ojos de la pantalla. Y palabra a palabra, frase a frase, algo empezó a resquebrajarse dentro de ella.
 
-– Nie chcę się kłócić. Chcę cię przeprosić.
+– La autoridad no se construye con órdenes y prohibiciones – decía la señora María. – Mucho antes se construye con un "perdón". Porque un padre que sabe decir "perdón", que sabe reconocer su error, es un padre grande.
 
-Marek spojrzał na nią zdziwiony.
+Ana contuvo la respiración. Recordó que ayer había gritado a Marysia llamándola torpe cuando derramó el zumo en la alfombra. No se disculpó. Pensó que no hacía falta, que la niña debía saber que había hecho algo mal. Y sin embargo había visto las lágrimas en los ojos de su hija, había visto a Marysia encogerse sobre sí misma, como esperando un golpe.
 
-– Przeprosić? Za co?
+– La autoestima se construye en la mirada amorosa de los padres – continuó la señora María. – Que el padre mire a su hijo y este sepa que es querido, aunque no sea perfecto. Sin importar si saca un diez o un cinco, si derrama el zumo o no.
 
-– Że cię nie słuchałam. Że nie próbowałam zrozumieć, dlaczego tak reagujesz. I że – sama tego nie widziałam – ale też krytykowałam ciebie w oczach dzieci.
+Ana se echó a llorar. Lloraba en silencio, para que las niñas no la oyeran. Lloraba por ella misma: por aquella niña pequeña que un día también quiso ser querida sin condiciones. Que oía "Bueno, Ana, está bien", mientras a su hermana le sonreían a los ojos. Que hasta el día de hoy, pese a haber terminado la carrera, tener un buen trabajo y una familia que la quería, sentía que no era suficiente.
 
-Marek milczał. Ania usiadła obok niego.
+– ¿Cómo hay que elogiar? – preguntó el presentador.
 
-– Słuchałam dzisiaj jednego podcastu – powiedziała. – Mówili o tym, że autorytet buduje się na przepraszaniu. Że dzieci potrzebują widzieć, że rodzice też popełniają błędy i że się do nich przyznają. I że jeśli chcemy, żeby nasze dzieci miały poczucie wartości, to my musimy być dla nich bezpiecznym wzorcem.
+– Describiendo – respondió la señora María. – No decimos "Eres preciosa". Decimos "Veo que has elegido unos colores preciosos para ese vestido". No decimos "Muy bien". Decimos "Veo que has trabajado mucho en esto y lo has conseguido. No era fácil, pero lo lograste".
 
-Marek spojrzał na nią.
+Ana siguió escuchando. Oyó hablar de las guarderías: que hasta los tres años un niño necesita una figura de apego principal, porque entonces se forman los patrones de vínculo. Oyó que el conflicto en el matrimonio no es malo, que lo importante es cómo se resuelve. Oyó que si queremos criar bien a nuestros hijos, tenemos que trabajar en nosotros mismos y en nuestro matrimonio, porque eso es el modelo para los niños.
 
-– I co z tego? – zapytał. – To znaczy, że mam przestać wymagać? Że mam im pozwalać na wszystko?
+– Lo que pensamos de nosotros mismos nace en la familia – dijo la señora María. – Cargamos con nuestros padres, con sus miedos, con sus fascinaciones. Sabemos poco de nosotros hasta que entramos en una relación y empezamos a descubrirnos.
 
-– Nie. To znaczy, że mamy wymagać inaczej. Z szacunkiem. Że mamy mówić: "Kochanie, nie mogę się zgodzić na to, co robisz, bo to ci szkodzi", a nie: "Jesteś beznadziejny". Że mamy chwalić je opisowo, a nie oceniać. I że mamy przepraszać, kiedy zawiedziemy.
-
-Marek oparł głowę na rękach.
-
-– Ja nie umiem – powiedział cicho. – Mój ojciec nigdy mnie nie przeprosił. Nigdy nie powiedział: "Dobrze cię wychowałem". Nigdy nie powiedział: "Kocham cię". A ja nie chcę być taki jak on. Ale nie wiem, jak być inaczej.
-
-Ania położyła dłoń na jego ramieniu.
-
-– Możemy się nauczyć. Razem.
+Ana pensó en Marek. En que él también cargaba con sus miedos. En que su padre había sido severo y exigente y nunca lo había elogiado. Y en que Marek, queriendo ser mejor padre, se había convertido en eso mismo: severo y exigente, con miedo de que, si aflojaba, sus hijas se convirtieran en "blandengues". Y en que también él necesitaba oír que era suficiente.
 
 ---
-Następnego dnia, przy śniadaniu, Marysia rozlała mleko. Jej oczy wypełniły się łzami, zanim jeszcze ktokolwiek zdążył cokolwiek powiedzieć.
+Cuando las niñas por fin se durmieron, Ana se sentó en el salón. Marek había vuelto, pero se había encerrado en su cuarto. Ana respiró hondo y fue hacia él.
 
-– Przepraszam – wyszeptała. – Przepraszam, mamo.
+– Marek – dijo en voz baja. – Tenemos que hablar.
 
-Ania wzięła głęboki oddech. Dawniej powiedziałaby: "Znowu? Ile razy ci mówiłam, żebyś uważała?" Zamiast tego podeszła do Marysi, przytuliła ją i powiedziała:
+– No tengo fuerzas para otra pelea – respondió sin levantar la vista.
 
-– Widzę, że jest ci przykro. To nie jest przyjemne, kiedy coś się rozlewa, prawda? Ale nic się nie stało. Weźmiemy ściereczkę, wytrzemy i będzie dobrze. Chcesz mi pomóc?
+– No quiero pelear. Quiero pedirte perdón.
 
-Marysia spojrzała na nią zaskoczona. Skinęła głową. Razem wytały mleko. Potem Ania dodała:
+Marek la miró sorprendido.
 
-– Widzę, że bardzo się starałaś nalać sobie mleka samej. To nie było łatwe, ale próbowałaś. Jestem z ciebie dumna.
+– ¿Pedirme perdón? ¿Por qué?
 
-Marysia uśmiechnęła się. Po raz pierwszy od wielu dni.
+– Por no escucharte. Por no intentar entender por qué reaccionas así. Y porque – yo misma no lo veía – también te critiqué delante de las niñas.
 
-Marek obserwował to wszystko z kąta. Nic nie powiedział. Ale Ania widziała w jego oczach coś, czego nie widziała od dawna – refleksję.
+Marek calló. Ana se sentó a su lado.
 
----
-Kilka dni później Marek wrócił z pracy wcześniej. Marysia pokazywała mu rysunek, który narysowała w szkole.
+– Hoy escuché un pódcast – dijo. – Hablaban de que la autoridad se construye pidiendo perdón. De que los niños necesitan ver que sus padres también se equivocan y lo reconocen. Y de que, si queremos que nuestros hijos tengan autoestima, nosotros tenemos que ser para ellos un ejemplo seguro.
 
-– Zobacz, tato! To nasza rodzina.
+Marek la miró.
 
-Marek spojrzał na rysunek. Wszyscy się uśmiechali. Nawet pies.
+– ¿Y qué? – preguntó. – ¿Eso significa que dejo de exigirles? ¿Que les permito todo?
 
-– Piękny – powiedział. I wtedy, ku zaskoczeniu Ani, dodał: – Widzę, że długo nad nim pracowałaś. Są tu szczegóły, których nie widziałem wcześniej – na przykład te kwiatki w tle. Potrafisz rysować rzeczy, których inni by nie zauważyli.
+– No. Significa que tenemos que exigir de otra manera. Con respeto. Que tenemos que decir "Cariño, no puedo aceptar lo que haces, porque te hace daño", y no "Eres un desastre". Que tenemos que elogiarlos describiendo lo que hacen, no juzgarlos. Y que tenemos que pedir perdón cuando los decepcionamos.
 
-Marysia promieniała.
+Marek apoyó la cabeza en las manos.
 
-Ania podeszła do męża i szepnęła:
+– Yo no sé – dijo en voz baja. – Mi padre nunca me pidió perdón. Nunca me dijo "Te eduqué bien". Nunca me dijo "Te quiero". Y yo no quiero ser como él. Pero no sé ser de otra manera.
 
-– Widzę, że uczysz się chwalić.
+Ana le puso la mano en el hombro.
 
-– Ty też się uczysz – odpowiedział. – I widzę, że to działa.
-
----
-Wieczorem, kiedy dzieci spały, Ania i Marek usiedli na kanapie. Marek wziął ją za rękę.
-
-– Przepraszam – powiedział. – Za to, że cię krytykowałem. Że nie widziałem, że ty też dajesz z siebie wszystko. I że czasami byłem zbyt surowy wobec Marysi. To nie jest jej wina, że ja nie umiem inaczej. Ale chcę się nauczyć.
-
-Ania przytuliła się do niego.
-
-– Ja też cię przepraszam – powiedziała. – Że nie umiałam cię wysłuchać. Że nie widziałam, że ty też potrzebujesz wsparcia. I że czasami mówiłam o tobie źle przy dzieciach. To był błąd.
-
-– Będziemy się uczyć – powiedział Marek.
-
-– Razem.
+– Podemos aprender. Juntos.
 
 ---
-Miesiąc później Ania usiadła do laptopa, żeby napisać wiadomość do autora podcastu. Chciała podziękować. Za to, że znalazła odwagę, żeby zmienić swoje życie. Za to, że zrozumiała, że wychowanie to nie tresura, tylko relacja. I że największym prezentem, jaki może dać swoim dzieciom, jest poczucie własnej wartości – które buduje się w zakochanych oczach rodziców.
+A la mañana siguiente, durante el desayuno, Marysia derramó la leche. Sus ojos se llenaron de lágrimas antes de que nadie pudiera decir nada.
 
-Pomyślała o tym, co powiedziała pani Maria: "Miłość to czas, który dajemy". I zrozumiała, że nie chodzi o to, żeby być idealnym rodzicem. Chodzi o to, żeby być obecnym. I żeby codziennie próbować jeszcze raz.
+– Perdón – susurró. – Perdón, mamá.
 
-– Mamo – zawołała Marysia z pokoju. – Chodź, przeczytasz mi bajkę?
+Ana respiró hondo. Antes habría dicho "¿Otra vez? ¿Cuántas veces te he dicho que tengas cuidado?". En lugar de eso, se acercó a Marysia, la abrazó y le dijo:
 
-Ania zamknęła laptopa.
+– Veo que estás triste. No es agradable que se derrame algo, ¿verdad? Pero no ha pasado nada. Cogeremos un trapo, lo limpiaremos y todo estará bien. ¿Quieres ayudarme?
 
-– Idę, kochanie.
+Marysia la miró sorprendida. Asintió. Limpiaron la leche juntas. Luego Ana añadió:
 
-Wstała, podeszła do drzwi i spojrzała na swoje dzieci. Marysia leżała w łóżku z książką na kolanach. Ala tuliła się do swojego misia.
+– Veo que te esforzaste mucho en servirte la leche sola. No era fácil, pero lo intentaste. Estoy orgullosa de ti.
 
-Ania usiadła między nimi.
+Marysia sonrió. Por primera vez en muchos días.
 
-– Jaka bajka dzisiaj?
+Marek lo observó todo desde un rincón. No dijo nada. Pero Ana vio en sus ojos algo que no veía desde hacía tiempo: reflexión.
 
-– O smoku, który nie umiał przepraszać – powiedziała Marysia.
+---
+Unos días después, Marek volvió antes del trabajo. Marysia le enseñaba un dibujo que había hecho en el colegio.
 
-Ania uśmiechnęła się. Otworzyła książkę i zaczęła czytać.
+– ¡Mira, papá! Esta es nuestra familia.
 
-A w jej głowie wciąż brzmiały słowa, które zmieniły wszystko: "Autorytet nie buduje się na nakazach i zakazach. Prędzej zbuduje się go na przepraszam".
+Marek miró el dibujo. Todos sonreían. Hasta el perro.
 
-I wiedziała, że to prawda. Bo w tych trzech słowach – w "kocham cię", w "jesteś ważna" i w "przepraszam" – kryło się wszystko, czego dzieci potrzebują, żeby być szczęśliwymi.
+– Es precioso – dijo. Y entonces, para sorpresa de Ana, añadió: – Veo que has trabajado mucho en él. Hay detalles que no había visto antes, como esas florecitas del fondo. Sabes dibujar cosas que los demás no notarían.
 
-I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała: wystarczy, że będzie prawdziwa.
+Marysia irradiaba alegría.
 
-**KONIEC**
+Ana se acercó a su marido y le susurró:
+
+– Veo que estás aprendiendo a elogiar.
+
+– Tú también estás aprendiendo – respondió. – Y veo que funciona.
+
+---
+Por la noche, cuando las niñas dormían, Ana y Marek se sentaron en el sofá. Marek le cogió la mano.
+
+– Perdón – dijo. – Por haberte criticado. Por no ver que tú también lo das todo. Y por haber sido a veces demasiado duro con Marysia. No es culpa suya que yo no sepa hacerlo de otra manera. Pero quiero aprender.
+
+Ana se apoyó en él.
+
+– Yo también te pido perdón – dijo. – Por no saber escucharte. Por no ver que tú también necesitas apoyo. Y por haber hablado mal de ti delante de las niñas. Fue un error.
+
+– Aprenderemos – dijo Marek.
+
+– Juntos.
+
+---
+Un mes después, Ana se sentó ante el portátil para escribir un mensaje a la autora del pódcast. Quería darle las gracias. Por haber encontrado el valor de cambiar su vida. Por haber entendido que educar no es adiestrar, sino una relación. Y que el mayor regalo que podía dar a sus hijas era la autoestima, que se construye en la mirada amorosa de los padres.
+
+Pensó en lo que había dicho la señora María: "El amor es el tiempo que damos". Y entendió que no se trataba de ser un padre perfecto. Se trataba de estar presente. Y de intentarlo de nuevo cada día.
+
+– ¡Mamá! – llamó Marysia desde su cuarto. – ¿Vienes a leerme un cuento?
+
+Ana cerró el portátil.
+
+– Voy, cariño.
+
+Se levantó, se acercó a la puerta y miró a sus hijas. Marysia estaba en la cama con un libro sobre las rodillas. Ala abrazaba a su osito.
+
+Ana se sentó entre ellas.
+
+– ¿Qué cuento toca hoy?
+
+– El del dragón que no sabía pedir perdón – dijo Marysia.
+
+Ana sonrió. Abrió el libro y empezó a leer.
+
+Y en su cabeza seguían resonando las palabras que lo habían cambiado todo: "La autoridad no se construye con órdenes y prohibiciones. Mucho antes se construye con un 'perdón'".
+
+Y sabía que era verdad. Porque en esas tres frases – en "te quiero", en "eres importante" y en "perdón" – estaba todo lo que los niños necesitan para ser felices.
+
+Y Ana, que durante años había pensado que tenía que ser perfecta, por fin entendió: bastaba con ser de verdad.
+
+**FIN**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Comprueba tu comprensión
 
 ### Question 1
 
-**Question:** Jak pani Maria definiuje budowanie autorytetu?
+**Question:** ¿Cómo define la señora María la construcción de la autoridad?
 
 **Answers:**
-- A) Na nakazach i zakazach
-- B) Na „przepraszam” i przyznawaniu się do błędów
-- C) Na karach
-- D) Na nagrodach
+- A) Con órdenes y prohibiciones
+- B) Con un "perdón" y reconociendo los errores
+- C) Con castigos
+- D) Con premios
 
 **Correct:** B
-**Explanation:** „Autorytet… zbuduje się go na przepraszam”.
-**Text reference:** na przepraszam
+**Explanation:** „La autoridad… mucho antes se construye con un 'perdón'."
+**Text reference:** construye con un "perdón"
 
 ### Question 2
 
-**Question:** Co Ania robi, gdy Marysia rozlewa mleko?
+**Question:** ¿Qué hace Ana cuando Marysia derrama la leche?
 
 **Answers:**
-- A) Krzyknie „Znowu?”
-- B) Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności
-- C) Każe iść do pokoju
-- D) Ignoruje
+- A) Grita "¿Otra vez?"
+- B) La abraza y elogia su intento de ser independiente
+- C) La manda a su cuarto
+- D) Ignora la situación
 
 **Correct:** B
-**Explanation:** Opisowe wsparcie zamiast strofowania.
-**Text reference:** Widzę, że bardzo się starałaś
+**Explanation:** Apoyo descriptivo en lugar de regañar.
+**Text reference:** te esforzaste mucho
 
 ### Question 3
 
-**Question:** Jak Marek chwali rysunek Marysi?
+**Question:** ¿Cómo elogia Marek el dibujo de Marysia?
 
 **Answers:**
-- A) „Jesteś piękna”
-- B) Opisowo: widzi szczegóły, czas pracy, talent do obserwacji
-- C) „Świetnie” i koniec
-- D) Nie chwali
+- A) "Eres preciosa"
+- B) Describiendo: ve detalles, esfuerzo y talento para observar
+- C) "Muy bien" y punto
+- D) No la elogia
 
 **Correct:** B
-**Explanation:** Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.
-**Text reference:** kwiatki w tle
+**Explanation:** Marek habla de las florecitas del fondo y del tiempo dedicado al dibujo.
+**Text reference:** florecitas del fondo
 
 ### Question 4
 
-**Question:** Czego Marek się boi, mówiąc o swoim ojcu?
+**Question:** ¿A qué tiene miedo Marek cuando habla de su padre?
 
 **Answers:**
-- A) Że syn go nie kocha
-- B) Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”
-- C) Że straci pracę
-- D) Że wyjadą za granicę
+- A) A que su hijo no le quiera
+- B) A convertirse en alguien como su padre, que nunca pidió perdón ni dijo "te quiero"
+- C) A perder el trabajo
+- D) A que se muden al extranjero
 
 **Correct:** B
-**Explanation:** Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej.
-**Text reference:** nigdy mnie nie przeprosił
+**Explanation:** Marek: su padre nunca pidió perdón — él no sabe ser de otra manera.
+**Text reference:** Mi padre nunca me pidió perdón
 
 ### Question 5
 
-**Question:** Jaką bajkę czyta Ania na koniec?
+**Question:** ¿Qué cuento lee Ana al final?
 
 **Answers:**
-- A) O Kopciuszku
-- B) O smoku, który nie umiał przepraszać
-- C) O kosmonaucie
-- D) O psie
+- A) La Cenicienta
+- B) El del dragón que no sabía pedir perdón
+- C) El del astronauta
+- D) El del perro
 
 **Correct:** B
-**Explanation:** Marysia prosi: „O smoku, który nie umiał przepraszać”.
-**Text reference:** smoku, który nie umiał przepraszać
+**Explanation:** Marysia pide: "El del dragón que no sabía pedir perdón".
+**Text reference:** dragón que no sabía pedir perdón
 
 
 ---

@@ -217,6 +217,10 @@ def should_preserve_line(line: str) -> bool:
         return True
     if stripped.startswith("**Publication date:**"):
         return True
+    if stripped.startswith("**Historical period:**"):
+        return True
+    if re.match(r"^- [a-z]+$", stripped):
+        return True
     if stripped.startswith("**Correct:**"):
         return True
     if stripped.startswith("**License:**") or stripped.startswith("**License URL:**"):

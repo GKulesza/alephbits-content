@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Fikcja o współrodzicielstwie; adaptacja podcastu."
+    "humanReview": "Fiction about co-parenting; adaptation of a podcast."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "ewtts_glfwg"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Full English translation; replaces erroneous Polish text."
 }

@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Fikcja o współrodzicielstwie; adaptacja podcastu."
+    "humanReview": "Ficción sobre la corresponsabilidad parental; adaptación de un pódcast."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "ewtts_glfwg"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Traducción completa al español; sustituye el texto polaco erróneo."
 }

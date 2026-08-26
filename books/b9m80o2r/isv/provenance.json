@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Fikcja o współrodzicielstwie; adaptacja podcastu."
+    "humanReview": "Fikcija o sovmestnom roditeljstvě; adaptacija podkasta."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "ewtts_glfwg"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Import fazy 119."
 }

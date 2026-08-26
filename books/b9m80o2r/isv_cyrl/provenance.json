@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Фикцја о wспółродзициелстwие; адаптацја подцасту."
+    "humanReview": "Фикција о совместном родитељствє; адаптација подкаста."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "ewtts_glfwg"
     }
   ],
-  "revisionNotes": "Пхасе 119 импорт."
+  "revisionNotes": "Импорт фазы 119."
 }
