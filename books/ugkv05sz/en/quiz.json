@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What HOMA result does Kasia have?",
+      "answers": [
+        "2.0",
+        "7.2",
+        "1.5",
+        "12.0"
+      ],
+      "correctIndex": 1,
+      "explanation": "The professor reads aloud: HOMA 7.2."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the professor say about the norm for the HOMA index?",
+      "answers": [
+        "That the norm is below 2",
+        "That there is no established clinical norm",
+        "That the norm is 5",
+        "That the norm depends on age"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says directly: there is no norm for this index."
+    },
+    {
+      "type": "single_choice",
+      "question": "What disease does the professor attribute to Kasia instead of \"insulin resistance\"?",
+      "answers": [
+        "Type 1 diabetes",
+        "Obesity — ICD code E66",
+        "Anaemia",
+        "Depression"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says: you have obesity, code E66 — it's a disease."
+    },
+    {
+      "type": "single_choice",
+      "question": "What medication does the professor prescribe for Kasia?",
+      "answers": [
+        "Metformin",
+        "Ozempic (a GLP-1 analogue)",
+        "Insulin",
+        "Aspirin"
+      ],
+      "correctIndex": 1,
+      "explanation": "The prescription: Ozempic once a week."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia become a year later?",
+      "answers": [
+        "A nurse",
+        "A volunteer in an educational programme for diabetes patients",
+        "A dietitian",
+        "A professor"
+      ],
+      "correctIndex": 1,
+      "explanation": "The professor offers her a volunteer position in the educational programme."
+    }
+  ]
+}

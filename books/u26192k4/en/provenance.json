@@ -1,0 +1,24 @@
+{
+  "packId": "u26192k4:en",
+  "bookId": "u26192k4",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja inspirowana motywem z „Cienia skrzydeł nad oceanem”; nie jest opowieścią o reinkarnacji w sensie katalogu."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eight manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

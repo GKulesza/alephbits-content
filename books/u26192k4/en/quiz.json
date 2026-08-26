@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does the son scream in his nightmare?",
+      "answers": [
+        "\"I want ice cream\"",
+        "\"A crashed plane! It's burning! The little man can't get out!\"",
+        "\"I'm afraid of the dark\"",
+        "\"Where's Mum?\""
+      ],
+      "correctIndex": 1,
+      "explanation": "He repeats the same words every night."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the son play with the planes?",
+      "answers": [
+        "He flies them",
+        "He crashes them — banging one against another",
+        "He collects them",
+        "He paints them"
+      ],
+      "correctIndex": 1,
+      "explanation": "He crashes the toys until the wings fall off."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which three names does the son give?",
+      "answers": [
+        "Adam, Ewa, Noah",
+        "Billy, Walter and Leon",
+        "John, Peter, Paul",
+        "Tom, Dick, Harry"
+      ],
+      "correctIndex": 1,
+      "explanation": "He points at three crashed planes and gives those names."
+    },
+    {
+      "type": "single_choice",
+      "question": "What surnames of pilots does Mark find in the archive?",
+      "answers": [
+        "Smith, Jones, Brown",
+        "Piller, Devlin, Conner",
+        "Kowalski, Nowak, Wiśniewski",
+        "There are no surnames"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list of the fallen: Piller, Devlin, Conner."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the son say in the morning after the last nightmare about Leon?",
+      "answers": [
+        "That Leon died",
+        "\"Yes, Dad. Everyone. They're there.\" — and points at the sky",
+        "That he is afraid of planes",
+        "Nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says everyone came back — they're there, pointing at the sky."
+    }
+  ]
+}

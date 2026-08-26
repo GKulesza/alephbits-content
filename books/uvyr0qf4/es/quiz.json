@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Marcin por la mañana en lugar de trabajar?",
+      "answers": [
+        "Sale a correr",
+        "Juega con el teléfono durante una hora",
+        "Duerme hasta mediodía",
+        "Va a la oficina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coge el teléfono y una hora después está en el nivel cinco de un juego."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué metáfora oye Marcin en el pódcast?",
+      "answers": [
+        "Que la atención es un don",
+        "Que la atención es como un músculo que hay que entrenar",
+        "Que la atención no existe",
+        "Que la atención es un gen"
+      ],
+      "correctIndex": 1,
+      "explanation": "El tipo dice que la atención es como un músculo que hay que ejercitar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marcin como primer punto en el cuaderno?",
+      "answers": [
+        "Comprar café",
+        "Terminar la presentación — empezar por la primera diapositiva",
+        "Llamar al jefe",
+        "Irse a dormir"
+      ],
+      "correctIndex": 1,
+      "explanation": "El primer punto: terminar la presentación, empezar por la primera diapositiva."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué frase recuerda Marcin sobre ponerse a trabajar?",
+      "answers": [
+        "Espera la motivación",
+        "\"Nada, hay que hacerlo.\"",
+        "Hazlo mañana",
+        "Pide ayuda a otro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aprende: ponerse a trabajar tiene este aspecto — nada, hay que hacerlo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo empieza Marcin el trabajo en el epílogo?",
+      "answers": [
+        "Por el final del proyecto",
+        "Por la primera línea",
+        "Por una pausa para el café",
+        "Por un correo al jefe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Empieza no desde el final, sino desde la primera línea."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué enfoque propone Rejewski ante la Enigma?",
+      "answers": [
+        "Entender el funcionamiento del aparato",
+        "Analizar solo los textos",
+        "Esperar a que llegue un ordenador",
+        "Ignorar la documentación"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski dice que hay que entender la máquina — es matemáticas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué debilidad de los alemanes descubre Rejewski?",
+      "answers": [
+        "El orden alfabético en las conexiones",
+        "Las conexiones al azar",
+        "La falta de rotores",
+        "Una sola clave al año"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los diseñadores eligieron el orden alfabético."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué es la bomba criptológica?",
+      "answers": [
+        "Un aparato que simula las Enigmas",
+        "Un arma de fuego",
+        "Un instrumento meteorológico",
+        "Un libro de instrucciones"
+      ],
+      "correctIndex": 0,
+      "explanation": "La bomba simula el funcionamiento de muchas Enigmas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es el protagonista de la historia?",
+      "answers": [
+        "Marian Rejewski",
+        "Alan Turing",
+        "Hitler",
+        "El general Sikorski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski dirige los trabajos para descifrar la Enigma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Rejewski sobre la Enigma al principio?",
+      "answers": [
+        "Es matemáticas, no lenguaje",
+        "Es imposible de descifrar",
+        "Es solo una leyenda",
+        "Es un invento americano"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subraya que hay que pensar matemáticamente."
+    }
+  ]
+}

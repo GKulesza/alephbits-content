@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Adam tell the students about the Third Reich at the beginning of the lecture?",
+      "answers": [
+        "That it had ammunition reserves for six years",
+        "That it feared peace more than war",
+        "That it didn't plan expansion",
+        "That it was ready for a long war"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam says that in 1939 Germany feared not war, but peace."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta discover on Adam's computer?",
+      "answers": [
+        "Lecture notes",
+        "Messages to another woman",
+        "A letter from a student",
+        "A research project"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta says she found his messages \"to... to her\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "How long did Adam's betrayal last, according to his confession?",
+      "answers": [
+        "A year",
+        "Three months",
+        "Six months",
+        "Two weeks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam admits it lasted three months."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Marta compare their marriage to the history of the Third Reich?",
+      "answers": [
+        "To a victory in war",
+        "To a system based on expansion that is afraid to stop",
+        "To peace after a war",
+        "To diplomacy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta says they pretended everything was fine instead of stopping and fixing the problem."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam write to the student in the epilogue about boundaries?",
+      "answers": [
+        "That boundaries are walls",
+        "That boundaries are doors that can be open",
+        "That boundaries should be demolished",
+        "That boundaries don't exist"
+      ],
+      "correctIndex": 1,
+      "explanation": "He replies that boundaries are not walls, but doors for those who know how to knock."
+    }
+  ]
+}

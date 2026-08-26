@@ -1,0 +1,103 @@
+**SILENCIO ANTES DE LA TORMENTA**
+
+Octubre de 1932, Varsovia. En una pequeña habitación polvorienta en la parte trasera del edificio del Estado Mayor en la avenida Ujazdowskie, Marian Rejewski vio la Enigma por primera vez. No la máquina entera, porque esa descansaba a salvo en los cuarteles alemanes, sino su espíritu – la documentación que la inteligencia polaca había conseguido gracias a los colegas franceses, y estos a su vez de un traidor alemán que vendió los secretos del Reich por un puñado de marcos.
+
+Rejewski tenía veintisiete años, recién salido de los estudios de matemáticas en Poznań, y con un curso de criptografía aún más reciente, al que había entrado como uno de los pocos. Era callado, concentrado, con unos ojos que veían más que la mayoría de la gente. Cuando miró los esquemas de la Enigma, sintió que no era solo una máquina. Era un desafío.
+
+– No tiene sentido analizar los textos – dijo a sus colegas, Henryk Zygalski y Jerzy Różycki, que estaban detrás de él. – Tenemos que entender cómo funciona el propio aparato. No es lenguaje, es matemáticas.
+
+Zygalski, que siempre llevaba dentro más escepticismo que entusiasmo, se encogió de hombros.
+
+– La máquina tiene millones de combinaciones. No se pueden comprobar todas.
+
+– No tenemos que comprobarlas todas – respondió Rejewski, desplegando ya sobre la mesa los primeros cálculos. – Tenemos que encontrar su lógica.
+
+Y la encontró. En unas semanas, trabajando de noche a la luz de un candil, Rejewski descubrió la clave de la Enigma – el modo de las conexiones entre el teclado y los rotores. Resultó que los diseñadores alemanes, aunque geniales creando sistemas complicados, eran como la mayoría de la gente – eligieron la solución más simple. El orden alfabético.
+
+– Es imposible – dijo Zygalski, cuando Rejewski le mostró sus resultados.
+
+– Y sin embargo – respondió Rejewski con una sonrisa que no se le daba a menudo. – Los alemanes son sistemáticos. Y esa es su debilidad.
+
+**La bomba criptológica**
+
+Pasaron los años, y la Enigma se volvía cada vez más complicada. Los alemanes introducían protecciones adicionales, cambiaban los ajustes, añadían nuevos rotores. Los criptólogos polacos tenían que idear sin cesar métodos nuevos para seguir el ritmo del enemigo. Así que Rejewski diseñó una máquina que debía acelerar el proceso de descifrado – la "bomba criptológica", un aparato electromecánico que simulaba el funcionamiento de varias Enigmas a la vez y comprobaba automáticamente las combinaciones posibles.
+
+La primera bomba se construyó en 1938. Era grande, pesada, ruidosa – pero funcionaba. En dos horas podía encontrar la clave diaria de la Enigma. Lo que antes les llevaba semanas a los criptólogos era ahora cuestión de dos horas.
+
+– Esto lo cambia todo – dijo Różycki, observando cómo la máquina procesaba una combinación tras otra. – Ahora podemos leer las órdenes alemanas antes de que lleguen a sus propias unidades.
+
+– Si es que mantenemos el ritmo – añadió Zygalski. – Los alemanes no duermen.
+
+Efectivamente, los alemanes ya trabajaban en una versión aún más difícil de la Enigma – con cinco rotores en lugar de tres. Los polacos sabían que sus métodos podían quedar pronto obsoletos. Necesitaban tiempo. Y dinero. Ambos recursos se acababan más rápido de lo que esperaban.
+
+**Julio de 1939, el bosque cerca de Pyry**
+
+La reunión secreta se celebró en una villa en Pyry, cerca de Varsovia. Sobre la mesa había documentos y esquemas, y en un rincón estaban una Enigma reconstruida y la "bomba" polaca. Frente a los matemáticos polacos estaban sentados criptólogos británicos y franceses.
+
+La cara de Alistair Denniston, el jefe de la sección criptográfica británica, estaba gris de impresión. Durante años los británicos habían intentado descifrar la Enigma sin mucho éxito. Y ahora tres polacos les mostraban una solución ya hecha.
+
+– ¿Cómo es posible? – preguntó Denniston, examinando la bomba. – ¿Cómo lo han conseguido?
+
+– Matemáticas – respondió Rejewski. – Y un poco de suerte.
+
+– Y la sistematicidad alemana – añadió Zygalski.
+
+Denniston asintió. Sabía que lo que estaba viendo lo cambiaba todo. Los polacos les entregaron todo – documentos, métodos, máquinas. Y eso en vísperas de la guerra.
+
+– Van a necesitarlo – dijo Rejewski. – Los alemanes atacarán pronto.
+
+Denniston lo miró. En sus ojos había una pregunta que nunca llegó a formularse: "¿Y vosotros?".
+
+Rejewski respondió antes de que se formulara:
+
+– Nosotros nos quedamos. Lucharemos. Pero vosotros tenéis que continuar lo que empezamos.
+
+**Bletchley Park, 1940**
+
+Mientras las bombas caían sobre Londres y los submarinos alemanes sembraban el terror en el Atlántico, en la finca de Bletchley Park, a unos ochenta kilómetros al norte de la capital, se libraba una guerra silenciosa. En los edificios que un día habían sido caballerizas y salones de baile trabajaban ahora miles de personas. Matemáticos, lingüistas, ingenieros, y también mujeres – que en aquellos tiempos no aparecían a menudo en puestos de tanta responsabilidad.
+
+Alan Turing era uno de ellos. Tenía treinta y un años, una mata de pelo indomable y un trato que hacía que algunos lo consideraran un excéntrico. Otros – un genio. Y unos y otros tenían razón.
+
+Turing no empezó de cero. Cuando llegó a Bletchley Park ya tenía los conocimientos que los polacos habían entregado a los británicos un año antes. Sabía cómo funcionaba la Enigma, conocía los métodos polacos, había visto la bomba. Pero sabía también que no bastaba. Los alemanes cambiaban los ajustes cada día, y la guerra exigía respuestas en tiempo real.
+
+– Necesitamos algo más rápido – dijo a su equipo. – Algo que pruebe las combinaciones automáticamente, sin intervención humana.
+
+Empezó a diseñar una máquina que debía hacer lo que hacía la bomba polaca, pero más rápido y con más eficacia. Usó las ideas de Rejewski, pero les añadió las suyas – una lógica matemática que permitía eliminar grupos enteros de ajustes de una vez.
+
+– Esto no es solo una máquina de descifrar – dijo a sus compañeros. – Es el prototipo de un ordenador. Una máquina que piensa.
+
+Algunos lo miraban con incredulidad. Pero cuando la primera "Bombe" – así se llamó su máquina – empezó a funcionar, todas las dudas desaparecieron. En unos quince minutos encontraba ajustes de la Enigma que a mano les habrían llevado días a los criptólogos.
+
+**El error que salvó millones**
+
+El secreto del éxito no fueron solo las máquinas, sino también los errores humanos. Los operadores alemanes de la Enigma, aunque entrenados para ser perfeccionistas, eran como cualquier persona – cansados, distraídos, a veces perezosos. Su debilidad resultó ser la costumbre de las frases repetitivas. "Heil Hitler" al principio del parte. "Keine besonderen Ereignisse" – "sin novedades" – al final. Esos fragmentos previsibles del texto daban a los criptólogos un punto de anclaje.
+
+Pero lo que más les ayudó fue un procedimiento que debía aumentar la seguridad. Cada operador tenía que teclear la clave del mensaje tres veces al principio de la transmisión. Esa repetición, pensada para evitar errores de transmisión, se convirtió en el mayor error.
+
+– Ellos mismos nos dieron la llave de su secreto – dijo una vez Turing a su equipo. – Repiten el mismo patrón, así que nosotros lo reconocemos. Es como si dejaran la puerta abierta.
+
+Gracias a esta y otras debilidades, Bletchley Park se convirtió en el corazón de la inteligencia aliada. Cada día se descifraban miles de mensajes alemanes que se transmitían a los mandos en los frentes. Información sobre los movimientos de los submarinos, los ataques planeados, los suministros – todo llegaba a los aliados antes de que los mandos alemanes tuvieran tiempo de usarla.
+
+**El precio de la victoria**
+
+La guerra terminó. Alemania se rindió, y Europa empezó a levantarse de las ruinas. Pero para Alan Turing el final de la guerra no significó el final de sus problemas. Su trabajo en Bletchley Park siguió siendo un secreto – solo unas decenas de personas lo conocían, y él mismo no podía contarle a nadie lo que había logrado.
+
+En 1952, cuando el mundo iba olvidando poco a poco la guerra, Turing fue acusado de homosexualidad – en aquella época un delito en Gran Bretaña. Le dieron a elegir: la cárcel o la castración química. Eligió lo segundo, pero el precio fue terrible. Perdió el sentido de sí mismo, su identidad y, al final – las ganas de vivir.
+
+El 7 de junio de 1954 murió Alan Turing. Lo encontraron en su casa, junto a él una manzana mordida empapada en cianuro. Tenía cuarenta y un años.
+
+Solo muchos años después se empezó a valorar su contribución. En 2009 el primer ministro británico Gordon Brown pidió perdón por el trato que se le había dado a Turing. En 2013 la reina Isabel II lo indultó. Hoy su nombre es sinónimo de genio, pero también simboliza la injusticia que un individuo puede sufrir a manos del sistema.
+
+**Lo que queda**
+
+Marian Rejewski, Henryk Zygalski y Jerzy Różycki nunca alcanzaron la fama de Turing. Tras la guerra Rejewski volvió a Polonia, donde trabajó como un contable corriente. Nunca habló de su trabajo bélico. Zygalski emigró a Gran Bretaña, donde murió en el olvido. Różycki murió en 1942 en el naufragio de un barco frente a las costas de Argelia.
+
+Pero su contribución a la victoria aliada fue incalculable. Fueron los primeros que miraron la Enigma no como un acertijo lingüístico, sino como un problema matemático. Fueron los primeros que construyeron las herramientas que permitieron descifrarla. Fueron ellos quienes entregaron sus conocimientos a los británicos en el momento en que ellos mismos estaban al borde del abismo.
+
+De no haber sido por los matemáticos polacos, la guerra podría haber durado dos, tres o quizá cuatro años más. Se habrían perdido millones de vidas más. Lo que hicieron cambió el curso de la historia – aunque durante muchos años su papel permaneció en la sombra.
+
+Hoy, en Bletchley Park, hay un monumento dedicado a los criptólogos polacos. No es grande. No es imponente. Pero está. Y en él figuran tres nombres: Rejewski, Zygalski, Różycki.
+
+Y debajo – una inscripción que lo dice todo: "Aquí empezó la historia de la victoria".
+
+**FIN**

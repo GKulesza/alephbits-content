@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué grita el hijo en su pesadilla?",
+      "answers": [
+        "\"Quiero helado\"",
+        "\"¡Un avión estrellado! ¡Arde! ¡El hombrecito no puede salir!\"",
+        "\"Tengo miedo de la oscuridad\"",
+        "\"¿Dónde está mamá?\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite las mismas palabras cada noche."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo juega el hijo con los aviones?",
+      "answers": [
+        "Los hace volar",
+        "Los estrella — golpeándolos uno contra otro",
+        "Los colecciona",
+        "Los pinta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Estrella los juguetes hasta que se caen las alas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué tres nombres pronuncia el hijo?",
+      "answers": [
+        "Adán, Eva, Noé",
+        "Billy, Walter y Leon",
+        "Juan, Pedro, Pablo",
+        "Tom, Dick, Harry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Señala tres aviones estrellados y da esos nombres."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué apellidos de pilotos encuentra Marek en el archivo?",
+      "answers": [
+        "Smith, Jones, Brown",
+        "Piller, Devlin, Conner",
+        "Kowalski, Nowak, Wiśniewski",
+        "No hay apellidos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La lista de los caídos: Piller, Devlin, Conner."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el hijo por la mañana tras la última pesadilla sobre Leon?",
+      "answers": [
+        "Que Leon murió",
+        "\"Sí, papá. Todos. Están allí.\" — y señala el cielo",
+        "Que tiene miedo de los aviones",
+        "Nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que todos volvieron — están allí, señalando el cielo."
+    }
+  ]
+}

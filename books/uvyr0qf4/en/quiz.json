@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Marcin do in the morning instead of working?",
+      "answers": [
+        "He goes running",
+        "He plays on his phone for an hour",
+        "He sleeps until noon",
+        "He goes to the office"
+      ],
+      "correctIndex": 1,
+      "explanation": "He reaches for his phone and an hour later he's on level five of a game."
+    },
+    {
+      "type": "single_choice",
+      "question": "What metaphor does Marcin hear on the podcast?",
+      "answers": [
+        "That attention is a gift",
+        "That attention is like a muscle that has to be trained",
+        "That attention doesn't exist",
+        "That attention is a gene"
+      ],
+      "correctIndex": 1,
+      "explanation": "The guy says attention is like a muscle to be exercised."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marcin write as the first item in his notebook?",
+      "answers": [
+        "Buy coffee",
+        "Finish the presentation — start with the first slide",
+        "Call the boss",
+        "Go to sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first item: finish the presentation, start with the first slide."
+    },
+    {
+      "type": "single_choice",
+      "question": "What sentence does Marcin remember about getting down to work?",
+      "answers": [
+        "Wait for motivation",
+        "\"Well, it just has to be done.\"",
+        "Do it tomorrow",
+        "Ask someone else"
+      ],
+      "correctIndex": 1,
+      "explanation": "He learns: getting down to work looks like this — well, it just has to be done."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Marcin start work in the epilogue?",
+      "answers": [
+        "From the end of the project",
+        "From the first line",
+        "From a coffee break",
+        "From an email to the boss"
+      ],
+      "correctIndex": 1,
+      "explanation": "He starts not from the end, but from the first line."
+    }
+  ]
+}

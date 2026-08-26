@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Adam a los estudiantes sobre el Tercer Reich al principio de la conferencia?",
+      "answers": [
+        "Que tenía reservas de munición para seis años",
+        "Que tenía más miedo de la paz que de la guerra",
+        "Que no planeaba la expansión",
+        "Que estaba preparado para una guerra larga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam dice que en 1939 Alemania no temía a la guerra, sino a la paz."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubre Marta en el ordenador de Adam?",
+      "answers": [
+        "Notas para la conferencia",
+        "Mensajes a otra mujer",
+        "Una carta de un estudiante",
+        "Un proyecto de investigación"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta dice que ha encontrado sus mensajes \"a... a ella\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto duró la infidelidad de Adam según su confesión?",
+      "answers": [
+        "Un año",
+        "Tres meses",
+        "Seis meses",
+        "Dos semanas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam admite que duró tres meses."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo compara Marta su matrimonio con la historia del Tercer Reich?",
+      "answers": [
+        "Con una victoria en la guerra",
+        "Con un sistema basado en la expansión que teme detenerse",
+        "Con la paz tras la guerra",
+        "Con la diplomacia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta dice que fingían que todo estaba bien en lugar de detenerse y arreglar el problema."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le escribe Adam al estudiante en el epílogo sobre los límites?",
+      "answers": [
+        "Que los límites son muros",
+        "Que los límites son puertas que pueden estar abiertas",
+        "Que los límites deben derribarse",
+        "Que los límites no existen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responde que los límites no son muros, sino puertas para quienes saben llamar."
+    }
+  ]
+}

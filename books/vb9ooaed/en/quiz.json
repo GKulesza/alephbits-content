@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What approach to the Enigma does Rejewski propose?",
+      "answers": [
+        "To understand how the device works",
+        "To analyse only the texts",
+        "To wait for a computer",
+        "To ignore the documentation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski says you have to understand the machine — it's mathematics."
+    },
+    {
+      "type": "single_choice",
+      "question": "What weakness of the Germans does Rejewski discover?",
+      "answers": [
+        "Alphabetical order in the connections",
+        "Random connections",
+        "No rotors",
+        "One key per year"
+      ],
+      "correctIndex": 0,
+      "explanation": "The designers chose alphabetical order."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the cryptologic bomb?",
+      "answers": [
+        "A device that simulates Enigmas",
+        "A firearm",
+        "A weather instrument",
+        "An instruction book"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bomb simulates the operation of many Enigmas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is the main character of the story?",
+      "answers": [
+        "Marian Rejewski",
+        "Alan Turing",
+        "Hitler",
+        "General Sikorski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski leads the work on breaking the Enigma."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Rejewski say about the Enigma at the beginning?",
+      "answers": [
+        "It's mathematics, not language",
+        "It's impossible to break",
+        "It's only a legend",
+        "It's an American invention"
+      ],
+      "correctIndex": 0,
+      "explanation": "He stresses that you have to think mathematically."
+    }
+  ]
+}

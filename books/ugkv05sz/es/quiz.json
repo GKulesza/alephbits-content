@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué resultado de HOMA tiene Kasia?",
+      "answers": [
+        "2,0",
+        "7,2",
+        "1,5",
+        "12,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "El profesor lee en voz alta: HOMA 7,2."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el profesor sobre la norma del índice HOMA?",
+      "answers": [
+        "Que la norma es inferior a 2",
+        "Que no existe una norma clínica establecida",
+        "Que la norma es 5",
+        "Que la norma depende de la edad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice directamente: no hay norma para este índice."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué enfermedad atribuye el profesor a Kasia en lugar de \"resistencia a la insulina\"?",
+      "answers": [
+        "Diabetes tipo 1",
+        "Obesidad — código CIE E66",
+        "Anemia",
+        "Depresión"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: usted tiene obesidad, código E66 — es una enfermedad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué medicamento le receta el profesor a Kasia?",
+      "answers": [
+        "Metformina",
+        "Ozempic (un análogo de GLP-1)",
+        "Insulina",
+        "Aspirina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La receta: Ozempic una vez a la semana."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué se convierte Kasia un año después?",
+      "answers": [
+        "Enfermera",
+        "Voluntaria en un programa educativo para pacientes con diabetes",
+        "Dietista",
+        "Profesora"
+      ],
+      "correctIndex": 1,
+      "explanation": "El profesor le propone el voluntariado en el programa educativo."
+    }
+  ]
+}
