@@ -1,0 +1,127 @@
+{
+  "id": "dkyayq3s:es",
+  "bookId": "dkyayq3s",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_czarny_rynek_tokenow",
+  "legacySlug": "czarny-rynek-tokenow",
+  "title": "El mercado negro de tokens",
+  "language": "es",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-09",
+  "description": "Adam, ingeniero de sistemas en la nube, encuentra en los registros una huella que no debería estar. Tras la fachada de las API legales se esconde un mercado de claves y tokens de inteligencia artificial. Cuanto más se adentra en el negocio, más claro ve que el precio del «acceso barato» también atañe a su propio trabajo y a su responsabilidad.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "ai",
+    "api",
+    "security",
+    "openai",
+    "black-market"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 6,
+  "translation": "Traducción al español del pack de lectura polaco \"Czarny rynek tokenów\" — edición oficial de Collection Three.",
+  "text": "**EL MERCADO NEGRO DE TOKENS**\n\nAdam Kowalski era programador. No brillante, no genio: simplemente bueno y sólido, de los que saben convertir un problema en código, y el código en una solución. Trabajaba a distancia para una startup de Silicon Valley, ganaba un buen dinero y creía entender de seguridad. Después de todo, usaba un gestor de contraseñas, tenía verificación en dos pasos y nunca hacía clic en enlaces sospechosos.\n\nPero lo que hizo un martes por la noche lo destruyó todo lo que había construido.\n\nFue estúpido. Tan estúpido que hasta hoy no podía creer que lo hubiera hecho. Trabajaba en un proyecto que usaba la API de OpenAI. Necesitaba probar algo rápidamente en producción, y su clave de desarrollador solo funcionaba en el entorno de pruebas. Sin pensarlo, copió la clave API a un archivo de configuración y, luego, por accidente, la subió a un repositorio público de GitHub.\n\nNo lo notó. Nadie lo notó. Durante tres días.\n\nY entonces llegó la primera notificación de OpenAI: «Se ha detectado actividad inusual en tu cuenta. Tu consumo de tokens ha aumentado un 3400 % en las últimas 24 horas».\n\nAdam miró la pantalla y sintió que la sangre se le iba de la cara. Alguien había robado su clave API. Alguien la usaba para generar respuestas, para entrenar modelos, para crear contenido. Alguien — o más bien, muchos alguien — usaba su cuenta, su dinero, su crédito.\n\nY no tenía ni idea de quién era. No tenía ni idea de cómo había ocurrido. Y no tenía ni idea de cómo detenerlo.\n\n**La investigación**\n\nAdam pasó las horas siguientes revisando los registros. Vio miles de peticiones: de China, de Rusia, de Brasil, de India. Cada una le costaba una fracción de céntimo, pero juntas sumaban una cantidad que superaba su salario mensual.\n\nBloqueó la clave. Cambió las contraseñas. Activó todas las medidas de seguridad posibles. Pero sabía que no era suficiente. Alguien ya tenía sus datos. Y alguien ya se estaba beneficiando de su error.\n\nEmpezó a buscar respuestas. Llegó a foros donde la gente vendía acceso a «tokens de IA baratos». Vio ofertas que parecían imposibles: acceso a los modelos de IA más potentes por el 10 % del precio oficial. Comprendió que no eran ofertas legales. Aquello era un mercado negro.\n\n— Estaciones de paso — murmuró para sí, leyendo uno de los mensajes. — Intermediarios. Alguien usa mi clave para vender acceso a otros.\n\nEmpezó a indagar. Aprendió cómo funcionaba aquel negocio. Alguien — un estafador, un hacker, un emprendedor — registra miles de cuentas en plataformas de IA, aprovechando las promociones para nuevos usuarios, las tarjetas de crédito robadas, incluso las claves API robadas. Luego vende el acceso a esas cuentas por una fracción del precio. Los usuarios de países donde los servicios oficiales están bloqueados aprovechan encantados esas ofertas. Y los intermediarios ganan con la diferencia.\n\nAdam comprendió que su clave API había ido a parar a ese sistema. Que alguien, en algún lugar del mundo, usaba su cuenta para generar respuestas para usuarios que no podían permitirse la suscripción oficial. Y que él — Adam — pagaba por todo aquello.\n\n**La madriguera del conejo**\n\nCuanto más se adentraba en el tema, más le fascinaba lo astutamente que estaba construido todo el sistema. Los estafadores usaban direcciones de correo temporales para crear miles de cuentas. Sortaban los captcha contratando a gente de países pobres para teclear los códigos a mano. Usaban la huella del navegador para evitar ser detectados. Usaban números de teléfono virtuales para la verificación por SMS. Y todo estaba automatizado: los scripts creaban cuentas en cuestión de segundos, sin intervención humana.\n\nAdam leyó sobre cómo funcionaban los proxies residenciales. Empresas que utilizaban las conexiones de usuarios corrientes para enmascarar su tráfico. Alguien instalaba una aplicación gratuita sin leer las condiciones, y de pronto su ordenador pasaba a formar parte de una red de bots. Y no lo sabía. Nadie lo sabía.\n\n— Si algo es ridículamente barato o gratis, lo más probable es que tú y tus datos seáis el producto — se dijo Adam, citando unas palabras que había oído una vez en una conferencia.\n\nY entonces comprendió que aquello no era solo un problema con su clave API. Era un problema de todo el sistema. Que en internet nada es gratis. Que siempre hay alguien que paga por algo. Y que a menudo ese «alguien» son personas corrientes que ni siquiera saben que forman parte del juego.\n\n**El encuentro**\n\nUnos días después, Adam encontró en un foro un mensaje de alguien que ofrecía ayuda para proteger cuentas de API. Era un joven chino llamado Li Wei. Vivía en Shanghái y llevaba años luchando contra las restricciones geográficas. No podía usar los modelos de IA estadounidenses, así que buscaba alternativas. Y entonces dio con el mercado negro.\n\n— No sabía que era tu clave — escribió Li Wei en un mensaje privado. — Compré el acceso a un intermediario. Creía que era legal. Lo siento.\n\nAdam miró la pantalla. Durante un momento sintió rabia. Luego la rabia dio paso a la comprensión.\n\n— No tienes por qué disculparte — respondió. — No es culpa tuya. El sistema está roto.\n\nLi Wei le contó su historia. Vivía en Shanghái, trabajaba como programador, pero no tenía acceso a las herramientas occidentales. Los servicios oficiales estaban bloqueados para él, y las VPN eran lentas y caras. El mercado negro era su única forma de acceder a la tecnología que necesitaba para trabajar.\n\n— Sé que es ilegal — escribió. — Pero no tengo elección. Quiero crecer, quiero crear, quiero formar parte de la comunidad global. Y ellos me lo ponen difícil.\n\nAdam leyó esas palabras y sintió que algo se quebraba en su interior. Comprendió que el problema no era blanco y negro. Que detrás de cada token ilegal hay una persona que simplemente quiere acceso a herramientas que están cambiando el mundo.\n\n— No te justifico — respondió. — Pero te entiendo.\n\n**Un nuevo comienzo**\n\nAdam no recuperó el dinero que había perdido. OpenAI le cobró los costes, y la empresa para la que trabajaba no quiso cubrir las pérdidas. Pero Adam aprendió algo importante.\n\nAprendió que la seguridad no son solo contraseñas y verificación en dos pasos. Es también la conciencia de que en internet nada es gratis. De que si algo parece demasiado bueno para ser verdad, probablemente lo es. Y de que cualquiera de nosotros puede convertirse en víctima: no solo por su propia estupidez, sino por un sistema que lo permite.\n\nDejó de usar repositorios públicos para guardar claves API. Empezó a usar un gestor de secretos. Activó la supervisión de la actividad en sus cuentas. Y empezó a educar a otros programadores para que no cometieran el mismo error.\n\nA veces pensaba en Li Wei. En el joven chino que quería crecer, pero tenía que saltarse las reglas para tener acceso a ello. Y se preguntaba cuántas personas así había en el mundo. Cuánto talento se desperdicia por la burocracia, las restricciones geográficas y los sistemas inflexibles.\n\nQuizá algún día eso cambie. Quizá algún día la tecnología esté al alcance de todos, vivan donde vivan. Pero por ahora, Adam sabía que el mercado negro existiría. Que siempre habría gente que quisiera sortear el sistema. Y que siempre habría gente que pagara el precio por ello.\n\nAdam cerró el portátil. Miró la pantalla, donde seguía brillando la notificación de OpenAI. Sabía que aquello no era el final. Que tarde o temprano alguien volvería a intentar engañarlo. Pero esta vez estaba preparado.\n\nPorque en internet, como en la vida, no importa solo cómo te defiendes. También importa lo que aprendiste cuando te atacaron.\n\n**FIN**",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿Qué error desencadena la crisis de Adam?",
+        "answers": [
+          "Comparte su contraseña del banco en Slack",
+          "Sube una clave API a un repositorio público de GitHub",
+          "Compra una cuenta en el mercado negro",
+          "Desactiva la verificación en dos pasos"
+        ],
+        "correctIndex": 1,
+        "explanation": "La filtración de la clave API a un repositorio público es la causa directa del abuso."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué descubre Adam al analizar el consumo inusual de tokens?",
+        "answers": [
+          "Que OpenAI le facturó mal",
+          "Que su clave había ido a parar a un sistema de intermediarios que venden acceso barato",
+          "Que la empresa probaba modelos nuevos",
+          "Que un compañero usaba su cuenta"
+        ],
+        "correctIndex": 1,
+        "explanation": "En los foros encuentra ofertas de tokens baratos y entiende el mecanismo de los intermediarios."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué papel desempeñan los proxies residenciales en el negocio descrito?",
+        "answers": [
+          "Sirven únicamente para el alojamiento legal",
+          "Ayudan a ocultar el tráfico usando las conexiones de usuarios corrientes",
+          "Aceleran el entrenamiento de los modelos",
+          "Bloquean el spam en los foros"
+        ],
+        "correctIndex": 1,
+        "explanation": "El texto los describe como una forma de enmascarar el tráfico mediante la infraestructura de personas corrientes."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Por qué la conversación con Li Wei cambia la forma de pensar de Adam?",
+        "answers": [
+          "Porque Li Wei le devuelve todo el dinero",
+          "Porque le muestra el lado humano del mercado ilegal y el problema de las barreras de acceso",
+          "Porque resulta ser policía",
+          "Porque le propone una startup conjunta"
+        ],
+        "correctIndex": 1,
+        "explanation": "Adam empieza a ver no solo el fraude, sino también a las personas expulsadas del acceso legal."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué lección práctica saca Adam de toda la historia?",
+        "answers": [
+          "Hay que dejar de usar API",
+          "La seguridad exige tanto herramientas como conciencia de las amenazas sistémicas",
+          "Lo mejor es trabajar solo sin conexión",
+          "No usar nunca GitHub"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pasa a un gestor de secretos, a la supervisión y a educar a otros programadores."
+      }
+    ]
+  },
+  "coverFamily": "article",
+  "audience": "adult",
+  "subtitle": "API, filtraciones y la geopolítica del acceso",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-07-09"
+  },
+  "inspirationDates": [
+    "2026-07-05"
+  ],
+  "inspiredBy": {
+    "youtube": "drFd3x2Qh1Y"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "town",
+      "shop"
+    ]
+  }
+}

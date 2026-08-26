@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto tiempo llevan juntos Ewa y Marek?",
+      "answers": [
+        "Diez años",
+        "Veinticinco años",
+        "Cuarenta años",
+        "Cinco años"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa dice que se conocen desde hace veinticinco años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué oye Ewa en el podcast sobre el «guion incorporado»?",
+      "answers": [
+        "Que la gente nunca miente",
+        "Que cuando alguien te engaña, pensamos: «Dios me ha encontrado»",
+        "Que el matrimonio es fácil",
+        "Que el divorcio es la única salida"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miłosz habla del guion: estafador = «Dios me ha encontrado»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pensaba Ewa cuando Marek le cocinaba su plato favorito?",
+      "answers": [
+        "Que le está agradecida",
+        "Que había hecho algo mal y quería pedir perdón",
+        "Que le pasa algo",
+        "Que la quiere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durante años pensó que cocinaba porque había hecho algo mal."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué propone Marek en lugar de adivinar?",
+      "answers": [
+        "Callarse",
+        "Aceptar que no sabemos y preguntar",
+        "Escribir cartas",
+        "El divorcio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: aceptar que no sabemos y preguntar «¿por qué?»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le escribe Ewa a su hermana en la carta?",
+      "answers": [
+        "Que su matrimonio es perfecto",
+        "Que el mayor error fue pensar que conocía a su marido a la perfección",
+        "Que el divorcio es necesario",
+        "Que el podcast no la ayudó en absoluto"
+      ],
+      "correctIndex": 1,
+      "explanation": "La carta advierte contra pensar que conoce a su marido a la perfección."
+    }
+  ]
+}

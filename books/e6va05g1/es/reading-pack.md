@@ -1,0 +1,342 @@
+# La llave de la tierra de la lluvia
+
+## Metadata
+
+**Pack ID:** e6va05g1
+**Book ID:** e6va05g1
+**Legacy Pack ID:** polish_klucz_do_deszczowej_krainy
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** La llave de la tierra de la lluvia  
+**Subtitle:** Zosia, la abuela y el castillo de Kropeia  
+**Blurb:** Zosia, de nueve años, atraviesa tres tierras mágicas con la llavecita de su abuela para despertar a la Reina de la Lluvia, Kropeia, que está congelada, y salvar el jardín seco de su madre.
+
+**Genres:** fairy_tale, short_story  
+**Series:** Collection Eleven  
+**Audience:** children_8_12
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Klucz do deszczowej krainy" — edición oficial de Collection Eleven.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** bajka, susza, magia, Collection Eleven  
+
+**Keywords:** Klucz do deszczowej krainy, Zosia, Kropeia  
+
+**Cover family:** legends
+
+
+**Motifs:**
+- key
+- rain
+- journey
+- grandmother
+- courage
+- wonder
+
+**Editorial notes:** Wariant tej samej baśni co „Klucz babci Rózi” (Lena, inne imię bohaterki); ta sama struktura trzech domków i Królowej Deszczu.
+
+**Inspiration:** Manuskrypt Collection Eleven; YouTube 55rrx4XtY8g (06.01.2022); YouTube 55rrx4XtY8g (2022-01-06).
+
+---
+
+**World:**
+- objects: key
+- places: forest
+- plants: flower
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 06.01.2022 -> https://www.youtube.com/watch?v=55rrx4XtY8g  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Polish prose correction (object consistency, grammar) and quiz correction (answer option grammar) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Dobra bajka, lecz near-duplicate — słabsza pozycja na półce obok „Klucz babci Rózi”. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eleven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=55rrx4XtY8g  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2022-01-06  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**LA LLAVE DE LA TIERRA DE LA LLUVIA**
+
+Zosia tenía nueve años y vivía en una casita al borde de un gran bosque. Su madre era jardinera, y su padre trabajaba en el molino de los alrededores. Zosia adoraba las flores que crecían en el jardín de su madre, y le encantaba escuchar los cuentos de su abuela, una señora mayor de pelo plateado y ojos como dos lagos azules.
+
+La abuela siempre tenía tiempo para Zosia. Le enseñaba a reconocer los pájaros por su canto, a nombrar las nubes del cielo y a escuchar lo que susurra el viento. Y por las noches, cuando se encendían las primeras estrellas en el cielo, le contaba historias de tierras encantadas, de reinas de la lluvia y de flores que cantaban en las noches de luna.
+
+Un verano cayó sobre los campos una gran sequía. El sol abrasaba sin piedad, la tierra se agrietaba, y las flores del jardín de mamá empezaron a marchitarse. Papá volvía del molino preocupado, diciendo que en el arroyo había cada vez menos agua.
+
+Zosia estaba muy preocupada. Caminaba triste por el jardín, acariciaba las hojas marchitas e intentaba regarlas, pero el cubo de agua desaparecía en la tierra agrietada en un abrir y cerrar de ojos.
+
+Una tarde, cuando el sol empezaba a esconderse tras el bosque, su abuela la llamó.
+
+– Zosia, ven un momento – dijo con voz misteriosa.
+
+La niña corrió hacia su abuela, que estaba sentada en su butaca favorita junto a la ventana. En el regazo tenía un libro viejo, encuadernado en cuero.
+
+– Abuela, ¿qué libro es ese? – preguntó Zosia, sentándose en la alfombra a sus pies.
+
+– Este no es un libro corriente – respondió la abuela con una sonrisa. – Es una llave a otro mundo.
+
+Abrió el libro por la primera página, y Zosia vio un mapa precioso y pintado de una tierra llena de bosques, montañas y ríos. En el mismo centro del mapa había un castillo que brillaba como una perla a la luz de la luna.
+
+– ¿Ves ese castillo? – preguntó la abuela.
+
+– Sí, abuela. ¡Qué bonito es!
+
+– Es el castillo de la Reina de la Lluvia. Se llama Kropeia. Si pudiéramos encontrarla, le pediríamos lluvia para nuestra tierra.
+
+– ¿Y cómo podemos encontrarla? – preguntó Zosia con esperanza en la voz.
+
+La abuela cerró el libro y sacó del bolsillo del delantal una llavecita de plata.
+
+– Esta llave abre la puerta del sendero encantado. Pero el viaje no será fácil. Tendrás que atravesar tres tierras y adivinar los acertijos que encuentres por el camino. Recuerda, Zosia: escucha con el corazón y encontrarás las respuestas.
+
+– ¡Iré, abuela! ¡Tengo que ayudar!
+
+La abuela sonrió y asintió. Se levantó, se acercó a la vieja puerta del rincón de la habitación, que siempre había estado cerrada, y metió la llave en la cerradura. La puerta se abrió, y ante Zosia apareció un sendero flanqueado de flores que se adentraba en el bosque encantado.
+
+– Buena suerte, querida – susurró la abuela. – Y recuerda que en ti también vive la magia.
+
+Zosia respiró hondo y entró en el sendero.
+
+---
+La primera tierra era toda de color dorado y naranja. En lugar de árboles crecían allí setas gigantes, y la hierba era suave como el terciopelo. Al final del sendero había una casa que parecía una calabaza enorme. Delante de la casa había un guardián: una criaturita verde con antenas y ojos grandes.
+
+– ¡Bienvenida, viajera! – gritó la criatura. – Si quieres atravesar mi tierra, tienes que cantarme una canción. Solo esa canción abrirá la puerta de la casa calabaza.
+
+Zosia recordó las palabras que le había enseñado su abuela y cantó:
+
+_Plis, plis, plis, abre la puerta, por favor, que a la Reina de la Lluvia irá más cerca mi voz._
+
+La puerta de la casa se abrió con un suave chirrido, y Zosia entró.
+
+Dentro hacía calor y se estaba acogedor. En las estanterías había tarros llenos de miel, y sobre la mesa, pan y queso que olían delicioso. En el rincón de la habitación había una señora mayor con gafas que removía algo en un gran caldero.
+
+– ¡Buenos días, niña! – dijo. – Noto que traes el olor del bosque. ¿Estás lista para un acertijo?
+
+Zosia asintió.
+
+La señora mayor le vendó los ojos con un pañuelo y le dio tres frutas. Zosia las tocó, las olió y las probó. La primera era dulce y olía a vacaciones: era un plátano. La segunda era pesada, dura y jugosa: una sandía. La tercera era pequeña, redonda y dulce: una uva.
+
+– ¡Bravo, Zosia! – exclamó la señora mayor. – Eres más lista de lo que crees.
+
+Le dio a Zosia un trozo de tarta de manzana fragante para el camino y le señaló la puerta que llevaba a la segunda tierra.
+
+---
+La segunda tierra era verde y salvaje. Los árboles eran tan frondosos que la luz apenas se filtraba entre ellos. En las ramas había loros de colores, y entre los arbustos corrían conejitos pequeños y peludos. Al final del sendero había una casita cubierta de hiedra silvestre, y delante vigilaba un guardián: un perro grande y apacible.
+
+Zosia cantó la canción, la puerta se abrió, y dentro la esperaba una extraña mariposa que hablaba. Se posó en un sillón dorado y dijo:
+
+– Bienvenida, Zosia. Tengo tres acertijos sonoros para ti. ¿Estás lista?
+
+Zosia asintió.
+
+El primer sonido: _¡quiquiriquí!_
+
+– ¡Un gallo! – exclamó Zosia.
+
+El segundo sonido: _¡muuu!_
+
+– ¡Una vaca!
+
+El tercer sonido: _¡cri-cri-cri!_
+
+Zosia sonrió.
+
+– Grillos. En verano los escuchamos en el jardín con la abuela.
+
+La mariposa batió las alas.
+
+– ¡Eres muy observadora! – dijo. – Aquí tienes tu recompensa.
+
+Le dio una capa blanca y calentita con capucha y un collar con las palabras «Amigos para siempre».
+
+– Dale esto a tu abuela – susurró. – Dile que un viejo amigo aún se acuerda de ella.
+
+---
+La tercera tierra era blanca y fría. Nevaba, y en el aire flotaban los sonidos de una música mágica. La casa del final del camino era toda de nieve y hielo, y el guardián era un tambor alto, que se puso a bailar cuando Zosia cantó.
+
+Dentro reinaba un frío mágico, pero la nieve era cálida al tacto. Junto a un arpa estaba sentada una mujer hermosa de larga cabellera plateada.
+
+– Bienvenida, Zosia – dijo. – Tu abuela me ha hablado de ti. Tienes dos tareas por delante.
+
+La primera tarea: repetir el ritmo. Zosia dio palmadas cuando la mujer tocó el arpa. Le salió perfecto.
+
+La segunda tarea: tocar en una flauta de plata la melodía que lleva el calor. Zosia se concentró y tocó, y las notas se esparcieron por toda la casa, derritiendo el hielo.
+
+– Estás lista para conocer a la Reina – dijo la mujer. – Pero recuerda: el vestido de Kropeia está congelado. Tienes que descongelarlo con tu melodía.
+
+---
+Zosia cruzó en una barca un gran lago hasta el castillo de la lluvia. Dentro encontró a la Reina Kropeia, inmóvil, atada por un vestido de hielo.
+
+– ¡Ayúdame! – suplicó la Reina.
+
+Zosia sacó la flauta y tocó la melodía del calor. El vestido se derritió, y Kropeia sonrió.
+
+– ¡Gracias, niña valiente! – exclamó. – Ahora yo te ayudaré a ti.
+
+Saltaron sobre una nube y volaron sobre la tierra seca. Kropeia cantó la canción de la lluvia, y de las nubes cayó una lluvia abundante. La tierra volvió a la vida, las flores alzaron la cabeza, y en el jardín de mamá brotaron capullos nuevos.
+
+---
+Cuando Zosia volvió a casa, su abuela la esperaba con los brazos abiertos.
+
+– ¡Lo has conseguido, querida! – dijo, abrazando a su nieta.
+
+Zosia entregó a su abuela el collar y la flauta, le contó lo de la mariposa y lo de la hermosa mujer del arpa. La abuela se rió en voz baja.
+
+– ¿Ves, Zosia? – dijo. – El mundo está lleno de magia, si sabemos verla. Y tú, querida, llevas dentro la mayor magia de todas: un buen corazón.
+
+Desde aquel día, Zosia supo que en cada uno de nosotros se esconde un héroe. A veces basta con abrir una puerta que parece cerrada y confiar en tu propio corazón. Porque la magia verdadera no está en los hechizos: está en el amor, en el cuidado de los demás y en el valor de lanzarse a lo desconocido.
+
+Y por la noche, antes de dormir, mientras Zosia miraba el cielo estrellado, oía el susurro callado de su abuela:
+
+_Plis, plis, plis... Abre la puerta, por favor, que a la Reina de la Lluvia irá más cerca mi voz..._
+
+Y sabía que, cuando quisiera, las tierras encantadas volverían a abrirse ante ella.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cuántos años tiene Zosia?
+
+**Answers:**
+- A) Siete
+- B) Nueve
+- C) Once
+- D) Doce
+
+**Correct:** B
+**Explanation:** El texto dice: «Zosia tenía nueve años».
+**Text reference:** nueve años
+
+### Question 2
+
+**Question:** ¿Cómo se llama la Reina de la Lluvia?
+
+**Answers:**
+- A) Kropeia
+- B) Rózia
+- C) Copito
+- D) Stella
+
+**Correct:** A
+**Explanation:** La Reina se llama Kropeia.
+**Text reference:** Kropeia
+
+### Question 3
+
+**Question:** ¿Qué abre la puerta del sendero encantado?
+
+**Answers:**
+- A) Una llavecita de plata
+- B) Un mapa
+- C) Un hechizo sin llave
+- D) Una canción sin llave
+
+**Correct:** A
+**Explanation:** La abuela saca del delantal una llavecita de plata.
+**Text reference:** llavecita de plata
+
+### Question 4
+
+**Question:** ¿Qué tres sonidos adivina Zosia en casa de la mariposa?
+
+**Answers:**
+- A) Gallo, vaca, grillos
+- B) Perro, gato, gallina
+- C) Lluvia, viento, trueno
+- D) Flauta, arpa, tambor
+
+**Correct:** A
+**Explanation:** Adivina el gallo (quiquiriquí), la vaca (muuu) y los grillos (cri-cri).
+**Text reference:** quiquiriquí
+
+### Question 5
+
+**Question:** ¿Qué hace Kropeia sobre la tierra seca?
+
+**Answers:**
+- A) Canta la canción de la lluvia
+- B) Lanza la llave
+- C) Congela el lago
+- D) Huye a la Luna
+
+**Correct:** A
+**Explanation:** Kropeia canta, y de las nubes cae una lluvia abundante.
+**Text reference:** canción de la lluvia
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

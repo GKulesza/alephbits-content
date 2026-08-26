@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How long have Ewa and Marek been together?",
+      "answers": [
+        "Ten years",
+        "Twenty-five years",
+        "Forty years",
+        "Five years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa says they have known each other for twenty-five years."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa hear in the podcast about the \"built-in script\"?",
+      "answers": [
+        "That people never lie",
+        "That when someone deceives you, we think: \"God has found me\"",
+        "That marriage is easy",
+        "That divorce is the only way out"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miłosz talks about the script: deceiver = \"God has found me\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did Ewa think when Marek cooked her favourite dish?",
+      "answers": [
+        "That she is grateful to him",
+        "That he had done something wrong and wanted to apologise",
+        "That something was wrong with him",
+        "That he loves her"
+      ],
+      "correctIndex": 1,
+      "explanation": "For years she thought he cooked because he had done something wrong."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek propose instead of guessing?",
+      "answers": [
+        "To stay silent",
+        "To accept that we don't know, and to ask",
+        "To write letters",
+        "Divorce"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says: accept that we don't know, and ask \"why?\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa write to her sister in the letter?",
+      "answers": [
+        "That their marriage is perfect",
+        "That the biggest mistake was thinking she knew her husband inside out",
+        "That divorce is necessary",
+        "That the podcast didn't help her at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "The letter warns against thinking she knows her husband inside out."
+    }
+  ]
+}

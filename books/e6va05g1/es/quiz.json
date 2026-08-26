@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Zosia?",
+      "answers": [
+        "Siete",
+        "Nueve",
+        "Once",
+        "Doce"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice: «Zosia tenía nueve años»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama la Reina de la Lluvia?",
+      "answers": [
+        "Kropeia",
+        "Rózia",
+        "Copito",
+        "Stella"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Reina se llama Kropeia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué abre la puerta del sendero encantado?",
+      "answers": [
+        "Una llavecita de plata",
+        "Un mapa",
+        "Un hechizo sin llave",
+        "Una canción sin llave"
+      ],
+      "correctIndex": 0,
+      "explanation": "La abuela saca del delantal una llavecita de plata."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué tres sonidos adivina Zosia en casa de la mariposa?",
+      "answers": [
+        "Gallo, vaca, grillos",
+        "Perro, gato, gallina",
+        "Lluvia, viento, trueno",
+        "Flauta, arpa, tambor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adivina el gallo (quiquiriquí), la vaca (muuu) y los grillos (cri-cri)."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Kropeia sobre la tierra seca?",
+      "answers": [
+        "Canta la canción de la lluvia",
+        "Lanza la llave",
+        "Congela el lago",
+        "Huye a la Luna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kropeia canta, y de las nubes cae una lluvia abundante."
+    }
+  ]
+}

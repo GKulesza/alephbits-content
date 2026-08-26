@@ -1,0 +1,343 @@
+# Froteísmo intelectual
+
+## Metadata
+
+**Pack ID:** bhqlqcg1
+**Book ID:** bhqlqcg1
+**Legacy Pack ID:** polish_froteryzm_intelektualny
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** Froteísmo intelectual  
+**Subtitle:** 25 años de matrimonio y leer las intenciones  
+**Blurb:** Después de veinticinco años, Ewa y Marek dejaron de escucharse: leen las intenciones en lugar de las palabras. Un podcast sobre el «guion incorporado» les abre los ojos: el froteísmo intelectual consiste en adivinar lo que el otro piensa, en lugar de preguntar.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Eight  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Froteryzm intelektualny" — edición oficial de Collection Eight.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** małżeństwo, komunikacja, podcast, Collection Eight  
+
+**Keywords:** froteryzm intelektualny, Ewa, Marek, małżeństwo, skrypt  
+
+**Cover family:** psychology
+
+**Editorial notes:** Fikcja o komunikacji w długim związku; blisko „Ikonki na pulpicie”.
+
+**Inspiration:** Podcast Miłosza o wbudowanym skrypcie; metafora froteryzmu intelektualnego.
+
+---
+
+**World:**
+- objects: book
+- places: office, library
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 14.05.2026 -> https://www.youtube.com/watch?v=Mlunu1IKmYE  
+**Revision notes:** Phase 102 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (gender agreement) |
+| 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 102 import; philosophy fit 4/5 — Silna metafora o słuchaniu; praktyczna wartość edukacyjna. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eight manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Mlunu1IKmYE  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-05-14  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**FROTEÍSMO INTELECTUAL**
+
+## I. EL PRINCIPIO
+
+Ewa estaba sentada en el sofá, mirando la pantalla del televisor, en la que se emitía un programa que no veía. En la mano tenía un teléfono, y en la pantalla había una aplicación que había abierto automáticamente, sin pensar para qué. Su marido, Marek, estaba sentado a su lado y leía un libro. Desde hacía cuarenta minutos, ninguno de los dos había dicho una palabra.
+
+No era ese silencio bueno, el que comparten dos personas que no necesitan decir nada para sentirse cerca. Era un silencio que crecía como un muro entre ellos.
+
+Ewa dejó el teléfono y miró a Marek. Tenía 52 años, el pelo gris, gafas de lectura y arrugas alrededor de los ojos que habían aparecido en los últimos diez años. Lo conocía desde hacía veinticinco. Creía saberlo todo sobre él. Y ahora, mirándolo, se dio cuenta de que ya no sabía quién era.
+
+— Marek — dijo.
+
+Él levantó la vista del libro.
+
+— ¿Sí?
+
+— ¿A veces sientes que ya no nos conocemos?
+
+Marek dejó el libro. Durante un momento la miró en silencio.
+
+— Lo siento — respondió. — Y me pregunto si eso es normal. Si todas las relaciones son así después de tantos años. Si es solo... rutina.
+
+— O quizá no es rutina — dijo Ewa. — Quizá es otra cosa. Quizá hemos dejado de escucharnos.
+
+— ¿Qué quieres decir?
+
+— Que cuando dices algo que ya has dicho, pienso: «Otra vez lo mismo». Y en lugar de escuchar lo que de verdad dices, escucho mi propio pensamiento, que dice: «Otra vez lo mismo». Y entonces no te oigo a ti. Me oigo a mí.
+
+Marek sonrió con tristeza.
+
+— Yo también lo hago. Cuando dices que quieres algo, pienso: «Lo quiere porque quiere controlarme». Y en lugar de escuchar lo que de verdad dices, escucho mi miedo a dejar de ser yo mismo.
+
+Ewa le cogió la mano.
+
+— ¿Qué hacemos?
+
+— No lo sé. — Marek la miró. — Pero quizá deberíamos empezar por dejar de adivinar lo que el otro piensa. Y empezar a preguntar.
+
+---
+## II. EL DESARROLLO
+
+Al día siguiente, Ewa se despertó a las 5:47. Se levantó, bebió su café y se sentó delante del ordenador. En el navegador abrió una pestaña con un podcast que le había recomendado una compañera. El tema: «Cómo alcanzar el dominio en las relaciones románticas».
+
+El invitado era un hombre llamado Miłosz, que hablaba rápido, con humor, y de una manera que hacía sentir a Ewa que hablaba con ella, y no con un millón de oyentes.
+
+_"El ser humano tiene un guion incorporado"_ – oyó. _"Cuando alguien te engaña, tu primer pensamiento no es 'estafador', sino 'Dios por fin me ha encontrado'."_
+
+Ewa se quedó helada. Era exactamente lo que había sentido cuando conoció a Marek. Pensó que por fin había encontrado a alguien que la entendiera. Y durante veinticinco años creyó que era verdad.
+
+¿Y ahora?
+
+_"Cuanto más tiempo conocemos a alguien, más empezamos a indagar qué quiere decir con esa propuesta"_ – continuó Miłosz. _"En lugar de preguntarnos si la propuesta es buena, pensamos: ¿cuáles son sus intenciones?"_
+
+Ewa cerró el portátil. En su cabeza apareció un recuerdo de hacía una semana: Marek había propuesto un viaje a la montaña, y ella había pensado: «Quiere sacarme de aquí, porque no quiere hablar conmigo». Y él solo quería pasar tiempo con ella.
+
+— Yo construí este muro — se susurró a sí misma. — No él. Yo.
+
+---
+## III. EL PUNTO DE INFLEXIÓN
+
+Ewa volvió a casa a última hora de la tarde. Marek la esperaba en la cocina con la cena: su plato favorito, que solo cocinaba cuando quería pedirle perdón. Y de pronto comprendió que durante años había malinterpretado sus gestos.
+
+Cuando le cocinaba su plato favorito, pensaba: «Otra vez ha hecho algo mal». Y él solo quería darle un placer.
+
+— Marek — dijo, sentándose a la mesa. — Quiero preguntarte una cosa.
+
+— ¿Sí?
+
+— La última vez que cocinaste este plato, ¿querías pedirme perdón por algo?
+
+Marek la miró con sorpresa.
+
+— No. Lo cociné porque sabía que te gustaba. Y quería que tuvieras una buena noche.
+
+Ewa sintió ganas de llorar.
+
+— Y yo todo el tiempo pensaba que era una señal de que habías hecho algo mal.
+
+Marek le cogió la mano.
+
+— Somos nosotros, Ewa. Es nuestra relación. Durante tantos años hemos aprendido a leernos el uno al otro, pero leemos mal. Leemos lo que tememos, no lo que hay de verdad.
+
+— ¿Cómo lo cambiamos?
+
+— Quizá empecemos por aceptar que no sabemos. Y que lo que pensamos puede ser erróneo. Y preguntar.
+
+— ¿Preguntar?
+
+— Sí. En lugar de pensar: «Lo ha hecho porque quiere hacerme daño», preguntar: «¿Por qué lo has hecho?»
+
+Ewa sonrió.
+
+— Suena sencillo.
+
+— No es sencillo — respondió él. — Pero quizá valga la pena intentarlo.
+
+---
+## IV. EL FINAL
+
+Pasó un año. Ewa y Marek seguían discutiendo. Seguían teniendo días en los que no podían ni verse. Pero habían aprendido una cosa: habían dejado de adivinar.
+
+Cuando Ewa decía: «Otra vez te has olvidado de la basura», y Marek respondía: «No me he olvidado, no me ha dado tiempo», ella ya no pensaba: «Miente otra vez». En su lugar decía: «¿Por qué no te ha dado tiempo?»
+
+Y escuchaba.
+
+Y cuando Marek decía: «Me gustaría ir a la montaña», Ewa ya no pensaba: «Quiere huir de mí». En su lugar preguntaba: «¿Por qué quieres ir?»
+
+Y escuchaba.
+
+Descubrieron que en veinticinco años cada uno se había convertido en alguien distinto. Y que lo que los había unido al principio no tenía que ser lo que los uniría hasta el final.
+
+Y lo que los unía no era el conocimiento mutuo. Era la disposición a descubrirse.
+
+Una tarde, mientras estaban sentados en el sofá, Marek dijo:
+
+— ¿Sabes? He estado pensando en lo que dijiste entonces, cuando empezó todo. Que habíamos dejado de escucharnos. Y creo que tenías razón. Pero ahora pienso que esto no es el final. Esto es el principio.
+
+Ewa lo miró.
+
+— ¿De qué?
+
+— De algo nuevo. De algo que aún no conocemos.
+
+Ella sonrió.
+
+— Suena a plan.
+
+---
+## V. EL EPÍLOGO
+
+Unos años después, Ewa escribió una carta a su hermana pequeña, que acababa de casarse:
+
+_"El mayor error que cometí en mi matrimonio fue pensar que conocía a mi marido a la perfección. Que sabía lo que iba a decir antes de que abriera la boca. Solo cuando dejé de adivinar y empecé a preguntar vi que, durante todo ese tiempo, él era alguien a quien todavía podía descubrir. Y ese fue el descubrimiento más hermoso de mi vida. No tengas miedo de no saber. Ten miedo de creer que sabes."_
+
+Su hermana la llamó una semana después.
+
+— He leído tu carta. ¿Y sabes qué? Creía que conocía a mi marido. Pero después de lo que escribiste, he comprendido que no lo conozco en absoluto. Solo conozco lo que pienso de él.
+
+— ¿Y qué piensas hacer al respecto?
+
+— Preguntarle quién es de verdad. Y escuchar.
+
+Ewa sonrió al teléfono.
+
+— Es un buen principio.
+
+---
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cuánto tiempo llevan juntos Ewa y Marek?
+
+**Answers:**
+- A) Diez años
+- B) Veinticinco años
+- C) Cuarenta años
+- D) Cinco años
+
+**Correct:** B
+**Explanation:** Ewa dice que se conocen desde hace veinticinco años.
+**Text reference:** veinticinco
+
+### Question 2
+
+**Question:** ¿Qué oye Ewa en el podcast sobre el «guion incorporado»?
+
+**Answers:**
+- A) Que la gente nunca miente
+- B) Que cuando alguien te engaña, pensamos: «Dios me ha encontrado»
+- C) Que el matrimonio es fácil
+- D) Que el divorcio es la única salida
+
+**Correct:** B
+**Explanation:** Miłosz habla del guion: estafador = «Dios me ha encontrado».
+**Text reference:** Dios por fin me ha encontrado
+
+### Question 3
+
+**Question:** ¿Qué pensaba Ewa cuando Marek le cocinaba su plato favorito?
+
+**Answers:**
+- A) Que le está agradecida
+- B) Que había hecho algo mal y quería pedir perdón
+- C) Que le pasa algo
+- D) Que la quiere
+
+**Correct:** B
+**Explanation:** Durante años pensó que cocinaba porque había hecho algo mal.
+**Text reference:** había hecho algo mal
+
+### Question 4
+
+**Question:** ¿Qué propone Marek en lugar de adivinar?
+
+**Answers:**
+- A) Callarse
+- B) Aceptar que no sabemos y preguntar
+- C) Escribir cartas
+- D) El divorcio
+
+**Correct:** B
+**Explanation:** Dice: aceptar que no sabemos y preguntar «¿por qué?».
+**Text reference:** preguntar
+
+### Question 5
+
+**Question:** ¿Qué le escribe Ewa a su hermana en la carta?
+
+**Answers:**
+- A) Que su matrimonio es perfecto
+- B) Que el mayor error fue pensar que conocía a su marido a la perfección
+- C) Que el divorcio es necesario
+- D) Que el podcast no la ayudó en absoluto
+
+**Correct:** B
+**Explanation:** La carta advierte contra pensar que conoce a su marido a la perfección.
+**Text reference:** conocía a mi marido a la perfección
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

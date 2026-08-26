@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Zosia?",
+      "answers": [
+        "Seven",
+        "Nine",
+        "Eleven",
+        "Twelve"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says: \"Zosia was nine years old\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the Rain Queen's name?",
+      "answers": [
+        "Kropeia",
+        "Rózia",
+        "Śnieżynka",
+        "Stella"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Queen is called Kropeia."
+    },
+    {
+      "type": "single_choice",
+      "question": "What opens the door to the enchanted path?",
+      "answers": [
+        "A silver key",
+        "A map",
+        "A spell without a key",
+        "A song without a key"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grandma takes a small silver key out of her apron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which three sounds does Zosia guess at the butterfly's?",
+      "answers": [
+        "Rooster, cow, crickets",
+        "Dog, cat, hen",
+        "Rain, wind, thunder",
+        "Flute, harp, drum"
+      ],
+      "correctIndex": 0,
+      "explanation": "She guesses the rooster (cock-a-doodle-doo), the cow (moo) and the crickets (chirp-chirp)."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kropeia do over the dried-up land?",
+      "answers": [
+        "She sings the song of rain",
+        "She throws a key",
+        "She freezes the lake",
+        "She flees to the Moon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kropeia sings, and a heavy rain falls from the clouds."
+    }
+  ]
+}

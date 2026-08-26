@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A qué se dedica profesionalmente Sebastián?",
+      "answers": [
+        "Es trader en Wall Street",
+        "Es profesor de matemáticas en un instituto",
+        "Es astróloga",
+        "Es médico"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es profesor de matemáticas en un instituto de Varsovia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Con qué compara Lena la vida de Sebastián?",
+      "answers": [
+        "Con una función de delta negativa: no hay solución donde busca",
+        "Con el área de un triángulo",
+        "Con un logaritmo natural",
+        "Con la sucesión de Fibonacci"
+      ],
+      "correctIndex": 0,
+      "explanation": "Habla de una función cuadrática sin soluciones reales cuando la delta es negativa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto pierde Sebastián al principio?",
+      "answers": [
+        "Ocho mil zlotys",
+        "Cuatro mil zlotys",
+        "Veintitrés mil zlotys",
+        "Nada"
+      ],
+      "correctIndex": 0,
+      "explanation": "En un solo día pierde ocho mil zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Con qué cantidad abre su primera posición consciente tras el descanso?",
+      "answers": [
+        "Cien zlotys",
+        "Ocho mil zlotys",
+        "Cuarenta mil zlotys",
+        "Un zloty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abre una posición simbólica de cien zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le escribe Sebastián a María tras el primer mes en positivo?",
+      "answers": [
+        "Que ella ha ganado por él",
+        "Que ha cerrado el mes en positivo, y le da las gracias",
+        "Que abandona el trading",
+        "Que se muda a Gdansk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastián escribe: «Hoy, por primera vez en un año, he cerrado el mes en positivo. No por mucho. Pero en positivo. Gracias.» María responde: «No soy yo. Eres tú. Confiaste en ti mismo.»"
+    }
+  ]
+}

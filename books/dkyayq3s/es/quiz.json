@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué error desencadena la crisis de Adam?",
+      "answers": [
+        "Comparte su contraseña del banco en Slack",
+        "Sube una clave API a un repositorio público de GitHub",
+        "Compra una cuenta en el mercado negro",
+        "Desactiva la verificación en dos pasos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La filtración de la clave API a un repositorio público es la causa directa del abuso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubre Adam al analizar el consumo inusual de tokens?",
+      "answers": [
+        "Que OpenAI le facturó mal",
+        "Que su clave había ido a parar a un sistema de intermediarios que venden acceso barato",
+        "Que la empresa probaba modelos nuevos",
+        "Que un compañero usaba su cuenta"
+      ],
+      "correctIndex": 1,
+      "explanation": "En los foros encuentra ofertas de tokens baratos y entiende el mecanismo de los intermediarios."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué papel desempeñan los proxies residenciales en el negocio descrito?",
+      "answers": [
+        "Sirven únicamente para el alojamiento legal",
+        "Ayudan a ocultar el tráfico usando las conexiones de usuarios corrientes",
+        "Aceleran el entrenamiento de los modelos",
+        "Bloquean el spam en los foros"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto los describe como una forma de enmascarar el tráfico mediante la infraestructura de personas corrientes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la conversación con Li Wei cambia la forma de pensar de Adam?",
+      "answers": [
+        "Porque Li Wei le devuelve todo el dinero",
+        "Porque le muestra el lado humano del mercado ilegal y el problema de las barreras de acceso",
+        "Porque resulta ser policía",
+        "Porque le propone una startup conjunta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam empieza a ver no solo el fraude, sino también a las personas expulsadas del acceso legal."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lección práctica saca Adam de toda la historia?",
+      "answers": [
+        "Hay que dejar de usar API",
+        "La seguridad exige tanto herramientas como conciencia de las amenazas sistémicas",
+        "Lo mejor es trabajar solo sin conexión",
+        "No usar nunca GitHub"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasa a un gestor de secretos, a la supervisión y a educar a otros programadores."
+    }
+  ]
+}

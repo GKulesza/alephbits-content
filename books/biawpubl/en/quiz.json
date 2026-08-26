@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Sebastian do professionally?",
+      "answers": [
+        "He's a Wall Street trader",
+        "He's a high school mathematics teacher",
+        "An astrologer",
+        "A doctor"
+      ],
+      "correctIndex": 1,
+      "explanation": "He is a mathematics teacher at a Warsaw high school."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Lena compare Sebastian's life to?",
+      "answers": [
+        "A function with a negative delta — no solution where he's looking",
+        "The area of a triangle",
+        "A natural logarithm",
+        "A Fibonacci sequence"
+      ],
+      "correctIndex": 0,
+      "explanation": "She talks about a quadratic function with no real solutions when the delta is negative."
+    },
+    {
+      "type": "single_choice",
+      "question": "How much does Sebastian lose at the beginning?",
+      "answers": [
+        "Eight thousand złoty",
+        "Four thousand złoty",
+        "Twenty-three thousand złoty",
+        "Nothing"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a single day he loses eight thousand złoty."
+    },
+    {
+      "type": "single_choice",
+      "question": "With what amount does he open his first conscious position after the break?",
+      "answers": [
+        "A hundred złoty",
+        "Eight thousand złoty",
+        "Forty thousand złoty",
+        "One złoty"
+      ],
+      "correctIndex": 0,
+      "explanation": "He opens a symbolic position for a hundred złoty."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Sebastian write to Maria after the first month in the black?",
+      "answers": [
+        "That she earned it for him",
+        "That he closed the month in the black — and thanks her",
+        "That he is giving up trading",
+        "That he is moving to Gdańsk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian writes: \"Today, for the first time in a year, I closed the month in the black. Not by much. But in the black. Thank you.\" Maria replies: \"It's not me. It's you. You trusted yourself.\""
+    }
+  ]
+}

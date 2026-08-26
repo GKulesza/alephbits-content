@@ -1,0 +1,263 @@
+# The Black Market for Tokens
+
+## Metadata
+
+**Pack ID:** dkyayq3s
+**Book ID:** dkyayq3s
+**Legacy Pack ID:** polish_czarny_rynek_tokenow
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** The Black Market for Tokens  
+**Subtitle:** APIs, leaks and the geopolitics of access  
+**Blurb:** Adam, a cloud systems engineer, finds a trace in the logs that shouldn't be there. Behind the facade of legal APIs hides a market for AI keys and tokens. The deeper he digs into the racket, the more clearly he sees that the price of "cheap access" also concerns his own work and responsibility.
+
+**Genres:** article  
+**Series:** Collection Three  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Czarny rynek tokenów" — Collection Three official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** ai, api, security, openai, black-market  
+
+**Keywords:** tokeny AI, API, bezpieczeństwo, GitHub  
+
+**Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** article
+
+---
+
+**World:**
+- objects: book
+- places: town, shop
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Popular science
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 05.07.2026 -> https://www.youtube.com/watch?v=drFd3x2Qh1Y  
+**Revision notes:** Tekst łączy edukację bezpieczeństwa z narracją społeczną; warto ręcznie sprawdzić brand-specific details and phrasing.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=drFd3x2Qh1Y  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-05  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**THE BLACK MARKET FOR TOKENS**
+
+
+Adam Kowalski was a programmer. Not outstanding, not a genius – just a good, solid one, the kind who could turn a problem into code, and code into a solution. He worked remotely for a startup from Silicon Valley, earned decent money and thought he knew something about security. After all, he used a password manager, had two-factor authentication and never clicked on suspicious links.
+
+But what he did one Tuesday evening destroyed everything he had built.
+
+It was stupid. So stupid that to this day he couldn't believe he had done it. He was working on a project using the OpenAI API. He needed to quickly test something in production, and his developer key only worked in the test environment. Without thinking, he copied the API key into a configuration file, and then – by accident – pushed it to a public GitHub repo.
+
+He didn't notice. Nobody noticed. For three days.
+
+And then the first notification from OpenAI arrived: "Unusual activity detected on your account. Your token usage has increased by 3400% in the last 24 hours."
+
+Adam looked at the screen and felt the blood drain from his face. Someone had stolen his API key. Someone was using it to generate answers, to train models, to create content. Someone – or rather, many someones – were using his account, his money, his credit.
+
+And he had no idea who it was. He had no idea how it had happened. And he had no idea how to stop it.
+
+
+**The investigation**
+
+Adam spent the next hours going through the logs. He saw thousands of requests – from China, from Russia, from Brazil, from India. Each of them cost him a fraction of a cent, but together they added up to an amount that exceeded his monthly salary.
+
+He blocked the key. He changed his passwords. He enabled every possible security measure. But he knew it wasn't enough. Someone already had his data. And someone was already profiting from his mistake.
+
+He began looking for answers. He came across forums where people sold access to "cheap AI tokens". He saw offers that seemed impossible – access to the most powerful AI models for 10% of the official price. He understood that these were not legal offers. This was a black market.
+
+– Hub stations – he muttered to himself, reading one of the posts. – Middlemen. Someone is using my key to sell access to others.
+
+He started digging. He learned how the racket worked. Someone – a fraudster, a hacker, an entrepreneur – registers thousands of accounts on AI platforms, using promotions for new users, stolen credit cards, even stolen API keys. Then he sells access to those accounts for a fraction of the price. Users from countries where official services are blocked happily take advantage of such offers. And the middlemen profit from the difference.
+
+Adam understood that his API key had ended up in just such a system. That someone, somewhere in the world, was using his account to generate answers for users who couldn't afford the official subscription. And that he – Adam – was paying for all of it.
+
+
+**The rabbit hole**
+
+The deeper he dug into the subject, the more fascinated he became with how cleverly the whole system was built. Fraudsters used temporary e-mail addresses to create thousands of accounts. They bypassed captchas by hiring people in poor countries to manually type the codes. They used browser fingerprinting to avoid detection. They used virtual phone numbers for SMS verification. And all of it was automated – scripts created accounts within seconds, without human involvement.
+
+Adam read about how residential proxies worked. Companies that used ordinary users' internet connections to mask their traffic. Someone installed a free app without reading the terms, and suddenly his computer became part of a bot network. And he didn't know it. Nobody knew.
+
+– If something is ridiculously cheap or free, then most likely you and your data are the product – Adam said to himself, quoting words he had once heard at a conference.
+
+And then he understood that this was not just a problem with his API key. This was a problem with the whole system. That on the internet nothing is free. That someone always pays for something. And that often that "someone" is ordinary people who don't even know they're part of the game.
+
+
+**The meeting**
+
+A few days later Adam came across a post on a forum from someone offering help with securing API accounts. It was a young Chinese man named Li Wei. He lived in Shanghai and had been fighting geographic restrictions for years. He couldn't use American AI models, so he looked for alternatives. And then he found the black market.
+
+– I didn't know it was your key – Li Wei wrote in a private message. – I bought the access from a middleman. I thought it was legal. I'm sorry.
+
+Adam looked at the screen. For a moment he felt anger. Then anger gave way to understanding.
+
+– You don't have to apologise – he replied. – It's not your fault. The system is broken.
+
+Li Wei told him his story. He lived in Shanghai, worked as a programmer, but had no access to Western tools. Official services were blocked for him, and VPNs were slow and expensive. The black market was his only way to access the technology he needed for work.
+
+– I know it's illegal – he wrote. – But I have no choice. I want to grow, I want to create, I want to be part of the global community. And they make it hard for me.
+
+Adam read those words and felt something inside him crack. He understood that the problem was not black and white. That behind every illegal token there is a person who simply wants access to tools that are changing the world.
+
+– I'm not excusing you – he replied. – But I understand you.
+
+
+**A new beginning**
+
+Adam didn't get back the money he had lost. OpenAI charged him for the costs, and the company he worked for didn't want to cover the losses. But Adam learned something important.
+
+He learned that security is not just passwords and two-factor authentication. It's also the awareness that nothing on the internet is free. That if something seems too good to be true, it probably is. And that any of us can become a victim – not only through our own stupidity, but through a system that allows it.
+
+He stopped using public repositories to store API keys. He started using a secrets manager. He enabled activity monitoring on his accounts. And he began educating other programmers not to make the same mistake.
+
+Sometimes he thought about Li Wei. About the young Chinese man who wanted to grow, but had to break the rules to get access to do so. And he wondered how many more such people there were in the world. How much talent is wasted through bureaucracy, geographic restrictions and inflexible systems.
+
+Maybe one day that will change. Maybe one day technology will be available to everyone, no matter where they live. But for now – Adam knew that the black market would exist. That there would always be people who want to circumvent the system. And that there would always be people who pay the price for it.
+
+Adam closed the laptop. He looked at the screen, where the notification from OpenAI was still glowing. He knew this wasn't the end. That sooner or later someone would try to cheat him again. But this time he was ready.
+
+Because on the internet, as in life, what matters is not only how you defend yourself. It also matters what you learned when you were attacked.
+
+
+**THE END**
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What mistake triggers Adam's crisis?
+
+**Answers:**
+- A) He shares his bank password on Slack
+- B) He pushes an API key to a public GitHub repository
+- C) He buys an account on the black market
+- D) He disables 2FA
+
+**Correct:** B
+**Explanation:** The leak of the API key to a public repository is the direct cause of the misuse.
+**Text reference:** pushed it to a public GitHub repo
+
+### Question 2
+
+**Question:** What does Adam discover while analysing the unusual token usage?
+
+**Answers:**
+- A) That OpenAI billed him incorrectly
+- B) That his key had ended up in a system of middlemen selling cheap access
+- C) That his company was testing new models
+- D) That a colleague was using his account
+
+**Correct:** B
+**Explanation:** On forums he finds offers for cheap tokens and understands the middleman mechanism.
+**Text reference:** hub stations
+
+### Question 3
+
+**Question:** What role do residential proxies play in the described racket?
+
+**Answers:**
+- A) They serve only for legal hosting
+- B) They help hide traffic by using ordinary users' connections
+- C) They speed up model training
+- D) They block spam on forums
+
+**Correct:** B
+**Explanation:** The text describes them as a way of masking traffic through ordinary people's infrastructure.
+**Text reference:** masking their traffic
+
+### Question 4
+
+**Question:** Why does the conversation with Li Wei change Adam's way of thinking?
+
+**Answers:**
+- A) Because Li Wei returns all the money to him
+- B) Because it shows the human side of the illegal market and the problem of access barriers
+- C) Because he turns out to be a policeman
+- D) Because he proposes a joint startup
+
+**Correct:** B
+**Explanation:** Adam begins to see not only the fraud, but also the people pushed outside legal access.
+**Text reference:** The system is broken
+
+### Question 5
+
+**Question:** What practical lesson does Adam draw from the whole story?
+
+**Answers:**
+- A) One must stop using APIs
+- B) Security requires both tools and awareness of systemic threats
+- C) It's best to work only offline
+- D) Never use GitHub
+
+**Correct:** B
+**Explanation:** He switches to a secrets manager, monitoring and educating other programmers.
+**Text reference:** He started using a secrets manager
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

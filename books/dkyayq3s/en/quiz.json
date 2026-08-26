@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What mistake triggers Adam's crisis?",
+      "answers": [
+        "He shares his bank password on Slack",
+        "He pushes an API key to a public GitHub repository",
+        "He buys an account on the black market",
+        "He disables 2FA"
+      ],
+      "correctIndex": 1,
+      "explanation": "The leak of the API key to a public repository is the direct cause of the misuse."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam discover while analysing the unusual token usage?",
+      "answers": [
+        "That OpenAI billed him incorrectly",
+        "That his key had ended up in a system of middlemen selling cheap access",
+        "That his company was testing new models",
+        "That a colleague was using his account"
+      ],
+      "correctIndex": 1,
+      "explanation": "On forums he finds offers for cheap tokens and understands the middleman mechanism."
+    },
+    {
+      "type": "single_choice",
+      "question": "What role do residential proxies play in the described racket?",
+      "answers": [
+        "They serve only for legal hosting",
+        "They help hide traffic by using ordinary users' connections",
+        "They speed up model training",
+        "They block spam on forums"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text describes them as a way of masking traffic through ordinary people's infrastructure."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the conversation with Li Wei change Adam's way of thinking?",
+      "answers": [
+        "Because Li Wei returns all the money to him",
+        "Because it shows the human side of the illegal market and the problem of access barriers",
+        "Because he turns out to be a policeman",
+        "Because he proposes a joint startup"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam begins to see not only the fraud, but also the people pushed outside legal access."
+    },
+    {
+      "type": "single_choice",
+      "question": "What practical lesson does Adam draw from the whole story?",
+      "answers": [
+        "One must stop using APIs",
+        "Security requires both tools and awareness of systemic threats",
+        "It's best to work only offline",
+        "Never use GitHub"
+      ],
+      "correctIndex": 1,
+      "explanation": "He switches to a secrets manager, monitoring and educating other programmers."
+    }
+  ]
+}
