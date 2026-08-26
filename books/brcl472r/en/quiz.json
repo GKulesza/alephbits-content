@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What starts Kuba and Marta's argument?",
+      "answers": [
+        "The bills",
+        "The fact that Kuba didn't empty the dishwasher",
+        "The television",
+        "A visit from the in-laws"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta says: \"You didn't empty it again\" — and adds: \"It's not about the dishwasher.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kammel call the \"fourth horseman of the apocalypse\" in a relationship?",
+      "answers": [
+        "Criticism",
+        "Contempt",
+        "Silence",
+        "Jealousy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel talks about contempt — when you say \"you're hopeless\" instead of judging the behaviour."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why should the signal be \"bear\" and not \"teddy bear\"?",
+      "answers": [
+        "Because a teddy bear is too serious",
+        "Because a teddy bear is cute, and a bear stops everything",
+        "Because Marta likes bears",
+        "Because it's a joke about Kammel's name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel explains: a teddy bear is cute and can be dismissed; a bear stops everything."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kuba say to Marta in the bedroom instead of attacking?",
+      "answers": [
+        "That she always starts it",
+        "That he feels like he's letting her down and doesn't know how to fix it",
+        "That he'll sleep on the couch",
+        "That the dishwasher can wait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuba talks about himself: \"I feel like I'm letting you down. Every day. And I don't know how to fix it.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta stick on the fridge?",
+      "answers": [
+        "A shopping list",
+        "A note: \"If we argue, I shout BEAR\"",
+        "A holiday photo",
+        "A chore schedule"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the fridge hangs a note about shouting \"BEAR\"."
+    }
+  ]
+}

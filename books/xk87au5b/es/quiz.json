@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿En qué se diferencia la Campana Dorada de los demás instrumentos?",
+      "answers": [
+        "Suena muy bajito",
+        "No tiene campana",
+        "Es la más grande",
+        "No le gusta la música"
+      ],
+      "correctIndex": 0,
+      "explanation": "Su sonido es bajito, como un susurro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el violonchelo sobre los susurros?",
+      "answers": [
+        "Que también importan",
+        "Que son inútiles",
+        "Que hay que gritar",
+        "Que la campana está rota"
+      ],
+      "correctIndex": 0,
+      "explanation": "El violonchelo dice que los susurros también importan."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién compra la campana?",
+      "answers": [
+        "Una niña pequeña",
+        "El dueño de la tienda",
+        "Una profesora",
+        "Un anciano"
+      ],
+      "correctIndex": 0,
+      "explanation": "La niña oye su sonido silencioso y la compra."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde cuelga la niña la campana?",
+      "answers": [
+        "En la ventana de su habitación",
+        "En el sótano",
+        "En el tejado",
+        "En la escuela"
+      ],
+      "correctIndex": 0,
+      "explanation": "La colgó en la ventana, donde soplaba una brisita."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión saca la campana?",
+      "answers": [
+        "No tiene que ser ruidosa para ser importante",
+        "Tiene que tocar como el tambor",
+        "Debería seguir escondiéndose",
+        "El silencio es malo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entiende que su sonido silencioso es especial e importante."
+    }
+  ]
+}

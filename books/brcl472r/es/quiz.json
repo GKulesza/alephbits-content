@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Con qué empieza la discusión de Kuba y Marta?",
+      "answers": [
+        "Con las facturas",
+        "Con que Kuba no vació el lavavajillas",
+        "Con el televisor",
+        "Con la visita de los suegros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta dice: «No lo has vaciado otra vez» — y añade: «No es por el lavavajillas»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién llama Kammel el «cuarto jinete del Apocalipsis» en una relación?",
+      "answers": [
+        "A la crítica",
+        "Al desprecio",
+        "Al silencio",
+        "A los celos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel habla del desprecio — cuando dices «eres un desastre» en lugar de juzgar la conducta."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la señal debe ser «oso» y no «osito»?",
+      "answers": [
+        "Porque el osito es demasiado serio",
+        "Porque el osito es dulce y el oso lo detiene todo",
+        "Porque a Marta le gustan los osos",
+        "Porque es una broma sobre el apellido de Kammel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel explica: el osito es dulce y se puede ignorar; el oso lo detiene todo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Kuba a Marta en el dormitorio en lugar de atacar?",
+      "answers": [
+        "Que ella siempre empieza",
+        "Que siente que la está defraudando y no sabe cómo arreglarlo",
+        "Que dormirá en el sofá",
+        "Que el lavavajillas puede esperar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuba habla de sí mismo: «Siento que te estoy defraudando. Todos los días. Y no sé cómo arreglarlo.»"
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pega Marta en la nevera?",
+      "answers": [
+        "Una lista de la compra",
+        "Una nota: «Si discutimos, grito OSO»",
+        "Una foto de las vacaciones",
+        "Un horario de tareas"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la nevera cuelga una nota sobre gritar «OSO»."
+    }
+  ]
+}

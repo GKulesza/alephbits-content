@@ -1,0 +1,128 @@
+{
+  "id": "xk87au5b:en",
+  "bookId": "xk87au5b",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_ciche_serce_dzwonka",
+  "legacySlug": "ciche-serce-dzwonka",
+  "title": "The Quiet Heart of the Bell",
+  "language": "en",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-13",
+  "description": "A Golden Bell in a little instrument shop is ashamed that it can only ring in a whisper — until a cello and a small girl show it that silence can be beautiful too.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "muzyka",
+    "pewność siebie",
+    "Collection Eleven"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "English translation of the Polish reading pack \"Ciche serce dzwonka\" — Collection Eleven official edition.",
+  "text": "**THE QUIET HEART OF THE BELL**\n\nIn a small, forgotten shop with instruments, standing on the corner of an old street, there lived a certain bell. It was small, made of brass, and very, very shy. Its job was to make sounds that would draw the customers' attention, announce a new day, call to prayer. But this bell could not ring loudly.\n\n– Hi, I'm the Golden Bell – it introduced itself to the new instruments that arrived at the shop. – We're all here together, and each of us has its own purpose.\n\n– And what is yours? – asked the new bell.\n\n– Mine? – answered the Golden Bell, blushing under its patina. – I... I don't know yet. I can't ring as loudly as the others.\n\nAnd then it closed into itself, hid behind the bigger bells and stayed silent. Its sound was tiny, like a whisper, as if it were afraid to bother anyone. It was not a sound that draws attention. It was a sound you had to want to hear in order to notice.\n\nThe other instruments in the shop were loud and self-confident. The trumpet squealed joyfully every morning. The drum boomed whenever children ran past. The flute sang of spring, and the accordion played so joyfully that even the saddest mice in the cellar started to dance.\n\nAnd the Golden Bell? It only whispered.\n\n– Maybe I'm broken – it thought when nobody was looking. – Maybe I'm not fit to be a bell.\n\nIt closed its eyes – because bells have eyes too, only very small ones – and tried with all its might to make a loud sound. But instead of a sound that would shake the walls, it produced a quiet, gentle clink that sounded like a snowflake falling to the ground.\n\n– It's nothing – it whispered to itself. – Nobody needs me anyway.\n\n---\nOne day, two old friends came to the shop – a violin and a cello. They had been there longer than any other instrument. They had seen many bells, trumpets and drums. And they knew that every instrument has its own story.\n\nThe violin, whose bow was already a bit worn, looked at the Golden Bell.\n\n– Why do you hide, little one? – it asked.\n\n– Because I can't ring loudly – answered the bell with shame. – I'm good for nothing.\n\nThe cello leaned towards it. It was the oldest in the shop, and its wood smelled of years of music.\n\n– And who said that a bell has to be loud? – it asked.\n\n– Everyone says so – it answered quietly.\n\n– Everyone is wrong – said the cello. – Listen to me, little one. Your sounds are quiet, but they are beautiful. Whispers matter too. Sometimes someone needs to hear something gentle to fall asleep. Sometimes someone needs to hear something quiet to remember what is important.\n\nThe Golden Bell looked at it in disbelief.\n\n– Really?\n\n– Really – answered the cello. – But you have to show yourself to the world. You can't hide behind others. If nobody finds you, nobody will hear your sound.\n\n---\nThe next day, when a little girl came into the shop, the Golden Bell gathered its courage. It came out of hiding, stood right in the middle of the shelf and made a sound. The quietest, gentlest sound it had ever made.\n\nThe girl heard it. She crouched on the floor and looked at the bell.\n\n– How pretty – she said. – You ring so quietly, as if you were afraid to bother anyone. But I can hear you.\n\nAnd then the Golden Bell understood that it doesn't have to be loud to be important.\n\nThe girl bought it and took it home. She hung it by the window in her room, where a little breeze always blew. Every time the wind moved the bell, it made quiet, gentle sounds that reminded her that there is beauty in silence too.\n\nAnd the Golden Bell never hid again. It knew that its sound was special, even if it was quiet.\n\nBecause sometimes the most important things are heard precisely in silence.\n\n**THE END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "How is the Golden Bell different from the other instruments?",
+        "answers": [
+          "It rings very quietly",
+          "It has no bell",
+          "It is the biggest",
+          "It does not like music"
+        ],
+        "correctIndex": 0,
+        "explanation": "Its sound is tiny, like a whisper."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the cello say about whispers?",
+        "answers": [
+          "That they matter too",
+          "That they are useless",
+          "That you have to shout",
+          "That the bell is broken"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cello says that whispers matter too."
+      },
+      {
+        "type": "single_choice",
+        "question": "Who buys the bell?",
+        "answers": [
+          "A little girl",
+          "The shopkeeper",
+          "A teacher",
+          "An old man"
+        ],
+        "correctIndex": 0,
+        "explanation": "The girl hears its quiet sound and buys it."
+      },
+      {
+        "type": "single_choice",
+        "question": "Where does the girl hang the bell?",
+        "answers": [
+          "By the window in her room",
+          "In the cellar",
+          "On the roof",
+          "At school"
+        ],
+        "correctIndex": 0,
+        "explanation": "She hung it by the window, where a breeze always blew."
+      },
+      {
+        "type": "single_choice",
+        "question": "What conclusion does the bell draw?",
+        "answers": [
+          "It does not have to be loud to be important",
+          "It must play like a drum",
+          "It should keep hiding",
+          "Silence is bad"
+        ],
+        "correctIndex": 0,
+        "explanation": "It understands that its quiet sound is special and important."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "xk87au5b:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "short_story",
+  "audience": "children_8_12",
+  "subtitle": "When a loud sound is not needed",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2022-02-02"
+  ],
+  "inspiredBy": {
+    "youtube": "RXdgMlRqr-E"
+  },
+  "world": {
+    "objects": [
+      "bell"
+    ],
+    "places": [
+      "shop",
+      "street"
+    ]
+  }
+}

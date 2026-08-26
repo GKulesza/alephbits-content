@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does Matołek want to get to at the beginning?",
+      "answers": [
+        "Pacanów",
+        "Warsaw",
+        "Africa",
+        "The Moon"
+      ],
+      "correctIndex": 0,
+      "explanation": "He sets off for Pacanów to get horseshoes."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does Matołek meet on the Moon?",
+      "answers": [
+        "Mr. Twardowski",
+        "A dragon",
+        "A king",
+        "A witch"
+      ],
+      "correctIndex": 0,
+      "explanation": "On the Moon he meets Mr. Twardowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Matołek lose in the town with the strange law?",
+      "answers": [
+        "His beard",
+        "His horseshoes",
+        "His bundle",
+        "His legs"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the town where beards are forbidden, they cut off his beard."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Matołek finally stay?",
+      "answers": [
+        "In Poland, among his own people",
+        "In Pacanów for good",
+        "In Africa as king",
+        "On the Moon"
+      ],
+      "correctIndex": 0,
+      "explanation": "He says: \"I will stay! I will never leave Poland again.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Who sews Matołek's head back on after he loses his beard?",
+      "answers": [
+        "A cobbler",
+        "A witch",
+        "A princess",
+        "A blacksmith"
+      ],
+      "correctIndex": 0,
+      "explanation": "A kind cobbler sews his head back onto his body."
+    }
+  ]
+}

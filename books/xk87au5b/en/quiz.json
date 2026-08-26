@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How is the Golden Bell different from the other instruments?",
+      "answers": [
+        "It rings very quietly",
+        "It has no bell",
+        "It is the biggest",
+        "It does not like music"
+      ],
+      "correctIndex": 0,
+      "explanation": "Its sound is tiny, like a whisper."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the cello say about whispers?",
+      "answers": [
+        "That they matter too",
+        "That they are useless",
+        "That you have to shout",
+        "That the bell is broken"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cello says that whispers matter too."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who buys the bell?",
+      "answers": [
+        "A little girl",
+        "The shopkeeper",
+        "A teacher",
+        "An old man"
+      ],
+      "correctIndex": 0,
+      "explanation": "The girl hears its quiet sound and buys it."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does the girl hang the bell?",
+      "answers": [
+        "By the window in her room",
+        "In the cellar",
+        "On the roof",
+        "At school"
+      ],
+      "correctIndex": 0,
+      "explanation": "She hung it by the window, where a breeze always blew."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does the bell draw?",
+      "answers": [
+        "It does not have to be loud to be important",
+        "It must play like a drum",
+        "It should keep hiding",
+        "Silence is bad"
+      ],
+      "correctIndex": 0,
+      "explanation": "It understands that its quiet sound is special and important."
+    }
+  ]
+}

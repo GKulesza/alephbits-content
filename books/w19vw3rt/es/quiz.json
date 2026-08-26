@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A dónde quiere llegar Matołek al principio?",
+      "answers": [
+        "A Pacanów",
+        "A Varsovia",
+        "A África",
+        "A la Luna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parte hacia Pacanów para ponerse herraduras."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién conoce Matołek en la Luna?",
+      "answers": [
+        "Al señor Twardowski",
+        "A un dragón",
+        "A un rey",
+        "A una bruja"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la Luna se encuentra con el señor Twardowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pierde Matołek en la ciudad de la ley extraña?",
+      "answers": [
+        "Su barba",
+        "Sus herraduras",
+        "Su hatillo",
+        "Sus patas"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la ciudad donde está prohibida la barba, le cortan la suya."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde se queda finalmente Matołek?",
+      "answers": [
+        "En Polonia, entre los suyos",
+        "En Pacanów para siempre",
+        "En África como rey",
+        "En la Luna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice: «¡Me quedo! Ya no volveré a dejar Polonia jamás.»"
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién le cose la cabeza a Matołek tras perder la barba?",
+      "answers": [
+        "Un zapatero",
+        "Una bruja",
+        "Una princesa",
+        "Un herrero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un zapatero bondadoso le cose la cabeza al cuerpo."
+    }
+  ]
+}

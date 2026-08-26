@@ -1,0 +1,132 @@
+{
+  "id": "w19vw3rt:en",
+  "bookId": "w19vw3rt",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_koziolek_matolek_i_podroz_do_pacanowa",
+  "legacySlug": "koziolek-matolek-i-podroz-do-pacanowa",
+  "title": "Koziołek Matołek and the Journey to Pacanów",
+  "language": "en",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-13",
+  "description": "Koziołek Matołek sets out for Pacanów to get horseshoes — and through prison, a witch, the loss of his beard and a journey all the way to the Moon, he discovers that home is best, surrounded by his own people.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "Koziołek Matołek",
+    "Pacanów",
+    "klasyka",
+    "Collection Eleven"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 4,
+  "translation": "English translation of the Polish reading pack \"Koziołek Matołek i podróż do Pacanowa\" — Collection Eleven official edition.",
+  "text": "**KOZIOŁEK MATOŁEK AND THE JOURNEY TO PACANÓW**\n\nIn the famous town of Pacanów, the blacksmiths were known for being able to shoe even goats. But Koziołek Matołek lived far away from there, in a small village. He was an unusual little goat – he had a beautiful, long beard that he was proud of, and a heart full of curiosity about the world. As soon as he heard that in Pacanów they shoe goats, he decided to set off on a journey, so that horseshoes could be put on him too.\n\nHe said goodbye to his mum and dad, took a small bundle and set off. He did not know that this journey would be full of extraordinary adventures and that it would last much longer than he expected.\n\n---\nAt the beginning of the road he met two passers-by who showed him the way. But before he could ask for details, suddenly a huge dog jumped out of the bushes. The little goat, without thinking twice, jumped onto the nearest tree. The dog ran on, and Matołek wanted to climb down, when suddenly the tree got angry and knocked him straight onto a hedgehog. The little goat screamed in terror, jumped up and ran as fast as his legs would carry him.\n\nThat was how his journey began.\n\n---\nThe little goat wandered through forests, fields and mountains. In one town, hungry and tired, he went into someone's garden and ate a few heads of cabbage. Unfortunately, a watchman caught him and put him in prison. But at night some robbers sneaked into his cell, and thinking that the goat was a devil, they carried him, cell and all, out into the forest. When they discovered that it was only a goat, they ran away, and Matołek was left alone in the dark forest.\n\nThere he came upon a witch's hut, and the witch wanted to eat him. But the little goat cleverly tricked her, threw her into the water and escaped. Then he met a duck that spoke French, a dragon that he fought, and a squirrel that sold nuts, but he had nothing to pay with.\n\nFinally he reached a town where a strange law was in force: everyone who had a beard had to lose it. The little goat was caught and his beautiful beard was cut off. Luckily he met a kind cobbler, who sewed his head back onto his body. When Matołek regained consciousness, he saw an announcement about a ball at the princess's castle. He decided to take part and sing, to win the princess's hand. Unfortunately, when he started to bleat, everyone ran away, and the princess ordered him to be thrown into a pot of boiling water. Escaping, he ended up on a ship, where he became the cook, but he had to flee from there too, because nobody liked his cooking.\n\n---\nHe jumped off the ship, landed on a whale, and then was carried off by a bird and taken to the Moon. There he met Mr. Twardowski, who gave him a falling star, on which the little goat flew straight to the Vistula. Then he had many more adventures: he flew in a balloon, ran from a wolf, slid down a rainbow, became a mandarin at the court of the Emperor of China, and even escaped from cannibals on an elephant.\n\nHe travelled through Afghanistan, India and the Arabian deserts, until he reached Africa. There the animals made him their king, but even there he found no peace. A crocodile wanted to eat him, and the monkeys made him king of the monkeys. Escaping from them, he came to the Arabs, and then he heard a voice from Warsaw on the radio, calling him home.\n\n---\nMatołek returned to Poland. His return was a great event – the children greeted him joyfully, and he hugged them all with emotion. He told them his adventures, from first to last, about his meeting with Mr. Twardowski, about fleeing from the witch and about how he lost his beard. He laughed and cried in turn, and the children listened with bated breath.\n\n– Stay with us, Matołek! – they begged.\n\n– I will stay! – answered the little goat. – I will never leave Poland again. Everywhere is nice, but home is best.\n\nAnd so Koziołek Matołek, who had spent his whole life looking for Pacanów, finally found his place. Not in Pacanów, not in Africa, and not on the Moon, but in Poland, among his own people, where the children who loved him were waiting.\n\nAnd his beard? It grew back, even longer and more beautiful than before, and he himself became the most famous little goat in the whole of Poland, gladly telling his story to anyone who wanted to hear it. And he lived long and happily, among his own people.\n\n**THE END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Where does Matołek want to get to at the beginning?",
+        "answers": [
+          "Pacanów",
+          "Warsaw",
+          "Africa",
+          "The Moon"
+        ],
+        "correctIndex": 0,
+        "explanation": "He sets off for Pacanów to get horseshoes."
+      },
+      {
+        "type": "single_choice",
+        "question": "Who does Matołek meet on the Moon?",
+        "answers": [
+          "Mr. Twardowski",
+          "A dragon",
+          "A king",
+          "A witch"
+        ],
+        "correctIndex": 0,
+        "explanation": "On the Moon he meets Mr. Twardowski."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Matołek lose in the town with the strange law?",
+        "answers": [
+          "His beard",
+          "His horseshoes",
+          "His bundle",
+          "His legs"
+        ],
+        "correctIndex": 0,
+        "explanation": "In the town where beards are forbidden, they cut off his beard."
+      },
+      {
+        "type": "single_choice",
+        "question": "Where does Matołek finally stay?",
+        "answers": [
+          "In Poland, among his own people",
+          "In Pacanów for good",
+          "In Africa as king",
+          "On the Moon"
+        ],
+        "correctIndex": 0,
+        "explanation": "He says: \"I will stay! I will never leave Poland again.\""
+      },
+      {
+        "type": "single_choice",
+        "question": "Who sews Matołek's head back on after he loses his beard?",
+        "answers": [
+          "A cobbler",
+          "A witch",
+          "A princess",
+          "A blacksmith"
+        ],
+        "correctIndex": 0,
+        "explanation": "A kind cobbler sews his head back onto his body."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "w19vw3rt:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "legends",
+  "audience": "children_8_12",
+  "subtitle": "An abridged journey of the most famous little goat",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2024-01-26"
+  ],
+  "inspiredBy": {
+    "youtube": "C18gZmTbHh4"
+  },
+  "world": {
+    "objects": [
+      "horseshoe"
+    ],
+    "creatures": [
+      "goat"
+    ],
+    "places": [
+      "shop",
+      "town"
+    ]
+  }
+}

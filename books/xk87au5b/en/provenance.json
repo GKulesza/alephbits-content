@@ -1,0 +1,27 @@
+{
+  "packId": "xk87au5b:en",
+  "bookId": "xk87au5b",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition (Collection Eleven manuscript). Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "RXdgMlRqr-E"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "xk87au5b:pl",
+  "translationSourceVersion": "1.0.1"
+}

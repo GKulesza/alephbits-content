@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De dónde es Mai?",
+      "answers": [
+        "De Polonia",
+        "Del norte de Vietnam",
+        "De China",
+        "De Japón"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nació en una aldea de las montañas de Vietnam; su familia emigró."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace que Mai vuelva al baile?",
+      "answers": [
+        "Un premio en un concurso",
+        "Un vídeo de baile hmong",
+        "La presión de su familia",
+        "Una exigencia de la escuela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se topa con un vídeo de baile hmong y siente nostalgia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Mai a Ania sobre el hogar?",
+      "answers": [
+        "Que el hogar es una dirección",
+        "Que el hogar es un sentimiento, no un lugar",
+        "Que el hogar es solo Vietnam",
+        "Que el hogar no existe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responde: el hogar es un sentimiento, no un lugar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué les dice Mai a sus alumnos sobre el baile?",
+      "answers": [
+        "Que es un deporte",
+        "Que el baile es una conversación con los antepasados",
+        "Que es una moda",
+        "Que es solo movimiento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que el baile es una conversación con los antepasados."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué tiene Mai en la mano en el epílogo?",
+      "answers": [
+        "Un teléfono",
+        "Un billete de cien coronas",
+        "Una carta",
+        "Un billete de avión"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiene cien coronas — el dinero del día en que cayó el sistema."
+    }
+  ]
+}

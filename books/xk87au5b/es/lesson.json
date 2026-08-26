@@ -1,0 +1,128 @@
+{
+  "id": "xk87au5b:es",
+  "bookId": "xk87au5b",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_ciche_serce_dzwonka",
+  "legacySlug": "ciche-serce-dzwonka",
+  "title": "El corazón silencioso de la campana",
+  "language": "es",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-13",
+  "description": "Una campana dorada en una pequeña tienda de instrumentos se avergüenza de sonar solo en un susurro — hasta que un violonchelo y una niña pequeña le muestran que el silencio también puede ser hermoso.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "muzyka",
+    "pewność siebie",
+    "Collection Eleven"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "Traducción al español del pack de lectura polaco \"Ciche serce dzwonka\" — edición oficial de Collection Eleven.",
+  "text": "**EL CORAZÓN SILENCIOSO DE LA CAMPANA**\n\nEn una pequeña y olvidada tienda de instrumentos, situada en la esquina de una calle antigua, vivía una campana. Era pequeña, de latón, y muy, muy tímida. Su trabajo era emitir sonidos que atrajeran la atención de los clientes, anunciar un nuevo día, llamar a la oración. Pero esta campana no sabía sonar fuerte.\n\n– Hola, soy la Campana Dorada – se presentaba a los instrumentos nuevos que llegaban a la tienda. – Estamos todos aquí juntos, y cada uno de nosotros tiene su propósito.\n\n– ¿Y cuál es el tuyo? – preguntaba la campana nueva.\n\n– ¿El mío? – respondía la Campana Dorada, sonrojándose bajo su pátina. – Yo... yo todavía no lo sé. No sé sonar tan fuerte como los demás.\n\nY entonces se encerraba en sí misma, se escondía detrás de las campanas más grandes y callaba. Su sonido era bajito, como un susurro, como si tuviera miedo de molestar a alguien. No era un sonido que atrajera la atención. Era un sonido que tenías que querer oír para notarlo.\n\nLos otros instrumentos de la tienda eran ruidosos y seguros de sí mismos. La trompeta chirriaba alegremente cada mañana. El tambor retumbaba en cuanto los niños pasaban corriendo. La flauta cantaba sobre la primavera, y el acordeón tocaba tan alegremente que hasta los ratones más tristes del sótano se ponían a bailar.\n\n¿Y la Campana Dorada? Solo susurraba.\n\n– Quizá estoy rota – pensaba cuando nadie miraba. – Quizá no sirvo para ser una campana.\n\nCerrando los ojos – porque las campanas también tienen ojos, solo que muy pequeños – intentaba con todas sus fuerzas emitir un sonido fuerte. Pero en lugar de un sonido que sacudiera las paredes, de ella salía un tintineo suave y delicado que sonaba como un copo de nieve cayendo al suelo.\n\n– No es nada – se susurraba a sí misma. – Nadie me necesita de todos modos.\n\n---\nUn día, dos viejos amigos llegaron a la tienda: un violín y un violonchelo. Habían estado allí más tiempo que cualquier otro instrumento. Habían visto muchas campanas, trompetas y tambores. Y sabían que cada instrumento tiene su historia.\n\nEl violín, cuyo arco ya estaba un poco desgastado, miró a la Campana Dorada.\n\n– ¿Por qué te escondes, pequeño? – preguntó.\n\n– Porque no sé sonar fuerte – respondió la campana con vergüenza. – No sirvo para nada.\n\nEl violonchelo se inclinó hacia ella. Era el más viejo de la tienda, y su madera olía a años de música.\n\n– ¿Y quién ha dicho que una campana tiene que ser ruidosa? – preguntó.\n\n– Todo el mundo lo dice – respondió en voz baja.\n\n– Todo el mundo se equivoca – dijo el violonchelo. – Escúchame, pequeño. Tus sonidos son suaves, pero son hermosos. Los susurros también importan. A veces alguien necesita oír algo delicado para dormirse. A veces alguien necesita oír algo silencioso para recordar lo que es importante.\n\nLa Campana Dorada lo miró con incredulidad.\n\n– ¿De verdad?\n\n– De verdad – respondió el violonchelo. – Pero tienes que mostrarte al mundo. No puedes esconderte detrás de los demás. Si nadie te encuentra, nadie oirá tu sonido.\n\n---\nAl día siguiente, cuando una niña pequeña entró en la tienda, la Campana Dorada reunió valor. Salió de su escondite, se colocó en medio del estante y emitió un sonido. El sonido más suave y delicado que jamás había emitido.\n\nLa niña lo oyó. Se agachó en el suelo y miró la campana.\n\n– Qué bonita – dijo. – Suenas tan bajito, como si tuvieras miedo de molestar. Pero yo te oigo.\n\nY entonces la Campana Dorada entendió que no tiene que ser ruidosa para ser importante.\n\nLa niña la compró y se la llevó a casa. La colgó en la ventana de su habitación, allí donde siempre soplaba una brisita. Cada vez que el viento movía la campana, esta emitía sonidos suaves y delicados que le recordaban que en el silencio también hay belleza.\n\nY la Campana Dorada ya nunca se escondió. Sabía que su sonido era especial, incluso siendo silencioso.\n\nPorque a veces las cosas más importantes se oyen justamente en el silencio.\n\n**FIN**",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿En qué se diferencia la Campana Dorada de los demás instrumentos?",
+        "answers": [
+          "Suena muy bajito",
+          "No tiene campana",
+          "Es la más grande",
+          "No le gusta la música"
+        ],
+        "correctIndex": 0,
+        "explanation": "Su sonido es bajito, como un susurro."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué dice el violonchelo sobre los susurros?",
+        "answers": [
+          "Que también importan",
+          "Que son inútiles",
+          "Que hay que gritar",
+          "Que la campana está rota"
+        ],
+        "correctIndex": 0,
+        "explanation": "El violonchelo dice que los susurros también importan."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Quién compra la campana?",
+        "answers": [
+          "Una niña pequeña",
+          "El dueño de la tienda",
+          "Una profesora",
+          "Un anciano"
+        ],
+        "correctIndex": 0,
+        "explanation": "La niña oye su sonido silencioso y la compra."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Dónde cuelga la niña la campana?",
+        "answers": [
+          "En la ventana de su habitación",
+          "En el sótano",
+          "En el tejado",
+          "En la escuela"
+        ],
+        "correctIndex": 0,
+        "explanation": "La colgó en la ventana, donde soplaba una brisita."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué conclusión saca la campana?",
+        "answers": [
+          "No tiene que ser ruidosa para ser importante",
+          "Tiene que tocar como el tambor",
+          "Debería seguir escondiéndose",
+          "El silencio es malo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Entiende que su sonido silencioso es especial e importante."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "xk87au5b:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "short_story",
+  "audience": "children_8_12",
+  "subtitle": "Cuando no hace falta un sonido fuerte",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2022-02-02"
+  ],
+  "inspiredBy": {
+    "youtube": "RXdgMlRqr-E"
+  },
+  "world": {
+    "objects": [
+      "bell"
+    ],
+    "places": [
+      "shop",
+      "street"
+    ]
+  }
+}

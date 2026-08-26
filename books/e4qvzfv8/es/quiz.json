@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Comprueba tu comprensión",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Ile lat ma Marek, gdy słyszy o Marsie?",
+      "question": "¿Cuántos años tiene Marek cuando oye hablar de Marte?",
       "answers": [
-        "Osiem",
-        "Szesnaście",
-        "Sześćdziesiąt",
-        "Trzydzieści"
+        "Ocho",
+        "Dieciséis",
+        "Sesenta",
+        "Treinta"
       ],
       "correctIndex": 0,
-      "explanation": "Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia."
+      "explanation": "Marek tiene ocho años cuando la Viking envía las primeras fotografías."
     },
     {
       "type": "single_choice",
-      "question": "Co Marek widzi na pierwszym zdjęciu z Viking?",
+      "question": "¿Qué ve Marek en la primera fotografía de la Viking?",
       "answers": [
-        "Coś jak twarz",
-        "Kanały wody",
-        "Miasto",
-        "Statek kosmiczny"
+        "Algo parecido a una cara",
+        "Canales de agua",
+        "Una ciudad",
+        "Una nave espacial"
       ],
       "correctIndex": 0,
-      "explanation": "Wskazuje formację skalną wyglądającą jak twarz."
+      "explanation": "Señala una formación rocosa que parece una cara."
     },
     {
       "type": "single_choice",
-      "question": "Co odkrywa łazik Perseverance w kraterze Jezero?",
+      "question": "¿Qué descubre el róver Perseverance en el cráter Jezero?",
       "answers": [
-        "Starożytną deltę rzeki",
-        "Bazę obcych",
-        "Lodowiec",
-        "Wulkan"
+        "Un antiguo delta de un río",
+        "Una base extraterrestre",
+        "Un glaciar",
+        "Un volcán"
       ],
       "correctIndex": 0,
-      "explanation": "Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia."
+      "explanation": "Marek habla de un antiguo delta de un río, un buen lugar para buscar huellas de vida."
     },
     {
       "type": "single_choice",
-      "question": "Jak nazywa się skała z okrągłymi plamami?",
+      "question": "¿Cómo se llama la roca con manchas redondas?",
       "answers": [
         "Cheyava Falls",
         "ALH84001",
-        "Twarz z Cydonii",
+        "La Cara de Cidonia",
         "Viking Rock"
       ],
       "correctIndex": 0,
-      "explanation": "Perseverance znalazł skałę Cheyava Falls."
+      "explanation": "Perseverance encontró la roca Cheyava Falls."
     },
     {
       "type": "single_choice",
-      "question": "Co ojciec mówi o błędzie z kanałami na Marsie?",
+      "question": "¿Qué dice el padre sobre el error de los canales de Marte?",
       "answers": [
-        "Sprawił, że ludzie zaczęli marzyć",
-        "Udowodnił, że na Marsie jest życie",
-        "Zniszczył astronomię",
-        "Był ważniejszy niż prawda"
+        "Que hizo que la gente empezara a soñar",
+        "Que demostró que hay vida en Marte",
+        "Que destruyó la astronomía",
+        "Que era más importante que la verdad"
       ],
       "correctIndex": 0,
-      "explanation": "Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć."
+      "explanation": "El padre dice que el error hizo que la gente empezara a soñar."
     }
   ]
 }

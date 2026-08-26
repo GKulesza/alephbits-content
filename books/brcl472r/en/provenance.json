@@ -1,0 +1,27 @@
+{
+  "packId": "brcl472r:en",
+  "bookId": "brcl472r",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition (Collection Nine manuscript). Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "F7YtLJEj8Nk"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "brcl472r:pl",
+  "translationSourceVersion": "1.1.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does Mai come from?",
+      "answers": [
+        "Poland",
+        "Northern Vietnam",
+        "China",
+        "Japan"
+      ],
+      "correctIndex": 1,
+      "explanation": "She was born in a village in the mountains of Vietnam; her family emigrated."
+    },
+    {
+      "type": "single_choice",
+      "question": "What makes Mai return to dance?",
+      "answers": [
+        "A prize in a competition",
+        "A video of Hmong dance",
+        "Pressure from her family",
+        "A school requirement"
+      ],
+      "correctIndex": 1,
+      "explanation": "She comes across a video of Hmong dance and feels longing."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Mai tell Ania about home?",
+      "answers": [
+        "Home is an address",
+        "Home is a feeling, not a place",
+        "Home is only Vietnam",
+        "Home does not exist"
+      ],
+      "correctIndex": 1,
+      "explanation": "She answers: home is a feeling, not a place."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Mai tell her students about dance?",
+      "answers": [
+        "That it is a sport",
+        "That dance is a conversation with your ancestors",
+        "That it is a fashion",
+        "That it is only movement"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says that dance is a conversation with your ancestors."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Mai holding in her hand in the epilogue?",
+      "answers": [
+        "A phone",
+        "A hundred-crown banknote",
+        "A letter",
+        "A plane ticket"
+      ],
+      "correctIndex": 1,
+      "explanation": "She is holding a hundred crowns — the money from the day the system crashed."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "brcl472r:es",
+  "bookId": "brcl472r",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection Nine). Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "F7YtLJEj8Nk"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "brcl472r:pl",
+  "translationSourceVersion": "1.1.0"
+}

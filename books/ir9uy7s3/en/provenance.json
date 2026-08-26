@@ -1,0 +1,27 @@
+{
+  "packId": "ir9uy7s3:en",
+  "bookId": "ir9uy7s3",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition (Collection Eight manuscript). Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "mHVojuZkez0"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "ir9uy7s3:pl",
+  "translationSourceVersion": "1.1.0"
+}
