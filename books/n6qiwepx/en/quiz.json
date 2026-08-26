@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "When does Zosia first hear that she is a \"good girl\"?",
+      "answers": [
+        "At school, during a lesson",
+        "At about five years old, over breakfast",
+        "At university, during classes",
+        "After her son is born"
+      ],
+      "correctIndex": 1,
+      "explanation": "Her mother says it to her over breakfast when she is five."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Zosia do for the first time at about 15?",
+      "answers": [
+        "Changes schools mid-year",
+        "Refuses to go to choir rehearsal",
+        "Goes on Erasmus",
+        "Quits Instagram"
+      ],
+      "correctIndex": 1,
+      "explanation": "She refuses to go to choir rehearsal and locks herself in the bathroom."
+    },
+    {
+      "type": "single_choice",
+      "question": "What course does she choose after being disappointed by journalism?",
+      "answers": [
+        "Psychology",
+        "European studies",
+        "Medicine",
+        "Law"
+      ],
+      "correctIndex": 1,
+      "explanation": "She transfers to European studies because of Erasmus and travel."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Zosia start doing during the pandemic and her difficult pregnancy?",
+      "answers": [
+        "Writing a crime novel",
+        "Recording conversations and publishing them online",
+        "Running a restaurant in the city",
+        "Learning to code"
+      ],
+      "correctIndex": 1,
+      "explanation": "She records conversations for her family, then Instagram/TikTok/YouTube."
+    },
+    {
+      "type": "single_choice",
+      "question": "What would Zosia say to her younger self?",
+      "answers": [
+        "Be even more perfect",
+        "You don't have to be perfect — being yourself is enough",
+        "Drop out of school and leave the city",
+        "Never say \"no\" to anyone"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the interview she says: \"You don't have to be so perfect. Being yourself is enough.\""
+    }
+  ]
+}

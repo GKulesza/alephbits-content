@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Krzysztof el carácter de su programa al principio?",
+      "answers": [
+        "Un programa exclusivamente informativo",
+        "Una serie de entretenimiento sobre teorías conspirativas",
+        "Un servicio meteorológico matinal",
+        "Un programa musical sin palabras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habla del \"resplandor verde\" como una serie de entretenimiento sobre teorías conspirativas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué encuentra Krzysztof en la entrada antigua de sus notas de hace tres años?",
+      "answers": [
+        "Una receta de café",
+        "Una mención a un preparado que revierte el envejecimiento en 20 años",
+        "Una carta de la redacción",
+        "Un itinerario de viaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baja hasta la entrada sobre el preparado que prolonga la juventud exactamente 20 años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué sugiere la carta anónima tras la emisión sobre el polvo amarillo?",
+      "answers": [
+        "Que el preparado no existe ni existirá",
+        "Que el preparado existe, pero tiene una condición oculta y más consecuencias",
+        "Que la emisión será premiada",
+        "Que Krzysztof debe dejar la radio de inmediato"
+      ],
+      "correctIndex": 1,
+      "explanation": "La carta habla de un preparado que funciona, pero con una condición y una profecía de degradación."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina la primera línea de la advertencia en la segunda carta?",
+      "answers": [
+        "Por favor, grabe más",
+        "Ha dicho demasiado — deje de hacerlo",
+        "Le invitamos a una conferencia",
+        "Queremos una entrevista en TV"
+      ],
+      "correctIndex": 1,
+      "explanation": "La segunda carta pide que deje de grabar por su propia seguridad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué sugiere la grabación oculta del epílogo sobre \"uno de ellos\"?",
+      "answers": [
+        "Que es un oyente normal de la radio",
+        "Que es algo no humano, que insinúa a través de las personas",
+        "Que es una broma del estudio",
+        "Que es un anuncio de un suplemento"
+      ],
+      "correctIndex": 1,
+      "explanation": "La grabación dice que \"uno de ellos\" es algo que vino de fuera y conoce el futuro."
+    }
+  ]
+}

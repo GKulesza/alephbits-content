@@ -1,0 +1,24 @@
+{
+  "packId": "o69wezc1:en",
+  "bookId": "o69wezc1",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja inspirowana formatem audycji; treści geopolityczne i spiskowe są narracją postaci, nie faktami katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "EPSynLaX9L0"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Founder review zalecany przed promocją — wrażliwe tematy i ton sensacyjny."
+}

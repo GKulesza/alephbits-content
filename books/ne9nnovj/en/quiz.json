@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old was the narrator when he first heard about the Templars?",
+      "answers": [
+        "Ten",
+        "Twelve",
+        "Fifteen",
+        "Seven"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says: \"When I was twelve years old, I first heard about the Templars.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Whom does the narrator remember as a \"holy warrior\" in the human sense?",
+      "answers": [
+        "His father",
+        "His grandfather from the Home Army",
+        "Artur Wójtowicz",
+        "Ator"
+      ],
+      "correctIndex": 1,
+      "explanation": "His grandfather was a Home Army soldier and found peace in accepting the past."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did the narrator wear as a child?",
+      "answers": [
+        "A medallion of Our Lady",
+        "A red cross",
+        "A samurai amulet",
+        "A medal"
+      ],
+      "correctIndex": 0,
+      "explanation": "He remembers the medallion of Our Lady he believed in as a child."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does the narrator draw at the end?",
+      "answers": [
+        "We need to return to religion",
+        "Maybe faith in ourselves and giving life meaning is enough",
+        "War is always right",
+        "Rituals are useless"
+      ],
+      "correctIndex": 1,
+      "explanation": "He ends with the thought that maybe we don't need faith in gods — faith in ourselves is enough."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where is the narrator sitting while listening to the podcast?",
+      "answers": [
+        "In his Warsaw flat",
+        "In Kraków",
+        "In Poznań",
+        "At his grandfather's farm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The story begins with \"I'm sitting in my Warsaw flat\"."
+    }
+  ]
+}

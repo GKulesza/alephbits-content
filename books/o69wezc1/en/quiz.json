@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Krzysztof describe the character of his broadcast at the beginning?",
+      "answers": [
+        "Exclusively a news programme",
+        "An entertainment series about conspiracy theories",
+        "A morning weather service",
+        "A music show without words"
+      ],
+      "correctIndex": 1,
+      "explanation": "He speaks of the \"Green Glow\" as an entertainment series about conspiracy theories."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Krzysztof find in the old entry in his notes from three years ago?",
+      "answers": [
+        "A recipe for coffee",
+        "A mention of a preparation that reverses ageing by 20 years",
+        "A letter from the editorial office",
+        "A travel schedule"
+      ],
+      "correctIndex": 1,
+      "explanation": "He scrolls to the entry about the preparation prolonging youth by exactly 20 years."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the anonymous letter suggest after the broadcast about the yellow powder?",
+      "answers": [
+        "That the preparation doesn't exist and never will",
+        "That the preparation exists, but has a hidden condition and further consequences",
+        "That the broadcast will be rewarded",
+        "That Krzysztof should leave the radio immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "The letter speaks of a preparation that works, but with a condition and a prophecy of degradation."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the first line of the warning in the second letter end?",
+      "answers": [
+        "Please record more",
+        "You've said too much — please stop",
+        "We invite you to a conference",
+        "We'd like an interview on TV"
+      ],
+      "correctIndex": 1,
+      "explanation": "The second letter calls for the recordings to stop, for the sake of safety."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the hidden recording in the epilogue suggest about \"one of them\"?",
+      "answers": [
+        "That it's an ordinary radio listener",
+        "That it's something non-human, hinting through people",
+        "That it's a studio joke",
+        "That it's a supplement advertisement"
+      ],
+      "correctIndex": 1,
+      "explanation": "The recording says \"one of them\" is something that came from outside and knows the future."
+    }
+  ]
+}

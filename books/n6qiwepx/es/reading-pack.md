@@ -1,0 +1,315 @@
+# La niña buena
+
+## Metadata
+
+**Pack ID:** n6qiwepx
+**Book ID:** n6qiwepx
+**Legacy Pack ID:** polish_dobra_dziewczynka
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** La niña buena  
+**Subtitle:** Perfección, un diario y el regreso a una misma  
+**Blurb:** Durante décadas Zosia fue "la niña buena": matrícula de honor, el coro, un diario en un cajón. Solo el embarazo en plena pandemia y las redes sociales la ayudan a quitarse la máscara y decirles a otras madres: basta con ser tú misma.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Dobra dziewczynka" — edición oficial de Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** perfekcjonizm, macierzyństwo, media społecznościowe, Collection Ten  
+
+**Keywords:** Dobra dziewczynka, Zosia, perfekcja, macierzyństwo  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- childhood
+- motherhood
+- writing
+- memory
+- shame
+- forgiveness
+
+**Editorial notes:** Fikcja w formie wywiadu radiowego; słabszy ton autopromocyjny.
+
+**Inspiration:** Motyw perfekcjonizmu i maski „grzecznej dziewczynki” w macierzyństwie.
+
+---
+
+**World:**
+- places: home
+- objects: book
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** *(manuscript)*  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Akceptowalna — ważny temat, struktura wywiadu słabsza niż najlepsze opowiadania C10. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**LA NIÑA BUENA**
+
+Tenía cinco años cuando oyó por primera vez esas palabras. No recordaba las circunstancias, solo que su madre le sonrió sobre el desayuno y dijo: "Zosia, eres una niña muy buena".
+
+Y fue como un tornillo. Como algo que se enrosca en el centro de una persona y ya nunca se sale. Desde entonces, Zosia supo quién debía ser. Buena. Correcta. Perfecta. Alguien que no da problemas, que estudia para sacar matrícula de honor, que lleva el pelo en una coleta y no grita, aunque tenga ganas.
+
+---
+En su casa siempre había periódicos. Estaban sobre la mesa, en el suelo, en las estanterías. Su padre, un hombre de manos grandes y corazón aún más grande, los leía en el desayuno, en la cena, en cualquier momento libre. Zosia creció entre palabras: impresas, habladas, susurradas. Sabía que las palabras tienen poder. Que pueden construir o destruir. Que hay que pesarlas como oro.
+
+Tenía dos hermanas, veinte años mayores. Para Zosia eran como tías, como segundas madres. Observaba sus vidas desde la distancia, veía sus errores, sus éxitos, sus desengaños. Y aprendía de sus errores. Ella no repetiría las mismas equivocaciones. Ella sería mejor. Perfecta.
+
+Porque eso era lo que el mundo esperaba de ella. Y ella, la niña buena, siempre le daba al mundo lo que quería.
+
+---
+Un colegio solo de chicas. Seis años entre niñas. Para otras era una cárcel, para Zosia un refugio. Donde no había chicos, no había rivalidad. Había amistades que han durado hasta hoy. Había una solidaridad que nunca volvió a encontrar.
+
+Pero eso no significaba que fuera fácil. Cada día, cuando salía de casa con el mismo uniforme azul marino, sentía sobre ella el peso de las expectativas. Tenía que ser la mejor. Tenía que sacar matrícula de honor. Tenía que ser un modelo a seguir. Porque si no lo era, decepcionaría a sus padres. Y decepcionar a sus padres era lo peor que podía pasarle.
+
+Así que lo era. Cada día. Hora tras hora. Se encerraba en su habitación con sus libros, con Harry Potter, con el diario que le regalaban al final de cada curso. Lo escribía todo. Sobre unos padres que no la entendían. Sobre unas hermanas que lo habían tenido más fácil. Sobre chicos que nunca la miraban. Sobre sentirse sola, incluso entre la multitud.
+
+Y luego cerraba el diario y lo escondía en un cajón. Porque una niña buena no se queja. Una niña buena sonríe.
+
+---
+Tenis, baile, canto, idiomas. Actividades que odiaba pero que tenía que hacer. Porque sus padres querían que estuviera preparada para la vida. Que supiera hacerlo todo. Que nunca tuviera que pedir ayuda.
+
+– Zosia, ya verás – decía su padre. – Agradecerás que te hayamos enseñado. Un día nos darás las gracias por todo.
+
+Tenían razón. Lo hacían por amor. Pero Zosia no podía perdonárselo. No por empujarla. Por no haberle preguntado nunca qué quería ella.
+
+Y entonces, un día, algo se rompió dentro de ella. Era una mañana corriente, antes de salir para el ensayo del coro. Tendría unos quince años. Hizo la mochila, se vistió, salió de su habitación. Y se detuvo en la puerta del baño. Y no pudo dar un paso más.
+
+– No voy – dijo en voz baja.
+
+– ¿Qué? – la miró su madre, sorprendida.
+
+– No voy. No quiero ir allí. Nunca he querido.
+
+Se encerró en el baño y se quedó allí hasta que oyó que sus padres cancelaban la salida. Aquel día, por primera vez en su vida, dijo "no". Y aunque temió que el mundo se hundiera, no se hundió. Sus padres seguían queriéndola. Y ella sintió que respiraba por primera vez en años.
+
+---
+La universidad. Periodismo. Una decepción con forma de clases sobre tiradas de periódicos y fechas de fundación de las televisiones. Zosia quería escribir, y le enseñaban historia. Quería crear, y le hablaban de estadísticas.
+
+Así que cambió de carrera. Se pasó a estudios europeos, porque la atraían el Erasmus, los viajes, conocer mundo. Y allí conoció a su marido. Allí, donde menos lo esperaba.
+
+Fue el primer chico que la miró. Y el primero al que miró ella. Durante años había estado convencida de que era invisible. De que no había nada en ella que pudiera interesar a nadie. Y él llegó y dijo: "Te veo".
+
+Y entonces, por primera vez, entendió que no tenía que ser perfecta. Que podía simplemente ser ella misma.
+
+---
+Trabajar en los medios. Una redacción donde hombres adultos lloraban después de las reuniones. Se hacían guerras por los cargos, por los títulos, por el reconocimiento. Y ella, la niña buena, lo miraba todo desde un lado y pensaba: "Esto no es para mí".
+
+Ya estaba harta. Harta de las mentiras que los medios intentaban vender a los espectadores. Harta de la industria de las emociones, donde lo importante era el clic, no la verdad. Harta de la gente que decía una cosa y hacía otra. Harta de sí misma, fingiendo que todo iba bien.
+
+En 2017 se marchó. Renunció a su trabajo en el despacho del primer ministro, a su trabajo en WP, a todo ese mundo que la devoraba. Volvió a casa. Con su marido. Con los hijos que aún no existían, pero que ya esperaban.
+
+Y empezó a respirar.
+
+---
+La pandemia. Un embarazo que no fue fácil. Siete meses en cama, con el teléfono en la mano, con su marido en la habitación de al lado, con el sonido de sus propios pensamientos en la cabeza. Fue un tiempo en el que, por primera vez, sintió que de verdad necesitaba ayuda. Que no podía con la perfección. Que algunas cosas eran más grandes que ella.
+
+Leyó entonces todas las guías que encontró. Y cada vez se sentía peor. Porque las guías decían: "Tienes que estar tranquila", "Tienes que ser comprensiva", "Tienes que ser perfecta". Y ella no lo era. Y sentía que fallaba.
+
+Hasta que un día, tumbada en la cama, entendió que todo eso era una mentira. Que no existe un único camino bueno. Que cada padre es distinto. Que no hace falta ser perfecto para ser bueno.
+
+Y entonces empezó a escribir.
+
+---
+Luego llegó su hijito. Y Zosia, que toda su vida había hecho todo para ser buena con los demás, entendió que ahora tenía la oportunidad de ser buena con él. No a la manera en que la habían educado sus padres: mediante exigencias, expectativas, desaprobación. Sino de otra manera. Escuchando. Estando a su lado. Mostrando que se puede ser imperfecto y seguir siendo querido.
+
+Empezó a grabar conversaciones. Al principio solo para ella, para la familia. Luego en Instagram, en TikTok, en YouTube. Y resultó que la gente lo necesitaba. Que cientos de miles de madres, padres, abuelos — todos buscaban lo mismo: a alguien que les dijera que basta.
+
+Y Zosia, que toda su vida había escondido su sensibilidad tras una máscara de perfección, empezó a mostrarla. En sus vídeos, en sus historias, en las conversaciones con su hijo, que tenía tres años y hablaba mejor que algunos adultos.
+
+Porque hablaba con él como con una persona. No como con un niño. No como con alguien que no entiende. Lo tomaba en serio. Y él le respondía.
+
+---
+– ¿Por qué te quiere tanto la gente? – le preguntó una vez la periodista en un pódcast.
+
+Zosia pensó un momento.
+
+– Quizá porque – dijo – soy simplemente normal. Porque muestro que se puede ser madre y ser tú misma. Que no hace falta ser perfecta para ser una buena madre.
+
+– ¿Y qué le dirías a aquella niña que escribía diarios en su habitación?
+
+Zosia sonrió.
+
+– Le diría: "Todo irá bien. No tienes que ser tan perfecta. Basta con que seas tú misma."
+
+---
+Después Zosia habló del trabajo, de los hijos, de su marido. De cómo aprendió a decir "no" — tras treinta años de vida, tras décadas de ser la niña buena. De cómo todavía le cuesta aceptar los cumplidos, porque en su cabeza sigue oyendo una voz que dice: "No lo mereces".
+
+Pero también habló de que trabaja en sí misma cada día. De que va a terapia, aunque le da miedo. De que habla con su marido de sus miedos. De que está aprendiendo a ser asertiva — no solo con el mundo, sino también consigo misma.
+
+Al final de la conversación, cuando la periodista le preguntó si creía en el destino, Zosia respondió:
+
+– Sí. Creo que alguien vela por mí. Y creo que si escuchamos nuestra intuición, si somos auténticos, la vida nos lleva adonde debemos estar.
+
+Y entonces, por primera vez en esa conversación, entendí que Zosia no es perfecta. Que nunca lo fue. Que toda su vida había estado aprendiendo a ser ella misma, arrancándose la máscara de perfección que se puso de niña.
+
+Y que ese es su mayor éxito.
+
+---
+Zosia dio un sorbo de agua. El estudio estaba cálido, los focos iluminaban su rostro, que — pese a todo, pese a años de lucha, pese a los momentos difíciles — seguía irradiando luz.
+
+– Gracias – dijo. – Por dejarme ser yo misma.
+
+– Lo fuiste – respondió la periodista. – Y eso es justamente lo que te hace tan especial.
+
+Zosia se rió en voz baja.
+
+Y en algún lugar de su cabeza, en el cajón de los diarios, una niña pequeña con un cuaderno en la mano dijo: "¿Ves? Te dije que todo iría bien."
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cuándo oye Zosia por primera vez que es una "niña buena"?
+
+**Answers:**
+- A) En el colegio, en clase
+- B) Con unos cinco años, sobre el desayuno
+- C) En la universidad, durante las clases
+- D) Después de nacer su hijo
+
+**Correct:** B
+**Explanation:** Su madre se lo dice sobre el desayuno cuando tiene cinco años.
+**Text reference:** cinco años
+
+### Question 2
+
+**Question:** ¿Qué hace Zosia por primera vez a los ~15 años?
+
+**Answers:**
+- A) Cambia de colegio a mitad de curso
+- B) Se niega a ir al ensayo del coro
+- C) Se va al Erasmus
+- D) Deja Instagram
+
+**Correct:** B
+**Explanation:** Se niega a ir al ensayo del coro y se encierra en el baño.
+**Text reference:** No voy
+
+### Question 3
+
+**Question:** ¿Qué carrera elige después de decepcionarse del periodismo?
+
+**Answers:**
+- A) Psicología
+- B) Estudios europeos
+- C) Medicina
+- D) Derecho
+
+**Correct:** B
+**Explanation:** Se pasa a estudios europeos por el Erasmus y los viajes.
+**Text reference:** estudios europeos
+
+### Question 4
+
+**Question:** ¿Qué empieza a hacer Zosia durante la pandemia y el embarazo difícil?
+
+**Answers:**
+- A) Escribir una novela policiaca
+- B) Grabar conversaciones y publicarlas en internet
+- C) Montar un restaurante en la ciudad
+- D) Aprender programación
+
+**Correct:** B
+**Explanation:** Graba conversaciones para la familia y luego en Instagram/TikTok/YouTube.
+**Text reference:** grabar conversaciones
+
+### Question 5
+
+**Question:** ¿Qué le diría Zosia a su versión joven?
+
+**Answers:**
+- A) Sé aún más perfecta
+- B) No tienes que ser perfecta — basta con ser tú misma
+- C) Deja los estudios y vete de la ciudad
+- D) No le digas nunca "no" a nadie
+
+**Correct:** B
+**Explanation:** En la entrevista dice: "No tienes que ser tan perfecta. Basta con que seas tú misma."
+**Text reference:** basta con que seas tú misma
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

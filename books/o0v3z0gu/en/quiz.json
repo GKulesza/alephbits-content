@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What film does Marcin accidentally come across?",
+      "answers": [
+        "About Nicolaus Copernicus",
+        "About the Battle of Berestechko and Wiśniowiecki",
+        "About the Second World War",
+        "About the Warsaw Uprising"
+      ],
+      "correctIndex": 1,
+      "explanation": "He comes across a film about Berestechko and Wiśniowiecki."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the old man in Berestechko say about the charge?",
+      "answers": [
+        "That it lasted three days",
+        "That three hours changed everything",
+        "That it made no difference",
+        "That it was a defeat"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says: three hours, son — and everything changed."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why did Wiśniowiecki move east instead of fleeing?",
+      "answers": [
+        "Because of military duty",
+        "Because without resistance the rebellion would have destroyed everything",
+        "Because the king ordered it",
+        "Because he was looking for treasure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin writes that he moved into the fire because the rebellion had to be stopped."
+    },
+    {
+      "type": "single_choice",
+      "question": "How old was Wiśniowiecki when he died, according to the epilogue?",
+      "answers": [
+        "50",
+        "39",
+        "25",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue: he died at the age of 39."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marcin write at the end of the article about the conditional mood of history?",
+      "answers": [
+        "That history always repeats its mistakes",
+        "That history doesn't know the conditional mood",
+        "That the past can be changed",
+        "That the battle was insignificant"
+      ],
+      "correctIndex": 1,
+      "explanation": "He quotes: history doesn't know the conditional mood."
+    }
+  ]
+}

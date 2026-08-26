@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Sobre qué película se topa Marcin por casualidad?",
+      "answers": [
+        "Sobre Nicolás Copérnico",
+        "Sobre la batalla de Beresteczko y Wiśniowiecki",
+        "Sobre la Segunda Guerra Mundial",
+        "Sobre el Alzamiento de Varsovia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se topa con una película sobre Beresteczko y Wiśniowiecki."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el anciano de Beresteczko sobre la carga?",
+      "answers": [
+        "Que duró tres días",
+        "Que tres horas lo cambiaron todo",
+        "Que no tuvo importancia",
+        "Que fue una derrota"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: tres horas, hijo — y cambió todo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué avanzó Wiśniowiecki hacia el este en lugar de huir?",
+      "answers": [
+        "Por obligación militar",
+        "Porque sin resistencia la rebelión lo habría destruido todo",
+        "Porque lo ordenó el rey",
+        "Porque buscaba tesoros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin escribe que avanzó hacia el fuego porque había que detener la rebelión."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tenía Wiśniowiecki cuando murió, según el epílogo?",
+      "answers": [
+        "50",
+        "39",
+        "25",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo: murió a los 39 años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marcin al final del artículo sobre el modo condicional de la historia?",
+      "answers": [
+        "Que la historia siempre repite sus errores",
+        "Que la historia no conoce el modo condicional",
+        "Que el pasado se puede cambiar",
+        "Que la batalla fue irrelevante"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cita: la historia no conoce el modo condicional."
+    }
+  ]
+}

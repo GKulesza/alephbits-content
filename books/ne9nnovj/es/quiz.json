@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tenía el narrador cuando oyó hablar por primera vez de los templarios?",
+      "answers": [
+        "Diez",
+        "Doce",
+        "Quince",
+        "Siete"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice: \"Cuando tenía doce años, oí hablar por primera vez de los templarios.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién recuerda el narrador como \"guerrero santo\" en el sentido humano?",
+      "answers": [
+        "A su padre",
+        "A su abuelo del Ejército Nacional",
+        "A Artur Wójtowicz",
+        "A Ator"
+      ],
+      "correctIndex": 1,
+      "explanation": "Su abuelo fue soldado del Ejército Nacional y encontró la paz aceptando el pasado."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué llevaba el narrador de niño?",
+      "answers": [
+        "Una medalla de la Virgen María",
+        "Una cruz roja",
+        "Un amuleto de samurái",
+        "Una condecoración"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recuerda la medalla de la Virgen en la que creía de niño."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión saca el narrador al final?",
+      "answers": [
+        "Hay que volver a la religión",
+        "Quizá baste con la fe en uno mismo y dar sentido a la vida",
+        "La guerra siempre es justa",
+        "Los rituales son inútiles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termina pensando que quizá no necesitamos creer en dioses: basta con la fe en nosotros mismos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde está sentado el narrador mientras escucha el pódcast?",
+      "answers": [
+        "En su piso de Varsovia",
+        "En Cracovia",
+        "En Poznań",
+        "En el campo del abuelo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La historia empieza con \"estoy sentado en mi piso de Varsovia\"."
+    }
+  ]
+}

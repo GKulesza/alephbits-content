@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "By what time does Kamila have the presentation deadline?",
+      "answers": [
+        "8:00",
+        "12:00",
+        "4:00 pm",
+        "6:00 pm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deadline: 12:00."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Kamila describe the way her brain works?",
+      "answers": [
+        "Like a car idling",
+        "Like an aeroplane that needs momentum",
+        "Like a clock",
+        "Like a radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says her brain works like an aeroplane — it needs fuel to take off."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many slides does Kamila finish in hyperfocus?",
+      "answers": [
+        "Ten",
+        "Thirty-two",
+        "Five",
+        "Twenty"
+      ],
+      "correctIndex": 1,
+      "explanation": "She finishes the presentation: thirty-two slides."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the manager criticise about slide twelve?",
+      "answers": [
+        "The colours",
+        "The data without sufficient justification",
+        "The missing title",
+        "The text being too long"
+      ],
+      "correctIndex": 1,
+      "explanation": "She asks for better justification of the data in slide twelve."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kamila ask the team to do with comments?",
+      "answers": [
+        "Simply ignore them",
+        "Give them to her in the morning, when the battery is full",
+        "Write them in an email",
+        "Say them in English"
+      ],
+      "correctIndex": 1,
+      "explanation": "She asks for comments in the morning — in the afternoon the battery is at zero."
+    }
+  ]
+}

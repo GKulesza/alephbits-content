@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Para qué hora tiene Kamila la fecha límite de la presentación?",
+      "answers": [
+        "Las 8:00",
+        "Las 12:00",
+        "Las 16:00",
+        "Las 18:00"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fecha límite: las 12:00."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Kamila el funcionamiento de su cerebro?",
+      "answers": [
+        "Como un coche en punto muerto",
+        "Como un avión que necesita impulso",
+        "Como un reloj",
+        "Como una radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que su cerebro funciona como un avión: necesita combustible para despegar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántas diapositivas termina Kamila en hiperfoco?",
+      "answers": [
+        "Diez",
+        "Treinta y dos",
+        "Cinco",
+        "Veinte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termina la presentación: treinta y dos diapositivas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué critica la jefa en la diapositiva doce?",
+      "answers": [
+        "Los colores",
+        "Los datos sin suficiente justificación",
+        "La falta de título",
+        "El texto demasiado largo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pide justificar mejor los datos de la diapositiva doce."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pide Kamila al equipo con las observaciones?",
+      "answers": [
+        "Simplemente ignorarlas",
+        "Dárselas por la mañana, cuando la batería está llena",
+        "Escribírselas por correo",
+        "Decírselas en inglés"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pide las observaciones por la mañana: por la tarde la batería está a cero."
+    }
+  ]
+}

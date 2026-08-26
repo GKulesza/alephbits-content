@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuándo oye Zosia por primera vez que es una \"niña buena\"?",
+      "answers": [
+        "En el colegio, en clase",
+        "Con unos cinco años, sobre el desayuno",
+        "En la universidad, durante las clases",
+        "Después de nacer su hijo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Su madre se lo dice sobre el desayuno cuando tiene cinco años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Zosia por primera vez a los ~15 años?",
+      "answers": [
+        "Cambia de colegio a mitad de curso",
+        "Se niega a ir al ensayo del coro",
+        "Se va al Erasmus",
+        "Deja Instagram"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se niega a ir al ensayo del coro y se encierra en el baño."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué carrera elige después de decepcionarse del periodismo?",
+      "answers": [
+        "Psicología",
+        "Estudios europeos",
+        "Medicina",
+        "Derecho"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se pasa a estudios europeos por el Erasmus y los viajes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué empieza a hacer Zosia durante la pandemia y el embarazo difícil?",
+      "answers": [
+        "Escribir una novela policiaca",
+        "Grabar conversaciones y publicarlas en internet",
+        "Montar un restaurante en la ciudad",
+        "Aprender programación"
+      ],
+      "correctIndex": 1,
+      "explanation": "Graba conversaciones para la familia y luego en Instagram/TikTok/YouTube."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le diría Zosia a su versión joven?",
+      "answers": [
+        "Sé aún más perfecta",
+        "No tienes que ser perfecta — basta con ser tú misma",
+        "Deja los estudios y vete de la ciudad",
+        "No le digas nunca \"no\" a nadie"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la entrevista dice: \"No tienes que ser tan perfecta. Basta con que seas tú misma.\""
+    }
+  ]
+}
