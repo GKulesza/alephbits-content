@@ -133,14 +133,20 @@ void _validateRepositoryManifest(Directory repo, List<String> errors) {
 
     if (bookId is String && bookId.isNotEmpty) {
       final language = entry['language'];
-      final localeKey = language is String && language.isNotEmpty
-          ? '$bookId:${language.split(RegExp(r'[-_]')).first.toLowerCase()}'
-          : bookId;
+      // Use the manifest's canonical locale (primaryLocale) rather than
+      // re-deriving it: it preserves script variants such as `isv_cyrl` and
+      // `isv_glag` as distinct editions instead of collapsing them into `isv`.
+      final rawLocale = entry['locale'];
+      final localeKey = rawLocale is String && rawLocale.isNotEmpty
+          ? '$bookId:$rawLocale'
+          : language is String && language.isNotEmpty
+              ? '$bookId:${language.split(RegExp(r'[-_]')).first.toLowerCase()}'
+              : bookId;
       final existing = bookIdOwners[localeKey];
       if (existing != null) {
         errors.add(
           'manifest.json: duplicate edition for bookId "$bookId" '
-          'locale "${language ?? '?'}" (packs "$existing" and "$id")',
+          'locale "${rawLocale ?? language ?? '?'}" (packs "$existing" and "$id")',
         );
       } else {
         bookIdOwners[localeKey] = id;

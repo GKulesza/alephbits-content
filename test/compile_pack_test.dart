@@ -46,7 +46,7 @@ void main() {
     test('compiles trust, edition, and generated markers', () {
       final compiled = compilePackDirectory(demoPack);
       final lesson = jsonDecode(compiled.lessonJson) as Map<String, dynamic>;
-      expect(lesson['editionVersion'], '1.0.0');
+      expect(lesson['editionVersion'], '1.0.1');
       expect(lesson['trustClassification'], 'demo');
       expect(lesson['subtitle'], isNotEmpty);
       expect(lesson['generatedBy'], 'compile_pack');
