@@ -1,0 +1,79 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué el prólogo se abre con una escena en el Sáhara, si la historia vuelve enseguida a la infancia?",
+      "answers": [
+        "Porque el Sáhara es más importante que el castillo de Saint-Maurice",
+        "Porque la catástrofe y el rescate anuncian la imagen de la que nacería «El Principito»",
+        "Porque Antoine solo entonces aprendió a escribir",
+        "Porque el beduino es el protagonista del libro"
+      ],
+      "correctIndex": 1,
+      "explanation": "El prólogo une el accidente en el desierto con el futuro cuento sobre un piloto y un niño de cabello dorado — y con la memoria de un hermano que «nunca creció»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué significaba el apodo «Rey Sol» en la infancia de Antoine?",
+      "answers": [
+        "Que era el heredero oficial del trono de Francia",
+        "Que los de la casa veían en él a un niño de cabello dorado de temperamento real y con «trono»",
+        "Que gobernaba el castillo en lugar de su madre",
+        "Que tenía prohibido jugar en el desván"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los de la casa lo llamaban así; llevaba una silla pequeña de laca verde como un trono y se sentaba donde su madre se detenía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué aprendió Antoine en su primer vuelo en Ambérieu?",
+      "answers": [
+        "Que su madre siempre le permite volar",
+        "Que el cielo podía convertirse en el lugar donde quiere pasar su vida — aunque subió mintiendo",
+        "Que la Legión de Honor espera a los niños de doce años",
+        "Que Wróblewski se negó a despegar"
+      ],
+      "correctIndex": 1,
+      "explanation": "El niño de doce años mintió sobre el permiso de su madre; en el aire sintió la libertad y una vocación que aún no sabía nombrar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se relaciona después la muerte de François con «El Principito»?",
+      "answers": [
+        "François escribió la primera versión del cuento",
+        "Las palabras y el gesto de despedida del hermano vuelven en la despedida del niño de cabello dorado; la figura lleva también la memoria del hermano que no creció",
+        "François fue el modelo de Consuelo",
+        "Antoine olvidó a su hermano e inventó el final desde cero"
+      ],
+      "correctIndex": 1,
+      "explanation": "La narración subraya que las palabras de la «corteza vieja» y la caída «como cae un árbol» vuelven en el cuento; François es también el núcleo de la figura."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es la rosa en la interpretación dada en el texto — y por qué es importante?",
+      "answers": [
+        "La madre Marie, porque leía a Andersen",
+        "Consuelo — caprichosa, única; solo un cuento permite a Antoine decir con ternura lo que no supo en la vida",
+        "La hermana de Antoine",
+        "Una metáfora del avión Simoun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antoine nunca ocultó que la rosa era Consuelo; la tormentosa relación adquiere en el cuento una forma tierna y suave."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se negó Antoine a cambiar el final de «El Principito»?",
+      "answers": [
+        "Porque los editores querían un libro más largo",
+        "Porque la escena de la muerte era el traslado del recuerdo más íntimo de François — una despedida, no un adorno",
+        "Porque Consuelo escribió ese final",
+        "Porque la ley de derechos de autor prohibía los cambios"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los editores temían la muerte del niño; Antoine defendió una escena escrita con palabras llevadas durante un cuarto de siglo — el cuento era un testamento y una despedida."
+    }
+  ]
+}

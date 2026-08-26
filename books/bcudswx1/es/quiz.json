@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años lleva Paweł trabajando de maquinista?",
+      "answers": [
+        "Cinco",
+        "Cuarenta y cinco",
+        "Veinte",
+        "Treinta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lleva cuarenta y cinco años como maquinista."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde tiene lugar el incidente clave con el coche?",
+      "answers": [
+        "En Gdansk",
+        "En el paso a nivel de Otnice",
+        "En Breslavia",
+        "En Opole"
+      ],
+      "correctIndex": 1,
+      "explanation": "El coche sale por la izquierda en el paso a nivel de Otnice."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos metros más allá tendría que haber salido la conductora para que el tren golpeara el espacio donde estaban los niños?",
+      "answers": [
+        "Medio metro",
+        "Metro y medio",
+        "Tres metros",
+        "Cinco metros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł dice: si hubiera salido metro y medio más allá, habría golpeado de lleno."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué metáfora usó una vez el policía con Paweł?",
+      "answers": [
+        "Que es culpable",
+        "Que él es el árbol del que alguien se ahorcará",
+        "Que debe dejar el trabajo",
+        "Que es un videojuego"
+      ],
+      "correctIndex": 1,
+      "explanation": "El policía dijo que el hombre lo eligió él, y que Paweł es ese árbol."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué comprende Paweł por la noche tras el incidente?",
+      "answers": [
+        "Que debe irse de inmediato",
+        "Que no es un árbol: tiene elección de quedarse o marcharse",
+        "Que la culpa es de la conductora",
+        "Que el sueño se cumplirá"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que puede irse o quedarse, pero que será su elección."
+    }
+  ]
+}

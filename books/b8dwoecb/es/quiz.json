@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Tom justo después de encontrar a Ana en la cocina?",
+      "answers": [
+        "Llama a una ambulancia",
+        "Se sienta y empieza a buscar en Google preguntas sobre la descomposición del cuerpo y el embalsamamiento",
+        "Despierta a los niños",
+        "Llama a los vecinos"
+      ],
+      "correctIndex": 1,
+      "explanation": "En lugar de pedir ayuda, abre el navegador y pregunta por el olor del cuerpo y el embalsamamiento."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De qué quiere hablar Ana en la noche de Año Nuevo?",
+      "answers": [
+        "De unas vacaciones en Europa",
+        "De William, el intermediario",
+        "De un coche nuevo",
+        "De mudarse a Polonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana dice que tienen que hablar de William, el intermediario."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama en realidad Tom?",
+      "answers": [
+        "Brian",
+        "William",
+        "Donald",
+        "Tomasz"
+      ],
+      "correctIndex": 0,
+      "explanation": "En el epílogo, Tom recibe el nombre de Brian, sentado en una celda."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué condena recibe Brian?",
+      "answers": [
+        "Una multa",
+        "Cadena perpetua",
+        "Un año de libertad condicional",
+        "La absolución"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo dice que Brian tiene cadena perpetua y no siente nada."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde crecen los hijos del protagonista tras los acontecimientos?",
+      "answers": [
+        "En Polonia",
+        "En Massachusetts, sin padres",
+        "En Francia",
+        "En Serbia, con la abuela de Ana"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice que en Massachusetts sus hijos crecen sin padres."
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+# A Metre and a Half
+
+## Metadata
+
+**Pack ID:** bcudswx1
+**Book ID:** bcudswx1
+**Legacy Pack ID:** polish_poltora_metra
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** A Metre and a Half  
+**Subtitle:** The train driver, the dream and the choice  
+**Blurb:** Paweł Lasowski, a train driver with forty-five years of service, dreams of a man on the tracks with dead eyes. When at the crossing in Otnice a car with children barely avoids tragedy, he understands that he is not a tree — he has a choice.
+
+**Genres:** everyday_live, short_story  
+**Series:** Collection Seven  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Półtora metra" — Collection Seven official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** kolej, maszynista, trauma, Collection Seven  
+
+**Keywords:** półtora metra, maszynista, pociąg, Otnice, wybór  
+
+**Cover family:** everyday_live
+
+**Editorial notes:** Fikcja inspirowana realiami pracy maszynisty; sceny na torach są dramatyzacją, nie reportażem.
+
+**Inspiration:** Motyw półtora metra na przejeździe; sen o martwych oczach.
+
+---
+
+**World:**
+- objects: window
+- places: home, street
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 09.07.2026 -> https://www.youtube.com/watch?v=yszvxTiXKrg  
+**Revision notes:** Phase 102 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question wording |
+| 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 102 import; philosophy fit 4/5 — Silna metafora odpowiedzialności i wyboru; szacunek dla czytelnika bez sensacji. |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=yszvxTiXKrg  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-09  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**A METRE AND A HALF**
+
+## I. THE BEGINNING
+
+Paweł Lasowski woke up at 3:33 in the morning. Not for the first time. For forty-five years, ever since he had become a train driver, his inner clock had been set to the hour at which most people were still asleep. But this time it wasn't the alarm clock that woke him. It was something else – a dream that had been repeating itself for weeks.
+
+In the dream he stood on the platform in Opole. It was morning, fog hung over the tracks like a sheet. In the distance he heard a train approaching – not his own, the one coming from the opposite direction. And suddenly, from the bushes by the crossing, a figure appeared. An elderly man. Slow, determined. He lay down on the tracks and looked straight at Paweł.
+
+The eyes were empty. Dead. Like those of someone who had made the decision long ago.
+
+Paweł tried to brake, but he couldn't. His hand couldn't reach the brake. He felt only a growing certainty that in a moment he would hear that sound – the sound he hadn't been able to forget for the last thirty years. A sound that had burned itself into his memory like a brand.
+
+He woke up with a scream on his lips.
+
+His wife beside him stirred uneasily.
+
+— That dream again? — she asked quietly.
+
+— Yes. Again.
+
+— Maybe you should retire now. You have the right. Almost forty-five years...
+
+— I can't. — He sat up in bed, resting his head in his hands. — I can't just leave like that. Not yet.
+
+---
+## II. THE DEVELOPMENT
+
+That same day, at 5:47, Paweł was already sitting in the cab of an Impuls, getting ready for the morning run to Wrocław. In front of him stretched the control desk – rows of buttons, gauges, monitors. A modernity that ten years ago would still have been an abstraction to him.
+
+He remembered his beginnings. Steam locomotives in Opole. Then the N57, then the SPOTs, then the ELFs, then the Impulses. Every new rolling stock was new learning, new reflexes, new challenges. And he was always first. He always wanted to know how it worked before anyone else dared.
+
+— Well, off we go — he said to himself, pressing the start button.
+
+The train moved off smoothly, as if it knew on its own where it was heading. Through the cab window he saw tracks he knew better than his own face. Every bend, every signal, every level crossing – all of it was written in his head like a map that cannot be lost.
+
+But what he couldn't remember was faces. The faces of people who appeared on the tracks at the last moment.
+
+The first time it happened was in December, ten years after he started working. Dębska Kuźnia. It was evening, snow was falling, and he was travelling at a speed that allowed no manoeuvres. From the bushes an elderly gentleman emerged. He lay down on the tracks. And that was it. Paweł saw everything – from beginning to end. He could do nothing. He could only watch.
+
+— This is not a computer game — he repeated to himself later, when the policeman tried to comfort him. — We don't have three lives. Once I make a mistake and the consequences are tragic.
+
+The policeman told him something then that he remembered forever: _"He chose it himself. He would have gone into the woods and hanged himself. You are that tree. You have no influence over it."_
+
+But it didn't help. Because Paweł was not a tree. He was a man who had to watch someone choose death by means of the tool he was driving.
+
+---
+## III. THE TURNING POINT
+
+Afternoon. Return from Wrocław. Rain outside the window, leaves on the tracks that lengthen the braking distance. Paweł felt tired, but focused. Behind him a hundred passengers who trusted him to bring them home safely. Ahead of him – the level crossing in Otnice.
+
+The signalling was switched off because of modernisation works. On the road there were signs, a St Andrew's cross, everything that should make drivers stop. But Paweł knew that wasn't enough. He had seen hundreds of times how people ignored those signs.
+
+He slowed to twenty kilometres an hour. He switched on the audible warning.
+
+And then he saw it.
+
+From the left, around the bend, a car drove out. A woman with three children in the back. She was driving too fast, as if she didn't see the signs, didn't hear the horn. Paweł pressed the emergency brake, but he knew it wouldn't be enough.
+
+In a split second he estimated everything – the speed of the train, the mass of the consist, the distance to the crossing, the profile of the line. He knew he wouldn't make it.
+
+He watched the car approach the tracks. He saw the driver turn her head at the last moment and look at the oncoming train. In her eyes he saw terror – the same terror he had seen before in the eyes of people in cars. Wide, dilated, full of fear. Not her decision. Not her choice. Just a stupid mistake that could cost her and her children their lives.
+
+The impact was loud. Torn metal, glass, a crash. The train braked, but the force of the impact was so great that the car spun several times before it came to rest on the verge.
+
+Paweł switched off the engine, secured the rolling stock and got out of the cab. His heart was pounding, but his hands were steady. He knew what he had to do.
+
+He ran to the car. The woman was conscious, but in shock. The children in the back – crying, but alive. No one had died.
+
+He had hit the front of the car. If the woman had driven a metre and a half further, he would have hit square in the space where the children were sitting. If she had driven a metre and a half further, he would have been pushing them in front of him like in the nightmare that had haunted him for years.
+
+This time he had avoided the worst.
+
+This time.
+
+---
+## IV. THE ENDING
+
+In the evening Paweł came home. His wife was waiting for him with dinner – pasta with the sauce he had loved since childhood. He sat down at the table and for a moment looked at the plate, unable to reach for his fork.
+
+— Did something happen? — asked his wife.
+
+— I almost... — he began, but couldn't finish. For a moment he looked out the window, at the darkening sky. — I almost hit a car with children. A metre and a half. If she had driven a metre and a half further...
+
+— But she didn't.
+
+— I know. But I saw it. I saw those eyes. Those terrified eyes. And I thought I was about to see their deaths.
+
+His wife took his hand.
+
+— You're a good man, Paweł. You do something most people couldn't do. And the fact that you carry it with you isn't weakness. It's proof that you have a heart.
+
+Paweł looked at her and for the first time in years felt that he could breathe.
+
+— Do you know what helped me? — he asked. — That policeman who told me I was a tree. That they choose it themselves and I'm just doing my job. But today I understood that it isn't true. I'm not a tree. I'm a man who has a choice. I can leave. I can stay. But whatever I do, it will be my choice.
+
+He picked up his fork and began to eat.
+
+The next day Paweł got up at 3:33 in the morning. This time it wasn't a dream that woke him. It was calm.
+
+He knew he hadn't left the train yet. But he also knew that one day would come when he would. And that that day would be his choice.
+
+And not someone's death.
+
+---
+## V. THE EPILOGUE
+
+A month later Paweł received a letter from the woman from Otnice. She wrote that she didn't remember that day, that the doctors say it's a miracle that everyone survived. She wrote that her children still had nightmares, but that they were whole. And that she thanks him for being there, for doing everything he could.
+
+At the end she added:
+
+_"I don't know if you remember my eyes. I remember you. And I know that if it hadn't been for you, I wouldn't be here to write this letter."_
+
+Paweł read the letter three times. Then he put it in a drawer, next to the other letters he had received over the years. Letters from people who had survived. And letters from the families of those who had not survived.
+
+They were all part of the same story.
+
+His story.
+
+He stood up, put on his uniform and left the house. Ahead of him was another shift. Another train. More passengers.
+
+And another day in which he could make a difference.
+
+---
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** How many years has Paweł worked as a train driver?
+
+**Answers:**
+- A) Five
+- B) Forty-five
+- C) Twenty
+- D) Thirty
+
+**Correct:** B
+**Explanation:** He has been a train driver for forty-five years.
+**Text reference:** forty-five years
+
+### Question 2
+
+**Question:** Where does the key incident with the car take place?
+
+**Answers:**
+- A) In Gdańsk
+- B) At the crossing in Otnice
+- C) In Wrocław
+- D) In Opole
+
+**Correct:** B
+**Explanation:** The car drives out from the left at the crossing in Otnice.
+**Text reference:** Otnice
+
+### Question 3
+
+**Question:** How many metres further would the driver have had to go for the train to hit the space where the children were sitting?
+
+**Answers:**
+- A) Half a metre
+- B) A metre and a half
+- C) Three metres
+- D) Five metres
+
+**Correct:** B
+**Explanation:** Paweł says: if she had driven a metre and a half further, he would have hit square in the centre.
+**Text reference:** a metre and a half further
+
+### Question 4
+
+**Question:** What metaphor did the policeman once use to Paweł?
+
+**Answers:**
+- A) That he is guilty
+- B) That he is the tree on which someone will hang themselves
+- C) That he should leave the job
+- D) That it is a computer game
+
+**Correct:** B
+**Explanation:** The policeman said that the man chose it himself, and Paweł is that tree.
+**Text reference:** you are that tree
+
+### Question 5
+
+**Question:** What does Paweł understand in the evening after the incident?
+
+**Answers:**
+- A) That he must leave immediately
+- B) That he is not a tree — he has a choice whether to stay or leave
+- C) That the driver is to blame
+- D) That the dream will come true
+
+**Correct:** B
+**Explanation:** He says he can leave or stay, but it will be his choice.
+**Text reference:** I'm a man who has a choice
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

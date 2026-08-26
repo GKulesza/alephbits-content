@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does Tomasz agree to the costly options at the funeral home?",
+      "answers": [
+        "Because he had compared all the offers beforehand",
+        "Because in his grief he trusts that the proposed elements are necessary for a dignified farewell",
+        "Because he had special insurance",
+        "Because his mother had left everything in her will"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text shows his confusion and vulnerability to suggestion at the moment of a fresh loss."
+    },
+    {
+      "type": "single_choice",
+      "question": "What most changes his outlook a few weeks later?",
+      "answers": [
+        "A newspaper article about cremation",
+        "A conversation with Magda about cheaper and ecological alternatives",
+        "A phone call from the bank",
+        "A letter from the priest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda is the first to make him realise that other solutions existed."
+    },
+    {
+      "type": "single_choice",
+      "question": "What role does the Funerarium foundation meeting play?",
+      "answers": [
+        "It convinces him to buy a more expensive urn",
+        "It shows that a family has the right to ask, to choose and to complain about a badly performed service",
+        "It forbids children from taking part in funerals",
+        "It urges him to move house"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agnes Tołoczmańska talks about the right to choose and about consumer rights."
+    },
+    {
+      "type": "single_choice",
+      "question": "What broader change does Tomasz make after this education?",
+      "answers": [
+        "He stops visiting the cemetery",
+        "He starts talking with loved ones, including children, about death and funeral choices",
+        "He sets up a funeral company",
+        "He gives up reading books"
+      ],
+      "correctIndex": 1,
+      "explanation": "After the reading and the meeting he begins to make the topic of death familiar within his family."
+    },
+    {
+      "type": "single_choice",
+      "question": "What main conclusion closes Tomasz's story?",
+      "answers": [
+        "It's best never to arrange funerals on your own",
+        "In a situation of ignorance you must ask and demand alternatives",
+        "A high price always means dignity",
+        "Children should not know about death"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection comes down to the right to ask questions and to choose."
+    }
+  ]
+}

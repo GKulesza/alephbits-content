@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Tom do right after finding Ana in the kitchen?",
+      "answers": [
+        "He calls an ambulance",
+        "He sits down and starts googling questions about body decomposition and embalming",
+        "He wakes the children",
+        "He calls the neighbours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Instead of calling for help, he opens the browser and asks about the body's smell and embalming."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ana want to talk about on New Year's Eve night?",
+      "answers": [
+        "About holidays in Europe",
+        "About William, the broker",
+        "About a new car",
+        "About moving to Poland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana says they need to talk about William, the broker."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Tom's real name?",
+      "answers": [
+        "Brian",
+        "William",
+        "Donald",
+        "Tomasz"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the epilogue Tom is called Brian, sitting in a cell."
+    },
+    {
+      "type": "single_choice",
+      "question": "What sentence does Brian receive?",
+      "answers": [
+        "A fine",
+        "Life imprisonment",
+        "A year of probation",
+        "Acquittal"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue says Brian has a life sentence and feels nothing."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where do the protagonist's children grow up after the events?",
+      "answers": [
+        "In Poland",
+        "In Massachusetts, without parents",
+        "In France",
+        "In Serbia, at Ana's grandmother's"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says that in Massachusetts his children are growing up without parents."
+    }
+  ]
+}

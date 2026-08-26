@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How many years has Paweł worked as a train driver?",
+      "answers": [
+        "Five",
+        "Forty-five",
+        "Twenty",
+        "Thirty"
+      ],
+      "correctIndex": 1,
+      "explanation": "He has been a train driver for forty-five years."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does the key incident with the car take place?",
+      "answers": [
+        "In Gdańsk",
+        "At the crossing in Otnice",
+        "In Wrocław",
+        "In Opole"
+      ],
+      "correctIndex": 1,
+      "explanation": "The car drives out from the left at the crossing in Otnice."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many metres further would the driver have had to go for the train to hit the space where the children were sitting?",
+      "answers": [
+        "Half a metre",
+        "A metre and a half",
+        "Three metres",
+        "Five metres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł says: if she had driven a metre and a half further, he would have hit square in the centre."
+    },
+    {
+      "type": "single_choice",
+      "question": "What metaphor did the policeman once use to Paweł?",
+      "answers": [
+        "That he is guilty",
+        "That he is the tree on which someone will hang themselves",
+        "That he should leave the job",
+        "That it is a computer game"
+      ],
+      "correctIndex": 1,
+      "explanation": "The policeman said that the man chose it himself, and Paweł is that tree."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Paweł understand in the evening after the incident?",
+      "answers": [
+        "That he must leave immediately",
+        "That he is not a tree — he has a choice whether to stay or leave",
+        "That the driver is to blame",
+        "That the dream will come true"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says he can leave or stay, but it will be his choice."
+    }
+  ]
+}

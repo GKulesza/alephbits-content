@@ -1,0 +1,79 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does the prologue open with a scene in the Sahara, when the story immediately returns to childhood?",
+      "answers": [
+        "Because the Sahara is more important than the castle in Saint-Maurice",
+        "Because the crash and the rescue foreshadow the image from which \"The Little Prince\" would grow",
+        "Because Antoine only then learned to write",
+        "Because the Bedouin is the main character of the book"
+      ],
+      "correctIndex": 1,
+      "explanation": "The prologue links the desert crash with the future fairy tale about a pilot and a golden-haired boy — and with the memory of a brother who \"never grew up\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did the nickname \"Sun King\" mean in Antoine's childhood?",
+      "answers": [
+        "That he was the official heir to the throne of France",
+        "That the household saw him as a golden-haired boy of royal temperament with a \"throne\"",
+        "That he ruled the castle instead of his mother",
+        "That he was forbidden to play in the attic"
+      ],
+      "correctIndex": 1,
+      "explanation": "The household called him that; he carried a green lacquered little chair like a throne and sat wherever his mother stopped."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did Antoine learn on his first flight in Ambérieu?",
+      "answers": [
+        "That his mother always lets him fly",
+        "That the sky could become the place where he wants to spend his life — even though he boarded by lying",
+        "That the Legion of Honour awaits twelve-year-olds",
+        "That Wróblewski refused to take off"
+      ],
+      "correctIndex": 1,
+      "explanation": "The twelve-year-old lied about his mother's consent; in the air he felt freedom and a calling he could not yet name."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does François's death later connect with \"The Little Prince\"?",
+      "answers": [
+        "François wrote the first version of the fairy tale",
+        "The brother's farewell words and gesture return in the golden-haired boy's farewell; the figure also carries the memory of a brother who did not grow up",
+        "François was the model for Consuelo",
+        "Antoine forgot his brother and invented the ending from scratch"
+      ],
+      "correctIndex": 1,
+      "explanation": "The narrative stresses that the words about the \"old bark\" and the fall \"the way a tree falls\" return in the fairy tale; François is also the core of the figure."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is the rose in the interpretation given in the text — and why does it matter?",
+      "answers": [
+        "The mother Marie — because she read Andersen",
+        "Consuelo — capricious, unique; only a fairy tale allows Antoine to say tenderly what he could not in life",
+        "Antoine's sister",
+        "A metaphor for the Simoun aeroplane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antoine never hid that the rose was Consuelo; the stormy relationship takes on a tender and gentle form in the fairy tale."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why did Antoine refuse to change the ending of \"The Little Prince\"?",
+      "answers": [
+        "Because the publishers wanted a longer book",
+        "Because the death scene was a transfer of the most intimate memory of François — a farewell, not an ornament",
+        "Because Consuelo wrote that ending",
+        "Because copyright law forbade changes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The publishers feared the boy's death; Antoine defended a scene written with words carried for a quarter of a century — the fairy tale was a testament and a farewell."
+    }
+  ]
+}

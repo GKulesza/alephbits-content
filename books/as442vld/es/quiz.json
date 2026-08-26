@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué acepta Tomasz las opciones caras de la funeraria?",
+      "answers": [
+        "Porque antes comparó todas las ofertas",
+        "Porque en el duelo confía en que los elementos propuestos son necesarios para una despedida digna",
+        "Porque tenía un seguro especial",
+        "Porque su madre lo dejó todo en el testamento"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto muestra su confusión y su vulnerabilidad a la sugestión en un momento de pérdida reciente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cambia más su perspectiva unas semanas después?",
+      "answers": [
+        "Un artículo de periódico sobre la cremación",
+        "Una conversación con Magda sobre alternativas más baratas y ecológicas",
+        "Una llamada del banco",
+        "Una carta del cura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda es la primera que le hace ver que existían otras soluciones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué papel desempeña la reunión de la fundación Funerarium?",
+      "answers": [
+        "Lo convence de comprar una urna más cara",
+        "Le muestra que la familia tiene derecho a preguntar, elegir y reclamar un servicio mal prestado",
+        "Prohíbe a los niños participar en los funerales",
+        "Lo anima a mudarse de casa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agnes Tołoczmańska habla del derecho a elegir y de los derechos del consumidor."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cambio más amplio introduce Tomasz tras esta formación?",
+      "answers": [
+        "Deja de ir al cementerio",
+        "Empieza a hablar con sus seres queridos, también con los niños, de la muerte y de las opciones funerarias",
+        "Monta una empresa funeraria",
+        "Deja los libros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras la lectura y la reunión empieza a familiarizar a su familia con el tema de la muerte."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión principal cierra la historia de Tomasz?",
+      "answers": [
+        "Lo mejor es no organizar funerales nunca por cuenta propia",
+        "En una situación de ignorancia hay que preguntar y exigir alternativas",
+        "Un precio alto siempre significa dignidad",
+        "Los niños no deberían conocer el tema de la muerte"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final se resume en el derecho a las preguntas y a la elección."
+    }
+  ]
+}
