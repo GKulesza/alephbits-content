@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Robert do every day at 5:47?",
+      "answers": [
+        "Runs ten kilometres",
+        "Checks his phone to see whether the world is the way it should be",
+        "Writes poems",
+        "Cooks breakfast for the neighbours"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first thing he does after waking up is check his phone and his plans for the day."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Robert describe chaos?",
+      "answers": [
+        "As an artist's friend",
+        "As an enemy that has to be controlled",
+        "As something desirable",
+        "As an unimportant state"
+      ],
+      "correctIndex": 1,
+      "explanation": "He tells his wife that life has to be controlled, because chaos is the enemy."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Robert's wife, Magda, do?",
+      "answers": [
+        "She's a doctor",
+        "She's an artist who paints pictures",
+        "She's a lawyer",
+        "She's a teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says Magda was an artist and painted pictures."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Robert tell Magda about his change at the end of the story?",
+      "answers": [
+        "That he's going back to his old ways",
+        "That he stopped being afraid that something would go wrong, and the world keeps turning",
+        "That he's selling the company",
+        "That he doesn't want to talk anymore"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says he stopped being afraid that something would go wrong, and the world keeps turning."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magda call Robert's change?",
+      "answers": [
+        "A failure",
+        "Letting go",
+        "Laziness",
+        "An illness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda says: \"That's called letting go.\""
+    }
+  ]
+}

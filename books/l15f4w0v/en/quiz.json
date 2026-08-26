@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Tera grow?",
+      "answers": [
+        "Corn",
+        "Wheat",
+        "Strawberries",
+        "Grapes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tera looks after her cornfield."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Tiger?",
+      "answers": [
+        "A snail inventor",
+        "A cat",
+        "A monster",
+        "A cow"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiger introduces himself as a snail and an inventor."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Tiger dig holes at the edge of the field?",
+      "answers": [
+        "To plant trees that hold water",
+        "To destroy the corn",
+        "To search for treasure",
+        "To make a swimming pool"
+      ],
+      "correctIndex": 0,
+      "explanation": "He explains that tree roots help hold water in the soil."
+    },
+    {
+      "type": "single_choice",
+      "question": "What are Tera's friends called?",
+      "answers": [
+        "Tola and Urwis",
+        "Fido and Rex",
+        "Tom and Jerry",
+        "Ann and Beth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tola (the kitten) and Urwis (the dog) help Tera."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens after the first storm?",
+      "answers": [
+        "The soil becomes moist and the corn revives",
+        "The field gets flooded and destroyed",
+        "Tera leaves the village",
+        "Tiger disappears forever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thanks to the trees the rain stays in the soil and the corn looks better."
+    }
+  ]
+}

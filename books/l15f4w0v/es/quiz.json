@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué cultiva Tera?",
+      "answers": [
+        "Maíz",
+        "Trigo",
+        "Fresas",
+        "Uvas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tera cuida su campo de maíz."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Tigre?",
+      "answers": [
+        "Un caracol inventor",
+        "Un gato",
+        "Un monstruo",
+        "Una vaca"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tigre se presenta como caracol e inventor."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Para qué cava Tigre hoyos al borde del campo?",
+      "answers": [
+        "Para plantar árboles que retienen el agua",
+        "Para destruir el maíz",
+        "Para buscar tesoros",
+        "Para hacer una piscina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explica que las raíces de los árboles ayudan a retener el agua en la tierra."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llaman los amigos de Tera?",
+      "answers": [
+        "Tola y Urwis",
+        "Troski y Chispa",
+        "Michi y Pipo",
+        "Nieve y Rayo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tola (la gatita) y Urwis (el perrito) ayudan a Tera."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ocurre después de la primera tormenta?",
+      "answers": [
+        "La tierra se humedece y el maíz revive",
+        "El campo se inunda y se destruye",
+        "Tera se marcha del pueblo",
+        "Tigre desaparece para siempre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gracias a los árboles el agua se queda en la tierra y el maíz luce mejor."
+    }
+  ]
+}

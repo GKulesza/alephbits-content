@@ -1,0 +1,24 @@
+{
+  "packId": "m82i1lr3:en",
+  "bookId": "m82i1lr3",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "BeYm7YkMuTI"
+    }
+  ],
+  "revisionNotes": "Fikcja o perfekcjonizmie i uczeniu się puszczania kontroli."
+}

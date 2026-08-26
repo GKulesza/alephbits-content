@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Kacper?",
+      "answers": [
+        "Nueve",
+        "Once",
+        "Trece",
+        "Ocho"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice: \"Kacper tenía once años\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pastel sirve la abuela después de la sopa?",
+      "answers": [
+        "Pastel de col",
+        "Pastel de manzana",
+        "Pastel de zanahoria",
+        "Pastel de miel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Después de la sopa llegó el turno del pastel de col."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué libro llama la abuela su favorito?",
+      "answers": [
+        "El gran tesoro",
+        "Harry Potter",
+        "Pinocho",
+        "Robinson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Habla de \"El gran tesoro\", sobre un niño y mapas en el sótano."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubre Kacper detrás del cuadro?",
+      "answers": [
+        "Una llave de plata",
+        "Oro",
+        "Una pistola",
+        "Una carta"
+      ],
+      "correctIndex": 0,
+      "explanation": "La abuela saca una llavecita de plata de detrás del cuadro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué dejaron la abuela y el abuelo de robar?",
+      "answers": [
+        "Por la seguridad de la familia",
+        "Porque perdieron el mapa",
+        "Porque fueron a la cárcel",
+        "Porque no les gustaban los tesoros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ella dice: \"Por vosotros. Por la familia. Por vuestra seguridad.\""
+    }
+  ]
+}

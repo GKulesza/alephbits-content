@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Marcin fear most in connection with the microphone?",
+      "answers": [
+        "That he'll forget the slide text",
+        "That the silence amplifies his uncertainty and that someone will judge he shouldn't be there",
+        "That the microphone is too loud",
+        "That his boss will fire him"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel says people are afraid of being judged: \"What is he doing here? He shouldn't be here.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kammel advise saying instead of \"I'm nervous\"?",
+      "answers": [
+        "Say \"I'm tired\"",
+        "Say \"I'm excited\"",
+        "Say nothing",
+        "Apologise publicly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin writes down: don't say \"nervous\", say \"excited\" — the biochemistry changes."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kammel ask Marcin to do at the end of the first lesson?",
+      "answers": [
+        "Recite the slides",
+        "Talk about his children the way he would at dinner — not on a stage",
+        "Practise in front of a mirror",
+        "Record a video"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz asks: tell me about your children the way you would at home, not on a stage."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Marcin begin the farewell speech for Andrzej?",
+      "answers": [
+        "With an apology for freezing",
+        "With a joke about mistaking Andrzej for a security guard",
+        "By reading the slides",
+        "With a quote from a book"
+      ],
+      "correctIndex": 1,
+      "explanation": "He begins: \"When I first met Andrzej – I mistook him for a security guard.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the director's daughter say after the speech?",
+      "answers": [
+        "That the presentation was too long",
+        "That he spoke about Dad as if he really knew him",
+        "That he should go back to the slides",
+        "That she didn't understand the joke"
+      ],
+      "correctIndex": 1,
+      "explanation": "The daughter says: \"You spoke about Dad as if you really knew him.\""
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+# The New Garden
+
+## Metadata
+
+**Pack ID:** l15f4w0v
+**Book ID:** l15f4w0v
+**Legacy Pack ID:** polish_nowy_ogrod
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** The New Garden  
+**Subtitle:** Terka the mouse, the drought and the snail inventor  
+**Blurb:** Terka the mouse fights to save her cornfield from the drought — until a mysterious snail named Tiger explains that trees at the edge of the field can hold water better than the corn itself.
+
+**Genres:** nature, short_story  
+**Series:** Collection Eleven  
+**Audience:** children_8_12
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Nowy ogród" — Collection Eleven official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** ekologia, susza, ogrodnictwo, Collection Eleven  
+
+**Keywords:** Nowy ogród, Terka, Tygrys, susza  
+
+**Cover family:** nature
+
+
+**Motifs:**
+- garden
+- nature
+- drought
+- community
+- discovery
+- teaching
+
+**Editorial notes:** Opowieść edukacyjna o roli drzew i retencji wody; postacie zwierzęce.
+
+**Inspiration:** Manuskrypt Collection Eleven; YouTube SdQAa0A4XvA (23.07.2019); YouTube SdQAa0A4XvA (2019-07-23).
+
+---
+
+**World:**
+- places: garden, burrow
+- plants: corn, flower
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 23.07.2019 -> https://www.youtube.com/watch?v=SdQAa0A4XvA  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Delikatna ekologia i współpraca — dobry materiał dla dzieci. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eleven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=SdQAa0A4XvA  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2019-07-23  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**THE NEW GARDEN**
+
+Tera woke up when the first rays of sunlight slipped into her burrow. She stretched, washed her little paws and went outside to check her cornfield. She was very proud of it – every day she got up early, watered it, tended it, talked to the plants. And they repaid her with juicy, golden ears of corn.
+
+But this morning something was wrong.
+
+Tera wrinkled her nose. The corn leaves hung sadly, as if they were crying. The ground under her paws was hard and cracked. She looked up at the sky – not a single cloud.
+
+– Just as I thought – she sighed. – No rain again.
+
+For several weeks the sun had been beating down mercilessly. The stream she drew water from for watering had shrunk to a narrow, murky trickle. Tera knew that if things went on like this, her beloved corn would dry up. And she had no idea what to do about it.
+
+She grabbed her watering can and set off towards the stream. On the way she passed the meadow where her friends grazed – Tola, a small agile kitten, and Urwis, an ever-smiling little dog who always had a head full of ideas.
+
+– Good morning, Tera! – called Tola, waving her paw. – What's new?
+
+– Nothing good – answered the mouse. – My corn is dying of thirst.
+
+– Maybe it will rain today? – asked Urwis optimistically.
+
+– It hasn't rained for weeks – sighed Tera. – And the stream is almost dry.
+
+Her friends grew sad. They knew how much Tera loved her field. It was her whole world.
+
+---
+The next morning Tera woke with a strange feeling. She looked out of her burrow and jumped with anger. At the edge of her field someone had dug a huge hole. Then she saw a second, a third, a fourth...
+
+– Who did this?! – she cried.
+
+Tola and Urwis came running at the sound of her voice.
+
+– Oh dear – said Tola, looking at the damage. – Someone doesn't seem to like your corn.
+
+– Or wants to get on your nerves – added Urwis.
+
+– But who, and why? – wondered Tera. – My corn is having a hard time as it is, and now someone is destroying its roots!
+
+The friends decided to help. All day they filled in the holes, working under the blazing sun. In the evening, tired and sweaty, they went back to their burrows, sure the problem was solved.
+
+But the next morning the holes were back. And even bigger.
+
+– That's too much! – Tera burst out. – Someone clearly wants to destroy my field!
+
+– We have to find out who's doing it – said Urwis. – Tonight we'll set an ambush.
+
+They hid behind the bushes and waited. The hours passed, the night was dark and long. They were slowly starting to lose focus, when suddenly they heard strange sounds – knocking, scraping, and then something that sounded like a drill boring into the ground.
+
+Tera jumped out of hiding and ran towards the noise. What she saw left her dumbfounded.
+
+In the middle of one of the holes stood something enormous – a creature with one great foot and eyes as big as dinner plates. Tera screamed with fright.
+
+– A monster! – she shrieked.
+
+The creature turned and looked at her. After a moment it held up a little mirror, studied itself and laughed.
+
+– A monster? – it asked. – Me? Well... perhaps I do look frightening, but that's only an illusion.
+
+He looked at his legs. Tera saw that the creature was standing on a little cart with a wooden board and a magnifying glass. And sitting on the cart was... a snail.
+
+– My name is Tiger – the snail introduced himself. – And I'm not a monster. Just an inventor.
+
+– So you dug those holes in my field?! – Tera burst out.
+
+– Yes – the snail admitted without hesitation. – But I didn't want to hurt you. I wanted to help you.
+
+– Help? By destroying my corn?
+
+– Listen to me – said Tiger calmly. – Your field is drying out because there are no trees here. When it rains, the water runs down the slope instead of staying in the soil. Tree roots make tunnels where water can collect. Thanks to that, even during a drought the plants have something to drink.
+
+Tera looked at him in disbelief.
+
+– Trees? You want to plant trees in my field?
+
+– Only at the edge – Tiger explained. – Their roots won't hurt your corn, quite the opposite – they'll help it survive.
+
+The mouse was still wary. But deep down she knew the snail was right. Her field really was drying up, and she had no better idea.
+
+– Show me – she said at last.
+
+Tiger led her to his garden. Tera had never been there before. It was full of trees, bushes and flowers. Among them grew vegetables – pumpkins, potatoes, cucumbers, and even corn. Everything was lush and green, despite the drought.
+
+– How is that possible? – Tera marvelled.
+
+– Trees hold the water – Tiger explained. – They give shade, cool the air and draw rain. Look – in my garden there's a pond that never dries up.
+
+Tera went over to the pond. The water was clean and cool.
+
+– When you plant trees at the edge of your field – the snail went on – the soil will become more moist. The corn will stop withering. You'll be able to grow more vegetables, not just corn.
+
+Tera thought for a long time. At last she looked at Tiger.
+
+– All right – she said. – Help me.
+
+---
+A few weeks passed. The holes in Tera's field were turned into pits for new trees. Tera, Tola and Urwis helped Tiger plant the saplings. Soon young trees grew at the edge of the field, and between the rows of corn new beds appeared – with potatoes, beetroot and herbs.
+
+The first storm came. Rain fell all night. When Tera came out of her burrow the next morning, she saw that the soil was soft and moist. The water hadn't run down the slope – it had stayed in the ground, thanks to the roots of the new trees.
+
+The corn looked better than ever. The leaves were green and springy, and the ears were growing healthy and big.
+
+– We did it! – Tera cried joyfully.
+
+Tola and Urwis came running. They all hugged each other, laughing and jumping in the puddles.
+
+– Thank you, Tiger – said Tera. – If it weren't for you, I would have lost everything.
+
+– You were the one brave enough to trust – the snail replied. – And that's what matters most.
+
+And so Tera learned that sometimes you have to look at a problem from a different angle. That trees aren't the enemies of corn, but its allies. And that even in the darkest times you can find new friends and new solutions.
+
+And her field became the most beautiful field in the whole neighbourhood – full of life, colours and the sound of insects drawn by the freshly planted flowers. And even though the summer could be hot, Tera no longer worried. She knew that her new garden – and her new friends – would always support her.
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What does Tera grow?
+
+**Answers:**
+- A) Corn
+- B) Wheat
+- C) Strawberries
+- D) Grapes
+
+**Correct:** A
+**Explanation:** Tera looks after her cornfield.
+**Text reference:** corn
+
+### Question 2
+
+**Question:** Who is Tiger?
+
+**Answers:**
+- A) A snail inventor
+- B) A cat
+- C) A monster
+- D) A cow
+
+**Correct:** A
+**Explanation:** Tiger introduces himself as a snail and an inventor.
+**Text reference:** snail
+
+### Question 3
+
+**Question:** Why does Tiger dig holes at the edge of the field?
+
+**Answers:**
+- A) To plant trees that hold water
+- B) To destroy the corn
+- C) To search for treasure
+- D) To make a swimming pool
+
+**Correct:** A
+**Explanation:** He explains that tree roots help hold water in the soil.
+**Text reference:** trees
+
+### Question 4
+
+**Question:** What are Tera's friends called?
+
+**Answers:**
+- A) Tola and Urwis
+- B) Fido and Rex
+- C) Tom and Jerry
+- D) Ann and Beth
+
+**Correct:** A
+**Explanation:** Tola (the kitten) and Urwis (the dog) help Tera.
+**Text reference:** Tola and Urwis
+
+### Question 5
+
+**Question:** What happens after the first storm?
+
+**Answers:**
+- A) The soil becomes moist and the corn revives
+- B) The field gets flooded and destroyed
+- C) Tera leaves the village
+- D) Tiger disappears forever
+
+**Correct:** A
+**Explanation:** Thanks to the trees the rain stays in the soil and the corn looks better.
+**Text reference:** moist soil
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Anna sus primeras sensaciones tras la lesión?",
+      "answers": [
+        "Solo siente dolor físico",
+        "Siente que su cuerpo es ajeno y que la mano no le pertenece",
+        "Recuerda de inmediato todo el accidente",
+        "No tiene ningún síntoma psicológico"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las primeras escenas se centran en la alteración del sentido del propio cuerpo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Para qué propone el doctor Marek la microfenomenología?",
+      "answers": [
+        "Para medirle la presión arterial",
+        "Para estudiar la estructura de la experiencia de Anna, no solo los resultados de las pruebas",
+        "Para sustituir la resonancia magnética",
+        "Para enseñarle meditación religiosa"
+      ],
+      "correctIndex": 1,
+      "explanation": "El método busca describir la propia experiencia de la conciencia y la percepción."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué idea aporta Marta en la conversación sobre la ilusión y el 'yo'?",
+      "answers": [
+        "Que esas preguntas no tienen sentido",
+        "Que aunque la experiencia sea una ilusión, se sigue viviendo como propia y real",
+        "Que hay que apagar todas las máquinas de inmediato",
+        "Que la conciencia es solo religión"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta subraya que la experiencia es vivida como propia, aunque sea una construcción mental."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo distingue el doctor Marek la inteligencia de la conciencia?",
+      "answers": [
+        "Las considera lo mismo",
+        "Dice que la inteligencia puede existir sin sensación subjetiva",
+        "Afirma que la conciencia es fácil de medir",
+        "Considera que la IA ya es plenamente consciente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es el tema ético clave en la conversación sobre la IA."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué conclusión llega Anna en el epílogo?",
+      "answers": [
+        "Que ha encontrado la definición definitiva de la conciencia",
+        "Que la pregunta por el 'yo' puede importar más que una respuesta prefabricada",
+        "Que ya no quiere escribir sobre ciencia",
+        "Que la lesión no cambió nada en ella"
+      ],
+      "correctIndex": 1,
+      "explanation": "El final deja el problema abierto y subraya la importancia de la pregunta misma."
+    }
+  ]
+}

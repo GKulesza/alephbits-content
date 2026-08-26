@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A qué le tiene más miedo Marcin en relación con el micrófono?",
+      "answers": [
+        "A olvidarse del texto de las diapositivas",
+        "A que el silencio amplifique su inseguridad y que alguien juzgue que no debería estar allí",
+        "A que el micrófono esté demasiado alto",
+        "A que su jefe lo despida"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel dice que la gente le teme al juicio: \"¿Qué hace este aquí? No debería estar aquí.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué aconseja Kammel decir en lugar de \"estoy nervioso\"?",
+      "answers": [
+        "Decir \"estoy cansado\"",
+        "Decir \"estoy emocionado\"",
+        "No decir nada",
+        "Disculparse en público"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin anota: no digas \"nervioso\", di \"emocionado\" — la bioquímica cambia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le pide Kammel a Marcin al final de la primera lección?",
+      "answers": [
+        "Recitar las diapositivas",
+        "Hablar de sus hijos como hablaría en la cena — no en un escenario",
+        "Practicar frente al espejo",
+        "Grabar un vídeo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz le pide: háblame de tus hijos como lo harías en casa, no en un escenario."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo empieza Marcin el discurso de despedida de Andrzej?",
+      "answers": [
+        "Con una disculpa por haberse trabado",
+        "Con una broma sobre haber confundido a Andrzej con un guardia de seguridad",
+        "Leyendo las diapositivas",
+        "Con una cita de un libro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Empieza: \"Cuando conocí a Andrzej por primera vez — lo confundí con un guardia de seguridad.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice la hija del director después de la intervención?",
+      "answers": [
+        "Que la presentación fue demasiado larga",
+        "Que habló de papá como si de verdad lo conociera",
+        "Que debería volver a las diapositivas",
+        "Que no entendió la broma"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hija dice: \"Habló de papá como si de verdad lo conociera.\""
+    }
+  ]
+}

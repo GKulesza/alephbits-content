@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Kacper?",
+      "answers": [
+        "Nine",
+        "Eleven",
+        "Thirteen",
+        "Eight"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text: \"Kacper was eleven years old.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What cake does grandma serve after the soup?",
+      "answers": [
+        "Cabbage cake",
+        "Apple cake",
+        "Carrot cake",
+        "Honey cake"
+      ],
+      "correctIndex": 0,
+      "explanation": "After the soup came the cabbage cake."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which book does grandma call her favourite?",
+      "answers": [
+        "The Great Treasure",
+        "Harry Potter",
+        "Pinocchio",
+        "Robinson"
+      ],
+      "correctIndex": 0,
+      "explanation": "She talks about \"The Great Treasure\" — about a boy and maps in the cellar."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kacper discover behind the picture?",
+      "answers": [
+        "A silver key",
+        "Gold",
+        "A gun",
+        "A letter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grandma takes out a small silver key from behind the picture."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why did grandma and grandpa stop robbing?",
+      "answers": [
+        "For the safety of the family",
+        "Because they lost the map",
+        "Because they went to prison",
+        "Because they didn't like treasure"
+      ],
+      "correctIndex": 0,
+      "explanation": "She says: \"For you. For the family. For your safety.\""
+    }
+  ]
+}

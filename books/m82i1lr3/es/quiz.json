@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Robert cada día a las 5:47?",
+      "answers": [
+        "Corre diez kilómetros",
+        "Mira el teléfono para comprobar si el mundo sigue como debe ser",
+        "Escribe poemas",
+        "Prepara el desayuno a los vecinos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lo primero que hace al despertar es mirar el teléfono y sus planes del día."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Robert el caos?",
+      "answers": [
+        "Como amigo del artista",
+        "Como un enemigo que hay que controlar",
+        "Como algo deseable",
+        "Como un estado sin importancia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice a su mujer que la vida hay que controlarla, porque el caos es el enemigo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué se dedica la mujer de Robert, Magda?",
+      "answers": [
+        "Es médica",
+        "Es artista y pinta cuadros",
+        "Es abogada",
+        "Es profesora"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice que Magda era artista y pintaba cuadros."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le cuenta Robert a Magda sobre su cambio al final de la historia?",
+      "answers": [
+        "Que vuelve a su viejo modo de vida",
+        "Que dejó de tener miedo a que algo saliera mal, y el mundo sigue girando",
+        "Que vende la empresa",
+        "Que ya no quiere hablar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que dejó de tener miedo a que algo saliera mal y que el mundo sigue girando."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo llama Magda al cambio de Robert?",
+      "answers": [
+        "Fracaso",
+        "Soltar",
+        "Pereza",
+        "Enfermedad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda dice: \"Eso se llama soltar.\""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Anna describe her first sensations after the injury?",
+      "answers": [
+        "She feels only physical pain",
+        "She feels her own body is alien and that the hand doesn't belong to her",
+        "She immediately remembers the whole accident",
+        "She has no psychological symptoms at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "The opening scenes focus on the disturbed sense of her own body."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Dr Marek propose micro-phenomenology?",
+      "answers": [
+        "To measure her blood pressure",
+        "To study the structure of Anna's experience, not just the scan results",
+        "To replace the MRI",
+        "To teach her religious meditation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The method is meant to help describe the experience of consciousness and perception itself."
+    },
+    {
+      "type": "single_choice",
+      "question": "What idea does Marta contribute in the talk about illusion and the 'self'?",
+      "answers": [
+        "That such questions are meaningless",
+        "That even if experience is an illusion, it still remains lived as one's own and real",
+        "That all machines should be switched off immediately",
+        "That consciousness is purely religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta stresses the importance of the experience being one's own, even if it is a mental construction."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Dr Marek distinguish intelligence and consciousness?",
+      "answers": [
+        "He treats them as the same thing",
+        "He says intelligence can exist without subjective feeling",
+        "He claims consciousness is easily measurable",
+        "He considers AI already fully conscious"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a key ethical theme in the conversation about AI."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does Anna reach in the epilogue?",
+      "answers": [
+        "That she has found the definitive definition of consciousness",
+        "That the question of the 'self' may matter more than a ready answer",
+        "That she no longer wants to write about science",
+        "That the injury changed nothing for her"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ending leaves the problem open and stresses the importance of the question itself."
+    }
+  ]
+}
