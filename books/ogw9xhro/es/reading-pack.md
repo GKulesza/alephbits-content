@@ -1,0 +1,277 @@
+# ☕ En la cafetería
+
+## Metadata
+
+**Pack ID:** ogw9xhro
+**Book ID:** ogw9xhro
+**Legacy Pack ID:** polish_w_kawiarni
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** ☕ En la cafetería  
+**Subtitle:** De la colección CollectionZero  
+**Blurb:** Marek entra en una cafetería con el último dinero del bolsillo y la necesidad de esconderse aunque solo sea una hora. La barista ve más que el pedido: una conversación breve, una tarjeta de visita, una segunda oportunidad sin grandes palabras. Un relato sobre un lugar donde una taza caliente puede ser el principio de algo nuevo.
+
+**Genres:** short_story, everyday_live  
+**Series:** Collection Zero  
+**Audience:** adult  
+
+**Difficulty:** 3 (of 8)
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 6 minutes  
+
+**Original language:** es  
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** polish, short_story, w-kawiarni  
+
+**Editorial notes:** Migrated from CollectionZero catalog (Phase 75).
+
+**Cover family:** everyday_live
+
+---
+
+**World:**
+- places: shop, town
+- objects: glass
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** no  
+**Trust classification:** Fiction  
+**Human reviewed:** yes — 2026-07-10  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (dostała→dostał) |
+
+## Sources
+
+### Source 1: AlephBits manuscript vault
+
+**Author:** AlephBits Editorial  
+**URL:** *(none)*  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Migrated from CollectionZero catalog (Phase 75).
+
+
+## Text
+
+**En la cafetería**
+
+La mañana en Varsovia olía a café. No al de la máquina de la oficina, no al de la cafetera de casa: solo al de una cafetería de verdad, donde el barista, con la gravedad de un cirujano, apisonaba el café molido en el portafiltro, comprobaba la temperatura de la leche con la yema del dedo y tiraba el primer espresso fallido porque "no había salido como colitas de ratón".
+
+Marek entró en el Green Caffè Nero de la esquina. No porque le gustara el café de allí — aunque sí, era bueno. Sino porque necesitaba un lugar. No la oficina, no su casa, no el rellano. Un lugar donde, durante una hora, pudiera fingir ser otra persona. Alguien sin deudas, sin exmujer, sin un juicio por manutención y sin tres zlotys y setenta y ocho groszy en la cuenta.
+
+Se sentó junto a la ventana y pidió un capuchino con leche de avena. La barista — una chica con delantal azul marino y un tatuaje en el antebrazo — sonrió y preguntó:
+
+– ¿Grande o pequeño?
+
+– Grande – dijo él. – Por favor.
+
+– ¿Para tomar aquí o para llevar?
+
+– Para aquí.
+
+Pagó. Los últimos quince zlotys que tenía en la cartera. El resto lo había gastado en un billete de autobús. Pero no lo lamentaba. Porque aquello no era solo café. Era un billete a un mundo donde, durante un rato más, podía ser alguien que tiene tiempo.
+
+---
+
+Se sentó y observó a la gente. En la mesa de al lado, dos chicas de traje hablaban de una presentación. Una — una rubia con gafas — escribía algo en el portátil, bebiendo un latte. La otra — con el pelo corto — se reía a carcajadas contando lo del jefe que "no distingue entre un KPI y un OKR". Marek sonrió para sus adentros. Hacía dos años, él también hablaba así. Ahora solo hablaba de cuánto le quedaba hasta fin de mes.
+
+En la mesa del fondo estaba sentado un hombre mayor con un jersey de lana. Leía la "Gazeta Wyborcza" y cada pocos minutos levantaba la vista para mirar la puerta. Esperaba a alguien. Quizá a su mujer. Quizá a un nieto. Quizá a alguien que nunca llegaría. Marek sabía lo que era esperar a alguien que no llega. Lo sabía porque él mismo llevaba tres meses esperando a su hijo. Desde la conversación en la que le dijo que ya no viviría con su madre.
+
+– Papá, ¿pero volverás? – le había preguntado Kuba entonces.
+
+Marek no respondió. Porque no lo sabía.
+
+---
+
+La camarera — la misma del tatuaje — se acercó a su mesa con una sonrisa.
+
+– Perdón, ¿puedo traerle algo más?
+
+Marek miró la taza vacía. Quería decir "sí", pero sabía que no tenía con qué pagar.
+
+– No, gracias – dijo. – Solo la cuenta, por favor.
+
+– Ya pagó al hacer el pedido – sonrió ella. – Eso es todo.
+
+Lo miró con atención. Como si viera algo que los demás no veían. Quizá el cansancio. Quizá el vacío de sus ojos. Quizá que en su cara se reflejaban todas las conversaciones que no había mantenido, todas las palabras que no había dicho.
+
+– ¿Está todo bien? – preguntó en voz baja.
+
+Marek quiso decir "sí". Siempre decía "sí". Pero esta vez algo se rompió.
+
+– No – dijo. – No todo.
+
+---
+
+Se sentó frente a él. Un momento, solo un momento. Estaba de descanso.
+
+– Yo también tengo días así, a veces – dijo. – Pero luego llega alguien que pide un espresso solo, sin azúcar, y se lo bebe de pie en la barra, como un italiano. Y entonces pienso: bueno, todavía hay gente que sabe lo que quiere.
+
+Marek se rio con amargura.
+
+– Y yo no. No sé lo que quiero.
+
+– Entonces quizá – dijo ella, levantándose – empieces por algo pequeño. Por una cosa. Por un café. Aunque solo sea el que ya te has tomado.
+
+Se fue, dejándole sobre la mesa una tarjeta de visita. No la de su cafetería. La de una fundación. Al dorso ponía: "Ayudamos a empezar de nuevo".
+
+Marek se guardó la tarjeta en el bolsillo. Se levantó y se arregló la chaqueta. Al salir, miró una vez más al hombre mayor con el periódico. Seguía esperando.
+
+---
+
+Fuera llovía. Marek se quedó bajo el toldo y encendió un cigarrillo — el último, porque no le quedaba dinero para otro paquete. A través del cristal de la cafetería veía a la barista del tatuaje, que justo servía otro café. Sonreía. Como si no tuviera ningún problema.
+
+Pero Marek sabía que todos tienen problemas. Solo que algunos han aprendido a esconderlos en el bolsillo, junto con el resto de las monedas.
+
+Sacó el móvil. Encontró un número que había guardado hacía mucho tiempo, pero al que nunca había llamado. Durante un momento mantuvo el dedo sobre el botón de "llamar". Luego volvió a guardar el móvil.
+
+Ahora no. Quizá más tarde.
+
+Cruzó la calle. A sus espaldas, en la cafetería, alguien pidió un espresso doble con leche de avena. Otro preguntó por la tarta de queso. Alguien cogió un café para llevar y salió corriendo bajo la lluvia.
+
+La vida seguía. Aunque él estuviera quieto.
+
+---
+
+Pasó una semana. Luego dos. Marek volvió a la misma cafetería. Esta vez no tenía dinero para un café, pero se sentó a una mesa — la misma, junto a la ventana — y observó. La barista del tatuaje lo vio y se acercó.
+
+– Buenos días – dijo. – ¿En qué puedo ayudarle?
+
+– Hoy nada – respondió él. – Solo me quedaré un rato.
+
+Ella asintió. Al cabo de un momento volvió con una taza.
+
+– Invita la casa – sonrió. – Lo mismo que la otra vez.
+
+Marek la miró. Quiso darle las gracias, pero las palabras se le quedaron atascadas en la garganta.
+
+– Gracias – logró decir al fin.
+
+– No hay de qué – respondió ella. – Todo el mundo tiene derecho a un café gratis. Sobre todo los que empiezan de nuevo.
+
+Sonrió y se fue.
+
+Marek cogió la taza entre las manos. Estaba caliente. Sintió cómo el calor se extendía por los dedos, luego por las palmas, luego por todo el cuerpo. Dio un sorbo. Sabía exactamente igual que entonces — cuando entró por primera vez pensando que era solo café. Y resultó ser algo más. Un billete a un mundo donde se puede empezar de nuevo.
+
+Metió la mano en el bolsillo. Sacó la tarjeta que le habían dado hacía una semana. Le dio la vuelta. Al dorso, escrito a bolígrafo, había un número de teléfono. Y al lado, una palabra: "Llama".
+
+Marek miró a la barista, que justo servía un café en la barra. Ella levantó la vista, como si sintiera que él la miraba. Sonrió. Él asintió. Sacó el móvil y marcó el número.
+
+– ¿Diga? – oyó en el auricular.
+
+– Buenos días – dijo. – Tengo una pregunta sobre esa... fundación. Sobre cómo empezar de nuevo.
+
+La línea guardó silencio un momento. Luego oyó:
+
+– Qué bien que llame. Resulta que tenemos una plaza.
+
+---
+
+Salió de la cafetería una hora después. El cielo estaba despejado y el sol se abría paso entre las nubes. Se detuvo un instante ante la entrada y miró hacia arriba — el letrero del Green Caffè Nero. En la puerta vio un cartel: "Abierto todos los días de 7:00 a 22:00". Debajo, en letras pequeñas: "Para los que empiezan de nuevo".
+
+Sonrió. Quizá no era un cartel de verdad. Quizá solo se lo había imaginado. Pero en ese momento no importaba.
+
+Volvió a entrar. La barista del tatuaje lo miró con sorpresa.
+
+– ¿Ha olvidado algo? – preguntó.
+
+– No – respondió. – Pero quería preguntarle. ¿Se puede venir siempre aquí y simplemente sentarse?
+
+Sonrió.
+
+– Sí. Siempre. Aunque no pidas nada.
+
+– Gracias – dijo él. Y se sentó junto a la ventana.
+
+Porque sabía que aquello no era solo una cafetería. Era un lugar donde se puede empezar de nuevo. Aunque solo sea por un café.
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Para qué entra Marek en la cafetería?
+
+**Answers:**
+- A) Para tener un momento de otra vida
+- B) Para cobrar el sueldo
+- C) Para trabajar detrás de la barra
+- D) Para comprar un café para llevar para su hijo
+
+**Correct:** A
+**Explanation:** Marek busca un lugar donde pueda fingir ser otra persona.
+**Text reference:** un lugar donde, durante una hora, pudiera fingir
+
+### Question 2
+
+**Question:** ¿Qué pide Marek en la barra?
+
+**Answers:**
+- A) Un capuchino con leche de avena
+- B) Un té con limón
+- C) Un espresso doble
+- D) Una tarta de queso
+
+**Correct:** A
+**Explanation:** Pide un capuchino grande con leche de avena.
+**Text reference:** capuchino con leche de avena
+
+### Question 3
+
+**Question:** ¿En quién piensa Marek mientras espera en la cafetería?
+
+**Answers:**
+- A) En su hijo Kuba
+- B) En su jefe de la oficina
+- C) En su madre
+- D) En su médico
+
+**Correct:** A
+**Explanation:** Recuerda la conversación en la que Kuba pregunta si papá volverá.
+**Text reference:** Papá, ¿pero volverás?
+
+### Question 4
+
+**Question:** ¿Qué le da la barista a Marek en su segunda visita?
+
+**Answers:**
+- A) Un café que invita la casa
+- B) Una cuenta que pagar
+- C) Su tarjeta de trabajo
+- D) Una tarta de queso gratis
+
+**Correct:** A
+**Explanation:** Vuelve con una taza y dice: "Invita la casa".
+**Text reference:** Invita la casa
+
+### Question 5
+
+**Question:** ¿Qué hace Marek con la tarjeta de la fundación?
+
+**Answers:**
+- A) Llama y pregunta cómo empezar de nuevo
+- B) La tira a la papelera
+- C) Se la devuelve a la barista
+- D) Le envía un mensaje a su exmujer
+
+**Correct:** A
+**Explanation:** Al final llama y pregunta por la fundación.
+**Text reference:** una pregunta sobre esa... fundación

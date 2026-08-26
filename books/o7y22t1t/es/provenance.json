@@ -1,0 +1,24 @@
+{
+  "packId": "o7y22t1t:es",
+  "bookId": "o7y22t1t",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection Three manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "TemssaBn_lI"
+    }
+  ],
+  "revisionNotes": "Esej spekulatywny: naukowe pojęcia są zestawiane z filozofią i duchowością, więc wymaga ręcznego rozdzielenia nauki od interpretacji."
+}

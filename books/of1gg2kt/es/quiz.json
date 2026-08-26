@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice el padre a Maciek junto al trozo de acero del taller?",
+      "answers": [
+        "El metal hay que templarlo en el fuego — igual que al hombre",
+        "Aprende a tocar la guitarra",
+        "Sé amable con tu madre",
+        "Lee todos los días"
+      ],
+      "correctIndex": 0,
+      "explanation": "La metáfora del templado del metal = criar con dolor \"duro\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo llama Maciek a la falta de un puerto seguro con sus padres?",
+      "answers": [
+        "Paraíso",
+        "Campo de pruebas",
+        "Biblioteca",
+        "Puente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piensa: \"Yo no tengo ese puerto. Yo tengo un campo de pruebas.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice la psicóloga a Maciek?",
+      "answers": [
+        "Que sus padres eran realmente malos",
+        "Que no eran malos, solo ausentes — y no es culpa suya",
+        "Que debería volver a casa",
+        "Que no debería tener hijos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La psicóloga: ausentes, incapaces — y no es culpa de Maciek."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Maciek a su padre años después?",
+      "answers": [
+        "Que lo odia y no quiere verlo",
+        "Que temía sus estallidos y se culpaba a sí mismo",
+        "Que le agradece la educación severa",
+        "Que no quiere visitarlo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le cuenta el miedo y la creencia de que era \"débil\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dibuja la hija al final?",
+      "answers": [
+        "Un dinosaurio",
+        "A la familia — todos sonríen",
+        "Un coche",
+        "Una casa sin gente"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hija: \"Somos nosotros: yo, tú y mamá. Y todos sonreímos.\""
+    }
+  ]
+}

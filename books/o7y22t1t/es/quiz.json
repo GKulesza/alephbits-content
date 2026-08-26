@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué desencadena las reflexiones de Marek en esta historia?",
+      "answers": [
+        "Una avería en el laboratorio de física",
+        "Los comentarios de los espectadores sobre el mal y la conciencia",
+        "Una carta de un premio Nobel extranjero",
+        "Una nueva beca de investigación del ministerio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Son los comentarios bajo su vídeo los que lo sacan de su rutina científica."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué límite empieza a percibir Marek como físico?",
+      "answers": [
+        "Que las matemáticas nunca funcionan",
+        "Que las fórmulas no explican las preguntas sobre el sentido",
+        "Que no se puede hablar públicamente de los átomos",
+        "Que la conciencia ya se puede medir con precisión"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto muestra la tensión entre la descripción exacta y las preguntas sobre el sentido."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué conduce a Marek volver al cuaderno de su juventud?",
+      "answers": [
+        "A rechazar toda la física cuántica",
+        "A especular sobre los pensamientos, las ondas y la conciencia",
+        "A escribir un trabajo sobre economía",
+        "A comprar una radio nueva"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las notas viejas le devuelven la intuición de conectar ondas y mente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué considera Marek el mensaje importante de la física ante la muerte?",
+      "answers": [
+        "Que la reencarnación se puede demostrar empíricamente",
+        "Que nada desaparece, todo se transforma",
+        "Que la muerte es solo un error de la biología",
+        "Que los átomos dejan de existir"
+      ],
+      "correctIndex": 1,
+      "explanation": "En el vídeo explica la conservación de la energía y el ciclo de los átomos tras la muerte."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué este texto exige una lectura cuidadosa como material de divulgación?",
+      "answers": [
+        "Porque no contiene ningún concepto científico",
+        "Porque mezcla la física con especulaciones filosóficas",
+        "Porque niega la existencia de los átomos",
+        "Porque describe solo la religión"
+      ],
+      "correctIndex": 1,
+      "explanation": "La narración se desplaza deliberadamente de la ciencia a la especulación y la autorreflexión."
+    }
+  ]
+}

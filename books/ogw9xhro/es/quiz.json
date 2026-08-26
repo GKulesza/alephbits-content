@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Para qué entra Marek en la cafetería?",
+      "answers": [
+        "Para tener un momento de otra vida",
+        "Para cobrar el sueldo",
+        "Para trabajar detrás de la barra",
+        "Para comprar un café para llevar para su hijo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek busca un lugar donde pueda fingir ser otra persona."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pide Marek en la barra?",
+      "answers": [
+        "Un capuchino con leche de avena",
+        "Un té con limón",
+        "Un espresso doble",
+        "Una tarta de queso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pide un capuchino grande con leche de avena."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En quién piensa Marek mientras espera en la cafetería?",
+      "answers": [
+        "En su hijo Kuba",
+        "En su jefe de la oficina",
+        "En su madre",
+        "En su médico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recuerda la conversación en la que Kuba pregunta si papá volverá."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le da la barista a Marek en su segunda visita?",
+      "answers": [
+        "Un café que invita la casa",
+        "Una cuenta que pagar",
+        "Su tarjeta de trabajo",
+        "Una tarta de queso gratis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vuelve con una taza y dice: \"Invita la casa\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Marek con la tarjeta de la fundación?",
+      "answers": [
+        "Llama y pregunta cómo empezar de nuevo",
+        "La tira a la papelera",
+        "Se la devuelve a la barista",
+        "Le envía un mensaje a su exmujer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Al final llama y pregunta por la fundación."
+    }
+  ]
+}

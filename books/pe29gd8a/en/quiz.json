@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What makes Janusz start researching the Black Code?",
+      "answers": [
+        "He finds a family diary from Haiti",
+        "He reads that the document formally remained in force until 28 May 2026",
+        "He gets a grant to study Polish law",
+        "He hears about it in a church in Kraków"
+      ],
+      "correctIndex": 1,
+      "explanation": "The trigger is the information about the surprisingly late repeal of the document."
+    },
+    {
+      "type": "single_choice",
+      "question": "What function does Vodou serve in Jean-Pierre's interpretation?",
+      "answers": [
+        "Only an exotic religion from the movies",
+        "A tool of survival, order and resistance",
+        "A private cult of a few families",
+        "A religion imported from Poland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre presents Vodou as a social system and a tool of survival."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why is Bois Caïman important in the story?",
+      "answers": [
+        "It's the birthplace of Polish emigration",
+        "It's the site of the ritual that preceded the Haitian revolution",
+        "It's the former seat of Napoleon",
+        "It's a museum of colonial law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre describes Bois Caïman as the site of the ritual connected with the start of the uprising."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the text interpret the link between Our Lady of Częstochowa and Erzulie Dantor?",
+      "answers": [
+        "As a historical translation error",
+        "As an example of religious syncretism and survival",
+        "As proof of Vatican dominance",
+        "As a modern marketing campaign"
+      ],
+      "correctIndex": 1,
+      "explanation": "The thread serves to show how religious symbols were absorbed and transformed."
+    },
+    {
+      "type": "single_choice",
+      "question": "What broader lesson does Janusz take from the journey?",
+      "answers": [
+        "That the history of slavery belongs only to the past",
+        "That the spirit of the Black Code lives on in prejudices and in the treatment of 'others'",
+        "That Vodou can only be explained by magic",
+        "That Poland and Haiti have no points of contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the end Janusz writes about the persistence of the law's spirit in today's prejudices."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace que Janusz empiece a investigar el Código Negro?",
+      "answers": [
+        "Encuentra un diario familiar de Haití",
+        "Lee que el documento estuvo formalmente en vigor hasta el 28 de mayo de 2026",
+        "Recibe una beca para estudiar el derecho polaco",
+        "Oye hablar de ello en una iglesia de Cracovia"
+      ],
+      "correctIndex": 1,
+      "explanation": "El detonante es la información sobre la derogación sorprendentemente tardía del documento."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué función cumple el Vodou en la interpretación de Jean-Pierre?",
+      "answers": [
+        "Solo una religión exótica de las películas",
+        "Una herramienta de supervivencia, orden y resistencia",
+        "Un culto privado de unas pocas familias",
+        "Una religión importada de Polonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre presenta el Vodou como un sistema social y una herramienta de supervivencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué es importante Bois Caïman en la historia?",
+      "answers": [
+        "Es el lugar de nacimiento de la emigración polaca",
+        "Es el lugar del ritual que precedió a la revolución haitiana",
+        "Es la antigua sede de Napoleón",
+        "Es un museo del derecho colonial"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean-Pierre describe Bois Caïman como el lugar del ritual ligado al inicio de la insurrección."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo interpreta el texto la relación entre Nuestra Señora de Częstochowa y Erzulie Dantor?",
+      "answers": [
+        "Como un error de traducción histórica",
+        "Como un ejemplo de sincretismo religioso y supervivencia",
+        "Como prueba del dominio del Vaticano",
+        "Como una campaña de marketing moderna"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hilo sirve para mostrar cómo los símbolos religiosos fueron absorbidos y transformados."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lección general saca Janusz del viaje?",
+      "answers": [
+        "Que la historia de la esclavitud pertenece solo al pasado",
+        "Que el espíritu del Código Negro pervive en los prejuicios y en el trato a los 'otros'",
+        "Que el Vodou solo se explica con la magia",
+        "Que Polonia y Haití no tienen ningún punto en común"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al final, Janusz escribe sobre la pervivencia del espíritu de esa ley en los prejuicios actuales."
+    }
+  ]
+}

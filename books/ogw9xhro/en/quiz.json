@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does Marek come to the café?",
+      "answers": [
+        "To have a moment of a different life",
+        "To pick up his salary",
+        "To work behind the counter",
+        "To buy a takeaway coffee for his son"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek is looking for a place where he can pretend to be someone else."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek order at the counter?",
+      "answers": [
+        "A cappuccino with oat milk",
+        "A lemon tea",
+        "A double espresso",
+        "A cheesecake"
+      ],
+      "correctIndex": 0,
+      "explanation": "He orders a large cappuccino with oat milk."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does Marek think about while waiting in the café?",
+      "answers": [
+        "His son Kuba",
+        "His boss at the office",
+        "His mother",
+        "His doctor"
+      ],
+      "correctIndex": 0,
+      "explanation": "He remembers the conversation in which Kuba asks if Dad will come back."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the barista give Marek on his second visit?",
+      "answers": [
+        "A coffee on the house",
+        "A bill to pay",
+        "Her work business card",
+        "A free cheesecake"
+      ],
+      "correctIndex": 0,
+      "explanation": "She comes back with a cup and says: \"On the house.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek do with the foundation's business card?",
+      "answers": [
+        "He calls and asks how to start over",
+        "He throws it in the bin",
+        "He gives it back to the barista",
+        "He texts his ex-wife"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the end he calls and asks about the foundation."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+# The Black Code
+
+## Metadata
+
+**Pack ID:** pe29gd8a
+**Book ID:** pe29gd8a
+**Legacy Pack ID:** polish_czarny_kodeks
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** The Black Code  
+**Subtitle:** Vodou, Haiti and the long life of a law  
+**Blurb:** Janusz, a historian with a passion, follows the trail of the Black Code — a document entangled with the Haitian revolution, Vodou and the European imagination. The deeper he goes into the archives and legends, the harder it becomes to tell fact from myth. A journey through colonial memory, where sanctity and violence interweave without warning.
+
+**Genres:** history, article  
+**Series:** Collection Three  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Czarny Kodeks" — Collection Three official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** haiti, vodou, colonialism, history, law  
+
+**Keywords:** Czarny Kodeks, Haiti, Vodou, niewolnictwo  
+
+**Editorial notes:** Migrated from Collection Three manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** history
+
+---
+
+**World:**
+- objects: book
+- places: office, library
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Inspired by reality
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 03.06.2006 -> https://www.youtube.com/watch?v=mbEzHzDZGXs<br>09.07.2006 -> https://www.youtube.com/watch?v=LJ3Ca57IIOw  
+**Revision notes:** Tekst miesza fakty historyczne z reportażową narracją i zawiera fragment wymagający ręcznego sprawdzenia ciągłości redakcyjnej.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — removed erroneous "w Nikiszowcu" (Polish district) from the Haiti narrative |
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=mbEzHzDZGXs  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2006-06-03  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+### Source 2: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=LJ3Ca57IIOw  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2006-07-09  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+THE BLACK CODE
+
+When Janusz Kowalski first heard about the Black Code, he thought it was a joke. He was a historian with a passion, but he specialised in the history of medieval Europe, not in French colonial law. He was sitting in his office at the Jagiellonian University, leafing through an article he'd come across by chance in an English-language journal, when his eyes fell on a sentence that made his blood run cold:
+
+"The Black Code, a body of laws regulating slavery in the French colonies, formally remained in force in France until 28 May 2026."
+
+– Impossible – he said to himself, rubbing his eyes. – That's the Middle Ages. It can't be true.
+
+But it was true. A document issued by Louis XIV in 1685, which treated people like animals, which ordered slaves to be baptised under threat of death, which forbade them to practise their own beliefs, which justified torture and corporal punishment — that document had survived in the recesses of the French legal order for 341 years. And it had been repealed only a few days earlier.
+
+Janusz closed his laptop. He felt he had to learn more. He had to understand how such a monstrous document could have existed for so long. And what it says about us, about humanity, about how we treat those we deem "other".
+
+Journey to Haiti
+
+Three months later Janusz stood at the airport in Port-au-Prince. The humid, hot air hit his face like a wall. Around him life was teeming — people shouted in a Creole that sounded like music, vendors offered fruit, and from the loudspeakers came rhythms that seemed familiar to him, though he didn't know why.
+
+He had come to Haiti to study the religion that was born in the shadow of the Black Code. Voodoo. Or rather Vodou — because that was how the real name sounded, without the Hollywood styling. He wanted to understand how people who had been stripped of everything — freedom, identity, culture — had managed to create a system of belief that had survived for centuries and become a symbol of resistance.
+
+His guide was Jean-Pierre, a tall man with piercing eyes who spoke fluent English and French. He was the son of a Vodou priestess and had in him something Janusz called "spiritual certainty".
+
+– Do you want to see the real Vodou? – Jean-Pierre asked, smiling. – Or the one they show in the movies?
+
+– The truth – Janusz answered. – I want to understand how it works. How people who survived unimaginable suffering managed to create something that gives them strength.
+
+Jean-Pierre nodded.
+
+– It isn't easy. But I'll show you.
+
+Crocodile Wood
+
+The first stop was a place that had gone down in history. Crocodile Wood, Bois Caïman. It was here, in August 1791, that the leaders of the slave revolt gathered to perform the ritual that set the Haitian revolution in motion.
+
+Jean-Pierre stopped at the edge of the clearing.
+
+– Here – he said. – It was here that Dutty Boukman, a Vodou priest, made his offering. Here that Mambo Cécile Fatiman went into a trance. And here the slogan was born: "Freedom or death".
+
+Janusz looked around. The place seemed ordinary — a clearing, trees, silence. But he felt something hanging in the air. Some presence. Maybe it was imagination. Maybe it was history.
+
+– Boukman wasn't Haitian – Jean-Pierre said. – He was brought from Jamaica. He was a slave who could read and write. The British sold him to the French because he was teaching others. In Haiti he became an overseer, but in secret he was preparing the uprising.
+
+– And what happened?
+
+– He died fighting. The French put his head on public display. But the revolution could no longer be stopped.
+
+Janusz looked at the clearing. He imagined hundreds of people gathered in the dark, drums, fire, an oath. And he understood that Vodou wasn't only a religion. It was a tool of survival. It was a weapon.
+
+Church and temple
+
+The next day Jean-Pierre took Janusz to the church of Saint Anne. It was a surprise.
+
+– Why did we come here? – Janusz asked. – I thought we were looking for Vodou.
+
+– We are – Jean-Pierre answered. – But Vodou is everywhere. Even where you don't expect it.
+
+They went inside. The church was beautiful — stained glass, sculptures, an organ. But Janusz noticed something strange. On one of the altars, beside the traditional saints, hung a picture of Our Lady of Częstochowa.
+
+– Where did that come from? – he asked.
+
+– It's a long story – Jean-Pierre smiled. – When Napoleon sent an army to Haiti, there were Poles among them. They fought on the French side, but they soon understood that they were defending a colonial system. Many of them switched to the side of the rebels. After the revolution, Haiti called the Poles the "white Negroes of Europe" — that was a compliment, a sign that they hadn't behaved like colonisers.
+
+Janusz looked at the picture. A dark face, scars on the cheek. He remembered what he'd read about Erzulie Dantor — the warrior goddess, protector of women, symbol of independence. In Haitian Vodou her image had been identified with Our Lady of Częstochowa.
+
+– So it's her? – he asked. – Erzulie Dantor?
+
+– Yes – Jean-Pierre answered. – The scars on the face matched the African symbols perfectly. Polish soldiers brought the picture to Haiti, and the Haitians absorbed it into their system of belief. This isn't coincidence. This is syncretism. This is survival.
+
+Zombies and science
+
+In the evening Janusz and Jean-Pierre sat in a small restaurant in Port-au-Prince, drinking coffee. Janusz couldn't stop thinking about what he'd heard.
+
+– What about zombies? – he asked. – Is it true they exist?
+
+Jean-Pierre laughed.
+
+– It's complicated. In Haitian folklore zombies aren't the monsters from horror films. They're victims who have been subjected to a process of zombification — a ritual that strips them of will and identity.
+
+– But how does it work? Chemistry?
+
+– Yes. Tetrodotoxin from the pufferfish. And a brew of datura that causes amnesia and suggestibility. But that's not all. The key is fear. If you believe you've been turned into a zombie, it's as if you were one. Your mind locks you in a cage.
+
+Janusz remembered the case of Clairvius Narcisse, who in 1962 was declared dead and eighteen years later appeared at a marketplace, claiming he had been a zombie.
+
+– Was he really buried alive? – he asked.
+
+– Perhaps – Jean-Pierre answered. – But perhaps it's just trauma. Perhaps he spent those years hiding from his family, working as an outcast. The truth is we'll never know. Something else matters.
+
+– What?
+
+– That the story survived. That people believe it. And that the fear of zombification is still real for many Haitians. This isn't magic. This is justice. Punishment for those who violate social norms.
+
+Janusz nodded. He understood that Vodou wasn't only a religion. It was a social, moral, political system. A way of maintaining order in a world where official institutions fail.
+
+Return
+
+A month later Janusz returned to Poland. In his office at the Jagiellonian University he opened his laptop and began to write. He wanted to tell the world what he had learned. About the Black Code that had survived 341 years. About the Vodou born from suffering. About Our Lady of Częstochowa, who had become a symbol of resistance in the Caribbean. About the Poles who became the "white Negroes of Europe". And about how history, religion and culture intertwine into an inseparable whole.
+
+At the end of the article he wrote:
+
+"The Black Code was repealed on 28 May 2026. But its spirit still lives — in prejudices, in stereotypes, in the treatment of those we regard as 'other'. The history of Vodou shows that even in the darkest times people can create something that gives them strength. Something that is their own. Something that survives."
+
+He closed his laptop. He looked out of the window at the sky over Kraków. Somewhere out there, across the ocean, in Haiti, the drums were still beating. Rituals were still being performed. The legend of the Black Monk, of Erzulie Dantor, of zombies and of freedom was still alive.
+
+And Janusz knew that this story would never end. Because stories of survival, of resistance, of faith — they last forever.
+
+THE END
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What makes Janusz start researching the Black Code?
+
+**Answers:**
+- A) He finds a family diary from Haiti
+- B) He reads that the document formally remained in force until 28 May 2026
+- C) He gets a grant to study Polish law
+- D) He hears about it in a church in Kraków
+
+**Correct:** B
+**Explanation:** The trigger is the information about the surprisingly late repeal of the document.
+**Text reference:** formally remained in force in France until 28 May 2026
+
+### Question 2
+
+**Question:** What function does Vodou serve in Jean-Pierre's interpretation?
+
+**Answers:**
+- A) Only an exotic religion from the movies
+- B) A tool of survival, order and resistance
+- C) A private cult of a few families
+- D) A religion imported from Poland
+
+**Correct:** B
+**Explanation:** Jean-Pierre presents Vodou as a social system and a tool of survival.
+**Text reference:** It was a tool of survival
+
+### Question 3
+
+**Question:** Why is Bois Caïman important in the story?
+
+**Answers:**
+- A) It's the birthplace of Polish emigration
+- B) It's the site of the ritual that preceded the Haitian revolution
+- C) It's the former seat of Napoleon
+- D) It's a museum of colonial law
+
+**Correct:** B
+**Explanation:** Jean-Pierre describes Bois Caïman as the site of the ritual connected with the start of the uprising.
+**Text reference:** set the Haitian revolution in motion
+
+### Question 4
+
+**Question:** How does the text interpret the link between Our Lady of Częstochowa and Erzulie Dantor?
+
+**Answers:**
+- A) As a historical translation error
+- B) As an example of religious syncretism and survival
+- C) As proof of Vatican dominance
+- D) As a modern marketing campaign
+
+**Correct:** B
+**Explanation:** The thread serves to show how religious symbols were absorbed and transformed.
+**Text reference:** This is syncretism. This is survival.
+
+### Question 5
+
+**Question:** What broader lesson does Janusz take from the journey?
+
+**Answers:**
+- A) That the history of slavery belongs only to the past
+- B) That the spirit of the Black Code lives on in prejudices and in the treatment of 'others'
+- C) That Vodou can only be explained by magic
+- D) That Poland and Haiti have no points of contact
+
+**Correct:** B
+**Explanation:** At the end Janusz writes about the persistence of the law's spirit in today's prejudices.
+**Text reference:** its spirit still lives
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

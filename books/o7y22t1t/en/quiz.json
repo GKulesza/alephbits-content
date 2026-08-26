@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What triggers Marek's reflections in this story?",
+      "answers": [
+        "A breakdown in the physics laboratory",
+        "Viewers' comments about evil and consciousness",
+        "A letter from a foreign Nobel laureate",
+        "A new research grant from the ministry"
+      ],
+      "correctIndex": 1,
+      "explanation": "It's the comments under his video that jolt him out of his scientific routine."
+    },
+    {
+      "type": "single_choice",
+      "question": "What limit does Marek begin to notice as a physicist?",
+      "answers": [
+        "That mathematics never works",
+        "That formulas won't explain questions about meaning",
+        "That one can't talk about atoms publicly",
+        "That consciousness can already be measured precisely"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text shows the tension between strict description and questions about meaning."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Marek's return to the notebook from his youth lead him?",
+      "answers": [
+        "To rejecting all of quantum physics",
+        "To speculation about thoughts, waves and consciousness",
+        "To writing a paper on economics",
+        "To buying a new radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "The old notes bring back his intuition of connecting waves and the mind."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek consider the important message of physics about death?",
+      "answers": [
+        "That reincarnation can be proven empirically",
+        "That nothing disappears, everything transforms",
+        "That death is merely a biological error",
+        "That atoms cease to exist"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the video he explains the conservation of energy and the cycle of atoms after death."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does this text require careful reading as popular-science material?",
+      "answers": [
+        "Because it contains no scientific concepts",
+        "Because it mixes physics with philosophical speculation",
+        "Because it denies the existence of atoms",
+        "Because it describes religion only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The narrative deliberately moves from science to speculation and self-reflection."
+    }
+  ]
+}

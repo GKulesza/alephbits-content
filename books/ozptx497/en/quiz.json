@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "At what time does Ada first wake up with the awakening?",
+      "answers": [
+        "5:47",
+        "3:33",
+        "12:00",
+        "6:15"
+      ],
+      "correctIndex": 1,
+      "explanation": "She wakes up at 3:33 in the morning."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the name of the voice Ada hears?",
+      "answers": [
+        "Leon",
+        "Sirun",
+        "Adam",
+        "Marta"
+      ],
+      "correctIndex": 1,
+      "explanation": "The voice introduces itself as Sirun, a messenger."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ada do professionally a month after the awakening?",
+      "answers": [
+        "She returns to her full-time job",
+        "She starts a website about the Syrian codes and gives up her job",
+        "She goes to hospital",
+        "She goes back to her mother"
+      ],
+      "correctIndex": 1,
+      "explanation": "She gives up her job and writes about the awakening codes."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Ada stand in the epilogue a year later?",
+      "answers": [
+        "In Warsaw",
+        "In the desert in Egypt, by a pyramid",
+        "In hospital",
+        "At her mother's house"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogue: she stands in the desert in Egypt before a pyramid."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the stranger write to Ada in the message?",
+      "answers": [
+        "That he is ill",
+        "That for weeks he has felt a pulsing in his palm and thanks her for existing",
+        "That he wants to meet",
+        "That it's a fraud"
+      ],
+      "correctIndex": 1,
+      "explanation": "A reader writes about the same pulsing and about gratitude."
+    }
+  ]
+}

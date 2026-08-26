@@ -1,0 +1,334 @@
+# El campo de pruebas
+
+## Metadata
+
+**Pack ID:** of1gg2kt
+**Book ID:** of1gg2kt
+**Legacy Pack ID:** polish_poligon
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** El campo de pruebas  
+**Subtitle:** Un padre duro y la ruptura de la cadena  
+**Blurb:** Maciek crece en una casa donde el dolor debe ser un "endurecimiento". Como padre, lucha contra el eco de su propio padre — y al final, años después, le dice la verdad.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Poligon" — edición oficial de Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** przemoc emocjonalna, ojcostwo, terapia, Collection Ten  
+
+**Keywords:** Poligon, Maciek, ojciec, przemoc, terapia  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- fatherhood
+- childhood
+- fear
+- factory
+- forgiveness
+- reconciliation
+
+**Editorial notes:** Fikcja o przemocy emocjonalnej; founder review przed promocją.
+
+**Inspiration:** Opowieść o przerwaniu cyklu przemocy emocjonalnej w rodzinie; YouTube roUXYWHyT4o (2022-10-13).
+
+---
+
+**World:**
+- objects: stone
+- places: forest, town
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 13.10.2022 -> https://www.youtube.com/watch?v=roUXYWHyT4o  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Silna opowieść o przerwaniu cyklu przemocy. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=roUXYWHyT4o  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2022-10-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**EL CAMPO DE PRUEBAS**
+
+Cuando Maciek tenía siete años, su padre lo llevó al taller. Dentro olía a grasa y a metal, y en el suelo había herramientas que parecían armas. El padre cogió un martillo y lo apoyó sobre un trozo de acero.
+
+– Mira, hijo – dijo. – El metal hay que templarlo en el fuego. Si no, se queda blando. No sirve para nada. Igual que el hombre.
+
+Maciek asintió, aunque no entendía. Unas horas después recibió su primera bofetada. No por nada concreto: simplemente no había conseguido sacar la basura cuando su padre volvió del trabajo.
+
+– No vas a convertirme en un blandengue – dijo su padre. – En la vida hay que ser duro.
+
+Maciek aprendió entonces dos cosas. Primera: que el dolor es una herramienta educativa. Segunda: que es mejor callarse.
+
+---
+En casa de Maciek siempre había ruido. No de risas. De gritos. Su padre volvía del trabajo cansado, furioso, a punto de estallar. Su madre caminaba de puntillas para no provocarlo. Maciek también. Pero ni eso bastaba nunca.
+
+– En mis tiempos los niños no eran tan respondones – decía su padre cuando Maciek se atrevía a protestar contra un castigo injusto. – Cuando yo era pequeño, se comía lo que daba la madre y no se refunfuñaba. ¿Y tú? Tú crees que te lo deben todo.
+
+Maciek no creía que le debieran todo. Solo pensaba que le gustaría que alguien, aunque fuera una vez, le preguntara qué quería. Pero las preguntas eran cosa de adultos. Los niños tenían que obedecer.
+
+– Los niños y los peces no tienen voz – decía su madre cuando Maciek intentaba hablar. – No contestes.
+
+Y Maciek se callaba. Se encerraba en sí mismo. Y aprendía que sus palabras no importaban. Que sus necesidades no importaban. Que él mismo no importaba.
+
+---
+En la escuela a Maciek le iba bastante bien, pero no perfectamente. A veces sacaba un notable en vez de un sobresaliente. Entonces su padre se enfurecía:
+
+– ¿Y esto qué es? Después de todo lo que te he enseñado, de todo el dinero que he gastado, ¿y me vienes con notables?
+
+– Pero papá, yo me esforcé...
+
+– No me interesa si te esforzaste. Lo que cuenta es el resultado. No es mi problema que tú no estudies.
+
+Maciek se escondía en su habitación y lloraba. No por el notable. Porque se sentía solo. Porque sus problemas eran solo suyos. Porque nadie lo ayudaría.
+
+Una vez, en sexto curso, una profesora dijo algo en clase que se le quedó grabado. Dijo que los padres debían ser las primeras personas a las que los niños acuden con sus problemas. Que los padres debían ser un puerto seguro.
+
+Maciek pensó entonces: "Yo no tengo ese puerto. Yo tengo un campo de pruebas."
+
+---
+Cuando Maciek tenía doce años, su hermana Kasia tuvo su primera menstruación. Tenía miedo, no sabía qué le pasaba. Fue a su madre. La madre, cansada, estresada, le quitó importancia:
+
+– Vamos, es normal. No exageres.
+
+Kasia salió de la habitación llorando. Maciek lo vio y pensó: "No tiene a nadie a quien acudir. Nadie la ayudará."
+
+Y entonces comprendió que no era solo él quien estaba solo. Que toda la familia se ahogaba en un silencio más fuerte que los gritos del padre.
+
+---
+El padre de Maciek no era un mal hombre. Era un hombre que a su vez había sido criado así. Su padre lo golpeaba con un cinturón, con un cable, con lo primero que encontraba. Decía: "Saldrás un hombre decente." Y el padre de Maciek salió. Un hombre decente que no sabía mostrar amor. Que creía que el dolor era el único idioma que los niños entendían.
+
+A veces, cuando Maciek yacía en la cama tras otra discusión, oía a su padre hablar con su madre en la cocina.
+
+– No sé qué hacer con él – decía su padre. – Hago lo que puedo. Quiero que sea duro. Que se defienda en la vida.
+
+– Quizá no tienes que ser tan severo – respondía su madre en voz baja.
+
+– Y si no soy severo, saldrá un blandengue. De esos que van a los psicólogos y se lamentan de sí mismos.
+
+Maciek oía esas palabras y se sentía aún peor. Porque sabía que su padre creía de verdad que lo que hacía era bueno. Que él, Maciek, era para su padre un proyecto que mejorar. No una persona. Un proyecto.
+
+---
+Cuando Maciek cumplió dieciocho años, se fue de casa. No hubo una gran despedida. No hubo lágrimas. Solo silencio y alivio.
+
+En la universidad conoció a gente que tenía otras familias. Que hablaban con sus padres de sus problemas. Que no tenían miedo de abrazar. Que oían "te quiero" no solo en las fiestas.
+
+Maciek los miraba con envidia. Y con rabia. No hacia ellos: hacia sí mismo. Por estar tan roto. Por no saber hablar de emociones. Por encogerse automáticamente cada vez que alguien levantaba la voz, esperando el golpe.
+
+Fue a terapia. La psicóloga le dijo algo que lo sorprendió:
+
+– Tus padres no eran malos. Simplemente estaban ausentes. No sabían estar presentes. Y eso no es culpa tuya.
+
+Maciek lloró. Por primera vez en años.
+
+---
+Cuando él mismo fue padre, se prometió que sería distinto. Que escucharía. Que estaría presente. Que no gritaría, no golpearía, no asustaría. Que no diría "los niños y los peces no tienen voz".
+
+Pero era difícil. A veces, cuando su hija lloraba sin motivo, la voz de su padre se oía en su cabeza: "No te ablandes, saldrá una blandengue." Cuando su hijo sacaba un suficiente en el colegio, quería gritar: "¡No es mi problema!"
+
+Y entonces Maciek recordaba cómo se había sentido él mismo de niño. Cuánto había necesitado que alguien lo abrazara. Que alguien dijera: "Estoy contigo." Que alguien escuchara y no juzgara.
+
+Y lo hacía. Abrazaba. Escuchaba. Decía "te quiero". Incluso cuando le costaba. Incluso cuando oía dentro la voz de su padre.
+
+Porque sabía que podía romper esa cadena. Que no tenía que transmitir lo que él mismo había recibido.
+
+---
+Un día Maciek fue a ver a su padre. Tenía cuarenta años; su padre, setenta. Se sentaron en la cocina y bebieron té. Estaba en silencio.
+
+– Papá – dijo Maciek. – Me gustaría decirte algo.
+
+Su padre lo miró, inseguro.
+
+– Cuando era pequeño, te tenía miedo. No porque fueras malo. Porque eras imprevisible. Nunca sabía cuándo ibas a estallar. Y durante mucho tiempo pensé que había algo malo en mí. Que era débil. Que no sabía ser duro.
+
+Su padre calló. En sus ojos apareció algo que Maciek nunca había visto antes: vergüenza.
+
+– Yo... yo no lo sabía – dijo al fin. – Creía que tenía que ser así. Que si era severo, llegarías a ser alguien. Y tú...
+
+– Y yo llegué a ser alguien – lo interrumpió Maciek. – Llegué a ser alguien que no sabía pedir ayuda. Que no sabía hablar de sentimientos. Que tenía miedo de la gente porque le recordaba el dolor. Pero yo lo cambié. No quiero ser así. Y no quiero que mis hijos sean así.
+
+Su padre bajó la mirada.
+
+– Lo siento – dijo en voz baja. – Yo... yo tampoco lo quería. Solo que no sabía hacerlo de otra manera.
+
+Maciek asintió.
+
+– Lo sé. Y por eso te perdono.
+
+No hubo una gran reconciliación. No hubo lágrimas. Solo silencio y comprensión.
+
+---
+De vuelta a casa, Maciek pensó en lo que había dicho la psicóloga: "Tus padres no eran malos. Simplemente estaban ausentes." Y comprendió que eso no bastaba. Que estar presente es algo que hay que aprender. Y que él, Maciek, lo aprendía cada día.
+
+Llegó a casa. Su hija corrió hacia él con un dibujo.
+
+– ¡Papá, mira lo que he dibujado!
+
+Maciek se inclinó y miró el dibujo.
+
+– Somos nosotros – dijo su hija. – Yo, tú y mamá. Y todos sonreímos.
+
+Maciek sonrió.
+
+– Precioso. ¿Me cuentas algo de este dibujo?
+
+Y se sentó junto a ella. Y escuchó. Y estuvo presente.
+
+Porque sabía que eso era lo más importante. Que no hay que ser un padre perfecto. Hay que ser real. Hay que escuchar. Hay que pedir perdón. Hay que amar.
+
+Y hay que recordar que un niño no es un trozo de metal que forjar en el fuego. Es una persona. Que necesita amor. Y que tiene alas.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué le dice el padre a Maciek junto al trozo de acero del taller?
+
+**Answers:**
+- A) El metal hay que templarlo en el fuego — igual que al hombre
+- B) Aprende a tocar la guitarra
+- C) Sé amable con tu madre
+- D) Lee todos los días
+
+**Correct:** A
+**Explanation:** La metáfora del templado del metal = criar con dolor "duro".
+**Text reference:** templarlo en el fuego
+
+### Question 2
+
+**Question:** ¿Cómo llama Maciek a la falta de un puerto seguro con sus padres?
+
+**Answers:**
+- A) Paraíso
+- B) Campo de pruebas
+- C) Biblioteca
+- D) Puente
+
+**Correct:** B
+**Explanation:** Piensa: "Yo no tengo ese puerto. Yo tengo un campo de pruebas."
+**Text reference:** un campo de pruebas
+
+### Question 3
+
+**Question:** ¿Qué le dice la psicóloga a Maciek?
+
+**Answers:**
+- A) Que sus padres eran realmente malos
+- B) Que no eran malos, solo ausentes — y no es culpa suya
+- C) Que debería volver a casa
+- D) Que no debería tener hijos
+
+**Correct:** B
+**Explanation:** La psicóloga: ausentes, incapaces — y no es culpa de Maciek.
+**Text reference:** no es culpa tuya
+
+### Question 4
+
+**Question:** ¿Qué le dice Maciek a su padre años después?
+
+**Answers:**
+- A) Que lo odia y no quiere verlo
+- B) Que temía sus estallidos y se culpaba a sí mismo
+- C) Que le agradece la educación severa
+- D) Que no quiere visitarlo
+
+**Correct:** B
+**Explanation:** Le cuenta el miedo y la creencia de que era "débil".
+**Text reference:** te tenía miedo
+
+### Question 5
+
+**Question:** ¿Qué dibuja la hija al final?
+
+**Answers:**
+- A) Un dinosaurio
+- B) A la familia — todos sonríen
+- C) Un coche
+- D) Una casa sin gente
+
+**Correct:** B
+**Explanation:** La hija: "Somos nosotros: yo, tú y mamá. Y todos sonreímos."
+**Text reference:** todos sonreímos
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

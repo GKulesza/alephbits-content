@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A qué hora se despierta Ada por primera vez con el despertar?",
+      "answers": [
+        "5:47",
+        "3:33",
+        "12:00",
+        "6:15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se despierta a las 3:33 de la madrugada."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama la voz que oye Ada?",
+      "answers": [
+        "León",
+        "Sirun",
+        "Adán",
+        "Marta"
+      ],
+      "correctIndex": 1,
+      "explanation": "La voz se presenta como Sirun, un mensajero."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Ada profesionalmente un mes después del despertar?",
+      "answers": [
+        "Vuelve a su puesto fijo",
+        "Crea una página sobre los códigos sirianos y renuncia a su puesto",
+        "Se va al hospital",
+        "Vuelve con su madre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Renuncia a su puesto y escribe sobre los códigos del despertar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde está Ada en el epílogo, un año después?",
+      "answers": [
+        "En Varsovia",
+        "En el desierto de Egipto, junto a una pirámide",
+        "En el hospital",
+        "En casa de su madre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epílogo: está en el desierto de Egipto ante una pirámide."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le escribe el desconocido a Ada en el mensaje?",
+      "answers": [
+        "Que está enfermo",
+        "Que desde hace semanas siente un latido en la palma y le agradece que exista",
+        "Que quiere verla",
+        "Que es un fraude"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un lector escribe sobre el mismo latido y su agradecimiento."
+    }
+  ]
+}

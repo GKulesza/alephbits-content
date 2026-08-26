@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does the father tell Maciek by the piece of steel in the workshop?",
+      "answers": [
+        "Metal has to be hardened in fire — just like a man",
+        "Learn to play the guitar",
+        "Be kind to your mother",
+        "Read every day"
+      ],
+      "correctIndex": 0,
+      "explanation": "The metaphor of hardening metal = raising a child with \"tough\" pain."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Maciek call the lack of a safe haven with his parents?",
+      "answers": [
+        "Paradise",
+        "A proving ground",
+        "A library",
+        "A bridge"
+      ],
+      "correctIndex": 1,
+      "explanation": "He thinks: \"I don't have a haven like that. I have a proving ground.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the psychologist tell Maciek?",
+      "answers": [
+        "His parents were truly evil",
+        "They weren't bad, just absent — and it's not his fault",
+        "He should go back home",
+        "He shouldn't have children"
+      ],
+      "correctIndex": 1,
+      "explanation": "The psychologist: absent, incapable — and it's not Maciek's fault."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Maciek tell his father years later?",
+      "answers": [
+        "That he hates him and doesn't want to see him",
+        "That he feared his outbursts and blamed himself",
+        "That he thanks him for the strict upbringing",
+        "That he doesn't want to visit him"
+      ],
+      "correctIndex": 1,
+      "explanation": "He talks about the fear and the belief that he was \"weak\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the daughter draw at the end?",
+      "answers": [
+        "A dinosaur",
+        "The family — everyone is smiling",
+        "A car",
+        "A house with no people"
+      ],
+      "correctIndex": 1,
+      "explanation": "The daughter: \"It's us — me, you and Mom. And we're all smiling.\""
+    }
+  ]
+}
