@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does Anastasia go to Poland?",
+      "answers": [
+        "She wants to learn Polish",
+        "She's visiting her family in Yelan",
+        "She's studying medicine",
+        "She works in a taxi"
+      ],
+      "correctIndex": 0,
+      "explanation": "She has no family or career plans here — she wants to have the language \"inside her\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Anastasia come from?",
+      "answers": [
+        "From Russia, lives in Germany",
+        "From Poland",
+        "From the USA",
+        "From Ukraine"
+      ],
+      "correctIndex": 0,
+      "explanation": "She tells the driver she is from Russia, but lives in Germany."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which book does she read in her room in Praga?",
+      "answers": [
+        "\"The Doll\" by Prus",
+        "\"Quo Vadis\"",
+        "\"Pan Tadeusz\"",
+        "A grammar textbook"
+      ],
+      "correctIndex": 0,
+      "explanation": "She reads \"The Doll\" in the original."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does she rent a room?",
+      "answers": [
+        "In Praga, Warsaw",
+        "In Yelan",
+        "In Kraków",
+        "In Berlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rented room in Praga is described directly."
+    },
+    {
+      "type": "single_choice",
+      "question": "How long has she lived outside Russia?",
+      "answers": [
+        "For nine years",
+        "For a year",
+        "For twenty years",
+        "For three months"
+      ],
+      "correctIndex": 0,
+      "explanation": "She has lived in Germany for nine years."
+    }
+  ]
+}

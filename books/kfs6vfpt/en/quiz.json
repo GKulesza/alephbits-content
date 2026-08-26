@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Patryk start his year-long journal routine with?",
+      "answers": [
+        "Running a marathon",
+        "Making his bed",
+        "Changing jobs",
+        "Going on holiday"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first entry reads: \"Day 1. I made my bed\", and the whole change starts with that gesture."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Patryk describe his life outside the office at the beginning of the story?",
+      "answers": [
+        "As full of travel and adventure",
+        "As the life of a man who is afraid to enter his own apartment",
+        "As a harmonious family life",
+        "As a time of intense sport"
+      ],
+      "correctIndex": 1,
+      "explanation": "His sister tells him directly that it's not normal to be afraid to enter his own apartment."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Patryk NOT expect after a year of keeping the journal?",
+      "answers": [
+        "Small, daily steps",
+        "Sudden great transformations",
+        "Bad days",
+        "Keeping the routine"
+      ],
+      "correctIndex": 1,
+      "explanation": "After a year he notices there were no great revolutions — only small steps."
+    },
+    {
+      "type": "single_choice",
+      "question": "What lesson does Patryk draw after running in the rain?",
+      "answers": [
+        "That what matters is being better than yesterday's self, not better than others",
+        "That rain makes training impossible",
+        "That records matter more than health",
+        "That he should stop running"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text says directly that it's about being better than yesterday's self, not about records."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Patryk write on day 366?",
+      "answers": [
+        "That he's giving up the journal",
+        "That he made his bed, ran and is alive — and that's enough",
+        "That he's moving to Dubai",
+        "That he sold his apartment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The last entry combines bed, run and life in one sentence about sufficiency."
+    }
+  ]
+}

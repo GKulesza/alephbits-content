@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Joanna see on the CCTV recording?",
+      "answers": [
+        "Agnieszka walking with reduced alertness",
+        "Agnieszka riding in a taxi",
+        "Agnieszka dancing happily",
+        "Agnieszka talking on the phone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna talks about the false sense of security threshold syndrome."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why were the first hours of the search wasted?",
+      "answers": [
+        "The case was treated as a teenager running away",
+        "There was no report",
+        "The cameras were not working",
+        "Agnieszka called the police"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first report was treated as a standard runaway."
+    },
+    {
+      "type": "single_choice",
+      "question": "At what time does the camera see Agnieszka for the last time?",
+      "answers": [
+        "4:12 in the morning",
+        "2:00 at night",
+        "Noon",
+        "10:30 PM"
+      ],
+      "correctIndex": 0,
+      "explanation": "The \"Point zero\" section gives 4:12."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Joanna in the story?",
+      "answers": [
+        "An experienced investigator",
+        "Agnieszka's mother",
+        "A journalist",
+        "A neighbour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna analyses recordings and police procedures."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Joanna say about the safe threshold?",
+      "answers": [
+        "It's a false sense of security",
+        "Agnieszka was at home",
+        "The cameras lie",
+        "Teenagers always come back"
+      ],
+      "correctIndex": 0,
+      "explanation": "The false sense of security threshold syndrome lowers alertness."
+    }
+  ]
+}

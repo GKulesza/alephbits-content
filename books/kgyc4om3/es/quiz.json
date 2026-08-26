@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué va Anastasia a Polonia?",
+      "answers": [
+        "Quiere aprender polaco",
+        "Visita a su familia en Yelán",
+        "Estudia medicina",
+        "Trabaja en un taxi"
+      ],
+      "correctIndex": 0,
+      "explanation": "No tiene familia ni planes de carrera aquí — quiere tener el idioma «dentro»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De dónde es Anastasia?",
+      "answers": [
+        "De Rusia, vive en Alemania",
+        "De Polonia",
+        "De Estados Unidos",
+        "De Ucrania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le dice al conductor que es de Rusia, pero vive en Alemania."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué libro lee en su habitación de Praga?",
+      "answers": [
+        "«La muñeca», de Prus",
+        "«Quo Vadis»",
+        "«Pan Tadeusz»",
+        "Un manual de gramática"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lee «La muñeca» en el original."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde alquila una habitación?",
+      "answers": [
+        "En Praga, Varsovia",
+        "En Yelán",
+        "En Cracovia",
+        "En Berlín"
+      ],
+      "correctIndex": 0,
+      "explanation": "La habitación alquilada en Praga se describe directamente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto tiempo lleva viviendo fuera de Rusia?",
+      "answers": [
+        "Nueve años",
+        "Un año",
+        "Veinte años",
+        "Tres meses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vive en Alemania desde hace nueve años."
+    }
+  ]
+}

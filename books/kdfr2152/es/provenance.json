@@ -1,0 +1,24 @@
+{
+  "packId": "kdfr2152:es",
+  "bookId": "kdfr2152",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o nauce czytania i rodzicielskiej wytrwałości."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "hbQ06IGxvgI"
+    }
+  ],
+  "revisionNotes": "Fikcja o nauce czytania i rodzicielskiej wytrwałości."
+}

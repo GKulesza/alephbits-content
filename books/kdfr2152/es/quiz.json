@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo reacciona Ala a sus primeras clases de lectura?",
+      "answers": [
+        "Con entusiasmo y progreso rápido",
+        "Aparta la mirada y dice que es trabajo, no juego",
+        "Lee frases enteras de inmediato",
+        "Pide más libros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ala, de cuatro años, aparta la mano de su madre y dice que aquello no es un juego, sino un trabajo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué consideró Kasia pero no eligió finalmente como camino más fácil?",
+      "answers": [
+        "Dejar a su hija con los abuelos",
+        "Sustituir los libros por una tableta y un dibujo animado en lugar de tiempo",
+        "Enviar a su hija a una escuela en el extranjero",
+        "Renunciar a enseñarle a leer"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice que podría haberle dado una tableta y un dibujo animado en lugar de tiempo, pero no lo hizo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Ala al comienzo de la historia?",
+      "answers": [
+        "Dos años",
+        "Cuatro años",
+        "Siete años",
+        "Doce años"
+      ],
+      "correctIndex": 1,
+      "explanation": "La primera sección empieza con la frase: cuando Ala tenía cuatro años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Kasia para dirigir la atención de su hija hacia las letras?",
+      "answers": [
+        "Apaga la luz",
+        "Toca la barbilla de Ala con el dedo para guiarle la mirada",
+        "Le da un caramelo",
+        "Enciende la televisión"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia toca la barbilla de su hija con el dedo para dirigir su mirada a la tarjeta."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué considera Kasia lo más importante al final?",
+      "answers": [
+        "Que su hija dejó de aprender",
+        "Que no eligió el camino más fácil y no renunció a la paciencia",
+        "Que vendió todos los libros",
+        "Que su hija se fue a vivir con su abuela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termina con el pensamiento de que las cosas podrían haber sido de otra manera, pero no lo hizo — y eso fue lo más importante."
+    }
+  ]
+}

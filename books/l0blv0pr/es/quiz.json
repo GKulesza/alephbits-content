@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve Joanna en la grabación de las cámaras?",
+      "answers": [
+        "A Agnieszka caminando con el estado de alerta bajo",
+        "A Agnieszka subiendo a un taxi",
+        "A Agnieszka bailando alegremente",
+        "A Agnieszka hablando por teléfono"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna habla del síndrome del umbral seguro falso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se desperdiciaron las primeras horas de búsqueda?",
+      "answers": [
+        "El caso se trató como una fuga de adolescente",
+        "No hubo denuncia",
+        "Las cámaras no funcionaban",
+        "Agnieszka llamó a la policía"
+      ],
+      "correctIndex": 0,
+      "explanation": "La primera denuncia se trató como una fuga estándar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué hora ve la cámara a Agnieszka por última vez?",
+      "answers": [
+        "A las 4:12 de la madrugada",
+        "A las 2:00 de la noche",
+        "Al mediodía",
+        "A las 22:30"
+      ],
+      "correctIndex": 0,
+      "explanation": "La sección «Punto cero» indica las 4:12."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Joanna en la historia?",
+      "answers": [
+        "Una investigadora experimentada",
+        "La madre de Agnieszka",
+        "Una periodista",
+        "Una vecina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna analiza grabaciones y procedimientos policiales."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Joanna sobre el umbral seguro?",
+      "answers": [
+        "Es una falsa sensación de seguridad",
+        "Agnieszka estaba en casa",
+        "Las cámaras mienten",
+        "Las adolescentes siempre vuelven"
+      ],
+      "correctIndex": 0,
+      "explanation": "El síndrome del umbral seguro falso reduce el estado de alerta."
+    }
+  ]
+}

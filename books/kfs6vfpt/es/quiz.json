@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Con qué empieza Patryk su rutina anual del cuaderno?",
+      "answers": [
+        "Corriendo un maratón",
+        "Tendiendo la cama",
+        "Cambiando de trabajo",
+        "Yéndose de vacaciones"
+      ],
+      "correctIndex": 1,
+      "explanation": "La primera anotación dice: «Día 1. Tendí la cama», y todo el cambio empieza con ese gesto."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Patryk su vida fuera de la oficina al comienzo de la historia?",
+      "answers": [
+        "Como llena de viajes y aventuras",
+        "Como la vida de un hombre que tiene miedo de entrar en su propio piso",
+        "Como una vida familiar armoniosa",
+        "Como un tiempo de deporte intenso"
+      ],
+      "correctIndex": 1,
+      "explanation": "Su hermana le dice directamente que no es normal que tenga miedo de entrar en su propio piso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué NO espera Patryk tras un año de llevar el cuaderno?",
+      "answers": [
+        "Pequeños pasos cotidianos",
+        "Grandes transformaciones repentinas",
+        "Malos días",
+        "Mantener la rutina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras un año nota que no hubo grandes revoluciones, solo pequeños pasos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lección saca Patryk tras correr bajo la lluvia?",
+      "answers": [
+        "Que lo importante es ser mejor que el yo de ayer, no que los demás",
+        "Que la lluvia impide entrenar",
+        "Que los récords importan más que la salud",
+        "Que debería dejar de correr"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto dice claramente que se trata de ser mejor que el yo de ayer, no de récords."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Patryk el día 366?",
+      "answers": [
+        "Que abandona el cuaderno",
+        "Que tendió la cama, corrió y está vivo — y eso basta",
+        "Que se muda a Dubái",
+        "Que vendió el piso"
+      ],
+      "correctIndex": 1,
+      "explanation": "La última anotación une la cama, la carrera y la vida en una frase sobre lo suficiente."
+    }
+  ]
+}

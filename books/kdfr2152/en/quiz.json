@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Ala react to her first reading lessons?",
+      "answers": [
+        "With enthusiasm and fast progress",
+        "She looks away and says it's work, not play",
+        "She reads whole sentences right away",
+        "She asks for more books"
+      ],
+      "correctIndex": 1,
+      "explanation": "Four-year-old Ala pushes her mother's hand away and says this is not play, but work."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did Kasia consider but ultimately not choose as the easier path?",
+      "answers": [
+        "Leaving her daughter with her grandparents",
+        "Replacing books with a tablet and a cartoon instead of time",
+        "Sending her daughter to school abroad",
+        "Giving up teaching reading"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection says she could have given a tablet and a cartoon instead of time, but she didn't."
+    },
+    {
+      "type": "single_choice",
+      "question": "How old is Ala at the beginning of the story?",
+      "answers": [
+        "Two years old",
+        "Four years old",
+        "Seven years old",
+        "Twelve years old"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first section begins with the sentence: when Ala was four years old."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia do to direct her daughter's attention to the letters?",
+      "answers": [
+        "She turns off the light",
+        "She touches Ala's chin with her finger to guide her gaze",
+        "She gives her a sweet",
+        "She turns on the TV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia touches her daughter's chin with her finger to direct her gaze at the card."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia consider most important at the end?",
+      "answers": [
+        "That her daughter stopped learning",
+        "That she didn't take the easier path and didn't give up her patience",
+        "That she sold all the books",
+        "That her daughter went to live with her grandmother"
+      ],
+      "correctIndex": 1,
+      "explanation": "She ends with the thought that things could have gone differently, but she didn't do that — and that was the most important thing."
+    }
+  ]
+}
