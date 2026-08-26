@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How much does Michał lose at the beginning of the story?",
+      "answers": [
+        "Eight thousand zlotys",
+        "Twenty-three thousand zlotys",
+        "One hundred zlotys",
+        "One million zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text mentions a loss of twenty-three thousand zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which book does he buy in the antiquarian bookshop?",
+      "answers": [
+        "The Golden Bough by James George Frazer",
+        "The Lord of the Rings",
+        "The Cryptocurrency Encyclopedia",
+        "The Annual Horoscope"
+      ],
+      "correctIndex": 0,
+      "explanation": "He buys Frazer's \"The Golden Bough\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa advise Michał instead of controlling the market?",
+      "answers": [
+        "Borrow more capital",
+        "Observe the cycles and learn to surf them",
+        "Give up work",
+        "Buy only bank shares"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa talks about understanding the rhythm and surfing instead of controlling."
+    },
+    {
+      "type": "single_choice",
+      "question": "How much does Michał earn after his first symbolic trade?",
+      "answers": [
+        "A profit of seven zlotys",
+        "A profit of twenty-three thousand",
+        "A loss of another eight thousand",
+        "Nothing — he doesn't trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "He closes the position with a profit of seven zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Michał end the story looking at the sea?",
+      "answers": [
+        "On the beach in Gdańsk",
+        "At Wawel",
+        "In a laboratory in Gdynia",
+        "In the antiquarian bookshop"
+      ],
+      "correctIndex": 0,
+      "explanation": "Six months later he stands on the beach in Gdańsk."
+    }
+  ]
+}

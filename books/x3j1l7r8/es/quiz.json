@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué desencadena el conflicto principal en la historia de Adam?",
+      "answers": [
+        "El lanzamiento de una nueva consola de Nintendo",
+        "La noticia de que Sony deja de fabricar discos para los nuevos juegos a partir de 2028",
+        "La subida de precio de los televisores",
+        "El cierre de los servidores de Steam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es el titular sobre el fin de los nuevos lanzamientos físicos lo que provoca su reacción."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la frase sobre la \"licencia revocable\" impacta tanto a Adam?",
+      "answers": [
+        "Porque nunca compró juegos digitales",
+        "Porque le hace ver la diferencia entre acceso y propiedad real",
+        "Porque quiere comerciar con licencias",
+        "Porque se refiere solo a las películas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam lo relaciona con el riesgo de perder el acceso a los contenidos comprados."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué primera decisión concreta toma Adam tras el anuncio de Sony?",
+      "answers": [
+        "Vende todos sus juegos en disco",
+        "Cancela su suscripción a PlayStation Plus",
+        "Compra una consola extra",
+        "Deja de usar internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la sección sobre la suscripción, entra en la configuración de la cuenta y la cancela."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué apuesta más amplia percibe Adam tras las declaraciones de Ybarra y Mélenchon?",
+      "answers": [
+        "La disputa por el color de las cajas",
+        "La cuestión de los derechos del consumidor y el futuro de la propiedad digital",
+        "Solo la campaña electoral francesa",
+        "La guerra entre PC y móviles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasa del enfado de los fans a la disputa por la propiedad digital y la cultura."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué expresa la publicación viral de Adam al final?",
+      "answers": [
+        "Ira contra todos los juegos en línea",
+        "Su disposición a renunciar a la futura consola si el modelo de propiedad no cambia",
+        "Una petición de juegos gratis a Sony",
+        "El plan de abrir una tienda de discos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Escribe que no comprará la PS6 si Sony lleva a cabo este plan."
+    }
+  ]
+}

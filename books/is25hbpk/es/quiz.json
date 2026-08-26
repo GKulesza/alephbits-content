@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto pierde Michał al comienzo de la historia?",
+      "answers": [
+        "Ocho mil zlotys",
+        "Veintitrés mil zlotys",
+        "Cien zlotys",
+        "Un millón de zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto habla de una pérdida de veintitrés mil zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué libro compra en la librería de viejo?",
+      "answers": [
+        "La rama dorada, de James George Frazer",
+        "El Señor de los Anillos",
+        "La enciclopedia de las criptomonedas",
+        "El horóscopo anual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compra «La rama dorada» de Frazer."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le aconseja Ewa a Michał en lugar de controlar el mercado?",
+      "answers": [
+        "Pedir prestado más capital",
+        "Observar los ciclos y aprender a surfearlos",
+        "Dejar el trabajo",
+        "Comprar solo acciones de bancos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa habla de entender el ritmo y surfear en lugar de controlar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto gana Michał tras su primera operación simbólica?",
+      "answers": [
+        "Un beneficio de siete zlotys",
+        "Un beneficio de veintitrés mil",
+        "Una pérdida de otros ocho mil",
+        "Nada: no opera"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cierra la posición con un beneficio de siete zlotys."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde termina Michał la historia mirando el mar?",
+      "answers": [
+        "En la playa de Gdańsk",
+        "En Wawel",
+        "En un laboratorio de Gdynia",
+        "En la librería de viejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seis meses después está en la playa de Gdańsk."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué guarda Magda en el cajón, de su abuela?",
+      "answers": [
+        "Dinero",
+        "Las cartas de su abuelo desde Volinia",
+        "Fotos de boda",
+        "Medallas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiene las cartas que su abuelo escribió antes de morir en 1943."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De dónde es Olena?",
+      "answers": [
+        "De Lviv",
+        "De Donbás — huyó en 2022 tras la muerte de su marido",
+        "De Varsovia",
+        "De Berlín"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que huyó de Donbás en 2022; su marido murió en la guerra."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Olena sobre los banderistas?",
+      "answers": [
+        "Que todos los ucranianos lo son",
+        "Que ella no es banderista y no todos los ucranianos odian a los polacos",
+        "Que odia a los polacos",
+        "Que no conoce la historia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pide que se sepa que no es banderista."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Magda a su abuela en el epílogo?",
+      "answers": [
+        "Que olvida",
+        "«No olvido, abuela — pero estoy aprendiendo a perdonar.»",
+        "Que odia a los ucranianos",
+        "Que se marcha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Susurra: no olvido, pero estoy aprendiendo a perdonar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hacen Magda y Olena un año después?",
+      "answers": [
+        "Escriben un libro",
+        "Imparten talleres para familias polacas y ucranianas",
+        "Abren un restaurante",
+        "Se van a la guerra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un año después imparten talleres en Breslavia."
+    }
+  ]
+}

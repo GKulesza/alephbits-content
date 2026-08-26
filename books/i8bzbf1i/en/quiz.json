@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Tomasz correct Julia's sentence \"I can't do maths\"?",
+      "answers": [
+        "You're right",
+        "You can't do it yet — you can learn",
+        "Study more",
+        "Maths is stupid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The key word \"yet\" changes the perspective."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which question does Tomasz ask instead of \"how was school\"?",
+      "answers": [
+        "How many grades do you have",
+        "What surprised you most today?",
+        "Did you get a failing grade",
+        "When will you do your homework"
+      ],
+      "correctIndex": 1,
+      "explanation": "Questions about discoveries and surprises awaken curiosity."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Tomasz use pancakes?",
+      "answers": [
+        "As a reward for grades",
+        "As practical maths — doubling the portion",
+        "He never cooks",
+        "As a punishment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julia counts the flour and eggs for a double portion."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Julia say to herself while doing her homework?",
+      "answers": [
+        "I'll never do this",
+        "I can't do this yet, but I can try",
+        "Dad will help me",
+        "I won't study"
+      ],
+      "correctIndex": 1,
+      "explanation": "An inner monologue with \"yet\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Julia say about learning at the end?",
+      "answers": [
+        "Never again to school",
+        "I think I like learning",
+        "Only maths is OK",
+        "Dad does my homework for me"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"I think I like learning\" — intrinsic motivation."
+    }
+  ]
+}

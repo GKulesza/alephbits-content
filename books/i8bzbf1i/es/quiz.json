@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo corrige Tomasz la frase de Julia «no sé hacer matemáticas»?",
+      "answers": [
+        "Tienes razón",
+        "Todavía no sabes — puedes aprender",
+        "Estudia más",
+        "Las mates son tontas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La palabra clave «todavía» cambia la perspectiva."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pregunta hace Tomasz en lugar de «¿qué tal en el colegio?»?",
+      "answers": [
+        "¿Cuántas notas tienes?",
+        "¿Qué te ha sorprendido más hoy?",
+        "¿Has sacado un suspenso?",
+        "¿Cuándo harás los deberes?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las preguntas sobre descubrimientos y sorpresas despiertan la curiosidad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo utiliza Tomasz las tortitas?",
+      "answers": [
+        "Como premio por las notas",
+        "Como matemáticas prácticas — doblar la cantidad",
+        "Nunca cocina",
+        "Como castigo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julia calcula la harina y los huevos para el doble de cantidad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué se dice Julia a sí misma mientras hace los deberes?",
+      "answers": [
+        "Nunca lo haré",
+        "Todavía no sé hacer esto, pero puedo intentarlo",
+        "Papá me ayudará",
+        "No estudiaré"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un monólogo interior con «todavía»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Julia sobre aprender al final?",
+      "answers": [
+        "Nunca más al colegio",
+        "Creo que me gusta aprender",
+        "Solo las mates están bien",
+        "Papá hace mis deberes"
+      ],
+      "correctIndex": 1,
+      "explanation": "«Creo que me gusta aprender» — motivación interna."
+    }
+  ]
+}

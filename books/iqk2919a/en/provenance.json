@@ -1,0 +1,24 @@
+{
+  "packId": "iqk2919a:en",
+  "bookId": "iqk2919a",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o współczesnych napięciach i historii; komentarze internetowe są tłem, nie faktami."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eight manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

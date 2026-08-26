@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "When can the princess be found, according to the legend?",
+      "answers": [
+        "On St. John's Eve",
+        "On Christmas Eve",
+        "On St. Andrew's Eve",
+        "On any night"
+      ],
+      "correctIndex": 0,
+      "explanation": "The legend says it can only be done on St. John's Eve."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many ducats does Lutek receive from the princess?",
+      "answers": [
+        "A hundred",
+        "Fifty",
+        "Ten",
+        "A thousand"
+      ],
+      "correctIndex": 0,
+      "explanation": "The princess gives him a purse with a hundred ducats."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Lutek finally spend the money on?",
+      "answers": [
+        "He gives it to a hungry old man",
+        "He buys a palace",
+        "He plays cards until morning",
+        "He hides it under the floor"
+      ],
+      "correctIndex": 0,
+      "explanation": "He pours the remaining ducats into the hands of the old invalid."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Lutek become at the end of the story?",
+      "answers": [
+        "A shoemaking master with his own workshop",
+        "A king",
+        "A merchant",
+        "A soldier"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soon Lutek becomes a master and opens his own workshop."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where is the legend of the duck located?",
+      "answers": [
+        "In the cellars of the Ostrogski Castle on Tamka Street",
+        "At Wawel",
+        "In Wola",
+        "In Łazienki Park"
+      ],
+      "correctIndex": 0,
+      "explanation": "The shoemakers talk about the cellars of the Ostrogski Castle on Tamka Street."
+    }
+  ]
+}

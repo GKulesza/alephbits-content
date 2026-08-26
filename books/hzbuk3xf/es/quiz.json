@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuándo se puede encontrar a la princesa, según la leyenda?",
+      "answers": [
+        "En la noche de San Juan",
+        "En Nochebuena",
+        "En la noche de San Andrés",
+        "Cualquier noche"
+      ],
+      "correctIndex": 0,
+      "explanation": "La leyenda dice que solo se puede hacer en la noche de San Juan."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos ducados recibe Lutek de la princesa?",
+      "answers": [
+        "Cien",
+        "Cincuenta",
+        "Diez",
+        "Mil"
+      ],
+      "correctIndex": 0,
+      "explanation": "La princesa le da una bolsa con cien ducados."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué gasta finalmente Lutek el dinero?",
+      "answers": [
+        "Se lo da a un anciano hambriento",
+        "Compra un palacio",
+        "Juega a las cartas hasta la mañana",
+        "Lo esconde bajo el suelo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vacía los ducados que quedaban en la mano del anciano inválido."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué se convierte Lutek al final de la historia?",
+      "answers": [
+        "En maestro zapatero con su propio taller",
+        "En rey",
+        "En comerciante",
+        "En soldado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pronto Lutek se convierte en maestro y abre su propio taller."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde se sitúa la leyenda del pato?",
+      "answers": [
+        "En los sótanos del castillo de Ostrogski, en la calle Tamka",
+        "En Wawel",
+        "En Wola",
+        "En los jardines de Łazienki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los zapateros hablan de los sótanos del castillo de Ostrogski, en la calle Tamka."
+    }
+  ]
+}

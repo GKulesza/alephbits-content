@@ -1,0 +1,384 @@
+# Todavía
+
+## Metadata
+
+**Pack ID:** i8bzbf1i
+**Book ID:** i8bzbf1i
+**Legacy Pack ID:** polish_jeszcze
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Todavía  
+**Subtitle:** Growth mindset — «aún no sé»  
+**Blurb:** Julia dejó de preguntar — ahora dice «aburrido». Tomasz descubre la regla singapurense del «todavía» y despierta en su hija la curiosidad a través de preguntas y errores.
+
+**Genres:** psychology, instruction, short_story  
+**Series:** Collection Ten  
+**Audience:** family
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Jeszcze" — edición oficial de Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** growth mindset, singapurska metoda, nauka, Collection Ten  
+
+**Keywords:** Jeszcze, Julia, growth mindset, motywacja  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- childhood
+- fatherhood
+- school
+- question
+- discovery
+- teaching
+
+**Editorial notes:** Fikcja o growth mindset; silny pedagogiczny przekaz.
+
+**Inspiration:** Singapurska metoda growth mindset — słowo „jeszcze”; YouTube B1jM_vMk-Jk (2026-06-04).
+
+---
+
+**World:**
+- places: school, home
+- objects: book
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 04.06.2026 -> https://www.youtube.com/watch?v=B1jM_vMk-Jk  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Doskonałe dopasowanie — motywacja wewnętrzna. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=B1jM_vMk-Jk  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-06-04  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**TODAVÍA**
+
+Cuando Julia tenía siete años, era la niña más curiosa que Tomasz había conocido. Hacía preguntas de la mañana a la noche. ¿Por qué el cielo es azul? ¿De dónde salen las nubes? ¿Qué hay en el centro de la Tierra? ¿Cómo funciona el motor de un coche? A veces Tomasz no sabía las respuestas, pero Julia preguntaba igualmente.
+
+— Papá, ¿por qué las personas tienen distintos colores de piel?
+
+— Papá, ¿por qué los peces no se hunden?
+
+— Papá, ¿cómo sabemos que los dinosaurios existieron de verdad?
+
+Tomasz sonreía y respondía como podía. A veces buscaba las respuestas en internet, a veces inventaba explicaciones divertidas. Lo importante era que Julia sintiera curiosidad por el mundo. Y Tomasz se sentía orgulloso de ello.
+
+---
+Pasaron cinco años. Julia tenía ahora doce y cursaba sexto de primaria. Sus preguntas se habían detenido. En su lugar aparecieron suspiros, giros de ojos y frases como: «No me apetece», «Es aburrido», «¿Para qué me sirve esto?».
+
+— Julia, haz los deberes — decía Tomasz.
+
+— En un momento.
+
+— Julia, ya ha pasado una hora.
+
+— Vale, en un momento.
+
+— Julia, ¿qué estás haciendo? Te dije que hicieras los deberes.
+
+— Pero es aburrido, papá.
+
+Tomasz sentía crecer la frustración. No entendía qué había pasado con su curiosa hija. ¿Dónde se había ido la alegría de descubrir el mundo? ¿Por qué ahora cada lección era una batalla?
+
+---
+Una tarde Tomasz navegaba por internet buscando maneras de motivar a Julia a estudiar. Dio con un vídeo sobre el método de enseñanza singapurense. Intrigado, pulsó play.
+
+— Muchos padres observan un patrón parecido — decía la voz de la pantalla. — Cuando el niño es pequeño, no deja de hacer preguntas. Puede ser curioso de la mañana a la noche. Sin embargo, unos años después oímos cada vez más a menudo: «No me apetece, es aburrido, ¿para qué tengo que aprender esto?».
+
+Tomasz siguió escuchando. Conoció las tres reglas del enfoque singapurense. Primera: primero despierta la curiosidad, y solo después transmite el conocimiento. Segunda: trata los errores como una parte natural del aprendizaje. Tercera: ayuda al niño a descubrir las respuestas por sí mismo, en lugar de dárselas de inmediato.
+
+La regla número dos le interesó especialmente.
+
+— Un error no es un fracaso — decía la voz. — Es información. Muestra qué falta todavía por aprender. En lugar de preguntar: «¿Por qué cometiste el error?», vale la pena preguntar: «¿Qué podemos aprender de esto?».
+
+Y entonces llegó la palabra que lo cambió todo.
+
+— Cuando el niño dice «no sé hacer esto», responde: «Todavía no sabes hacerlo». Cuando dice «nunca lo aprenderé», responde: «Todavía no lo has aprendido». Es una pequeña diferencia, pero cambia por completo la manera de pensar.
+
+Tomasz cerró el portátil. Sabía lo que tenía que hacer.
+
+---
+Al día siguiente Julia trajo del colegio un examen de matemáticas. Sacó un dos.
+
+— Papá, no sirvo para nada — dijo, tirando el examen sobre la mesa. — No sé hacer matemáticas.
+
+Tomasz respiró hondo.
+
+— Todavía no sabes — dijo.
+
+Julia lo miró sorprendida.
+
+— ¿Qué?
+
+— Has dicho que no sabes hacer matemáticas. Pero eso no es verdad. Todavía no sabes. Eso significa que puedes aprender.
+
+Julia guardó silencio un momento.
+
+— Pero lo intenté — dijo. — Y no salió bien.
+
+— Lo sé — respondió Tomasz. — Y está bien. Todos cometemos errores. Lo importante es sacar conclusiones. Veamos qué salió mal.
+
+Se sentaron juntos a la mesa. Tomasz no daba soluciones hechas. En su lugar, hacía preguntas.
+
+— ¿Por dónde podemos empezar? ¿Qué sabes ya? ¿Qué solución se te ocurre?
+
+Al principio Julia se mostró reacia. Pero poco a poco empezó a pensar. Empezó a analizar. Y al final, tras varios intentos fallidos, encontró la solución correcta.
+
+— ¡Lo he conseguido! — exclamó.
+
+— ¿Ves? — sonrió Tomasz. — Todavía no sabías. Pero ahora sabes.
+
+Julia sonrió. Por primera vez en muchos días.
+
+---
+Tomasz decidió aplicar otra regla. En lugar de preguntarle a Julia cómo había ido el colegio, empezó a hacer otras preguntas.
+
+— ¿Qué te ha sorprendido más hoy?
+
+— ¿Qué cosa nueva has descubierto?
+
+— ¿Qué has aprendido por primera vez hoy?
+
+— ¿Qué única cosa podrías enseñarme hoy?
+
+Al principio Julia respondía con brevedad: «No sé», «Normal», «Nada interesante». Pero Tomasz no se rendía. Seguía preguntando. Y al final Julia empezó a abrirse.
+
+— En realidad, en biología hablamos de la fotosíntesis — dijo un día. — Y aprendí que las plantas respiran de otra manera que las personas. Fue interesante.
+
+— ¿De verdad? — preguntó Tomasz. — ¿Me lo cuentas?
+
+Julia empezó a contarlo. Y cuanto más hablaba, más se animaba. Tomasz veía en sus ojos la misma luz que veía cuando era pequeña. Curiosidad. Asombro. Alegría por descubrir.
+
+---
+El siguiente paso fue mostrarle a Julia que el aprendizaje tiene aplicaciones prácticas. Tomasz decidió aprovechar situaciones cotidianas.
+
+— Julia, ¿me ayudas a hacer tortitas? — preguntó un día.
+
+— Claro.
+
+— Si queremos hacer el doble de cantidad, ¿cuánta harina necesitaremos?
+
+Julia pensó un momento.
+
+— La receta dice 200 gramos. Así que 400.
+
+— Muy bien. ¿Y cuántos huevos?
+
+— De cuatro serán ocho.
+
+— ¿Ves? — sonrió Tomasz. — Acabas de usar las matemáticas.
+
+Julia lo miró sorprendida.
+
+— ¿Eso eran matemáticas?
+
+— Por supuesto. Y lo has hecho sin ningún problema.
+
+Julia sonrió. De repente las matemáticas dejaron de ser una asignatura aburrida del colegio. Se convirtieron en algo que ayuda en la vida real.
+
+---
+Tomasz animaba a Julia a explicar el conocimiento a los demás. Cuando aprendía algo nuevo, le pedía que se lo explicara a él o a su hermana pequeña.
+
+— Julia, imagina que soy un alumno más pequeño — decía. — Explícame lo que has aprendido hoy.
+
+Y Julia explicaba. Y cuanto más explicaba, mejor lo entendía. Porque cuando podemos explicar algo con nuestras propias palabras, significa que de verdad lo comprendemos.
+
+---
+Pasó un mes. Julia seguía teniendo momentos difíciles. Todavía pasaba que dijera: «No sé», «Es aburrido», «No me apetece». Pero ahora Tomasz sabía cómo reaccionar.
+
+— Todavía no sabes — decía. — Pero puedes aprender.
+
+Y Julia aprendía. No siempre con ganas, no siempre de inmediato. Pero aprendía. Y cada vez más a menudo, cuando encontraba una respuesta, aparecía en su cara la misma sonrisa que Tomasz recordaba de su infancia.
+
+Una tarde, mientras Julia hacía los deberes, Tomasz la oyó decirse a sí misma:
+
+— Todavía no sé hacer esto. Pero puedo intentarlo.
+
+Tomasz sintió que se le hacía un nudo en la garganta. Era la cosa más bonita que podía oír.
+
+---
+Unas semanas después Julia trajo del colegio las notas. Tenía buenas notas en todo. Pero eso no era lo más importante.
+
+— Papá — dijo. — ¿Sabes qué? Creo que me gusta aprender.
+
+Tomasz la miró.
+
+— ¿De verdad?
+
+— Sí — respondió. — No siempre es fácil. A veces es aburrido. Pero cuando entiendo algo, me siento... bien. Como si hubiera conseguido algo importante.
+
+Tomasz la abrazó.
+
+— Eso es lo que se llama motivación interna — dijo. — Y es la mejor cosa del mundo.
+
+Julia sonrió.
+
+— ¿Y sabes qué, papá? Gracias.
+
+— ¿Por qué?
+
+— Por no dejar de creer que podía aprender.
+
+Tomasz sintió que se le llenaban los ojos de lágrimas.
+
+— Siempre lo creí — dijo. — Y siempre lo creeré.
+
+---
+Aquella noche Tomasz se sentó en su sillón y abrió el portátil. Recordó las palabras del vídeo que habían cambiado su manera de educar:
+
+«No se trata de criar a un niño con las mejores notas. Se trata de criar a una persona que quiera aprender durante toda su vida».
+
+Y comprendió que eso era exactamente lo que había hecho. No le había enseñado a Julia matemáticas ni biología. Le había enseñado algo más importante: que aprender es una aventura. Que los errores son naturales. Que vale la pena intentarlo. Y que siempre, pero siempre, queda un «todavía».
+
+Miró la puerta de la habitación de Julia. Por la rendija se veía luz. Julia leía un libro. No porque tuviera que hacerlo. Porque quería. Y Tomasz sabía que ese era el mayor éxito.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cómo corrige Tomasz la frase de Julia «no sé hacer matemáticas»?
+
+**Answers:**
+- A) Tienes razón
+- B) Todavía no sabes — puedes aprender
+- C) Estudia más
+- D) Las mates son tontas
+
+**Correct:** B
+**Explanation:** La palabra clave «todavía» cambia la perspectiva.
+**Text reference:** todavía no sabes
+
+### Question 2
+
+**Question:** ¿Qué pregunta hace Tomasz en lugar de «¿qué tal en el colegio?»?
+
+**Answers:**
+- A) ¿Cuántas notas tienes?
+- B) ¿Qué te ha sorprendido más hoy?
+- C) ¿Has sacado un suspenso?
+- D) ¿Cuándo harás los deberes?
+
+**Correct:** B
+**Explanation:** Las preguntas sobre descubrimientos y sorpresas despiertan la curiosidad.
+**Text reference:** te ha sorprendido más
+
+### Question 3
+
+**Question:** ¿Cómo utiliza Tomasz las tortitas?
+
+**Answers:**
+- A) Como premio por las notas
+- B) Como matemáticas prácticas — doblar la cantidad
+- C) Nunca cocina
+- D) Como castigo
+
+**Correct:** B
+**Explanation:** Julia calcula la harina y los huevos para el doble de cantidad.
+**Text reference:** doble de cantidad
+
+### Question 4
+
+**Question:** ¿Qué se dice Julia a sí misma mientras hace los deberes?
+
+**Answers:**
+- A) Nunca lo haré
+- B) Todavía no sé hacer esto, pero puedo intentarlo
+- C) Papá me ayudará
+- D) No estudiaré
+
+**Correct:** B
+**Explanation:** Un monólogo interior con «todavía».
+**Text reference:** todavía no sé, pero puedo intentarlo
+
+### Question 5
+
+**Question:** ¿Qué dice Julia sobre aprender al final?
+
+**Answers:**
+- A) Nunca más al colegio
+- B) Creo que me gusta aprender
+- C) Solo las mates están bien
+- D) Papá hace mis deberes
+
+**Correct:** B
+**Explanation:** «Creo que me gusta aprender» — motivación interna.
+**Text reference:** me gusta aprender
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

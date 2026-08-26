@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Magda keep in the drawer from her grandmother?",
+      "answers": [
+        "Money",
+        "Her grandfather's letters from Volhynia",
+        "Wedding photos",
+        "Medals"
+      ],
+      "correctIndex": 1,
+      "explanation": "She has the letters her grandfather wrote before his death in 1943."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Olena come from?",
+      "answers": [
+        "From Lviv",
+        "From Donbas — she fled in 2022 after her husband's death",
+        "From Warsaw",
+        "From Berlin"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says she fled Donbas in 2022; her husband died in the war."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Olena say about Banderites?",
+      "answers": [
+        "That all Ukrainians are Banderites",
+        "That she is not a Banderite and not all Ukrainians hate Poles",
+        "That she hates Poles",
+        "That she doesn't know history"
+      ],
+      "correctIndex": 1,
+      "explanation": "She asks that you know she is not a Banderite."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magda say to her grandmother in the epilogue?",
+      "answers": [
+        "That she forgets",
+        "\"I'm not forgetting, Grandma — but I'm learning to forgive.\"",
+        "That she hates Ukrainians",
+        "That she is leaving"
+      ],
+      "correctIndex": 1,
+      "explanation": "She whispers: not forgetting, but learning to forgive."
+    },
+    {
+      "type": "single_choice",
+      "question": "What do Magda and Olena do a year later?",
+      "answers": [
+        "They write a book",
+        "They run workshops for Polish and Ukrainian families",
+        "They open a restaurant",
+        "They go to war"
+      ],
+      "correctIndex": 1,
+      "explanation": "A year later they run workshops in Wrocław."
+    }
+  ]
+}
