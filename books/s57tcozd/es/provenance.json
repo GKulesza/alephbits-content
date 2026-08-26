@@ -1,0 +1,24 @@
+{
+  "packId": "s57tcozd:es",
+  "bookId": "s57tcozd",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection One). Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "JKcp05Uv3l4"
+    }
+  ],
+  "revisionNotes": "Collection One migration (Phase 39). Trust: Fiction."
+}

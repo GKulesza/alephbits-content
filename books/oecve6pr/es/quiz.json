@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De qué se alimenta Duendecillo Burlamocos?",
+      "answers": [
+        "De risas",
+        "De pan",
+        "De leche",
+        "De fruta"
+      ],
+      "correctIndex": 0,
+      "explanation": "El duende «se alimentaba solo de risas»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué consejo le da el anciano?",
+      "answers": [
+        "Pasar tres días sin ofenderse ni una vez",
+        "No ir a la escuela",
+        "Mudarse para siempre",
+        "Comer más sopa de guisantes"
+      ],
+      "correctIndex": 0,
+      "explanation": "El anciano le dice que aguante tres días sin ofenderse."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde vive el duende?",
+      "answers": [
+        "En las trenzas claras de la niña",
+        "En el sótano",
+        "En el armario",
+        "En la chimenea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vive en las trenzas de Doña Ofendidilla."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué se ata la niña en la muñeca como recuerdo?",
+      "answers": [
+        "Una cinta azul",
+        "Una cinta roja",
+        "Un cordel",
+        "Una pulsera"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se ata una cinta azul tras el consejo del anciano."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le pasa al duende después del tercer día?",
+      "answers": [
+        "Se debilita y sale de casa",
+        "Se vuelve más fuerte",
+        "Se convierte en un perro",
+        "Se queda para siempre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Después del tercer día, el duende se debilita y sale de casa."
+    }
+  ]
+}

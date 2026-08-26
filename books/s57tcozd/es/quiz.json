@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué encuentra Helena en el archivo de la Estación Principal?",
+      "answers": [
+        "Un documento de 1889 sobre un sistema de resonancia",
+        "Planos de 2024",
+        "Una carta de Tesla",
+        "Fotografías sin anotaciones"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se topa con un proyecto con una anotación sobre un sistema de resonancia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué patrón ve Helena en otras ciudades?",
+      "answers": [
+        "Sistemas secretos anteriores a la era eléctrica",
+        "Relojes idénticos",
+        "Ninguna repetición",
+        "Solo iluminación de gas"
+      ],
+      "correctIndex": 0,
+      "explanation": "En Cracovia, Poznań y Breslavia ve sistemas parecidos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo reacciona Helena ante las pruebas?",
+      "answers": [
+        "Repite que es imposible",
+        "Lo publica en los medios de inmediato",
+        "Abandona su profesión",
+        "Finge que no ha encontrado nada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice repetidamente «es imposible», aunque las pruebas crecen."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Helena?",
+      "answers": [
+        "Una arquitecta que investiga archivos",
+        "Una periodista",
+        "Una ferroviaria",
+        "Una estudiante de medicina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena rebusca en los archivos de las estaciones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué ciudad empieza su búsqueda?",
+      "answers": [
+        "Varsovia",
+        "Cracovia",
+        "Gdańsk",
+        "Breslavia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Empieza por los archivos de la Estación Principal de Varsovia."
+    }
+  ]
+}

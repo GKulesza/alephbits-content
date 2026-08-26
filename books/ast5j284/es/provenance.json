@@ -1,0 +1,27 @@
+{
+  "packId": "ast5j284:es",
+  "bookId": "ast5j284",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection Eight). Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eight manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "ast5j284:pl",
+  "translationSourceVersion": "1.1.0"
+}

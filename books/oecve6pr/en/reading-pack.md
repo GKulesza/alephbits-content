@@ -1,0 +1,314 @@
+# Oddling the Mocker
+
+## Metadata
+
+**Pack ID:** oecve6pr
+**Book ID:** oecve6pr
+**Legacy Pack ID:** polish_cudaczek_wysmiewaczek
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Oddling the Mocker  
+**Subtitle:** Miss Offended and the laughter imp  
+**Blurb:** An eight-year-old girl everyone calls Miss Offended lives in symbiosis with a tiny imp, Oddling the Mocker — until an old man tells her to go three whole days without taking offense even once.
+
+**Genres:** fairy_tale, short_story  
+**Series:** Collection Eleven  
+**Audience:** children_8_12
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 5 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Cudaczek-Wyśmiewaczek" — Collection Eleven official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** obrazki, charakter, szkoła, Collection Eleven  
+
+**Keywords:** Cudaczek-Wyśmiewaczek, Panna Obrażalska, licho  
+
+**Cover family:** legends
+
+
+**Motifs:**
+- childhood
+- anger
+- forgiveness
+- home
+- teaching
+- companionship
+
+**Editorial notes:** English translation of the Polish canonical edition (Collection Eleven manuscript). Full text preserved — not abridged.
+
+**Translation status:** machine  
+**Translation source:** oecve6pr:pl  
+**Translation source version:** 1.0.1  
+
+**Inspiration:** Manuskrypt Collection Eleven; YouTube Xe3B8tGjKXE (10.04.2019).
+
+---
+
+**World:**
+- places: town, river, home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** *(manuscript)*  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — character name consistency (Witek→Władek) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Prosta, skuteczna opowieść o emocjach i współpracy — dobra dla młodszych czytelników. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eleven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**ODDLING THE MOCKER**
+
+In a small town by a little river, in a house that was neither big nor small but just right, there lived a little girl. She was eight years old, with fair braids and a snub nose that always went up in the air whenever anyone did something she did not like. And that is why nobody called her by her name. Everyone said "Miss Offended".
+
+She was the only girl who took offense like that in the whole school. Why, in the whole town by the river! And all because of a certain Oddling the Mocker.
+
+Oddling the Mocker was a tiny imp, thinner than a needle, who lived in Miss Offended's fair braids. He didn't eat, he didn't drink – he fed on laughter alone. And he laughed whenever Miss Offended puffed out her cheeks, stuck her nose in the air and said her favourite words: _I don't need it!_ or _I'm not playing!_
+
+The more often she took offense, the more his little belly swelled, until it became round as a pea. And so they went round and round: offense, laughter, swelling, offense, laughter, swelling.
+
+---
+At school, Oddling had the best time. Because school is a true paradise for such a tiny imp. When Miss Offended broke her nib and Małgosia wanted to lend her hers, Oddling whispered in her ear:
+
+— _And what does she think she is? You know when you need help!_
+
+And Miss Offended puffed out her cheeks:
+
+— I don't need your nib!
+
+Małgosia shrugged and turned away. And Oddling laughed until he cried.
+
+At recess, when the ball would not fall into her hands, Oddling suggested:
+
+— _Look, they're throwing it like that on purpose, so you won't catch it!_
+
+— I'm not playing! – announced Miss Offended, and walked off towards the fence, her nose stuck in the air, while Oddling practically rolled with laughter in her braids.
+
+And so it went, day after day. Even the teacher was not safe. When she asked how much five times six was, and Miss Offended answered wrong, Oddling whispered:
+
+— _But you knew it. She just wants to humiliate you!_
+
+And Miss Offended sat down with her face even more puffed up than before.
+
+---
+The worst, though, was the day when Miss Offended took offense at the whole world.
+
+She came home from school, threw her satchel on a chair and ran to the kitchen. She wanted to help Karolcia roll out the dough. But Karolcia, who knew that you have to wash your hands before cooking, said:
+
+— Wash your hands first.
+
+And then Oddling whispered:
+
+— _You see? She thinks you're a grubby child!_
+
+Miss Offended drew herself up like a string, stuck her nose up even higher.
+
+— I don't need it!
+
+And she left the kitchen. Oddling laughed so hard that he shook her braids.
+
+At dinner, the same again. Mummy explained that the parents were going to Auntie's and couldn't take her along, but Miss Offended made an offended face and announced that she would not eat. The pea soup, however, smelled so delicious that she forgot her resolutions. But when Daddy said that it wasn't polite to slurp at the table, Oddling immediately told her what to do:
+
+— _You see? They criticize you even while you're eating!_
+
+And Miss Offended pushed her plate away.
+
+— I don't need it!
+
+She left the table, sat down in the corner and started packing her things into a handkerchief.
+
+— I'll go out into the world! – she muttered. – Nobody here understands me!
+
+She put her underwear, a dress, her piggy bank and Teddy into the handkerchief. She slung the bundle over her shoulder and went out the back door, slipped through the gate, passed the side lane and... and then she met an old man in dark glasses.
+
+— And where are you off to, young lady? – asked the old man.
+
+— Out into the world! – answered Miss Offended, puffing out her face even more.
+
+The old man shook his head.
+
+— Out into the world? And why are you taking along that wicked imp that doesn't eat, doesn't drink, and lives on mockery alone?
+
+Miss Offended was surprised.
+
+— What imp?
+
+— The one that lives in your braids. Oddling the Mocker.
+
+She threw her bundle on the ground, undid her braids, shook her head – but nothing fell out. The old man smiled to himself.
+
+— You won't get rid of him so easily. He's as small as a needle. But I'll give you a piece of advice: for three days, don't take offense even once. If you manage it, Oddling will either die of hunger, or run away to where the pepper grows.
+
+Miss Offended tied a blue ribbon around her wrist as a keepsake, turned back home and decided to try.
+
+---
+The first day was the hardest. At recess, Władek stuck out his leg and tripped her. Miss Offended fell and was just about to puff out her cheeks, but she saw the blue ribbon. She remembered the old man's advice, got up, showed Władek a fig and ran off to play. Oddling whispered in her ear:
+
+— _Take offense! Come on, take offense! It'll be funny!_
+
+But Miss Offended gritted her teeth and held out.
+
+Oddling was worried. His belly began to rumble. He tried a few more times – in class, on the walk, in the evening when her parents wouldn't take her to Auntie's. But each time Miss Offended looked at the ribbon and told herself: "I have to hold out".
+
+The second day was even worse. Oddling shouted in her ear until his throat went dry. And she – nothing. Only once, when Władek said: "What's got into you today, so cheerful, nothing offends you?", she felt like answering: "I'm not playing!" But instead she looked at the ribbon and laughed. A little crooked, but still.
+
+Oddling felt himself growing weak. His belly shrank as never before.
+
+On the third day he was barely wheezing. He tried once more – in art class, when Miss Offended wanted to take offense at the boy who had smudged her drawing. But she only sighed and said:
+
+— It's all right, you can draw a new one.
+
+Oddling understood that he had lost. He slid down her braid, then down her back, then down her trouser leg and fell to the floor. He got up, brushed himself off and left the house without looking back.
+
+From then on, Miss Offended stopped taking offense. She no longer said "I don't need it" or "I'm not playing". She didn't stick her nose in the air or puff out her cheeks.
+
+And Oddling? He went to look for a new home. And he found one. But that is another story...
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What does Oddling the Mocker feed on?
+
+**Answers:**
+- A) Laughter
+- B) Bread
+- C) Milk
+- D) Fruit
+
+**Correct:** A
+**Explanation:** The imp "fed on laughter alone".
+**Text reference:** laughter
+
+### Question 2
+
+**Question:** What advice does the old man give?
+
+**Answers:**
+- A) Go three days without taking offense even once
+- B) Don't go to school
+- C) Move away for good
+- D) Eat more pea soup
+
+**Correct:** A
+**Explanation:** The old man tells her to hold out three days without taking offense.
+**Text reference:** three days
+
+### Question 3
+
+**Question:** Where does Oddling live?
+
+**Answers:**
+- A) In the girl's fair braids
+- B) In the cellar
+- C) In the wardrobe
+- D) In the chimney
+
+**Correct:** A
+**Explanation:** He lives in Miss Offended's braids.
+**Text reference:** braids
+
+### Question 4
+
+**Question:** What does the girl tie around her wrist as a keepsake?
+
+**Answers:**
+- A) A blue ribbon
+- B) A red ribbon
+- C) A piece of string
+- D) A bracelet
+
+**Correct:** A
+**Explanation:** She ties a blue ribbon after the old man's advice.
+**Text reference:** blue ribbon
+
+### Question 5
+
+**Question:** What happens to Oddling after the third day?
+
+**Answers:**
+- A) He grows weak and leaves the house
+- B) He grows stronger
+- C) He turns into a dog
+- D) He stays forever
+
+**Correct:** A
+**Explanation:** After the third day, Oddling grows weak and leaves the house.
+**Text reference:** where the pepper grows
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

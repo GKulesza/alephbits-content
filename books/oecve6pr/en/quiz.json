@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Oddling the Mocker feed on?",
+      "answers": [
+        "Laughter",
+        "Bread",
+        "Milk",
+        "Fruit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The imp \"fed on laughter alone\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What advice does the old man give?",
+      "answers": [
+        "Go three days without taking offense even once",
+        "Don't go to school",
+        "Move away for good",
+        "Eat more pea soup"
+      ],
+      "correctIndex": 0,
+      "explanation": "The old man tells her to hold out three days without taking offense."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Oddling live?",
+      "answers": [
+        "In the girl's fair braids",
+        "In the cellar",
+        "In the wardrobe",
+        "In the chimney"
+      ],
+      "correctIndex": 0,
+      "explanation": "He lives in Miss Offended's braids."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the girl tie around her wrist as a keepsake?",
+      "answers": [
+        "A blue ribbon",
+        "A red ribbon",
+        "A piece of string",
+        "A bracelet"
+      ],
+      "correctIndex": 0,
+      "explanation": "She ties a blue ribbon after the old man's advice."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens to Oddling after the third day?",
+      "answers": [
+        "He grows weak and leaves the house",
+        "He grows stronger",
+        "He turns into a dog",
+        "He stays forever"
+      ],
+      "correctIndex": 0,
+      "explanation": "After the third day, Oddling grows weak and leaves the house."
+    }
+  ]
+}

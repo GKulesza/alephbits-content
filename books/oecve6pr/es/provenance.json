@@ -1,0 +1,27 @@
+{
+  "packId": "oecve6pr:es",
+  "bookId": "oecve6pr",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection Eleven). Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Eleven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "oecve6pr:pl",
+  "translationSourceVersion": "1.0.1"
+}

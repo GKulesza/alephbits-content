@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué «reprocha» Marta a Darek al principio?",
+      "answers": [
+        "Por su trabajo",
+        "Por no ponerle el tapón a la pasta de dientes tras cepillarse",
+        "Por los niños",
+        "Por el dinero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: otra vez sin ponerle el tapón a la pasta de dientes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué responde Darek a sus comentarios?",
+      "answers": [
+        "Se disculpa",
+        "«Para, Marta. Otra vez con tus reproches.»",
+        "Se queda callado",
+        "Se marcha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite: para, otra vez con tus reproches."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Marta que dejará de hacer?",
+      "answers": [
+        "Querer a Darek",
+        "Quejarse y recordarle que sus reacciones le duelen",
+        "Cocinar",
+        "Trabajar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anuncia que dejará de quejarse, pero su reacción será la señal."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde conoce Marta el método «en lugar de quejarse, asumamos la responsabilidad»?",
+      "answers": [
+        "De Darek",
+        "De un pódcast que escuchó en el coche",
+        "De un libro de Darek",
+        "De un terapeuta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recuerda el pódcast de ayer en el coche."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué piensa Marta sobre el día al final?",
+      "answers": [
+        "Que todo se ha acabado",
+        "«Hoy empieza el siguiente día del resto de su vida.»",
+        "Que tiene que irse",
+        "Que Darek va a cambiar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termina con la reflexión sobre el día que empieza el resto de su vida."
+    }
+  ]
+}

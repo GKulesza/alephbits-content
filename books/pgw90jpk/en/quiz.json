@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Marta \"nag\" Darek about at the beginning?",
+      "answers": [
+        "About his work",
+        "That he didn't put the cap back on the toothpaste after brushing his teeth",
+        "About the children",
+        "About money"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says: you didn't put the cap back on the toothpaste again."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Darek answer to her remarks?",
+      "answers": [
+        "He apologizes",
+        "\"Stop it, Marta. You're nagging again.\"",
+        "He stays silent",
+        "He leaves"
+      ],
+      "correctIndex": 1,
+      "explanation": "He repeats: stop it, you're nagging again."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta say she will stop doing?",
+      "answers": [
+        "Loving Darek",
+        "Complaining and reminding him that his reactions hurt her",
+        "Cooking",
+        "Working"
+      ],
+      "correctIndex": 1,
+      "explanation": "She announces she will stop complaining, but his reaction will be the sign."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Marta learn the \"instead of complaining, let's take responsibility\" method?",
+      "answers": [
+        "From Darek",
+        "From a podcast she listened to in the car",
+        "From Darek's book",
+        "From a therapist"
+      ],
+      "correctIndex": 1,
+      "explanation": "She remembers the podcast from yesterday in the car."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta think about the day at the end?",
+      "answers": [
+        "That everything is over",
+        "\"Today begins the next day of the rest of her life.\"",
+        "That she has to leave",
+        "That Darek will change"
+      ],
+      "correctIndex": 1,
+      "explanation": "She ends with a reflection on the day that begins the rest of her life."
+    }
+  ]
+}

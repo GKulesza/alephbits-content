@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "By what percentage does the company have to reduce its headcount?",
+      "answers": [
+        "5%",
+        "15%",
+        "50%",
+        "30%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek talks about reducing the headcount by 15%."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the company want Marek to lay off Magda?",
+      "answers": [
+        "Because of her poor results",
+        "Because her department is not very profitable and the position is repetitive",
+        "Because of her lateness",
+        "Because of a conflict"
+      ],
+      "correctIndex": 1,
+      "explanation": "He explains that the department is not profitable and the position is repetitive."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magda say to Marek as she leaves?",
+      "answers": [
+        "That she forgives him",
+        "That she needed him to stand behind her, but he only carried out orders",
+        "That she loves him",
+        "That she will come back"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says she needed his support, but he carried out orders."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Marek hand in his resignation?",
+      "answers": [
+        "For a higher salary",
+        "Because he doesn't want to carry out orders without thinking about the people",
+        "Because he is moving abroad",
+        "Because he is ill"
+      ],
+      "correctIndex": 1,
+      "explanation": "He tells his boss he doesn't want to carry out orders without thinking about the people."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does Marek employ in his new company?",
+      "answers": [
+        "Only himself",
+        "Magda as his chief analyst",
+        "His former boss",
+        "Nobody"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogue: Magda becomes his chief analyst."
+    }
+  ]
+}

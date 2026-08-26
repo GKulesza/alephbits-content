@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Helena find in the Main Station archive?",
+      "answers": [
+        "An 1889 document about a resonance system",
+        "Plans from 2024",
+        "A letter from Tesla",
+        "Photographs without annotations"
+      ],
+      "correctIndex": 0,
+      "explanation": "She comes across a design with an annotation about a resonance system."
+    },
+    {
+      "type": "single_choice",
+      "question": "What pattern does Helena see in other cities?",
+      "answers": [
+        "Secret systems from before the electrical age",
+        "Identical clocks",
+        "No repetition at all",
+        "Only gas lighting"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Kraków, Poznań and Wrocław she sees similar systems."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Helena react to the evidence?",
+      "answers": [
+        "She keeps saying it's impossible",
+        "She publishes it in the media right away",
+        "She gives up her profession",
+        "She pretends she found nothing"
+      ],
+      "correctIndex": 0,
+      "explanation": "She repeatedly says \"it's impossible\", even though the evidence grows."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Helena?",
+      "answers": [
+        "An architect researching archives",
+        "A journalist",
+        "A railway worker",
+        "A medical student"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena searches the railway station archives."
+    },
+    {
+      "type": "single_choice",
+      "question": "In which city does she begin her search?",
+      "answers": [
+        "Warsaw",
+        "Kraków",
+        "Gdańsk",
+        "Wrocław"
+      ],
+      "correctIndex": 0,
+      "explanation": "She starts with the Main Station archives in Warsaw."
+    }
+  ]
+}
