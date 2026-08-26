@@ -211,6 +211,10 @@ def should_preserve_line(line: str) -> bool:
         return True
     if stripped.startswith("**Source block:**"):
         return True
+    if stripped.startswith("**Source video:**"):
+        return True
+    if stripped.startswith("**Source date (manuscript):**"):
+        return True
     if stripped.startswith("**Availability:**") or stripped.startswith("**Deprecated:**"):
         return True
     if stripped.startswith("**Cover family:**") or stripped.startswith("**Audience:**"):
