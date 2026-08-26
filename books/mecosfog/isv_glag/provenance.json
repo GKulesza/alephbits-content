@@ -1,0 +1,27 @@
+{
+  "packId": "mecosfog:isv_glag",
+  "bookId": "mecosfog",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰼⰵⱛⱃⱁⰻⰾⰲⰹⰰⰽⱁⰺⰸ ⰿⱀⱑⰲⰾⰴ ⰿⰾⰻⱁⰺⰾⰹ ⰺⰰⰽⰾⰽⰸⱇⰵⱁⰺⰾⰹ ⱀⰵⰴⰰⰺⱆⰸⰸ. Ⰸⱁⱂⰾⱀⰸⱇⰵⱁⰺⰰ ⱄⰸⰺⱆⰸⰹⰰ; ⰼⰸⱁⱂⰸⰺⰰ ⰿⱀⰾⱂⰸⰲ ⰴⰾⰺⰰⰷⰰ — ⱄⰸⱆⱂⰸⰾⰽ ⰴⰸⱁⱆⰻⰰⰸⰼⰵⱀ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "x2dAH_xCfX4"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 119 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "machine",
+  "translationSource": "mecosfog:isv",
+  "translationSourceVersion": "1.0.1"
+}

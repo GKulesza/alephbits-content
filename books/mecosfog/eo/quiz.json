@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estas la ĉefrolulo de la rakonto?",
+      "answers": [
+        "Isaac Newton",
+        "Srinivasa Ramanujan",
+        "Albert Einstein",
+        "Ada Lovelace"
+      ],
+      "correctIndex": 1,
+      "explanation": "La rakonto sekvas la vivon de Ramanujan."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu en Kembriĝo ricevas leteron plenan de teoremoj sen pruvoj?",
+      "answers": [
+        "Littlewood",
+        "Hardy",
+        "Euler",
+        "Gauss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy legas la leteron de Ramanujan en Trinity College."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun diinon Ramanujan mencias?",
+      "answers": [
+        "Lakshmi",
+        "Namagiri el Namakkal",
+        "Kali",
+        "Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "La patrino aŭdas en sonĝo la voĉon de la diino Namagiri."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havis Ramanujan, kiam li mortis?",
+      "answers": [
+        "42",
+        "32",
+        "22",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "La 26-an de aprilo 1920 — li havis 32 jarojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ramanujan diras pri ekvacioj?",
+      "answers": [
+        "Ili devas esti mallongaj",
+        "Ili ne havas sencon, se ili ne esprimas penson de Dio",
+        "Ili estas nur por inĝenieroj",
+        "Li ne ŝatas ekvaciojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li ripetas: ekvacio sen senco, se ĝi ne esprimas penson de Dio."
+    }
+  ]
+}

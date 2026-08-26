@@ -1,0 +1,27 @@
+{
+  "packId": "mgg1w103:isv",
+  "bookId": "mgg1w103",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Medžuslovjanski prěvod polskoj kanoničeskoj redakcii. Prosta moralka o bezinteresnoj pomoči; živočne postavy."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "5s-nYusLT9o"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "mgg1w103:pl",
+  "translationSourceVersion": "1.0.0"
+}

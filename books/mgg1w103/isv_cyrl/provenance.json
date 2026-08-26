@@ -1,0 +1,27 @@
+{
+  "packId": "mgg1w103:isv_cyrl",
+  "bookId": "mgg1w103",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјански прєвод полској каноническој редакции. Проста моралка о безинтересној помочи; живочне поставы."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "5s-nYusLT9o"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "mgg1w103:isv",
+  "translationSourceVersion": "1.0.0"
+}

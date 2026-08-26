@@ -1,0 +1,27 @@
+{
+  "packId": "mecosfog:isv_cyrl",
+  "bookId": "mecosfog",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјански прєвод полској каноническој редакции. Историческа фикција; мистика против доказа — фицтион дисцлаимер."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "x2dAH_xCfX4"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "mecosfog:isv",
+  "translationSourceVersion": "1.0.1"
+}

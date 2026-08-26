@@ -1,0 +1,130 @@
+{
+  "id": "mecosfog:eo",
+  "bookId": "mecosfog",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_bogini_i_liczby",
+  "legacySlug": "bogini-i-liczby",
+  "title": "La diino kaj la nombroj",
+  "language": "eo",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-13",
+  "description": "Srinivasa Ramanujan vidas ŝablonojn, kiujn li ne povas pruvi — kaj diras, ke ilin flustras al li la diino Namagiri. En Kembriĝo, Hardy postulas pruvojn.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "Ramanujan",
+    "matematyka",
+    "Hardy",
+    "Indie",
+    "Collection Ten"
+  ],
+  "difficulty": 6,
+  "estimatedReadingTime": 8,
+  "translation": "Esperanta traduko de la pola legpako \"Bogini i liczby\" — oficiala eldono de Collection Ten.",
+  "text": "**LA DIINO KAJ LA NOMBROJ**\n\nLa skribtabulo kuŝis sur la genuoj de la knabo, kaj li fiksrigardis ĝin kvazaŭ ĝi estus baldaŭ malkaŝonta al li la plej grandan sekreton de la mondo. Estis malfrue; ĉiuj en la domo dormis, kaj li ne povis endormiĝi. En la mano li tenis grifelon; apude kuŝis dika libro bindita en ledo. Sur ĝiaj paĝoj troviĝis miloj da formuloj, unu teoremo post alia, sen ia klarigo, sen pruvoj.\n\n– Tio devas esti ebla – li flustris al si. – Ĝi devas esti.\n\nLi komencis skribi. La grifelo grincis sur la tabulo. Nombroj, literoj, simboloj, kiuj por aliaj estus nur seka registro, estis por li lingvo, kiun li komprenis ekde naskiĝo. Dum sia tuta vivo li sentis, ke nombroj estas io pli ol ilo por kalkuli. Ili estas vivaj. Ili havas siajn proprajn historiojn, siajn proprajn personecojn. Kiam li rigardis ilin, li vidis vizaĝojn de amikoj, kiujn li konis de ĉiam.\n\nKaj tiam, la unuan fojon, li sentis, ke li ne estas sola.\n\nDe malantaŭ lia dorso venis flustro, mallaŭta kiel la brueto de folioj en la vento. Li sin turnis, sed malantaŭ li estis neniu. Nur ombro, kiu ŝajnis moviĝi laŭ sia propra ritmo.\n\n– Rigardu pli profunden – li aŭdis. – Tien, kie la nombroj renkontiĝas kun la lumo.\n\nLa knabo revenis al la tabulo. Lia mano komencis skribi mem, kvazaŭ iu ĝin gvidus. La formuloj, kiuj antaŭe ŝajnis al li malklaraj, subite akiris sencon. Li vidis ilin klare, kvazaŭ ili estus skribitaj en la ĉielo.\n\n– Kiu vi estas? – li demandis en la mallumon.\n\n– Mi estas tio, kion vi vidas, kiam vi rigardas trans la nombrojn. Mi estas tio, kio ĉiam estis tie, antaŭ ol io komenciĝis.\n\nLa knabo ne sciis, ĉu ĝi estas sonĝo aŭ revelacio. Li nur sciis, ke de tiu momento nenio plu estos la sama.\n\n---\nDudek jarojn poste, en la malvarmeta laborejo de Trinity College, profesoro Godfrey Harold Hardy rigardis la leteron, kiun li tenis en la mano. Li estis laca. Estis unu plia korespondaĵo de iu, kiu opiniis sin geniulo kaj estis, fakte, simple frenezulo. Sed io en tiu letero maltrankviligis lin.\n\nLa paĝoj estis dense kovritaj de formuloj. Centoj da teoremoj, unu post alia, sen ia pruvo. Kelkaj ŝajnis konataj; aliaj estis tiel strangaj, ke li ne povis kompreni ilin. Kaj tamen estis io en ili — interna logiko, kiu ne permesis al li demeti la leteron.\n\n– Littlewood! – li vokis tra la pordo. – Venu ĉi tien. Vi devas vidi ĉi tion.\n\nJohn Edensor Littlewood, lia plej proksima kunlaboranto, eniris la laborejon. Dum momento ili silente rigardis la leteron.\n\n– Tio estas neebla – diris Littlewood fine. – Neniu povas atingi ion tian memstare.\n\n– Kaj tamen – respondis Hardy. – Daŭrigu legi. La aŭtoro asertas, ke diino malkaŝis al li ĉi tiujn formulojn en sonĝo.\n\nLittlewood rigardis lin nekredeme.\n\n– Diino?\n\n– Jes. Kaj ĉu vi scias? Mi pensas, ke li diras la veron.\n\n---\nRamanujan staris sur la ferdeko de ŝipo, rigardante kiel la bordoj de Barato malaperas en la malproksimo. Malantaŭ li restis ĉio, kion li konis: lia patrino, lia edzino, la temploj, la ritoj, kiuj plenigis lian vivon de la lulilo. Antaŭ li kuŝis la nekonato. Anglujo, fremda lingvo, fremda manĝaĵo, fremda mondo. Kaj homoj, kiuj devis juĝi, ĉu tio, kion li portis en la kapo, valoras ion.\n\nLi sciis, ke multaj bramanoj kondamnos lin pro tio, kion li faras. Transiri la oceanon estis peko, kiu povis por ĉiam elpuŝi lin el lia komunumo. Sed lia patrino rakontis al li, ke tiun nokton ŝi aŭdis en sonĝo la voĉon de la diino Namagiri el Namakkal. La diino ordonis al li iri.\n\n– Ne stariĝu inter filo kaj lia destino – ŝi aŭdis en la sonĝo.\n\nKaj nun Ramanujan ŝipveturis trans la maron, kiun oni nomis la nigra akvo, portante tri dikajn kajerojn plenajn de formuloj, kiuj — li kredis — estis donaco de la diino.\n\nLa ŝipo balanciĝis sur la ondoj, kaj li pensis pri tio, kion Hardy skribis al li en unu el la leteroj: \"Viaj teoremoj devas esti veraj. Se ili estus falsaj, neniu havus la imagopovon por elpensi ilin.\"\n\nĈu eblas, ke fremdulo, kiu neniam vidis Baraton, komprenis lin pli bone ol iu ajn en lia propra lando? Ramanujan ne konis la respondon. Li nur sciis, ke li devas provi.\n\n---\nEn Kembriĝo renkontiĝis du homoj, kiujn disigis pli ol oceano. Hardy estis raciisto, kiu kredis nur je tio, kio povis esti pruvita. Ramanujan estis mistikulo, kiu kredis, ke nombroj estas la lingvo de Dio. Hardy postulis pruvojn. Ramanujan vidis la veron tuj, sen ia dedukto.\n\n– De kie vi scias, ke ĉi tiu formulo estas vera? – demandis Hardy denove, kiam Ramanujan montris al li alian teoremon.\n\n– Tio estas evidenta – respondis Ramanujan. – Rigardu ĝin. Ĉu vi vidas ĝin?\n\nHardy rigardis. Li ne vidis ĝin. Kaj tamen li sciis, ke la hindo pravas.\n\n– Ĉi tio ne estas scienco – li diris fine. – Ĉi tio estas... io alia.\n\nRamanujan ridetis.\n\n– Ĉi tio estas matematiko – li respondis. – Vera matematiko. Tia, kiu ne bezonas pruvojn, ĉar ĝi estas videbla por tiuj, kiuj scias rigardi.\n\nHardy ne sciis, kion diri. Dum sia tuta vivo li kredis, ke matematiko estas ekzakta scienco, bazita sur logiko kaj rezonado. Kaj nun li staris antaŭ homo, kiu renversis ĉion, kion li kredis, per unu sola rigardo al la tabulo.\n\n– Se tio estas vera – li diris fine – tiam matematiko estas io pli ol scienco. Ĝi estas io... sankta.\n\nRamanujan kapjesis.\n\n– Mi ĉiam tiel pensis.\n\n---\nLa malsano venis malrapide, kiel ombro, kiu kuŝiĝas sur la korpon kaj ne volas foriri. Ramanujan provis batali, sed ĉiutage li sentis sin pli malforta. La angla klimato estis mortiga por li: la malvarmo, la malsekeco, la fremda manĝaĵo, kiun li devis prepari mem sur alkoholforneto je la tria matene, post tuta nokto da laboro pri siaj formuloj.\n\nKiam li eniris la sanatorion en Matlock, la kuracistoj malpermesis al li labori. Ili diris, ke la mensa streĉo plimalbonigas lian staton. Kaj li sciis, ke tio ne estas vera. Estis la matematiko, kiu tenis lin vivanta. Sen ĝi, li ne havus kialon leviĝi matene.\n\nLi kuŝis en nehejtita ĉambro, envolvita en palto, kun la tabulo sur la genuoj. Ekstere pluvis. Interne estis malvarme. Kaj li skribis.\n\n– S-ro Ramanujan – diris la flegistino, enirante la ĉambron. – Vi devas ripozi.\n\n– Mi ripozas – li respondis sen levi la okulojn. – Por mi, ĉi tio estas ripozo.\n\nLa flegistino suspiris kaj foriris. Ŝi sciis, ke ne utilas diskuti. Tiu homo ŝajnis ne esti de ĉi tiu mondo. Li skribis, dum li havis forton, kaj eĉ kiam li ne plu havis ĝin, li ankoraŭ skribis.\n\nNokte, kiam silento falis super la sanatorio, Ramanujan aŭdis voĉon. Mallaŭtan, klaran, kvazaŭ ĝi venus el la interno de lia propra kapo.\n\n– Ankoraŭ ne – diris la voĉo. – Vi ankoraŭ havas ion por fari.\n\nRamanujan malfermis la okulojn kaj rigardis la plafonon. Li sciis, ke tio ne estas lia imago. Estis la diino. La sama, kiu diktis al li formulojn, kiam li estis infano en Kumbakonam.\n\n– Kion mi devas fari? – li demandis en la mallumon.\n\n– Skribu – respondis la voĉo. – Skribu, dum vi povas. Viaj vortoj postvivos.\n\nKaj li skribis. Eĉ kiam li jam ne povis sidiĝi, kiam li kuŝis apogita sur la kusenoj, lia mano ne ĉesis. Lia edzino submetis al li purajn foliojn, unu post alia, kaj li plenigis ilin per formuloj, kiuj venis al li el alia mondo.\n\nLi estis haŭto kaj ostoj – Janaki diros poste. Sed lia mano ankoraŭ skribis. Ĝis la plej fino.\n\n---\nLa 26-an de aprilo 1920, ĉe la tagiĝo, Srinivasa Ramanujan fermis la okulojn la lastan fojon. Li havis 32 jarojn. Li lasis malantaŭ si tri kajerojn, ĉirkaŭ 3.900 teoremojn kaj demandon, kiu dum la sekvaj jardekoj turmentos matematikistojn tra la tuta mondo.\n\nDe kie li sciis? Kiel eblis, ke malriĉa memlernanto el Barato, sen formala edukado, sen aliro al bibliotekoj, lernis tiom multe, ke liaj formuloj laboras hodiaŭ en la fiziko de nigraj truoj?\n\nLa scienco ne povis doni respondon. Aŭ eble ĝi simple ne volis. Ĉar la respondo estis tro simpla, tro malkomforta, tro preter tio, kion la scienco povis akcepti.\n\nRamanujan ripetis dum sia tuta vivo: \"Ekvacio havas por mi neniun sencon, se ĝi ne esprimas penson de Dio.\"\n\nKaj eble ĝuste pri tio temis. Eble matematiko ne estas nur scienco. Eble ĝi estas io pli: lingvo, per kiu Dio skribis la universon, atendante tiujn, kiuj povas ĝin legi.\n\nKaj li, Ramanujan, estis unu el ili. Savita de la diino, gvidata de ŝi dum sia tuta vivo, ĝis la plej fino.\n\n---\nHodiaŭ, en la biblioteko Wren de Trinity College, sub vitro kuŝas folioj el la lasta jaro de lia vivo. La samaj, kiuj dum 56 jaroj estis konsiderataj perditaj, kiuj revenis al la mondo danke al hazardo kaj persistemo de unu homo.\n\nTie estas formuloj, kiuj ankoraŭ atendas sian malkovron. Profetaĵoj skribitaj per la mano de mortanto, kiuj devis plenumiĝi nur post jaroj, post jardekoj, post jarcentoj.\n\nHardy skribis en la nekrologo, ke li komparus lin nur kun Eulero kaj kun Jacobi, kun la plej grandaj, kiuj iam vivis. Kaj li konfesis, ke lia interkonatiĝo kun Ramanujan estis la sola romantika epizodo de lia vivo.\n\nKaj li mem, Ramanujan, foriris en silento, lasante malantaŭ si demandon, kiu restas sen respondo. Demand pri la fonto de lia genio, pri la naturo de liaj inspiroj, pri tio, kio kaŝiĝas trans la nombroj.\n\nEble iam iu trovos la respondon. Aŭ eble ne. Eble kelkaj misteroj estas simple tro grandaj por esti esploritaj.\n\nEble kelkajn verojn oni povas nur akcepti — same kiel Ramanujan akceptis la formulojn, kiuj venis al li en sonĝo.\n\nKun fido, ke ili devenas el loko, kiun oni ne povas pruvi. Nur vidi.\n\nKaj noti, antaŭ ol estos tro malfrue.\n\n**FINO**",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kiu estas la ĉefrolulo de la rakonto?",
+        "answers": [
+          "Isaac Newton",
+          "Srinivasa Ramanujan",
+          "Albert Einstein",
+          "Ada Lovelace"
+        ],
+        "correctIndex": 1,
+        "explanation": "La rakonto sekvas la vivon de Ramanujan."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiu en Kembriĝo ricevas leteron plenan de teoremoj sen pruvoj?",
+        "answers": [
+          "Littlewood",
+          "Hardy",
+          "Euler",
+          "Gauss"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hardy legas la leteron de Ramanujan en Trinity College."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiun diinon Ramanujan mencias?",
+        "answers": [
+          "Lakshmi",
+          "Namagiri el Namakkal",
+          "Kali",
+          "Saraswati"
+        ],
+        "correctIndex": 1,
+        "explanation": "La patrino aŭdas en sonĝo la voĉon de la diino Namagiri."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiom da jaroj havis Ramanujan, kiam li mortis?",
+        "answers": [
+          "42",
+          "32",
+          "22",
+          "52"
+        ],
+        "correctIndex": 1,
+        "explanation": "La 26-an de aprilo 1920 — li havis 32 jarojn."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion Ramanujan diras pri ekvacioj?",
+        "answers": [
+          "Ili devas esti mallongaj",
+          "Ili ne havas sencon, se ili ne esprimas penson de Dio",
+          "Ili estas nur por inĝenieroj",
+          "Li ne ŝatas ekvaciojn"
+        ],
+        "correctIndex": 1,
+        "explanation": "Li ripetas: ekvacio sen senco, se ĝi ne esprimas penson de Dio."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "mecosfog:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "biography",
+  "audience": "teen",
+  "subtitle": "Ramanujan, Hardy kaj vizioj en sonĝo",
+  "trustClassification": "adapted_from_real_events",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-07-08"
+  ],
+  "inspiredBy": {
+    "youtube": "x2dAH_xCfX4"
+  },
+  "world": {
+    "objects": [
+      "libro"
+    ],
+    "places": [
+      "hejmo",
+      "lernejo"
+    ]
+  }
+}

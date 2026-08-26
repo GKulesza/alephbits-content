@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who is the main character of the story?",
+      "answers": [
+        "Isaac Newton",
+        "Srinivasa Ramanujan",
+        "Albert Einstein",
+        "Ada Lovelace"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story follows the life of Ramanujan."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who in Cambridge receives a letter full of theorems without proofs?",
+      "answers": [
+        "Littlewood",
+        "Hardy",
+        "Euler",
+        "Gauss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy reads Ramanujan's letter in Trinity College."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which goddess does Ramanujan mention?",
+      "answers": [
+        "Lakshmi",
+        "Namagiri of Namakkal",
+        "Kali",
+        "Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mother hears in a dream the voice of the goddess Namagiri."
+    },
+    {
+      "type": "single_choice",
+      "question": "How old was Ramanujan when he died?",
+      "answers": [
+        "42",
+        "32",
+        "22",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "26 April 1920 — he was 32 years old."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ramanujan say about equations?",
+      "answers": [
+        "They must be short",
+        "They have no meaning unless they express a thought of God",
+        "They are only for engineers",
+        "He does not like equations"
+      ],
+      "correctIndex": 1,
+      "explanation": "He repeats: an equation is meaningless if it does not express a thought of God."
+    }
+  ]
+}

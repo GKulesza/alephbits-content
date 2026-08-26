@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako Krzysztof ispočatku interpretuje sostojanije kvartiry matere?",
+      "answers": [
+        "Kako otlično organizovannyj magazin",
+        "Kako chaos, ktoryj budi jarost i zlom",
+        "Kako interesnyj artističnyj projekt",
+        "Kako dokaz na skrytoje bogatstvo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prvyj vhod v kvartiru vyzyvaje šok, bezpomočnost i gněv."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoj glubžij smysl načinaje on viděti v sobiratelstvě matere?",
+      "answers": [
+        "Tolko želanije investovati denge",
+        "Strah pered vozvratom biedy i potrebu kontrolja",
+        "Igru v kolekcionirovanije meločej",
+        "Probot skryti imušenstvo pered svetom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nočnoje vospominanije o PRL pozvolaje jemu pročitati vešči kako zaščitu pered starym strahom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začem v povesti pojavljajetsja Ola od declutteringu?",
+      "answers": [
+        "Čtoby tolko fizično vykinuti othody",
+        "Čtoby sojediniti porjadkovanje veščej s razuměnjem emocij",
+        "Čtoby prodati kvartiru za vysšuju cenu",
+        "Čtoby ocěniti antikvar i jogo prodati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola ne dělaje kako čistilna firma, ale kako provodnica po žalosti i značenijam predmetov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začem korobka iz-pod pečiva okazyvajetsja tako važna?",
+      "answers": [
+        "Bo soderžit denge na remont kvartiry",
+        "Bo hranit pisma i sledy každodnevnoj ljubvi matere",
+        "Bo jest najdražšaja mebel v domě",
+        "Bo prinadležit sosedam naprotiv"
+      ],
+      "correctIndex": 1,
+      "explanation": "To v korobkě nahodjatsja vešči, ktoryje srazu bili pročitany kako istinno važnyje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoj koněčnyj krok dělaje Krzysztof otnosno prošlogo matere?",
+      "answers": [
+        "Otrekajetsja od paměti o matere polnostju",
+        "Razuměje jeje strah i puskaje to, čego ona ne uměla pustiti",
+        "Perestaje razgovarivati s dčereju o prošlom",
+        "Rešaje sohraniti vsě bez izmenij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konec pokazuje perehod od gněva do razuměnja i novogo načala."
+    }
+  ]
+}

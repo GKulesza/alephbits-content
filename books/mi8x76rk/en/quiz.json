@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Krzysztof initially interpret the state of his mother's flat?",
+      "answers": [
+        "As a superbly organised warehouse",
+        "As chaos provoking fury and devastation",
+        "As an interesting art project",
+        "As proof of hidden wealth"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first entrance into the flat triggers shock, helplessness and anger."
+    },
+    {
+      "type": "single_choice",
+      "question": "What deeper meaning does he begin to see in his mother's hoarding?",
+      "answers": [
+        "Solely a desire to invest money",
+        "Fear of the return of poverty and a need for control",
+        "Playing at collecting small things",
+        "An attempt to hide wealth from the world"
+      ],
+      "correctIndex": 1,
+      "explanation": "The nocturnal memory of the PRL lets him read the things as protection against an old fear."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Ola from decluttering appear in the story?",
+      "answers": [
+        "Only to physically throw away the waste",
+        "To connect sorting out things with understanding emotions",
+        "To sell the flat at a higher price",
+        "To value antiques and sell them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola does not act like a cleaning company but like a guide through grief and the meanings of objects."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the cookie box turn out to be so important?",
+      "answers": [
+        "Because it contains money for renovating the flat",
+        "Because it holds letters and traces of a mother's everyday love",
+        "Because it is the most expensive piece of furniture in the house",
+        "Because it belongs to the neighbours across the street"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is in the box that the things immediately read as truly important are found."
+    },
+    {
+      "type": "single_choice",
+      "question": "What final move does Krzysztof make towards his mother's past?",
+      "answers": [
+        "He renounces the memory of his mother completely",
+        "He understands her fear and lets go of what she could not let go of",
+        "He stops talking with his daughter about the past",
+        "He decides to keep everything unchanged"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ending shows a transition from anger to understanding and a new beginning."
+    }
+  ]
+}

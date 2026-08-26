@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién es el personaje principal de la historia?",
+      "answers": [
+        "Isaac Newton",
+        "Srinivasa Ramanujan",
+        "Albert Einstein",
+        "Ada Lovelace"
+      ],
+      "correctIndex": 1,
+      "explanation": "El relato sigue la vida de Ramanujan."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién recibe en Cambridge una carta llena de teoremas sin demostraciones?",
+      "answers": [
+        "Littlewood",
+        "Hardy",
+        "Euler",
+        "Gauss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy lee en el Trinity College la carta de Ramanujan."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué diosa menciona Ramanujan?",
+      "answers": [
+        "Lakshmi",
+        "Namagiri de Namakkal",
+        "Kali",
+        "Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "La madre oye en sueños la voz de la diosa Namagiri."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tenía Ramanujan cuando murió?",
+      "answers": [
+        "42",
+        "32",
+        "22",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "El 26 de abril de 1920 — tenía 32 años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Ramanujan sobre las ecuaciones?",
+      "answers": [
+        "Deben ser breves",
+        "No tienen sentido si no expresan un pensamiento de Dios",
+        "Son solo para ingenieros",
+        "No le gustan las ecuaciones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite: una ecuación sin sentido si no expresa un pensamiento de Dios."
+    }
+  ]
+}

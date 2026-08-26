@@ -1,0 +1,27 @@
+{
+  "packId": "mi8x76rk:isv_cyrl",
+  "bookId": "mi8x76rk",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјански прєвод полској каноническој редакции (манусцрипт Цоллецтион Тхрее). Полныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DZkJoX-Fnxc"
+    }
+  ],
+  "revisionNotes": "Фикцја псыцхологицзна осадзона w реалныцх доśwиадцзениацх ниедобору и żаłобы.",
+  "translationStatus": "machine",
+  "translationSource": "mi8x76rk:isv",
+  "translationSourceVersion": "1.1.0"
+}

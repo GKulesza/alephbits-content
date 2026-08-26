@@ -1,0 +1,128 @@
+{
+  "id": "mgg1w103:isv",
+  "bookId": "mgg1w103",
+  "locale": "isv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_cukierek_z_magicznego_drzewa",
+  "legacySlug": "cukierek-z-magicznego-drzewa",
+  "title": "Konfety iz magičnogo drěva",
+  "language": "isv",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-13",
+  "description": "Lis Rudi hočet dobyti konfety iz magičnogo drěva, pomagaja drugym tolko dlja togo, čtoby polučiti nagradu — dokudě ne otkryvaje, že drěvo daruje tolko teh, ktoryje pomagajut bezinteresno.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "leśni przyjaciele",
+    "hojność",
+    "Collection Eleven"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "Medžuslovjanski prěvod polskoj redakcii \"Cukierek z magicznego drzewa\" — oficialnoje izdanje Collection Eleven.",
+  "text": "**KONFETY IZ MAGIČNOGO DRĚVA**\n\nV glubini velikogo lěsa, za sedmju rěkami, žili tri prijatela: zajak Kicek, jež Kolčuš i lis Rudi. Každyj den oni vstretili se v svojem domikě na drěvě, čtoby igrati, pěti i pereživati obščije priključenija.\n\nKicek byl najbystrějšij i najveselějšij iz vseh. Ljubil běgati i vsegda vyigryval v salki. Kolčuš, hot i iměl mnogo iglic, byl najtišim životinym v lěsě. Uměl slušati i sovětovati, a jego ljubimaja igra byla zagadki. Lis Rudi byl izobretlivyj i znal každyj ugolok lěsa, no někogda zabyval, že drugyje tože imějut svoje potreby.\n\nJednogo dnja, kogda oni igrali v piratov na lěsnoj polaně, slučilo se něčto neobyčnoje. Kicek, pryčajas za kustom, vzbil sebě iglicu v lapku. Kolčuš srazu jemu pomog i nežno jeje vytegnul. I togda — k udivleniju vseh — drěvo, pod ktorym oni otdyhali, načalo ševeliti větvjami, a jedin iz listov prevratilsja v cvetnyj, blestjaščij konfet.\n\n– Va! – kriknul Kicek.\n\nKogda Kolčuš dotknulsja konfety, ta otorvalas bez problema. Podělilsja s prijatelami. Rudi byl razočarovan — on tože hotel polučiti konfetu, no ne mog jeje otorvati.\n\n– Začemu ty mog, a ja ne? – voprosil on.\n\n– Možet, potomu, že ja pomog Kiceku bezinteresno – otvětil jež. – Ne očekival ničego vzaměn.\n\nRudi rešil, že na drugyj den budet pomagati vsem, čtoby dobyti cělu goru konfet. No jego pomoč ne byla bezinteresna: každýj raz on očekival nagradu. Pomog šopotu napumpovati koleso u velosipeda, no tolko dlja togo, čtoby projehatisja. Pomog gospože bělkě donesti zakupy, no vzaměn vzel jabloko i banan.\n\nI každýj raz, kogda on běžal pod magično drěvo, tam ne bylo nikakoj konfety.\n\n– To ne spravedlivo! – zlilsja Rudi. – Věď ja pomog!\n\nNakoněc prijateli objasnili jemu, že drěvo daruje tolko teh, ktoryje pomagajut ot serdca, ne očekivaja ničego vzaměn. Rudi razuměl svoju ošibku. Izvinilsja pered šopotom i bělkoju, a potom rešil, že odtude budet pomagati bezinteresno.\n\nI tak on načal pomagati každomu, kogo vstretil: rubal drěva dlja starogo jelenja, obnovjal muravelnik, dělal zakupy i smotrel za dětmi. Zabyl o konfetah, a čutil se ščaslivejše, čem kogda-koli.\n\nJednogo dnja, kogda on snova vstretil prijatelej pod magičnym drěvom, slučilo se něčto čuděsnoje: sotni konfet upali s větvjej prjamo v jego lapky.\n\n– Oni sut dlja tebe, Rudi! – kriknul Kolčuš.\n\n– No ja ne hoču jesti ih sam! – otvětil lis. – Podělju se s temi, komu pomog, a ostatok my vměstě smy jěsti v našem domikě!\n\nI tak Rudi razuměl, že največšuju radost daje ne branije, no davanie. Od togo dnja jego dobroje serdce bylo znajemo v cělom lěsě. A magično drěvo ješče darovalo teh, ktoryje pomagali drugym iz istinnoj ljubvi.\n\n**KONEC**",
+  "quiz": {
+    "title": "Prověrte svoje razuměnje",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kako nazyvajut se tri prijatele?",
+        "answers": [
+          "Kicek, Kolčuš i Rudi",
+          "Burek, Azor i Filek",
+          "Matołek, Tygrys i Terka",
+          "Kicek, Rudi i Terka"
+        ],
+        "correctIndex": 0,
+        "explanation": "To zajak Kicek, jež Kolčuš i lis Rudi."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto prvyj polučaje konfetu?",
+        "answers": [
+          "Kolčuš",
+          "Rudi",
+          "Kicek",
+          "Nikto"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kolčuš pomogaje Kiceku s igliceju bezinteresno i polučaje konfetu."
+      },
+      {
+        "type": "single_choice",
+        "question": "Začemu Rudi ispočatku ne polučaje konfet?",
+        "answers": [
+          "Pomogaje tolko dlja togo, čtoby polučiti nagradu",
+          "Ne znajet drěva",
+          "Jest bolen",
+          "Ne ljubi sladosti"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jego pomoč ne jest bezinteresna: očekivaje nagradu."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto dělaje Rudi, kogda nakoněc polučaje konfety?",
+        "answers": [
+          "Dělitsja s drugymi",
+          "Jest vse sam",
+          "Vybrosivaje ih",
+          "Pryta je na zimu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Govorit, že podělitsja s temi, komu pomog, a ostatok sojedjat vměstě."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kogda list prevraščajetsja v konfetu?",
+        "answers": [
+          "Kogda Kolčuš bezinteresno pomogaje Kiceku",
+          "Kogda idet dožd",
+          "Kogda Rudi kriči",
+          "Nočju"
+        ],
+        "correctIndex": 0,
+        "explanation": "Drěvo reaguje na bezinteresnu pomoč Kolčuša."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "mgg1w103:pl",
+  "translationSourceVersion": "1.0.0",
+  "coverFamily": "nature",
+  "audience": "children_8_12",
+  "subtitle": "Kogda pomoč imějet byti iskrenna",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2021-06-21"
+  ],
+  "inspiredBy": {
+    "youtube": "5s-nYusLT9o"
+  },
+  "world": {
+    "objects": [
+      "konfeta"
+    ],
+    "creatures": [
+      "lisica",
+      "zajac"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "mgg1w103:eo",
+  "bookId": "mgg1w103",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_cukierek_z_magicznego_drzewa",
+  "legacySlug": "cukierek-z-magicznego-drzewa",
+  "title": "La bombono de la magia arbo",
+  "language": "eo",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-13",
+  "description": "La vulpeto Rudi volas akiri bombonojn de la magia arbo, helpante aliulojn nur por ricevi rekompencon — ĝis li malkovras, ke la arbo donacas nur al tiuj, kiuj helpas seninterese.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "1",
+  "tags": [
+    "leśni przyjaciele",
+    "hojność",
+    "Collection Eleven"
+  ],
+  "difficulty": 2,
+  "estimatedReadingTime": 3,
+  "translation": "Esperanta traduko de la pola legpako \"Cukierek z magicznego drzewa\" — oficiala eldono de Collection Eleven.",
+  "text": "**LA BOMBONO DE LA MAGIA ARBO**\n\nEn la profundo de granda arbaro, trans sep riveroj, loĝis tri amikoj: la kunikleto Kicek, la erinaco Kolczuś kaj la vulpeto Rudi. Ĉiutage ili renkontiĝis en sia arbodometo por ludi, kanti kaj travivi kune aventurojn.\n\nKicek estis la plej rapida kaj plej gaja el ĉiuj. Li ŝategis kuri kaj ĉiam venkis en ektuŝludo. Kolczuś, kvankam li havis multajn pikilojn, estis la plej milda besteto en la arbaro. Li sciis aŭskulti kaj konsili, kaj lia plej ŝatata ludo estis enigmoj. La vulpeto Rudi estis sprita kaj konis ĉiun angulon de la arbaro, sed foje li forgesis, ke ankaŭ aliaj havas siajn bezonojn.\n\nIun tagon, dum ili ludis piratojn sur arbarherbejo, okazis io nekutima. Kicek, kaŝante sin malantaŭ arbusto, pikis sian piedeton per pikilo. Kolczuś tuj helpis lin kaj zorge eltiris ĝin. Kaj tiam — al la miro de ĉiuj — la arbo, sub kiu ili ripozis, komencis movi la branĉojn, kaj unu el la folioj transformiĝis en buntan, brilantan bombonon.\n\n– Ŭaŭ! – ekkriis Kicek.\n\nKiam Kolczuś tuŝis la bombonon, ĝi deŝiriĝis senprobleme. Li dividis ĝin kun siaj amikoj. Rudi estis seniluziigita: ankaŭ li volis ricevi bombonon, sed li ne povis ĝin deŝiri.\n\n– Kial vi povis, sed mi ne? – li demandis.\n\n– Eble ĉar mi helpis Kicek seninterese – respondis la erinaco. – Mi ne atendis ion kontraŭe.\n\nRudi decidis, ke la sekvan tagon li helpos ĉiujn, por akiri tutan monton da bombonoj. Sed lia helpo ne estis seninteresa: ĉiufoje li atendis rekompencon. Li helpis la lavurson pumpi la radon de la biciklo, sed nur ĉar li volis veturi. Li helpis sinjorinon sciuron porti la aĉetojn, sed kontraŭe li prenis pomon kaj bananon.\n\nKaj ĉiufoje, kiam li kuris al la magia arbo, tie estis nenia bombono.\n\n– Tio estas maljusta! – koleris Rudi. – Ja mi helpis!\n\nFine, la amikoj klarigis al li, ke la arbo donacas nur al tiuj, kiuj helpas el la koro, ne atendante ion kontraŭe. Rudi komprenis sian eraron. Li pardonpetis al la lavurso kaj al la sciuro, kaj poste decidis, ke de tiam li helpos seninterese.\n\nKaj tiel li komencis helpi ĉiun, kiun li renkontis: li hakis lignon por la maljuna cervo, rekonstruis formikejon, faris aĉetojn kaj gardis infanojn. Li forgesis pri la bombonoj, kaj sentis sin pli feliĉa ol iam ajn.\n\nIun tagon, kiam li denove renkontis la amikojn sub la magia arbo, okazis io mirinda: centoj da bombonoj falis de la branĉoj rekte en liajn piedetojn.\n\n– Ili estas por vi, Rudi! – ekkriis Kolczuś.\n\n– Sed mi ne volas manĝi ilin sola! – respondis la vulpeto. – Mi dividos ilin kun tiuj, kiujn mi helpis, kaj la restaĵon ni manĝos kune en nia dometo!\n\nKaj tiel Rudi komprenis, ke la plej grandan ĝojon donas ne preni, sed doni. De tiu tago lia bona koro estis konata tra la tuta arbaro. Kaj la magia arbo daŭre donacis al tiuj, kiuj helpis aliajn pro vera amo.\n\n**FINO**",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kio estas la nomoj de la tri amikoj?",
+        "answers": [
+          "Kicek, Kolczuś kaj Rudi",
+          "Burek, Azor kaj Filek",
+          "Matołek, Tygrys kaj Terka",
+          "Kicek, Rudi kaj Terka"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ili estas la kunikleto Kicek, la erinaco Kolczuś kaj la vulpeto Rudi."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiu unue ricevas bombonon?",
+        "answers": [
+          "Kolczuś",
+          "Rudi",
+          "Kicek",
+          "Neniu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kolczuś helpas Kicek kun la pikilo seninterese kaj ricevas bombonon."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kial Rudi komence ne ricevas bombonojn?",
+        "answers": [
+          "Li helpas nur por ricevi rekompencon",
+          "Li ne konas la arbon",
+          "Li estas malsana",
+          "Li ne ŝatas dolĉaĵojn"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lia helpo ne estas seninteresa: li atendas rekompencon."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion faras Rudi, kiam li fine ricevas la bombonojn?",
+        "answers": [
+          "Li dividas ilin kun aliaj",
+          "Li manĝas ĉiujn sola",
+          "Li forĵetas ilin",
+          "Li kaŝas ilin por vintro"
+        ],
+        "correctIndex": 0,
+        "explanation": "Li diras, ke li dividos ilin kun tiuj, kiujn li helpis, kaj la restaĵon ili manĝos kune."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiam folio transformiĝas en bombonon?",
+        "answers": [
+          "Kiam Kolczuś seninterese helpas Kicek",
+          "Kiam pluvas",
+          "Kiam Rudi krias",
+          "Nokte"
+        ],
+        "correctIndex": 0,
+        "explanation": "La arbo reagas al la seninteresa helpo de Kolczuś."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "mgg1w103:pl",
+  "translationSourceVersion": "1.0.0",
+  "coverFamily": "nature",
+  "audience": "children_8_12",
+  "subtitle": "Kiam helpo devas esti sincera",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-13",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2021-06-21"
+  ],
+  "inspiredBy": {
+    "youtube": "5s-nYusLT9o"
+  },
+  "world": {
+    "objects": [
+      "bombono"
+    ],
+    "creatures": [
+      "vulpo",
+      "kuniklo"
+    ],
+    "plants": [
+      "arbo"
+    ],
+    "places": [
+      "arbaro"
+    ]
+  }
+}

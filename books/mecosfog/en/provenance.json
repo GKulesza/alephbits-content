@@ -1,0 +1,27 @@
+{
+  "packId": "mecosfog:en",
+  "bookId": "mecosfog",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition. Historical fiction; mysticism versus proof — fiction disclaimer."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "x2dAH_xCfX4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "mecosfog:pl",
+  "translationSourceVersion": "1.0.1"
+}

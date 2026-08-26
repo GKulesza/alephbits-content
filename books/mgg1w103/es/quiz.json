@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llaman los tres amigos?",
+      "answers": [
+        "Kicek, Kolczuś y Rudi",
+        "Burek, Azor y Filek",
+        "Matołek, Tygrys y Terka",
+        "Kicek, Rudi y Terka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Son el conejito Kicek, el erizo Kolczuś y el zorro Rudi."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién recibe el caramelo primero?",
+      "answers": [
+        "Kolczuś",
+        "Rudi",
+        "Kicek",
+        "Nadie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolczuś ayuda a Kicek con la espina desinteresadamente y recibe un caramelo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué Rudi no recibe caramelos al principio?",
+      "answers": [
+        "Ayuda solo para obtener una recompensa",
+        "No conoce el árbol",
+        "Está enfermo",
+        "No le gustan los dulces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Su ayuda no es desinteresada: espera una recompensa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Rudi cuando por fin recibe los caramelos?",
+      "answers": [
+        "Los comparte con los demás",
+        "Se los come todos él solo",
+        "Los tira",
+        "Los esconde para el invierno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice que los compartirá con aquellos a quienes ayudó y que el resto lo comerán juntos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuándo se convierte una hoja en un caramelo?",
+      "answers": [
+        "Cuando Kolczuś ayuda a Kicek desinteresadamente",
+        "Cuando llueve",
+        "Cuando Rudi grita",
+        "Por la noche"
+      ],
+      "correctIndex": 0,
+      "explanation": "El árbol reacciona a la ayuda desinteresada de Kolczuś."
+    }
+  ]
+}

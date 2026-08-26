@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo interpreta Krzysztof inicialmente el estado del piso de su madre?",
+      "answers": [
+        "Como un almacén perfectamente organizado",
+        "Como un caos que provoca furia y desolación",
+        "Como un interesante proyecto artístico",
+        "Como una prueba de riqueza oculta"
+      ],
+      "correctIndex": 1,
+      "explanation": "La primera entrada en el piso provoca shock, impotencia y rabia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué sentido más profundo empieza a ver en la acumulación de su madre?",
+      "answers": [
+        "Solo el deseo de invertir dinero",
+        "El miedo al regreso de la pobreza y la necesidad de control",
+        "El juego de coleccionar pequeñeces",
+        "El intento de ocultar su fortuna al mundo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El recuerdo nocturno del PRL le permite leer las cosas como protección contra un miedo antiguo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Para qué aparece Ola del decluttering en la historia?",
+      "answers": [
+        "Solo para tirar físicamente los desperdicios",
+        "Para unir el ordenar las cosas con el entender las emociones",
+        "Para vender el piso a un precio más alto",
+        "Para tasar las antigüedades y venderlas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola no actúa como una empresa de limpieza, sino como una guía por el duelo y el significado de los objetos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué la caja de galletas resulta tan importante?",
+      "answers": [
+        "Porque contiene dinero para reformar el piso",
+        "Porque guarda cartas y huellas del amor cotidiano de la madre",
+        "Porque es el mueble más caro de la casa",
+        "Porque pertenece a los vecinos de enfrente"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es en la caja donde se encuentran las cosas leídas de inmediato como realmente importantes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué movimiento final hace Krzysztof respecto al pasado de su madre?",
+      "answers": [
+        "Renuncia por completo a la memoria de su madre",
+        "Entiende su miedo y suelta lo que ella no supo soltar",
+        "Deja de hablar con su hija del pasado",
+        "Decide conservarlo todo sin cambios"
+      ],
+      "correctIndex": 1,
+      "explanation": "El final muestra el paso de la rabia a la comprensión y a un nuevo comienzo."
+    }
+  ]
+}

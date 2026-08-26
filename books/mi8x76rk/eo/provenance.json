@@ -1,0 +1,27 @@
+{
+  "packId": "mi8x76rk:eo",
+  "bookId": "mi8x76rk",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Esperanta traduko de la pola kanonika eldono (manuskripto de Collection Three). Plena teksto konservita — sen mallongigoj."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DZkJoX-Fnxc"
+    }
+  ],
+  "revisionNotes": "Fikcja psychologiczna osadzona w realnych doświadczeniach niedoboru i żałoby.",
+  "translationStatus": "machine",
+  "translationSource": "mi8x76rk:pl",
+  "translationSourceVersion": "1.1.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako nazyvajut se tri prijatele?",
+      "answers": [
+        "Kicek, Kolčuš i Rudi",
+        "Burek, Azor i Filek",
+        "Matołek, Tygrys i Terka",
+        "Kicek, Rudi i Terka"
+      ],
+      "correctIndex": 0,
+      "explanation": "To zajak Kicek, jež Kolčuš i lis Rudi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prvyj polučaje konfetu?",
+      "answers": [
+        "Kolčuš",
+        "Rudi",
+        "Kicek",
+        "Nikto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolčuš pomogaje Kiceku s igliceju bezinteresno i polučaje konfetu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začemu Rudi ispočatku ne polučaje konfet?",
+      "answers": [
+        "Pomogaje tolko dlja togo, čtoby polučiti nagradu",
+        "Ne znajet drěva",
+        "Jest bolen",
+        "Ne ljubi sladosti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jego pomoč ne jest bezinteresna: očekivaje nagradu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dělaje Rudi, kogda nakoněc polučaje konfety?",
+      "answers": [
+        "Dělitsja s drugymi",
+        "Jest vse sam",
+        "Vybrosivaje ih",
+        "Pryta je na zimu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Govorit, že podělitsja s temi, komu pomog, a ostatok sojedjat vměstě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogda list prevraščajetsja v konfetu?",
+      "answers": [
+        "Kogda Kolčuš bezinteresno pomogaje Kiceku",
+        "Kogda idet dožd",
+        "Kogda Rudi kriči",
+        "Nočju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drěvo reaguje na bezinteresnu pomoč Kolčuša."
+    }
+  ]
+}

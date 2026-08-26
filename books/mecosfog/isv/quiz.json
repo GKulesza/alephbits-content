@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest glavnym junakom istoriji?",
+      "answers": [
+        "Isaac Newton",
+        "Srinivasa Ramanujan",
+        "Albert Einstein",
+        "Ada Lovelace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Povest sleduje žizn Ramanujana."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto v Cambridge polučaje pismo polnoje tvrdenij bez dokazov?",
+      "answers": [
+        "Littlewood",
+        "Hardy",
+        "Euler",
+        "Gauss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy čitaje pismo od Ramanujana v Trinity College."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoruju bogynju Ramanujan spominaje?",
+      "answers": [
+        "Lakshmi",
+        "Namagiri iz Namakkala",
+        "Kali",
+        "Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mati slyšaje vo snu glas bogyni Namagiri."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko let iměl Ramanujan, kogda umrěl?",
+      "answers": [
+        "42",
+        "32",
+        "22",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "26 aprila 1920 — iměl 32 godov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Ramanujan govorit o ravnjenjah?",
+      "answers": [
+        "Imějut byti korotkije",
+        "Nemajut smysla, ježeli ne vyražajut mysli Boga",
+        "Sut tolko dlja inženerov",
+        "Ne ljubi ravnjenij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Povtarjaje: ravnjenije bez smysla, ježeli ne vyražaje mysli Boga."
+    }
+  ]
+}

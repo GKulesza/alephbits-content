@@ -1,0 +1,27 @@
+{
+  "packId": "mi8x76rk:isv_glag",
+  "bookId": "mi8x76rk",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰼⰵⱛⱃⱁⰻⰾⰲⰹⰰⰽⱁⰺⰸ ⰿⱀⱑⰲⰾⰴ ⰿⰾⰻⱁⰺⰾⰹ ⰺⰰⰽⰾⰽⰸⱇⰵⱁⰺⰾⰹ ⱀⰵⰴⰰⰺⱆⰸⰸ (ⰼⰰⰽⱃⱁⱆⱀⰸⰿⱂ Ⱆⰾⰻⰻⰵⱆⱂⰸⰾⰽ Ⱂⱅⱀⰵⰵ). Ⰿⰾⰻⰽⱑⰹ ⱂⰵⰺⱁⱂ ⱁⰾⱅⱀⰰⰽⱑⰽ — ⰱⰵⰷ ⱁⰺⱀⰰⱇⰵⰽⰸⰹ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DZkJoX-Fnxc"
+    }
+  ],
+  "revisionNotes": "Ⱄⰸⰺⱆⰹⰰ ⰿⱁⱑⱆⱅⰾⰻⰾⰳⰸⱆⰷⰽⰰ ⰾⱁⰰⰴⰷⰾⰽⰰ w ⱀⰵⰰⰻⰽⱑⱆⱅ ⰴⰾśwⰸⰰⰴⱆⰷⰵⰽⰸⰰⱆⱅ ⰽⰸⰵⰴⰾⰱⰾⱀⱃ ⰸ żⰰłⰾⰱⱑ.",
+  "translationStatus": "machine",
+  "translationSource": "mi8x76rk:isv",
+  "translationSourceVersion": "1.1.0"
+}
