@@ -299,6 +299,12 @@ def validate_translated_content(
         if key not in source_fields:
             continue
         source_value = source_fields[key]
+        if target_locale in DERIVED_SCRIPT_LOCALES:
+            # Derived editions transliterate localized field values into the
+            # target script (Cyrillic/Glagolitic), so values are not expected
+            # to be byte-identical with the ISV-Latin source. Only Pack/Book
+            # identity and fixed IDs are enforced above.
+            continue
         if target_fields.get(key) != source_value:
             errors.append(
                 f"structural metadata '{key}' changed "
@@ -522,10 +528,19 @@ def classify_edition(
                 "unknown_source",
                 "skip",
                 kind,
+                src_locale=src_locale,
                 reason="derived source edition (isv) is missing",
             )
         action = "transliterate" if kind == "derived" else "create"
-        return EditionState(book_id, locale, "missing", action, kind)
+        return EditionState(
+            book_id,
+            locale,
+            "missing",
+            action,
+            kind,
+            src_locale=src_locale,
+            src_version=src_version,
+        )
 
     markdown = md_path.read_text(encoding="utf-8")
     fields = parse_edition_fields(markdown)

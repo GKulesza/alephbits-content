@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto zapuskaje glavnyj konflikt v istoriji Adama?",
+      "answers": [
+        "Premiera novej konsoly Nintendo",
+        "Informacija, že Sony konec delati platy dlja novyh igr od 2028 goda",
+        "Povyšenje cen televizorov",
+        "Zakrytje serverov Steam"
+      ],
+      "correctIndex": 1,
+      "explanation": "To zagolovok o koncu novyh fizičnyh izdanij budi jogo reakciju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začemu fraza o \"otzyvajemoj licenzii\" tak silno dejstvuje na Adama?",
+      "answers": [
+        "Bo on nikogda ne kupal digitalnyje igry",
+        "Bo ona uvědomljaje jogo o razlicy meždu dostupom i faktičeskim sobstvenistvom",
+        "Bo hočet torgovati licenzijami",
+        "Bo kasaetsja tolko filmov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam sъjedinjaje to s riskom poteri dostupa k kuplennomu soderžaniju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoje prvyj konkretnyj rešenje prinjaje Adam po oglašenju Sony?",
+      "answers": [
+        "Prodaje vsě igry na platah",
+        "Anuluje subskripciju PlayStation Plus",
+        "Kupaje dodatnu konsolu",
+        "Perestaje koristati internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "V sekciji o subskripcii vhodi v ustanovki akkounta i otkazuje se."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku širšu stawku vidit Adam po vystuplenjah Ybarry i Mélenchona?",
+      "answers": [
+        "Spor o kolor koročok",
+        "Vopros o prava potrebitelov i budučnost digitalnoj sobstvenosti",
+        "Tolko francuzsku izbornu kampaniju",
+        "Vojnu meždu PC i mobilkami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Od fanočskoj zlosti prehodi k sporu o digitalnoj sobstvenosti i kulture."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto vyražaje viralnyj post Adama na koncu?",
+      "answers": [
+        "Zlost na vsě onlajn igry",
+        "Gotovnost otkazati se ot budučej konsoly, ježeli model sobstvenosti ne se izmeni",
+        "Prosbu o darmovyh igrah od Sony",
+        "Plan otkrytija magazina s platami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piše, že ne kupi PS6, ježeli Sony realizuje etot plan."
+    }
+  ]
+}

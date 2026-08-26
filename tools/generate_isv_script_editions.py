@@ -209,6 +209,8 @@ def should_preserve_line(line: str) -> bool:
         return True
     if stripped.startswith("**URL:**") or stripped.startswith("**Retrieval date:**"):
         return True
+    if stripped.startswith("**Source block:**"):
+        return True
     if stripped.startswith("**Availability:**") or stripped.startswith("**Deprecated:**"):
         return True
     if stripped.startswith("**Cover family:**") or stripped.startswith("**Audience:**"):

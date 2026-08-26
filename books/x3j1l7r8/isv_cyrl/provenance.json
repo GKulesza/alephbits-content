@@ -1,0 +1,27 @@
+{
+  "packId": "x3j1l7r8:isv_cyrl",
+  "bookId": "x3j1l7r8",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанска литература пřеклад полској каноническој редакции (манусцрипт Цоллецтион Тхрее). Повныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "nyvrkSNmtXA"
+    }
+  ],
+  "revisionNotes": "Текст публицыстыцзны о змиание моделу дыстрыбуцји; wымага рęцзнего спраwдзениа сзцзегółów бранżоwыцх и дат комуникатów.",
+  "translationStatus": "machine",
+  "translationSource": "x3j1l7r8:isv",
+  "translationSourceVersion": "1.0.0"
+}

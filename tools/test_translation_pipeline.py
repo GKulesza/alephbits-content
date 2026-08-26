@@ -428,6 +428,52 @@ class DerivedGenerationTests(unittest.TestCase):
         )
         self.assertEqual(violations, [])
 
+    def test_source_block_url_is_preserved_in_derivation(self):
+        import generate_isv_script_editions as isv_tool
+
+        isv_md = pack_markdown("isv", version="1.0.0") + (
+            "**Source block:** 08.07.2026 -> https://www.youtube.com/watch?v=nyvrkSNmtXA  \n"
+        )
+        transformed = isv_tool.transform_pack(isv_md, "isv_cyrl")
+        self.assertIn("https://www.youtube.com/watch?v=nyvrkSNmtXA", transformed)
+        self.assertNotIn("ьоутубе", transformed)
+        patched = tp.patch_translation_metadata(
+            transformed,
+            book_id="test",
+            target_locale="isv_cyrl",
+            source_locale="isv",
+            source_version="1.0.0",
+            status="machine",
+        )
+        violations = tp.validate_translated_content(
+            isv_md,
+            patched,
+            target_locale="isv_cyrl",
+        )
+        self.assertEqual(violations, [])
+
+    def test_derived_structural_transliteration_is_allowed(self):
+        import generate_isv_script_editions as isv_tool
+
+        isv_md = pack_markdown("isv", version="1.0.0") + (
+            "**Historical period:** *(varies — see text)*  \n"
+        )
+        transformed = isv_tool.transform_pack(isv_md, "isv_cyrl")
+        patched = tp.patch_translation_metadata(
+            transformed,
+            book_id="test",
+            target_locale="isv_cyrl",
+            source_locale="isv",
+            source_version="1.0.0",
+            status="machine",
+        )
+        violations = tp.validate_translated_content(
+            isv_md,
+            patched,
+            target_locale="isv_cyrl",
+        )
+        self.assertEqual(violations, [])
+
 
 class DiscoveryAndPlanTests(unittest.TestCase):
     def setUp(self):
