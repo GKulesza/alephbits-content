@@ -5,8 +5,8 @@
 **Pack ID:** b9m80o2r
 **Book ID:** b9m80o2r
 **Legacy Pack ID:** polish_autorytet_na_przepraszam
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Autorytet na przepraszam  
 **Subtitle:** Prawdziwy autorytet rodzica  
@@ -72,6 +72,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -270,9 +271,9 @@ I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała
 
 **Answers:**
 - A) Krzyknie „Znowu?”
-- B) Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności
+- B) Przytula i chwali próbę samodzielności
 - C) Każe iść do pokoju
-- D) Ignoruje
+- D) Ignoruje całą sytuację
 
 **Correct:** B
 **Explanation:** Opisowe wsparcie zamiast strofowania.
@@ -284,9 +285,9 @@ I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała
 
 **Answers:**
 - A) „Jesteś piękna”
-- B) Opisowo: widzi szczegóły, czas pracy, talent do obserwacji
+- B) Opisowo: widzi szczegóły i czas pracy
 - C) „Świetnie” i koniec
-- D) Nie chwali
+- D) Nie chwali wcale
 
 **Correct:** B
 **Explanation:** Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.
@@ -298,7 +299,7 @@ I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała
 
 **Answers:**
 - A) Że syn go nie kocha
-- B) Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”
+- B) Że będzie jak ojciec, który nie przepraszał
 - C) Że straci pracę
 - D) Że wyjadą za granicę
 

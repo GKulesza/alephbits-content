@@ -5,8 +5,8 @@
 **Pack ID:** biawpubl
 **Book ID:** biawpubl
 **Legacy Pack ID:** polish_synchronicznosc
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Synchroniczność  
 **Subtitle:** Fale rynku i lekcja matematyki  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Prose chronology fix; quiz answer wording |
 | 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
 
 ### Editorial history
@@ -221,7 +222,7 @@ Nie wierzył w to. Nie do końca. Ale coś w nim zaczęło się zmieniać.
 
 Przez ostatnie trzy miesiące nie handlował. Tylko obserwował. Czytał. Uczył się. Próbował zrozumieć, że rynek to nie przeciwnik, którego trzeba pokonać, tylko żywy organizm, którego rytm można odczytać. Jak fale. Jak planety. Jak coś, co wymyka się kontroli, ale nie wymyka się zrozumieniu.
 
-Tego ranka, po raz pierwszy od roku, otworzył pozycję.
+Tego ranka, po raz pierwszy od trzech miesięcy, otworzył pozycję.
 
 Nie dużą. Tylko symboliczną – sto złotych. Ale zrobił to świadomie, spokojnie, bez gorączki w oczach.
 
@@ -343,13 +344,13 @@ Wziął głęboki oddech i ruszył w stronę domu.
 
 **Answers:**
 - A) Że to ona zarobiła za niego
-- B) Że to on zaufał sobie — dziękuje
+- B) Że zamknął miesiąc na plusie — i dziękuje
 - C) Że rezygnuje z handlu
 - D) Że przenosi się do Gdańska
 
 **Correct:** B
-**Explanation:** Maria odpowiada: to ty, zaufałeś sobie.
-**Text reference:** Zaufałeś sobie
+**Explanation:** Sebastian pisze: „Dziś po raz pierwszy od roku zamknąłem miesiąc na plusie. Nie wielkim. Ale plusem. Dziękuję.” Maria odpowiada: „To nie ja. To ty. Zaufałeś sobie.”
+**Text reference:** zamknąłem miesiąc na plusie
 
 
 ---

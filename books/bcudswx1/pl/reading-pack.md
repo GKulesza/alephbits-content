@@ -5,8 +5,8 @@
 **Pack ID:** bcudswx1
 **Book ID:** bcudswx1
 **Legacy Pack ID:** polish_poltora_metra
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Półtora metra  
 **Subtitle:** Maszynista, sen i wybór  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question wording |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -250,7 +251,7 @@ I kolejny dzień, w którym mógł zrobić różnicę.
 
 ### Question 3
 
-**Question:** O ile metrów przesunięte byłoby auto, gdyby uderzenie było centralne w przestrzeń dzieci?
+**Question:** O ile metrów dalej musiałaby wyjechać kierująca, żeby pociąg uderzył w przestrzeń, gdzie siedziały dzieci?
 
 **Answers:**
 - A) Pół metra

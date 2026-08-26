@@ -5,8 +5,8 @@
 **Pack ID:** antniqsu
 **Book ID:** antniqsu
 **Legacy Pack ID:** polish_zamowienie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Zamówienie  
 **Subtitle:** L4 w piętnaście minut bez pytań  
@@ -71,6 +71,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — typo/grammar |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -99,7 +100,7 @@
 
 **ZAMÓWIENIE**
 
-Michał zamknął laptopa i wbił wzrok w sufit. Za oknem na 15. piętrze Warszawa rozciągała się szara i zmęczona, jak on sam. Kolejny projekt, kolejny deadline, kolejny tydzień bez snu. Dziś był wtorek, a on już czuł w kościach piątek. Tyle że piątek nie przynosił ulgi – tylko dwie dni na oddech, żeby w poniedziałek znów wsiąść w tę samą karuzelę.
+Michał zamknął laptopa i wbił wzrok w sufit. Za oknem na 15. piętrze Warszawa rozciągała się szara i zmęczona, jak on sam. Kolejny projekt, kolejny deadline, kolejny tydzień bez snu. Dziś był wtorek, a on już czuł w kościach piątek. Tyle że piątek nie przynosił ulgi – tylko dwa dni na oddech, żeby w poniedziałek znów wsiąść w tę samą karuzelę.
 
 W kuchni open space Kasia z Działu Finansowego rozmawiała przez telefon. Głośno. O tym, że nie może wziąć urlopu, bo szefowa nie podpisze. A przecież ma zaległe 18 dni. "To weź L4" – usłyszał Michał czyjś śmiech z drugiego końca pokoju. Ktoś rzucił: "Kupisz sobie w internecie, nie?".
 
@@ -133,7 +134,7 @@ W pracy w poniedziałek wysłał L4 do kadr. Dostał automatyczne potwierdzenie.
 
 Przez cały tydzień spał do południa. Oglądał seriale. Czytał książkę, której nie miał czasu skończyć od roku. Poszedł na spacer do Parku Skaryszewskiego, kiedy pogoda była dobra. Czuł ulgę. Tyle że gdzieś w głowie siedział mu cichy, drażniący dźwięk – jak kontrolka w samochodzie, która świeci, ale nie wiesz, co oznacza.
 
-Czy on jest chory? Nie. Więc oszukał system. Ale nie tylko on. Osukał go lekarz, który wystawił zwolnienie bez badania. Oszukała firma, która z automatu wysyłała zaświadczenia. I wszyscy udawali, że to normalne.
+Czy on jest chory? Nie. Więc oszukał system. Ale nie tylko on. Oszukał go lekarz, który wystawił zwolnienie bez badania. Oszukała firma, która z automatu wysyłała zaświadczenia. I wszyscy udawali, że to normalne.
 
 We wtorek wrócił do myśli, która krążyła od kilku dni. Jego firma płaci mu 80% wynagrodzenia za ten tydzień. To około 2500 złotych netto. Praca stoi. Inni w zespole mają więcej obowiązków. Projekt się opóźnia. Szefowa będzie zdenerwowana.
 

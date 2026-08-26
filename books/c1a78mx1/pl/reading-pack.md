@@ -5,8 +5,8 @@
 **Pack ID:** c1a78mx1
 **Book ID:** c1a78mx1
 **Legacy Pack ID:** polish_glos_i_cisza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Głos i cisza  
 **Subtitle:** Syrenka, która oddała głos za miłość  
@@ -71,6 +71,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -146,7 +147,7 @@ Ale tej nocy nad wodą pojawiły się jej siostry. Obcięły swoje długie włos
 
 – Zabij księcia – powiedziały. – Zanim słońce wzejdzie. Wtedy wrócisz do nas.
 
-Marina wzięła nóż. Wszedł do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
+Marina wzięła nóż. Weszła do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
 
 Cisnęła nożem w fale. Rzuciła ostatnie spojrzenie na księcia i skoczyła w morze.
 

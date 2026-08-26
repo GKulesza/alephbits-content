@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Co Ewa słyszy w podcaście o „wbudowanym skrypcie”?",
       "answers": [
-        "Że ludzie nie kłamią",
-        "Że gdy ktoś oszukuje, pierwsza myśl to „Bóg mnie znalazł”",
+        "Że ludzie nie kłamią nigdy",
+        "Że gdy ktoś oszukuje, myślimy: „Bóg mnie znalazł”",
         "Że małżeństwo jest łatwe",
-        "Że trzeba rozwód"
+        "Że rozwód to jedyne wyjście"
       ],
       "correctIndex": 1,
       "explanation": "Miłosz mówi o skrypcie: oszust = „Bóg mnie znalazł”."
@@ -31,9 +31,9 @@
       "type": "single_choice",
       "question": "Co Ewa myślała, gdy Marek gotował jej ulubione danie?",
       "answers": [
-        "Że jest wdzięczna",
+        "Że jest mu wdzięczna",
         "Że coś przeskrobał i chce przeprosić",
-        "Że jest chory",
+        "Że coś mu dolega",
         "Że kocha ją"
       ],
       "correctIndex": 1,
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Co Ewa pisze siostrze w liście?",
       "answers": [
-        "Że małżeństwo jest idealne",
+        "Że ich małżeństwo jest idealne",
         "Że największym błędem było myślenie, że zna męża na wylot",
         "Że rozwód jest konieczny",
-        "Że podcast nie pomaga"
+        "Że podcast nie pomógł jej wcale"
       ],
       "correctIndex": 1,
       "explanation": "List ostrzega przed myśleniem, że zna męża na wylot."

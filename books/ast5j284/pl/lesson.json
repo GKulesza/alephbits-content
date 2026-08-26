@@ -8,8 +8,8 @@
   "legacySlug": "odpowiedzialnosc",
   "title": "Odpowiedzialność",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-12",
   "description": "Marek Kowalski musi zwolnić Magdę — swoją najlepszą analityczkę — bo „stanowisko jest powtarzalne”. Opowieść o człowieku, który w końcu rezygnuje z wykonywania rozkazów bez myślenia i zakłada firmę na innych zasadach.",
   "author": {
@@ -91,7 +91,7 @@
         "question": "Kogo Marek zatrudnia w swojej nowej firmie?",
         "answers": [
           "Tylko siebie",
-          "Magdę jako główną analityczką",
+          "Magdę jako główną analityczkę",
           "Byłego szefa",
           "Nikogo"
         ],

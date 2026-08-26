@@ -5,8 +5,8 @@
 **Pack ID:** ag1ol73d
 **Book ID:** ag1ol73d
 **Legacy Pack ID:** polish_ikonka_na_pulpicie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Ikonka na pulpicie  
 **Subtitle:** Małżeństwo, ikonka i pytanie zamiast zgadywania  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -286,9 +287,9 @@ Adam wziął ją za rękę.
 
 **Answers:**
 - A) Jak czytanie książki
-- B) Jak kliknięcie ikonki — od razu otwiera plik, który zna
+- B) Jak kliknięcie ikonki — od razu otwiera znany plik
 - C) Jak słuchanie radia
-- D) Jak sen
+- D) Jak sen, który się powtarza
 
 **Correct:** B
 **Explanation:** Mówi o ikonce na pulpicie i pliku znanym z góry.
@@ -300,9 +301,9 @@ Adam wziął ją za rękę.
 
 **Answers:**
 - A) Bo lubi tylko rosół
-- B) Bo czuje się samotna, gdy życie staje się przewidywalne
-- C) Bo Adam kazał
-- D) Bo są goście
+- B) Bo czuje się samotna, gdy życie jest przewidywalne
+- C) Bo Adam jej kazał
+- D) Bo spodziewają się gości
 
 **Correct:** B
 **Explanation:** Przyznaje, że gotuje rosół, gdy czuje samotność i przewidywalność.
@@ -329,8 +330,8 @@ Adam wziął ją za rękę.
 **Answers:**
 - A) Że związki są bez sensu
 - B) Że największym błędem było myślenie, że zna żonę na wylot
-- C) Że terapia nie działa
-- D) Że rozwód jest zły
+- C) Że terapia w ogóle nie działa
+- D) Że rozwód to jedyne wyjście
 
 **Correct:** B
 **Explanation:** Pisze o błędzie myślenia, że zna żonę na wylot.

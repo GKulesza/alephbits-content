@@ -56,12 +56,12 @@
       "question": "Co Sebastian pisze do Marii po pierwszym miesiącu na plusie?",
       "answers": [
         "Że to ona zarobiła za niego",
-        "Że to on zaufał sobie — dziękuje",
+        "Że zamknął miesiąc na plusie — i dziękuje",
         "Że rezygnuje z handlu",
         "Że przenosi się do Gdańska"
       ],
       "correctIndex": 1,
-      "explanation": "Maria odpowiada: to ty, zaufałeś sobie."
+      "explanation": "Sebastian pisze: „Dziś po raz pierwszy od roku zamknąłem miesiąc na plusie. Nie wielkim. Ale plusem. Dziękuję.” Maria odpowiada: „To nie ja. To ty. Zaufałeś sobie.”"
     }
   ]
 }

@@ -8,8 +8,8 @@
   "legacySlug": "betonowy-dom",
   "title": "Betonowy dom",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-12",
   "description": "Anna prowadzi warsztaty o relacjach, a we własnym małżeństwie gra w ukryte gry: „tu cię mam”, „muszę być dzielna”, „gdyby nie ty”. Opowieść o betonowym domu, który chronił ją przed bólem, i o Pawle, który czekał, aż wyjdzie.",
   "author": {
@@ -52,7 +52,7 @@
       },
       {
         "type": "single_choice",
-        "question": "Jakie trzy gry relacyjne Anna wymienia u Pawła?",
+        "question": "Jakie trzy gry relacyjne Anna wymienia w rozmowie z Pawłem?",
         "answers": [
           "Szachy, poker i ruletka",
           "„Tu cię mam”, „muszę być dzielna” i „gdyby nie ty”",

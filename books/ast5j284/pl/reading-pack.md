@@ -5,8 +5,8 @@
 **Pack ID:** ast5j284
 **Book ID:** ast5j284
 **Legacy Pack ID:** polish_odpowiedzialnosc
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Odpowiedzialność  
 **Subtitle:** Zwolnienia, wybór i uczciwa firma  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — grammar in answer option |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -300,7 +301,7 @@ Marek skinął głową. Wiedział, że podjął właściwą decyzję. Nie dlateg
 
 **Answers:**
 - A) Tylko siebie
-- B) Magdę jako główną analityczką
+- B) Magdę jako główną analityczkę
 - C) Byłego szefa
 - D) Nikogo
 

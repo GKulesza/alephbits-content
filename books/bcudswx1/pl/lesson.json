@@ -8,8 +8,8 @@
   "legacySlug": "poltora-metra",
   "title": "Półtora metra",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-12",
   "description": "Paweł Lasowski, maszynista z czterdziestopięcioletnim stażem, śni o człowieku na torach z martwymi oczami. Gdy na przejeździe w Otnicach auto z dziećmi ledwo unika tragedii, rozumie, że nie jest drzewem — ma wybór.",
   "author": {
@@ -64,7 +64,7 @@
       },
       {
         "type": "single_choice",
-        "question": "O ile metrów przesunięte byłoby auto, gdyby uderzenie było centralne w przestrzeń dzieci?",
+        "question": "O ile metrów dalej musiałaby wyjechać kierująca, żeby pociąg uderzył w przestrzeń, gdzie siedziały dzieci?",
         "answers": [
           "Pół metra",
           "Półtora metra",

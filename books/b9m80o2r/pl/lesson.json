@@ -8,8 +8,8 @@
   "legacySlug": "autorytet-na-przepraszam",
   "title": "Autorytet na przepraszam",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Zmęczona Ania i surowy Marek kłócą się o wychowanie. Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.",
   "author": {
@@ -55,9 +55,9 @@
         "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
         "answers": [
           "Krzyknie „Znowu?”",
-          "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
+          "Przytula i chwali próbę samodzielności",
           "Każe iść do pokoju",
-          "Ignoruje"
+          "Ignoruje całą sytuację"
         ],
         "correctIndex": 1,
         "explanation": "Opisowe wsparcie zamiast strofowania."
@@ -67,9 +67,9 @@
         "question": "Jak Marek chwali rysunek Marysi?",
         "answers": [
           "„Jesteś piękna”",
-          "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
+          "Opisowo: widzi szczegóły i czas pracy",
           "„Świetnie” i koniec",
-          "Nie chwali"
+          "Nie chwali wcale"
         ],
         "correctIndex": 1,
         "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
@@ -79,7 +79,7 @@
         "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
         "answers": [
           "Że syn go nie kocha",
-          "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
+          "Że będzie jak ojciec, który nie przepraszał",
           "Że straci pracę",
           "Że wyjadą za granicę"
         ],

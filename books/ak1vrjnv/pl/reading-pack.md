@@ -5,8 +5,8 @@
 **Pack ID:** ak1vrjnv
 **Book ID:** ak1vrjnv
 **Legacy Pack ID:** polish_betonowy_dom
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Betonowy dom  
 **Subtitle:** Gry relacyjne i betonowe ściany  
@@ -62,6 +62,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question wording |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -309,7 +310,7 @@ Nie dlatego, że wygrała. Ale dlatego, że przestała w nią grać.
 
 ### Question 2
 
-**Question:** Jakie trzy gry relacyjne Anna wymienia u Pawła?
+**Question:** Jakie trzy gry relacyjne Anna wymienia w rozmowie z Pawłem?
 
 **Answers:**
 - A) Szachy, poker i ruletka

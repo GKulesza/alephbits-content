@@ -5,8 +5,8 @@
 **Pack ID:** bhqlqcg1
 **Book ID:** bhqlqcg1
 **Legacy Pack ID:** polish_froteryzm_intelektualny
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Froteryzm intelektualny  
 **Subtitle:** 25 lat małżeństwa i czytanie intencji  
@@ -63,6 +63,8 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (gender agreement) |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -204,7 +206,7 @@ A to, co ich łączyło, to nie była wiedza o sobie nawzajem. To była gotowoś
 
 Pewnego wieczoru, gdy siedzieli na kanapie, Marek powiedział:
 
-— Wiesz, myślałem o tym, co powiedziałaś wtedy, gdy to wszystko się zaczęło. Że przestaliśmy się słuchać. I chyba miałam rację. Ale teraz myślę, że to nie jest koniec. To jest początek.
+— Wiesz, myślałem o tym, co powiedziałaś wtedy, gdy to wszystko się zaczęło. Że przestaliśmy się słuchać. I chyba miałaś rację. Ale teraz myślę, że to nie jest koniec. To jest początek.
 
 Ewa spojrzała na niego.
 
@@ -263,10 +265,10 @@ Ewa uśmiechnęła się do telefonu.
 **Question:** Co Ewa słyszy w podcaście o „wbudowanym skrypcie”?
 
 **Answers:**
-- A) Że ludzie nie kłamią
-- B) Że gdy ktoś oszukuje, pierwsza myśl to „Bóg mnie znalazł”
+- A) Że ludzie nie kłamią nigdy
+- B) Że gdy ktoś oszukuje, myślimy: „Bóg mnie znalazł”
 - C) Że małżeństwo jest łatwe
-- D) Że trzeba rozwód
+- D) Że rozwód to jedyne wyjście
 
 **Correct:** B
 **Explanation:** Miłosz mówi o skrypcie: oszust = „Bóg mnie znalazł”.
@@ -277,9 +279,9 @@ Ewa uśmiechnęła się do telefonu.
 **Question:** Co Ewa myślała, gdy Marek gotował jej ulubione danie?
 
 **Answers:**
-- A) Że jest wdzięczna
+- A) Że jest mu wdzięczna
 - B) Że coś przeskrobał i chce przeprosić
-- C) Że jest chory
+- C) Że coś mu dolega
 - D) Że kocha ją
 
 **Correct:** B
@@ -305,10 +307,10 @@ Ewa uśmiechnęła się do telefonu.
 **Question:** Co Ewa pisze siostrze w liście?
 
 **Answers:**
-- A) Że małżeństwo jest idealne
+- A) Że ich małżeństwo jest idealne
 - B) Że największym błędem było myślenie, że zna męża na wylot
 - C) Że rozwód jest konieczny
-- D) Że podcast nie pomaga
+- D) Że podcast nie pomógł jej wcale
 
 **Correct:** B
 **Explanation:** List ostrzega przed myśleniem, że zna męża na wylot.

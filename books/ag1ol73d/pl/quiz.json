@@ -20,9 +20,9 @@
       "question": "Jak Adam opisuje myślenie o żonie?",
       "answers": [
         "Jak czytanie książki",
-        "Jak kliknięcie ikonki — od razu otwiera plik, który zna",
+        "Jak kliknięcie ikonki — od razu otwiera znany plik",
         "Jak słuchanie radia",
-        "Jak sen"
+        "Jak sen, który się powtarza"
       ],
       "correctIndex": 1,
       "explanation": "Mówi o ikonce na pulpicie i pliku znanym z góry."
@@ -32,9 +32,9 @@
       "question": "Dlaczego Magda gotuje rosół?",
       "answers": [
         "Bo lubi tylko rosół",
-        "Bo czuje się samotna, gdy życie staje się przewidywalne",
-        "Bo Adam kazał",
-        "Bo są goście"
+        "Bo czuje się samotna, gdy życie jest przewidywalne",
+        "Bo Adam jej kazał",
+        "Bo spodziewają się gości"
       ],
       "correctIndex": 1,
       "explanation": "Przyznaje, że gotuje rosół, gdy czuje samotność i przewidywalność."
@@ -57,8 +57,8 @@
       "answers": [
         "Że związki są bez sensu",
         "Że największym błędem było myślenie, że zna żonę na wylot",
-        "Że terapia nie działa",
-        "Że rozwód jest zły"
+        "Że terapia w ogóle nie działa",
+        "Że rozwód to jedyne wyjście"
       ],
       "correctIndex": 1,
       "explanation": "Pisze o błędzie myślenia, że zna żonę na wylot."

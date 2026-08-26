@@ -5,8 +5,8 @@
 **Pack ID:** b8dwoecb
 **Book ID:** b8dwoecb
 **Legacy Pack ID:** polish_kamera_na_ulicy
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Kamera na ulicy  
 **Subtitle:** Zbrodnia, kamera i chłód  
@@ -58,6 +58,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar |
 | 1.0.0 | 2026-07-10 | Collection Four migration |
 
 ---
@@ -135,7 +136,7 @@ Odwróciła się i spojrzała na niego. W jej oczach było coś, czego Tom nie w
 
 — Nie przerywaj mi. Chciałam ci sama powiedzieć. Przygotowywałam się na to od tygodni.
 
-Tom podszedł do niej i usiadł na kanapie. Czuł, jak podłoga usuwa mu się spod nóg, jakby całe życie, które zbudowali, było tylko papierowym domkiem, który zaraz rozwieję wiatr.
+Tom podszedł do niej i usiadł na kanapie. Czuł, jak podłoga usuwa mu się spod nóg, jakby całe życie, które zbudowali, było tylko papierowym domkiem, który zaraz rozwieje wiatr.
 
 — Mówiłem ci, że jeśli coś jest nie tak, mamy to rozwiązać razem — powiedział cicho.
 
