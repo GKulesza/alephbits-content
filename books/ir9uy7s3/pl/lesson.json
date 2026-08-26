@@ -8,8 +8,8 @@
   "legacySlug": "taniec",
   "title": "Taniec",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-12",
   "description": "Mai w Sztokholmie odkrywa na nowo taniec Hmong, gdy pada system płatniczy, a jedyną walutą zostaje gotówka w szufladzie. Opowieść o korzeniach, które można nosić w sobie — niezależnie od tego, gdzie się mieszka.",
   "author": {
@@ -43,7 +43,7 @@
         "question": "Skąd pochodzi Mai?",
         "answers": [
           "Z Polski",
-          "Z północnego Wietnamu — rodzina wyemigrowała do Szwecji",
+          "Z północnego Wietnamu",
           "Z Chin",
           "Z Japonii"
         ],
@@ -55,7 +55,7 @@
         "question": "Co sprawia, że Mai wraca do tańca?",
         "answers": [
           "Nagroda w konkursie",
-          "Filmik z dziewczynami w strojach Hmong i wspomnienie korzeni",
+          "Filmik z tańcem Hmong",
           "Presja rodziny",
           "Wymóg szkoły"
         ],
@@ -67,7 +67,7 @@
         "question": "Co Mai mówi Ani o domu?",
         "answers": [
           "Dom to adres",
-          "Dom to uczucie — można je znaleźć wszędzie, jeśli pozwolisz sobie tańczyć",
+          "Dom to uczucie, nie miejsce",
           "Dom to tylko Wietnam",
           "Dom nie istnieje"
         ],
@@ -79,7 +79,7 @@
         "question": "Co Mai mówi uczniom o tańcu?",
         "answers": [
           "Że to sport",
-          "Że taniec to rozmowa z przodkami i sposób pamiętania, kim jesteśmy",
+          "Że taniec to rozmowa z przodkami",
           "Że to moda",
           "Że to tylko ruch"
         ],
@@ -91,7 +91,7 @@
         "question": "Co Mai trzyma w dłoni w epilogu?",
         "answers": [
           "Telefon",
-          "Banknot sto koron, który uratował ją przy awarii płatności",
+          "Banknot sto koron",
           "List",
           "Bilet lotniczy"
         ],

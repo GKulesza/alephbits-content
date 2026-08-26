@@ -5,8 +5,8 @@
 **Pack ID:** fijoyjne
 **Book ID:** fijoyjne
 **Legacy Pack ID:** polish_jak_bor_z_jasnego_nieba
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Jak Bor z jasnego nieba  
 **Subtitle:** Rozmowa o jednostce BOR  
@@ -62,6 +62,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.1.0 | 2026-08-26 | Polish prose correction (title formatting, dialogue capitalization) and quiz correction (Q4 wording) |
 
 ---
 ## Sources
@@ -79,7 +80,7 @@
 ---
 ## Text
 
-** Jak Bor z jasnego nieba **
+**Jak Bor z jasnego nieba**
 
 SĄ RZECZY W JEDNOSTCE, O KTÓRYCH NIGDY NIE BĘDĘ MÓGŁ POWIEDZIEĆ
 
@@ -210,7 +211,7 @@ Opowiedział o rozmowie z psycholog, która powiedziała mu, że jego mózg wypa
 
 Rozmowa dobiegała końca. Piotr podziękował Żukowi za jego historie.
 
-– Dziękuję ci bardzo za dzisiaj – powiedział. – bądź z nami jak najdłużej. I mam nadzieję, że to nie jest nasza ostatnia rozmowa.
+– Dziękuję ci bardzo za dzisiaj – powiedział. – Bądź z nami jak najdłużej. I mam nadzieję, że to nie jest nasza ostatnia rozmowa.
 
 – Jak najbardziej – odpowiedział Żuk. – Chciałbym jeszcze odwiedzić szkoły. Mam pomysł, żeby ściągnąć 1000 uczniów do Muzeum Powstania Warszawskiego. Mam już sponsora na autobusy. Chciałbym, żeby młodzież wiedziała, co to znaczy służyć.
 
@@ -274,7 +275,7 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 
 ### Question 4
 
-**Question:** Jak nazywają się prowadzący podcast?
+**Question:** Jak nazywają się rozmówcy w podcaście?
 
 **Answers:**
 - A) Piotr i Marcin
@@ -283,7 +284,7 @@ Wyszedł z uśmiechem, jakim przyszedł. A Piotr został w studiu, patrząc w dr
 - D) Kasia i Ania
 
 **Correct:** A
-**Explanation:** Piotr i Marcin rozmawiają z Żukiem.
+**Explanation:** W studiu rozmawiają prowadzący Piotr i gość Marcin „Żuk” Kowalczyk.
 **Text reference:** Piotr i Marcin
 
 ### Question 5

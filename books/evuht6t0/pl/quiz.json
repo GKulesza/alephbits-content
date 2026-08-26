@@ -44,12 +44,12 @@
       "question": "Jaką decyzję podejmuje Tadeusz pod koniec opowieści?",
       "answers": [
         "Niszczy wszystkie dowody i milczy",
-        "Publikuje krótki apel o pamięć i mówienie prawdy",
+        "Nie wycofuje się — przyjmuje wsparcie i kontynuuje walkę o prawdę",
         "Wyjeżdża do córki za granicę",
         "Wraca do pracy na dyżurach nocnych"
       ],
       "correctIndex": 1,
-      "explanation": "Kończy pracę krótkim tekstem o pamiętaniu i byciu głosem tych, którzy go stracili."
+      "explanation": "Przyjmuje od pielęgniarek pieniądze na adwokata i wie, że przed nim długa droga."
     },
     {
       "type": "single_choice",

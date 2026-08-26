@@ -5,8 +5,8 @@
 **Pack ID:** e6va05g1
 **Book ID:** e6va05g1
 **Legacy Pack ID:** polish_klucz_do_deszczowej_krainy
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Klucz do deszczowej krainy  
 **Subtitle:** Zosia, babcia i zamek Kropei  
@@ -74,6 +74,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Polish prose correction (object consistency, grammar) and quiz correction (answer option grammar) |
 
 ### Editorial history
 
@@ -152,7 +153,7 @@ _Kap, kap, kap, otwórz proszę drzwi, do Królowej Deszczu bliżej będzie mi._
 
 Drzwi domku otworzyły się z cichym skrzypnięciem, a Zosia weszła do środka.
 
-W środku było ciepło i przytulnie. Na półkach stały słoiki pełne miodu, a na stole leżały pachnące chleb i ser. W kącie pokoju stała starsza pani w okularach, która mieszała coś w wielkim garnku.
+W środku było ciepło i przytulnie. Na półkach stały słoiki pełne miodu, a na stole leżały pachnący chleb i ser. W kącie pokoju stała starsza pani w okularach, która mieszała coś w wielkim garnku.
 
 – Dzień dobry, moje dziecko! – powiedziała. – Czuję, że przynosisz mi zapach lasu. Czy jesteś gotowa na zagadkę?
 
@@ -224,7 +225,7 @@ Gdy Zosia wróciła do domu, babcia czekała na nią z otwartymi ramionami.
 
 – Udało ci się, moja kochana! – powiedziała, tuląc wnuczkę.
 
-Zosia wręczyła babci naszyjnik i cymbałki, opowiedziała o motylku i o pięknej kobiecie z harfą. Babcia zaśmiała się cicho.
+Zosia wręczyła babci naszyjnik i flet, opowiedziała o motylku i o pięknej kobiecie z harfą. Babcia zaśmiała się cicho.
 
 – Widzisz, Zosiu – powiedziała. – Świat jest pełen magii, jeśli tylko umiemy go dostrzec. A ty, moja droga, masz w sobie największą magię – dobre serce.
 
@@ -251,7 +252,7 @@ I wiedziała, że gdy tylko zechce, zaczarowane krainy znów staną przed nią o
 **Answers:**
 - A) Siedem
 - B) Dziewięć
-- C) Jedenastu
+- C) Jedenaście
 - D) Dwanaście
 
 **Correct:** B

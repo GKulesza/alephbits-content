@@ -41,7 +41,7 @@
     },
     {
       "type": "single_choice",
-      "question": "Jak nazywają się prowadzący podcast?",
+      "question": "Jak nazywają się rozmówcy w podcaście?",
       "answers": [
         "Piotr i Marcin",
         "Adam i Jan",
@@ -49,7 +49,7 @@
         "Kasia i Ania"
       ],
       "correctIndex": 0,
-      "explanation": "Piotr i Marcin rozmawiają z Żukiem."
+      "explanation": "W studiu rozmawiają prowadzący Piotr i gość Marcin „Żuk” Kowalczyk."
     },
     {
       "type": "single_choice",

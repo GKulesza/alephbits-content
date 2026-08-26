@@ -5,8 +5,8 @@
 **Pack ID:** hbrpoig8
 **Book ID:** hbrpoig8
 **Legacy Pack ID:** polish_98_procent
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** 98%  
 **Subtitle:** Geniusze, które szkoła gasi  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
 
 ### Editorial history
 
@@ -283,7 +284,7 @@ Bo dzieci nie mają czasu czekać.
 
 **Answers:**
 - A) Przez kserówkę i test
-- B) Przez ruch — siedmioro dzieci chodzi po sali i przekazuje sobie dni
+- B) Przez ruch — dzieci przekazują sobie dni tygodnia
 - C) Tylko przez piosenkę z YouTube
 - D) Przez karę za błędy
 
@@ -297,7 +298,7 @@ Bo dzieci nie mają czasu czekać.
 
 **Answers:**
 - A) Że dyrektor go chwali
-- B) Że wie, że ma sens, ale system nie pozwala — program, sprawdziany, strach przed zwolnieniem
+- B) Że ma sens, ale system na to nie pozwala
 - C) Że rodzice protestują
 - D) Że zmienią podstawę programową jutro
 

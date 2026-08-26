@@ -5,8 +5,8 @@
 **Pack ID:** gfygwwqc
 **Book ID:** gfygwwqc
 **Legacy Pack ID:** polish_blitzkrieg
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Blitzkrieg  
 **Subtitle:** Randki, czerwone flagi i strach przed pustką  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Polish prose correction — authorship inconsistency; quiz correction — answer lengths and typo |
 
 ### Editorial history
 
@@ -144,7 +145,7 @@ Ola spojrzała na nią ze zdumieniem.
 
 — Co?
 
-— Czytałam twoją książkę — powiedziała Magda. — O II wojnie światowej. Pamiętam ten fragment, gdzie piszesz, że III Rzesza bała się nie wojny, ale pokoju. Że system opierał się na nieustannej ekspansji, a zatrzymanie oznaczało katastrofę. — Przerwała i spojrzała Oli prosto w oczy. — Czy to nie jest dokładnie to, co robisz? Każda randka to dla ciebie nowa kampania, nowy podbój. A ty boisz się, że jeśli przestaniesz, zmierzysz się z pustką.
+— Wspominałaś, że oglądałaś wykład o II wojnie światowej — powiedziała Magda. — Pamiętam ten fragment, gdzie mówili, że III Rzesza bała się nie wojny, ale pokoju. Że system opierał się na nieustannej ekspansji, a zatrzymanie oznaczało katastrofę. — Przerwała i spojrzała Oli prosto w oczy. — Czy to nie jest dokładnie to, co robisz? Każda randka to dla ciebie nowa kampania, nowy podbój. A ty boisz się, że jeśli przestaniesz, zmierzysz się z pustką.
 
 Ola poczuła, że robi jej się zimno.
 
@@ -241,7 +242,7 @@ Kilka miesięcy później Ola prowadziła warsztaty o randkowaniu dla kobiet, kt
 
 — Pamiętajcie — mówiła do sali pełnej kobiet — że pierwsza randka dużo pokazuje. Ale tylko wtedy, gdy jesteście gotowi to zobaczyć. Jeśli nie jesteście, to zobaczycie tylko to, co chcecie zobaczyć. A to jest największa pułapka.
 
-Spojrzała na swoją książkę, która leżała na podium – "Na pierwszej randce widać wszystko". Uśmiechnęła się.
+Spojrzała na książkę, która leżała na podium – "Na pierwszej randce widać wszystko". Uśmiechnęła się.
 
 — Ja przez dziesięć lat nie widziałam nic. A potem zobaczyłam wszystko.
 
@@ -282,12 +283,12 @@ Za oknem świeciło słońce. I wszystko było w porządku.
 
 **Answers:**
 - A) Że pierwsza randka nic nie pokazuje
-- B) Że jeśli słyszysz, że wszystkie byłe były złe, będziesz kolejną złą
+- B) Że będzie kolejną złą
 - C) Że trzeba szukać idealnego partnera
 - D) Że randki są stratą czasu
 
 **Correct:** B
-**Explanation:** Czyta zdanie o byłych, którzy „byli zli”.
+**Explanation:** Czyta zdanie o byłych, którzy „byli źli”.
 **Text reference:** wszystkie byłe były złe
 
 ### Question 3
@@ -296,7 +297,7 @@ Za oknem świeciło słońce. I wszystko było w porządku.
 
 **Answers:**
 - A) Do pokoju po wojnie
-- B) Do III Rzeszy bojącej się pokoju i ciągłej ekspansji
+- B) Do III Rzeszy, która bała się pokoju
 - C) Do dyplomacji
 - D) Do związku małżeńskiego
 
@@ -310,9 +311,9 @@ Za oknem świeciło słońce. I wszystko było w porządku.
 
 **Answers:**
 - A) Że wszystkie były złe
-- B) Że z jedną się nie dogaduje, ale z matką dziecka ma kontakt
+- B) Że z jedną się nie dogaduje, a z drugą ma dobry kontakt
 - C) Że nigdy nie miał związków
-- D) Że winne są wyłącznie on
+- D) Że to wyłącznie one były winne
 
 **Correct:** B
 **Explanation:** Tomasz mówi, że nie wszyscy ex są źli — byli źli dla siebie nawzajem.
@@ -324,7 +325,7 @@ Za oknem świeciło słońce. I wszystko było w porządku.
 
 **Answers:**
 - A) Że randki są bez sensu
-- B) Że najlepsze związki powstają, gdy przestajesz szukać ideału
+- B) Że trzeba szukać człowieka, nie ideału
 - C) Że Tomasz jest idealny
 - D) Że terapia nie pomaga
 

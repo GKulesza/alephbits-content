@@ -5,8 +5,8 @@
 **Pack ID:** gbtyzmep
 **Book ID:** gbtyzmep
 **Legacy Pack ID:** polish_kij_i_marchewka
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Kij i marchewka  
 **Subtitle:** Bez kar i nagród — tylko relacja  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — Tymon age inconsistency (cztery lata → trzy lata) |
 
 ### Editorial history
 
@@ -147,7 +148,7 @@ Znajomy patrzył na nią, jakby właśnie odkryła koło na nowo.
 ---
 Najtrudniejsze było dla Magdy nie karanie, gdy coś poszło nie tak.
 
-Pamiętała, jak Tymon, mając cztery lata, rozlał sok na świeżo wyprany dywan. Jej pierwszym odruchem był krzyk: "Co ty zrobiłeś?!" A potem, już po chwili, zobaczyła przerażone oczy swojego dziecka. Zobaczyła, jak kurczy się w sobie, oczekując kary.
+Pamiętała, jak Tymon, mając trzy lata, rozlał sok na świeżo wyprany dywan. Jej pierwszym odruchem był krzyk: "Co ty zrobiłeś?!" A potem, już po chwili, zobaczyła przerażone oczy swojego dziecka. Zobaczyła, jak kurczy się w sobie, oczekując kary.
 
 Zamiast krzyczeć, Magda wzięła głęboki oddech.
 

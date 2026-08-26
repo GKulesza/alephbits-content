@@ -5,8 +5,8 @@
 **Pack ID:** ha51liy8
 **Book ID:** ha51liy8
 **Legacy Pack ID:** polish_zasady
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Zasady  
 **Subtitle:** List o decyzjach bez wymówek  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — stray formatting, missing comma |
 
 ---
 ## Sources
@@ -103,7 +104,7 @@ Tego wieczoru Łukasz postanowił coś zmienić. Usiadł przy biurku, wyjął cz
 
 Przypomniał sobie, co Paweł pisał dalej:
 
-_"Jedną z najlepszych rzeczy jakie zrobiłem kiedykolwiek dla siebie i swojej produktywności było wypisanie sobie listy zasad, których mam się w życiu trzymać. To prosty dokument, który eliminuje konieczność podejmowania często trudnych decyzji."_
+_"Jedną z najlepszych rzeczy, jakie zrobiłem kiedykolwiek dla siebie i swojej produktywności było wypisanie sobie listy zasad, których mam się w życiu trzymać. To prosty dokument, który eliminuje konieczność podejmowania często trudnych decyzji."_
 
 Łukasz zaczął pisać.
 
@@ -155,8 +156,6 @@ I to wystarczyło, żeby zacząć.
 
 
 **KONIEC**
-
-##
 
 ---
 ## Quiz

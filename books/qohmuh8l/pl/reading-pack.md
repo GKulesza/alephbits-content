@@ -5,8 +5,8 @@
 **Pack ID:** qohmuh8l
 **Book ID:** qohmuh8l
 **Legacy Pack ID:** polish_kubek
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Kubek  
 **Subtitle:** Matka, syn i obecność  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (nastolatek; podmiot zdania) |
 
 ---
 ## Sources
@@ -136,7 +137,7 @@ Wojtek wzruszył ramionami.
 
 — To nie znaczy, że ja muszę.
 
-Nastolatka przez chwilę milczał.
+Nastolatek przez chwilę milczał.
 
 — Możesz spróbować — powiedział w końcu. — Ale nie licz, że od razu mi zaufam.
 
@@ -164,7 +165,7 @@ Najbardziej uderzyło ją zdanie, które Kasia powiedziała pod koniec:
 
 W drodze do domu Ewa myślała o tym, co usłyszała. O tym, jak często reaguje, zamiast odpowiadać. Jak często mówi "nie" zanim usłyszy, o co chodzi. Jak często jej własne emocje przesłaniają jej to, co naprawdę ważne.
 
-Weszła do domu. Wojtek siedział w salonie, wpatrzony w ekran telefonu. Podniosła wzrok, gdy usłyszała drzwi.
+Weszła do domu. Wojtek siedział w salonie, wpatrzony w ekran telefonu. Podniósł wzrok, gdy usłyszał drzwi.
 
 — I jak? — zapytał.
 

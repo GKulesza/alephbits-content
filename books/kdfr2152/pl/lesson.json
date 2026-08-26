@@ -8,8 +8,8 @@
   "legacySlug": "wyraz-ktorego-nie-ma",
   "title": "Wyraz, którego nie ma",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-10",
   "description": "Kasia nie rezygnuje z nauki czytania u córki Ali, choć początki są trudne i pełne oporu. Szuka słów, które dotrą do dziecka, a nie tylko spełnią program. Opowieść o rodzicielskiej upartości, wstydzie i małych przełomach, które nie przychodzą w jeden dzień.",
   "author": {
@@ -79,7 +79,7 @@
         "question": "Co Kasia robi, by skierować uwagę córki na litery?",
         "answers": [
           "Wyłącza światło",
-          "Dotyka palcem brody Aliny, by skierować wzrok",
+          "Dotyka palcem brody Ali, by skierować wzrok",
           "Daje jej cukierka",
           "Włącza telewizor"
         ],
@@ -106,7 +106,7 @@
   "trustClassification": "fiction",
   "editorialHistory": {
     "firstPublished": "2026-07-10",
-    "lastEditorialUpdate": "2026-07-10"
+    "lastEditorialUpdate": "2026-08-26"
   },
   "inspirationDates": [
     "2026-06-14"

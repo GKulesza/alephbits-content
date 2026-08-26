@@ -5,8 +5,8 @@
 **Pack ID:** hzbuk3xf
 **Book ID:** hzbuk3xf
 **Legacy Pack ID:** polish_zloto_i_zwykle_szczescie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Złoto i zwykłe szczęście  
 **Subtitle:** Legenda o złotej kaczce i szewczyku Lutku  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (jedząc obiad) |
 
 ### Editorial history
 
@@ -145,7 +146,7 @@ Rano, gdy obudził się w swoim nędznym pokoiku nad warsztatem, miał już plan
 
 Wszyscy patrzyli na niego z zachwytem. "Szewczyk milioner!" – szeptano na ulicach. Lutek czuł się jak pan, książę, król. Ale gdy po południu spojrzał do sakiewki, okazało się, że pieniędzy wciąż jest mnóstwo.
 
-– Jak tu wydać sto dukatów w jeden dzień? – zastanawiał się, jadąc wykwintny obiad w najlepszej restauracji w mieście. Zamawiał najdroższe potrawy, trunki, cygara – a sakiewka wciąż była prawie pełna.
+– Jak tu wydać sto dukatów w jeden dzień? – zastanawiał się, jedząc wykwintny obiad w najlepszej restauracji w mieście. Zamawiał najdroższe potrawy, trunki, cygara – a sakiewka wciąż była prawie pełna.
 
 Zaczął grać w karty, potem w ruletkę, przegrywał i wygrywał na przemian, ale sakiewka jakby mu ubywała. Wieczór zbliżał się wielkimi krokami, a Lutek czuł, jak narasta w nim panika. Co jeśli nie uda mu się wydać tych pieniędzy? Co jeśli straci szansę na bogactwo?
 

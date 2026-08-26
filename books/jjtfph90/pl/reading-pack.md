@@ -5,8 +5,8 @@
 **Pack ID:** jjtfph90
 **Book ID:** jjtfph90
 **Legacy Pack ID:** polish_martwe_oczy
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Martwe oczy  
 **Subtitle:** Urok, pustka i intuicja  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — closed open emphasis in memory fragment |
 
 ### Editorial history
 
@@ -109,7 +110,7 @@ Karol leżał na boku, oparty na łokciu, i patrzył na nią. Uśmiechał się. 
 
 Kasia próbowała się uśmiechnąć, ale nie mogła. W jej głowie pojawiło się wspomnienie sprzed tygodnia, kiedy jej przyjaciółka, psycholożka, ostrzegała ją:
 
-*"Uważaj na facetów, którzy są zbyt idealni. Zbyt szybko mówią o miłości. Zbyt szybko chcą cię poznać. Zbyt szybko..."
+*"Uważaj na facetów, którzy są zbyt idealni. Zbyt szybko mówią o miłości. Zbyt szybko chcą cię poznać. Zbyt szybko..."*
 
 — Muszę iść do toalety — powiedziała, wstając z łóżka.
 

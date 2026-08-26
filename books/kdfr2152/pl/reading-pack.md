@@ -5,8 +5,8 @@
 **Pack ID:** kdfr2152
 **Book ID:** kdfr2152
 **Legacy Pack ID:** polish_wyraz_ktorego_nie_ma
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Wyraz, którego nie ma  
 **Subtitle:** Nauka czytania i cierpliwość  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Quiz correction — character name in answer option |
 
 ---
 ## Sources
@@ -422,7 +423,7 @@ I to było najważniejsze.
 
 **Answers:**
 - A) Wyłącza światło
-- B) Dotyka palcem brody Aliny, by skierować wzrok
+- B) Dotyka palcem brody Ali, by skierować wzrok
 - C) Daje jej cukierka
 - D) Włącza telewizor
 

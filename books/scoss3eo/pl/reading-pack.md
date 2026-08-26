@@ -5,8 +5,8 @@
 **Pack ID:** scoss3eo
 **Book ID:** scoss3eo
 **Legacy Pack ID:** polish_na_dworcu
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Na dworcu  
 **Subtitle:** Spotkanie na peronie  
@@ -50,6 +50,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (Węgrzy, Czesi i Słowacy) |
 
 ## Sources
 
@@ -116,7 +117,7 @@ Może dlatego w komentarzach bronił Poznania. Nie dlatego, że był najlepszy. 
 
 ---
 
-Wrócił na peron. Pociąg już czekał. Wsiadł, znalazł miejsce przy oknie, wyjął słuchawki. Przed nim, na siedzeniu, leżała gazeta – ktoś ją zostawił. Na pierwszej stronie: "Nowy Targ – największy targ w Polsce. Przyjeżdżają Węgrzy, Czechy, Słowacja. Kaszmir za 270 złotych."
+Wrócił na peron. Pociąg już czekał. Wsiadł, znalazł miejsce przy oknie, wyjął słuchawki. Przed nim, na siedzeniu, leżała gazeta – ktoś ją zostawił. Na pierwszej stronie: "Nowy Targ – największy targ w Polsce. Przyjeżdżają Węgrzy, Czesi i Słowacy. Kaszmir za 270 złotych."
 
 Marek uśmiechnął się. Targ. Kaszmir. Węgrzy. Ale to była inna historia. Dziś – tylko dworzec.
 

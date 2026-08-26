@@ -5,8 +5,8 @@
 **Pack ID:** hgp8iy3x
 **Book ID:** hgp8iy3x
 **Legacy Pack ID:** polish_demo_lesson
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Spacer po Krakowie  
 **Subtitle:** Pierwsza lekcja — spacer po Krakowie
@@ -61,6 +61,7 @@
 |---------|------|------|
 | 1.0.0 | 2026-07-06 | Initial official release |
 | 1.0.0 | 2026-07-07 | Migrated to reading-pack.md (Phase 23) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (grali na skrzypcach) |
 
 ---
 ## Sources
@@ -97,7 +98,7 @@ Na Małym Rynku zatrzymałem się przy studni. Woda w niej była ciemna i spokoj
 
 Potem skręciłem w boczną uliczkę i zobaczyłem małą kawiarnię. Zapach świeżej kawy mieszał się z aromatem pieczonego chleba. Kupiłem bułkę i jadłem ją powoli, patrząc na przechodniów.
 
-W drodze do Plant usłyszałem grajków. Grały na skrzypcach starą melodię, którą znałem z dzieciństwa. Ludzie zatrzymywali się, uśmiechali i wrzucali drobne monety do otwartej walizki.
+W drodze do Plant usłyszałem grajków. Grali na skrzypcach starą melodię, którą znałem z dzieciństwa. Ludzie zatrzymywali się, uśmiechali i wrzucali drobne monety do otwartej walizki.
 
 Za murami miasta poszedłem w stronę Wisły. Rzeka płynęła spokojnie, niosąc odbicia chmur i mostów. Łodzie cumowały przy nabrzeżu, a wiatr poruszał flagi na masztach.
 

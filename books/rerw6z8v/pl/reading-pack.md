@@ -5,8 +5,8 @@
 **Pack ID:** rerw6z8v
 **Book ID:** rerw6z8v
 **Legacy Pack ID:** polish_franek_i_maly_karolek
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Franek i mały Karolek  
 **Subtitle:** Urwis, który został bratem  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — verb form (chowa) |
 
 ### Editorial history
 
@@ -174,7 +175,7 @@ W kamienicy wszyscy byli zdumieni. Pani Gienia nie mogła uwierzyć, że to ten 
 ---
 Pewnego dnia, podczas spaceru w parku, Franek pchał wózek z Karolkiem i opowiadał mu o wszystkim, co widzieli dookoła.
 
-– Widzisz, Karolku, to jest wiewiórka. Zbiera orzeszki na zimę. Chowaj je w dziupli, ale często zapomina, gdzie je schowała. Wtedy z orzeszków wyrastają nowe drzewa. To takie mądre, prawda?
+– Widzisz, Karolku, to jest wiewiórka. Zbiera orzeszki na zimę. Chowa je w dziupli, ale często zapomina, gdzie je schowała. Wtedy z orzeszków wyrastają nowe drzewa. To takie mądre, prawda?
 
 Karolek wyciągnął rączkę i wskazał na liść, który spadł z drzewa.
 

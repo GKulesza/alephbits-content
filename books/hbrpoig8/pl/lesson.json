@@ -8,8 +8,8 @@
   "legacySlug": "98-procent",
   "title": "98%",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Tomasz od dwóch dekad widzi, jak dzieci przychodzą do szkoły z płonącymi oczami, a wychodzą z wygaszonymi. Cytuje badania George'a Landa: 98% pięciolatków to geniusze kreatywności, 2% dorosłych. Opowieść o przedszkolu w Kopytkowie, piramidzie Maslowa i systemie, który gasi skrzydła.",
   "author": {
@@ -80,7 +80,7 @@
         "question": "Jak Tomasz uczy dzieci dni tygodnia w Kopytkowie?",
         "answers": [
           "Przez kserówkę i test",
-          "Przez ruch — siedmioro dzieci chodzi po sali i przekazuje sobie dni",
+          "Przez ruch — dzieci przekazują sobie dni tygodnia",
           "Tylko przez piosenkę z YouTube",
           "Przez karę za błędy"
         ],
@@ -92,7 +92,7 @@
         "question": "Co nauczyciel w Kopytkowie mówi Tomaszowi o systemie?",
         "answers": [
           "Że dyrektor go chwali",
-          "Że wie, że ma sens, ale system nie pozwala — program, sprawdziany, strach przed zwolnieniem",
+          "Że ma sens, ale system na to nie pozwala",
           "Że rodzice protestują",
           "Że zmienią podstawę programową jutro"
         ],

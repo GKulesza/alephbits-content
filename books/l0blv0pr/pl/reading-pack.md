@@ -5,8 +5,8 @@
 **Pack ID:** l0blv0pr
 **Book ID:** l0blv0pr
 **Legacy Pack ID:** polish_dziewczyna_ktora_zniknela_o_swicie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Dziewczyna, która zniknęła o świcie  
 **Subtitle:** Śledztwo w pierwszych godzinach  
@@ -66,6 +66,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar |
 
 ---
 ## Sources
@@ -194,7 +195,7 @@ Joanna patrzyła, jak Paweł P. wychodzi z sali sądowej. Był blady, ale nie za
 
 **Pęknięcie**
 
-Rok później Joanna otrzymała telefon od matki Agnieszki. Kobieta była chora – układ odpornościowy zawiódł po latach permanentnego stresu. Mówiła cicho, jakby każdy słowo kosztowało ją ogromny wysiłek.
+Rok później Joanna otrzymała telefon od matki Agnieszki. Kobieta była chora – układ odpornościowy zawiódł po latach permanentnego stresu. Mówiła cicho, jakby każde słowo kosztowało ją ogromny wysiłek.
 
 – Czy znajdziecie go? – zapytała.
 

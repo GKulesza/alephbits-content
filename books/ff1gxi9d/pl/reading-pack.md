@@ -5,8 +5,8 @@
 **Pack ID:** ff1gxi9d
 **Book ID:** ff1gxi9d
 **Legacy Pack ID:** polish_trzynascie_zasad
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Trzynaście zasad  
 **Subtitle:** Przewodnik kulturowy dla obcokrajowców  
@@ -66,6 +66,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar („Musisz tylko szanować”) |
 
 ---
 ## Sources
@@ -311,7 +312,7 @@ Pewnego dnia, idąc przez Warszawę, uśmiechnęła się do przypadkowego przech
 
 – Widzisz? – powiedziała do siebie po angielsku, ale z polskim akcentem, który jeszcze nie był doskonały, ale już był jej. – Działa.
 
-I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – najważniejsze to zrozumieć, że nie musisz być taki sam. Musisz być tylko szanować to, co inne.
+I poszła dalej, wiedząc, że w Polsce – jak w każdym kraju na świecie – najważniejsze to zrozumieć, że nie musisz być taki sam. Musisz tylko szanować to, co inne.
 
 
 **KONIEC**

@@ -5,8 +5,8 @@
 **Pack ID:** l5nwqvrr
 **Book ID:** l5nwqvrr
 **Legacy Pack ID:** polish_kontrolowana_halucynacja
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Kontrolowana halucynacja  
 **Subtitle:** Uraz, świadomość i granice ja  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — form of address |
 
 ---
 ## Sources
@@ -145,7 +146,7 @@ Siedziała na łóżku, oparta o poduszki. Za oknem było szaro, padał deszcz.
 
 – Jakiego rodzaju program?
 
-– Hmm... jakby wszystkie moje zmysły były opóźnione. Kiedy patrzę na panią rękę, widzę ją, ale _czuję_, że zobaczyłam ją sekundę wcześniej, zanim do mnie dotarło. Jakbym oglądała film z dubbingiem, gdzie dźwięk nie zgrywa się z obrazem.
+– Hmm... jakby wszystkie moje zmysły były opóźnione. Kiedy patrzę na pana rękę, widzę ją, ale _czuję_, że zobaczyłam ją sekundę wcześniej, zanim do mnie dotarło. Jakbym oglądała film z dubbingiem, gdzie dźwięk nie zgrywa się z obrazem.
 
 – To fascynujące – powiedział doktor, notując coś na tablecie. – Mówi pani o _desynchronizacji_ percepcji. Proszę spróbować skupić się na czymś prostym. Na przykład na tym, że oddycha pani.
 

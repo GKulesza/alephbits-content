@@ -5,8 +5,8 @@
 **Pack ID:** kfs6vfpt
 **Book ID:** kfs6vfpt
 **Legacy Pack ID:** polish_gruby_dzienniczek
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Gruby dzienniczek  
 **Subtitle:** Małe nawyki i powrót do siebie  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Quiz correction — misquoted journal entry in explanation |
 
 ---
 ## Sources
@@ -233,7 +234,7 @@ I to było najważniejsze.
 - D) Od wyjazdu na wakacje
 
 **Correct:** B
-**Explanation:** Pierwszy wpis brzmi: „Dzień 1. Pościeliłem łóżka”, a cała zmiana zaczyna się od tego gestu.
+**Explanation:** Pierwszy wpis brzmi: „Dzień 1. Pościeliłem łóżko”, a cała zmiana zaczyna się od tego gestu.
 **Text reference:** Dzień 1. Pościeliłem łóżko
 
 ### Question 2

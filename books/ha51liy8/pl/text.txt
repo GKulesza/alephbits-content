@@ -18,7 +18,7 @@ Tego wieczoru Łukasz postanowił coś zmienić. Usiadł przy biurku, wyjął cz
 
 Przypomniał sobie, co Paweł pisał dalej:
 
-_"Jedną z najlepszych rzeczy jakie zrobiłem kiedykolwiek dla siebie i swojej produktywności było wypisanie sobie listy zasad, których mam się w życiu trzymać. To prosty dokument, który eliminuje konieczność podejmowania często trudnych decyzji."_
+_"Jedną z najlepszych rzeczy, jakie zrobiłem kiedykolwiek dla siebie i swojej produktywności było wypisanie sobie listy zasad, których mam się w życiu trzymać. To prosty dokument, który eliminuje konieczność podejmowania często trudnych decyzji."_
 
 Łukasz zaczął pisać.
 
@@ -67,5 +67,3 @@ Wiedział, że to dopiero początek. Że zasady będą testowane, że pojawią s
 I to wystarczyło, żeby zacząć.
 
 **KONIEC**
-
-##

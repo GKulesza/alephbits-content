@@ -5,12 +5,12 @@
 **Pack ID:** rcd9si5g
 **Book ID:** rcd9si5g
 **Legacy Pack ID:** polish_lista_rzeczy_ktorych_zaluje
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Lista rzeczy, których żałuję  
 **Subtitle:** Regret list matki dorosłych dzieci  
-**Blurb:** Anna ma 42 lata i listę jedenaastu rodzicielskich żalów. Syn Tomek wraca na weekend i pokazuje, że miłość przetrwała mimo błędów.
+**Blurb:** Anna ma 42 lata i listę jedenastu rodzicielskich żalów. Syn Tomek wraca na weekend i pokazuje, że miłość przetrwała mimo błędów.
 
 **Genres:** psychology, short_story  
 **Series:** Collection Ten  
@@ -72,6 +72,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — blurb typo (jedenaastu → jedenastu) |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history

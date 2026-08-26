@@ -20,19 +20,19 @@
       "question": "Co czyta Ola w książce Magdaleny Chorzewskiej?",
       "answers": [
         "Że pierwsza randka nic nie pokazuje",
-        "Że jeśli słyszysz, że wszystkie byłe były złe, będziesz kolejną złą",
+        "Że będzie kolejną złą",
         "Że trzeba szukać idealnego partnera",
         "Że randki są stratą czasu"
       ],
       "correctIndex": 1,
-      "explanation": "Czyta zdanie o byłych, którzy „byli zli”."
+      "explanation": "Czyta zdanie o byłych, którzy „byli źli”."
     },
     {
       "type": "single_choice",
       "question": "Jak Magda porównuje zachowanie Oli do historii?",
       "answers": [
         "Do pokoju po wojnie",
-        "Do III Rzeszy bojącej się pokoju i ciągłej ekspansji",
+        "Do III Rzeszy, która bała się pokoju",
         "Do dyplomacji",
         "Do związku małżeńskiego"
       ],
@@ -44,9 +44,9 @@
       "question": "Co Tomasz mówi o swoich byłych partnerkach?",
       "answers": [
         "Że wszystkie były złe",
-        "Że z jedną się nie dogaduje, ale z matką dziecka ma kontakt",
+        "Że z jedną się nie dogaduje, a z drugą ma dobry kontakt",
         "Że nigdy nie miał związków",
-        "Że winne są wyłącznie on"
+        "Że to wyłącznie one były winne"
       ],
       "correctIndex": 1,
       "explanation": "Tomasz mówi, że nie wszyscy ex są źli — byli źli dla siebie nawzajem."
@@ -56,7 +56,7 @@
       "question": "Co Ola zapisuje w książce na końcu?",
       "answers": [
         "Że randki są bez sensu",
-        "Że najlepsze związki powstają, gdy przestajesz szukać ideału",
+        "Że trzeba szukać człowieka, nie ideału",
         "Że Tomasz jest idealny",
         "Że terapia nie pomaga"
       ],

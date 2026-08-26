@@ -5,8 +5,8 @@
 **Pack ID:** rsnvnq65
 **Book ID:** rsnvnq65
 **Legacy Pack ID:** polish_dostrojony_dom
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Dostrojony dom  
 **Subtitle:** Porządkowanie przestrzeni i siebie  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — name case (Asia) |
 
 ---
 ## Sources
@@ -102,7 +103,7 @@ I wtedy zadzwonił telefon.
 
 — No to tym bardziej. Zaraz będę.
 
-Asiu wpadła dwadzieścia minut później. Przystanęła w przedpokoju, rozejrzała się i powiedziała:
+Asia wpadła dwadzieścia minut później. Przystanęła w przedpokoju, rozejrzała się i powiedziała:
 
 — O kurczę.
 
@@ -112,7 +113,7 @@ Asiu wpadła dwadzieścia minut później. Przystanęła w przedpokoju, rozejrza
 
 — I myślałam, że po powrocie to ogarnę. Ale... nie umiem. Nie wiem od czego zacząć.
 
-Asiu zdjęła kurtkę i położyła ją na jedynym wolnym krześle w salonie.
+Asia zdjęła kurtkę i położyła ją na jedynym wolnym krześle w salonie.
 
 — Posłuchaj. Znam kogoś. Kobietę, która się tym zajmuje. Pomaga ludziom... no, właśnie — zrobiła gest obejmujący całe mieszkanie.
 

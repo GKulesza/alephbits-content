@@ -5,8 +5,8 @@
 **Pack ID:** dgnnqfkp
 **Book ID:** dgnnqfkp
 **Legacy Pack ID:** polish_misja_ktora_pekla
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Misja która pękła  
 **Subtitle:** Misja, wypalenie i kontekst w erze AI  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — typo fix („wciśniała się” → „wisiała”) |
 
 ---
 ## Sources
@@ -99,7 +100,7 @@ Przypomniał sobie własną firmę. Jak na początku rekrutował ludzi, opowiada
 
 Wjechał na parking, wyłączył silnik. Wiedział, że odpowiedź nie jest prosta. On sam nie był już tym młodym idealistą z kuchni. Miał kredyt, miał rodzinę, miał pracowników, którzy liczyli na niego. Misja nie zniknęła – ale zaczęła konkurować z czymś innym. Z odpowiedzialnością. Z rzeczywistością.
 
-Wszedł do biura. Na tablicy w holu wciśniała się ta sama misja, którą napisał dwanaście lat temu. "Pomagamy firmom B2B mądrze rosnąć". Obok niej wisiał nowy plakat: "Rekrutujemy! Dołącz do zespołu, który zmienia oblicze polskiego biznesu". Marek spojrzał na niego i poczuł, że coś jest nie tak.
+Wszedł do biura. Na tablicy w holu wisiała ta sama misja, którą napisał dwanaście lat temu. "Pomagamy firmom B2B mądrze rosnąć". Obok niej wisiał nowy plakat: "Rekrutujemy! Dołącz do zespołu, który zmienia oblicze polskiego biznesu". Marek spojrzał na niego i poczuł, że coś jest nie tak.
 
 Wziął telefon i napisał do swojego dyrektora operacyjnego: "Musimy porozmawiać o misji. Czy to jeszcze jest to, co chcemy robić, czy to tylko hasło na ścianę?"
 

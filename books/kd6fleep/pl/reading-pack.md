@@ -5,8 +5,8 @@
 **Pack ID:** kd6fleep
 **Book ID:** kd6fleep
 **Legacy Pack ID:** polish_czterech_w_lodce
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Czterech w łódce  
 **Subtitle:** Równy podział i nierówny los  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — contradiction and grammar |
 
 ### Editorial history
 
@@ -160,7 +161,7 @@ A Tomek chciał odpowiedzieć: „Ja to rozumiem. Ale nie stać mnie na ryzyko, 
 ---
 Dwa lata później, sąd rejestrowy, wypis z KRS.
 
-Tomek stał przed urzędniczką i składał wniosek o wykreślenie go ze spółki. Był trzecim, który odchodził. Pierwszy był Michał – zmęczony ciągłymi awanturami, powiedział że „nie po to zakładał kanał sportowy, żeby codziennie walczyć z kolegami”. Drugi był on, Tomek – bo zrozumiał, że spółka, w której nikt nie ma większości, a każdy ma takie samo ego, to nie jest spółka, tylko pole minowe.
+Tomek stał przed urzędniczką i składał wniosek o wykreślenie go ze spółki. Był drugim, który odchodził. Pierwszy był Michał – zmęczony ciągłymi awanturami, powiedział że „nie po to zakładał kanał sportowy, żeby codziennie walczyć z kolegami”. Drugi był on, Tomek – bo zrozumiał, że spółka, w której nikt nie ma większości, a każdy ma takie samo ego, to nie jest spółka, tylko pole minowe.
 
 Został tylko Krzysiek i Mateusz. Dwa największe ego w jednym pokoju. Jak dwie czarne dziury, które nie mogą istnieć obok siebie, bo w końcu jedna wchłonie drugą.
 
@@ -189,7 +190,7 @@ Zamknął laptopa. Za oknem wstawał dzień – szary, mglisty, poniedziałkowy.
 
 Potem sięgnął po telefon i napisał do Krzyśka. Nie rozmawiali od miesięcy – nie dlatego, że się pokłócili, tylko dlatego, że życie potoczyło się różnymi torami. Ale dziś, po przeczytaniu tych wszystkich wyników, poczuł potrzebę, żeby się odezwać.
 
-„Widziałem wyniki. Przykro mi, że tak wyszło. Ale patrząc z perspektywy czasu – to nie mogło się udać. Czterech facetów z tymi samymi kompetencjami, tym samym ego i różnymi portfelami. To był tykająca bomba.”
+„Widziałem wyniki. Przykro mi, że tak wyszło. Ale patrząc z perspektywy czasu – to nie mogło się udać. Czterech facetów z tymi samymi kompetencjami, tym samym ego i różnymi portfelami. To była tykająca bomba.”
 
 Odpowiedź przyszła po kilku minutach.
 

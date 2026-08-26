@@ -5,8 +5,8 @@
 **Pack ID:** stwg6nj4
 **Book ID:** stwg6nj4
 **Legacy Pack ID:** polish_ulamki
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Ułamki  
 **Subtitle:** Podziel czynność na kroki  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — agreement (Pani podcast) |
 
 ### Editorial history
 
@@ -199,7 +200,7 @@ Kilka tygodni później Magda poszła do pracy. Była zmęczona, ale nie tak jak
 
 Pewnego wieczoru, gdy Zosia już spała, Magda otworzyła laptopa i napisała wiadomość do Agi Rogali:
 
-_Pani Agato, dziękuję. Pański podcast zmienił moje życie. Nauczyłam się, że "podziel czynność na ułamki" to nie tylko metoda, ale sposób myślenia. Że kiedy patrzę na swoje dziecko, nie widzę złośliwego człowieka, który nie chce współpracować. Widzę kogoś, kto potrzebuje nawigacji. I że moja cierpliwość jest kluczem do jego samodzielności._
+_Pani Agato, dziękuję. Pani podcast zmienił moje życie. Nauczyłam się, że "podziel czynność na ułamki" to nie tylko metoda, ale sposób myślenia. Że kiedy patrzę na swoje dziecko, nie widzę złośliwego człowieka, który nie chce współpracować. Widzę kogoś, kto potrzebuje nawigacji. I że moja cierpliwość jest kluczem do jego samodzielności._
 
 Nie wysłała jej. Zamiast tego zamknęła laptopa i poszła do Zosi, żeby poprawić jej kołdrę. I pomyślała o tym, że kiedyś, gdy Zosia będzie dorosła, może nie będzie pamiętać tych poranków, tych wieczorów, tych małych kroków. Ale będzie wiedziała, że potrafi. Że jest samodzielna. Że jej mama w nią wierzyła.
 

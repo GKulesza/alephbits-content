@@ -5,8 +5,8 @@
 **Pack ID:** evuht6t0
 **Book ID:** evuht6t0
 **Legacy Pack ID:** polish_glosy_z_ziemi
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Głosy z ziemi  
 **Subtitle:** Korupcja, pamięć i odwaga świadka  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Polish prose correction („Wróciła do Polski”) and quiz correction (Q4 subject and answer) |
 
 ---
 ## Sources
@@ -340,7 +341,7 @@ Ołena nie odpowiedziała. Wiedziała, że tak jest. Że niektóre prawdy przych
 
 ## X
 
-Wróciła do Polski. Na zawsze.
+Została w Polsce. Na zawsze.
 
 Mijały miesiące. Tadeusz wygrał sprawę – system zaczął się zmieniać, powoli, ale jednak. Tomasz napisał książkę o lesie pod Bielinem, o szpitalu, o ludziach, którzy odważyli się mówić. Ołena wróciła na studia i zaczęła uczyć innych o tym, czego nauczyła się w polskim lesie.
 
@@ -432,13 +433,13 @@ Bo czasem, żeby zmienić świat, wystarczy jedna historia. I kilkoro ludzi, kt�
 
 **Answers:**
 - A) Niszczy wszystkie dowody i milczy
-- B) Publikuje krótki apel o pamięć i mówienie prawdy
+- B) Nie wycofuje się — przyjmuje wsparcie i kontynuuje walkę o prawdę
 - C) Wyjeżdża do córki za granicę
 - D) Wraca do pracy na dyżurach nocnych
 
 **Correct:** B
-**Explanation:** Kończy pracę krótkim tekstem o pamiętaniu i byciu głosem tych, którzy go stracili.
-**Text reference:** Możemy być głosem tych, którzy go stracili
+**Explanation:** Przyjmuje od pielęgniarek pieniądze na adwokata i wie, że przed nim długa droga.
+**Text reference:** Nie jest pan sam.
 
 ### Question 5
 

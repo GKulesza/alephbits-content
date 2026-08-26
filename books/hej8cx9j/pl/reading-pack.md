@@ -5,8 +5,8 @@
 **Pack ID:** hej8cx9j
 **Book ID:** hej8cx9j
 **Legacy Pack ID:** polish_dylemat_szatniarza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Dylemat szatniarza  
 **Subtitle:** Polityka, Bruksela i dom  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Polish prose correction — grammar (leciały); quiz correction — question wording (Tomek) |
 
 ---
 ## Sources
@@ -114,7 +115,7 @@ Za drzwiami czekał na niego doradca.
 
 ## II. Warszawa, rok później
 
-Siedział w swoim gabinecie w Kancelarii Prezesa Rady Ministrów i patrzył na ekran telewizora. Lecieli tam informacje o aferze w Szpitalu Południowym. Lekarze na kontraktach, fałszywe dyżury, pacjenci poza kolejką. I nazwisko, które pojawiało się w kontekście warszawskich struktur partyjnych.
+Siedział w swoim gabinecie w Kancelarii Prezesa Rady Ministrów i patrzył na ekran telewizora. Leciały tam informacje o aferze w Szpitalu Południowym. Lekarze na kontraktach, fałszywe dyżury, pacjenci poza kolejką. I nazwisko, które pojawiało się w kontekście warszawskich struktur partyjnych.
 
 Wiedział, że to dopiero początek.
 
@@ -350,7 +351,7 @@ A reszta – reszta to tylko teatr.
 
 ### Question 5
 
-**Question:** Do czego dochodzi bohater pod koniec opowieści?
+**Question:** Do czego dochodzi Tomek pod koniec opowieści?
 
 **Answers:**
 - A) Że politycy są najważniejsi

@@ -8,8 +8,8 @@
   "legacySlug": "tajwan",
   "title": "Tajwan",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Chen Ching Ting leci z Tajpej na Targi Książki we Frankfurcie z paszportem TAIWAN na okładce. Bramka najpierw przepuszcza, potem zatrzymuje — cztery godziny przesłuchania, „fałszywy dokument”, „to nie jest państwo”. Fikcja o wyspie, która istnieje, choć świat udaje, że nie.",
   "author": {
@@ -46,7 +46,7 @@
           "Lekarką",
           "Wydawczynią",
           "Pilotką",
-          "Urędniczką"
+          "Urzędniczką"
         ],
         "correctIndex": 1,
         "explanation": "Ching Ting jest wydawczynią, jedzie na Targi Książki we Frankfurcie."

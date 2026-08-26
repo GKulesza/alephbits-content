@@ -5,8 +5,8 @@
 **Pack ID:** is25hbpk
 **Book ID:** is25hbpk
 **Legacy Pack ID:** polish_obserwator
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Obserwator  
 **Subtitle:** Rynek, mit i powrót Saturna  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (o braciach Strugackich) |
 
 ### Editorial history
 
@@ -146,7 +147,7 @@ Ewa nie obraziła się. — Wiem, co myślisz. Horoskopy z gazet, mambo jumbo, n
 
 — A gdybyś nie próbował go kontrolować? Gdybyś zamiast tego próbował zrozumieć jego rytm? — Ewa pochyliła się do przodu. — Wiesz, starożytni mezopotamczycy wierzyli, że bogowie umierają i powracają do życia. Dumuzi, Tammuz, Baal. To nie był przesąd. To była metafora cykliczności. Lato i zima, wzrost i upadek, życie i śmierć. Twoja strata to nie porażka, Michale. To zima. Pora martwa. Ale po zimie zawsze przychodzi wiosna.
 
-Michał milczał. W jego głowie pojawiło się wspomnienie zeszłego tygodnia, kiedy oglądał film o braci Strugackich. Ktoś mówił o tym, że w ich powieściach bohaterowie często ponosili klęski, ale te klęski były początkiem czegoś nowego.
+Michał milczał. W jego głowie pojawiło się wspomnienie zeszłego tygodnia, kiedy oglądał film o braciach Strugackich. Ktoś mówił o tym, że w ich powieściach bohaterowie często ponosili klęski, ale te klęski były początkiem czegoś nowego.
 
 — Co mam zrobić? — zapytał w końcu.
 

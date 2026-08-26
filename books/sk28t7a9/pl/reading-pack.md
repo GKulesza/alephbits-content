@@ -5,8 +5,8 @@
 **Pack ID:** sk28t7a9
 **Book ID:** sk28t7a9
 **Legacy Pack ID:** polish_domek
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Domek  
 **Subtitle:** Bałagan jako czekanie na zmianę  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — relative pronoun (o których) |
 
 ---
 ## Sources
@@ -178,7 +179,7 @@ I wtedy poczuła, że to nie jest tylko obietnica. To jest decyzja. I że ta dec
 
 ## V. Magazyn
 
-Kiedy już uporała się z większością rzeczy, Marta znalazła w piwnicy kilka kartonów, które zupełnie o nich zapomniała. Były oznaczone datami: 2015, 2017, 2019. Otworzyła pierwszy.
+Kiedy już uporała się z większością rzeczy, Marta znalazła w piwnicy kilka kartonów, o których zupełnie zapomniała. Były oznaczone datami: 2015, 2017, 2019. Otworzyła pierwszy.
 
 W środku były ubrania z czasów, gdy pracowała w korporacji. Garnitury, koszule, eleganckie buty. Rzeczy, które nosiła codziennie, ale nienawidziła. Trzymała je "na czarną godzinę", gdyby musiała wrócić do tamtego życia.
 

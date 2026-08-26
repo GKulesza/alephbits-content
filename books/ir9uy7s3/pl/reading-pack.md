@@ -5,8 +5,8 @@
 **Pack ID:** ir9uy7s3
 **Book ID:** ir9uy7s3
 **Legacy Pack ID:** polish_taniec
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Taniec  
 **Subtitle:** Hmong, gotówka i powrót do korzeni  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
 
 ### Editorial history
 
@@ -180,7 +181,7 @@ Wystarczy, że zatańczysz.
 
 **Answers:**
 - A) Z Polski
-- B) Z północnego Wietnamu — rodzina wyemigrowała do Szwecji
+- B) Z północnego Wietnamu
 - C) Z Chin
 - D) Z Japonii
 
@@ -194,7 +195,7 @@ Wystarczy, że zatańczysz.
 
 **Answers:**
 - A) Nagroda w konkursie
-- B) Filmik z dziewczynami w strojach Hmong i wspomnienie korzeni
+- B) Filmik z tańcem Hmong
 - C) Presja rodziny
 - D) Wymóg szkoły
 
@@ -208,7 +209,7 @@ Wystarczy, że zatańczysz.
 
 **Answers:**
 - A) Dom to adres
-- B) Dom to uczucie — można je znaleźć wszędzie, jeśli pozwolisz sobie tańczyć
+- B) Dom to uczucie, nie miejsce
 - C) Dom to tylko Wietnam
 - D) Dom nie istnieje
 
@@ -222,7 +223,7 @@ Wystarczy, że zatańczysz.
 
 **Answers:**
 - A) Że to sport
-- B) Że taniec to rozmowa z przodkami i sposób pamiętania, kim jesteśmy
+- B) Że taniec to rozmowa z przodkami
 - C) Że to moda
 - D) Że to tylko ruch
 
@@ -236,7 +237,7 @@ Wystarczy, że zatańczysz.
 
 **Answers:**
 - A) Telefon
-- B) Banknot sto koron, który uratował ją przy awarii płatności
+- B) Banknot sto koron
 - C) List
 - D) Bilet lotniczy
 

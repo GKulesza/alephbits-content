@@ -5,8 +5,8 @@
 **Pack ID:** g52efuje
 **Book ID:** g52efuje
 **Legacy Pack ID:** polish_tajwan
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Tajwan  
 **Subtitle:** Paszport, którego system nie widzi  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — typo in answer D (Urzędniczką) |
 
 ### Editorial history
 
@@ -225,7 +226,7 @@ Mogła być sobą.
 - A) Lekarką
 - B) Wydawczynią
 - C) Pilotką
-- D) Urędniczką
+- D) Urzędniczką
 
 **Correct:** B
 **Explanation:** Ching Ting jest wydawczynią, jedzie na Targi Książki we Frankfurcie.
