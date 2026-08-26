@@ -31,6 +31,8 @@
 
 **Cover family:** popular_science
 
+**Translation health:** needs_repair — body contains untranslated Polish text; re-translation required via Studio.
+
 ---
 
 **World:**
