@@ -1,0 +1,24 @@
+{
+  "packId": "sk28t7a9:es",
+  "bookId": "sk28t7a9",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "f-Zq3kZ-Wxo"
+    }
+  ],
+  "revisionNotes": "Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie."
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Aga Rogali sobre la frase \"Ponte la chaqueta\"?",
+      "answers": [
+        "Es una orden simple",
+        "Son muchos pasos: la percha, las mangas, la cremallera, etc.",
+        "No tiene sentido",
+        "Es solo para adultos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Para un niño, una frase = una serie de acciones complicadas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Magda a la mañana siguiente?",
+      "answers": [
+        "Viste a Zosia ella misma",
+        "Se sienta a su lado y la guía paso a paso",
+        "Renuncia a la guardería",
+        "Grita"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Te enseñaré cómo nos vestimos. Juntas.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo explica Magda \"prepárate para dormir\"?",
+      "answers": [
+        "Con una palabra basta",
+        "Lo divide en: baño, dientes, pijama, cama",
+        "Le dice que duerma vestida",
+        "Lo ignora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Una lista concreta de los pasos de la noche."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo compara Zosia las instrucciones con una canción?",
+      "answers": [
+        "No le gustan las canciones",
+        "Si sé la letra — canto sola; si no — mamá me ayuda",
+        "Siempre necesita a mamá",
+        "Nunca se acuerda"
+      ],
+      "correctIndex": 1,
+      "explanation": "La metáfora de la canción = independencia progresiva."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Zosia sola después de unas semanas?",
+      "answers": [
+        "Cocina la cena para la familia",
+        "Se hace un sándwich y un té paso a paso",
+        "Coge el autobús",
+        "Escribe una carta a Aga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Describe los pasos: pan, mantequilla, queso, té."
+    }
+  ]
+}

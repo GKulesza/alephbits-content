@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marta en el buscador al volver a casa?",
+      "answers": [
+        "cómo cocinar la cena",
+        "cómo superar el desorden",
+        "cómo comprar un piso",
+        "cómo encontrar trabajo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras sentarse en el sofá escribe en el teléfono: cómo superar el desorden."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo suele aplazar Marta la limpieza?",
+      "answers": [
+        "Se dice que lo hará mañana, aunque sabe que no es verdad",
+        "Limpia enseguida al llegar a casa",
+        "Pide ayuda a los vecinos cada día",
+        "Contrata una empresa de limpieza cada semana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice \"lo haré mañana\", pero sabe que mañana será igual que hoy."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubre Marta después de limpiar?",
+      "answers": [
+        "Que el desorden era una riqueza oculta",
+        "Que el desorden era ella esperando un cambio",
+        "Que debería comprar más cosas",
+        "Que el piso es demasiado pequeño"
+      ],
+      "correctIndex": 1,
+      "explanation": "Escribe a su amiga que no era desorden — era ella esperando un cambio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Marta?",
+      "answers": [
+        "Veinticinco",
+        "Treinta y cinco",
+        "Cuarenta y cinco",
+        "Cincuenta y cinco"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice directamente que Marta tiene treinta y cinco años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina la historia la definición de hogar?",
+      "answers": [
+        "El hogar es solo una dirección",
+        "El hogar es el lugar donde estás y donde te conviertes",
+        "El hogar es un almacén de cosas",
+        "El hogar es una oficina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La frase final dice que el hogar es el lugar donde estás y donde te conviertes."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+# La casita
+
+## Metadata
+
+**Pack ID:** sk28t7a9
+**Book ID:** sk28t7a9
+**Legacy Pack ID:** polish_domek
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** La casita  
+**Subtitle:** El desorden como espera de un cambio  
+**Blurb:** Marta vuelve a un piso lleno de cajas sin deshacer y excusas de cada día. Limpiar siempre espera a mañana — hasta que una noche algo se rompe dentro de ella. Una historia sobre el caos que no solo trata de las cosas, y sobre la valentía de detenerse un momento en la propia casa antes de volver a huir.
+
+**Genres:** everyday_live, short_story  
+**Cover family:** everyday_live  
+**Series:** Collection Four  
+**Audience:** adult  
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Domek" — edición oficial de Collection Four.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** bałagan, dom, tożsamość, zmiana  
+
+**Keywords:** domek, bałagan, sprzątanie, mieszkanie, zmiana  
+
+**Editorial notes:** Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.
+
+---
+**World:**
+- places: home
+- objects: window
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 18.07.2024 -> https://www.youtube.com/watch?v=f-Zq3kZ-Wxo  
+**Revision notes:** Fikcja o bałaganie jako znaku odłożonej zmiany i powrocie do siebie.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — relative pronoun (o których) |
+
+---
+## Sources
+
+### Source 1: Collection Four manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=f-Zq3kZ-Wxo  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2024-07-18  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**LA CASITA**
+
+
+## I. La habitación que esperaba
+
+Cuando Marta volvió del trabajo, el piso estaba a oscuras. No porque se hubiera fundido la luz – simplemente porque las ventanas estaban cubiertas por persianas que no recordaba cuándo había subido por última vez. El salón estaba en penumbra, donde los contornos de los muebles se fundían entre sí formando una masa gris e indefinida.
+
+Se quitó los zapatos en el recibidor, pero no los apartó. Quedaron donde habían caído, como cada día. En la percha colgaban tres abrigos, aunque solo había uno. En el suelo yacía una bolsa de la compra de la semana pasada que nunca llegó a deshacerse.
+
+Marta tenía treinta y cinco años, un trabajo que la agotaba y un piso que la abrumaba. No recordaba la última vez que se había sentido bien allí. Quizá nunca.
+
+Se sentó en el sofá, el único sitio libre de la habitación. A su alrededor se amontonaban las cosas. Libros que quería leer pero nunca había empezado. Ropa que compró porque creía que le sentaría bien pero nunca se puso. Cajas que no había abierto desde la mudanza, aunque habían pasado tres años.
+
+– Lo haré mañana – se dijo a sí misma. – Mañana limpio.
+
+Pero sabía que no era verdad. Mañana sería igual que hoy. Y pasado también.
+
+Cogió el teléfono. Dudó un momento, luego escribió en el buscador: _"cómo superar el desorden"_.
+
+Los resultados eran miles. Guías, vídeos, artículos. Pero un título llamó su atención: _"El desorden es la representación física de tus bloqueos emocionales"_.
+
+Hizo clic. Era un pódcast. La voz era tranquila, cálida, y las palabras la golpeaban como olas:
+
+_"No hay desorden bueno ni malo. Quiere decirte algo."_
+
+Marta dejó el teléfono y miró alrededor de la habitación. Y entonces vio algo que no había visto antes. Cada cosa que yacía a su alrededor era parte de algo más grande. Parte de ella. Cada una tenía una historia que ella misma le había puesto. Cada una la retenía en el lugar donde estaba, en lugar de dejarle avanzar.
+
+Y entonces supo que tenía que empezar.
+
+---
+
+## II. El primer armario
+
+Marta eligió el armario del dormitorio. Parecía el objetivo más fácil – no había cosas personales, solo ropa que de todos modos usaba poco. Abrió las puertas y miró dentro durante un momento. Estaba lleno. Hasta los bordes.
+
+Empezó a sacar. Una cosa tras otra. Vestidos que no se había puesto en años. Pantalones que le quedaban pequeños, pero que guardaba porque "quizá algún día adelgazaría". Camisas que compró en oferta, aunque sabía que no le iban a gustar.
+
+Cuando la pila del suelo llegó a media altura, sintió cansancio. Pero no físico. Otro. Más profundo. Como si cada cosa que sacaba se llevara consigo un trozo de su energía.
+
+Cogió un vestido rojo. Recordaba cuándo lo había comprado. Tenía veinticinco años, estaba enamorada y creía que toda su vida sería igual. El vestido era para su primer viaje con Marek. Pero el viaje nunca se hizo. Rompieron una semana antes. El vestido se quedó. Durante diez años.
+
+– ¿Por qué lo guardo? – preguntó en voz alta.
+
+La respuesta llegó rápido. Porque si lo tiraba, significaría que aquel tiempo se había acabado de verdad. Que Marek nunca volvería. Que ella – la Marta de hacía diez años – ya no existía.
+
+Miró el vestido con atención. Era bonito, pero ya no era su estilo. Recuerdos de otra, no suyos.
+
+– Gracias – dijo en voz baja. – Fuiste importante. Pero ahora sigue adelante.
+
+Lo metió en una bolsa con la etiqueta "para donar".
+
+Y sintió que algo se soltaba dentro de ella. Como si la piedra que llevaba sobre el pecho se hubiera hecho más pequeña de repente.
+
+---
+
+## III. La caja de sus padres
+
+En el rincón de la habitación había una caja que no había abierto desde la mudanza. Era grande, de cartón, sellada con cinta. Alguien había escrito encima: "Cosas de mamá".
+
+Marta se sentó a su lado y la miró durante mucho tiempo. Su madre había muerto cinco años antes. Cáncer, rápido, demasiado rápido. Marta no había tenido tiempo de despedirse. No había tenido tiempo de decir todo lo que quería. Solo quedaba aquella caja.
+
+Despegó la cinta. Dentro había fotografías, cartas, joyas, algunos libros. Y una libreta pequeña y gastada en la que su madre apuntaba recetas.
+
+Marta la cogió y la abrió en la primera página. La letra de su madre era inclinada, un poco torpe. La primera receta: _"Sopa de tomate – 1 kg de tomates, 2 cebollas, una cucharada de mantequilla..."_
+
+Sonrió entre lágrimas. Su madre hacía la mejor sopa de tomate del mundo.
+
+Revisó el resto de las cosas. También había pequeños recuerdos que su madre guardaba como tesoro: un billete de su viaje juntas a Zakopane, joyas viejas sin gran valor pero que su madre llevaba a diario, algunas fotografías de la infancia de Marta.
+
+Se detuvo en una foto en la que tenía cinco años y su madre la sostenía en brazos. Las dos se reían. Marta recordaba aquel día – estaban en la playa, el viento les alborotaba el pelo, y su padre hacía la foto.
+
+– Mamá – susurró. – ¿Por qué no puedo desprenderme de esto?
+
+Y entonces oyó en su cabeza la voz del pódcast que había escuchado unos días antes: _"Si esa cosa es importante para ti, ¿por qué la escondes en una caja en lugar de ponerla a la vista?"_
+
+Marta miró la fotografía. Era importante para ella. De verdad importante. Así que, en lugar de volver a meterla en la caja, decidió enmarcarla. Y ponerla en la estantería del salón. Donde la vería todos los días.
+
+Revisó el resto de las cosas una vez más. Se quedó con algunas: la libreta de recetas, el anillo que su madre llevaba siempre, y un pequeño broche con forma de rosa. El resto fue a la bolsa.
+
+No lloró. Sentía calma. Y sabía que su madre estaría orgullosa de ella.
+
+---
+
+## IV. El escritorio
+
+El escritorio de su estudio era lo peor. Estaba cubierto de papeles de hacía dos años, cartas sin leer, facturas que habían caducado hacía mucho. En el centro había un portátil, y a su lado una taza de café que ya había criado vida propia.
+
+Marta se sentó ante el escritorio y empezó a clasificar. La mayoría de los papeles acabó en la papelera. Las cartas que no importaban las siguieron. Las facturas – a una carpeta aparte, pero solo las que aún podían servir.
+
+También encontró una libreta en la que había empezado a escribir una historia hacía mucho tiempo. Un relato sobre una chica que huye de la ciudad para encontrarse a sí misma. Solo se habían escrito unas páginas. Marta las leyó y sonrió. Era bueno. De verdad bueno. Entonces, hacía unos años, decidió que era una tontería, que no tenía talento, que perdía el tiempo. Y escondió la libreta en un cajón.
+
+Ahora la sacó y la puso sobre el escritorio. Junto al portátil.
+
+– Te terminaré – dijo. – Algún día. Ahora estoy lista.
+
+Y entonces sintió que aquello no era solo una promesa. Era una decisión. Y que esa decisión tenía un poder que no había entendido antes.
+
+---
+
+## V. El trastero
+
+Cuando ya había acabado con la mayoría de las cosas, Marta encontró en el sótano unas cajas de cartón que había olvidado por completo. Estaban marcadas con fechas: 2015, 2017, 2019. Abrió la primera.
+
+Dentro había ropa de la época en que trabajaba en una corporación. Trajes, camisas, zapatos elegantes. Cosas que llevaba a diario pero odiaba. Las guardaba "para una emergencia", por si tenía que volver a aquella vida.
+
+Cogió un traje. Era negro, perfectamente cortado, caro. Y completamente ajeno a ella.
+
+– No volveré – dijo. – No quiero volver.
+
+Lo metió en la bolsa. E hizo lo mismo con el resto.
+
+En la segunda caja había libros de la época de la universidad. Manuales que debían ayudarla en su carrera pero que nunca abrió después de los exámenes. Los guardaba porque creía que demostraban lo lista que era. Pero en realidad demostraban lo perdida que había estado.
+
+Se quedó solo con uno. Un libro sobre escritura. Sobre cómo encontrar tu voz.
+
+El resto fue para donar.
+
+La tercera caja fue la más difícil. Dentro había cartas de Marek. Las que le escribió al principio de su relación, y las que intercambiaron después de la ruptura. Yacían ordenadas con cuidado, como si alguien quisiera conservar la memoria de algo que ya no existía.
+
+Marta las cogió. Leyó las primeras líneas. Luego cerró el sobre.
+
+– Esta ya no es tu historia – dijo. – Tu historia es ahora. Y la escribes tú misma.
+
+Metió las cartas en una bolsa aparte. No en la bolsa de basura, sino en una bolsa que pensaba quemar. No por odio. Por gratitud. Por haberle enseñado a amar. Y por haberle enseñado a irse.
+
+---
+
+## VI. La noche
+
+Cuando terminó, el piso se llenó de luz. No porque hubiera encendido la lámpara – porque había subido las persianas. El sol entraba por las ventanas, iluminando cada rincón. Y de repente vio que aquel piso era hermoso. Solo que antes no lo había visto.
+
+Se sentó en el sofá, que por fin estaba libre. A su alrededor había bolsas con cosas para donar, pero sentía que no eran su carga. Eran su elección.
+
+Cogió el teléfono y escribió a su amiga:
+
+_"Lo he hecho. He limpiado. ¿Y sabes qué? No era desorden. Era yo esperando un cambio."_
+
+Su amiga respondió al cabo de un momento:
+
+_"Eres increíble. Ahora cambia el resto."_
+
+Marta sonrió. Sabía que el resto ya estaba cambiando. Que cada caja que había abierto, cada cosa de la que se había desprendido, era un paso hacia sí misma. Hacia la verdadera.
+
+Y mañana, por la mañana, en lugar de decir "lo haré mañana", dirá: "lo he hecho". Y seguirá adelante.
+
+Porque el hogar no es el lugar donde vives. El hogar es el lugar donde estás. Y donde te conviertes.
+
+---
+
+**FIN**
+
+---
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué escribe Marta en el buscador al volver a casa?
+
+**Answers:**
+- A) cómo cocinar la cena
+- B) cómo superar el desorden
+- C) cómo comprar un piso
+- D) cómo encontrar trabajo
+
+**Correct:** B
+**Explanation:** Tras sentarse en el sofá escribe en el teléfono: cómo superar el desorden.
+**Text reference:** cómo superar el desorden
+
+### Question 2
+
+**Question:** ¿Cómo suele aplazar Marta la limpieza?
+
+**Answers:**
+- A) Se dice que lo hará mañana, aunque sabe que no es verdad
+- B) Limpia enseguida al llegar a casa
+- C) Pide ayuda a los vecinos cada día
+- D) Contrata una empresa de limpieza cada semana
+
+**Correct:** A
+**Explanation:** Dice "lo haré mañana", pero sabe que mañana será igual que hoy.
+**Text reference:** Lo haré mañana
+
+### Question 3
+
+**Question:** ¿Qué descubre Marta después de limpiar?
+
+**Answers:**
+- A) Que el desorden era una riqueza oculta
+- B) Que el desorden era ella esperando un cambio
+- C) Que debería comprar más cosas
+- D) Que el piso es demasiado pequeño
+
+**Correct:** B
+**Explanation:** Escribe a su amiga que no era desorden — era ella esperando un cambio.
+**Text reference:** era yo esperando un cambio
+
+### Question 4
+
+**Question:** ¿Cuántos años tiene Marta?
+
+**Answers:**
+- A) Veinticinco
+- B) Treinta y cinco
+- C) Cuarenta y cinco
+- D) Cincuenta y cinco
+
+**Correct:** B
+**Explanation:** El texto dice directamente que Marta tiene treinta y cinco años.
+**Text reference:** Marta tenía treinta y cinco años
+
+### Question 5
+
+**Question:** ¿Cómo termina la historia la definición de hogar?
+
+**Answers:**
+- A) El hogar es solo una dirección
+- B) El hogar es el lugar donde estás y donde te conviertes
+- C) El hogar es un almacén de cosas
+- D) El hogar es una oficina
+
+**Correct:** B
+**Explanation:** La frase final dice que el hogar es el lugar donde estás y donde te conviertes.
+**Text reference:** El hogar es el lugar donde estás
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

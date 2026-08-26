@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What list appears in the story?",
+      "answers": [
+        "A list of EP candidates",
+        "The Ukrainian Myrotvorets list — enemies of Ukraine",
+        "Ewa's shopping list",
+        "A list of witnesses in court"
+      ],
+      "correctIndex": 1,
+      "explanation": "The journalist says Ewa has been placed on the Myrotvorets list."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa raise during her speech in the EP?",
+      "answers": [
+        "The red-and-white flag of Poland",
+        "The red-and-black flag as evidence",
+        "A photograph of the victims",
+        "A petition from residents"
+      ],
+      "correctIndex": 1,
+      "explanation": "She has a red-and-black flag in her folder and raises it as evidence during her speech about Wołyń."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa say to the foreign ministry representative about the diplomatic note?",
+      "answers": [
+        "That she thanks them for the quick response",
+        "That the note has been ready for years and nothing has changed — she wants action",
+        "That she prefers to stay silent",
+        "That she will go to Kyiv herself"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa says: \"You've had that note ready for years... Talk to me about action.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anna Bryłka tell Ewa on the phone?",
+      "answers": [
+        "That she should back down",
+        "That she has also been on the list for a long time — \"welcome to the club\"",
+        "That she doesn't know Myrotvorets",
+        "That the EP has removed the recording"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna replies: \"I've been on it for a long time too. Welcome to the club.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa say in her vlog after being placed on the list?",
+      "answers": [
+        "That she is ending her political career",
+        "That she won't stop talking about Wołyń — she'll talk even louder",
+        "That she apologises to Ukraine",
+        "That she is deleting the EP recording"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa says: \"I won't stop talking about Wołyń. I'll talk about it even louder.\""
+    }
+  ]
+}

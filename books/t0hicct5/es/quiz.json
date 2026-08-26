@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué sorprende a Marek en los titulares?",
+      "answers": [
+        "Corea compra mil tanques a Polonia",
+        "Polonia compra tanques a Corea",
+        "Corea desaparece del mapa",
+        "Marek recibe una multa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lee que Corea del Sur ha comprado tanques a Polonia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué viaja Marek a Corea?",
+      "answers": [
+        "Para modernizar un museo",
+        "De excursión con la familia",
+        "Para aprender coreano",
+        "Para iniciar una carrera en el K-pop"
+      ],
+      "correctIndex": 0,
+      "explanation": "La oficina ganó la licitación para modernizar un museo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué encuentra Marek en los resultados sobre Polonia?",
+      "answers": [
+        "Chopin, el Brujo, Lewandowski",
+        "Solo Auschwitz",
+        "Polonia no existe en los medios",
+        "Solo el aprendizaje del polaco"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los resultados mencionan a Chopin, Lewandowski y el Brujo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto tiempo debe trabajar en Corea?",
+      "answers": [
+        "Un mes",
+        "Un año",
+        "Una semana",
+        "Cinco años"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek debe ir un mes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la profesión de Marek?",
+      "answers": [
+        "Trabaja en proyectos de museos",
+        "Es soldado",
+        "Es periodista",
+        "Es profesor"
+      ],
+      "correctIndex": 0,
+      "explanation": "La oficina ganó la licitación del museo — Marek representa a la empresa."
+    }
+  ]
+}

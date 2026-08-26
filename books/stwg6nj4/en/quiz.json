@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Aga Rogali say about the sentence \"Put on your jacket\"?",
+      "answers": [
+        "It's one simple instruction",
+        "It's many steps: the hook, the sleeves, the zipper, etc.",
+        "It doesn't make sense",
+        "It's only for adults"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a child, one sentence = a series of complicated actions."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magda do the next morning?",
+      "answers": [
+        "She puts Zosia's jacket on herself",
+        "She sits down beside her and guides her step by step",
+        "She gives up on kindergarten",
+        "She shouts"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"I'll show you how we get dressed. Together.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Magda explain \"get ready for bed\"?",
+      "answers": [
+        "One word is enough",
+        "She breaks it into: bathroom, teeth, pyjamas, bed",
+        "She tells her to sleep in her clothes",
+        "She ignores it"
+      ],
+      "correctIndex": 1,
+      "explanation": "A concrete list of evening steps."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Zosia compare instructions to a song?",
+      "answers": [
+        "She doesn't like songs",
+        "When she knows the words — she sings alone; when she doesn't — Mum helps",
+        "She always needs Mum",
+        "She never remembers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The song metaphor = growing independence."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Zosia do on her own after a few weeks?",
+      "answers": [
+        "She cooks dinner for the family",
+        "She makes a sandwich and tea step by step",
+        "She takes the bus",
+        "She writes a letter to Aga"
+      ],
+      "correctIndex": 1,
+      "explanation": "She describes the steps: bread, butter, cheese, tea."
+    }
+  ]
+}

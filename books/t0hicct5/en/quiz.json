@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What surprises Marek in the headlines?",
+      "answers": [
+        "Korea is buying a thousand tanks from Poland",
+        "Poland is buying tanks from Korea",
+        "Korea is disappearing from the map",
+        "Marek gets a fine"
+      ],
+      "correctIndex": 0,
+      "explanation": "He reads about South Korea buying tanks from Poland."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Marek go to Korea?",
+      "answers": [
+        "To modernise a museum",
+        "On a family trip",
+        "To learn Korean",
+        "To start a K-pop career"
+      ],
+      "correctIndex": 0,
+      "explanation": "The office won the tender for the modernisation of a museum."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek find in the search results about Poland?",
+      "answers": [
+        "Chopin, the Witcher, Lewandowski",
+        "Only Auschwitz",
+        "Poland doesn't exist in the media",
+        "Only learning Polish"
+      ],
+      "correctIndex": 0,
+      "explanation": "The results mention Chopin, Lewandowski and the Witcher."
+    },
+    {
+      "type": "single_choice",
+      "question": "How long is he supposed to work in Korea?",
+      "answers": [
+        "A month",
+        "A year",
+        "A week",
+        "Five years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek is supposed to go for a month."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Marek's profession?",
+      "answers": [
+        "He works on museum projects",
+        "He is a soldier",
+        "He is a journalist",
+        "He is a teacher"
+      ],
+      "correctIndex": 0,
+      "explanation": "The office won the tender for the museum — Marek represents the company."
+    }
+  ]
+}

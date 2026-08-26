@@ -1,0 +1,24 @@
+{
+  "packId": "stwg6nj4:en",
+  "bookId": "stwg6nj4",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja ilustrująca technikę podziału czynności na kroki."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "9cZbjfFkaoI"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

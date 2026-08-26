@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where is Marek travelling by train from?",
+      "answers": [
+        "From Poznań to Gdańsk",
+        "From Warsaw to Kraków",
+        "From Gdynia to Szczecin",
+        "From Wrocław to Berlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text states the route from Poznań to Gdańsk directly."
+    },
+    {
+      "type": "single_choice",
+      "question": "At which station does Marek decide to walk around the hall?",
+      "answers": [
+        "Gdańsk Główny",
+        "Poznań Główny",
+        "Wrocław Główny",
+        "Tczew"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek is standing on the platform of Gdańsk Główny station."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek's father say about travelling by rail in the old days?",
+      "answers": [
+        "That being at the station meant being in the city",
+        "That stations were always malls",
+        "That he never travelled by train",
+        "That rail travel had ended"
+      ],
+      "correctIndex": 0,
+      "explanation": "His father recalls that being at a station used to mean being in the city."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek write in the notes on his phone?",
+      "answers": [
+        "That a station is a threshold of travel",
+        "That he doesn't like trains",
+        "That he is moving back to Poznań for good",
+        "That Gdańsk is ugly"
+      ],
+      "correctIndex": 0,
+      "explanation": "The note says that a station is a threshold, not just a building."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Marek defend Poznań in the comments?",
+      "answers": [
+        "Because he comes from there",
+        "Because it has the most beautiful station in Poland",
+        "Because he works there",
+        "Because he has never been to Gdańsk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek comes from Poznań and defends it in the dispute about stations."
+    }
+  ]
+}

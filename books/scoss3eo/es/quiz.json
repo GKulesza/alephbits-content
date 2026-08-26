@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Desde dónde viaja Marek en tren?",
+      "answers": [
+        "De Poznań a Gdańsk",
+        "De Varsovia a Cracovia",
+        "De Gdynia a Szczecin",
+        "De Wrocław a Berlín"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto dice directamente la ruta de Poznań a Gdańsk."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué estación decide Marek pasear por el vestíbulo?",
+      "answers": [
+        "Gdańsk Główny",
+        "Poznań Główny",
+        "Wrocław Główny",
+        "Tczew"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek está de pie en el andén de la estación de Gdańsk Główny."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el padre de Marek sobre viajar en tren antes?",
+      "answers": [
+        "Que estar en la estación significaba estar en la ciudad",
+        "Que las estaciones siempre fueron centros comerciales",
+        "Que nunca viajó en tren",
+        "Que los viajes en tren habían terminado"
+      ],
+      "correctIndex": 0,
+      "explanation": "El padre recuerda que estar en una estación significaba estar en la ciudad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marek en las notas de su teléfono?",
+      "answers": [
+        "Que la estación es un umbral del viaje",
+        "Que no le gustan los trenes",
+        "Que vuelve a Poznań para siempre",
+        "Que Gdańsk es fea"
+      ],
+      "correctIndex": 0,
+      "explanation": "La nota dice que la estación es un umbral, no solo un edificio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué defiende Marek a Poznań en los comentarios?",
+      "answers": [
+        "Porque es de allí",
+        "Porque tiene la estación más bonita de Polonia",
+        "Porque trabaja allí",
+        "Porque nunca ha estado en Gdańsk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek es de Poznań y lo defiende en la disputa sobre las estaciones."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Marta type into the search bar after coming home?",
+      "answers": [
+        "how to cook dinner",
+        "how to overcome clutter",
+        "how to buy an apartment",
+        "how to find a job"
+      ],
+      "correctIndex": 1,
+      "explanation": "After sitting on the sofa she types into her phone: how to overcome clutter."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Marta usually put off cleaning?",
+      "answers": [
+        "She tells herself she'll do it tomorrow, though she knows it isn't true",
+        "She cleans immediately after coming home",
+        "She asks neighbours for help every day",
+        "She hires a cleaning company every week"
+      ],
+      "correctIndex": 0,
+      "explanation": "She says \"I'll do it tomorrow\", but knows tomorrow will be just like today."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta discover after cleaning up?",
+      "answers": [
+        "That the clutter was hidden wealth",
+        "That the clutter was her waiting for change",
+        "That she should buy more things",
+        "That the apartment is too small"
+      ],
+      "correctIndex": 1,
+      "explanation": "She writes to her friend that it wasn't clutter — it was her waiting for change."
+    },
+    {
+      "type": "single_choice",
+      "question": "How old is Marta?",
+      "answers": [
+        "Twenty-five",
+        "Thirty-five",
+        "Forty-five",
+        "Fifty-five"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states directly that Marta is thirty-five."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the story end its definition of home?",
+      "answers": [
+        "Home is just an address",
+        "Home is a place where you are and where you become",
+        "Home is a warehouse of things",
+        "Home is an office"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final sentence says home is a place where you are and where you become."
+    }
+  ]
+}

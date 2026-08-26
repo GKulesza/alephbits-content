@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué lista aparece en la historia?",
+      "answers": [
+        "Una lista de candidatos al PE",
+        "La lista ucraniana Myrotvorets — enemigos de Ucrania",
+        "La lista de la compra de Ewa",
+        "Una lista de testigos en el tribunal"
+      ],
+      "correctIndex": 1,
+      "explanation": "El periodista dice que Ewa ha aparecido en la lista Myrotvorets."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué levanta Ewa durante su intervención en el PE?",
+      "answers": [
+        "La bandera blanca y roja de Polonia",
+        "La bandera roja y negra como prueba",
+        "Una fotografía de las víctimas",
+        "Una petición de los vecinos"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la carpeta tiene una bandera roja y negra y la levanta como prueba durante su discurso sobre Volinia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Ewa al representante del Ministerio de Exteriores sobre la nota diplomática?",
+      "answers": [
+        "Que le agradece la rápida reacción",
+        "Que esa nota está lista desde hace años y nada ha cambiado — quiere acción",
+        "Que prefiere callar",
+        "Que ella misma irá a Kiev"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa dice: \"Esa nota la tienen lista desde hace años... Háblame de acción.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Anna Bryłka a Ewa por teléfono?",
+      "answers": [
+        "Que se retire",
+        "Que ella también lleva mucho tiempo en la lista — \"bienvenida al club\"",
+        "Que no conoce Myrotvorets",
+        "Que el PE ha eliminado la grabación"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna responde: \"Yo llevo mucho tiempo también. Bienvenida al club.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Ewa en el vlog tras entrar en la lista?",
+      "answers": [
+        "Que abandona la política",
+        "Que no dejará de hablar de Volinia — hablará aún más alto",
+        "Que se disculpa ante Ucrania",
+        "Que borra la grabación del PE"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa dice: \"No dejaré de hablar de Volinia. Hablaré aún más alto.\""
+    }
+  ]
+}
