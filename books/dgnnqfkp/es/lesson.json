@@ -1,0 +1,130 @@
+{
+  "id": "dgnnqfkp:es",
+  "bookId": "dgnnqfkp",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_misja_ktora_pekla",
+  "legacySlug": "misja-ktora-pekla",
+  "title": "La misión que se quebró",
+  "language": "es",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-09",
+  "description": "Marek dirige una firma de consultoría madura y cree en su misión de ayudar a los emprendedores. Cuando se encuentra con clientes de otra escala y de otro mercado, los esquemas empiezan a quebrarse. Un relato sobre la consultoría, la ambición y el descubrimiento de que un buen consejo sin contexto puede ser peor que el silencio.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "business",
+    "ai",
+    "burnout",
+    "mission",
+    "management"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 8,
+  "translation": "Traducción al español de la lectura en polaco \"Misja która pękła\" — edición oficial de Collection Three.",
+  "text": "**LA MISIÓN QUE SE QUEBRÓ**\n\nCuando Marek fundó por primera vez su firma de consultoría, tenía veintisiete años, un piso con hipoteca y una novia que no entendía para qué quería \"tanto papeleo\". Se sentaba en la cocina, ante una mesa con tablero laminado, sorbía un café barato y escribía en el portátil el primer borrador de la misión de la empresa. Quería que fuera algo más que simplemente \"ganar dinero\". Quería que tuviera sentido.\n\n\"Ayudamos a las empresas B2B a crecer con sensatez\" – escribió. Luego lo corrigió: \"Ayudamos a las empresas B2B a crecer de forma sostenible, con respeto por las personas y su tiempo\". Sabía que sonaba a tópico. Pero creía en ello.\n\nDoce años después, la firma de Marek tenía ciento cincuenta empleados, oficinas en tres ciudades y una cartera de clientes con la que ni siquiera había soñado en sus sueños más audaces. Pero también tenía algo que no esperaba: la sensación de que algo había salido mal. De que la misión que había escrito aquella noche en la cocina se había ido torciendo por el camino. De que la gente que se unía a él venía por la idea, y se quedaba por el sueldo. Y de que cada vez más personas se iban con agotamiento.\n\n**Idea uno: Misión frente a negocio**\n\nMarek leía las noticias en el teléfono mientras conducía hacia la oficina. \"OpenAI despide a Sam Altman\". Parpadeó. \"El consejo lo acusa de haberse apartado de la misión. Altman habría girado demasiado hacia el negocio, incorporando a Microsoft como inversor\". Deslizó el dedo hacia abajo. \"Microsoft amenaza con retirar la financiación. Los empleados amenazan en masa con irse. Altman vuelve a los cinco días. El consejo que lo despidió acaba siendo destituido.\"\n\nMarek se detuvo en un semáforo y miró el teléfono. Era como una película. Un drama en el que nadie sabía quién era bueno y quién era malo. Misión frente a dinero. Idea frente a realidad.\n\nRecordó su propia empresa. Cómo al principio reclutaba gente hablándole de la visión, de que iban a cambiar el negocio polaco, de que iban a enseñar a las empresas a crecer con sensatez. Y cómo, con el tiempo, cuando la empresa creció, esas conversaciones empezaron a versar sobre todo sobre bandas salariales, beneficios y planes de carrera.\n\n– ¿Hemos perdido nosotros también la misión? – se preguntó.\n\nEntró en el aparcamiento y apagó el motor. Sabía que la respuesta no era sencilla. Él mismo ya no era aquel joven idealista de la cocina. Tenía hipoteca, tenía familia, tenía empleados que contaban con él. La misión no había desaparecido, pero había empezado a competir con otra cosa. Con la responsabilidad. Con la realidad.\n\nEntró en la oficina. En el tablón del vestíbulo colgaba la misma misión que había escrito doce años atrás. \"Ayudamos a las empresas B2B a crecer con sensatez\". Junto a ella colgaba un cartel nuevo: \"¡Contratamos! Únete al equipo que cambia el rostro del negocio polaco\". Marek lo miró y sintió que algo no estaba bien.\n\nCogió el teléfono y escribió a su director de operaciones: \"Tenemos que hablar de la misión. ¿Sigue siendo esto lo que queremos hacer, o es solo un eslogan en la pared?\"\n\nLa respuesta llegó a los pocos minutos: \"Hablemos esta noche. Creo que la mayoría tenemos preguntas parecidas\".\n\n**Idea dos: AI Brain Fry**\n\nDos semanas después, Marek estaba sentado en la sala de reuniones con la jefa del departamento de TI, Agnieszka. Hablaban de un proyecto nuevo, pero Agnieszka tenía aspecto de cansada. No del cansancio que se pasa después del fin de semana. Era otra cosa. Algo más profundo.\n\n– ¿Desde cuándo te sientes así? – preguntó Marek.\n\nAgnieszka dudó.\n\n– Desde hace un año. Quizá más. Sabes, no es que trabaje más horas. Trabajo lo mismo. Pero... es más duro. El cerebro me flota.\n\n– ¿Qué quieres decir?\n\n– He dejado de estar al día. Cada día aparece un modelo de IA nuevo. Una herramienta nueva. Una forma nueva de hacer cosas que hasta ahora hacía de una manera determinada. Tengo la impresión de que, si no pruebo cada novedad, en un momento seré inútil. De que otro sabrá más y será él quien ascienda. O de que la IA me va a sustituir por completo.\n\nMarek escuchaba. Recordó un informe que había leído unos días antes. \"El 67% de los empleados declara síntomas de agotamiento profesional. El 82% está en el grupo de riesgo. Uno de cada siete empleados declara fatiga mental por el malabarismo con herramientas de IA: un fenómeno llamado AI Brain Fry.\"\n\n– ¿Cuántas herramientas usas a diario? – preguntó.\n\n– ¿En el trabajo? Ocho. Nueve, si cuento las que estoy probando. Chat GPT, Claude, Copilot, Perplexity, Midjourney... cada una para algo distinto. Y cada una es mejor en algo distinto. Y cada una se actualiza, cambia, añade funciones cada dos por tres. A veces pienso que soy yo quien trabaja para ellas, y no ellas para mí.\n\nMarek asintió. Recordó la publicación de Tomek Karwatka que había leído unos días antes: \"Hoy aparece un modelo de IA nuevo como media cada dos días. Si tu estrategia es seguirlo todo al día, has perdido antes de empezar\".\n\n– Tenemos que cambiar algo – dijo. – No puedes seguir así. Nadie puede.\n\n– Lo sé – respondió Agnieszka. – Pero ¿el qué? ¿Dejar de usar la IA?\n\n– No dejarla. Pero dejar de perseguirla. Elegir dos o tres herramientas que de verdad importen para nuestro trabajo y centrarnos en ellas. Tratar el resto como interesante, pero no imprescindible. Y hacer lo mismo en toda la empresa. Una única estrategia para todos. Sin FOMO.\n\nAgnieszka lo miró con una esperanza que él había visto más de una vez en los ojos de sus empleados. Era la mirada de alguien que quiere que otro asuma la responsabilidad de lo que lo abruma.\n\n– Si haces esto por nosotros – dijo –, nosotros haremos por ti todo lo que esté en nuestra mano.\n\nMarek sabía que no sería fácil. Que algunos querrían usar todo lo nuevo. Que habría resistencia. Pero también sabía que, si no lo hacía ahora, en un año perderían a la mitad del equipo por agotamiento.\n\n**Idea tres: Contexto**\n\nUnos meses después, Marek estaba en el escenario de una conferencia de negocios. Hablaba de lo que había aprendido en su empresa durante los últimos años. De la misión que había evolucionado. Del agotamiento que hay que tratar no con beneficios, sino con un cambio sistémico. De la IA que debe ser una herramienta, no un amo.\n\nY entonces se le acercó un hombre mayor: el dueño de una empresa de fabricación mediana de Podkarpacie. Tenía aspecto de cansado, pero no del cansancio que había visto en Agnieszka. Era el cansancio de la resignación.\n\n– Le he estado escuchando – dijo el hombre. – ¿Y sabe qué? Yo también quería hacer algo parecido. Leo libros de gestión, voy a cursos. Solo que todos esos ejemplos son empresas de América. Con miles de millones de facturación. Con equipos de mil personas. Y yo tengo treinta empleados, dos plantas de producción y lucho por sobrevivir al mes. ¿Tengo que implantar yo lo que hace Google?\n\nMarek sonrió.\n\n– No. Y ahí está todo el problema. La mayor parte del conocimiento empresarial que nos llega está escrito en el contexto de las corporaciones estadounidenses. Allí, una \"gran empresa\" son mil millones de dólares de facturación. En Europa, son 250 empleados y 50 millones de euros. En China, hasta 300 empleados es todavía una empresa pequeña. Trasladamos soluciones de un contexto a otro y nos extrañamos de que no funcionen.\n\nEl hombre lo miró con atención.\n\n– Entonces, ¿qué hago?\n\n– Primero, desecha todo lo que no encaje con tu contexto. Pregúntate: ¿tiene sentido lo que leo en mi empresa, en mi mercado, con mi gente? Si no – fuera. Aunque sea sabio. Aunque funcione en otro sitio. Lo que funciona en Google no tiene por qué funcionar en tu caso.\n\n– ¿Y luego?\n\n– Luego construye tus propias soluciones. En tu propio terreno. Con tu propia gente. Y no tengas miedo de que no sean tan espectaculares como las de los libros. Serán tuyas. Y funcionarán.\n\nEl hombre asintió. En sus ojos apareció una chispa que no estaba antes.\n\n– Quizá no esté tan mal después de todo – dijo. – Quizá simplemente busqué en el sitio equivocado.\n\nMarek le puso la mano en el hombro.\n\n– No es fácil. Pero es posible. Y merece la pena. No tienes que ser como Zuckerberg o Altman. Puedes ser simplemente tú mismo. Y hacer lo que haces mejor que ayer. Eso ya es un éxito.\n\n**Epílogo**\n\nUn año después, Marek volvió a su oficina. En el vestíbulo seguía colgando la misma misión: \"Ayudamos a las empresas B2B a crecer con sensatez\". Pero junto a ella había aparecido un cartel nuevo: \"Aquí trabajamos con la cabeza. No perseguir. No agotarse. Estar.\"\n\nAgnieszka se convirtió en jefa del departamento de TI. Ya no hacía malabares con ocho herramientas a la vez. Tenía tres. Y funcionaban mejor. Su equipo estaba menos cansado. Más concentrado. Y – lo más importante – creía en lo que hacía.\n\nMarek seguía leyendo libros de negocios. Pero ahora los leía de otra manera. Buscaba el contexto. Buscaba la respuesta a la pregunta: \"¿Esto funciona en nuestra casa?\". Si no – lo apartaba.\n\nNo renunció a la misión. La transformó. Entendió que la misión no es estática, que tiene que respirar, cambiar, adaptarse. Como la empresa. Como las personas.\n\nPor la noche, de vuelta a casa, pensó en aquella conversación de Podkarpacie. En el hombre que buscaba respuestas. En todos los que intentan hacer negocios en Polonia leyendo libros escritos para otra persona. Y entendió que esa era su verdadera misión. No solo ayudar a las empresas a crecer. Sino ayudarles a encontrar su propio camino.\n\nNo copiar. No perseguir. No agotarse.\n\nSimplemente estar.\n\n**FIN**",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿Qué contradicción percibe Marek al mirar su propia empresa después de años?",
+        "answers": [
+          "Entre las oficinas de distintas ciudades",
+          "Entre la misión original y la realidad de la gestión, cada vez más orientada al sueldo y al crecimiento",
+          "Entre los documentos en papel y los digitales",
+          "Entre TI y ventas"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esta grieta entre la idea y la práctica pone en marcha toda la historia."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Por qué conmueve tanto a Marek la historia de OpenAI?",
+        "answers": [
+          "Porque quiere comprar acciones de Microsoft",
+          "Porque ve en ella un reflejo de su propio conflicto entre misión y negocio",
+          "Porque planea despedir al consejo",
+          "Porque no le gustan las startups"
+        ],
+        "correctIndex": 1,
+        "explanation": "En los hechos en torno a Sam Altman reconoce sus propias preguntas sobre el sentido y la responsabilidad."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué es en el texto el AI Brain Fry?",
+        "answers": [
+          "Un nuevo algoritmo de ranking",
+          "Fatiga mental resultante del constante malabarismo con herramientas de IA",
+          "Un programa para automatizar el trabajo",
+          "Un tipo de avería de servidor"
+        ],
+        "correctIndex": 1,
+        "explanation": "El informe y la conversación con Agnieszka lo definen como sobrecarga cognitiva."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué solución propone Marek ante el caos de las herramientas de IA?",
+        "answers": [
+          "Seguir cada novedad todavía más rápido",
+          "Elegir unas pocas herramientas de verdad importantes y soltar el FOMO",
+          "Prohibir la IA en la empresa",
+          "Dejar la decisión exclusivamente al departamento de RR. HH."
+        ],
+        "correctIndex": 1,
+        "explanation": "Su receta es limitar el número de herramientas y tener una estrategia común."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué papel desempeña el «contexto» en la última parte del texto?",
+        "answers": [
+          "Es el nombre de un producto nuevo de la empresa",
+          "Nos recuerda que las soluciones deben adaptarse a la escala, el mercado y la realidad de la propia empresa",
+          "Solo significa la situación política de EE. UU.",
+          "Sirve para explicar la contabilidad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marek explica que el conocimiento de las grandes corporaciones no funciona automáticamente en todas partes."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "dgnnqfkp:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "instruction",
+  "audience": "adult",
+  "subtitle": "Misión, agotamiento y contexto en la era de la IA",
+  "trustClassification": "instruction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-08-26"
+  },
+  "inspirationDates": [
+    "2026-07-06"
+  ],
+  "inspiredBy": {
+    "youtube": "RQ-uUuefMDY"
+  },
+  "world": {
+    "objects": [
+      "book"
+    ],
+    "places": [
+      "office",
+      "home"
+    ]
+  }
+}

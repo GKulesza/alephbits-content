@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who is Ms. Anna?",
+      "answers": [
+        "A reading teacher in a preschool class",
+        "A doctor",
+        "A school principal",
+        "An author of textbooks"
+      ],
+      "correctIndex": 0,
+      "explanation": "She has been teaching reading in a preschool class for twenty years."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the boy say about the syllable \"ma\"?",
+      "answers": [
+        "\"Em a\"",
+        "\"Ma-ma\"",
+        "\"A em\"",
+        "\"Ma\" without joining"
+      ],
+      "correctIndex": 0,
+      "explanation": "He names the letters instead of joining them into a syllable."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Ms. Anna say that the boy is not reading?",
+      "answers": [
+        "He recognises images from the app",
+        "He does not know the alphabet",
+        "He does not go to school",
+        "He has a vision defect"
+      ],
+      "correctIndex": 0,
+      "explanation": "The app shows words with pictures — that is associating, not reading."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the mother change after the conversation with Ms. Anna?",
+      "answers": [
+        "She reads books to the child and practises the syllables",
+        "She buys a new tablet",
+        "She signs her son up for sports",
+        "She changes schools"
+      ],
+      "correctIndex": 0,
+      "explanation": "After a month the mother reads books and shows syllables — the boy starts to read."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ms. Anna tell the mother at the end?",
+      "answers": [
+        "That it was the mother who taught the boy to read",
+        "That the app is enough",
+        "That the child is not fit for learning",
+        "That the school is to blame"
+      ],
+      "correctIndex": 0,
+      "explanation": "She says: \"It wasn't me. It was you.\""
+    }
+  ]
+}

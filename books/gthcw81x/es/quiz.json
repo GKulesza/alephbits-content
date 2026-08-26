@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Lena?",
+      "answers": [
+        "Ocho",
+        "Diez",
+        "Doce",
+        "Siete"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto: «Lena tenía diez años»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué abre la puerta a la tierra encantada?",
+      "answers": [
+        "Una llave de plata",
+        "Una moneda de oro",
+        "Un mapa",
+        "Una canción sin llave"
+      ],
+      "correctIndex": 0,
+      "explanation": "La abuela saca una llave de plata del bolsillo del delantal."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién resulta ser la abuela Rózia al final?",
+      "answers": [
+        "La Reina del Viento",
+        "La Reina de la Lluvia",
+        "La tía Stella",
+        "Copo de Nieve"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice: «Una vez fui la Reina del Viento»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué canción canta Lena para abrir la puerta?",
+      "answers": [
+        "Plip, plip, plip, abre la puerta…",
+        "Lluvia, cae sobre esta tierra",
+        "Quiquiriquí",
+        "Muu"
+      ],
+      "correctIndex": 0,
+      "explanation": "La abuela enseña una canción que empieza con «Plip, plip, plip…»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Lena para salvar el vestido de la Reina Kropeia?",
+      "answers": [
+        "Toca la flauta",
+        "Baila",
+        "Canta sobre la lluvia",
+        "Riega las flores"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lena toca una melodía con la flauta para descongelar el vestido de gotas."
+    }
+  ]
+}

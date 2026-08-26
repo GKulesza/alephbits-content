@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué Krzysztof presenta el programa de manera distinta la noche de luna llena?",
+      "answers": [
+        "Porque entonces tiene más oyentes en la radio",
+        "Porque en luna llena le «llegan» sensaciones sobre el futuro",
+        "Porque entonces graba anuncios",
+        "Porque la luna llena apaga internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que en luna llena tiene sensaciones sueltas sobre el futuro y que es una lástima no aprovecharlas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Anna en el relato?",
+      "answers": [
+        "Una productora de radio",
+        "La mujer de Krzysztof, médica y racionalista",
+        "Una oyente de Irán",
+        "Una estudiante de astrología"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna entra en bata, es médica y cuestiona la influencia de la luna."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Krzysztof sobre Irán en el desarrollo del programa?",
+      "answers": [
+        "Que Irán se rendirá por completo sin luchar",
+        "Que en junio empezarán ataques ocasionales y la «sábana negra» cae sobre Irán",
+        "Que Irán desaparecerá del mapa en una semana",
+        "Que Irán se apoderará de la Unión Europea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Predice ataques ocasionales en junio y la metáfora de la sábana negra sobre Irán."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ocurre en Europa en el epílogo, según la narración?",
+      "answers": [
+        "Una ausencia total de olas de calor",
+        "Olas de calor, un foco de ébola en Italia, comida más cara y un nuevo impuesto de la UE",
+        "La desaparición de todos los impuestos",
+        "El fin del programa de Krzysztof para siempre"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo menciona olas de calor, un foco en Italia, la carestía y un impuesto sobre infraestructuras."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice la carta anónima en enero de 2027?",
+      "answers": [
+        "Que el programa ha sido prohibido por ley",
+        "Que gracias a las advertencias pudo salir de Irán y está vivo",
+        "Que Krzysztof debe ganar el premio Nobel",
+        "Que la luna llena es un mito"
+      ],
+      "correctIndex": 1,
+      "explanation": "La carta agradece las advertencias y la huida de Irán antes de la catástrofe."
+    }
+  ]
+}

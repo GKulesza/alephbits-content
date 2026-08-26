@@ -1,0 +1,27 @@
+{
+  "packId": "arji8qlh:isv_cyrl",
+  "bookId": "arji8qlh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Историческы есеј с графичными описанијами злочинов; П0 фоундер ревиеw — Волын, политика, Мыротворец."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Xtigt79Sw9I"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "арји8qлх:пл",
+  "translationSourceVersion": "1.0.0"
+}

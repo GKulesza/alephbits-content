@@ -1,0 +1,27 @@
+{
+  "packId": "ak1vrjnv:isv_glag",
+  "bookId": "ak1vrjnv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⱄⰸⰺⱆⰸⰹⰰ ⰾ ⰿⱁⰸⱅⰾⰻⰾⰳⰸⱇⰽⱑⱅ ⰸⰳⱀⰰⱅ ⰲ ⰱⱀⰰⰺⰵ; ⱂⰵⰼⱑ ⰴⰾⰼⰾⰲⰾⰳⰾ ⰽⰰⱁⰸⰻⰸⰹⰰ ⰲ ⰿⱀⰾⱈⰻⰾⱁⱂⰸ — ⱇⱃⰲⱁⱂⰲⰸⱂⰵⰻⰽⰾ, ⱄⰸⱆⱂⰸⰾⰽ ⱄⱀⰰⰼⰸⰽⰳ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "W80HZGHQpqc"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 102 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "machine",
+  "translationSource": "ak1vrjnv:isv",
+  "translationSourceVersion": "1.1.0"
+}

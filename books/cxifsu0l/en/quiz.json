@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What is Zosia studying?",
+      "answers": [
+        "Pharmacology",
+        "Law",
+        "Astronomy",
+        "Art history"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pharmacology exam is in three weeks."
+    },
+    {
+      "type": "single_choice",
+      "question": "What technique does she use at the library?",
+      "answers": [
+        "The Pomodoro method — 25 minutes of study",
+        "Studying all night without breaks",
+        "Only video recordings",
+        "Online group projects"
+      ],
+      "correctIndex": 0,
+      "explanation": "She sets a timer for 25 minutes and takes notes without her phone."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Krzysztof say in the programme about getting down to things?",
+      "answers": [
+        "That you have to wait for enthusiasm",
+        "That taking action is like clarified butter — without super energy at the start",
+        "That it is best to do nothing",
+        "That only the full moon helps"
+      ],
+      "correctIndex": 1,
+      "explanation": "He quotes the metaphor of clarified butter — without enthusiasm at the beginning."
+    },
+    {
+      "type": "single_choice",
+      "question": "What exam result does Zosia get?",
+      "answers": [
+        "Failed",
+        "Passed with a grade of 4.5",
+        "Grade 2.0",
+        "No result in the text"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogue: Passed. Grade: 4.5."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which YUI song does she listen to while studying?",
+      "answers": [
+        "\"again\"",
+        "\"Rolling Star\"",
+        "Both — \"again\" at the turning point and \"Rolling Star\" after the exam",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"again\" helps her at the turning point; after the exam she plays \"Rolling Star\"."
+    }
+  ]
+}

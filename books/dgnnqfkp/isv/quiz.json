@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kaku protivrěčnost Marek zaměčuje, gljadajuči na svoju vlastnu firmu po lětah?",
+      "answers": [
+        "Meždu ofisami v raznyh městah",
+        "Meždu pervoiznačaljnoj misijeju i realnostju dejstvija, narastajuče orientovanogo na vyplatu i rost",
+        "Meždu bumaznymi i cifrovymi dokumentami",
+        "Meždu IT i prodajeju"
+      ],
+      "correctIndex": 1,
+      "explanation": "To jest tresk meždu idejeju i praktikoj, ktoryj zapuskaje vsu povest."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začemu istorija OpenAI tako silno kasaetsja Marka?",
+      "answers": [
+        "Bo hočet kupiti akciji Microsofta",
+        "Bo vidit v nej otraženje vlastnogo konflikta meždu misijeju i biznesom",
+        "Bo planiruje uvoliti upravu",
+        "Bo ne ljubit startupov"
+      ],
+      "correctIndex": 1,
+      "explanation": "V sobytjah okolo Sama Altmana uznaje vlastnyje voprosy o smyslě i otvětstvennosti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto v tekstě jest AI Brain Fry?",
+      "answers": [
+        "Novyj rangovyj algoritm",
+        "Psihična ustalost, vytekajuščaja iz postojannogo žonglovanija AI-instrumentami",
+        "Programma dlja avtomatizaciji raboty",
+        "Vid povreždenija servera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Otčet i beseda s Agnieszkoju definujut to kako kognitivnoje perenaprjaženije."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoje rešenije Marek predlagaje protiv kaosa AI-instrumentov?",
+      "answers": [
+        "Slediti každoj novinkě ješče bystrěje",
+        "Izbrati neskolko istinno važnyh instrumentov i otpustiti FOMO",
+        "Zabroniti AI v firmě",
+        "Peredati rešenije isključitelno otdělu kadrov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jego recepta jest ograničenije čisla instrumentov i obšča strategija."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku rolu igraje kontekst v poslědnjej časti teksta?",
+      "answers": [
+        "Jest imenovaniem novogo produkta firmy",
+        "Napominaje, že rešenija treba prisposobiti k skale, rynku i realnostim vlastnoj firmy",
+        "Značit tolko političnu situaciju SŠA",
+        "Služit dlja objasnenija buhgaltjeriji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek objasnjaje, že znanije iz velikih korporacij ne dělaje avtomatično vsudy."
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+# The Black Sheet
+
+## Metadata
+
+**Pack ID:** dgdzvgpm
+**Book ID:** dgdzvgpm
+**Legacy Pack ID:** polish_czarna_plachta
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** The Black Sheet  
+**Subtitle:** Full moon, broadcast and prophecy  
+**Blurb:** On the night of the full moon, Krzysztof hosts "Day by Day" — a broadcast in which he talks about what "flows in" to him in silence. Iran, weather fronts, earthquakes: a story about a man who reads the world like a sign, and about a marriage that does not believe in prophecies, but stays.
+
+**Genres:** article, short_story  
+**Series:** Collection Seven  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Czarna płachta" — Collection Seven official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** pełnia, audycja, przepowiednia, Collection Seven  
+
+**Keywords:** black sheet, Iran, full moon, broadcast  
+
+**Cover family:** psychology
+
+**Editorial notes:** English translation of the Polish canonical edition (Collection Seven manuscript). Full text preserved — not abridged.
+
+**Translation status:** machine  
+**Translation source:** dgdzvgpm:pl  
+**Translation source version:** 1.0.0  
+
+**Inspiration:** Collection Seven manuscript; the motif of the full moon and the "Day by Day" broadcast.
+
+---
+
+**World:**
+- objects: window
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 28.05.2026  
+**Revision notes:** Phase 97 import. Ten sam prowadzący co w „Zielonej poświacie” — founder decyduje o relacji serii.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 97 import; philosophy fit 2/5 — Słabe dopasowanie naukowe; ciekawość tylko pośrednio — raczej fikcja o intuicji niż materiał edukacyjny. |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-05-28  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**THE BLACK SHEET**
+
+## I. THE BEGINNING
+
+Krzysztof knew that this night would be different even before he opened his eyes. Full moon – he felt it in his bones, in the bend of his fingers, in the hum of blood that flowed through his veins like a tidal wave. He lay in bed next to his wife, who was sleeping peacefully, but he knew he would not fall asleep. He never slept during the full moon.
+
+He got up quietly, went into his study and sat down in front of the microphone. 23:47. Outside the window, Warsaw glistened in the moonlight, and he knew that in a moment he would start talking to thousands of people who listened to him in solitude, in their homes, in their cars.
+
+– Good evening, everyone – he said, turning on the microphone. – The "Day by Day" broadcast.
+
+He cleared his throat. His voice was calm, although inside he felt growing tension. For the past twenty years he had hosted this broadcast – first on local radio, then on YouTube, and finally as an independent podcast. People came to him with questions, with fears, with the hope that he would tell them something they didn't know. And he talked. He talked about what he felt, what he saw, what "flowed in" to him in moments of silence.
+
+– Today, because it's almost a full moon outside – he continued, closing his eyes. – I have these loose feelings about the future. It would be a shame not to make use of this full moon.
+
+He fell silent for a moment. In the silence he heard his own breathing and the hum of the fan in his computer. And then – as always – it came. Not as words, not as images. As _knowledge_. Something that simply _was_ in him, as if it had always been there, and had now decided to reveal itself.
+
+– Soon we will suddenly learn about an amazing breakthrough in the treatment of cancer – he said, and his voice was now quieter, more focused. – Certain types of cancer... in the causal-observational phase... but there will be a bold claim that an amazing breakthrough has been invented.
+
+He opened his eyes and looked at the screen, where he saw the listeners' comments. _"Mr Krzysztof, what about Beskid?"_ – someone asked. _"Thank you for the proven vision"_ – wrote another.
+
+He smiled bitterly. "Proven vision". If only they knew how many times he had been wrong, how many times his "feelings" had turned out to be just fear, hope, the ordinary human desire for the world to be predictable.
+
+But there were also moments when he was right. And those moments kept him going.
+
+He closed his eyes again.
+
+– I also have this feeling that a front will pass over Europe – he said. – A powerful front, a cyclone that will cause enormous damage. It doesn't necessarily have to happen in Poland... more to the south. From Poland towards the south of Europe. Slovakia, the Czech Republic... maybe Hungary, the Balkan countries. A total storm at the beginning of summer.
+
+---
+## II. THE DEVELOPMENT
+
+During the commercial break Krzysztof stood up and poured himself some tea. His wife, Anna, came into the study in her dressing gown, with dishevelled hair.
+
+– You're doing it again? – she asked, although she knew the answer.
+
+– I have to – he replied, without turning around. – It's a full moon.
+
+– Krzysztof, it's been twenty years. When will you stop believing that the moon has an influence on you?
+
+He put the cup down on the desk and looked at her.
+
+– I don't believe it. I feel it. That's a different thing.
+
+Anna sighed. She was a doctor, a rationalist, a woman who believed in evidence, in research, in what could be measured. In twenty years of marriage she had learned to accept his "feelings", but she had never understood them.
+
+– Do you remember what you said a year and a half ago? – she asked. – About the Third World War?
+
+– I remember. I said it would start at the turn of February and March 2026.
+
+– And? – she raised an eyebrow. – Has it started?
+
+Krzysztof was silent for a moment. 28 February 2026. America and Israel struck at Iran. Serious losses. Retaliation. Bases attacked. The world found itself on the brink.
+
+– I don't know if it's a war yet – he said at last. – But something has begun. And it won't end quickly.
+
+Anna walked over to him and put her hand on his shoulder.
+
+– Krzysztof, you are not a prophet. You are a man who has... imagination. And fear. The world has always been dangerous. That doesn't mean you can see the future.
+
+He looked at her and smiled sadly.
+
+– Maybe you're right. But if I'm right even once, and I don't say it out loud... I'll regret it for the rest of my life.
+
+Anna didn't answer. She just squeezed his shoulder and left the study.
+
+Krzysztof turned back to the microphone. He turned it on again.
+
+– We're back to the broadcast – he said. – I'm listening to you. Someone is asking about Iran...
+
+He closed his eyes. And it came again.
+
+– Iran... – he said slowly. – In June the military operations will begin. Not a massive attack, like in March... but occasional attacks. Iranian retaliatory attacks. The black sheet is falling over Iran.
+
+He heard his own voice, but as if from afar, as if someone else was speaking through him.
+
+– America will not decide to fight Iran on the ground. Israel likewise. But in two regions of Iran a weapon may be used that is a forbidden weapon... Two bombs on two opposite sides of Iran. They won't be big, but they will do a lot of harm. There will be a demand for Iran's submission, capitulation under the threat of further bombs.
+
+He opened his eyes. His hands trembled slightly. He looked at the comments appearing on the screen.
+
+_"Does that mean a war in the Middle East?"_
+
+_"Mr Krzysztof, please more about Europe."_
+
+_"And what about Poland?"_
+
+He rubbed his eyes. He felt the fatigue that always came after such moments – as if telling the truth drained the energy out of him.
+
+– Poland... – he said. – In the European Union the idea of unifying taxes will come up. An additional tax that will flow to the Union. It doesn't have to be big, but we'll get a new tax on top of the ones we already pay.
+
+He fell silent for a moment.
+
+– It will be very hot in Europe. Strong heatwaves. And then the foci of a regional epidemic will begin. I don't know if it's Ebola or another virus. But there will be a focus. In one region the military will be involved. It will be guarding something... maybe a collective quarantine. A whole town placed under quarantine.
+
+He heard his own voice getting quieter and quieter, as if someone was turning down the volume knob.
+
+– There will be serious problems with fuel. Food will start to become a problem. It will get much more expensive. In some countries some products may start to become scarce...
+
+He fell silent. He felt he was approaching something he didn't want to see. But he knew he couldn't stop.
+
+– A strong earthquake will hit Greece – he said, and his voice was now barely audible. – Some historically important building will be badly damaged. A strong earthquake in Greece... and smaller ones in the Balkans.
+
+He paused. In the silence he heard the beating of his own heart.
+
+– One small little country – he whispered. – One small little country from which death goes out into the world.
+
+---
+## III. THE TURNING POINT
+
+When the broadcast ended, Krzysztof turned off the microphone and sat in the darkness for a long time. Outside the window the moon still shone brightly, but he felt its glow beginning to fade. The full moon was passing. Only he, his thoughts and what he had said remained.
+
+He stood up and went into the living room. Anna was sitting on the sofa with a book in her hand. She didn't look up when he came in.
+
+– Are you done? – she asked.
+
+– Yes.
+
+– Anything else? – she asked, and her voice carried as much concern as resignation.
+
+He sat down next to her. For a moment he looked at her hands holding the book, at her fingers squeezing the cover as if they wanted to cling to something.
+
+– Anna... – he began. – What would you do if you knew something bad was going to happen, but you couldn't prove it? If you just... knew?
+
+She put the book down and looked at him. In her eyes he saw the same as always – a mixture of love and fatigue.
+
+– I would do what you do – she said quietly. – I would speak as long as someone would listen to me.
+
+– Even if they didn't believe me?
+
+– Even then. – She smiled sadly. – Because it's not about belief, Krzysztof. It's about the truth. Even if only you know it.
+
+He took her hand and squeezed it.
+
+– Thank you.
+
+– For what?
+
+– For not leaving me. Even when you think I'm mad.
+
+She laughed softly.
+
+– I don't think you're mad. I think you're... different. And that the world needs people like you. Even if it doesn't always want to listen to them.
+
+---
+## IV. THE ENDING
+
+Three months later Krzysztof sat in the same armchair, in front of the same microphone. It was August, the heatwaves were suffocating Europe, and the news from the Middle East was increasingly alarming.
+
+Iran had not fallen. But the bombs had fallen – two, on opposite sides of the country. Not nuclear, but powerful enough for the world to understand that the line had been crossed. Israel and America demanded capitulation. Iran responded with attacks on bases. And somewhere in the background, in several Arab countries, people began to say that American bases were no longer welcome.
+
+A earthquake hit Greece. The ancient theatre at Epidaurus suffered – part of the colonnade collapsed, but no one died. The media spoke of a miracle. Krzysztof knew it was not a miracle. It was only... a regularity. A cycle.
+
+In Europe an Ebola focus appeared – in a small town in the south of Italy. The military surrounded the town. Quarantine. The media spoke of a "local outbreak", but Krzysztof knew this was only the beginning.
+
+Food prices went up. Fuel too. In some countries basic products began to run out.
+
+And the European Union announced a new infrastructure tax.
+
+Krzysztof turned on the microphone.
+
+– Good evening, everyone – he said. – The "Day by Day" broadcast.
+
+He fell silent for a moment. Outside the window the moon was almost new – a thin crescent that barely shone. But he felt that this was not the end. That cycles repeat. That what he had seen was only a fragment of a greater whole.
+
+– I remember what I said half a year ago – he said. – About the Third World War. About the black sheet over Iran. About a war that will not end quickly.
+
+He paused. In his head an image appeared – a small little country from which death goes out into the world.
+
+– I don't know where it is – he said quietly. – But I know it exists. And that we will soon learn about it.
+
+He closed his eyes. And then he did what he always did – he told the truth, even if no one wanted to listen.
+
+Because he knew it was the only thing he could do.
+
+And that it would have to be enough.
+
+---
+## V. EPILOGUE
+
+In January 2027 Krzysztof received a letter. It was addressed by hand, without a sender, but he knew who it was from. He opened it with trembling hands.
+
+_"Mr Krzysztof"_ – he read. _"I have been listening to you for the past two years. I believed you when others laughed. Thank you. Thanks to you I managed to leave Iran before it was too late. Thanks to you my family is alive. I don't know how you know. I don't know how it works. But I know you have a gift. Please don't waste it. The world needs someone who tells the truth, even if it is inconvenient."_
+
+Krzysztof put the letter down and looked out of the window. Outside it was snowing – the first snow of this winter. White flakes fell slowly, covering the city with a layer of silence.
+
+He smiled.
+
+_"I'm not wasting it"_ – he thought. _"I never wasted it."_
+
+He sat down in front of the microphone and turned it on.
+
+– Good evening, everyone – he said. – The "Day by Day" broadcast.
+
+He closed his eyes. And it came again.
+
+---
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** Why does Krzysztof host the broadcast differently on the night of the full moon?
+
+**Answers:**
+- A) Because then he has the most listeners on the radio
+- B) Because at the full moon "feelings" about the future "flow in" to him
+- C) Because then he records commercials
+- D) Because the full moon switches off the internet
+
+**Correct:** B
+**Explanation:** He says that at the full moon he has loose feelings about the future and it would be a shame not to use them.
+**Text reference:** at the full moon
+
+### Question 2
+
+**Question:** Who is Anna in the story?
+
+**Answers:**
+- A) A radio producer
+- B) Krzysztof's wife, a doctor and rationalist
+- C) A listener from Iran
+- D) A student of astrology
+
+**Correct:** B
+**Explanation:** Anna comes in in her dressing gown, she is a doctor and questions the moon's influence.
+**Text reference:** Krzysztof's wife
+
+### Question 3
+
+**Question:** What does Krzysztof say about Iran in the development of the broadcast?
+
+**Answers:**
+- A) That Iran will surrender completely without a fight
+- B) That in June occasional attacks will begin and the "black sheet" falls over Iran
+- C) That Iran will disappear from the map within a week
+- D) That Iran will take over the European Union
+
+**Correct:** B
+**Explanation:** He predicts occasional attacks in June and uses the metaphor of a black sheet over Iran.
+**Text reference:** the black sheet falls over Iran
+
+### Question 4
+
+**Question:** What happens in Europe in the epilogue, according to the narration?
+
+**Answers:**
+- A) A complete absence of heatwaves
+- B) Heatwaves, an Ebola focus in Italy, more expensive food and a new EU tax
+- C) The disappearance of all taxes
+- D) The end of Krzysztof's broadcast forever
+
+**Correct:** B
+**Explanation:** The epilogue lists heatwaves, a focus in Italy, higher prices and an infrastructure tax.
+**Text reference:** infrastructure tax
+
+### Question 5
+
+**Question:** What does the anonymous letter say in January 2027?
+
+**Answers:**
+- A) That the broadcast has been legally banned
+- B) That thanks to the warnings he managed to leave Iran and is alive
+- C) That Krzysztof should win a Nobel Prize
+- D) That the full moon is a myth
+
+**Correct:** B
+**Explanation:** The letter thanks him for the warnings and for escaping Iran before the catastrophe.
+**Text reference:** I managed to leave Iran
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

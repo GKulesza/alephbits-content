@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kolko let Adam i Magda jesmo kupy?",
+      "answers": [
+        "Pet",
+        "Petnadset",
+        "Tridevet",
+        "Dva"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam govori o petnadset letah braka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Adam opisyvaje misljenje o žene?",
+      "answers": [
+        "Kako čitanje knigy",
+        "Kako kliknutje ikonky — srazu otvoraje se znany fajl",
+        "Kako slušanje radija",
+        "Kako son, kotoryj se povtarjaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govori o ikonke na rabočem stole i fajle, kotoryj zna od pereda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Magda vari buljon?",
+      "answers": [
+        "Bo ljubi tolko buljon",
+        "Bo čuje se samotna, kogda život jest prědvidimyj",
+        "Bo Adam jej kazal",
+        "Bo čekajut gostej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Priznaje, že vari buljon, kogda čuje samotu i prědvidimost."
+    },
+    {
+      "type": "single_choice",
+      "question": "O čem Adam voprosi Magdu pri pauzovanom filme?",
+      "answers": [
+        "O ferijah",
+        "Či někogda mysli o razlučenju",
+        "O rabotě",
+        "O děteh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voprosi prjamo: či někogda mysliš o razlučenju?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Adam piše v knige na koncu?",
+      "answers": [
+        "Že braki jesmo bez smysla",
+        "Že najvěčšaja ošibka byla misl, že zna ženu naskroz",
+        "Že terapija vobšče ne rabotaje",
+        "Že razvod jest jedinyj vyhod"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piše o ošibke misli, že zna ženu naskroz."
+    }
+  ]
+}

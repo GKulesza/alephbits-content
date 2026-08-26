@@ -1,0 +1,27 @@
+{
+  "packId": "omqigct2:isv_glag",
+  "bookId": "omqigct2",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰺⰾⱀⰾⱂⰺⰰ ⱄⰸⰺⱆⰸⰹⰰ ⰾ ⰾⱁⱂⰰⰽⰾⰲⰵⰽⰸⰹⱃ ⰿⱀⰵⰴ ⱅⱀⰾⰽⰸⱇⰽⱑⰼ ⱁⰻⱃⰶⰵⰱⰽⱑⰼ ⱁⱂⱀⰵⱁⰾⰼ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y734jWkM9dY"
+    }
+  ],
+  "revisionNotes": "Ⰺⱀóⱂⰺⰰ ⱄⰸⰺⱆⰹⰰ ⰾ ⰷⰰⱂⱀⰷⱑⰼⰰⰽⰸⱃ ⱁⰸę wⰾⰱⰵⱆ ⱆⱅⱀⰾⰽⰸⱆⰷⰽⰵⰳⰾ ⱁⱂⱀⰵⱁⱃ ⰷⰰwⰾⰴⰾwⰵⰳⰾ.",
+  "translationStatus": "machine",
+  "translationSource": "omqigct2:isv",
+  "translationSourceVersion": "1.0.0"
+}

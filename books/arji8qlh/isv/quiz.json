@@ -1,0 +1,67 @@
+{
+  "title": "Proveri svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kakyj titul iměl tekst Rafała iz 2008 goda v Rzeczpospolita?",
+      "answers": [
+        "Simetrija krivd",
+        "My vsě zabyli",
+        "Proskripcijska lista",
+        "Volyn bez cenzury"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał pripominaje tekst s titulom iz Wyspiański: «Myśmy wszystko zapomnieli» (My vsě zabyli)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Rafał nazyvaje «prokletuju simetriju»?",
+      "answers": [
+        "Ravnovesije vlasti v EU",
+        "Sravnjenije genocida s «polaki tože krivdili»",
+        "Simetriju v arhitektuře",
+        "Simetriju v medijah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salonnyje «simetriji» trivializirujut Volyn: «polaki tože krivdili, ne?»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakuju scenu iz poemy Ševčenka Rafał pripominaje?",
+      "answers": [
+        "Ivan Gonta ubivaje svoje vlastnyje děti",
+        "Bitvu pri Grunwaldu",
+        "Podpisanje mira",
+        "Svadbu heroja"
+      ],
+      "correctIndex": 0,
+      "explanation": "V «Hajdamakah» kliučevaja scena: Ivan Gonta ubivaje svoje vlastnyje děti iz-za «polskoj krvi»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Za čto Rafał dostal medal od kresovyh krugov?",
+      "answers": [
+        "Za rabotu v TVP",
+        "Za pripominanje o Volyni",
+        "Za tekst o Tajvanu",
+        "Za učestje v Evropskom Parlamentě"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kresovyje krugi čestvajut teh, kto ne zabyl — Rafał dostal medal za pripominanje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Rafał bojit se bolše čem vipurov iz balady Kaczmarskogo?",
+      "answers": [
+        "Kritiki v socialnyh mrežah",
+        "Tišiny i zapomnjenja",
+        "Izguby raboty",
+        "Emigraciji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał govorit: ne bojit se vipurov — bojit se tišiny i zapomnjenja."
+    }
+  ]
+}

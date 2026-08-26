@@ -1,0 +1,393 @@
+# Črna plahta
+
+## Metadata
+
+**Pack ID:** dgdzvgpm
+**Book ID:** dgdzvgpm
+**Legacy Pack ID:** polish_czarna_plachta
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Črna plahta  
+**Subtitle:** Polnolune, audicija i proročanstvo  
+**Blurb:** Krzysztof pri polnolune vedet "Den po dnu" — audiciju, v ktoroj govorit o tom, čto "priplyvaje" k njemu v tišině. Iran, vremenske fronty, zemletrasenija: povest o čelověku, ktoryj čitaje svet kako znak, i o supružestvě, ktoroje ne věri v proročanstva, no ostaje.
+
+**Genres:** article, short_story  
+**Series:** Collection Seven  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjansky prevod polskoj redakcii "Czarna płachta" — oficialno izdanje Collection Seven.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** pełnia, audycja, przepowiednia, Collection Seven  
+
+**Keywords:** črna plahta, Iran, polnolune, audicija  
+
+**Cover family:** psychology
+
+**Editorial notes:** Medžuslovjansky prevod polskoj kanoničeskoj redakcii (manuscript Collection Seven). Povny tekst sohraněn — bez skračenij.
+
+**Translation status:** machine  
+**Translation source:** dgdzvgpm:pl  
+**Translation source version:** 1.0.0  
+
+**Inspiration:** Manuskript Collection Seven; motiv polnolunja i audiciji "Den po dnu".
+
+---
+
+**World:**
+- objects: window
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 28.05.2026  
+**Revision notes:** Phase 97 import. Ten sam prowadzący co w „Zielonej poświacie” — founder decyduje o relacji serii.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 97 import; philosophy fit 2/5 — Słabe dopasowanie naukowe; ciekawość tylko pośrednio — raczej fikcja o intuicji niż materiał edukacyjny. |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-05-28  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**ČRNA PLAHTA**
+
+## I. NAČALO
+
+Krzysztof znal, že ta noč budet ina, ješče prežde čem otvoril oči. Polnolune – čutil jeje v kostjah, v zgibenju palcev, v šume krvi, ktoraja tekla jemu v žilah kako volna priplyva. Ležal v posteli obok svojej ženy, ktoraja spala spokojno, no on znal, že ne zasne. Nikogda ne spal v polnolune.
+
+Vstal tiho, perešel v svoj kabinet i sěda pred mikrofonom. Čas 23:47. Za oknom Varšava blestala v lunovom svetlě, a on znal, že za chvilu načne govoriti k tysjačam ljudij, ktoryje slušajut jogo v samotě, v svojih domah, v svojih avtomobilah.
+
+– Dobryj večer, gospoda – rekl, vključajuči mikrofon. – Audicija "Den po dnu".
+
+Odchrknul. Jego glas byl spokojny, hoti vnutri čutil narastajuče naprjaženje. Čerez poslědnih dvadcat lět vedl etu audiciju – prvo v lokalnom radiu, potom na YouTube, nakonec kako nezavisimyj podcast. Ljudi prichodili k njemu s voprosami, s obavami, s nadeždeju, že im skaže něšto, čto ne znajut. I on govoril. Govoril o tom, čto čujet, čto vidit, čto "priplyvaje" k njemu v chvilah tišiny.
+
+– Dnes potomu, že za oknom počti polnolune – prodolžal, zatvorjajuči oči. – Imaju takoje svobodnoje čuvstvo na budučnost. Škoda ne ispolzovati etu polnolune.
+
+Zamolčal na chvilu. V tišině slyšal vlastnyj dyh i šum ventljatora v kompjutere. A potom – kako vsegda – prišlo to. Ne kako slova, ne kako obrazy. Kako _znanije_. Něšto, čto prosto _bylo_ v njem, kako by vsegda tam bylo, a teper rešilo se objaviti.
+
+– V nedalekom času uznaemo naglno o nevěrojatnom progresse v lečenju rakovyh boleznej – rekl, a jego glas byl teper tiše, bolje sosredotočen. – Nekotoryje vidy rakovyh boleznej... v fazě pričinno-sledstvenogo nabljudenija... no budet směla definicija, že izumano nevěrojatnyj progres.
+
+Otvoril oči i posmotrěl na ekran, gdě videl komentary slušatelov. _"Pane Krzysztof, čto s Beskidom?"_ – voprosil kto-to. _"Děkuju za prověrennoje videnije"_ – pisal inoj.
+
+Usmehnul se gorko. "Prověrennoje videnije". Ježeli by oni znali, koliko raz on mylil se, koliko raz jeho "čuvstva" okazali se tolko strahom, nadeždeju, obyknovennym čelovečesky želanijem, čtoby svet byl predvidimyj.
+
+No byli takže chvili, kogda iměl pravdu. I ty chvili potegnuli jogo dale.
+
+Zatvoril oči znovu.
+
+– Imaju takoje čuvstvo takže, že projde front čerez Evropu – rekl. – Potenčnyj front, ciklon, ktoryj sdělaje ogromnyje poteri. Ne objazatelno to v Polskě se zdariti... bolě južněje. Od Polski v napravlenju juga Evropy. Slovakija, Čehy... možet Vengrija, balkanske krajiny. Polna navalnica v načalě lěta.
+
+---
+## II. RAZVITJE
+
+V reklamovoj pauzě Krzysztof vstal i nalil sebě čaja. Jego žena, Anna, vošla v kabinet v chalatě, s rastrjapannymi vlasami.
+
+– Opet to dělaješ? – voprosila, hoti znala otvět.
+
+– Musu – otvětil, ne obvračajuči se. – Jest polnolune.
+
+– Krzysztof, to už dvadcat lět. Kogda prestaneš věriti, že luna iměje na tebě vlijanije?
+
+Postavil kubok na stol i posmotrěl na nje.
+
+– Ne věrju. Čuju. To drugoje.
+
+Anna vzdohnula. Byla lekarom, racionalistom, ženoju, ktoraja věrila v dokazy, v issledovanija, v to, čto možno izměriti. Čerez dvadcat lět supružestva naučila se prijimati jego "čuvstva", no nikogda ih ne razuměla.
+
+– Pomniš, čto govoril poltora goda tomu? – voprosila. – O tretjej svetovoj vojne?
+
+– Pomnju. Rekl, že načne se na perehodě fevralja i marta 2026.
+
+– I čto? – podnjala brov. – Načala se?
+
+Krzysztof molčal chvilu. 28 fevralja 2026. Amerika i Izrael udarili na Iran. Velikije poteri. Otvetnyj udar. Atakovanyje bazy. Svet okazal se na kraju.
+
+– Ne znaju, čy to už vojna – rekl nakonec. – No něšto načalo se. I to ne skončit se skoro.
+
+Anna podstupila k njemu i položila ruku na jego pleče.
+
+– Krzysztof, ty ne jest prorok. Ty jest čelověk, ktoryj imaje... fantaziju. I strah. Svet vsegda byl nebezpečnyj. To ne značit, že vidiš budučnost.
+
+Posmotrěl na nje i usmehnul se smutno.
+
+– Možet, imaješ pravdu. No ježeli hoti raz imaju pravdu, a ne skazu to naglas... budu to žalovati do konca žizni.
+
+Anna ne otvětila. Tolko stisnula jego pleče i vyšla iz kabineta.
+
+Krzysztof obvernul se k mikrofonu. Vključil jego znovu.
+
+– Vrnemo se k audiciji – rekl. – Slušaju vas. Kto-to voprosit o Iranu...
+
+Zatvoril oči. I znovu prišlo.
+
+– Iran... – rekl pomalo. – V ijune načnut se bojevyje dejstvija. Ne zmasovanyj atak, kako v marte... no okazionalnyje ataky. Iranske otvetnyje ataky. Črna plahta opadaje na Iran.
+
+Slyšal vlastnyj glas, no kako by iz dali, kako by kto-to inoj govoril čerez nego.
+
+– Amerika ne rešit se vojevati s Iranom nazemno. Izrael podobno. No v dvah regionah Irana možet byti upotrebljeno oružje, ktoroje jest zakazano oružje... Dve bomby po dvah protivnyh stranah Irana. Ne budut velikije, no sdělajut nemalo škody. Budet trebovanije od Irana poddanosti, kapitulaciji pod grozoju upotreblenija dalšyh bomb.
+
+Otvoril oči. Jego ruki lěgko tremeli. Posmotrěl na komentary, ktoryje pojavljali se na ekraně.
+
+_"Čy to značit vojnu na Bliskom Vostokě?"_
+
+_"Pane Krzysztof, prosmo veče o Evropě."_
+
+_"A čto s Polskoj?"_
+
+Proter oči. Čutil ustalost, ktoraja vsegda prichodila po takih momentah – kako by govorenje pravdy vysasyvalo iz nego energiju.
+
+– Polska... – rekl. – V Jevropejskom Sojuzě zapadne ideja o ujednolenju podatkov. Dodatnyj podatok, ktoryj budet teči do Sojuza. Ne musi byti veliky, no dojde nam novyj podatok, kromě teh, ktoryje už platimo.
+
+Zamolčal na chvilu.
+
+– Budet očen v teplo v Evropě. Silnyje žary. I togda načnut se ognjišča regionalnoj zarazy. Ne znaju, čy to Ebola, čy inoj virus. No budet ognjišče. V jednom regioně budet v tom učastvovati vojska. Budet stražiti něšto... možet kollektivnu karantinu. Cěla městnost pod karantinoj.
+
+Slyšal, kako jego vlastnyj glas stanovi se čim dalje tiše, kako by kto-to odkručivaje galku gromkosti.
+
+– Budut serěznyje problemy s palivom. Žywnost načne byti problemoj. Očen podorožaje. V nekotoryh gosudarstvah nekotoryje asortimenty mogut načati byti deficitnimi...
+
+Zamolčal. Čutil, že približaje se k čemu-to, čto ne hočet viditi. No znal, že ne možet se zadržati.
+
+– Greciju navěstit silnoje zemletrasenije – rekl, a jego glas byl teper jedva slyšnyj. – Kakoje-to važno istorično zdanije budet silno povreždeno. Silnoje zemletrasenije v Greciji... i menše na Balkanah.
+
+Sdělal pauzu. V tišině slyšal bitje vlastnogo serca.
+
+– Jedno maloje gosudarstvo – šepnul. – Jedno maloje gosudarstvo, iz ktorogo ishodit smrt na svet.
+
+---
+## III. POVOROTNY PUNKT
+
+Kogda audicija zakončila se, Krzysztof vyključil mikrofon i seděl v temnosti dolgoje vremja. Za oknom luna ješče svetila jasno, no on čutil, že jego blesk načinaje blednuti. Polnolune prohodila. Ostaval se tolko on, jego mysli i to, čto rekl.
+
+Vstal i perešel v salon. Anna seděla na kanapě s knigoju v rukě. Ne podnjala vzglad, kogda vošel.
+
+– Zakončil? – voprosila.
+
+– Da.
+
+– Ješče něšto? – voprosila, a v jej glasě bylo toliko že zaboty skolko rezygnaciji.
+
+Seděl obok njeje. Chvilu smotrěl na jeje dlani, ktoryje deržali knigu, na palcy, ktoryje stiskali obložku kako by hotěli čego-to uhvatiti se.
+
+– Anna... – načal. – Čto by ty sdělala, ježeli by znala, že něšto zloje sdělaetsja, no ne mogla by togo dokazati? Ježeli by tolko... znala?
+
+Otožila knigu i posmotrěla na nego. V jej očah uviděl to že, čto vsegda – směšenje ljubovi i ustalosti.
+
+– Sděla by to, čto ty – rekla tiho. – Govorila by, dokol kto-to by mene slušal.
+
+– Daže ježeli by mně ne věrili?
+
+– Daže togda. – Usmehnula se smutno. – Bo to ne o věru ide, Krzysztof. To o pravdu. Daže ježeli tolko ty jeje znaš.
+
+Vzal jeje dlan i stisnul.
+
+– Děkuju.
+
+– Za čto?
+
+– Za to, že mene ne ostavila. Daže kogda misliš, že jest bezumnyj.
+
+Zašmejala se tiho.
+
+– Ne mislu, že jest bezumnyj. Mislu, že jest... inyj. I že svet potrebuje takyh kako ty. Daže ježeli ne vsegda hočet ih slušati.
+
+---
+## IV. ZAKONČENJE
+
+Tri mesjaci pozdněje Krzysztof seděl v tom že fotelě, pred tem že mikrofonom. Byl avgust, žary dušili Evropu, a věsti iz Bliskogo Vostoka byli čim dalje nepokojnejši.
+
+Iran ne upal. No bomby upali – dve, po protivnyh stranah krajiny. Ne nuklearnyje, no dostatočno potenčnyje, čtoby svet ponjal, že granica byla perestuplena. Izrael i Amerika trebovali kapitulaciji. Iran otvěčal atakami na bazy. I gdě-to v fone, v nekotoryh arabskih krajinah, načali govoriti o tom, že amerikanske bazy ne už sut mile vidimyje.
+
+Greciju navěstilo zemletrasenije. Starinnyj teatr v Epidavros potrpel – čast kolonady obvalila se, no nikto ne pogib. V medijah govorili o čudě. Krzysztof znal, že to ne bylo čudo. To byla tolko... praviljnost. Cikl.
+
+V Evropě pojavilo se ognjišče Ebola – v malom městečkě na juge Italiji. Vojska okružila městnost. Karantina. Medija govorili o "lokalnom vybuchu", no Krzysztof znal, že to tolko načalo.
+
+Ceny žywnosti pošli vverh. Palivo takže. V nekotoryh krajinah načalo nedostavati osnovnyh produktov.
+
+A Jevropejsky Sojuz objavil novyj infrastrukturnyj podatok.
+
+Krzysztof vključil mikrofon.
+
+– Dobryj večer, gospoda – rekl. – Audicija "Den po dnu".
+
+Zamolčal na chvilu. Za oknom luna byla počti v novoluni – tenkyj serp, ktoryj jedva svetil. No on čutil, že to ne konec. Že cikly povtarjajut se. Že to, čto videl, to tolko fragment večšej cělosti.
+
+– Pomnju, čto govoril pol goda tomu – rekl. – O tretjej svetovoj. O črnoj plahtě na Iraně. O vojne, ktoraja ne skončit se skoro.
+
+Preryval. V jego golově pojavil se obraz – maloje gosudarstvo, iz ktorogo ishodit smrt na svet.
+
+– Ne znaju, gdě to jest – rekl tiho. – No znaju, že to existuje. I že skoro o njem uznaemo.
+
+Zatvoril oči. A potom sdělal to, čto vsegda – skazal pravdu, daže ježeli nikto ne hotěl jeje slušati.
+
+Bo znal, že to jedinoje, čto možet sdělati.
+
+I že to musi byti dostatočno.
+
+---
+## V. EPILOG
+
+V janvarě 2027 goda Krzysztof polučil list. Byl adresovany otručno, bez otpravitela, no on znal, ot kogo proishodit. Otvoril jego tremajuščimi rukami.
+
+_"Pane Krzysztof"_ – pročital. _"Slušal vas čerez poslědnih dva goda. Věril vam, kogda inyje smejalis. Děkuju. Děkuju vam uspěl vyjehati iz Irana, prežde čem bylo sliškom pozdno. Děkuju vam moja semja živaje. Ne znaju, otkuda vy to znajete. Ne znaju, kako to dělaje. No znaju, že imajete dar. Prosmo jego ne roztržiti. Svet potrebuje kogo-to, kto govorit pravdu, daže ježeli ona jest neudobna."_
+
+Krzysztof otožil list i posmotrěl v okno. Vně šel sněg – pervyj etoj zimy. Bělyje platki opadali pomalo, pokryvajuči město vrstvom tišiny.
+
+Usmehnul se.
+
+_"Ne roztržu"_ – pomyslil. _"Nikogda ne roztržil."_
+
+Sěda pred mikrofonom i vključil jego.
+
+– Dobryj večer, gospoda – rekl. – Audicija "Den po dnu".
+
+Zatvoril oči. I znovu prišlo.
+
+---
+**KONEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověrte svoje razuměnje
+
+### Question 1
+
+**Question:** Začemu Krzysztof vedje audiciju inako v noči polnolunja?
+
+**Answers:**
+- A) Bo imaje togda največe slušatelov v radiu
+- B) Bo pri polnolune "priplyvajut" k njemu čuvstva o budučnosti
+- C) Bo togda zapisuje reklamy
+- D) Bo polnolune vyključaje internet
+
+**Correct:** B
+**Explanation:** Govorit, že pri polnolune imaje svobodnyje čuvstva na budučnost i škoda ih ne ispolzovati.
+**Text reference:** pri polnolune
+
+### Question 2
+
+**Question:** Kto jest Anna v povesti?
+
+**Answers:**
+- A) Producent radia
+- B) Žena Krzysztofa, lekarka i racionalistka
+- C) Slušatelka iz Irana
+- D) Studentka astrologiji
+
+**Correct:** B
+**Explanation:** Anna vhodit v chalatě, jest lekarka i stavljaje pod vopros vlijanije luny.
+**Text reference:** žena Krzysztofa
+
+### Question 3
+
+**Question:** Čto Krzysztof govorit o Iraně v razvitiji audiciji?
+
+**Answers:**
+- A) Že Iran cělostno poddadine se bez boja
+- B) Že v ijune načnut se okazionalnyje ataky i "črna plahta" opadaje na Iran
+- C) Že Iran izčezne s karty za nedělu
+- D) Že Iran pereimaje Jevropejsky Sojuz
+
+**Correct:** B
+**Explanation:** Proričaje okazionalnyje ataky v ijune i metaforu črnoj plahty nad Iranom.
+**Text reference:** črna plahta opadaje na Iran
+
+### Question 4
+
+**Question:** Čto dělaetsja v Evropě v epilogě, soglasno narraciji?
+
+**Answers:**
+- A) Cělostnoje otsutstvije žarov
+- B) Žary, ognjišče Ebola v Italiji, doržejša žywnost i novyj podatok EU
+- C) Iščeznovenije vsěh podatkov
+- D) Konec audiciji Krzysztofa navsegda
+
+**Correct:** B
+**Explanation:** Epilog nazyvaje žary, ognjišče v Italiji, dorogoviznu i infrastrukturnyj podatok.
+**Text reference:** infrastrukturnyj podatok
+
+### Question 5
+
+**Question:** Čto piše anonimnyj list v janvarě 2027?
+
+**Answers:**
+- A) Že audicija byla zabronena pravom
+- B) Že děkuju upreždenijam uspěl vyjehati iz Irana i živaje
+- C) Že Krzysztof imaje dobiti Nobelovu nagradu
+- D) Že polnolune jest mit
+
+**Correct:** B
+**Explanation:** List děkuje za upreždenija i utěku iz Irana pred katastrofoju.
+**Text reference:** uspěl vyjehati iz Irana
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

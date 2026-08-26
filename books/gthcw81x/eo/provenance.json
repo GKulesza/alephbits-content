@@ -1,0 +1,27 @@
+{
+  "packId": "gthcw81x:eo",
+  "bookId": "gthcw81x",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Klasika fabelo pri tri dometoj kaj enigmoj; la fino rivelas, ke la avino estis la Reĝino de Vento."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "gthcw81x:pl",
+  "translationSourceVersion": "1.0.0"
+}

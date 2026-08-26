@@ -1,0 +1,27 @@
+{
+  "packId": "antniqsu:isv_cyrl",
+  "bookId": "antniqsu",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Чланок инспированы процедером фалешных свободениј; не подбиваје к злоупотребленијам — рефлексија о системє."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "501hdB1e5iM"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "антниqсу:пл",
+  "translationSourceVersion": "1.0.1"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Magda say to Tymon instead of sending him to the corner in the shop?",
+      "answers": [
+        "Go to the corner",
+        "I need a hug",
+        "You'll get a smack",
+        "We'll never go shopping again"
+      ],
+      "correctIndex": 1,
+      "explanation": "She repeats: \"I need a hug\" — and the boy calms down."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many long-term effects of punishment does Magda list?",
+      "answers": [
+        "Two",
+        "Four",
+        "Six",
+        "One"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resentment, revenge, rebellion and retreat."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Magda do when Tymon spills juice on the carpet?",
+      "answers": [
+        "Shouts and takes away his toy",
+        "Asks \"What can we do?\" and cleans it together",
+        "Ignores the mess",
+        "Sends him to the corner"
+      ],
+      "correctIndex": 1,
+      "explanation": "She shows a consequence (cleaning up), not a punishment."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Gabryś propose to call the corner at home?",
+      "answers": [
+        "The punishment corner",
+        "The calm corner",
+        "The learning corner",
+        "The games corner"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabryś says: \"A calm corner — because when I'm calm, I think better\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the main conclusion of the story?",
+      "answers": [
+        "Children must be obedient",
+        "It is about children being ready for life — able to cope with their emotions",
+        "Punishments are the most effective",
+        "Sweet rewards are mandatory"
+      ],
+      "correctIndex": 1,
+      "explanation": "The finale: \"It is not about children being obedient. It is about them being ready for life.\""
+    }
+  ]
+}

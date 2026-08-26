@@ -1,0 +1,27 @@
+{
+  "packId": "gbtyzmep:isv_cyrl",
+  "bookId": "gbtyzmep",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција, ктора показује позитивну дисциплину."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "YzdjDARIqxA"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "гбтызмеп:пл",
+  "translationSourceVersion": "1.0.1"
+}

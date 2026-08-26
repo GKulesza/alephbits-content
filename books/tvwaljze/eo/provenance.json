@@ -1,0 +1,24 @@
+{
+  "packId": "tvwaljze:eo",
+  "bookId": "tvwaljze",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcio bazita sur la filozofio de Juul; la ADHD-fadeno ne estas medicina konsilo."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y1IvxviWkuE"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

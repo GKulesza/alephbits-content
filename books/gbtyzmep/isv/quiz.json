@@ -1,0 +1,67 @@
+{
+  "title": "Prověr svoje rozumjenje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto govori Magda Tymonu uměsto poslati jego v kut v magazinu?",
+      "answers": [
+        "Idi v kut",
+        "Ja potřebuju objętje",
+        "Polučiš plaščku",
+        "My nikogda veče ne budem kupovati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona povtarja: \"Ja potřebuju objętje\" — i chlapeč utišaje se."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko dolgovremennyh poslědnice kazni spisuje Magda?",
+      "answers": [
+        "Dvě",
+        "Četyri",
+        "Šest",
+        "Odinu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resentiment, veng, rebelja i ustupljenje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dělaje Magda, kogda Tymon proliva sok na kovr?",
+      "answers": [
+        "Kričit i otbiruje jego igračku",
+        "Voprosit \"Čto my možem sčiniti?\" i oni razom myjut",
+        "Ignoruje kaľju",
+        "Posyla jego v kut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona pokazuje poslědnicu (vymyti), ne kazn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Gabryš predlaga nazvati kut doma?",
+      "answers": [
+        "Kaznenny kut",
+        "Spokojny kut",
+        "Učebny kut",
+        "Igralny kut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabryš govori: \"Spokojny kut — bo kogda ja jest spokojny, ja mislim lučše\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktory jest glavny zaključek pověsti?",
+      "answers": [
+        "Děti imajut byti poslušne",
+        "Idet o to, da by děti byle gotove do života — uměle vladati svojimi emocijami",
+        "Kazni sut najefektivnějše",
+        "Sladke nagrady sut objazatelne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finačny čast: \"Ne idet o to, da by děti byle poslušne. Idet o to, da by ony byle gotove do života.\""
+    }
+  ]
+}

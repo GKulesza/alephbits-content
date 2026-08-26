@@ -1,0 +1,27 @@
+{
+  "packId": "jedkts2h:isv",
+  "bookId": "jedkts2h",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Medžuslovjanska literatura preklad polskoj kanoničeskoj redakcii (manuscript Collection Ten). Povnyj tekst sohraněn — bez skračenij."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Q6sW6OEPcH8"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "jedkts2h:pl",
+  "translationSourceVersion": "1.0.0"
+}

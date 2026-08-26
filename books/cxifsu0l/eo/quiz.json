@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Zosia studas?",
+      "answers": [
+        "Farmakologion",
+        "Juron",
+        "Astronomion",
+        "Arthistorion"
+      ],
+      "correctIndex": 0,
+      "explanation": "La ekzameno pri farmakologio okazos post tri semajnoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian teknikon ŝi uzas en la biblioteko?",
+      "answers": [
+        "La metodon Pomodoro — 25 minutojn da lernado",
+        "Lernadon la tutan nokton sen paŭzoj",
+        "Nur videoregistraĵojn",
+        "Grupajn retajn projektojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi ŝaltas temporizilon je 25 minutoj kaj notas sen telefono."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Krzysztof diras en la programo pri alkrokiĝi al aferoj?",
+      "answers": [
+        "Ke oni devas atendi entuziasmon",
+        "Ke la ago estas kiel klarigita butero — sen superenergio komence",
+        "Ke plej bone estas fari nenion",
+        "Ke nur la plenluno helpas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li citas la metaforon de klarigita butero — sen entuziasmo ĉe la komenco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian ekzamenrezulton ricevas Zosia?",
+      "answers": [
+        "Malsukcesan",
+        "Sukcesan kun noto 4,5",
+        "Noton 2,0",
+        "Neniu rezulto en la teksto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogo: Sukcesite. Noto: 4,5."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian kanton de YUI ŝi aŭskultas dum lernado?",
+      "answers": [
+        "\"again\"",
+        "\"Rolling Star\"",
+        "Ambaŭ — \"again\" ĉe la turnopunkto kaj \"Rolling Star\" post la ekzameno",
+        "Nenian"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"again\" helpas ĉe la turnopunkto; post la ekzameno ŝi ŝaltas \"Rolling Star\"."
+    }
+  ]
+}

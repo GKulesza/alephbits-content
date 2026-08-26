@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jestь gospoža Anna?",
+      "answers": [
+        "Učiteljnica čitanija v predškolskom klasě",
+        "Lekarka",
+        "Direktorka školy",
+        "Avtorka učebnikov"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uči čitati v predškolskom klasě už dvadcat let."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto chlapec govori o sloge „ma\"?",
+      "answers": [
+        "„Em a\"",
+        "„Ma-ma\"",
+        "„A em\"",
+        "„Ma\" bez sъjedinjenja"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naryvaje litery vměsto sъjedinjenja jih v slog."
+    },
+    {
+      "type": "single_choice",
+      "question": "Začemu gospoža Anna govori, že chlapec ne čitaje?",
+      "answers": [
+        "Poznaje obrazky iz aplikacije",
+        "Ne znaet alfavita",
+        "Ne hodi do školy",
+        "Imaje defekt zrenija"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aplikacija pokazuje slova s obrazkami — to asocijacija, ne čitanije."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto mati izměnjaje po razgovoru s gospožeju Annoj?",
+      "answers": [
+        "Čitaje rebenku knigy i treniruje slogi",
+        "Kupaje novyj tablet",
+        "Zapisuje syna na sport",
+        "Izměnjaje školu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Črez měseč mati čitaje knigy i pokazuje slogi — chlapec načinaje čitati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto gospoža Anna govori mati na koncu?",
+      "answers": [
+        "Že to mati naučila chlapca čitati",
+        "Že aplikacija jestь dostatočna",
+        "Že rebenok ne podhodit k učeniju",
+        "Že vina jestь na školě"
+      ],
+      "correctIndex": 0,
+      "explanation": "Govori: „To ne ja. To Vy.\""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De qué quiere hablar Adam con Ewa en la cafetería?",
+      "answers": [
+        "De las vacaciones de su hijo",
+        "De acordar la cantidad de la pensión alimenticia sin pasar por el juzgado",
+        "De volver al matrimonio",
+        "De vender el piso"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam abre: «Quería hablar de la pensión... acordar una cantidad sin el juzgado»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué treta emplea Ewa cuando dice «Haces una montaña de un grano de arena»?",
+      "answers": [
+        "Responder a una pregunta con otra",
+        "Minimizar el tema",
+        "Cambiar el tema a las vacaciones",
+        "Invertir la acusación"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es minimizar — «es solo la pensión, todo el mundo la paga de una forma u otra»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cantidad de pensión propone Adam ante el mediador?",
+      "answers": [
+        "Mil zlotys",
+        "Mil doscientos zlotys más la mitad de los gastos de colegio y tratamiento",
+        "Dos mil quinientos zlotys",
+        "Quinientos zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam propone 1200 zlotys al mes más la mitad de los gastos de colegio y tratamiento."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Adam cuando Ewa dice «¿Y en qué te gastas tú tanto?»",
+      "answers": [
+        "Sale de la sala",
+        "Dice que ahora hablan de la pensión y que pueden volver a ese tema más tarde",
+        "Admite su culpa",
+        "Grita"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam vuelve con calma al tema: «Pero ahora estamos hablando de la pensión»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cantidad acuerdan al final?",
+      "answers": [
+        "Mil doscientos zlotys",
+        "Mil quinientos más la mitad de los gastos de colegio y tratamiento",
+        "Dos mil zlotys",
+        "Mil ochocientos zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam escribe: «Hemos acordado mil quinientos más la mitad de los gastos de colegio y tratamiento»."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Marek trovas en la kelo?",
+      "answers": [
+        "Oron",
+        "Skatolon kun malnovaj leteroj pole kaj ukraine",
+        "Armilojn",
+        "Fotojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skatolo kun centoj da leteroj en du lingvoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Al kiu estas adresita la unua letero el 1943?",
+      "answers": [
+        "Al Marek",
+        "Al \"Kara Janku\"",
+        "Al lia avo",
+        "Al soldatoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La letero komenciĝas: \"Janku...\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu montriĝas esti la aŭtoro de la letero laŭ Ołeksandr?",
+      "answers": [
+        "Polo",
+        "La ukraina avo de Ołeksandr, devige varbita en la UPA",
+        "Germano",
+        "Soldato de la Hejma Armeo (AK)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ołeksandr diras: li estis mia avo Ivano."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek skribas komence de sia teksto?",
+      "answers": [
+        "Ke oni devas forgesi",
+        "\"Ne ekzistas io pli malbona ol viktimoj, kiuj provas elekti siajn proprajn ekzekutistojn.\"",
+        "Ke kulpaj estas ĉiuj",
+        "Ke la historio estas simpla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li citas la frazon pri viktimoj elektantaj ekzekutistojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek skribas fine pri la memoro de Volinio?",
+      "answers": [
+        "Ke ĝi devus dividi",
+        "Ke la memoro devus kunigi, ne dividi — por kompreni",
+        "Ke oni devas silenti",
+        "Ke suferas nur poloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li konkludas: la memoro devus nin kunigi, ne dividi."
+    }
+  ]
+}

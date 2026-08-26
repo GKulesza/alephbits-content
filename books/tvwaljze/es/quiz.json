@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De quién es la tesis sobre el niño \"100% completo\" que cambia la forma de pensar de Ola?",
+      "answers": [
+        "Aga Rogali",
+        "Jesper Juul",
+        "Hardy",
+        "Szymon Grzelak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oye hablar de Jesper Juul y de la tesis del ser humano completo desde el nacimiento."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Ola cuando Franek tiene miedo de la piscina?",
+      "answers": [
+        "Lo obliga a aprender a nadar",
+        "Pregunta por sus sentimientos y le ofrece manguitos",
+        "Cancela la salida",
+        "Grita"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pregunta «¿Qué sientes?» y juntos buscan seguridad (manguitos)."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Franek después de nadar con éxito?",
+      "answers": [
+        "Nunca más a la piscina",
+        "Mamá, puedo hacerlo todo, si me dejas",
+        "Quiero ser entrenador",
+        "La piscina es tonta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: «Mamá, puedo hacerlo todo, si me dejas»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Ola cuando Zosia coge las tijeras?",
+      "answers": [
+        "Le prohíbe usarlas",
+        "Pregunta por el uso seguro y le deja recortar un corazoncito",
+        "Entrega las tijeras a la maestra",
+        "La castiga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola pregunta por el uso seguro y la acompaña — Zosia recorta el corazoncito sola."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué introduce rutinas para Zosia?",
+      "answers": [
+        "Como castigos",
+        "Como ayuda ante un posible TDAH — menos estímulos, ritmo de sueño estable, sin pantallas",
+        "Porque la maestra lo pide",
+        "Por deporte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Espacio ordenado, rutina, temporizador para los dientes, sin pantallas antes de dormir."
+    }
+  ]
+}

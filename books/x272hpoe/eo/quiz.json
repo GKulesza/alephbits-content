@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion signifas shitsuke en la rakonto?",
+      "answers": [
+        "Puni ĉiun eraron",
+        "Konstrui kapablojn anstataŭ puni",
+        "Ignori la infanon",
+        "Premi per dolĉaĵoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shitsuke demandas: kiu kapablo mankas al la infano?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Kasia, kiam Franek ne povas fermi la jakon?",
+      "answers": [
+        "Ŝi fermas ĝin por li tuj",
+        "Ŝi atendas 10 sekundojn antaŭ ol helpi",
+        "Ŝi krias",
+        "Ŝi foriras sen li"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mimamoru — ŝi atendas kun amo; Franek fermas mem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas amae laŭ la filmo?",
+      "answers": [
+        "Publika puno",
+        "Esti sekura sen vortoj — la infano povas apogi sin sur la amo",
+        "Sendependeco sen gepatro",
+        "Belkonkursoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amae = sekura alligiteco ebliganta trankvilon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la voĉo el la filmo pri edukado?",
+      "answers": [
+        "Edukado ŝanĝas la infanon",
+        "Edukado ŝanĝas vin — kaj tio sufiĉas",
+        "Edukado ne gravas",
+        "Edukado estas nur puno"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Edukado ne ŝanĝas vian infanon. Ĝi ŝanĝas vin.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kia silento enloĝiĝis en la domo fine?",
+      "answers": [
+        "La silento de streĉiĝo kaj timo",
+        "La silento de fido kaj ĉeesto",
+        "La silento, ĉar ĉiuj iris dormi",
+        "Manko de konversacioj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La silento de ĉeesto, fido kaj amo — ne manko de sonoj."
+    }
+  ]
+}

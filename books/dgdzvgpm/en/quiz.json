@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why does Krzysztof host the broadcast differently on the night of the full moon?",
+      "answers": [
+        "Because then he has the most listeners on the radio",
+        "Because at the full moon \"feelings\" about the future \"flow in\" to him",
+        "Because then he records commercials",
+        "Because the full moon switches off the internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says that at the full moon he has loose feelings about the future and it would be a shame not to use them."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Anna in the story?",
+      "answers": [
+        "A radio producer",
+        "Krzysztof's wife, a doctor and rationalist",
+        "A listener from Iran",
+        "A student of astrology"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna comes in in her dressing gown, she is a doctor and questions the moon's influence."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Krzysztof say about Iran in the development of the broadcast?",
+      "answers": [
+        "That Iran will surrender completely without a fight",
+        "That in June occasional attacks will begin and the \"black sheet\" falls over Iran",
+        "That Iran will disappear from the map within a week",
+        "That Iran will take over the European Union"
+      ],
+      "correctIndex": 1,
+      "explanation": "He predicts occasional attacks in June and uses the metaphor of a black sheet over Iran."
+    },
+    {
+      "type": "single_choice",
+      "question": "What happens in Europe in the epilogue, according to the narration?",
+      "answers": [
+        "A complete absence of heatwaves",
+        "Heatwaves, an Ebola focus in Italy, more expensive food and a new EU tax",
+        "The disappearance of all taxes",
+        "The end of Krzysztof's broadcast forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue lists heatwaves, a focus in Italy, higher prices and an infrastructure tax."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the anonymous letter say in January 2027?",
+      "answers": [
+        "That the broadcast has been legally banned",
+        "That thanks to the warnings he managed to leave Iran and is alive",
+        "That Krzysztof should win a Nobel Prize",
+        "That the full moon is a myth"
+      ],
+      "correctIndex": 1,
+      "explanation": "The letter thanks him for the warnings and for escaping Iran before the catastrophe."
+    }
+  ]
+}

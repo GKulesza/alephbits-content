@@ -1,0 +1,317 @@
+# Gora iz krtiny
+
+## Metadata
+
+**Pack ID:** omjbcp4e
+**Book ID:** omjbcp4e
+**Legacy Pack ID:** polish_igla_z_widly
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Gora iz krtiny  
+**Subtitle:** Kogda razgovor otklonjaje od temy  
+**Blurb:** Adam potergjaje vsaku razgovoru s byvšej ženoj Evoj — ne potomu, že ne imějet pravdu, no potomu, že ona otvračaje temu, umenjšaje i atakuje. Po filmu Karoliny Gorczycy-Barszczewskoj uči se nazyvati zagryvki i vozvračati se k suščnosti. Povest o alimentah, manipulaciji i povratku prava na sobstveno mněnje.
+
+**Genres:** short_story, psychology, everyday_live  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanskij prevod polskoj redakcii "Igła z widły" — oficialnoje izdanje Collection Nine.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** manipulacja, rozwód, alimenty, komunikacja, Collection Nine  
+
+**Keywords:** Gora iz krtiny, Adam, Ewa, alimenty, manipulacija  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- question
+- anger
+- family
+- betrayal
+- reconciliation
+
+**Editorial notes:** Fikcija o tehnikah manipulaciji v razgovorě; čas seriji Kammel — komunikacija.
+
+**Inspiration:** Motiv "gory iz krtiny" i materialy o oboroně granic v razgovorě.
+
+**Translation status:** machine  
+**Translation source:** omjbcp4e:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- objects: steklo
+- places: dom
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 12.07.2026 -> https://www.youtube.com/watch?v=ZnTFuX--Uxc  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Praktyczna opowieść o asertywności bez moralizowania o intencjach drugiej strony. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=ZnTFuX--Uxc  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-12  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**GORA IZ KRTINY**
+
+Adam vsegda prigryval protiv Evy. Ne potomu, že ne iměl pravdu. Ne potomu, že mu nedostavalo argumentov. Prigryval, bo prežde čem uspěl otvoriti usta, on už byl v izgubljenom položenju – kako boksnik, ktoryj prijemaje udary, ješče prežde čem sudja uspěje skazati „boj".
+
+Jihova prva razgovora po razdělenju sostojala se v kafejně. On izbral publičnoje město, čtoby ograditi risk scen. Sěli pri okně, zakazali kavu. On černu, ona latte s vanilnym siropom – pomnil, že ona vsegda takuju pila, no ne kommentiroval togo. Ne dlja togo oni tut byli.
+
+– Hoču govoriti o alimentah – načal on, starajusь, čtoby jego golos zvučal spokojno. – Dumal, že my mogli by ustanoviti sumu, ktora byla by spravedliva dlja obojih storon, bez suda.
+
+Eva otstavila čašku. Jeje oči legko suzilisja, no usmeška ostala na městě – ta sama usmeška, ktoraja někogda obezoruživala jego, a teper tolko napominala, kako silno on ošibalsja.
+
+– Ne odgovarjaje se na vopros voprosom – skazala ona, hotja on ješče ne zadal nikakogo voprosa. – No ja voprošu: začemu imam se ja praviti, ježeli ty toj, ktoryj ušel?
+
+Adam zamrgal. Ješče ne zadal nikakogo voprosa, a už byl v oboroně.
+
+– Ja ne prošu, čtoby ty pravilasja. Ja voprošu o konkretnoj sumě, ktoru...
+
+– Ty vsegda staviš mene v takoje položenije – preryvala ona jemu. – Kako by ja byla vinovata. A vže predsě vsě-taki ty tože ne bez viny, pravda?
+
+_Ne bez viny._ Adam počutil, kako znakomyj uzel zatěhgivaetsja v želudku. To byla jedna iz teh razgovorov. Vsegda takih. On govoril o konkretnom, ona perenapravljala na jego, a on ostavalsja s čuvstvom, že sělal něčto zloje, hotja ne znal, čto.
+
+– Ne govorju, že ty vinovata. Govorju o alimentah.
+
+– Ah, alimenty. – Vzdohnula ona teatralno. – Čto imět visěti, ne utonet. Vsegda nekako se spravljala, spravlju se i teper.
+
+– To ne odpověd.
+
+– A čto ty možeš o tom znati? – Jeje golos zatverděl. – Tebe ne bylo doma, kogda ja nedužila. Tebe ne bylo, kogda malyj iměl problemy v škole. A teper vdrug hočeš govoriti o dengah? Dělaješ goru iz krtiny. To tolko alimenty, vse nekako ih plati.
+
+Adam hotel odgovoriti, že to ne pravda – že byl doma, že pomnit noči u posteli syna, že to on otvez jogo prvyj raz k psihologu. No prežde čem otvoril usta, Eva už měnjala temu.
+
+– A, da! Ješče nam treba ustanoviti kanikuly. Tvoj syn hočet jehati k morju, a ja ne imaju za čto. To zamiesto siděti tut i govoriti o alimentah, možet by, ty pomyslil o djeteti.
+
+I tak se to skončilo. Adam vyšel iz kafejny, ničego ne ustanoviv. Znovu prigral.
+
+---
+Tej noči ne mog spati. Ležal v postelju, v svojem novom najetom kvartiru, i v golově vosproizvodil každuju obměnu slov. Čto-to bylo ne tak. Ne bylo togo, čto Eva byla zla ili obižena – to on razuměl. Razvod bolel obojim. No sposob, kako ona vela razgovoru, činil, že on vsegda popadal v to že město: smušennyj, vinovatyj, molčalivyj.
+
+Potahnulsja k telefonu. Vpisal v Google: „kako odgovarjati na manipulaciju v razgovorě". Algoritm podsunul jemu film na YouTube. „10 trikov, čerez ktoryje ty prigryvaješ vsaku razgovoru (i kako to izmeniti)". Kanal nazyvalsja Karolina Gorczyca – Barszczewska. Kliknul.
+
+Časom pozdněje siděl na postelju s zapisnikom v rukě. Razpisal každuju zagryvku, ktoru Eva upotrebljala v kafejně. Byli vsě.
+
+_Ne odgovarjaje se na vopros voprosom_ – hotja on ne zadal nikakogo voprosa, tolko otvoril temu. _Ne bez viny_ – obratnyj povorot vinenija, ješče prežde čem vinenije padlo. _Čto imět visěti, ne utonet_ – poslovica kako zakryvajuščij argument. _A čto ty možeš o tom znati_ – podryvanije jego prava na mněnje. _Dělaješ goru iz krtiny_ – umenjšanje. _A, da, kanikuly_ – vdrug směna temy. Vsě podano v idealnom tempě, kako by Eva iměla v golově gotovyj scenarij.
+
+No film govoril ješče i drugoje: že ne každyj čelověk, ktoryj koristaje te zagryvki, činit to soznatelno. Někogda to navyk iz doma, refleksnyje oboronnyje mehanizmy. I že zamiesto ocenjenja intencij, lučše sosredotočiti se na reakciju. Nazvati to, čto se děje. I vozvratiti se k temě.
+
+Adam zapisal v zapisnik tri predloženija:
+
+_„To ne jest odpověd na moj vopros. Voprošu ješče raz."_  
+_„Možet by, ty imaješ pravdu, no teper my govorimo o toj konkretnoj věči."_  
+_„Dlja mene to važno, daže ježeli dlja tebe to vygljadit inače."_
+
+Potom ugasil světlo i, prvyj raz za neděli, spokojno zasnul.
+
+---
+Dva dni pozdněje oni vstretili se ponovo, etot raz v prisutstviju mediatora. To byl staršij muž s ustalyemi očima, ktoryj už viděl sotni takovyh par i ne iměl iluzij o čelověčeskoj prirodě. Kogda Adam vhodil v salon, Eva už tam byla. Siděla pri stole s rukami skreščenymi na grudi, gotova k boju.
+
+Mediator otvoril vstrecu standardnoj formuloj o potrebnosti dogovora. Potom dal slovo Adamu.
+
+– Hoču, čtoby my ustanovili konkretnu sumu alimentov. Moje predloženije – tysjača dve stě zlotoj v mesěc, plus polovina razhodov na školu i lěčenje.
+
+Eva podnela brov.
+
+– Tysjača dve stě? Jako ty žartuješ. A na čto ty toliko izdavaeš? Na tvoj novyj kvartir? Na vsě tyje randevu, na ktoryje teper hodiš, kogda ja sedžu s djetetom doma?
+
+_Ne bez viny._ Adam poznal to srazu. Čerez moment počutil, kako staryj mehanizm zapuščaje se – potrebnost praviti se, oboronjati se, dokazati, že on ne to, za čto jego prijemaje. No etot raz sělal drugoje.
+
+– Razuměju, že imaješ svoje čuvstva o mojej ličnoj životi – skazal spokojno. – No teper my govorimo o alimentah. Možem vozvratiti se k toj temě, ježeli hočeš, no prežde skončim etu.
+
+Eva zamrgala. Mediator něčto zapisal v zapisnik.
+
+– Dobro – skazala ona čerez čas, i jeje golos zvučal meněje uvěrenno. – No tysjača dve stě – to malo. Vže ty zarabotaješ dvakra bolěje čem ja. Mudryj poljak po škodě; teper vse hote ekonomiti na semje.
+
+_Poslovica kako argument._ Adam počti usmehnulsja.
+
+– To krasivoje skazanie, no ne odgovarjaje na moje predloženije. Ježeli misliš, že tysjača dve stě – to malo, podaj konkretnu sumu, ktoru sčitaješ spravedlivoj. I obosnuj jejo.
+
+Mediator kivnul golovoj. Eva zamedlila. Adam viděl, kako jeje palcy silněje stiskajut rukav svitra.
+
+– Nu... ne znaju – skazala. – Možet, dve tysjači. No to vse-taki ne o tom. O tom, že ty vsegda...
+
+– Vsegda? – Adam podnjal ruku. – Govorim li my o tom, čto se slučilo mnogokratno, ili o konkretnyh situacijah? Bo ježeli o konkretnyh, togda pogovorim o nih po očeredi. Ježeli o obščem vpečatlenju, to my možem to nazvati, no ne zaměnimo jedno drugim.
+
+Nastala tišina. Eva posmotrela na jego inače – ne kako na protivnika, ktorogo možno obezoružiti jednoj metkoj frazoj, no kako na kogo-to, kto vdrug perestal igrati po jeje pravilam.
+
+– Ty se izmenil – skazala tiho.
+
+– Ne. Prosto načilsja deržati temu.
+
+Mediator pročistil gorlo i vozvratilsja k voprosu alimentov. Razgovor potekl dalě – ne byl legkim, ne byl prijatnym, no prvyj raz za měsęci byl razgovorom, a ne bitvoj. Kogda Adam vyšel iz salona, ne iměl čuvstva triumfa. Iměl čuvstvo, že povratil čto-to, čto davno byl utratil.
+
+Pravo na sobstveno mněnje.
+
+---
+Večerom seděl na balkoně svojego novogo kvartira. Vozduh byl teplyj, pahnul lipami. Otvoril zapisnik na stranice, gdě zapisal citatu iz filma: _„Čem bolěje ty sohranjaješ spokojstvo, čem bolěje posledovatelno ty deržišsja iznačalnoj temy, tem meněje effektivnoju stanovi se každa iz teh zagryvok."_
+
+Ne iměl iluzij. Eva ne prestala koristati te zagryvki. Možet, nikogda ne prestane. No on už ne dolžen byl byti ih žertvoj. Dostačno bylo nazvati mehanizm – i on prestal dejstvovati na jego.
+
+Potahnulsja k telefonu i napisal jej vyst. Korotku, konkretnu, bez emocij.
+
+„My ustanovili tysjača pęt sot plus polovina razhodov na školu i lěčenje. Perevod pošlju do pjatnicy."
+
+Odpověd prišla čerez neskolko minut.
+
+„Dobro."
+
+Tolko to. No Adam znal, že za etim jedinym slovom kryje se čto-to, čego ne bylo tam poslědnije gody. Uvaženije. Ne k njemu – ješče ne. No k faktu, že on konečno stal na sobstvenyje nogi i ne dal se sbiti s puti.
+
+Sprytal telefon v karman i posmotrel na nebo. Pervaja zvězda už se pokazala. Pomyslil, že zavtra posmotrit ješče odin film na etom kanalě. Možet, tot o gaslightingu. I že to ne konec učenja.
+
+To byl tolko načal.
+
+**KONEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověrte svoje razuměnje
+
+### Question 1
+
+**Question:** O čem Adam hočet govoriti s Evoj v kafejně?
+
+**Answers:**
+- A) O kanikulah syna
+- B) O ustanovlenju sumy alimentov bez suda
+- C) O povratku k braku
+- D) O prodanju kvartira
+
+**Correct:** B
+**Explanation:** Adam otvoraje: „Hoču govoriti o alimentah... ustanoviti sumu bez suda".
+**Text reference:** alimentah
+
+### Question 2
+
+**Question:** Kaku zagryvku Eva koristaje, govorje „Dělaješ goru iz krtiny"?
+
+**Answers:**
+- A) Vopros na vopros
+- B) Umenjšenje temy
+- C) Směnu temy na kanikuly
+- D) Obratnyj povorot vinenija
+
+**Correct:** B
+**Explanation:** To umenjšenje — „to tolko alimenty, vse nekako ih plati".
+**Text reference:** Dělaješ goru iz krtiny
+
+### Question 3
+
+**Question:** Kaku sumu alimentov Adam predlaga u mediatora?
+
+**Answers:**
+- A) Tysjaču zlotoj
+- B) Tysjaču dve stě zlotoj plus polovinu razhodov na školu i lěčenje
+- C) Dve tysjači pęt sot zlotoj
+- D) Pęt sot zlotoj
+
+**Correct:** B
+**Explanation:** Adam predlaga 1200 zlotoj v mesěc plus polovinu razhodov na školu i lěčenje.
+**Text reference:** tysjača dve stě
+
+### Question 4
+
+**Question:** Čto činit Adam, kogda Eva govori „A na čto ty toliko izdavaeš?"
+
+**Answers:**
+- A) Vyjdet iz salona
+- B) Skazet, že teper oni govorit o alimentah i mogut vozvratiti se k toj temě pozdněje
+- C) Priznaje svoju vinu
+- D) Kričit
+
+**Correct:** B
+**Explanation:** Adam spokojno vozvračaje se k temě: „No teper my govorimo o alimentah".
+**Text reference:** teper my govorimo o alimentah
+
+### Question 5
+
+**Question:** Na kaku sumu oni konečno soglasajut se?
+
+**Answers:**
+- A) Tysjača dve stě zlotoj
+- B) Tysjača pęt sot plus polovina razhodov na školu i lěčenje
+- C) Dve tysjači zlotoj
+- D) Tysjača vosem sot zlotoj
+
+**Correct:** B
+**Explanation:** Adam piše: „My ustanovili tysjača pęt sot plus polovina razhodov na školu i lěčenje".
+**Text reference:** tysjača pęt sot
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué encuentra Marek en el sótano?",
+      "answers": [
+        "Oro",
+        "Una caja con cartas antiguas en polaco y ucraniano",
+        "Armas",
+        "Fotografías"
+      ],
+      "correctIndex": 1,
+      "explanation": "Una caja con cientos de cartas en dos idiomas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién está dirigida la primera carta de 1943?",
+      "answers": [
+        "A Marek",
+        "Al \"Querido Janku\"",
+        "A su abuelo",
+        "A los soldados"
+      ],
+      "correctIndex": 1,
+      "explanation": "La carta empieza: \"Janku...\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién resulta ser el autor de la carta según Ołeksandr?",
+      "answers": [
+        "Un polaco",
+        "El abuelo ucraniano de Ołeksandr, reclutado a la fuerza en la UPA",
+        "Un alemán",
+        "Un soldado del Ejército Nacional (AK)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ołeksandr dice: era mi abuelo Iván."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marek al principio de su texto?",
+      "answers": [
+        "Que hay que olvidar",
+        "\"No hay nada peor que las víctimas que intentan elegir a sus propios verdugos.\"",
+        "Que todos son culpables",
+        "Que la historia es simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cita la frase sobre las víctimas que eligen a sus verdugos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Marek al final sobre la memoria de Volinia?",
+      "answers": [
+        "Que debería dividir",
+        "Que la memoria debería unir, no dividir — para entender",
+        "Que hay que callar",
+        "Que solo sufren los polacos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Concluye: la memoria debería unirnos, no dividirnos."
+    }
+  ]
+}

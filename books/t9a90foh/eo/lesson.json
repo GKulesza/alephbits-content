@@ -1,0 +1,125 @@
+{
+  "id": "t9a90foh:eo",
+  "bookId": "t9a90foh",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_oczy_ktore_nie_widza",
+  "legacySlug": "oczy-ktore-nie-widza",
+  "title": "II. Okuloj, kiuj ne vidas",
+  "language": "eo",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-10",
+  "description": "S-ino Anna jam dudek jarojn instruas legadon en la antaŭlerneja klaso kaj vidas ŝanĝon, pri kiu la gepatroj ne ĉiam volas aŭdi. Infanoj rigardas ekranojn alie ol paĝon de libro — kaj aplikaĵo, kiu „instruas\", ne ĉiam instruas tion, kio necesas. Trankvila rakonto pri la ĉeesto de plenkreskulo apud la unuaj silaboj.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "polish",
+    "short_story",
+    "ii-oczy-ktore-nie-widza"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 3,
+  "translation": "Esperanta traduko de la pola legpakaĵo \"II. Oczy, które nie widzą\" — oficiala eldono de Collection Zero.",
+  "text": "S-ino Anna jam dudek jarojn instruis legadon en la antaŭlerneja klaso. Ŝi vidis ŝanĝojn. Iam infanoj venis al la lernejo kun scivolemo, kun deziro ekkoni. Nun ili venis kun okuloj, kiuj ne sciis rigardi.\n\n— Kiu scias, kio estas litero? – ŝi demandis en la unua leciono. La plimulto de la infanoj levis la manojn. Ili konis la literojn de la ekranoj. Sed kiam ŝi montris sur la tabulo la silabojn „ma\", „pa\", „ba\", ili rigardis necertaj.\n\n— Ĉi tio estas „ma\" – ŝi diris. – Kiel panjo.\n\n— Oni diras „em a\" – respondis knabo el la unua vico.\n\nS-ino Anna pacience ridetis.\n\n— Ne, kara. En legado oni ne nomas literojn. Oni kunigas ilin. Ĉi tio estas „ma\". Rigardu – ŝi skribis sur la tabulo: „ma-ma\". – Kio estas ĉi tie?\n\n— Panjo – respondis knabino el la dua vico.\n\nS-ino Anna kapjesis. Tiu knabino havis ŝancon. Ŝiaj gepatroj legis al ŝi librojn. Ŝiaj okuloj sciis sekvi la tekston, iri de maldekstre dekstren, vidi la tuton kaj la detalon samtempe.\n\nSed la plimulto de la infanoj ne sciis. Iliaj okuloj kutimiĝis al malgranda vidkampo, al rapide ŝanĝiĝantaj bildoj. Ili ne sciis koncentriĝi sur unu afero. Ili ne sciis rigardi mapon, tabulon, paĝon de libro. Ili ne sciis vidi tion, kio estas flanke, supre, malsupre. Ilia vidkampo estis mallarĝa, kiel ekrano.\n\nS-ino Anna sciis, ke tio ne estas kulpo de la infanoj. Ĝi estas kulpo de la ekranoj. Kaj kio plej seniluziigis ŝin, estis, ke la gepatroj ne vidis la problemon. Aŭ ne volis vidi.\n\nIun tagon venis al ŝi la patrino de knabo, kiu ne sciis legi.\n\n— Kial li ne kapablas? – ŝi demandis. – Hejme li legas tre bone.\n\n— Li legas?\n\n— Jes. Li havas aplikaĵon por lerni legadon.\n\nS-ino Anna petis, ke la knabo legu al ŝi frazon el libro. La knabo rigardis la tekston kaj komencis diveni. Li ne sciis kunigi la silabojn. Li ne sciis kompreni la signifon. Liaj okuloj vidis la literojn, sed lia cerbo ne sciis ilin kunmeti en vortojn.\n\n— Li ne legas – diris s-ino Anna. – Li rekonas bildojn. La aplikaĵo montras al li vortojn kaj bildojn, kaj li ilin kunigas. Tio ne estas legado. Tio estas asociego.\n\nLa patrino rigardis ŝin kun mirego.\n\n— Do ĉio, kion ni faris, estis sensenca?\n\n— Ne sensenca – respondis s-ino Anna. – Sed oni devas ŝanĝi tion. Legado ne estas rekono de bildoj. Legado estas kunigo de sonoj en signifojn. Ĝi estas laboro. Kaj ĝi estas laboro, kiun oni povas fari nur kun ĝojo.\n\nLa patrino foriris el la ĉambro kolera. Sed ŝi revenis post unu monato.\n\n— Pardonu – ŝi diris. – Mi faris tion, kion vi konsilis. Mi legis al li librojn. Mi montris al li la silabojn. Kaj li komencis legi.\n\nS-ino Anna ridetis.\n\n— Ne mi. Vi.\n\nLa patrino rigardis siajn manojn. Kaj tiam ŝi komprenis, ke la plej grava afero, kiun ŝi povas doni al sia infano, ne estas aplikaĵo. Ĝi estas ĉeesto.",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kiu estas s-ino Anna?",
+        "answers": [
+          "Instruistino pri legado en la antaŭlerneja klaso",
+          "Kuracistino",
+          "Lernejdirektorino",
+          "Aŭtorino de lernolibroj"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ŝi jam dudek jarojn instruas legadon en la antaŭlerneja klaso."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion diras la knabo pri la silabo „ma\"?",
+        "answers": [
+          "„Em a\"",
+          "„Ma-ma\"",
+          "„A em\"",
+          "„Ma\" sen kunigo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Li nomas la literojn anstataŭ kunigi ilin en silabon."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kial s-ino Anna diras, ke la knabo ne legas?",
+        "answers": [
+          "Li rekonas bildojn el la aplikaĵo",
+          "Li ne konas la alfabeton",
+          "Li ne iras al lernejo",
+          "Li havas vidan difekton"
+        ],
+        "correctIndex": 0,
+        "explanation": "La aplikaĵo montras vortojn kun bildoj — tio estas asociego, ne legado."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion ŝanĝas la patrino post la konversacio kun s-ino Anna?",
+        "answers": [
+          "Ŝi legas al la infano librojn kaj ekzercas la silabojn",
+          "Ŝi aĉetas novan tabulkomputilon",
+          "Ŝi enskribas la filon al sporto",
+          "Ŝi ŝanĝas lernejon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Post unu monato la patrino legas librojn kaj montras silabojn — la knabo komencas legi."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion diras s-ino Anna al la patrino fine?",
+        "answers": [
+          "Ke estis la patrino, kiu instruis la knabon legi",
+          "Ke la aplikaĵo sufiĉas",
+          "Ke la infano ne taŭgas por lernado",
+          "Ke kulpas la lernejo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ŝi diras: „Ne mi. Vi.\""
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "t9a90foh:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "El la kolekto CollectionFour",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "objects": [
+      "fenestro",
+      "libro"
+    ],
+    "places": [
+      "hejmo"
+    ]
+  }
+}

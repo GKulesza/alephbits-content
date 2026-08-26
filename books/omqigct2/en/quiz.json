@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How many hours did Patryk work before closing his laptop?",
+      "answers": [
+        "Six",
+        "Fourteen",
+        "Twenty",
+        "Two"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first sentence says he worked fourteen hours."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Patryk write in the notebook in the middle of the night?",
+      "answers": [
+        "A shopping list",
+        "That he does not remember when he felt well and truly breathed",
+        "A holiday plan",
+        "A film script"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first entry is about not remembering the last time he felt well and breathed truly."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does the notebook Patryk uses come from?",
+      "answers": [
+        "He bought it that day at a bookshop",
+        "He got it from his wife for his birthday three years ago",
+        "He found it in the street",
+        "He got it from his boss"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the drawer lies an old notebook from his wife, a birthday gift from three years ago."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Patryk understand stress at the end of the story?",
+      "answers": [
+        "As an enemy to fight",
+        "As information from the body, to which the answer is stopping and breathing",
+        "As something to ignore",
+        "As a reason for another night of work"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection says stress is information, and the answer is stopping and breathing."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Patryk's night end?",
+      "answers": [
+        "He goes back to working on the presentation",
+        "He lies down next to his wife and falls asleep peacefully",
+        "He goes running at midnight",
+        "He drives to the office"
+      ],
+      "correctIndex": 1,
+      "explanation": "After the reflection he lies down next to his wife and, for the first time in a long while, falls asleep peacefully."
+    }
+  ]
+}

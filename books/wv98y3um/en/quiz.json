@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Marek find in the basement?",
+      "answers": [
+        "Gold",
+        "A box of old letters in Polish and Ukrainian",
+        "Weapons",
+        "Photographs"
+      ],
+      "correctIndex": 1,
+      "explanation": "A box with hundreds of letters in two languages."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is the first letter from 1943 addressed to?",
+      "answers": [
+        "To Marek",
+        "To \"Dear Janku\"",
+        "To his grandfather",
+        "To soldiers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The letter begins: \"Janku...\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does the author of the letter turn out to be, according to Ołeksandr?",
+      "answers": [
+        "A Pole",
+        "Ołeksandr's Ukrainian grandfather, conscripted into the UPA",
+        "A German",
+        "A Home Army soldier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ołeksandr says: he was my grandfather Iwan."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek write at the beginning of his text?",
+      "answers": [
+        "That we must forget",
+        "\"There is nothing worse than victims who try to choose their own executioners.\"",
+        "That everyone is guilty",
+        "That history is simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "He quotes the sentence about victims choosing executioners."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek write at the end about the memory of Volhynia?",
+      "answers": [
+        "That it should divide",
+        "That memory should unite, not divide — in order to understand",
+        "That we must stay silent",
+        "That only Poles suffer"
+      ],
+      "correctIndex": 1,
+      "explanation": "He concludes: memory should unite us, not divide us."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "arji8qlh:eo",
+  "bookId": "arji8qlh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Historia eseo kun grafikaj priskriboj de krimoj; P0 founder review — Volinio, politiko, Myrotvorec."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Xtigt79Sw9I"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "arji8qlh:pl",
+  "translationSourceVersion": "1.0.0"
+}

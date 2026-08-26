@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čja teza o rebenku \"100% kompletnom\" izměnjaje myšlenije Oli?",
+      "answers": [
+        "Agi Rogali",
+        "Jespera Jula",
+        "Hardy",
+        "Szymona Grzelaka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slyši o Jespere Jule i teze o kompletnom čelověku od roždenija."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Ola dělaje, kogda Franek boitsja basena?",
+      "answers": [
+        "Siloju uči jego plavati",
+        "Pitaet o čuvstvah i predlagaje narukavniki",
+        "Anuluje vyjezd",
+        "Krikne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pitaet \"Čto ty čuješь?\" i vměstě iščut bezopasnostь (narukavniki)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Franek govori po uspěšnom plavaniji?",
+      "answers": [
+        "Nikogda bolьše na basen",
+        "Mamo, ja mogu vse, ježeli ty mně pozvolišь",
+        "Hoču byti trenerom",
+        "Basen jestь glupyj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: \"Mamo, ja mogu vse, ježeli ty mně pozvolišь.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Ola dělaje, kogda Zosja beret v ruki nožnicy?",
+      "answers": [
+        "Zabranjaje jej upotrebljati",
+        "Pitaet o bezopasnom upotrebleniji i pozvoljaje vyrezati serdce",
+        "Oddaje nožnicy učitelьnice",
+        "Karaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola pitaet o bezopasnom upotrebleniji i jestь pri nej — Zosja vyrezaje serdce sama."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po čemu vvodi rutiny dlja Zosji?",
+      "answers": [
+        "Kako karanija",
+        "Kako pomočь pri vozmožnom ADHD — menьše razdražitelej, postojannyj ritm sna, bez ekranov",
+        "Bo učitelь kaže",
+        "Dlja sporta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uporjadočenoje prostranstvo, rutina, tajmer dlja zubov, bez ekranov pered snom."
+    }
+  ]
+}

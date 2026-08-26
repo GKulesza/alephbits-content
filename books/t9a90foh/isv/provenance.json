@@ -1,0 +1,27 @@
+{
+  "packId": "t9a90foh:isv",
+  "bookId": "t9a90foh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrated from CollectionFour catalog (Phase 75)."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "AlephBits manuscript vault"
+    }
+  ],
+  "revisionNotes": "Phase 75 catalog migration",
+  "translationStatus": "machine",
+  "translationSource": "t9a90foh:pl",
+  "translationSourceVersion": "1.0.1"
+}

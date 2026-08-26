@@ -1,0 +1,125 @@
+{
+  "id": "t9a90foh:es",
+  "bookId": "t9a90foh",
+  "locale": "es",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_oczy_ktore_nie_widza",
+  "legacySlug": "oczy-ktore-nie-widza",
+  "title": "II. Los ojos que no ven",
+  "language": "es",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-10",
+  "description": "La señora Anna lleva veinte años enseñando a leer a los niños de preescolar y ve un cambio que los padres no siempre quieren escuchar. Los niños miran las pantallas de otra manera que la página de un libro, y una aplicación que «enseña» no siempre enseña lo que hace falta. Un relato sereno sobre la presencia de un adulto junto a las primeras sílabas.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "polish",
+    "short_story",
+    "ii-oczy-ktore-nie-widza"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 3,
+  "translation": "Traducción al español del reading pack polaco \"II. Oczy, które nie widzą\" — edición oficial de Collection Zero.",
+  "text": "La señora Anna llevaba veinte años dando clases de lectura en preescolar. Había visto cambios. Antes los niños llegaban a la escuela con curiosidad, con ganas de descubrir. Ahora llegaban con unos ojos que no sabían mirar.\n\n— ¿Quién sabe qué es una letra? – preguntó en la primera clase. La mayoría de los niños levantó la mano. Conocían las letras de las pantallas. Pero cuando les mostró en la pizarra las sílabas «ma», «pa», «ba», miraron con inseguridad.\n\n— Esto es «ma» – dijo. – Como mamá.\n\n— Se dice «eme a» – respondió un niño de la primera fila.\n\nLa señora Anna sonrió con paciencia.\n\n— No, cariño. Al leer no nombramos las letras. Las unimos. Esto es «ma». Mira – escribió en la pizarra: «ma-ma». – ¿Qué pone aquí?\n\n— Mamá – respondió una niña de la segunda fila.\n\nLa señora Anna asintió. Esa niña tenía posibilidades. Sus padres le leían libros. Sus ojos sabían seguir el texto, avanzar de izquierda a derecha, ver el conjunto y el detalle a la vez.\n\nPero la mayoría de los niños no sabía. Sus ojos estaban acostumbrados a un campo visual pequeño, a imágenes que cambian rápido. No sabían fijarse en una sola cosa. No sabían mirar un mapa, la pizarra, la página de un libro. No sabían ver lo que hay a los lados, arriba, abajo. Su campo visual era estrecho, como una pantalla.\n\nLa señora Anna sabía que no era culpa de los niños. Era culpa de las pantallas. Y lo que más la decepcionaba era que los padres no veían el problema. O no querían verlo.\n\nUn día vino a verla la madre de un niño que no sabía leer.\n\n— ¿Por qué no puede? – preguntó. – En casa lee muy bien.\n\n— ¿Lee?\n\n— Sí. Tiene una aplicación para aprender a leer.\n\nLa señora Anna pidió que el niño le leyera una frase de un libro. El niño miró el texto y empezó a adivinar. No sabía unir las sílabas. No sabía entender el significado. Sus ojos veían las letras, pero su cerebro no sabía unirlas para formar palabras.\n\n— No lee – dijo la señora Anna. – Reconoce imágenes. La aplicación le muestra palabras e imágenes, y él las empareja. Eso no es leer. Es asociar.\n\nLa madre la miró con incredulidad.\n\n— ¿Entonces todo lo que hacíamos era sin sentido?\n\n— Sin sentido no – respondió la señora Anna. – Pero hay que cambiarlo. Leer no es reconocer dibujos. Leer es unir sonidos para crear significados. Es un trabajo. Y es un trabajo que solo se puede hacer con alegría.\n\nLa madre salió del despacho enfadada. Pero volvió al cabo de un mes.\n\n— Perdón – dijo. – Hice lo que usted me aconsejó. Le leí libros. Le mostré las sílabas. Y empezó a leer.\n\nLa señora Anna sonrió.\n\n— No fui yo. Fue usted.\n\nLa madre miró sus manos. Y entonces entendió que lo más importante que puede darle a un niño no es una aplicación. Es la presencia.",
+  "quiz": {
+    "title": "Comprueba tu comprensión",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "¿Quién es la señora Anna?",
+        "answers": [
+          "Una maestra de lectura en preescolar",
+          "Una médica",
+          "La directora de la escuela",
+          "Una autora de libros de texto"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lleva veinte años dando clases de lectura en preescolar."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué dice el niño sobre la sílaba «ma»?",
+        "answers": [
+          "«Eme a»",
+          "«Ma-ma»",
+          "«A eme»",
+          "«Ma» sin unir"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nombra las letras en lugar de unirlas en una sílaba."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Por qué dice la señora Anna que el niño no lee?",
+        "answers": [
+          "Reconoce los dibujos de la aplicación",
+          "No conoce el alfabeto",
+          "No va a la escuela",
+          "Tiene un defecto de visión"
+        ],
+        "correctIndex": 0,
+        "explanation": "La aplicación le muestra palabras con dibujos: eso es asociar, no leer."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué cambia la madre tras la conversación con la señora Anna?",
+        "answers": [
+          "Le lee libros al niño y practica las sílabas",
+          "Compra una tableta nueva",
+          "Apunta a su hijo a deportes",
+          "Cambia de escuela"
+        ],
+        "correctIndex": 0,
+        "explanation": "Al cabo de un mes la madre lee libros y muestra sílabas, y el niño empieza a leer."
+      },
+      {
+        "type": "single_choice",
+        "question": "¿Qué le dice la señora Anna a la madre al final?",
+        "answers": [
+          "Que fue la madre quien enseñó al niño a leer",
+          "Que la aplicación es suficiente",
+          "Que el niño no sirve para aprender",
+          "Que la culpa es de la escuela"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dice: «No fui yo. Fue usted.»"
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "t9a90foh:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "De la colección CollectionFour",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "objects": [
+      "ventana",
+      "libro"
+    ],
+    "places": [
+      "casa"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "x272hpoe:es",
+  "bookId": "x272hpoe",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "NO confundir con cisza-przed-burza (C4). El slug cisza-dom distingue deliberadamente."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "hvfvOfATZoY"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "x272hpoe:pl",
+  "translationSourceVersion": "1.0.1"
+}

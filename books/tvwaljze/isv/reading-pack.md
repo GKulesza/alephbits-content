@@ -1,0 +1,388 @@
+# V polnoti
+
+## Metadata
+
+**Pack ID:** tvwaljze
+**Book ID:** tvwaljze
+**Legacy Pack ID:** polish_w_pelni
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** V polnoti  
+**Subtitle:** Rebenok kompletyj od roždenija  
+**Blurb:** Ola po podkaste o Jespere Jule prestajet tratiti Franka kako projekta dlja remonty. Věri jego rešenijam — od basena do nožnic — i uči se prositi izvinenije.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** family
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "W pełni" — oficialnoje izdanje Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** Jesper Juul, zaufanie, ADHD, wychowanie, Collection Ten  
+
+**Keywords:** V polnoti, Jesper Juul, Ola, dověrjenje  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- djetstvo
+- materinstvo
+- dom
+- proščenije
+- učenije
+- vopros
+
+**Editorial notes:** Fikcija, osnovana na filosofiji Jula; tema ADHD ne jestь medicinska porada.
+
+**Inspiration:** Filosofija Jespera Jula o rebenku kompletnom od roždenija; YouTube Y1IvxviWkuE (2022-05-08).
+
+---
+
+**World:**
+- places: dom
+- objects: kniga
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 08.05.2022 -> https://www.youtube.com/watch?v=Y1IvxviWkuE / 22.05.2025 -> https://www.youtube.com/watch?v=HruffDtM0YE / 02.04.2026 -> https://www.youtube.com/watch?v=ZCjfEb1nDZ8  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Polish prose and quiz correction — typo, chronology, question wording |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Bardzo dobre dopasowanie — godność i zaufanie. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Y1IvxviWkuE  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2022-05-08  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**V POLNOTI**
+
+Kogda Ola prvyj raz vzjala svojego syna v ruki, počutila dve věči razom. Jednu – ogromnuju, pritiskajuščuju ljubovь. Druguju – strah. Bo v toj malenьkoj, morščinnoj suščestvje uviděla čelověka, ktorýj polnostьju ot nej zavisit. I podumala sebě: "Imaju jego sformovati. Imaju jego vospitati. Imaju jego naučiti vsemu."
+
+Prošlo pjatь let. Franek, teper už predškolnik, seděl na podu v salone i stavil kubi. Ola smotrela na nego iz kuhni, popivaja holodnyj kofe. Viděla v nem to že, čto i v denь jego roždenija – čelověka. No teper znala to, čego togda ne znala.
+
+Že ne imějet jego formovati. Že on už jestь v polnoti soboju.
+
+---
+Prišlo to iz podkasta, ktorýj uslyšala slučajno, kogda myla posudu. Kto-to govoril o Jespere Jule – danskom terapeute, ktorýj postavil provokativnu tezu: "Čto by bylo, ježeli by my predpoložili, že rebenok od samogo momenta roždenija jestь 100% kompletyj čelověk?"
+
+Ola togda ostanovilasja s gubkoju v rukě. Čto-to v nej kliknulo. Vspomnila vse situacii, v ktoryh tratila Franka kako projekta dlja remonty. Kako čto-to, čto trěba vyglaživati, popraviti, prisposobiti. Kako by on sam ne znal, kto on. Kako by jego čuvstva ne iměli značenija.
+
+A potom vspomnila situaciju v kafejni, ktoru opisal Jul. Roditelь pitaet rebenka, čto hočet piti. Rebenok izbiraje. Kelnerka prinosi sok, a rebenok vdrug izměnjaje rešenje. Roditelь vzlutajetsja i govori: "Zatvori rot, smarkač!"
+
+I Ola podumala: "Ja tože tak dělala. Tolko inymi slovami."
+
+Pomnila, kako Franek, iměja tri leta, plakal, že ne hočet jesti brokoli. A ona govorila: "Ne kaprizuj, brokoli zdorovo. Ježeli ne sъješь, ne budet deserta." Togda dumala, že to dobroje vospitanije. Že uči jego, čto dobro, a čto zlo. Že formuje jego navyky.
+
+Teper viděla to inače: "Kazala jemu ne věriti svojemu tjelu, ktoroe govorilo jemu, že ne hočet togo jesti. Naučila jego, že moja realьnostь važněje, čem jego."
+
+---
+No najtrudněje byla dověrjenostь.
+
+V knigě Jula načala takuju frazu: "Rebenok jestь kompetentnyj." I to izměnilo vse. Bo ježeli rebenok jestь kompetentnyj, to značit, že znajet, čto trěbuje. Že umějet prinjati rešenija. Že ne trěba jemu navjazyvati gotovyje rešenija, tolko byti pri njem v otkryvaniji světa.
+
+Ola rešila to prověriti. Kogda Franek skazal, že ne hočet iti na basen, bo boitsja vody, Ola ne skazala: "Ne bojsja, to ne strašno." Zaměsto togo voprosila: "Čto ty čuješь, kogda dymaješь o basen?"
+
+Franek posmotrel na nju začudovan. Nikto nikogda prěže ne voprosil jego, čto on čuje.
+
+– Bojusja – skazal. – Že utonu.
+
+– Razuměju – otvětila Ola. – To normalьno, že boišsja. Jestь li čto-to, čto moglo by pomoči tebě čuti se bezopasněje?
+
+Franek podumal minutu.
+
+– Možet, ježeli by iměl narukavniky?
+
+– Možemo poprobovati.
+
+Pošli na basen. Franek vošel v vodu s narukavnikami i čerez pjatь minut skazal:
+
+– Mamo, ja už hoču snjati narukavniki. Hoču poprobovati sam.
+
+Ola pozvolila jemu. I on plaval. Ne idealьno, no samostojatelьno. I kogda vyšel iz basena, skazal:
+
+– Mamo, ja mogu vse, ježeli ty mně pozvolišь.
+
+Ola togda podumala: "To ne tak, že on trěbuje mojih metodov. On trěbuje mojej dověrjenosti."
+
+---
+Četyre goda pozdněje Ola iměla už dvoe detej – Franka i triletnuju Zosju. I ješče učilasja toj filosofiji zanovo každyj denь.
+
+Odnogo dnja Zosja vzjala v ruki nožnicy. Ola uviděla to, i prvyj refleks byl: "Ne, to opasno!" No ostanovilasja. Vspomnila, čto govoril Jul: "Rebenok trěbuje svidětelja, ne korektora."
+
+– Zosja – skazala. – Vidju, že hočešь upotrebiti nožnicy. To ostryj predmet. Znaešь li ty, kako jih bezopasno upotrebiti?
+
+Zosja posmotrela na nju serьezno.
+
+– Da, mamo. Trěba deržati za ručku, a ne za ostrьje.
+
+– Dobro. A čto budešь vyrezati?
+
+– Serdce dlja taty.
+
+– To krasivo. Pomni tolko, da by beregla palьcy. Ježeli budešь trěbovati pomoči, ja tu jestь.
+
+Zosja vyrezala serdce. Ne idealьnoje, no svoje. I kogda podala jego tate, skazala:
+
+– Tato, sdělała to sama. Mama mně pověrila.
+
+To bylo dlja Oli bolьše, čem ljuboj vospitatelьnyj metod.
+
+---
+Najtrudněje byli dni, kogda sama ne iměla sily. Kogda rabota, dom, deti – vse jeje pritiskalo. Togda najlegče bylo vozvratiti se k starym navykam: k kriku, k karanjam, k "bo ja tak govorju".
+
+Pomnila odin večer, kogda Franek ne hotěl iti spati. Iměla už dosta, byla ustala, hotěla tolko minutu tišiny. I kriknula: "Imašь iti spati, konec diskusiji!" Franek posmotrel na nju so slzami v očah i skazal:
+
+– Mamo, ty už ne věrišь, že ja znaju, čto mně trěba.
+
+Ola zamerla. Ta slova udarili jeje kako obuh. Izvinila se. Sela podle nego na posteľ.
+
+– Prostite – skazala. – Ja ustala, i to ne tvoja vina. No znaešь čto? Ty imaješь pravdu. Ja věrju, že ty znaešь, čto trěbuješь. Tolko někogda o tom zabyvaju.
+
+Franek prižalsja k nej.
+
+– Ničego, mamo. Ja tože někogda zabyvaju.
+
+---
+Ola čitala o vospitatelьnyh ošibkah, o karanjah i nagradah, o tom, čto razrušaje detej. Viděla v teh opisah svoje prošloje. Viděla svoje ošibki, svoje neumělosti, svoju ustalostь. I každyj raz čula, že to slišiom. Že nikogda ne budet idealьnoj. Že vsegda čto-to isportit.
+
+Až do odnogo dnja: našla citat Jula, ktorýj izměnil vse:
+
+"Ježeli sevodnja my opjatь tratili rebenka snischoditelьno, ne trěbujetsja za to bicь sebe. To prosto signal dlja nas. Informacija, že naše sobstvennyje granicy byli narušeny i my ne uměli jih oboroniti v poru. To ne povod dlja čuvstva viny, a skorěje pozvanije k refleksiji o samom sebě."
+
+I togda Ola ponjala: ne idetь o tom, da by byti idealьnym roditelem. Idetь o tom, da by byti pravdьnym. Da by priznavati ošibki, izvinjati se, probovati ješče raz. I věriti – sebě i rebenku.
+
+---
+Zosja iměla pjatь let, kogda Ola uslyšala o ADHD. Kto-to iz okruženija skazal, že Zosja jestь "takoje trudnoje rebenok" – nevnimatelьnaja, chaotična, neumějušča sosredotočiti se na jedinoj věči dolьše, čem pjatь minut. Ola pošla k specialistu.
+
+– Podozrevajemo li my ADHD? – voprosila.
+
+– To slišiom rano dlja diagnoza – otvětil psiholog. – No možemo rabotati nad odnymi navykami. Uporjadočenoje prostranstvo, rutiny, gigiena sna, fizična aktivnostь – vse to pomagaje.
+
+Ola vozvratilasja domoj i posmotrela na Zosju. Jeje dočь, ktoraja risovala na stene v salone, bo zabyla, že imaje list. Ktoraja vhodila na stolьc, da by dostati sladosti, a potom zabyvala, začemu tam vhodila. Ktoraja zasypala v odinadcatь večera i budilasja v šestь, ustalaja.
+
+Ola podumala o tom, čto čitala: "Sutočnyj ritm u detej s ADHD jestь sdvinutyj na dva časa."
+
+Rešila vvesti izměny. Ne kako karanija, ne kako "metody". Kako pomočь.
+
+Prěže vsego – prostranstvo. Ugolok Zosji byl uporjadočen. Menьše igraček na vidu, bolьše prostranstva. Menьše odvlekajuščih razdražitelej.
+
+Potom – rutina. Postojannyje vremena jidy, postojannyje vremena sna. Vvela tajmer dlja čistki zubov: "Uvidim, kto prvyj vyčistit zuby – ty ili ja?"
+
+Zosja obožala gonki. I vdrug čistka zubov perestala byti borьboj, a stala igroju.
+
+A pered snom – bez ekranov. Bez sinьego světa, ktorýj vozbuždaje prefrontaluju koru i dělaje senь nevozmožnym. Zaměsto togo – čitanije knig. I tišina.
+
+Zosja načala lučše spati. I lučše funkcionovati. Ne idealьno – ješče byla chaotična, ješče zabyvala o veščah. No iměla instrumenty. I znala, že možet poprositi o pomoči.
+
+---
+Največšim vyzovom dlja Oli bylo planovanije vremeni. Zosja, kako mnogo detej s ADHD, iměla trudnosti s funkcijami izpolnenija. Zabyvala o zadačah, otkladyvala jih na posledьnjuju minutu, terjala se v chaosě sobstvennyh myslej.
+
+Ola vvela kalendarь. Samoklejuščijesja lističky na holodilьnike. Napominanija v telefone. I pravilo: "Snačala najvažnějšeje".
+
+– Zosja, čto ty imaješь sdělati sevodnja? – voprosila utrom.
+
+– Vyčistiti zuby, oděti se, sborkati rjuckzak.
+
+– Dobro. Čto jestь najvažnějšeje?
+
+– Vyčistiti zuby.
+
+– To s čego začnemo?
+
+– S čistki zubov.
+
+I to rabotalo. Ne vsegda, no vse čašče. Zosja učilasja planovati. Učilasja, že možet iměti vlijanije na svoju žiznь. Že ne imějet byti chaosom.
+
+---
+Ktoroje dnja Franek, ktorýj iměl už odinadcatь let, skazal Ole:
+
+– Mamo, dumaju, že ty dobraja mama.
+
+Ola byla začudovana.
+
+– Po čemu ty tako dumaješь?
+
+– Bo pozvoljaješь nam byti soboju.
+
+Ola počutila, kako čto-to stisnulo jej v grle.
+
+– A čto značit "byti soboju"?
+
+– To značit, že kogda hoču čto-to sdělati, ty mně věrišь. I daže ježeli sdělaju zlo, ty mně pomagaješь, a ne kričišь. I izvinjaješьsja, kogda sama sdělaješь zlo.
+
+Ola obnjala syna.
+
+– Děkuju – skazala.
+
+I podumala sebě, že to jestь največšij dar, ktorýj možno dati rebenku: ne metody, ne karanija, ne nagrady. No dověrjenostь. I prisutnostь. I ljubovь, ktoraja ne obuslovljaje, ne trěbuje, ne ocěnivaje.
+
+Ljubovь, ktoraja govori: "Ty jestь v polnoti čelověk. Od samogo načala. I vsegda budešь."
+
+---
+V noči, kogda deti spali, Ola otvorila knigu Jula. Načala na frazu, ktoruju už prěže čitala, no ktoraja každyj raz zvučala inače:
+
+"Ježeli naučimo detej, že ih dostoinstvo jestь neporušimoje od pervogo dnja žizni, to ne budut iměti potom za nego vojevati v odraslosti."
+
+Ola zakryla knigu. Posmotrela na dvьri komnaty detej. Čerez ščelь vidno bylo svet nočnoj lampy – malenьkij, teplyj, spokojnyj.
+
+Podumala o vseh ošibkah, ktoryje sdělała. O vseh momentah, v ktoryh mogła sdělati lučše. O vseh minutah, v ktoryh ne udalosь.
+
+I podumala tože o vseh momentah, v ktoryh probovala ješče raz. V ktoryh izvinjalasь. V ktoryh věrila.
+
+To ne byla idealьnaja doroga. No byla jeje. I byla pravdьnaja.
+
+A možet imenno o tom i rečь – ne o tom, da by byti idealьnym roditelem, no da by byti pravdьnym. Da by pokazati rebenku, že možno dělati ošibki i jih ispraviti. Že možno byti ustalym i prositi pomoči. Že možno ne znati, no iskati.
+
+I že v etom vsem puti najvažnějšeje jestь odno: tratiti drugogo čelověka – malenьkogo ili velikogo – kako ravnogo sebě. Kako kogo-to, kto imaje pravo na svoje čuvstva, svoje potrebnosti, svoje granicy.
+
+Kako kogo-to, kto jestь v polnoti čelověk.
+
+Od samogo načala.
+
+**KONEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověrte svoje razuměnje
+
+### Question 1
+
+**Question:** Čja teza o rebenku "100% kompletnom" izměnjaje myšlenije Oli?
+
+**Answers:**
+- A) Agi Rogali
+- B) Jespera Jula
+- C) Hardy
+- D) Szymona Grzelaka
+
+**Correct:** B
+**Explanation:** Slyši o Jespere Jule i teze o kompletnom čelověku od roždenija.
+**Text reference:** Jespere Jule
+
+### Question 2
+
+**Question:** Čto Ola dělaje, kogda Franek boitsja basena?
+
+**Answers:**
+- A) Siloju uči jego plavati
+- B) Pitaet o čuvstvah i predlagaje narukavniki
+- C) Anuluje vyjezd
+- D) Krikne
+
+**Correct:** B
+**Explanation:** Pitaet "Čto ty čuješь?" i vměstě iščut bezopasnostь (narukavniki).
+**Text reference:** Čto ty čuješь
+
+### Question 3
+
+**Question:** Čto Franek govori po uspěšnom plavaniji?
+
+**Answers:**
+- A) Nikogda bolьše na basen
+- B) Mamo, ja mogu vse, ježeli ty mně pozvolišь
+- C) Hoču byti trenerom
+- D) Basen jestь glupyj
+
+**Correct:** B
+**Explanation:** Franek: "Mamo, ja mogu vse, ježeli ty mně pozvolišь."
+**Text reference:** ježeli ty mně pozvolišь
+
+### Question 4
+
+**Question:** Čto Ola dělaje, kogda Zosja beret v ruki nožnicy?
+
+**Answers:**
+- A) Zabranjaje jej upotrebljati
+- B) Pitaet o bezopasnom upotrebleniji i pozvoljaje vyrezati serdce
+- C) Oddaje nožnicy učitelьnice
+- D) Karaje
+
+**Correct:** B
+**Explanation:** Ola pitaet o bezopasnom upotrebleniji i jestь pri nej — Zosja vyrezaje serdce sama.
+**Text reference:** sdělała to sama
+
+### Question 5
+
+**Question:** Po čemu vvodi rutiny dlja Zosji?
+
+**Answers:**
+- A) Kako karanija
+- B) Kako pomočь pri vozmožnom ADHD — menьše razdražitelej, postojannyj ritm sna, bez ekranov
+- C) Bo učitelь kaže
+- D) Dlja sporta
+
+**Correct:** B
+**Explanation:** Uporjadočenoje prostranstvo, rutina, tajmer dlja zubov, bez ekranov pered snom.
+**Text reference:** sutočnyj ritm
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

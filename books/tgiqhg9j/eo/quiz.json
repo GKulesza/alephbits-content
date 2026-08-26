@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kian problemon havas Magda kaj Grzesiek?",
+      "answers": [
+        "Ili evitas sinceran konversacion pri bezonoj",
+        "Magda ne ŝatas ĵazon",
+        "Grzesiek ne aĉetas lakton",
+        "Magda ne volas brakumi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ambaŭ reagas per ofendo anstataŭ paroli rekte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Magda komprenis ĉe la renkontiĝo de Kapci?",
+      "answers": [
+        "Ke ŝi ŝajnigis interesojn al Grzesiek",
+        "Ke ŝi devus pli ofte aĉeti lakton",
+        "Ke Grzesiek estas perfekta",
+        "Ke ĵazo estas pli bona ol popo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi rememoris ŝajnigi intereson pri promenoj kaj ĵazo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel finiĝas la rakonto?",
+      "answers": [
+        "Ili komencas paroli rekte pri siaj bezonoj",
+        "Ili disiĝas",
+        "Grzesiek forvojaĝas",
+        "Magda revenas al ŝajnigado"
+      ],
+      "correctIndex": 0,
+      "explanation": "La epilogo priskribas sinceran komunikadon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Grzesiek komencas fari post la ŝanĝo?",
+      "answers": [
+        "Li notas la petojn de Magda",
+        "Li vendas ĵazdiskojn",
+        "Li translokiĝas",
+        "Li ĉesas aŭskulti muzikon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzesiek notas la petojn, por ne forgesi ilin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Magda ŝajnigis intereson pri ĵazo?",
+      "answers": [
+        "Ŝi timis forĵetiĝon",
+        "Ŝi adoris la ĝenron",
+        "Grzesiek tion postulis",
+        "Ŝi volis fariĝi muzikistino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi ŝajnigis pro timo pri forĵetiĝo."
+    }
+  ]
+}

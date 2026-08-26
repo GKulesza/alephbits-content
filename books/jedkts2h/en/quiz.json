@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Anna describe a family?",
+      "answers": [
+        "As a prison",
+        "As communicating vessels — the water level changes everywhere",
+        "As a company",
+        "As a theatre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Family like communicating vessels — influence both ways."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anna suggest instead of punishments like taking away the tablet?",
+      "answers": [
+        "Consequences and making amends",
+        "Ignoring",
+        "Exclusion from school",
+        "Public humiliation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Natural consequences — apologies, cleaning up, repair."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta say to Kacper when he throws things?",
+      "answers": [
+        "You are forbidden from having emotions",
+        "You have the right to be angry, but you can't throw things",
+        "Go to the corner immediately",
+        "She says nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"You have the right to be angry\" + a clear boundary."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kacper do when he gets upset at school after the changes?",
+      "answers": [
+        "He hits others",
+        "He sits on the carpet, squeezes the stress ball, says \"I need a moment\"",
+        "He runs away from school",
+        "He shouts at the teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "He learns regulation — stress ball, a moment, stepping out."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is in the drawing Kacper gives Anna?",
+      "answers": [
+        "A dinosaur",
+        "A thank you: \"taught me how to be good\"",
+        "A house without people",
+        "A map"
+      ],
+      "correctIndex": 1,
+      "explanation": "The words: \"Thank you for teaching me how to be good.\""
+    }
+  ]
+}

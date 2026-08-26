@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la profesión de Anna?",
+      "answers": [
+        "Médica",
+        "Psicóloga y autora de libros sobre relaciones",
+        "Profesora",
+        "Periodista"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna es experta en relaciones, psicóloga y autora."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué tres juegos relacionales menciona Anna en su conversación con Paweł?",
+      "answers": [
+        "Ajedrez, póker y ruleta",
+        "«Te pillé», «debo ser valiente» y «si no fuera por ti»",
+        "Silencio, mentira y huida",
+        "Rivalidad, celos y control"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna habla directamente de esos tres juegos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué recuerda Anna de su padre?",
+      "answers": [
+        "Era médico",
+        "Tenía las manos duras y a veces golpeaba",
+        "Se marchó cuando ella era pequeña",
+        "Nunca la hirió"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cuenta el duro trabajo de su padre y la violencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Paweł sobre el «monstruo» de Anna?",
+      "answers": [
+        "Que no lo conoce",
+        "Que sabe que no es ella — es su monstruo",
+        "Que tiene que irse",
+        "Que Anna es culpable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł dice: «Sabía que no eras tú. Era tu monstruo»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina Anna la historia del juego?",
+      "answers": [
+        "Que ganó",
+        "Que salió del juego porque dejó de jugarlo",
+        "Que Paweł se marchó",
+        "Que cerró los talleres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comprendió que no había ganado — había dejado de jugar."
+    }
+  ]
+}

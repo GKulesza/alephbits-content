@@ -1,0 +1,27 @@
+{
+  "packId": "dgdzvgpm:isv_cyrl",
+  "bookId": "dgdzvgpm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанскы превод полској каноническој редакции (манусцрипт Цоллецтион Севен). Повны текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Seven manuscript"
+    }
+  ],
+  "revisionNotes": "Пхасе 97 импорт. Тен сам проwадзąцы цо w „Зиелонеј поśwиацие” — фоундер децыдује о релацји серии.",
+  "translationStatus": "machine",
+  "translationSource": "dgdzvgpm:isv",
+  "translationSourceVersion": "1.0.0"
+}

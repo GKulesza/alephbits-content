@@ -1,0 +1,351 @@
+# Vasos comunicantes
+
+## Metadata
+
+**Pack ID:** jedkts2h
+**Book ID:** jedkts2h
+**Legacy Pack ID:** polish_naczynia_polaczone
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Vasos comunicantes  
+**Subtitle:** Agresión en la escuela, sistema en casa  
+**Blurb:** La maestra Anna ve en Kacper a un genio y a un agresor a la vez. Les dice a los padres: la familia es como los vasos comunicantes — un cambio en casa cambia al niño en clase.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** family
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del paquete de lectura polaco "Naczynia połączone" — edición oficial de Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** agresja, szkoła, rodzina, granice, Collection Ten  
+
+**Keywords:** Vasos comunicantes, Kacper, Anna, contrato familiar  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- school
+- family
+- anger
+- teaching
+- community
+- reconciliation
+
+**Editorial notes:** Traducción al español de la edición canónica polaca (manuscrito Collection Ten). Texto completo preservado — sin abreviar.
+**Inspiration:** La metáfora de la familia como vasos comunicantes — el sistema familiar; YouTube Q6sW6OEPcH8 (2022-11-23).
+
+**Translation status:** machine  
+**Translation source:** jedkts2h:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: escuela, casa
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 23.11.2022 -> https://www.youtube.com/watch?v=Q6sW6OEPcH8  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Metafora naczyń połączonych dobrze tłumaczy system rodzinny. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Q6sW6OEPcH8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2022-11-23  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**VASOS COMUNICANTES**
+
+La señora Anna respiró hondo antes de abrir la puerta del aula. Llevaba quince años como maestra de educación infantil. Ya había visto mucho – niños de hogares distintos, historias distintas, dramas distintos. Pero Kacper era diferente.
+
+Kacper tenía siete años, iba a segundo de primaria y era el niño más inteligente de su grupo. Leía con fluidez, calculaba de memoria como una máquina, conocía los nombres de dinosaurios que Anna ni siquiera sabía pronunciar. Y, al mismo tiempo, era el niño más agresivo que jamás había enseñado.
+
+Ayer le lanzó una tiza a un compañero porque el niño lo miró "mal". Esta mañana golpeó a una niña que quería sentarse a su lado en el pupitre. Cada vez que Anna intentaba hablar con él, Kacper se encerraba en sí mismo o estallaba en llanto.
+
+– ¿Qué te pasa, Kacper? – preguntó una vez más, mientras estaban sentados en el rincón de la calma. – ¿Por qué haces esto?
+
+– No lo sé – respondió, mirando al suelo.
+
+Anna sabía que no era verdad. Los niños siempre saben, aunque no siempre sepan nombrarlo. Kacper lo sabía, pero no podía decirlo. Porque lo que ocurría en su cabeza era demasiado complicado incluso para él.
+
+---
+
+Los padres de Kacper eran jóvenes, educados y muy implicados. O al menos eso decían. En cada reunión de padres aparecían con cuadernos y bolígrafos, dispuestos a anotar cada consejo. Pero cuando Anna proponía soluciones concretas, sus caras adoptaban una expresión de preocupación que pronto se convertía en actitud defensiva.
+
+– Pero nosotros en casa no le gritamos – decía la madre de Kacper, la señora Marta. – Intentamos apoyarlo. Hablamos con él, le explicamos. No queremos estresarlo.
+
+– Lo entiendo – respondía Anna. – Pero a veces los niños también necesitan límites claros. Consecuencias. Cuando Kacper golpea a un compañero, debe saber que está mal.
+
+– Él lo sabe – intervenía el padre, el señor Paweł. – Lo que pasa es que no controla las emociones. Hemos probado varios métodos. Incluso le quitamos la tableta durante una semana entera. Pero eso solo lo empeora todo.
+
+Anna los miró con atención. Veía el cansancio en sus ojos. Y miedo. Miedo de ser malos padres. Miedo de que su hijo se convierta en un agresor. Miedo de no saber lo que hacen.
+
+– ¿Han probado algo diferente? – preguntó. – En lugar de quitarle la tableta, quizá hablar de lo sucedido y proponer reparar el daño.
+
+– Pero él no quiere hablar – dijo Marta. – Se encierra en su cuarto y finge que no nos oye.
+
+Anna asintió.
+
+– Quizá necesita su presencia. No una conversación, sino que estén ahí. Quizá necesita oír que lo quieren, incluso cuando está enfadado.
+
+Los padres de Kacper se miraron.
+
+– Se lo decimos – dijo Paweł. – Todo el tiempo.
+
+– ¿Pero él lo oye? – preguntó Anna.
+
+---
+
+Unos días después, Anna invitó a los padres de Kacper a una charla. Esta vez sin cuadernos, sin bolígrafos. Solo ellos, ella y unas tazas de café.
+
+– Quisiera contarles algo – empezó. – Sobre cómo funciona una familia.
+
+Marta y Paweł la miraron sorprendidos.
+
+– Una familia es como los vasos comunicantes – dijo Anna. – Cuando cambia el nivel del agua en un recipiente, cambia en todos los demás. Lo que ocurre en su casa influye en lo que Kacper hace en la escuela. Y al revés.
+
+– Lo sabemos – dijo Paweł. – Intentamos...
+
+– Déjenme terminar – lo interrumpió Anna. – Lo que quiero decirles es muy simple, pero no fácil de poner en práctica. Los padres son el primer entorno educativo del niño. Allí se forman los patrones de conducta, las actitudes, los valores. Y eso no ocurre por lo que dicen, sino por lo que hacen.
+
+Marta bajó la mirada.
+
+– Intentamos ser buenos padres – dijo en voz baja. – Leemos libros, vamos a talleres...
+
+– Lo sé – respondió Anna. – Y eso es hermoso. Pero a veces olvidan una cosa.
+
+– ¿Qué cosa? – preguntó Paweł.
+
+– Que tienen derecho a ser padres. Tienen derecho a poner límites. Tienen derecho a exigir. Eso no es malo. Es necesario.
+
+Marta levantó la vista. En sus ojos aparecieron las primeras lágrimas.
+
+– Tengo miedo – dijo. – Miedo de que, si soy demasiado estricta, me odie.
+
+Anna sonrió con calidez.
+
+– El amor de un hijo no consiste en dejarle hacer siempre lo que quiera. El amor consiste en estar a su lado, incluso cuando le cuesta. Incluso cuando se enfada. Incluso cuando grita. Ustedes están y dicen: "Te quiero, pero no estoy de acuerdo con lo que haces".
+
+---
+
+Anna propuso a los padres de Kacper algo que llamó "contrato familiar". Debían sentarse juntos con Kacper y acordar unas reglas que valieran para todos. No solo para Kacper, sino también para mamá, papá y la hermana mayor.
+
+– Las reglas deben ser simples y claras – explicaba. – Por ejemplo: en nuestra familia nos hablamos con respeto. Si alguien grita, se va a otra habitación a calmarse. Si alguien causa un daño, lo repara como pueda.
+
+– ¿Y los castigos? – preguntó Paweł.
+
+– En lugar de castigos, propongo consecuencias – respondió Anna. – Un castigo es algo que el padre inventa para que el niño se sienta mal. Una consecuencia es el resultado natural de la conducta. Si Kacper golpea a un compañero, la consecuencia es que debe disculparse y pensar cómo reparar el daño. Si derrama el zumo, la consecuencia es que limpia el charco.
+
+– ¿Y si no quiere? – preguntó Marta.
+
+– Entonces tienen derecho a decir: "Entiendo que estás enfadado. Pero la regla es que recogemos lo nuestro. Esperaré a que estés listo, pero hay que hacerlo".
+
+Los padres de Kacper se miraron. En sus ojos apareció algo que Anna no había visto antes: esperanza.
+
+---
+
+La primera semana fue difícil. Kacper probaba los nuevos límites. Gritaba cuando no conseguía lo que quería. Se encerraba en su cuarto cuando su madre le pedía que recogiera los juguetes. Pero Marta y Paweł se mantuvieron firmes. No cedían. No gritaban. Esperaban.
+
+– Sé que estás enfadado – dijo Marta, cuando Kacper se tiró al suelo del salón. – Tienes derecho a estar enfadado. Pero la regla es que no tiramos las cosas. Cuando te calmes, hablamos.
+
+Kacper la miró sorprendido. Esperaba un grito. Esperaba un castigo. En su lugar oyó: "Tienes derecho a estar enfadado".
+
+Después de unos minutos se sentó a la mesa.
+
+– ¿Por qué estoy enfadado? – preguntó.
+
+– Porque no conseguiste lo que querías – respondió Marta. – Es normal estar enfadado cuando no consigues lo que quieres. Pero no puedes tirar las cosas. No es seguro.
+
+– ¿Qué puedo hacer cuando estoy enfadado? – preguntó Kacper.
+
+– Puedes decir: "Estoy enfadado". Puedes ir a tu cuarto y abrazar al osito. Puedes dibujar tu enfado. Pero no puedes tirar cosas ni golpear a los demás.
+
+Kacper pensó un momento.
+
+– ¿Puedo abrazarte?
+
+Marta sonrió y abrió los brazos.
+
+– Siempre puedes abrazarme.
+
+---
+
+Pasó un mes. Anna notó el cambio. Kacper seguía teniendo momentos difíciles, pero ya no golpeaba a los demás. Cuando se ponía nervioso, se sentaba en la alfombra y apretaba la pelota antiestrés que le había regalado Anna. A veces decía: "Estoy enfadado, necesito un momento". Y salía del aula para calmarse.
+
+Los padres de Kacper también habían cambiado. En la reunión de padres, Marta dijo:
+
+– Hemos aprendido que educar no es adiestrar. Es construir relaciones. Es mostrarle al niño que es querido, incluso cuando se enfada. Y que los límites no son un castigo – son seguridad.
+
+Anna sonrió.
+
+– Son palabras hermosas – dijo. – ¿Y sabe qué? También ustedes han cambiado. A los ojos de Kacper ya no son solo los padres, sino también un lugar seguro.
+
+Paweł asintió.
+
+– Fue difícil – admitió. – Pero valió cada momento.
+
+---
+
+Al final del curso escolar, Kacper le llevó a Anna un dibujo. En él estaban ella, él y un texto: "Gracias por enseñarme a ser bueno".
+
+Anna lo abrazó.
+
+– No te lo enseñé yo, Kacper – dijo. – Lo aprendiste tú solo. Yo solo te mostré que era posible.
+
+Kacper sonrió y salió corriendo al recreo.
+
+Anna lo miró y pensó en lo que había dicho a principios de año: "Una familia es como los vasos comunicantes". Y comprendió que funcionaba en ambas direcciones. Cuando la familia de Kacper cambió, él cambió. Y cuando él cambió, cambió todo su entorno.
+
+Educar no es una lucha. Es un viaje compartido. Y aunque a veces sea difícil, siempre vale la pena emprenderlo.
+
+Porque al final se trata de que los niños – y los padres – se conviertan en mejores personas. Juntos.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Cómo describe Anna a la familia?
+
+**Answers:**
+- A) Como una cárcel
+- B) Como vasos comunicantes — el nivel del agua cambia en todas partes
+- C) Como una empresa
+- D) Como un teatro
+
+**Correct:** B
+**Explanation:** La familia como vasos comunicantes — influencia en ambos sentidos.
+**Text reference:** vasos comunicantes
+
+### Question 2
+
+**Question:** ¿Qué propone Anna en lugar de castigos como quitar la tableta?
+
+**Answers:**
+- A) Consecuencias y reparación del daño
+- B) Ignorar
+- C) La expulsión de la escuela
+- D) La humillación pública
+
+**Correct:** A
+**Explanation:** Consecuencias naturales — disculpas, limpiar, reparar.
+**Text reference:** consecuencias
+
+### Question 3
+
+**Question:** ¿Qué le dice Marta a Kacper cuando tira las cosas?
+
+**Answers:**
+- A) Tienes prohibido tener emociones
+- B) Tienes derecho a estar enfadado, pero no puedes tirar las cosas
+- C) Vete al rincón inmediatamente
+- D) No le dice nada
+
+**Correct:** B
+**Explanation:** "Tienes derecho a estar enfadado" + un límite claro.
+**Text reference:** Tienes derecho a estar enfadado
+
+### Question 4
+
+**Question:** ¿Qué hace Kacper cuando se pone nervioso en la escuela después de los cambios?
+
+**Answers:**
+- A) Golpea a los demás
+- B) Se sienta en la alfombra, aprieta la pelota antiestrés, dice "necesito un momento"
+- C) Huye de la escuela
+- D) Le grita a la maestra
+
+**Correct:** B
+**Explanation:** Aprende a regularse — pelota, un momento, salir.
+**Text reference:** necesito un momento
+
+### Question 5
+
+**Question:** ¿Qué aparece en el dibujo que Kacper le da a Anna?
+
+**Answers:**
+- A) Un dinosaurio
+- B) Un agradecimiento: "me enseñó a ser bueno"
+- C) Una casa sin gente
+- D) Un mapa
+
+**Correct:** B
+**Explanation:** El texto: "Gracias por enseñarme a ser bueno".
+**Text reference:** a ser bueno
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

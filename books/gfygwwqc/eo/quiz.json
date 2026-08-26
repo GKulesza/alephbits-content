@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Ola komence de la rakonto?",
+      "answers": [
+        "28",
+        "38",
+        "48",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras, ke Ola havis tridek ok jarojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion legas Ola en la libro de Magdalena Chorzewska?",
+      "answers": [
+        "Ke la unua rendevuo montras nenion",
+        "Ke ŝi estos la sekva, kiu estos malbona",
+        "Ke oni devas serĉi idealan partneron",
+        "Ke rendevuoj estas perdo de tempo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi legas la frazon pri la eksaj, kiuj „estis malbonaj\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kun kio Magda komparas la konduton de Ola en la historio?",
+      "answers": [
+        "Kun la paco post la milito",
+        "Kun la Tria Regno, kiu timis la pacon",
+        "Kun diplomatio",
+        "Kun geedziĝo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda diras, ke ĉiu rendevuo estas nova kampanjo, kaj Ola timas ĉesi serĉi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras Tomasz pri siaj eksaj partnerinoj?",
+      "answers": [
+        "Ke ili ĉiuj estis malbonaj",
+        "Ke kun unu li ne interkompreniĝas, sed kun alia li havas bonan kontakton",
+        "Ke li neniam havis rilatojn",
+        "Ke la kulpo estis tute ilia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz diras, ke ne ĉiuj eksaj estas malbonaj — ili estis malbonaj unu por la alia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ola skribas en la libro fine?",
+      "answers": [
+        "Ke rendevuoj ne havas sencon",
+        "Ke oni devas serĉi homon, ne idealon",
+        "Ke Tomasz estas perfekta",
+        "Ke terapio ne helpas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La noto parolas pri rilatoj konstruitaj post multaj rendevuoj, kiam oni serĉas homon, ne idealon."
+    }
+  ]
+}

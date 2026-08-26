@@ -1,0 +1,298 @@
+# Symmetry
+
+## Metadata
+
+**Pack ID:** arji8qlh
+**Book ID:** arji8qlh
+**Legacy Pack ID:** polish_symetria
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Symmetry  
+**Subtitle:** Volhynia versus the comfortable lie  
+**Blurb:** Rafał Ziemkiewicz reads archival accounts from Volhynia — a child crawling over its dead mother, women impaled on stakes, "symmetry" instead of genocide. He recalls the 2008 text "Myśmy wszystko zapomnieli" (We Have Forgotten Everything) and a medal from the Kresy community. An essay about memory that bleeds, and about a lie more comfortable than the truth.
+
+**Genres:** article, history, philosophy  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 8 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Symetria" — Collection Nine official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 6  
+
+**Tags:** Wołyń, symetria, pamięć, historia, Collection Nine  
+
+**Keywords:** Symmetry, Volhynia, Ziemkiewicz, genocide, Myrotvorets  
+
+**Cover family:** history
+
+
+**Motifs:**
+- memory
+- grief
+- betrayal
+- archive
+- question
+
+**Editorial notes:** Historical essay with graphic descriptions of crimes; P0 founder review — Volhynia, politics, Myrotvorets.
+
+**Inspiration:** The Volhynia anniversary, the debate about "symmetry" and the text "Myśmy wszystko zapomnieli".
+
+**Translation status:** machine  
+**Translation source:** arji8qlh:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- objects: book
+- places: office, home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 13.07.2026 -> https://www.youtube.com/watch?v=Xtigt79Sw9I  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Trudny temat historyczny — wymaga disclaimera i founder review przed promocją. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Xtigt79Sw9I  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**SYMMETRY**
+
+Rafał Ziemkiewicz put down a pile of documents on the desk. It was past three in the morning, but he didn't feel tired. There was something else he hadn't felt for days — peace.
+
+In 2007 he worked at TVP Historia. The project was great, but money was lacking. They made programmes for next to nothing, sitting around the table and talking — against Discovery or the History Channel they had no chance. But they had passion. And they had people who brought him folders from the archives. The same folders that now lay before him, spread out on the table in his flat, lit only by the desk lamp.
+
+When he started reading, he couldn't sleep.
+
+He remembered Kaczmarski's ballad about the poisoned well. _Whoever drinks once from this well's water will be surrounded by venomous vipers._ Now he knew what it meant. Those documents, those accounts, those letters — they seeped into him like poison. And there was no antidote.
+
+---
+A one-and-a-half-year-old child, Jan and Marzanna Blicharz from Chrynów. With a chopped-off arm, it crawled over its dead mother, calling "mama". A seven-month-old child of Wacław and Jadwiga Demko from Jadwigin was sucking the breast of its dead mother. Women impaled on stakes. Men torn apart by horses. Small children with mouths slit from ear to ear. Thousands — no, tens of thousands — of such images, which should never have seen the light of day, and yet somewhere out there, in the archives, they waited.
+
+Rafał closed his eyes. He saw what cannot be seen: a village surrounded by a cordon, burning cottages, a scream falling silent under the blow of an axe. He saw the moon over Volhynia shining on the same land over which cars older than the Ukrainian state now drive. And he thought of the fact that Poles — his nation, his people — had forgotten. Some had never known. Others pretended it was irrelevant. And still others — those from the drawing rooms, those of "symmetry" — said: "Poles also hurt people, right?"
+
+Symmetry. That damned symmetry.
+
+He remembered how in 2008 he wrote a text for _Rzeczpospolita_. He took the title from Wyspiański: _Myśmy wszystko zapomnieli_ (We have forgotten everything). He hadn't expected to be the first to write clearly, in a high-circulation newspaper, about the shame of Polish forgetting. He hadn't expected people from the Kresy organizations to reach out to him in surprise: "We didn't know you also had family roots in Volhynia."
+
+He didn't. But he didn't need to, to feel.
+
+---
+He opened a drawer and took out a medal. It wasn't a state award, it had no official seal. The Kresy community had made it at their own expense to honour those who had not forgotten. Rafał received it for reminding people about Volhynia. Now, many years later, he received another distinction — he ended up on the Ukrainian Myrotvorets list. A list for persecution and execution.
+
+_I've ended up on the Banderite proscription list_ — he thought. _I wonder if any of those who put me on it now knows who Ivan Gonta was._
+
+He remembered how he had searched for Shevchenko's poem _Hajdamacy_ (The Haidamakas). The Polish internet doesn't have it at all. In Ukraine they know it well — a song in praise of the slaughter, of the Koliyivshchyna, of Uman. Brave Haidamakas who wade through Polish and Jewish blood, defending the people against exploitation. The key scene: Ivan Gonta murders his own children. Why? Because his wife was Polish. He must rid himself of "Polish blood".
+
+Rafał put the medal down. He couldn't wrap his head around the fact that someone could read such things and still think that "Poles also did something" or that "one must forgive". And yet — that was exactly what Polish intellectuals were doing. The same ones who for decades had been sweeping Volhynia under the carpet. The same ones who spoke of "forgiveness" and "reconciliation" when it was the victims who should have been apologised to. The same ones who, in 2026 — on the eighty-third anniversary of the Bloody Sunday — still could not say it out loud: genocide.
+
+Rafał stood up and walked to the window. Beyond the pane, Warsaw was pulsating with life, unaware of the weight carried by this one day — 11 July, the anniversary of Volhynia. He thought of Lieutenant Rumel, who died trying to come to an understanding with the criminals. He thought of the Home Army, which had betrayed the people of Volhynia. Of the London government, which ignored the scream. Of the PRL, which half-admitted that something had happened there, but that it no longer mattered now.
+
+And of how the Polish emigration — even that which had survived — hushed the subject. You mustn't stir things up. We're fighting the Germans. We have two enemies, and a third — that third crime — doesn't fit in at all.
+
+_This is the dysfunction_ — he thought. _An autoimmune disease of the Polish intelligentsia. A defence system that should fight enemies turns against its own organism._
+
+He returned to the desk. He took a pen and a sheet of paper. He began to write — not a journalistic piece, not a column. A list. Those who should remember. Those who do remember. Those who — like him — had not let themselves be poisoned by symmetry.
+
+_The victims of Volhynia were simple peasants_ — he wrote. _Settled there for centuries. Not occupiers. Not invaders. Neighbours._
+
+He wondered whether anyone today, in 2026, even understands what "neighbour" means. A man who lives next door, who knows your children, who comes for your name day. And then, one night, he comes with an axe, because the priest in the church sprinkled it with holy water and said that this man is your enemy. And that you must kill him, or else he will kill you.
+
+There was no logic in any of it. There was only hatred. And fear, which drove further crimes. The UPA set itself a goal: to get rid of Poles, Jews, Czechs, Armenians, and even Ukrainians who did not fit the Galician variant of Nazism. It wasn't about "expulsion" — it was about extermination. About ethnic cleansing. About genocide.
+
+Rafał remembered the story of Anna Walentynowicz. Ukrainian by origin, an icon of Solidarity. Her son didn't know that his mother came from Ukraine until they travelled together to her home region. Poles don't want to know that she was Ukrainian — they are outraged that anyone could insult an icon of the solidarity movement like that. Ukrainians don't want to know that she chose Polishness — for them, that is betrayal.
+
+_A heroine who could have united two nations_ — Rafał thought. _But neither of them wants her._
+
+Like Janusz Korczak — a Pole by choice, a traitor for Ukrainians. Or like Andrzej Wajda, who made a film about Korczak and stirred up hatred. _You can't promote someone who chose Polishness_ — that was the message coming through from every Ukrainian comment.
+
+Rafał put down his pen. He knew his text would not change the world. That the Polish intelligentsia — that "patho-intelligentsia", as he called it — would keep looking for symmetry. Would keep talking about "forgiveness" instead of justice. Would keep apologising to the perpetrators on behalf of the victims, who are no longer alive and cannot protest.
+
+But someone had to remember.
+
+He remembered the words he had spoken in his commentary: "Volhynia is a great bleeding wound. And it is still bleeding."
+
+It was not just a metaphor. The blood of Volhynia's victims was still in the Polish soil. Unexhumed, unburied, unremembered. It waited for someone to reach for it. And meanwhile — in the European Parliament, in the Ukrainian media, in the Polish drawing rooms — a game was being played in which Volhynia was a bargaining chip, not a tragedy.
+
+Rafał stood up. Beyond the window the sun was rising. A new day was coming — a day on which he would again speak about what everyone wants to forget. About the slaughter. About the betrayal. About the symmetry that is only a comfortable lie.
+
+He closed his eyes and saw that image again: a child with a chopped-off arm, crawling over its dead mother. A seven-month-old infant sucking the breast of a woman who was no longer alive. A girl with gouged-out eyes. A boy whose feet the UPA men had cut off.
+
+And then he saw himself — writing the text in 2008. And those who read it in surprise: "We didn't know you also had roots in Volhynia."
+
+He didn't. But he had memory. And that was enough not to let himself be poisoned by symmetry.
+
+He opened his eyes. He took the medal from the Kresy community in his hand. For a moment he held it in his palm, feeling its weight. Then he put it back in the drawer.
+
+He was on the Myrotvorets list. He was in the crosshairs. But he had no intention of staying silent.
+
+_We have forgotten everything_ — he thought. _But I will not forget. And I will not let others forget._
+
+He switched on the computer. Another debate awaited him, another commentary, another fight for memory. He knew it would bring him neither popularity nor awards. But that's not why he did it. He did it for those who could no longer speak. For those who had been murdered only because they were Poles.
+
+And for those who were still alive, but in whose hearts the Volhynian wound was still bleeding.
+
+Rafał began to write. This time — a text for _Rzeczpospolita_. About symmetry, about forgetting, about the fact that you cannot forgive on behalf of those who are no longer alive.
+
+_They ask the perpetrators for forgiveness_ — he wrote. _And they forgive on behalf of the victims, who are no longer alive and cannot protest against these forgivers._
+
+He paused for a moment. He looked through the window at Warsaw waking to life. Somewhere out there, in the east, lay Volhynia — a land soaked in blood. And somewhere out there, in the Ukrainian archives, documents that could bring the truth were still waiting.
+
+But the truth was inconvenient. For Ukrainians — because it laid bare their national myth. For Poles — because it forced them to look in the mirror. For the West — because it shattered the narrative of a "good Ukraine" fighting for freedom.
+
+Rafał knew that truth loses to politics. That Volhynia — like so many other crimes — would be pushed to the margins as long as it was convenient. But he had hope — the same hope he had had in 2008 — that at least a few people would read and remember.
+
+_Whoever drinks once from this well's water_ — he thought. _Will be surrounded by venomous vipers._
+
+He was not afraid of vipers. He was afraid of silence. He was afraid of forgetting. And that is why he would not stop speaking — about Volhynia, about betrayal, about the symmetry that is only a lie.
+
+Beyond the window the sun had risen higher. Rafał returned to writing.
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What was the title of Rafał's 2008 text in Rzeczpospolita?
+
+**Answers:**
+- A) Symmetry of wrongs
+- B) We have forgotten everything
+- C) Proscription list
+- D) Volhynia without censorship
+
+**Correct:** B
+**Explanation:** Rafał recalls the text with the title from Wyspiański: "We have forgotten everything".
+**Text reference:** We have forgotten everything
+
+### Question 2
+
+**Question:** What does Rafał call the "damned symmetry"?
+
+**Answers:**
+- A) The balance of power in the EU
+- B) Comparing genocide with "Poles also hurt people"
+- C) Symmetry in architecture
+- D) Symmetry in the media
+
+**Correct:** B
+**Explanation:** The drawing-room "symmetries" trivialise Volhynia: "Poles also hurt people, right?"
+**Text reference:** symmetry
+
+### Question 3
+
+**Question:** What scene from Shevchenko's poem does Rafał recall?
+
+**Answers:**
+- A) Ivan Gonta murdering his own children
+- B) The Battle of Grunwald
+- C) The signing of a peace treaty
+- D) The hero's wedding
+
+**Correct:** A
+**Explanation:** In "The Haidamakas" the key scene: Ivan Gonta murders his own children for their "Polish blood".
+**Text reference:** Ivan Gonta
+
+### Question 4
+
+**Question:** What did Rafał receive the medal from the Kresy community for?
+
+**Answers:**
+- A) For working at TVP
+- B) For reminding people about Volhynia
+- C) For a text about Taiwan
+- D) For taking part in the European Parliament
+
+**Correct:** B
+**Explanation:** The Kresy community honours those who have not forgotten — Rafał received the medal for reminding.
+**Text reference:** for reminding people about Volhynia
+
+### Question 5
+
+**Question:** What is Rafał more afraid of than the vipers from Kaczmarski's ballad?
+
+**Answers:**
+- A) Criticism on social media
+- B) Silence and oblivion
+- C) Losing his job
+- D) Emigration
+
+**Correct:** B
+**Explanation:** Rafał says: he is not afraid of vipers — he is afraid of silence and oblivion.
+**Text reference:** He was afraid of silence
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién es la señora Anna?",
+      "answers": [
+        "Una maestra de lectura en preescolar",
+        "Una médica",
+        "La directora de la escuela",
+        "Una autora de libros de texto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lleva veinte años dando clases de lectura en preescolar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el niño sobre la sílaba «ma»?",
+      "answers": [
+        "«Eme a»",
+        "«Ma-ma»",
+        "«A eme»",
+        "«Ma» sin unir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nombra las letras en lugar de unirlas en una sílaba."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué dice la señora Anna que el niño no lee?",
+      "answers": [
+        "Reconoce los dibujos de la aplicación",
+        "No conoce el alfabeto",
+        "No va a la escuela",
+        "Tiene un defecto de visión"
+      ],
+      "correctIndex": 0,
+      "explanation": "La aplicación le muestra palabras con dibujos: eso es asociar, no leer."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cambia la madre tras la conversación con la señora Anna?",
+      "answers": [
+        "Le lee libros al niño y practica las sílabas",
+        "Compra una tableta nueva",
+        "Apunta a su hijo a deportes",
+        "Cambia de escuela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Al cabo de un mes la madre lee libros y muestra sílabas, y el niño empieza a leer."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice la señora Anna a la madre al final?",
+      "answers": [
+        "Que fue la madre quien enseñó al niño a leer",
+        "Que la aplicación es suficiente",
+        "Que el niño no sirve para aprender",
+        "Que la culpa es de la escuela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice: «No fui yo. Fue usted.»"
+    }
+  ]
+}

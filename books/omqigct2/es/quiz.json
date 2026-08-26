@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántas horas trabajó Patryk antes de cerrar el portátil?",
+      "answers": [
+        "Seis",
+        "Catorce",
+        "Veinte",
+        "Dos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La primera frase dice que trabajó catorce horas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Patryk en el cuaderno en mitad de la noche?",
+      "answers": [
+        "Una lista de la compra",
+        "Que no recuerda cuándo se sintió bien y respiró de verdad",
+        "Un plan de vacaciones",
+        "Un guion de película"
+      ],
+      "correctIndex": 1,
+      "explanation": "La primera anotación habla de no recordar el último bienestar y la respiración verdadera."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De dónde procede el cuaderno que usa Patryk?",
+      "answers": [
+        "Lo compró ese día en una librería",
+        "Se lo regaló su mujer por su cumpleaños hace tres años",
+        "Lo encontró en la calle",
+        "Se lo dio su jefe"
+      ],
+      "correctIndex": 1,
+      "explanation": "En el cajón hay un cuaderno viejo de su mujer, regalo de cumpleaños de hace tres años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo entiende Patryk el estrés al final de la historia?",
+      "answers": [
+        "Como un enemigo contra el que hay que luchar",
+        "Como información del cuerpo, a la que se responde deteniéndose y respirando",
+        "Como algo que debe ignorarse",
+        "Como un motivo para otra noche de trabajo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice que el estrés es información, y la respuesta es detenerse y respirar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina la noche de Patryk?",
+      "answers": [
+        "Vuelve a trabajar en la presentación",
+        "Se tumba junto a su mujer y se duerme en paz",
+        "Sale a correr a medianoche",
+        "Conduce hasta la oficina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras la reflexión se tumba junto a su mujer y, por primera vez en mucho tiempo, se duerme en paz."
+    }
+  ]
+}

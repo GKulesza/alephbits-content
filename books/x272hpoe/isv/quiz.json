@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto značit shitsuke v povesti?",
+      "answers": [
+        "Nakazati za každyj ošibok",
+        "Budovati uměnija vměsto nakazanija",
+        "Ignorovati djetinu",
+        "Nagraždati sladostjami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shitsuke voprosit: kakoje uměnije nedostaje djetině?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dělaje Kasia, kogda Franek ne možet zapinati kurku?",
+      "answers": [
+        "Zapinaje za nego srazu",
+        "Čekaje 10 sekund pred pomočju",
+        "Zakriči",
+        "Vychodi bez nego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mimamoru — čekaje s ljubovju; Franek sam zapinaje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto je amae po slovam filma?",
+      "answers": [
+        "Publikovo nakazanije",
+        "Byti bezpečnym bez slov — djetina možet oprěti se na ljubov",
+        "Samostojnost bez roditela",
+        "Konkursy krasoty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amae = bezpečno priverženije, ktoroje dělaje vozmožnym spokojnost."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govorit glas iz filma o vospitaniji?",
+      "answers": [
+        "Vospitanije izměnjaje djetinu",
+        "Vospitanije izměnjaje tebe — i to dosta",
+        "Vospitanije ne imějet značenija",
+        "Vospitanije to tolko nakazanije"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Vospitanije ne izměnjaje tvoje djetino. Izměnjaje tebe.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka tišina zavladěla domom v koncu?",
+      "answers": [
+        "Tišina naprjaženija i straha",
+        "Tišina doverija i prisutstvija",
+        "Tišina, bo vsě pošli spati",
+        "Nedostatok razgovorov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tišina prisutstvija, doverija i ljubovi — ne nedostatok zvukov."
+    }
+  ]
+}

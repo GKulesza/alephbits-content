@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How much does Michał pay for the sick leave on the website zwolnienie.pl?",
+      "answers": [
+        "49 zlotys",
+        "79 zlotys",
+        "150 zlotys",
+        "29 zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał pays 79 zlotys with BLIK."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many minutes later does he receive the L4 certificate?",
+      "answers": [
+        "After 3 minutes",
+        "After 15 minutes",
+        "After 24 hours",
+        "After a week"
+      ],
+      "correctIndex": 1,
+      "explanation": "After 15 minutes a PDF with the certificate appears in his inbox."
+    },
+    {
+      "type": "single_choice",
+      "question": "What diagnosis does Michał's fake sick leave have?",
+      "answers": [
+        "A broken arm",
+        "Acute upper respiratory tract infection",
+        "Depression",
+        "Migraine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PDF has the diagnosis \"acute upper respiratory tract infection\", even though Michał is healthy."
+    },
+    {
+      "type": "single_choice",
+      "question": "What estimated annual cost of sick-leave absences does the text give?",
+      "answers": [
+        "5 billion zlotys",
+        "35 billion zlotys",
+        "100 million zlotys",
+        "1 billion zlotys"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text speaks of a cost of 35 billion zlotys to the Polish economy."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Michał do with the printed sick leave at the end?",
+      "answers": [
+        "He sends it to his boss",
+        "He throws it in the bin",
+        "He frames it and hangs it",
+        "He sends it to the prosecutor's office as evidence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał throws the printed sick leave into the bin — he no longer wants to be part of the problem."
+    }
+  ]
+}

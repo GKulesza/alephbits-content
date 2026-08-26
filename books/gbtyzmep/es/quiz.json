@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Magda a Tymon en lugar de mandarlo al rincón en la tienda?",
+      "answers": [
+        "Al rincón",
+        "Necesito un abrazo",
+        "Te voy a dar una bofetada",
+        "Nunca más iremos de compras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite: \"Necesito un abrazo\" — y el niño se calma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos efectos a largo plazo del castigo enumera Magda?",
+      "answers": [
+        "Dos",
+        "Cuatro",
+        "Seis",
+        "Uno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resentimiento, venganza, rebeldía y repliegue."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Magda cuando Tymon derrama el zumo sobre la alfombra?",
+      "answers": [
+        "Grita y le quita el juguete",
+        "Pregunta \"¿Qué podemos hacer?\" y lo limpian juntos",
+        "Ignora la mancha",
+        "Lo manda al rincón"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le muestra una consecuencia (limpiar), no un castigo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo propone Gabryś llamar al rincón en casa?",
+      "answers": [
+        "El rincón del castigo",
+        "El rincón de la calma",
+        "El rincón de aprender",
+        "El rincón de los juegos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabryś dice: \"El rincón de la calma — porque cuando estoy tranquilo, pienso mejor\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la conclusión principal del cuento?",
+      "answers": [
+        "Los niños deben ser obedientes",
+        "Se trata de que los niños estén preparados para la vida, capaces de lidiar con sus emociones",
+        "Los castigos son lo más eficaz",
+        "Las recompensas dulces son obligatorias"
+      ],
+      "correctIndex": 1,
+      "explanation": "El final: \"No se trata de que los niños sean obedientes. Se trata de que estén preparados para la vida.\""
+    }
+  ]
+}

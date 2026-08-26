@@ -1,0 +1,27 @@
+{
+  "packId": "wv98y3um:isv",
+  "bookId": "wv98y3um",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcija o trudnoj istoriji; trebuje opatrnu ramu — politično čuvstvitelna tema."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "G6s2-iofknI"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "wv98y3um:pl",
+  "translationSourceVersion": "1.0.0"
+}

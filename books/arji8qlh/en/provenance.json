@@ -1,0 +1,27 @@
+{
+  "packId": "arji8qlh:en",
+  "bookId": "arji8qlh",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Historical essay with graphic descriptions of crimes; P0 founder review — Volhynia, politics, Myrotvorets."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Xtigt79Sw9I"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "arji8qlh:pl",
+  "translationSourceVersion": "1.0.0"
+}

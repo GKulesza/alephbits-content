@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué estudia Zosia?",
+      "answers": [
+        "Farmacología",
+        "Derecho",
+        "Astronomía",
+        "Historia del arte"
+      ],
+      "correctIndex": 0,
+      "explanation": "El examen de farmacología es en tres semanas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué técnica utiliza en la biblioteca?",
+      "answers": [
+        "El método Pomodoro — 25 minutos de estudio",
+        "Estudiar toda la noche sin pausas",
+        "Solo grabaciones en vídeo",
+        "Proyectos grupales en línea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pone un temporizador de 25 minutos y toma notas sin el teléfono."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Krzysztof en el programa sobre ponerse a hacer las cosas?",
+      "answers": [
+        "Que hay que esperar al entusiasmo",
+        "Que la acción es como la mantequilla clarificada — sin superenergía al empezar",
+        "Que lo mejor es no hacer nada",
+        "Que solo ayuda la luna llena"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cita la metáfora de la mantequilla clarificada — sin entusiasmo al principio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué resultado obtiene Zosia en el examen?",
+      "answers": [
+        "Suspenso",
+        "Aprobado con un 4,5",
+        "Nota de 2,0",
+        "No hay resultado en el texto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epílogo: Aprobado. Nota: 4,5."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué canción de YUI escucha mientras estudia?",
+      "answers": [
+        "\"again\"",
+        "\"Rolling Star\"",
+        "Ambas — \"again\" en el punto de inflexión y \"Rolling Star\" después del examen",
+        "Ninguna"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"again\" la ayuda en el punto de inflexión; después del examen pone \"Rolling Star\"."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "tgiqhg9j:isv_cyrl",
+  "bookId": "tgiqhg9j",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Мигрирано из манускрипта Цоллецтион Оне. Полныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "kNvh2oNHrSg"
+    }
+  ],
+  "revisionNotes": "Цоллецтион Оне мигратион (Пхасе 39). Труст: Фицтион.",
+  "translationStatus": "machine",
+  "translationSource": "tgiqhg9j:isv",
+  "translationSourceVersion": "1.0.0"
+}

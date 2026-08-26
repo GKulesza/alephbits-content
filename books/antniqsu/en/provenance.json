@@ -1,0 +1,27 @@
+{
+  "packId": "antniqsu:en",
+  "bookId": "antniqsu",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Article inspired by the practice of fake sick-leave certificates; does not encourage abuse — a reflection on the system."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "501hdB1e5iM"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "antniqsu:pl",
+  "translationSourceVersion": "1.0.1"
+}

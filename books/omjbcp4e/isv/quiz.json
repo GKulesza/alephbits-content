@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O čem Adam hočet govoriti s Evoj v kafejně?",
+      "answers": [
+        "O kanikulah syna",
+        "O ustanovlenju sumy alimentov bez suda",
+        "O povratku k braku",
+        "O prodanju kvartira"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam otvoraje: „Hoču govoriti o alimentah... ustanoviti sumu bez suda\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku zagryvku Eva koristaje, govorje „Dělaješ goru iz krtiny\"?",
+      "answers": [
+        "Vopros na vopros",
+        "Umenjšenje temy",
+        "Směnu temy na kanikuly",
+        "Obratnyj povorot vinenija"
+      ],
+      "correctIndex": 1,
+      "explanation": "To umenjšenje — „to tolko alimenty, vse nekako ih plati\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku sumu alimentov Adam predlaga u mediatora?",
+      "answers": [
+        "Tysjaču zlotoj",
+        "Tysjaču dve stě zlotoj plus polovinu razhodov na školu i lěčenje",
+        "Dve tysjači pęt sot zlotoj",
+        "Pęt sot zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam predlaga 1200 zlotoj v mesěc plus polovinu razhodov na školu i lěčenje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto činit Adam, kogda Eva govori „A na čto ty toliko izdavaeš?\"",
+      "answers": [
+        "Vyjdet iz salona",
+        "Skazet, že teper oni govorit o alimentah i mogut vozvratiti se k toj temě pozdněje",
+        "Priznaje svoju vinu",
+        "Kričit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam spokojno vozvračaje se k temě: „No teper my govorimo o alimentah\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na kaku sumu oni konečno soglasajut se?",
+      "answers": [
+        "Tysjača dve stě zlotoj",
+        "Tysjača pęt sot plus polovina razhodov na školu i lěčenje",
+        "Dve tysjači zlotoj",
+        "Tysjača vosem sot zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam piše: „My ustanovili tysjača pęt sot plus polovina razhodov na školu i lěčenje\"."
+    }
+  ]
+}

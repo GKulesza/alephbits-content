@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How long have Adam and Magda been together?",
+      "answers": [
+        "Five",
+        "Fifteen",
+        "Thirty",
+        "Two"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam speaks of fifteen years of marriage."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Adam describe thinking about his wife?",
+      "answers": [
+        "Like reading a book",
+        "Like clicking an icon — a familiar file opens immediately",
+        "Like listening to the radio",
+        "Like a recurring dream"
+      ],
+      "correctIndex": 1,
+      "explanation": "He speaks of the icon on the desktop and a file known in advance."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Magda cook chicken broth?",
+      "answers": [
+        "Because she only likes broth",
+        "Because she feels lonely when life is predictable",
+        "Because Adam told her to",
+        "Because they are expecting guests"
+      ],
+      "correctIndex": 1,
+      "explanation": "She admits she cooks broth when she feels loneliness and predictability."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam ask Magda while the film is paused?",
+      "answers": [
+        "About holidays",
+        "Whether she sometimes thinks about separating",
+        "About work",
+        "About the children"
+      ],
+      "correctIndex": 1,
+      "explanation": "He asks directly: do you ever think about separating?"
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam write in the book at the end?",
+      "answers": [
+        "That relationships are pointless",
+        "That his biggest mistake was thinking he knew his wife inside out",
+        "That therapy does not work at all",
+        "That divorce is the only way out"
+      ],
+      "correctIndex": 1,
+      "explanation": "He writes about the mistake of thinking he knew his wife inside out."
+    }
+  ]
+}

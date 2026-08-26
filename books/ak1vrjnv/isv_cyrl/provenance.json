@@ -1,0 +1,27 @@
+{
+  "packId": "ak1vrjnv:isv_cyrl",
+  "bookId": "ak1vrjnv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција о психологичных играх в браке; темы домового насилија в прошлости — чувствително, фицтион фраминг."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "W80HZGHQpqc"
+    }
+  ],
+  "revisionNotes": "Пхасе 102 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "ak1vrjnv:isv",
+  "translationSourceVersion": "1.1.0"
+}

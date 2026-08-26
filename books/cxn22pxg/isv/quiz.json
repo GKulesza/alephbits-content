@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Začemu Przemek i Darek idut na UEP?",
+      "answers": [
+        "Na ekzamen",
+        "Čtoby voprositi o najmu kancelarije za jednu tretju rynkovoj ceny i o legalizacionnoj firmě",
+        "Na demonstraciju",
+        "Po indeks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Čitajut, že ukrainska firma najemljaje kancelariju za jednu tretju rynkovoj ceny i legalizuje pobyt."
+    },
+    {
+      "type": "single_choice",
+      "question": "O kakoj čině iz karnovo kodeksa reč v protokolě?",
+      "answers": [
+        "Art. 190 — grožnja",
+        "Art. 212 — publika kleveta",
+        "Art. 279 — kradenije",
+        "Art. 148 — ubijstvo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protokol kasaetsja art. 212 karnovo kodeksa — po privatnomu obvineniju, grozit štraf."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Przemek jest traktovan pri arestě?",
+      "answers": [
+        "Polučaje pisane pozvanyje",
+        "Okovy szadi, fotografii na profile policiji, dopros v okovah",
+        "Polučaje štraf na městě",
+        "Vypuštajut jogo čerez čas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stukajut o šestoj, okovy szadi, fotografii \"zadržany\" na profile komendy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na kakoj listě jest Pavel Vyžžykovski?",
+      "answers": [
+        "Na listě izbiratelej evroparlamenta",
+        "Na ukrainskoj listě Myrotvorec — ljudij do ubitija",
+        "Na listě dolžnikov",
+        "Na listě koronnyh svědetelej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pavel jest na Myrotvorcu — listě \"vragov Ukrainy\", iz ktorogo ljudi gynut."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Przemek govorit Darku po filmu Vyžžykovskogo?",
+      "answers": [
+        "Že otstupajut",
+        "Že idut do suda i ne sami",
+        "Že izměnjut profesiju",
+        "Že ne budut govoriti medijam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek govorit: \"Idemo do suda. Ne damo se... Ne my sami.\""
+    }
+  ]
+}

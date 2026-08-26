@@ -1,0 +1,27 @@
+{
+  "packId": "x272hpoe:isv_cyrl",
+  "bookId": "x272hpoe",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "НЕ замєшати с цисза-прзед-бурза (Ц4). Слуг цисза-дом целно различаје."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "hvfvOfATZoY"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "x272hpoe:isv",
+  "translationSourceVersion": "1.0.1"
+}

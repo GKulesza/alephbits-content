@@ -1,0 +1,27 @@
+{
+  "packId": "cxifsu0l:eo",
+  "bookId": "cxifsu0l",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Esperanta traduko de la pola kanona eldono (manuskripto de Collection Seven). Plena teksto konservita — ne mallongigita."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "S2IOrt-n2fc"
+    }
+  ],
+  "revisionNotes": "Phase 97 import jako przerwa-nauka; nie nadpisuje polish_przerwa.",
+  "translationStatus": "machine",
+  "translationSource": "cxifsu0l:pl",
+  "translationSourceVersion": "1.0.0"
+}

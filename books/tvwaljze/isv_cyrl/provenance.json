@@ -1,0 +1,27 @@
+{
+  "packId": "tvwaljze:isv_cyrl",
+  "bookId": "tvwaljze",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција, основана на философији Јула; тема АДХД не јесть медицинска порада."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y1IvxviWkuE"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "tvwaljze:isv",
+  "translationSourceVersion": "1.1.0"
+}

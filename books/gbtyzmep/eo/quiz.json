@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion diras Magda al Tymon anstataŭ sendi lin en la angulon en la vendejo?",
+      "answers": [
+        "Iru en la angulon",
+        "Mi bezonas brakumon",
+        "Vi ricevos vangofrapon",
+        "Ni neniam plu iros aĉetumi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi ripetas: \"Mi bezonas brakumon\" — kaj la knabo trankviliĝas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da longdaŭraj efikoj de la puno listigas Magda?",
+      "answers": [
+        "Du",
+        "Kvar",
+        "Ses",
+        "Unu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rankoro, venĝo, ribelo kaj retiriĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Magda, kiam Tymon verŝas sukon sur la tapiŝon?",
+      "answers": [
+        "Ŝi krias kaj forprenas lian ludilon",
+        "Ŝi demandas \"Kion ni povas fari?\" kaj ili purigas kune",
+        "Ŝi ignoras la malpuraĵon",
+        "Ŝi sendas lin en la angulon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi montras konsekvencon (purigi), ne punon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Gabryś proponas nomi la angulon hejme?",
+      "answers": [
+        "La puna angulo",
+        "La trankvila angulo",
+        "La lerna angulo",
+        "La luda angulo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabryś diras: \"Trankvila angulo — ĉar kiam mi estas trankvila, mi pensas pli bone\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la ĉefa konkludo de la rakonto?",
+      "answers": [
+        "La infanoj devas esti obeemaj",
+        "Temas pri tio, ke la infanoj estu pretaj por la vivo — kapablaj trakti siajn emociojn",
+        "La punoj estas la plej efikaj",
+        "Dolĉaj rekompencoj estas devigaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fino: \"Temas ne pri tio, ke la infanoj estu obeemaj. Temas pri tio, ke ili estu pretaj por la vivo.\""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako Anna opisivaje semejstvo?",
+      "answers": [
+        "Kako zatvor",
+        "Kako soobščajemyje sosudy — urovna vody se měnjaje vsude",
+        "Kako firmu",
+        "Kako teatr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Semejstvo kako soobščajemyje sosudy — vpliv v obě storony."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Anna predlagaje zamiesto nakazanij tipa otbiranja tableta?",
+      "answers": [
+        "Konsekvencije i popravlenije škody",
+        "Ignorovanije",
+        "Izklyučenije iz školy",
+        "Publikuje poniženije"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jestestvenyje konsekvencije — izvinenja, ubranije, popravka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Marta govori Kacpru, kogda on meta věščami?",
+      "answers": [
+        "Maješ zakaz na emocije",
+        "Maješ pravo byti zlym, no ne možeš metati věščami",
+        "Idi v ugol srazu",
+        "Ničego ne govori"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Maješ pravo byti zlym\" + jasna granica."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Kacper činje, kogda se nervuje v škole po izmenah?",
+      "answers": [
+        "Udare drugih",
+        "Sěde na dyvaně, sžimaje kulučku, govori \"potřebuju moment\"",
+        "Běže iz školy",
+        "Kriči na učiteljicu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Učitsja regulaciji — kulučka, moment, vyhod."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto je na rysunku, ktorýj Kacper daje Anně?",
+      "answers": [
+        "Dinozavr",
+        "Poděkovanje: \"naučila mene, kako byti dobrym\"",
+        "Dom bez ljudej",
+        "Karta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napis: \"Děkuju, že naučila mene, kako byti dobrym\"."
+    }
+  ]
+}

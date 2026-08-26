@@ -1,0 +1,27 @@
+{
+  "packId": "gfygwwqc:en",
+  "bookId": "gfygwwqc",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fiction about relationships; the historical Blitzkrieg metaphor is a narrative device, not a history lesson."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "v95kpHsD5Hk"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "gfygwwqc:pl",
+  "translationSourceVersion": "1.1.0"
+}

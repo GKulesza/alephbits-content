@@ -1,0 +1,27 @@
+{
+  "packId": "ak1vrjnv:en",
+  "bookId": "ak1vrjnv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fiction about psychological games in a relationship; themes of past domestic violence — sensitive, fiction framing."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "W80HZGHQpqc"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "ak1vrjnv:pl",
+  "translationSourceVersion": "1.1.0"
+}

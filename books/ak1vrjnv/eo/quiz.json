@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio estas la profesio de Anna?",
+      "answers": [
+        "Kuracistino",
+        "Psikologino kaj aŭtorino de libroj pri rilatoj",
+        "Instruistino",
+        "Ĵurnalistino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna estas fakulino pri rilatoj, psikologino kaj aŭtorino."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiujn tri rilatajn ludojn Anna mencias en la parolo kun Paweł?",
+      "answers": [
+        "Ŝako, pokero kaj ruleto",
+        "«Mi kaptis vin», «mi devas esti kuraĝa» kaj «se ne estus vi»",
+        "Silento, mensogo kaj fuĝo",
+        "Konkurado, ĵaluzo kaj kontrolo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna parolas rekte pri tiuj tri ludoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anna memoras pri sia patro?",
+      "answers": [
+        "Li estis kuracisto",
+        "Li havis duran manojn kaj foje batis",
+        "Li foriris, kiam ŝi estis malgranda",
+        "Li neniam vundis ŝin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi rakontas pri la dura laboro de la patro kaj pri perforto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras Paweł pri la «monstro» de Anna?",
+      "answers": [
+        "Ke li ne konas ĝin",
+        "Ke li scias, ke tio ne estas ŝi — tio estas ŝia monstro",
+        "Ke li devas foriri",
+        "Ke Anna estas kulpa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł diras: «Mi sciis, ke tio ne estis vi. Tio estis via monstro»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Anna finas la rakonton pri la ludo?",
+      "answers": [
+        "Ke ŝi venkis",
+        "Ke ŝi eliris el la ludo, ĉar ŝi ĉesis ludi ĝin",
+        "Ke Paweł foriris",
+        "Ke ŝi fermis la laborejojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi komprenis, ke ŝi ne venkis — ŝi ĉesis ludi."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Przemek kaj Darek iras al UEP?",
+      "answers": [
+        "Al ekzameno",
+        "Por demandi pri luado de oficejo je triono de la merkata prezo kaj pri firmao de laŭleĝigo",
+        "Al manifestacio",
+        "Por kolekti sian studentan indekson"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ili legas, ke ukraina firmao luigas oficejon je triono de la merkata prezo kaj laŭleĝigas la loĝadon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kiu ago laŭ la puna kodo estas la protokolo?",
+      "answers": [
+        "Art. 190 — minaco",
+        "Art. 212 — publika kalumnio",
+        "Art. 279 — ŝtelo",
+        "Art. 148 — murdo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La protokolo koncernas art. 212 de la puna kodo — ofendeto persekutata nur laŭ privata akuzo, kun monpuno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Przemek estas traktata dum la aresto?",
+      "answers": [
+        "Li ricevas skriban alvokon",
+        "Mankatenoj malantaŭe, fotoj sur la profilo de la polico, demandokonduko en mankatenoj",
+        "Li ricevas monpunon surloke",
+        "Oni liberigas lin post unu horo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oni frapas je la sesa, mankatenoj malantaŭe, fotoj de «arestito» sur la profilo de la policejo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Sur kiu listo estas Paweł Wyżżykowski?",
+      "answers": [
+        "Sur la listo de voĉdonantoj de la Eŭropa Parlamento",
+        "Sur la ukraina listo Myrotvorets — de homoj mortigendaj",
+        "Sur la listo de ŝuldantoj",
+        "Sur la listo de kronaj atestantoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł estas sur Myrotvorets — la listo de «malamikoj de Ukrainio», de kiu homoj mortiĝas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Przemek diras al Darek post la filmo de Wyżżykowski?",
+      "answers": [
+        "Ke ili retiriĝas",
+        "Ke ili iras al la tribunalo kaj ne estas solaj",
+        "Ke ili ŝanĝos profesion",
+        "Ke ili ne parolos kun la amaskomunikiloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek diras: «Ni iras al la tribunalo. Ni ne rezignos... Ni ne estas solaj.»"
+    }
+  ]
+}

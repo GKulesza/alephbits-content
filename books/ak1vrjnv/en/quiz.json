@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What is Anna's profession?",
+      "answers": [
+        "A doctor",
+        "A psychologist and author of books about relationships",
+        "A teacher",
+        "A journalist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna is an expert on relationships, a psychologist and an author."
+    },
+    {
+      "type": "single_choice",
+      "question": "What three relational games does Anna mention in her conversation with Paweł?",
+      "answers": [
+        "Chess, poker and roulette",
+        "\"Gotcha\", \"I must be brave\" and \"if it weren't for you\"",
+        "Silence, lies and escape",
+        "Rivalry, jealousy and control"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna speaks directly about these three games."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anna recall about her father?",
+      "answers": [
+        "He was a doctor",
+        "He had hard hands and sometimes hit her",
+        "He left when she was little",
+        "He never hurt her"
+      ],
+      "correctIndex": 1,
+      "explanation": "She tells of her father's hard work and of the violence."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Paweł say about Anna's \"monster\"?",
+      "answers": [
+        "That he doesn't know it",
+        "That he knows it's not her — it's her monster",
+        "That he has to leave",
+        "That Anna is to blame"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł says: \"I knew it wasn't you. It was your monster.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Anna end the story about the game?",
+      "answers": [
+        "That she won",
+        "That she left the game because she stopped playing it",
+        "That Paweł left",
+        "That she closed the workshops"
+      ],
+      "correctIndex": 1,
+      "explanation": "She understood that she hadn't won — she had stopped playing."
+    }
+  ]
+}

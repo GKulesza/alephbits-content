@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué van Przemek y Darek a la UEP?",
+      "answers": [
+        "A un examen",
+        "A preguntar por el alquiler de una oficina por un tercio del precio de mercado y por una empresa de legalización",
+        "A una manifestación",
+        "A recoger su expediente académico"
+      ],
+      "correctIndex": 1,
+      "explanation": "Han leído que una empresa ucraniana alquila una oficina por un tercio del precio de mercado y legaliza la estancia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hecho del Código Penal se menciona en el acta?",
+      "answers": [
+        "Art. 190 — amenaza",
+        "Art. 212 — difamación pública",
+        "Art. 279 — robo",
+        "Art. 148 — homicidio"
+      ],
+      "correctIndex": 1,
+      "explanation": "El acta se refiere al art. 212 del C.P. — delito a instancia privada castigado con multa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo es tratado Przemek durante la detención?",
+      "answers": [
+        "Recibe una citación por escrito",
+        "Esposas a la espalda, foto en el perfil de la policía, declaración esposado",
+        "Le ponen una multa en el acto",
+        "Lo sueltan a la hora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Golpean a las seis, esposas a la espalda, fotos de «detenido» en el perfil de la comisaría."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué lista está Paweł Wyżżykowski?",
+      "answers": [
+        "En la lista de votantes del Parlamento Europeo",
+        "En la lista ucraniana Myrotvorets — de gente a la que matar",
+        "En la lista de deudores",
+        "En la lista de testigos protegidos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł está en Myrotvorets — la lista de «enemigos de Ucrania», de la que la gente muere."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Przemek a Darek después del vídeo de Wyżżykowski?",
+      "answers": [
+        "Que se retiran",
+        "Que van a los tribunales y que no están solos",
+        "Que cambiarán de profesión",
+        "Que no hablarán con los medios"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek dice: «Vamos a los tribunales. No nos vamos a rendir... No estamos solos.»"
+    }
+  ]
+}

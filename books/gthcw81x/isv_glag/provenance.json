@@ -1,0 +1,27 @@
+{
+  "packId": "gthcw81x:isv_glag",
+  "bookId": "gthcw81x",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰺⰻⰰⱁⰸⱇⰽⰰ ⰱⰰⰹⰺⰰ ⰾ ⱂⱀⰵⱅ ⰴⰾⰼⰺⰰⱅ ⰸ ⰷⰰⰳⰰⰴⰺⰰⱅ; ⰺⰾⰽⰵⱆ ⰾⰴⰺⱀⰸⰲⰰ, ⰶⰵ ⰱⰰⰱⰺⰰ ⰱⱑⰻⰰ Ⰺⰾⱀⰾⰻⰵⰲⰰ Ⰲⱑⱂⱀⰰ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 119 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "ⰼⰰⱆⱅⰸⰽⰵ",
+  "translationSource": "ⰳⱂⱅⱆw81x:ⰿⰻ",
+  "translationSourceVersion": "1.0.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Whose thesis about a child being \"100% complete\" changes Ola's thinking?",
+      "answers": [
+        "Aga Rogali",
+        "Jesper Juul",
+        "Hardy",
+        "Szymon Grzelak"
+      ],
+      "correctIndex": 1,
+      "explanation": "She hears about Jesper Juul and the thesis of the complete human being from birth."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ola do when Franek is afraid of the pool?",
+      "answers": [
+        "Forces him to learn swimming",
+        "Asks about his feelings and offers armbands",
+        "Cancels the trip",
+        "Shouts"
+      ],
+      "correctIndex": 1,
+      "explanation": "She asks \"What do you feel?\" and together they look for safety (armbands)."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Franek say after swimming successfully?",
+      "answers": [
+        "Never again to the pool",
+        "Mom, I can do anything, if you let me",
+        "I want to become a coach",
+        "The pool is stupid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: \"Mom, I can do anything, if you let me.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ola do when Zosia picks up the scissors?",
+      "answers": [
+        "Forbids her to use them",
+        "Asks about safe use and lets her cut out a heart",
+        "Gives the scissors to the teacher",
+        "Punishes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola asks about safe use and accompanies her — Zosia cuts out the heart herself."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does she introduce routines for Zosia?",
+      "answers": [
+        "As punishments",
+        "As help with possible ADHD — fewer stimuli, a steady sleep rhythm, no screens",
+        "Because the teacher demands it",
+        "For sport"
+      ],
+      "correctIndex": 1,
+      "explanation": "An orderly space, routine, a toothbrush timer, no screens before bed."
+    }
+  ]
+}

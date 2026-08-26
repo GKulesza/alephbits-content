@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does shitsuke mean in the story?",
+      "answers": [
+        "Punishing every mistake",
+        "Building skills instead of punishing",
+        "Ignoring the child",
+        "Rewarding with sweets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shitsuke asks: what skill is the child missing?"
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia do when Franek can't zip up his jacket?",
+      "answers": [
+        "Zips it for him right away",
+        "Waits 10 seconds before helping",
+        "Yells",
+        "Leaves without him"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mimamoru — she waits with love; Franek zips it himself."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is amae according to the video?",
+      "answers": [
+        "Public punishment",
+        "Being safe without words — the child can lean on love",
+        "Independence without a parent",
+        "Beauty contests"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amae = secure attachment that makes calm possible."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the voice from the video say about upbringing?",
+      "answers": [
+        "Upbringing changes the child",
+        "Upbringing changes you — and that's enough",
+        "Upbringing doesn't matter",
+        "Upbringing is only punishment"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Upbringing doesn't change your child. It changes you.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What kind of silence settled over the house at the end?",
+      "answers": [
+        "The silence of tension and fear",
+        "The silence of trust and presence",
+        "The silence because everyone went to sleep",
+        "The absence of conversation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The silence of presence, trust and love — not the absence of sounds."
+    }
+  ]
+}

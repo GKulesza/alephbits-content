@@ -1,0 +1,24 @@
+{
+  "packId": "tvwaljze:en",
+  "bookId": "tvwaljze",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fiction based on Juul's philosophy; the ADHD thread is not medical advice."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y1IvxviWkuE"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

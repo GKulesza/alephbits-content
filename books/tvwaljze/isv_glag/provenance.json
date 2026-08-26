@@ -1,0 +1,27 @@
+{
+  "packId": "tvwaljze:isv_glag",
+  "bookId": "tvwaljze",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⱄⰸⰺⱆⰸⰹⰰ, ⰾⱁⰽⰾⰲⰰⰽⰰ ⰽⰰ ⱄⰸⰻⰾⱁⰾⱄⰸⰹⰸ Ⰹⱃⰻⰰ; ⱂⰵⰼⰰ ⰀⰄⰕⰄ ⰽⰵ ⰹⰵⱁⱂь ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰰ ⰿⰾⱀⰰⰴⰰ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y1IvxviWkuE"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 119 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "machine",
+  "translationSource": "tvwaljze:isv",
+  "translationSourceVersion": "1.1.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why do Przemek and Darek go to the UEP?",
+      "answers": [
+        "For an exam",
+        "To ask about an office rental for a third of the market price and about a legalisation company",
+        "To a demonstration",
+        "To collect their student records"
+      ],
+      "correctIndex": 1,
+      "explanation": "They read that a Ukrainian company rents an office for a third of the market price and legalises residence."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which act of the penal code is mentioned in the record?",
+      "answers": [
+        "Article 190 — threat",
+        "Article 212 — public defamation",
+        "Article 279 — theft",
+        "Article 148 — homicide"
+      ],
+      "correctIndex": 1,
+      "explanation": "The record concerns Article 212 of the penal code — a private prosecution offence carrying a fine."
+    },
+    {
+      "type": "single_choice",
+      "question": "How is Przemek treated during his arrest?",
+      "answers": [
+        "He receives a written summons",
+        "Handcuffs behind his back, photos on the police profile, interrogation in handcuffs",
+        "He gets a fine on the spot",
+        "He is released after an hour"
+      ],
+      "correctIndex": 1,
+      "explanation": "They bang at six, handcuffs behind his back, \"detained\" photos on the station's profile."
+    },
+    {
+      "type": "single_choice",
+      "question": "On which list is Paweł Wyżżykowski?",
+      "answers": [
+        "The list of European Parliament voters",
+        "The Ukrainian Myrotvorets list — of people to be killed",
+        "The list of debtors",
+        "The list of crown witnesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł is on Myrotvorets — the list of \"enemies of Ukraine\", from which people die."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Przemek say to Darek after Wyżżykowski's video?",
+      "answers": [
+        "That they are backing out",
+        "That they are going to court and are not alone",
+        "That they will change profession",
+        "That they won't talk to the media"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przemek says: \"We're going to court. We won't give in... We're not alone.\""
+    }
+  ]
+}

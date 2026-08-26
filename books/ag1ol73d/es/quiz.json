@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años llevan juntos Adam y Magda?",
+      "answers": [
+        "Cinco",
+        "Quince",
+        "Treinta",
+        "Dos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam habla de quince años de matrimonio."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Adam pensar en su mujer?",
+      "answers": [
+        "Como leer un libro",
+        "Como pulsar un icono — al instante se abre un archivo conocido",
+        "Como escuchar la radio",
+        "Como un sueño que se repite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habla del icono del escritorio y de un archivo conocido de antemano."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué cocina Magda caldo?",
+      "answers": [
+        "Porque solo le gusta el caldo",
+        "Porque se siente sola cuando la vida es predecible",
+        "Porque Adam se lo ordenó",
+        "Porque esperan invitados"
+      ],
+      "correctIndex": 1,
+      "explanation": "Admite que cocina caldo cuando siente soledad y previsibilidad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le pregunta Adam a Magda con la película en pausa?",
+      "answers": [
+        "Por las vacaciones",
+        "Si a veces piensa en separarse",
+        "Por el trabajo",
+        "Por los niños"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pregunta directamente: ¿piensas a veces en separarte?"
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Adam en el libro al final?",
+      "answers": [
+        "Que las relaciones no tienen sentido",
+        "Que el mayor error fue pensar que conocía a su mujer de cabo a rabo",
+        "Que la terapia no funciona en absoluto",
+        "Que el divorcio es la única salida"
+      ],
+      "correctIndex": 1,
+      "explanation": "Escribe sobre el error de pensar que conocía a su mujer de cabo a rabo."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "t9a90foh:en",
+  "bookId": "t9a90foh",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_oczy_ktore_nie_widza",
+  "legacySlug": "oczy-ktore-nie-widza",
+  "title": "II. Eyes That Cannot See",
+  "language": "en",
+  "version": "1.0.1",
+  "editionVersion": "1.0.1",
+  "updated": "2026-07-10",
+  "description": "Ms. Anna has taught reading in preschool class for twenty years and sees a change that parents do not always want to hear about. Children look at screens differently than at the page of a book — and an app that \"teaches\" does not always teach what it should. A quiet story about the presence of an adult beside the first syllables.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "polish",
+    "short_story",
+    "ii-oczy-ktore-nie-widza"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 3,
+  "translation": "English translation of the Polish reading pack \"II. Oczy, które nie widzą\" — Collection Zero official edition.",
+  "text": "Ms. Anna had been teaching reading in her preschool class for twenty years. She had seen changes. Once children came to school with curiosity, with a desire to discover. Now they came with eyes that could not look.\n\n– Who knows what a letter is? – she asked on the first day. Most of the children raised their hands. They knew letters from screens. But when she showed them the syllables \"ma\", \"pa\", \"ba\" on the board, they looked uncertain.\n\n– This is \"ma\" – she said. – Like mom.\n\n– You say \"em a\" – answered a boy from the first row.\n\nMs. Anna smiled patiently.\n\n– No, dear. In reading we don't name letters. We join them. This is \"ma\". Look – she wrote on the board: \"ma-ma\". – What is this?\n\n– Mom – answered a girl from the second row.\n\nMs. Anna nodded. That girl had a chance. Her parents read books to her. Her eyes knew how to follow the text, how to move from left to right, how to see the whole and the detail at the same time.\n\nBut most children could not. Their eyes were used to a small field of vision, to rapidly changing images. They could not focus on a single thing. They could not look at a map, at the board, at a page of a book. They could not see what was at the sides, above, below. Their field of vision was narrow, like a screen.\n\nMs. Anna knew that it was not the children's fault. It was the fault of the screens. And what disappointed her most was that parents did not see the problem. Or did not want to see it.\n\nOne day, the mother of a boy who could not read came to her.\n\n– Why can't he do it? – she asked. – At home he reads very well.\n\n– He reads?\n\n– Yes. He has an app for learning to read.\n\nMs. Anna asked the boy to read her a sentence from a book. The boy looked at the text and started guessing. He could not join the syllables. He could not understand the meaning. His eyes saw the letters, but his brain could not put them together into words.\n\n– He isn't reading – said Ms. Anna. – He recognises images. The app shows him words and pictures, and he matches them. That is not reading. That is associating.\n\nThe mother looked at her in disbelief.\n\n– So everything we were doing made no sense?\n\n– Not no sense – answered Ms. Anna. – But it has to change. Reading is not recognising pictures. Reading is joining sounds into meanings. It is work. And it is work that can be done only with joy.\n\nThe mother left the office angry. But she came back after a month.\n\n– I'm sorry – she said. – I did what you advised. I read books to him. I showed him the syllables. And he started to read.\n\nMs. Anna smiled.\n\n– It wasn't me. It was you.\n\nThe mother looked at her hands. And then she understood that the most important thing she could give her child was not an app. It was presence.",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Who is Ms. Anna?",
+        "answers": [
+          "A reading teacher in a preschool class",
+          "A doctor",
+          "A school principal",
+          "An author of textbooks"
+        ],
+        "correctIndex": 0,
+        "explanation": "She has been teaching reading in a preschool class for twenty years."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the boy say about the syllable \"ma\"?",
+        "answers": [
+          "\"Em a\"",
+          "\"Ma-ma\"",
+          "\"A em\"",
+          "\"Ma\" without joining"
+        ],
+        "correctIndex": 0,
+        "explanation": "He names the letters instead of joining them into a syllable."
+      },
+      {
+        "type": "single_choice",
+        "question": "Why does Ms. Anna say that the boy is not reading?",
+        "answers": [
+          "He recognises images from the app",
+          "He does not know the alphabet",
+          "He does not go to school",
+          "He has a vision defect"
+        ],
+        "correctIndex": 0,
+        "explanation": "The app shows words with pictures — that is associating, not reading."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does the mother change after the conversation with Ms. Anna?",
+        "answers": [
+          "She reads books to the child and practises the syllables",
+          "She buys a new tablet",
+          "She signs her son up for sports",
+          "She changes schools"
+        ],
+        "correctIndex": 0,
+        "explanation": "After a month the mother reads books and shows syllables — the boy starts to read."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Ms. Anna tell the mother at the end?",
+        "answers": [
+          "That it was the mother who taught the boy to read",
+          "That the app is enough",
+          "That the child is not fit for learning",
+          "That the school is to blame"
+        ],
+        "correctIndex": 0,
+        "explanation": "She says: \"It wasn't me. It was you.\""
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "t9a90foh:pl",
+  "translationSourceVersion": "1.0.1",
+  "coverFamily": "short_story",
+  "audience": "adult",
+  "subtitle": "From the CollectionFour collection",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-10",
+    "lastEditorialUpdate": "2026-07-10"
+  },
+  "inspirationDates": [
+    "2026-07-10"
+  ],
+  "world": {
+    "objects": [
+      "window",
+      "book"
+    ],
+    "places": [
+      "home"
+    ]
+  }
+}

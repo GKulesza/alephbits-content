@@ -1,0 +1,317 @@
+# Hacer una montaña de un grano de arena
+
+## Metadata
+
+**Pack ID:** omjbcp4e
+**Book ID:** omjbcp4e
+**Legacy Pack ID:** polish_igla_z_widly
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Hacer una montaña de un grano de arena  
+**Subtitle:** Cuando la conversación se desvía del tema  
+**Blurb:** Adam pierde todas las conversaciones con su exmujer Ewa — no porque no tenga razón, sino porque ella cambia de tema, minimiza y ataca. Tras un vídeo de Karolina Gorczyca-Barszczewska aprende a poner nombre a las tretas y a volver al meollo. Una historia sobre la pensión alimenticia, la manipulación y la recuperación del derecho a la propia opinión.
+
+**Genres:** short_story, psychology, everyday_live  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Igła z widły" — edición oficial de Collection Nine.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** manipulacja, rozwód, alimenty, komunikacja, Collection Nine  
+
+**Keywords:** Hacer una montaña de un grano de arena, Adam, Ewa, pensión alimenticia, manipulación  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- question
+- anger
+- family
+- betrayal
+- reconciliation
+
+**Editorial notes:** Ficción sobre las técnicas de manipulación en la conversación; parte de la serie Kammel — comunicación.
+
+**Inspiration:** El motivo de la "montaña de un grano de arena" y materiales sobre la defensa de los límites en la conversación.
+
+**Translation status:** machine  
+**Translation source:** omjbcp4e:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- objects: vidrio
+- places: casa
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 12.07.2026 -> https://www.youtube.com/watch?v=ZnTFuX--Uxc  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Praktyczna opowieść o asertywności bez moralizowania o intencjach drugiej strony. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=ZnTFuX--Uxc  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-12  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**HACER UNA MONTAÑA DE UN GRANO DE ARENA**
+
+Adam siempre perdía con Ewa. No porque no tuviera razón. No porque le faltaran argumentos. Perdía porque, antes de llegar a abrir la boca, ya estaba en una posición perdida – como un boxeador que recibe los golpes antes de que el árbitro llegue siquiera a decir «combate».
+
+Su primera conversación tras la separación tuvo lugar en una cafetería. Eligió un lugar público para reducir el riesgo de escenas. Se sentaron junto a la ventana y pidieron café. Él, uno solo; ella, un latte con sirope de vainilla – recordaba que siempre lo tomaba así, pero no lo comentó. No estaban allí para eso.
+
+– Quería hablar de la pensión alimenticia – empezó, esforzándose por mantener la voz tranquila. – Pensaba que podríamos acordar una cantidad justa para ambos, sin pasar por el juzgado.
+
+Ewa dejó la taza. Sus ojos se entrecerraron un poco, pero la sonrisa siguió en su sitio – la misma sonrisa que en otro tiempo lo desarmaba y que ahora solo le recordaba lo equivocado que había estado.
+
+– No se responde a una pregunta con otra pregunta – dijo, aunque él aún no había preguntado nada. – Pero pregunto yo: ¿por qué tengo que justificarme yo, si fuiste tú quien se marchó?
+
+Adam parpadeó. Todavía no había hecho ninguna pregunta y ya estaba a la defensiva.
+
+– No te pido que te justifiques. Pregunto por una cantidad concreta que...
+
+– Siempre me pones en esa situación – le interrumpió. – Como si la culpa fuera mía. Y, después de todo, tú tampoco estás libre de culpa, ¿verdad?
+
+_No estás libre de culpa._ Adam sintió cómo se le anudaba el estómago, ese nudo conocido. Era una de esas conversaciones. Siempre igual. Él hablaba de algo concreto, ella se lo devolvía, y él se quedaba con la sensación de haber hecho algo mal, sin saber qué.
+
+– No digo que la culpa sea tuya. Hablo de la pensión alimenticia.
+
+– Ah, la pensión. – Suspiró de forma teatral. – Lo que ha de colgar, no se ahoga. Siempre me las he arreglado; me arreglaré también ahora.
+
+– Eso no es una respuesta.
+
+– ¿Y qué sabes tú de eso? – Su voz se endureció. – No estabas en casa cuando yo estaba enferma. No estabas cuando el pequeño tenía problemas en el colegio. ¿Y ahora, de repente, quieres hablar de dinero? Haces una montaña de un grano de arena. Es solo la pensión, todo el mundo la paga de una forma u otra.
+
+Adam quiso responder que no era verdad – que había estado en casa, que recordaba las noches junto a la cama de su hijo, que fue él quien lo llevó por primera vez al psicólogo. Pero antes de que pudiera abrir la boca, Ewa ya estaba cambiando de tema.
+
+– ¡Ah, sí! Aún tenemos que acordar las vacaciones. Tu hijo quiere ir al mar y yo no tengo con qué pagarlo. Así que, en lugar de quedarte aquí hablando de la pensión, ¿por qué no piensas un poco en el niño?
+
+Y así acabó. Adam salió de la cafetería sin haber acordado nada. Había vuelto a perder.
+
+---
+Aquella noche no pudo dormir. Yacía en la cama, en su nuevo piso de alquiler, y repasaba en su cabeza cada intercambio de frases. Algo no encajaba. No se trataba solo de que Ewa estuviera enfadada o dolida – eso lo comprendía. El divorcio los dolía a los dos. Pero la forma en que ella llevaba la conversación hacía que él siempre acabara en el mismo sitio: confundido, culpable, callado.
+
+Cogió el teléfono. Escribió en Google: «cómo responder a la manipulación en una conversación». El algoritmo le sugirió un vídeo de YouTube. «10 trucos con los que pierdes todas las conversaciones (y cómo cambiarlo)». El canal se llamaba Karolina Gorczyca – Barszczewska. Hizo clic.
+
+Una hora después estaba sentado en la cama con una libreta en la mano. Había anotado cada treta que Ewa había empleado en la cafetería. Estaban todas.
+
+_No se responde a una pregunta con otra pregunta_ – aunque él no había hecho ninguna pregunta, solo había abierto el tema. _No estás libre de culpa_ – invertir la acusación antes incluso de que se formulara. _Lo que ha de colgar, no se ahoga_ – un refrán usado como argumento que cierra la puerta. _¿Y qué sabes tú de eso?_ – cuestionar su derecho a opinar. _Haces una montaña de un grano de arena_ – minimizar. _Ah, y las vacaciones_ – el cambio brusco de tema. Todo servido a un ritmo perfecto, como si Ewa tuviera un guion preparado en la cabeza.
+
+Pero el vídeo decía también otra cosa: que no todas las personas que usan estas tretas lo hacen a conciencia. A veces son hábitos traídos de casa, mecanismos de defensa reflejos. Y que, en lugar de juzgar las intenciones, es mejor centrarse en la reacción. Poner nombre a lo que ocurre. Y volver al tema.
+
+Adam anotó tres frases en la libreta:
+
+_«Eso no es una respuesta a mi pregunta. Te pregunto otra vez.»_  
+_«Puede que tengas razón, pero ahora estamos hablando de este asunto concreto.»_  
+_«Para mí es importante, aunque para ti parezca otra cosa.»_
+
+Después apagó la luz y, por primera vez en semanas, durmió tranquilo.
+
+---
+Dos días después volvieron a verse, esta vez en presencia de un mediador. Era un hombre mayor, de ojos cansados, que ya había visto cientos de parejas así y no se hacía ilusiones sobre la naturaleza humana. Cuando Adam entró en la sala, Ewa ya estaba allí. Sentada a la mesa con los brazos cruzados sobre el pecho, lista para la batalla.
+
+El mediador abrió la reunión con la fórmula de rigor sobre la necesidad de un acuerdo. Después cedió la palabra a Adam.
+
+– Me gustaría que acordáramos una cantidad concreta de pensión. Mi propuesta es mil doscientos zlotys al mes, más la mitad de los gastos de colegio y tratamiento.
+
+Ewa levantó una ceja.
+
+– ¿Mil doscientos? Debes de estar de broma. ¿Y en qué te gastas tú tanto? ¿En tu piso nuevo? ¿En todas esas citas a las que vas ahora, mientras yo me quedo en casa con el niño?
+
+_No estás libre de culpa._ Adam lo reconoció al instante. Por un momento sintió cómo se ponía en marcha el viejo mecanismo – la necesidad de justificarse, de defenderse, de demostrar que no era lo que ella creía. Pero esta vez hizo algo distinto.
+
+– Entiendo que tengas tus sentimientos sobre mi vida personal – dijo con calma. – Pero ahora estamos hablando de la pensión. Podemos volver a ese tema si quieres, pero primero terminemos este.
+
+Ewa parpadeó. El mediador anotó algo en su cuaderno.
+
+– De acuerdo – dijo al cabo de un momento, con la voz menos segura. – Pero mil doscientos es poco. Después de todo, tú ganas el doble que yo. A burro muerto, cebada al rabo; ahora todo el mundo quiere ahorrar con la familia.
+
+_Un refrán como argumento._ Adam casi sonrió.
+
+– Es un dicho bonito, pero no responde a mi propuesta. Si crees que mil doscientos es poco, dime una cantidad concreta que te parezca justa. Y justifícala.
+
+El mediador asintió. Ewa dudó. Adam veía cómo sus dedos se aferraban con más fuerza a la manga del jersey.
+
+– Pues... no sé – dijo. – Quizá dos mil. Pero no es eso lo que importa. Lo que importa es que tú siempre...
+
+– ¿Siempre? – Adam levantó la mano. – ¿Estamos hablando de algo que ocurrió muchas veces o de situaciones concretas? Porque si es de algo concreto, hablemos de ello una por una. Si es de una impresión general, podemos ponerle nombre, pero no sustituyamos una cosa por la otra.
+
+Se hizo el silencio. Ewa lo miró de otra manera – no como a un adversario al que se puede desarmar con una frase certera, sino como a alguien que, de repente, había dejado de jugar según sus reglas.
+
+– Has cambiado – dijo en voz baja.
+
+– No. Simplemente he aprendido a ceñirme al tema.
+
+El mediador carraspeó y volvió a la cuestión de la pensión. La conversación continuó – no fue fácil, no fue agradable, pero por primera vez en meses fue una conversación y no una batalla. Cuando Adam salió de la sala, no sintió triunfo. Sintió que había recuperado algo que había perdido hacía tiempo.
+
+El derecho a la propia opinión.
+
+---
+Por la noche se sentó en el balcón de su piso nuevo. El aire era cálido, olía a tilos. Abrió la libreta en la página donde había copiado la cita del vídeo: _«Cuanto más mantengas la calma, cuanto más te ciñas de forma constante al tema original, menos eficaz se vuelve cada una de estas tretas.»_
+
+No se hacía ilusiones. Ewa no había dejado de usar esos trucos. Quizá no los dejaría nunca. Pero él ya no tenía que ser su víctima. Bastaba con poner nombre al mecanismo – y dejaba de actuar sobre él.
+
+Cogió el teléfono y le escribió un mensaje. Corto, concreto, sin emoción.
+
+«Hemos acordado mil quinientos más la mitad de los gastos de colegio y tratamiento. Te haré la transferencia antes del viernes.»
+
+La respuesta llegó a los pocos minutos.
+
+«De acuerdo.»
+
+Nada más. Pero Adam sabía que tras esa única palabra se escondía algo que no había estado allí en los últimos años. Respeto. No hacia él – todavía no. Pero hacia el hecho de que, por fin, se había puesto en pie y no se había dejado desviar.
+
+Guardó el teléfono en el bolsillo y miró al cielo. Ya se veía la primera estrella. Pensó que mañana vería otro vídeo de ese canal. Quizá el del gaslighting. Y que aquello no era el final del aprendizaje.
+
+Era solo el principio.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿De qué quiere hablar Adam con Ewa en la cafetería?
+
+**Answers:**
+- A) De las vacaciones de su hijo
+- B) De acordar la cantidad de la pensión alimenticia sin pasar por el juzgado
+- C) De volver al matrimonio
+- D) De vender el piso
+
+**Correct:** B
+**Explanation:** Adam abre: «Quería hablar de la pensión... acordar una cantidad sin el juzgado».
+**Text reference:** la pensión alimenticia
+
+### Question 2
+
+**Question:** ¿Qué treta emplea Ewa cuando dice «Haces una montaña de un grano de arena»?
+
+**Answers:**
+- A) Responder a una pregunta con otra
+- B) Minimizar el tema
+- C) Cambiar el tema a las vacaciones
+- D) Invertir la acusación
+
+**Correct:** B
+**Explanation:** Es minimizar — «es solo la pensión, todo el mundo la paga de una forma u otra».
+**Text reference:** Haces una montaña de un grano de arena
+
+### Question 3
+
+**Question:** ¿Qué cantidad de pensión propone Adam ante el mediador?
+
+**Answers:**
+- A) Mil zlotys
+- B) Mil doscientos zlotys más la mitad de los gastos de colegio y tratamiento
+- C) Dos mil quinientos zlotys
+- D) Quinientos zlotys
+
+**Correct:** B
+**Explanation:** Adam propone 1200 zlotys al mes más la mitad de los gastos de colegio y tratamiento.
+**Text reference:** mil doscientos
+
+### Question 4
+
+**Question:** ¿Qué hace Adam cuando Ewa dice «¿Y en qué te gastas tú tanto?»
+
+**Answers:**
+- A) Sale de la sala
+- B) Dice que ahora hablan de la pensión y que pueden volver a ese tema más tarde
+- C) Admite su culpa
+- D) Grita
+
+**Correct:** B
+**Explanation:** Adam vuelve con calma al tema: «Pero ahora estamos hablando de la pensión».
+**Text reference:** ahora estamos hablando de la pensión
+
+### Question 5
+
+**Question:** ¿Qué cantidad acuerdan al final?
+
+**Answers:**
+- A) Mil doscientos zlotys
+- B) Mil quinientos más la mitad de los gastos de colegio y tratamiento
+- C) Dos mil zlotys
+- D) Mil ochocientos zlotys
+
+**Correct:** B
+**Explanation:** Adam escribe: «Hemos acordado mil quinientos más la mitad de los gastos de colegio y tratamiento».
+**Text reference:** mil quinientos
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

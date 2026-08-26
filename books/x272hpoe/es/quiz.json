@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué significa shitsuke en la historia?",
+      "answers": [
+        "Castigar cada error",
+        "Construir habilidades en lugar de castigar",
+        "Ignorar al niño",
+        "Premiar con dulces"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shitsuke pregunta: ¿qué habilidad le falta al niño?"
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Kasia cuando Franek no puede abrocharse la chaqueta?",
+      "answers": [
+        "Se la abrocha ella enseguida",
+        "Espera 10 segundos antes de ayudar",
+        "Grita",
+        "Sale sin él"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mimamoru — espera con amor; Franek se la abrocha solo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué es amae según el vídeo?",
+      "answers": [
+        "Castigo público",
+        "Estar a salvo sin palabras — el niño puede apoyarse en el amor",
+        "Independencia sin el padre",
+        "Concursos de belleza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amae = vínculo seguro que hace posible la calma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice la voz del vídeo sobre la crianza?",
+      "answers": [
+        "La crianza cambia al niño",
+        "La crianza te cambia a ti — y eso basta",
+        "La crianza no importa",
+        "La crianza es solo castigo"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"La crianza no cambia a tu hijo. Te cambia a ti.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué silencio se instaló en la casa al final?",
+      "answers": [
+        "El silencio de la tensión y el miedo",
+        "El silencio de la confianza y la presencia",
+        "El silencio porque todos se fueron a dormir",
+        "La ausencia de conversaciones"
+      ],
+      "correctIndex": 1,
+      "explanation": "El silencio de la presencia, la confianza y el amor — no la ausencia de sonidos."
+    }
+  ]
+}

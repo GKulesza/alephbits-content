@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio Adam volas paroli kun Ewa en la kafejo?",
+      "answers": [
+        "Pri la ferioj de la filo",
+        "Pri interkonsento pri la sumo de la alimentoj sen tribunalo",
+        "Pri reveno al la geedzeco",
+        "Pri vendo de la loĝejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam malfermas: «Mi volis paroli pri la alimentoj... interkonsenti pri sumo sen tribunalo»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun artifikon Ewa uzas, dirante «Vi faras el muŝo elefanton»?",
+      "answers": [
+        "Demandon post demando",
+        "Bagateligadon de la temo",
+        "Ŝanĝon de la temo al la ferioj",
+        "Turnadon de la akuzo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tio estas bagateligado — «tio estas nur alimentoj, ĉiuj iel pagas ilin»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun sumon de alimentoj Adam proponas ĉe la mediatoro?",
+      "answers": [
+        "Mil zlotojn",
+        "Mil ducent zlotojn plus duonon de la elspezoj por lernejo kaj kuracado",
+        "Du mil kvincent zlotojn",
+        "Kvincent zlotojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam proponas 1200 zlotojn monate plus duonon de la elspezoj por lernejo kaj kuracado."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Adam, kiam Ewa diras «Kaj sur kio vi elspezas tiom?»",
+      "answers": [
+        "Li foriras el la salono",
+        "Li diras, ke nun ili parolas pri la alimentoj kaj povas reveni al tiu temo poste",
+        "Li konfesas sian kulpon",
+        "Li krias"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam trankvile revenas al la temo: «Sed nun ni parolas pri la alimentoj»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kiu sumo ili fine interkonsentas?",
+      "answers": [
+        "Mil ducent zlotoj",
+        "Mil kvincent plus duono de la elspezoj por lernejo kaj kuracado",
+        "Du mil zlotoj",
+        "Mil okcent zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam skribas: «Ni interkonsentis mil kvincent plus duono de la elspezoj por lernejo kaj kuracado»."
+    }
+  ]
+}

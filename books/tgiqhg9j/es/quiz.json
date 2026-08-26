@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué problema tienen Magda y Grzesiek?",
+      "answers": [
+        "Evitan una conversación sincera sobre sus necesidades",
+        "A Magda no le gusta el jazz",
+        "Grzesiek no compra leche",
+        "Magda no quiere abrazar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ambos reaccionan con rencor en lugar de hablar directamente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué entendió Magda en el encuentro de Kapci?",
+      "answers": [
+        "Que había fingido intereses ante Grzesiek",
+        "Que debería comprar leche más a menudo",
+        "Que Grzesiek es perfecto",
+        "Que el jazz es mejor que el pop"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recordó que fingía interés por los paseos y el jazz."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina el relato?",
+      "answers": [
+        "Empiezan a hablar directamente de sus necesidades",
+        "Se separan",
+        "Grzesiek se marcha",
+        "Magda vuelve a fingir"
+      ],
+      "correctIndex": 0,
+      "explanation": "El epílogo describe una comunicación sincera."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué empieza a hacer Grzesiek después del cambio?",
+      "answers": [
+        "Se anota las peticiones de Magda",
+        "Vende discos de jazz",
+        "Se muda",
+        "Deja de escuchar música"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzesiek se anota las peticiones para no olvidarlas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué Magda fingía interés por el jazz?",
+      "answers": [
+        "Tenía miedo al rechazo",
+        "Le encantaba el género",
+        "Grzesiek se lo exigía",
+        "Quería ser músico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fingía por miedo al rechazo."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "omqigct2:es",
+  "bookId": "omqigct2",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ficción breve sobre detenerse ante el estrés laboral crónico."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y734jWkM9dY"
+    }
+  ],
+  "revisionNotes": "Krótka fikcja o zatrzymaniu się wobec chronicznego stresu zawodowego.",
+  "translationStatus": "machine",
+  "translationSource": "omqigct2:pl",
+  "translationSourceVersion": "1.0.0"
+}

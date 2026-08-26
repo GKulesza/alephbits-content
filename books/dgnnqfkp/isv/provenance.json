@@ -1,0 +1,27 @@
+{
+  "packId": "dgnnqfkp:isv",
+  "bookId": "dgnnqfkp",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Medžuslovjansky prevod polskoj kanoničeskoj redakcii (manuscript Collection Three). Povny tekst sohraněn — bez skračenij."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "RQ-uUuefMDY"
+    }
+  ],
+  "revisionNotes": "Tekst ma charakter doradczy i eseistyczny; niektóre liczby oraz przykłady biznesowe warto ręcznie sprawdzić.",
+  "translationStatus": "machine",
+  "translationSource": "dgnnqfkp:pl",
+  "translationSourceVersion": "1.0.1"
+}

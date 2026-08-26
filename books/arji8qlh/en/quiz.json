@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What was the title of Rafał's 2008 text in Rzeczpospolita?",
+      "answers": [
+        "Symmetry of wrongs",
+        "We have forgotten everything",
+        "Proscription list",
+        "Volhynia without censorship"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał recalls the text with the title from Wyspiański: \"We have forgotten everything\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Rafał call the \"damned symmetry\"?",
+      "answers": [
+        "The balance of power in the EU",
+        "Comparing genocide with \"Poles also hurt people\"",
+        "Symmetry in architecture",
+        "Symmetry in the media"
+      ],
+      "correctIndex": 1,
+      "explanation": "The drawing-room \"symmetries\" trivialise Volhynia: \"Poles also hurt people, right?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What scene from Shevchenko's poem does Rafał recall?",
+      "answers": [
+        "Ivan Gonta murdering his own children",
+        "The Battle of Grunwald",
+        "The signing of a peace treaty",
+        "The hero's wedding"
+      ],
+      "correctIndex": 0,
+      "explanation": "In \"The Haidamakas\" the key scene: Ivan Gonta murders his own children for their \"Polish blood\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did Rafał receive the medal from the Kresy community for?",
+      "answers": [
+        "For working at TVP",
+        "For reminding people about Volhynia",
+        "For a text about Taiwan",
+        "For taking part in the European Parliament"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Kresy community honours those who have not forgotten — Rafał received the medal for reminding."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Rafał more afraid of than the vipers from Kaczmarski's ballad?",
+      "answers": [
+        "Criticism on social media",
+        "Silence and oblivion",
+        "Losing his job",
+        "Emigration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał says: he is not afraid of vipers — he is afraid of silence and oblivion."
+    }
+  ]
+}

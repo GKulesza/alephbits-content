@@ -1,0 +1,67 @@
+{
+  "title": "Proveri svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Skolko Michaľ plati za svobodenje na stranicě zwolnienie.pl?",
+      "answers": [
+        "49 zlotyh",
+        "79 zlotyh",
+        "150 zlotyh",
+        "29 zlotyh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michaľ plati BLIK-om 79 zlotyh."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po skolkih minutah dostaje svidětelstvo L4?",
+      "answers": [
+        "Po 3 minutah",
+        "Po 15 minutah",
+        "Po 24 godinah",
+        "Po tjedni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po 15 minutah v jaščiku pojavajet se PDF so svobodenijem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoje rozpoznanije imaje falešnoje svobodenje Michaľa?",
+      "answers": [
+        "Zlom ruky",
+        "Ostro zaraženje gornyh dyhatelnyh putej",
+        "Depresija",
+        "Migrena"
+      ],
+      "correctIndex": 1,
+      "explanation": "PDF imaje rozpoznanije \"ostro zaraženje gornyh dyhatelnyh putej\", hots Michaľ jest zdorovy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakuju oceněnu godovu cenu boleznih absencov davaje tekst?",
+      "answers": [
+        "5 milijardov zlotyh",
+        "35 milijardov zlotyh",
+        "100 miljonov zlotyh",
+        "1 milijard zlotyh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst govorit o ceně 35 milijardov zlotyh dlja polskoj ekonomiki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Michaľ děla s vypečatanym L4 na konci?",
+      "answers": [
+        "Posylaje do načalnika",
+        "Vykidaje v koš",
+        "Ramuje i věšaje",
+        "Posylaje do prokuratury kak dokazatelstvo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michaľ vykidyvaje v koš vypečatanoje L4 – už ne hočet byti časťju problemy."
+    }
+  ]
+}

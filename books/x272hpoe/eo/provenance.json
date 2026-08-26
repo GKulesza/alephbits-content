@@ -1,0 +1,27 @@
+{
+  "packId": "x272hpoe:eo",
+  "bookId": "x272hpoe",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "NE konfuzu kun cisza-przed-burza (C4). La slugo cisza-dom intence distingas."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "hvfvOfATZoY"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "x272hpoe:pl",
+  "translationSourceVersion": "1.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "ag1ol73d:isv_cyrl",
+  "bookId": "ag1ol73d",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција о долгих браках; близко к \"Интелектуалному фротеризму\" — другој слуг."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Mlunu1IKmYE"
+    }
+  ],
+  "revisionNotes": "Пхасе 102 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "ag1ol73d:isv",
+  "translationSourceVersion": "1.1.0"
+}

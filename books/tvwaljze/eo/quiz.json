@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kies tezo pri la infano \"100% kompleta\" ŝanĝas la pensmanieron de Ola?",
+      "answers": [
+        "Aga Rogali",
+        "Jesper Juul",
+        "Hardy",
+        "Szymon Grzelak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi aŭdas pri Jesper Juul kaj la tezo pri kompleta homo de post naskiĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Ola, kiam Franek timas la naĝejon?",
+      "answers": [
+        "Devigas lin lerni naĝi",
+        "Demandas pri sentoj kaj proponas naĝbrakumilojn",
+        "Nuligas la ekskurson",
+        "Krias"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi demandas \"Kion vi sentas?\" kaj kune ili serĉas sekurecon (naĝbrakumiloj)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras Franek post sukcesa naĝado?",
+      "answers": [
+        "Neniam plu al la naĝejo",
+        "Panjo, mi povas ĉion, se vi permesas al mi",
+        "Mi volas iĝi trejnisto",
+        "La naĝejo estas stulta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: \"Panjo, mi povas ĉion, se vi permesas al mi.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Ola, kiam Zosia prenas la tondilon?",
+      "answers": [
+        "Malpermesas al ŝi uzi ĝin",
+        "Demandas pri sekura uzo kaj lasas ŝin eltranĉi koreton",
+        "Donas la tondilon al la instruistino",
+        "Punas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ola demandas pri sekura uzo kaj akompanas — Zosia eltranĉas la koreton mem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial ŝi enkondukas rutinojn por Zosia?",
+      "answers": [
+        "Kiel punojn",
+        "Kiel helpon ĉe ebla ADHD — malpli da stimuloj, stabila dorma ritmo, sen ekranoj",
+        "Ĉar la instruistino ordonas",
+        "Por sporto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orda spaco, rutino, temporizilo por dentoj, sen ekranoj antaŭ dormo."
+    }
+  ]
+}

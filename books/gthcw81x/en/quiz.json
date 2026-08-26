@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Lena?",
+      "answers": [
+        "Eight",
+        "Ten",
+        "Twelve",
+        "Seven"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text: \"Lena was ten years old\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What opens the door to the enchanted land?",
+      "answers": [
+        "A silver key",
+        "A gold coin",
+        "A map",
+        "A song without a key"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grandma takes a silver key out of her apron pocket."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does grandma Rózia turn out to be at the end?",
+      "answers": [
+        "The Queen of Wind",
+        "The Queen of Rain",
+        "Aunt Stella",
+        "Snowflake"
+      ],
+      "correctIndex": 0,
+      "explanation": "She says: \"I used to be the Queen of Wind\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What song does Lena sing to open the door?",
+      "answers": [
+        "Drip, drip, drip, please open the door…",
+        "Rain, pour down on this land",
+        "Cock-a-doodle-doo",
+        "Moo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grandma teaches a song that begins with \"Drip, drip, drip…\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Lena do to save Queen Kropeia's dress?",
+      "answers": [
+        "Plays the flute",
+        "Dances",
+        "Sings about rain",
+        "Waters the flowers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lena plays a melody on the flute to thaw the dress of drops."
+    }
+  ]
+}

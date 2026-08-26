@@ -1,0 +1,27 @@
+{
+  "packId": "omqigct2:isv_cyrl",
+  "bookId": "omqigct2",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Коротка фикција о остановенију пред хроничным служебным стресом."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Y734jWkM9dY"
+    }
+  ],
+  "revisionNotes": "Крóтка фикцја о затрзыманиу сиę wобец цхроницзнего стресу заwодоwего.",
+  "translationStatus": "machine",
+  "translationSource": "omqigct2:isv",
+  "translationSourceVersion": "1.0.0"
+}

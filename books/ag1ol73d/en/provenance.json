@@ -1,0 +1,27 @@
+{
+  "packId": "ag1ol73d:en",
+  "bookId": "ag1ol73d",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fiction about long-term relationships; close to \"Intellectual Frotteurism\" — a different slug."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Mlunu1IKmYE"
+    }
+  ],
+  "revisionNotes": "Phase 102 import.",
+  "translationStatus": "machine",
+  "translationSource": "ag1ol73d:pl",
+  "translationSourceVersion": "1.1.0"
+}

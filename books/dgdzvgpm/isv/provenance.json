@@ -1,0 +1,27 @@
+{
+  "packId": "dgdzvgpm:isv",
+  "bookId": "dgdzvgpm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Medžuslovjansky prevod polskoj kanoničeskoj redakcii (manuscript Collection Seven). Povny tekst sohraněn — bez skračenij."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Seven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Ten sam prowadzący co w „Zielonej poświacie” — founder decyduje o relacji serii.",
+  "translationStatus": "machine",
+  "translationSource": "dgdzvgpm:pl",
+  "translationSourceVersion": "1.0.0"
+}

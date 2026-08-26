@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Začemu Krzysztof vedje audiciju inako v noči polnolunja?",
+      "answers": [
+        "Bo imaje togda največe slušatelov v radiu",
+        "Bo pri polnolune \"priplyvajut\" k njemu čuvstva o budučnosti",
+        "Bo togda zapisuje reklamy",
+        "Bo polnolune vyključaje internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govorit, že pri polnolune imaje svobodnyje čuvstva na budučnost i škoda ih ne ispolzovati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Anna v povesti?",
+      "answers": [
+        "Producent radia",
+        "Žena Krzysztofa, lekarka i racionalistka",
+        "Slušatelka iz Irana",
+        "Studentka astrologiji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna vhodit v chalatě, jest lekarka i stavljaje pod vopros vlijanije luny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Krzysztof govorit o Iraně v razvitiji audiciji?",
+      "answers": [
+        "Že Iran cělostno poddadine se bez boja",
+        "Že v ijune načnut se okazionalnyje ataky i \"črna plahta\" opadaje na Iran",
+        "Že Iran izčezne s karty za nedělu",
+        "Že Iran pereimaje Jevropejsky Sojuz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proričaje okazionalnyje ataky v ijune i metaforu črnoj plahty nad Iranom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dělaetsja v Evropě v epilogě, soglasno narraciji?",
+      "answers": [
+        "Cělostnoje otsutstvije žarov",
+        "Žary, ognjišče Ebola v Italiji, doržejša žywnost i novyj podatok EU",
+        "Iščeznovenije vsěh podatkov",
+        "Konec audiciji Krzysztofa navsegda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog nazyvaje žary, ognjišče v Italiji, dorogoviznu i infrastrukturnyj podatok."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto piše anonimnyj list v janvarě 2027?",
+      "answers": [
+        "Že audicija byla zabronena pravom",
+        "Že děkuju upreždenijam uspěl vyjehati iz Irana i živaje",
+        "Že Krzysztof imaje dobiti Nobelovu nagradu",
+        "Že polnolune jest mit"
+      ],
+      "correctIndex": 1,
+      "explanation": "List děkuje za upreždenija i utěku iz Irana pred katastrofoju."
+    }
+  ]
+}

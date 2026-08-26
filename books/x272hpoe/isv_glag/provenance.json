@@ -1,0 +1,27 @@
+{
+  "packId": "x272hpoe:isv_glag",
+  "bookId": "x272hpoe",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "ⰍⰅ ⰷⰰⰼⱑⱈⰰⱂⰸ ⱁ ⱆⰸⱁⰷⰰ-ⰿⱀⰷⰵⰴ-ⰱⱃⱀⰷⰰ (Ⱆ4). Ⱁⰻⱃⰳ ⱆⰸⱁⰷⰰ-ⰴⰾⰼ ⱆⰵⰻⰽⰾ ⱀⰰⰷⰻⰸⱇⰰⰹⰵ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "hvfvOfATZoY"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 119 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "machine",
+  "translationSource": "x272hpoe:isv",
+  "translationSourceVersion": "1.0.1"
+}

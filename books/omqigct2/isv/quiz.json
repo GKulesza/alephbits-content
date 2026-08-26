@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko časov rabotal Patryk pred zatvorenjem laptopa?",
+      "answers": [
+        "Šest",
+        "Četyrnadcat",
+        "Dvadeset",
+        "Dva"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pervoje predloženije govori, že rabotal četyrnadcat časov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Patryk zapisuje v zapisniku sredi noči?",
+      "answers": [
+        "Spisok kuplenij",
+        "Že ne pomnit, kogda čutil se dobro i napravdu dyhal",
+        "Plan kanikul",
+        "Scenarij filma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pervyj zapis kasaje se nezapamjatovanja poslědnjego dobrogo samopuvstvija i napravdovogo dyhanija."
+    },
+    {
+      "type": "single_choice",
+      "question": "Otkuda proishodit zapisnik, ktoryj koristaje Patryk?",
+      "answers": [
+        "Kupil jego tot den v knigarně",
+        "Polučil od ženy na den roždenija tri lěta tomu",
+        "Našel na ulice",
+        "Polučil od načalnika"
+      ],
+      "correctIndex": 1,
+      "explanation": "V jaščikě ležit staryj zapisnik od ženy na den roždenija izpred tri lěta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Patryk razuměje stres v koncu povesti?",
+      "answers": [
+        "Kako vraga, s ktorym treba boriti se",
+        "Kako informaciju od těla, na ktoru odpověd jest ostanovenije i dyhanje",
+        "Kako čto-to, čto treba ignorovati",
+        "Kako povod dlja kolejnoj nočnoj raboty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Končna refleksija govori, že stres jest informacija, a odpověd jest ostanovenije i dyhanje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se konča noč Patryka?",
+      "answers": [
+        "Vozvračaje se k rabotě nad prezentacijej",
+        "Leže se otsědi ženy i spokojno zasynaje",
+        "Vychodit běgati o polnoči",
+        "Jedet do biura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po refleksiji leže se otsědi ženy i pervyj raz za davno spokojno zasynaje."
+    }
+  ]
+}

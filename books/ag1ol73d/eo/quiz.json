@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj Adam kaj Magda estas kune?",
+      "answers": [
+        "Kvin",
+        "Dek kvin",
+        "Tridek",
+        "Du"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam parolas pri dek kvin jaroj da geedzeco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Adam priskribas pensadon pri sia edzino?",
+      "answers": [
+        "Kiel legadon de libro",
+        "Kiel alklakon de ikono — tuj malfermiĝas konata dosiero",
+        "Kiel aŭskultadon de radio",
+        "Kiel ripetiĝantan sonĝon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li parolas pri la ikono sur la labortablo kaj dosiero konata anticipe."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Magda kuiras buljonon?",
+      "answers": [
+        "Ĉar ŝi ŝatas nur buljonon",
+        "Ĉar ŝi sentas sin soleca, kiam la vivo estas antaŭvidebla",
+        "Ĉar Adam ordonis al ŝi",
+        "Ĉar ili atendas gastojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi konfesas, ke ŝi kuiras buljonon, kiam ŝi sentas solecon kaj antaŭvideblecon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kio Adam demandas Magdan dum la paŭzita filmo?",
+      "answers": [
+        "Pri ferioj",
+        "Ĉu ŝi foje pensas pri disiĝo",
+        "Pri la laboro",
+        "Pri la infanoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li demandas rekte: ĉu vi foje pensas pri disiĝo?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Adam skribas en la libro fine?",
+      "answers": [
+        "Ke rilatoj estas sensencaj",
+        "Ke la plej granda eraro estis pensi, ke li konas sian edzinon ĝisfunde",
+        "Ke terapio tute ne funkcias",
+        "Ke divorco estas la sola eliro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li skribas pri la eraro pensi, ke li konis sian edzinon ĝisfunde."
+    }
+  ]
+}

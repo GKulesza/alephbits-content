@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What problem do Magda and Grzesiek have?",
+      "answers": [
+        "They avoid an honest conversation about needs",
+        "Magda does not like jazz",
+        "Grzesiek does not buy milk",
+        "Magda does not want to hug"
+      ],
+      "correctIndex": 0,
+      "explanation": "Both react with resentment instead of speaking directly."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did Magda understand at the Kapci meeting?",
+      "answers": [
+        "That she had been pretending interests to Grzesiek",
+        "That she should buy milk more often",
+        "That Grzesiek is perfect",
+        "That jazz is better than pop"
+      ],
+      "correctIndex": 0,
+      "explanation": "She remembered pretending to be interested in walks and jazz."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the story end?",
+      "answers": [
+        "They start to speak directly about their needs",
+        "They break up",
+        "Grzesiek leaves",
+        "Magda goes back to pretending"
+      ],
+      "correctIndex": 0,
+      "explanation": "The epilogue describes honest communication."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Grzesiek start doing after the change?",
+      "answers": [
+        "He writes down Magda's requests",
+        "He sells jazz records",
+        "He moves out",
+        "He stops listening to music"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzesiek writes down the requests so as not to forget them."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why did Magda pretend to be interested in jazz?",
+      "answers": [
+        "She was afraid of rejection",
+        "She loved the genre",
+        "Grzesiek demanded it",
+        "She wanted to become a musician"
+      ],
+      "correctIndex": 0,
+      "explanation": "She pretended out of fear of rejection."
+    }
+  ]
+}

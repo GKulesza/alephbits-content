@@ -1,0 +1,27 @@
+{
+  "packId": "cxifsu0l:isv_cyrl",
+  "bookId": "cxifsu0l",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанскы превод полској каноническој редакции (манусцрипт Цоллецтион Севен). Повны текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "S2IOrt-n2fc"
+    }
+  ],
+  "revisionNotes": "Пхасе 97 импорт јако прзерwа-наука; ние надписује полисх_прзерwа.",
+  "translationStatus": "machine",
+  "translationSource": "cxifsu0l:isv",
+  "translationSourceVersion": "1.0.0"
+}

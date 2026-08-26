@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué contradicción percibe Marek al mirar su propia empresa después de años?",
+      "answers": [
+        "Entre las oficinas de distintas ciudades",
+        "Entre la misión original y la realidad de la gestión, cada vez más orientada al sueldo y al crecimiento",
+        "Entre los documentos en papel y los digitales",
+        "Entre TI y ventas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esta grieta entre la idea y la práctica pone en marcha toda la historia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué conmueve tanto a Marek la historia de OpenAI?",
+      "answers": [
+        "Porque quiere comprar acciones de Microsoft",
+        "Porque ve en ella un reflejo de su propio conflicto entre misión y negocio",
+        "Porque planea despedir al consejo",
+        "Porque no le gustan las startups"
+      ],
+      "correctIndex": 1,
+      "explanation": "En los hechos en torno a Sam Altman reconoce sus propias preguntas sobre el sentido y la responsabilidad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué es en el texto el AI Brain Fry?",
+      "answers": [
+        "Un nuevo algoritmo de ranking",
+        "Fatiga mental resultante del constante malabarismo con herramientas de IA",
+        "Un programa para automatizar el trabajo",
+        "Un tipo de avería de servidor"
+      ],
+      "correctIndex": 1,
+      "explanation": "El informe y la conversación con Agnieszka lo definen como sobrecarga cognitiva."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué solución propone Marek ante el caos de las herramientas de IA?",
+      "answers": [
+        "Seguir cada novedad todavía más rápido",
+        "Elegir unas pocas herramientas de verdad importantes y soltar el FOMO",
+        "Prohibir la IA en la empresa",
+        "Dejar la decisión exclusivamente al departamento de RR. HH."
+      ],
+      "correctIndex": 1,
+      "explanation": "Su receta es limitar el número de herramientas y tener una estrategia común."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué papel desempeña el «contexto» en la última parte del texto?",
+      "answers": [
+        "Es el nombre de un producto nuevo de la empresa",
+        "Nos recuerda que las soluciones deben adaptarse a la escala, el mercado y la realidad de la propia empresa",
+        "Solo significa la situación política de EE. UU.",
+        "Sirve para explicar la contabilidad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek explica que el conocimiento de las grandes corporaciones no funciona automáticamente en todas partes."
+    }
+  ]
+}

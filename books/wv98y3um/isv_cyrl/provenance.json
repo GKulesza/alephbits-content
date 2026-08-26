@@ -1,0 +1,27 @@
+{
+  "packId": "wv98y3um:isv_cyrl",
+  "bookId": "wv98y3um",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција о трудној историји; требује опатрну раму — политично чувствителна тема."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "G6s2-iofknI"
+    }
+  ],
+  "revisionNotes": "Пхасе 102 импорт.",
+  "translationStatus": "machine",
+  "translationSource": "wv98y3um:isv",
+  "translationSourceVersion": "1.0.0"
+}

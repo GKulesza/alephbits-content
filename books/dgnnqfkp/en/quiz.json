@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What contradiction does Marek notice when he looks at his own company after years?",
+      "answers": [
+        "Between offices in different cities",
+        "Between the original mission and the reality of running the business, increasingly focused on the pay check and growth",
+        "Between paper and digital documents",
+        "Between IT and sales"
+      ],
+      "correctIndex": 1,
+      "explanation": "This crack between the idea and the practice sets the whole story in motion."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the OpenAI story move Marek so strongly?",
+      "answers": [
+        "Because he wants to buy Microsoft shares",
+        "Because he sees in it a reflection of his own conflict between mission and business",
+        "Because he plans to fire his board",
+        "Because he doesn't like startups"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the events around Sam Altman he recognises his own questions about meaning and responsibility."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is AI Brain Fry in the text?",
+      "answers": [
+        "A new ranking algorithm",
+        "Mental fatigue resulting from the constant juggling of AI tools",
+        "A program for automating work",
+        "A type of server failure"
+      ],
+      "correctIndex": 1,
+      "explanation": "The report and the conversation with Agnieszka define it as cognitive overload."
+    },
+    {
+      "type": "single_choice",
+      "question": "What solution does Marek propose against the chaos of AI tools?",
+      "answers": [
+        "To follow every novelty even faster",
+        "To choose a few truly important tools and let go of FOMO",
+        "To ban AI in the company",
+        "To leave the decision entirely to the HR department"
+      ],
+      "correctIndex": 1,
+      "explanation": "His prescription is to limit the number of tools and have a common strategy."
+    },
+    {
+      "type": "single_choice",
+      "question": "What role does \"context\" play in the last part of the text?",
+      "answers": [
+        "It is the name of the company's new product",
+        "It reminds us that solutions must be adapted to the scale, market and realities of one's own company",
+        "It means only the US political situation",
+        "It is used to explain accounting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek explains that knowledge from big corporations does not work automatically everywhere."
+    }
+  ]
+}

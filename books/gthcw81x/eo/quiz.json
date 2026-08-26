@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Lena?",
+      "answers": [
+        "Ok",
+        "Dek",
+        "Dek du",
+        "Sep"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto: «Lena havis dek jarojn»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio malfermas la pordon al la sorĉita lando?",
+      "answers": [
+        "Arĝenta ŝlosilo",
+        "Ora monero",
+        "Mapo",
+        "Kanto sen ŝlosilo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La avino elprenas arĝentan ŝlosilon el la poŝo de la antaŭtuko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu montriĝas esti la avino Rózia fine?",
+      "answers": [
+        "La Reĝino de Vento",
+        "La Reĝino de Pluvo",
+        "Onklino Stella",
+        "Neĝulino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras: «Iam mi estis la Reĝino de Vento»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun kanton kantas Lena por malfermi la pordon?",
+      "answers": [
+        "Pli, pli, pli, bonvolu malfermi la pordon…",
+        "Pluvo, fluiĝu sur ĉi tiun teron",
+        "Kokeriko",
+        "Muuu"
+      ],
+      "correctIndex": 0,
+      "explanation": "La avino instruas kanton, kiu komenciĝas per «Pli, pli, pli…»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Lena por savi la veston de la Reĝino Kropeia?",
+      "answers": [
+        "Ludas fluton",
+        "Dancas",
+        "Kantas pri la pluvo",
+        "Akvumas la florojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lena ludas melodion per la fluto por degeligi la veston el gutetoj."
+    }
+  ]
+}

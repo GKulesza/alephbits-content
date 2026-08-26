@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Anna a la familia?",
+      "answers": [
+        "Como una cárcel",
+        "Como vasos comunicantes — el nivel del agua cambia en todas partes",
+        "Como una empresa",
+        "Como un teatro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La familia como vasos comunicantes — influencia en ambos sentidos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué propone Anna en lugar de castigos como quitar la tableta?",
+      "answers": [
+        "Consecuencias y reparación del daño",
+        "Ignorar",
+        "La expulsión de la escuela",
+        "La humillación pública"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consecuencias naturales — disculpas, limpiar, reparar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Marta a Kacper cuando tira las cosas?",
+      "answers": [
+        "Tienes prohibido tener emociones",
+        "Tienes derecho a estar enfadado, pero no puedes tirar las cosas",
+        "Vete al rincón inmediatamente",
+        "No le dice nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Tienes derecho a estar enfadado\" + un límite claro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Kacper cuando se pone nervioso en la escuela después de los cambios?",
+      "answers": [
+        "Golpea a los demás",
+        "Se sienta en la alfombra, aprieta la pelota antiestrés, dice \"necesito un momento\"",
+        "Huye de la escuela",
+        "Le grita a la maestra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aprende a regularse — pelota, un momento, salir."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué aparece en el dibujo que Kacper le da a Anna?",
+      "answers": [
+        "Un dinosaurio",
+        "Un agradecimiento: \"me enseñó a ser bueno\"",
+        "Una casa sin gente",
+        "Un mapa"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto: \"Gracias por enseñarme a ser bueno\"."
+    }
+  ]
+}

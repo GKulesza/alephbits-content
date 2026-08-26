@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Anna priskribas la familion?",
+      "answers": [
+        "Kiel prizonon",
+        "Kiel komunikantajn vazojn — la akvonivelo ŝanĝiĝas ĉie",
+        "Kiel firmaon",
+        "Kiel teatron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Familio kiel komunikantaj vazoj — influo ambaŭdirekte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anna proponas anstataŭ punoj kiel forpreno de la tablojdo?",
+      "answers": [
+        "Sekvojn kaj riparon de la damaĝo",
+        "Ignoradon",
+        "Forpelon el la lernejo",
+        "Publikan humiligon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naturaj sekvoj — pardonpetoj, purigado, riparo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta diras al Kacper, kiam li ĵetas aferojn?",
+      "answers": [
+        "Vi estas malpermesata havi emociojn",
+        "Vi havas la rajton koleri, sed vi ne povas ĵeti aferojn",
+        "Iru tuj en la angulon",
+        "Ŝi diras nenion"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Vi havas la rajton koleri\" + klara limo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kacper faras, kiam li nervoziĝas en la lernejo post la ŝanĝoj?",
+      "answers": [
+        "Li batas aliajn",
+        "Li sidiĝas sur la tapiŝo, premas la strespilkon, diras \"mi bezonas momenton\"",
+        "Li forkuras de la lernejo",
+        "Li krias al la instruistino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li lernas reguliĝon — strespilko, momento, eliro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas sur la desegno, kiun Kacper donas al Anna?",
+      "answers": [
+        "Dinosaŭro",
+        "Danko: \"instruis min esti bona\"",
+        "Domo sen homoj",
+        "Mapo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La skribo: \"Dankon, ke vi instruis min esti bona.\""
+    }
+  ]
+}

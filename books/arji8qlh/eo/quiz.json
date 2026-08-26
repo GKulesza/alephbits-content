@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kian titolon havis la teksto de Rafał el 2008 en Rzeczpospolita?",
+      "answers": [
+        "Simetrio de maljustaĵoj",
+        "Ni ĉion forgesis",
+        "Proskripcia listo",
+        "Volinio sen cenzuro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał memorigas la tekston kun la titolo el Wyspiański: «Myśmy wszystko zapomnieli» (Ni ĉion forgesis)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Rafał nomas la «malbenita simetrio»?",
+      "answers": [
+        "La ekvilibron de potenco en EU",
+        "Kompari genocidon kun «poloj ankaŭ vundis»",
+        "Simetrion en arkitekturo",
+        "Simetrion en la amaskomunikiloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La salonaj «simetrio» trivialigas Volinion: «poloj ankaŭ vundis, ĉu ne?»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian scenon el la poemo de Ŝevĉenko Rafał alvokas?",
+      "answers": [
+        "Ivano Gonta murdanta siajn proprajn infanojn",
+        "La batalon de Grunwald",
+        "Subskribon de paco",
+        "La geedziĝon de la heroo"
+      ],
+      "correctIndex": 0,
+      "explanation": "En «Hajdamakoj» la ĉefa sceno: Ivano Gonta murdas siajn proprajn infanojn pro la «pola sango»."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pro kio Rafał ricevis la medalon de la kresaj medioj?",
+      "answers": [
+        "Pro laboro en TVP",
+        "Pro memorigo pri Volinio",
+        "Pro teksto pri Tajvano",
+        "Pro partopreno en la Eŭropa Parlamento"
+      ],
+      "correctIndex": 1,
+      "explanation": "La kresaj medioj honoras tiujn, kiuj ne forgesis — Rafał ricevis la medalon pro memorigo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Rafał timas pli ol la vipurojn el la balado de Kaczmarski?",
+      "answers": [
+        "Kritikon en sociaj retoj",
+        "Silenton kaj forgeson",
+        "Perdon de la laboro",
+        "Elmigradon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał diras: li ne timas vipurojn — li timas silenton kaj forgeson."
+    }
+  ]
+}

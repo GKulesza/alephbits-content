@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuánto paga Michał por la baja en la página zwolnienie.pl?",
+      "answers": [
+        "49 eslotis",
+        "79 eslotis",
+        "150 eslotis",
+        "29 eslotis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał paga 79 eslotis con BLIK."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Después de cuántos minutos recibe el certificado de baja?",
+      "answers": [
+        "Después de 3 minutos",
+        "Después de 15 minutos",
+        "Después de 24 horas",
+        "Después de una semana"
+      ],
+      "correctIndex": 1,
+      "explanation": "A los 15 minutos aparece un PDF con la baja en el buzón."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué diagnóstico tiene la baja falsa de Michał?",
+      "answers": [
+        "Rotura de brazo",
+        "Infección aguda de las vías respiratorias superiores",
+        "Depresión",
+        "Migraña"
+      ],
+      "correctIndex": 1,
+      "explanation": "El PDF lleva el diagnóstico de «infección aguda de las vías respiratorias superiores», aunque Michał está sano."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué coste anual estimado de las ausencias por enfermedad menciona el texto?",
+      "answers": [
+        "5 000 millones de eslotis",
+        "35 000 millones de eslotis",
+        "100 millones de eslotis",
+        "1 000 millones de eslotis"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto habla de un coste de 35 000 millones de eslotis para la economía polaca."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Michał con la baja impresa al final?",
+      "answers": [
+        "La envía a su jefe",
+        "La tira a la papelera",
+        "La enmarca y la cuelga",
+        "La envía a la fiscalía como prueba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał tira la baja impresa a la papelera — ya no quiere ser parte del problema."
+    }
+  ]
+}

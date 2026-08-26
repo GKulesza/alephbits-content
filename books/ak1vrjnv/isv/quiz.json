@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Anna po profesiji?",
+      "answers": [
+        "Lekarka",
+        "Psiholožka i avtorka knig o otnošenjah",
+        "Učitelka",
+        "Žurnalistka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna jest ekspert od otnošenij, psiholožka i avtorka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakyje tri relacijne igry Anna imenuje v razgovorě s Pavlom?",
+      "answers": [
+        "Šahy, poker i ruletka",
+        "„Mam tebe\", „musim byti chrabra\" i „kaby ne ty\"",
+        "Molčanije, lža i uběženje",
+        "Konkurencija, zavist i kontrola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna govori prjamo o tych treh igrah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Anna vspominaje o svojem otcě?",
+      "answers": [
+        "Byl lekarom",
+        "Iměl tverdyje ruki i někogda bil",
+        "Odošel, kogda byla mala",
+        "Nikogda jeje ne vredil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rasskazaje o tverdoj rabotě otca i o nasiliji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Pavel govori o „monstrě\" Anny?",
+      "answers": [
+        "Že jego ne znajet",
+        "Že znajet, že to ne ona — to jeje monstr",
+        "Že musi oditi",
+        "Že Anna jest vinovata"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pavel govori: „Znal, že to ne ty. To tvoj monstr.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Anna konča povest o igrě?",
+      "answers": [
+        "Že vyigrala",
+        "Že vyšla iz igry, bo perestala v njeje igrati",
+        "Že Pavel odošel",
+        "Že zatvorila seminare"
+      ],
+      "correctIndex": 1,
+      "explanation": "Razuměla, že ne vyigrala — perestala igrati."
+    }
+  ]
+}

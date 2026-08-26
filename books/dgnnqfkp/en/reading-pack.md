@@ -1,0 +1,296 @@
+# The Mission That Cracked
+
+## Metadata
+
+**Pack ID:** dgnnqfkp
+**Book ID:** dgnnqfkp
+**Legacy Pack ID:** polish_misja_ktora_pekla
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** The Mission That Cracked  
+**Subtitle:** Mission, burnout and context in the AI era  
+**Blurb:** Marek runs a mature consulting firm and believes in his mission of helping entrepreneurs. When he meets clients of a different scale and a different market, the patterns begin to crack. A story about consulting, ambition and discovering that good advice without context can be worse than silence.
+
+**Genres:** instruction, article  
+**Cover family:** instruction  
+**Series:** Collection Three  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Misja która pękła" — Collection Three official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** business, ai, burnout, mission, management  
+
+**Keywords:** company mission, AI Brain Fry, burnout, context  
+
+**Editorial notes:** English translation of the Polish canonical edition (Collection Three manuscript). Full text preserved — not abridged.
+
+**Translation status:** machine  
+**Translation source:** dgnnqfkp:pl  
+**Translation source version:** 1.0.1  
+
+---
+**World:**
+- objects: book
+- places: office, home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Instruction
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 06.07.2026 -> https://www.youtube.com/watch?v=RQ-uUuefMDY  
+**Revision notes:** Tekst ma charakter doradczy i eseistyczny; niektóre liczby oraz przykłady biznesowe warto ręcznie sprawdzić.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — typo fix („wciśniała się” → „wisiała”) |
+
+---
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=RQ-uUuefMDY  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-06  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**THE MISSION THAT CRACKED**
+
+
+When Marek first founded his consulting firm, he was twenty-seven, had a flat on a mortgage and a girlfriend who didn't understand why he needed "all that paperwork". He sat in the kitchen at a table with a laminated top, sipped cheap coffee and wrote the first draft of his company's mission on his laptop. He wanted it to be something more than just "making money". He wanted it to make sense.
+
+"We help B2B companies grow wisely" – he wrote. Then he corrected it: "We help B2B companies grow in a sustainable way, with respect for people and their time." He knew it sounded like a cliché. But he believed in it.
+
+Twelve years later, Marek's firm had a hundred and fifty employees, offices in three cities and a client portfolio he hadn't even dreamed of in his wildest dreams. But he also had something he hadn't expected – a feeling that something had gone wrong. That the mission he had written down that evening in the kitchen had somehow been distorted along the way. That the people who joined him came for the idea, and stayed for the pay check. And that more and more of them were leaving burnt out.
+
+
+**Insight one: Mission versus business**
+
+Marek was reading the news on his phone while driving to the office. "OpenAI fires Sam Altman". He blinked. "The board accuses him of straying from the mission. Altman had turned too far towards business, bringing in Microsoft as an investor." He scrolled down. "Microsoft threatens to withdraw funding. Employees mass-threaten to quit. Altman returns after five days. The board that fired him is itself dismissed."
+
+Marek stopped at the traffic lights and looked at his phone. It was like a movie. A drama in which no one knew who was good and who was bad. Mission versus money. Idea versus reality.
+
+He remembered his own company. How at the beginning he recruited people by telling them about the vision, about changing Polish business, about teaching companies to grow wisely. And how over time, as the firm grew, those conversations started to be mostly about salary brackets, benefits and career paths.
+
+– Have we lost our mission too? – he asked himself.
+
+He pulled into the car park and turned off the engine. He knew the answer was not simple. He himself was no longer that young idealist from the kitchen. He had a mortgage, he had a family, he had employees who counted on him. The mission hadn't disappeared – but it had started to compete with something else. With responsibility. With reality.
+
+He entered the office. On the board in the lobby hung the same mission he had written twelve years earlier. "We help B2B companies grow wisely." Next to it hung a new poster: "We're hiring! Join the team that changes the face of Polish business." Marek looked at it and felt that something was wrong.
+
+He picked up his phone and wrote to his operations director: "We need to talk about the mission. Is this still what we want to do, or is it just a slogan on the wall?"
+
+The reply came a few minutes later: "Let's talk in the evening. I think most of us have similar questions."
+
+
+**Insight two: AI Brain Fry**
+
+Two weeks later Marek sat in the conference room with the head of the IT department, Agnieszka. They were talking about a new project, but Agnieszka looked tired. Not the kind of tired that goes away after the weekend. This was something else. Something deeper.
+
+– How long have you been feeling like this? – asked Marek.
+
+Agnieszka hesitated.
+
+– A year. Maybe longer. You know, it's not that I work more hours. I work the same amount. But... it's harder. My brain feels like it's floating.
+
+– What do you mean?
+
+– I've stopped keeping up. Every day there's a new AI model. A new tool. A new way of doing things that until now I did in a certain way. I have the feeling that if I don't check every novelty, I'll be useless in no time. That someone else will know more and it's him who'll get the promotion. Or that AI will replace me altogether.
+
+Marek listened. He remembered a report he had read a few days earlier. "67% of employees report symptoms of professional burnout. 82% are in the risk group. One in seven employees reports mental fatigue from juggling AI tools – a phenomenon called AI Brain Fry."
+
+– How many tools do you use on a daily basis? – he asked.
+
+– At work? Eight. Nine, if you count the ones I'm testing. Chat GPT, Claude, Copilot, Perplexity, Midjourney... each for something different. And each is better at something different. And each one updates, changes, adds features every now and then. Sometimes I think it's me who works for them, not them for me.
+
+Marek nodded. He remembered the post by Tomek Karwatka that he had read a few days earlier: "A new AI model appears today on average every two days. If your strategy is to keep up in real time, you've lost before you even started."
+
+– We have to change something – he said. – You can't keep functioning like this. No one can.
+
+– I know – replied Agnieszka. – But what? Stop using AI?
+
+– Not stop. But stop chasing. Choose two or three tools that really matter for our work, and focus on them. Treat the rest as interesting, but not necessary. And do the same throughout the whole company. One strategy for everyone. No FOMO.
+
+Agnieszka looked at him with a hope he had seen more than once in his employees' eyes. It was the look of someone who wants someone else to take responsibility for what overwhelms them.
+
+– If you do this for us – she said – then we will do everything in our power for you.
+
+Marek knew it wouldn't be easy. That some people would want to use everything that's new. That there would be resistance. But he also knew that if he didn't do it now, in a year they would lose half the team to burnout.
+
+
+**Insight three: Context**
+
+A few months later Marek stood on stage at a business conference. He talked about what he had learned in his company over the past years. About the mission that had evolved. About burnout that must be treated not with benefits, but with systemic change. About AI that should be a tool, not a master.
+
+And then an older man approached him – the owner of a medium-sized manufacturing company from Podkarpacie. He looked tired, but not with the tiredness he had seen in Agnieszka. It was the tiredness of resignation.
+
+– I was listening to you – said the man. – And you know what? I also wanted to do something similar. I read books about management, I go to trainings. Only that all these examples – they're all companies from America. With billions in revenue. With teams of a thousand people. And I have thirty employees, two production plants, and I'm fighting to survive the month. Am I supposed to implement what Google does?
+
+Marek smiled.
+
+– No. And that's the whole problem. Most of the business knowledge that reaches us is written in the context of American corporations. There, a "big company" is a billion dollars in revenue. In Europe, it's 250 employees and 50 million euros. In China, up to 300 employees is still a small company. We transfer solutions from one context to another and wonder why they don't work.
+
+The man looked at him attentively.
+
+– So what should I do?
+
+– First, reject everything that doesn't fit your context. Ask yourself: does what I'm reading make sense in my company, on my market, with my people? If not – discard it. Even if it's wise. Even if it works for someone else. What works at Google doesn't have to work for you.
+
+– And then?
+
+– Then build your own solutions. On your own turf. With your own people. And don't be afraid that they won't be as spectacular as the ones from the books. They will be yours. And they will work.
+
+The man nodded. A spark appeared in his eyes that hadn't been there before.
+
+– Maybe it's not so bad after all – he said. – Maybe I was just looking in the wrong place.
+
+Marek put his hand on the man's shoulder.
+
+– It's not easy. But it's possible. And it's worth it. You don't have to be like Zuckerberg or Altman. You can simply be yourself. And do what you do better than yesterday. And that is already success.
+
+
+**Epilogue**
+
+A year later Marek returned to his office. The same mission still hung in the lobby: "We help B2B companies grow wisely." But next to it a new poster had appeared: "Here we work with our heads. Don't chase. Don't burn out. Be."
+
+Agnieszka became the head of the IT department. She no longer juggled eight tools at once. She had three. And they worked better. Her team was less tired. More focused. And – more importantly – it believed in what it was doing.
+
+Marek still read business books. But now he read them differently. He looked for context. He looked for an answer to the question: "Does this work for us?" If not – he put it aside.
+
+He didn't give up the mission. He transformed it. He understood that a mission is not static – that it has to breathe, change, adapt. Like the company. Like people.
+
+In the evening, on his way home, he thought about that conversation from Podkarpacie. About the man who was looking for answers. About all those who try to do business in Poland by reading books written for someone else. And he understood that this was his true mission. Not just helping companies grow. But helping them find their own path.
+
+Don't copy. Don't chase. Don't burn out.
+
+Just be.
+
+
+**THE END**
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What contradiction does Marek notice when he looks at his own company after years?
+
+**Answers:**
+- A) Between offices in different cities
+- B) Between the original mission and the reality of running the business, increasingly focused on the pay check and growth
+- C) Between paper and digital documents
+- D) Between IT and sales
+
+**Correct:** B
+**Explanation:** This crack between the idea and the practice sets the whole story in motion.
+**Text reference:** the mission ... had somehow been distorted along the way
+
+### Question 2
+
+**Question:** Why does the OpenAI story move Marek so strongly?
+
+**Answers:**
+- A) Because he wants to buy Microsoft shares
+- B) Because he sees in it a reflection of his own conflict between mission and business
+- C) Because he plans to fire his board
+- D) Because he doesn't like startups
+
+**Correct:** B
+**Explanation:** In the events around Sam Altman he recognises his own questions about meaning and responsibility.
+**Text reference:** Have we lost our mission too?
+
+### Question 3
+
+**Question:** What is AI Brain Fry in the text?
+
+**Answers:**
+- A) A new ranking algorithm
+- B) Mental fatigue resulting from the constant juggling of AI tools
+- C) A program for automating work
+- D) A type of server failure
+
+**Correct:** B
+**Explanation:** The report and the conversation with Agnieszka define it as cognitive overload.
+**Text reference:** mental fatigue from juggling AI tools
+
+### Question 4
+
+**Question:** What solution does Marek propose against the chaos of AI tools?
+
+**Answers:**
+- A) To follow every novelty even faster
+- B) To choose a few truly important tools and let go of FOMO
+- C) To ban AI in the company
+- D) To leave the decision entirely to the HR department
+
+**Correct:** B
+**Explanation:** His prescription is to limit the number of tools and have a common strategy.
+**Text reference:** Not stop. But stop chasing.
+
+### Question 5
+
+**Question:** What role does "context" play in the last part of the text?
+
+**Answers:**
+- A) It is the name of the company's new product
+- B) It reminds us that solutions must be adapted to the scale, market and realities of one's own company
+- C) It means only the US political situation
+- D) It is used to explain accounting
+
+**Correct:** B
+**Explanation:** Marek explains that knowledge from big corporations does not work automatically everywhere.
+**Text reference:** What works at Google doesn't have to work for you
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

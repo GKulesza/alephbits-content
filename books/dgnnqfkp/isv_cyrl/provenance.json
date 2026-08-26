@@ -1,0 +1,27 @@
+{
+  "packId": "dgnnqfkp:isv_cyrl",
+  "bookId": "dgnnqfkp",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанскы превод полској каноническој редакции (манусцрипт Цоллецтион Тхрее). Повны текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "RQ-uUuefMDY"
+    }
+  ],
+  "revisionNotes": "Текст ма цхарактер дорадцзы и есеистыцзны; ниектóре лицзбы ораз прзыкłады бизнесоwе wарто рęцзние спраwдзиć.",
+  "translationStatus": "мацхине",
+  "translationSource": "дгннqфкп:пл",
+  "translationSourceVersion": "1.0.1"
+}

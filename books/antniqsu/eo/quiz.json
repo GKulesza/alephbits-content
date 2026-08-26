@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom Michał pagas por la forpermeso sur la paĝo zwolnienie.pl?",
+      "answers": [
+        "49 zlotoj",
+        "79 zlotoj",
+        "150 zlotoj",
+        "29 zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał pagas per BLIK 79 zlotojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Post kiom da minutoj li ricevas la ateston L4?",
+      "answers": [
+        "Post 3 minutoj",
+        "Post 15 minutoj",
+        "Post 24 horoj",
+        "Post unu semajno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post 15 minutoj en la poŝtkesto aperas PDF kun la forpermeso."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian diagnozon havas la falsa forpermeso de Michała?",
+      "answers": [
+        "Rompo de la brako",
+        "Akuta infekto de la supraj spiraj vojoj",
+        "Depresio",
+        "Migreno"
+      ],
+      "correctIndex": 1,
+      "explanation": "La PDF havas la diagnozon \"akuta infekto de la supraj spiraj vojoj\", kvankam Michał estas sana."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun laŭtaksan jaran koston de malsanecaj forestoj donas la teksto?",
+      "answers": [
+        "5 miliardoj da zlotoj",
+        "35 miliardoj da zlotoj",
+        "100 milionoj da zlotoj",
+        "1 miliardo da zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto parolas pri kosto de 35 miliardoj da zlotoj por la pola ekonomio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Michał faras kun la presita L4 fine?",
+      "answers": [
+        "Li sendas ĝin al la estro",
+        "Li ĵetas ĝin en la rubujon",
+        "Li kadrigas ĝin kaj pendigas",
+        "Li sendas ĝin al la prokurorejo kiel pruvon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Michał ĵetas la presitan L4 en la rubujon — li ne plu volas esti parto de la problemo."
+    }
+  ]
+}

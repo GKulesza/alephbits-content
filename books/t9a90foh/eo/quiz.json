@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estas s-ino Anna?",
+      "answers": [
+        "Instruistino pri legado en la antaŭlerneja klaso",
+        "Kuracistino",
+        "Lernejdirektorino",
+        "Aŭtorino de lernolibroj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi jam dudek jarojn instruas legadon en la antaŭlerneja klaso."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la knabo pri la silabo „ma\"?",
+      "answers": [
+        "„Em a\"",
+        "„Ma-ma\"",
+        "„A em\"",
+        "„Ma\" sen kunigo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li nomas la literojn anstataŭ kunigi ilin en silabon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial s-ino Anna diras, ke la knabo ne legas?",
+      "answers": [
+        "Li rekonas bildojn el la aplikaĵo",
+        "Li ne konas la alfabeton",
+        "Li ne iras al lernejo",
+        "Li havas vidan difekton"
+      ],
+      "correctIndex": 0,
+      "explanation": "La aplikaĵo montras vortojn kun bildoj — tio estas asociego, ne legado."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion ŝanĝas la patrino post la konversacio kun s-ino Anna?",
+      "answers": [
+        "Ŝi legas al la infano librojn kaj ekzercas la silabojn",
+        "Ŝi aĉetas novan tabulkomputilon",
+        "Ŝi enskribas la filon al sporto",
+        "Ŝi ŝanĝas lernejon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post unu monato la patrino legas librojn kaj montras silabojn — la knabo komencas legi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras s-ino Anna al la patrino fine?",
+      "answers": [
+        "Ke estis la patrino, kiu instruis la knabon legi",
+        "Ke la aplikaĵo sufiĉas",
+        "Ke la infano ne taŭgas por lernado",
+        "Ke kulpas la lernejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras: „Ne mi. Vi.\""
+    }
+  ]
+}

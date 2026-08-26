@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Ola at the beginning of the story?",
+      "answers": [
+        "28",
+        "38",
+        "48",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says Ola was thirty-eight years old."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ola read in Magdalena Chorzewska's book?",
+      "answers": [
+        "That a first date shows nothing",
+        "That she will be the next one who is bad",
+        "That you should look for the ideal partner",
+        "That dates are a waste of time"
+      ],
+      "correctIndex": 1,
+      "explanation": "She reads the sentence about exes who \"were bad\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Magda compare Ola's behaviour to history?",
+      "answers": [
+        "To the peace after the war",
+        "To the Third Reich, which was afraid of peace",
+        "To diplomacy",
+        "To a marriage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda says every date is a new campaign, and Ola is afraid to stop looking."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomasz say about his ex-partners?",
+      "answers": [
+        "That they were all bad",
+        "That he doesn't get along with one, but has good contact with another",
+        "That he has never had a relationship",
+        "That it was entirely their fault"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz says not all exes are bad — they were bad for each other."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ola write down in the book at the end?",
+      "answers": [
+        "That dates are pointless",
+        "That you should look for a human being, not an ideal",
+        "That Tomasz is perfect",
+        "That therapy doesn't help"
+      ],
+      "correctIndex": 1,
+      "explanation": "The note talks about relationships built after many dates, when you look for a human being, not an ideal."
+    }
+  ]
+}

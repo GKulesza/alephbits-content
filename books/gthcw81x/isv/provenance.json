@@ -1,0 +1,27 @@
+{
+  "packId": "gthcw81x:isv",
+  "bookId": "gthcw81x",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Klasična bajka o treh domkah i zagadkah; konec odkriva, že babka byla Koroleva Větra."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Phase 119 import.",
+  "translationStatus": "machine",
+  "translationSource": "gthcw81x:pl",
+  "translationSourceVersion": "1.0.0"
+}

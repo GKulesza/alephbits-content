@@ -1,0 +1,27 @@
+{
+  "packId": "dgnnqfkp:en",
+  "bookId": "dgnnqfkp",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "English translation of the Polish canonical edition (Collection Three manuscript). Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "RQ-uUuefMDY"
+    }
+  ],
+  "revisionNotes": "Tekst ma charakter doradczy i eseistyczny; niektóre liczby oraz przykłady biznesowe warto ręcznie sprawdzić.",
+  "translationStatus": "machine",
+  "translationSource": "dgnnqfkp:pl",
+  "translationSourceVersion": "1.0.1"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Adam want to talk to Ewa about at the café?",
+      "answers": [
+        "About their son's holidays",
+        "About agreeing on a child support amount without a court",
+        "About getting back together",
+        "About selling the apartment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam opens: \"I wanted to talk about child support... agree on an amount without a court.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What tactic does Ewa use when she says \"You are making a mountain out of a molehill\"?",
+      "answers": [
+        "Answering a question with a question",
+        "Downplaying the topic",
+        "Changing the subject to the holidays",
+        "Turning the accusation around"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is downplaying — \"it is only child support, everyone pays it somehow\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What child support amount does Adam propose at the mediator's?",
+      "answers": [
+        "One thousand zloty",
+        "Twelve hundred zloty plus half of the expenses for school and medical care",
+        "Two thousand five hundred zloty",
+        "Five hundred zloty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam proposes 1,200 zloty a month plus half of the expenses for school and medical care."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam do when Ewa says \"And what exactly do you spend so much on?\"",
+      "answers": [
+        "He leaves the room",
+        "He says they are talking about child support now and can return to the other topic later",
+        "He admits he is at fault",
+        "He shouts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam calmly returns to the topic: \"But right now we are talking about child support.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What amount do they finally agree on?",
+      "answers": [
+        "Twelve hundred zloty",
+        "Fifteen hundred plus half of the expenses for school and medical care",
+        "Two thousand zloty",
+        "Eighteen hundred zloty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam writes: \"We agreed on fifteen hundred plus half of the expenses for school and medical care.\""
+    }
+  ]
+}

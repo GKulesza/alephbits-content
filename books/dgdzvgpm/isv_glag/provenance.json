@@ -1,0 +1,27 @@
+{
+  "packId": "dgdzvgpm:isv_glag",
+  "bookId": "dgdzvgpm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰼⰵⱛⱃⱁⰻⰾⰲⰹⰰⰽⱁⰺⱑ ⰿⱀⰵⰲⰾⰴ ⰿⰾⰻⱁⰺⰾⰹ ⰺⰰⰽⰾⰽⰸⱇⰵⱁⰺⰾⰹ ⱀⰵⰴⰰⰺⱆⰸⰸ (ⰼⰰⰽⱃⱁⱆⱀⰸⰿⱂ Ⱆⰾⰻⰻⰵⱆⱂⰸⰾⰽ Ⱁⰵⰲⰵⰽ). Ⰿⰾⰲⰽⱑ ⱂⰵⰺⱁⱂ ⱁⰾⱅⱀⰰⰽⱑⰽ — ⰱⰵⰷ ⱁⰺⱀⰰⱇⰵⰽⰸⰹ."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Seven manuscript"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 97 ⰸⰼⰿⰾⱀⱂ. Ⱂⰵⰽ ⱁⰰⰼ ⰿⱀⰾwⰰⰴⰷąⱆⱑ ⱆⰾ w „Ⰷⰸⰵⰻⰾⰽⰵⰹ ⰿⰾśwⰸⰰⱆⰸⰵ” — ⱄⰾⱃⰽⰴⰵⱀ ⰴⰵⱆⱑⰴⱃⰹⰵ ⰾ ⱀⰵⰻⰰⱆⰹⰸ ⱁⰵⱀⰸⰸ.",
+  "translationStatus": "machine",
+  "translationSource": "dgdzvgpm:isv",
+  "translationSourceVersion": "1.0.0"
+}

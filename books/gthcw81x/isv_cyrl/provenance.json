@@ -1,0 +1,27 @@
+{
+  "packId": "gthcw81x:isv_cyrl",
+  "bookId": "gthcw81x",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Класична бајка о трех домках и загадках; конец одкрива, же бабка была Королева Вєтра."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "55rrx4XtY8g"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "гтхцw81x:пл",
+  "translationSourceVersion": "1.0.0"
+}

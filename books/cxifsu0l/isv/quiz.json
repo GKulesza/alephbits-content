@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto Zosia studiruje?",
+      "answers": [
+        "Farmakologiju",
+        "Pravo",
+        "Astronomiju",
+        "Istoriju umenja"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ekzamen iz farmakologiji za tri neděli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku metodu upotrebljaje v bibliotekě?",
+      "answers": [
+        "Metodu Pomodoro — 25 minut učenja",
+        "Učenje cělu noč bez preryvov",
+        "Tolko videozapisi",
+        "Grupove onlajn projekty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vključaje tajmer na 25 minut i zapisuje bez telefona."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Krzysztof govorit v audiciji o vzjatiji za dělo?",
+      "answers": [
+        "Že treba čakati na entuziazm",
+        "Že dejstvovanje jest kako svetlo maslo — bez super energii na načale",
+        "Že najlučše ničego ne dělati",
+        "Že tolko polnolune pomagaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Citiruje metaforu svetlovo masla — bez entuziazma na načale."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kakoj rezultat ekzamena polučaje Zosia?",
+      "answers": [
+        "Nesdany",
+        "Zaličeny s ocenoj 4,5",
+        "Ocena 2,0",
+        "Nět rezultata v tekstě"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilog: Zaličeno. Ocena: 4,5."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku pěsnju YUI slušaje v pruběhu učenja?",
+      "answers": [
+        "\"again\"",
+        "\"Rolling Star\"",
+        "Obě — \"again\" pri povorote i \"Rolling Star\" po ekzamenu",
+        "Žadnu"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"again\" pomagaje pri povorote; po ekzamenu vključaje \"Rolling Star\"."
+    }
+  ]
+}

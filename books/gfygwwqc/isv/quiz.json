@@ -1,0 +1,67 @@
+{
+  "title": "Prověr svoje razumjenje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět imaje Ola v načale pověsti?",
+      "answers": [
+        "28",
+        "38",
+        "48",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst govori, že Ola iměla tridcat vosem lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čitaje Ola v knigě Magdaleny Chorzewskej?",
+      "answers": [
+        "Že prěva randevu ničego ne pokazuje",
+        "Že ona bude slědujučaja zla",
+        "Že trěba iskati idealnogo partnera",
+        "Že randevuji sut trata vremeni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona čitaje predloženje o byvših, ktore „byli zli\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "S čim Magda sravniva povedenje Oly v istoriji?",
+      "answers": [
+        "S pokojem po vojnje",
+        "S Tretjim Rajhom, ktory bojal se pokoja",
+        "S diplomatijej",
+        "S brakom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda govori, že vsako randevu jest nova kampanija, a Ola boitsja prěstati iskati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govori Tomasz o svojih byvših partnerkah?",
+      "answers": [
+        "Že vsi byle zly",
+        "Že s jednoj ne dogadivaetsja, a s drugoj imaje dobro kontakt",
+        "Že nikogda ne iměl svęzej",
+        "Že to vyključno ony iměly vinu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz govori, že ne vse byvše sut zly — oni byli zli sebě vzajemno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Ola zapisuje v knigě na koncu?",
+      "answers": [
+        "Že randevuji sut bez smysla",
+        "Že trěba iskati člověka, ne ideal",
+        "Že Tomasz jest idealny",
+        "Že terapija ne pomaga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nota govori o svęzah, ktore se strojat po mnogyh randevah, kogda iščeš člověka, ne ideal."
+    }
+  ]
+}

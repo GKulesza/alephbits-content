@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kakyj problem imajut Magda i Grzesiek?",
+      "answers": [
+        "Unikajut iskrennego razgovora o potrebnostjah",
+        "Magda ne ljubi džaz",
+        "Grzesiek ne kupaje moloko",
+        "Magda ne hočet objati"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oboje reagujut obidoj vměsto togo da by govoriti prjamo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Magda ponjala na sobraniji Kapci?",
+      "answers": [
+        "Že prětendrovala interesy Grześku",
+        "Že imaje čašče kupovati moloko",
+        "Že Grzesiek jestь idealьnyj",
+        "Že džaz jestь lučše, čem pop"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vspomnila, kako prětendrovala interes k progulkam i džazu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako končajetsja povestь?",
+      "answers": [
+        "Načinajut govoriti prjamo o potrebnostjah",
+        "Razhodjatsja",
+        "Grzesiek ujezžaje",
+        "Magda vozvračajetsja k prětendrovaniju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epilog opisyvaje iskrennuju komunikaciju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Grzesiek načinaje dělati po izměniji?",
+      "answers": [
+        "Zapisyvaje prosby Magdy",
+        "Prodaje džazovyje platy",
+        "Pereseľajetsja",
+        "Perestaje slušati muzyku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzesiek zapisyvaje prosby, da by jih ne zabyvati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po čemu Magda prětendrovala interes k džazu?",
+      "answers": [
+        "Bojala se otverženija",
+        "Obožala tot žanr",
+        "Grzesiek togo trěboval",
+        "Hotěla byti muzykantom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prětendrovala iz straha pered otverženijem."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověr svoje razumjenje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět imaje Lena?",
+      "answers": [
+        "Osem",
+        "Desęt",
+        "Dvanadcat",
+        "Sedm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Lena iměla desęt lět\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto otvara drveri do začarovanoj zemji?",
+      "answers": [
+        "Srebrny ključ",
+        "Zlaty žeton",
+        "Mapa",
+        "Pěsň bez ključa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babka vyvlekaje srebrny ključ iz kačmena fartuka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto okazuje se babka Rózia na koncu?",
+      "answers": [
+        "Koroleva Větra",
+        "Koroleva Doždja",
+        "Teta Stella",
+        "Sněžinka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ona govori: „Někogda ja byla Koroleva Větra\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku pěsň pěvaje Lena, da by otvoriti drveri?",
+      "answers": [
+        "Kap, kap, kap, otvori prosim drveri…",
+        "Doždje, splyni na tu zemju",
+        "Kukuryku",
+        "Muuu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Babka uči pěsni, ktora začinaje od „Kap, kap, kap…\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dělaje Lena, da by spasiti sukňu Korolevy Kropei?",
+      "answers": [
+        "Igrate na fleutě",
+        "Tancuje",
+        "Pěvaje o doždje",
+        "Polivaje cvěty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lena igra melodiju na fleutě, da by razmoroziti sukňu iz kaplečok."
+    }
+  ]
+}

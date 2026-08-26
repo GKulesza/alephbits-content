@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Krzysztof prezentas la programon malsame en la plenluna nokto?",
+      "answers": [
+        "Ĉar tiam li havas plej multajn aŭskultantojn en la radio",
+        "Ĉar en la plenluno «alfluas» al li sentoj pri la estonteco",
+        "Ĉar tiam li registras reklamojn",
+        "Ĉar la plenluno malŝaltas la interreton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras, ke en la plenluno li havas malstriktajn sentojn pri la estonteco kaj ke estas domaĝe ne utiligi ilin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Anna en la rakonto?",
+      "answers": [
+        "Radio-produktistino",
+        "La edzino de Krzysztof, kuracistino kaj raciistino",
+        "Aŭskultantino el Irano",
+        "Studentino pri astrologio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna eniras en banrobo, ŝi estas kuracistino kaj pridubas la influon de la luno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Krzysztof diras pri Irano en la evoluo de la programo?",
+      "answers": [
+        "Ke Irano komplete kapitulacos sen batalo",
+        "Ke en junio komenciĝos okazaj atakoj kaj la «nigra tukego» falas super Iranon",
+        "Ke Irano malaperos de la mapo en unu semajno",
+        "Ke Irano transprenos la Eŭropan Union"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li antaŭdiras okazajn atakojn en junio kaj la metaforon de la nigra tukego super Irano."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas en Eŭropo en la epilogo, laŭ la rakonto?",
+      "answers": [
+        "Plena foresto de varmegoj",
+        "Varmegoj, centro de Ebola en Italio, pli multekosta manĝaĵo kaj nova imposto de EU",
+        "Malapero de ĉiuj impostoj",
+        "La fino de la programo de Krzysztof por ĉiam"
+      ],
+      "correctIndex": 1,
+      "explanation": "La epilogo listigas varmegojn, centron en Italio, multekostiĝon kaj infrastrukturan imposton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la anonima letero en januaro 2027?",
+      "answers": [
+        "Ke la programo estis malpermesita per leĝo",
+        "Ke danke al la avertoj li sukcesis forveturi el Irano kaj vivas",
+        "Ke Krzysztof devus gajni la Nobel-premion",
+        "Ke la plenluno estas mito"
+      ],
+      "correctIndex": 1,
+      "explanation": "La letero dankas pro la avertoj kaj pro la foriro el Irano antaŭ la katastrofo."
+    }
+  ]
+}

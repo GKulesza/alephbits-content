@@ -1,0 +1,27 @@
+{
+  "packId": "omjbcp4e:isv_glag",
+  "bookId": "omjbcp4e",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⱄⰸⰺⱆⰸⰹⰰ ⰾ ⱂⰵⱅⰽⰸⰺⰰⱅ ⰼⰰⰽⰸⰿⱃⰻⰰⱆⰸⰹⰸ ⰲ ⱀⰰⰷⰳⰾⰲⰾⱀⱑ; ⱇⰰⱁ ⱁⰵⱀⰸⰹⰸ Ⰺⰰⰼⰼⰵⰻ — ⰺⰾⰼⱃⰽⰸⰺⰰⱆⰸⰹⰰ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "ZnTFuX--Uxc"
+    }
+  ],
+  "revisionNotes": "Ⰿⱅⰰⱁⰵ 119 ⰸⰼⰿⰾⱀⱂ.",
+  "translationStatus": "machine",
+  "translationSource": "omjbcp4e:isv",
+  "translationSourceVersion": "1.0.0"
+}

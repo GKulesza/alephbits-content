@@ -1,0 +1,27 @@
+{
+  "packId": "dgdzvgpm:es",
+  "bookId": "dgdzvgpm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Traducción al español de la edición canónica polaca (manuscrito de Collection Seven). Texto completo conservado — sin abreviar."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Seven manuscript"
+    }
+  ],
+  "revisionNotes": "Phase 97 import. Ten sam prowadzący co w „Zielonej poświacie” — founder decyduje o relacji serii.",
+  "translationStatus": "machine",
+  "translationSource": "dgdzvgpm:pl",
+  "translationSourceVersion": "1.0.0"
+}

@@ -1,0 +1,395 @@
+# Betonnyj dom
+
+## Metadata
+
+**Pack ID:** ak1vrjnv
+**Book ID:** ak1vrjnv
+**Legacy Pack ID:** polish_betonowy_dom
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** Betonnyj dom  
+**Subtitle:** Relacijne igry i betonnyje stěny  
+**Blurb:** Anna vodi seminare o otnošenjah, a v svojem vlastnom brake igraje v skrytyje igry: „mam tebe", „musim byti chrabra", „kaby ne ty". Povest o betonnom dome, kotoryj branil jeje od boli, i o Pavle, kotoryj čekal, až ona vyjde.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Seven  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Betonowy dom" — oficialnoje izdanje Collection Seven.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** gry relacyjne, małżeństwo, trauma, Collection Seven  
+
+**Keywords:** betonnyj dom, relacijne igry, Anna, Pavel, otec  
+
+**Cover family:** psychology
+
+**Editorial notes:** Fikcija o psihologičnyh igrah v brake; temy domovogo nasilija v prošlosti — čuvstvitelno, fiction framing.
+
+**Inspiration:** Motiv „Zatvorěni v relacijnyh igrah"; seminare o granicah.
+
+**Translation status:** machine  
+**Translation source:** ak1vrjnv:pl  
+**Translation source version:** 1.1.0  
+
+---
+
+**World:**
+- places: home, shop
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 19.05.2026 -> https://www.youtube.com/watch?v=W80HZGHQpqc  
+**Revision notes:** Phase 102 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question wording |
+| 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 102 import; philosophy fit 4/5 — Mocna metafora o obronie i bliskości; wymaga fiction disclaimera przy temacie przemocy. |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=W80HZGHQpqc  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-05-19  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**BETONNYJ DOM**
+
+## I. NAČALO
+
+Anna vratila se domoj o 21:47. Seminar protjažil se o čas, kako vsegda. Ljudje ne hotěli vychoditi, zadavali voprosy, kotoryje zadavali na každom seminare: "Ale kako ja iměju to sdelati? Gde najti vremja dlja sebě? Čto on meně ne razuměje?"
+
+Otvěčala trpělivo, s usměhom, kotoryj stoil jeje bolěje energii, čem kto-koli mog by domysljati. Byla ekspertom od otnošenij. Psihologom. Avtorom knig o granicah, ljubvi, psihologičnyh igrah. Znala, čto govoriti, kako govoriti, kogda govoriti.
+
+Znala vse o brakah.
+
+I imenno dlja togo jeje vlastnyj brak byl ruinom, ktorogo ne uměla popraviti.
+
+V perednej snimala buty i uslyšala iz kuhni tihoje šipenje. Pavel smažil něčto na skovorodě. Pachalo česnokom i timjanom. Ljubimyj plad jeje mati, kotorogo ne jela od let, odkda mati perestala k nim prihoditi.
+
+— Zdravo — rekl on, ne povoračivajuči se. — Myslil, že vratiš se raněje. Sdelal tvoj ljubimyj...
+
+— Ne bylo treba — prervala jego. — Govorila, že ne znaju, kogda se vratim.
+
+Pavel konecno povoračil se. V ruce deržal derevjanuju ložku i usměh, kotoryj byl bolěje voprosom čem otvětom.
+
+— Hotěl.
+
+Anna počutila, že něčto v niej pukaje. Ne v zlom smysle — v smysle, ktorogo ne uměla imenovati. Gde-to vnutri, v jeje betonnom dome, pojavila se mala ščelina.
+
+Sela pri stole, oprla golovu na ruki i rekla:
+
+— Dnes na seminarě my govorili o igrah. Ta žena rasskazovala o svojem muže... že on vsegda hočet jej pomagati, a ona čuje, že to ne ljubov, a... spasanije. Že on spasaje, bo boi se, že bez togo ne bude ljubim.
+
+Pavel postavil pred njeju taler. Makaron s sosom, drobno porezana bazilika. Zapah, kotoryj pomnila iz detstva, od pered togo časa, kogda mati perestala variti.
+
+— A ty misliš, že tak jest? — voprosil tiho. — Že ja tebe spasaju?
+
+Anna podnela vzglad. Črez chvilju gledela na jego ruki. Ruki, kotoryje vsegda byli gotovy pomagati. Obnimati. Podavati ruku, kogda upadala.
+
+Ruki, kotoryje jeje nikogda ne vredili.
+
+A odnako, kogda gledela na nich, viděla inyje ruki. Tverdyje, narabotanyje, kotoryje bili i rvali. Ruki otca.
+
+— Ja ne znaju — rekla tiho. — Zdaje se, ne znaju, kako prinjati pomoč.
+
+---
+## II. RAZVITJE
+
+Nastupajuščim utrom Anna prosnula se o 5:47, prěždě čem pozvoni budilnik. Pavel spal rjadom s njeju, dyhaja rovno, spokojno. Gledela na nego črez chvilju — na jego lico, kotoroje nočju zdavalos mladšym, kako by vsjednevnyje zaboty odplyvali so soznanjem.
+
+Vspomnila, čto rekla včera na seminarě, kogda jedna iz učastnic voprosila o dověrjenosti:
+
+_"Ježeli ja imaju v sebě uvěrenje, že jestěm nedostatočna, to ja tebě nikogda v žizni ne skažu, čego ja trebuju."_
+
+Vstala tiho, nalila sebě kavu i sela v saloně s laptopom. Otvorila fajl, nad kotorym rabotala od měsecev — knigu o relacijnyh igrah, ktoroj titul byl "Zatvorěni v relacijnyh igrah".
+
+Na ekraně stojal poslědnij abzac, kotoryj napisala včera prěždě seminarom:
+
+_"Igra „mam tebe" na tom stoji, že jedin čelověk išče dokazy na to, že drugoj jest nedostatočnyj. To je mehanizm zaščity, kotoryj brani od blizkosti — bo ježeli ja zlovlju tebe na promaške, to ne iměju bojati se, že ty prvyj mene otveržeš."_
+
+Pročitala to tri razy. Potom zatvorila laptop i gledela v okno. Na dvorě šel dožd, a ona myslila o tom, kolko raz v poslědnjem godu zlovila Pavla na promaške. Kolko raz dokazala jemu, že ne jest dostatočno dobyj. Kolko raz govorila:
+
+— Znovu zabyvaješ. Znovu opozdnil se. Znovu ne sdelal to, čto ja govorila.
+
+I každyj raz, kogda on prosil proščenja, čutila strannu satysfakciju. Ne zlu — bolěje kako by dokazovala sebě, že ne dolžna na njem polagati se. Že lučše račyti na sebě.
+
+_"Umeješ račyti, dite, to račaj na sebě" — slyšala glas mati.
+
+Vratila se v spalnju. Pavel ješče spal. Sela na kraj loža i položila dlan na jego plečo.
+
+— Pavel — šepnula. — My imajemo pogovoriti.
+
+Otvori oči. V jego vzgladě viděla to samoe, čto vsegda — gotovnost. Byl gotov na vse. Na jeje gněv, jeje smutok, jeje molčanije. Byl gotov prinjati, razuměti, prostyti.
+
+I imenno to bylo najgorše. Že on vsegda byl gotov.
+
+— O čem? — voprosil, protirajuči oči.
+
+— O tom, že... — prervala. V jeje golově pojavilo se vospominanje iz včerašnjego seminara, kogda jedna iz učastnic rasskazovala o svojej terapiji. O tom, kako odkryla, že cělu žizn igrala v igru „kaby ne ty". Že obvinjala drugih, bo bojala se gledeti v zerkalo.
+
+— O tom, že ja igrala v igru — rekla konecno. — Cělyj čas. S toboj. S mojeju matju. So vsemi.
+
+Pavel sědl na ložu. Črez chvilju gledel na njeje v molčaniji, a potom voprosil:
+
+— V kaku igru?
+
+Anna vzela glubokij dyh.
+
+— V „mam tebe". I v „musim byti chrabra". I v „kaby ne ty". Vse odinovo.
+
+---
+## III. PUNKT POVOROTA
+
+Seděli v kuhnje za zavtrakom, kakoj nikto ne jel. Pred nimi prostydala kava, a dožd za oknom perestal, ustupajuči město seromu, nepodvižnomu nebu.
+
+— Rasskaži mi o tvojem otcě — rekl Pavel.
+
+Anna zamela. To byl vopros, kotorogo izbegala od petnadset let. Odkda poznala Pavla, od pervyh svidanij, kogda govorila, že otec ne živ, hot znala, že živ — gde-to tam, v drugom městě, s drugoju semjeju.
+
+— Ne hoču.
+
+— Znaju. — Pavel vzal jeje dlan. — Ale ježeli hočeš perestati igrati, musiš viděti, odkuda vzely se ty karty.
+
+Anna počutila, že hočet plakati. Črez toliko let pritvorjala se, že jest silna. Že ne trebuje nikogo. Že sebě poradit. A teper etot čelověk, kotoryj vsegda byl rjadom, kotoryj nikogda ne odhodil, prosil jeje, da by otvorila dveri do komnaty, v ktoroj zatvorila svoju prošlost.
+
+— Iměl tverdyje ruki — rekla tiho. — Rabotal v fabrikě. Prinosil domoj zapah metala i smazki. I někogda... — prervala, stisnula usta. — Někogda ty ruki bili.
+
+Pavel ne vypustil jeje dlan.
+
+— I čto togda činila?
+
+— Chovala se. Pod ložom. V škafě. Gde koli. I govorila sebě, že kogda vyrostu, budu silnějša. Že nikto nikogda mene ne vredje. Že ne budu trebovati nikogo, bo ježeli kogo trebuju, to davaju jemu vlast nad soboju.
+
+— I dlja togo nikogda ne prosiš mene o pomoči.
+
+— Da.
+
+Anna gledela na svoje ruki, kotoryje ležali na stole. Ruki, kotorymi pisala knigy, vela seminare, pomagala drugym. Ale nikogda ne protjanula ih za pomočju.
+
+— Vspomnila něčto, čto ty někogda rekla na seminarě — rekl Pavel. — Govorila, že děti igrajut v igry, bo ne znajut, kako inače zdobyvati pozornost. Že ježeli ne polučajut ljubov, to probujut zdobyvati hots pozornost. Daže negativnu.
+
+— Da, to pravda.
+
+— A ty, Anna? Kaku pozornost probuješ zdobyvati?
+
+Anna molčala dolgu chvilju. A potom, pervyj raz od let, rekla něčto, čto nikogda nikomu ne priznala:
+
+— Že ja ne jestěm moja mati. Že ne jestěm žena, ktora daje se biti, ktora znosi, ktora molči. Že jestěm silnějša. Že ja sebě poradžu.
+
+Pavel vstal i pristupil k njej. Sědl na krěslo rjadom, ne vypuskajuči jeje dlan.
+
+— Ale ty ne imaješ byti silnějša — rekl tiho. — Vystačit, že budeš soboju. I že daš mně se ljubiti.
+
+Anna počutila, že něčto v niej pukaje. Betonnyj dom, kotoryj budovala cělu žizn, načal se rušiti. I pervyj raz ne hotěla jego spasati.
+
+---
+## IV. KONEC
+
+Měsjac pozdněje Anna vratila se na to samoe město — do svojej kuhni, za toj samyj stol. Ale etot raz něčto bylo inoje. Pavel stojal pri pečke, smaža makaron s česnokom i timjanom. Ona seděla za stolom s bloknotom, v ktorom zapisovala svoje mysli.
+
+— Znaješ, čto ja odkryla? — voprosila.
+
+— Čto?
+
+— Že cělu žizn bojala se, že ježeli perestanu byti silna, to nikto mene ne izbere. Že ježeli pokažu slabost, to ostanu sama. A tym časom... — prervala, gledeći na nego. — Tym časom ty ostal, hot ja byla slaba. Hot igrala v ty hlupyje igry. Hot často tebe ranila.
+
+Pavel postavil pred njeju taler.
+
+— Znal, že to ne ty. To tvoj monstr.
+
+Anna usměhnula se. Pervyj raz od davna čutila, že možet dyhati.
+
+— Děkuju, že ne ubežal.
+
+— Ne bylo gde uběžati — otvětil. — Tvoji stěny byli sliškom vysoke. Ale znal, že kogda se za nimi schovaješ, to konecno vyjdeš.
+
+Vzela jego dlan i priložila jeje k svojemu licu. Dlan, ktora nikogda jeje ne vredila. Dlan, ktora byla gotova pomagati, ale ne spasati.
+
+— Pavel — rekla. — Prošu proščenja. I děkuju.
+
+— Za čto?
+
+— Za to, že čekal. I že videl mene, daže kogda ja sebě ne viděla.
+
+Sědl rjadom s njeju. Dožd za oknom načal znovu padati, ale etot raz byl inyj — lěgčejšij, kako by čistil vozduh.
+
+I togda Anna razuměla, že vyšla iz igry.
+
+Ne potomu, že vyigrala. Ale potomu, že perestala v njeje igrati.
+
+---
+## V. EPILOG
+
+Neskolko neděl pozdněje Anna vela seminare dlja žen, kotoryje čutili se tak samy zagubleny kako i ona. Rasskazovala im o betonnom dome, kotoryj zbudovala vokrug sebě. O tom, že cělu žizn myslila, že musi byti tverda, da by perežiti. A potom odkryla, že pravdivejša sila — to ne tverdost. To je uměnje otvoriti se na drugogo čelověka.
+
+Na jedinom seminare žena podnela ruku i voprosila:
+
+— Ale kako iměju se otvoriti, kogda cělu žizn mene zavodili? Kako iměju vjeriti, že etot raz bude inače?
+
+Anna gledela na svoje ruki. Ruki, kotoryje někogda byli pestami. Ruki, kotoryje teper byli otvorene.
+
+— Ne imaješ vjeriti — otvětila. — Imaš tolko probovati. I pozvoliti, da by kto-to pomogl tebě rozkrušiti tot beton. Kusok po kuskě.
+
+Po seminarě vratila se domoj. Pavel čekal njeje s večereju — znovu makaron s česnokom i timjanom. I znovu zapah, kotoryj napominal jej o detstvě.
+
+Ale etot raz uže ne čutila smutku.
+
+Čutila tolko blagodarnost.
+
+Pristupila k njemu, vzela jego ruki v svoje i rekla:
+
+— Děkuju, že jest.
+
+A on otvětil:
+
+— Děkuju, že vratila se.
+
+I togda razuměla, že vyšla iz igry.
+
+Ne potomu, že vyigrala. Ale potomu, že perestala v njeje igrati.
+
+---
+**KONEC**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověrte svoje razuměnje
+
+### Question 1
+
+**Question:** Kto jest Anna po profesiji?
+
+**Answers:**
+- A) Lekarka
+- B) Psiholožka i avtorka knig o otnošenjah
+- C) Učitelka
+- D) Žurnalistka
+
+**Correct:** B
+**Explanation:** Anna jest ekspert od otnošenij, psiholožka i avtorka.
+**Text reference:** ekspert od otnošenij
+
+### Question 2
+
+**Question:** Kakyje tri relacijne igry Anna imenuje v razgovorě s Pavlom?
+
+**Answers:**
+- A) Šahy, poker i ruletka
+- B) „Mam tebe", „musim byti chrabra" i „kaby ne ty"
+- C) Molčanije, lža i uběženje
+- D) Konkurencija, zavist i kontrola
+
+**Correct:** B
+**Explanation:** Anna govori prjamo o tych treh igrah.
+**Text reference:** mam tebe
+
+### Question 3
+
+**Question:** Čto Anna vspominaje o svojem otcě?
+
+**Answers:**
+- A) Byl lekarom
+- B) Iměl tverdyje ruki i někogda bil
+- C) Odošel, kogda byla mala
+- D) Nikogda jeje ne vredil
+
+**Correct:** B
+**Explanation:** Rasskazaje o tverdoj rabotě otca i o nasiliji.
+**Text reference:** ty ruki bili
+
+### Question 4
+
+**Question:** Čto Pavel govori o „monstrě" Anny?
+
+**Answers:**
+- A) Že jego ne znajet
+- B) Že znajet, že to ne ona — to jeje monstr
+- C) Že musi oditi
+- D) Že Anna jest vinovata
+
+**Correct:** B
+**Explanation:** Pavel govori: „Znal, že to ne ty. To tvoj monstr."
+**Text reference:** tvoj monstr
+
+### Question 5
+
+**Question:** Kako Anna konča povest o igrě?
+
+**Answers:**
+- A) Že vyigrala
+- B) Že vyšla iz igry, bo perestala v njeje igrati
+- C) Že Pavel odošel
+- D) Že zatvorila seminare
+
+**Correct:** B
+**Explanation:** Razuměla, že ne vyigrala — perestala igrati.
+**Text reference:** perestala v njeje igrati
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

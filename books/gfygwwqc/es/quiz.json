@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Ola al principio de la historia?",
+      "answers": [
+        "28",
+        "38",
+        "48",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice que Ola tenía treinta y ocho años."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lee Ola en el libro de Magdalena Chorzewska?",
+      "answers": [
+        "Que la primera cita no muestra nada",
+        "Que ella será la siguiente que será mala",
+        "Que hay que buscar la pareja ideal",
+        "Que las citas son una pérdida de tiempo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lee la frase sobre las ex que «fueron malas»."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Con qué compara Magda el comportamiento de Ola en la historia?",
+      "answers": [
+        "Con la paz tras la guerra",
+        "Con el Tercer Reich, que temía a la paz",
+        "Con la diplomacia",
+        "Con el matrimonio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda dice que cada cita es una nueva campaña y que Ola teme dejar de buscar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Tomasz sobre sus exparejas?",
+      "answers": [
+        "Que todas eran malas",
+        "Que con una no se lleva bien, pero con otra tiene buen contacto",
+        "Que nunca ha tenido relaciones",
+        "Que la culpa era exclusivamente de ellas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz dice que no todos los ex son malos: fueron malos el uno para el otro."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Ola en el libro al final?",
+      "answers": [
+        "Que las citas no tienen sentido",
+        "Que hay que buscar a una persona, no un ideal",
+        "Que Tomasz es perfecto",
+        "Que la terapia no ayuda"
+      ],
+      "correctIndex": 1,
+      "explanation": "La nota habla de relaciones construidas tras muchas citas, cuando buscas a una persona, no un ideal."
+    }
+  ]
+}

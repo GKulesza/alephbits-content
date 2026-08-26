@@ -1,0 +1,67 @@
+{
+  "title": "Prověrte svoje razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto Marek nahodi v podvale?",
+      "answers": [
+        "Zlato",
+        "Koročku so starymi listami po poljsku i po ukrajinsku",
+        "Oružje",
+        "Fotografiji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koročka so sotnjami listov v dvoh jazykah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Komu je adresovan prvyj list iz 1943 goda?",
+      "answers": [
+        "Marku",
+        "\"Drogomu Janku\"",
+        "Dědu",
+        "Žołnjerom"
+      ],
+      "correctIndex": 1,
+      "explanation": "List načinajetsja: \"Janku...\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto okazyvajetsja avtorom lista po slovam Ołeksandra?",
+      "answers": [
+        "Polak",
+        "Ukrajinskij děd Ołeksandra, včleněnnyj v UPA",
+        "Němec",
+        "Žołnjer Krajove armiji (AK)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ołeksandr govorit: to byl moj děd Ivan."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Marek piše v načale svojego teksta?",
+      "answers": [
+        "Že treba zabyvati",
+        "\"Nět ničego goršego, čem žertvy, ktoryje usilujut se izbirati svojih sobstvenyh palačov.\"",
+        "Že vinniki sut vsě",
+        "Že istorija je prostaja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Citiruje predloženije o žertvah, ktoryje izbiraju palačov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Marek piše v koncu o pamęti Volyni?",
+      "answers": [
+        "Že imějet razděliti",
+        "Že pamęt imějet sъjediniti, ne razděliti — kako by razuměti",
+        "Že treba molčati",
+        "Že stradajut tolko Polaki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Končuje: pamęt imějet nas sъjediniti, ne razděliti."
+    }
+  ]
+}
