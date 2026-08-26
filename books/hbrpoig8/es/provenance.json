@@ -1,0 +1,24 @@
+{
+  "packId": "hbrpoig8:es",
+  "bookId": "hbrpoig8",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Artykuł edukacyjny; cytuje badania Landa i dane o samobójstwach — nie zastępuje porady pedagogicznej."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "IDOQSP5kG3A"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

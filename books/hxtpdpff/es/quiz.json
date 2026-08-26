@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué salta del aparador cuando Zosia lo abre?",
+      "answers": [
+        "Un ratón blanco",
+        "Un gato",
+        "Una mariposa",
+        "Una araña"
+      ],
+      "correctIndex": 0,
+      "explanation": "Del aparador salta un ratón blanco."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué promete darle la abuela a Zosia cuando deje de ser tan curiosa?",
+      "answers": [
+        "Los juguetes del aparador",
+        "Caballos",
+        "Un teléfono",
+        "Dinero"
+      ],
+      "correctIndex": 0,
+      "explanation": "En el aparador hay una muñeca, un payasito, un cochecito y una pelota."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué nueva pasión descubre Zosia?",
+      "answers": [
+        "Secar flores y plantas",
+        "Jugar a la pelota",
+        "Cocinar",
+        "Bailar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Empieza a secar flores y a hacer regalos con ellas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué agarra a Zosia del dedo en la cesta?",
+      "answers": [
+        "Un cangrejo de río",
+        "Un cangrejo de mar",
+        "Un pez",
+        "Una rana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un cangrejo de río escondido en la cesta le agarra el dedo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión saca la abuela en su carta?",
+      "answers": [
+        "La curiosidad es buena cuando no rompe promesas ni hace daño",
+        "La curiosidad es siempre mala",
+        "Nunca hay que tocar nada",
+        "Los juguetes son lo más importante"
+      ],
+      "correctIndex": 0,
+      "explanation": "La abuela escribe que la curiosidad es buena cuando no hace daño ni rompe promesas."
+    }
+  ]
+}

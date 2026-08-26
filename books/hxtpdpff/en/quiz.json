@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What jumps out of the cupboard when Zosia opens it?",
+      "answers": [
+        "A white mouse",
+        "A cat",
+        "A butterfly",
+        "A spider"
+      ],
+      "correctIndex": 0,
+      "explanation": "A white mouse jumps out of the cupboard."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Grandma promise to give Zosia when she stops being too curious?",
+      "answers": [
+        "The toys from the cupboard",
+        "Horses",
+        "A phone",
+        "Money"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the cupboard stand a doll, a jumping jack, a pram and a ball."
+    },
+    {
+      "type": "single_choice",
+      "question": "What new passion does Zosia discover?",
+      "answers": [
+        "Drying flowers and plants",
+        "Playing ball",
+        "Cooking",
+        "Dancing"
+      ],
+      "correctIndex": 0,
+      "explanation": "She starts drying flowers and making presents from them."
+    },
+    {
+      "type": "single_choice",
+      "question": "What grabs Zosia's finger in the basket?",
+      "answers": [
+        "A crayfish",
+        "A crab",
+        "A fish",
+        "A frog"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crayfish hidden in the basket grabs her finger."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does Grandma draw in her letter?",
+      "answers": [
+        "Curiosity is good when it doesn't break promises and doesn't hurt",
+        "Curiosity is always bad",
+        "You must never touch anything",
+        "Toys are the most important thing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grandma writes that curiosity is good when it doesn't hurt and doesn't break promises."
+    }
+  ]
+}

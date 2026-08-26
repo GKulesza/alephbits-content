@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does the protagonist discuss with the chairwoman in Brussels?",
+      "answers": [
+        "A holiday in the Alps",
+        "His falling ratings and a possible emergency exit",
+        "An education reform",
+        "A football match"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chairwoman talks about the complicating situation in Poland and asks whether he needs protection or a position."
+    },
+    {
+      "type": "single_choice",
+      "question": "What scandal appears on television in the protagonist's office?",
+      "answers": [
+        "The Southern Hospital scandal with fake shifts",
+        "A queue scandal at the tax office",
+        "A dispute over the national stadium",
+        "A conflict at a music school"
+      ],
+      "correctIndex": 0,
+      "explanation": "The news is showing the Southern Hospital scandal and doctors' contracts."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the protagonist describe Brussels after the meeting?",
+      "answers": [
+        "As a city without rules",
+        "As a mother giving security only to the obedient",
+        "As a paradise for artists",
+        "As a place without politics"
+      ],
+      "correctIndex": 1,
+      "explanation": "He tells his advisor that Brussels is like a mother: it gives security when you are obedient."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the protagonist consider his last resort?",
+      "answers": [
+        "A letter from the voters",
+        "The Brussels card",
+        "A radio interview",
+        "A holiday by the sea"
+      ],
+      "correctIndex": 1,
+      "explanation": "The advisor speaks of playing the Brussels card, and the protagonist knows it is his last resort."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomek conclude at the end of the story?",
+      "answers": [
+        "That politicians are the most important",
+        "That what matters is the safety of his family, and the rest is theatre",
+        "That he should become a journalist",
+        "That Brussels has rejected him forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection says he needs to know his family is safe, and the rest is theatre."
+    }
+  ]
+}

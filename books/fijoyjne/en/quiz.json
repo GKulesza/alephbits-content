@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Żuk explain the difference between a soldier and an operator?",
+      "answers": [
+        "It's practically the same thing",
+        "They are completely different professions",
+        "Operators don't use weapons",
+        "Soldiers don't train"
+      ],
+      "correctIndex": 0,
+      "explanation": "Żuk says it's really the same thing."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does the conversation take place?",
+      "answers": [
+        "In the studio of the \"Bez Sekretów\" podcast",
+        "On a training ground",
+        "In a courtroom",
+        "On television"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piotr and Marcin talk in a podcast studio."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the text suggest about the BOR unit?",
+      "answers": [
+        "There are subjects that can't be talked about",
+        "Everything can be told publicly",
+        "BOR doesn't exist",
+        "Everyone wants to give interviews"
+      ],
+      "correctIndex": 0,
+      "explanation": "Already in the subtitle there is a sentence about things that can't be talked about."
+    },
+    {
+      "type": "single_choice",
+      "question": "What are the names of the people talking in the podcast?",
+      "answers": [
+        "Piotr and Marcin",
+        "Adam and Jan",
+        "Marek and Tomek",
+        "Kasia and Ania"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the studio talk the host Piotr and the guest Marcin \"Żuk\" Kowalczyk."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is the conversation mainly about?",
+      "answers": [
+        "The operator Żuk from BOR",
+        "The president",
+        "A doctor",
+        "A teacher"
+      ],
+      "correctIndex": 0,
+      "explanation": "The guest is the operator Żuk."
+    }
+  ]
+}

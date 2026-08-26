@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What percentage of five-year-olds show creativity at the level of genius according to Land's research?",
+      "answers": [
+        "30%",
+        "98%",
+        "12%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz quotes: among five-year-olds as many as 98% are at the level of creativity genius."
+    },
+    {
+      "type": "single_choice",
+      "question": "What percentage of adults over 25 retain that creativity?",
+      "answers": [
+        "12%",
+        "30%",
+        "2%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Among adults over 25 only about 2% remain — the system \"kills\" the rest."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Tomasz watch six five-year-olds playing in a playhouse?",
+      "answers": [
+        "In Warsaw",
+        "In a kindergarten in Kopytkowo, Podlasie",
+        "In Kraków",
+        "In Gdańsk"
+      ],
+      "correctIndex": 1,
+      "explanation": "He stands in front of a kindergarten in Kopytkowo, somewhere in Podlasie."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Tomasz teach the children the days of the week in Kopytkowo?",
+      "answers": [
+        "Through a photocopy and a test",
+        "Through movement — the children pass the days of the week to each other",
+        "Only through a YouTube song",
+        "Through punishment for mistakes"
+      ],
+      "correctIndex": 1,
+      "explanation": "He puts seven in the middle — each says a day of the week, walking and cooperating."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the teacher in Kopytkowo tell Tomasz about the system?",
+      "answers": [
+        "That the headmaster praises him",
+        "That it makes sense, but the system won't allow it",
+        "That the parents are protesting",
+        "That they'll change the curriculum tomorrow"
+      ],
+      "correctIndex": 1,
+      "explanation": "The teacher says: \"The system won't let me. I have a curriculum, tests, grades.\""
+    }
+  ]
+}

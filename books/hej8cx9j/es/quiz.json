@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De qué habla el protagonista con la presidenta en Bruselas?",
+      "answers": [
+        "De unas vacaciones en los Alpes",
+        "De la caída de sus índices de aprobación y de una posible salida de emergencia",
+        "De una reforma educativa",
+        "De un partido de fútbol"
+      ],
+      "correctIndex": 1,
+      "explanation": "La presidenta habla de la complicada situación en Polonia y pregunta si necesita protección o un puesto."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escándalo aparece en la televisión en el despacho del protagonista?",
+      "answers": [
+        "El escándalo del Hospital del Sur con turnos falsos",
+        "Un escándalo de colas en la oficina de impuestos",
+        "Una disputa por el estadio nacional",
+        "Un conflicto en una escuela de música"
+      ],
+      "correctIndex": 0,
+      "explanation": "En las noticias sale el escándalo del Hospital del Sur y los contratos de los médicos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe el protagonista a Bruselas tras la reunión?",
+      "answers": [
+        "Como una ciudad sin reglas",
+        "Como una madre que da seguridad solo a los obedientes",
+        "Como un paraíso para artistas",
+        "Como un lugar sin política"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le dice a su asesor que Bruselas es como una madre: da seguridad cuando eres obediente."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué considera el protagonista su último recurso?",
+      "answers": [
+        "Una carta de los votantes",
+        "La carta de Bruselas",
+        "Una entrevista en la radio",
+        "Unas vacaciones en la costa"
+      ],
+      "correctIndex": 1,
+      "explanation": "El asesor habla de jugar la carta de Bruselas, y el protagonista sabe que es su último recurso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué conclusión llega Tomek al final de la historia?",
+      "answers": [
+        "Que los políticos son lo más importante",
+        "Que lo que importa es la seguridad de su familia, y el resto es teatro",
+        "Que debería hacerse periodista",
+        "Que Bruselas lo ha rechazado para siempre"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice que necesita saber que su familia está a salvo, y el resto es teatro."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo explica Żuk la diferencia entre soldado y operador?",
+      "answers": [
+        "Es prácticamente lo mismo",
+        "Son profesiones completamente distintas",
+        "Los operadores no usan armas",
+        "Los soldados no entrenan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Żuk dice que en realidad es lo mismo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde tiene lugar la conversación?",
+      "answers": [
+        "En el estudio del pódcast «Bez Sekretów»",
+        "En un campo de entrenamiento",
+        "En una sala de juicios",
+        "En televisión"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piotr y Marcin conversan en el estudio de un pódcast."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué sugiere el texto sobre la unidad BOR?",
+      "answers": [
+        "Hay temas de los que no se puede hablar",
+        "Todo puede contarse públicamente",
+        "El BOR no existe",
+        "Todos quieren dar entrevistas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ya en el subtítulo aparece la frase sobre las cosas de las que no se puede hablar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llaman los interlocutores del pódcast?",
+      "answers": [
+        "Piotr y Marcin",
+        "Adam y Jan",
+        "Marek y Tomek",
+        "Kasia y Ania"
+      ],
+      "correctIndex": 0,
+      "explanation": "En el estudio conversan el presentador Piotr y el invitado Marcin «Żuk» Kowalczyk."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De quién trata principalmente la conversación?",
+      "answers": [
+        "Del operador Żuk, del BOR",
+        "Del presidente",
+        "De un médico",
+        "De un profesor"
+      ],
+      "correctIndex": 0,
+      "explanation": "El invitado es el operador Żuk."
+    }
+  ]
+}

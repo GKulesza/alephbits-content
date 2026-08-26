@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué porcentaje de niños de cinco años muestra una creatividad de nivel genial según las investigaciones de Land?",
+      "answers": [
+        "30%",
+        "98%",
+        "12%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz cita: entre los niños de cinco años, hasta un 98% está a nivel de genio de la creatividad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué porcentaje de adultos mayores de 25 años conserva esa creatividad?",
+      "answers": [
+        "12%",
+        "30%",
+        "2%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Entre los adultos mayores de 25 años queda alrededor del 2%: el resto lo «mata» el sistema."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde observa Tomasz a seis niños de cinco años jugando en una casita?",
+      "answers": [
+        "En Varsovia",
+        "En una guardería de Kopytkowo, en Podlaquia",
+        "En Cracovia",
+        "En Gdansk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Se detiene delante de una guardería de Kopytkowo, en algún lugar de Podlaquia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo enseña Tomasz a los niños los días de la semana en Kopytkowo?",
+      "answers": [
+        "Con una fotocopia y un examen",
+        "Con movimiento: los niños se pasan los días de la semana",
+        "Solo con una canción de YouTube",
+        "Con castigos por los errores"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pone a siete en el centro: cada uno dice un día de la semana, caminando y colaborando."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice a Tomasz el maestro de Kopytkowo sobre el sistema?",
+      "answers": [
+        "Que el director lo elogia",
+        "Que tiene sentido, pero el sistema no lo permite",
+        "Que los padres protestan",
+        "Que cambiarán el currículo mañana"
+      ],
+      "correctIndex": 1,
+      "explanation": "El maestro dice: «El sistema no me lo permite. Tengo programa, exámenes, notas»."
+    }
+  ]
+}

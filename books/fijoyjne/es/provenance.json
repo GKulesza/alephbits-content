@@ -1,0 +1,24 @@
+{
+  "packId": "fijoyjne:es",
+  "bookId": "fijoyjne",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-09",
+  "lastReviewedAt": "2026-07-09",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Migrated from Collection One manuscript. Full text preserved — not abridged."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "z4eAyuyFvec"
+    }
+  ],
+  "revisionNotes": "Tekst stylizowany na podcast; źródłem jest materiał wideo, nie oficjalny dokument BOR."
+}

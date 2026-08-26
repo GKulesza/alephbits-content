@@ -1,0 +1,333 @@
+# 98%
+
+## Metadata
+
+**Pack ID:** hbrpoig8
+**Book ID:** hbrpoig8
+**Legacy Pack ID:** polish_98_procent
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** 98%  
+**Subtitle:** The geniuses the school extinguishes  
+**Blurb:** For two decades Tomasz has watched children come to school with burning eyes and leave with dimmed ones. He cites George Land's research: 98% of five-year-olds are creativity geniuses, and 2% of adults. A story about a kindergarten in Kopytkowo, Maslow's pyramid and a system that clips wings.
+
+**Genres:** article, psychology, philosophy  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 11 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "98%" — Collection Nine official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** edukacja, kreatywność, szkoła, dzieciństwo, Collection Nine  
+
+**Keywords:** 98%, George Land, kreatywność, szkoła, Kopytkowo  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- childhood
+- school
+- teaching
+- fear
+- wonder
+
+**Editorial notes:** Artykuł edukacyjny; cytuje badania Landa i dane o samobójstwach — nie zastępuje porady pedagogicznej.
+
+**Inspiration:** Badania NASA/George'a Landa o kreatywności i krytyka polskiego systemu edukacji.
+
+---
+
+**World:**
+- objects: book
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Popular science  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** https://www.youtube.com/watch?v=IDOQSP5kG3A  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Silny przekaz edukacyjny; część serii kammel_education. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=IDOQSP5kG3A  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**98%**
+
+Good morning. My name is Tomasz, I'm 38 years old, and for two decades I have been watching children's eyes go dim.
+
+Actually, it started a long time ago, before I even knew how to name it. In 2007 I worked at TVP Historia; we made programmes for next to nothing, sat around a table and talked. But somewhere between one piece and the next I began to notice something that disturbed me. Children who came to school with burning eyes, and after a few years left with dimmed ones. Dimmed by a system that, instead of growing wings, effectively clipped them.
+
+Then came the years of practice. 20 years of working with children. 10 years of travelling around Poland, 10 years in one place. And one day I stood in front of a kindergarten in Kopytkowo, somewhere in Podlasie, and looked at five-year-olds playing in a playhouse.
+
+There were six of them. They ran, shouted, laughed, fell over, got up and ran on. Each of them had a battery full of energy inside – that free power that lets them recharge in 20 minutes like Duracell bunnies. Each of them had 98% of the potential for creativity, cognitive curiosity, courage, love, friendship, responsibility. 98%. Those were not my words – those were NASA studies showing that five-year-olds are geniuses.
+
+And then the system comes.
+
+---
+In 2024, in a conversation with Piotr, I spoke about this publicly for the first time, although I had carried it in my head for years. We sat in the studio, in front of the cameras, and I felt that every word I said was like a brick in the wall I was trying to tear down.
+
+– George Land's research – I began – showed that among five-year-olds as many as 98% show creativity at the level of genius. Among ten-year-olds that's already only 30%. Among fifteen-year-olds – 12%. And among adults over 25 – 2%.
+
+Piotr looked at me in disbelief.
+
+– So the system kills creativity?
+
+– It means the system works exactly as it was designed to.
+
+---
+My thoughts returned to that kindergarten in Kopytkowo. Six children in front of the playhouse, which was a whole universe to them. If someone had come to them then – someone wise, someone who understands what development is – and said: "Walk in front of this playhouse however you want. Each of you differently. Then lead another person. Then walk together. Then take a different route than before" – those children would have done all of it. Each would have found their own path, their own method, their own creativity.
+
+But nobody said that. The teacher had a different task: 45 minutes outside. Good luck to anyone who came up with the idea that 45 minutes is the optimal time for anything. Perhaps in the fourth grade, when a child is 10 and wants to gain knowledge, 45 minutes makes sense. But for a five-year-old? A six-year-old? A seven-year-old with a battery full of energy who needs to spend it in movement, in emotions, in relationships?
+
+Maslow's pyramid of needs says it clearly: at the bottom are the basic needs – food, shelter, clothing. Then safety. Then belonging – relationships with others. Then esteem – but not the esteem of a teacher who gives a good grade for obedience, but self-esteem, admiration for oneself. Then beauty. And at the very top – self-actualisation.
+
+Where in this pyramid is the Polish school? At the very bottom. It takes care of physical existence, of safety, but completely ignores belonging, esteem, beauty and self-actualisation. Children in the Polish school don't have relationships – they have a teacher who talks and they listen. They don't have esteem – they have grades, which are only a tool of control. They don't have beauty – they have dry facts they must memorise for a test. They don't have self-actualisation – they have a system that orders them to sit quietly in a desk while their batteries overflow with energy that has nowhere to go.
+
+---
+My thoughts returned to the sports camps I have been running since 2017. Almost 10 years, over 5,000 children. We sleep 8-10 people to a classroom, we eat together, we train together. We give out phones for 30 minutes a day. And you know what? After three days the children say: "Coach, when you give us the phones back, we maybe check for three minutes what's going on, and then we don't need them. We're so stimulated by the surroundings, we have so many thoughts we want to share."
+
+To share. That's the key word. In the Polish school children don't share knowledge – they receive it. But giving lies in a child's nature. Every child who makes something or learns something runs to the teacher: "Miss, miss, I did it!" And the teacher, tired, overworked, on average 53 years old, has no strength to listen. If he said: "Wow, Piotruś, tell Kasia about it" – Piotruś would fly over to Kasia, Kasia would gain the knowledge from him, and both would develop. But the teacher has neither time nor space, because the system makes him count outcomes, not process.
+
+---
+I remembered a lesson I ran in Kopytkowo. 35 children, seven teachers. The children didn't know the days of the week – even though they had been learning them for years.
+
+I did it differently.
+
+I put seven children in the middle of the classroom, and each of them was to say one day of the week while walking around the room. "Monday", "Tuesday", "Wednesday"... The children walked, spoke, listened. After a minute, a change – each of the seven chose a different child and passed their day on to them. Cooperation. Friendship. Communication. Responsibility. Six social competencies in a single moment.
+
+Then the second phase – the children walked around, shook hands and said what they knew. You say "Tuesday" to me, I say "Wednesday", we go to Krzysiu, Krzysiu says "Saturday", we say "Sunday". Decision, choice, articulation.
+
+The third phase – we give it a personal context. "On Monday I'll mow the grass." "On Wednesday I go swimming with my mum." "On Friday we do the big shopping." The children don't just learn the days of the week – they live them, connect them with their own lives, create stories.
+
+After a lesson like that the children are tired – but it's a good tiredness. Batteries discharged, energy spent in a creative way. And then they go out for recess, and guess what they do? They sing "Monday, Tuesday, Wednesday" – they make up the song themselves, because their nervous system has been switched on. And they go home and tell their mums what they learned.
+
+That's a natural process. The alignment of the environment with the human being. When the environment is aligned with you, you're happy. When it isn't – after 10 years you might commit suicide. 20,000 suicide attempts among Polish 14-year-olds. That comes from what we did earlier.
+
+---
+Piotr asked me then in the studio: "Tomek, what about extracurricular activities? In the 5-9 age range, how do you choose?"
+
+I answered him like this: extracurricular activities should have a twofold character. First, fixed traits – talent. But not talent of the third-dynamism kind, meaning turning effort into results: "you'll be the Polish champion." Rather, talent understood as: what does the child do without rewards, what can't you drag them away from unless you apply punishment? Punishment is a tool for destroying children's talents. Reward is too.
+
+A parent should notice what the child does easily, voluntarily, lightly. That is talent.
+
+Second, talent as high ethics – the shapeable aspect, education towards values. We don't send a child to a practice group to win, but to have an environment in which educators develop cooperation, creativity, responsibility.
+
+Judo? Capital, but it's not a sport – it's a martial art. The child learns about himself, his partner, the environment, the difficult situation. Not some damn medal. The competition system is sick – sick, because adults take it out on children. In one day I would dismantle the competition system, replacing it with six-seed tournaments, where what counts is movement, the process of giving skills, relationships and emotions.
+
+And sports federations? They work like cults. A hierarchy of power, restricted knowledge, you can get in, you can't get out. 11 points of a cult. All under a pretty shirt, crest, emblem.
+
+---
+My thoughts returned to that day in Kopytkowo. I was leaving the kindergarten when one of the teachers came up to me.
+
+– Mr Tomasz – he said. – I know that what you're saying makes sense. But I can't do it. The system won't let me. I have a curriculum to cover, I have tests, I have grades. If I ran lessons that way, the headmaster would fire me.
+
+I looked at him. He was about 50, grey-haired, with tired eyes. I knew he wasn't lying. The system keeps him in check – not through violence, but through fear. Fear of evaluation, of the headmaster, of the education authority. Fear, which is a tool of control.
+
+– And what if – I said – we changed the system from the bottom up? What if parents started demanding that teachers work with children in line with their nature, not against it?
+
+The teacher smiled bitterly.
+
+– Parents? They're conditioned themselves. They thought that if they bought their children separate rooms, things would be better. And meanwhile children in separate rooms have no relationships, no exchange of goods, no thought for other people. They're alone with themselves, and they lose to the phone.
+
+He was right. At the same time as we were talking, in other homes children sat in their rooms, staring at screens. Parents worked 10-12 hours to earn those separate rooms, those loans, that "comfort". And they had no time for their children. No time for shared meals, for conversations, for play. No time to see that a child wants to share, wants to create, wants to grow wings.
+
+Instead they gave them a phone. And the phone gave everything a child's brain needed: the illusion of progress, the illusion of closeness, the illusion of success. In computer games the child has a sense of progress – he builds a little man, shoots an enemy. He has closeness – he's in a relationship with someone who acts like a human. He has failure and reflection – but safe, because virtual.
+
+Parents didn't want to give their child failures. They wanted to give successes. Without reflection. Without the lessons that teach that failure is part of development.
+
+---
+Piotr in the studio looked at me and asked:
+
+– Tomek, do you have such lessons recorded? So we can show people what it looks like?
+
+– I do – I answered. – But recording lessons at school is a problem. The system defends itself. Even I, even though I run these lessons and evaluate nobody, turn everything upside down. And that's not liked.
+
+– Let's record it at your camps – said Piotr. – There you have children, you have consents, you have documentation. Let's show people what can be done.
+
+I nodded. I knew it wouldn't be easy. Parents are in camouflage – they know something is wrong, but they don't know what to do about it. They know the school is bad, but they have no alternative. They know children suffer, but they think it has to be that way. Because it's always been that way.
+
+But I believed it could be changed. Not through the system – the system is too firmly entrenched with sterile power, lists of documents, procedures and fear. But through the parents. Through teachers who in the depths of their souls know that what they're doing is wrong, but don't have the courage to do otherwise. Through coaches who trained with me, but returned to a system that rewards what it rewards – exploiting the child for one's own benefit.
+
+A critical mass was needed. A lever that would shift in parents, teachers and coaches. And I believed that lever would shift. Because I saw those children – those five-year-olds with 98% potential. And I knew that if not us, nobody would help them.
+
+---
+I walked out of the kindergarten in Kopytkowo and stood in the street. Before me stretched Poland – a country where children are born with wings, and the system effectively clips them. A country where 98% of five-year-olds are geniuses, and 2% of adults can think creatively.
+
+Someone once said that the goal of school is to create sick people. Perhaps that's true. Perhaps someone deliberately influenced Polish society so that today the nation would be sick – physically, cognitively, ethically, behaviourally. Perhaps the goal of the system is to sell medicines, and for that you need sick people.
+
+But I didn't believe that. I believed it could be changed. I believed that parents – the very ones who were conditioned themselves – could wake up. I believed that teachers – the very ones who fear headmasters – could find courage. I believed that coaches – the very ones who return to old patterns – could start acting differently.
+
+And I believed in the children. In those five-year-olds who run in front of the playhouse and think up a hundred ways to get through it. In those ten-year-olds who still have 30% of creativity. In those fifteen-year-olds who have 12% – but that's still something. In those adults who have 2% – but that's still enough to change something.
+
+I returned home. On my desk a yellow book was waiting – the curriculum for grade 1.3 that I had written for teachers. Twelve described social competencies, neurodidactics, the attention system. I knew it wasn't the solution to all problems. But it was a beginning.
+
+And on the other side, in Kopytkowo, in the kindergarten, the children were still running in front of the playhouse. They'll run for a little while longer, before the system starts to break them in. But maybe – just maybe – someone will look at them differently. See the geniuses in them. And help them grow their wings.
+
+Because if not us, then who? If not now, then when?
+
+And in my head still echoed the words of Professor Mazur, which I once heard at a lecture: "A child has an excess of energy constantly. Its goal is to dissipate energy. Don't take that away from it. Give it tools so it can do it in a creative way."
+
+Give them tools.
+
+It was simple. And impossible to achieve in a system that works in exactly the opposite way.
+
+But maybe – just maybe – it can be done outside the system. In homes, in backyards, at sports camps, in kindergartens, in schools that dared to be different.
+
+I returned to writing. To the next lesson. To the next child, waiting for someone to show it that it has wings.
+
+And I believed that one day – perhaps in seven years, when the research from 2017 becomes common knowledge – we will stop clipping those wings.
+
+Or maybe sooner.
+
+Because children don't have time to wait.
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What percentage of five-year-olds show creativity at the level of genius according to Land's research?
+
+**Answers:**
+- A) 30%
+- B) 98%
+- C) 12%
+- D) 50%
+
+**Correct:** B
+**Explanation:** Tomasz quotes: among five-year-olds as many as 98% are at the level of creativity genius.
+**Text reference:** 98%
+
+### Question 2
+
+**Question:** What percentage of adults over 25 retain that creativity?
+
+**Answers:**
+- A) 12%
+- B) 30%
+- C) 2%
+- D) 50%
+
+**Correct:** C
+**Explanation:** Among adults over 25 only about 2% remain — the system "kills" the rest.
+**Text reference:** 2%
+
+### Question 3
+
+**Question:** Where does Tomasz watch six five-year-olds playing in a playhouse?
+
+**Answers:**
+- A) In Warsaw
+- B) In a kindergarten in Kopytkowo, Podlasie
+- C) In Kraków
+- D) In Gdańsk
+
+**Correct:** B
+**Explanation:** He stands in front of a kindergarten in Kopytkowo, somewhere in Podlasie.
+**Text reference:** Kopytkowo
+
+### Question 4
+
+**Question:** How does Tomasz teach the children the days of the week in Kopytkowo?
+
+**Answers:**
+- A) Through a photocopy and a test
+- B) Through movement — the children pass the days of the week to each other
+- C) Only through a YouTube song
+- D) Through punishment for mistakes
+
+**Correct:** B
+**Explanation:** He puts seven in the middle — each says a day of the week, walking and cooperating.
+**Text reference:** seven children
+
+### Question 5
+
+**Question:** What does the teacher in Kopytkowo tell Tomasz about the system?
+
+**Answers:**
+- A) That the headmaster praises him
+- B) That it makes sense, but the system won't allow it
+- C) That the parents are protesting
+- D) That they'll change the curriculum tomorrow
+
+**Correct:** B
+**Explanation:** The teacher says: "The system won't let me. I have a curriculum, tests, grades."
+**Text reference:** The system won't let me
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*
