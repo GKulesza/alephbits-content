@@ -149,6 +149,10 @@ None found.
 
 - `e4qvzfv8` — EN/ES/EO/ISV editions contain untranslated Polish text in the story body (marked `Translation health: needs_repair` in canonical `reading-pack.md` of all six translated editions, 2026-08-26). Re-translation required via Studio; do not ship these editions as-is.
 
+## Known quiz issues (registry, not yet fixed)
+
+- Systematic answer-length bias: the correct answer is statistically longer than its distractors across 248 editions (including Polish sources). Deferred — will be addressed edition-by-edition in the editorial workflow, not as a batch.
+
 ## Recommendations before translating the remaining library
 
 1. Treat the book's `default_locale` edition as the source of truth for all structural (non-localized) fields; new translations should copy these fields verbatim rather than re-authoring them.
