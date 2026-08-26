@@ -17,7 +17,7 @@
     },
     {
       "type": "single_choice",
-      "question": "Jakie nazwisko pilota Anna znajduje w archiwach wojskowych?",
+      "question": "Jakie nazwisko pilota Anna znajduje najpierw w archiwach wojskowych?",
       "answers": [
         "Jack Larsen",
         "Daniel Rakowiecki",

@@ -5,8 +5,8 @@
 **Pack ID:** zrad5sow
 **Book ID:** zrad5sow
 **Legacy Pack ID:** polish_przedszkole_bez_scian
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Przedszkole bez ścian  
 **Subtitle:** Nauka przez naturę i projekty  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz and prose correction — grammar and typo |
 
 ### Editorial history
 
@@ -232,7 +233,7 @@ Odwróciła się. To był Franek, już uczeń pierwszej klasy. Podbiegł do niej
 
 Marta przytuliła go mocniej.
 
-– To najpiękniejsze, co mogłaś mi powiedzieć – szepnęła.
+– To najpiękniejsze, co mogłeś mi powiedzieć – szepnęła.
 
 I wtedy zrozumiała, że to, co robi, ma sens. Że każde dziecko, któremu pomogła odkryć radość z uczenia się, jest jej sukcesem. Że edukacja to nie wypełnianie kart pracy. To otwieranie umysłów.
 
@@ -295,7 +296,7 @@ I że właśnie o to chodzi.
 **Answers:**
 - A) Astronautę
 - B) Tatę Franka — weterynarza
-- C) Politka
+- C) Polityka
 - D) Piosenkarza
 
 **Correct:** B
@@ -304,7 +305,7 @@ I że właśnie o to chodzi.
 
 ### Question 5
 
-**Question:** Co Franek mówi Martę po latach jako uczeń?
+**Question:** Co Franek mówi Marcie po latach jako uczeń?
 
 **Answers:**
 - A) Nienawidził przedszkola

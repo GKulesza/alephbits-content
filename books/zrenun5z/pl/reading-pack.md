@@ -5,8 +5,8 @@
 **Pack ID:** zrenun5z
 **Book ID:** zrenun5z
 **Legacy Pack ID:** polish_cel_na_ten_rok_to_nic
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Cel na ten rok to... nic  
 **Subtitle:** Spełnienie bez listy celów  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Quiz and prose correction — wording and numbering |
 
 ---
 ## Sources
@@ -230,7 +231,7 @@ Nie krzyknęła. Nie podskoczyła. Po prostu usiadła i przez długi czas patrzy
 
 Wzięła do ręki kartkę, na której przed rokiem zapisała swoje cele. Przekreśliła ostatni punkt i na dole dopisała:
 
-_"6. Być sobą. Zrealizowane."_
+_"5. Być sobą. Zrealizowane."_
 
 I wtedy zrozumiała, że najważniejszym celem, jaki może sobie postawić człowiek, jest cel, którego nie da się zapisać. Cel, który nie ma daty realizacji, bo trwa całe życie. Cel, który nazywa się: _żyć w zgodzie z sobą_.
 
@@ -296,7 +297,7 @@ A potem obie się roześmiały. Bo w końcu – co by było, gdyby każdy z nas 
 
 ### Question 2
 
-**Question:** Jaki cel Ania wybiera po rozmowie z Karoliną?
+**Question:** Jaki cel Ania wybiera na końcu opowieści?
 
 **Answers:**
 - A) Napisać książkę w rok

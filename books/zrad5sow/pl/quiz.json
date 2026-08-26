@@ -45,7 +45,7 @@
       "answers": [
         "Astronautę",
         "Tatę Franka — weterynarza",
-        "Politka",
+        "Polityka",
         "Piosenkarza"
       ],
       "correctIndex": 1,
@@ -53,7 +53,7 @@
     },
     {
       "type": "single_choice",
-      "question": "Co Franek mówi Martę po latach jako uczeń?",
+      "question": "Co Franek mówi Marcie po latach jako uczeń?",
       "answers": [
         "Nienawidził przedszkola",
         "W szkole też lubi się uczyć, bo może pytać",

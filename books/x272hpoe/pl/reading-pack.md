@@ -5,8 +5,8 @@
 **Pack ID:** x272hpoe
 **Book ID:** x272hpoe
 **Legacy Pack ID:** polish_cisza_dom
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Cisza  
 **Subtitle:** Shitsuke, mimamoru i amae w domu  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — gender agreement |
 
 ### Editorial history
 
@@ -226,7 +227,7 @@ Kasia uśmiechnęła się.
 
 Franek uniósł szklankę w geście triumfu.
 
-– A kiedyś nie potrafiłem. Ale teraz umiem. Nauczyłeś mnie.
+– A kiedyś nie potrafiłem. Ale teraz umiem. Nauczyłaś mnie.
 
 Kasia przytuliła go. I poczuła, że to, co się zmieniło, to nie tylko jej syn. To ona. I że właśnie o to chodziło.
 

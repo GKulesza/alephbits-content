@@ -5,8 +5,8 @@
 **Pack ID:** x8wdzrmh
 **Book ID:** x8wdzrmh
 **Legacy Pack ID:** polish_susza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Susza  
 **Subtitle:** Las, woda i zmiana klimatu  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Prose and quiz correction — typos and grammar |
 
 ---
 ## Sources
@@ -90,7 +91,7 @@ Tomek był synem leśniczego, wnukiem leśniczego i prawnukiem drwala. Las miał
 
 Tego ranka, gdy wstał o świcie, nie potrzebował termometru ani prognoz. Wiedział, że będzie gorąco. Powietrze było suche, a ziemia pod butami skrzypiała jak stary parkiet. Wyszedł na polanę i spojrzał na drzewa. Sosny, które kiedyś były zielone jak butelkowe szkło, teraz miały odcień żółtawo-brązowy. Igły opadały przedwcześnie. Na korze pojawiły się pęknięcia, których nie pamiętał.
 
-Usiadł na kamieniu, który wystawał z trawy. Trawy było mniej. W miejscach, gdzie dawniej była wilgotna runość, teraz był piach.
+Usiadł na kamieniu, który wystawał z trawy. Trawy było mniej. W miejscach, gdzie dawniej było wilgotne runo, teraz był piach.
 
 Zadzwonił telefon.
 
@@ -322,7 +323,7 @@ I to było najważniejsze.
 
 ### Question 2
 
-**Question:** Co mówi ojcowi Tomka o suszy?
+**Question:** Co ojciec mówi Tomkowi o suszy?
 
 **Answers:**
 - A) Że to normalna wiosenna pogoda
@@ -350,7 +351,7 @@ I to było najważniejsze.
 
 ### Question 4
 
-**Question:** Co dzieje się w epiogu w 2029 roku?
+**Question:** Co dzieje się w epilogu w 2029 roku?
 
 **Answers:**
 - A) Las zostaje całkowicie wycięty

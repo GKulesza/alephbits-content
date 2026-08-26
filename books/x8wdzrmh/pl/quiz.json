@@ -17,7 +17,7 @@
     },
     {
       "type": "single_choice",
-      "question": "Co mówi ojcowi Tomka o suszy?",
+      "question": "Co ojciec mówi Tomkowi o suszy?",
       "answers": [
         "Że to normalna wiosenna pogoda",
         "Że to już nie normalna susza, lecz zmiana, i nie wie, jak długo drzewa wytrzymają",
@@ -41,7 +41,7 @@
     },
     {
       "type": "single_choice",
-      "question": "Co dzieje się w epiogu w 2029 roku?",
+      "question": "Co dzieje się w epilogu w 2029 roku?",
       "answers": [
         "Las zostaje całkowicie wycięty",
         "Pojawia się program retencji wody i działania adaptacyjne",

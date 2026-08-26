@@ -5,8 +5,8 @@
 **Pack ID:** z6a830dm
 **Book ID:** z6a830dm
 **Legacy Pack ID:** polish_nowy_swiat
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Nowy świat  
 **Subtitle:** Od „słuchaj” do „rozmawiaj”  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — grammar |
 
 ### Editorial history
 
@@ -338,13 +339,13 @@ I Tomek wiedział, że to dopiero początek. Ale to był dobry początek.
 
 **Answers:**
 - A) Że Zosia się pogorszyła
-- B) Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmienił”
+- B) Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmieniłem”
 - C) Że Zosia powinna zmienić szkołę
 - D) Nic
 
 **Correct:** B
-**Explanation:** Nauczycielka widzi zmianę; Tomek: „Ja się zmienił”.
-**Text reference:** Ja się zmienił
+**Explanation:** Nauczycielka widzi zmianę; Tomek: „Ja się zmieniłem”.
+**Text reference:** Ja się zmieniłem
 
 
 ---

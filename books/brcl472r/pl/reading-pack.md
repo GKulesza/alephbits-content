@@ -5,8 +5,8 @@
 **Pack ID:** brcl472r
 **Book ID:** brcl472r
 **Legacy Pack ID:** polish_niedzwiedz
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Niedźwiedź  
 **Subtitle:** Słowo, które zatrzymuje kłótnię  
@@ -71,6 +71,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — answer lengths |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -194,7 +195,7 @@ Nie wiedział, czy to zadziała. Ale po raz pierwszy od dawna miał ochotę spra
 
 **Answers:**
 - A) Bo miś jest zbyt poważny
-- B) Bo miś jest słodki i nieadekwatny — niedźwiedzia nie da się zignorować
+- B) Bo miś jest słodki, a niedźwiedź zatrzymuje wszystko
 - C) Bo Marta lubi niedźwiedzie
 - D) Bo to żart z nazwiska Kammla
 
@@ -207,9 +208,9 @@ Nie wiedział, czy to zadziała. Ale po raz pierwszy od dawna miał ochotę spra
 **Question:** Co Kuba mówi Marcie w sypialni zamiast atakować?
 
 **Answers:**
-- A) Że ona zawsze zaczyna
-- B) Że czuje się, jakby ją zawodził codziennie i nie wie, jak to naprawić
-- C) Że idzie spać na kanapie
+- A) Że to ona zawsze zaczyna
+- B) Że czuje się, jakby ją zawodził, i nie wie, jak to naprawić
+- C) Że pójdzie spać na kanapie
 - D) Że zmywarka może poczekać
 
 **Correct:** B

@@ -5,8 +5,8 @@
 **Pack ID:** yp5jo3q3
 **Book ID:** yp5jo3q3
 **Legacy Pack ID:** polish_powrot_siebie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Powrót do siebie  
 **Subtitle:** Materialista, światło i jedność  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Quiz and prose correction — wording and consistency |
 
 ### Editorial history
 
@@ -153,7 +154,7 @@ Usiadł w swoim gabinecie i otworzył notatnik. Na pierwszej stronie zapisał s�
 
 _"Jedna, całość wszystkiego, co istnieje, ma trzy właściwości: jest dynamiczna, holistyczna i chce poznać samą siebie."_
 
-Przeczytał to trzy razy. Potem zamknął notatnik i spojrzał przez okno. Na dworze padał deszcz, ale on nie widział deszczu. Widział światło. To samo złote światło, które zobaczył w swoim śnie.
+Przeczytał to trzy razy. Potem zamknął notatnik i spojrzał przez okno. Na dworze padał deszcz, ale on nie widział deszczu. Widział światło. To samo złote światło, które zobaczył w tamtej wizji.
 
 Zamknął oczy. I wtedy, po raz pierwszy od lat, pozwolił sobie uwierzyć, że może być w tym coś więcej niż tylko nauka.
 
@@ -230,7 +231,7 @@ I każdy, kto na nią wchodzi, wraca do siebie.
 
 ### Question 2
 
-**Question:** Co Marek doświadcza po zamknięciu oczu przed wykładem?
+**Question:** Co Marek doświadcza po zamknięciu oczu na początku opowieści?
 
 **Answers:**
 - A) Sen o podróży

@@ -5,8 +5,8 @@
 **Pack ID:** yu58ceps
 **Book ID:** yu58ceps
 **Legacy Pack ID:** polish_pies_pankracy_i_sprawy_wazne
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Pies Pankracy i sprawy ważne  
 **Subtitle:** Starszy brat ma cztery łapy  
@@ -74,6 +74,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — story consistency |
 
 ### Editorial history
 
@@ -103,7 +104,7 @@
 
 Franek miał siedem lat i jedno zmartwienie, które rosło razem z nim – był najsłabszy w klasie. Nie z matematyki, nie z czytania, ale z tego, co działo się na podwórku. Kiedy starsi chłopcy grali w piłkę, zawsze wybierali go na ostatniego. Kiedy się ścigali, zawsze zostawał z tyłu. A kiedy raz próbowali mu zabrać drugie śniadanie, nie umiał się obronić. Po prostu stał i patrzył, jak kanapka z serem wędruje do cudzego plecaka.
 
-Nie miał starszego brata. To znaczy miał, ale tylko takiego, który mieszkał daleko – w innym mieście, z mamą, bo rodzice się rozstali. Brat przyjeżdżał raz na kilka miesięcy, przywoził prezenty, opowiadał o szkole średniej, a potem znowu znikał. To nie było to samo, co mieć kogoś na co dzień. Kogoś, kto czeka pod szkołą i mówi: „Zostawcie go”.
+Nie miał starszego brata. To znaczy miał, ale tylko takiego, który mieszkał daleko – w innym mieście, z tatą, bo rodzice się rozstali. Brat przyjeżdżał raz na kilka miesięcy, przywoził prezenty, opowiadał o szkole średniej, a potem znowu znikał. To nie było to samo, co mieć kogoś na co dzień. Kogoś, kto czeka pod szkołą i mówi: „Zostawcie go”.
 
 Dlatego właśnie Franek tak bardzo pokochał Pankracego.
 

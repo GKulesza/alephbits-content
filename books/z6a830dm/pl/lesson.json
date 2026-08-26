@@ -8,8 +8,8 @@
   "legacySlug": "nowy-swiat",
   "title": "Nowy świat",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Tomek wychowany na zasadzie „dzieci i ryby głosu nie mają” nie rozumie, czemu córka Zosia się zamyka. Podcast Marii Berlińskiej o dialogu otwiera mu oczy.",
   "author": {
@@ -92,12 +92,12 @@
         "question": "Co mówi nauczycielka na wywiadówce?",
         "answers": [
           "Że Zosia się pogorszyła",
-          "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmienił”",
+          "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmieniłem”",
           "Że Zosia powinna zmienić szkołę",
           "Nic"
         ],
         "correctIndex": 1,
-        "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmienił”."
+        "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmieniłem”."
       }
     ]
   },

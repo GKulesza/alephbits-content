@@ -5,8 +5,8 @@
 **Pack ID:** xk87au5b
 **Book ID:** xk87au5b
 **Legacy Pack ID:** polish_ciche_serce_dzwonka
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Ciche serce dzwonka  
 **Subtitle:** Gdy głośny dźwięk nie jest potrzebny  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — verb agreement |
 
 ### Editorial history
 
@@ -121,7 +122,7 @@ Zamykał swoje oczy – bo dzwonki też mają oczy, tylko bardzo małe – i pr�
 – To nic – szepnął do siebie. – Nikt mnie i tak nie potrzebuje.
 
 ---
-Pewnego dnia do sklepiku przyszło dwóch starych przyjaciół – skrzypce i wiolonczela. Byli tam najdłużej ze wszystkich instrumentów. Widziały wiele dzwonków, trąbek i bębnów. I wiedziały, że każdy instrument ma swoją historię.
+Pewnego dnia do sklepiku przyszło dwóch starych przyjaciół – skrzypce i wiolonczela. Były tam najdłużej ze wszystkich instrumentów. Widziały wiele dzwonków, trąbek i bębnów. I wiedziały, że każdy instrument ma swoją historię.
 
 Skrzypce, które miały już trochę nadszarpnięty smyczek, spojrzały na Złoty Dzwonek.
 

@@ -56,12 +56,12 @@
       "question": "Co mówi nauczycielka na wywiadówce?",
       "answers": [
         "Że Zosia się pogorszyła",
-        "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmienił”",
+        "Że Zosia jest bardziej otwarta — i Tomek odpowiada: „Ja się zmieniłem”",
         "Że Zosia powinna zmienić szkołę",
         "Nic"
       ],
       "correctIndex": 1,
-      "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmienił”."
+      "explanation": "Nauczycielka widzi zmianę; Tomek: „Ja się zmieniłem”."
     }
   ]
 }

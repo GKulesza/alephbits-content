@@ -5,8 +5,8 @@
 **Pack ID:** y088o5or
 **Book ID:** y088o5or
 **Legacy Pack ID:** polish_jak_ugotowac_herbate
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** 📋 Jak ugotować herbatę  
 **Subtitle:** Z kolekcji CollectionZero  
@@ -51,6 +51,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar |
 
 ## Sources
 
@@ -149,7 +150,7 @@ Furkan nalał herbatę do małej, tulipanowej szklanki – _ince belli_, jak ją
 
 Patryk wziął ją ostrożnie. Była gorąca. Uniósł do ust i pociągnął łyk.
 
-Aromat eksplodował w jego ustach. Herbaty był mocna, ale nie gorzka. Słodka, ale nie przesadnie. Miała w sobie coś, czego nie potrafił nazwać – może nuty owocowe, może coś dymnego. Była inna niż wszystko, co pił do tej pory.
+Aromat eksplodował w jego ustach. Herbata była mocna, ale nie gorzka. Słodka, ale nie przesadnie. Miała w sobie coś, czego nie potrafił nazwać – może nuty owocowe, może coś dymnego. Była inna niż wszystko, co pił do tej pory.
 
 – Niebo – powiedział.
 
@@ -161,7 +162,7 @@ Furkan uśmiechnął się.
 
 Patryk wrócił do Polski i próbował odtworzyć tamten smak. Kupił turecką herbatę, podwójny czajnik, a nawet tulipanowe szklanki. Próbował parzyć – raz, drugi, dziesiąty. Ale coś zawsze było nie tak. Herbata była za słaba albo za gorzka. Liście nie chciały opadać.
 
-W końcu zadzwonił do Furkan.
+W końcu zadzwonił do Furkana.
 
 – Co robię źle? – zapytał.
 

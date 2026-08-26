@@ -5,8 +5,8 @@
 **Pack ID:** yj5ci6vg
 **Book ID:** yj5ci6vg
 **Legacy Pack ID:** polish_opowiesci_z_poprzedniego_zycia
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Opowieści z poprzedniego życia  
 **Subtitle:** Pamięć, która może nie być twoja  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz and prose correction — disambiguation and consistency |
 
 ### Editorial history
 
@@ -111,7 +112,7 @@ Anna zamarła z kubkiem w pół drogi do ust. Piotr opuścił gazetę.
 
 – Co powiedziałeś? – zapytała, starając się, żeby jej głos zabrzmiał normalnie.
 
-– Mój samolot. Miałem na imię Daniel. Służyłem na Natomie Bay. To był duży okręt. Miałem kolegę, nazywał się Jack. Jack lubił grać w karty. Zawsze przegrywał.
+– Mój samolot. Miałem na imię Daniel. Służyłem na Natom Bay. To był duży okręt. Miałem kolegę, nazywał się Jack. Jack lubił grać w karty. Zawsze przegrywał.
 
 Odłożył klocki i wrócił do zabawy, jakby opowiedział właśnie, co jadł na śniadanie.
 
@@ -212,7 +213,7 @@ A gdzieś na granicy między jednym a drugim, między pamięcią a wyobraźnią,
 
 ### Question 2
 
-**Question:** Jakie nazwisko pilota Anna znajduje w archiwach wojskowych?
+**Question:** Jakie nazwisko pilota Anna znajduje najpierw w archiwach wojskowych?
 
 **Answers:**
 - A) Jack Larsen

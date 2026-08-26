@@ -5,8 +5,8 @@
 **Pack ID:** yr3xkxwn
 **Book ID:** yr3xkxwn
 **Legacy Pack ID:** polish_boliewicz
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Boliewicz  
 **Subtitle:** Wałęsa między legendą a cieniem Bolka  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — truncated sentence |
 
 ---
 ## Sources
@@ -116,7 +117,7 @@ Wałęsa miał swoją ciemną stronę. W 1970 roku, po protestach grudniowych, z
 
 To nie jest jednak prosta ocena. Wałęsa informował o swoich kolegach, co doprowadziło do zwolnień i nękania. Ale nie ma dowodów, by jego donosy doprowadziły do aresztowań. Ekipa Gierka, jak mówi Dudek, "generalnie bardziej chciała wiedzieć niż uderzać".
 
-– Gdyby ekipa Gierka zastosowała metodę Bieruta – aresztować, walić wyroki, więzienia – to historia Wałęsy byłaby znacznie czarniejsza. Ale oni tego nie robili. Wolno
+– Gdyby ekipa Gierka zastosowała metodę Bieruta – aresztować, walić wyroki, więzienia – to historia Wałęsy byłaby znacznie czarniejsza. Ale oni tego nie robili.
 
 
 **Prezydent**
