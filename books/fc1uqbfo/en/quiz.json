@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What exactly triggers the alarm in the laboratory at the beginning of the story?",
+      "answers": [
+        "A power failure of the computing cluster",
+        "A deviation of 4.2 sigma from the baseline model in simulation no. 47",
+        "A doctoral student accidentally running the night simulation",
+        "Loss of connection with the space telescope"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tadek's phone shows an alert about unconventional activity and a deviation of 4.2 sigma."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kamil single out in the data from the galactic centre that raises doubts about pulsars?",
+      "answers": [
+        "The points form a regular structure, not a random distribution",
+        "There are no data points on the map",
+        "All the pulsars have the same brightness as the Sun",
+        "The simulation shows only interstellar dust without emission"
+      ],
+      "correctIndex": 0,
+      "explanation": "The neural network detects a pattern — the distribution does not resemble a typical population of neutron stars."
+    },
+    {
+      "type": "single_choice",
+      "question": "What alternative instruction does Tadek give Kamil after the doubts about dark matter?",
+      "answers": [
+        "To delete the data and close the project",
+        "To run a simulation of an unknown emission process, giving the AI free rein",
+        "To publish the results immediately without review",
+        "To hand the research over to the Vienna team"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tadek asks for an alternative simulation assuming a process they don't yet know."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where do Tadek and Kamil send their paper after gathering the data?",
+      "answers": [
+        "To the journal Physical Review Letters",
+        "Only to scientific Twitter",
+        "To a local newspaper in Gdynia",
+        "Directly to NASA without review"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tadek decides to send the work to PRL, treating arXiv as a fallback route."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tadek place in a footnote of the published paper?",
+      "answers": [
+        "A full list of the lost grants",
+        "A dedication to teachers who teach through challenges",
+        "A warning about a simulation error",
+        "The phone number of the Harvard team"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the footnote he leaves a personal dedication referring to his father's teaching."
+    }
+  ]
+}

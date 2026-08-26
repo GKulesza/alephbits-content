@@ -1,0 +1,127 @@
+{
+  "id": "fc1uqbfo:en",
+  "bookId": "fc1uqbfo",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_nadwyzka",
+  "legacySlug": "nadwyzka",
+  "title": "The Excess",
+  "language": "en",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-11",
+  "description": "Tadek Pachocki wakes up in Gdynia to an alarm from the laboratory: the simulation of the centre of the Milky Way deviates from the model by 4.2 sigma. Together with his doctoral student Kamil he discovers a regular structure where pulsars or traces of dark matter were expected — and faces the choice of publishing a bold hypothesis before someone else does. A story about scientific courage, the memory of an engineer father, and about how the most important discovery is often a good question rather than a ready answer.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "5",
+  "tags": [
+    "astrofizyka",
+    "symulacja",
+    "ciemna materia",
+    "publikacja naukowa",
+    "Gdynia"
+  ],
+  "difficulty": 7,
+  "estimatedReadingTime": 9,
+  "translation": "English translation of the Polish reading pack \"Nadwyżka\" — Collection Seven official edition.",
+  "text": "**THE EXCESS**\n\n**When the simulation sees more than the model**\n\nTadek Pachocki knew he had a problem even before he opened his eyes. His phone was vibrating on the glass desk with eerie regularity – three short, two long, a pause, again. The laboratory's alarm signal. He had enabled it himself, a month ago, after one of the doctoral students accidentally ran a night simulation on the main cluster and burned three days of the whole team's work.\n\nHe opened his eyes. The ceiling of his apartment in Gdynia was grey, scratched, and pale Baltic light came in through the window. He took a deep breath and reached for the phone.\n\n_ALERT: Unconventional activity in simulation no. 47. Deviation of 4.2 sigma from the baseline model detected._\n\nHe rubbed his eyes and read it again. 4.2 sigma. That was not a coincidence. Tadek sat up in bed, his fingers already typing an answer to the team:\n\n_\"Stop everything. I'm checking. I'll be there in an hour.\"_\n\nHe tossed the phone onto the blanket and stared at the wall for a moment. He was thirty-four years old, he led a team of computational astrophysicists at the University of Gdańsk, and he had just – most likely – found something that could shatter years of quiet work, his entire career.\n\nHe dressed in the dark. He didn't turn on the light. In the kitchen he left the unfinished coffee he had made the evening before. Somewhere in the background, in his head, echoed the question he had been asking himself for a year: _what would his father do?_\n\nHe didn't answer himself. He left the apartment.\n\nThe Computational Astrophysics Laboratory was housed in a grey building on the edge of the campus. Tadek went through three doors with access codes, past offices that were still empty at this hour. Only one light was on – his own, because he never left work at a normal hour.\n\nSitting in front of the monitor was Kamil, his best doctoral student, a guy in his twenties with eyes sunken from too many hours staring at lines of code. When Tadek came in, Kamil didn't even turn around. He only pointed at the screen.\n\n— Look.\n\nTadek came closer. On the screen stretched a map of the centre of the Milky Way – a density of light, millions of stars, dust, gas, everything that made up the heart of our galaxy. But overlaid on it were data – red, pulsing points that arranged themselves into something that looked like a sphere.\n\n— How many points? — he asked.\n\n— Thirty-five thousand. Maybe more. The simulation suggests it's a population of very faint, rapidly rotating pulsars. Only... — Kamil paused, pursed his lips. — Only the thing is, our neural network found a pattern. Look here.\n\nHe shifted the image. Tadek watched.\n\n— That's not a random distribution — he said quietly. — They're not arranged like a typical population of neutron stars. They form a regular structure.\n\n— Yes — Kamil confirmed. — And that's exactly what triggered the alarm. For the last three hours I've been trying to check whether it's an artifact. It isn't. The AI picked up something the earlier models didn't see. Either we're dealing with a pulsar population arranged in a way we can't explain... or those aren't pulsars.\n\nTadek leaned against the desk. For a moment he heard only the hum of the ventilation and the soft buzzing of the monitors. In his head he was forming the picture from the article he had read a month ago – _Physical Review Letters_, an international team of researchers from the University of Vienna that had analysed the excess of gamma radiation from the galactic centre using machine learning. Result: a population of more than 35 thousand very faint pulsars.\n\nBut nobody had said then that they would form a structure. That was something new.\n\n— Kamil — he said quietly. — This is either the greatest discovery of our decade... or the greatest mistake.\n\n— What about dark matter? — asked the doctoral student. — After all, that was the second lead.\n\nTadek smiled bitterly. \"Dark matter\" – a word that over the past years had become both a promise and a curse. He himself had spent three years trying to find evidence of its existence in data from gamma telescopes. And always, always he hit the same wall – no direct evidence, only circumstantial clues, only indirect hints.\n\nBut now...\n\n— Maybe — he said slowly. — Maybe it's neither dark matter nor pulsars. Maybe it's something completely different. Kamil, run me an alternative simulation. Assume it's emission coming from a process we don't know. Give the AI free rein.\n\nThe doctoral student looked at him with hesitation.\n\n— That could take days.\n\n— I know. But if we're right... someone else will beat us to it.\n\nOver the next hours Tadek sat in his office, staring at data that arranged itself before him like a puzzle without a picture on the box. He recalled conversations with his father – not about astrophysics, never about astrophysics, because his father was an engineer, a specialist in systems optimisation – but about something more important.\n\n_\"First you get a challenge\"_ – his father used to say, when Tadek was still a child learning to solve his first programming problems. _\"You get a problem nobody has solved before. And you sit over it, and you rack your brains, and you search. And then, at some point, inspiration comes. Not because you're a genius – because your brain has been working all along, even while you slept. And suddenly you see the whole.\"_\n\nTadek remembered that voice. He remembered how his father taught him to program when he was ten, when everyone at school said he was average. He remembered how his father explained that mistakes are not failures, but steps towards a solution. He remembered how his father took him to workshops where, for the first time, he saw that you could learn not by rote, but through challenges.\n\n_\"Don't be afraid to look for what is invisible\"_ – his father had told him when Tadek was leaving for university in Warsaw. _\"The greatest discoveries begin when someone notices something others don't want to see.\"_\n\nBack then Tadek thought his father was talking about physics, about science. Now, looking at the screen with a simulation showing a regular, almost organic structure at the centre of the galaxy, he began to understand that his father had been talking about something much bigger.\n\n\"What would you do?\" – he whispered to the empty room.\n\nThe answer came at once, not as a voice, but as a decision made somewhere deep inside him: _\"You would go further. Even if everyone tells you it's impossible.\"_\n\nTadek reached for the keyboard and began to write.\n\nThree days later Kamil walked into his office without knocking. He had dark bags under his eyes, but in his look there was something Tadek hadn't seen in a long time – pure, unbridled enthusiasm.\n\n— I found it — he said. — Or rather... the machine found it. Look.\n\nA chart appeared on the screen. Tadek watched for a moment, not understanding what he was seeing.\n\n— It's a field, right? — he asked. — A field of something?\n\n— A field... — Kamil hesitated. — A field that has no name, because nobody has ever described it. But if we assume it exists, that it works like something between gravity and the strong interaction... then everything fits. Both the gamma emission at the galactic centre and the distribution of that \"population\" match. They're not pulsars, Tadek. It's not dark matter. It's a sign that we're missing a piece of the puzzle.\n\nTadek felt himself go cold. If this was true, if they really had discovered a new physical field, a new interaction, it meant they were challenging the foundations of modern astrophysics. And that, in turn, meant the publication of their work would meet not only enthusiasm, but above all resistance. Criticism. Accusations of unreliability, of interpretations that were too bold, of chasing sensationalism.\n\nLike his father, when he talked about his teaching method. Like a man who had found something nobody wanted to see.\n\n— Do you have evidence? — he asked. — Hard, mathematical evidence?\n\n— I have simulations. I have statistics. I have the fact that every other model fails, and this one works. — Kamil leaned over the desk. — Tadek, I know this sounds insane. I know nobody will believe us if we come out with this now. But if we wait... if someone else finds the same thing...\n\nTadek clenched his jaw. He knew what he had to do. He knew his father would tell him: _\"Publish. Even if you're wrong. Even if everyone criticises you. Science is a process, not a race. But if you're right, you can't keep it to yourself.\"_\n\n— We're writing the paper — he said. — We gather all the data, all the simulations, all the conclusions. And we send it to _Physical Review Letters_. Let the greatest experts judge it.\n\nKamil looked at him with a mix of relief and unease.\n\n— And if they reject it?\n\n— Then we'll send it somewhere else. And if everyone rejects it... — Tadek smiled. — We'll publish it on arXiv. Let the world judge.\n\nSix months later Tadek sat in the same office, with the same view of the grey, wintry Baltic. On the desk lay a printout from _Physical Review Letters_ – his paper, which had gone through the hell of reviews, criticism, revisions and more criticism.\n\nThe text was short, factual, full of caveats. Title: _\"An alternative interpretation of the excess of gamma radiation at the centre of the Milky Way – hypothesis of a new interaction field\"_.\n\nHe received one hundred and nine letters from scientists around the world. Half praised his courage, the other half accused him of unreliability. He gave lectures at three conferences where senior professors with sunken cheeks looked at him as if he were a heretic. He lost two grants, because the funders considered his research \"too risky\".\n\nBut he also gained something else.\n\nA few days ago a young physicist from Harvard University had called him, and said briefly:\n\n— Doctor, we've been working on a similar hypothesis for two years. We didn't have the courage to publish it. Thank you for doing it. Maybe now the rest of the world will finally start looking in the right direction.\n\nTadek didn't answer. He wasn't sure what to say. He only knew that the connection he had made with his father years ago had not been about physics. It had been about something much deeper – about the belief that it's worth looking for what others don't see, even if for a moment you are alone.\n\nHe took the printout in his hand. In the corner of the page, in a footnote, he had placed a dedication that no one but him understood:\n\n_\"To all the teachers who teach how to solve challenges, instead of drilling in formulas.\"_\n\nThen he stood up, left the paper on the desk and walked out of the laboratory. Outside it was raining, but he didn't take an umbrella. He needed a moment to feel something real, something tangible on his face.\n\nHe walked along the seaside promenade, hearing the murmur of the waves and thinking about what he had found – or rather, about what he hadn't found. Because that was the greatest discovery: not the answer, but the right question.\n\nMaybe it was dark matter. Maybe it was a new kind of interaction. Maybe it was an error in the simulation. But now, whatever the outcome, he knew one thing: he would never look at the universe the same way again. And that was enough.\n\nHe stopped for a moment and looked at the sky. In the daytime no stars were visible, but he knew that there, at the centre of the galaxy, something was shining. Something he couldn't yet name.\n\nHe smiled to himself.\n\n_\"Good\"_ – he thought. _\"That's exactly how it should be.\"_\n\nHe walked on, leaving behind the laboratory, the printouts and all that noise. Because he knew that what really mattered was only just beginning.\n\n**THE END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "What exactly triggers the alarm in the laboratory at the beginning of the story?",
+        "answers": [
+          "A power failure of the computing cluster",
+          "A deviation of 4.2 sigma from the baseline model in simulation no. 47",
+          "A doctoral student accidentally running the night simulation",
+          "Loss of connection with the space telescope"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tadek's phone shows an alert about unconventional activity and a deviation of 4.2 sigma."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Kamil single out in the data from the galactic centre that raises doubts about pulsars?",
+        "answers": [
+          "The points form a regular structure, not a random distribution",
+          "There are no data points on the map",
+          "All the pulsars have the same brightness as the Sun",
+          "The simulation shows only interstellar dust without emission"
+        ],
+        "correctIndex": 0,
+        "explanation": "The neural network detects a pattern — the distribution does not resemble a typical population of neutron stars."
+      },
+      {
+        "type": "single_choice",
+        "question": "What alternative instruction does Tadek give Kamil after the doubts about dark matter?",
+        "answers": [
+          "To delete the data and close the project",
+          "To run a simulation of an unknown emission process, giving the AI free rein",
+          "To publish the results immediately without review",
+          "To hand the research over to the Vienna team"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tadek asks for an alternative simulation assuming a process they don't yet know."
+      },
+      {
+        "type": "single_choice",
+        "question": "Where do Tadek and Kamil send their paper after gathering the data?",
+        "answers": [
+          "To the journal Physical Review Letters",
+          "Only to scientific Twitter",
+          "To a local newspaper in Gdynia",
+          "Directly to NASA without review"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tadek decides to send the work to PRL, treating arXiv as a fallback route."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Tadek place in a footnote of the published paper?",
+        "answers": [
+          "A full list of the lost grants",
+          "A dedication to teachers who teach through challenges",
+          "A warning about a simulation error",
+          "The phone number of the Harvard team"
+        ],
+        "correctIndex": 1,
+        "explanation": "In the footnote he leaves a personal dedication referring to his father's teaching."
+      }
+    ]
+  },
+  "coverFamily": "popular_science",
+  "audience": "adult",
+  "subtitle": "When the simulation sees more than the model",
+  "trustClassification": "inspired_by_reality",
+  "editorialHistory": {
+    "firstPublished": "2026-07-11",
+    "lastEditorialUpdate": "2026-07-11"
+  },
+  "inspirationDates": [
+    "2025-12-18"
+  ],
+  "inspiredBy": {
+    "youtube": "rbAuChFG0Tg"
+  },
+  "world": {
+    "objects": [
+      "glass"
+    ],
+    "places": [
+      "home",
+      "shop"
+    ]
+  }
+}

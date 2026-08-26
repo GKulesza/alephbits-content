@@ -1,0 +1,449 @@
+**EL ALGORITMO DE LA FELICIDAD**
+
+## I
+
+Por la noche, tras trece horas en el laboratorio, Michał se sentó ante la pantalla y miró las últimas líneas de código. Eran perfectas. Todas las pruebas habían pasado. El algoritmo en el que llevaba cinco años trabajando por fin estaba listo.
+
+Llamó a Ewa.
+
+— Está — dijo. — Funciona.
+
+En el auricular oyó cómo dejaba un libro. Se aclaraba la garganta. Luego un silencio que duró demasiado.
+
+— Eso significa que lo tienes — dijo al fin. — Lo tienes.
+
+No preguntó: «¿Y ahora qué?». Esa pregunta la había repetido durante los últimos dos años, cada vez que él la visitaba en su piso de la calle Larga, cuando le hablaba de las siguientes iteraciones, de los errores, de los días en que volvía a casa a las tres de la madrugada y se dormía en el suelo de la oficina.
+
+_¿Y ahora qué, Michał?_
+
+Esta vez no lo preguntó.
+
+— Iré mañana — dijo. — Tienes que verlo.
+
+— Mañana es viernes. Tienes la presentación.
+
+— Puedo aplazar la presentación.
+
+— Michał.
+
+— ¿Qué?
+
+— Cuatro años.
+
+— Lo sé.
+
+— Tu empresa espera ese algoritmo.
+
+— Lo sé.
+
+— Sabes que no puedo ayudarte. No sé cómo. No es mi campo.
+
+— No tienes que saber. Solo tienes que...
+
+Dudó. Sabía que no debía. Ewa odiaba que la juzgara.
+
+— Solo tienes que mirarlo — terminó.
+
+En el auricular oyó su respiración. Luego el roce de la tela, como si se hubiera girado en el sofá. La imaginó: con el jersey gris, las piernas recogidas, el cuaderno sobre las rodillas, ese en el que llevaba años anotando fragmentos de los libros que leía, frases que oía en el autobús, sueños que recordaba por la mañana. Sabía que en ese cuaderno no había ni una fórmula, ni una línea de código. Lenguaje puro.
+
+— Ven — dijo al fin. — Pero no me digas que esto va a cambiar algo.
+
+— No lo digo.
+
+— Lo dices. En cada frase.
+
+— Perdona.
+
+— No pidas perdón. Solo recuerda. Tú creas algoritmos. Y el mundo es más grande que los algoritmos. El tuyo también.
+
+Cortó la llamada antes de que pudiera responder.
+
+Dejó el teléfono sobre la mesa y salió al pasillo. Las luces del laboratorio estaban apagadas. En el otro extremo del edificio alguien hablaba por teléfono: la voz rebotaba en las paredes, grave, cansada. Michał se apoyó en el alféizar y miró la ciudad.
+
+En Varsovia nevaba. La primera nieve del año, copos grandes que a la luz de las farolas parecían chispas. Los miró un rato y sintió algo que no sabía nombrar. No alegría. No alivio. Otra cosa.
+
+Volvió a la oficina, apagó el ordenador y cerró la puerta.
+
+Al pasar por recepción, soltó:
+
+— Mañana no vengo.
+
+La mujer joven que estaba tras el mostrador levantó la cabeza.
+
+— Tiene la presentación.
+
+— La aplazaré.
+
+— El equipo espera.
+
+— Que esperen.
+
+Salió a la calle antes de que pudiera responder.
+
+---
+## II
+
+Vivía en Ochota, en un piso pequeño con vistas al patio. Antes le gustaba aquel lugar. Luego dejó de prestarle atención. Ahora, al volver a casa, notó que algo había cambiado. La luz de la cocina estaba encendida todo el tiempo. La había dejado encendida al salir por la mañana. Sabía que debería enfadarse consigo mismo: la factura, el despilfarro de electricidad. Pero no podía. Miraba aquella luz y solo sentía vacío.
+
+Entró en el piso sin encender la luz del recibidor. Pasó a la cocina y se sirvió un vaso de agua. En la nevera había comida a la que no había tocado en una semana. Cerró la puerta y se sentó en el suelo, con la espalda apoyada en el armario.
+
+Sacó el teléfono, lo desbloqueó y abrió la aplicación. Allí, en la pantalla principal, esperaba el algoritmo.
+
+_El Algoritmo de la Felicidad._
+
+Así lo había llamado en broma, en la primera reunión con los inversores. Luego el nombre se quedó. Nadie preguntó si era un buen nombre. Todos entendían — o fingían entender.
+
+Michał miraba el código que había escrito y sentía que algo no estaba bien. Nada en él indicaba un error. Las matemáticas eran limpias. La lógica, impecable. Las pruebas confirmaban su eficacia.
+
+Y sin embargo.
+
+Cerró el teléfono, se lo guardó en el bolsillo y se tumbó en el suelo de la cocina. Las tablas estaban frías. A través de la ventana veía los copos de nieve que seguían cayendo, y un pensamiento súbito y afilado que apareció de la nada:
+
+_¿Para qué?_
+
+¿Para qué había creado algo que él mismo no quería usar?
+
+Se sentó. Se levantó. Dio tres pasos hacia el recibidor, y luego se detuvo. Volvió a la cocina, abrió la nevera, la cerró.
+
+Llamó a Ewa.
+
+Contestó al segundo tono.
+
+— Ewa.
+
+— Michał. Es casi la una.
+
+— Lo sé. Perdona. No puedo dormir.
+
+— Decías que el algoritmo funciona.
+
+— Funciona.
+
+— Entonces, ¿qué pasa?
+
+— No lo sé.
+
+Al otro lado se hizo el silencio. Oyó que se levantaba de la cama. Probablemente iba a la cocina, a su butaca favorita del rincón, donde guardaba el cuaderno y el bolígrafo.
+
+— Cuéntame — dijo. — Cómo funciona.
+
+— Es sencillo — empezó. — Recoge datos. Tus historias. Tus declaraciones. Lo que dices que te hace feliz. Luego mira lo que haces de verdad. Y encuentra patrones que tú no ves. Cuando dices que amas tu trabajo, pero pasas cada momento libre pensando en otra cosa... el algoritmo lo ve.
+
+— ¿Y entonces qué?
+
+— Entonces lo arregla.
+
+— ¿Cómo?
+
+— Te da indicaciones. Cambios pequeños. En lugar de quedarte en el trabajo hasta las diez de la noche, vete a casa a las seis. En lugar de mirar los correos en la cama, lee un libro. Cosas así.
+
+— Suena a una aplicación de gestión del tiempo.
+
+— Es más que eso. Aprende. Cada día entiende mejor lo que necesitas. Se adapta.
+
+— ¿Y tú crees que funciona?
+
+— Las pruebas dicen que sí.
+
+— ¿Y tú?
+
+Dudó.
+
+— Yo no lo sé.
+
+— ¿Qué es lo que no sabes?
+
+— Si no es un engaño.
+
+Ewa calló. Luego oyó que dejaba el bolígrafo.
+
+— Escucha, Michał. Yo no tengo ni idea de cómo funciona tu algoritmo. No entiendo el código. No quiero entenderlo. Pero entiendo una cosa.
+
+— ¿Qué?
+
+— ¿Conoces el relato de Dostoyevski? ¿De las _Notas del subsuelo_?
+
+— Lo conozco.
+
+— Ese hombre. Ese protagonista. Dice que si se pudiera diseñar un algoritmo perfecto para la felicidad — para que el hombre fuera siempre feliz, en cada segundo —, él haría igualmente algo para estropearse el humor. Por puro espíritu de contradicción.
+
+— Lo recuerdo.
+
+— ¿Por qué?
+
+— No lo sé.
+
+— ¿Crees que es verdad?
+
+— No lo sé.
+
+— Yo creo que sí — dijo. — Y no porque la gente sea tonta. Ni porque no quiera ser feliz. Sino porque no quiere ser _programada_. Aunque el programa le prometa todo.
+
+Michał cerró los ojos.
+
+— Entonces, ¿qué hago?
+
+— No lo sé. Pero mañana vendrás. Y me enseñarás ese algoritmo. Y quizá entonces veas algo que ahora no ves.
+
+— De acuerdo.
+
+— Duerme.
+
+— Gracias.
+
+— No me des las gracias. Solo duerme.
+
+Colgó.
+
+Michał dejó el teléfono y miró el techo. La nieve seguía cayendo. En la cocina se encendió la luz automática, esa que se encendía cuando alguien entraba en la habitación. Sabía que debería apagarla. Se quedó.
+
+---
+## III
+
+Fue a casa de Ewa antes del mediodía, con el portátil en la bolsa y una taza de café en la mano, que se había quedado frío por el camino.
+
+El piso de la calle Larga olía a cardamomo y a papel. Sobre la mesa había libros: abiertos, con marcas entre las páginas. En el rincón había una planta grande cuyas hojas caían sobre el alféizar. Ewa estaba sentada en la butaca, con las piernas recogidas, el jersey gris, una taza de té en la mano.
+
+— Siéntate — dijo, señalando la silla. — Cuéntamelo desde el principio.
+
+Se sentó. Puso el portátil sobre la mesa, pero no lo abrió. Durante un momento miró la tapa cerrada, el reflejo de su propia cara en la pantalla negra.
+
+— ¿Recuerdas cómo empecé?
+
+— Lo recuerdo. Hablabas de que la gente no sabe lo que quiere. Que dice una cosa y hace otra.
+
+— Sigue siendo verdad.
+
+— Lo sé.
+
+— Pensé que si encontraba el patrón, les ayudaría. Les mostraría lo que de verdad necesitan. Que basta con mirar los datos.
+
+— ¿Y qué? ¿Lo encontraste?
+
+— Lo encontré.
+
+— Entonces muéstramelo.
+
+Abrió el portátil. Inició sesión. Abrió la aplicación que llevaba meses esperando ese momento.
+
+En la pantalla apareció una interfaz sencilla. Un campo vacío. Un botón con el texto: _Iniciar el análisis_.
+
+— ¿Quieres probarlo? — preguntó.
+
+Ewa miró la pantalla, y luego a él.
+
+— No.
+
+— ¿Por qué?
+
+— Porque no quiero saberlo.
+
+— ¿Qué?
+
+— Lo que quiero de verdad. Si me lo dices, dejaré de tener elección.
+
+— No funciona así.
+
+— ¿Entonces cómo funciona?
+
+— El algoritmo solo propone. Sugiere. Tú decides.
+
+— ¿De verdad?
+
+— Sí.
+
+— Entonces, ¿por qué lo creaste?
+
+Calló. Miró la pantalla. El campo vacío. El botón.
+
+— Porque pensé que ayudaría a la gente — dijo al fin.
+
+— ¿A ayudarla en qué?
+
+— A encontrar lo que busca.
+
+— ¿Y qué busca?
+
+— La felicidad.
+
+Ewa sonrió. No con malicia. Con tristeza.
+
+— ¿Y tú, Michał? ¿La has encontrado?
+
+No respondió.
+
+---
+## IV
+
+Salieron a pasear. La nieve había dejado de caer, pero el cielo estaba gris, pesado. Caminaron en silencio por las calles de Ochota, pasando junto a tiendas, cafés, viejas casas de vecinos.
+
+— ¿Conoces ese momento — dijo al fin — en que sabes que algo no está bien, pero no sabes nombrarlo?
+
+— Lo conozco.
+
+— Lo llevo sintiendo semanas. Desde que el algoritmo estuvo listo. Pensé que sería distinto. Que sentiría alivio. Que estaría orgulloso.
+
+— ¿Y lo estás?
+
+— No lo sé.
+
+— ¿Cuándo fue la última vez que estuviste orgulloso de ti?
+
+Se detuvo. Miró un árbol que crecía delante de una de las casas. Sus ramas estaban desnudas, cubiertas por una capa fina de nieve.
+
+— No lo recuerdo.
+
+— ¿Crees que tu algoritmo lo sabría?
+
+— ¿Qué?
+
+— Si le hablaras de ti. De que no sabes si estás orgulloso. ¿Sabría el algoritmo qué hacer?
+
+— Sabría que debería cambiar algo.
+
+— Pero no sabría qué.
+
+— No.
+
+— Entonces, ¿por qué crees que sabría qué debería hacer otra persona?
+
+Michał miró el árbol. La nieve de las ramas. La luz que se abría paso entre las nubes.
+
+— Quizá no debería haberlo creado.
+
+— Quizá deberías.
+
+— ¿Qué?
+
+Ewa se acercó.
+
+— Quizá deberías haberlo creado. Pero no para que les dijera a otros lo que tienen que hacer. Solo para que vieras lo que tú mismo no ves.
+
+— ¿Qué?
+
+— Que estás buscando algo que el algoritmo no encontrará.
+
+— ¿Y qué es?
+
+No respondió. En su lugar, señaló el árbol.
+
+— ¿Ves ese árbol?
+
+— Sí.
+
+— El algoritmo lo describiría. Diría que es un arce. Que tiene ciento veinte años. Que mide quince metros.
+
+— ¿Y qué?
+
+— Y tú. ¿Tú qué ves?
+
+Michał miró el árbol. La nieve. Las ramas. La luz.
+
+— No lo sé.
+
+— Inténtalo.
+
+Cerró los ojos. Sintió el frío en la cara. Oyó los ruidos de la ciudad. Luego el silencio.
+
+— Veo la nieve — dijo. — Y que estoy aquí. Contigo.
+
+Abrió los ojos. Ewa sonrió.
+
+— Eso — dijo. — Eso es algo que el algoritmo no encontrará.
+
+---
+## V
+
+Volvió al laboratorio al día siguiente. Para la reunión con el equipo. Debía enseñarles el algoritmo terminado, responder a las preguntas, trazar el camino de implementación.
+
+Entró en la sala de reuniones y los vio a todos: programadores, analistas, gestores. Todos esperaban.
+
+— Señor Michał — dijo una de las analistas. — ¿Han pasado todas las pruebas?
+
+— Sí.
+
+— ¿Estamos listos?
+
+— Sí.
+
+— ¿Entonces qué hacemos ahora?
+
+Los miró. Las pantallas. Las notas. Los rostros llenos de expectación.
+
+Cerró el portátil.
+
+— No lo sé — dijo.
+
+Se hizo el silencio.
+
+— Perdón — añadió. — No lo sé.
+
+Alguien se rió con nerviosismo. Otro miró el reloj.
+
+— ¿Qué significa que no lo sabes? — preguntó el gestor.
+
+— Significa que no sé si funciona. Si funciona de verdad. No sé si ayudo a la gente o les quito algo que yo mismo no entiendo.
+
+— Es solo un algoritmo.
+
+— Lo sé.
+
+— Es una herramienta.
+
+— Lo sé.
+
+— Ayuda a la gente.
+
+— Quizá.
+
+— ¿Entonces qué pasa?
+
+Michał miró la pantalla. El campo vacío. El botón.
+
+— Perdón — dijo — pero tengo que pensarlo.
+
+Salió de la sala, dejándolos en silencio.
+
+---
+## VI
+
+Volvió a su piso. Se sentó en el suelo de la cocina y abrió el portátil.
+
+El algoritmo seguía esperando.
+
+Michał lo miró durante mucho tiempo. Las líneas de código que había escrito. Los patrones que había inventado. Las pruebas que había superado.
+
+Luego, despacio, empezó a borrar algo.
+
+No todo. No de golpe.
+
+Empezó por el primer módulo: el que analizaba los datos. Luego el segundo: el que proponía cambios. Luego el tercero: el que aprendía de los errores.
+
+Dejó solo lo más sencillo: una herramienta para reunir información. Sin sugerir. Sin juzgar. Sin indicaciones.
+
+Cuando terminó, cerró el portátil.
+
+La luz de la cocina seguía encendida.
+
+Esta vez no la apagó de inmediato. Se sentó en el suelo y la miró un rato. La bombilla. La luz cálida que caía sobre las encimeras, sobre los platos, sobre los libros que estaban en la estantería.
+
+Y entonces, por primera vez en muchísimo tiempo, sintió que había hecho algo bueno.
+
+No sabía por qué.
+
+No necesitaba saberlo.
+
+---
+Por la noche, antes de dormirse, le escribió a Ewa:
+
+_"No sé si funciona. No sé si ayudará a alguien. Pero sé que ya no quiero decirle a la gente lo que tiene que hacer. Quizá eso baste."_
+
+Ella respondió a los pocos minutos:
+
+_"Eso basta. Duerme."_
+
+Y entonces, mirando su respuesta, comprendió que el algoritmo de la felicidad nunca había hecho falta. Que lo había buscado en el código, en las pruebas, en los datos. Y había estado ahí todo el tiempo: en el árbol, en la nieve, en la luz que alguien dejó encendida. En las palabras que no daban respuestas. En las preguntas que se quedaban sin final.
+
+Cerró los ojos y se durmió.
+
+**FIN**

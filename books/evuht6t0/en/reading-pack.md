@@ -1,0 +1,490 @@
+# Voices from the Earth
+
+## Metadata
+
+**Pack ID:** evuht6t0
+**Book ID:** evuht6t0
+**Legacy Pack ID:** polish_glosy_z_ziemi
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** Voices from the Earth  
+**Subtitle:** Corruption, memory and the courage of a witness  
+**Blurb:** Retired physician Tadeusz Jędrzejowski collects the stories of patients harmed by the system that was supposed to heal them. The more documents and testimonies he gathers, the more clearly the machinery of corruption and indifference shows itself. A story about a man who no longer wants to stay silent while the institution pretends everything works.
+
+**Genres:** history, article  
+**Cover family:** history  
+**Series:** Collection Four  
+**Audience:** adult
+
+**Difficulty:** 7 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 13 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Głosy z ziemi" — Collection Four official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 5  
+
+**Tags:** korupcja w ochronie zdrowia, wojna, pamięć, świadectwo  
+
+**Keywords:** głosy z ziemi, szpital, korupcja, Bielin, świadek  
+
+**Editorial notes:** Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.
+
+---
+**World:**
+- objects: book
+- places: office, home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-10  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 30.06.2026 -> https://www.youtube.com/watch?v=BIVzbrnrL90  
+**Revision notes:** Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.1.0 | 2026-08-26 | Polish prose correction („Wróciła do Polski”) and quiz correction (Q4 subject and answer) |
+
+---
+## Sources
+
+### Source 1: Collection Four manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=BIVzbrnrL90  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-06-30  
+**Availability:** inspired  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**VOICES FROM THE EARTH**
+
+
+Tadeusz Jędrzejowski woke up at four in the morning. Not because he wanted to – that was simply how his body worked after twenty years at the hospital. An alarm clock was unnecessary; his organism knew that in two hours the shift would begin, and he still hadn't finished the report that had been hanging over him for a week.
+
+He rubbed his face and looked at the ceiling. The apartment was quiet. His wife had left three years ago, his children had gone abroad. Only he remained – him, the old house on the outskirts, and a job that pulled him in like quicksand.
+
+He got up, brewed some coffee and sat at the kitchen table. In front of him lay a folder – thick, full of printouts, notes, copies of contracts. He had been working on it for months, in secret from everyone. He knew that if anyone found out about it, he would lose everything. And yet he couldn't stop.
+
+Because in that folder there were numbers that wouldn't let him sleep.
+
+The names of doctors who signed contracts for three full-time posts at once. Working hours that exceeded a human being's physical limits. Lists of patients who got procedures ahead of the queue – for money, for connections, for a smile in the right place. And finally – his own name, appearing on documents whose existence he knew nothing about.
+
+Someone was forging his signatures. Someone was collecting pay in his name for shifts he had never worked.
+
+He closed the folder and stood up from the table. Dawn was breaking outside the window, the sky over Warsaw turning pale grey, as if someone had diluted it with water. He drank his coffee to the last drop and put on his suit. Today he was going to give testimony at the prosecutor's office.
+
+He knew what awaited him. The media, politicians, the medical community. People who would destroy him before he could say what he had seen. But he had no choice.
+
+As he was leaving the house, he stopped for a moment in front of the mirror in the hall. He was sixty-two years old, grey-haired, with eyes darkened by sleepless nights. He looked like someone who had lost before he had even started fighting.
+
+– You're going in – he said to his reflection. – There's no turning back.
+
+And he left.
+
+
+---
+
+## II
+
+Three days earlier, a hundred and thirty kilometres east of Warsaw, Michał Stańczyk stood in the forest near Bielin, looking at the excavation. The earth was dark, damp, soaked with roots and with that thing archaeologists are afraid to call by its name. At the bottom of the pit, two metres deep, fragments of bones had been uncovered.
+
+– How many? – he asked.
+
+– Nine – answered Ołena, a young Ukrainian woman who worked in the team as an interpreter and assistant. – So far.
+
+Michał nodded and climbed down the ladder. In his hand he held a small trowel and a brush. He had been working in this place for three years, ever since someone from the local forestry service reported that the ground here was sinking. Nobody wanted to believe it, but he knew. Since childhood he had heard his grandmother's stories about what had happened in these forests during the war.
+
+– There is more here – he said, touching the edge of the pit with his fingers. – Deeper. Look how the earth is laid out. These are not single graves. This is a mass grave.
+
+Ołena came closer and looked down.
+
+– How many of them are there? – she asked.
+
+– I don't know. Maybe a hundred, maybe two hundred. Maybe more. Someone did this systematically, over several weeks. Every night they brought new ones.
+
+– Poles? – she asked quietly.
+
+Michał looked at her. He knew what she was asking. She was asking about what everyone was afraid of – that her own countrymen lay in this earth, people who had come here to kill.
+
+– I don't know – he admitted. – Maybe Poles, maybe Ukrainians, maybe Jews. Here, in this forest, everyone found death. There are no differences here. There are only bones.
+
+Ołena turned her gaze away. She was twenty-eight years old, she had come to Poland two years ago, fleeing the war. She knew the history of her country, and she knew the history of what had happened in these lands. She didn't want to believe that her ancestors had had a hand in it.
+
+– What will we do when we find them? – she asked.
+
+– We'll bury them – answered Michał. – With dignity. Each by name, if we can determine it. And if not – then as people who deserve to be remembered.
+
+Ołena was silent for a long moment.
+
+– I wish they did the same in my country – she said at last.
+
+Michał didn't answer. He knew it didn't depend on them. That such things take years, generations. That sometimes one cross in the forest is enough to make the earth stop screaming.
+
+
+---
+
+## III
+
+That same day, in the newsroom of one of Warsaw's newspapers, Tomasz Nowak was going through his mailboxes. He had been an investigative journalist for fifteen years, he had seen everything – scandals, frauds, upheavals that shook the country. But lately something had changed. It was getting harder and harder to find a subject that truly moved him.
+
+Until today.
+
+In his inbox he found an email from an anonymous sender. Subject: _"For your attention"_. Attachment: a screenshot.
+
+He opened it and stared at the screen for a moment. It was a post on an internal messenger intended for doctors. Someone had copied a fragment of a private conversation in which the chairman of the Polish Chamber of Physicians wrote about his plans for the autumn. "Armageddon" – that word appeared there. "Let the government bleed out. We'll wait."
+
+Tomasz read it three times before closing the browser. Then he got up from his desk and walked to the window. Outside, Warsaw was teeming with life – people going to work, cars stuck in traffic, someone selling flowers on a street corner. Everything looked normal. And yet he knew that behind this everydayness lurked something that could shake the country.
+
+He returned to his desk and began to write. The article was not supposed to be political. It was supposed to be factual, cold, based on facts. He wanted to show what had been written, who had written it, and in what context. The rest – interpretations, comments, political squabbles – was supposed to come later.
+
+He wrote for two hours, without taking his eyes off the screen. When he finished, he read the text from beginning to end, corrected a few typos and clicked "publish".
+
+He knew that a wave of criticism would soon fall on him. From the medical community, from politicians, from those who don't want the truth to come out. But he also knew he had no choice.
+
+Because in his inbox, besides the anonymous email, he had also found a second letter. From a woman named Maria, who wrote:
+
+_"My grandfather died in the forest near Bielin in 1943. I have been looking for his grave my whole life. Can you help?"_
+
+Tomasz didn't know then that this request would weave together all the threads that were just beginning to unravel.
+
+
+---
+
+## IV
+
+A week later, Tadeusz Jędrzejowski sat in the prosecutor's office answering questions. The room was cold, the walls white, on the table lay his stack of documents. In front of him sat the prosecutor – young, in a suit, with a face that revealed no emotion.
+
+– Doctor – the prosecutor began. – You have reported irregularities at the Southern Hospital. Could you present the evidence?
+
+Tadeusz nodded and opened the folder. He began to speak. About the contracts, the forged signatures, the patients who died in queues while others were treated outside them. He spoke for two hours, and the prosecutor took notes.
+
+When he finished, silence fell.
+
+– Do you have witnesses? – asked the prosecutor.
+
+– Yes. The hospital staff. Nurses, residents, technicians. They know what was going on.
+
+– And why didn't you report this earlier?
+
+Tadeusz looked at him. There was something in that question that hurt him.
+
+– I was afraid – he admitted. – And I was ashamed. Because I too was a part of it. Unconsciously, but I was. Someone signed in my name, collected money for me. I didn't know about it, but that doesn't change the fact that I was part of the system.
+
+The prosecutor put down his pen.
+
+– Very well. We will accept your testimony. But you must know that this case will be difficult. Powerful people don't want it to come out.
+
+– I know.
+
+– And that you may lose everything.
+
+Tadeusz smiled bitterly.
+
+– I've already lost. My job, my reputation, my family life. All I have left are these documents and the truth. And that has to be enough.
+
+
+---
+
+## V
+
+That same day, Michał Stańczyk was working in his forest near Bielin. They had already uncovered thirty-one skeletons, and the work went on. Among the bones they found a button, a piece of fabric and a fragment of a wedding ring.
+
+– It's a woman – said Ołena, examining the ring. – She was about thirty years old. She died pregnant.
+
+Michał took the ring in his hand. It was light, of matte silver, with an engraved date – 1942. On the inside someone had carved initials: "K. and M."
+
+– Someone was waiting for her at home – he said quietly. – Someone who never found out what happened.
+
+Ołena looked at him.
+
+– Who do you think it was? A Pole? A Ukrainian? A Jew?
+
+– I don't know. But I know that someone loved her.
+
+In the distance, the sound of an engine. An off-road vehicle drove into the forest, and a middle-aged man got out. Michał recognised him at once – it was Tomasz Nowak, the journalist who wrote about the hospital case.
+
+– Mr Michał? – asked Tomasz. – I heard from Mrs Maria. She is looking for her grandfather's grave. Apparently he died in this forest.
+
+Michał nodded.
+
+– We have many graves here. We'll need to examine the records.
+
+Tomasz walked over to the pit and looked at the bones.
+
+– It's terrible – he said. – So many years have passed, and they are still here.
+
+– Because nobody buried them – answered Michał. – Because they were forgotten.
+
+Tomasz was silent for a moment.
+
+– You know, I write about a system that lets people die in queues. But here, in this forest, there is another system. A system of forgetting. Someone decided that these people don't deserve to be remembered. And it's been going on for generations.
+
+Michał looked at him.
+
+– And what do you want to do about it?
+
+– I want to write about it. Not about politics. About people. About those who are waiting for justice.
+
+Ołena came closer.
+
+– It will never end – she said quietly. – There will always be those who forget.
+
+Tomasz looked at her.
+
+– I know. But maybe it's worth trying.
+
+
+---
+
+## VI
+
+He returned to Warsaw and sat at his desk. In front of him lay two pieces of material: one about the healthcare system, the other about the forest near Bielin. At first glance they had nothing in common. And yet something connected them.
+
+In both cases someone suffered. Someone died. And someone kept silent about it.
+
+He began to write a new text. Not about a political scandal, not about a historical dispute. About something else: about people who dared to speak.
+
+The first of them was a doctor. Tadeusz Jędrzejowski. A man who lost everything to tell the truth. The second – Maria. A woman who had been looking for her grandfather's grave for forty years. The third – Ołena. A young Ukrainian woman who had come to Poland to escape the war, and found earth hiding the bones of her countrymen.
+
+And the fourth – himself. A journalist who believed that words could change the world.
+
+He wrote:
+
+_"Every system has its victims. In the hospital people die because someone decided their lives were worth less. In the forest bones lie because someone decided their deaths don't deserve to be remembered. And we, the living, stand between these two worlds. We can look away. Or we can try to change something."_
+
+He published the text in the evening. By morning it had a million views.
+
+
+---
+
+## VII
+
+A week later, Tadeusz Jędrzejowski sat in his apartment reading Tomasz's article. When he finished, he put the newspaper down on the table. He knew this was only the beginning.
+
+On the table lay an envelope he had received from the nurses. Inside was money for a lawyer. And a note: _"You are not alone."_
+
+Tadeusz closed his eyes. He knew this would be a long road. That he would lose even more than he had lost so far. But he also knew that somewhere out there, in that forest near Bielin, someone would finally get a name.
+
+And that what he had done made sense.
+
+
+---
+
+## VIII
+
+Michał Stańczyk stood over the pit, looking at the bones. The work went on, they had already uncovered fifty-two skeletons. Among them he found the one Maria had been looking for – a man with a ring engraved with the wedding date. She had been called Helena, he – Jan. They died together.
+
+Tomasz came again, this time with Maria. The woman was eighty years old, she moved with difficulty, but she didn't want to wait in the car. She walked to the pit and looked down.
+
+– It's him – she said quietly. – It's my grandfather. I would recognise him anywhere.
+
+Michał took her hand.
+
+– Now you can bury him.
+
+Maria didn't cry. She looked at the sky and smiled.
+
+– Thank you – she said. – Thank you for remembering them.
+
+Tomasz stood beside and watched. He knew that what had happened here wouldn't change the world. But he also knew that for one woman this day mattered. And that it was enough.
+
+
+---
+
+## IX
+
+Ołena returned to her apartment late in the evening. She had had enough – enough of the forest, enough of the bones, enough of thinking about what her homeland had done. She sat on the bed and looked at the photo of her family, which had stayed in Ukraine. In the photo everyone was smiling, as if there were no war.
+
+The phone rang. She answered.
+
+– Ołena? – she heard her mother's voice. – Is everything all right?
+
+– Yes, Mom. Everything is fine.
+
+– Are you still working in that forest?
+
+– Yes.
+
+– Is it hard?
+
+Ołena hesitated.
+
+– It's hard – she admitted. – But it's important. Someone has to remember them.
+
+Her mother was silent for a moment.
+
+– Your grandmother was there too – she said at last. – She never talked about it, but I know. There, near Bielin. She saw.
+
+Ołena closed her eyes.
+
+– Mom, why didn't you tell me?
+
+– Because I was afraid you wouldn't understand. But now you understand.
+
+Ołena didn't answer. She knew that was how it was. That some truths come slowly, over generations. And that sometimes you have to dig them out of the earth so they can see the light.
+
+
+---
+
+## X
+
+She stayed in Poland. Forever.
+
+Months passed. Tadeusz won his case – the system began to change, slowly, but it did. Tomasz wrote a book about the forest near Bielin, about the hospital, about people who dared to speak. Ołena returned to her studies and began teaching others what she had learned in the Polish forest.
+
+And Michał was still working. There were still many graves, many bones, many stories waiting for their names.
+
+One day, at the end of autumn, they all met in the forest. Tadeusz, Tomasz, Ołena, Michał and Maria. They stood over the place where they had uncovered the last grave – several dozen skeletons, laid out in rows, as in a sarcophagus.
+
+Michał took some earth in his hand and let it fly on the wind.
+
+– This is not the end – he said. – But it's a good beginning.
+
+Maria smiled.
+
+– My grandfather would have wanted this. To be remembered.
+
+Tomasz looked at them all, and then he understood.
+
+In this forest, in this earth, in these bones, there was something that connected them all. Not politics. Not history. Something deeper. The same thing that made Tadeusz risk everything. The same thing that made Maria search for a grave for forty years. The same thing that made Ołena return to her country.
+
+The belief that truth matters. That memory matters. That people – all people, no matter who they were or where they came from – deserve to be remembered.
+
+And then he understood that this was exactly that moment. The one that weaves all the threads into one, and the reader says at the end: _"Aha, so that's what it was about."_
+
+
+---
+
+He returned home and wrote the last text. Short, simple, without politics.
+
+_"In the forest near Bielin lie bones. In the emergency room of the hospital, people die. In both places someone decided that their lives and deaths don't matter. But we, the living, can change that. We can remember. We can tell the truth. We can be the voice of those who lost theirs."_
+
+He published it late in the evening. And when he finished, he closed the laptop and looked out the window. Outside, snow was falling, the first of the year. And he felt that what he had done made sense.
+
+Because sometimes, to change the world, all it takes is one story. And a few people who dare to tell it.
+
+
+---
+
+**THE END**
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What does Tadeusz Jędrzejowski discover in his secret folder?
+
+**Answers:**
+- A) Only errors in the holiday records
+- B) Fake contracts, shifts and forged signatures in the healthcare system
+- C) Plans for renovating the hospital
+- D) A love letter to his wife
+
+**Correct:** B
+**Explanation:** The folder contains names of doctors on multiple posts, fake shifts and his forged signatures.
+**Text reference:** Someone was forging his signatures
+
+### Question 2
+
+**Question:** Where is Tadeusz supposed to go on the day the story opens?
+
+**Answers:**
+- A) To retire abroad
+- B) To the prosecutor's office to give testimony
+- C) To a medical conference in Berlin
+- D) To civil court for a divorce
+
+**Correct:** B
+**Explanation:** The text says directly that that day he is to give testimony at the prosecutor's office.
+**Text reference:** give testimony at the prosecutor's office
+
+### Question 3
+
+**Question:** What connects the hospital thread with the discovery near Bielin?
+
+**Answers:**
+- A) Both concern the same building
+- B) In both cases someone decided that someone's life and death don't matter
+- C) Both were invented by the media
+- D) Both concern only foreign policy
+
+**Correct:** B
+**Explanation:** The final text juxtaposes the bones in the forest and the people dying in the emergency room as cases of disregard for life.
+**Text reference:** their lives and deaths don't matter
+
+### Question 4
+
+**Question:** What decision does Tadeusz make at the end of the story?
+
+**Answers:**
+- A) He destroys all the evidence and stays silent
+- B) He does not back down — he accepts support and continues the fight for the truth
+- C) He goes abroad to his daughter
+- D) He returns to working night shifts
+
+**Correct:** B
+**Explanation:** He accepts the money for a lawyer from the nurses and knows a long road lies ahead of him.
+**Text reference:** You are not alone.
+
+### Question 5
+
+**Question:** Why does Tadeusz conduct his investigation in secret?
+
+**Answers:**
+- A) Because he can't read documents
+- B) Because he knows that revealing the folder may deprive him of everything
+- C) Because his wife asks him to
+- D) Because he wants to write a crime novel
+
+**Correct:** B
+**Explanation:** He works on the folder in secret, knowing that revealing it may deprive him of everything.
+**Text reference:** he would lose everything
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

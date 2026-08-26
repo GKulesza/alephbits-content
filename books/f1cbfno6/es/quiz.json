@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué termina Michał tras cinco años de trabajo?",
+      "answers": [
+        "Un videojuego",
+        "El algoritmo de la felicidad",
+        "Una aplicación bancaria",
+        "Un sistema operativo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras cinco años, el algoritmo está listo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Ewa sobre el protagonista de Dostoyevski?",
+      "answers": [
+        "Que es feliz",
+        "Que haría algo para estropearse el humor — por espíritu de contradicción",
+        "Que acepta el algoritmo",
+        "Que no había leído"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa pregunta por el hombre que se estropearía el humor por espíritu de contradicción."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Ewa que describiría el algoritmo sobre el árbol?",
+      "answers": [
+        "Solo su belleza",
+        "La especie, la edad y la altura — pero no lo que ve Michał",
+        "Nada",
+        "El color de las hojas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que el algoritmo daría el arce, 120 años, 15 metros — pero no la experiencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve Michał al mirar el árbol con los ojos cerrados?",
+      "answers": [
+        "Nada",
+        "La nieve y que está con Ewa",
+        "El futuro",
+        "Código"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: veo la nieve y que estoy aquí contigo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Michał con el algoritmo al final?",
+      "answers": [
+        "Lo vende",
+        "Borra los módulos que sugieren cambios — deja solo la recogida de información",
+        "Lo publica sin cambios",
+        "Se lo entrega al equipo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Borra los módulos que proponen cambios; deja una herramienta sencilla de información."
+    }
+  ]
+}

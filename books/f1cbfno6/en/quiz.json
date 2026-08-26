@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Michał finish after five years of work?",
+      "answers": [
+        "A computer game",
+        "The happiness algorithm",
+        "A banking app",
+        "An operating system"
+      ],
+      "correctIndex": 1,
+      "explanation": "After five years the algorithm is ready."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa say about Dostoyevsky's protagonist?",
+      "answers": [
+        "That he is happy",
+        "That he would do something to ruin his own mood — out of contrariness",
+        "That he accepts the algorithm",
+        "That he didn't read"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa asks about the man who would spoil his mood out of contrariness."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Ewa say the algorithm would describe about the tree?",
+      "answers": [
+        "Only its beauty",
+        "The species, age and height — but not what Michał sees",
+        "Nothing",
+        "The colour of the leaves"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says the algorithm would give the maple, 120 years, 15 metres — but not the experience."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Michał see when he looks at the tree with his eyes closed?",
+      "answers": [
+        "Nothing",
+        "The snow and that he is with Ewa",
+        "The future",
+        "Code"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says: I see the snow and that I'm here with you."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Michał do with the algorithm at the end?",
+      "answers": [
+        "He sells it",
+        "He deletes the modules that suggest changes — he leaves only information gathering",
+        "He publishes it unchanged",
+        "He hands it to the team"
+      ],
+      "correctIndex": 1,
+      "explanation": "He deletes the modules that propose changes; he leaves a simple information tool."
+    }
+  ]
+}

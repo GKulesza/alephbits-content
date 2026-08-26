@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo explica el texto la sonrisa polaca?",
+      "answers": [
+        "No es la configuración por defecto: aparece con un motivo",
+        "Los polacos sonríen constantemente",
+        "La sonrisa está prohibida",
+        "La sonrisa siempre significa coqueteo"
+      ],
+      "correctIndex": 0,
+      "explanation": "El amigo explica que la sonrisa no es la configuración por defecto de la cara."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se siente perdida la protagonista?",
+      "answers": [
+        "La sonrisa americana no abre el contacto",
+        "No sabe ninguna palabra en polaco",
+        "No tiene dinero",
+        "Iba a Cracovia"
+      ],
+      "correctIndex": 0,
+      "explanation": "La gente no reacciona a su sonrisa constante."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hacen los polacos al entrar en una casa?",
+      "answers": [
+        "Se quitan los zapatos",
+        "Se dejan los zapatos puestos",
+        "Lavan los cristales",
+        "Cenan"
+      ],
+      "correctIndex": 0,
+      "explanation": "La regla diez habla de quitarse los zapatos en casa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué considera la protagonista una pequeña victoria?",
+      "answers": [
+        "Decir «dziękuję» en polaco",
+        "Comprar un café",
+        "Montar en metro",
+        "Encontrar un hotel"
+      ],
+      "correctIndex": 0,
+      "explanation": "El primer «dziękuję» en la tienda es una pequeña victoria."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es la diferencia entre un turista y un residente?",
+      "answers": [
+        "El residente acepta el país tal como es",
+        "Los turistas aprenden polaco",
+        "Los residentes no sonríen",
+        "Los turistas siempre vuelven"
+      ],
+      "correctIndex": 0,
+      "explanation": "El turista exige que el país sea como el suyo; el residente lo acepta."
+    }
+  ]
+}

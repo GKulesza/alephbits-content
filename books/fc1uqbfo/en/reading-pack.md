@@ -1,0 +1,325 @@
+# The Excess
+
+## Metadata
+
+**Pack ID:** fc1uqbfo
+**Book ID:** fc1uqbfo
+**Legacy Pack ID:** polish_nadwyzka
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** The Excess  
+**Subtitle:** When the simulation sees more than the model  
+**Blurb:** Tadek Pachocki wakes up in Gdynia to an alarm from the laboratory: the simulation of the centre of the Milky Way deviates from the model by 4.2 sigma. Together with his doctoral student Kamil he discovers a regular structure where pulsars or traces of dark matter were expected — and faces the choice of publishing a bold hypothesis before someone else does. A story about scientific courage, the memory of an engineer father, and about how the most important discovery is often a good question rather than a ready answer.
+
+**Genres:** popular_science, article  
+**Series:** Collection Seven  
+**Audience:** adult  
+
+**Difficulty:** 7 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 9 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(contemporary — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Nadwyżka" — Collection Seven official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 5  
+
+**Tags:** astrofizyka, symulacja, ciemna materia, publikacja naukowa, Gdynia  
+
+**Keywords:** nadwyżka gamma, pulsary, ciemna materia, Physical Review Letters, symulacja  
+
+**Editorial notes:** Spekulatywna publicystyka naukowa inspirowana realnymi badaniami nadwyżki promieniowania gamma w centrum galaktyki; wymaga rozdzielenia faktów od fikcyjnej hipotezy nowego pola.
+
+**Cover family:** popular_science
+
+---
+
+**World:**
+- objects: glass
+- places: home, shop
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-11  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 18.12.2025 -> rbAuChFG0Tg  
+**Revision notes:** Collection Seven editorial import (Phase 83). Fikcyjna hipoteza nowego pola oddziaływania na tle realnych badań Wiednia/PRL; wymaga founder review przed traktowaniem jako materiał edukacyjny z fizyki.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-11 | Collection Seven editorial import (Phase 83) |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=rbAuChFG0Tg  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2025-12-18  
+**Availability:** inspired  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną, nie transkrypcją.
+
+---
+
+## Text
+
+**THE EXCESS**
+
+**When the simulation sees more than the model**
+
+
+Tadek Pachocki knew he had a problem even before he opened his eyes. His phone was vibrating on the glass desk with eerie regularity – three short, two long, a pause, again. The laboratory's alarm signal. He had enabled it himself, a month ago, after one of the doctoral students accidentally ran a night simulation on the main cluster and burned three days of the whole team's work.
+
+He opened his eyes. The ceiling of his apartment in Gdynia was grey, scratched, and pale Baltic light came in through the window. He took a deep breath and reached for the phone.
+
+_ALERT: Unconventional activity in simulation no. 47. Deviation of 4.2 sigma from the baseline model detected._
+
+He rubbed his eyes and read it again. 4.2 sigma. That was not a coincidence. Tadek sat up in bed, his fingers already typing an answer to the team:
+
+_"Stop everything. I'm checking. I'll be there in an hour."_
+
+He tossed the phone onto the blanket and stared at the wall for a moment. He was thirty-four years old, he led a team of computational astrophysicists at the University of Gdańsk, and he had just – most likely – found something that could shatter years of quiet work, his entire career.
+
+He dressed in the dark. He didn't turn on the light. In the kitchen he left the unfinished coffee he had made the evening before. Somewhere in the background, in his head, echoed the question he had been asking himself for a year: _what would his father do?_
+
+He didn't answer himself. He left the apartment.
+
+
+The Computational Astrophysics Laboratory was housed in a grey building on the edge of the campus. Tadek went through three doors with access codes, past offices that were still empty at this hour. Only one light was on – his own, because he never left work at a normal hour.
+
+Sitting in front of the monitor was Kamil, his best doctoral student, a guy in his twenties with eyes sunken from too many hours staring at lines of code. When Tadek came in, Kamil didn't even turn around. He only pointed at the screen.
+
+— Look.
+
+Tadek came closer. On the screen stretched a map of the centre of the Milky Way – a density of light, millions of stars, dust, gas, everything that made up the heart of our galaxy. But overlaid on it were data – red, pulsing points that arranged themselves into something that looked like a sphere.
+
+— How many points? — he asked.
+
+— Thirty-five thousand. Maybe more. The simulation suggests it's a population of very faint, rapidly rotating pulsars. Only... — Kamil paused, pursed his lips. — Only the thing is, our neural network found a pattern. Look here.
+
+He shifted the image. Tadek watched.
+
+— That's not a random distribution — he said quietly. — They're not arranged like a typical population of neutron stars. They form a regular structure.
+
+— Yes — Kamil confirmed. — And that's exactly what triggered the alarm. For the last three hours I've been trying to check whether it's an artifact. It isn't. The AI picked up something the earlier models didn't see. Either we're dealing with a pulsar population arranged in a way we can't explain... or those aren't pulsars.
+
+Tadek leaned against the desk. For a moment he heard only the hum of the ventilation and the soft buzzing of the monitors. In his head he was forming the picture from the article he had read a month ago – _Physical Review Letters_, an international team of researchers from the University of Vienna that had analysed the excess of gamma radiation from the galactic centre using machine learning. Result: a population of more than 35 thousand very faint pulsars.
+
+But nobody had said then that they would form a structure. That was something new.
+
+— Kamil — he said quietly. — This is either the greatest discovery of our decade... or the greatest mistake.
+
+— What about dark matter? — asked the doctoral student. — After all, that was the second lead.
+
+Tadek smiled bitterly. "Dark matter" – a word that over the past years had become both a promise and a curse. He himself had spent three years trying to find evidence of its existence in data from gamma telescopes. And always, always he hit the same wall – no direct evidence, only circumstantial clues, only indirect hints.
+
+But now...
+
+— Maybe — he said slowly. — Maybe it's neither dark matter nor pulsars. Maybe it's something completely different. Kamil, run me an alternative simulation. Assume it's emission coming from a process we don't know. Give the AI free rein.
+
+The doctoral student looked at him with hesitation.
+
+— That could take days.
+
+— I know. But if we're right... someone else will beat us to it.
+
+
+Over the next hours Tadek sat in his office, staring at data that arranged itself before him like a puzzle without a picture on the box. He recalled conversations with his father – not about astrophysics, never about astrophysics, because his father was an engineer, a specialist in systems optimisation – but about something more important.
+
+_"First you get a challenge"_ – his father used to say, when Tadek was still a child learning to solve his first programming problems. _"You get a problem nobody has solved before. And you sit over it, and you rack your brains, and you search. And then, at some point, inspiration comes. Not because you're a genius – because your brain has been working all along, even while you slept. And suddenly you see the whole."_
+
+Tadek remembered that voice. He remembered how his father taught him to program when he was ten, when everyone at school said he was average. He remembered how his father explained that mistakes are not failures, but steps towards a solution. He remembered how his father took him to workshops where, for the first time, he saw that you could learn not by rote, but through challenges.
+
+_"Don't be afraid to look for what is invisible"_ – his father had told him when Tadek was leaving for university in Warsaw. _"The greatest discoveries begin when someone notices something others don't want to see."_
+
+Back then Tadek thought his father was talking about physics, about science. Now, looking at the screen with a simulation showing a regular, almost organic structure at the centre of the galaxy, he began to understand that his father had been talking about something much bigger.
+
+"What would you do?" – he whispered to the empty room.
+
+The answer came at once, not as a voice, but as a decision made somewhere deep inside him: _"You would go further. Even if everyone tells you it's impossible."_
+
+Tadek reached for the keyboard and began to write.
+
+
+Three days later Kamil walked into his office without knocking. He had dark bags under his eyes, but in his look there was something Tadek hadn't seen in a long time – pure, unbridled enthusiasm.
+
+— I found it — he said. — Or rather... the machine found it. Look.
+
+A chart appeared on the screen. Tadek watched for a moment, not understanding what he was seeing.
+
+— It's a field, right? — he asked. — A field of something?
+
+— A field... — Kamil hesitated. — A field that has no name, because nobody has ever described it. But if we assume it exists, that it works like something between gravity and the strong interaction... then everything fits. Both the gamma emission at the galactic centre and the distribution of that "population" match. They're not pulsars, Tadek. It's not dark matter. It's a sign that we're missing a piece of the puzzle.
+
+Tadek felt himself go cold. If this was true, if they really had discovered a new physical field, a new interaction, it meant they were challenging the foundations of modern astrophysics. And that, in turn, meant the publication of their work would meet not only enthusiasm, but above all resistance. Criticism. Accusations of unreliability, of interpretations that were too bold, of chasing sensationalism.
+
+Like his father, when he talked about his teaching method. Like a man who had found something nobody wanted to see.
+
+— Do you have evidence? — he asked. — Hard, mathematical evidence?
+
+— I have simulations. I have statistics. I have the fact that every other model fails, and this one works. — Kamil leaned over the desk. — Tadek, I know this sounds insane. I know nobody will believe us if we come out with this now. But if we wait... if someone else finds the same thing...
+
+Tadek clenched his jaw. He knew what he had to do. He knew his father would tell him: _"Publish. Even if you're wrong. Even if everyone criticises you. Science is a process, not a race. But if you're right, you can't keep it to yourself."_
+
+— We're writing the paper — he said. — We gather all the data, all the simulations, all the conclusions. And we send it to _Physical Review Letters_. Let the greatest experts judge it.
+
+Kamil looked at him with a mix of relief and unease.
+
+— And if they reject it?
+
+— Then we'll send it somewhere else. And if everyone rejects it... — Tadek smiled. — We'll publish it on arXiv. Let the world judge.
+
+
+Six months later Tadek sat in the same office, with the same view of the grey, wintry Baltic. On the desk lay a printout from _Physical Review Letters_ – his paper, which had gone through the hell of reviews, criticism, revisions and more criticism.
+
+The text was short, factual, full of caveats. Title: _"An alternative interpretation of the excess of gamma radiation at the centre of the Milky Way – hypothesis of a new interaction field"_.
+
+He received one hundred and nine letters from scientists around the world. Half praised his courage, the other half accused him of unreliability. He gave lectures at three conferences where senior professors with sunken cheeks looked at him as if he were a heretic. He lost two grants, because the funders considered his research "too risky".
+
+But he also gained something else.
+
+A few days ago a young physicist from Harvard University had called him, and said briefly:
+
+— Doctor, we've been working on a similar hypothesis for two years. We didn't have the courage to publish it. Thank you for doing it. Maybe now the rest of the world will finally start looking in the right direction.
+
+Tadek didn't answer. He wasn't sure what to say. He only knew that the connection he had made with his father years ago had not been about physics. It had been about something much deeper – about the belief that it's worth looking for what others don't see, even if for a moment you are alone.
+
+He took the printout in his hand. In the corner of the page, in a footnote, he had placed a dedication that no one but him understood:
+
+_"To all the teachers who teach how to solve challenges, instead of drilling in formulas."_
+
+Then he stood up, left the paper on the desk and walked out of the laboratory. Outside it was raining, but he didn't take an umbrella. He needed a moment to feel something real, something tangible on his face.
+
+He walked along the seaside promenade, hearing the murmur of the waves and thinking about what he had found – or rather, about what he hadn't found. Because that was the greatest discovery: not the answer, but the right question.
+
+Maybe it was dark matter. Maybe it was a new kind of interaction. Maybe it was an error in the simulation. But now, whatever the outcome, he knew one thing: he would never look at the universe the same way again. And that was enough.
+
+He stopped for a moment and looked at the sky. In the daytime no stars were visible, but he knew that there, at the centre of the galaxy, something was shining. Something he couldn't yet name.
+
+He smiled to himself.
+
+_"Good"_ – he thought. _"That's exactly how it should be."_
+
+He walked on, leaving behind the laboratory, the printouts and all that noise. Because he knew that what really mattered was only just beginning.
+
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What exactly triggers the alarm in the laboratory at the beginning of the story?
+
+**Answers:**
+- A) A power failure of the computing cluster
+- B) A deviation of 4.2 sigma from the baseline model in simulation no. 47
+- C) A doctoral student accidentally running the night simulation
+- D) Loss of connection with the space telescope
+
+**Correct:** B
+**Explanation:** Tadek's phone shows an alert about unconventional activity and a deviation of 4.2 sigma.
+**Text reference:** Deviation of 4.2 sigma from the baseline model detected.
+
+### Question 2
+
+**Question:** What does Kamil single out in the data from the galactic centre that raises doubts about pulsars?
+
+**Answers:**
+- A) The points form a regular structure, not a random distribution
+- B) There are no data points on the map
+- C) All the pulsars have the same brightness as the Sun
+- D) The simulation shows only interstellar dust without emission
+
+**Correct:** A
+**Explanation:** The neural network detects a pattern — the distribution does not resemble a typical population of neutron stars.
+**Text reference:** They form a regular structure.
+
+### Question 3
+
+**Question:** What alternative instruction does Tadek give Kamil after the doubts about dark matter?
+
+**Answers:**
+- A) To delete the data and close the project
+- B) To run a simulation of an unknown emission process, giving the AI free rein
+- C) To publish the results immediately without review
+- D) To hand the research over to the Vienna team
+
+**Correct:** B
+**Explanation:** Tadek asks for an alternative simulation assuming a process they don't yet know.
+**Text reference:** Assume it's emission coming from a process we don't know.
+
+### Question 4
+
+**Question:** Where do Tadek and Kamil send their paper after gathering the data?
+
+**Answers:**
+- A) To the journal Physical Review Letters
+- B) Only to scientific Twitter
+- C) To a local newspaper in Gdynia
+- D) Directly to NASA without review
+
+**Correct:** A
+**Explanation:** Tadek decides to send the work to PRL, treating arXiv as a fallback route.
+**Text reference:** we send it to _Physical Review Letters_.
+
+### Question 5
+
+**Question:** What does Tadek place in a footnote of the published paper?
+
+**Answers:**
+- A) A full list of the lost grants
+- B) A dedication to teachers who teach through challenges
+- C) A warning about a simulation error
+- D) The phone number of the Harvard team
+
+**Correct:** B
+**Explanation:** In the footnote he leaves a personal dedication referring to his father's teaching.
+**Text reference:** To all the teachers who teach how to solve challenges
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

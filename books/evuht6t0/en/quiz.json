@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Tadeusz Jędrzejowski discover in his secret folder?",
+      "answers": [
+        "Only errors in the holiday records",
+        "Fake contracts, shifts and forged signatures in the healthcare system",
+        "Plans for renovating the hospital",
+        "A love letter to his wife"
+      ],
+      "correctIndex": 1,
+      "explanation": "The folder contains names of doctors on multiple posts, fake shifts and his forged signatures."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where is Tadeusz supposed to go on the day the story opens?",
+      "answers": [
+        "To retire abroad",
+        "To the prosecutor's office to give testimony",
+        "To a medical conference in Berlin",
+        "To civil court for a divorce"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says directly that that day he is to give testimony at the prosecutor's office."
+    },
+    {
+      "type": "single_choice",
+      "question": "What connects the hospital thread with the discovery near Bielin?",
+      "answers": [
+        "Both concern the same building",
+        "In both cases someone decided that someone's life and death don't matter",
+        "Both were invented by the media",
+        "Both concern only foreign policy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final text juxtaposes the bones in the forest and the people dying in the emergency room as cases of disregard for life."
+    },
+    {
+      "type": "single_choice",
+      "question": "What decision does Tadeusz make at the end of the story?",
+      "answers": [
+        "He destroys all the evidence and stays silent",
+        "He does not back down — he accepts support and continues the fight for the truth",
+        "He goes abroad to his daughter",
+        "He returns to working night shifts"
+      ],
+      "correctIndex": 1,
+      "explanation": "He accepts the money for a lawyer from the nurses and knows a long road lies ahead of him."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Tadeusz conduct his investigation in secret?",
+      "answers": [
+        "Because he can't read documents",
+        "Because he knows that revealing the folder may deprive him of everything",
+        "Because his wife asks him to",
+        "Because he wants to write a crime novel"
+      ],
+      "correctIndex": 1,
+      "explanation": "He works on the folder in secret, knowing that revealing it may deprive him of everything."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "f1cbfno6:en",
+  "bookId": "f1cbfno6",
+  "locale": "en",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_algorytm_szczescia",
+  "legacySlug": "algorytm-szczescia",
+  "title": "The Happiness Algorithm",
+  "language": "en",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-12",
+  "description": "Michał finishes five years of work on the happiness algorithm — and suddenly he doesn't know whether he is right. Ewa from Long Street asks him about Dostoyevsky and about a tree in the snow. A story about a programmer who looked for happiness in data, and found it in a question.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "algorytm",
+    "szczęście",
+    "programowanie",
+    "Collection Eight"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 11,
+  "translation": "English translation of the Polish reading pack \"Algorytm szczęścia\" — Collection Eight official edition.",
+  "text": "**THE HAPPINESS ALGORITHM**\n\n## I\n\nIn the evening, after thirteen hours in the laboratory, Michał sat down in front of the screen and looked at the last lines of code. They were perfect. All the tests had passed. The algorithm he had been working on for five years was finally ready.\n\nHe called Ewa.\n\n— It's done — he said. — It works.\n\nIn the receiver he heard her put down a book. Clear her throat. Then a silence that lasted too long.\n\n— That means you have it — she said at last. — You have it.\n\nShe didn't ask: \"And now what?\" She had repeated that question for the past two years, every time he visited her in her apartment on Long Street, when he talked about the next iterations, about the bugs, about the days when he came home at three in the morning and fell asleep on the office floor.\n\n_And now what, Michał?_\n\nThis time she didn't ask.\n\n— I'll come tomorrow — he said. — You have to see it.\n\n— Tomorrow is Friday. You have a presentation.\n\n— I can postpone the presentation.\n\n— Michał.\n\n— What.\n\n— Four years.\n\n— I know.\n\n— Your company is waiting for this algorithm.\n\n— I know.\n\n— You know I can't help you. I don't know how. It's not my field.\n\n— You don't have to know how. You only have to...\n\nHe hesitated. He knew he shouldn't. Ewa hated it when he judged her.\n\n— You only have to look — he finished.\n\nIn the receiver he heard her breathing. Then the rustle of fabric, as if she had turned around on the sofa. He pictured her — in a grey sweater, legs tucked under her, a notebook on her knees, the one in which she had been writing down fragments from the books she read for years, sentences she had heard on the bus, dreams she remembered in the morning. He knew that in that notebook there was not a single formula, not a single line of code. Pure language.\n\n— Come — she said at last. — But don't tell me this is going to change something.\n\n— I'm not saying that.\n\n— You are. In every sentence.\n\n— I'm sorry.\n\n— Don't apologize. Just remember. You create algorithms. And the world is bigger than algorithms. Yours too.\n\nShe ended the call before he could answer.\n\nHe left the phone on the desk and walked out into the corridor. The lights in the laboratory were off. At the other end of the building someone was talking on the phone — a voice echoed off the walls, low, tired. Michał leaned against the windowsill and looked at the city.\n\nIt was snowing in Warsaw. The first snow of the year, big flakes that looked like sparks in the light of the streetlamps. He watched them for a while and felt something he couldn't name. Not joy. Not relief. Something else.\n\nHe returned to the office, turned off the computer and closed the door.\n\nPassing the reception desk, he said:\n\n— I'm not coming in tomorrow.\n\nThe young woman behind the desk looked up.\n\n— You have a presentation.\n\n— I'll reschedule it.\n\n— The team is waiting.\n\n— Let them wait.\n\nHe went out into the street before she could answer.\n\n---\n## II\n\nHe lived in Ochota, in a small apartment with a view of the courtyard. He used to like this place. Then he stopped paying attention to it. Now, coming home, he noticed that something had changed. The light in the kitchen was burning all the time. He had left it on when he went out in the morning. He knew he should be angry at himself — the bills, the wasted electricity — but he couldn't. He looked at that light and felt only emptiness.\n\nHe entered the apartment without turning on the light in the hall. He went to the kitchen and poured himself a glass of water. In the fridge there was food he hadn't touched in a week. He closed the door and sat down on the floor, his back against the cabinet.\n\nHe took out his phone, unlocked it and opened the app. There, on the main screen, the algorithm was waiting.\n\n_The Happiness Algorithm._\n\nThat's what he had called it as a joke, at the first meeting with investors. Then the name stuck. Nobody asked whether it was a good name. Everyone understood — or pretended to understand.\n\nMichał looked at the code he had written and felt that something was wrong. Nothing in it indicated an error. The math was clean. The logic was flawless. The tests confirmed its effectiveness.\n\nAnd yet.\n\nHe closed the phone, put it in his pocket and lay down on the kitchen floor. The boards were cold. Through the window he saw snowflakes still falling, and a sudden, sharp thought that appeared out of nowhere:\n\n_What for?_\n\nWhat for had he created something he himself didn't want to use?\n\nHe sat up. He stood. He took three steps toward the hall, then stopped. He returned to the kitchen, opened the fridge, closed it.\n\nHe called Ewa.\n\nShe answered on the second ring.\n\n— Ewa.\n\n— Michał. It's almost one.\n\n— I know. Sorry. I can't sleep.\n\n— You said the algorithm works.\n\n— It works.\n\n— So what's the matter?\n\n— I don't know.\n\nSilence fell on the other end. He heard her get out of bed. She was probably going to the kitchen, to her favourite armchair in the corner, where she kept her notebook and pen.\n\n— Tell me about it — she said. — How it works.\n\n— It's simple — he began. — It collects data. Your stories. Your declarations. What you say makes you happy. Then it looks at what you actually do. And it finds patterns you don't see yourself. When you say you love your job, but you spend every free moment thinking about something else... the algorithm sees it.\n\n— And then what?\n\n— Then it fixes it.\n\n— How?\n\n— It gives you hints. Small changes. Instead of staying at work until ten in the evening, go home at six. Instead of checking your emails in bed, read a book. Things like that.\n\n— That sounds like a time management app.\n\n— It's more than that. It learns. Every day it understands better what you need. It adapts.\n\n— And you think it works?\n\n— The tests say so.\n\n— And you?\n\nHe hesitated.\n\n— I don't know.\n\n— What don't you know?\n\n— Whether it's a fraud.\n\nEwa was silent. Then he heard her put down her pen.\n\n— Listen, Michał. I have no idea how your algorithm works. I don't understand the code. I don't want to understand it. But I understand one thing.\n\n— What?\n\n— Do you know Dostoyevsky's story? From _Notes from Underground_?\n\n— I know it.\n\n— That man. That protagonist. He says that if a perfect algorithm for happiness could be worked out — so that a person would be happy all the time, every second — he would still do something to ruin his own mood. Out of sheer contrariness.\n\n— I remember.\n\n— Why?\n\n— I don't know.\n\n— Do you think it's true?\n\n— I don't know.\n\n— I think it is — she said. — And not because people are stupid. Or because they don't want to be happy. But because they don't want to be _programmed_. Even if the program promises them everything.\n\nMichał closed his eyes.\n\n— So what am I supposed to do?\n\n— I don't know. But tomorrow you'll come. And you'll show me that algorithm. And maybe then you'll see something you don't see now.\n\n— All right.\n\n— Sleep.\n\n— Thank you.\n\n— Don't thank me. Just sleep.\n\nShe hung up.\n\nMichał put down the phone and looked at the ceiling. The snow was still falling. In the kitchen the automatic light switched on, the one that turned on when someone entered the room. He knew he should turn it off. He stayed.\n\n---\n## III\n\nHe came to Ewa's before noon, a laptop in his bag and a cup of coffee in his hand, which had gone cold on the way.\n\nThe apartment on Long Street smelled of cardamom and paper. Books lay on the table — open, marked with notes. In the corner stood a large plant whose leaves drooped onto the windowsill. Ewa sat in the armchair, legs tucked under her, in a grey sweater, a cup of tea in her hand.\n\n— Sit down — she said, pointing to the chair. — Tell me from the beginning.\n\nHe sat down. He put the laptop on the table but didn't open it. For a moment he looked at the closed lid, at the reflection of his own face in the black screen.\n\n— Do you remember how I started?\n\n— I remember. You talked about how people don't know what they want. How they say one thing and do another.\n\n— That's still true.\n\n— I know.\n\n— I thought that if I found the pattern, I would help them. Show them what they really need. That all it takes is to look at the data.\n\n— And so? Did you find it?\n\n— I found it.\n\n— So show me.\n\nHe opened the laptop. He logged in. He opened the app that had been waiting for this moment for months.\n\nA simple interface appeared on the screen. An empty field. A button with the words: _Start the analysis_.\n\n— Do you want to try? — he asked.\n\nEwa looked at the screen, then at him.\n\n— No.\n\n— Why?\n\n— Because I don't want to know.\n\n— What?\n\n— What I really want. If you tell me, I'll stop having a choice.\n\n— That's not how it works.\n\n— Then how does it work?\n\n— The algorithm only proposes. Suggests. You decide.\n\n— Really?\n\n— Yes.\n\n— Then why did you create it?\n\nHe fell silent. He looked at the screen. At the empty field. At the button.\n\n— Because I thought I would help people — he said at last.\n\n— Help them with what?\n\n— In finding what they're looking for.\n\n— And what are they looking for?\n\n— Happiness.\n\nEwa smiled. Not maliciously. Sadly.\n\n— And you, Michał? Have you found it?\n\nHe didn't answer.\n\n---\n## IV\n\nThey went out for a walk. The snow had stopped falling, but the sky was grey, heavy. They walked in silence through the streets of Ochota, past shops, cafés, old tenement houses.\n\n— Do you know that moment — he said at last — when you know something is wrong, but you can't name it?\n\n— I know it.\n\n— I've been feeling it for weeks. Ever since the algorithm was ready. I thought it would be different. That I'd feel relief. That I'd be proud.\n\n— Are you?\n\n— I don't know.\n\n— When was the last time you were proud of yourself?\n\nHe stopped. He looked at a tree that grew in front of one of the houses. Its branches were bare, covered with a thin layer of snow.\n\n— I don't remember.\n\n— Do you think your algorithm would know?\n\n— What?\n\n— If you told it about yourself. About the fact that you don't know whether you're proud. Would the algorithm know what to do?\n\n— It would know that I should change something.\n\n— But it wouldn't know what.\n\n— No.\n\n— Then why do you think it would know what someone else should do?\n\nMichał looked at the tree. At the snow on the branches. At the light breaking through the clouds.\n\n— Maybe I shouldn't have created it.\n\n— Maybe you should have.\n\n— What?\n\nEwa came closer.\n\n— Maybe you should have created it. But not so that it would tell others what to do. Only so that you could see what you don't see yourself.\n\n— What?\n\n— That you're looking for something the algorithm won't find.\n\n— And what is that?\n\nShe didn't answer. Instead she pointed at the tree.\n\n— Do you see that tree?\n\n— Yes.\n\n— The algorithm would describe it. It would say it's a maple. That it's a hundred and twenty years old. That it's fifteen metres tall.\n\n— And so what?\n\n— And you. What do you see?\n\nMichał looked at the tree. At the snow. At the branches. At the light.\n\n— I don't know.\n\n— Try.\n\nHe closed his eyes. He felt the cold on his face. He heard the sounds of the city. Then silence.\n\n— I see the snow — he said. — And that I'm here. With you.\n\nHe opened his eyes. Ewa smiled.\n\n— That — she said. — That is something the algorithm won't find.\n\n---\n## V\n\nHe returned to the laboratory the next day. For the meeting with the team. He was supposed to show them the finished algorithm, answer questions, set out the implementation path.\n\nHe walked into the conference room and saw them all: programmers, analysts, managers. Everyone was waiting.\n\n— Mr Michał — one of the analysts spoke up. — Have all the tests passed?\n\n— Yes.\n\n— Are we ready?\n\n— Yes.\n\n— So what now?\n\nHe looked at them. At the screens. At the notes. At faces full of expectation.\n\nHe closed the laptop.\n\n— I don't know — he said.\n\nSilence fell.\n\n— I'm sorry — he added. — I don't know.\n\nSomeone laughed nervously. Someone else looked at his watch.\n\n— What do you mean, you don't know? — asked the manager.\n\n— It means I don't know whether it works. Whether it really works. I don't know whether I'm helping people, or taking something away from them that I don't understand myself.\n\n— It's just an algorithm.\n\n— I know.\n\n— It's a tool.\n\n— I know.\n\n— It helps people.\n\n— Maybe.\n\n— So what's the matter?\n\nMichał looked at the screen. At the empty field. At the button.\n\n— I'm sorry — he said — but I have to think about it.\n\nHe left the room, leaving them in silence.\n\n---\n## VI\n\nHe returned to his apartment. He sat down on the kitchen floor and opened the laptop.\n\nThe algorithm was still waiting.\n\nMichał looked at it for a long time. At the lines of code he had written. At the patterns he had invented. At the tests it had passed.\n\nThen, slowly, he began to delete something.\n\nNot everything. Not all at once.\n\nHe started with the first module — the one that analysed data. Then the second — the one that proposed changes. Then the third — the one that learned from mistakes.\n\nHe left only what was simplest: a tool for gathering information. Without suggesting. Without judging. Without hints.\n\nWhen he finished, he closed the laptop.\n\nThe light in the kitchen was still on.\n\nThis time he didn't turn it off right away. He sat on the floor and looked at it for a moment. At the bulb. At the warm light that fell on the countertops, on the dishes, on the books standing on the shelf.\n\nAnd then, for the first time in a very long time, he felt that he had done something good.\n\nHe didn't know why.\n\nHe didn't need to know.\n\n---\nIn the evening, before falling asleep, he wrote to Ewa:\n\n_\"I don't know whether it works. I don't know whether it will help anyone. But I know I don't want to tell people what to do anymore. Maybe that's enough.\"_\n\nShe answered after a few minutes:\n\n_\"That's enough. Sleep.\"_\n\nAnd then, looking at her answer, he understood that the happiness algorithm had never been needed. That he had looked for it in code, in tests, in data. And it had been here all along — in the tree, in the snow, in the light someone had left burning. In words that gave no answers. In questions that remained forever.\n\nHe closed his eyes and fell asleep.\n\n**THE END**",
+  "quiz": {
+    "title": "Check your understanding",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "What does Michał finish after five years of work?",
+        "answers": [
+          "A computer game",
+          "The happiness algorithm",
+          "A banking app",
+          "An operating system"
+        ],
+        "correctIndex": 1,
+        "explanation": "After five years the algorithm is ready."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Ewa say about Dostoyevsky's protagonist?",
+        "answers": [
+          "That he is happy",
+          "That he would do something to ruin his own mood — out of contrariness",
+          "That he accepts the algorithm",
+          "That he didn't read"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ewa asks about the man who would spoil his mood out of contrariness."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Ewa say the algorithm would describe about the tree?",
+        "answers": [
+          "Only its beauty",
+          "The species, age and height — but not what Michał sees",
+          "Nothing",
+          "The colour of the leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "She says the algorithm would give the maple, 120 years, 15 metres — but not the experience."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Michał see when he looks at the tree with his eyes closed?",
+        "answers": [
+          "Nothing",
+          "The snow and that he is with Ewa",
+          "The future",
+          "Code"
+        ],
+        "correctIndex": 1,
+        "explanation": "He says: I see the snow and that I'm here with you."
+      },
+      {
+        "type": "single_choice",
+        "question": "What does Michał do with the algorithm at the end?",
+        "answers": [
+          "He sells it",
+          "He deletes the modules that suggest changes — he leaves only information gathering",
+          "He publishes it unchanged",
+          "He hands it to the team"
+        ],
+        "correctIndex": 1,
+        "explanation": "He deletes the modules that propose changes; he leaves a simple information tool."
+      }
+    ]
+  },
+  "coverFamily": "philosophy",
+  "audience": "adult",
+  "subtitle": "Code, Ewa and a question without an answer",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-12",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-07-12"
+  ],
+  "world": {
+    "objects": [
+      "book",
+      "glass"
+    ],
+    "places": [
+      "home",
+      "town"
+    ]
+  }
+}

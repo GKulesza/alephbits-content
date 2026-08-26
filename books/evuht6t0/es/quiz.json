@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubre Tadeusz Jędrzejowski en su carpeta secreta?",
+      "answers": [
+        "Solo errores en los registros de vacaciones",
+        "Contratos falsos, turnos y firmas falsificadas en el sistema sanitario",
+        "Planes de reforma del hospital",
+        "Una carta de amor a su mujer"
+      ],
+      "correctIndex": 1,
+      "explanation": "La carpeta contiene nombres de médicos con varios puestos, turnos falsos y sus firmas falsificadas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Adónde debe ir Tadeusz el día en que empieza la historia?",
+      "answers": [
+        "A jubilarse en el extranjero",
+        "A la fiscalía para prestar declaración",
+        "A una conferencia médica en Berlín",
+        "Al juzgado civil por el divorcio"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice claramente que ese día debe prestar declaración en la fiscalía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué une el hilo del hospital con el hallazgo de Bielin?",
+      "answers": [
+        "Ambos tratan del mismo edificio",
+        "En ambos casos alguien decidió que la vida y la muerte de una persona no importaban",
+        "Ambos son inventos de los medios",
+        "Ambos tratan solo de política exterior"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto final compara los huesos del bosque y a la gente que muere en urgencias como casos de desprecio por la vida."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué decisión toma Tadeusz al final de la historia?",
+      "answers": [
+        "Destruye todas las pruebas y se calla",
+        "No se echa atrás: acepta el apoyo y continúa la lucha por la verdad",
+        "Se marcha al extranjero con su hija",
+        "Vuelve a trabajar en turnos nocturnos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acepta el dinero para el abogado de las enfermeras y sabe que le espera un camino largo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué Tadeusz lleva su investigación en secreto?",
+      "answers": [
+        "Porque no sabe leer documentos",
+        "Porque sabe que revelar la carpeta puede costarle todo",
+        "Porque se lo pide su mujer",
+        "Porque quiere escribir una novela policiaca"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trabaja en la carpeta en secreto, sabiendo que revelarla puede costarle todo."
+    }
+  ]
+}

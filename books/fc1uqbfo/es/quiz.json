@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué dispara exactamente la alarma del laboratorio al principio de la historia?",
+      "answers": [
+        "Un fallo de alimentación del clúster de cálculo",
+        "Una desviación de 4,2 sigma respecto al modelo base en la simulación n.º 47",
+        "Que un doctorando encienda por accidente la simulación nocturna",
+        "La pérdida de conexión con el telescopio espacial"
+      ],
+      "correctIndex": 1,
+      "explanation": "El teléfono de Tadek muestra una alerta sobre actividad no convencional y una desviación de 4,2 sigma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué destaca Kamil en los datos del centro galáctico que hace dudar de los púlsares?",
+      "answers": [
+        "Los puntos forman una estructura regular, no una distribución aleatoria",
+        "En el mapa no hay ningún punto de datos",
+        "Todos los púlsares tienen el mismo brillo que el Sol",
+        "La simulación solo muestra polvo interestelar sin emisión"
+      ],
+      "correctIndex": 0,
+      "explanation": "La red neuronal detecta un patrón: la distribución no se parece a una población típica de estrellas de neutrones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué instrucción alternativa da Tadek a Kamil tras las dudas sobre la materia oscura?",
+      "answers": [
+        "Borrar los datos y cerrar el proyecto",
+        "Hacer una simulación de un proceso de emisión desconocido, dando libertad total a la IA",
+        "Publicar los resultados de inmediato sin revisión",
+        "Entregar la investigación al equipo de Viena"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tadek pide una simulación alternativa que suponga un proceso que aún no conocen."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde envían Tadek y Kamil su artículo tras reunir los datos?",
+      "answers": [
+        "A la revista Physical Review Letters",
+        "Solo a la Twitter científica",
+        "A un periódico local de Gdynia",
+        "Directamente a la NASA sin revisión"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tadek decide enviar el trabajo a PRL y trata arXiv como vía de reserva."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué coloca Tadek en una nota al pie del artículo publicado?",
+      "answers": [
+        "La lista completa de las becas perdidas",
+        "Una dedicatoria a los maestros que enseñan a través de desafíos",
+        "Una advertencia sobre un error de la simulación",
+        "El número de teléfono del equipo de Harvard"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la nota al pie deja una dedicatoria personal que remite a la enseñanza de su padre."
+    }
+  ]
+}

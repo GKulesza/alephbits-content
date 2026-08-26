@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does the text explain the Polish smile?",
+      "answers": [
+        "It is not the default — it appears for a reason",
+        "Poles smile constantly",
+        "Smiling is forbidden",
+        "A smile always means flirting"
+      ],
+      "correctIndex": 0,
+      "explanation": "The friend explains that a smile is not the default setting of your face."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the heroine feel lost?",
+      "answers": [
+        "The American smile doesn't open contact",
+        "She doesn't know any Polish words",
+        "She has no money",
+        "She was going to Kraków"
+      ],
+      "correctIndex": 0,
+      "explanation": "People don't respond to her constant smile."
+    },
+    {
+      "type": "single_choice",
+      "question": "What do Poles do when they enter a home?",
+      "answers": [
+        "They take off their shoes",
+        "They keep their shoes on",
+        "They wash the windows",
+        "They eat dinner"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rule ten is about taking off your shoes at home."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the heroine consider a small victory?",
+      "answers": [
+        "Saying \"dziękuję\" in Polish",
+        "Buying a coffee",
+        "Riding the subway",
+        "Finding a hotel"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first \"dziękuję\" in the shop is a small victory."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the difference between a tourist and a resident?",
+      "answers": [
+        "A resident accepts the country as it is",
+        "Tourists learn Polish",
+        "Residents don't smile",
+        "Tourists always come back"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tourist demands that the country be like his own; a resident accepts it."
+    }
+  ]
+}
