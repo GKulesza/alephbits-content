@@ -1,4 +1,4 @@
-# 🌌 Pierwszy lot na Marsa
+# 🌌 Пиерwсзы лот на Марса
 
 ## Metadata
 
@@ -8,9 +8,9 @@
 **Version:** 1.0.0  
 **Edition version:** 1.0.0  
 
-**Title:** 🌌 Првый Лет на Марс  
-**Subtitle:** Из колекције CollectionZero  
-**Blurb:** Малый Марек гледа прве образы Марса из Викинга, а взрослый возвращает се в лабораторију, где јешче анализује скалы из Чрвеной планеты. Между детинскыми мечтами и донесенијами о Cheyava Falls стојти једно вопрос: есмы ли сами во вселенной? z Vikinga, a dorosły wraca do laboratorium, gdzie wciąż analizuje skały z Czerwonej Planety. Między dziecięcymi marzeniami a doniesieniami o Cheyava Falls pojawia się pytanie, które nie chce odejść: czy jesteśmy sami we wszechświecie?
+**Title:** 🌌 Првыј Лет на Марс  
+**Subtitle:** Из колекције ЦоллецтионЗеро  
+**Blurb:** Малыј Марек гледа прве образы Марса из Викинга, а взрослыј возвраŝајет се в лабораторију, где јешче анализује скалы из Чрвеној планеты. Между дєтинскыми мечтами и донесенијами о Цхеыава Фаллс стојти једне вопрос: јесмы ли сами во вселенној? з Викинга, а доросłы wраца до лабораториум, гдзие wциąż анализује скаłы з Цзерwонеј Планеты. Миѧдзы дзиециѧцыми марзениами а дониесиениами о Цхеыава Фаллс појаwиа сиѧ пытание, ктóре ние цхце одејśћ: цзы јестеśмы сами wе wсзецхśwиецие?
 
 **Genres:** popular_science  
 **Series:** Collection Zero  
@@ -20,14 +20,14 @@
 **Reader difficulty:** ★★☆☆☆  
 **Estimated reading time:** 5 minutes  
 
-**Original language:** isv-cyrl  
+**Original language:** isv_cyrl  
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 3  
 
-**Tags:** isv_cyrl, popular_science, translation, pierwszy-lot-na-marsa  
+**Tags:** isv, popular_science, translation, pierwszy-lot-na-marsa  
 
-**Editorial notes:** Migrated from CollectionZero catalog (Phase 75).
+**Editorial notes:** Мигратед фром ЦоллецтионЗеро цаталог (Пхасе 75).
 
 **Cover family:** popular_science
 
@@ -50,7 +50,7 @@
 
 | Version | Date | Note |
 |
-| 1.0.0 | 2026-07-30 | Interslavic (Cyrillic) translation edition |
+| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
 ---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
 
@@ -58,201 +58,201 @@
 
 ### Source 1: YouTube reference
 
-**Author:** YouTube contributors  
+**Author:** ЫоуТубе цонтрибуторс  
 **URL:** https://www.youtube.com/watch?v=HfXR5ME4byc  
 **License:** YouTube Terms (reference only)  
 **Retrieval date:** 2025-10-28  
 **Availability:** licensed  
 **Deprecated:** no  
-**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+**Editor notes:** Ваулт соурце блоцк; теxт ис едиториал адаптатион, нот трансцрипт.
 
 ### Source 2: YouTube reference
 
-**Author:** YouTube contributors  
+**Author:** ЫоуТубе цонтрибуторс  
 **URL:** https://www.youtube.com/watch?v=c7owS-PRE0s  
 **License:** YouTube Terms (reference only)  
 **Retrieval date:** 2026-04-06  
 **Availability:** licensed  
 **Deprecated:** no  
-**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+**Editor notes:** Ваулт соурце блоцк; теxт ис едиториал адаптатион, нот трансцрипт.
 
 
 ## Text
 
-**PIERWSZY LOT NA MARSA**
+**ПИЕРWСЗЫ ЛОТ НА МАРСА**
 
-Marek miał osiem lat, gdy po raz pierwszy usłyszał o Marsie. Było to w 1976 roku, kiedy sonda Viking przesłała na Ziemię pierwsze zdjęcia z czerwonej planety. Jego ojciec, nauczyciel fizyki w warszawskim liceum, rozłożył na podłodze gazetę z wydrukowaną fotografią i powiedział: "Patrz, synku. To jest Mars. I pewnego dnia ktoś tam poleci."
+Марек миаł осием лат, гды по раз пиерwсзы усłысзаł о Марсие. Быłо то w 1976 року, киеды сонда Викинг прзесłаłа на Зиемиѧ пиерwсзе здјѧциа з цзерwонеј планеты. Јего ојциец, науцзыциел физыки w wарсзаwским лицеум, розłоżыł на подłодзе газетѧ з wыдрукоwанą фотографиą и поwиедзиаł: "Патрз, сынку. То јест Марс. И пеwнего дниа ктоś там полеци."
 
-Marek spojrzał na zdjęcie. Zobaczył pustynię, kamienie, dziwne formacje skalne – i coś, co wyglądało jak twarz.
+Марек спојрзаł на здјѧцие. Зобацзыł пустыниѧ, камиение, дзиwне формацје скалне – и цоś, цо wыглąдаłо јак тwарз.
 
-– To twarz – powiedział, wskazując palcem.
+– То тwарз – поwиедзиаł, wсказујąц палцем.
 
-Ojciec uśmiechnął się.
+Ојциец уśмиецхнął сиѧ.
 
-– To tylko gra świateł i cieni. Ale wiesz co? Kiedyś ludzie myśleli, że na Marsie są kanały. Że Marsjanie zbudowali cały system nawadniający, żeby ratować swoją planetę przed wyschnięciem.
+– То тылко гра śwиатеł и циени. Але wиесз цо? Киедыś лудзие мыśлели, żе на Марсие сą канаłы. Żе Марсјание збудоwали цаłы сыстем наwадниајąцы, żебы ратоwаћ сwојą планетѧ прзед wысцхниѧцием.
 
-– A byli?
+– А были?
 
-– Nie. To był błąd. Ale ten błąd sprawił, że ludzie zaczęli marzyć. I to marzenie jest ważniejsze niż prawda o kanałach.
+– Ние. То быł бłąд. Але тен бłąд спраwиł, żе лудзие зацзѧли марзыћ. И то марзение јест wаżниејсзе ниż праwда о канаłацх.
 
-Marek nie zrozumiał wtedy tych słów. Ale zapamiętał je na całe życie.
-
----
-
-Czterdzieści lat później Marek był już naukowcem. Nie astrofizykiem, nie astronomem – ale kimś, kto spędził dwie dekady na analizie danych z marsjańskich łazików. Pracował w laboratorium, które badało próbki skalne z Czerwonej Planety – te, które przybyły na Ziemię w meteorytach, i te, które dopiero czekały na sprowadzenie.
-
-W grudniu 1984 roku na Antarktydzie znaleziono meteoryt. Nikt wtedy nie wiedział, skąd pochodzi. Przez dwanaście lat leżał w magazynie, zapomniany, pokryty kurzem. Aż w 1996 roku grupa naukowców z NASA ogłosiła coś, co wstrząsnęło światem.
-
-Marek pamiętał ten dzień. Siedział w swoim pierwszym mieszkaniu, pił kawę i patrzył w telewizor, w którym prezydent Stanów Zjednoczonych Bill Clinton mówił o możliwych śladach życia na Marsie.
-
-– To był moment, w którym wszystko się zmieniło – powiedział Marek do swojej asystentki, gdy wspominał tamte czasy. – Nagle przestaliśmy pytać "czy" i zaczęliśmy pytać "gdzie" i "kiedy".
-
-– I co wtedy zrobiliście?
-
-– Zaczęliśmy szukać. I szukamy do dziś.
+Марек ние зрозумиаł wтеды тыцх сłów. Але запамиѧтаł је на цаłе żыцие.
 
 ---
 
-Marek przez lata śledził doniesienia o marsjańskim życiu. Było ich wiele – i zawsze kończyły się rozczarowaniem.
+Цзтердзиеśци лат пóźниеј Марек быł јуż наукоwцем. Ние астрофизыкием, ние астрономем – але кимś, кто спѧдзиł дwие декады на анализие даныцх з марсјаńскицх łазикów. Працоwаł w лабораториум, ктóре бадаłо прóбки скалне з Цзерwонеј Планеты – те, ктóре прзыбыłы на Зиемиѧ w метеорытацх, и те, ктóре допиеро цзекаłы на спроwадзение.
 
-Meteoryt ALH84001, który według niektórych badaczy zawierał skamieniałe bakterie, został ostatecznie uznany za wytwór procesów geochemicznych. "Twarz" z Cydonii okazała się zwykłym wzgórzem, gdy sonda Mars Global Surveyor zrobiła zdjęcia w wyższej rozdzielczości. Kanały, które widział Schiaparelli, były tylko złudzeniem optycznym.
+W грудниу 1984 року на Антарктыдзие зналезионо метеорыт. Никт wтеды ние wиедзиаł, скąд поцходзи. Прзез дwанаśцие лат леżаł w магазыние, запомнианы, покрыты курзем. Аż w 1996 року група наукоwцów з НАСА огłосиłа цоś, цо wстрзąснѧłо śwиатем.
 
-– To tak, jakbyśmy gonili cień – powiedział kiedyś Marek na konferencji. – Ale nie możemy przestać, bo ten cień może być prawdziwy.
+Марек памиѧтаł тен дзиеń. Сиедзиаł w сwоим пиерwсзым миесзканиу, пиł каwѧ и патрзыł w телеwизор, w ктóрым презыдент Станów Зједноцзоныцх Билл Цлинтон мówиł о моżлиwыцх śладацх żыциа на Марсие.
 
-W 2008 roku lądownik Phoenix odkrył na Marsie nadchlorany. To wyjaśniło zagadkę eksperymentów Viking z 1976 roku, które sugerowały obecność życia. Okazało się, że to nie mikroorganizmy wydzielały radioaktywny dwutlenek węgla, tylko reakcje chemiczne w glebie. Kolejna nadzieja została rozwiana.
+– То быł момент, w ктóрым wсзыстко сиѧ змиениłо – поwиедзиаł Марек до сwојеј асыстентки, гды wспоминаł тамте цзасы. – Нагле прзесталиśмы пытаћ "цзы" и зацзѧлиśмы пытаћ "гдзие" и "киеды".
 
-Ale Marek nie poddawał się. Wierzył, że odpowiedź istnieje. Że gdzieś, w jakiejś skale, w jakimś osadzie, czeka na odkrycie.
+– И цо wтеды зробилиśцие?
 
----
-
-W 2021 roku łazik Perseverance wylądował w kraterze Jezero. Marek był wtedy w swoim laboratorium, śledząc transmisję na żywo. Kiedy pierwsze zdjęcia dotarły na Ziemię, poczuł coś, czego nie czuł od lat – ekscytację.
-
-– To starożytna delta rzeki – powiedział do zespołu. – Jeśli kiedykolwiek było tam życie, to tutaj zostawiło ślady.
-
-Przez cztery lata Perseverance przemierzał krater, wiercił skały, zbierał próbki. I w zeszłym roku znalazł coś niezwykłego – skałę, którą nazwano Cheyava Falls. Była pokryta dziwnymi, okrągłymi plamami, które przypominały cętki lamparta.
-
-Marek spędził kolejny rok na analizie danych. Każdego ranka przychodził do laboratorium, odpalał komputer i sprawdzał najnowsze wyniki. Widział, jak jego zespół pracuje bez wytchnienia, szukając wyjaśnienia.
-
-I wreszcie, kilka tygodni temu, zadzwonił telefon.
-
-– Marek? – usłyszał głos szefa misji. – Mamy wyniki. Przyjdź.
+– Зацзѧлиśмы сзукаћ. И сзукамы до дзиś.
 
 ---
 
-W sali konferencyjnej zebrali się wszyscy. Na ekranie wyświetlały się dane z instrumentów Perseverance – PIXL, SHERLOC, cała gama spektrometrów. Marek usiadł na swoim miejscu i patrzył, jak szef misji wstaje i zaczyna mówić.
+Марек прзез лата śледзиł дониесиениа о марсјаńским żыциу. Быłо ицх wиеле – и заwсзе коńцзыłы сиѧ розцзароwанием.
 
-– Słuchajcie – powiedział. – Przeanalizowaliśmy wszystko. Skład chemiczny, strukturę minerałów, rozmieszczenie tych plam. I doszliśmy do wniosku, że nie ma żadnego znanego nam procesu geochemicznego, który mógłby to wyjaśnić.
+Метеорыт АЛХ84001, ктóры wедłуг ниектóрыцх бадацзы заwиераł скамиениаłе бактерие, зостаł остатецзние узнаны за wытwóр процесów геоцхемицзныцх. "Тwарз" з Цыдонии оказаłа сиѧ зwыкłым wзгóрзем, гды сонда Марс Глобал Сурвеыор зробиłа здјѧциа w wыżсзеј роздзиелцзоśци. Канаłы, ктóре wидзиаł Сцхиапарелли, быłы тылко зłудзением оптыцзным.
 
-Zapadła cisza.
+– То так, јакбыśмы гонили циеń – поwиедзиаł киедыś Марек на конференцји. – Але ние моżемы прзестаћ, бо тен циеń моżе быћ праwдзиwы.
 
-– To znaczy? – zapytał ktoś.
+W 2008 року лąдоwник Пхоениx одкрыł на Марсие надцхлораны. То wыјаśниłо загадкѧ експерыментów Викинг з 1976 року, ктóре сугероwаłы обецноśћ żыциа. Оказаłо сиѧ, żе то ние микроорганизмы wыдзиелаłы радиоактыwны дwутленек wѧгла, тылко реакцје цхемицзне w глебие. Колејна надзиеја зостаłа розwиана.
 
-– To znaczy, że to może być ślad życia. Nie mówię, że to na pewno. Ale nie możemy znaleźć innego wyjaśnienia.
-
-Marek poczuł, jak serce zaczyna mu bić szybciej. Przez chwilę nie mógł mówić. Potem wstał i zapytał:
-
-– Co z izotopami węgla?
-
-– To właśnie robimy. Sprowadzimy próbki na Ziemię – dodał szef misji. – Perseverance już je zapakował. Czekają na odbiór.
-
-– Kiedy?
-
-– Za kilka lat. Prawdopodobnie w latach 30. Jeśli wszystko pójdzie zgodnie z planem.
-
-Marek skinął głową. Wiedział, że to może być ostatnia misja, w której weźmie udział. Miał już sześćdziesiąt lat. Ale to nie miało znaczenia. Liczyło się to, że po raz pierwszy w historii ludzkości staliśmy na progu odpowiedzi na najstarsze pytanie: czy jesteśmy sami we wszechświecie?
+Але Марек ние поддаwаł сиѧ. Wиерзыł, żе одпоwиедź истниеје. Żе гдзиеś, w јакиејś скале, w јакимś осадзие, цзека на одкрыцие.
 
 ---
 
-Tego wieczoru Marek wyszedł z laboratorium i spojrzał w niebo. Było czyste, gwiaździste. Gdzieś tam, w oddali, świeciła czerwona kropka – Mars.
+W 2021 року łазик Персеверанце wылąдоwаł w кратерзе Језеро. Марек быł wтеды w сwоим лабораториум, śледзąц трансмисјѧ на żыwо. Киеды пиерwсзе здјѧциа дотарłы на Зиемиѧ, поцзуł цоś, цзего ние цзуł од лат – ексцытацјѧ.
 
-Przypomniał sobie słowa ojca sprzed czterdziestu lat: "Kiedyś ludzie myśleli, że na Marsie są kanały. To był błąd. Ale ten błąd sprawił, że ludzie zaczęli marzyć."
+– То староżытна делта рзеки – поwиедзиаł до зеспоłу. – Јеśли киедыколwиек быłо там żыцие, то тутај зостаwиłо śлады.
 
-I wtedy zrozumiał, że to marzenie nigdy nie umarło. Przetrwało błędy, rozczarowania, fałszywe alarmy. Przetrwało nawet twarz z Marsa, która okazała się tylko grą świateł i cieni. Przetrwało, bo ludzie potrzebują wierzyć, że nie są sami.
+Прзез цзтеры лата Персеверанце прземиерзаł кратер, wиерциł скаłы, збиераł прóбки. И w зесзłым року зналазł цоś ниезwыкłего – скаłѧ, ктóрą назwано Цхеыава Фаллс. Быłа покрыта дзиwными, окрąгłыми пламами, ктóре прзыпоминаłы цѧтки лампарта.
 
-Marek wyjął telefon i napisał wiadomość do swojej córki, która studiowała astrobiologię na Uniwersytecie Warszawskim:
+Марек спѧдзиł колејны рок на анализие даныцх. Каżдего ранка прзыцходзиł до лабораториум, одпалаł компутер и спраwдзаł најноwсзе wыники. Wидзиаł, јак јего зеспół працује без wытцхниениа, сзукајąц wыјаśниениа.
 
-_"Mamy to. Albo prawie mamy. Za kilka lat poznasz odpowiedź. A jeśli to prawda – to ty i twoje pokolenie będziecie pierwsi, którzy dorosną w świecie, w którym wiemy, że życie istnieje poza Ziemią."_
+И wресзцие, килка тыгодни тему, задзwониł телефон.
 
-Córka odpisała po chwili:
+– Марек? – усłысзаł гłос сзефа мисји. – Мамы wыники. Прзыјдź.
 
-_"Tato, zawsze wiedziałam, że tam jest. Teraz tylko czekamy, aż nauka to potwierdzi."_
+---
 
-Marek uśmiechnął się. Włożył telefon do kieszeni i jeszcze raz spojrzał w niebo. Czerwona kropka wciąż świeciła.
+W сали конференцыјнеј зебрали сиѧ wсзысцы. На екрание wыśwиетлаłы сиѧ дане з инструментów Персеверанце – ПИXЛ, СХЕРЛОЦ, цаłа гама спектрометрów. Марек усиадł на сwоим миејсцу и патрзыł, јак сзеф мисји wстаје и зацзына мówић.
 
-"Jeszcze nie teraz" – pomyślał. "Ale już wkrótce."
+– Сłуцхајцие – поwиедзиаł. – Прзеанализоwалиśмы wсзыстко. Скłад цхемицзны, структурѧ минераłów, розмиесзцзение тыцх плам. И досзлиśмы до wниоску, żе ние ма żаднего знанего нам процесу геоцхемицзнего, ктóры мóгłбы то wыјаśнић.
+
+Западłа цисза.
+
+– То знацзы? – запытаł ктоś.
+
+– То знацзы, żе то моżе быћ śлад żыциа. Ние мówиѧ, żе то на пеwно. Але ние моżемы зналеźћ иннего wыјаśниениа.
+
+Марек поцзуł, јак серце зацзына му бић сзыбциеј. Прзез цхwилѧ ние мóгł мówић. Потем wстаł и запытаł:
+
+– Цо з изотопами wѧгла?
+
+– То włаśние робимы. Спроwадзимы прóбки на Зиемиѧ – додаł сзеф мисји. – Персеверанце јуż је запакоwаł. Цзекајą на одбиóр.
+
+– Киеды?
+
+– За килка лат. Праwдоподобние w латацх 30. Јеśли wсзыстко пóјдзие згодние з планем.
+
+Марек скинął гłоwą. Wиедзиаł, żе то моżе быћ остатниа мисја, w ктóреј wеźмие удзиаł. Миаł јуż сзеśћдзиесиąт лат. Але то ние миаłо знацзениа. Лицзыłо сиѧ то, żе по раз пиерwсзы w хистории лудзкоśци сталиśмы на прогу одпоwиедзи на најстарсзе пытание: цзы јестеśмы сами wе wсзецхśwиецие?
+
+---
+
+Тего wиецзору Марек wысзедł з лабораториум и спојрзаł w ниебо. Быłо цзысте, гwиаźдзисте. Гдзиеś там, w оддали, śwиециłа цзерwона кропка – Марс.
+
+Прзыпомниаł собие сłоwа ојца спрзед цзтердзиесту лат: "Киедыś лудзие мыśлели, żе на Марсие сą канаłы. То быł бłąд. Але тен бłąд спраwиł, żе лудзие зацзѧли марзыћ."
+
+И wтеды зрозумиаł, żе то марзение нигды ние умарłо. Прзетрwаłо бłѧды, розцзароwаниа, фаłсзыwе алармы. Прзетрwаłо наwет тwарз з Марса, ктóра оказаłа сиѧ тылко грą śwиатеł и циени. Прзетрwаłо, бо лудзие потрзебујą wиерзыћ, żе ние сą сами.
+
+Марек wыјął телефон и написаł wиадомоśћ до сwојеј цóрки, ктóра студиоwаłа астробиологиѧ на Униwерсытецие Wарсзаwским:
+
+_"Мамы то. Албо праwие мамы. За килка лат познасз одпоwиедź. А јеśли то праwда – то ты и тwоје поколение бѧдзиецие пиерwси, ктóрзы дороснą w śwиецие, w ктóрым wиемы, żе żыцие истниеје поза Зиемиą."_
+
+Цóрка одписаłа по цхwили:
+
+_"Тато, заwсзе wиедзиаłам, żе там јест. Тераз тылко цзекамы, аż наука то потwиердзи."_
+
+Марек уśмиецхнął сиѧ. Włоżыł телефон до киесзени и јесзцзе раз спојрзаł w ниебо. Цзерwона кропка wциąż śwиециłа.
+
+"Јесзцзе ние тераз" – помыśлаł. "Але јуż wкрóтце."
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Спраwдź зрозумиение
 
 ### Question 1
 
-**Question:** Ile lat ma Marek, gdy słyszy o Marsie?
+**Question:** Иле лат ма Марек, гды сłысзы о Марсие?
 
 **Answers:**
-- A) Osiem
-- B) Szesnaście
-- C) Sześćdziesiąt
-- D) Trzydzieści
+- A) Осием
+- B) Сзеснаśцие
+- C) Сзеśћдзиесиąт
+- D) Трзыдзиеśци
 
 **Correct:** A
-**Explanation:** Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia.
-**Text reference:** Marek miał osiem lat
+**Explanation:** Марек ма осием лат, гды Викинг прзесыłа пиерwсзе здјѧциа.
+**Text reference:** Марек миаł осием лат
 
 ### Question 2
 
-**Question:** Co Marek widzi na pierwszym zdjęciu z Viking?
+**Question:** Цо Марек wидзи на пиерwсзым здјѧциу з Викинг?
 
 **Answers:**
-- A) Coś jak twarz
-- B) Kanały wody
-- C) Miasto
-- D) Statek kosmiczny
+- A) Цоś јак тwарз
+- B) Канаłы wоды
+- C) Миасто
+- D) Статек космицзны
 
 **Correct:** A
-**Explanation:** Wskazuje formację skalną wyglądającą jak twarz.
-**Text reference:** To twarz
+**Explanation:** Wсказује формацјѧ скалнą wыглąдајąцą јак тwарз.
+**Text reference:** То тwарз
 
 ### Question 3
 
-**Question:** Co odkrywa łazik Perseverance w kraterze Jezero?
+**Question:** Цо одкрыwа łазик Персеверанце w кратерзе Језеро?
 
 **Answers:**
-- A) Starożytną deltę rzeki
-- B) Bazę obcych
-- C) Lodowiec
-- D) Wulkan
+- A) Староżытнą делтѧ рзеки
+- B) Базѧ обцыцх
+- C) Лодоwиец
+- D) Wулкан
 
 **Correct:** A
-**Explanation:** Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia.
-**Text reference:** starożytna delta rzeki
+**Explanation:** Марек мówи о староżытнеј делцие рзеки — добрым миејсцу на śлады żыциа.
+**Text reference:** староżытна делта рзеки
 
 ### Question 4
 
-**Question:** Jak nazywa się skała z okrągłymi plamami?
+**Question:** Јак назыwа сиѧ скаłа з окрąгłыми пламами?
 
 **Answers:**
-- A) Cheyava Falls
-- B) ALH84001
-- C) Twarz z Cydonii
-- D) Viking Rock
+- A) Цхеыава Фаллс
+- B) АЛХ84001
+- C) Тwарз з Цыдонии
+- D) Викинг Роцк
 
 **Correct:** A
-**Explanation:** Perseverance znalazł skałę Cheyava Falls.
-**Text reference:** Cheyava Falls
+**Explanation:** Персеверанце зналазł скаłѧ Цхеыава Фаллс.
+**Text reference:** Цхеыава Фаллс
 
 ### Question 5
 
-**Question:** Co ojciec mówi o błędzie z kanałami na Marsie?
+**Question:** Цо ојциец мówи о бłѧдзие з канаłами на Марсие?
 
 **Answers:**
-- A) Sprawił, że ludzie zaczęli marzyć
-- B) Udowodnił, że na Marsie jest życie
-- C) Zniszczył astronomię
-- D) Był ważniejszy niż prawda
+- A) Спраwиł, żе лудзие зацзѧли марзыћ
+- B) Удоwодниł, żе на Марсие јест żыцие
+- C) Знисзцзыł астрономиѧ
+- D) Быł wаżниејсзы ниż праwда
 
 **Correct:** A
-**Explanation:** Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć.
-**Text reference:** ludzie zaczęli marzyć
+**Explanation:** Ојциец мówи, żе бłąд спраwиł, żе лудзие зацзѧли марзыћ.
+**Text reference:** лудзие зацзѧли марзыћ

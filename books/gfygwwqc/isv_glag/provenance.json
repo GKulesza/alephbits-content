@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Ⱄⰸⰺⱆⰸⰹⰰ ⰾ ⱀⰵⰻⰰⱆⰸⰹⰰⱅ; ⰸⱁⱂⰾⱀⰸⱇⰽⰰ ⰼⰵⱂⰰⱄⰾⱀⰰ Ⰱⰻⰸⱂⰷⰺⱀⰸⰵⰳ ⰹⰵⱁⱂ ⰽⰰⱀⰰⱂⰸⰲⰽⱑ ⰸⰽⱁⱂⱀⱃⰼⰵⰽⱂ, ⰽⰵ ⰻⰵⰺⱆⰸⰹⰰ ⰸⱁⱂⰾⱀⰸⰹⰸ."
+    "humanReview": "Ⱇⰹⰽⱌⰹⰺⰰ ⱁ ⱃⰵⰾⰰⱌⰹⰺⰰⱈ; ⰹⱄⱅⱁⱃⰹⱍⱀⰰ ⰿⰵⱅⰰⱇⱁⱃⰰ Ⰱⰾⰹⱅⰸⰽⱃⰹⰵⰳ ⰺⰵⱄⱅ ⱀⰰⱃⰰⱅⰹⰲⱀⱐ ⰹⱀⱄⱅⱃⱆⰿⰵⱀⱅ, ⱀⰵ ⰾⰵⰽⱌⰹⰺⰰ ⰹⱄⱅⱁⱃⰹⰺⰹ."
   },
   "sources": [
     {
@@ -20,8 +20,8 @@
       "videoId": "v95kpHsD5Hk"
     }
   ],
-  "revisionNotes": "Ⰿⱅⰰⱁⰵ 102 ⰸⰼⰿⰾⱀⱂ.",
-  "translationStatus": "ⰼⰰⱆⱅⰸⰽⰵ",
-  "translationSource": "ⰳⱄⱑⰳwwqⱆ:ⰿⰻ",
+  "revisionNotes": "Ⱂⱈⰰⱄⰵ 102 ⰹⰿⱂⱁⱃⱅ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⰳⱇⱐⰳwwqⱌ:ⱂⰾ",
   "translationSourceVersion": "1.1.0"
 }

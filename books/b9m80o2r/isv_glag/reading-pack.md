@@ -1,4 +1,4 @@
-# Autorytet na przepraszam
+# Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ
 
 ## Metadata
 
@@ -8,9 +8,9 @@
 **Version:** 1.0.0  
 **Edition version:** 1.0.0  
 
-**Title:** Ⰰⰲⱅⱁⱃⰺⱅⰵⱅ ⱀⰰ Ⰻⰸⰲⰺⱀⰵⱀⰻⰵ  
-**Subtitle:** Ⱂⱃⰰⰲⰴⰺⰲⱏⰺ ⰰⰲⱅⱁⱃⰺⱅⰵⱅ ⱃⱁⰴⰺⱅⰵⰾⱝ  
-**Blurb:** Ⱆⱄⱅⰰⰾⰰⱑ Ⰰⱀⰰ ⰺ ⱄⱆⱃⱁⰲⱏⰺ Ⰿⰰⱃⰵⰽ ⱂⱃⰵⱂⰺⱃⰰⱓⱅ ⱄⰵ ⱁ ⰲⱁⱄⱂⰺⱅⰰⱀⰺⰻ. Ⱂⱁⰴⰽⰰⱄⱅ Ⰿⰰⱃⰺⰵ Berlińskiej ⱆⱍⰺ ⰻⱈ, ⰶⰵ Ⰰⰲⱅⱁⱃⰺⱅⰵⱅ ⱄⰵ ⰳⱃⰰⰴⰺⱅ ⱀⰰ 'ⱂⱃⱁⱄⱅⰺ.' Podcast Marii Berlińskiej uczy ich, że autorytet buduje się na „przepraszam”.
+**Title:** Ⰰⰲⱅⱁⱃⰹⱅⰵⱅ ⱀⰰ Ⰹⰸⰲⰹⱀⰵⱀⰹⰵ  
+**Subtitle:** Ⱂⱃⰰⰲⰴⰹⰲⱐⰺ ⰰⰲⱅⱁⱃⰹⱅⰵⱅ ⱃⱁⰴⰹⱅⰵⱙⰰ  
+**Blurb:** Ⱆⱄⱅⰰⰾⰰⰺⰰ Ⰰⱀⰰ ⰹ ⱄⱆⱃⱁⰲⱐⰺ Ⰿⰰⱃⰵⰽ ⱂⱃⰵⱂⰹⱃⰰⰺⱆⱅ ⱄⰵ ⱁ ⰲⱁⱄⱂⰹⱅⰰⱀⰹⰺⰹ. Ⱂⱁⰴⱌⰰⱄⱅ Ⰿⰰⱃⰹⰺⰵ Ⰱⰵⱃⰾⰹńⱄⰽⰹⰵⰺ ⱆⱍⰹ ⰺⰹⱈ, ⰶⰵ ⰰⰲⱅⱁⱃⰹⱅⰵⱅ ⱄⰵ ⰳⱃⰰⰴⰹⱅ ⱀⰰ 'ⱂⱃⱁⱄⱅⰹ.' Ⱂⱁⰴⱌⰰⱄⱅ Ⰿⰰⱃⰹⰹ Ⰱⰵⱃⰾⰹńⱄⰽⰹⰵⰺ ⱆⱌⰸⱐ ⰹⱌⱈ, żⰵ ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⱀⰰ „ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ”.
 
 **Genres:** psychology, short_story  
 **Series:** Collection Ten  
@@ -21,33 +21,33 @@
 **Estimated reading time:** 8 minutes
 
 **Publication date:** *(original — 2026)*  
-**Historical period:** contemporary  
+**Historical period:** ⱌⱁⱀⱅⰵⰿⱂⱁⱃⰰⱃⱐ  
 
-**Original language:** isv-glag  
-**Translation summary:** Multilingual translation edition. Source: pl. — Collection Ten official reading pack (Polish).  
+**Original language:** isv_glag  
+**Translation summary:** Ⰿⱆⰾⱅⰹⰾⰹⱀⰳⱆⰰⰾ ⱅⱃⰰⱀⱄⰾⰰⱅⰹⱁⱀ ⰵⰴⰹⱅⰹⱁⱀ. Ⱄⱁⱆⱃⱌⰵ: ⱂⰾ. — Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⱅⰵⱀ ⱁⱇⱇⰹⱌⰹⰰⰾ ⱃⰵⰰⰴⰹⱀⰳ ⱂⰰⱌⰽ (Ⱂⱁⰾⰹⱄⱈ).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 2  
 
-**Tags:** isv_glag, parenting, authority, translation, chwalenie, Collection Ten  
+**Tags:** isv, parenting, authority, translation, chwalenie, Collection Ten  
 
-**Keywords:** Autorytet na przepraszam, Ania, Marek  
+**Keywords:** Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ, Ⰰⱀⰹⰰ, Ⰿⰰⱃⰵⰽ  
 
 **Cover family:** psychology
 
 
 **Motifs:**
-- family
-- marriage
-- motherhood
-- fatherhood
-- forgiveness
-- home
+- ⱇⰰⰿⰹⰾⱐ
+- ⰿⰰⱃⱃⰹⰰⰳⰵ
+- ⰿⱁⱅⱈⰵⱃⱈⱁⱁⰴ
+- ⱇⰰⱅⱈⰵⱃⱈⱁⱁⰴ
+- ⱇⱁⱃⰳⰹⰲⰵⱀⰵⱄⱄ
+- ⱈⱁⰿⰵ
 
-**Editorial notes:** Fikcja o współrodzicielstwie; adaptacja podcastu.
+**Editorial notes:** Ⱇⰹⰽⱌⰺⰰ ⱁ wⱄⱂółⱃⱁⰴⰸⰹⱌⰹⰵⰾⱄⱅwⰹⰵ; ⰰⰴⰰⱂⱅⰰⱌⰺⰰ ⱂⱁⰴⱌⰰⱄⱅⱆ.
 
-**Inspiration:** Podcast Marii Berlińskiej o autorytecie przez przepraszanie; YouTube ewtts_glfwg (2024-10-13).
+**Inspiration:** Ⱂⱁⰴⱌⰰⱄⱅ Ⰿⰰⱃⰹⰹ Ⰱⰵⱃⰾⰹńⱄⰽⰹⰵⰺ ⱁ ⰰⱆⱅⱁⱃⱐⱅⰵⱌⰹⰵ ⱂⱃⰸⰵⰸ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱀⰹⰵ; ⰠⱁⱆⰕⱆⰱⰵ ⰵwⱅⱅⱄ_ⰳⰾⱇwⰳ (2024-10-13).
 
 ---
 
@@ -66,13 +66,13 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 13.10.2024 -> https://www.youtube.com/watch?v=ewtts_glfwg  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ.
 
 ### Revision history
 
 | Version | Date | Note |
 |
-| 1.0.0 | 2026-07-30 | Interslavic (Glagolitic) translation edition |
+| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
 ---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
@@ -80,7 +80,7 @@
 
 | Date | Editor | Note |
 |------|--------|------|
-| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Silny przekaz o przepraszaniu i wzorcach małżeńskich. |
+| 2026-07-13 | ⰀⰾⰵⱂⱈⰁⰹⱅⱄ Ⰵⰴⰹⱅⱁⱃⰹⰰⰾ | Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ; ⱂⱈⰹⰾⱁⱄⱁⱂⱈⱐ ⱇⰹⱅ 4/5 — Ⱄⰹⰾⱀⱐ ⱂⱃⰸⰵⰽⰰⰸ ⱁ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱀⰹⱆ ⰹ wⰸⱁⱃⱌⰰⱌⱈ ⰿⰰłżⰵńⱄⰽⰹⱌⱈ. |
 
 ---
 
@@ -88,239 +88,239 @@
 
 ### Source 1: Collection Ten manuscript
 
-**Author:** AlephBits Editorial (adaptation)  
+**Author:** ⰀⰾⰵⱂⱈⰁⰹⱅⱄ Ⰵⰴⰹⱅⱁⱃⰹⰰⰾ (ⰰⰴⰰⱂⱅⰰⱅⰹⱁⱀ)  
 **URL:** https://www.youtube.com/watch?v=ewtts_glfwg  
 **License:** CC0 1.0 Universal (text); source material per original availability  
 **Retrieval date:** 2024-10-13  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Ⰿⰰⱅⰵⱃⰹⰰł źⱃóⰴłⱁwⱐ wⱄⰽⰰⰸⰰⱀⱐ w ⰱⰾⱁⰽⱆ ⱄⱁⱆⱃⱌⰵ ⰿⰰⱀⱆⱄⰽⱃⱐⱂⱅⱆ; ⱅⰵⰽⱄⱅ ⰺⰵⱄⱅ ⰰⰴⰰⱂⱅⰰⱌⰺą ⱃⰵⰴⰰⰽⱌⱐⰺⱀą.
 
 ---
 
 ## Text
 
-**AUTORYTET NA PRZEPRASZAM**
+**ⰀⰖⰕⰑⰓⰠⰕⰅⰕ ⰐⰀ ⰒⰓⰈⰅⰒⰓⰀⰔⰈⰀⰏ**
 
-Kiedy Ania zamknęła drzwi za Markiem, opadła na kanapę i pozwoliła sobie na chwilę słabości. Z oczu popłynęły jej łzy – nie pierwsze tego dnia. W kuchni stały brudne talerze po obiedzie, w salonie leżały porozrzucane klocki, a na piętrze córki – siedmioletnia Marysia i trzyletnia Ala – właśnie się kłóciły o to, która z nich pierwsza weźmie kąpiel.
+Ⰽⰹⰵⰴⱐ Ⰰⱀⰹⰰ ⰸⰰⰿⰽⱀⱔłⰰ ⰴⱃⰸwⰹ ⰸⰰ Ⰿⰰⱃⰽⰹⰵⰿ, ⱁⱂⰰⰴłⰰ ⱀⰰ ⰽⰰⱀⰰⱂⱔ ⰹ ⱂⱁⰸwⱁⰾⰹłⰰ ⱄⱁⰱⰹⰵ ⱀⰰ ⱌⱈwⰹⰾⱔ ⱄłⰰⰱⱁśⱌⰹ. Ⰸ ⱁⱌⰸⱆ ⱂⱁⱂłⱐⱀⱔłⱐ ⰺⰵⰺ łⰸⱐ – ⱀⰹⰵ ⱂⰹⰵⱃwⱄⰸⰵ ⱅⰵⰳⱁ ⰴⱀⰹⰰ. W ⰽⱆⱌⱈⱀⰹ ⱄⱅⰰłⱐ ⰱⱃⱆⰴⱀⰵ ⱅⰰⰾⰵⱃⰸⰵ ⱂⱁ ⱁⰱⰹⰵⰴⰸⰹⰵ, w ⱄⰰⰾⱁⱀⰹⰵ ⰾⰵżⰰłⱐ ⱂⱁⱃⱁⰸⱃⰸⱆⱌⰰⱀⰵ ⰽⰾⱁⱌⰽⰹ, ⰰ ⱀⰰ ⱂⰹⱔⱅⱃⰸⰵ ⱌóⱃⰽⰹ – ⱄⰹⰵⰴⰿⰹⱁⰾⰵⱅⱀⰹⰰ Ⰿⰰⱃⱐⱄⰹⰰ ⰹ ⱅⱃⰸⱐⰾⰵⱅⱀⰹⰰ Ⰰⰾⰰ – włⰰśⱀⰹⰵ ⱄⰹⱔ ⰽłóⱌⰹłⱐ ⱁ ⱅⱁ, ⰽⱅóⱃⰰ ⰸ ⱀⰹⱌⱈ ⱂⰹⰵⱃwⱄⰸⰰ wⰵźⰿⰹⰵ ⰽąⱂⰹⰵⰾ.
 
-– Marysia! Ala! – krzyknęła, nie wstając z kanapy. – Przestańcie! Zaraz tam przyjdę!
+– Ⰿⰰⱃⱐⱄⰹⰰ! Ⰰⰾⰰ! – ⰽⱃⰸⱐⰽⱀⱔłⰰ, ⱀⰹⰵ wⱄⱅⰰⰺąⱌ ⰸ ⰽⰰⱀⰰⱂⱐ. – Ⱂⱃⰸⰵⱄⱅⰰńⱌⰹⰵ! Ⰸⰰⱃⰰⰸ ⱅⰰⰿ ⱂⱃⰸⱐⰺⰴⱔ!
 
-Głos w jej głowie brzmiał zmęczony. Zmęczony, bo taki właśnie był. Cały dzień w pracy, potem zakupy, potem odbiór dzieci z przedszkola i szkoły, potem obiad, potem sprzątanie, potem kłótnia z Markiem o to, że on znowu wrócił późno i że ona nie daje rady. I o to, że on zbyt surowo traktuje Marysię, która przecież dopiero uczy się czytać i ma prawo popełniać błędy. I o to, że ona zbyt miękko, że wychowuje "śnieżynki", że Marysia nie potrafi przegrywać, że Ala robi awantury o każdy kubek.
+Ⰳłⱁⱄ w ⰺⰵⰺ ⰳłⱁwⰹⰵ ⰱⱃⰸⰿⰹⰰł ⰸⰿⱔⱌⰸⱁⱀⱐ. Ⰸⰿⱔⱌⰸⱁⱀⱐ, ⰱⱁ ⱅⰰⰽⰹ włⰰśⱀⰹⰵ ⰱⱐł. Ⱌⰰłⱐ ⰴⰸⰹⰵń w ⱂⱃⰰⱌⱐ, ⱂⱁⱅⰵⰿ ⰸⰰⰽⱆⱂⱐ, ⱂⱁⱅⰵⰿ ⱁⰴⰱⰹóⱃ ⰴⰸⰹⰵⱌⰹ ⰸ ⱂⱃⰸⰵⰴⱄⰸⰽⱁⰾⰰ ⰹ ⱄⰸⰽⱁłⱐ, ⱂⱁⱅⰵⰿ ⱁⰱⰹⰰⰴ, ⱂⱁⱅⰵⰿ ⱄⱂⱃⰸąⱅⰰⱀⰹⰵ, ⱂⱁⱅⰵⰿ ⰽłóⱅⱀⰹⰰ ⰸ Ⰿⰰⱃⰽⰹⰵⰿ ⱁ ⱅⱁ, żⰵ ⱁⱀ ⰸⱀⱁwⱆ wⱃóⱌⰹł ⱂóźⱀⱁ ⰹ żⰵ ⱁⱀⰰ ⱀⰹⰵ ⰴⰰⰺⰵ ⱃⰰⰴⱐ. Ⰹ ⱁ ⱅⱁ, żⰵ ⱁⱀ ⰸⰱⱐⱅ ⱄⱆⱃⱁwⱁ ⱅⱃⰰⰽⱅⱆⰺⰵ Ⰿⰰⱃⱐⱄⰹⱔ, ⰽⱅóⱃⰰ ⱂⱃⰸⰵⱌⰹⰵż ⰴⱁⱂⰹⰵⱃⱁ ⱆⱌⰸⱐ ⱄⰹⱔ ⱌⰸⱐⱅⰰⱍ ⰹ ⰿⰰ ⱂⱃⰰwⱁ ⱂⱁⱂⰵłⱀⰹⰰⱍ ⰱłⱔⰴⱐ. Ⰹ ⱁ ⱅⱁ, żⰵ ⱁⱀⰰ ⰸⰱⱐⱅ ⰿⰹⱔⰽⰽⱁ, żⰵ wⱐⱌⱈⱁwⱆⰺⰵ "śⱀⰹⰵżⱐⱀⰽⰹ", żⰵ Ⰿⰰⱃⱐⱄⰹⰰ ⱀⰹⰵ ⱂⱁⱅⱃⰰⱇⰹ ⱂⱃⰸⰵⰳⱃⱐwⰰⱍ, żⰵ Ⰰⰾⰰ ⱃⱁⰱⰹ ⰰwⰰⱀⱅⱆⱃⱐ ⱁ ⰽⰰżⰴⱐ ⰽⱆⰱⰵⰽ.
 
-– Ty je rozpuszczasz! – powiedział Marek, wychodząc z domu. – Nie ma w tobie żadnej konsekwencji. Ja nie mogę na to patrzeć.
+– Ⱅⱐ ⰺⰵ ⱃⱁⰸⱂⱆⱄⰸⱌⰸⰰⱄⰸ! – ⱂⱁwⰹⰵⰴⰸⰹⰰł Ⰿⰰⱃⰵⰽ, wⱐⱌⱈⱁⰴⰸąⱌ ⰸ ⰴⱁⰿⱆ. – Ⱀⰹⰵ ⰿⰰ w ⱅⱁⰱⰹⰵ żⰰⰴⱀⰵⰺ ⰽⱁⱀⱄⰵⰽwⰵⱀⱌⰺⰹ. Ⰺⰰ ⱀⰹⰵ ⰿⱁⰳⱔ ⱀⰰ ⱅⱁ ⱂⰰⱅⱃⰸⰵⱍ.
 
-Ania wtedy nie odpowiedziała. Nie miała siły. Nie miała też argumentów, bo w głębi serca czuła, że coś jest nie tak, ale nie wiedziała co. Była przecież dobrą matką. Kochała swoje dzieci. Poświęcała im cały czas, całą siebie. Dlaczego więc czuła, że zawodzi?
-
----
-Telefon w jej dłoni wibrował. Spojrzała na ekran – powiadomienie z YouTube. Kanał, który ostatnio zaczęła oglądać, opublikował nowy podcast. "Jak wychować dziecko, żeby było szczęśliwe?" – brzmiał tytuł. Gościem była psycholog, która od lat prowadzi rodzinny dom dziecka i pomaga rodzicom w kryzysie.
-
-Ania wcisnęła play, nie mając siły na nic innego.
-
-Głos pani Marii był spokojny, ale stanowczy. Ania słuchała, pijąc wystygłą herbatę, nie odrywając wzroku od ekranu. I słowo po słowie, zdanie po zdaniu, coś w niej zaczęło pękać.
-
-– Autorytet nie buduje się na nakazach i zakazach – mówiła pani Maria. – Prędzej zbuduje się go na przepraszam. Bo rodzic, który potrafi powiedzieć "przepraszam", przyznać się do błędu – jest wielki.
-
-Ania wstrzymała oddech. Przypomniała sobie, jak wczoraj krzyknęła na Marysię, że jest niezdarna, kiedy rozlała sok na dywan. Nie przeprosiła. Uznała, że to niepotrzebne, że dziecko musi wiedzieć, że zrobiło źle. A przecież widziała łzy w oczach córki, widziała, jak Marysia skuliła się w sobie, jakby oczekiwała ciosu.
-
-– Poczucie wartości buduje się w zakochanych oczach rodziców – kontynuowała pani Maria. – To, że rodzic patrzy na dziecko i ono wie, że jest kochane, nawet takie nieidealne. Niezależnie od tego, czy dostanie piątkę, czy dwójkę, czy rozleje sok, czy nie.
-
-Ania zaczęła płakać. Płakała cicho, żeby dzieci nie usłyszały. Płakała za sobą – za tą małą dziewczynką, która kiedyś też chciała być kochana bezwarunkowo. Która słyszała: "No, Ania, no dobrze", podczas gdy siostrze uśmiechali się w oczy. Która do dzisiaj, mimo że skończyła studia, miała dobrą pracę i kochającą rodzinę, czuła, że jest niewystarczająca.
-
-– Jak chwalić? – pytał prowadzący.
-
-– Opisowo – odpowiadała pani Maria. – Nie mówimy: "Jesteś piękny". Mówimy: "Widzę, że dobrałaś ładne kolory do tej sukienki". Nie mówimy: "Świetnie". Mówimy: "Widzę, że długo nad tym pracowałeś i udało ci się. To nie było łatwe, ale dałeś radę".
-
-Ania słuchała dalej. Usłyszała o żłobkach – że do trzeciego roku życia dziecko potrzebuje głównego opiekuna, bo wtedy kształtują się wzorce przywiązania. Usłyszała, że konflikt w małżeństwie nie jest zły, że ważne jest, jak się go rozwiązuje. Usłyszała, że jeśli chcemy wychować dzieci, musimy pracować nad sobą i nad swoim małżeństwem, bo to jest wzorzec dla dzieci.
-
-– To, co myślimy o sobie, bierze początek w rodzinie – powiedziała pani Maria. – Niesiemy swoich rodziców, ich lęki, ich fascynacje. Niewiele o sobie wiemy, dopóki nie wejdziemy w związek i nie zaczniemy się odkrywać.
-
-Ania pomyślała o Marku. O tym, jak on też nosi swoje lęki. O tym, że jego ojciec był surowy, wymagający, nigdy go nie chwalił. I że Marek, chcąc być lepszym ojcem, stał się właśnie taki – surowy, wymagający, bojący się, że jeśli odpuści, dzieci wyrosną na "mięczaków". I że on też potrzebuje usłyszeć, że jest wystarczający.
+Ⰰⱀⰹⰰ wⱅⰵⰴⱐ ⱀⰹⰵ ⱁⰴⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ. Ⱀⰹⰵ ⰿⰹⰰłⰰ ⱄⰹłⱐ. Ⱀⰹⰵ ⰿⰹⰰłⰰ ⱅⰵż ⰰⱃⰳⱆⰿⰵⱀⱅów, ⰱⱁ w ⰳłⱔⰱⰹ ⱄⰵⱃⱌⰰ ⱌⰸⱆłⰰ, żⰵ ⱌⱁś ⰺⰵⱄⱅ ⱀⰹⰵ ⱅⰰⰽ, ⰰⰾⰵ ⱀⰹⰵ wⰹⰵⰴⰸⰹⰰłⰰ ⱌⱁ. Ⰱⱐłⰰ ⱂⱃⰸⰵⱌⰹⰵż ⰴⱁⰱⱃą ⰿⰰⱅⰽą. Ⰽⱁⱌⱈⰰłⰰ ⱄwⱁⰺⰵ ⰴⰸⰹⰵⱌⰹ. Ⱂⱁśwⰹⱔⱌⰰłⰰ ⰹⰿ ⱌⰰłⱐ ⱌⰸⰰⱄ, ⱌⰰłą ⱄⰹⰵⰱⰹⰵ. Ⰴⰾⰰⱌⰸⰵⰳⱁ wⰹⱔⱌ ⱌⰸⱆłⰰ, żⰵ ⰸⰰwⱁⰴⰸⰹ?
 
 ---
-Kiedy dzieci w końcu zasnęły, Ania usiadła w salonie. Marek wrócił, ale zamknął się w swoim pokoju. Ania wzięła głęboki oddech i poszła do niego.
+Ⱅⰵⰾⰵⱇⱁⱀ w ⰺⰵⰺ ⰴłⱁⱀⰹ wⰹⰱⱃⱁwⰰł. Ⱄⱂⱁⰺⱃⰸⰰłⰰ ⱀⰰ ⰵⰽⱃⰰⱀ – ⱂⱁwⰹⰰⰴⱁⰿⰹⰵⱀⰹⰵ ⰸ ⰠⱁⱆⰕⱆⰱⰵ. Ⰽⰰⱀⰰł, ⰽⱅóⱃⱐ ⱁⱄⱅⰰⱅⱀⰹⱁ ⰸⰰⱌⰸⱔłⰰ ⱁⰳⰾąⰴⰰⱍ, ⱁⱂⱆⰱⰾⰹⰽⱁwⰰł ⱀⱁwⱐ ⱂⱁⰴⱌⰰⱄⱅ. "Ⰺⰰⰽ wⱐⱌⱈⱁwⰰⱍ ⰴⰸⰹⰵⱌⰽⱁ, żⰵⰱⱐ ⰱⱐłⱁ ⱄⰸⱌⰸⱔśⰾⰹwⰵ?" – ⰱⱃⰸⰿⰹⰰł ⱅⱐⱅⱆł. Ⰳⱁśⱌⰹⰵⰿ ⰱⱐłⰰ ⱂⱄⱐⱌⱈⱁⰾⱁⰳ, ⰽⱅóⱃⰰ ⱁⰴ ⰾⰰⱅ ⱂⱃⱁwⰰⰴⰸⰹ ⱃⱁⰴⰸⰹⱀⱀⱐ ⰴⱁⰿ ⰴⰸⰹⰵⱌⰽⰰ ⰹ ⱂⱁⰿⰰⰳⰰ ⱃⱁⰴⰸⰹⱌⱁⰿ w ⰽⱃⱐⰸⱐⱄⰹⰵ.
 
-– Marek – powiedziała cicho. – Musimy porozmawiać.
+Ⰰⱀⰹⰰ wⱌⰹⱄⱀⱔłⰰ ⱂⰾⰰⱐ, ⱀⰹⰵ ⰿⰰⰺąⱌ ⱄⰹłⱐ ⱀⰰ ⱀⰹⱌ ⰹⱀⱀⰵⰳⱁ.
 
-– Nie mam siły na kolejną kłótnię – odpowiedział, nie podnosząc wzroku.
+Ⰳłⱁⱄ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰹ ⰱⱐł ⱄⱂⱁⰽⱁⰺⱀⱐ, ⰰⰾⰵ ⱄⱅⰰⱀⱁwⱌⰸⱐ. Ⰰⱀⰹⰰ ⱄłⱆⱌⱈⰰłⰰ, ⱂⰹⰺąⱌ wⱐⱄⱅⱐⰳłą ⱈⰵⱃⰱⰰⱅⱔ, ⱀⰹⰵ ⱁⰴⱃⱐwⰰⰺąⱌ wⰸⱃⱁⰽⱆ ⱁⰴ ⰵⰽⱃⰰⱀⱆ. Ⰹ ⱄłⱁwⱁ ⱂⱁ ⱄłⱁwⰹⰵ, ⰸⰴⰰⱀⰹⰵ ⱂⱁ ⰸⰴⰰⱀⰹⱆ, ⱌⱁś w ⱀⰹⰵⰺ ⰸⰰⱌⰸⱔłⱁ ⱂⱔⰽⰰⱍ.
 
-– Nie chcę się kłócić. Chcę cię przeprosić.
+– Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⱀⰹⰵ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⱀⰰ ⱀⰰⰽⰰⰸⰰⱌⱈ ⰹ ⰸⰰⰽⰰⰸⰰⱌⱈ – ⰿówⰹłⰰ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ. – Ⱂⱃⱔⰴⰸⰵⰺ ⰸⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⰳⱁ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ. Ⰱⱁ ⱃⱁⰴⰸⰹⱌ, ⰽⱅóⱃⱐ ⱂⱁⱅⱃⰰⱇⰹ ⱂⱁwⰹⰵⰴⰸⰹⰵⱍ "ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ", ⱂⱃⰸⱐⰸⱀⰰⱍ ⱄⰹⱔ ⰴⱁ ⰱłⱔⰴⱆ – ⰺⰵⱄⱅ wⰹⰵⰾⰽⰹ.
 
-Marek spojrzał na nią zdziwiony.
+Ⰰⱀⰹⰰ wⱄⱅⱃⰸⱐⰿⰰłⰰ ⱁⰴⰴⰵⱌⱈ. Ⱂⱃⰸⱐⱂⱁⰿⱀⰹⰰłⰰ ⱄⱁⰱⰹⰵ, ⰺⰰⰽ wⱌⰸⱁⱃⰰⰺ ⰽⱃⰸⱐⰽⱀⱔłⰰ ⱀⰰ Ⰿⰰⱃⱐⱄⰹⱔ, żⰵ ⰺⰵⱄⱅ ⱀⰹⰵⰸⰴⰰⱃⱀⰰ, ⰽⰹⰵⰴⱐ ⱃⱁⰸⰾⰰłⰰ ⱄⱁⰽ ⱀⰰ ⰴⱐwⰰⱀ. Ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⱁⱄⰹłⰰ. Ⱆⰸⱀⰰłⰰ, żⰵ ⱅⱁ ⱀⰹⰵⱂⱁⱅⱃⰸⰵⰱⱀⰵ, żⰵ ⰴⰸⰹⰵⱌⰽⱁ ⰿⱆⱄⰹ wⰹⰵⰴⰸⰹⰵⱍ, żⰵ ⰸⱃⱁⰱⰹłⱁ źⰾⰵ. Ⰰ ⱂⱃⰸⰵⱌⰹⰵż wⰹⰴⰸⰹⰰłⰰ łⰸⱐ w ⱁⱌⰸⰰⱌⱈ ⱌóⱃⰽⰹ, wⰹⰴⰸⰹⰰłⰰ, ⰺⰰⰽ Ⰿⰰⱃⱐⱄⰹⰰ ⱄⰽⱆⰾⰹłⰰ ⱄⰹⱔ w ⱄⱁⰱⰹⰵ, ⰺⰰⰽⰱⱐ ⱁⱌⰸⰵⰽⰹwⰰłⰰ ⱌⰹⱁⱄⱆ.
 
-– Przeprosić? Za co?
+– Ⱂⱁⱌⰸⱆⱌⰹⰵ wⰰⱃⱅⱁśⱌⰹ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ w ⰸⰰⰽⱁⱌⱈⰰⱀⱐⱌⱈ ⱁⱌⰸⰰⱌⱈ ⱃⱁⰴⰸⰹⱌów – ⰽⱁⱀⱅⱐⱀⱆⱁwⰰłⰰ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ. – Ⱅⱁ, żⰵ ⱃⱁⰴⰸⰹⱌ ⱂⰰⱅⱃⰸⱐ ⱀⰰ ⰴⰸⰹⰵⱌⰽⱁ ⰹ ⱁⱀⱁ wⰹⰵ, żⰵ ⰺⰵⱄⱅ ⰽⱁⱌⱈⰰⱀⰵ, ⱀⰰwⰵⱅ ⱅⰰⰽⰹⰵ ⱀⰹⰵⰹⰴⰵⰰⰾⱀⰵ. Ⱀⰹⰵⰸⰰⰾⰵżⱀⰹⰵ ⱁⰴ ⱅⰵⰳⱁ, ⱌⰸⱐ ⰴⱁⱄⱅⰰⱀⰹⰵ ⱂⰹąⱅⰽⱔ, ⱌⰸⱐ ⰴwóⰺⰽⱔ, ⱌⰸⱐ ⱃⱁⰸⰾⰵⰺⰵ ⱄⱁⰽ, ⱌⰸⱐ ⱀⰹⰵ.
 
-– Że cię nie słuchałam. Że nie próbowałam zrozumieć, dlaczego tak reagujesz. I że – sama tego nie widziałam – ale też krytykowałam ciebie w oczach dzieci.
+Ⰰⱀⰹⰰ ⰸⰰⱌⰸⱔłⰰ ⱂłⰰⰽⰰⱍ. Ⱂłⰰⰽⰰłⰰ ⱌⰹⱌⱈⱁ, żⰵⰱⱐ ⰴⰸⰹⰵⱌⰹ ⱀⰹⰵ ⱆⱄłⱐⱄⰸⰰłⱐ. Ⱂłⰰⰽⰰłⰰ ⰸⰰ ⱄⱁⰱą – ⰸⰰ ⱅą ⰿⰰłą ⰴⰸⰹⰵwⱌⰸⱐⱀⰽą, ⰽⱅóⱃⰰ ⰽⰹⰵⰴⱐś ⱅⰵż ⱌⱈⱌⰹⰰłⰰ ⰱⱐⱍ ⰽⱁⱌⱈⰰⱀⰰ ⰱⰵⰸwⰰⱃⱆⱀⰽⱁwⱁ. Ⰽⱅóⱃⰰ ⱄłⱐⱄⰸⰰłⰰ: "Ⱀⱁ, Ⰰⱀⰹⰰ, ⱀⱁ ⰴⱁⰱⱃⰸⰵ", ⱂⱁⰴⱌⰸⰰⱄ ⰳⰴⱐ ⱄⰹⱁⱄⱅⱃⰸⰵ ⱆśⰿⰹⰵⱌⱈⰰⰾⰹ ⱄⰹⱔ w ⱁⱌⰸⱐ. Ⰽⱅóⱃⰰ ⰴⱁ ⰴⰸⰹⱄⰹⰰⰺ, ⰿⰹⰿⱁ żⰵ ⱄⰽⱁńⱌⰸⱐłⰰ ⱄⱅⱆⰴⰹⰰ, ⰿⰹⰰłⰰ ⰴⱁⰱⱃą ⱂⱃⰰⱌⱔ ⰹ ⰽⱁⱌⱈⰰⰺąⱌą ⱃⱁⰴⰸⰹⱀⱔ, ⱌⰸⱆłⰰ, żⰵ ⰺⰵⱄⱅ ⱀⰹⰵwⱐⱄⱅⰰⱃⱌⰸⰰⰺąⱌⰰ.
 
-Marek milczał. Ania usiadła obok niego.
+– Ⰺⰰⰽ ⱌⱈwⰰⰾⰹⱍ? – ⱂⱐⱅⰰł ⱂⱃⱁwⰰⰴⰸąⱌⱐ.
 
-– Słuchałam dzisiaj jednego podcastu – powiedziała. – Mówili o tym, że autorytet buduje się na przepraszaniu. Że dzieci potrzebują widzieć, że rodzice też popełniają błędy i że się do nich przyznają. I że jeśli chcemy, żeby nasze dzieci miały poczucie wartości, to my musimy być dla nich bezpiecznym wzorcem.
+– Ⱁⱂⰹⱄⱁwⱁ – ⱁⰴⱂⱁwⰹⰰⰴⰰłⰰ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ. – Ⱀⰹⰵ ⰿówⰹⰿⱐ: "Ⰺⰵⱄⱅⰵś ⱂⰹⱔⰽⱀⱐ". Ⰿówⰹⰿⱐ: "Wⰹⰴⰸⱔ, żⰵ ⰴⱁⰱⱃⰰłⰰś łⰰⰴⱀⰵ ⰽⱁⰾⱁⱃⱐ ⰴⱁ ⱅⰵⰺ ⱄⱆⰽⰹⰵⱀⰽⰹ". Ⱀⰹⰵ ⰿówⰹⰿⱐ: "Śwⰹⰵⱅⱀⰹⰵ". Ⰿówⰹⰿⱐ: "Wⰹⰴⰸⱔ, żⰵ ⰴłⱆⰳⱁ ⱀⰰⰴ ⱅⱐⰿ ⱂⱃⰰⱌⱁwⰰłⰵś ⰹ ⱆⰴⰰłⱁ ⱌⰹ ⱄⰹⱔ. Ⱅⱁ ⱀⰹⰵ ⰱⱐłⱁ łⰰⱅwⰵ, ⰰⰾⰵ ⰴⰰłⰵś ⱃⰰⰴⱔ".
 
-Marek spojrzał na nią.
+Ⰰⱀⰹⰰ ⱄłⱆⱌⱈⰰłⰰ ⰴⰰⰾⰵⰺ. Ⱆⱄłⱐⱄⰸⰰłⰰ ⱁ żłⱁⰱⰽⰰⱌⱈ – żⰵ ⰴⱁ ⱅⱃⰸⰵⱌⰹⰵⰳⱁ ⱃⱁⰽⱆ żⱐⱌⰹⰰ ⰴⰸⰹⰵⱌⰽⱁ ⱂⱁⱅⱃⰸⰵⰱⱆⰺⰵ ⰳłówⱀⰵⰳⱁ ⱁⱂⰹⰵⰽⱆⱀⰰ, ⰱⱁ wⱅⰵⰴⱐ ⰽⱄⰸⱅⰰłⱅⱆⰺą ⱄⰹⱔ wⰸⱁⱃⱌⰵ ⱂⱃⰸⱐwⰹąⰸⰰⱀⰹⰰ. Ⱆⱄłⱐⱄⰸⰰłⰰ, żⰵ ⰽⱁⱀⱇⰾⰹⰽⱅ w ⰿⰰłżⰵńⱄⱅwⰹⰵ ⱀⰹⰵ ⰺⰵⱄⱅ ⰸłⱐ, żⰵ wⰰżⱀⰵ ⰺⰵⱄⱅ, ⰺⰰⰽ ⱄⰹⱔ ⰳⱁ ⱃⱁⰸwⰹąⰸⱆⰺⰵ. Ⱆⱄłⱐⱄⰸⰰłⰰ, żⰵ ⰺⰵśⰾⰹ ⱌⱈⱌⰵⰿⱐ wⱐⱌⱈⱁwⰰⱍ ⰴⰸⰹⰵⱌⰹ, ⰿⱆⱄⰹⰿⱐ ⱂⱃⰰⱌⱁwⰰⱍ ⱀⰰⰴ ⱄⱁⰱą ⰹ ⱀⰰⰴ ⱄwⱁⰹⰿ ⰿⰰłżⰵńⱄⱅwⰵⰿ, ⰱⱁ ⱅⱁ ⰺⰵⱄⱅ wⰸⱁⱃⰸⰵⱌ ⰴⰾⰰ ⰴⰸⰹⰵⱌⰹ.
 
-– I co z tego? – zapytał. – To znaczy, że mam przestać wymagać? Że mam im pozwalać na wszystko?
+– Ⱅⱁ, ⱌⱁ ⰿⱐśⰾⰹⰿⱐ ⱁ ⱄⱁⰱⰹⰵ, ⰱⰹⰵⱃⰸⰵ ⱂⱁⱌⰸąⱅⰵⰽ w ⱃⱁⰴⰸⰹⱀⰹⰵ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ. – Ⱀⰹⰵⱄⰹⰵⰿⱐ ⱄwⱁⰹⱌⱈ ⱃⱁⰴⰸⰹⱌów, ⰹⱌⱈ ⰾⱔⰽⰹ, ⰹⱌⱈ ⱇⰰⱄⱌⱐⱀⰰⱌⰺⰵ. Ⱀⰹⰵwⰹⰵⰾⰵ ⱁ ⱄⱁⰱⰹⰵ wⰹⰵⰿⱐ, ⰴⱁⱂóⰽⰹ ⱀⰹⰵ wⰵⰺⰴⰸⰹⰵⰿⱐ w ⰸwⰹąⰸⰵⰽ ⰹ ⱀⰹⰵ ⰸⰰⱌⰸⱀⰹⰵⰿⱐ ⱄⰹⱔ ⱁⰴⰽⱃⱐwⰰⱍ.
 
-– Nie. To znaczy, że mamy wymagać inaczej. Z szacunkiem. Że mamy mówić: "Kochanie, nie mogę się zgodzić na to, co robisz, bo to ci szkodzi", a nie: "Jesteś beznadziejny". Że mamy chwalić je opisowo, a nie oceniać. I że mamy przepraszać, kiedy zawiedziemy.
-
-Marek oparł głowę na rękach.
-
-– Ja nie umiem – powiedział cicho. – Mój ojciec nigdy mnie nie przeprosił. Nigdy nie powiedział: "Dobrze cię wychowałem". Nigdy nie powiedział: "Kocham cię". A ja nie chcę być taki jak on. Ale nie wiem, jak być inaczej.
-
-Ania położyła dłoń na jego ramieniu.
-
-– Możemy się nauczyć. Razem.
+Ⰰⱀⰹⰰ ⱂⱁⰿⱐśⰾⰰłⰰ ⱁ Ⰿⰰⱃⰽⱆ. Ⱁ ⱅⱐⰿ, ⰺⰰⰽ ⱁⱀ ⱅⰵż ⱀⱁⱄⰹ ⱄwⱁⰺⰵ ⰾⱔⰽⰹ. Ⱁ ⱅⱐⰿ, żⰵ ⰺⰵⰳⱁ ⱁⰺⱌⰹⰵⱌ ⰱⱐł ⱄⱆⱃⱁwⱐ, wⱐⰿⰰⰳⰰⰺąⱌⱐ, ⱀⰹⰳⰴⱐ ⰳⱁ ⱀⰹⰵ ⱌⱈwⰰⰾⰹł. Ⰹ żⰵ Ⰿⰰⱃⰵⰽ, ⱌⱈⱌąⱌ ⰱⱐⱍ ⰾⰵⱂⱄⰸⱐⰿ ⱁⰺⱌⰵⰿ, ⱄⱅⰰł ⱄⰹⱔ włⰰśⱀⰹⰵ ⱅⰰⰽⰹ – ⱄⱆⱃⱁwⱐ, wⱐⰿⰰⰳⰰⰺąⱌⱐ, ⰱⱁⰺąⱌⱐ ⱄⰹⱔ, żⰵ ⰺⰵśⰾⰹ ⱁⰴⱂⱆśⱌⰹ, ⰴⰸⰹⰵⱌⰹ wⱐⱃⱁⱄⱀą ⱀⰰ "ⰿⰹⱔⱌⰸⰰⰽów". Ⰹ żⰵ ⱁⱀ ⱅⰵż ⱂⱁⱅⱃⰸⰵⰱⱆⰺⰵ ⱆⱄłⱐⱄⰸⰵⱍ, żⰵ ⰺⰵⱄⱅ wⱐⱄⱅⰰⱃⱌⰸⰰⰺąⱌⱐ.
 
 ---
-Następnego dnia, przy śniadaniu, Marysia rozlała mleko. Jej oczy wypełniły się łzami, zanim jeszcze ktokolwiek zdążył cokolwiek powiedzieć.
+Ⰽⰹⰵⰴⱐ ⰴⰸⰹⰵⱌⰹ w ⰽⱁńⱌⱆ ⰸⰰⱄⱀⱔłⱐ, Ⰰⱀⰹⰰ ⱆⱄⰹⰰⰴłⰰ w ⱄⰰⰾⱁⱀⰹⰵ. Ⰿⰰⱃⰵⰽ wⱃóⱌⰹł, ⰰⰾⰵ ⰸⰰⰿⰽⱀął ⱄⰹⱔ w ⱄwⱁⰹⰿ ⱂⱁⰽⱁⰺⱆ. Ⰰⱀⰹⰰ wⰸⰹⱔłⰰ ⰳłⱔⰱⱁⰽⰹ ⱁⰴⰴⰵⱌⱈ ⰹ ⱂⱁⱄⰸłⰰ ⰴⱁ ⱀⰹⰵⰳⱁ.
 
-– Przepraszam – wyszeptała. – Przepraszam, mamo.
+– Ⰿⰰⱃⰵⰽ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ ⱌⰹⱌⱈⱁ. – Ⰿⱆⱄⰹⰿⱐ ⱂⱁⱃⱁⰸⰿⰰwⰹⰰⱍ.
 
-Ania wzięła głęboki oddech. Dawniej powiedziałaby: "Znowu? Ile razy ci mówiłam, żebyś uważała?" Zamiast tego podeszła do Marysi, przytuliła ją i powiedziała:
+– Ⱀⰹⰵ ⰿⰰⰿ ⱄⰹłⱐ ⱀⰰ ⰽⱁⰾⰵⰺⱀą ⰽłóⱅⱀⰹⱔ – ⱁⰴⱂⱁwⰹⰵⰴⰸⰹⰰł, ⱀⰹⰵ ⱂⱁⰴⱀⱁⱄⰸąⱌ wⰸⱃⱁⰽⱆ.
 
-– Widzę, że jest ci przykro. To nie jest przyjemne, kiedy coś się rozlewa, prawda? Ale nic się nie stało. Weźmiemy ściereczkę, wytrzemy i będzie dobrze. Chcesz mi pomóc?
+– Ⱀⰹⰵ ⱌⱈⱌⱔ ⱄⰹⱔ ⰽłóⱌⰹⱍ. Ⱌⱈⱌⱔ ⱌⰹⱔ ⱂⱃⰸⰵⱂⱃⱁⱄⰹⱍ.
 
-Marysia spojrzała na nią zaskoczona. Skinęła głową. Razem wytały mleko. Potem Ania dodała:
+Ⰿⰰⱃⰵⰽ ⱄⱂⱁⰺⱃⰸⰰł ⱀⰰ ⱀⰹą ⰸⰴⰸⰹwⰹⱁⱀⱐ.
 
-– Widzę, że bardzo się starałaś nalać sobie mleka samej. To nie było łatwe, ale próbowałaś. Jestem z ciebie dumna.
+– Ⱂⱃⰸⰵⱂⱃⱁⱄⰹⱍ? Ⰸⰰ ⱌⱁ?
 
-Marysia uśmiechnęła się. Po raz pierwszy od wielu dni.
+– Żⰵ ⱌⰹⱔ ⱀⰹⰵ ⱄłⱆⱌⱈⰰłⰰⰿ. Żⰵ ⱀⰹⰵ ⱂⱃóⰱⱁwⰰłⰰⰿ ⰸⱃⱁⰸⱆⰿⰹⰵⱍ, ⰴⰾⰰⱌⰸⰵⰳⱁ ⱅⰰⰽ ⱃⰵⰰⰳⱆⰺⰵⱄⰸ. Ⰹ żⰵ – ⱄⰰⰿⰰ ⱅⰵⰳⱁ ⱀⰹⰵ wⰹⰴⰸⰹⰰłⰰⰿ – ⰰⰾⰵ ⱅⰵż ⰽⱃⱐⱅⱐⰽⱁwⰰłⰰⰿ ⱌⰹⰵⰱⰹⰵ w ⱁⱌⰸⰰⱌⱈ ⰴⰸⰹⰵⱌⰹ.
 
-Marek obserwował to wszystko z kąta. Nic nie powiedział. Ale Ania widziała w jego oczach coś, czego nie widziała od dawna – refleksję.
+Ⰿⰰⱃⰵⰽ ⰿⰹⰾⱌⰸⰰł. Ⰰⱀⰹⰰ ⱆⱄⰹⰰⰴłⰰ ⱁⰱⱁⰽ ⱀⰹⰵⰳⱁ.
 
----
-Kilka dni później Marek wrócił z pracy wcześniej. Marysia pokazywała mu rysunek, który narysowała w szkole.
+– Ⱄłⱆⱌⱈⰰłⰰⰿ ⰴⰸⰹⱄⰹⰰⰺ ⰺⰵⰴⱀⰵⰳⱁ ⱂⱁⰴⱌⰰⱄⱅⱆ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ. – Ⰿówⰹⰾⰹ ⱁ ⱅⱐⰿ, żⰵ ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱀⰹⱆ. Żⰵ ⰴⰸⰹⰵⱌⰹ ⱂⱁⱅⱃⰸⰵⰱⱆⰺą wⰹⰴⰸⰹⰵⱍ, żⰵ ⱃⱁⰴⰸⰹⱌⰵ ⱅⰵż ⱂⱁⱂⰵłⱀⰹⰰⰺą ⰱłⱔⰴⱐ ⰹ żⰵ ⱄⰹⱔ ⰴⱁ ⱀⰹⱌⱈ ⱂⱃⰸⱐⰸⱀⰰⰺą. Ⰹ żⰵ ⰺⰵśⰾⰹ ⱌⱈⱌⰵⰿⱐ, żⰵⰱⱐ ⱀⰰⱄⰸⰵ ⰴⰸⰹⰵⱌⰹ ⰿⰹⰰłⱐ ⱂⱁⱌⰸⱆⱌⰹⰵ wⰰⱃⱅⱁśⱌⰹ, ⱅⱁ ⰿⱐ ⰿⱆⱄⰹⰿⱐ ⰱⱐⱍ ⰴⰾⰰ ⱀⰹⱌⱈ ⰱⰵⰸⱂⰹⰵⱌⰸⱀⱐⰿ wⰸⱁⱃⱌⰵⰿ.
 
-– Zobacz, tato! To nasza rodzina.
+Ⰿⰰⱃⰵⰽ ⱄⱂⱁⰺⱃⰸⰰł ⱀⰰ ⱀⰹą.
 
-Marek spojrzał na rysunek. Wszyscy się uśmiechali. Nawet pies.
+– Ⰹ ⱌⱁ ⰸ ⱅⰵⰳⱁ? – ⰸⰰⱂⱐⱅⰰł. – Ⱅⱁ ⰸⱀⰰⱌⰸⱐ, żⰵ ⰿⰰⰿ ⱂⱃⰸⰵⱄⱅⰰⱍ wⱐⰿⰰⰳⰰⱍ? Żⰵ ⰿⰰⰿ ⰹⰿ ⱂⱁⰸwⰰⰾⰰⱍ ⱀⰰ wⱄⰸⱐⱄⱅⰽⱁ?
 
-– Piękny – powiedział. I wtedy, ku zaskoczeniu Ani, dodał: – Widzę, że długo nad nim pracowałaś. Są tu szczegóły, których nie widziałem wcześniej – na przykład te kwiatki w tle. Potrafisz rysować rzeczy, których inni by nie zauważyli.
+– Ⱀⰹⰵ. Ⱅⱁ ⰸⱀⰰⱌⰸⱐ, żⰵ ⰿⰰⰿⱐ wⱐⰿⰰⰳⰰⱍ ⰹⱀⰰⱌⰸⰵⰺ. Ⰸ ⱄⰸⰰⱌⱆⱀⰽⰹⰵⰿ. Żⰵ ⰿⰰⰿⱐ ⰿówⰹⱍ: "Ⰽⱁⱌⱈⰰⱀⰹⰵ, ⱀⰹⰵ ⰿⱁⰳⱔ ⱄⰹⱔ ⰸⰳⱁⰴⰸⰹⱍ ⱀⰰ ⱅⱁ, ⱌⱁ ⱃⱁⰱⰹⱄⰸ, ⰱⱁ ⱅⱁ ⱌⰹ ⱄⰸⰽⱁⰴⰸⰹ", ⰰ ⱀⰹⰵ: "Ⰺⰵⱄⱅⰵś ⰱⰵⰸⱀⰰⰴⰸⰹⰵⰺⱀⱐ". Żⰵ ⰿⰰⰿⱐ ⱌⱈwⰰⰾⰹⱍ ⰺⰵ ⱁⱂⰹⱄⱁwⱁ, ⰰ ⱀⰹⰵ ⱁⱌⰵⱀⰹⰰⱍ. Ⰹ żⰵ ⰿⰰⰿⱐ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ, ⰽⰹⰵⰴⱐ ⰸⰰwⰹⰵⰴⰸⰹⰵⰿⱐ.
 
-Marysia promieniała.
+Ⰿⰰⱃⰵⰽ ⱁⱂⰰⱃł ⰳłⱁwⱔ ⱀⰰ ⱃⱔⰽⰰⱌⱈ.
 
-Ania podeszła do męża i szepnęła:
+– Ⰺⰰ ⱀⰹⰵ ⱆⰿⰹⰵⰿ – ⱂⱁwⰹⰵⰴⰸⰹⰰł ⱌⰹⱌⱈⱁ. – Ⰿóⰺ ⱁⰺⱌⰹⰵⱌ ⱀⰹⰳⰴⱐ ⰿⱀⰹⰵ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⱁⱄⰹł. Ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱁwⰹⰵⰴⰸⰹⰰł: "Ⰴⱁⰱⱃⰸⰵ ⱌⰹⱔ wⱐⱌⱈⱁwⰰłⰵⰿ". Ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱁwⰹⰵⰴⰸⰹⰰł: "Ⰽⱁⱌⱈⰰⰿ ⱌⰹⱔ". Ⰰ ⰺⰰ ⱀⰹⰵ ⱌⱈⱌⱔ ⰱⱐⱍ ⱅⰰⰽⰹ ⰺⰰⰽ ⱁⱀ. Ⰰⰾⰵ ⱀⰹⰵ wⰹⰵⰿ, ⰺⰰⰽ ⰱⱐⱍ ⰹⱀⰰⱌⰸⰵⰺ.
 
-– Widzę, że uczysz się chwalić.
+Ⰰⱀⰹⰰ ⱂⱁłⱁżⱐłⰰ ⰴłⱁń ⱀⰰ ⰺⰵⰳⱁ ⱃⰰⰿⰹⰵⱀⰹⱆ.
 
-– Ty też się uczysz – odpowiedział. – I widzę, że to działa.
-
----
-Wieczorem, kiedy dzieci spały, Ania i Marek usiedli na kanapie. Marek wziął ją za rękę.
-
-– Przepraszam – powiedział. – Za to, że cię krytykowałem. Że nie widziałem, że ty też dajesz z siebie wszystko. I że czasami byłem zbyt surowy wobec Marysi. To nie jest jej wina, że ja nie umiem inaczej. Ale chcę się nauczyć.
-
-Ania przytuliła się do niego.
-
-– Ja też cię przepraszam – powiedziała. – Że nie umiałam cię wysłuchać. Że nie widziałam, że ty też potrzebujesz wsparcia. I że czasami mówiłam o tobie źle przy dzieciach. To był błąd.
-
-– Będziemy się uczyć – powiedział Marek.
-
-– Razem.
+– Ⰿⱁżⰵⰿⱐ ⱄⰹⱔ ⱀⰰⱆⱌⰸⱐⱍ. Ⱃⰰⰸⰵⰿ.
 
 ---
-Miesiąc później Ania usiadła do laptopa, żeby napisać wiadomość do autora podcastu. Chciała podziękować. Za to, że znalazła odwagę, żeby zmienić swoje życie. Za to, że zrozumiała, że wychowanie to nie tresura, tylko relacja. I że największym prezentem, jaki może dać swoim dzieciom, jest poczucie własnej wartości – które buduje się w zakochanych oczach rodziców.
+Ⱀⰰⱄⱅⱔⱂⱀⰵⰳⱁ ⰴⱀⰹⰰ, ⱂⱃⰸⱐ śⱀⰹⰰⰴⰰⱀⰹⱆ, Ⰿⰰⱃⱐⱄⰹⰰ ⱃⱁⰸⰾⰰłⰰ ⰿⰾⰵⰽⱁ. Ⰺⰵⰺ ⱁⱌⰸⱐ wⱐⱂⰵłⱀⰹłⱐ ⱄⰹⱔ łⰸⰰⰿⰹ, ⰸⰰⱀⰹⰿ ⰺⰵⱄⰸⱌⰸⰵ ⰽⱅⱁⰽⱁⰾwⰹⰵⰽ ⰸⰴążⱐł ⱌⱁⰽⱁⰾwⰹⰵⰽ ⱂⱁwⰹⰵⰴⰸⰹⰵⱍ.
 
-Pomyślała o tym, co powiedziała pani Maria: "Miłość to czas, który dajemy". I zrozumiała, że nie chodzi o to, żeby być idealnym rodzicem. Chodzi o to, żeby być obecnym. I żeby codziennie próbować jeszcze raz.
+– Ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ – wⱐⱄⰸⰵⱂⱅⰰłⰰ. – Ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ, ⰿⰰⰿⱁ.
 
-– Mamo – zawołała Marysia z pokoju. – Chodź, przeczytasz mi bajkę?
+Ⰰⱀⰹⰰ wⰸⰹⱔłⰰ ⰳłⱔⰱⱁⰽⰹ ⱁⰴⰴⰵⱌⱈ. Ⰴⰰwⱀⰹⰵⰺ ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰⰱⱐ: "Ⰸⱀⱁwⱆ? Ⰹⰾⰵ ⱃⰰⰸⱐ ⱌⰹ ⰿówⰹłⰰⰿ, żⰵⰱⱐś ⱆwⰰżⰰłⰰ?" Ⰸⰰⰿⰹⰰⱄⱅ ⱅⰵⰳⱁ ⱂⱁⰴⰵⱄⰸłⰰ ⰴⱁ Ⰿⰰⱃⱐⱄⰹ, ⱂⱃⰸⱐⱅⱆⰾⰹłⰰ ⰺą ⰹ ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ:
 
-Ania zamknęła laptopa.
+– Wⰹⰴⰸⱔ, żⰵ ⰺⰵⱄⱅ ⱌⰹ ⱂⱃⰸⱐⰽⱃⱁ. Ⱅⱁ ⱀⰹⰵ ⰺⰵⱄⱅ ⱂⱃⰸⱐⰺⰵⰿⱀⰵ, ⰽⰹⰵⰴⱐ ⱌⱁś ⱄⰹⱔ ⱃⱁⰸⰾⰵwⰰ, ⱂⱃⰰwⰴⰰ? Ⰰⰾⰵ ⱀⰹⱌ ⱄⰹⱔ ⱀⰹⰵ ⱄⱅⰰłⱁ. Wⰵźⰿⰹⰵⰿⱐ śⱌⰹⰵⱃⰵⱌⰸⰽⱔ, wⱐⱅⱃⰸⰵⰿⱐ ⰹ ⰱⱔⰴⰸⰹⰵ ⰴⱁⰱⱃⰸⰵ. Ⱌⱈⱌⰵⱄⰸ ⰿⰹ ⱂⱁⰿóⱌ?
 
-– Idę, kochanie.
+Ⰿⰰⱃⱐⱄⰹⰰ ⱄⱂⱁⰺⱃⰸⰰłⰰ ⱀⰰ ⱀⰹą ⰸⰰⱄⰽⱁⱌⰸⱁⱀⰰ. Ⱄⰽⰹⱀⱔłⰰ ⰳłⱁwą. Ⱃⰰⰸⰵⰿ wⱐⱅⰰłⱐ ⰿⰾⰵⰽⱁ. Ⱂⱁⱅⰵⰿ Ⰰⱀⰹⰰ ⰴⱁⰴⰰłⰰ:
 
-Wstała, podeszła do drzwi i spojrzała na swoje dzieci. Marysia leżała w łóżku z książką na kolanach. Ala tuliła się do swojego misia.
+– Wⰹⰴⰸⱔ, żⰵ ⰱⰰⱃⰴⰸⱁ ⱄⰹⱔ ⱄⱅⰰⱃⰰłⰰś ⱀⰰⰾⰰⱍ ⱄⱁⰱⰹⰵ ⰿⰾⰵⰽⰰ ⱄⰰⰿⰵⰺ. Ⱅⱁ ⱀⰹⰵ ⰱⱐłⱁ łⰰⱅwⰵ, ⰰⰾⰵ ⱂⱃóⰱⱁwⰰłⰰś. Ⰺⰵⱄⱅⰵⰿ ⰸ ⱌⰹⰵⰱⰹⰵ ⰴⱆⰿⱀⰰ.
 
-Ania usiadła między nimi.
+Ⰿⰰⱃⱐⱄⰹⰰ ⱆśⰿⰹⰵⱌⱈⱀⱔłⰰ ⱄⰹⱔ. Ⱂⱁ ⱃⰰⰸ ⱂⰹⰵⱃwⱄⰸⱐ ⱁⰴ wⰹⰵⰾⱆ ⰴⱀⰹ.
 
-– Jaka bajka dzisiaj?
+Ⰿⰰⱃⰵⰽ ⱁⰱⱄⰵⱃwⱁwⰰł ⱅⱁ wⱄⰸⱐⱄⱅⰽⱁ ⰸ ⰽąⱅⰰ. Ⱀⰹⱌ ⱀⰹⰵ ⱂⱁwⰹⰵⰴⰸⰹⰰł. Ⰰⰾⰵ Ⰰⱀⰹⰰ wⰹⰴⰸⰹⰰłⰰ w ⰺⰵⰳⱁ ⱁⱌⰸⰰⱌⱈ ⱌⱁś, ⱌⰸⰵⰳⱁ ⱀⰹⰵ wⰹⰴⰸⰹⰰłⰰ ⱁⰴ ⰴⰰwⱀⰰ – ⱃⰵⱇⰾⰵⰽⱄⰺⱔ.
 
-– O smoku, który nie umiał przepraszać – powiedziała Marysia.
+---
+Ⰽⰹⰾⰽⰰ ⰴⱀⰹ ⱂóźⱀⰹⰵⰺ Ⰿⰰⱃⰵⰽ wⱃóⱌⰹł ⰸ ⱂⱃⰰⱌⱐ wⱌⰸⰵśⱀⰹⰵⰺ. Ⰿⰰⱃⱐⱄⰹⰰ ⱂⱁⰽⰰⰸⱐwⰰłⰰ ⰿⱆ ⱃⱐⱄⱆⱀⰵⰽ, ⰽⱅóⱃⱐ ⱀⰰⱃⱐⱄⱁwⰰłⰰ w ⱄⰸⰽⱁⰾⰵ.
 
-Ania uśmiechnęła się. Otworzyła książkę i zaczęła czytać.
+– Ⰸⱁⰱⰰⱌⰸ, ⱅⰰⱅⱁ! Ⱅⱁ ⱀⰰⱄⰸⰰ ⱃⱁⰴⰸⰹⱀⰰ.
 
-A w jej głowie wciąż brzmiały słowa, które zmieniły wszystko: "Autorytet nie buduje się na nakazach i zakazach. Prędzej zbuduje się go na przepraszam".
+Ⰿⰰⱃⰵⰽ ⱄⱂⱁⰺⱃⰸⰰł ⱀⰰ ⱃⱐⱄⱆⱀⰵⰽ. Wⱄⰸⱐⱄⱌⱐ ⱄⰹⱔ ⱆśⰿⰹⰵⱌⱈⰰⰾⰹ. Ⱀⰰwⰵⱅ ⱂⰹⰵⱄ.
 
-I wiedziała, że to prawda. Bo w tych trzech słowach – w "kocham cię", w "jesteś ważna" i w "przepraszam" – kryło się wszystko, czego dzieci potrzebują, żeby być szczęśliwymi.
+– Ⱂⰹⱔⰽⱀⱐ – ⱂⱁwⰹⰵⰴⰸⰹⰰł. Ⰹ wⱅⰵⰴⱐ, ⰽⱆ ⰸⰰⱄⰽⱁⱌⰸⰵⱀⰹⱆ Ⰰⱀⰹ, ⰴⱁⰴⰰł: – Wⰹⰴⰸⱔ, żⰵ ⰴłⱆⰳⱁ ⱀⰰⰴ ⱀⰹⰿ ⱂⱃⰰⱌⱁwⰰłⰰś. Ⱄą ⱅⱆ ⱄⰸⱌⰸⰵⰳółⱐ, ⰽⱅóⱃⱐⱌⱈ ⱀⰹⰵ wⰹⰴⰸⰹⰰłⰵⰿ wⱌⰸⰵśⱀⰹⰵⰺ – ⱀⰰ ⱂⱃⰸⱐⰽłⰰⰴ ⱅⰵ ⰽwⰹⰰⱅⰽⰹ w ⱅⰾⰵ. Ⱂⱁⱅⱃⰰⱇⰹⱄⰸ ⱃⱐⱄⱁwⰰⱍ ⱃⰸⰵⱌⰸⱐ, ⰽⱅóⱃⱐⱌⱈ ⰹⱀⱀⰹ ⰱⱐ ⱀⰹⰵ ⰸⰰⱆwⰰżⱐⰾⰹ.
 
-I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała: wystarczy, że będzie prawdziwa.
+Ⰿⰰⱃⱐⱄⰹⰰ ⱂⱃⱁⰿⰹⰵⱀⰹⰰłⰰ.
 
-**KONIEC**
+Ⰰⱀⰹⰰ ⱂⱁⰴⰵⱄⰸłⰰ ⰴⱁ ⰿⱔżⰰ ⰹ ⱄⰸⰵⱂⱀⱔłⰰ:
+
+– Wⰹⰴⰸⱔ, żⰵ ⱆⱌⰸⱐⱄⰸ ⱄⰹⱔ ⱌⱈwⰰⰾⰹⱍ.
+
+– Ⱅⱐ ⱅⰵż ⱄⰹⱔ ⱆⱌⰸⱐⱄⰸ – ⱁⰴⱂⱁwⰹⰵⰴⰸⰹⰰł. – Ⰹ wⰹⰴⰸⱔ, żⰵ ⱅⱁ ⰴⰸⰹⰰłⰰ.
+
+---
+Wⰹⰵⱌⰸⱁⱃⰵⰿ, ⰽⰹⰵⰴⱐ ⰴⰸⰹⰵⱌⰹ ⱄⱂⰰłⱐ, Ⰰⱀⰹⰰ ⰹ Ⰿⰰⱃⰵⰽ ⱆⱄⰹⰵⰴⰾⰹ ⱀⰰ ⰽⰰⱀⰰⱂⰹⰵ. Ⰿⰰⱃⰵⰽ wⰸⰹął ⰺą ⰸⰰ ⱃⱔⰽⱔ.
+
+– Ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ – ⱂⱁwⰹⰵⰴⰸⰹⰰł. – Ⰸⰰ ⱅⱁ, żⰵ ⱌⰹⱔ ⰽⱃⱐⱅⱐⰽⱁwⰰłⰵⰿ. Żⰵ ⱀⰹⰵ wⰹⰴⰸⰹⰰłⰵⰿ, żⰵ ⱅⱐ ⱅⰵż ⰴⰰⰺⰵⱄⰸ ⰸ ⱄⰹⰵⰱⰹⰵ wⱄⰸⱐⱄⱅⰽⱁ. Ⰹ żⰵ ⱌⰸⰰⱄⰰⰿⰹ ⰱⱐłⰵⰿ ⰸⰱⱐⱅ ⱄⱆⱃⱁwⱐ wⱁⰱⰵⱌ Ⰿⰰⱃⱐⱄⰹ. Ⱅⱁ ⱀⰹⰵ ⰺⰵⱄⱅ ⰺⰵⰺ wⰹⱀⰰ, żⰵ ⰺⰰ ⱀⰹⰵ ⱆⰿⰹⰵⰿ ⰹⱀⰰⱌⰸⰵⰺ. Ⰰⰾⰵ ⱌⱈⱌⱔ ⱄⰹⱔ ⱀⰰⱆⱌⰸⱐⱍ.
+
+Ⰰⱀⰹⰰ ⱂⱃⰸⱐⱅⱆⰾⰹłⰰ ⱄⰹⱔ ⰴⱁ ⱀⰹⰵⰳⱁ.
+
+– Ⰺⰰ ⱅⰵż ⱌⰹⱔ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ. – Żⰵ ⱀⰹⰵ ⱆⰿⰹⰰłⰰⰿ ⱌⰹⱔ wⱐⱄłⱆⱌⱈⰰⱍ. Żⰵ ⱀⰹⰵ wⰹⰴⰸⰹⰰłⰰⰿ, żⰵ ⱅⱐ ⱅⰵż ⱂⱁⱅⱃⰸⰵⰱⱆⰺⰵⱄⰸ wⱄⱂⰰⱃⱌⰹⰰ. Ⰹ żⰵ ⱌⰸⰰⱄⰰⰿⰹ ⰿówⰹłⰰⰿ ⱁ ⱅⱁⰱⰹⰵ źⰾⰵ ⱂⱃⰸⱐ ⰴⰸⰹⰵⱌⰹⰰⱌⱈ. Ⱅⱁ ⰱⱐł ⰱłąⰴ.
+
+– Ⰱⱔⰴⰸⰹⰵⰿⱐ ⱄⰹⱔ ⱆⱌⰸⱐⱍ – ⱂⱁwⰹⰵⰴⰸⰹⰰł Ⰿⰰⱃⰵⰽ.
+
+– Ⱃⰰⰸⰵⰿ.
+
+---
+Ⰿⰹⰵⱄⰹąⱌ ⱂóźⱀⰹⰵⰺ Ⰰⱀⰹⰰ ⱆⱄⰹⰰⰴłⰰ ⰴⱁ ⰾⰰⱂⱅⱁⱂⰰ, żⰵⰱⱐ ⱀⰰⱂⰹⱄⰰⱍ wⰹⰰⰴⱁⰿⱁśⱍ ⰴⱁ ⰰⱆⱅⱁⱃⰰ ⱂⱁⰴⱌⰰⱄⱅⱆ. Ⱌⱈⱌⰹⰰłⰰ ⱂⱁⰴⰸⰹⱔⰽⱁwⰰⱍ. Ⰸⰰ ⱅⱁ, żⰵ ⰸⱀⰰⰾⰰⰸłⰰ ⱁⰴwⰰⰳⱔ, żⰵⰱⱐ ⰸⰿⰹⰵⱀⰹⱍ ⱄwⱁⰺⰵ żⱐⱌⰹⰵ. Ⰸⰰ ⱅⱁ, żⰵ ⰸⱃⱁⰸⱆⰿⰹⰰłⰰ, żⰵ wⱐⱌⱈⱁwⰰⱀⰹⰵ ⱅⱁ ⱀⰹⰵ ⱅⱃⰵⱄⱆⱃⰰ, ⱅⱐⰾⰽⱁ ⱃⰵⰾⰰⱌⰺⰰ. Ⰹ żⰵ ⱀⰰⰺwⰹⱔⰽⱄⰸⱐⰿ ⱂⱃⰵⰸⰵⱀⱅⰵⰿ, ⰺⰰⰽⰹ ⰿⱁżⰵ ⰴⰰⱍ ⱄwⱁⰹⰿ ⰴⰸⰹⰵⱌⰹⱁⰿ, ⰺⰵⱄⱅ ⱂⱁⱌⰸⱆⱌⰹⰵ włⰰⱄⱀⰵⰺ wⰰⱃⱅⱁśⱌⰹ – ⰽⱅóⱃⰵ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ w ⰸⰰⰽⱁⱌⱈⰰⱀⱐⱌⱈ ⱁⱌⰸⰰⱌⱈ ⱃⱁⰴⰸⰹⱌów.
+
+Ⱂⱁⰿⱐśⰾⰰłⰰ ⱁ ⱅⱐⰿ, ⱌⱁ ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ: "Ⰿⰹłⱁśⱍ ⱅⱁ ⱌⰸⰰⱄ, ⰽⱅóⱃⱐ ⰴⰰⰺⰵⰿⱐ". Ⰹ ⰸⱃⱁⰸⱆⰿⰹⰰłⰰ, żⰵ ⱀⰹⰵ ⱌⱈⱁⰴⰸⰹ ⱁ ⱅⱁ, żⰵⰱⱐ ⰱⱐⱍ ⰹⰴⰵⰰⰾⱀⱐⰿ ⱃⱁⰴⰸⰹⱌⰵⰿ. Ⱌⱈⱁⰴⰸⰹ ⱁ ⱅⱁ, żⰵⰱⱐ ⰱⱐⱍ ⱁⰱⰵⱌⱀⱐⰿ. Ⰹ żⰵⰱⱐ ⱌⱁⰴⰸⰹⰵⱀⱀⰹⰵ ⱂⱃóⰱⱁwⰰⱍ ⰺⰵⱄⰸⱌⰸⰵ ⱃⰰⰸ.
+
+– Ⰿⰰⰿⱁ – ⰸⰰwⱁłⰰłⰰ Ⰿⰰⱃⱐⱄⰹⰰ ⰸ ⱂⱁⰽⱁⰺⱆ. – Ⱌⱈⱁⰴź, ⱂⱃⰸⰵⱌⰸⱐⱅⰰⱄⰸ ⰿⰹ ⰱⰰⰺⰽⱔ?
+
+Ⰰⱀⰹⰰ ⰸⰰⰿⰽⱀⱔłⰰ ⰾⰰⱂⱅⱁⱂⰰ.
+
+– Ⰹⰴⱔ, ⰽⱁⱌⱈⰰⱀⰹⰵ.
+
+Wⱄⱅⰰłⰰ, ⱂⱁⰴⰵⱄⰸłⰰ ⰴⱁ ⰴⱃⰸwⰹ ⰹ ⱄⱂⱁⰺⱃⰸⰰłⰰ ⱀⰰ ⱄwⱁⰺⰵ ⰴⰸⰹⰵⱌⰹ. Ⰿⰰⱃⱐⱄⰹⰰ ⰾⰵżⰰłⰰ w łóżⰽⱆ ⰸ ⰽⱄⰹążⰽą ⱀⰰ ⰽⱁⰾⰰⱀⰰⱌⱈ. Ⰰⰾⰰ ⱅⱆⰾⰹłⰰ ⱄⰹⱔ ⰴⱁ ⱄwⱁⰺⰵⰳⱁ ⰿⰹⱄⰹⰰ.
+
+Ⰰⱀⰹⰰ ⱆⱄⰹⰰⰴłⰰ ⰿⰹⱔⰴⰸⱐ ⱀⰹⰿⰹ.
+
+– Ⰺⰰⰽⰰ ⰱⰰⰺⰽⰰ ⰴⰸⰹⱄⰹⰰⰺ?
+
+– Ⱁ ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ Ⰿⰰⱃⱐⱄⰹⰰ.
+
+Ⰰⱀⰹⰰ ⱆśⰿⰹⰵⱌⱈⱀⱔłⰰ ⱄⰹⱔ. Ⱁⱅwⱁⱃⰸⱐłⰰ ⰽⱄⰹążⰽⱔ ⰹ ⰸⰰⱌⰸⱔłⰰ ⱌⰸⱐⱅⰰⱍ.
+
+Ⰰ w ⰺⰵⰺ ⰳłⱁwⰹⰵ wⱌⰹąż ⰱⱃⰸⰿⰹⰰłⱐ ⱄłⱁwⰰ, ⰽⱅóⱃⰵ ⰸⰿⰹⰵⱀⰹłⱐ wⱄⰸⱐⱄⱅⰽⱁ: "Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ ⱀⰹⰵ ⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⱀⰰ ⱀⰰⰽⰰⰸⰰⱌⱈ ⰹ ⰸⰰⰽⰰⰸⰰⱌⱈ. Ⱂⱃⱔⰴⰸⰵⰺ ⰸⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⰳⱁ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ".
+
+Ⰹ wⰹⰵⰴⰸⰹⰰłⰰ, żⰵ ⱅⱁ ⱂⱃⰰwⰴⰰ. Ⰱⱁ w ⱅⱐⱌⱈ ⱅⱃⰸⰵⱌⱈ ⱄłⱁwⰰⱌⱈ – w "ⰽⱁⱌⱈⰰⰿ ⱌⰹⱔ", w "ⰺⰵⱄⱅⰵś wⰰżⱀⰰ" ⰹ w "ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ" – ⰽⱃⱐłⱁ ⱄⰹⱔ wⱄⰸⱐⱄⱅⰽⱁ, ⱌⰸⰵⰳⱁ ⰴⰸⰹⰵⱌⰹ ⱂⱁⱅⱃⰸⰵⰱⱆⰺą, żⰵⰱⱐ ⰱⱐⱍ ⱄⰸⱌⰸⱔśⰾⰹwⱐⰿⰹ.
+
+Ⰹ Ⰰⱀⰹⰰ, ⰽⱅóⱃⰰ ⱂⱃⰸⰵⰸ ⰾⰰⱅⰰ ⰿⱐśⰾⰰłⰰ, żⰵ ⰿⱆⱄⰹ ⰱⱐⱍ ⰹⰴⰵⰰⰾⱀⰰ, w ⰽⱁńⱌⱆ ⰸⱃⱁⰸⱆⰿⰹⰰłⰰ: wⱐⱄⱅⰰⱃⱌⰸⱐ, żⰵ ⰱⱔⰴⰸⰹⰵ ⱂⱃⰰwⰴⰸⰹwⰰ.
+
+**ⰍⰑⰐⰉⰅⰜ**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Ⱄⱂⱃⰰwⰴź ⰸⱃⱁⰸⱆⰿⰹⰵⱀⰹⰵ
 
 ### Question 1
 
-**Question:** Jak pani Maria definiuje budowanie autorytetu?
+**Question:** Ⰺⰰⰽ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ ⰴⰵⱇⰹⱀⰹⱆⰺⰵ ⰱⱆⰴⱁwⰰⱀⰹⰵ ⰰⱆⱅⱁⱃⱐⱅⰵⱅⱆ?
 
 **Answers:**
-- A) Na nakazach i zakazach
-- B) Na „przepraszam” i przyznawaniu się do błędów
-- C) Na karach
-- D) Na nagrodach
+- A) Ⱀⰰ ⱀⰰⰽⰰⰸⰰⱌⱈ ⰹ ⰸⰰⰽⰰⰸⰰⱌⱈ
+- B) Ⱀⰰ „ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ” ⰹ ⱂⱃⰸⱐⰸⱀⰰwⰰⱀⰹⱆ ⱄⰹⱔ ⰴⱁ ⰱłⱔⰴów
+- C) Ⱀⰰ ⰽⰰⱃⰰⱌⱈ
+- D) Ⱀⰰ ⱀⰰⰳⱃⱁⰴⰰⱌⱈ
 
 **Correct:** B
-**Explanation:** „Autorytet… zbuduje się go na przepraszam”.
-**Text reference:** na przepraszam
+**Explanation:** „Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ… ⰸⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⰳⱁ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ”.
+**Text reference:** ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ
 
 ### Question 2
 
-**Question:** Co Ania robi, gdy Marysia rozlewa mleko?
+**Question:** Ⱌⱁ Ⰰⱀⰹⰰ ⱃⱁⰱⰹ, ⰳⰴⱐ Ⰿⰰⱃⱐⱄⰹⰰ ⱃⱁⰸⰾⰵwⰰ ⰿⰾⰵⰽⱁ?
 
 **Answers:**
-- A) Krzyknie „Znowu?”
-- B) Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności
-- C) Każe iść do pokoju
-- D) Ignoruje
+- A) Ⰽⱃⰸⱐⰽⱀⰹⰵ „Ⰸⱀⱁwⱆ?”
+- B) Ⱂⱃⰸⱐⱅⱆⰾⰰ ⰹ ⱂⱃⱁⱂⱁⱀⱆⰺⰵ wⱄⱂóⰾⱀⰵ wⱐⱅⰰⱃⱌⰹⰵ; ⱌⱈwⰰⰾⰹ ⱂⱃóⰱⱔ ⱄⰰⰿⱁⰴⰸⰹⰵⰾⱀⱁśⱌⰹ
+- C) Ⰽⰰżⰵ ⰹśⱍ ⰴⱁ ⱂⱁⰽⱁⰺⱆ
+- D) Ⰹⰳⱀⱁⱃⱆⰺⰵ
 
 **Correct:** B
-**Explanation:** Opisowe wsparcie zamiast strofowania.
-**Text reference:** Widzę, że bardzo się starałaś
+**Explanation:** Ⱁⱂⰹⱄⱁwⰵ wⱄⱂⰰⱃⱌⰹⰵ ⰸⰰⰿⰹⰰⱄⱅ ⱄⱅⱃⱁⱇⱁwⰰⱀⰹⰰ.
+**Text reference:** Wⰹⰴⰸⱔ, żⰵ ⰱⰰⱃⰴⰸⱁ ⱄⰹⱔ ⱄⱅⰰⱃⰰłⰰś
 
 ### Question 3
 
-**Question:** Jak Marek chwali rysunek Marysi?
+**Question:** Ⰺⰰⰽ Ⰿⰰⱃⰵⰽ ⱌⱈwⰰⰾⰹ ⱃⱐⱄⱆⱀⰵⰽ Ⰿⰰⱃⱐⱄⰹ?
 
 **Answers:**
-- A) „Jesteś piękna”
-- B) Opisowo: widzi szczegóły, czas pracy, talent do obserwacji
-- C) „Świetnie” i koniec
-- D) Nie chwali
+- A) „Ⰺⰵⱄⱅⰵś ⱂⰹⱔⰽⱀⰰ”
+- B) Ⱁⱂⰹⱄⱁwⱁ: wⰹⰴⰸⰹ ⱄⰸⱌⰸⰵⰳółⱐ, ⱌⰸⰰⱄ ⱂⱃⰰⱌⱐ, ⱅⰰⰾⰵⱀⱅ ⰴⱁ ⱁⰱⱄⰵⱃwⰰⱌⰺⰹ
+- C) „Śwⰹⰵⱅⱀⰹⰵ” ⰹ ⰽⱁⱀⰹⰵⱌ
+- D) Ⱀⰹⰵ ⱌⱈwⰰⰾⰹ
 
 **Correct:** B
-**Explanation:** Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem.
-**Text reference:** kwiatki w tle
+**Explanation:** Ⰿⰰⱃⰵⰽ ⰿówⰹ ⱁ ⰽwⰹⰰⱅⰽⰰⱌⱈ w ⱅⰾⰵ ⰹ ⰴłⱆⰳⰹⰵⰺ ⱂⱃⰰⱌⱐ ⱀⰰⰴ ⱃⱐⱄⱆⱀⰽⰹⰵⰿ.
+**Text reference:** ⰽwⰹⰰⱅⰽⰹ w ⱅⰾⰵ
 
 ### Question 4
 
-**Question:** Czego Marek się boi, mówiąc o swoim ojcu?
+**Question:** Ⱌⰸⰵⰳⱁ Ⰿⰰⱃⰵⰽ ⱄⰹⱔ ⰱⱁⰹ, ⰿówⰹąⱌ ⱁ ⱄwⱁⰹⰿ ⱁⰺⱌⱆ?
 
 **Answers:**
-- A) Że syn go nie kocha
-- B) Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”
-- C) Że straci pracę
-- D) Że wyjadą za granicę
+- A) Żⰵ ⱄⱐⱀ ⰳⱁ ⱀⰹⰵ ⰽⱁⱌⱈⰰ
+- B) Żⰵ ⱄⱅⰰⱀⰹⰵ ⱄⰹⱔ ⰺⰰⰽ ⱁⰺⱌⰹⰵⱌ, ⰽⱅóⱃⱐ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰł ⰰⱀⰹ ⱀⰹⰵ ⰿówⰹł „ⰽⱁⱌⱈⰰⰿ ⱌⰹⱔ”
+- C) Żⰵ ⱄⱅⱃⰰⱌⰹ ⱂⱃⰰⱌⱔ
+- D) Żⰵ wⱐⰺⰰⰴą ⰸⰰ ⰳⱃⰰⱀⰹⱌⱔ
 
 **Correct:** B
-**Explanation:** Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej.
-**Text reference:** nigdy mnie nie przeprosił
+**Explanation:** Ⰿⰰⱃⰵⰽ: ⱁⰺⱌⰹⰵⱌ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰł — ⱁⱀ ⱀⰹⰵ wⰹⰵ, ⰺⰰⰽ ⰱⱐⱍ ⰹⱀⰰⱌⰸⰵⰺ.
+**Text reference:** ⱀⰹⰳⰴⱐ ⰿⱀⰹⰵ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⱁⱄⰹł
 
 ### Question 5
 
-**Question:** Jaką bajkę czyta Ania na koniec?
+**Question:** Ⰺⰰⰽą ⰱⰰⰺⰽⱔ ⱌⰸⱐⱅⰰ Ⰰⱀⰹⰰ ⱀⰰ ⰽⱁⱀⰹⰵⱌ?
 
 **Answers:**
-- A) O Kopciuszku
-- B) O smoku, który nie umiał przepraszać
-- C) O kosmonaucie
-- D) O psie
+- A) Ⱁ Ⰽⱁⱂⱌⰹⱆⱄⰸⰽⱆ
+- B) Ⱁ ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ
+- C) Ⱁ ⰽⱁⱄⰿⱁⱀⰰⱆⱌⰹⰵ
+- D) Ⱁ ⱂⱄⰹⰵ
 
 **Correct:** B
-**Explanation:** Marysia prosi: „O smoku, który nie umiał przepraszać”.
-**Text reference:** smoku, który nie umiał przepraszać
+**Explanation:** Ⰿⰰⱃⱐⱄⰹⰰ ⱂⱃⱁⱄⰹ: „Ⱁ ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ”.
+**Text reference:** ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ
 
 
 ---
@@ -328,22 +328,22 @@ I Ania, która przez lata myślała, że musi być idealna, w końcu zrozumiała
 ## Future Extensions
 
 ### Images
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Illustrations
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Audio narration
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Pronunciation
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Handwriting
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Exercises
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Vocabulary
-*(none)*
+*(ⱀⱁⱀⰵ)*

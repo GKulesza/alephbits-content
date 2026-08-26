@@ -1,4 +1,4 @@
-# Ⰳⰾⰰⱄ ⰺ Ⱅⰺⱎⰺⱀⰰ
+# Ⰳⰾⰰⱄ ⰹ Ⱅⰹⱎⰹⱀⰰ
 
 ## Metadata
 
@@ -8,9 +8,9 @@
 **Version:** 1.0.0  
 **Edition version:** 1.0.0  
 
-**Title:** Ⰳⰾⰰⱄ ⰺ Ⱅⰺⱎⰺⱀⰰ  
-**Subtitle:** Ⱄⰺⱃⰵⱀⰽⰰ, ⰽⱁⱅⱁⱃⰰ ⰴⰰⰾⰰ ⰳⰾⰰⱄ ⰸⰰ ⰾⱓⰱⱁⰲ  
-**Blurb:** Ⰿⰰⱃⰺⱀⰰ, ⱀⰰⰼⰿⰾⰰⰴⱎⰰ ⰴⱎⰺ Ⰽⱃⰰⰾⱝ Ⰿⱁⱃⱝ, ⱄⱂⰰⱄⰰⰼⰵⱅ ⱅⱁⱀⰵⰳⱁ ⰽⱀⰵⰶⰵ ⰺ ⰴⰰⰼⰵ ⱄⰲⱁⰼ ⰳⰾⰰⱄ ⰲⰵⰴⱎⰿⰵ ⰴⰰ ⰱⱏⱅⰺ ⱍⰾⱁⰲⰵⰽⱁⰿ — ⰰⰾⰵ ⱂⱃⰰⰲⰴⰺⰲⰵ ⰾⱓⰱⰲ ⰵ ⰴⰰⰲⰰⱀⰵ, ⱀⰵ ⰺⰿⰵⱀⰻⰵ., ratuje tonącego księcia i oddaje głos wiedźmie, by zostać człowiekiem — lecz prawdziwa miłość okazuje się dawaniem, nie posiadaniem.
+**Title:** Ⰳⰾⰰⱄ ⰹ Ⱅⰹⱎⰹⱀⰰ  
+**Subtitle:** Ⱄⰹⱃⰵⱀⰽⰰ, ⰽⱅⱁⱃⰰ ⰴⰰⰾⰰ ⰳⰾⰰⱄ ⰸⰰ ⱙⱆⰱⱁⰲ  
+**Blurb:** Ⰿⰰⱃⰹⱀⰰ, ⱀⰰⰺⰿⰾⰰⰴⱎⰰ ⰴŝⰹ Ⰽⱃⰰⱙⰰ Ⰿⱁⱃⰺⰰ, ⱄⱂⰰⱄⰰⰺⰵⱅ ⱅⱁⱀⰵⰳⱁ ⰽŝⰵⰶⰰ ⰹ ⰴⰰⰺⰵ ⱄⰲⱁⰺ ⰳⰾⰰⱄ ⰲⰵⰴŝⰿⰵ ⰴⰰ ⰱⱐⱅⰹ ⱍⰾⱁⰲⱑⰽⱁⰿ — ⰰⰾⰵ ⱂⱃⰰⰲⰴⰹⰲⰵ ⱙⱆⰱⰲ ⰺⰵ ⰴⰰⰲⰰⱀⰹⰵ, ⱀⰵ ⰹⰿⱑⱀⰹⰵ., ⱃⰰⱅⱆⰺⰵ ⱅⱁⱀąⱌⰵⰳⱁ ⰽⱄⰹⱔⱌⰹⰰ ⰹ ⱁⰴⰴⰰⰺⰵ ⰳłⱁⱄ wⰹⰵⰴźⰿⰹⰵ, ⰱⱐ ⰸⱁⱄⱅⰰⱍ ⱌⰸłⱁwⰹⰵⰽⰹⰵⰿ — ⰾⰵⱌⰸ ⱂⱃⰰwⰴⰸⰹwⰰ ⰿⰹłⱁśⱍ ⱁⰽⰰⰸⱆⰺⰵ ⱄⰹⱔ ⰴⰰwⰰⱀⰹⰵⰿ, ⱀⰹⰵ ⱂⱁⱄⰹⰰⰴⰰⱀⰹⰵⰿ.
 
 **Genres:** fairy_tale, short_story  
 **Series:** Collection Eleven  
@@ -21,33 +21,33 @@
 **Estimated reading time:** 5 minutes
 
 **Publication date:** *(original — 2026)*  
-**Historical period:** contemporary  
+**Historical period:** ⱌⱁⱀⱅⰵⰿⱂⱁⱃⰰⱃⱐ  
 
-**Original language:** isv-glag  
-**Translation summary:** Ⰳⰾⰰⱄ ⰺ Ⱅⰺⱎⰺⱀⰰ — multilingual translation — Collection Eleven official reading pack (Polish).  
+**Original language:** isv_glag  
+**Translation summary:** Ⰳⰾⰰⱄ ⰹ Ⱅⰹⱎⰹⱀⰰ — ⰿⱆⰾⱅⰹⰾⰹⱀⰳⱆⰰⰾ ⱅⱃⰰⱀⱄⰾⰰⱅⰹⱁⱀ — Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⰵⰾⰵⰲⰵⱀ ⱁⱇⱇⰹⱌⰹⰰⰾ ⱃⰵⰰⰴⰹⱀⰳ ⱂⰰⱌⰽ (Ⱂⱁⰾⰹⱄⱈ).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 1  
 
-siren, fairy_tale, love, translation, Collection Eleven  
+ⱄⰹⱃⰵⱀ, ⱇⰰⰹⱃⱐ_ⱅⰰⰾⰵ, ⰾⱁⰲⰵ, ⱅⱃⰰⱀⱄⰾⰰⱅⰹⱁⱀ, Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⰵⰾⰵⰲⰵⱀ  
 
-**Keywords:** Głos i cisza, Marina, syrenka, baśń  
+**Keywords:** Ⰳłⱁⱄ ⰹ ⱌⰹⱄⰸⰰ, Ⰿⰰⱃⰹⱀⰰ, ⱄⱐⱃⰵⱀⰽⰰ, ⰱⰰśń  
 
 **Cover family:** legends
 
 
 **Motifs:**
-- ocean
-- voice
-- sacrifice
-- love
-- transformation
-- dream
+- ⱁⱌⰵⰰⱀ
+- ⰲⱁⰹⱌⰵ
+- ⱄⰰⱌⱃⰹⱇⰹⱌⰵ
+- ⰾⱁⰲⰵ
+- ⱅⱃⰰⱀⱄⱇⱁⱃⰿⰰⱅⰹⱁⱀ
+- ⰴⱃⰵⰰⰿ
 
-**Editorial notes:** Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc.
+**Editorial notes:** Ⰿⱆⰾⱅⰹⰾⰹⱀⰳⱆⰰⰾ ⱅⱃⰰⱀⱄⰾⰰⱅⰹⱁⱀ ⰵⰴⰹⱅⰹⱁⱀ. Ⱄⱁⱆⱃⱌⰵ: ⱂⰾ.; wąⱅⰵⰽ ⱁⱇⰹⰰⱃⱐ ⰹ ⱀⱁżⰰ — ⰽⰾⰰⱄⱐⱌⰸⱀⰰ ⰱⰰśń, ⱀⰹⰵ ⰳⱃⰰⱇⰹⱌⰸⱀⰰ ⱂⱃⰸⰵⰿⱁⱌ.
 
-**Inspiration:** Manuskrypt Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
+**Inspiration:** Ⰿⰰⱀⱆⱄⰽⱃⱐⱂⱅ Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⰵⰾⰵⰲⰵⱀ; ⰠⱁⱆⰕⱆⰱⰵ ⰂⱆⰱⰜⱂⰒqⰗⰐⰒⰏ (21.03.2016); ⰠⱁⱆⰕⱆⰱⰵ ⰂⱆⰱⰜⱂⰒqⰗⰐⰒⰏ (2016-03-21).
 
 ---
 
@@ -65,13 +65,13 @@ siren, fairy_tale, love, translation, Collection Eleven
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 21.03.2016 -> https://www.youtube.com/watch?v=VubCpPqFNPM  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ.
 
 ### Revision history
 
 | Version | Date | Note |
 |
-| 1.0.0 | 2026-07-30 | Interslavic (Glagolitic) translation edition |
+| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
 ---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
@@ -79,7 +79,7 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 | Date | Editor | Note |
 |------|--------|------|
-| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Uniwersalna baśń o bezinteresownej miłości — mocny materiał z znanym motywem. |
+| 2026-07-13 | ⰀⰾⰵⱂⱈⰁⰹⱅⱄ Ⰵⰴⰹⱅⱁⱃⰹⰰⰾ | Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ; ⱂⱈⰹⰾⱁⱄⱁⱂⱈⱐ ⱇⰹⱅ 4/5 — Ⱆⱀⰹwⰵⱃⱄⰰⰾⱀⰰ ⰱⰰśń ⱁ ⰱⰵⰸⰹⱀⱅⰵⱃⰵⱄⱁwⱀⰵⰺ ⰿⰹłⱁśⱌⰹ — ⰿⱁⱌⱀⱐ ⰿⰰⱅⰵⱃⰹⰰł ⰸ ⰸⱀⰰⱀⱐⰿ ⰿⱁⱅⱐwⰵⰿ. |
 
 ---
 
@@ -87,161 +87,161 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 ### Source 1: Collection Eleven manuscript
 
-**Author:** AlephBits Editorial (adaptation)  
+**Author:** ⰀⰾⰵⱂⱈⰁⰹⱅⱄ Ⰵⰴⰹⱅⱁⱃⰹⰰⰾ (ⰰⰴⰰⱂⱅⰰⱅⰹⱁⱀ)  
 **URL:** https://www.youtube.com/watch?v=VubCpPqFNPM  
 **License:** CC0 1.0 Universal (text); source material per original availability  
 **Retrieval date:** 2016-03-21  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Ⰿⰰⱅⰵⱃⰹⰰł źⱃóⰴłⱁwⱐ wⱄⰽⰰⰸⰰⱀⱐ w ⰱⰾⱁⰽⱆ ⱄⱁⱆⱃⱌⰵ ⰿⰰⱀⱆⱄⰽⱃⱐⱂⱅⱆ; ⱅⰵⰽⱄⱅ ⰺⰵⱄⱅ ⰰⰴⰰⱂⱅⰰⱌⰺą ⱃⰵⰴⰰⰽⱌⱐⰺⱀą.
 
 ---
 
 ## Text
 
-**ⰃⰎⰀⰔ Ⰺ ⰕⰊⰞⰊⰐⰀ**
+**ⰃⰎⰀⰔ Ⰹ ⰕⰉⰞⰉⰐⰀ**
 
-W najgłębszej toni oceanu, gdzie światło słoneczne nigdy nie dociera, a woda jest tak przejrzysta jak najczystszy kryształ, znajdował się pałac Króla Mórz. Jego mury były z koralu, okna z bursztynu, a dach z perłowych muszli, które otwierały się i zamykały jak żywe istoty. W tym pałacu mieszkało sześć córek Króla Mórz, a każda z nich była piękniejsza od poprzedniej. Jednak najmłodsza z nich, ta o imieniu Marina, była najpiękniejsza ze wszystkich. Jej włosy były jak złocisty jedwab, oczy jak błękit najczystszej wody, a jej ogon lśnił srebrem i złotem, jakby był utkany z promieni księżyca.
+W ⱀⰰⰺⰳłⱔⰱⱄⰸⰵⰺ ⱅⱁⱀⰹ ⱁⱌⰵⰰⱀⱆ, ⰳⰴⰸⰹⰵ śwⰹⰰⱅłⱁ ⱄłⱁⱀⰵⱌⰸⱀⰵ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⰴⱁⱌⰹⰵⱃⰰ, ⰰ wⱁⰴⰰ ⰺⰵⱄⱅ ⱅⰰⰽ ⱂⱃⰸⰵⰺⱃⰸⱐⱄⱅⰰ ⰺⰰⰽ ⱀⰰⰺⱌⰸⱐⱄⱅⱄⰸⱐ ⰽⱃⱐⱄⰸⱅⰰł, ⰸⱀⰰⰺⰴⱁwⰰł ⱄⰹⱔ ⱂⰰłⰰⱌ Ⰽⱃóⰾⰰ Ⰿóⱃⰸ. Ⰺⰵⰳⱁ ⰿⱆⱃⱐ ⰱⱐłⱐ ⰸ ⰽⱁⱃⰰⰾⱆ, ⱁⰽⱀⰰ ⰸ ⰱⱆⱃⱄⰸⱅⱐⱀⱆ, ⰰ ⰴⰰⱌⱈ ⰸ ⱂⰵⱃłⱁwⱐⱌⱈ ⰿⱆⱄⰸⰾⰹ, ⰽⱅóⱃⰵ ⱁⱅwⰹⰵⱃⰰłⱐ ⱄⰹⱔ ⰹ ⰸⰰⰿⱐⰽⰰłⱐ ⰺⰰⰽ żⱐwⰵ ⰹⱄⱅⱁⱅⱐ. W ⱅⱐⰿ ⱂⰰłⰰⱌⱆ ⰿⰹⰵⱄⰸⰽⰰłⱁ ⱄⰸⰵśⱍ ⱌóⱃⰵⰽ Ⰽⱃóⰾⰰ Ⰿóⱃⰸ, ⰰ ⰽⰰżⰴⰰ ⰸ ⱀⰹⱌⱈ ⰱⱐłⰰ ⱂⰹⱔⰽⱀⰹⰵⰺⱄⰸⰰ ⱁⰴ ⱂⱁⱂⱃⰸⰵⰴⱀⰹⰵⰺ. Ⰺⰵⰴⱀⰰⰽ ⱀⰰⰺⰿłⱁⰴⱄⰸⰰ ⰸ ⱀⰹⱌⱈ, ⱅⰰ ⱁ ⰹⰿⰹⰵⱀⰹⱆ Ⰿⰰⱃⰹⱀⰰ, ⰱⱐłⰰ ⱀⰰⰺⱂⰹⱔⰽⱀⰹⰵⰺⱄⰸⰰ ⰸⰵ wⱄⰸⱐⱄⱅⰽⰹⱌⱈ. Ⰺⰵⰺ włⱁⱄⱐ ⰱⱐłⱐ ⰺⰰⰽ ⰸłⱁⱌⰹⱄⱅⱐ ⰺⰵⰴwⰰⰱ, ⱁⱌⰸⱐ ⰺⰰⰽ ⰱłⱔⰽⰹⱅ ⱀⰰⰺⱌⰸⱐⱄⱅⱄⰸⰵⰺ wⱁⰴⱐ, ⰰ ⰺⰵⰺ ⱁⰳⱁⱀ ⰾśⱀⰹł ⱄⱃⰵⰱⱃⰵⰿ ⰹ ⰸłⱁⱅⰵⰿ, ⰺⰰⰽⰱⱐ ⰱⱐł ⱆⱅⰽⰰⱀⱐ ⰸ ⱂⱃⱁⰿⰹⰵⱀⰹ ⰽⱄⰹⱔżⱐⱌⰰ.
 
-Marina różniła się od swoich sióstr. One cieszyły się skarbami z rozbitych statków, bawiły się perłami i złotem. Ona natomiast wolała słuchać opowieści swojej babki o świecie ludzi. O miastach, które sięgają nieba, o ptakach, które śpiewają, o kwiatach, które pachną. I o duszach, które żyją wiecznie.
+Ⰿⰰⱃⰹⱀⰰ ⱃóżⱀⰹłⰰ ⱄⰹⱔ ⱁⰴ ⱄwⱁⰹⱌⱈ ⱄⰹóⱄⱅⱃ. Ⱁⱀⰵ ⱌⰹⰵⱄⰸⱐłⱐ ⱄⰹⱔ ⱄⰽⰰⱃⰱⰰⰿⰹ ⰸ ⱃⱁⰸⰱⰹⱅⱐⱌⱈ ⱄⱅⰰⱅⰽów, ⰱⰰwⰹłⱐ ⱄⰹⱔ ⱂⰵⱃłⰰⰿⰹ ⰹ ⰸłⱁⱅⰵⰿ. Ⱁⱀⰰ ⱀⰰⱅⱁⰿⰹⰰⱄⱅ wⱁⰾⰰłⰰ ⱄłⱆⱌⱈⰰⱍ ⱁⱂⱁwⰹⰵśⱌⰹ ⱄwⱁⰺⰵⰺ ⰱⰰⰱⰽⰹ ⱁ śwⰹⰵⱌⰹⰵ ⰾⱆⰴⰸⰹ. Ⱁ ⰿⰹⰰⱄⱅⰰⱌⱈ, ⰽⱅóⱃⰵ ⱄⰹⱔⰳⰰⰺą ⱀⰹⰵⰱⰰ, ⱁ ⱂⱅⰰⰽⰰⱌⱈ, ⰽⱅóⱃⰵ śⱂⰹⰵwⰰⰺą, ⱁ ⰽwⰹⰰⱅⰰⱌⱈ, ⰽⱅóⱃⰵ ⱂⰰⱌⱈⱀą. Ⰹ ⱁ ⰴⱆⱄⰸⰰⱌⱈ, ⰽⱅóⱃⰵ żⱐⰺą wⰹⰵⱌⰸⱀⰹⰵ.
 
-– Kiedy skończysz piętnaście lat, będziesz mogła wypłynąć na powierzchnię – mówiła babka. – Wtedy zobaczysz ten świat na własne oczy.
+– Ⰽⰹⰵⰴⱐ ⱄⰽⱁńⱌⰸⱐⱄⰸ ⱂⰹⱔⱅⱀⰰśⱌⰹⰵ ⰾⰰⱅ, ⰱⱔⰴⰸⰹⰵⱄⰸ ⰿⱁⰳłⰰ wⱐⱂłⱐⱀąⱍ ⱀⰰ ⱂⱁwⰹⰵⱃⰸⱌⱈⱀⰹⱔ – ⰿówⰹłⰰ ⰱⰰⰱⰽⰰ. – Wⱅⰵⰴⱐ ⰸⱁⰱⰰⱌⰸⱐⱄⰸ ⱅⰵⱀ śwⰹⰰⱅ ⱀⰰ włⰰⱄⱀⰵ ⱁⱌⰸⱐ.
 
-I Marina czekała. Czekała, aż nadejdzie ten dzień, gdy będzie mogła zobaczyć ludzi i ich tajemniczy świat.
-
----
-Nadszedł wreszcie dzień jej piętnastych urodzin. Marina, podekscytowana i przestraszona zarazem, wynurzyła się z głębin tuż po zachodzie słońca. Na niebie płonęły jeszcze purpurowe i złote barwy, a na horyzoncie ujrzała coś, co zaparło jej dech w piersiach – wielki statek o białych żaglach, który kołysał się na falach niczym łabędź.
-
-Podpłynęła bliżej. Z kryształowych okien kajut wydobywało się ciepłe światło i dźwięki radosnej muzyki. To był bal. Na pokładzie tańczyli ludzie w strojach z jedwabiu i złota, a wśród nich jeden, który przykuł jej uwagę jak żaden inny – młody książę o oczach ciemnych jak noc i uśmiechu tak ciepłym, że stopiłby najzimniejszy lód.
-
-I wtedy rozpętała się burza.
-
-Fale wznosiły się jak góry, wiatr wył jak dzikie zwierzę, a niebo rozdarły błyskawice. Statek trzeszczał i chwiał się na wszystkie strony. Marina widziała, jak ludzie padają na pokład, jak fale zmywają ich w otchłań. I wtedy zobaczyła go – księcia, który walczył z żywiołem, a potem osłabł i zaczął tonąć.
-
-Bez chwili wahania rzuciła się w fale. Chwyciła go w ramiona, wyniosła na powierzchnię i popłynęła z nim w stronę najbliższego brzegu. Położyła go na ciepłym piasku, głowę oparła wyżej, żeby słońce ogrzało jego twarz. Przykryła go swoimi włosami, żeby wiatr nie chłodził go zbytnio, i czekała, aż się obudzi.
-
-Gdy otworzył oczy, spojrzał na nią z wdzięcznością. Ale nie zdawał sobie sprawy, że to ona go uratowała. Myślał, że to ktoś inny – jedna z dziewcząt, które nadbiegły z pobliskiego klasztoru. Marina zniknęła w falach, zanim zdążył cokolwiek powiedzieć.
+Ⰹ Ⰿⰰⱃⰹⱀⰰ ⱌⰸⰵⰽⰰłⰰ. Ⱌⰸⰵⰽⰰłⰰ, ⰰż ⱀⰰⰴⰵⰺⰴⰸⰹⰵ ⱅⰵⱀ ⰴⰸⰹⰵń, ⰳⰴⱐ ⰱⱔⰴⰸⰹⰵ ⰿⱁⰳłⰰ ⰸⱁⰱⰰⱌⰸⱐⱍ ⰾⱆⰴⰸⰹ ⰹ ⰹⱌⱈ ⱅⰰⰺⰵⰿⱀⰹⱌⰸⱐ śwⰹⰰⱅ.
 
 ---
-Od tej pory Marina nie mogła przestać myśleć o księciu. Każdej nocy wypływała na powierzchnię i płynęła w stronę jego pałacu. Widziała go, jak siedzi na tarasie w blasku księżyca, i marzyła, żeby być przy nim. Tęskniła do ludzkiego świata, do jego ciepła, do jego światła.
+Ⱀⰰⰴⱄⰸⰵⰴł wⱃⰵⱄⰸⱌⰹⰵ ⰴⰸⰹⰵń ⰺⰵⰺ ⱂⰹⱔⱅⱀⰰⱄⱅⱐⱌⱈ ⱆⱃⱁⰴⰸⰹⱀ. Ⰿⰰⱃⰹⱀⰰ, ⱂⱁⰴⰵⰽⱄⱌⱐⱅⱁwⰰⱀⰰ ⰹ ⱂⱃⰸⰵⱄⱅⱃⰰⱄⰸⱁⱀⰰ ⰸⰰⱃⰰⰸⰵⰿ, wⱐⱀⱆⱃⰸⱐłⰰ ⱄⰹⱔ ⰸ ⰳłⱔⰱⰹⱀ ⱅⱆż ⱂⱁ ⰸⰰⱌⱈⱁⰴⰸⰹⰵ ⱄłⱁńⱌⰰ. Ⱀⰰ ⱀⰹⰵⰱⰹⰵ ⱂłⱁⱀⱔłⱐ ⰺⰵⱄⰸⱌⰸⰵ ⱂⱆⱃⱂⱆⱃⱁwⰵ ⰹ ⰸłⱁⱅⰵ ⰱⰰⱃwⱐ, ⰰ ⱀⰰ ⱈⱁⱃⱐⰸⱁⱀⱌⰹⰵ ⱆⰺⱃⰸⰰłⰰ ⱌⱁś, ⱌⱁ ⰸⰰⱂⰰⱃłⱁ ⰺⰵⰺ ⰴⰵⱌⱈ w ⱂⰹⰵⱃⱄⰹⰰⱌⱈ – wⰹⰵⰾⰽⰹ ⱄⱅⰰⱅⰵⰽ ⱁ ⰱⰹⰰłⱐⱌⱈ żⰰⰳⰾⰰⱌⱈ, ⰽⱅóⱃⱐ ⰽⱁłⱐⱄⰰł ⱄⰹⱔ ⱀⰰ ⱇⰰⰾⰰⱌⱈ ⱀⰹⱌⰸⱐⰿ łⰰⰱⱔⰴź.
 
-– A gdybym tak mogła zostać człowiekiem? – szepnęła do siebie.
+Ⱂⱁⰴⱂłⱐⱀⱔłⰰ ⰱⰾⰹżⰵⰺ. Ⰸ ⰽⱃⱐⱄⰸⱅⰰłⱁwⱐⱌⱈ ⱁⰽⰹⰵⱀ ⰽⰰⰺⱆⱅ wⱐⰴⱁⰱⱐwⰰłⱁ ⱄⰹⱔ ⱌⰹⰵⱂłⰵ śwⰹⰰⱅłⱁ ⰹ ⰴźwⰹⱔⰽⰹ ⱃⰰⰴⱁⱄⱀⰵⰺ ⰿⱆⰸⱐⰽⰹ. Ⱅⱁ ⰱⱐł ⰱⰰⰾ. Ⱀⰰ ⱂⱁⰽłⰰⰴⰸⰹⰵ ⱅⰰńⱌⰸⱐⰾⰹ ⰾⱆⰴⰸⰹⰵ w ⱄⱅⱃⱁⰺⰰⱌⱈ ⰸ ⰺⰵⰴwⰰⰱⰹⱆ ⰹ ⰸłⱁⱅⰰ, ⰰ wśⱃóⰴ ⱀⰹⱌⱈ ⰺⰵⰴⰵⱀ, ⰽⱅóⱃⱐ ⱂⱃⰸⱐⰽⱆł ⰺⰵⰺ ⱆwⰰⰳⱔ ⰺⰰⰽ żⰰⰴⰵⱀ ⰹⱀⱀⱐ – ⰿłⱁⰴⱐ ⰽⱄⰹążⱔ ⱁ ⱁⱌⰸⰰⱌⱈ ⱌⰹⰵⰿⱀⱐⱌⱈ ⰺⰰⰽ ⱀⱁⱌ ⰹ ⱆśⰿⰹⰵⱌⱈⱆ ⱅⰰⰽ ⱌⰹⰵⱂłⱐⰿ, żⰵ ⱄⱅⱁⱂⰹłⰱⱐ ⱀⰰⰺⰸⰹⰿⱀⰹⰵⰺⱄⰸⱐ ⰾóⰴ.
 
-I udała się do wiedźmy morskiej, która mieszkała wśród wirów i polipów. Wiedźma była okropna – pokryta wężami i ropuchami, a jej śmiech brzmiał jak zgrzyt kamieni.
+Ⰹ wⱅⰵⰴⱐ ⱃⱁⰸⱂⱔⱅⰰłⰰ ⱄⰹⱔ ⰱⱆⱃⰸⰰ.
 
-– Wiem, po co przyszłaś – syknęła wiedźma. – Chcesz być człowiekiem. Chcesz zdobyć duszę. Ale to będzie cię kosztować. Oddasz mi swój piękny głos, a ja przygotuję ci napój, który zmieni twój ogon w nogi. Lecz każdy krok będzie ci sprawiał ból, jakbyś stąpała po ostrych nożach. A jeśli książę nie pokocha cię nad życie, twoje serce pęknie, a ty zamienisz się w pianę.
+Ⱇⰰⰾⰵ wⰸⱀⱁⱄⰹłⱐ ⱄⰹⱔ ⰺⰰⰽ ⰳóⱃⱐ, wⰹⰰⱅⱃ wⱐł ⰺⰰⰽ ⰴⰸⰹⰽⰹⰵ ⰸwⰹⰵⱃⰸⱔ, ⰰ ⱀⰹⰵⰱⱁ ⱃⱁⰸⰴⰰⱃłⱐ ⰱłⱐⱄⰽⰰwⰹⱌⰵ. Ⱄⱅⰰⱅⰵⰽ ⱅⱃⰸⰵⱄⰸⱌⰸⰰł ⰹ ⱌⱈwⰹⰰł ⱄⰹⱔ ⱀⰰ wⱄⰸⱐⱄⱅⰽⰹⰵ ⱄⱅⱃⱁⱀⱐ. Ⰿⰰⱃⰹⱀⰰ wⰹⰴⰸⰹⰰłⰰ, ⰺⰰⰽ ⰾⱆⰴⰸⰹⰵ ⱂⰰⰴⰰⰺą ⱀⰰ ⱂⱁⰽłⰰⰴ, ⰺⰰⰽ ⱇⰰⰾⰵ ⰸⰿⱐwⰰⰺą ⰹⱌⱈ w ⱁⱅⱌⱈłⰰń. Ⰹ wⱅⰵⰴⱐ ⰸⱁⰱⰰⱌⰸⱐłⰰ ⰳⱁ – ⰽⱄⰹⱔⱌⰹⰰ, ⰽⱅóⱃⱐ wⰰⰾⱌⰸⱐł ⰸ żⱐwⰹⱁłⰵⰿ, ⰰ ⱂⱁⱅⰵⰿ ⱁⱄłⰰⰱł ⰹ ⰸⰰⱌⰸął ⱅⱁⱀąⱍ.
 
-– Zgadzam się – odpowiedziała Marina bez wahania.
+Ⰱⰵⰸ ⱌⱈwⰹⰾⰹ wⰰⱈⰰⱀⰹⰰ ⱃⰸⱆⱌⰹłⰰ ⱄⰹⱔ w ⱇⰰⰾⰵ. Ⱌⱈwⱐⱌⰹłⰰ ⰳⱁ w ⱃⰰⰿⰹⱁⱀⰰ, wⱐⱀⰹⱁⱄłⰰ ⱀⰰ ⱂⱁwⰹⰵⱃⰸⱌⱈⱀⰹⱔ ⰹ ⱂⱁⱂłⱐⱀⱔłⰰ ⰸ ⱀⰹⰿ w ⱄⱅⱃⱁⱀⱔ ⱀⰰⰺⰱⰾⰹżⱄⰸⰵⰳⱁ ⰱⱃⰸⰵⰳⱆ. Ⱂⱁłⱁżⱐłⰰ ⰳⱁ ⱀⰰ ⱌⰹⰵⱂłⱐⰿ ⱂⰹⰰⱄⰽⱆ, ⰳłⱁwⱔ ⱁⱂⰰⱃłⰰ wⱐżⰵⰺ, żⰵⰱⱐ ⱄłⱁńⱌⰵ ⱁⰳⱃⰸⰰłⱁ ⰺⰵⰳⱁ ⱅwⰰⱃⰸ. Ⱂⱃⰸⱐⰽⱃⱐłⰰ ⰳⱁ ⱄwⱁⰹⰿⰹ włⱁⱄⰰⰿⰹ, żⰵⰱⱐ wⰹⰰⱅⱃ ⱀⰹⰵ ⱌⱈłⱁⰴⰸⰹł ⰳⱁ ⰸⰱⱐⱅⱀⰹⱁ, ⰹ ⱌⰸⰵⰽⰰłⰰ, ⰰż ⱄⰹⱔ ⱁⰱⱆⰴⰸⰹ.
 
-Wypiła napój, a ból był tak ogromny, że zemdlała. Gdy się obudziła, leżała na brzegu, a przed nią stał książę z zachwytem w oczach.
-
-– Kim jesteś? – zapytał.
-
-Nie mogła odpowiedzieć. Straciła głos. Ale jej oczy mówiły wszystko.
+Ⰳⰴⱐ ⱁⱅwⱁⱃⰸⱐł ⱁⱌⰸⱐ, ⱄⱂⱁⰺⱃⰸⰰł ⱀⰰ ⱀⰹą ⰸ wⰴⰸⰹⱔⱌⰸⱀⱁśⱌⰹą. Ⰰⰾⰵ ⱀⰹⰵ ⰸⰴⰰwⰰł ⱄⱁⰱⰹⰵ ⱄⱂⱃⰰwⱐ, żⰵ ⱅⱁ ⱁⱀⰰ ⰳⱁ ⱆⱃⰰⱅⱁwⰰłⰰ. Ⰿⱐśⰾⰰł, żⰵ ⱅⱁ ⰽⱅⱁś ⰹⱀⱀⱐ – ⰺⰵⰴⱀⰰ ⰸ ⰴⰸⰹⰵwⱌⰸąⱅ, ⰽⱅóⱃⰵ ⱀⰰⰴⰱⰹⰵⰳłⱐ ⰸ ⱂⱁⰱⰾⰹⱄⰽⰹⰵⰳⱁ ⰽⰾⰰⱄⰸⱅⱁⱃⱆ. Ⰿⰰⱃⰹⱀⰰ ⰸⱀⰹⰽⱀⱔłⰰ w ⱇⰰⰾⰰⱌⱈ, ⰸⰰⱀⰹⰿ ⰸⰴążⱐł ⱌⱁⰽⱁⰾwⰹⰵⰽ ⱂⱁwⰹⰵⰴⰸⰹⰵⱍ.
 
 ---
-Książę zabrał ją do swojego pałacu. Dał jej piękne suknie, pozwolił jej mieszkać w swoim skrzydle. Kochał ją, ale tylko jak siostrę, jak najdroższą przyjaciółkę. Jego serce należało do innej – do tej, która według niego uratowała mu życie na brzegu.
+Ⱁⰴ ⱅⰵⰺ ⱂⱁⱃⱐ Ⰿⰰⱃⰹⱀⰰ ⱀⰹⰵ ⰿⱁⰳłⰰ ⱂⱃⰸⰵⱄⱅⰰⱍ ⰿⱐśⰾⰵⱍ ⱁ ⰽⱄⰹⱔⱌⰹⱆ. Ⰽⰰżⰴⰵⰺ ⱀⱁⱌⱐ wⱐⱂłⱐwⰰłⰰ ⱀⰰ ⱂⱁwⰹⰵⱃⰸⱌⱈⱀⰹⱔ ⰹ ⱂłⱐⱀⱔłⰰ w ⱄⱅⱃⱁⱀⱔ ⰺⰵⰳⱁ ⱂⰰłⰰⱌⱆ. Wⰹⰴⰸⰹⰰłⰰ ⰳⱁ, ⰺⰰⰽ ⱄⰹⰵⰴⰸⰹ ⱀⰰ ⱅⰰⱃⰰⱄⰹⰵ w ⰱⰾⰰⱄⰽⱆ ⰽⱄⰹⱔżⱐⱌⰰ, ⰹ ⰿⰰⱃⰸⱐłⰰ, żⰵⰱⱐ ⰱⱐⱍ ⱂⱃⰸⱐ ⱀⰹⰿ. Ⱅⱔⱄⰽⱀⰹłⰰ ⰴⱁ ⰾⱆⰴⰸⰽⰹⰵⰳⱁ śwⰹⰰⱅⰰ, ⰴⱁ ⰺⰵⰳⱁ ⱌⰹⰵⱂłⰰ, ⰴⱁ ⰺⰵⰳⱁ śwⰹⰰⱅłⰰ.
 
-Gdy książę oznajmił, że żeni się z tamtą dziewczyną, Marina poczuła, jak świat się wali. To był koniec. Zanim słońce wzejdzie, miała zamienić się w pianę.
+– Ⰰ ⰳⰴⱐⰱⱐⰿ ⱅⰰⰽ ⰿⱁⰳłⰰ ⰸⱁⱄⱅⰰⱍ ⱌⰸłⱁwⰹⰵⰽⰹⰵⰿ? – ⱄⰸⰵⱂⱀⱔłⰰ ⰴⱁ ⱄⰹⰵⰱⰹⰵ.
 
-Ale tej nocy nad wodą pojawiły się jej siostry. Obcięły swoje długie włosy i oddały je wiedźmie w zamian za nóż.
+Ⰹ ⱆⰴⰰłⰰ ⱄⰹⱔ ⰴⱁ wⰹⰵⰴźⰿⱐ ⰿⱁⱃⱄⰽⰹⰵⰺ, ⰽⱅóⱃⰰ ⰿⰹⰵⱄⰸⰽⰰłⰰ wśⱃóⰴ wⰹⱃów ⰹ ⱂⱁⰾⰹⱂów. Wⰹⰵⰴźⰿⰰ ⰱⱐłⰰ ⱁⰽⱃⱁⱂⱀⰰ – ⱂⱁⰽⱃⱐⱅⰰ wⱔżⰰⰿⰹ ⰹ ⱃⱁⱂⱆⱌⱈⰰⰿⰹ, ⰰ ⰺⰵⰺ śⰿⰹⰵⱌⱈ ⰱⱃⰸⰿⰹⰰł ⰺⰰⰽ ⰸⰳⱃⰸⱐⱅ ⰽⰰⰿⰹⰵⱀⰹ.
 
-– Zabij księcia – powiedziały. – Zanim słońce wzejdzie. Wtedy wrócisz do nas.
+– Wⰹⰵⰿ, ⱂⱁ ⱌⱁ ⱂⱃⰸⱐⱄⰸłⰰś – ⱄⱐⰽⱀⱔłⰰ wⰹⰵⰴźⰿⰰ. – Ⱌⱈⱌⰵⱄⰸ ⰱⱐⱍ ⱌⰸłⱁwⰹⰵⰽⰹⰵⰿ. Ⱌⱈⱌⰵⱄⰸ ⰸⰴⱁⰱⱐⱍ ⰴⱆⱄⰸⱔ. Ⰰⰾⰵ ⱅⱁ ⰱⱔⰴⰸⰹⰵ ⱌⰹⱔ ⰽⱁⱄⰸⱅⱁwⰰⱍ. Ⱁⰴⰴⰰⱄⰸ ⰿⰹ ⱄwóⰺ ⱂⰹⱔⰽⱀⱐ ⰳłⱁⱄ, ⰰ ⰺⰰ ⱂⱃⰸⱐⰳⱁⱅⱆⰺⱔ ⱌⰹ ⱀⰰⱂóⰺ, ⰽⱅóⱃⱐ ⰸⰿⰹⰵⱀⰹ ⱅwóⰺ ⱁⰳⱁⱀ w ⱀⱁⰳⰹ. Ⰾⰵⱌⰸ ⰽⰰżⰴⱐ ⰽⱃⱁⰽ ⰱⱔⰴⰸⰹⰵ ⱌⰹ ⱄⱂⱃⰰwⰹⰰł ⰱóⰾ, ⰺⰰⰽⰱⱐś ⱄⱅąⱂⰰłⰰ ⱂⱁ ⱁⱄⱅⱃⱐⱌⱈ ⱀⱁżⰰⱌⱈ. Ⰰ ⰺⰵśⰾⰹ ⰽⱄⰹążⱔ ⱀⰹⰵ ⱂⱁⰽⱁⱌⱈⰰ ⱌⰹⱔ ⱀⰰⰴ żⱐⱌⰹⰵ, ⱅwⱁⰺⰵ ⱄⰵⱃⱌⰵ ⱂⱔⰽⱀⰹⰵ, ⰰ ⱅⱐ ⰸⰰⰿⰹⰵⱀⰹⱄⰸ ⱄⰹⱔ w ⱂⰹⰰⱀⱔ.
 
-Marina wzięła nóż. Wszedł do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
+– Ⰸⰳⰰⰴⰸⰰⰿ ⱄⰹⱔ – ⱁⰴⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ Ⰿⰰⱃⰹⱀⰰ ⰱⰵⰸ wⰰⱈⰰⱀⰹⰰ.
 
-Cisnęła nożem w fale. Rzuciła ostatnie spojrzenie na księcia i skoczyła w morze.
+Wⱐⱂⰹłⰰ ⱀⰰⱂóⰺ, ⰰ ⰱóⰾ ⰱⱐł ⱅⰰⰽ ⱁⰳⱃⱁⰿⱀⱐ, żⰵ ⰸⰵⰿⰴⰾⰰłⰰ. Ⰳⰴⱐ ⱄⰹⱔ ⱁⰱⱆⰴⰸⰹłⰰ, ⰾⰵżⰰłⰰ ⱀⰰ ⰱⱃⰸⰵⰳⱆ, ⰰ ⱂⱃⰸⰵⰴ ⱀⰹą ⱄⱅⰰł ⰽⱄⰹążⱔ ⰸ ⰸⰰⱌⱈwⱐⱅⰵⰿ w ⱁⱌⰸⰰⱌⱈ.
 
-Słońce właśnie wschodziło.
+– Ⰽⰹⰿ ⰺⰵⱄⱅⰵś? – ⰸⰰⱂⱐⱅⰰł.
+
+Ⱀⰹⰵ ⰿⱁⰳłⰰ ⱁⰴⱂⱁwⰹⰵⰴⰸⰹⰵⱍ. Ⱄⱅⱃⰰⱌⰹłⰰ ⰳłⱁⱄ. Ⰰⰾⰵ ⰺⰵⰺ ⱁⱌⰸⱐ ⰿówⰹłⱐ wⱄⰸⱐⱄⱅⰽⱁ.
 
 ---
-Ale nie zamieniła się w pianę. Zamiast tego poczuła, że unosi się w powietrzu. Otaczały ją przezroczyste, świetliste istoty.
+Ⰽⱄⰹążⱔ ⰸⰰⰱⱃⰰł ⰺą ⰴⱁ ⱄwⱁⰺⰵⰳⱁ ⱂⰰłⰰⱌⱆ. Ⰴⰰł ⰺⰵⰺ ⱂⰹⱔⰽⱀⰵ ⱄⱆⰽⱀⰹⰵ, ⱂⱁⰸwⱁⰾⰹł ⰺⰵⰺ ⰿⰹⰵⱄⰸⰽⰰⱍ w ⱄwⱁⰹⰿ ⱄⰽⱃⰸⱐⰴⰾⰵ. Ⰽⱁⱌⱈⰰł ⰺą, ⰰⰾⰵ ⱅⱐⰾⰽⱁ ⰺⰰⰽ ⱄⰹⱁⱄⱅⱃⱔ, ⰺⰰⰽ ⱀⰰⰺⰴⱃⱁżⱄⰸą ⱂⱃⰸⱐⰺⰰⱌⰹółⰽⱔ. Ⰺⰵⰳⱁ ⱄⰵⱃⱌⰵ ⱀⰰⰾⰵżⰰłⱁ ⰴⱁ ⰹⱀⱀⰵⰺ – ⰴⱁ ⱅⰵⰺ, ⰽⱅóⱃⰰ wⰵⰴłⱆⰳ ⱀⰹⰵⰳⱁ ⱆⱃⰰⱅⱁwⰰłⰰ ⰿⱆ żⱐⱌⰹⰵ ⱀⰰ ⰱⱃⰸⰵⰳⱆ.
 
-– Jesteś córą powietrza – powiedziały. – Zasłużyłaś na to, bo nie szukałaś swojego szczęścia kosztem innych. Jeśli przez trzysta lat będziesz czynić dobro, zdobędziesz duszę nieśmiertelną.
+Ⰳⰴⱐ ⰽⱄⰹążⱔ ⱁⰸⱀⰰⰺⰿⰹł, żⰵ żⰵⱀⰹ ⱄⰹⱔ ⰸ ⱅⰰⰿⱅą ⰴⰸⰹⰵwⱌⰸⱐⱀą, Ⰿⰰⱃⰹⱀⰰ ⱂⱁⱌⰸⱆłⰰ, ⰺⰰⰽ śwⰹⰰⱅ ⱄⰹⱔ wⰰⰾⰹ. Ⱅⱁ ⰱⱐł ⰽⱁⱀⰹⰵⱌ. Ⰸⰰⱀⰹⰿ ⱄłⱁńⱌⰵ wⰸⰵⰺⰴⰸⰹⰵ, ⰿⰹⰰłⰰ ⰸⰰⰿⰹⰵⱀⰹⱍ ⱄⰹⱔ w ⱂⰹⰰⱀⱔ.
 
-Marina spojrzała w dół. Zobaczyła statek, na którym książę właśnie budził się ze snu. Zobaczyła jego uśmiech, gdy patrzył na swoją żonę. I zrozumiała, że to, co czuła, nigdy nie zginęło – tylko zmieniło formę.
+Ⰰⰾⰵ ⱅⰵⰺ ⱀⱁⱌⱐ ⱀⰰⰴ wⱁⰴą ⱂⱁⰺⰰwⰹłⱐ ⱄⰹⱔ ⰺⰵⰺ ⱄⰹⱁⱄⱅⱃⱐ. Ⱁⰱⱌⰹⱔłⱐ ⱄwⱁⰺⰵ ⰴłⱆⰳⰹⰵ włⱁⱄⱐ ⰹ ⱁⰴⰴⰰłⱐ ⰺⰵ wⰹⰵⰴźⰿⰹⰵ w ⰸⰰⰿⰹⰰⱀ ⰸⰰ ⱀóż.
 
-Uniosła się w górę razem z siostrami powietrza, gotowa nieść pomoc tym, którzy jej potrzebują. Bo prawdziwa miłość nie polega na posiadaniu. Polega na dawaniu.
+– Ⰸⰰⰱⰹⰺ ⰽⱄⰹⱔⱌⰹⰰ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⱐ. – Ⰸⰰⱀⰹⰿ ⱄłⱁńⱌⰵ wⰸⰵⰺⰴⰸⰹⰵ. Wⱅⰵⰴⱐ wⱃóⱌⰹⱄⰸ ⰴⱁ ⱀⰰⱄ.
 
-I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym głosem, jaki kiedykolwiek istniał.
+Ⰿⰰⱃⰹⱀⰰ wⰸⰹⱔłⰰ ⱀóż. Wⱄⰸⰵⰴł ⰴⱁ ⰽⱁⰿⱀⰰⱅⱐ, w ⰽⱅóⱃⰵⰺ ⱄⱂⰰł ⰽⱄⰹążⱔ ⰸ żⱁⱀą. Ⱄⱂⱁⰺⱃⰸⰰłⰰ ⱀⰰ ⱀⰹⰵⰳⱁ, ⱀⰰ ⰺⰵⰳⱁ ⱆśⰿⰹⰵⱌⱈ, ⱀⰰ ⰺⰵⰳⱁ ⱄⱂⱁⰽⱁⰺⱀą ⱅwⰰⱃⰸ. Ⰹ ⰸⱃⱁⰸⱆⰿⰹⰰłⰰ, żⰵ ⱀⰹⰵ ⰿⱁżⰵ ⱅⰵⰳⱁ ⰸⱃⱁⰱⰹⱍ. Ⱀⰹⰵ ⰴⰾⰰ ⱄⰹⰵⰱⰹⰵ.
 
-**KONEC**
+Ⱌⰹⱄⱀⱔłⰰ ⱀⱁżⰵⰿ w ⱇⰰⰾⰵ. Ⱃⰸⱆⱌⰹłⰰ ⱁⱄⱅⰰⱅⱀⰹⰵ ⱄⱂⱁⰺⱃⰸⰵⱀⰹⰵ ⱀⰰ ⰽⱄⰹⱔⱌⰹⰰ ⰹ ⱄⰽⱁⱌⰸⱐłⰰ w ⰿⱁⱃⰸⰵ.
+
+Ⱄłⱁńⱌⰵ włⰰśⱀⰹⰵ wⱄⱌⱈⱁⰴⰸⰹłⱁ.
+
+---
+Ⰰⰾⰵ ⱀⰹⰵ ⰸⰰⰿⰹⰵⱀⰹłⰰ ⱄⰹⱔ w ⱂⰹⰰⱀⱔ. Ⰸⰰⰿⰹⰰⱄⱅ ⱅⰵⰳⱁ ⱂⱁⱌⰸⱆłⰰ, żⰵ ⱆⱀⱁⱄⰹ ⱄⰹⱔ w ⱂⱁwⰹⰵⱅⱃⰸⱆ. Ⱁⱅⰰⱌⰸⰰłⱐ ⰺą ⱂⱃⰸⰵⰸⱃⱁⱌⰸⱐⱄⱅⰵ, śwⰹⰵⱅⰾⰹⱄⱅⰵ ⰹⱄⱅⱁⱅⱐ.
+
+– Ⰺⰵⱄⱅⰵś ⱌóⱃą ⱂⱁwⰹⰵⱅⱃⰸⰰ – ⱂⱁwⰹⰵⰴⰸⰹⰰłⱐ. – Ⰸⰰⱄłⱆżⱐłⰰś ⱀⰰ ⱅⱁ, ⰱⱁ ⱀⰹⰵ ⱄⰸⱆⰽⰰłⰰś ⱄwⱁⰺⰵⰳⱁ ⱄⰸⱌⰸⱔśⱌⰹⰰ ⰽⱁⱄⰸⱅⰵⰿ ⰹⱀⱀⱐⱌⱈ. Ⰺⰵśⰾⰹ ⱂⱃⰸⰵⰸ ⱅⱃⰸⱐⱄⱅⰰ ⰾⰰⱅ ⰱⱔⰴⰸⰹⰵⱄⰸ ⱌⰸⱐⱀⰹⱍ ⰴⱁⰱⱃⱁ, ⰸⰴⱁⰱⱔⰴⰸⰹⰵⱄⰸ ⰴⱆⱄⰸⱔ ⱀⰹⰵśⰿⰹⰵⱃⱅⰵⰾⱀą.
+
+Ⰿⰰⱃⰹⱀⰰ ⱄⱂⱁⰺⱃⰸⰰłⰰ w ⰴół. Ⰸⱁⰱⰰⱌⰸⱐłⰰ ⱄⱅⰰⱅⰵⰽ, ⱀⰰ ⰽⱅóⱃⱐⰿ ⰽⱄⰹążⱔ włⰰśⱀⰹⰵ ⰱⱆⰴⰸⰹł ⱄⰹⱔ ⰸⰵ ⱄⱀⱆ. Ⰸⱁⰱⰰⱌⰸⱐłⰰ ⰺⰵⰳⱁ ⱆśⰿⰹⰵⱌⱈ, ⰳⰴⱐ ⱂⰰⱅⱃⰸⱐł ⱀⰰ ⱄwⱁⰺą żⱁⱀⱔ. Ⰹ ⰸⱃⱁⰸⱆⰿⰹⰰłⰰ, żⰵ ⱅⱁ, ⱌⱁ ⱌⰸⱆłⰰ, ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⰸⰳⰹⱀⱔłⱁ – ⱅⱐⰾⰽⱁ ⰸⰿⰹⰵⱀⰹłⱁ ⱇⱁⱃⰿⱔ.
+
+Ⱆⱀⰹⱁⱄłⰰ ⱄⰹⱔ w ⰳóⱃⱔ ⱃⰰⰸⰵⰿ ⰸ ⱄⰹⱁⱄⱅⱃⰰⰿⰹ ⱂⱁwⰹⰵⱅⱃⰸⰰ, ⰳⱁⱅⱁwⰰ ⱀⰹⰵśⱍ ⱂⱁⰿⱁⱌ ⱅⱐⰿ, ⰽⱅóⱃⰸⱐ ⰺⰵⰺ ⱂⱁⱅⱃⰸⰵⰱⱆⰺą. Ⰱⱁ ⱂⱃⰰwⰴⰸⰹwⰰ ⰿⰹłⱁśⱍ ⱀⰹⰵ ⱂⱁⰾⰵⰳⰰ ⱀⰰ ⱂⱁⱄⰹⰰⰴⰰⱀⰹⱆ. Ⱂⱁⰾⰵⰳⰰ ⱀⰰ ⰴⰰwⰰⱀⰹⱆ.
+
+Ⰹ ⱌⱈⱁⱍ ⱀⰹⰳⰴⱐ ⱀⰹⰵ wⱐⱂⱁwⰹⰵⰴⰸⰹⰰłⰰ ⱄłⱁwⰰ, ⰺⰵⰺ ⱌⰹⱄⰸⰰ ⱄⱅⰰłⰰ ⱄⰹⱔ ⱀⰰⰺⱂⰹⱔⰽⱀⰹⰵⰺⱄⰸⱐⰿ ⰳłⱁⱄⰵⰿ, ⰺⰰⰽⰹ ⰽⰹⰵⰴⱐⰽⱁⰾwⰹⰵⰽ ⰹⱄⱅⱀⰹⰰł.
+
+**ⰍⰑⰐⰅⰜ**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Ⱄⱂⱃⰰwⰴź ⰸⱃⱁⰸⱆⰿⰹⰵⱀⰹⰵ
 
 ### Question 1
 
-**Question:** Jak ma na imię syrenka?
+**Question:** Ⰺⰰⰽ ⰿⰰ ⱀⰰ ⰹⰿⰹⱔ ⱄⱐⱃⰵⱀⰽⰰ?
 
 **Answers:**
-- A) Marina
-- B) Ariel
-- C) Kropeia
-- D) Zosia
+- A) Ⰿⰰⱃⰹⱀⰰ
+- B) Ⰰⱃⰹⰵⰾ
+- C) Ⰽⱃⱁⱂⰵⰹⰰ
+- D) Ⰸⱁⱄⰹⰰ
 
 **Correct:** A
-**Explanation:** Najmłodsza córka Króla Mórz nazywa się Marina.
-**Text reference:** Marina
+**Explanation:** Ⱀⰰⰺⰿłⱁⰴⱄⰸⰰ ⱌóⱃⰽⰰ Ⰽⱃóⰾⰰ Ⰿóⱃⰸ ⱀⰰⰸⱐwⰰ ⱄⰹⱔ Ⰿⰰⱃⰹⱀⰰ.
+**Text reference:** Ⰿⰰⱃⰹⱀⰰ
 
 ### Question 2
 
-**Question:** Co Marina oddaje wiedźmie?
+**Question:** Ⱌⱁ Ⰿⰰⱃⰹⱀⰰ ⱁⰴⰴⰰⰺⰵ wⰹⰵⰴźⰿⰹⰵ?
 
 **Answers:**
-- A) Głos
-- B) Ogon
-- C) Korona
-- D) Perły
+- A) Ⰳłⱁⱄ
+- B) Ⱁⰳⱁⱀ
+- C) Ⰽⱁⱃⱁⱀⰰ
+- D) Ⱂⰵⱃłⱐ
 
 **Correct:** A
-**Explanation:** Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi.
-**Text reference:** głos
+**Explanation:** Wⰹⰵⰴźⰿⰰ ⰽⰰżⰵ ⱁⰴⰴⰰⱍ ⱂⰹⱔⰽⱀⱐ ⰳłⱁⱄ ⰸⰰ ⱀⰰⱂóⰺ ⰸⰿⰹⰵⱀⰹⰰⰺąⱌⱐ ⱁⰳⱁⱀ w ⱀⱁⰳⰹ.
+**Text reference:** ⰳłⱁⱄ
 
 ### Question 3
 
-**Question:** Kogo Marina ratuje podczas burzy?
+**Question:** Ⰽⱁⰳⱁ Ⰿⰰⱃⰹⱀⰰ ⱃⰰⱅⱆⰺⰵ ⱂⱁⰴⱌⰸⰰⱄ ⰱⱆⱃⰸⱐ?
 
 **Answers:**
-- A) Księcia
-- B) Króla
-- C) Rybaka
-- D) Kapitana
+- A) Ⰽⱄⰹⱔⱌⰹⰰ
+- B) Ⰽⱃóⰾⰰ
+- C) Ⱃⱐⰱⰰⰽⰰ
+- D) Ⰽⰰⱂⰹⱅⰰⱀⰰ
 
 **Correct:** A
-**Explanation:** Ratuje tonącego księcia i wynosi na brzeg.
-**Text reference:** księcia
+**Explanation:** Ⱃⰰⱅⱆⰺⰵ ⱅⱁⱀąⱌⰵⰳⱁ ⰽⱄⰹⱔⱌⰹⰰ ⰹ wⱐⱀⱁⱄⰹ ⱀⰰ ⰱⱃⰸⰵⰳ.
+**Text reference:** ⰽⱄⰹⱔⱌⰹⰰ
 
 ### Question 4
 
-**Question:** Czego Marina nie robi z nożem?
+**Question:** Ⱌⰸⰵⰳⱁ Ⰿⰰⱃⰹⱀⰰ ⱀⰹⰵ ⱃⱁⰱⰹ ⰸ ⱀⱁżⰵⰿ?
 
 **Answers:**
-- A) Nie zabija księcia
-- B) Zabija wiedźmę
-- C) Rzuca w siostry
-- D) Niszczy statek
+- A) Ⱀⰹⰵ ⰸⰰⰱⰹⰺⰰ ⰽⱄⰹⱔⱌⰹⰰ
+- B) Ⰸⰰⰱⰹⰺⰰ wⰹⰵⰴźⰿⱔ
+- C) Ⱃⰸⱆⱌⰰ w ⱄⰹⱁⱄⱅⱃⱐ
+- D) Ⱀⰹⱄⰸⱌⰸⱐ ⱄⱅⰰⱅⰵⰽ
 
 **Correct:** A
-**Explanation:** Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale.
-**Text reference:** nie może tego zrobić
+**Explanation:** Ⰱⰹⰵⱃⰸⰵ ⱀóż, ⰾⰵⱌⰸ ⱀⰹⰵ ⰸⰰⰱⰹⰺⰰ śⱂⰹąⱌⰵⰳⱁ ⰽⱄⰹⱔⱌⰹⰰ — ⱌⰹⱄⱀⱔłⰰ ⰳⱁ w ⱇⰰⰾⰵ.
+**Text reference:** ⱀⰹⰵ ⰿⱁżⰵ ⱅⰵⰳⱁ ⰸⱃⱁⰱⰹⱍ
 
 ### Question 5
 
-**Question:** Kim Marina zostaje na końcu?
+**Question:** Ⰽⰹⰿ Ⰿⰰⱃⰹⱀⰰ ⰸⱁⱄⱅⰰⰺⰵ ⱀⰰ ⰽⱁńⱌⱆ?
 
 **Answers:**
-- A) Córką powietrza
-- B) Królową mórz
-- C) Człowiekiem z duszą od razu
-- D) Pianą na zawsze
+- A) Ⱌóⱃⰽą ⱂⱁwⰹⰵⱅⱃⰸⰰ
+- B) Ⰽⱃóⰾⱁwą ⰿóⱃⰸ
+- C) Ⱌⰸłⱁwⰹⰵⰽⰹⰵⰿ ⰸ ⰴⱆⱄⰸą ⱁⰴ ⱃⰰⰸⱆ
+- D) Ⱂⰹⰰⱀą ⱀⰰ ⰸⰰwⱄⰸⰵ
 
 **Correct:** A
-**Explanation:** Staje się córką powietrza — może zdobyć duszę czyniąc dobro.
-**Text reference:** córką powietrza
+**Explanation:** Ⱄⱅⰰⰺⰵ ⱄⰹⱔ ⱌóⱃⰽą ⱂⱁwⰹⰵⱅⱃⰸⰰ — ⰿⱁżⰵ ⰸⰴⱁⰱⱐⱍ ⰴⱆⱄⰸⱔ ⱌⰸⱐⱀⰹąⱌ ⰴⱁⰱⱃⱁ.
+**Text reference:** ⱌóⱃⰽą ⱂⱁwⰹⰵⱅⱃⰸⰰ
 
 
 ---
@@ -249,22 +249,22 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 ## Future Extensions
 
 ### Images
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Illustrations
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Audio narration
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Pronunciation
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Handwriting
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Exercises
-*(none)*
+*(ⱀⱁⱀⰵ)*
 
 ### Vocabulary
-*(none)*
+*(ⱀⱁⱀⰵ)*

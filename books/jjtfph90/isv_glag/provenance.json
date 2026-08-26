@@ -1,0 +1,27 @@
+{
+  "packId": "jjtfph90:isv_glag",
+  "bookId": "jjtfph90",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰿⰵⱛⱆⱄⰾⱁⰲⰺⰰⱀⱄⰽⰰ ⰾⰹⱅⰵⱃⰰⱅⱆⱃⰰ ⱂⱃⰵⰽⰾⰰⰴ ⱂⱁⰾⱄⰽⱁⰺ ⰽⰰⱀⱁⱀⰹⱍⰵⱄⰽⱁⰺ ⱃⰵⰴⰰⰽⱌⰹⰹ (ⰿⰰⱀⱆⱄⱌⱃⰹⱂⱅ Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⱄⰵⰲⰵⱀ). Ⱂⱁⰲⱀⱐⰺ ⱅⰵⰽⱄⱅ ⱄⱁⱈⱃⰰⱀⱑⱀ — ⰱⰵⰸ ⱄⰽⱃⰰⱍⰵⱀⰹⰺ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DRDpDAGHqxE"
+    }
+  ],
+  "revisionNotes": "Ⱂⱈⰰⱄⰵ 102 ⰹⰿⱂⱁⱃⱅ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⰺⰺⱅⱇⱂⱈ90:ⱂⰾ",
+  "translationSourceVersion": "1.0.1"
+}

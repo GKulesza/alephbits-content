@@ -11,7 +11,7 @@
   "version": "1.0.1",
   "editionVersion": "1.0.1",
   "updated": "2026-07-13",
-  "description": "Сриниваса Раманујан види образце, кторых не может доказати — и говорит, же их шепćе јему богыња Намагири. В Цамбридге Харды требује доказов.",
+  "description": "Сриниваса Раманујан види образце, кторых не может доказати — и говорит, же их шепће јему богыња Намагири. В Цамбридге Харды требује доказов.",
   "author": {
     "name": "AlephBits Editorial"
   },
@@ -101,8 +101,8 @@
       }
     ]
   },
-  "translationStatus": "machine",
-  "translationSource": "mecosfog:isv",
+  "translationStatus": "мацхине",
+  "translationSource": "мецосфог:пл",
   "translationSourceVersion": "1.0.1",
   "coverFamily": "biography",
   "audience": "teen",

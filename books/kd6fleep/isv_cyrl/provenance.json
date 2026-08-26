@@ -1,0 +1,27 @@
+{
+  "packId": "kd6fleep:isv_cyrl",
+  "bookId": "kd6fleep",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанска литература преклад полској каноническој редакции (манусцрипт Цоллецтион Нине). Повныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "_ByoSBSkJZg"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "кд6флееп:пл",
+  "translationSourceVersion": "1.0.1"
+}

@@ -9,8 +9,8 @@
 **Edition version:** 1.0.0  
 
 **Title:** Глас и Тишина  
-**Subtitle:** Сиренка, которая дала глас за любовь  
-**Blurb:** Марина, најмладша дщи Краља Морја, спасајет тонегo кнџеза и даје свој глас ведшме да быти чловеком — але правдиве љубв је давање, не имение., ratuje tonącego księcia i oddaje głos wiedźmie, by zostać człowiekiem — lecz prawdziwa miłość okazuje się dawaniem, nie posiadaniem.
+**Subtitle:** Сиренка, ктора дала глас за љубов  
+**Blurb:** Марина, најмладша дŝи Краља Морја, спасајет тонего кŝежа и даје свој глас ведŝме да быти чловєком — але правдиве љубв је давание, не имєние., ратује тонąцего ксиѧциа и оддаје гłос wиедźмие, бы зостаћ цзłоwиекием — лецз праwдзиwа миłоśћ оказује сиѧ даwанием, ние посиаданием.
 
 **Genres:** fairy_tale, short_story  
 **Series:** Collection Eleven  
@@ -21,33 +21,33 @@
 **Estimated reading time:** 5 minutes
 
 **Publication date:** *(original — 2026)*  
-**Historical period:** contemporary  
+**Historical period:** цонтемпорары  
 
-**Original language:** isv-cyrl  
-**Translation summary:** Глас и Тишина — multilingual translation — Collection Eleven official reading pack (Polish).  
+**Original language:** isv_cyrl  
+**Translation summary:** Глас и Тишина — мултилингуал транслатион — Цоллецтион Елевен оффициал реадинг пацк (Полисх).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 1  
 
-siren, fairy_tale, love, translation, Collection Eleven  
+сирен, фаиры_тале, лове, транслатион, Цоллецтион Елевен  
 
-**Keywords:** Głos i cisza, Marina, syrenka, baśń  
+**Keywords:** Гłос и цисза, Марина, сыренка, баśń  
 
 **Cover family:** legends
 
 
 **Motifs:**
-- ocean
-- voice
-- sacrifice
-- love
-- transformation
-- dream
+- оцеан
+- воице
+- сацрифице
+- лове
+- трансформатион
+- дреам
 
-**Editorial notes:** Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc.
+**Editorial notes:** Мултилингуал транслатион едитион. Соурце: пл.; wąтек офиары и ноżа — класыцзна баśń, ние графицзна прземоц.
 
-**Inspiration:** Manuskrypt Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
+**Inspiration:** Манускрыпт Цоллецтион Елевен; ЫоуТубе ВубЦпПqФНПМ (21.03.2016); ЫоуТубе ВубЦпПqФНПМ (2016-03-21).
 
 ---
 
@@ -65,13 +65,13 @@ siren, fairy_tale, love, translation, Collection Eleven
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 21.03.2016 -> https://www.youtube.com/watch?v=VubCpPqFNPM  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Пхасе 119 импорт.
 
 ### Revision history
 
 | Version | Date | Note |
 |
-| 1.0.0 | 2026-07-30 | Interslavic (Cyrillic) translation edition |
+| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
 ---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
@@ -79,7 +79,7 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 | Date | Editor | Note |
 |------|--------|------|
-| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Uniwersalna baśń o bezinteresownej miłości — mocny materiał z znanym motywem. |
+| 2026-07-13 | АлепхБитс Едиториал | Пхасе 119 импорт; пхилосопхы фит 4/5 — Униwерсална баśń о безинтересоwнеј миłоśци — моцны материаł з знаным мотыwем. |
 
 ---
 
@@ -87,13 +87,13 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 ### Source 1: Collection Eleven manuscript
 
-**Author:** AlephBits Editorial (adaptation)  
+**Author:** АлепхБитс Едиториал (адаптатион)  
 **URL:** https://www.youtube.com/watch?v=VubCpPqFNPM  
 **License:** CC0 1.0 Universal (text); source material per original availability  
 **Retrieval date:** 2016-03-21  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Материаł źрóдłоwы wсказаны w блоку соурце манускрыпту; текст јест адаптацјą редакцыјнą.
 
 ---
 
@@ -101,147 +101,147 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 **ГЛАС И ТИШИНА**
 
-W najgłębszej toni oceanu, gdzie światło słoneczne nigdy nie dociera, a woda jest tak przejrzysta jak najczystszy kryształ, znajdował się pałac Króla Mórz. Jego mury były z koralu, okna z bursztynu, a dach z perłowych muszli, które otwierały się i zamykały jak żywe istoty. W tym pałacu mieszkało sześć córek Króla Mórz, a każda z nich była piękniejsza od poprzedniej. Jednak najmłodsza z nich, ta o imieniu Marina, była najpiękniejsza ze wszystkich. Jej włosy były jak złocisty jedwab, oczy jak błękit najczystszej wody, a jej ogon lśnił srebrem i złotem, jakby był utkany z promieni księżyca.
+W најгłѧбсзеј тони оцеану, гдзие śwиатłо сłонецзне нигды ние доциера, а wода јест так прзејрзыста јак најцзыстсзы крысзтаł, знајдоwаł сиѧ паłац Крóла Мóрз. Јего муры быłы з коралу, окна з бурсзтыну, а дацх з перłоwыцх мусзли, ктóре отwиераłы сиѧ и замыкаłы јак żыwе истоты. W тым паłацу миесзкаłо сзеśћ цóрек Крóла Мóрз, а каżда з ницх быłа пиѧкниејсза од попрзедниеј. Једнак најмłодсза з ницх, та о имиениу Марина, быłа најпиѧкниејсза зе wсзысткицх. Јеј włосы быłы јак зłоцисты једwаб, оцзы јак бłѧкит најцзыстсзеј wоды, а јеј огон лśниł сребрем и зłотем, јакбы быł утканы з промиени ксиѧżыца.
 
-Marina różniła się od swoich sióstr. One cieszyły się skarbami z rozbitych statków, bawiły się perłami i złotem. Ona natomiast wolała słuchać opowieści swojej babki o świecie ludzi. O miastach, które sięgają nieba, o ptakach, które śpiewają, o kwiatach, które pachną. I o duszach, które żyją wiecznie.
+Марина рóżниłа сиѧ од сwоицх сиóстр. Оне циесзыłы сиѧ скарбами з розбитыцх статкów, баwиłы сиѧ перłами и зłотем. Она натомиаст wолаłа сłуцхаћ опоwиеśци сwојеј бабки о śwиецие лудзи. О миастацх, ктóре сиѧгајą ниеба, о птакацх, ктóре śпиеwајą, о кwиатацх, ктóре пацхнą. И о дусзацх, ктóре żыјą wиецзние.
 
-– Kiedy skończysz piętnaście lat, będziesz mogła wypłynąć na powierzchnię – mówiła babka. – Wtedy zobaczysz ten świat na własne oczy.
+– Киеды скоńцзысз пиѧтнаśцие лат, бѧдзиесз могłа wыпłынąћ на поwиерзцхниѧ – мówиłа бабка. – Wтеды зобацзысз тен śwиат на włасне оцзы.
 
-I Marina czekała. Czekała, aż nadejdzie ten dzień, gdy będzie mogła zobaczyć ludzi i ich tajemniczy świat.
-
----
-Nadszedł wreszcie dzień jej piętnastych urodzin. Marina, podekscytowana i przestraszona zarazem, wynurzyła się z głębin tuż po zachodzie słońca. Na niebie płonęły jeszcze purpurowe i złote barwy, a na horyzoncie ujrzała coś, co zaparło jej dech w piersiach – wielki statek o białych żaglach, który kołysał się na falach niczym łabędź.
-
-Podpłynęła bliżej. Z kryształowych okien kajut wydobywało się ciepłe światło i dźwięki radosnej muzyki. To był bal. Na pokładzie tańczyli ludzie w strojach z jedwabiu i złota, a wśród nich jeden, który przykuł jej uwagę jak żaden inny – młody książę o oczach ciemnych jak noc i uśmiechu tak ciepłym, że stopiłby najzimniejszy lód.
-
-I wtedy rozpętała się burza.
-
-Fale wznosiły się jak góry, wiatr wył jak dzikie zwierzę, a niebo rozdarły błyskawice. Statek trzeszczał i chwiał się na wszystkie strony. Marina widziała, jak ludzie padają na pokład, jak fale zmywają ich w otchłań. I wtedy zobaczyła go – księcia, który walczył z żywiołem, a potem osłabł i zaczął tonąć.
-
-Bez chwili wahania rzuciła się w fale. Chwyciła go w ramiona, wyniosła na powierzchnię i popłynęła z nim w stronę najbliższego brzegu. Położyła go na ciepłym piasku, głowę oparła wyżej, żeby słońce ogrzało jego twarz. Przykryła go swoimi włosami, żeby wiatr nie chłodził go zbytnio, i czekała, aż się obudzi.
-
-Gdy otworzył oczy, spojrzał na nią z wdzięcznością. Ale nie zdawał sobie sprawy, że to ona go uratowała. Myślał, że to ktoś inny – jedna z dziewcząt, które nadbiegły z pobliskiego klasztoru. Marina zniknęła w falach, zanim zdążył cokolwiek powiedzieć.
+И Марина цзекаłа. Цзекаłа, аż надејдзие тен дзиеń, гды бѧдзие могłа зобацзыћ лудзи и ицх тајемницзы śwиат.
 
 ---
-Od tej pory Marina nie mogła przestać myśleć o księciu. Każdej nocy wypływała na powierzchnię i płynęła w stronę jego pałacu. Widziała go, jak siedzi na tarasie w blasku księżyca, i marzyła, żeby być przy nim. Tęskniła do ludzkiego świata, do jego ciepła, do jego światła.
+Надсзедł wресзцие дзиеń јеј пиѧтнастыцх уродзин. Марина, подексцытоwана и прзестрасзона заразем, wынурзыłа сиѧ з гłѧбин туż по зацходзие сłоńца. На ниебие пłонѧłы јесзцзе пурпуроwе и зłоте барwы, а на хорызонцие ујрзаłа цоś, цо запарłо јеј децх w пиерсиацх – wиелки статек о биаłыцх żаглацх, ктóры коłысаł сиѧ на фалацх ницзым łабѧдź.
 
-– A gdybym tak mogła zostać człowiekiem? – szepnęła do siebie.
+Подпłынѧłа блиżеј. З крысзтаłоwыцх окиен кајут wыдобыwаłо сиѧ циепłе śwиатłо и дźwиѧки радоснеј музыки. То быł бал. На покłадзие таńцзыли лудзие w стројацх з једwабиу и зłота, а wśрóд ницх једен, ктóры прзыкуł јеј уwагѧ јак żаден инны – мłоды ксиążѧ о оцзацх циемныцх јак ноц и уśмиецху так циепłым, żе стопиłбы најзимниејсзы лóд.
 
-I udała się do wiedźmy morskiej, która mieszkała wśród wirów i polipów. Wiedźma była okropna – pokryta wężami i ropuchami, a jej śmiech brzmiał jak zgrzyt kamieni.
+И wтеды розпѧтаłа сиѧ бурза.
 
-– Wiem, po co przyszłaś – syknęła wiedźma. – Chcesz być człowiekiem. Chcesz zdobyć duszę. Ale to będzie cię kosztować. Oddasz mi swój piękny głos, a ja przygotuję ci napój, który zmieni twój ogon w nogi. Lecz każdy krok będzie ci sprawiał ból, jakbyś stąpała po ostrych nożach. A jeśli książę nie pokocha cię nad życie, twoje serce pęknie, a ty zamienisz się w pianę.
+Фале wзносиłы сиѧ јак гóры, wиатр wыł јак дзикие зwиерзѧ, а ниебо роздарłы бłыскаwице. Статек трзесзцзаł и цхwиаł сиѧ на wсзысткие строны. Марина wидзиаłа, јак лудзие падајą на покłад, јак фале змыwајą ицх w отцхłаń. И wтеды зобацзыłа го – ксиѧциа, ктóры wалцзыł з żыwиоłем, а потем осłабł и зацзął тонąћ.
 
-– Zgadzam się – odpowiedziała Marina bez wahania.
+Без цхwили wаханиа рзуциłа сиѧ w фале. Цхwыциłа го w рамиона, wыниосłа на поwиерзцхниѧ и попłынѧłа з ним w стронѧ најблиżсзего брзегу. Поłоżыłа го на циепłым пиаску, гłоwѧ опарłа wыżеј, żебы сłоńце огрзаłо јего тwарз. Прзыкрыłа го сwоими włосами, żебы wиатр ние цхłодзиł го збытнио, и цзекаłа, аż сиѧ обудзи.
 
-Wypiła napój, a ból był tak ogromny, że zemdlała. Gdy się obudziła, leżała na brzegu, a przed nią stał książę z zachwytem w oczach.
-
-– Kim jesteś? – zapytał.
-
-Nie mogła odpowiedzieć. Straciła głos. Ale jej oczy mówiły wszystko.
+Гды отwорзыł оцзы, спојрзаł на ниą з wдзиѧцзноśциą. Але ние здаwаł собие спраwы, żе то она го уратоwаłа. Мыśлаł, żе то ктоś инны – једна з дзиеwцзąт, ктóре надбиегłы з поблискиего класзтору. Марина зникнѧłа w фалацх, заним здążыł цоколwиек поwиедзиећ.
 
 ---
-Książę zabrał ją do swojego pałacu. Dał jej piękne suknie, pozwolił jej mieszkać w swoim skrzydle. Kochał ją, ale tylko jak siostrę, jak najdroższą przyjaciółkę. Jego serce należało do innej – do tej, która według niego uratowała mu życie na brzegu.
+Од теј поры Марина ние могłа прзестаћ мыśлећ о ксиѧциу. Каżдеј ноцы wыпłыwаłа на поwиерзцхниѧ и пłынѧłа w стронѧ јего паłацу. Wидзиаłа го, јак сиедзи на тарасие w бласку ксиѧżыца, и марзыłа, żебы быћ прзы ним. Тѧскниłа до лудзкиего śwиата, до јего циепłа, до јего śwиатłа.
 
-Gdy książę oznajmił, że żeni się z tamtą dziewczyną, Marina poczuła, jak świat się wali. To był koniec. Zanim słońce wzejdzie, miała zamienić się w pianę.
+– А гдыбым так могłа зостаћ цзłоwиекием? – сзепнѧłа до сиебие.
 
-Ale tej nocy nad wodą pojawiły się jej siostry. Obcięły swoje długie włosy i oddały je wiedźmie w zamian za nóż.
+И удаłа сиѧ до wиедźмы морскиеј, ктóра миесзкаłа wśрóд wирów и полипów. Wиедźма быłа окропна – покрыта wѧżами и ропуцхами, а јеј śмиецх брзмиаł јак згрзыт камиени.
 
-– Zabij księcia – powiedziały. – Zanim słońce wzejdzie. Wtedy wrócisz do nas.
+– Wием, по цо прзысзłаś – сыкнѧłа wиедźма. – Цхцесз быћ цзłоwиекием. Цхцесз здобыћ дусзѧ. Але то бѧдзие циѧ косзтоwаћ. Оддасз ми сwóј пиѧкны гłос, а ја прзыготујѧ ци напóј, ктóры змиени тwóј огон w ноги. Лецз каżды крок бѧдзие ци спраwиаł бóл, јакбыś стąпаłа по острыцх ноżацх. А јеśли ксиążѧ ние покоцха циѧ над żыцие, тwоје серце пѧкние, а ты замиенисз сиѧ w пианѧ.
 
-Marina wzięła nóż. Wszedł do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
+– Згадзам сиѧ – одпоwиедзиаłа Марина без wаханиа.
 
-Cisnęła nożem w fale. Rzuciła ostatnie spojrzenie na księcia i skoczyła w morze.
+Wыпиłа напóј, а бóл быł так огромны, żе земдлаłа. Гды сиѧ обудзиłа, леżаłа на брзегу, а прзед ниą стаł ксиążѧ з зацхwытем w оцзацх.
 
-Słońce właśnie wschodziło.
+– Ким јестеś? – запытаł.
+
+Ние могłа одпоwиедзиећ. Страциłа гłос. Але јеј оцзы мówиłы wсзыстко.
 
 ---
-Ale nie zamieniła się w pianę. Zamiast tego poczuła, że unosi się w powietrzu. Otaczały ją przezroczyste, świetliste istoty.
+Ксиążѧ забраł јą до сwојего паłацу. Даł јеј пиѧкне сукние, позwолиł јеј миесзкаћ w сwоим скрзыдле. Коцхаł јą, але тылко јак сиострѧ, јак најдроżсзą прзыјациółкѧ. Јего серце налеżаłо до иннеј – до теј, ктóра wедłуг ниего уратоwаłа му żыцие на брзегу.
 
-– Jesteś córą powietrza – powiedziały. – Zasłużyłaś na to, bo nie szukałaś swojego szczęścia kosztem innych. Jeśli przez trzysta lat będziesz czynić dobro, zdobędziesz duszę nieśmiertelną.
+Гды ксиążѧ ознајмиł, żе żени сиѧ з тамтą дзиеwцзынą, Марина поцзуłа, јак śwиат сиѧ wали. То быł кониец. Заним сłоńце wзејдзие, миаłа замиенић сиѧ w пианѧ.
 
-Marina spojrzała w dół. Zobaczyła statek, na którym książę właśnie budził się ze snu. Zobaczyła jego uśmiech, gdy patrzył na swoją żonę. I zrozumiała, że to, co czuła, nigdy nie zginęło – tylko zmieniło formę.
+Але теј ноцы над wодą појаwиłы сиѧ јеј сиостры. Обциѧłы сwоје дłугие włосы и оддаłы је wиедźмие w замиан за нóż.
 
-Uniosła się w górę razem z siostrami powietrza, gotowa nieść pomoc tym, którzy jej potrzebują. Bo prawdziwa miłość nie polega na posiadaniu. Polega na dawaniu.
+– Забиј ксиѧциа – поwиедзиаłы. – Заним сłоńце wзејдзие. Wтеды wрóцисз до нас.
 
-I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym głosem, jaki kiedykolwiek istniał.
+Марина wзиѧłа нóż. Wсзедł до комнаты, w ктóреј спаł ксиążѧ з żонą. Спојрзаłа на ниего, на јего уśмиецх, на јего спокојнą тwарз. И зрозумиаłа, żе ние моżе тего зробић. Ние дла сиебие.
 
-**KONEC**
+Циснѧłа ноżем w фале. Рзуциłа остатние спојрзение на ксиѧциа и скоцзыłа w морзе.
+
+Сłоńце włаśние wсцходзиłо.
+
+---
+Але ние замиениłа сиѧ w пианѧ. Замиаст тего поцзуłа, żе уноси сиѧ w поwиетрзу. Отацзаłы јą прзезроцзысте, śwиетлисте истоты.
+
+– Јестеś цóрą поwиетрза – поwиедзиаłы. – Засłуżыłаś на то, бо ние сзукаłаś сwојего сзцзѧśциа косзтем инныцх. Јеśли прзез трзыста лат бѧдзиесз цзынић добро, здобѧдзиесз дусзѧ ниеśмиертелнą.
+
+Марина спојрзаłа w дół. Зобацзыłа статек, на ктóрым ксиążѧ włаśние будзиł сиѧ зе сну. Зобацзыłа јего уśмиецх, гды патрзыł на сwојą żонѧ. И зрозумиаłа, żе то, цо цзуłа, нигды ние згинѧłо – тылко змиениłо формѧ.
+
+Униосłа сиѧ w гóрѧ разем з сиострами поwиетрза, готоwа ниеśћ помоц тым, ктóрзы јеј потрзебујą. Бо праwдзиwа миłоśћ ние полега на посиаданиу. Полега на даwаниу.
+
+И цхоћ нигды ние wыпоwиедзиаłа сłоwа, јеј цисза стаłа сиѧ најпиѧкниејсзым гłосем, јаки киедыколwиек истниаł.
+
+**КОНЕЦ**
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Спраwдź зрозумиение
 
 ### Question 1
 
-**Question:** Jak ma na imię syrenka?
+**Question:** Јак ма на имиѧ сыренка?
 
 **Answers:**
-- A) Marina
-- B) Ariel
-- C) Kropeia
-- D) Zosia
+- A) Марина
+- B) Ариел
+- C) Кропеиа
+- D) Зосиа
 
 **Correct:** A
-**Explanation:** Najmłodsza córka Króla Mórz nazywa się Marina.
-**Text reference:** Marina
+**Explanation:** Најмłодсза цóрка Крóла Мóрз назыwа сиѧ Марина.
+**Text reference:** Марина
 
 ### Question 2
 
-**Question:** Co Marina oddaje wiedźmie?
+**Question:** Цо Марина оддаје wиедźмие?
 
 **Answers:**
-- A) Głos
-- B) Ogon
-- C) Korona
-- D) Perły
+- A) Гłос
+- B) Огон
+- C) Корона
+- D) Перłы
 
 **Correct:** A
-**Explanation:** Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi.
-**Text reference:** głos
+**Explanation:** Wиедźма каżе оддаћ пиѧкны гłос за напóј змиениајąцы огон w ноги.
+**Text reference:** гłос
 
 ### Question 3
 
-**Question:** Kogo Marina ratuje podczas burzy?
+**Question:** Кого Марина ратује подцзас бурзы?
 
 **Answers:**
-- A) Księcia
-- B) Króla
-- C) Rybaka
-- D) Kapitana
+- A) Ксиѧциа
+- B) Крóла
+- C) Рыбака
+- D) Капитана
 
 **Correct:** A
-**Explanation:** Ratuje tonącego księcia i wynosi na brzeg.
-**Text reference:** księcia
+**Explanation:** Ратује тонąцего ксиѧциа и wыноси на брзег.
+**Text reference:** ксиѧциа
 
 ### Question 4
 
-**Question:** Czego Marina nie robi z nożem?
+**Question:** Цзего Марина ние роби з ноżем?
 
 **Answers:**
-- A) Nie zabija księcia
-- B) Zabija wiedźmę
-- C) Rzuca w siostry
-- D) Niszczy statek
+- A) Ние забија ксиѧциа
+- B) Забија wиедźмѧ
+- C) Рзуца w сиостры
+- D) Нисзцзы статек
 
 **Correct:** A
-**Explanation:** Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale.
-**Text reference:** nie może tego zrobić
+**Explanation:** Биерзе нóż, лецз ние забија śпиąцего ксиѧциа — циснѧłа го w фале.
+**Text reference:** ние моżе тего зробић
 
 ### Question 5
 
-**Question:** Kim Marina zostaje na końcu?
+**Question:** Ким Марина зостаје на коńцу?
 
 **Answers:**
-- A) Córką powietrza
-- B) Królową mórz
-- C) Człowiekiem z duszą od razu
-- D) Pianą na zawsze
+- A) Цóркą поwиетрза
+- B) Крóлоwą мóрз
+- C) Цзłоwиекием з дусзą од разу
+- D) Пианą на заwсзе
 
 **Correct:** A
-**Explanation:** Staje się córką powietrza — może zdobyć duszę czyniąc dobro.
-**Text reference:** córką powietrza
+**Explanation:** Стаје сиѧ цóркą поwиетрза — моżе здобыћ дусзѧ цзыниąц добро.
+**Text reference:** цóркą поwиетрза
 
 
 ---
@@ -249,22 +249,22 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 ## Future Extensions
 
 ### Images
-*(none)*
+*(ноне)*
 
 ### Illustrations
-*(none)*
+*(ноне)*
 
 ### Audio narration
-*(none)*
+*(ноне)*
 
 ### Pronunciation
-*(none)*
+*(ноне)*
 
 ### Handwriting
-*(none)*
+*(ноне)*
 
 ### Exercises
-*(none)*
+*(ноне)*
 
 ### Vocabulary
-*(none)*
+*(ноне)*

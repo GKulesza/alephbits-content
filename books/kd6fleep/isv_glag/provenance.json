@@ -1,0 +1,27 @@
+{
+  "packId": "kd6fleep:isv_glag",
+  "bookId": "kd6fleep",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰿⰵⱛⱆⱄⰾⱁⰲⰺⰰⱀⱄⰽⰰ ⰾⰹⱅⰵⱃⰰⱅⱆⱃⰰ ⱂⱃⰵⰽⰾⰰⰴ ⱂⱁⰾⱄⰽⱁⰺ ⰽⰰⱀⱁⱀⰹⱍⰵⱄⰽⱁⰺ ⱃⰵⰴⰰⰽⱌⰹⰹ (ⰿⰰⱀⱆⱄⱌⱃⰹⱂⱅ Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⱀⰹⱀⰵ). Ⱂⱁⰲⱀⱐⰺ ⱅⰵⰽⱄⱅ ⱄⱁⱈⱃⰰⱀⱑⱀ — ⰱⰵⰸ ⱄⰽⱃⰰⱍⰵⱀⰹⰺ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "_ByoSBSkJZg"
+    }
+  ],
+  "revisionNotes": "Ⱂⱈⰰⱄⰵ 119 ⰹⰿⱂⱁⱃⱅ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⰽⰴ6ⱇⰾⰵⰵⱂ:ⱂⰾ",
+  "translationSourceVersion": "1.0.1"
+}

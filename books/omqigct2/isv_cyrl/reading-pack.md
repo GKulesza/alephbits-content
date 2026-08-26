@@ -25,9 +25,6 @@
 **Historical period:** *(вариес — сее теxт)*  
 
 **Original language:** isv_cyrl  
-**Translation status:** machine  
-**Translation source:** omqigct2:isv  
-**Translation source version:** 1.0.0  
 **Translation summary:** Меџусловјанскиј превод полској редакции "Прзерwа" — официалноје издање Цоллецтион Фоур.  
 
 **Writing system:** glagolitic  
@@ -40,6 +37,9 @@
 
 **Editorial notes:** Коротка фикција о остановенију пред хроничным служебным стресом.
 
+**Translation status:** мацхине  
+**Translation source:** омqигцт2:пл  
+**Translation source version:** 1.0.0  
 
 ---
 **World:**
@@ -57,7 +57,7 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 13.03.2026 -> https://www.youtube.com/watch?v=Y734jWkM9dY  
-**Revision notes:** Крóтка фикцја о затрзыманиу сиę wобец цхроницзнего стресу заwодоwего.
+**Revision notes:** Крóтка фикцја о затрзыманиу сиѧ wобец цхроницзнего стресу заwодоwего.
 
 ### Revision history
 

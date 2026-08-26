@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Ⱄⱂⱃⰰwⰴź ⰸⱃⱁⰸⱆⰿⰹⰵⱀⰹⰵ",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Ile lat ma Marek, gdy słyszy o Marsie?",
+      "question": "Ⰹⰾⰵ ⰾⰰⱅ ⰿⰰ Ⰿⰰⱃⰵⰽ, ⰳⰴⱐ ⱄłⱐⱄⰸⱐ ⱁ Ⰿⰰⱃⱄⰹⰵ?",
       "answers": [
-        "Osiem",
-        "Szesnaście",
-        "Sześćdziesiąt",
-        "Trzydzieści"
+        "Ⱁⱄⰹⰵⰿ",
+        "Ⱄⰸⰵⱄⱀⰰśⱌⰹⰵ",
+        "Ⱄⰸⰵśⱍⰴⰸⰹⰵⱄⰹąⱅ",
+        "Ⱅⱃⰸⱐⰴⰸⰹⰵśⱌⰹ"
       ],
       "correctIndex": 0,
-      "explanation": "Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia."
+      "explanation": "Ⰿⰰⱃⰵⰽ ⰿⰰ ⱁⱄⰹⰵⰿ ⰾⰰⱅ, ⰳⰴⱐ Ⰲⰹⰽⰹⱀⰳ ⱂⱃⰸⰵⱄⱐłⰰ ⱂⰹⰵⱃwⱄⰸⰵ ⰸⰴⰺⱔⱌⰹⰰ."
     },
     {
       "type": "single_choice",
-      "question": "Co Marek widzi na pierwszym zdjęciu z Viking?",
+      "question": "Ⱌⱁ Ⰿⰰⱃⰵⰽ wⰹⰴⰸⰹ ⱀⰰ ⱂⰹⰵⱃwⱄⰸⱐⰿ ⰸⰴⰺⱔⱌⰹⱆ ⰸ Ⰲⰹⰽⰹⱀⰳ?",
       "answers": [
-        "Coś jak twarz",
-        "Kanały wody",
-        "Miasto",
-        "Statek kosmiczny"
+        "Ⱌⱁś ⰺⰰⰽ ⱅwⰰⱃⰸ",
+        "Ⰽⰰⱀⰰłⱐ wⱁⰴⱐ",
+        "Ⰿⰹⰰⱄⱅⱁ",
+        "Ⱄⱅⰰⱅⰵⰽ ⰽⱁⱄⰿⰹⱌⰸⱀⱐ"
       ],
       "correctIndex": 0,
-      "explanation": "Wskazuje formację skalną wyglądającą jak twarz."
+      "explanation": "Wⱄⰽⰰⰸⱆⰺⰵ ⱇⱁⱃⰿⰰⱌⰺⱔ ⱄⰽⰰⰾⱀą wⱐⰳⰾąⰴⰰⰺąⱌą ⰺⰰⰽ ⱅwⰰⱃⰸ."
     },
     {
       "type": "single_choice",
-      "question": "Co odkrywa łazik Perseverance w kraterze Jezero?",
+      "question": "Ⱌⱁ ⱁⰴⰽⱃⱐwⰰ łⰰⰸⰹⰽ Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ w ⰽⱃⰰⱅⰵⱃⰸⰵ Ⰺⰵⰸⰵⱃⱁ?",
       "answers": [
-        "Starożytną deltę rzeki",
-        "Bazę obcych",
-        "Lodowiec",
-        "Wulkan"
+        "Ⱄⱅⰰⱃⱁżⱐⱅⱀą ⰴⰵⰾⱅⱔ ⱃⰸⰵⰽⰹ",
+        "Ⰱⰰⰸⱔ ⱁⰱⱌⱐⱌⱈ",
+        "Ⰾⱁⰴⱁwⰹⰵⱌ",
+        "Wⱆⰾⰽⰰⱀ"
       ],
       "correctIndex": 0,
-      "explanation": "Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia."
+      "explanation": "Ⰿⰰⱃⰵⰽ ⰿówⰹ ⱁ ⱄⱅⰰⱃⱁżⱐⱅⱀⰵⰺ ⰴⰵⰾⱌⰹⰵ ⱃⰸⰵⰽⰹ — ⰴⱁⰱⱃⱐⰿ ⰿⰹⰵⰺⱄⱌⱆ ⱀⰰ śⰾⰰⰴⱐ żⱐⱌⰹⰰ."
     },
     {
       "type": "single_choice",
-      "question": "Jak nazywa się skała z okrągłymi plamami?",
+      "question": "Ⰺⰰⰽ ⱀⰰⰸⱐwⰰ ⱄⰹⱔ ⱄⰽⰰłⰰ ⰸ ⱁⰽⱃąⰳłⱐⰿⰹ ⱂⰾⰰⰿⰰⰿⰹ?",
       "answers": [
-        "Cheyava Falls",
-        "ALH84001",
-        "Twarz z Cydonii",
-        "Viking Rock"
+        "Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ",
+        "ⰀⰎⰘ84001",
+        "Ⱅwⰰⱃⰸ ⰸ Ⱌⱐⰴⱁⱀⰹⰹ",
+        "Ⰲⰹⰽⰹⱀⰳ Ⱃⱁⱌⰽ"
       ],
       "correctIndex": 0,
-      "explanation": "Perseverance znalazł skałę Cheyava Falls."
+      "explanation": "Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ ⰸⱀⰰⰾⰰⰸł ⱄⰽⰰłⱔ Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ."
     },
     {
       "type": "single_choice",
-      "question": "Co ojciec mówi o błędzie z kanałami na Marsie?",
+      "question": "Ⱌⱁ ⱁⰺⱌⰹⰵⱌ ⰿówⰹ ⱁ ⰱłⱔⰴⰸⰹⰵ ⰸ ⰽⰰⱀⰰłⰰⰿⰹ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ?",
       "answers": [
-        "Sprawił, że ludzie zaczęli marzyć",
-        "Udowodnił, że na Marsie jest życie",
-        "Zniszczył astronomię",
-        "Był ważniejszy niż prawda"
+        "Ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ",
+        "Ⱆⰴⱁwⱁⰴⱀⰹł, żⰵ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ ⰺⰵⱄⱅ żⱐⱌⰹⰵ",
+        "Ⰸⱀⰹⱄⰸⱌⰸⱐł ⰰⱄⱅⱃⱁⱀⱁⰿⰹⱔ",
+        "Ⰱⱐł wⰰżⱀⰹⰵⰺⱄⰸⱐ ⱀⰹż ⱂⱃⰰwⰴⰰ"
       ],
       "correctIndex": 0,
-      "explanation": "Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć."
+      "explanation": "Ⱁⰺⱌⰹⰵⱌ ⰿówⰹ, żⰵ ⰱłąⰴ ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ."
     }
   ]
 }

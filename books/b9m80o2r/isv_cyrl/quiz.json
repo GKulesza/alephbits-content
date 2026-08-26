@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Спраwдź зрозумиение",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak pani Maria definiuje budowanie autorytetu?",
+      "question": "Јак пани Мариа дефиниује будоwание ауторытету?",
       "answers": [
-        "Na nakazach i zakazach",
-        "Na „przepraszam” i przyznawaniu się do błędów",
-        "Na karach",
-        "Na nagrodach"
+        "На наказацх и заказацх",
+        "На „прзепрасзам” и прзызнаwаниу сиѧ до бłѧдów",
+        "На карацх",
+        "На нагродацх"
       ],
       "correctIndex": 1,
-      "explanation": "„Autorytet… zbuduje się go na przepraszam”."
+      "explanation": "„Ауторытет… збудује сиѧ го на прзепрасзам”."
     },
     {
       "type": "single_choice",
-      "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+      "question": "Цо Аниа роби, гды Марысиа розлеwа млеко?",
       "answers": [
-        "Krzyknie „Znowu?”",
-        "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
-        "Każe iść do pokoju",
-        "Ignoruje"
+        "Крзыкние „Зноwу?”",
+        "Прзытула и пропонује wспóлне wытарцие; цхwали прóбѧ самодзиелноśци",
+        "Каżе иśћ до покоју",
+        "Игнорује"
       ],
       "correctIndex": 1,
-      "explanation": "Opisowe wsparcie zamiast strofowania."
+      "explanation": "Описоwе wспарцие замиаст строфоwаниа."
     },
     {
       "type": "single_choice",
-      "question": "Jak Marek chwali rysunek Marysi?",
+      "question": "Јак Марек цхwали рысунек Марыси?",
       "answers": [
-        "„Jesteś piękna”",
-        "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
-        "„Świetnie” i koniec",
-        "Nie chwali"
+        "„Јестеś пиѧкна”",
+        "Описоwо: wидзи сзцзегółы, цзас працы, талент до обсерwацји",
+        "„Śwиетние” и кониец",
+        "Ние цхwали"
       ],
       "correctIndex": 1,
-      "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
+      "explanation": "Марек мówи о кwиаткацх w тле и дłугиеј працы над рысункием."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+      "question": "Цзего Марек сиѧ бои, мówиąц о сwоим ојцу?",
       "answers": [
-        "Że syn go nie kocha",
-        "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
-        "Że straci pracę",
-        "Że wyjadą za granicę"
+        "Żе сын го ние коцха",
+        "Żе стание сиѧ јак ојциец, ктóры нигды ние прзепрасзаł ани ние мówиł „коцхам циѧ”",
+        "Żе страци працѧ",
+        "Żе wыјадą за границѧ"
       ],
       "correctIndex": 1,
-      "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej."
+      "explanation": "Марек: ојциец нигды ние прзепрасзаł — он ние wие, јак быћ инацзеј."
     },
     {
       "type": "single_choice",
-      "question": "Jaką bajkę czyta Ania na koniec?",
+      "question": "Јакą бајкѧ цзыта Аниа на кониец?",
       "answers": [
-        "O Kopciuszku",
-        "O smoku, który nie umiał przepraszać",
-        "O kosmonaucie",
-        "O psie"
+        "О Копциусзку",
+        "О смоку, ктóры ние умиаł прзепрасзаћ",
+        "О космонауцие",
+        "О псие"
       ],
       "correctIndex": 1,
-      "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”."
+      "explanation": "Марысиа проси: „О смоку, ктóры ние умиаł прзепрасзаћ”."
     }
   ]
 }

@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": false,
     "tools": [],
-    "humanReview": "Ⰼⰸⰳⱀⰰⱂⰵⰴ ⱄⱀⰾⰼ ⰖⰾⰻⰻⰵⱆⱂⰸⰾⰽⰔⰾⱃⱀ ⱆⰰⱂⰰⰻⰾⰳ (Ⰿⱅⰰⱁⰵ 75)."
+    "humanReview": "Ⰿⰹⰳⱃⰰⱅⰵⰴ ⱇⱃⱁⰿ ⰜⱁⰾⰾⰵⱌⱅⰹⱁⱀⰗⱁⱆⱃ ⱌⰰⱅⰰⰾⱁⰳ (Ⱂⱈⰰⱄⰵ 75)."
   },
   "sources": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "revisionNotes": "Phase 75 catalog migration",
-  "translationStatus": "machine",
-  "translationSource": "t9a90foh:isv",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⱅ9ⰰ90ⱇⱁⱈ:ⱂⰾ",
   "translationSourceVersion": "1.0.1"
 }

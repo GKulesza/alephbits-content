@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Спраwдź зрозумиение",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak ma na imię syrenka?",
+      "question": "Јак ма на имиѧ сыренка?",
       "answers": [
-        "Marina",
-        "Ariel",
-        "Kropeia",
-        "Zosia"
+        "Марина",
+        "Ариел",
+        "Кропеиа",
+        "Зосиа"
       ],
       "correctIndex": 0,
-      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+      "explanation": "Најмłодсза цóрка Крóла Мóрз назыwа сиѧ Марина."
     },
     {
       "type": "single_choice",
-      "question": "Co Marina oddaje wiedźmie?",
+      "question": "Цо Марина оддаје wиедźмие?",
       "answers": [
-        "Głos",
-        "Ogon",
-        "Korona",
-        "Perły"
+        "Гłос",
+        "Огон",
+        "Корона",
+        "Перłы"
       ],
       "correctIndex": 0,
-      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+      "explanation": "Wиедźма каżе оддаћ пиѧкны гłос за напóј змиениајąцы огон w ноги."
     },
     {
       "type": "single_choice",
-      "question": "Kogo Marina ratuje podczas burzy?",
+      "question": "Кого Марина ратује подцзас бурзы?",
       "answers": [
-        "Księcia",
-        "Króla",
-        "Rybaka",
-        "Kapitana"
+        "Ксиѧциа",
+        "Крóла",
+        "Рыбака",
+        "Капитана"
       ],
       "correctIndex": 0,
-      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+      "explanation": "Ратује тонąцего ксиѧциа и wыноси на брзег."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marina nie robi z nożem?",
+      "question": "Цзего Марина ние роби з ноżем?",
       "answers": [
-        "Nie zabija księcia",
-        "Zabija wiedźmę",
-        "Rzuca w siostry",
-        "Niszczy statek"
+        "Ние забија ксиѧциа",
+        "Забија wиедźмѧ",
+        "Рзуца w сиостры",
+        "Нисзцзы статек"
       ],
       "correctIndex": 0,
-      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+      "explanation": "Биерзе нóż, лецз ние забија śпиąцего ксиѧциа — циснѧłа го w фале."
     },
     {
       "type": "single_choice",
-      "question": "Kim Marina zostaje na końcu?",
+      "question": "Ким Марина зостаје на коńцу?",
       "answers": [
-        "Córką powietrza",
-        "Królową mórz",
-        "Człowiekiem z duszą od razu",
-        "Pianą na zawsze"
+        "Цóркą поwиетрза",
+        "Крóлоwą мóрз",
+        "Цзłоwиекием з дусзą од разу",
+        "Пианą на заwсзе"
       ],
       "correctIndex": 0,
-      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+      "explanation": "Стаје сиѧ цóркą поwиетрза — моżе здобыћ дусзѧ цзыниąц добро."
     }
   ]
 }

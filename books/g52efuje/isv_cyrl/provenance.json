@@ -1,0 +1,27 @@
+{
+  "packId": "g52efuje:isv_cyrl",
+  "bookId": "g52efuje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Фикција инспирована проблемом узнавања тајванских паспортов; внєшна политика како фон."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "7EmJWtoWz9w"
+    }
+  ],
+  "revisionNotes": "Пхасе 119 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "г52ефује:пл",
+  "translationSourceVersion": "1.1.0"
+}

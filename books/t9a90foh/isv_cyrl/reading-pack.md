@@ -21,9 +21,6 @@
 **Estimated reading time:** 3 minutes  
 
 **Original language:** isv_cyrl  
-**Translation status:** machine  
-**Translation source:** t9a90foh:isv  
-**Translation source version:** 1.0.1  
 **Translation summary:** Меџусловјанска литература преклад полској редакции "ИИ. Оцзы, ктóре ние wидзą" — официалноје издање Цоллецтион Зеро.  
 
 **Writing system:** glagolitic  
@@ -34,6 +31,9 @@
 
 **Editorial notes:** Актуализовано из каталожного сравненија Фазы 75; каталожныј манускрипт јесть основным источником.
 
+**Translation status:** мацхине  
+**Translation source:** т9а90фох:пл  
+**Translation source version:** 1.0.1  
 
 **Cover family:** short_story
 

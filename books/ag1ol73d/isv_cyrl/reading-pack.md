@@ -24,9 +24,6 @@
 **Historical period:** цонтемпорары  
 
 **Original language:** isv_cyrl  
-**Translation status:** machine  
-**Translation source:** ag1ol73d:isv  
-**Translation source version:** 1.1.0  
 **Translation summary:** Меџусловјанска литература преклад полској редакции "Иконка на пулпицие" — официалноје издање Цоллецтион Еигхт.  
 
 **Writing system:** glagolitic  
@@ -43,6 +40,9 @@
 
 **Inspiration:** Метафора иконкы; терапија пар.
 
+**Translation status:** мацхине  
+**Translation source:** аг1ол73д:пл  
+**Translation source version:** 1.1.0  
 
 ---
 

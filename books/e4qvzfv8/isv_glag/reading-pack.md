@@ -1,4 +1,4 @@
-# 🌌 Pierwszy lot na Marsa
+# 🌌 Ⱂⰹⰵⱃwⱄⰸⱐ ⰾⱁⱅ ⱀⰰ Ⰿⰰⱃⱄⰰ
 
 ## Metadata
 
@@ -8,9 +8,9 @@
 **Version:** 1.0.0  
 **Edition version:** 1.0.0  
 
-**Title:** 🌌 Ⱂⱃⰲⱏⰹ Ⰾⰵⱅ ⱀⰰ Ⰿⰰⱃⱄ  
-**Subtitle:** Ⰻⰸ ⰽⱁⰾⰵⰽⱌⰺⰵ CollectionZero  
-**Blurb:** ⰏⰰⰾⰟⰺ Ⰿⰰⱃⰵⰽ ⰳⰾⰵⰴⰰ ⱂⱃⰲⰵ ⱁⰱⱃⰰⰸⱏⰺ Ⰿⰰⱃⱄⰰ ⰺⰸ Ⰲⰺⰽⰺⱀⰳⰰ, ⰰ ⰲⰸⱃⱁⱄⰾⱏⰺ ⰲⱁⰸⰲⱃⰰⱋⰰⰵⱅ ⱄⰵ ⰲ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰺⱓ, ⰳⰴⰵ ⰵⱎⱋⰵ ⰰⱀⰰⰾⰺⰸⱆⰵ ⱄⰽⰰⰾⱏⰺ ⰺⰸ Ⱍⱃⰲⰵⱀⱁⰼ ⱂⰾⰰⱀⰵⱅⱏⰺ. Ⰿⰵⰶⰴⱆ ⰴⰵⱅⰺⱀⱄⰽⰺⰿⰺ ⰿⰵⱍⱅⰰⰿⰺ ⰺ ⰴⱁⱀⰵⱄⰵⱀⰺⱝⰿⰺ ⱁ Cheyava Falls ⱄⱅⱁⰼⱅⰺ ⰵⰴⱀⱁ ⰲⱁⱂⱃⱁⱄ: ⰵⱄⰿⱏⰺ ⰾⰻ ⱄⰰⰿⰺ ⰲⱁ ⰲⱄⰵⰾⰵⱀⱀⱁⰼ z Vikinga, a dorosły wraca do laboratorium, gdzie wciąż analizuje skały z Czerwonej Planety. Między dziecięcymi marzeniami a doniesieniami o Cheyava Falls pojawia się pytanie, które nie chce odejść: czy jesteśmy sami we wszechświecie?
+**Title:** 🌌 Ⱂⱃⰲⱐⰺ Ⰾⰵⱅ ⱀⰰ Ⰿⰰⱃⱄ  
+**Subtitle:** Ⰹⰸ ⰽⱁⰾⰵⰽⱌⰹⰺⰵ ⰜⱁⰾⰾⰵⱌⱅⰹⱁⱀⰈⰵⱃⱁ  
+**Blurb:** Ⰿⰰⰾⱐⰺ Ⰿⰰⱃⰵⰽ ⰳⰾⰵⰴⰰ ⱂⱃⰲⰵ ⱁⰱⱃⰰⰸⱐ Ⰿⰰⱃⱄⰰ ⰹⰸ Ⰲⰹⰽⰹⱀⰳⰰ, ⰰ ⰲⰸⱃⱁⱄⰾⱐⰺ ⰲⱁⰸⰲⱃⰰŝⰰⰺⰵⱅ ⱄⰵ ⰲ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⰺⱆ, ⰳⰴⰵ ⰺⰵⱎⱍⰵ ⰰⱀⰰⰾⰹⰸⱆⰺⰵ ⱄⰽⰰⰾⱐ ⰹⰸ Ⱍⱃⰲⰵⱀⱁⰺ ⱂⰾⰰⱀⰵⱅⱐ. Ⰿⰵⰶⰴⱆ ⰴⱑⱅⰹⱀⱄⰽⱐⰿⰹ ⰿⰵⱍⱅⰰⰿⰹ ⰹ ⰴⱁⱀⰵⱄⰵⱀⰹⰺⰰⰿⰹ ⱁ Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ ⱄⱅⱁⰺⱅⰹ ⰺⰵⰴⱀⰵ ⰲⱁⱂⱃⱁⱄ: ⰺⰵⱄⰿⱐ ⰾⰹ ⱄⰰⰿⰹ ⰲⱁ ⰲⱄⰵⰾⰵⱀⱀⱁⰺ? ⰸ Ⰲⰹⰽⰹⱀⰳⰰ, ⰰ ⰴⱁⱃⱁⱄłⱐ wⱃⰰⱌⰰ ⰴⱁ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⱆⰿ, ⰳⰴⰸⰹⰵ wⱌⰹąż ⰰⱀⰰⰾⰹⰸⱆⰺⰵ ⱄⰽⰰłⱐ ⰸ Ⱌⰸⰵⱃwⱁⱀⰵⰺ Ⱂⰾⰰⱀⰵⱅⱐ. Ⰿⰹⱔⰴⰸⱐ ⰴⰸⰹⰵⱌⰹⱔⱌⱐⰿⰹ ⰿⰰⱃⰸⰵⱀⰹⰰⰿⰹ ⰰ ⰴⱁⱀⰹⰵⱄⰹⰵⱀⰹⰰⰿⰹ ⱁ Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ ⱂⱁⰺⰰwⰹⰰ ⱄⰹⱔ ⱂⱐⱅⰰⱀⰹⰵ, ⰽⱅóⱃⰵ ⱀⰹⰵ ⱌⱈⱌⰵ ⱁⰴⰵⰺśⱍ: ⱌⰸⱐ ⰺⰵⱄⱅⰵśⰿⱐ ⱄⰰⰿⰹ wⰵ wⱄⰸⰵⱌⱈśwⰹⰵⱌⰹⰵ?
 
 **Genres:** popular_science  
 **Series:** Collection Zero  
@@ -20,14 +20,14 @@
 **Reader difficulty:** ★★☆☆☆  
 **Estimated reading time:** 5 minutes  
 
-**Original language:** isv-glag  
+**Original language:** isv_glag  
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 3  
 
-**Tags:** isv_glag, popular_science, translation, pierwszy-lot-na-marsa  
+**Tags:** isv, popular_science, translation, pierwszy-lot-na-marsa  
 
-**Editorial notes:** Migrated from CollectionZero catalog (Phase 75).
+**Editorial notes:** Ⰿⰹⰳⱃⰰⱅⰵⰴ ⱇⱃⱁⰿ ⰜⱁⰾⰾⰵⱌⱅⰹⱁⱀⰈⰵⱃⱁ ⱌⰰⱅⰰⰾⱁⰳ (Ⱂⱈⰰⱄⰵ 75).
 
 **Cover family:** popular_science
 
@@ -50,7 +50,7 @@
 
 | Version | Date | Note |
 |
-| 1.0.0 | 2026-07-30 | Interslavic (Glagolitic) translation edition |
+| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
 ---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
 
@@ -58,201 +58,201 @@
 
 ### Source 1: YouTube reference
 
-**Author:** YouTube contributors  
+**Author:** ⰠⱁⱆⰕⱆⰱⰵ ⱌⱁⱀⱅⱃⰹⰱⱆⱅⱁⱃⱄ  
 **URL:** https://www.youtube.com/watch?v=HfXR5ME4byc  
 **License:** YouTube Terms (reference only)  
 **Retrieval date:** 2025-10-28  
 **Availability:** licensed  
 **Deprecated:** no  
-**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+**Editor notes:** Ⰲⰰⱆⰾⱅ ⱄⱁⱆⱃⱌⰵ ⰱⰾⱁⱌⰽ; ⱅⰵxⱅ ⰹⱄ ⰵⰴⰹⱅⱁⱃⰹⰰⰾ ⰰⰴⰰⱂⱅⰰⱅⰹⱁⱀ, ⱀⱁⱅ ⱅⱃⰰⱀⱄⱌⱃⰹⱂⱅ.
 
 ### Source 2: YouTube reference
 
-**Author:** YouTube contributors  
+**Author:** ⰠⱁⱆⰕⱆⰱⰵ ⱌⱁⱀⱅⱃⰹⰱⱆⱅⱁⱃⱄ  
 **URL:** https://www.youtube.com/watch?v=c7owS-PRE0s  
 **License:** YouTube Terms (reference only)  
 **Retrieval date:** 2026-04-06  
 **Availability:** licensed  
 **Deprecated:** no  
-**Editor notes:** Vault source block; text is editorial adaptation, not transcript.
+**Editor notes:** Ⰲⰰⱆⰾⱅ ⱄⱁⱆⱃⱌⰵ ⰱⰾⱁⱌⰽ; ⱅⰵxⱅ ⰹⱄ ⰵⰴⰹⱅⱁⱃⰹⰰⰾ ⰰⰴⰰⱂⱅⰰⱅⰹⱁⱀ, ⱀⱁⱅ ⱅⱃⰰⱀⱄⱌⱃⰹⱂⱅ.
 
 
 ## Text
 
-**PIERWSZY LOT NA MARSA**
+**ⰒⰉⰅⰓWⰔⰈⰠ ⰎⰑⰕ ⰐⰀ ⰏⰀⰓⰔⰀ**
 
-Marek miał osiem lat, gdy po raz pierwszy usłyszał o Marsie. Było to w 1976 roku, kiedy sonda Viking przesłała na Ziemię pierwsze zdjęcia z czerwonej planety. Jego ojciec, nauczyciel fizyki w warszawskim liceum, rozłożył na podłodze gazetę z wydrukowaną fotografią i powiedział: "Patrz, synku. To jest Mars. I pewnego dnia ktoś tam poleci."
+Ⰿⰰⱃⰵⰽ ⰿⰹⰰł ⱁⱄⰹⰵⰿ ⰾⰰⱅ, ⰳⰴⱐ ⱂⱁ ⱃⰰⰸ ⱂⰹⰵⱃwⱄⰸⱐ ⱆⱄłⱐⱄⰸⰰł ⱁ Ⰿⰰⱃⱄⰹⰵ. Ⰱⱐłⱁ ⱅⱁ w 1976 ⱃⱁⰽⱆ, ⰽⰹⰵⰴⱐ ⱄⱁⱀⰴⰰ Ⰲⰹⰽⰹⱀⰳ ⱂⱃⰸⰵⱄłⰰłⰰ ⱀⰰ Ⰸⰹⰵⰿⰹⱔ ⱂⰹⰵⱃwⱄⰸⰵ ⰸⰴⰺⱔⱌⰹⰰ ⰸ ⱌⰸⰵⱃwⱁⱀⰵⰺ ⱂⰾⰰⱀⰵⱅⱐ. Ⰺⰵⰳⱁ ⱁⰺⱌⰹⰵⱌ, ⱀⰰⱆⱌⰸⱐⱌⰹⰵⰾ ⱇⰹⰸⱐⰽⰹ w wⰰⱃⱄⰸⰰwⱄⰽⰹⰿ ⰾⰹⱌⰵⱆⰿ, ⱃⱁⰸłⱁżⱐł ⱀⰰ ⱂⱁⰴłⱁⰴⰸⰵ ⰳⰰⰸⰵⱅⱔ ⰸ wⱐⰴⱃⱆⰽⱁwⰰⱀą ⱇⱁⱅⱁⰳⱃⰰⱇⰹą ⰹ ⱂⱁwⰹⰵⰴⰸⰹⰰł: "Ⱂⰰⱅⱃⰸ, ⱄⱐⱀⰽⱆ. Ⱅⱁ ⰺⰵⱄⱅ Ⰿⰰⱃⱄ. Ⰹ ⱂⰵwⱀⰵⰳⱁ ⰴⱀⰹⰰ ⰽⱅⱁś ⱅⰰⰿ ⱂⱁⰾⰵⱌⰹ."
 
-Marek spojrzał na zdjęcie. Zobaczył pustynię, kamienie, dziwne formacje skalne – i coś, co wyglądało jak twarz.
+Ⰿⰰⱃⰵⰽ ⱄⱂⱁⰺⱃⰸⰰł ⱀⰰ ⰸⰴⰺⱔⱌⰹⰵ. Ⰸⱁⰱⰰⱌⰸⱐł ⱂⱆⱄⱅⱐⱀⰹⱔ, ⰽⰰⰿⰹⰵⱀⰹⰵ, ⰴⰸⰹwⱀⰵ ⱇⱁⱃⰿⰰⱌⰺⰵ ⱄⰽⰰⰾⱀⰵ – ⰹ ⱌⱁś, ⱌⱁ wⱐⰳⰾąⰴⰰłⱁ ⰺⰰⰽ ⱅwⰰⱃⰸ.
 
-– To twarz – powiedział, wskazując palcem.
+– Ⱅⱁ ⱅwⰰⱃⰸ – ⱂⱁwⰹⰵⰴⰸⰹⰰł, wⱄⰽⰰⰸⱆⰺąⱌ ⱂⰰⰾⱌⰵⰿ.
 
-Ojciec uśmiechnął się.
+Ⱁⰺⱌⰹⰵⱌ ⱆśⰿⰹⰵⱌⱈⱀął ⱄⰹⱔ.
 
-– To tylko gra świateł i cieni. Ale wiesz co? Kiedyś ludzie myśleli, że na Marsie są kanały. Że Marsjanie zbudowali cały system nawadniający, żeby ratować swoją planetę przed wyschnięciem.
+– Ⱅⱁ ⱅⱐⰾⰽⱁ ⰳⱃⰰ śwⰹⰰⱅⰵł ⰹ ⱌⰹⰵⱀⰹ. Ⰰⰾⰵ wⰹⰵⱄⰸ ⱌⱁ? Ⰽⰹⰵⰴⱐś ⰾⱆⰴⰸⰹⰵ ⰿⱐśⰾⰵⰾⰹ, żⰵ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ ⱄą ⰽⰰⱀⰰłⱐ. Żⰵ Ⰿⰰⱃⱄⰺⰰⱀⰹⰵ ⰸⰱⱆⰴⱁwⰰⰾⰹ ⱌⰰłⱐ ⱄⱐⱄⱅⰵⰿ ⱀⰰwⰰⰴⱀⰹⰰⰺąⱌⱐ, żⰵⰱⱐ ⱃⰰⱅⱁwⰰⱍ ⱄwⱁⰺą ⱂⰾⰰⱀⰵⱅⱔ ⱂⱃⰸⰵⰴ wⱐⱄⱌⱈⱀⰹⱔⱌⰹⰵⰿ.
 
-– A byli?
+– Ⰰ ⰱⱐⰾⰹ?
 
-– Nie. To był błąd. Ale ten błąd sprawił, że ludzie zaczęli marzyć. I to marzenie jest ważniejsze niż prawda o kanałach.
+– Ⱀⰹⰵ. Ⱅⱁ ⰱⱐł ⰱłąⰴ. Ⰰⰾⰵ ⱅⰵⱀ ⰱłąⰴ ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ. Ⰹ ⱅⱁ ⰿⰰⱃⰸⰵⱀⰹⰵ ⰺⰵⱄⱅ wⰰżⱀⰹⰵⰺⱄⰸⰵ ⱀⰹż ⱂⱃⰰwⰴⰰ ⱁ ⰽⰰⱀⰰłⰰⱌⱈ.
 
-Marek nie zrozumiał wtedy tych słów. Ale zapamiętał je na całe życie.
-
----
-
-Czterdzieści lat później Marek był już naukowcem. Nie astrofizykiem, nie astronomem – ale kimś, kto spędził dwie dekady na analizie danych z marsjańskich łazików. Pracował w laboratorium, które badało próbki skalne z Czerwonej Planety – te, które przybyły na Ziemię w meteorytach, i te, które dopiero czekały na sprowadzenie.
-
-W grudniu 1984 roku na Antarktydzie znaleziono meteoryt. Nikt wtedy nie wiedział, skąd pochodzi. Przez dwanaście lat leżał w magazynie, zapomniany, pokryty kurzem. Aż w 1996 roku grupa naukowców z NASA ogłosiła coś, co wstrząsnęło światem.
-
-Marek pamiętał ten dzień. Siedział w swoim pierwszym mieszkaniu, pił kawę i patrzył w telewizor, w którym prezydent Stanów Zjednoczonych Bill Clinton mówił o możliwych śladach życia na Marsie.
-
-– To był moment, w którym wszystko się zmieniło – powiedział Marek do swojej asystentki, gdy wspominał tamte czasy. – Nagle przestaliśmy pytać "czy" i zaczęliśmy pytać "gdzie" i "kiedy".
-
-– I co wtedy zrobiliście?
-
-– Zaczęliśmy szukać. I szukamy do dziś.
+Ⰿⰰⱃⰵⰽ ⱀⰹⰵ ⰸⱃⱁⰸⱆⰿⰹⰰł wⱅⰵⰴⱐ ⱅⱐⱌⱈ ⱄłów. Ⰰⰾⰵ ⰸⰰⱂⰰⰿⰹⱔⱅⰰł ⰺⰵ ⱀⰰ ⱌⰰłⰵ żⱐⱌⰹⰵ.
 
 ---
 
-Marek przez lata śledził doniesienia o marsjańskim życiu. Było ich wiele – i zawsze kończyły się rozczarowaniem.
+Ⱌⰸⱅⰵⱃⰴⰸⰹⰵśⱌⰹ ⰾⰰⱅ ⱂóźⱀⰹⰵⰺ Ⰿⰰⱃⰵⰽ ⰱⱐł ⰺⱆż ⱀⰰⱆⰽⱁwⱌⰵⰿ. Ⱀⰹⰵ ⰰⱄⱅⱃⱁⱇⰹⰸⱐⰽⰹⰵⰿ, ⱀⰹⰵ ⰰⱄⱅⱃⱁⱀⱁⰿⰵⰿ – ⰰⰾⰵ ⰽⰹⰿś, ⰽⱅⱁ ⱄⱂⱔⰴⰸⰹł ⰴwⰹⰵ ⰴⰵⰽⰰⰴⱐ ⱀⰰ ⰰⱀⰰⰾⰹⰸⰹⰵ ⰴⰰⱀⱐⱌⱈ ⰸ ⰿⰰⱃⱄⰺⰰńⱄⰽⰹⱌⱈ łⰰⰸⰹⰽów. Ⱂⱃⰰⱌⱁwⰰł w ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⱆⰿ, ⰽⱅóⱃⰵ ⰱⰰⰴⰰłⱁ ⱂⱃóⰱⰽⰹ ⱄⰽⰰⰾⱀⰵ ⰸ Ⱌⰸⰵⱃwⱁⱀⰵⰺ Ⱂⰾⰰⱀⰵⱅⱐ – ⱅⰵ, ⰽⱅóⱃⰵ ⱂⱃⰸⱐⰱⱐłⱐ ⱀⰰ Ⰸⰹⰵⰿⰹⱔ w ⰿⰵⱅⰵⱁⱃⱐⱅⰰⱌⱈ, ⰹ ⱅⰵ, ⰽⱅóⱃⰵ ⰴⱁⱂⰹⰵⱃⱁ ⱌⰸⰵⰽⰰłⱐ ⱀⰰ ⱄⱂⱃⱁwⰰⰴⰸⰵⱀⰹⰵ.
 
-Meteoryt ALH84001, który według niektórych badaczy zawierał skamieniałe bakterie, został ostatecznie uznany za wytwór procesów geochemicznych. "Twarz" z Cydonii okazała się zwykłym wzgórzem, gdy sonda Mars Global Surveyor zrobiła zdjęcia w wyższej rozdzielczości. Kanały, które widział Schiaparelli, były tylko złudzeniem optycznym.
+W ⰳⱃⱆⰴⱀⰹⱆ 1984 ⱃⱁⰽⱆ ⱀⰰ Ⰰⱀⱅⰰⱃⰽⱅⱐⰴⰸⰹⰵ ⰸⱀⰰⰾⰵⰸⰹⱁⱀⱁ ⰿⰵⱅⰵⱁⱃⱐⱅ. Ⱀⰹⰽⱅ wⱅⰵⰴⱐ ⱀⰹⰵ wⰹⰵⰴⰸⰹⰰł, ⱄⰽąⰴ ⱂⱁⱌⱈⱁⰴⰸⰹ. Ⱂⱃⰸⰵⰸ ⰴwⰰⱀⰰśⱌⰹⰵ ⰾⰰⱅ ⰾⰵżⰰł w ⰿⰰⰳⰰⰸⱐⱀⰹⰵ, ⰸⰰⱂⱁⰿⱀⰹⰰⱀⱐ, ⱂⱁⰽⱃⱐⱅⱐ ⰽⱆⱃⰸⰵⰿ. Ⰰż w 1996 ⱃⱁⰽⱆ ⰳⱃⱆⱂⰰ ⱀⰰⱆⰽⱁwⱌów ⰸ ⰐⰀⰔⰀ ⱁⰳłⱁⱄⰹłⰰ ⱌⱁś, ⱌⱁ wⱄⱅⱃⰸąⱄⱀⱔłⱁ śwⰹⰰⱅⰵⰿ.
 
-– To tak, jakbyśmy gonili cień – powiedział kiedyś Marek na konferencji. – Ale nie możemy przestać, bo ten cień może być prawdziwy.
+Ⰿⰰⱃⰵⰽ ⱂⰰⰿⰹⱔⱅⰰł ⱅⰵⱀ ⰴⰸⰹⰵń. Ⱄⰹⰵⰴⰸⰹⰰł w ⱄwⱁⰹⰿ ⱂⰹⰵⱃwⱄⰸⱐⰿ ⰿⰹⰵⱄⰸⰽⰰⱀⰹⱆ, ⱂⰹł ⰽⰰwⱔ ⰹ ⱂⰰⱅⱃⰸⱐł w ⱅⰵⰾⰵwⰹⰸⱁⱃ, w ⰽⱅóⱃⱐⰿ ⱂⱃⰵⰸⱐⰴⰵⱀⱅ Ⱄⱅⰰⱀów Ⰸⰺⰵⰴⱀⱁⱌⰸⱁⱀⱐⱌⱈ Ⰱⰹⰾⰾ Ⱌⰾⰹⱀⱅⱁⱀ ⰿówⰹł ⱁ ⰿⱁżⰾⰹwⱐⱌⱈ śⰾⰰⰴⰰⱌⱈ żⱐⱌⰹⰰ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ.
 
-W 2008 roku lądownik Phoenix odkrył na Marsie nadchlorany. To wyjaśniło zagadkę eksperymentów Viking z 1976 roku, które sugerowały obecność życia. Okazało się, że to nie mikroorganizmy wydzielały radioaktywny dwutlenek węgla, tylko reakcje chemiczne w glebie. Kolejna nadzieja została rozwiana.
+– Ⱅⱁ ⰱⱐł ⰿⱁⰿⰵⱀⱅ, w ⰽⱅóⱃⱐⰿ wⱄⰸⱐⱄⱅⰽⱁ ⱄⰹⱔ ⰸⰿⰹⰵⱀⰹłⱁ – ⱂⱁwⰹⰵⰴⰸⰹⰰł Ⰿⰰⱃⰵⰽ ⰴⱁ ⱄwⱁⰺⰵⰺ ⰰⱄⱐⱄⱅⰵⱀⱅⰽⰹ, ⰳⰴⱐ wⱄⱂⱁⰿⰹⱀⰰł ⱅⰰⰿⱅⰵ ⱌⰸⰰⱄⱐ. – Ⱀⰰⰳⰾⰵ ⱂⱃⰸⰵⱄⱅⰰⰾⰹśⰿⱐ ⱂⱐⱅⰰⱍ "ⱌⰸⱐ" ⰹ ⰸⰰⱌⰸⱔⰾⰹśⰿⱐ ⱂⱐⱅⰰⱍ "ⰳⰴⰸⰹⰵ" ⰹ "ⰽⰹⰵⰴⱐ".
 
-Ale Marek nie poddawał się. Wierzył, że odpowiedź istnieje. Że gdzieś, w jakiejś skale, w jakimś osadzie, czeka na odkrycie.
+– Ⰹ ⱌⱁ wⱅⰵⰴⱐ ⰸⱃⱁⰱⰹⰾⰹśⱌⰹⰵ?
 
----
-
-W 2021 roku łazik Perseverance wylądował w kraterze Jezero. Marek był wtedy w swoim laboratorium, śledząc transmisję na żywo. Kiedy pierwsze zdjęcia dotarły na Ziemię, poczuł coś, czego nie czuł od lat – ekscytację.
-
-– To starożytna delta rzeki – powiedział do zespołu. – Jeśli kiedykolwiek było tam życie, to tutaj zostawiło ślady.
-
-Przez cztery lata Perseverance przemierzał krater, wiercił skały, zbierał próbki. I w zeszłym roku znalazł coś niezwykłego – skałę, którą nazwano Cheyava Falls. Była pokryta dziwnymi, okrągłymi plamami, które przypominały cętki lamparta.
-
-Marek spędził kolejny rok na analizie danych. Każdego ranka przychodził do laboratorium, odpalał komputer i sprawdzał najnowsze wyniki. Widział, jak jego zespół pracuje bez wytchnienia, szukając wyjaśnienia.
-
-I wreszcie, kilka tygodni temu, zadzwonił telefon.
-
-– Marek? – usłyszał głos szefa misji. – Mamy wyniki. Przyjdź.
+– Ⰸⰰⱌⰸⱔⰾⰹśⰿⱐ ⱄⰸⱆⰽⰰⱍ. Ⰹ ⱄⰸⱆⰽⰰⰿⱐ ⰴⱁ ⰴⰸⰹś.
 
 ---
 
-W sali konferencyjnej zebrali się wszyscy. Na ekranie wyświetlały się dane z instrumentów Perseverance – PIXL, SHERLOC, cała gama spektrometrów. Marek usiadł na swoim miejscu i patrzył, jak szef misji wstaje i zaczyna mówić.
+Ⰿⰰⱃⰵⰽ ⱂⱃⰸⰵⰸ ⰾⰰⱅⰰ śⰾⰵⰴⰸⰹł ⰴⱁⱀⰹⰵⱄⰹⰵⱀⰹⰰ ⱁ ⰿⰰⱃⱄⰺⰰńⱄⰽⰹⰿ żⱐⱌⰹⱆ. Ⰱⱐłⱁ ⰹⱌⱈ wⰹⰵⰾⰵ – ⰹ ⰸⰰwⱄⰸⰵ ⰽⱁńⱌⰸⱐłⱐ ⱄⰹⱔ ⱃⱁⰸⱌⰸⰰⱃⱁwⰰⱀⰹⰵⰿ.
 
-– Słuchajcie – powiedział. – Przeanalizowaliśmy wszystko. Skład chemiczny, strukturę minerałów, rozmieszczenie tych plam. I doszliśmy do wniosku, że nie ma żadnego znanego nam procesu geochemicznego, który mógłby to wyjaśnić.
+Ⰿⰵⱅⰵⱁⱃⱐⱅ ⰀⰎⰘ84001, ⰽⱅóⱃⱐ wⰵⰴłⱆⰳ ⱀⰹⰵⰽⱅóⱃⱐⱌⱈ ⰱⰰⰴⰰⱌⰸⱐ ⰸⰰwⰹⰵⱃⰰł ⱄⰽⰰⰿⰹⰵⱀⰹⰰłⰵ ⰱⰰⰽⱅⰵⱃⰹⰵ, ⰸⱁⱄⱅⰰł ⱁⱄⱅⰰⱅⰵⱌⰸⱀⰹⰵ ⱆⰸⱀⰰⱀⱐ ⰸⰰ wⱐⱅwóⱃ ⱂⱃⱁⱌⰵⱄów ⰳⰵⱁⱌⱈⰵⰿⰹⱌⰸⱀⱐⱌⱈ. "Ⱅwⰰⱃⰸ" ⰸ Ⱌⱐⰴⱁⱀⰹⰹ ⱁⰽⰰⰸⰰłⰰ ⱄⰹⱔ ⰸwⱐⰽłⱐⰿ wⰸⰳóⱃⰸⰵⰿ, ⰳⰴⱐ ⱄⱁⱀⰴⰰ Ⰿⰰⱃⱄ Ⰳⰾⱁⰱⰰⰾ Ⱄⱆⱃⰲⰵⱐⱁⱃ ⰸⱃⱁⰱⰹłⰰ ⰸⰴⰺⱔⱌⰹⰰ w wⱐżⱄⰸⰵⰺ ⱃⱁⰸⰴⰸⰹⰵⰾⱌⰸⱁśⱌⰹ. Ⰽⰰⱀⰰłⱐ, ⰽⱅóⱃⰵ wⰹⰴⰸⰹⰰł Ⱄⱌⱈⰹⰰⱂⰰⱃⰵⰾⰾⰹ, ⰱⱐłⱐ ⱅⱐⰾⰽⱁ ⰸłⱆⰴⰸⰵⱀⰹⰵⰿ ⱁⱂⱅⱐⱌⰸⱀⱐⰿ.
 
-Zapadła cisza.
+– Ⱅⱁ ⱅⰰⰽ, ⰺⰰⰽⰱⱐśⰿⱐ ⰳⱁⱀⰹⰾⰹ ⱌⰹⰵń – ⱂⱁwⰹⰵⰴⰸⰹⰰł ⰽⰹⰵⰴⱐś Ⰿⰰⱃⰵⰽ ⱀⰰ ⰽⱁⱀⱇⰵⱃⰵⱀⱌⰺⰹ. – Ⰰⰾⰵ ⱀⰹⰵ ⰿⱁżⰵⰿⱐ ⱂⱃⰸⰵⱄⱅⰰⱍ, ⰱⱁ ⱅⰵⱀ ⱌⰹⰵń ⰿⱁżⰵ ⰱⱐⱍ ⱂⱃⰰwⰴⰸⰹwⱐ.
 
-– To znaczy? – zapytał ktoś.
+W 2008 ⱃⱁⰽⱆ ⰾąⰴⱁwⱀⰹⰽ Ⱂⱈⱁⰵⱀⰹx ⱁⰴⰽⱃⱐł ⱀⰰ Ⰿⰰⱃⱄⰹⰵ ⱀⰰⰴⱌⱈⰾⱁⱃⰰⱀⱐ. Ⱅⱁ wⱐⰺⰰśⱀⰹłⱁ ⰸⰰⰳⰰⰴⰽⱔ ⰵⰽⱄⱂⰵⱃⱐⰿⰵⱀⱅów Ⰲⰹⰽⰹⱀⰳ ⰸ 1976 ⱃⱁⰽⱆ, ⰽⱅóⱃⰵ ⱄⱆⰳⰵⱃⱁwⰰłⱐ ⱁⰱⰵⱌⱀⱁśⱍ żⱐⱌⰹⰰ. Ⱁⰽⰰⰸⰰłⱁ ⱄⰹⱔ, żⰵ ⱅⱁ ⱀⰹⰵ ⰿⰹⰽⱃⱁⱁⱃⰳⰰⱀⰹⰸⰿⱐ wⱐⰴⰸⰹⰵⰾⰰłⱐ ⱃⰰⰴⰹⱁⰰⰽⱅⱐwⱀⱐ ⰴwⱆⱅⰾⰵⱀⰵⰽ wⱔⰳⰾⰰ, ⱅⱐⰾⰽⱁ ⱃⰵⰰⰽⱌⰺⰵ ⱌⱈⰵⰿⰹⱌⰸⱀⰵ w ⰳⰾⰵⰱⰹⰵ. Ⰽⱁⰾⰵⰺⱀⰰ ⱀⰰⰴⰸⰹⰵⰺⰰ ⰸⱁⱄⱅⰰłⰰ ⱃⱁⰸwⰹⰰⱀⰰ.
 
-– To znaczy, że to może być ślad życia. Nie mówię, że to na pewno. Ale nie możemy znaleźć innego wyjaśnienia.
-
-Marek poczuł, jak serce zaczyna mu bić szybciej. Przez chwilę nie mógł mówić. Potem wstał i zapytał:
-
-– Co z izotopami węgla?
-
-– To właśnie robimy. Sprowadzimy próbki na Ziemię – dodał szef misji. – Perseverance już je zapakował. Czekają na odbiór.
-
-– Kiedy?
-
-– Za kilka lat. Prawdopodobnie w latach 30. Jeśli wszystko pójdzie zgodnie z planem.
-
-Marek skinął głową. Wiedział, że to może być ostatnia misja, w której weźmie udział. Miał już sześćdziesiąt lat. Ale to nie miało znaczenia. Liczyło się to, że po raz pierwszy w historii ludzkości staliśmy na progu odpowiedzi na najstarsze pytanie: czy jesteśmy sami we wszechświecie?
+Ⰰⰾⰵ Ⰿⰰⱃⰵⰽ ⱀⰹⰵ ⱂⱁⰴⰴⰰwⰰł ⱄⰹⱔ. Wⰹⰵⱃⰸⱐł, żⰵ ⱁⰴⱂⱁwⰹⰵⰴź ⰹⱄⱅⱀⰹⰵⰺⰵ. Żⰵ ⰳⰴⰸⰹⰵś, w ⰺⰰⰽⰹⰵⰺś ⱄⰽⰰⰾⰵ, w ⰺⰰⰽⰹⰿś ⱁⱄⰰⰴⰸⰹⰵ, ⱌⰸⰵⰽⰰ ⱀⰰ ⱁⰴⰽⱃⱐⱌⰹⰵ.
 
 ---
 
-Tego wieczoru Marek wyszedł z laboratorium i spojrzał w niebo. Było czyste, gwiaździste. Gdzieś tam, w oddali, świeciła czerwona kropka – Mars.
+W 2021 ⱃⱁⰽⱆ łⰰⰸⰹⰽ Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ wⱐⰾąⰴⱁwⰰł w ⰽⱃⰰⱅⰵⱃⰸⰵ Ⰺⰵⰸⰵⱃⱁ. Ⰿⰰⱃⰵⰽ ⰱⱐł wⱅⰵⰴⱐ w ⱄwⱁⰹⰿ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⱆⰿ, śⰾⰵⰴⰸąⱌ ⱅⱃⰰⱀⱄⰿⰹⱄⰺⱔ ⱀⰰ żⱐwⱁ. Ⰽⰹⰵⰴⱐ ⱂⰹⰵⱃwⱄⰸⰵ ⰸⰴⰺⱔⱌⰹⰰ ⰴⱁⱅⰰⱃłⱐ ⱀⰰ Ⰸⰹⰵⰿⰹⱔ, ⱂⱁⱌⰸⱆł ⱌⱁś, ⱌⰸⰵⰳⱁ ⱀⰹⰵ ⱌⰸⱆł ⱁⰴ ⰾⰰⱅ – ⰵⰽⱄⱌⱐⱅⰰⱌⰺⱔ.
 
-Przypomniał sobie słowa ojca sprzed czterdziestu lat: "Kiedyś ludzie myśleli, że na Marsie są kanały. To był błąd. Ale ten błąd sprawił, że ludzie zaczęli marzyć."
+– Ⱅⱁ ⱄⱅⰰⱃⱁżⱐⱅⱀⰰ ⰴⰵⰾⱅⰰ ⱃⰸⰵⰽⰹ – ⱂⱁwⰹⰵⰴⰸⰹⰰł ⰴⱁ ⰸⰵⱄⱂⱁłⱆ. – Ⰺⰵśⰾⰹ ⰽⰹⰵⰴⱐⰽⱁⰾwⰹⰵⰽ ⰱⱐłⱁ ⱅⰰⰿ żⱐⱌⰹⰵ, ⱅⱁ ⱅⱆⱅⰰⰺ ⰸⱁⱄⱅⰰwⰹłⱁ śⰾⰰⰴⱐ.
 
-I wtedy zrozumiał, że to marzenie nigdy nie umarło. Przetrwało błędy, rozczarowania, fałszywe alarmy. Przetrwało nawet twarz z Marsa, która okazała się tylko grą świateł i cieni. Przetrwało, bo ludzie potrzebują wierzyć, że nie są sami.
+Ⱂⱃⰸⰵⰸ ⱌⰸⱅⰵⱃⱐ ⰾⰰⱅⰰ Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ ⱂⱃⰸⰵⰿⰹⰵⱃⰸⰰł ⰽⱃⰰⱅⰵⱃ, wⰹⰵⱃⱌⰹł ⱄⰽⰰłⱐ, ⰸⰱⰹⰵⱃⰰł ⱂⱃóⰱⰽⰹ. Ⰹ w ⰸⰵⱄⰸłⱐⰿ ⱃⱁⰽⱆ ⰸⱀⰰⰾⰰⰸł ⱌⱁś ⱀⰹⰵⰸwⱐⰽłⰵⰳⱁ – ⱄⰽⰰłⱔ, ⰽⱅóⱃą ⱀⰰⰸwⰰⱀⱁ Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ. Ⰱⱐłⰰ ⱂⱁⰽⱃⱐⱅⰰ ⰴⰸⰹwⱀⱐⰿⰹ, ⱁⰽⱃąⰳłⱐⰿⰹ ⱂⰾⰰⰿⰰⰿⰹ, ⰽⱅóⱃⰵ ⱂⱃⰸⱐⱂⱁⰿⰹⱀⰰłⱐ ⱌⱔⱅⰽⰹ ⰾⰰⰿⱂⰰⱃⱅⰰ.
 
-Marek wyjął telefon i napisał wiadomość do swojej córki, która studiowała astrobiologię na Uniwersytecie Warszawskim:
+Ⰿⰰⱃⰵⰽ ⱄⱂⱔⰴⰸⰹł ⰽⱁⰾⰵⰺⱀⱐ ⱃⱁⰽ ⱀⰰ ⰰⱀⰰⰾⰹⰸⰹⰵ ⰴⰰⱀⱐⱌⱈ. Ⰽⰰżⰴⰵⰳⱁ ⱃⰰⱀⰽⰰ ⱂⱃⰸⱐⱌⱈⱁⰴⰸⰹł ⰴⱁ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⱆⰿ, ⱁⰴⱂⰰⰾⰰł ⰽⱁⰿⱂⱆⱅⰵⱃ ⰹ ⱄⱂⱃⰰwⰴⰸⰰł ⱀⰰⰺⱀⱁwⱄⰸⰵ wⱐⱀⰹⰽⰹ. Wⰹⰴⰸⰹⰰł, ⰺⰰⰽ ⰺⰵⰳⱁ ⰸⰵⱄⱂół ⱂⱃⰰⱌⱆⰺⰵ ⰱⰵⰸ wⱐⱅⱌⱈⱀⰹⰵⱀⰹⰰ, ⱄⰸⱆⰽⰰⰺąⱌ wⱐⰺⰰśⱀⰹⰵⱀⰹⰰ.
 
-_"Mamy to. Albo prawie mamy. Za kilka lat poznasz odpowiedź. A jeśli to prawda – to ty i twoje pokolenie będziecie pierwsi, którzy dorosną w świecie, w którym wiemy, że życie istnieje poza Ziemią."_
+Ⰹ wⱃⰵⱄⰸⱌⰹⰵ, ⰽⰹⰾⰽⰰ ⱅⱐⰳⱁⰴⱀⰹ ⱅⰵⰿⱆ, ⰸⰰⰴⰸwⱁⱀⰹł ⱅⰵⰾⰵⱇⱁⱀ.
 
-Córka odpisała po chwili:
+– Ⰿⰰⱃⰵⰽ? – ⱆⱄłⱐⱄⰸⰰł ⰳłⱁⱄ ⱄⰸⰵⱇⰰ ⰿⰹⱄⰺⰹ. – Ⰿⰰⰿⱐ wⱐⱀⰹⰽⰹ. Ⱂⱃⰸⱐⰺⰴź.
 
-_"Tato, zawsze wiedziałam, że tam jest. Teraz tylko czekamy, aż nauka to potwierdzi."_
+---
 
-Marek uśmiechnął się. Włożył telefon do kieszeni i jeszcze raz spojrzał w niebo. Czerwona kropka wciąż świeciła.
+W ⱄⰰⰾⰹ ⰽⱁⱀⱇⰵⱃⰵⱀⱌⱐⰺⱀⰵⰺ ⰸⰵⰱⱃⰰⰾⰹ ⱄⰹⱔ wⱄⰸⱐⱄⱌⱐ. Ⱀⰰ ⰵⰽⱃⰰⱀⰹⰵ wⱐśwⰹⰵⱅⰾⰰłⱐ ⱄⰹⱔ ⰴⰰⱀⰵ ⰸ ⰹⱀⱄⱅⱃⱆⰿⰵⱀⱅów Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ – ⰒⰉXⰎ, ⰔⰘⰅⰓⰎⰑⰜ, ⱌⰰłⰰ ⰳⰰⰿⰰ ⱄⱂⰵⰽⱅⱃⱁⰿⰵⱅⱃów. Ⰿⰰⱃⰵⰽ ⱆⱄⰹⰰⰴł ⱀⰰ ⱄwⱁⰹⰿ ⰿⰹⰵⰺⱄⱌⱆ ⰹ ⱂⰰⱅⱃⰸⱐł, ⰺⰰⰽ ⱄⰸⰵⱇ ⰿⰹⱄⰺⰹ wⱄⱅⰰⰺⰵ ⰹ ⰸⰰⱌⰸⱐⱀⰰ ⰿówⰹⱍ.
 
-"Jeszcze nie teraz" – pomyślał. "Ale już wkrótce."
+– Ⱄłⱆⱌⱈⰰⰺⱌⰹⰵ – ⱂⱁwⰹⰵⰴⰸⰹⰰł. – Ⱂⱃⰸⰵⰰⱀⰰⰾⰹⰸⱁwⰰⰾⰹśⰿⱐ wⱄⰸⱐⱄⱅⰽⱁ. Ⱄⰽłⰰⰴ ⱌⱈⰵⰿⰹⱌⰸⱀⱐ, ⱄⱅⱃⱆⰽⱅⱆⱃⱔ ⰿⰹⱀⰵⱃⰰłów, ⱃⱁⰸⰿⰹⰵⱄⰸⱌⰸⰵⱀⰹⰵ ⱅⱐⱌⱈ ⱂⰾⰰⰿ. Ⰹ ⰴⱁⱄⰸⰾⰹśⰿⱐ ⰴⱁ wⱀⰹⱁⱄⰽⱆ, żⰵ ⱀⰹⰵ ⰿⰰ żⰰⰴⱀⰵⰳⱁ ⰸⱀⰰⱀⰵⰳⱁ ⱀⰰⰿ ⱂⱃⱁⱌⰵⱄⱆ ⰳⰵⱁⱌⱈⰵⰿⰹⱌⰸⱀⰵⰳⱁ, ⰽⱅóⱃⱐ ⰿóⰳłⰱⱐ ⱅⱁ wⱐⰺⰰśⱀⰹⱍ.
+
+Ⰸⰰⱂⰰⰴłⰰ ⱌⰹⱄⰸⰰ.
+
+– Ⱅⱁ ⰸⱀⰰⱌⰸⱐ? – ⰸⰰⱂⱐⱅⰰł ⰽⱅⱁś.
+
+– Ⱅⱁ ⰸⱀⰰⱌⰸⱐ, żⰵ ⱅⱁ ⰿⱁżⰵ ⰱⱐⱍ śⰾⰰⰴ żⱐⱌⰹⰰ. Ⱀⰹⰵ ⰿówⰹⱔ, żⰵ ⱅⱁ ⱀⰰ ⱂⰵwⱀⱁ. Ⰰⰾⰵ ⱀⰹⰵ ⰿⱁżⰵⰿⱐ ⰸⱀⰰⰾⰵźⱍ ⰹⱀⱀⰵⰳⱁ wⱐⰺⰰśⱀⰹⰵⱀⰹⰰ.
+
+Ⰿⰰⱃⰵⰽ ⱂⱁⱌⰸⱆł, ⰺⰰⰽ ⱄⰵⱃⱌⰵ ⰸⰰⱌⰸⱐⱀⰰ ⰿⱆ ⰱⰹⱍ ⱄⰸⱐⰱⱌⰹⰵⰺ. Ⱂⱃⰸⰵⰸ ⱌⱈwⰹⰾⱔ ⱀⰹⰵ ⰿóⰳł ⰿówⰹⱍ. Ⱂⱁⱅⰵⰿ wⱄⱅⰰł ⰹ ⰸⰰⱂⱐⱅⰰł:
+
+– Ⱌⱁ ⰸ ⰹⰸⱁⱅⱁⱂⰰⰿⰹ wⱔⰳⰾⰰ?
+
+– Ⱅⱁ włⰰśⱀⰹⰵ ⱃⱁⰱⰹⰿⱐ. Ⱄⱂⱃⱁwⰰⰴⰸⰹⰿⱐ ⱂⱃóⰱⰽⰹ ⱀⰰ Ⰸⰹⰵⰿⰹⱔ – ⰴⱁⰴⰰł ⱄⰸⰵⱇ ⰿⰹⱄⰺⰹ. – Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ ⰺⱆż ⰺⰵ ⰸⰰⱂⰰⰽⱁwⰰł. Ⱌⰸⰵⰽⰰⰺą ⱀⰰ ⱁⰴⰱⰹóⱃ.
+
+– Ⰽⰹⰵⰴⱐ?
+
+– Ⰸⰰ ⰽⰹⰾⰽⰰ ⰾⰰⱅ. Ⱂⱃⰰwⰴⱁⱂⱁⰴⱁⰱⱀⰹⰵ w ⰾⰰⱅⰰⱌⱈ 30. Ⰺⰵśⰾⰹ wⱄⰸⱐⱄⱅⰽⱁ ⱂóⰺⰴⰸⰹⰵ ⰸⰳⱁⰴⱀⰹⰵ ⰸ ⱂⰾⰰⱀⰵⰿ.
+
+Ⰿⰰⱃⰵⰽ ⱄⰽⰹⱀął ⰳłⱁwą. Wⰹⰵⰴⰸⰹⰰł, żⰵ ⱅⱁ ⰿⱁżⰵ ⰱⱐⱍ ⱁⱄⱅⰰⱅⱀⰹⰰ ⰿⰹⱄⰺⰰ, w ⰽⱅóⱃⰵⰺ wⰵźⰿⰹⰵ ⱆⰴⰸⰹⰰł. Ⰿⰹⰰł ⰺⱆż ⱄⰸⰵśⱍⰴⰸⰹⰵⱄⰹąⱅ ⰾⰰⱅ. Ⰰⰾⰵ ⱅⱁ ⱀⰹⰵ ⰿⰹⰰłⱁ ⰸⱀⰰⱌⰸⰵⱀⰹⰰ. Ⰾⰹⱌⰸⱐłⱁ ⱄⰹⱔ ⱅⱁ, żⰵ ⱂⱁ ⱃⰰⰸ ⱂⰹⰵⱃwⱄⰸⱐ w ⱈⰹⱄⱅⱁⱃⰹⰹ ⰾⱆⰴⰸⰽⱁśⱌⰹ ⱄⱅⰰⰾⰹśⰿⱐ ⱀⰰ ⱂⱃⱁⰳⱆ ⱁⰴⱂⱁwⰹⰵⰴⰸⰹ ⱀⰰ ⱀⰰⰺⱄⱅⰰⱃⱄⰸⰵ ⱂⱐⱅⰰⱀⰹⰵ: ⱌⰸⱐ ⰺⰵⱄⱅⰵśⰿⱐ ⱄⰰⰿⰹ wⰵ wⱄⰸⰵⱌⱈśwⰹⰵⱌⰹⰵ?
+
+---
+
+Ⱅⰵⰳⱁ wⰹⰵⱌⰸⱁⱃⱆ Ⰿⰰⱃⰵⰽ wⱐⱄⰸⰵⰴł ⰸ ⰾⰰⰱⱁⱃⰰⱅⱁⱃⰹⱆⰿ ⰹ ⱄⱂⱁⰺⱃⰸⰰł w ⱀⰹⰵⰱⱁ. Ⰱⱐłⱁ ⱌⰸⱐⱄⱅⰵ, ⰳwⰹⰰźⰴⰸⰹⱄⱅⰵ. Ⰳⰴⰸⰹⰵś ⱅⰰⰿ, w ⱁⰴⰴⰰⰾⰹ, śwⰹⰵⱌⰹłⰰ ⱌⰸⰵⱃwⱁⱀⰰ ⰽⱃⱁⱂⰽⰰ – Ⰿⰰⱃⱄ.
+
+Ⱂⱃⰸⱐⱂⱁⰿⱀⰹⰰł ⱄⱁⰱⰹⰵ ⱄłⱁwⰰ ⱁⰺⱌⰰ ⱄⱂⱃⰸⰵⰴ ⱌⰸⱅⰵⱃⰴⰸⰹⰵⱄⱅⱆ ⰾⰰⱅ: "Ⰽⰹⰵⰴⱐś ⰾⱆⰴⰸⰹⰵ ⰿⱐśⰾⰵⰾⰹ, żⰵ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ ⱄą ⰽⰰⱀⰰłⱐ. Ⱅⱁ ⰱⱐł ⰱłąⰴ. Ⰰⰾⰵ ⱅⰵⱀ ⰱłąⰴ ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ."
+
+Ⰹ wⱅⰵⰴⱐ ⰸⱃⱁⰸⱆⰿⰹⰰł, żⰵ ⱅⱁ ⰿⰰⱃⰸⰵⱀⰹⰵ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱆⰿⰰⱃłⱁ. Ⱂⱃⰸⰵⱅⱃwⰰłⱁ ⰱłⱔⰴⱐ, ⱃⱁⰸⱌⰸⰰⱃⱁwⰰⱀⰹⰰ, ⱇⰰłⱄⰸⱐwⰵ ⰰⰾⰰⱃⰿⱐ. Ⱂⱃⰸⰵⱅⱃwⰰłⱁ ⱀⰰwⰵⱅ ⱅwⰰⱃⰸ ⰸ Ⰿⰰⱃⱄⰰ, ⰽⱅóⱃⰰ ⱁⰽⰰⰸⰰłⰰ ⱄⰹⱔ ⱅⱐⰾⰽⱁ ⰳⱃą śwⰹⰰⱅⰵł ⰹ ⱌⰹⰵⱀⰹ. Ⱂⱃⰸⰵⱅⱃwⰰłⱁ, ⰱⱁ ⰾⱆⰴⰸⰹⰵ ⱂⱁⱅⱃⰸⰵⰱⱆⰺą wⰹⰵⱃⰸⱐⱍ, żⰵ ⱀⰹⰵ ⱄą ⱄⰰⰿⰹ.
+
+Ⰿⰰⱃⰵⰽ wⱐⰺął ⱅⰵⰾⰵⱇⱁⱀ ⰹ ⱀⰰⱂⰹⱄⰰł wⰹⰰⰴⱁⰿⱁśⱍ ⰴⱁ ⱄwⱁⰺⰵⰺ ⱌóⱃⰽⰹ, ⰽⱅóⱃⰰ ⱄⱅⱆⰴⰹⱁwⰰłⰰ ⰰⱄⱅⱃⱁⰱⰹⱁⰾⱁⰳⰹⱔ ⱀⰰ Ⱆⱀⰹwⰵⱃⱄⱐⱅⰵⱌⰹⰵ Wⰰⱃⱄⰸⰰwⱄⰽⰹⰿ:
+
+_"Ⰿⰰⰿⱐ ⱅⱁ. Ⰰⰾⰱⱁ ⱂⱃⰰwⰹⰵ ⰿⰰⰿⱐ. Ⰸⰰ ⰽⰹⰾⰽⰰ ⰾⰰⱅ ⱂⱁⰸⱀⰰⱄⰸ ⱁⰴⱂⱁwⰹⰵⰴź. Ⰰ ⰺⰵśⰾⰹ ⱅⱁ ⱂⱃⰰwⰴⰰ – ⱅⱁ ⱅⱐ ⰹ ⱅwⱁⰺⰵ ⱂⱁⰽⱁⰾⰵⱀⰹⰵ ⰱⱔⰴⰸⰹⰵⱌⰹⰵ ⱂⰹⰵⱃwⱄⰹ, ⰽⱅóⱃⰸⱐ ⰴⱁⱃⱁⱄⱀą w śwⰹⰵⱌⰹⰵ, w ⰽⱅóⱃⱐⰿ wⰹⰵⰿⱐ, żⰵ żⱐⱌⰹⰵ ⰹⱄⱅⱀⰹⰵⰺⰵ ⱂⱁⰸⰰ Ⰸⰹⰵⰿⰹą."_
+
+Ⱌóⱃⰽⰰ ⱁⰴⱂⰹⱄⰰłⰰ ⱂⱁ ⱌⱈwⰹⰾⰹ:
+
+_"Ⱅⰰⱅⱁ, ⰸⰰwⱄⰸⰵ wⰹⰵⰴⰸⰹⰰłⰰⰿ, żⰵ ⱅⰰⰿ ⰺⰵⱄⱅ. Ⱅⰵⱃⰰⰸ ⱅⱐⰾⰽⱁ ⱌⰸⰵⰽⰰⰿⱐ, ⰰż ⱀⰰⱆⰽⰰ ⱅⱁ ⱂⱁⱅwⰹⰵⱃⰴⰸⰹ."_
+
+Ⰿⰰⱃⰵⰽ ⱆśⰿⰹⰵⱌⱈⱀął ⱄⰹⱔ. Włⱁżⱐł ⱅⰵⰾⰵⱇⱁⱀ ⰴⱁ ⰽⰹⰵⱄⰸⰵⱀⰹ ⰹ ⰺⰵⱄⰸⱌⰸⰵ ⱃⰰⰸ ⱄⱂⱁⰺⱃⰸⰰł w ⱀⰹⰵⰱⱁ. Ⱌⰸⰵⱃwⱁⱀⰰ ⰽⱃⱁⱂⰽⰰ wⱌⰹąż śwⰹⰵⱌⰹłⰰ.
+
+"Ⰺⰵⱄⰸⱌⰸⰵ ⱀⰹⰵ ⱅⰵⱃⰰⰸ" – ⱂⱁⰿⱐśⰾⰰł. "Ⰰⰾⰵ ⰺⱆż wⰽⱃóⱅⱌⰵ."
 
 ---
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Ⱄⱂⱃⰰwⰴź ⰸⱃⱁⰸⱆⰿⰹⰵⱀⰹⰵ
 
 ### Question 1
 
-**Question:** Ile lat ma Marek, gdy słyszy o Marsie?
+**Question:** Ⰹⰾⰵ ⰾⰰⱅ ⰿⰰ Ⰿⰰⱃⰵⰽ, ⰳⰴⱐ ⱄłⱐⱄⰸⱐ ⱁ Ⰿⰰⱃⱄⰹⰵ?
 
 **Answers:**
-- A) Osiem
-- B) Szesnaście
-- C) Sześćdziesiąt
-- D) Trzydzieści
+- A) Ⱁⱄⰹⰵⰿ
+- B) Ⱄⰸⰵⱄⱀⰰśⱌⰹⰵ
+- C) Ⱄⰸⰵśⱍⰴⰸⰹⰵⱄⰹąⱅ
+- D) Ⱅⱃⰸⱐⰴⰸⰹⰵśⱌⰹ
 
 **Correct:** A
-**Explanation:** Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia.
-**Text reference:** Marek miał osiem lat
+**Explanation:** Ⰿⰰⱃⰵⰽ ⰿⰰ ⱁⱄⰹⰵⰿ ⰾⰰⱅ, ⰳⰴⱐ Ⰲⰹⰽⰹⱀⰳ ⱂⱃⰸⰵⱄⱐłⰰ ⱂⰹⰵⱃwⱄⰸⰵ ⰸⰴⰺⱔⱌⰹⰰ.
+**Text reference:** Ⰿⰰⱃⰵⰽ ⰿⰹⰰł ⱁⱄⰹⰵⰿ ⰾⰰⱅ
 
 ### Question 2
 
-**Question:** Co Marek widzi na pierwszym zdjęciu z Viking?
+**Question:** Ⱌⱁ Ⰿⰰⱃⰵⰽ wⰹⰴⰸⰹ ⱀⰰ ⱂⰹⰵⱃwⱄⰸⱐⰿ ⰸⰴⰺⱔⱌⰹⱆ ⰸ Ⰲⰹⰽⰹⱀⰳ?
 
 **Answers:**
-- A) Coś jak twarz
-- B) Kanały wody
-- C) Miasto
-- D) Statek kosmiczny
+- A) Ⱌⱁś ⰺⰰⰽ ⱅwⰰⱃⰸ
+- B) Ⰽⰰⱀⰰłⱐ wⱁⰴⱐ
+- C) Ⰿⰹⰰⱄⱅⱁ
+- D) Ⱄⱅⰰⱅⰵⰽ ⰽⱁⱄⰿⰹⱌⰸⱀⱐ
 
 **Correct:** A
-**Explanation:** Wskazuje formację skalną wyglądającą jak twarz.
-**Text reference:** To twarz
+**Explanation:** Wⱄⰽⰰⰸⱆⰺⰵ ⱇⱁⱃⰿⰰⱌⰺⱔ ⱄⰽⰰⰾⱀą wⱐⰳⰾąⰴⰰⰺąⱌą ⰺⰰⰽ ⱅwⰰⱃⰸ.
+**Text reference:** Ⱅⱁ ⱅwⰰⱃⰸ
 
 ### Question 3
 
-**Question:** Co odkrywa łazik Perseverance w kraterze Jezero?
+**Question:** Ⱌⱁ ⱁⰴⰽⱃⱐwⰰ łⰰⰸⰹⰽ Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ w ⰽⱃⰰⱅⰵⱃⰸⰵ Ⰺⰵⰸⰵⱃⱁ?
 
 **Answers:**
-- A) Starożytną deltę rzeki
-- B) Bazę obcych
-- C) Lodowiec
-- D) Wulkan
+- A) Ⱄⱅⰰⱃⱁżⱐⱅⱀą ⰴⰵⰾⱅⱔ ⱃⰸⰵⰽⰹ
+- B) Ⰱⰰⰸⱔ ⱁⰱⱌⱐⱌⱈ
+- C) Ⰾⱁⰴⱁwⰹⰵⱌ
+- D) Wⱆⰾⰽⰰⱀ
 
 **Correct:** A
-**Explanation:** Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia.
-**Text reference:** starożytna delta rzeki
+**Explanation:** Ⰿⰰⱃⰵⰽ ⰿówⰹ ⱁ ⱄⱅⰰⱃⱁżⱐⱅⱀⰵⰺ ⰴⰵⰾⱌⰹⰵ ⱃⰸⰵⰽⰹ — ⰴⱁⰱⱃⱐⰿ ⰿⰹⰵⰺⱄⱌⱆ ⱀⰰ śⰾⰰⰴⱐ żⱐⱌⰹⰰ.
+**Text reference:** ⱄⱅⰰⱃⱁżⱐⱅⱀⰰ ⰴⰵⰾⱅⰰ ⱃⰸⰵⰽⰹ
 
 ### Question 4
 
-**Question:** Jak nazywa się skała z okrągłymi plamami?
+**Question:** Ⰺⰰⰽ ⱀⰰⰸⱐwⰰ ⱄⰹⱔ ⱄⰽⰰłⰰ ⰸ ⱁⰽⱃąⰳłⱐⰿⰹ ⱂⰾⰰⰿⰰⰿⰹ?
 
 **Answers:**
-- A) Cheyava Falls
-- B) ALH84001
-- C) Twarz z Cydonii
-- D) Viking Rock
+- A) Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ
+- B) ⰀⰎⰘ84001
+- C) Ⱅwⰰⱃⰸ ⰸ Ⱌⱐⰴⱁⱀⰹⰹ
+- D) Ⰲⰹⰽⰹⱀⰳ Ⱃⱁⱌⰽ
 
 **Correct:** A
-**Explanation:** Perseverance znalazł skałę Cheyava Falls.
-**Text reference:** Cheyava Falls
+**Explanation:** Ⱂⰵⱃⱄⰵⰲⰵⱃⰰⱀⱌⰵ ⰸⱀⰰⰾⰰⰸł ⱄⰽⰰłⱔ Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ.
+**Text reference:** Ⱌⱈⰵⱐⰰⰲⰰ Ⱇⰰⰾⰾⱄ
 
 ### Question 5
 
-**Question:** Co ojciec mówi o błędzie z kanałami na Marsie?
+**Question:** Ⱌⱁ ⱁⰺⱌⰹⰵⱌ ⰿówⰹ ⱁ ⰱłⱔⰴⰸⰹⰵ ⰸ ⰽⰰⱀⰰłⰰⰿⰹ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ?
 
 **Answers:**
-- A) Sprawił, że ludzie zaczęli marzyć
-- B) Udowodnił, że na Marsie jest życie
-- C) Zniszczył astronomię
-- D) Był ważniejszy niż prawda
+- A) Ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ
+- B) Ⱆⰴⱁwⱁⰴⱀⰹł, żⰵ ⱀⰰ Ⰿⰰⱃⱄⰹⰵ ⰺⰵⱄⱅ żⱐⱌⰹⰵ
+- C) Ⰸⱀⰹⱄⰸⱌⰸⱐł ⰰⱄⱅⱃⱁⱀⱁⰿⰹⱔ
+- D) Ⰱⱐł wⰰżⱀⰹⰵⰺⱄⰸⱐ ⱀⰹż ⱂⱃⰰwⰴⰰ
 
 **Correct:** A
-**Explanation:** Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć.
-**Text reference:** ludzie zaczęli marzyć
+**Explanation:** Ⱁⰺⱌⰹⰵⱌ ⰿówⰹ, żⰵ ⰱłąⰴ ⱄⱂⱃⰰwⰹł, żⰵ ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ.
+**Text reference:** ⰾⱆⰴⰸⰹⰵ ⰸⰰⱌⰸⱔⰾⰹ ⰿⰰⱃⰸⱐⱍ

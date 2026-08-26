@@ -1,0 +1,27 @@
+{
+  "packId": "jjtfph90:isv_cyrl",
+  "bookId": "jjtfph90",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанска литература преклад полској каноническој редакции (манусцрипт Цоллецтион Севен). Повныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "DRDpDAGHqxE"
+    }
+  ],
+  "revisionNotes": "Пхасе 102 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "јјтфпх90:пл",
+  "translationSourceVersion": "1.0.1"
+}

@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Ⰼⰵⱛⱃⱁⰻⰾⰲⰹⰰⰽⱁⰺⱑ ⰿⱀⰵⰲⰾⰴ ⰿⰾⰻⱁⰺⰾⰹ ⰺⰰⰽⰾⰽⰸⱇⰵⱁⰺⰾⰹ ⱀⰵⰴⰰⰺⱆⰸⰸ (ⰼⰰⰽⱃⱁⱆⱀⰸⰿⱂ Ⱆⰾⰻⰻⰵⱆⱂⰸⰾⰽ Ⱁⰵⰲⰵⰽ). Ⰿⰾⰲⰽⱑ ⱂⰵⰺⱁⱂ ⱁⰾⱅⱀⰰⰽⱑⰽ — ⰱⰵⰷ ⱁⰺⱀⰰⱇⰵⰽⰸⰹ."
+    "humanReview": "Ⰿⰵⱛⱆⱄⰾⱁⰲⰺⰰⱀⱄⰽⱐ ⱂⱃⰵⰲⱁⰴ ⱂⱁⰾⱄⰽⱁⰺ ⰽⰰⱀⱁⱀⰹⱍⰵⱄⰽⱁⰺ ⱃⰵⰴⰰⰽⱌⰹⰹ (ⰿⰰⱀⱆⱄⱌⱃⰹⱂⱅ Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⱄⰵⰲⰵⱀ). Ⱂⱁⰲⱀⱐ ⱅⰵⰽⱄⱅ ⱄⱁⱈⱃⰰⱀⱑⱀ — ⰱⰵⰸ ⱄⰽⱃⰰⱍⰵⱀⰹⰺ."
   },
   "sources": [
     {
@@ -20,8 +20,8 @@
       "description": "Collection Seven manuscript"
     }
   ],
-  "revisionNotes": "Ⰿⱅⰰⱁⰵ 97 ⰸⰼⰿⰾⱀⱂ. Ⱂⰵⰽ ⱁⰰⰼ ⰿⱀⰾwⰰⰴⰷąⱆⱑ ⱆⰾ w „Ⰷⰸⰵⰻⰾⰽⰵⰹ ⰿⰾśwⰸⰰⱆⰸⰵ” — ⱄⰾⱃⰽⰴⰵⱀ ⰴⰵⱆⱑⰴⱃⰹⰵ ⰾ ⱀⰵⰻⰰⱆⰹⰸ ⱁⰵⱀⰸⰸ.",
-  "translationStatus": "machine",
-  "translationSource": "dgdzvgpm:isv",
+  "revisionNotes": "Ⱂⱈⰰⱄⰵ 97 ⰹⰿⱂⱁⱃⱅ. Ⱅⰵⱀ ⱄⰰⰿ ⱂⱃⱁwⰰⰴⰸąⱌⱐ ⱌⱁ w „Ⰸⰹⰵⰾⱁⱀⰵⰺ ⱂⱁśwⰹⰰⱌⰹⰵ” — ⱇⱁⱆⱀⰴⰵⱃ ⰴⰵⱌⱐⰴⱆⰺⰵ ⱁ ⱃⰵⰾⰰⱌⰺⰹ ⱄⰵⱃⰹⰹ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⰴⰳⰴⰸⰲⰳⱂⰿ:ⱂⰾ",
   "translationSourceVersion": "1.0.0"
 }

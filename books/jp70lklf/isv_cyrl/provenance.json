@@ -1,0 +1,27 @@
+{
+  "packId": "jp70lklf:isv_cyrl",
+  "bookId": "jp70lklf",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Меџусловјанска литература преклад полској каноническој редакции (манусцрипт Цоллецтион Еигхт). Повныј текст сохранєн — без скрачениј."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "B1Xtmu1jgaE"
+    }
+  ],
+  "revisionNotes": "Пхасе 102 импорт.",
+  "translationStatus": "мацхине",
+  "translationSource": "јп70лклф:пл",
+  "translationSourceVersion": "1.0.0"
+}

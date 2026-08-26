@@ -1,0 +1,27 @@
+{
+  "packId": "jp70lklf:isv_glag",
+  "bookId": "jp70lklf",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⰿⰵⱛⱆⱄⰾⱁⰲⰺⰰⱀⱄⰽⰰ ⰾⰹⱅⰵⱃⰰⱅⱆⱃⰰ ⱂⱃⰵⰽⰾⰰⰴ ⱂⱁⰾⱄⰽⱁⰺ ⰽⰰⱀⱁⱀⰹⱍⰵⱄⰽⱁⰺ ⱃⰵⰴⰰⰽⱌⰹⰹ (ⰿⰰⱀⱆⱄⱌⱃⰹⱂⱅ Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ Ⰵⰹⰳⱈⱅ). Ⱂⱁⰲⱀⱐⰺ ⱅⰵⰽⱄⱅ ⱄⱁⱈⱃⰰⱀⱑⱀ — ⰱⰵⰸ ⱄⰽⱃⰰⱍⰵⱀⰹⰺ."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "B1Xtmu1jgaE"
+    }
+  ],
+  "revisionNotes": "Ⱂⱈⰰⱄⰵ 102 ⰹⰿⱂⱁⱃⱅ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⰺⱂ70ⰾⰽⰾⱇ:ⱂⰾ",
+  "translationSourceVersion": "1.0.0"
+}

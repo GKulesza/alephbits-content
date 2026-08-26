@@ -24,9 +24,6 @@
 **Historical period:** цонтемпорары  
 
 **Original language:** isv_cyrl  
-**Translation status:** machine  
-**Translation source:** cxn22pxg:isv  
-**Translation source version:** 1.0.0  
 **Translation summary:** Меџусловјанскы превод полској редакции "Спраwа" — официално издање Цоллецтион Нине.  
 
 **Writing system:** glagolitic  
@@ -48,6 +45,10 @@
 - дом
 
 **Editorial notes:** Меџусловјанскы превод полској каноническој редакции (манусцрипт Цоллецтион Нине). Повны текст сохранєн — без скрачениј.
+
+**Translation status:** мацхине  
+**Translation source:** цxн22пxг:пл  
+**Translation source version:** 1.0.0  
 
 **Inspiration:** Инцидент на УЕП в Познани и розглас справы од Павла Выжжыковского.
 

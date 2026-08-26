@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Спраwдź зрозумиение",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Ile lat ma Marek, gdy słyszy o Marsie?",
+      "question": "Иле лат ма Марек, гды сłысзы о Марсие?",
       "answers": [
-        "Osiem",
-        "Szesnaście",
-        "Sześćdziesiąt",
-        "Trzydzieści"
+        "Осием",
+        "Сзеснаśцие",
+        "Сзеśћдзиесиąт",
+        "Трзыдзиеśци"
       ],
       "correctIndex": 0,
-      "explanation": "Marek ma osiem lat, gdy Viking przesyła pierwsze zdjęcia."
+      "explanation": "Марек ма осием лат, гды Викинг прзесыłа пиерwсзе здјѧциа."
     },
     {
       "type": "single_choice",
-      "question": "Co Marek widzi na pierwszym zdjęciu z Viking?",
+      "question": "Цо Марек wидзи на пиерwсзым здјѧциу з Викинг?",
       "answers": [
-        "Coś jak twarz",
-        "Kanały wody",
-        "Miasto",
-        "Statek kosmiczny"
+        "Цоś јак тwарз",
+        "Канаłы wоды",
+        "Миасто",
+        "Статек космицзны"
       ],
       "correctIndex": 0,
-      "explanation": "Wskazuje formację skalną wyglądającą jak twarz."
+      "explanation": "Wсказује формацјѧ скалнą wыглąдајąцą јак тwарз."
     },
     {
       "type": "single_choice",
-      "question": "Co odkrywa łazik Perseverance w kraterze Jezero?",
+      "question": "Цо одкрыwа łазик Персеверанце w кратерзе Језеро?",
       "answers": [
-        "Starożytną deltę rzeki",
-        "Bazę obcych",
-        "Lodowiec",
-        "Wulkan"
+        "Староżытнą делтѧ рзеки",
+        "Базѧ обцыцх",
+        "Лодоwиец",
+        "Wулкан"
       ],
       "correctIndex": 0,
-      "explanation": "Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia."
+      "explanation": "Марек мówи о староżытнеј делцие рзеки — добрым миејсцу на śлады żыциа."
     },
     {
       "type": "single_choice",
-      "question": "Jak nazywa się skała z okrągłymi plamami?",
+      "question": "Јак назыwа сиѧ скаłа з окрąгłыми пламами?",
       "answers": [
-        "Cheyava Falls",
-        "ALH84001",
-        "Twarz z Cydonii",
-        "Viking Rock"
+        "Цхеыава Фаллс",
+        "АЛХ84001",
+        "Тwарз з Цыдонии",
+        "Викинг Роцк"
       ],
       "correctIndex": 0,
-      "explanation": "Perseverance znalazł skałę Cheyava Falls."
+      "explanation": "Персеверанце зналазł скаłѧ Цхеыава Фаллс."
     },
     {
       "type": "single_choice",
-      "question": "Co ojciec mówi o błędzie z kanałami na Marsie?",
+      "question": "Цо ојциец мówи о бłѧдзие з канаłами на Марсие?",
       "answers": [
-        "Sprawił, że ludzie zaczęli marzyć",
-        "Udowodnił, że na Marsie jest życie",
-        "Zniszczył astronomię",
-        "Był ważniejszy niż prawda"
+        "Спраwиł, żе лудзие зацзѧли марзыћ",
+        "Удоwодниł, żе на Марсие јест żыцие",
+        "Знисзцзыł астрономиѧ",
+        "Быł wаżниејсзы ниż праwда"
       ],
       "correctIndex": 0,
-      "explanation": "Ojciec mówi, że błąd sprawił, że ludzie zaczęli marzyć."
+      "explanation": "Ојциец мówи, żе бłąд спраwиł, żе лудзие зацзѧли марзыћ."
     }
   ]
 }

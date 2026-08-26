@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+    "humanReview": "Мултилингуал транслатион едитион. Соурце: пл.; wąтек офиары и ноżа — класыцзна баśń, ние графицзна прземоц."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "VubCpPqFNPM"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Пхасе 119 импорт."
 }

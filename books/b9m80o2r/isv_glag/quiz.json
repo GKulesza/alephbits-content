@@ -1,67 +1,67 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Ⱄⱂⱃⰰwⰴź ⰸⱃⱁⰸⱆⰿⰹⰵⱀⰹⰵ",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak pani Maria definiuje budowanie autorytetu?",
+      "question": "Ⰺⰰⰽ ⱂⰰⱀⰹ Ⰿⰰⱃⰹⰰ ⰴⰵⱇⰹⱀⰹⱆⰺⰵ ⰱⱆⰴⱁwⰰⱀⰹⰵ ⰰⱆⱅⱁⱃⱐⱅⰵⱅⱆ?",
       "answers": [
-        "Na nakazach i zakazach",
-        "Na „przepraszam” i przyznawaniu się do błędów",
-        "Na karach",
-        "Na nagrodach"
+        "Ⱀⰰ ⱀⰰⰽⰰⰸⰰⱌⱈ ⰹ ⰸⰰⰽⰰⰸⰰⱌⱈ",
+        "Ⱀⰰ „ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ” ⰹ ⱂⱃⰸⱐⰸⱀⰰwⰰⱀⰹⱆ ⱄⰹⱔ ⰴⱁ ⰱłⱔⰴów",
+        "Ⱀⰰ ⰽⰰⱃⰰⱌⱈ",
+        "Ⱀⰰ ⱀⰰⰳⱃⱁⰴⰰⱌⱈ"
       ],
       "correctIndex": 1,
-      "explanation": "„Autorytet… zbuduje się go na przepraszam”."
+      "explanation": "„Ⰰⱆⱅⱁⱃⱐⱅⰵⱅ… ⰸⰱⱆⰴⱆⰺⰵ ⱄⰹⱔ ⰳⱁ ⱀⰰ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⰿ”."
     },
     {
       "type": "single_choice",
-      "question": "Co Ania robi, gdy Marysia rozlewa mleko?",
+      "question": "Ⱌⱁ Ⰰⱀⰹⰰ ⱃⱁⰱⰹ, ⰳⰴⱐ Ⰿⰰⱃⱐⱄⰹⰰ ⱃⱁⰸⰾⰵwⰰ ⰿⰾⰵⰽⱁ?",
       "answers": [
-        "Krzyknie „Znowu?”",
-        "Przytula i proponuje wspólne wytarcie; chwali próbę samodzielności",
-        "Każe iść do pokoju",
-        "Ignoruje"
+        "Ⰽⱃⰸⱐⰽⱀⰹⰵ „Ⰸⱀⱁwⱆ?”",
+        "Ⱂⱃⰸⱐⱅⱆⰾⰰ ⰹ ⱂⱃⱁⱂⱁⱀⱆⰺⰵ wⱄⱂóⰾⱀⰵ wⱐⱅⰰⱃⱌⰹⰵ; ⱌⱈwⰰⰾⰹ ⱂⱃóⰱⱔ ⱄⰰⰿⱁⰴⰸⰹⰵⰾⱀⱁśⱌⰹ",
+        "Ⰽⰰżⰵ ⰹśⱍ ⰴⱁ ⱂⱁⰽⱁⰺⱆ",
+        "Ⰹⰳⱀⱁⱃⱆⰺⰵ"
       ],
       "correctIndex": 1,
-      "explanation": "Opisowe wsparcie zamiast strofowania."
+      "explanation": "Ⱁⱂⰹⱄⱁwⰵ wⱄⱂⰰⱃⱌⰹⰵ ⰸⰰⰿⰹⰰⱄⱅ ⱄⱅⱃⱁⱇⱁwⰰⱀⰹⰰ."
     },
     {
       "type": "single_choice",
-      "question": "Jak Marek chwali rysunek Marysi?",
+      "question": "Ⰺⰰⰽ Ⰿⰰⱃⰵⰽ ⱌⱈwⰰⰾⰹ ⱃⱐⱄⱆⱀⰵⰽ Ⰿⰰⱃⱐⱄⰹ?",
       "answers": [
-        "„Jesteś piękna”",
-        "Opisowo: widzi szczegóły, czas pracy, talent do obserwacji",
-        "„Świetnie” i koniec",
-        "Nie chwali"
+        "„Ⰺⰵⱄⱅⰵś ⱂⰹⱔⰽⱀⰰ”",
+        "Ⱁⱂⰹⱄⱁwⱁ: wⰹⰴⰸⰹ ⱄⰸⱌⰸⰵⰳółⱐ, ⱌⰸⰰⱄ ⱂⱃⰰⱌⱐ, ⱅⰰⰾⰵⱀⱅ ⰴⱁ ⱁⰱⱄⰵⱃwⰰⱌⰺⰹ",
+        "„Śwⰹⰵⱅⱀⰹⰵ” ⰹ ⰽⱁⱀⰹⰵⱌ",
+        "Ⱀⰹⰵ ⱌⱈwⰰⰾⰹ"
       ],
       "correctIndex": 1,
-      "explanation": "Marek mówi o kwiatkach w tle i długiej pracy nad rysunkiem."
+      "explanation": "Ⰿⰰⱃⰵⰽ ⰿówⰹ ⱁ ⰽwⰹⰰⱅⰽⰰⱌⱈ w ⱅⰾⰵ ⰹ ⰴłⱆⰳⰹⰵⰺ ⱂⱃⰰⱌⱐ ⱀⰰⰴ ⱃⱐⱄⱆⱀⰽⰹⰵⰿ."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marek się boi, mówiąc o swoim ojcu?",
+      "question": "Ⱌⰸⰵⰳⱁ Ⰿⰰⱃⰵⰽ ⱄⰹⱔ ⰱⱁⰹ, ⰿówⰹąⱌ ⱁ ⱄwⱁⰹⰿ ⱁⰺⱌⱆ?",
       "answers": [
-        "Że syn go nie kocha",
-        "Że stanie się jak ojciec, który nigdy nie przepraszał ani nie mówił „kocham cię”",
-        "Że straci pracę",
-        "Że wyjadą za granicę"
+        "Żⰵ ⱄⱐⱀ ⰳⱁ ⱀⰹⰵ ⰽⱁⱌⱈⰰ",
+        "Żⰵ ⱄⱅⰰⱀⰹⰵ ⱄⰹⱔ ⰺⰰⰽ ⱁⰺⱌⰹⰵⱌ, ⰽⱅóⱃⱐ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰł ⰰⱀⰹ ⱀⰹⰵ ⰿówⰹł „ⰽⱁⱌⱈⰰⰿ ⱌⰹⱔ”",
+        "Żⰵ ⱄⱅⱃⰰⱌⰹ ⱂⱃⰰⱌⱔ",
+        "Żⰵ wⱐⰺⰰⰴą ⰸⰰ ⰳⱃⰰⱀⰹⱌⱔ"
       ],
       "correctIndex": 1,
-      "explanation": "Marek: ojciec nigdy nie przepraszał — on nie wie, jak być inaczej."
+      "explanation": "Ⰿⰰⱃⰵⰽ: ⱁⰺⱌⰹⰵⱌ ⱀⰹⰳⰴⱐ ⱀⰹⰵ ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰł — ⱁⱀ ⱀⰹⰵ wⰹⰵ, ⰺⰰⰽ ⰱⱐⱍ ⰹⱀⰰⱌⰸⰵⰺ."
     },
     {
       "type": "single_choice",
-      "question": "Jaką bajkę czyta Ania na koniec?",
+      "question": "Ⰺⰰⰽą ⰱⰰⰺⰽⱔ ⱌⰸⱐⱅⰰ Ⰰⱀⰹⰰ ⱀⰰ ⰽⱁⱀⰹⰵⱌ?",
       "answers": [
-        "O Kopciuszku",
-        "O smoku, który nie umiał przepraszać",
-        "O kosmonaucie",
-        "O psie"
+        "Ⱁ Ⰽⱁⱂⱌⰹⱆⱄⰸⰽⱆ",
+        "Ⱁ ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ",
+        "Ⱁ ⰽⱁⱄⰿⱁⱀⰰⱆⱌⰹⰵ",
+        "Ⱁ ⱂⱄⰹⰵ"
       ],
       "correctIndex": 1,
-      "explanation": "Marysia prosi: „O smoku, który nie umiał przepraszać”."
+      "explanation": "Ⰿⰰⱃⱐⱄⰹⰰ ⱂⱃⱁⱄⰹ: „Ⱁ ⱄⰿⱁⰽⱆ, ⰽⱅóⱃⱐ ⱀⰹⰵ ⱆⰿⰹⰰł ⱂⱃⰸⰵⱂⱃⰰⱄⰸⰰⱍ”."
     }
   ]
 }

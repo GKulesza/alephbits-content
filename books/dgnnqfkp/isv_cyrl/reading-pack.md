@@ -25,7 +25,7 @@
 **Historical period:** *(вариес — сее теxт)*  
 
 **Original language:** isv_cyrl  
-**Translation summary:** Меџусловјанскы превод полској редакции "Мисја ктóра пęкłа" — официално издање Цоллецтион Тхрее.  
+**Translation summary:** Меџусловјанскы превод полској редакции "Мисја ктóра пѧкłа" — официално издање Цоллецтион Тхрее.  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
@@ -57,7 +57,7 @@
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 06.07.2026 -> https://www.youtube.com/watch?v=RQ-uUuefMDY  
-**Revision notes:** Текст ма цхарактер дорадцзы и есеистыцзны; ниектóре лицзбы ораз прзыкłады бизнесоwе wарто рęцзние спраwдзиć.
+**Revision notes:** Текст ма цхарактер дорадцзы и есеистыцзны; ниектóре лицзбы ораз прзыкłады бизнесоwе wарто рѧцзние спраwдзић.
 
 ### Revision history
 
