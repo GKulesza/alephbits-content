@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Kontrolu vian komprenon",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak ma na imię syrenka?",
+      "question": "Kiel nomiĝas la sireno?",
       "answers": [
         "Marina",
         "Ariel",
@@ -13,55 +13,55 @@
         "Zosia"
       ],
       "correctIndex": 0,
-      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+      "explanation": "La plej juna filino de la Marreĝo nomiĝas Marina."
     },
     {
       "type": "single_choice",
-      "question": "Co Marina oddaje wiedźmie?",
+      "question": "Kion Marina donas al la sorĉistino?",
       "answers": [
-        "Głos",
-        "Ogon",
-        "Korona",
-        "Perły"
+        "Sian voĉon",
+        "Sian voston",
+        "Sian kronon",
+        "Siajn perlojn"
       ],
       "correctIndex": 0,
-      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+      "explanation": "La sorĉistino postulas ŝian belan voĉon kontraŭ la pocio, kiu ŝanĝas ŝian voston al kruroj."
     },
     {
       "type": "single_choice",
-      "question": "Kogo Marina ratuje podczas burzy?",
+      "question": "Kiun Marina savas dum la ŝtormo?",
       "answers": [
-        "Księcia",
-        "Króla",
-        "Rybaka",
-        "Kapitana"
+        "La princon",
+        "La reĝon",
+        "Fiŝiston",
+        "La kapitano"
       ],
       "correctIndex": 0,
-      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+      "explanation": "Ŝi savas la princon, kiu dronas, kaj portas lin al la bordo."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marina nie robi z nożem?",
+      "question": "Kion Marina ne faras per la tranĉilo?",
       "answers": [
-        "Nie zabija księcia",
-        "Zabija wiedźmę",
-        "Rzuca w siostry",
-        "Niszczy statek"
+        "Ŝi ne mortigas la princon",
+        "Ŝi mortigas la sorĉistinon",
+        "Ŝi ĵetas ĝin al siaj fratinoj",
+        "Ŝi detruas la ŝipon"
       ],
       "correctIndex": 0,
-      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+      "explanation": "Ŝi prenas la tranĉilon, sed ŝi ne mortigas la dormantan princon: ŝi ĵetas ĝin en la ondojn."
     },
     {
       "type": "single_choice",
-      "question": "Kim Marina zostaje na końcu?",
+      "question": "En kio Marina fariĝas fine?",
       "answers": [
-        "Córką powietrza",
-        "Królową mórz",
-        "Człowiekiem z duszą od razu",
-        "Pianą na zawsze"
+        "Filino de la aero",
+        "Reĝino de la maroj",
+        "Homo kun animo tuj",
+        "Ŝaŭmo por ĉiam"
       ],
       "correctIndex": 0,
-      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+      "explanation": "Ŝi fariĝas filino de la aero; ŝi povas akiri animon farante bonon."
     }
   ]
 }

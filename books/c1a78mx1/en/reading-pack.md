@@ -5,12 +5,12 @@
 **Pack ID:** c1a78mx1
 **Book ID:** c1a78mx1
 **Legacy Pack ID:** polish_glos_i_cisza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Voice and Silence  
 **Subtitle:** The mermaid who gave her voice for love  
-**Blurb:** Marina, the youngest daughter of the Sea King, rescues a drowning prince and gives her voice to a witch to become human — but true love turns out to be about giving, not possessing., ratuje tonącego księcia i oddaje głos wiedźmie, by zostać człowiekiem — lecz prawdziwa miłość okazuje się dawaniem, nie posiadaniem.
+**Blurb:** Marina, the youngest daughter of the Sea King, rescues a drowning prince and gives her voice to a witch to become human — but true love turns out to be about giving, not possessing.
 
 **Genres:** fairy_tale, short_story  
 **Series:** Collection Eleven  
@@ -24,15 +24,15 @@
 **Historical period:** contemporary  
 
 **Original language:** en  
-**Translation summary:** Voice and Silence — multilingual translation — Collection Eleven official reading pack (Polish).  
+**Translation summary:** English translation of the Polish edition „Głos i cisza" (Collection Eleven).  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 1  
 
-siren, fairy_tale, love, translation, Collection Eleven  
+**Tags:** en, mermaid, fairy-tale, love, Collection Eleven  
 
-**Keywords:** Głos i cisza, Marina, syrenka, baśń  
+**Keywords:** Voice and Silence, Marina, mermaid, fairy-tale  
 
 **Cover family:** legends
 
@@ -45,9 +45,9 @@ siren, fairy_tale, love, translation, Collection Eleven
 - transformation
 - dream
 
-**Editorial notes:** Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc.
+**Editorial notes:** Adaptation of the Little Mermaid motif (Andersen); the theme of sacrifice and the knife — a classic fairy tale, not graphic violence.
 
-**Inspiration:** Manuskrypt Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
+**Inspiration:** Collection Eleven manuscript; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
 
 ---
 
@@ -65,14 +65,14 @@ siren, fairy_tale, love, translation, Collection Eleven
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 21.03.2016 -> https://www.youtube.com/watch?v=VubCpPqFNPM  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Full English translation; replaces erroneous Polish text.
 
 ### Revision history
 
 | Version | Date | Note |
-|
+|---------|------|------|
+| 1.0.1 | 2026-08-26 | Full English translation; replaces erroneous Polish text |
 | 1.0.0 | 2026-07-30 | English translation edition |
----------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -93,7 +93,7 @@ siren, fairy_tale, love, translation, Collection Eleven
 **Retrieval date:** 2016-03-21  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Source material indicated in the manuscript's source block; the text is an editorial adaptation.
 
 ---
 
@@ -101,69 +101,69 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 **VOICE AND SILENCE**
 
-W najgłębszej toni oceanu, gdzie światło słoneczne nigdy nie dociera, a woda jest tak przejrzysta jak najczystszy kryształ, znajdował się pałac Króla Mórz. Jego mury były z koralu, okna z bursztynu, a dach z perłowych muszli, które otwierały się i zamykały jak żywe istoty. W tym pałacu mieszkało sześć córek Króla Mórz, a każda z nich była piękniejsza od poprzedniej. Jednak najmłodsza z nich, ta o imieniu Marina, była najpiękniejsza ze wszystkich. Jej włosy były jak złocisty jedwab, oczy jak błękit najczystszej wody, a jej ogon lśnił srebrem i złotem, jakby był utkany z promieni księżyca.
+In the deepest depths of the ocean, where sunlight never reaches and the water is as clear as the purest crystal, stood the palace of the Sea King. Its walls were made of coral, its windows of amber, and its roof of pearl shells that opened and closed like living creatures. In this palace lived the Sea King's six daughters, each one more beautiful than the last. But the youngest of them, whose name was Marina, was the most beautiful of all. Her hair was like golden silk, her eyes like the blue of the clearest water, and her tail shone with silver and gold, as if woven from moonbeams.
 
-Marina różniła się od swoich sióstr. One cieszyły się skarbami z rozbitych statków, bawiły się perłami i złotem. Ona natomiast wolała słuchać opowieści swojej babki o świecie ludzi. O miastach, które sięgają nieba, o ptakach, które śpiewają, o kwiatach, które pachną. I o duszach, które żyją wiecznie.
+Marina was different from her sisters. They delighted in treasures from shipwrecks and played with pearls and gold. She, on the other hand, preferred to listen to her grandmother's stories about the world of humans. About cities that reach the sky, about birds that sing, about flowers that smell sweet. And about souls that live forever.
 
-– Kiedy skończysz piętnaście lat, będziesz mogła wypłynąć na powierzchnię – mówiła babka. – Wtedy zobaczysz ten świat na własne oczy.
+– When you turn fifteen, you will be able to swim to the surface – her grandmother said. – Then you will see that world with your own eyes.
 
-I Marina czekała. Czekała, aż nadejdzie ten dzień, gdy będzie mogła zobaczyć ludzi i ich tajemniczy świat.
-
----
-Nadszedł wreszcie dzień jej piętnastych urodzin. Marina, podekscytowana i przestraszona zarazem, wynurzyła się z głębin tuż po zachodzie słońca. Na niebie płonęły jeszcze purpurowe i złote barwy, a na horyzoncie ujrzała coś, co zaparło jej dech w piersiach – wielki statek o białych żaglach, który kołysał się na falach niczym łabędź.
-
-Podpłynęła bliżej. Z kryształowych okien kajut wydobywało się ciepłe światło i dźwięki radosnej muzyki. To był bal. Na pokładzie tańczyli ludzie w strojach z jedwabiu i złota, a wśród nich jeden, który przykuł jej uwagę jak żaden inny – młody książę o oczach ciemnych jak noc i uśmiechu tak ciepłym, że stopiłby najzimniejszy lód.
-
-I wtedy rozpętała się burza.
-
-Fale wznosiły się jak góry, wiatr wył jak dzikie zwierzę, a niebo rozdarły błyskawice. Statek trzeszczał i chwiał się na wszystkie strony. Marina widziała, jak ludzie padają na pokład, jak fale zmywają ich w otchłań. I wtedy zobaczyła go – księcia, który walczył z żywiołem, a potem osłabł i zaczął tonąć.
-
-Bez chwili wahania rzuciła się w fale. Chwyciła go w ramiona, wyniosła na powierzchnię i popłynęła z nim w stronę najbliższego brzegu. Położyła go na ciepłym piasku, głowę oparła wyżej, żeby słońce ogrzało jego twarz. Przykryła go swoimi włosami, żeby wiatr nie chłodził go zbytnio, i czekała, aż się obudzi.
-
-Gdy otworzył oczy, spojrzał na nią z wdzięcznością. Ale nie zdawał sobie sprawy, że to ona go uratowała. Myślał, że to ktoś inny – jedna z dziewcząt, które nadbiegły z pobliskiego klasztoru. Marina zniknęła w falach, zanim zdążył cokolwiek powiedzieć.
+And Marina waited. She waited for the day when she could finally see humans and their mysterious world.
 
 ---
-Od tej pory Marina nie mogła przestać myśleć o księciu. Każdej nocy wypływała na powierzchnię i płynęła w stronę jego pałacu. Widziała go, jak siedzi na tarasie w blasku księżyca, i marzyła, żeby być przy nim. Tęskniła do ludzkiego świata, do jego ciepła, do jego światła.
+At last the day of her fifteenth birthday came. Marina, excited and frightened at once, rose from the depths just after sunset. Purple and gold colours still blazed in the sky, and on the horizon she saw something that took her breath away — a great ship with white sails, rocking on the waves like a swan.
 
-– A gdybym tak mogła zostać człowiekiem? – szepnęła do siebie.
+She swam closer. Warm light and the sound of joyful music spilled from the cabin windows. It was a ball. On the deck, people in clothes of silk and gold were dancing, and among them was one who captured her attention like no other — a young prince with eyes dark as night and a smile so warm it could melt the coldest ice.
 
-I udała się do wiedźmy morskiej, która mieszkała wśród wirów i polipów. Wiedźma była okropna – pokryta wężami i ropuchami, a jej śmiech brzmiał jak zgrzyt kamieni.
+And then the storm broke.
 
-– Wiem, po co przyszłaś – syknęła wiedźma. – Chcesz być człowiekiem. Chcesz zdobyć duszę. Ale to będzie cię kosztować. Oddasz mi swój piękny głos, a ja przygotuję ci napój, który zmieni twój ogon w nogi. Lecz każdy krok będzie ci sprawiał ból, jakbyś stąpała po ostrych nożach. A jeśli książę nie pokocha cię nad życie, twoje serce pęknie, a ty zamienisz się w pianę.
+The waves rose like mountains, the wind howled like a wild beast, and lightning tore the sky apart. The ship creaked and lurched from side to side. Marina watched people fall on the deck, watched the waves sweep them into the abyss. And then she saw him — the prince, fighting against the elements, until he grew weak and began to sink.
 
-– Zgadzam się – odpowiedziała Marina bez wahania.
+Without a moment's hesitation she threw herself into the waves. She caught him in her arms, brought him to the surface and swam with him toward the nearest shore. She laid him on the warm sand and propped his head a little higher so the sun could warm his face. She covered him with her hair so the wind wouldn't chill him, and waited for him to wake.
 
-Wypiła napój, a ból był tak ogromny, że zemdlała. Gdy się obudziła, leżała na brzegu, a przed nią stał książę z zachwytem w oczach.
-
-– Kim jesteś? – zapytał.
-
-Nie mogła odpowiedzieć. Straciła głos. Ale jej oczy mówiły wszystko.
+When he opened his eyes, he looked at her with gratitude. But he didn't realize that she was the one who had saved him. He thought it was someone else — one of the girls who came running from a nearby convent. Marina disappeared into the waves before he could say a word.
 
 ---
-Książę zabrał ją do swojego pałacu. Dał jej piękne suknie, pozwolił jej mieszkać w swoim skrzydle. Kochał ją, ale tylko jak siostrę, jak najdroższą przyjaciółkę. Jego serce należało do innej – do tej, która według niego uratowała mu życie na brzegu.
+From that moment on, Marina could not stop thinking about the prince. Every night she swam to the surface and made her way toward his palace. She watched him sit on the terrace in the moonlight, and dreamed of being by his side. She longed for the human world, for its warmth, for its light.
 
-Gdy książę oznajmił, że żeni się z tamtą dziewczyną, Marina poczuła, jak świat się wali. To był koniec. Zanim słońce wzejdzie, miała zamienić się w pianę.
+– What if I could become human? – she whispered to herself.
 
-Ale tej nocy nad wodą pojawiły się jej siostry. Obcięły swoje długie włosy i oddały je wiedźmie w zamian za nóż.
+And she went to the sea witch, who lived among whirlpools and polyps. The witch was horrible — covered in snakes and toads, and her laughter sounded like the grinding of stones.
 
-– Zabij księcia – powiedziały. – Zanim słońce wzejdzie. Wtedy wrócisz do nas.
+– I know why you've come – the witch hissed. – You want to be human. You want to gain a soul. But it will cost you. You will give me your beautiful voice, and I will prepare a potion that will turn your tail into legs. But every step will hurt you, as if you were walking on sharp knives. And if the prince does not love you more than life itself, your heart will break, and you will turn into foam.
 
-Marina wzięła nóż. Wszedł do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
+– I agree – Marina answered without hesitation.
 
-Cisnęła nożem w fale. Rzuciła ostatnie spojrzenie na księcia i skoczyła w morze.
+She drank the potion, and the pain was so great that she fainted. When she woke, she was lying on the shore, and before her stood the prince, wonder in his eyes.
 
-Słońce właśnie wschodziło.
+– Who are you? – he asked.
+
+She could not answer. She had lost her voice. But her eyes said everything.
 
 ---
-Ale nie zamieniła się w pianę. Zamiast tego poczuła, że unosi się w powietrzu. Otaczały ją przezroczyste, świetliste istoty.
+The prince took her to his palace. He gave her beautiful dresses and let her live in his wing of the castle. He loved her, but only like a sister, like his dearest friend. His heart belonged to another — to the one who, in his eyes, had saved his life on the shore.
 
-– Jesteś córą powietrza – powiedziały. – Zasłużyłaś na to, bo nie szukałaś swojego szczęścia kosztem innych. Jeśli przez trzysta lat będziesz czynić dobro, zdobędziesz duszę nieśmiertelną.
+When the prince announced that he was marrying that girl, Marina felt the world collapse around her. It was the end. Before the sun rose, she was to turn into foam.
 
-Marina spojrzała w dół. Zobaczyła statek, na którym książę właśnie budził się ze snu. Zobaczyła jego uśmiech, gdy patrzył na swoją żonę. I zrozumiała, że to, co czuła, nigdy nie zginęło – tylko zmieniło formę.
+But that night her sisters appeared above the water. They had cut off their long hair and given it to the witch in exchange for a knife.
 
-Uniosła się w górę razem z siostrami powietrza, gotowa nieść pomoc tym, którzy jej potrzebują. Bo prawdziwa miłość nie polega na posiadaniu. Polega na dawaniu.
+– Kill the prince – they said. – Before the sun rises. Then you will come back to us.
 
-I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym głosem, jaki kiedykolwiek istniał.
+Marina took the knife. She entered the chamber where the prince slept with his wife. She looked at him, at his smile, at his peaceful face. And she understood that she could not do it. Not even for herself.
+
+She hurled the knife into the waves. She cast one last look at the prince and jumped into the sea.
+
+The sun was just rising.
+
+---
+But she did not turn into foam. Instead, she felt herself rising into the air. Transparent, luminous beings surrounded her.
+
+– You are a daughter of the air – they said. – You have earned this, because you did not seek your own happiness at the expense of others. If you do good for three hundred years, you will gain an immortal soul.
+
+Marina looked down. She saw the ship on which the prince was just waking from sleep. She saw his smile as he looked at his wife. And she understood that what she had felt had never died — it had only changed its form.
+
+She rose upward with the daughters of the air, ready to bring help to those who needed it. Because true love is not about possessing. It is about giving.
+
+And although she never spoke a word, her silence became the most beautiful voice that ever existed.
 
 **THE END**
 
@@ -171,11 +171,11 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Check your understanding
 
 ### Question 1
 
-**Question:** Jak ma na imię syrenka?
+**Question:** What is the mermaid's name?
 
 **Answers:**
 - A) Marina
@@ -184,64 +184,64 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 - D) Zosia
 
 **Correct:** A
-**Explanation:** Najmłodsza córka Króla Mórz nazywa się Marina.
+**Explanation:** The youngest daughter of the Sea King is named Marina.
 **Text reference:** Marina
 
 ### Question 2
 
-**Question:** Co Marina oddaje wiedźmie?
+**Question:** What does Marina give the witch?
 
 **Answers:**
-- A) Głos
-- B) Ogon
-- C) Korona
-- D) Perły
+- A) Her voice
+- B) Her tail
+- C) Her crown
+- D) Her pearls
 
 **Correct:** A
-**Explanation:** Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi.
-**Text reference:** głos
+**Explanation:** The witch demands her beautiful voice in exchange for a potion that turns her tail into legs.
+**Text reference:** voice
 
 ### Question 3
 
-**Question:** Kogo Marina ratuje podczas burzy?
+**Question:** Who does Marina rescue during the storm?
 
 **Answers:**
-- A) Księcia
-- B) Króla
-- C) Rybaka
-- D) Kapitana
+- A) The prince
+- B) The king
+- C) A fisherman
+- D) The captain
 
 **Correct:** A
-**Explanation:** Ratuje tonącego księcia i wynosi na brzeg.
-**Text reference:** księcia
+**Explanation:** She rescues the drowning prince and carries him to the shore.
+**Text reference:** the prince
 
 ### Question 4
 
-**Question:** Czego Marina nie robi z nożem?
+**Question:** What does Marina not do with the knife?
 
 **Answers:**
-- A) Nie zabija księcia
-- B) Zabija wiedźmę
-- C) Rzuca w siostry
-- D) Niszczy statek
+- A) She does not kill the prince
+- B) She kills the witch
+- C) She throws it at her sisters
+- D) She destroys the ship
 
 **Correct:** A
-**Explanation:** Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale.
-**Text reference:** nie może tego zrobić
+**Explanation:** She takes the knife but does not kill the sleeping prince — she hurls it into the waves.
+**Text reference:** she could not do it
 
 ### Question 5
 
-**Question:** Kim Marina zostaje na końcu?
+**Question:** What does Marina become at the end?
 
 **Answers:**
-- A) Córką powietrza
-- B) Królową mórz
-- C) Człowiekiem z duszą od razu
-- D) Pianą na zawsze
+- A) A daughter of the air
+- B) The queen of the seas
+- C) A human with a soul right away
+- D) Foam forever
 
 **Correct:** A
-**Explanation:** Staje się córką powietrza — może zdobyć duszę czyniąc dobro.
-**Text reference:** córką powietrza
+**Explanation:** She becomes a daughter of the air — she can gain a soul by doing good.
+**Text reference:** daughter of the air
 
 
 ---

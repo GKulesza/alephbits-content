@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Check your understanding",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak ma na imię syrenka?",
+      "question": "What is the mermaid's name?",
       "answers": [
         "Marina",
         "Ariel",
@@ -13,55 +13,55 @@
         "Zosia"
       ],
       "correctIndex": 0,
-      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+      "explanation": "The youngest daughter of the Sea King is named Marina."
     },
     {
       "type": "single_choice",
-      "question": "Co Marina oddaje wiedźmie?",
+      "question": "What does Marina give the witch?",
       "answers": [
-        "Głos",
-        "Ogon",
-        "Korona",
-        "Perły"
+        "Her voice",
+        "Her tail",
+        "Her crown",
+        "Her pearls"
       ],
       "correctIndex": 0,
-      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+      "explanation": "The witch demands her beautiful voice in exchange for a potion that turns her tail into legs."
     },
     {
       "type": "single_choice",
-      "question": "Kogo Marina ratuje podczas burzy?",
+      "question": "Who does Marina rescue during the storm?",
       "answers": [
-        "Księcia",
-        "Króla",
-        "Rybaka",
-        "Kapitana"
+        "The prince",
+        "The king",
+        "A fisherman",
+        "The captain"
       ],
       "correctIndex": 0,
-      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+      "explanation": "She rescues the drowning prince and carries him to the shore."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marina nie robi z nożem?",
+      "question": "What does Marina not do with the knife?",
       "answers": [
-        "Nie zabija księcia",
-        "Zabija wiedźmę",
-        "Rzuca w siostry",
-        "Niszczy statek"
+        "She does not kill the prince",
+        "She kills the witch",
+        "She throws it at her sisters",
+        "She destroys the ship"
       ],
       "correctIndex": 0,
-      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+      "explanation": "She takes the knife but does not kill the sleeping prince — she hurls it into the waves."
     },
     {
       "type": "single_choice",
-      "question": "Kim Marina zostaje na końcu?",
+      "question": "What does Marina become at the end?",
       "answers": [
-        "Córką powietrza",
-        "Królową mórz",
-        "Człowiekiem z duszą od razu",
-        "Pianą na zawsze"
+        "A daughter of the air",
+        "The queen of the seas",
+        "A human with a soul right away",
+        "Foam forever"
       ],
       "correctIndex": 0,
-      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+      "explanation": "She becomes a daughter of the air — she can gain a soul by doing good."
     }
   ]
 }

@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+    "humanReview": "Adaptación del motivo de la Sirenita (Andersen); el tema del sacrificio y el cuchillo — un cuento clásico, no violencia gráfica."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "VubCpPqFNPM"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Traducción completa al español; sustituye el texto polaco erróneo."
 }

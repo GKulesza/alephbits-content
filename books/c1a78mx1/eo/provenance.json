@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+    "humanReview": "Adaptaĵo de la motivo de la Eta Marfraulino (Andersen); la temo de la ofero kaj la tranĉilo — klasika fabelo, ne grafika perforto."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "VubCpPqFNPM"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Plena esperanta traduko; anstataŭigas la eraran polan tekston."
 }

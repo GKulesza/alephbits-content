@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+    "humanReview": "Adaptation of the Little Mermaid motif (Andersen); the theme of sacrifice and the knife — a classic fairy tale, not graphic violence."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "VubCpPqFNPM"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Full English translation; replaces erroneous Polish text."
 }

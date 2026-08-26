@@ -12,7 +12,7 @@
   "aiAssistance": {
     "used": true,
     "tools": [],
-    "humanReview": "Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc."
+    "humanReview": "Adaptacija motiva Maloj sireny (Andersen); tema oferenja i noža — klasična bajka, ne grafičko nasilje."
   },
   "sources": [
     {
@@ -20,5 +20,5 @@
       "videoId": "VubCpPqFNPM"
     }
   ],
-  "revisionNotes": "Phase 119 import."
+  "revisionNotes": "Poln medžuslovjansky prevod; zaměnje gryšnogo poljskogo teksta."
 }

@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Prověrje svoje ponimanje",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak ma na imię syrenka?",
+      "question": "Kako sę nazyvaje sirena?",
       "answers": [
         "Marina",
         "Ariel",
@@ -13,55 +13,55 @@
         "Zosia"
       ],
       "correctIndex": 0,
-      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+      "explanation": "Najmladša kći Morskogo kralja nazyvajets sę Marina."
     },
     {
       "type": "single_choice",
-      "question": "Co Marina oddaje wiedźmie?",
+      "question": "Čto Marina daje sorčinici?",
       "answers": [
-        "Głos",
-        "Ogon",
-        "Korona",
-        "Perły"
+        "Svoj glas",
+        "Svoj rep",
+        "Svoju korunu",
+        "Svoji perli"
       ],
       "correctIndex": 0,
-      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+      "explanation": "Sorčinica trebuje jeje krasny glas za napitok, ktoryj izměnjaje rep na nogi."
     },
     {
       "type": "single_choice",
-      "question": "Kogo Marina ratuje podczas burzy?",
+      "question": "Kogo Marina spasaje v bure?",
       "answers": [
-        "Księcia",
-        "Króla",
+        "Prince",
+        "Kralja",
         "Rybaka",
         "Kapitana"
       ],
       "correctIndex": 0,
-      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+      "explanation": "Ona spasaje tonučego prince i neset jego na bereg."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marina nie robi z nożem?",
+      "question": "Čto Marina ne sčinila s nožom?",
       "answers": [
-        "Nie zabija księcia",
-        "Zabija wiedźmę",
-        "Rzuca w siostry",
-        "Niszczy statek"
+        "Ne ubila prince",
+        "Ubila sorčinicu",
+        "Kinula jego v sestry",
+        "Razrušila korabj"
       ],
       "correctIndex": 0,
-      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+      "explanation": "Ona vzjala nož, ale ne ubila spjaščego prince: brosila jego v valy."
     },
     {
       "type": "single_choice",
-      "question": "Kim Marina zostaje na końcu?",
+      "question": "Čim Marina stala v konci?",
       "answers": [
-        "Córką powietrza",
-        "Królową mórz",
-        "Człowiekiem z duszą od razu",
-        "Pianą na zawsze"
+        "Kćerju vozduha",
+        "Kraljevoju mora",
+        "Čelověkom s dušoju srazu",
+        "Pěnoju na věky"
       ],
       "correctIndex": 0,
-      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+      "explanation": "Ona stala kćerju vozduha; možet dostati dušu, jesli bude sčiniti dobro."
     }
   ]
 }

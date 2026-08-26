@@ -1,11 +1,11 @@
 {
-  "title": "Sprawdź zrozumienie",
+  "title": "Comprueba tu comprensión",
   "generatedBy": "compile_pack",
   "generatedFrom": "reading-pack.md",
   "questions": [
     {
       "type": "single_choice",
-      "question": "Jak ma na imię syrenka?",
+      "question": "¿Cómo se llama la sirena?",
       "answers": [
         "Marina",
         "Ariel",
@@ -13,55 +13,55 @@
         "Zosia"
       ],
       "correctIndex": 0,
-      "explanation": "Najmłodsza córka Króla Mórz nazywa się Marina."
+      "explanation": "La hija menor del Rey del Mar se llama Marina."
     },
     {
       "type": "single_choice",
-      "question": "Co Marina oddaje wiedźmie?",
+      "question": "¿Qué le entrega Marina a la bruja?",
       "answers": [
-        "Głos",
-        "Ogon",
-        "Korona",
-        "Perły"
+        "Su voz",
+        "Su cola",
+        "Su corona",
+        "Sus perlas"
       ],
       "correctIndex": 0,
-      "explanation": "Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi."
+      "explanation": "La bruja exige su hermosa voz a cambio de la pócima que convierte su cola en piernas."
     },
     {
       "type": "single_choice",
-      "question": "Kogo Marina ratuje podczas burzy?",
+      "question": "¿A quién rescata Marina durante la tormenta?",
       "answers": [
-        "Księcia",
-        "Króla",
-        "Rybaka",
-        "Kapitana"
+        "Al príncipe",
+        "Al rey",
+        "A un pescador",
+        "Al capitán"
       ],
       "correctIndex": 0,
-      "explanation": "Ratuje tonącego księcia i wynosi na brzeg."
+      "explanation": "Rescata al príncipe que se ahoga y lo lleva a la orilla."
     },
     {
       "type": "single_choice",
-      "question": "Czego Marina nie robi z nożem?",
+      "question": "¿Qué no hace Marina con el cuchillo?",
       "answers": [
-        "Nie zabija księcia",
-        "Zabija wiedźmę",
-        "Rzuca w siostry",
-        "Niszczy statek"
+        "No mata al príncipe",
+        "Mata a la bruja",
+        "Lo lanza contra sus hermanas",
+        "Destruye el barco"
       ],
       "correctIndex": 0,
-      "explanation": "Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale."
+      "explanation": "Coge el cuchillo, pero no mata al príncipe dormido: lo arroja a las olas."
     },
     {
       "type": "single_choice",
-      "question": "Kim Marina zostaje na końcu?",
+      "question": "¿En qué se convierte Marina al final?",
       "answers": [
-        "Córką powietrza",
-        "Królową mórz",
-        "Człowiekiem z duszą od razu",
-        "Pianą na zawsze"
+        "En hija del aire",
+        "En reina de los mares",
+        "En humana con alma de inmediato",
+        "En espuma para siempre"
       ],
       "correctIndex": 0,
-      "explanation": "Staje się córką powietrza — może zdobyć duszę czyniąc dobro."
+      "explanation": "Se convierte en hija del aire; puede conseguir un alma haciendo el bien."
     }
   ]
 }

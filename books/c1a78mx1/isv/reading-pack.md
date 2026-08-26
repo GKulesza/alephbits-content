@@ -1,16 +1,16 @@
-# Glas i Tišina
+# Glas i tišina
 
 ## Metadata
 
 **Pack ID:** c1a78mx1
 **Book ID:** c1a78mx1
 **Legacy Pack ID:** polish_glos_i_cisza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
-**Title:** Glas i Tišina  
-**Subtitle:** Sirenka, ktora dala glas za ljubov  
-**Blurb:** Marina, najmladša dŝi Kralja Morja, spasajet tonego kŝeža i daje svoj glas vedŝme da byti člověkom — ale pravdive ljubv je davanie, ne iměnie., ratuje tonącego księcia i oddaje głos wiedźmie, by zostać człowiekiem — lecz prawdziwa miłość okazuje się dawaniem, nie posiadaniem.
+**Title:** Glas i tišina  
+**Subtitle:** Sirena, koja dala svoj glas za ljubov  
+**Blurb:** Marina, najmladša kći Morskogo kralja, spasaje tonučego prince i daje svoj krasny glas sorčinici, da by stala čelověkom — no prava ljubov jest davati, ne vladěti.
 
 **Genres:** fairy_tale, short_story  
 **Series:** Collection Eleven  
@@ -24,15 +24,15 @@
 **Historical period:** contemporary  
 
 **Original language:** isv  
-**Translation summary:** Glas i Tišina — multilingual translation — Collection Eleven official reading pack (Polish).  
+**Translation summary:** Medžuslovjansky prevod poljskogo izdanija.  
 
 **Writing system:** glagolitic  
 **Recommended profile:** polish_default  
 **Recommended level:** 1  
 
-siren, fairy_tale, love, translation, Collection Eleven  
+**Tags:** isv, mermaid, fairy-tale, love, Collection Eleven  
 
-**Keywords:** Głos i cisza, Marina, syrenka, baśń  
+**Keywords:** Glas i tišina, Marina, sirena, bajka  
 
 **Cover family:** legends
 
@@ -45,9 +45,9 @@ siren, fairy_tale, love, translation, Collection Eleven
 - transformation
 - dream
 
-**Editorial notes:** Multilingual translation edition. Source: pl.; wątek ofiary i noża — klasyczna baśń, nie graficzna przemoc.
+**Editorial notes:** Adaptacija motiva Maloj sireny (Andersen); tema oferenja i noža — klasična bajka, ne grafičko nasilje.
 
-**Inspiration:** Manuskrypt Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
+**Inspiration:** Rukopis Collection Eleven; YouTube VubCpPqFNPM (21.03.2016); YouTube VubCpPqFNPM (2016-03-21).
 
 ---
 
@@ -65,14 +65,14 @@ siren, fairy_tale, love, translation, Collection Eleven
 **License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
 **License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
 **Source block:** 21.03.2016 -> https://www.youtube.com/watch?v=VubCpPqFNPM  
-**Revision notes:** Phase 119 import.
+**Revision notes:** Poln medžuslovjansky prevod; zaměnje gryšnogo poljskogo teksta.
 
 ### Revision history
 
 | Version | Date | Note |
-|
-| 1.0.0 | 2026-07-30 | Interslavic (Latin) translation edition |
----------|------|------|
+|---------|------|------|
+| 1.0.1 | 2026-08-26 | Poln medžuslovjansky prevod; zaměnje gryšnogo poljskogo teksta |
+| 1.0.0 | 2026-07-30 | Interslavic translation edition |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -93,7 +93,7 @@ siren, fairy_tale, love, translation, Collection Eleven
 **Retrieval date:** 2016-03-21  
 **Availability:** adaptation  
 **Deprecated:** no  
-**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+**Editor notes:** Istočnik jest označen v source-blokě rukopisa; tekst jest redakcionna adaptacija.
 
 ---
 
@@ -101,69 +101,69 @@ siren, fairy_tale, love, translation, Collection Eleven
 
 **GLAS I TIŠINA**
 
-W najgłębszej toni oceanu, gdzie światło słoneczne nigdy nie dociera, a woda jest tak przejrzysta jak najczystszy kryształ, znajdował się pałac Króla Mórz. Jego mury były z koralu, okna z bursztynu, a dach z perłowych muszli, które otwierały się i zamykały jak żywe istoty. W tym pałacu mieszkało sześć córek Króla Mórz, a każda z nich była piękniejsza od poprzedniej. Jednak najmłodsza z nich, ta o imieniu Marina, była najpiękniejsza ze wszystkich. Jej włosy były jak złocisty jedwab, oczy jak błękit najczystszej wody, a jej ogon lśnił srebrem i złotem, jakby był utkany z promieni księżyca.
+V najglubšej častě okeana, kde slnečny svět nikogda ne dostigaje i voda jest tako čista kako najčistoj kristal, stojal dvorec Morskogo kralja. Jego stěny były iz korala, jego okna iz jantari, a jego kryša iz perlamutrovych rakovin, ktoryje otvarali i zatvarali sę kako žive suščestva. V tom dvorcě živeli šest kčeri Morskogo kralja, i každaja była lěpša čem prědyduščaja. Ale najmladša iz vsěh, ktora sę nazyvala Marina, była najlěpša iz vsěh. Jeje vlasy były kako zlaty šelk, jeje oči kako modr ot najčistoj vody, a jeje rep svetil sę srebrom i zlatom, kako by byl sotkany iz lunnogo světla.
 
-Marina różniła się od swoich sióstr. One cieszyły się skarbami z rozbitych statków, bawiły się perłami i złotem. Ona natomiast wolała słuchać opowieści swojej babki o świecie ludzi. O miastach, które sięgają nieba, o ptakach, które śpiewają, o kwiatach, które pachną. I o duszach, które żyją wiecznie.
+Marina była inaja čem jeje sestry. One radovaly sę skarbom potonšennych korabjov i igrali sę s perlami i zlatom. Ona pak ljubila slušati raskazy svojej babky o světe ludej. O gradah, ktoryje dostigajut neba, o pticah, ktoryje pěvajut, o květah, ktoryje dobro pahnut. I o dušah, ktoryje živut věčno.
 
-– Kiedy skończysz piętnaście lat, będziesz mogła wypłynąć na powierzchnię – mówiła babka. – Wtedy zobaczysz ten świat na własne oczy.
+– Kogda tebě bude petnadset lět – govorila jej babka –, smogdeš vystupiti na površinu mora. Togda izvidiš toj svět svojimi vlastnymi očami.
 
-I Marina czekała. Czekała, aż nadejdzie ten dzień, gdy będzie mogła zobaczyć ludzi i ich tajemniczy świat.
-
----
-Nadszedł wreszcie dzień jej piętnastych urodzin. Marina, podekscytowana i przestraszona zarazem, wynurzyła się z głębin tuż po zachodzie słońca. Na niebie płonęły jeszcze purpurowe i złote barwy, a na horyzoncie ujrzała coś, co zaparło jej dech w piersiach – wielki statek o białych żaglach, który kołysał się na falach niczym łabędź.
-
-Podpłynęła bliżej. Z kryształowych okien kajut wydobywało się ciepłe światło i dźwięki radosnej muzyki. To był bal. Na pokładzie tańczyli ludzie w strojach z jedwabiu i złota, a wśród nich jeden, który przykuł jej uwagę jak żaden inny – młody książę o oczach ciemnych jak noc i uśmiechu tak ciepłym, że stopiłby najzimniejszy lód.
-
-I wtedy rozpętała się burza.
-
-Fale wznosiły się jak góry, wiatr wył jak dzikie zwierzę, a niebo rozdarły błyskawice. Statek trzeszczał i chwiał się na wszystkie strony. Marina widziała, jak ludzie padają na pokład, jak fale zmywają ich w otchłań. I wtedy zobaczyła go – księcia, który walczył z żywiołem, a potem osłabł i zaczął tonąć.
-
-Bez chwili wahania rzuciła się w fale. Chwyciła go w ramiona, wyniosła na powierzchnię i popłynęła z nim w stronę najbliższego brzegu. Położyła go na ciepłym piasku, głowę oparła wyżej, żeby słońce ogrzało jego twarz. Przykryła go swoimi włosami, żeby wiatr nie chłodził go zbytnio, i czekała, aż się obudzi.
-
-Gdy otworzył oczy, spojrzał na nią z wdzięcznością. Ale nie zdawał sobie sprawy, że to ona go uratowała. Myślał, że to ktoś inny – jedna z dziewcząt, które nadbiegły z pobliskiego klasztoru. Marina zniknęła w falach, zanim zdążył cokolwiek powiedzieć.
+I Marina ždala. Ždala dnja, kogda nakoněc smogla by viděti ludej i jih tajny svět.
 
 ---
-Od tej pory Marina nie mogła przestać myśleć o księciu. Każdej nocy wypływała na powierzchnię i płynęła w stronę jego pałacu. Widziała go, jak siedzi na tarasie w blasku księżyca, i marzyła, żeby być przy nim. Tęskniła do ludzkiego świata, do jego ciepła, do jego światła.
+Nakoněc prišel denj jeje petnadseti lět. Marina, razom i razbudžena i bojazliva, vystupila iz glubiny kako raz po zahodě slnca. Na nebě ješče gorěli fioletove i zlatove kolory, a na horizontě ona izviděla něčto, čto otdalo jej dyh: veliky korabj s bělymi krydlami, kako labud, ktoryj kolyhal sę na valah.
 
-– A gdybym tak mogła zostać człowiekiem? – szepnęła do siebie.
+Prispěla bliže. Črez stekljane okna kajut vyhodil teply svět i zvuk veseloje muzyky. Tam byl bal. Na palubě plesali ludi, oděty v šelk i zlato, a mež nimi byl jedin, ktoryj ohvatil jeje vnimanije bolše čem vse drugyje: mlady prince s očami temnymi kako noč i usměhom tako teplym, že by stopil samy studeny led.
 
-I udała się do wiedźmy morskiej, która mieszkała wśród wirów i polipów. Wiedźma była okropna – pokryta wężami i ropuchami, a jej śmiech brzmiał jak zgrzyt kamieni.
+I togda razrazilas burja.
 
-– Wiem, po co przyszłaś – syknęła wiedźma. – Chcesz być człowiekiem. Chcesz zdobyć duszę. Ale to będzie cię kosztować. Oddasz mi swój piękny głos, a ja przygotuję ci napój, który zmieni twój ogon w nogi. Lecz każdy krok będzie ci sprawiał ból, jakbyś stąpała po ostrych nożach. A jeśli książę nie pokocha cię nad życie, twoje serce pęknie, a ty zamienisz się w pianę.
+Valy podnimali sę kako gory, větr vyl kako zvěr, a molnije rvali nebo. Korabj skripal i kolyhal sę s boka na bok. Marina viděla, kako ludi padajut na palubu, i viděla, kako valy těgnut jih v propast. I togda izviděla jego: prince, ktoryj borol sę s burju, doky sily ne ostavili jego i on načęl tonuti.
 
-– Zgadzam się – odpowiedziała Marina bez wahania.
+Bez jedinogo mgnovenja kolebanja, brosila sę v valy. Ohvatila jego rukama, vynosila jego na površinu i plyla s nim k bližšemu beregu. Položila jego na teply pesok i podložila jego golovu vyšše, da by slnce grělo jego lico. Nakryla jego svojimi vlasami, da by větr ne ostudil jego, i ždala, da by on očuhal sę.
 
-Wypiła napój, a ból był tak ogromny, że zemdlała. Gdy się obudziła, leżała na brzegu, a przed nią stał książę z zachwytem w oczach.
-
-– Kim jesteś? – zapytał.
-
-Nie mogła odpowiedzieć. Straciła głos. Ale jej oczy mówiły wszystko.
+Kogda on otvoril oči, smotrěl na nje s blagodarnostju. No ne razuměl, že ona była ta, ktora jego spasla. Dumał, že to byla inaja: jedna iz děvic, ktoryje priběgli iz bližnjego kláštera. Marina izčezla v valah, prěžde čem mogla čto-libo skazati.
 
 ---
-Książę zabrał ją do swojego pałacu. Dał jej piękne suknie, pozwolił jej mieszkać w swoim skrzydle. Kochał ją, ale tylko jak siostrę, jak najdroższą przyjaciółkę. Jego serce należało do innej – do tej, która według niego uratowała mu życie na brzegu.
+Od togda Marina ne mogla prěstati mysliti o prince. Každuju noč vystupala na površinu i plyla k jego dvorcu. Viděla jego, kako sedit na terase v světle lune, i snila stajati rjadom s nim. Želala do ljudskogo světa, do jego tepla i světla.
 
-Gdy książę oznajmił, że żeni się z tamtą dziewczyną, Marina poczuła, jak świat się wali. To był koniec. Zanim słońce wzejdzie, miała zamienić się w pianę.
+– A čto, jesli by ja mogla stati čelověkom? – šepnula sama sebě.
 
-Ale tej nocy nad wodą pojawiły się jej siostry. Obcięły swoje długie włosy i oddały je wiedźmie w zamian za nóż.
+I išla k morskoj sorčinici, ktora živela mež viry i polipami. Sorčinica była strašna: pokryta zmijami i žabami, a jeje směh zvučal kako kameny, ktoryje sę trut jedin o drugoj.
 
-– Zabij księcia – powiedziały. – Zanim słońce wzejdzie. Wtedy wrócisz do nas.
+– Znaju, začim ty prišla – reče sorčinica. – Hočeš stati čelověkom. Hočeš dostati dušu. No to bude mnogo kosztovati. Dadeš mi svoj krasny glas, a ja pripravlju napitok, ktoryj izměni tvoj rep na nogi. Ale každý tvoj krok bude bolěti, kako by ty hodila po ostryh nožah. I jesli prince ne poljubit tebe bolše čem sebe sama, tvoje srce razbjets sę i ty staneš morskoju pěnoju.
 
-Marina wzięła nóż. Wszedł do komnaty, w której spał książę z żoną. Spojrzała na niego, na jego uśmiech, na jego spokojną twarz. I zrozumiała, że nie może tego zrobić. Nie dla siebie.
+– Soglasna – otgovorila Marina bez kolebanja.
 
-Cisnęła nożem w fale. Rzuciła ostatnie spojrzenie na księcia i skoczyła w morze.
+Vypila napitok, i bol byla tako velika, že ona svesilila sę. Kogda otvorila oči, ležala na beregu, a prěd nej stojal prince s udivlenjem v očah.
 
-Słońce właśnie wschodziło.
+– Kto ty jest? – voprosil on.
+
+Ona ne mogla otgovoriti. Byla potratila golos. Ale jeje oči skazali vse.
 
 ---
-Ale nie zamieniła się w pianę. Zamiast tego poczuła, że unosi się w powietrzu. Otaczały ją przezroczyste, świetliste istoty.
+Prince prines jej v svoj dvorec. Dal jej krasnyje platja i pozvolil jej živiti v jego kastelě. On jej ljubil, ale toliko kako sestru, kako svoju najdražšuju družicu. Jego srce prinadležalo inoj: toj, ktora, kako on dumał, spasla jego život na beregu.
 
-– Jesteś córą powietrza – powiedziały. – Zasłużyłaś na to, bo nie szukałaś swojego szczęścia kosztem innych. Jeśli przez trzysta lat będziesz czynić dobro, zdobędziesz duszę nieśmiertelną.
+Kogda prince objavil, že ženits s toju děvicaju, Marina počutila, že svět razvalivajets sę. To byl konjec. Prěžde čem slnce vstane, ona imala stati pěnoju.
 
-Marina spojrzała w dół. Zobaczyła statek, na którym książę właśnie budził się ze snu. Zobaczyła jego uśmiech, gdy patrzył na swoją żonę. I zrozumiała, że to, co czuła, nigdy nie zginęło – tylko zmieniło formę.
+Ale tuju noč na vodě javili sę jeje sestry. One otrizali svoi dlinyje vlasy i dali jih sorčinici za nož.
 
-Uniosła się w górę razem z siostrami powietrza, gotowa nieść pomoc tym, którzy jej potrzebują. Bo prawdziwa miłość nie polega na posiadaniu. Polega na dawaniu.
+– Zabij prince – skazali ony. – Prěžde čem slnce vstane. Togda vratiš sę k nam.
 
-I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym głosem, jaki kiedykolwiek istniał.
+Marina vzjala nož. Vstupila v komnatu, kde prince spal so svojeju ženoju. Smotrěla na jego, na jego usměh, na jego spokojnoje lico. I razuměla, že ne možet sčiniti togo. Daže ne dla sebe.
+
+Brosila nož v valy. Vrhla poslědnij vzgljad na prince i skočila v more.
+
+Slnce vstajalo.
+
+---
+Ale ona ne stala pěnoju. Vmesto togo počutila, že podnimajets sę v vozduh. Okružali jej prozračnyje svetlyje suščestva.
+
+– Ty jest kći vozduha – skazali ony. – Ty to zaslužila, bo ne iskala svojego sčastja za cenu drugih. Jesli budeš sčiniti dobro trista lět, dostaneš nesmertnu dušu.
+
+Marina posmotrěla dolov. Viděla korabj, na ktorom prince kako raz očuhal sę. Viděla jego usměh, kogda smotrěl na svoju ženu. I razuměla, že to, čto ona čutila, nikogda ne umrlo: ono toliko izměnilo svoju obliku.
+
+Podnjalas s kčerami vozduha, gotova pomagati vsěm, kto imaje potrebu. Bo prava ljubov ne znači vladěti. Znači davati.
+
+I hote ona nikogda ne skazala ni jedinogo slova, jeje tišina stala najkrasšim golosom, ktoryj kogda-libo suščestvoval.
 
 **KONEC**
 
@@ -171,11 +171,11 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 
 ## Quiz
 
-**Quiz title:** Sprawdź zrozumienie
+**Quiz title:** Prověrje svoje ponimanje
 
 ### Question 1
 
-**Question:** Jak ma na imię syrenka?
+**Question:** Kako sę nazyvaje sirena?
 
 **Answers:**
 - A) Marina
@@ -184,64 +184,64 @@ I choć nigdy nie wypowiedziała słowa, jej cisza stała się najpiękniejszym 
 - D) Zosia
 
 **Correct:** A
-**Explanation:** Najmłodsza córka Króla Mórz nazywa się Marina.
-**Text reference:** Marina
+**Explanation:** Najmladša kći Morskogo kralja nazyvajets sę Marina.
+**Text reference:** nazyvala Marina
 
 ### Question 2
 
-**Question:** Co Marina oddaje wiedźmie?
+**Question:** Čto Marina daje sorčinici?
 
 **Answers:**
-- A) Głos
-- B) Ogon
-- C) Korona
-- D) Perły
+- A) Svoj glas
+- B) Svoj rep
+- C) Svoju korunu
+- D) Svoji perli
 
 **Correct:** A
-**Explanation:** Wiedźma każe oddać piękny głos za napój zmieniający ogon w nogi.
-**Text reference:** głos
+**Explanation:** Sorčinica trebuje jeje krasny glas za napitok, ktoryj izměnjaje rep na nogi.
+**Text reference:** svoj krasny glas
 
 ### Question 3
 
-**Question:** Kogo Marina ratuje podczas burzy?
+**Question:** Kogo Marina spasaje v bure?
 
 **Answers:**
-- A) Księcia
-- B) Króla
+- A) Prince
+- B) Kralja
 - C) Rybaka
 - D) Kapitana
 
 **Correct:** A
-**Explanation:** Ratuje tonącego księcia i wynosi na brzeg.
-**Text reference:** księcia
+**Explanation:** Ona spasaje tonučego prince i neset jego na bereg.
+**Text reference:** prince
 
 ### Question 4
 
-**Question:** Czego Marina nie robi z nożem?
+**Question:** Čto Marina ne sčinila s nožom?
 
 **Answers:**
-- A) Nie zabija księcia
-- B) Zabija wiedźmę
-- C) Rzuca w siostry
-- D) Niszczy statek
+- A) Ne ubila prince
+- B) Ubila sorčinicu
+- C) Kinula jego v sestry
+- D) Razrušila korabj
 
 **Correct:** A
-**Explanation:** Bierze nóż, lecz nie zabija śpiącego księcia — cisnęła go w fale.
-**Text reference:** nie może tego zrobić
+**Explanation:** Ona vzjala nož, ale ne ubila spjaščego prince: brosila jego v valy.
+**Text reference:** ne možet sčiniti togo
 
 ### Question 5
 
-**Question:** Kim Marina zostaje na końcu?
+**Question:** Čim Marina stala v konci?
 
 **Answers:**
-- A) Córką powietrza
-- B) Królową mórz
-- C) Człowiekiem z duszą od razu
-- D) Pianą na zawsze
+- A) Kćerju vozduha
+- B) Kraljevoju mora
+- C) Čelověkom s dušoju srazu
+- D) Pěnoju na věky
 
 **Correct:** A
-**Explanation:** Staje się córką powietrza — może zdobyć duszę czyniąc dobro.
-**Text reference:** córką powietrza
+**Explanation:** Ona stala kćerju vozduha; možet dostati dušu, jesli bude sčiniti dobro.
+**Text reference:** kći vozduha
 
 
 ---
