@@ -1,0 +1,24 @@
+{
+  "packId": "rcd9si5g:es",
+  "bookId": "rcd9si5g",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Tytuł podobny do C9 „Lista” — inna fabuła; slug rozróżnia."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "rqugxbDkCro"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

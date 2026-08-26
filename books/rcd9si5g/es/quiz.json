@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Anna?",
+      "answers": [
+        "32",
+        "42",
+        "52",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto: \"Anna tenía cuarenta y dos años\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué recuerda Tomek de la infancia que es doloroso para Anna?",
+      "answers": [
+        "Solo los regalos",
+        "Que su madre gritaba a menudo y canceló el cine",
+        "Solo las vacaciones",
+        "Nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek recuerda los gritos y el cine cancelado."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Para qué escribe Anna la lista?",
+      "answers": [
+        "Para los vecinos",
+        "Para entender sus errores y cambiar algo, no para culparse",
+        "Para el juzgado",
+        "Para el colegio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Escribió la lista para entender y cambiar, no para culparse."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Tomek con las fotografías antiguas?",
+      "answers": [
+        "Las tira",
+        "Las escanea y organiza un álbum de recuerdos",
+        "Las vende",
+        "Las quema"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek escanea las fotos de la caja: \"nuestros recuerdos\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Tomek sobre la lista de lamentos?",
+      "answers": [
+        "Que está enfadado",
+        "Que está agradecido: se ve que a su madre le importa y lo quiere",
+        "Que ignora a su madre",
+        "Que quiere dinero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek: la lista demuestra que le importa y lo quiere: eso es lo más importante."
+    }
+  ]
+}

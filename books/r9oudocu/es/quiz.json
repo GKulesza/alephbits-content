@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué lleva Tadeusz los zapatos nuevos?",
+      "answers": [
+        "Para ir al trabajo",
+        "Para la boda de su hijo",
+        "Para correr",
+        "Para ir a la iglesia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que son zapatos nuevos para la boda de su hijo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ve el doctor cuando le quitan el calcetín?",
+      "answers": [
+        "Un callo normal",
+        "Un dedo muerto, negro, y olor a pus",
+        "Una fractura",
+        "Una alergia"
+      ],
+      "correctIndex": 1,
+      "explanation": "El dedo está negro, muerto; hay olor a pus."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Tadeusz cuando el doctor habla de la amputación?",
+      "answers": [
+        "Que duele",
+        "\"Pero no duele\"",
+        "Que acepta de inmediato",
+        "Que irá a otro médico"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite: pero no duele."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le deja Tadeusz al doctor a su regreso?",
+      "answers": [
+        "Dinero",
+        "El zapato nuevo, pidiéndole que recuerde a los que no vienen",
+        "Una carta",
+        "Una fotografía de su padre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le deja un zapato con una mancha de sangre como advertencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué resultado de hemoglobina glicada tiene Krzysztof un año después?",
+      "answers": [
+        "11,5",
+        "6,2",
+        "9,0",
+        "8,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof vuelve con HbA1c 6,2 tras un año de tratamiento."
+    }
+  ]
+}

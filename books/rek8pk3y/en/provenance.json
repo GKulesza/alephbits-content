@@ -1,0 +1,24 @@
+{
+  "packId": "rek8pk3y:en",
+  "bookId": "rek8pk3y",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "n98W-FSO9vw"
+    }
+  ],
+  "revisionNotes": "Publicystyka naukowa o etyce finansowania badań; wymaga ręcznej weryfikacji szczegółów branżowych."
+}

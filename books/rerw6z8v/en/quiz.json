@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Franek?",
+      "answers": [
+        "Seven",
+        "Ten",
+        "Twelve",
+        "Eight"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text: \"Franek was ten years old.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Franek promise when he asks for Karolek?",
+      "answers": [
+        "That he will never play a prank again",
+        "That he will leave home",
+        "That he will stop going to school",
+        "That he will give away all his toys"
+      ],
+      "correctIndex": 0,
+      "explanation": "He swears he will never play a single prank again."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does Franek ask to teach him to read?",
+      "answers": [
+        "His father",
+        "Miss Gertrude",
+        "Mrs Gienia",
+        "His teacher"
+      ],
+      "correctIndex": 0,
+      "explanation": "He asks his father to teach him to read for Karolek's sake."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Franek read to Karolek in the evenings?",
+      "answers": [
+        "Books about nature and friendship",
+        "Newspapers",
+        "Horror comics",
+        "Maps"
+      ],
+      "correctIndex": 0,
+      "explanation": "He reads about squirrels, chestnuts, autumn leaves, friendship."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Franek change in the eyes of the neighbours?",
+      "answers": [
+        "From a \"scamp\" into a respected boy",
+        "He disappears from the house",
+        "He becomes an adult",
+        "Nothing changes"
+      ],
+      "correctIndex": 0,
+      "explanation": "They say \"Franek\", not \"Franek the rascal\"."
+    }
+  ]
+}

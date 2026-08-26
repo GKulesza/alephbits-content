@@ -1,0 +1,406 @@
+# Una casa afinada
+
+## Metadata
+
+**Pack ID:** rsnvnq65
+**Book ID:** rsnvnq65
+**Legacy Pack ID:** polish_dostrojony_dom
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Una casa afinada  
+**Subtitle:** Poner en orden el espacio y a ti misma  
+**Blurb:** Tras un taller de meditación, Ewa vuelve a un piso lleno de objetos que una vez tuvieron significado. Con la ayuda de una especialista del espacio empieza a preguntarse no solo por las cosas, sino por cómo quiere vivir. Una historia sobre la casa como espejo del interior — y sobre recuperar poco a poco un lugar para una misma.
+
+**Genres:** everyday_live, short_story  
+**Cover family:** everyday_live  
+**Series:** Collection Four  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes  
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Dostrojony dom" — edición oficial de Collection Four.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** bałagan, minimalizm, tożsamość, przestrzeń osobista  
+
+**Keywords:** dostrojony dom, decluttering, bałagan, medytacja, porządkowanie  
+
+**Editorial notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
+
+---
+**World:**
+- places: home
+- objects: window
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 23.05.2025 -> https://www.youtube.com/watch?v=5ICpiZ6Mje8  
+**Revision notes:** Fikcja o porządkowaniu przestrzeni i tożsamości; pełny tekst z manuskryptu Collection Four.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-10 | Collection Four migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — name case (Asia) |
+
+---
+## Sources
+
+### Source 1: Collection Four manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=5ICpiZ6Mje8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2025-05-23  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**UNA CASA AFINADA**
+
+Cuando Ewa volvió del taller, su piso tenía exactamente el mismo aspecto que antes de irse. Es decir: fatal.
+
+Estaba en el recibidor con la maleta en la mano, mirando la pila de zapatos que se había derramado por el suelo como lava. En el perchero colgaban catorce abrigos. Catorce. Vivía sola.
+
+– Pues aquí estamos – se dijo en voz baja. – Otra vez.
+
+Durante una semana en el centro de meditación se había sentido ligera. Tenía planes, propósitos, una visión de sí misma como una persona organizada. Tenía intención de volver y por fin domar ese caos. Y ahora estaba aquí, mirando la pila de zapatos, y sentía que la energía se le escapaba gota a gota.
+
+Respiró hondo. Luego otra vez.
+
+– Solo un paso – dijo. – Solo uno.
+
+Pero no dio ninguno. En lugar de eso, fue a la cocina, puso el hervidor y se sentó a la mesa, sobre la que se amontonaban papeles de hacía tres meses.
+
+Y entonces sonó el teléfono.
+
+– Ewa, estoy por tu barrio. ¿Subo a tomar un café? – la voz de Asia, su antigua compañera de piso, sonaba alegre e inconsciente.
+
+– No – respondió demasiado rápido. – O sea... está todo hecho un desastre.
+
+– Pues más razón. Ahora voy.
+
+Asia entró veinte minutos después. Se detuvo en el recibidor, miró alrededor y dijo:
+
+– Uau.
+
+– Lo sé – Ewa apretó los labios. – Lo sé, lo sé, lo sé. Pero acabo de volver de ese taller y...
+
+– ¿Y?
+
+– Y pensaba que al volver lo arreglaría. Pero... no puedo. No sé por dónde empezar.
+
+Asia se quitó la chaqueta y la puso en la única silla libre del salón.
+
+– Escucha. Conozco a alguien. A una mujer que se dedica a esto. Ayuda a la gente... a, bueno, exactamente – hizo un gesto que abarcaba todo el piso.
+
+– ¿Crees que me ayudará?
+
+– No lo sé. Pero puedes probar. No puede ir a peor.
+
+---
+
+Tres días después, Marta estaba en la puerta de Ewa. Tenía el pelo corto, unos ojos tranquilos y una sonrisa que hizo que Ewa se relajara un poco al instante.
+
+– Señora Marta, gracias por venir – Ewa se apartó para dejarle paso. – Perdón por el desorden.
+
+Marta entró. Miró alrededor con atención, pero Ewa no percibió ningún juicio en su mirada.
+
+– ¿Y qué es el desorden? – preguntó Marta, sentándose en el sofá. – Para ti.
+
+Ewa se sentó enfrente.
+
+– Es... no sé. Todo lo que no soy capaz de ordenar. Esas cosas que están tiradas y acumulan polvo. Y que me recuerdan que soy un desastre.
+
+– ¿O sea que dices que el desorden es la prueba de que eres un desastre?
+
+– Pues... sí.
+
+Marta sonrió.
+
+– ¿Y si te digo que el desorden no es la prueba de que eres un desastre, sino la prueba de que algo en tu vida necesita atención? ¿Que es una señal, no una sentencia?
+
+Ewa la miró con escepticismo.
+
+– ¿Señal de qué?
+
+– De lo que hay dentro de ti. Lo que tienes en casa es un reflejo de lo que tienes dentro. Y si te fijas en ello, puedes aprender mucho de ti misma.
+
+Marta señaló la pila de zapatos del recibidor.
+
+– Dime – preguntó. – ¿Cuándo fue la última vez que usaste esos zapatos?
+
+Ewa miró la pila. Había zapatillas, botines, sandalias, bailarinas. Algunas recordaban aún su época de estudiante.
+
+– La mayoría... no los he usado en años.
+
+– ¿Por qué los guardas?
+
+– Porque... pues, pueden venir bien. Por si acaso.
+
+– ¿Por si acaso qué?
+
+Ewa dudó.
+
+– No sé. A lo mejor algún día los necesito. A lo mejor algún día...
+
+– ¿A lo mejor algún día vuelves a ser la que eras? – la interrumpió Marta con suavidad. – ¿Esa versión más joven de ti misma que llevaba esos zapatos?
+
+Ewa sintió que algo le oprimía la garganta.
+
+– No sé. Quizá.
+
+– ¿Y quién eres ahora?
+
+– No lo sé – confesó en voz baja. – Creía que lo sabía. Pero últimamente... cada vez menos.
+
+Marta asintió, como si fuera exactamente lo que esperaba.
+
+– Entonces quizá empecemos por ahí. Por encontrar la respuesta a esa pregunta: quién eres ahora. Y qué necesitas para vivir en coherencia con esa persona.
+
+---
+
+Al día siguiente empezaron por el armario. Marta le dijo que lo sacara todo al centro de la habitación.
+
+Ewa miró la montaña de ropa que crecía en el suelo. Había cosas de la época en que trabajaba en la corporación: trajes elegantes que llevaban cinco años colgados en fundas de plástico. Había cosas de la época en que hacía running: chándales que ya le quedaban pequeños. Había cosas que había comprado por impulso, en rebajas, porque eran baratas. Había cosas que le había regalado su madre y que nunca habían encajado con su estilo.
+
+Y había cosas que llevaba cuando conoció a Marcin.
+
+– Este vestido – Ewa cogió un vestido rojo de flores. – Lo llevé en nuestra primera cita.
+
+Marta se acercó.
+
+– ¿Y qué sientes al tenerlo entre las manos?
+
+– Raro. Como si... como si tuviera que volver a aquel día. Entonces era más joven, más tonta, más feliz.
+
+– ¿Fue una cita feliz?
+
+– Sí. Pensé que era el principio de algo grande.
+
+– ¿Y qué pasó?
+
+Ewa dejó caer el vestido sobre las rodillas.
+
+– Se acabó a los tres meses. Él... no estaba listo. Dijo que no era yo, era él. Que tenía sus propios problemas. Y ya está.
+
+– ¿Y has guardado ese vestido desde entonces?
+
+– Sí. Desde hace cinco años.
+
+Marta se sentó a su lado en el suelo.
+
+– ¿Eso significa que sigues esperando a que vuelva? ¿O quizá lo guardas para recordarte que una vez alguien te quiso? ¿Que una vez fuiste capaz de enamorar a alguien?
+
+Ewa miró el vestido. De flores, rojo, tan alegre. Totalmente desencajado con su vida actual.
+
+– No sé. Quizá las dos cosas.
+
+– ¿Y quizá – Marta hablaba con suavidad – ese vestido es un símbolo de que crees que ya nunca tendrás un momento así? ¿De que lo mejor ya pasó?
+
+Ewa sintió que se le humedecían los ojos.
+
+– ¿Y si es así?
+
+– Si es así, ¿qué harías si creyeras que no lo es? ¿Si creyeras que lo mejor está todavía por llegar?
+
+Ewa callaba.
+
+– No lo sé.
+
+– Pues quizá empecemos por ahí – Marta se levantó y le tendió la mano. – Quizá simplemente suéltalo. Suelta el vestido, suelta a Marcin, suelta la idea de que ya no te espera nada. Quizá haz sitio para algo nuevo.
+
+Ewa se quedó mirando el vestido rojo durante un largo rato. Luego, muy despacio, lo metió en una bolsa con el letrero "para donar".
+
+---
+
+En los días siguientes empezó a pasar algo extraño. Ewa se deshacía de ropa, pero con cada bolsa que sacaba de casa sentía que algo cambiaba dentro de ella. Aún no sabía qué, pero sentía que era bueno.
+
+Una noche, cuando Marta ya se había ido, Ewa se sentó en el suelo entre las cosas extendidas. Cogió una hoja vieja y arrugada de un cuaderno. Tenía un dibujo: el suyo, de la época del instituto. Entonces había dibujado una casa. Grande, con jardín, con ventanas en las que brillaba luz.
+
+– Querías tener una casa así – se dijo.
+
+Y entonces le vino a la cabeza algo que no terminaba de entender. Quizá aquella casa que dibujaba de adolescente no era solo una casa. Quizá era un lugar donde podía ser ella misma. Un lugar donde no tenía que fingir. Un lugar al que podía volver después de un día duro y sentirse a salvo.
+
+Y su piso no era ese lugar. Era un almacén, un depósito, una guardería de un pasado que no quería irse.
+
+Al día siguiente llamó a Marta.
+
+– Creo que ya sé de qué va todo esto – dijo.
+
+– Dime.
+
+– Me gustaría crear una casa donde de verdad quiera vivir. No para nadie, no para presumir. Para mí.
+
+Marta sonrió por teléfono.
+
+– Es lo mejor que podías decir. Entonces, hagámoslo.
+
+---
+
+Durante las semanas siguientes, Ewa reformó su piso habitación por habitación. Cada objeto era sometido a interrogatorio: "¿Esto me sirve? ¿Es esto lo que soy ahora? ¿Me ayuda a ser la persona que quiero ser?"
+
+Muchas cosas no pasaron la prueba. Acabaron en bolsas, en cajas, en contenedores de ropa. Pero algunas se quedaron. Y las que se quedaron ganaron de pronto un significado nuevo.
+
+Cuando terminó, se sentó en el centro del salón y miró a su alrededor. Las paredes eran más claras, el espacio estaba abierto. En las estanterías solo había libros que de verdad le gustaban. En las paredes colgaban las fotografías que de verdad quería mirar.
+
+– Esta es tu casa – dijo Marta, de pie en la puerta. – Y esta eres tú. Y ahora la pregunta: ¿y ahora qué?
+
+Ewa sonrió.
+
+– Me siento rara. Como si... respirara por primera vez en años.
+
+– Eso es lo que hace un espacio que te favorece. Te da aire. Y ahora que tienes aire, ¿qué quieres hacer con él?
+
+Ewa miró sus manos.
+
+– Creo que quiero... empezar a vivir. De verdad. Sin esperar. Sin aplazarlo. Simplemente vivir.
+
+Marta asintió.
+
+– Es lo mejor que podías decir.
+
+Y entonces Ewa hizo algo que no hacía desde hacía años. Se levantó, se acercó a la ventana, la abrió de par en par y respiró hondo. El viento traía olor a primavera, a frescura y a algo que podía ser esperanza.
+
+– ¿Marta? – dijo, sin volverse.
+
+– ¿Sí?
+
+– Gracias. De verdad.
+
+– No me des las gracias. Dáselas a ti. Tú hiciste todo el trabajo. Yo solo te enseñé dónde mirar.
+
+---
+
+Pasaron los meses. Ewa no se convirtió en una minimalista radical. Tenía cosas que amaba. Tenía recuerdos a los que volvía con una sonrisa. Pero ya no eran un lastre.
+
+Un día, mientras revisaba una caja vieja, se topó con el dibujo del instituto. La misma casa que había dibujado veinte años antes. Sonrió.
+
+– No se trata de la casa – se dijo. – Se trata de mudarse a ella.
+
+Y entonces comprendió que era exactamente lo que había hecho. Se había mudado de nuevo a su propia vida.
+
+---
+
+**FIN**
+
+---
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué siente Ewa justo después de volver del taller de meditación?
+
+**Answers:**
+- A) Alegría porque el piso está perfectamente limpio
+- B) Decepción y pérdida de energía ante el caos conocido
+- C) Indiferencia ante el desorden
+- D) Ganas de mudarse de inmediato
+
+**Correct:** B
+**Explanation:** Tras una semana en el centro, vuelve al mismo desorden y siente que la energía se le escapa.
+**Text reference:** la energía se le escapaba gota a gota
+
+### Question 2
+
+**Question:** ¿Quién ayuda a Ewa a empezar a trabajar en su piso?
+
+**Answers:**
+- A) Su antigua compañera de piso Asia, que le presenta a Marta
+- B) Un vecino cualquiera del piso de arriba
+- C) El cura de la parroquia
+- D) Un agente inmobiliario
+
+**Correct:** A
+**Explanation:** Asia visita a Ewa y le propone contactar con una mujer que ayuda a la gente a ordenar sus pisos.
+**Text reference:** Conozco a alguien. A una mujer que se dedica a esto
+
+### Question 3
+
+**Question:** ¿Qué descubrimiento hace Ewa al mirar el dibujo antiguo del instituto?
+
+**Answers:**
+- A) Que se trata de construir la casa, no de mudarse a la propia vida
+- B) Que quiere vender el piso de inmediato
+- C) Que decide hacerse arquitecta
+- D) Que considera el desorden una herencia familiar
+
+**Correct:** A
+**Explanation:** La reflexión final dice directamente que no se trata de la casa, sino de mudarse a ella.
+**Text reference:** No se trata de la casa, se trata de mudarse a ella
+
+### Question 4
+
+**Question:** ¿Cómo describe Marta el papel de un espacio ordenado?
+
+**Answers:**
+- A) Como una manera de aumentar el valor de mercado del piso
+- B) Como algo que da aire y permite decidir qué viene después
+- C) Como una obligación de toda mujer de más de treinta
+- D) Como un sustituto de la terapia farmacológica
+
+**Correct:** B
+**Explanation:** Marta dice que un espacio que favorece da aire, y luego se puede decidir qué hacer con él.
+**Text reference:** Te da aire
+
+### Question 5
+
+**Question:** ¿Cuál es el estado final de Ewa respecto a sus cosas?
+
+**Answers:**
+- A) Se vuelve una minimalista radical sin recuerdos
+- B) Conserva lo que ama, pero las cosas dejan de ser un lastre
+- C) Le da el piso a su hermana
+- D) Deja de limpiar por completo
+
+**Correct:** B
+**Explanation:** El epílogo subraya que tiene cosas y recuerdos, pero ya no son un lastre.
+**Text reference:** ya no eran un lastre
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

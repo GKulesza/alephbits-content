@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What was Anna supposed to write an article about, but kept putting off the work?",
+      "answers": [
+        "The effect of sweetening substances on cellular metabolism",
+        "The history of astronomy",
+        "Organic chemistry for high school",
+        "String theory"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the start, the text mentions an article on the effect of sweetening substances on cellular metabolism."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Professor Nowak propose to Anna?",
+      "answers": [
+        "Unpaid leave",
+        "Funding research on a new generation of sweeteners by a big company",
+        "Moving to another country",
+        "Giving up her doctorate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak talks about a company that wants to fund research on a new generation of sweeteners."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Anna hesitate before accepting the sponsorship?",
+      "answers": [
+        "Because she doesn't like the laboratory",
+        "Because she knows corporate money can distort results and bring obligations",
+        "Because she doesn't know English",
+        "Because she wants to become a politician"
+      ],
+      "correctIndex": 1,
+      "explanation": "The whole plot concerns the conflict between funding and scientific honesty."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Anna end her story?",
+      "answers": [
+        "She signs a settlement with the corporation",
+        "She says she would do the same thing again, even if it had to happen over",
+        "She leaves science without a word",
+        "She publishes false results"
+      ],
+      "correctIndex": 1,
+      "explanation": "She ends with the declaration that she would do the same again — she became a scientist, not a tool."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the main message of the story?",
+      "answers": [
+        "Science is always free of politics",
+        "Science without truth becomes a tool of manipulation",
+        "Corporations always tell the truth",
+        "Research doesn't need money"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final reflection states directly that science without truth is a tool of manipulation."
+    }
+  ]
+}

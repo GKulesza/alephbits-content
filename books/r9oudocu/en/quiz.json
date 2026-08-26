@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why is Tadeusz wearing the new shoes?",
+      "answers": [
+        "For work",
+        "For his son's wedding",
+        "For running",
+        "For church"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says they are new shoes for his son's wedding."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the doctor see after the sock is taken off?",
+      "answers": [
+        "A plain callus",
+        "A dead, black toe and the smell of pus",
+        "A fracture",
+        "An allergy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The toe is black and dead; there is the smell of pus."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tadeusz say when the doctor talks about amputation?",
+      "answers": [
+        "That it hurts",
+        "\"But it doesn't hurt\"",
+        "That he agrees right away",
+        "That he'll see another doctor"
+      ],
+      "correctIndex": 1,
+      "explanation": "He repeats: but it doesn't hurt."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tadeusz leave the doctor on his return?",
+      "answers": [
+        "Money",
+        "The new shoe — asking him to remember those who don't come",
+        "A letter",
+        "A photograph of his father"
+      ],
+      "correctIndex": 1,
+      "explanation": "He leaves a shoe with a bloodstain as a warning."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Krzysztof's glycated haemoglobin result a year later?",
+      "answers": [
+        "11.5",
+        "6.2",
+        "9.0",
+        "8.0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof returns with HbA1c 6.2 after a year of treatment."
+    }
+  ]
+}

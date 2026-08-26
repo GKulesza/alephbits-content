@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Franek?",
+      "answers": [
+        "Siete",
+        "Diez",
+        "Doce",
+        "Ocho"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto: \"Franek tenía diez años\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué promete Franek cuando pide acoger a Karolek?",
+      "answers": [
+        "Que nunca más hará ninguna broma",
+        "Que se irá de casa",
+        "Que dejará de ir al colegio",
+        "Que regalará todos sus juguetes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jura que nunca más hará ninguna broma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién pide Franek que le enseñe a leer?",
+      "answers": [
+        "A su padre",
+        "A la señorita Gertruda",
+        "A la señora Gienia",
+        "A su profesor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pide a su padre que le enseñe a leer para Karolek."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le lee Franek a Karolek por las noches?",
+      "answers": [
+        "Libros sobre la naturaleza y la amistad",
+        "Periódicos",
+        "Cómics de terror",
+        "Mapas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le lee sobre ardillas, castañas, hojas de otoño, amistad."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo cambia Franek a los ojos de los vecinos?",
+      "answers": [
+        "De \"golfo\" a chico respetado",
+        "Desaparece de la casa",
+        "Se convierte en adulto",
+        "No cambia nada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dicen \"Franek\", y no \"Franek el golfo\"."
+    }
+  ]
+}

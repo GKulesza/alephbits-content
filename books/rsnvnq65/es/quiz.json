@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué siente Ewa justo después de volver del taller de meditación?",
+      "answers": [
+        "Alegría porque el piso está perfectamente limpio",
+        "Decepción y pérdida de energía ante el caos conocido",
+        "Indiferencia ante el desorden",
+        "Ganas de mudarse de inmediato"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tras una semana en el centro, vuelve al mismo desorden y siente que la energía se le escapa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién ayuda a Ewa a empezar a trabajar en su piso?",
+      "answers": [
+        "Su antigua compañera de piso Asia, que le presenta a Marta",
+        "Un vecino cualquiera del piso de arriba",
+        "El cura de la parroquia",
+        "Un agente inmobiliario"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asia visita a Ewa y le propone contactar con una mujer que ayuda a la gente a ordenar sus pisos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué descubrimiento hace Ewa al mirar el dibujo antiguo del instituto?",
+      "answers": [
+        "Que se trata de construir la casa, no de mudarse a la propia vida",
+        "Que quiere vender el piso de inmediato",
+        "Que decide hacerse arquitecta",
+        "Que considera el desorden una herencia familiar"
+      ],
+      "correctIndex": 0,
+      "explanation": "La reflexión final dice directamente que no se trata de la casa, sino de mudarse a ella."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Marta el papel de un espacio ordenado?",
+      "answers": [
+        "Como una manera de aumentar el valor de mercado del piso",
+        "Como algo que da aire y permite decidir qué viene después",
+        "Como una obligación de toda mujer de más de treinta",
+        "Como un sustituto de la terapia farmacológica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta dice que un espacio que favorece da aire, y luego se puede decidir qué hacer con él."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es el estado final de Ewa respecto a sus cosas?",
+      "answers": [
+        "Se vuelve una minimalista radical sin recuerdos",
+        "Conserva lo que ama, pero las cosas dejan de ser un lastre",
+        "Le da el piso a su hermana",
+        "Deja de limpiar por completo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo subraya que tiene cosas y recuerdos, pero ya no son un lastre."
+    }
+  ]
+}

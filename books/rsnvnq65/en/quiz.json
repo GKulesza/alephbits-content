@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Ewa feel right after returning from the meditation workshop?",
+      "answers": [
+        "Joy that the flat is perfectly clean",
+        "Disappointment and a loss of energy in the face of the familiar chaos",
+        "Indifference toward the mess",
+        "A wish to move out immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "After a week at the centre she returns to the same mess and feels the energy draining out of her."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who helps Ewa start working on her flat?",
+      "answers": [
+        "Her former flatmate Asia, who brings Marta along",
+        "A random neighbour from the floor above",
+        "The priest from the parish",
+        "A real estate agent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asia visits Ewa and proposes a contact with a woman who helps people tidy their flats."
+    },
+    {
+      "type": "single_choice",
+      "question": "What discovery does Ewa make looking at the old drawing from high school?",
+      "answers": [
+        "That it's about building a house, not about moving into your own life",
+        "That she wants to sell the flat right away",
+        "That she decides to become an architect",
+        "That she considers the mess a family inheritance"
+      ],
+      "correctIndex": 0,
+      "explanation": "The final reflection says directly that it's not about the house, but about moving into it."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Marta describe the role of an orderly space?",
+      "answers": [
+        "As a way to increase the market value of the flat",
+        "As something that gives you breath and lets you decide what's next",
+        "As a duty of every woman over thirty",
+        "As a substitute for drug therapy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta says that a space which suits you gives you breath, and then you can decide what to do with it."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is Ewa's final state toward her things?",
+      "answers": [
+        "She becomes a radical minimalist without memories",
+        "She keeps what she loves, but the things stop being a burden",
+        "She gives the flat to her sister",
+        "She stops cleaning altogether"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue stresses that she has things and memories, but they are no longer a burden."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Sobre qué tenía que escribir Anna un artículo, pero iba aplazando el trabajo?",
+      "answers": [
+        "Sobre el efecto de las sustancias edulcorantes en el metabolismo celular",
+        "Sobre la historia de la astronomía",
+        "Sobre química orgánica del instituto",
+        "Sobre la teoría de cuerdas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Al principio, el texto habla de un artículo sobre el efecto de las sustancias edulcorantes en el metabolismo celular."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué propone el profesor Nowak a Anna?",
+      "answers": [
+        "Vacaciones sin sueldo",
+        "Financiar una investigación sobre una nueva generación de edulcorantes por una gran empresa",
+        "Cambiar de país",
+        "Renunciar al doctorado"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak habla de una empresa que quiere financiar una investigación sobre una nueva generación de edulcorantes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué duda Anna antes de aceptar el patrocinio?",
+      "answers": [
+        "Porque no le gusta el laboratorio",
+        "Porque sabe que el dinero del consorcio puede distorsionar los resultados y traer obligaciones",
+        "Porque no sabe inglés",
+        "Porque quiere ser política"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toda la trama gira en torno al conflicto entre la financiación y la honestidad científica."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina su historia Anna?",
+      "answers": [
+        "Firma un acuerdo con el consorcio",
+        "Dice que haría lo mismo aunque tuviera que repetirse",
+        "Abandona la ciencia sin decir palabra",
+        "Publica resultados falsos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termina con la declaración de que haría lo mismo: se convirtió en científica, no en herramienta."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es el mensaje principal de la historia?",
+      "answers": [
+        "La ciencia siempre es ajena a la política",
+        "La ciencia sin verdad se convierte en una herramienta de manipulación",
+        "Los consorcios siempre dicen la verdad",
+        "La investigación no necesita dinero"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice directamente que la ciencia sin verdad es una herramienta de manipulación."
+    }
+  ]
+}

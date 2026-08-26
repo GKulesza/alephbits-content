@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Anna?",
+      "answers": [
+        "32",
+        "42",
+        "52",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text: \"Anna was forty-two years old.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomek remember from childhood that is painful for Anna?",
+      "answers": [
+        "Only the presents",
+        "That his mum often shouted and cancelled the cinema trip",
+        "Only the holidays",
+        "Nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek remembers the shouting and the cancelled cinema."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Anna write the list?",
+      "answers": [
+        "For the neighbours",
+        "To understand her mistakes and change something — not to blame herself",
+        "For the court",
+        "For the school"
+      ],
+      "correctIndex": 1,
+      "explanation": "She wrote the list to understand and to change, not to blame herself."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomek do with the old photographs?",
+      "answers": [
+        "Throws them away",
+        "Scans them and organises an album of memories",
+        "Sells them",
+        "Burns them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek scans the photographs from the box — \"our memories\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomek write about the regret list?",
+      "answers": [
+        "He is angry",
+        "He is grateful — it shows his mum cares and loves him",
+        "He ignores his mother",
+        "He wants money"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek: the list shows she cares and loves him — that's the most important thing."
+    }
+  ]
+}
