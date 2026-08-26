@@ -5,8 +5,8 @@
 **Pack ID:** o4b9uoe3
 **Book ID:** o4b9uoe3
 **Legacy Pack ID:** polish_samolot
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Samolot  
 **Subtitle:** ADHD, hiperfokus i odrzucenie wrażliwe  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Polish prose correction — grammar (który→która) + quiz answer length |
 
 ### Editorial history
 
@@ -201,7 +202,7 @@ Czuła, że to obietnica.
 
 Kilka miesięcy później Kamila otrzymała wiadomość od kobiety z warsztatów:
 
-_"Dostałam diagnozę. ADHD. Czuję się, jakby ktoś zdjął mi z ramion ciężar, który nosiłam od dziecka. Dziękuję, że byłaś tym, który powiedział mi, że nie jestem zepsuta."_
+_"Dostałam diagnozę. ADHD. Czuję się, jakby ktoś zdjął mi z ramion ciężar, który nosiłam od dziecka. Dziękuję, że byłaś tą, która powiedziała mi, że nie jestem zepsuta."_
 
 Kamila przeczytała wiadomość trzy razy. Potem włożyła telefon do kieszeni i wróciła do pracy. Miała przed sobą kolejny projekt, kolejny deadline, kolejną szansę na to, żeby pokazać, co potrafi.
 
@@ -279,10 +280,10 @@ Bo wiedziała, że nie musi być autem. Może być samolotem. I to, co na ziemi 
 **Question:** Co Kamila prosi zespół robić z uwagami?
 
 **Answers:**
-- A) Ignorować je
-- B) Dawać uwagi rano, bo po południu nie jest w stanie ich dobrze przyjąć
+- A) Po prostu je ignorować
+- B) Dawać uwagi rano, gdy bateria jest pełna
 - C) Pisać je mailowo
-- D) Mówić tylko po angielsku
+- D) Mówić o nich po angielsku
 
 **Correct:** B
 **Explanation:** Prosi o uwagi rano — po południu bateria jest na zero.

@@ -5,8 +5,8 @@
 **Pack ID:** qa3s8ke2
 **Book ID:** qa3s8ke2
 **Legacy Pack ID:** polish_prog
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Próg  
 **Subtitle:** Piąta czterdzieści siedem i pukanie policji  
@@ -71,6 +71,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar fix “drzwi otworzyły się” |
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
 
 ### Editorial history
@@ -126,7 +127,7 @@ Uniwersytet Ekonomiczny w Poznaniu pachniał środkiem do podłogi i wieczną ka
 
 – No to pukaj.
 
-Przemek zapukał. Drzwi otworzyła się natychmiast, jakby ktoś za nimi czekał. Stała w nich młoda kobieta, uśmiechnięta, z telefonem w dłoni – już nagrywała.
+Przemek zapukał. Drzwi otworzyły się natychmiast, jakby ktoś za nimi czekał. Stała w nich młoda kobieta, uśmiechnięta, z telefonem w dłoni – już nagrywała.
 
 – Dzień dobry – powiedział Przemek. – Nazywam się Przemysław Grzegorek. Czy mogę zadać pani kilka pytań?
 

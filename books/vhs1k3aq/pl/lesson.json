@@ -8,8 +8,8 @@
   "legacySlug": "chor",
   "title": "Chór",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Magda i Tomek kłócą się o ekran syna, ale pod spodem walczą o traumy własnych rodziców i o to, czy wciąż są dla siebie partnerami. Po podcaście Agi Rogali zaczynają rozmawiać — nie idealnie, ale naprawdę.",
   "author": {
@@ -65,7 +65,7 @@
       },
       {
         "type": "single_choice",
-        "question": "Czyja podcastowa myśl Magda przywołuje w sypialni?",
+        "question": "Czyją podcastową myśl Magda przywołuje w sypialni?",
         "answers": [
           "Jespera Jula",
           "Agi Rogali",

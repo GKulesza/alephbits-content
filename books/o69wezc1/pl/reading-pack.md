@@ -5,8 +5,8 @@
 **Pack ID:** o69wezc1
 **Book ID:** o69wezc1
 **Legacy Pack ID:** polish_zielona_poswiata
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Zielona poświata  
 **Subtitle:** Audycja na granicy rozrywki i ostrzeżenia  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (pańską audycję, pytań i odpowiedzi) |
 
 ### Editorial history
 
@@ -99,7 +100,7 @@ Krzysztof siedział przed mikrofonem w swoim gabinecie, patrząc na zieloną po�
 
 Uśmiechnął się do siebie. "Dla celów rozrywkowych" – to było jego mantra, jego tarcza. Mówił o teoriach, ale w rzeczywistości mówił o prawdach, które nie miały jeszcze nazwy. I wiedział, że dziś będzie inaczej.
 
-— Dziś wersja pytania i odpowiedzi — kontynuował. — To państwo decydujecie o tym, o czym będziemy mówić.
+— Dziś wersja pytań i odpowiedzi — kontynuował. — To państwo decydujecie o tym, o czym będziemy mówić.
 
 Spojrzał na ekran, gdzie pojawiały się pierwsze pytania. Jego wzrok zatrzymał się na jednym:
 
@@ -149,7 +150,7 @@ Kim jest "jeden z nich"?
 
 Trzy dni później Krzysztof otrzymał list. Był zaadresowany odręcznie, bez nadawcy, ale on wiedział, od kogo pochodzi. Otworzył go drżącymi rękami.
 
-_"Panie Krzysztofie"_ – przeczytał. _"Słyszałem pana audycję o żółtym proszku. O preparatach przedłużających młodość. O przepowiedni Słowika. Chcę panu powiedzieć coś, czego nie powinien pan wiedzieć. Ale pan już to wie, prawda? Pan zawsze wie."_
+_"Panie Krzysztofie"_ – przeczytał. _"Słyszałem pańską audycję o żółtym proszku. O preparatach przedłużających młodość. O przepowiedni Słowika. Chcę panu powiedzieć coś, czego nie powinien pan wiedzieć. Ale pan już to wie, prawda? Pan zawsze wie."_
 
 Zrobiło mu się zimno. Czytał dalej:
 

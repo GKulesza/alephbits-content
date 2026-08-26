@@ -7,9 +7,9 @@
       "type": "single_choice",
       "question": "Kiedy Zosia po raz pierwszy słyszy, że jest „grzeczną dziewczynką”?",
       "answers": [
-        "W szkole",
+        "W szkole, na lekcji",
         "Ma około pięciu lat przy śniadaniu",
-        "Na studiach",
+        "Na studiach, podczas zajęć",
         "Po urodzeniu syna"
       ],
       "correctIndex": 1,
@@ -19,8 +19,8 @@
       "type": "single_choice",
       "question": "Co Zosia robi po raz pierwszy w wieku ~15 lat?",
       "answers": [
-        "Zmienia szkołę",
-        "Mówi „nie jadę” na próbę chóru",
+        "Zmienia szkołę w połowie roku",
+        "Odmawia wyjazdu na próbę chóru",
         "Wyjeżdża na Erasmusa",
         "Rezygnuje z Instagrama"
       ],
@@ -44,8 +44,8 @@
       "question": "Co Zosia zaczyna robić w czasie pandemii i trudnej ciąży?",
       "answers": [
         "Pisać powieść kryminalną",
-        "Nagrywać rozmowy i publikować w social media",
-        "Prowadzić restaurację",
+        "Nagrywać rozmowy i publikować je w sieci",
+        "Prowadzić restaurację w mieście",
         "Uczyć się programowania"
       ],
       "correctIndex": 1,
@@ -56,9 +56,9 @@
       "question": "Co Zosia powiedziałaby swojej młodej wersji?",
       "answers": [
         "Bądź jeszcze bardziej idealna",
-        "Nie musisz być doskonała — wystarczy, że będziesz sobą",
-        "Rzuć szkołę",
-        "Nigdy nie mów nie"
+        "Nie musisz być doskonała — wystarczy być sobą",
+        "Rzuć szkołę i wyjedź z miasta",
+        "Nigdy nie mów nikomu „nie”"
       ],
       "correctIndex": 1,
       "explanation": "W wywiadzie mówi: „Nie musisz być taka doskonała. Wystarczy, że będziesz sobą”."

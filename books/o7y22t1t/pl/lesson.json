@@ -8,8 +8,8 @@
   "legacySlug": "metoda-feynmana",
   "title": "Metoda Feynmana",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-09",
   "description": "Pod filmem o fizyce ktoś pyta, czy nauka wyjaśnia wszystko. Profesor Marek zaczyna odpowiadać od wzorów, a kończy przy pytaniach, których nie da się zamknąć w równaniu. Opowieść o ciekawości, która nie boi się granic wiedzy, i o tym, jak uczyć innych, nie udając pewności co do wszystkiego.",
   "author": {
@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Co uruchamia rozważania Marka w tej opowieści?",
         "answers": [
-          "Awaria laboratorium",
-          "Komentarze widzów pytających o zło, świadomość i fizykę",
-          "List od noblisty",
-          "Nowy grant badawczy"
+          "Awaria laboratorium fizycznego",
+          "Komentarze widzów o złu i świadomości",
+          "List od zagranicznego noblisty",
+          "Nowy grant badawczy z ministerstwa"
         ],
         "correctIndex": 1,
         "explanation": "To komentarze pod jego filmem wytrącają go z naukowej rutyny."
@@ -56,7 +56,7 @@
         "question": "Jaką granicę Marek zaczyna dostrzegać jako fizyk?",
         "answers": [
           "Że matematyka nigdy nie działa",
-          "Że wzory nie wystarczają do pełnego wyjaśnienia pytań moralnych i egzystencjalnych",
+          "Że wzory nie wyjaśnią pytań o sens",
           "Że nie da się mówić o atomach publicznie",
           "Że świadomość można już dokładnie zmierzyć"
         ],
@@ -68,7 +68,7 @@
         "question": "Do czego prowadzi Marka powrót do notatnika z młodości?",
         "answers": [
           "Do odrzucenia całej fizyki kwantowej",
-          "Do spekulacji o związku myśli, częstotliwości i świadomości",
+          "Do spekulacji o myślach, falach i świadomości",
           "Do napisania pracy o ekonomii",
           "Do zakupu nowego radia"
         ],
@@ -80,7 +80,7 @@
         "question": "Co Marek uznaje za ważne przesłanie fizyki wobec śmierci?",
         "answers": [
           "Że można empirycznie dowieść reinkarnacji",
-          "Że materia i energia nie znikają, lecz się przekształcają",
+          "Że nic nie znika, wszystko się przekształca",
           "Że śmierć jest wyłącznie błędem biologii",
           "Że atomy przestają istnieć"
         ],
@@ -92,7 +92,7 @@
         "question": "Dlaczego ten tekst wymaga ostrożnej lektury jako materiał popularnonaukowy?",
         "answers": [
           "Bo nie zawiera żadnych naukowych pojęć",
-          "Bo przechodzi od fizyki do metaforycznych i filozoficznych interpretacji, których sam Marek nie może dowieść",
+          "Bo miesza fizykę z filozoficznymi spekulacjami",
           "Bo zaprzecza istnieniu atomów",
           "Bo opisuje wyłącznie religię"
         ],
@@ -107,7 +107,7 @@
   "trustClassification": "inspired_by_reality",
   "editorialHistory": {
     "firstPublished": "2026-07-09",
-    "lastEditorialUpdate": "2026-07-09"
+    "lastEditorialUpdate": "2026-08-26"
   },
   "inspirationDates": [
     "2026-07-04"

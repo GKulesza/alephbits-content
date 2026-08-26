@@ -5,12 +5,12 @@
 **Pack ID:** mi8x76rk
 **Book ID:** mi8x76rk
 **Legacy Pack ID:** polish_pudelko_po_ciastkach
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Pudełko po ciastkach  
 **Subtitle:** Dziedziczenie lęku i porządkowanie pamięci  
-**Blurb:** Po śmierci matki Krzysztof wchodzi do mieszkania, w którym każdy kąt coś skrywa. Pudełka, gazety i przedmioty „na później” tworzą labirynt, którego sensu nie zna nikt spoza rodziny. Opowieść o lęku przed rozstanie i o powolnym rozumieniu, skąd bierze się potrzeba trzymania.
+**Blurb:** Po śmierci matki Krzysztof wchodzi do mieszkania, w którym każdy kąt coś skrywa. Pudełka, gazety i przedmioty „na później” tworzą labirynt, którego sensu nie zna nikt spoza rodziny. Opowieść o lęku przed rozstaniem i o powolnym rozumieniu, skąd bierze się potrzeba trzymania.
 
 **Genres:** article, short_story  
 **Cover family:** article  
@@ -60,6 +60,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.1.0 | 2026-08-26 | Polish prose corrections (typo, repetition, fragment, ojciec→matka) + quiz answer lengths |
 
 ---
 ## Sources
@@ -99,7 +100,7 @@ Za nim stanęła jego córka, Lena. Miała dwadzieścia trzy lata, rude włosy u
 Przesunął ręką po framudze drzwi. Palce natrafiły na coś lepkiego. Nie chciał sprawdzać co.
 
 
-Przez następne trzy godziny chodzili po mieszkaniu jak przez muzeum osobliwości. W salonie — bo Krzysztof domyślał się, że to kiedyś był salon — meble stały pod ścianami, ale na nich, na nich i pod nimi piętrzyły się przedmioty. Gazety z lat dziewięćdziesiątych, starannie złożone w stosy. Słoiki, setki słoików, puste i pełne, z datami na wieczkach, które mówiły o przetworach z ostatniego dziesięciolecia. Ubrania w reklamówkach, niektóre jeszcze z metkami. Książki, które nigdy nie zostały przeczytane, stały w rzędach, a przed nimi kolejny rząd książek, a przed nimi jeszcze jeden.
+Przez następne trzy godziny chodzili po mieszkaniu jak przez muzeum osobliwości. W salonie — bo Krzysztof domyślał się, że to kiedyś był salon — meble stały pod ścianami, ale na nich i pod nimi piętrzyły się przedmioty. Gazety z lat dziewięćdziesiątych, starannie złożone w stosy. Słoiki, setki słoików, puste i pełne, z datami na wieczkach, które mówiły o przetworach z ostatniego dziesięciolecia. Ubrania w reklamówkach, niektóre jeszcze z metkami. Książki, które nigdy nie zostały przeczytane, stały w rzędach, a przed nimi kolejny rząd książek, a przed nimi jeszcze jeden.
 
 — Jak ona tu mieszkała? — zapytała Lena, siadając na jedynym wolnym krześle. Szybko wstała, bo coś pod nią chrupnęło.
 
@@ -176,7 +177,7 @@ Krzysztof zamknął oczy. W głowie usłyszał głos matki: "Krzysiu, schowaj to
 Ale zima już dawno minęła. A on wciąż stał w miejscu.
 
 
-W sypialni znaleźli pudełko po ciastkach. Pamiętał je z dzieciństwa, choć wtedy było pełne ciastek. Teraz w środku leżały listy. Listy od jego ojca, który zginął w wypadku, gdy Krzysztof miał dwanaście lat.
+W sypialni znaleźli pudełko po ciastkach. Pamiętał je z dzieciństwa, choć wtedy było pełne ciastek. Teraz w środku leżały listy. Listy od matki, pisane do niego, gdy był małym chłopcem.
 
 Usiadł na podłodze i zaczął czytać. Ręka matki, pismo jej charakterystyczne, pochyłe, trochę niedbałe, bo zawsze mówiła, że nie ma czasu na kaligrafię.
 
@@ -233,7 +234,7 @@ Aż do tej pory nie wiedział, że jego matka też kogoś straciła. Że jej gro
 I zrozumiał, że może to puścić. Nie dlatego, że przestał kochać matkę. Dlatego, że teraz rozumiał, kim naprawdę była.
 
 
-Kiedy ostatnie worki zniknęły, a mieszkanie stało puste i czyste, Krzysztof usiadł na środku salonu. Wokół niego były cztery ściany, okno i drewniana podłoga. Żadnych mebli, żadnych pudeł. Tylko przestrzeń. Tak jak mówiła Ola — ma. Pusta przestrzeń, która czekała na coś nowego.
+Kiedy ostatnie worki zniknęły, a mieszkanie stało puste i czyste, Krzysztof usiadł na środku salonu. Wokół niego były cztery ściany, okno i drewniana podłoga. Żadnych mebli, żadnych pudeł. Tylko przestrzeń. Pusta przestrzeń, która czekała na coś nowego.
 
 — I co teraz? — zapytała Lena, stając w drzwiach.
 
@@ -265,8 +266,8 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 
 **Answers:**
 - A) Jako świetnie zorganizowany magazyn
-- B) Jako przytłaczający chaos budzący wściekłość i załamanie
-- C) Jako projekt artystyczny
+- B) Jako chaos budzący wściekłość i załamanie
+- C) Jako ciekawy projekt artystyczny
 - D) Jako dowód na ukrytą zamożność
 
 **Correct:** B
@@ -278,10 +279,10 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **Question:** Jaki głębszy sens zaczyna dostrzegać w gromadzeniu rzeczy przez matkę?
 
 **Answers:**
-- A) Wyłącznie chęć inwestowania
-- B) Strach przed powrotem biedy i potrzeba kontroli po doświadczeniu niedoboru
-- C) Zabawę w kolekcjonerstwo
-- D) Próbę ukrycia majątku
+- A) Wyłącznie chęć inwestowania pieniędzy
+- B) Strach przed powrotem biedy i potrzebę kontroli
+- C) Zabawę w kolekcjonerstwo drobiazgów
+- D) Próbę ukrycia majątku przed światem
 
 **Correct:** B
 **Explanation:** Nocne wspomnienie PRL-u pozwala mu odczytać rzeczy jako zabezpieczenie przed dawnym lękiem.
@@ -293,9 +294,9 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 
 **Answers:**
 - A) Żeby tylko fizycznie wyrzucić odpady
-- B) Żeby pomóc połączyć porządkowanie rzeczy z rozumieniem emocji i pamięci
+- B) Żeby połączyć porządkowanie rzeczy z rozumieniem emocji
 - C) Żeby sprzedać mieszkanie za wyższą cenę
-- D) Żeby wycenić antyki
+- D) Żeby wycenić antyki i je sprzedać
 
 **Correct:** B
 **Explanation:** Ola nie działa jak firma sprzątająca, lecz jak przewodniczka po żałobie i znaczeniach przedmiotów.
@@ -306,10 +307,10 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **Question:** Dlaczego pudełko po ciastkach okazuje się tak ważne?
 
 **Answers:**
-- A) Bo zawiera pieniądze na remont
-- B) Bo przechowuje listy i ślady codziennej miłości matki oraz ojca
+- A) Bo zawiera pieniądze na remont mieszkania
+- B) Bo przechowuje listy i ślady codziennej miłości matki
 - C) Bo jest najdroższym meblem w domu
-- D) Bo należy do sąsiadów
+- D) Bo należy do sąsiadów z naprzeciwka
 
 **Correct:** B
 **Explanation:** To w pudełku znajdują się rzeczy od razu odczytane jako naprawdę ważne.
@@ -320,9 +321,9 @@ I wtedy po raz pierwszy od wielu miesięcy poczuł, że naprawdę oddycha.
 **Question:** Jaki końcowy ruch wykonuje Krzysztof wobec przeszłości matki?
 
 **Answers:**
-- A) Wyrzeka się jej całkowicie
-- B) Zaczyna rozumieć jej lęk i świadomie puszcza ciężar, którego ona nie umiała puścić
-- C) Przestaje rozmawiać z córką
+- A) Wyrzeka się pamięci o matce całkowicie
+- B) Rozumie jej lęk i puszcza to, czego nie umiała puścić
+- C) Przestaje rozmawiać z córką o przeszłości
 - D) Postanawia zachować wszystko bez zmian
 
 **Correct:** B

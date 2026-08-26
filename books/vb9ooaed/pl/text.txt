@@ -22,7 +22,7 @@ I znalazł. W ciągu kilku tygodni, pracując nocami przy lampie naftowej, Rejew
 
 Lata mijały, a Enigma stawała się coraz bardziej skomplikowana. Niemcy wprowadzali dodatkowe zabezpieczenia, zmieniali ustawienia, dodawali nowe wirniki. Polscy kryptolodzy musieli nieustannie wymyślać nowe metody, by nadążyć za wrogiem. Rejewski zaprojektował więc maszynę, która miała przyspieszyć proces łamania szyfrów – "bombę kryptologiczną", elektromechaniczne urządzenie, które symulowało działanie kilku Enigm naraz i automatycznie sprawdzało możliwe kombinacje.
 
-Pierwsza bomba powstała w 1938 roku. Była wielka, ciężka, hałaśliwa – ale działała. W ciągu dwóch godzin potrafiła znaleźć dzienny klucz Enigmy. To, co kiedyś zajmowało kryptologom tygodnie, teraz było kwestią kilkunastu minut.
+Pierwsza bomba powstała w 1938 roku. Była wielka, ciężka, hałaśliwa – ale działała. W ciągu dwóch godzin potrafiła znaleźć dzienny klucz Enigmy. To, co kiedyś zajmowało kryptologom tygodnie, teraz było kwestią dwóch godzin.
 
 – To zmienia wszystko – powiedział Różycki, obserwując, jak maszyna przetwarza kolejne kombinacje. – Teraz możemy czytać niemieckie rozkazy, zanim dotrą do ich własnych oddziałów.
 

@@ -5,8 +5,8 @@
 **Pack ID:** oecve6pr
 **Book ID:** oecve6pr
 **Legacy Pack ID:** polish_cudaczek_wysmiewaczek
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Cudaczek-Wyśmiewaczek  
 **Subtitle:** Panna Obrażalska i licho od śmiechu  
@@ -72,6 +72,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — character name consistency (Witek→Władek) |
 
 ### Editorial history
 
@@ -182,7 +183,7 @@ Rzuciła zawiniątko na ziemię, rozplotła warkoczyki, potrząsnęła głową �
 Panna Obrażalska zawiązała na pamiątkę na ręce niebieską tasiemkę, zawróciła do domu i postanowiła spróbować.
 
 ---
-Pierwszy dzień był najcięższy. Na przerwie Władek podstawił jej nogę. Panna Obrażalska upadła i już, już miała nadąć buzię, ale zobaczyła niebieską tasiemkę. Przypomniała sobie radę staruszka, wstała, pokazała Witkowi figę i pobiegła się bawić. Cudaczek zaszeptał jej do ucha:
+Pierwszy dzień był najcięższy. Na przerwie Władek podstawił jej nogę. Panna Obrażalska upadła i już, już miała nadąć buzię, ale zobaczyła niebieską tasiemkę. Przypomniała sobie radę staruszka, wstała, pokazała Władkowi figę i pobiegła się bawić. Cudaczek zaszeptał jej do ucha:
 
 — _Obraź się! No obraź się! Będzie śmiesznie!_
 

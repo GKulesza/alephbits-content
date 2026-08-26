@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Co Kamila prosi zespół robić z uwagami?",
       "answers": [
-        "Ignorować je",
-        "Dawać uwagi rano, bo po południu nie jest w stanie ich dobrze przyjąć",
+        "Po prostu je ignorować",
+        "Dawać uwagi rano, gdy bateria jest pełna",
         "Pisać je mailowo",
-        "Mówić tylko po angielsku"
+        "Mówić o nich po angielsku"
       ],
       "correctIndex": 1,
       "explanation": "Prosi o uwagi rano — po południu bateria jest na zero."

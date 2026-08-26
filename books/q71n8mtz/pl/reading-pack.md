@@ -5,8 +5,8 @@
 **Pack ID:** q71n8mtz
 **Book ID:** q71n8mtz
 **Legacy Pack ID:** polish_cien_skrzydel_nad_oceanem
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Cień skrzydeł nad oceanem  
 **Subtitle:** Przypadek Jamesa Leiningera  
@@ -65,6 +65,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question 2 wording made grammatical |
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
 
 ---
@@ -232,7 +233,7 @@ Bo nigdy nie wiadomo, czyje skrzydła wciąż niosą cień nad oceanem.
 
 ### Question 2
 
-**Question:** Co dzieje Jamesa budzi u matki?
+**Question:** Co budzi matkę Jamesa w środku nocy?
 
 **Answers:**
 - A) Koszmar o ogniu i zablokowanej kabinie

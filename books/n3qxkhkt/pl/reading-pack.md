@@ -5,8 +5,8 @@
 **Pack ID:** n3qxkhkt
 **Book ID:** n3qxkhkt
 **Legacy Pack ID:** polish_kapusciana_tajemnica
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Kapuściana tajemnica  
 **Subtitle:** Nudna babcia i mapa do skarbów  
@@ -74,6 +74,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer declension (Jedenastu→Jedenaście) |
 
 ### Editorial history
 
@@ -231,7 +232,7 @@ Nawet jeśli będzie pachniała kapustą.
 
 **Answers:**
 - A) Dziewięć
-- B) Jedenastu
+- B) Jedenaście
 - C) Trzynaście
 - D) Osiem
 

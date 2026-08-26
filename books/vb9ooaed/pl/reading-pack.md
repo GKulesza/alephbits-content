@@ -5,8 +5,8 @@
 **Pack ID:** vb9ooaed
 **Book ID:** vb9ooaed
 **Legacy Pack ID:** polish_cisza_przed_burza
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Cisza przed burzą  
 **Subtitle:** Polscy łamacze Enigmy  
@@ -66,6 +66,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — timing consistency |
 
 ---
 ## Sources
@@ -108,7 +109,7 @@ I znalazł. W ciągu kilku tygodni, pracując nocami przy lampie naftowej, Rejew
 
 Lata mijały, a Enigma stawała się coraz bardziej skomplikowana. Niemcy wprowadzali dodatkowe zabezpieczenia, zmieniali ustawienia, dodawali nowe wirniki. Polscy kryptolodzy musieli nieustannie wymyślać nowe metody, by nadążyć za wrogiem. Rejewski zaprojektował więc maszynę, która miała przyspieszyć proces łamania szyfrów – "bombę kryptologiczną", elektromechaniczne urządzenie, które symulowało działanie kilku Enigm naraz i automatycznie sprawdzało możliwe kombinacje.
 
-Pierwsza bomba powstała w 1938 roku. Była wielka, ciężka, hałaśliwa – ale działała. W ciągu dwóch godzin potrafiła znaleźć dzienny klucz Enigmy. To, co kiedyś zajmowało kryptologom tygodnie, teraz było kwestią kilkunastu minut.
+Pierwsza bomba powstała w 1938 roku. Była wielka, ciężka, hałaśliwa – ale działała. W ciągu dwóch godzin potrafiła znaleźć dzienny klucz Enigmy. To, co kiedyś zajmowało kryptologom tygodnie, teraz było kwestią dwóch godzin.
 
 – To zmienia wszystko – powiedział Różycki, obserwując, jak maszyna przetwarza kolejne kombinacje. – Teraz możemy czytać niemieckie rozkazy, zanim dotrą do ich własnych oddziałów.
 

@@ -5,8 +5,8 @@
 **Pack ID:** ugkv05sz
 **Book ID:** ugkv05sz
 **Legacy Pack ID:** polish_nowy_pacjent
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Nowy pacjent  
 **Subtitle:** HOMA, otyłość i profesor Czupryniak  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — typo |
 
 ### Editorial history
 
@@ -327,7 +328,7 @@ Spojrzał na nią znad okularów.
 
 – Za co?
 
-– Za to, że mi pan nie uwierzył. W tę insulinoporność. Że mi pan powiedział prawdę.
+– Za to, że mi pan nie uwierzył. W tę insulinooporność. Że mi pan powiedział prawdę.
 
 Profesor uśmiechnął się – pierwszy raz tego dnia nie był to uśmiech zmęczonego lekarza, tylko kogoś, kto naprawdę usłyszał.
 

@@ -5,8 +5,8 @@
 **Pack ID:** pe29gd8a
 **Book ID:** pe29gd8a
 **Legacy Pack ID:** polish_czarny_kodeks
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Czarny Kodeks  
 **Subtitle:** Vodou, Haiti i długie życie prawa  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — removed erroneous “w Nikiszowcu” (Polish district) from the Haiti narrative |
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
 
 ---
@@ -139,7 +140,7 @@ Janusz spojrzał na polanę. Wyobraził sobie setki ludzi zgromadzonych w ciemno
 
 Kościół i świątynia
 
-Następnego dnia Jean-Pierre zabrał Janusza do kościoła Świętej Anny w Nikiszowcu. To była niespodzianka.
+Następnego dnia Jean-Pierre zabrał Janusza do kościoła Świętej Anny. To była niespodzianka.
 
 – Dlaczego tu przyjechaliśmy? – zapytał Janusz. – Myślałem, że szukamy Vodou.
 

@@ -5,8 +5,8 @@
 **Pack ID:** tvwaljze
 **Book ID:** tvwaljze
 **Legacy Pack ID:** polish_w_pelni
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** W pełni  
 **Subtitle:** Dziecko kompletne od urodzenia  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Polish prose and quiz correction — typo, chronology, question wording |
 
 ### Editorial history
 
@@ -225,11 +226,11 @@ Ola wprowadziła kalendarz. Karteczki samoprzylepne na lodówce. Przypomnienia w
 
 – Zosiu, co musisz zrobić dzisiaj? – pytała rano.
 
-– Umryć zęby, ubrać się, spakować plecak.
+– Umyć zęby, ubrać się, spakować plecak.
 
 – Dobrze. Co jest najważniejsze?
 
-– Umryć zęby.
+– Umyć zęby.
 
 – To od czego zaczniemy?
 
@@ -238,7 +239,7 @@ Ola wprowadziła kalendarz. Karteczki samoprzylepne na lodówce. Przypomnienia w
 I to działało. Nie zawsze, ale coraz częściej. Zosia uczyła się planować. Uczyła się, że może mieć wpływ na swoje życie. Że nie musi być chaosem.
 
 ---
-Któregoś dnia Franek, który miał już siedem lat, powiedział do Oli:
+Któregoś dnia Franek, który miał już jedenaście lat, powiedział do Oli:
 
 – Mamo, myślę, że jesteś dobrą mamą.
 
@@ -335,10 +336,10 @@ Od samego początku.
 
 ### Question 4
 
-**Question:** Co Zosia robi z nożyczkami mimo pierwszego odruchu matki?
+**Question:** Co robi Ola, gdy Zosia bierze do ręki nożyczki?
 
 **Answers:**
-- A) Zabrania im używać
+- A) Zabrania jej używać
 - B) Pyta o bezpieczne użycie i pozwala wyciąć serduszko
 - C) Oddaje nożyczki nauczycielce
 - D) Karze

@@ -5,8 +5,8 @@
 **Pack ID:** of1gg2kt
 **Book ID:** of1gg2kt
 **Legacy Pack ID:** polish_poligon
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Poligon  
 **Subtitle:** Twardy ojciec i przerwanie łańcucha  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
 
 ### Editorial history
 
@@ -269,8 +270,8 @@ I trzeba pamiętać, że dziecko to nie kawałek metalu do kucia w ogniu. To cz�
 **Question:** Co mówi psycholog Maciekowi?
 
 **Answers:**
-- A) Rodzice byli źli
-- B) Rodzice nie byli źli — byli nieobecni i nieumiejący; to nie jego wina
+- A) Rodzice byli naprawdę źli
+- B) Nie byli źli, tylko nieobecni — to nie jego wina
 - C) Powinien wrócić do domu
 - D) Nie powinien mieć dzieci
 
@@ -283,10 +284,10 @@ I trzeba pamiętać, że dziecko to nie kawałek metalu do kucia w ogniu. To cz�
 **Question:** Co Maciek mówi ojcu po latach?
 
 **Answers:**
-- A) Że go nienawidzi
-- B) Że bał się jego nieprzewidywalności i myślał, że to z nim jest coś nie tak
-- C) Że dziękuje za surowość
-- D) Nic — nie odwiedza go
+- A) Że nienawidzi go i nie chce go widzieć
+- B) Że bał się jego wybuchów i obwiniał siebie
+- C) Że dziękuje mu za surowe wychowanie
+- D) Że nie chce go odwiedzać
 
 **Correct:** B
 **Explanation:** Opowiada o strachu i przekonaniu, że jest „słaby”.

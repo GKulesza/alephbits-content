@@ -31,8 +31,8 @@
       "type": "single_choice",
       "question": "Co mówi psycholog Maciekowi?",
       "answers": [
-        "Rodzice byli źli",
-        "Rodzice nie byli źli — byli nieobecni i nieumiejący; to nie jego wina",
+        "Rodzice byli naprawdę źli",
+        "Nie byli źli, tylko nieobecni — to nie jego wina",
         "Powinien wrócić do domu",
         "Nie powinien mieć dzieci"
       ],
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Co Maciek mówi ojcu po latach?",
       "answers": [
-        "Że go nienawidzi",
-        "Że bał się jego nieprzewidywalności i myślał, że to z nim jest coś nie tak",
-        "Że dziękuje za surowość",
-        "Nic — nie odwiedza go"
+        "Że nienawidzi go i nie chce go widzieć",
+        "Że bał się jego wybuchów i obwiniał siebie",
+        "Że dziękuje mu za surowe wychowanie",
+        "Że nie chce go odwiedzać"
       ],
       "correctIndex": 1,
       "explanation": "Opowiada o strachu i przekonaniu, że jest „słaby”."

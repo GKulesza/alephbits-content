@@ -5,8 +5,8 @@
 **Pack ID:** w19vw3rt
 **Book ID:** w19vw3rt
 **Legacy Pack ID:** polish_koziolek_matolek_i_podroz_do_pacanowa
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Koziołek Matołek i podróż do Pacanowa  
 **Subtitle:** Skrócona podróż najsłynniejszego koziołka  
@@ -74,6 +74,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — chronology (Pacanów) |
 
 ### Editorial history
 
@@ -101,7 +102,7 @@
 
 **KOZIOŁEK MATOŁEK I PODRÓŻ DO PACANOWA**
 
-W sławnym mieście Pacanowie, gdzie kowale słynęli z tego, że potrafili podkuć nawet kozy, mieszkał sobie Koziołek Matołek. Był to koziołek niezwykły – miał piękną, długą brodę, którą się szczycił, i serce pełne ciekawości świata. Gdy tylko usłyszał, że w Pacanowie kują kozy, postanowił wyruszyć w podróż, by i jemu założono podkowy.
+W sławnym mieście Pacanowie kowale słynęli z tego, że potrafili podkuć nawet kozy. A Koziołek Matołek mieszkał daleko stamtąd, w małej wiosce. Był to koziołek niezwykły – miał piękną, długą brodę, którą się szczycił, i serce pełne ciekawości świata. Gdy tylko usłyszał, że w Pacanowie kują kozy, postanowił wyruszyć w podróż, by i jemu założono podkowy.
 
 Pożegnał się z mamą i tatą, wziął mały tobołek i ruszył przed siebie. Nie wiedział, że ta podróż będzie pełna niezwykłych przygód i że potrwa znacznie dłużej, niż się spodziewał.
 

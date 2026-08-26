@@ -8,8 +8,8 @@
   "legacySlug": "cien-skrzydel-nad-oceanem",
   "title": "Cień skrzydeł nad oceanem",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-09",
   "description": "James ma trzy lata, gdy zaczyna mówić o samolocie, płomieniach i zablokowanej kabince nad oceanem. Szczegóły pasują do śmierci pilota z 1945 roku, choć nikt w rodzinie nie opowiada mu historii wojny. Rodzice szukają wyjaśnienia między racjonalnością a tym, czego dziecko nie powinno wiedzieć.",
   "author": {
@@ -52,7 +52,7 @@
       },
       {
         "type": "single_choice",
-        "question": "Co dzieje Jamesa budzi u matki?",
+        "question": "Co budzi matkę Jamesa w środku nocy?",
         "answers": [
           "Koszmar o ogniu i zablokowanej kabinie",
           "Spokojny sen",
@@ -106,7 +106,7 @@
   "trustClassification": "inspired_by_reality",
   "editorialHistory": {
     "firstPublished": "2026-07-09",
-    "lastEditorialUpdate": "2026-07-09"
+    "lastEditorialUpdate": "2026-08-26"
   },
   "inspirationDates": [
     "2026-07-07"

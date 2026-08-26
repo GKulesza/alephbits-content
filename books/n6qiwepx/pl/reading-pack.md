@@ -5,8 +5,8 @@
 **Pack ID:** n6qiwepx
 **Book ID:** n6qiwepx
 **Legacy Pack ID:** polish_dobra_dziewczynka
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Dobra dziewczynka  
 **Subtitle:** Perfekcja, pamiętnik i powrót do siebie  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
 
 ### Editorial history
 
@@ -223,9 +224,9 @@ A gdzieś w jej głowie, w szufladzie z pamiętnikami, mała dziewczynka z zeszy
 **Question:** Kiedy Zosia po raz pierwszy słyszy, że jest „grzeczną dziewczynką”?
 
 **Answers:**
-- A) W szkole
+- A) W szkole, na lekcji
 - B) Ma około pięciu lat przy śniadaniu
-- C) Na studiach
+- C) Na studiach, podczas zajęć
 - D) Po urodzeniu syna
 
 **Correct:** B
@@ -237,8 +238,8 @@ A gdzieś w jej głowie, w szufladzie z pamiętnikami, mała dziewczynka z zeszy
 **Question:** Co Zosia robi po raz pierwszy w wieku ~15 lat?
 
 **Answers:**
-- A) Zmienia szkołę
-- B) Mówi „nie jadę” na próbę chóru
+- A) Zmienia szkołę w połowie roku
+- B) Odmawia wyjazdu na próbę chóru
 - C) Wyjeżdża na Erasmusa
 - D) Rezygnuje z Instagrama
 
@@ -266,8 +267,8 @@ A gdzieś w jej głowie, w szufladzie z pamiętnikami, mała dziewczynka z zeszy
 
 **Answers:**
 - A) Pisać powieść kryminalną
-- B) Nagrywać rozmowy i publikować w social media
-- C) Prowadzić restaurację
+- B) Nagrywać rozmowy i publikować je w sieci
+- C) Prowadzić restaurację w mieście
 - D) Uczyć się programowania
 
 **Correct:** B
@@ -280,9 +281,9 @@ A gdzieś w jej głowie, w szufladzie z pamiętnikami, mała dziewczynka z zeszy
 
 **Answers:**
 - A) Bądź jeszcze bardziej idealna
-- B) Nie musisz być doskonała — wystarczy, że będziesz sobą
-- C) Rzuć szkołę
-- D) Nigdy nie mów nie
+- B) Nie musisz być doskonała — wystarczy być sobą
+- C) Rzuć szkołę i wyjedź z miasta
+- D) Nigdy nie mów nikomu „nie”
 
 **Correct:** B
 **Explanation:** W wywiadzie mówi: „Nie musisz być taka doskonała. Wystarczy, że będziesz sobą”.

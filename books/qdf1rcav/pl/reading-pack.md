@@ -5,8 +5,8 @@
 **Pack ID:** qdf1rcav
 **Book ID:** qdf1rcav
 **Legacy Pack ID:** polish_drugie_dno
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Drugie dno  
 **Subtitle:** Kortyzol, jelita i rozwód Darka  
@@ -63,6 +63,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — doctor’s surname unified (“Cubała”, as in the story) |
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
 
 ### Editorial history
@@ -189,7 +190,7 @@ Zdrowie jest cenniejsze niż miliony – pomyślała. I uśmiechnęła się do s
 
 ### Question 1
 
-**Question:** Kto skierował Darka do dr Cubalskiej?
+**Question:** Kto skierował Darka do dr Cubały?
 
 **Answers:**
 - A) Marta
@@ -198,7 +199,7 @@ Zdrowie jest cenniejsze niż miliony – pomyślała. I uśmiechnęła się do s
 - D) Szef
 
 **Correct:** B
-**Explanation:** Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubalskiej.
+**Explanation:** Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubały.
 **Text reference:** profesor Czupryniaka
 
 ### Question 2

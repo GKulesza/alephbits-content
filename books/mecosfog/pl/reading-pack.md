@@ -5,8 +5,8 @@
 **Pack ID:** mecosfog
 **Book ID:** mecosfog
 **Legacy Pack ID:** polish_bogini_i_liczby
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Bogini i liczby  
 **Subtitle:** Ramanujan, Hardy i wizje we śnie  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (Hindusi→Hindus) |
 
 ### Editorial history
 
@@ -159,7 +160,7 @@ W Cambridge spotkali się dwaj mężczyźni, których dzieliło więcej niż oce
 
 – To oczywiste – odpowiedział Ramanujan. – Spójrz na to. Widzisz?
 
-Hardy spojrzał. Nie widział. A jednak wiedział, że Hindusi ma rację.
+Hardy spojrzał. Nie widział. A jednak wiedział, że Hindus ma rację.
 
 – To nie jest nauka – powiedział w końcu. – To jest... coś innego.
 

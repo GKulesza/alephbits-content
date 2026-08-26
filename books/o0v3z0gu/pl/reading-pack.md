@@ -5,8 +5,8 @@
 **Pack ID:** o0v3z0gu
 **Book ID:** o0v3z0gu
 **Legacy Pack ID:** polish_trzy_godziny
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Trzy godziny  
 **Subtitle:** Wiśniowiecki, Beresteczko i odwaga decyzji  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
 
 ### Editorial history
 
@@ -215,8 +216,8 @@ Bo w końcu zrozumiał, że każdy z nas ma swoje Beresteczko. Swoją chwilę, w
 **Question:** O czym Marcin przypadkowo ogląda film?
 
 **Answers:**
-- A) O Koperniku
-- B) O bitwie pod Beresteczkiem i Jeremim Wiśniowieckim
+- A) O Mikołaju Koperniku
+- B) O bitwie pod Beresteczkiem i Wiśniowieckim
 - C) O II wojnie światowej
 - D) O Powstaniu Warszawskim
 
@@ -244,8 +245,8 @@ Bo w końcu zrozumiał, że każdy z nas ma swoje Beresteczko. Swoją chwilę, w
 
 **Answers:**
 - A) Z obowiązku wojskowego
-- B) Bo wiedział, że bez oporu rebelia zaleje wszystko, co stworzył
-- C) Bo kazał król
+- B) Bo bez oporu rebelia zniszczyłaby wszystko
+- C) Bo tak rozkazał król
 - D) Bo szukał skarbów
 
 **Correct:** B
@@ -272,7 +273,7 @@ Bo w końcu zrozumiał, że każdy z nas ma swoje Beresteczko. Swoją chwilę, w
 
 **Answers:**
 - A) Że historia zawsze powtarza błędy
-- B) Że historia nie zna trybu warunkowego — zna tylko to, co się wydarzyło
+- B) Że historia nie zna trybu warunkowego
 - C) Że można zmienić przeszłość
 - D) Że bitwa była nieistotna
 

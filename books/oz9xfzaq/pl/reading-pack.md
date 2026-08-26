@@ -5,8 +5,8 @@
 **Pack ID:** oz9xfzaq
 **Book ID:** oz9xfzaq
 **Legacy Pack ID:** polish_rozmowa_z_lekarzem
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** 💬 Rozmowa z lekarzem  
 **Subtitle:** Z kolekcji CollectionZero  
@@ -49,6 +49,7 @@
 
 | Version | Date | Note |
 |---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — “rozpieczenie” → “rozpieranie” |
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
 
 ## Sources
@@ -208,7 +209,7 @@ Kasia spojrzała na swoje nogi. Zaczynała rozumieć.
 
 – Czy to boli?
 
-– Nie powinno. Może pani czuć dyskomfort, rozpieczenie, ale to mija. Najważniejsze, że efekt jest natychmiastowy – żylaki znikają od razu, choć przez kilka tygodni w ich miejscu mogą być wyczuwalne twarde guzki. To norma.
+– Nie powinno. Może pani czuć dyskomfort, rozpieranie, ale to mija. Najważniejsze, że efekt jest natychmiastowy – żylaki znikają od razu, choć przez kilka tygodni w ich miejscu mogą być wyczuwalne twarde guzki. To norma.
 
 – A powikłania?
 

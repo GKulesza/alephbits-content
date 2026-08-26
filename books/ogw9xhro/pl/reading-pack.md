@@ -5,8 +5,8 @@
 **Pack ID:** ogw9xhro
 **Book ID:** ogw9xhro
 **Legacy Pack ID:** polish_w_kawiarni
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** ☕ W kawiarni  
 **Subtitle:** Z kolekcji CollectionZero  
@@ -51,6 +51,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (dostała→dostał) |
 
 ## Sources
 
@@ -167,7 +168,7 @@ Uśmiechnęła się i odeszła.
 
 Marek wziął kubek w dłonie. Był ciepły. Poczuł, jak ciepło rozchodzi się po palcach, potem po dłoniach, potem po całym ciele. Wziął łyk. Smakował dokładnie tak, jak wtedy – gdy pierwszy raz tu wszedł, myśląc, że to tylko kawa. A okazało się, że to coś więcej. Że to bilet do świata, w którym można zacząć od nowa.
 
-Sięgnął do kieszeni. Wyjął wizytówkę, którą dostała tydzień temu. Odwrócił ją. Na odwrocie, dopisany długopisem, był numer telefonu. I obok – słowo: "Zadzwoń".
+Sięgnął do kieszeni. Wyjął wizytówkę, którą dostał tydzień temu. Odwrócił ją. Na odwrocie, dopisany długopisem, był numer telefonu. I obok – słowo: "Zadzwoń".
 
 Marek spojrzał na baristkę, która właśnie podawała komuś kawę przy barze. Ta podniosła wzrok, jakby czuła, że na nią patrzy. Uśmiechnęła się. Skinął głową. Wyjął telefon. Wybrał numer.
 

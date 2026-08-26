@@ -5,8 +5,8 @@
 **Pack ID:** mn4r7sgm
 **Book ID:** mn4r7sgm
 **Legacy Pack ID:** polish_legenda_o_smoku_wawelskim
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** 🏰 Legenda o Smoku Wawelskim  
 **Subtitle:** Z kolekcji CollectionZero  
@@ -51,6 +51,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-10 | Phase 75 catalog migration |
+| 1.0.1 | 2026-08-26 | Polish prose correction — garbled fragment (posłańców) |
 
 ## Sources
 
@@ -189,7 +190,7 @@ Woda Wisły rozstąpiła się na chwilę, a potem zamknęła nad resztkami besti
 
 I cisza. Smoka już nie było.
 
-Z murów zamkowych rozległy się okrzyki radości. Król Krak zobaczył wszystko, klaskał i śmiał się jak za dawnych, dobrych czasów. Podałeń rozesłał na miasto – smok nie żyje, Kraków jest wolny!
+Z murów zamkowych rozległy się okrzyki radości. Król Krak zobaczył wszystko, klaskał i śmiał się jak za dawnych, dobrych czasów. Rozesłał posłańców na miasto – smok nie żyje, Kraków jest wolny!
 
 Ludzie wylegli na ulice. Świętowali przez trzy dni i trzy noce. Tancerze na rynku, muzyka, uczty. A w centrum tego wszystkiego był Skuba – prosty szewczyk, który pokonał bestię sprytem, nie mieczem.
 

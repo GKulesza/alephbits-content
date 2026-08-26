@@ -5,8 +5,8 @@
 **Pack ID:** uzs9im0y
 **Book ID:** uzs9im0y
 **Legacy Pack ID:** polish_granice_imperium
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
 
 **Title:** Granice Imperium  
 **Subtitle:** Wykład, zdrada i granice małżeństwa  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — spelling and grammar |
 
 ### Editorial history
 
@@ -161,11 +162,11 @@ Adam poczuł, że coś w nim pęka. Przez ostatnie tygodnie żył w stanie perma
 
 Następnego dnia Adam nie poszedł na konferencję. Zamiast tego pojechał do archiwum, do swojego drugiego domu – miejsca, gdzie czuł się bezpieczny. Wśród stosów dokumentów, akt i książek o II wojnie światowej mógł udawać, że kontroluje rzeczywistość.
 
-Siedział przy stoliku, przed nim otwarta była książka o niemieckiej gospodarce wojennej. Czytał o Halmarze Schachcie, który w 1937 roku ostrzegał Hitlera przed katastrofą. O ukrytych długach, o systemie weksli Mefo, o tym, jak Niemcy finansowały zbrojenia, pożyczając pieniądze, których nie miały.
+Siedział przy stoliku, przed nim otwarta była książka o niemieckiej gospodarce wojennej. Czytał o Hjalmarze Schachcie, który w 1937 roku ostrzegał Hitlera przed katastrofą. O ukrytych długach, o systemie weksli Mefo, o tym, jak Niemcy finansowały zbrojenia, pożyczając pieniądze, których nie miały.
 
 _"System wchodzi w fazę, w której uratowanie go pokojową drogą jest niemal niemożliwe"_ – cytował Schachta.
 
-Adam zamknął książkę i spojrzał w okno. Za szybą padał deszcz, a on myślał o swoim małżeństwie. O tym, jak przez piętnaście lat budował coś, co wydawało się stabilne, a teraz, gdy stanął w obliczu kryzysu, zrozumiał, że cała konstrukcja opierała się na czymś równie kruchej, co niemiecka gospodarka w 1939 roku – na nieustannym udawaniu, że wszystko jest w porządku.
+Adam zamknął książkę i spojrzał w okno. Za szybą padał deszcz, a on myślał o swoim małżeństwie. O tym, jak przez piętnaście lat budował coś, co wydawało się stabilne, a teraz, gdy stanął w obliczu kryzysu, zrozumiał, że cała konstrukcja opierała się na czymś równie kruchym, co niemiecka gospodarka w 1939 roku – na nieustannym udawaniu, że wszystko jest w porządku.
 
 Przypomniał sobie rozmowę z terapeutką, która prowadziła warsztaty o granicach w relacjach, na które wysłała go Marta rok temu. Mówiła wtedy coś, co zapamiętał:
 

@@ -8,12 +8,12 @@
       "question": "Gdzie mieszka Marek?",
       "answers": [
         "W Nowym Jorku",
-        "Na Long Island, w Montok",
+        "Na Long Island, w Montauk",
         "W Kalifornii",
         "W Bostonie"
       ],
       "correctIndex": 1,
-      "explanation": "Mieszka w Montok na Long Island."
+      "explanation": "Mieszka w Montauk na Long Island."
     },
     {
       "type": "single_choice",

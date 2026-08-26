@@ -5,8 +5,8 @@
 **Pack ID:** o7y22t1t
 **Book ID:** o7y22t1t
 **Legacy Pack ID:** polish_metoda_feynmana
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Metoda Feynmana  
 **Subtitle:** Fizyka, świadomość i granica interpretacji  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-09 | Phase 40 migration |
+| 1.1.0 | 2026-08-26 | Quiz correction — answer option lengths balanced |
 
 ---
 ## Sources
@@ -243,10 +244,10 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 **Question:** Co uruchamia rozważania Marka w tej opowieści?
 
 **Answers:**
-- A) Awaria laboratorium
-- B) Komentarze widzów pytających o zło, świadomość i fizykę
-- C) List od noblisty
-- D) Nowy grant badawczy
+- A) Awaria laboratorium fizycznego
+- B) Komentarze widzów o złu i świadomości
+- C) List od zagranicznego noblisty
+- D) Nowy grant badawczy z ministerstwa
 
 **Correct:** B
 **Explanation:** To komentarze pod jego filmem wytrącają go z naukowej rutyny.
@@ -258,7 +259,7 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 
 **Answers:**
 - A) Że matematyka nigdy nie działa
-- B) Że wzory nie wystarczają do pełnego wyjaśnienia pytań moralnych i egzystencjalnych
+- B) Że wzory nie wyjaśnią pytań o sens
 - C) Że nie da się mówić o atomach publicznie
 - D) Że świadomość można już dokładnie zmierzyć
 
@@ -272,7 +273,7 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 
 **Answers:**
 - A) Do odrzucenia całej fizyki kwantowej
-- B) Do spekulacji o związku myśli, częstotliwości i świadomości
+- B) Do spekulacji o myślach, falach i świadomości
 - C) Do napisania pracy o ekonomii
 - D) Do zakupu nowego radia
 
@@ -286,7 +287,7 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 
 **Answers:**
 - A) Że można empirycznie dowieść reinkarnacji
-- B) Że materia i energia nie znikają, lecz się przekształcają
+- B) Że nic nie znika, wszystko się przekształca
 - C) Że śmierć jest wyłącznie błędem biologii
 - D) Że atomy przestają istnieć
 
@@ -300,7 +301,7 @@ _I fizyka, choć nie zna odpowiedzi, podpowiada, że to pytanie jest ważniejsze
 
 **Answers:**
 - A) Bo nie zawiera żadnych naukowych pojęć
-- B) Bo przechodzi od fizyki do metaforycznych i filozoficznych interpretacji, których sam Marek nie może dowieść
+- B) Bo miesza fizykę z filozoficznymi spekulacjami
 - C) Bo zaprzecza istnieniu atomów
 - D) Bo opisuje wyłącznie religię
 

@@ -5,8 +5,8 @@
 **Pack ID:** vhs1k3aq
 **Book ID:** vhs1k3aq
 **Legacy Pack ID:** polish_chor
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Chór  
 **Subtitle:** Kłótnia o tablet i głosy pokoleń  
@@ -73,6 +73,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — question grammar |
 
 ### Editorial history
 
@@ -344,7 +345,7 @@ Chór głosów, które w nich brzmiały – głosy rodziców, dziadków, całych
 
 ### Question 3
 
-**Question:** Czyja podcastowa myśl Magda przywołuje w sypialni?
+**Question:** Czyją podcastową myśl Magda przywołuje w sypialni?
 
 **Answers:**
 - A) Jespera Jula

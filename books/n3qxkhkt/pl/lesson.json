@@ -8,8 +8,8 @@
   "legacySlug": "kapusciana-tajemnica",
   "title": "Kapuściana tajemnica",
   "language": "pl",
-  "version": "1.0.0",
-  "editionVersion": "1.0.0",
+  "version": "1.1.0",
+  "editionVersion": "1.1.0",
   "updated": "2026-07-13",
   "description": "Jedenastoletni Kacper nudzi się u babci i jej kapuśniaka — dopóki nie odkryje, że starsza pani z kryminałów i zupy to dawna poszukiwaczka skarbów z młodości pełnej pościgów.",
   "author": {
@@ -43,7 +43,7 @@
         "question": "Ile lat ma Kacper?",
         "answers": [
           "Dziewięć",
-          "Jedenastu",
+          "Jedenaście",
           "Trzynaście",
           "Osiem"
         ],

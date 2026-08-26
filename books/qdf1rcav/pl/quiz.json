@@ -5,7 +5,7 @@
   "questions": [
     {
       "type": "single_choice",
-      "question": "Kto skierował Darka do dr Cubalskiej?",
+      "question": "Kto skierował Darka do dr Cubały?",
       "answers": [
         "Marta",
         "Profesor Czupryniak",
@@ -13,7 +13,7 @@
         "Szef"
       ],
       "correctIndex": 1,
-      "explanation": "Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubalskiej."
+      "explanation": "Notatka: profesor Czupryniak mówi — to nie cukrzyca, idź do dr Cubały."
     },
     {
       "type": "single_choice",

@@ -5,8 +5,8 @@
 **Pack ID:** wu16hymq
 **Book ID:** wu16hymq
 **Legacy Pack ID:** polish_garnek_na_glowie
-**Version:** 1.0.0  
-**Edition version:** 1.0.0  
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
 
 **Title:** Garnek na głowie  
 **Subtitle:** Montauk, Camp Hero i wymazana pamięć  
@@ -64,6 +64,7 @@
 | Version | Date | Note |
 |---------|------|------|
 | 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-26 | Polish prose and quiz correction — spelling (Montauk) |
 
 ### Editorial history
 
@@ -93,7 +94,7 @@
 
 ## I. POCZĄTEK
 
-Marek obudził się o 3:33 nad ranem, nie pamiętając, co mu się śniło. Leżał w ciemności swojego mieszkania na Long Island, słysząc szum starego grzejnika i odległe wycie syren. Za oknem Montok pogrążone było w nocnej ciszy, ale on czuł, że coś jest nie tak.
+Marek obudził się o 3:33 nad ranem, nie pamiętając, co mu się śniło. Leżał w ciemności swojego mieszkania na Long Island, słysząc szum starego grzejnika i odległe wycie syren. Za oknem Montauk pogrążone było w nocnej ciszy, ale on czuł, że coś jest nie tak.
 
 Jego ręka, zupełnie bezwiednie, sięgnęła do szafki nocnej. Wyciągnął garnek. Stary, emaliowany, z odłupanym kawałkiem emalii na krawędzi. Postawił go na głowie.
 
@@ -212,13 +213,13 @@ Zasnął z garnkiem na głowie. I po raz pierwszy od lat nie miał koszmarów.
 
 **Answers:**
 - A) W Nowym Jorku
-- B) Na Long Island, w Montok
+- B) Na Long Island, w Montauk
 - C) W Kalifornii
 - D) W Bostonie
 
 **Correct:** B
-**Explanation:** Mieszka w Montok na Long Island.
-**Text reference:** Montok
+**Explanation:** Mieszka w Montauk na Long Island.
+**Text reference:** Montauk
 
 ### Question 2
 
