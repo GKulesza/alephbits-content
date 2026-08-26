@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Dónde nació Maria?",
+      "answers": [
+        "En Varsovia",
+        "En París",
+        "En Cracovia",
+        "En Francia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Varsovia, año 1867: la familia Skłodowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué pierde Maria la fe en Dios?",
+      "answers": [
+        "Tras la muerte de su madre",
+        "Tras la guerra",
+        "Tras la muerte de su padre",
+        "Tras su divorcio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tras la muerte de su madre por tuberculosis deja de creer."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo llega Maria a la Sorbona?",
+      "answers": [
+        "Trabaja y apoya a su hermana Bronia",
+        "Recibe una beca del zar",
+        "Viaja con su marido Pierre",
+        "Gana un concurso de investigación"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hace un pacto con Bronia: primero estudia una, trabaja la otra."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo llamó al elemento en honor a Polonia?",
+      "answers": [
+        "Polonio",
+        "Radio",
+        "Uranio",
+        "Curio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria lo llama polonio: un homenaje a Polonia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuántas veces ganó Maria el Premio Nobel?",
+      "answers": [
+        "Dos veces",
+        "Una vez",
+        "Tres veces",
+        "Nunca"
+      ],
+      "correctIndex": 0,
+      "explanation": "El Nobel de Física y el de Química."
+    }
+  ]
+}

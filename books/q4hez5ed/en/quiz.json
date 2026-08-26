@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where was Maria born?",
+      "answers": [
+        "In Warsaw",
+        "In Paris",
+        "In Kraków",
+        "In France"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warsaw, the year 1867 — the Skłodowski family."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Maria lose her faith in God?",
+      "answers": [
+        "After her mother's death",
+        "After the war",
+        "After her father's death",
+        "After her divorce"
+      ],
+      "correctIndex": 0,
+      "explanation": "After her mother dies of tuberculosis she stops believing."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Maria get to the Sorbonne?",
+      "answers": [
+        "She works and supports her sister Bronia",
+        "She receives a scholarship from the tsar",
+        "She travels with her husband Pierre",
+        "She wins a research competition"
+      ],
+      "correctIndex": 0,
+      "explanation": "She makes a pact with Bronia: first one studies, the other works."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did she name the element in honour of Poland?",
+      "answers": [
+        "Polonium",
+        "Radium",
+        "Uranium",
+        "Curium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria names it Polonium — a tribute to Poland."
+    },
+    {
+      "type": "single_choice",
+      "question": "How many times did Maria win the Nobel Prize?",
+      "answers": [
+        "Twice",
+        "Once",
+        "Three times",
+        "Never"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Nobel in physics and in chemistry."
+    }
+  ]
+}

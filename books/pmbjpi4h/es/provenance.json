@@ -1,0 +1,24 @@
+{
+  "packId": "pmbjpi4h:es",
+  "bookId": "pmbjpi4h",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "vhdtCKdFpz4"
+    }
+  ],
+  "revisionNotes": "Fikcja historyczna osadzona w realnym kontekście berlińskiej pamięci o Polakach."
+}

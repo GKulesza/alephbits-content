@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Kasia su TDAH a la psicóloga?",
+      "answers": [
+        "Soy perezosa",
+        "Tengo una radio en la cabeza: todas las emisoras a la vez",
+        "No me gusta el colegio",
+        "Estoy enferma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice: \"Tengo una radio en la cabeza... Suenan todas las emisoras a la vez.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué ayuda a Kasia a concentrarse en clase?",
+      "answers": [
+        "Los castigos",
+        "La pelota sensorial y la posibilidad de moverse un poco",
+        "La prohibición de hablar",
+        "Que la saquen de clase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recibe una pelota sensorial; puede levantarse un momento sin molestar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace su madre antes de dormir?",
+      "answers": [
+        "Enciende la tele",
+        "Elimina las pantallas: lectura y silencio",
+        "Le da bebidas energéticas",
+        "Le hace los deberes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nada de pantallas antes de dormir; lectura de libros."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué les dice Kasia a sus compañeros sobre el TDAH?",
+      "answers": [
+        "Que significa que estoy enferma",
+        "Que mi cerebro funciona de otra manera, no peor",
+        "Que debería quedarme en un rincón",
+        "Que nunca seré buena en el colegio"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"No. Significa que mi cerebro funciona de otra manera. No peor.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué quiere ser Kasia en la universidad?",
+      "answers": [
+        "Médica",
+        "Psicóloga: ayudar a niños como ella",
+        "Cantante",
+        "Programadora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Estudia Psicología para apoyar a niños con dificultades parecidas."
+    }
+  ]
+}

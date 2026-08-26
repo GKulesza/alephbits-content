@@ -1,0 +1,321 @@
+# Saltafuego
+
+## Metadata
+
+**Pack ID:** pyo0cu4y
+**Book ID:** pyo0cu4y
+**Legacy Pack ID:** polish_ognioskoczek
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Saltafuego  
+**Subtitle:** Un duende nacido de las travesuras y un gorrito rojo  
+**Blurb:** En una vieja mansión, tres hermanos y un maestro-poeta deben atrapar a Saltafuego — un duende nacido de las peleas y las travesuras — antes de que destruya toda la casa; pero el arma verdadera es un gorrito rojo y la bondad.
+
+**Genres:** fairy_tale, short_story  
+**Series:** Collection Eleven  
+**Audience:** children_8_12
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Ognioskoczek" — edición oficial de Collection Eleven.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** duchy, przygoda, rodzeństwo, Collection Eleven  
+
+**Keywords:** Ognioskoczek, dwór, duszek, czapeczka  
+
+**Cover family:** legends
+
+
+**Motifs:**
+- fire
+- fear
+- family
+- adventure
+- forgiveness
+- home
+
+**Editorial notes:** Baśń grozy w łagodnym tonie; epizod podziemi ze skarbami i szkieletem ichtiozaura — adventure, nie horror.
+
+**Inspiration:** Manuskrypt Collection Eleven; YouTube NFtFrlt62Zs (18.03.2016).
+
+---
+
+**World:**
+- places: forest, library
+- objects: book, stone
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** *(manuscript)*  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Dobra opowieść o konsekwencjach psot i współpracy rodzeństwa. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eleven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** *(none — manuscript)*  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**SALTAFUEGO**
+
+En la vieja mansión que se alzaba al borde de un gran bosque, el tiempo fluía de otra manera que en cualquier otro sitio. Las paredes recordaban los tiempos en que los tatarabuelos de los dueños actuales vivían aún bajo su techo, y en las chimeneas el viento tocaba melodías que ya nadie sabía nombrar. La mansión era hermosa y misteriosa, llena de rincones, libros antiguos y lugares en los que nadie se asomaba desde hacía años.
+
+En esa mansión vivían tres hermanos: Zosia, Franek y el pequeño Antek. Sus padres se habían ido de viaje muy lejos, dejando a los niños al cuidado del señor Stanisław, un maestro joven que además era poeta y soñador. Y fue justo entonces, cuando los padres se marcharon, cuando empezaron a ocurrir cosas extrañas en la mansión.
+
+---
+
+La primera noche, cuando todos dormían ya, Franek se despertó de repente. Oyó un golpecito suave que venía de detrás de la pared. Se levantó, se acercó a la puerta y la abrió con cuidado. En el pasillo reinaba la oscuridad, pero desde el desván llegaba un rumor suave y furtivo.
+
+Franek sabía que no debía ir allí. Pero la curiosidad fue más fuerte. Cogió una linterna y subió por las escaleras chirriantes.
+
+En el desván hacía frío y olía a madera vieja. De pronto oyó un canto, suave, como si viniera de ninguna parte:
+
+_¡Saltafuego, saltafuego, por las chimeneas brinca, en la vieja mansión hace travesuras, y en la cabeza un gorrito rojo!_
+
+Franek dio un salto. Ante él, en el borde de la gran chimenea, estaba un hombrecillo diminuto vestido con ropas rojas. En la cabeza llevaba un gorrito rojo y en la mano sostenía una varita con la que trazaba círculos de fuego en el aire.
+
+– ¿Quién eres? – preguntó Franek con voz temblorosa.
+
+El hombrecillo soltó una risa burlona.
+
+– ¡Soy Saltafuego! Llevo siglos viviendo en esta mansión, pero nadie me ha visto nunca, porque solo era una chispita. ¡Y ahora, gracias a vuestras travesuras y a vuestra rabia, he crecido! ¡Voy a mandar aquí!
+
+Franek quiso huir, pero las piernas no le obedecían. Saltafuego dio un brinco y agitó su varita: en el mismo instante, la puerta se cerró de golpe detrás de Franek y de la chimenea salió una lluvia de chispas.
+
+El niño bajó las escaleras a toda prisa, y tras él solo se oía la risa del duende.
+
+---
+
+Desde aquel día empezó el verdadero caos en la mansión. Las sillas se movían solas por las habitaciones, los libros caían de las estanterías y, en la cocina, las zapatillas de Katarzyna, la criada mayor, cobraron vida y la persiguieron por toda la casa. Saltafuego se lo pasaba de maravilla.
+
+Lo peor fue cuando el duende decidió dedicarse a la enseñanza. El señor Stanisław estaba dando una clase a los niños cuando, de pronto, el tintero se volcó solo y un libro cayó de la estantería más alta. A Saltafuego le encantaba molestar.
+
+– Tenemos que hacer algo – dijo el señor Stanisław, sacudiéndose la tinta de la ropa. – Este duende es cada vez más atrevido. Si no encontramos la manera de detenerlo, la mansión no conocerá la paz.
+
+– ¿Quizá en la biblioteca haya algún libro sobre espíritus? – sugirió Zosia.
+
+Y tenían razón. En la parte más antigua de la biblioteca, detrás de una pila de tomos polvorientos, el señor Stanisław encontró un libro encuadernado en cuero viejo. Llevaba por título: _"De espíritus, hechizos y conjuros: obra del maestro Adalberto"_.
+
+Cuando abrió el libro, encontró un capítulo sobre Saltafuego. Lo leyó con atención.
+
+– He aquí la manera – dijo al fin. – Saltafuego es glotón y no puede resistirse a los dulces. Tenemos que prepararle una trampa. Pero antes necesitamos su gorrito rojo, porque es lo que le da su poder.
+
+---
+
+Al día siguiente, los niños y el señor Stanisław prepararon el cebo: un gran recipiente de cristal lleno de miel y confituras dulces. Lo colocaron en la sala donde el duende pasaba más tiempo y empezaron a leer los conjuros del libro del maestro Adalberto.
+
+Al principio, Saltafuego no se dejó engañar. Daba vueltas alrededor del recipiente, olfateaba con desconfianza, pero al final el olor de los dulces pudo más. Saltó al borde del frasco, se deslizó dentro y empezó a comer.
+
+Entonces el señor Stanisław golpeó el libro tres veces y exclamó con voz de trueno:
+
+– ¡Abracadabra! ¡Que se cumpla la voluntad del maestro Adalberto!
+
+Zosia y Franek taparon al instante la boca del recipiente con un corcho, y Antek lo selló con lacre y estampó una cruz.
+
+¡Saltafuego estaba atrapado!
+
+---
+
+El duende entró en cólera. Se revolvía dentro del frasco, gritaba, amenazaba.
+
+– ¡Liberadme y os daré oro, plata, diamantes! ¡Tengo todo un reino subterráneo!
+
+– No te creemos – dijo el señor Stanisław con calma. – Pero nos mostrarás el camino a tu reino. Si te portas bien, quizá te liberemos.
+
+Saltafuego rechinó los dientes, pero tuvo que aceptar. Les mostró el camino a la vieja chimenea, donde, al girar dos ladrillos, apareció una entrada a los subterráneos.
+
+Bajaron por una escalera vieja y resbaladiza. Los pasillos eran oscuros y húmedos, y las paredes estaban cubiertas de estalactitas. De pronto dieron con un gran lago de agua cristalina y, en su orilla, con el esqueleto de un ictiosaurio gigante.
+
+– Mirad – susurró el señor Stanisław. – Esto es testimonio de tiempos antiguos, cuando monstruos así nadaban aquí, en el fondo del océano.
+
+Siguieron adelante, hasta llegar a una sala llena de oro y joyas. Las paredes brillaban y en el aire flotaba un olor metálico.
+
+– ¡Cuánto tesoro! – exclamó Antek.
+
+– Eso es solo el botín de Saltafuego – dijo el señor Stanisław. – No podemos llevárnoslo, porque él es su guardián. Nuestra meta es el gorrito.
+
+Y entonces, cuando ya iban a quitárselo de la cabeza al duende, Franek tropezó y soltó el frasco. El recipiente de cristal se hizo añicos contra las piedras, y Saltafuego saltó fuera como una chispa, estallando en una risa burlona.
+
+– ¡Necios! – se rio. – ¿Creíais que podríais vencerme tan fácilmente? ¡Ahora probaréis mi venganza!
+
+Empezó a arrojarles piedras, a levantar nubes de arena, y las olas del lago rompían contra la orilla con estruendo. Los niños gritaban de miedo.
+
+Pero el señor Stanisław no perdió la esperanza. Abrió el libro del maestro Adalberto y leyó:
+
+_"Cuando el frasco se rompa y el duende escape, no temáis. Su poder reside en el gorrito rojo. Cuando se lo arranquéis de la cabeza, perderá toda su fuerza."_
+
+Zosia tenía en la mano el gorrito rojo, que había caído del frasco en el momento en que este se rompió.
+
+– ¡Señor Stanisław! – gritó. – ¡Lo tengo!
+
+– ¡Lánzamelo! – gritó el maestro.
+
+Zosia le lanzó el gorrito, y el señor Stanisław lo atrapó y exclamó:
+
+– ¡En nombre del maestro Adalberto, que así sea! ¡Abracadabra!
+
+Saltafuego empezó a encogerse, a retorcerse y, al final, se convirtió en una pequeña piedrecita roja que rodó hasta los pies del señor Stanisław.
+
+---
+
+Se hizo el silencio. Los niños respiraron aliviados.
+
+– ¡Lo hemos conseguido! – exclamó Antek.
+
+– Sí – confirmó el señor Stanisław. – Pero recordad: Saltafuego nació de vuestras travesuras y de vuestros malos pensamientos. Si volvéis a pelearos, a hacer tonterías y a ser poco amables los unos con los otros, puede nacer un duende nuevo. Y entonces quizá sea aún más difícil vencerlo.
+
+Los niños asintieron. De vuelta a casa decidieron ser mejores los unos con los otros.
+
+Cuando volvieron a la mansión, ya amanecía tras las ventanas. Katarzyna, que no había dormido en toda la noche, abrazó a los niños entre lágrimas. El señor Stanisław le contó brevemente lo ocurrido, pero le pidió que guardara el secreto.
+
+– Que esto quede entre nosotros – dijo. – Y que esta historia nos sirva a todos de advertencia.
+
+Desde aquel día reinó la paz en la mansión. Los niños se esforzaban por portarse bien, no pelearse y ayudarse unos a otros. Y cuando a alguno le entraban ganas de hacer una travesura, se acordaba de Saltafuego y desistía.
+
+La piedrecita roja no volvió a aparecer nunca. Y el viejo libro del maestro Adalberto regresó a su sitio en la biblioteca, donde esperaba al siguiente atrevido que se atreviera a conocer sus secretos.
+
+**FIN**
+
+---
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿De dónde saca Saltafuego su poder?
+
+**Answers:**
+- A) De las travesuras y los malos pensamientos de los niños
+- B) Del sol
+- C) De un libro de conjuros
+- D) Del agua
+
+**Correct:** A
+**Explanation:** El señor Stanisław dice que nació de las travesuras y los malos pensamientos.
+**Text reference:** travesuras y malos pensamientos
+
+### Question 2
+
+**Question:** ¿En qué atrapan a Saltafuego?
+
+**Answers:**
+- A) En un recipiente de cristal con dulces
+- B) En un saco
+- C) En el sótano
+- D) En un armario
+
+**Correct:** A
+**Explanation:** Preparan un recipiente con miel y confituras como trampa.
+**Text reference:** recipiente
+
+### Question 3
+
+**Question:** ¿Qué pierde el duende cuando pierde el gorrito?
+
+**Answers:**
+- A) Toda su fuerza
+- B) La voz
+- C) La memoria
+- D) El tesoro
+
+**Correct:** A
+**Explanation:** El libro dice que sin el gorrito rojo pierde todo su poder.
+**Text reference:** gorrito rojo
+
+### Question 4
+
+**Question:** ¿En qué se convierte Saltafuego al final?
+
+**Answers:**
+- A) En una pequeña piedrecita roja
+- B) En una mariposa
+- C) En un gato
+- D) En una chispa
+
+**Correct:** A
+**Explanation:** Se encoge y se convierte en una pequeña piedrecita roja.
+**Text reference:** piedrecita roja
+
+### Question 5
+
+**Question:** ¿Cómo se llama el libro de conjuros?
+
+**Answers:**
+- A) De espíritus, hechizos y conjuros: obra del maestro Adalberto
+- B) Harry Potter
+- C) Peter Pan
+- D) El libro de la selva
+
+**Correct:** A
+**Explanation:** El señor Stanisław encuentra el libro del maestro Adalberto sobre espíritus.
+**Text reference:** maestro Adalberto
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

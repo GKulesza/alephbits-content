@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What did Marta's grandfather ask her to see in Berlin?",
+      "answers": [
+        "The new Polish embassy",
+        "The memorial stone for Polish soldiers",
+        "The old royal palace",
+        "A monument to Napoleon"
+      ],
+      "correctIndex": 1,
+      "explanation": "On his deathbed he talks about a stone in Berlin and about Poles having been there."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who speaks at the conference in the new embassy?",
+      "answers": [
+        "Marta",
+        "Mateusz Fałkowski of the Pilecki Institute",
+        "Marta's grandfather",
+        "The German chancellor"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the conference Mateusz Fałkowski, director of the Pilecki Institute in Berlin, takes the floor."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the image of the embassy change in the text?",
+      "answers": [
+        "It was always modern and lively",
+        "From a grey PRL block into a place where life goes on",
+        "It is closed permanently",
+        "It moves to Kraków"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta remembers the old, gloomy PRL embassy, and now sees a new, living building."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marta do after returning to Warsaw?",
+      "answers": [
+        "She forgets about the stone",
+        "She writes about her grandfather, the stone and the people who placed it",
+        "She becomes a diplomat",
+        "She sells her notebook"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epilogue says she is still writing about her grandfather, the stone and those who placed it."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the main message of the ending of the story?",
+      "answers": [
+        "Stones tell stories by themselves",
+        "People who find stones can speak for them",
+        "Historical memory doesn't matter",
+        "Berlin is not interested in Poles"
+      ],
+      "correctIndex": 1,
+      "explanation": "The closing reflection says stones don't speak, but people can speak for them."
+    }
+  ]
+}

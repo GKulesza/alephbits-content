@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién era James M. Huston Jr.?",
+      "answers": [
+        "Un piloto de la Marina de EE. UU. muerto en 1945",
+        "Un médico de Luisiana",
+        "Un soldado alemán",
+        "El diseñador de la Enigma"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto lo identifica como aviador de la Marina."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué despierta a la madre de James en mitad de la noche?",
+      "answers": [
+        "Una pesadilla sobre el fuego y la cabina atascada",
+        "Un sueño tranquilo",
+        "Una petición de agua",
+        "La alegría por un juguete"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea se despierta por un grito sobre llamas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De dónde saca James los detalles de su vida anterior?",
+      "answers": [
+        "Simplemente lo sabía: nadie se lo dijo",
+        "Se lo contaron sus padres",
+        "De una clase en el parvulario",
+        "De un periódico"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto subraya: nadie se lo había dicho."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama la madre del niño?",
+      "answers": [
+        "Andrea",
+        "María",
+        "Anna",
+        "Joanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea se despierta con el grito de su hijo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Sobre qué isla murió el piloto en su vida anterior?",
+      "answers": [
+        "Chichi Jima",
+        "Okinawa",
+        "Hawái",
+        "Guam"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto da Chichi Jima como lugar de la muerte."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does Firehopper get his power from?",
+      "answers": [
+        "From the children's pranks and bad thoughts",
+        "From the sun",
+        "From a book of spells",
+        "From water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mr Stanisław says he was born of pranks and bad thoughts."
+    },
+    {
+      "type": "single_choice",
+      "question": "What do they trap Firehopper in?",
+      "answers": [
+        "A glass jar of sweets",
+        "A sack",
+        "The cellar",
+        "A wardrobe"
+      ],
+      "correctIndex": 0,
+      "explanation": "They prepare a jar with honey and preserves as a trap."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the goblin lose when he loses the cap?",
+      "answers": [
+        "All his strength",
+        "His voice",
+        "His memory",
+        "His treasure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The book says that without the little red cap he loses all his power."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Firehopper turn into at the end?",
+      "answers": [
+        "A small red pebble",
+        "A butterfly",
+        "A cat",
+        "A spark"
+      ],
+      "correctIndex": 0,
+      "explanation": "He shrinks and turns into a small red pebble."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the book of spells called?",
+      "answers": [
+        "Of spirits, witchcraft and spells — the work of Master Adalbert",
+        "Harry Potter",
+        "Peter Pan",
+        "The Jungle Book"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mr Stanisław finds Master Adalbert's book about spirits."
+    }
+  ]
+}

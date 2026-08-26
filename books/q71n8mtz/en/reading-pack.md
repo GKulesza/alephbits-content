@@ -1,0 +1,312 @@
+# Shadow of Wings over the Ocean
+
+## Metadata
+
+**Pack ID:** q71n8mtz
+**Book ID:** q71n8mtz
+**Legacy Pack ID:** polish_cien_skrzydel_nad_oceanem
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** Shadow of Wings over the Ocean  
+**Subtitle:** The case of James Leininger  
+**Blurb:** James is three years old when he starts talking about a plane, flames and a jammed cockpit over the ocean. The details match the death of a pilot in 1945, even though no one in the family has told him any war stories. His parents search for an explanation between rationality and what a child shouldn't know.
+
+**Genres:** article, popular_science  
+**Series:** Collection One  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Cień skrzydeł nad oceanem" — Collection One official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** polish, narrative, reincarnation, documentary  
+
+**Keywords:** Leininger, Huston, Iwo Jima, pamięć  
+
+**Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** popular_science
+
+---
+
+**World:**
+- objects: book
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude (editorial migration)  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Opowieść oparta na publicznie opisywanym przypadku; nie jest tekstem naukowym ani sądowym.
+
+**Source video:** https://www.youtube.com/watch?v=4QN5iapdZh4  
+**Source date (manuscript):** 07.07.2026
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — question 2 wording made grammatical |
+| 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+
+---
+## Sources
+
+### Source 1: Collection One manuscript (YouTube editorial)
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=4QN5iapdZh4  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-07  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
+## Text
+
+**SHADOW OF WINGS OVER THE OCEAN**
+
+
+When James Leininger first opened his eyes in his cot in Louisiana, he was two years old and he knew he was dying.
+
+Not in a metaphorical sense. He literally remembered dying. He remembered the fire, he remembered the smoke, he remembered the metal trap that closed around him as his plane, hit straight in the engine, went into a shallow dive toward the water. He remembered the propeller breaking off and flying to the side, the nose of the machine bursting into flames, the canopy jamming and refusing to open. He remembered that he was alive, conscious and unable to do anything.
+
+In his previous incarnation he had been called James M. Huston Jr., a US naval aviator who died on 3 March 1945 over Chichi Jima, in the fires of the battle for Iwo Jima.
+
+But no one had told him that. He simply knew.
+
+
+**The nightmare**
+
+Andrea Leininger woke up in the middle of the night in May 2000. From the room of two-year-old James came a scream — but not the ordinary crying of a child who'd dreamed of a monster in the closet. It was a roar of pure terror, as if someone were flaying him alive.
+
+She ran into the room, switched on the light and froze. James lay on his back, pounding his fists into the mattress, kicking his legs, thrashing from side to side, as if trying to break through an invisible wall. He was drenched in sweat, his eyes wide open but unseeing. And through that scream, the child, who had barely started putting simple sentences together, shouted:
+
+– Plane crashed! It's on fire! Little man can't get out! Help!
+
+Andrea grabbed him, hugged him, tried to wake him. James finally came back to himself, looked at his mother with a vacant gaze and fell asleep. His parents breathed a sigh of relief. A bad dream happens. Every child has night fears sometimes.
+
+Except that the next night was exactly the same. And the next. And the one after that.
+
+
+**The little pilot**
+
+By day James behaved like a completely normal two-year-old — except that his favourite game was smashing model planes against the coffee table. He did it with a persistence, a repetitiveness, that seemed unnatural. Bang — the plane falls. Bang — a fire. Everyone dies. And every time, with the same pattern.
+
+When Andrea took him to a toy store, she handed him a little plastic plane and said: "Look, it even has a bomb attached underneath." James looked at his mother with a seriousness unbecoming of a two-year-old and corrected her:
+
+– Mum, that's not a bomb. It's a drop tank.
+
+Andrea froze. She herself had no idea what that even was. And her two-year-old son had just given her a lecture on aircraft armament.
+
+Bruce, the father, was intrigued, but still sceptical. He decided to take his son to an aviation museum. He thought: "The boy likes planes, let him look around." When they entered a hangar full of old World War II machines, James behaved as if he'd fallen into a trance. He ran from one machine to another, but not with childish joy — with deep, adult reverence. He was especially drawn to the American fighters that had fought over the Pacific. The F4U Corsair. The one with the distinctive, gull-shaped wings.
+
+On the way home, Bruce asked:
+
+– So if it was you, James, do you remember what kind of plane you flew?
+
+– I flew a Corseir – answered the boy, without hesitation.
+
+Bruce flinched. Corsair. F4U Corsair. A powerful American fighter used in the Pacific during World War II. He typed it into the search engine. The result matched.
+
+– And where did your plane take off from? – he asked.
+
+– From a boat. It was called Natoma.
+
+Bruce felt the blood drain from his face. USS Natoma Bay. An American escort carrier from World War II that had fought in the Pacific. His two-year-old couldn't have known that. It was impossible.
+
+– And do you remember anyone else from those times? – he asked in a trembling voice.
+
+– Yes. Jack Larson. He was my friend. He flew a plane too.
+
+Bruce spent weeks searching the internet for Jack Larson. Nothing. Until at last he came across a list of Natoma Bay veterans. He called one of the numbers. An older man answered, Leo Piat.
+
+Bruce lied that he was gathering material for a book. He asked about Jack Larson.
+
+– Of course I know Jack – said Leo. – We served together. One day he took off with his squadron on a mission and simply never came back. None of us knew what had happened to him.
+
+The phone almost fell from Bruce's hand.
+
+– So he died?
+
+– We thought he'd died – answered Leo. – But he's alive. He lives in Arkansas.
+
+
+**The detective from Louisiana**
+
+Bruce drove to Arkansas. Jack Larson opened the door and looked at him in surprise. Under the pretext of writing a book, Bruce began asking him about James Huston.
+
+– He died on 3 March 1945 – said Bruce.
+
+– Yes – confirmed Larson. – But it's interesting that you ask. You see, on the day he died, James was flying a Wildcat. That's what we'd been given for that particular mission. But the truth is, James was above all a Corsair test pilot. He loved those machines. If you'd asked anyone at the base what Huston was associated with, everyone would have answered: he was the Corsair guy.
+
+The last dam of Bruce's scepticism burst in his head. Corsair. That was the proof he'd been looking for. James wasn't describing dry facts from a textbook. He was describing what that pilot had felt, what he'd lived for, what he'd loved most. The Corsair was his identity.
+
+He went home. He saw his son playing with G.I. Joe action figures. He asked what their names were. James answered without hesitation:
+
+– This one's Billy, this one's Walter, and this one's Leon.
+
+Bruce ran to the computer. He checked the list of the fallen from the same squadron. Billy Piller, Walter Devlin and Leon Conner. Three pilots who had died before James Huston. All from the same unit.
+
+– Where did you get those names? – asked Bruce when he returned to the room.
+
+James looked at him with his clear, childlike gaze and said:
+
+– They're the ones who welcomed me in heaven when my plane fell into the water.
+
+
+**Closure**
+
+In 2006 James was eight years old. The nightmares were slowly fading, but his parents knew the boy needed final closure. They flew to Japan, hired a boat and sailed out onto the open sea near Chichi Jima — exactly to the spot of the crash of 3 March 1945.
+
+James stood at the bow. The wind tousled his hair. He stared into the depths of the black ocean abyss, knowing that somewhere down there, a few dozen metres beneath him, in a crushed metal cockpit, lay the remains of the guy who had once been him.
+
+He took a bouquet of flowers, threw it into the waves, saluted — and burst into tears. He cried for twenty minutes. He was pouring out all the trauma, the fire, the smoke and the terror he'd carried in his small mind.
+
+When they returned to shore, something incredible happened. Bruce later said the change was almost tangible. James took a deep breath. He'd left that pilot at the bottom of the ocean. The nightmares stopped once and for all.
+
+The drawings he made after returning to America no longer contained fire, explosions or blood. He drew a calm ocean, swimming dolphins and a clean, blue sky. At the bottom he signed himself in a completely different way. Not "James 3". Simply "James".
+
+
+**There are always two sides**
+
+Scientists from the University of Virginia examined the Leiningers' case and declared it the best-documented case of reincarnation in history. But there were also sceptical voices. The philosopher Michael Sudduth spent two years analysing the case and concluded that the story wasn't as clean as it had been sold.
+
+The parents could have unconsciously fitted the facts together. The video tape James had watched as a child contained archival World War II footage — including Larson's name. The "Sertoma" air show took place three miles from their home, and "Sertoma" sounds suspiciously similar to "Natoma".
+
+Other researchers responded: dated documents, emails and forum posts from before Huston's identity was discovered confirm that the key details came from the child's mouth before anyone knew of the pilot's existence. And how would a video tape have suggested to a child the names of three specific dead airmen from one squadron? Billy, Walter and Leon — no film, no air show contained those names. And they matched the list of the fallen perfectly.
+
+And there was something else Bruce discovered later. One of the veterans, Jack Dorham, had written down his war memories years earlier. There was a passage about a plane hit straight in the front, its pieces scattering into the bay. That had been recorded before Bruce even appeared on the scene.
+
+
+**What remains**
+
+Today James Leininger is an adult. The memories of a previous life have faded from his memory. He says he feels that James Huston is still somewhere with him, but it's no longer a dark story full of fear — it's a calm part of who he is today.
+
+And this story leaves us with one question that has circled over our civilisation for thousands of years. What happens to us when the lights go out in the operating room? When a plane falls in flames to the bottom of the ocean? Is it an absolute end — a black hole and nothingness? Or is it, as in the case of the little boy from Louisiana, just a reset, a change of costume, the beginning of a new fascinating story?
+
+Maybe next time your child wakes up in the middle of the night crying and starts talking about things that seem completely impossible, it's worth sitting on the edge of the bed and simply listening instead of saying "it's just a bad dream".
+
+Because you never know whose wings are still carrying a shadow over the ocean.
+
+
+**THE END**
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** Who was James M. Huston Jr.?
+
+**Answers:**
+- A) A US Navy pilot killed in 1945
+- B) A doctor from Louisiana
+- C) A German soldier
+- D) The designer of the Enigma
+
+**Correct:** A
+**Explanation:** The text identifies him as a naval aviator.
+**Text reference:** a US naval aviator
+
+### Question 2
+
+**Question:** What wakes James's mother in the middle of the night?
+
+**Answers:**
+- A) A nightmare about fire and a jammed cockpit
+- B) A peaceful sleep
+- C) A request for water
+- D) Joy over a toy
+
+**Correct:** A
+**Explanation:** Andrea wakes to a scream about flames.
+**Text reference:** fire, he remembered the smoke
+
+### Question 3
+
+**Question:** Where does James get the details of his previous life?
+
+**Answers:**
+- A) He simply knew — no one told him
+- B) His parents told him
+- C) From a lesson at preschool
+- D) From a newspaper
+
+**Correct:** A
+**Explanation:** The text stresses: no one had told him that.
+**Text reference:** He simply knew
+
+### Question 4
+
+**Question:** What is the boy's mother called?
+
+**Answers:**
+- A) Andrea
+- B) Maria
+- C) Anna
+- D) Joanna
+
+**Correct:** A
+**Explanation:** Andrea wakes to her son's scream.
+**Text reference:** Andrea
+
+### Question 5
+
+**Question:** Over which island did the pilot die in his previous life?
+
+**Answers:**
+- A) Chichi Jima
+- B) Okinawa
+- C) Hawaii
+- D) Guam
+
+**Correct:** A
+**Explanation:** The text gives Chichi Jima as the place of death.
+**Text reference:** Chichi Jima
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

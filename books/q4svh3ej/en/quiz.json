@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Kasia describe her ADHD to the psychologist?",
+      "answers": [
+        "I'm lazy",
+        "I have a radio in my head — every station at once",
+        "I don't like school",
+        "I'm sick"
+      ],
+      "correctIndex": 1,
+      "explanation": "She says: \"I have a radio in my head... Every station plays at once.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What helps Kasia focus in class?",
+      "answers": [
+        "Punishments",
+        "A sensory fidget and the chance for short movement",
+        "A ban on talking",
+        "Being removed from the class"
+      ],
+      "correctIndex": 1,
+      "explanation": "She gets a fidget; she may stand up briefly without disturbing anyone."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Mum do before bedtime?",
+      "answers": [
+        "Switches on the TV",
+        "Removes screens — reading and silence",
+        "Gives her energy drinks",
+        "Does Kasia's homework for her"
+      ],
+      "correctIndex": 1,
+      "explanation": "No screens before bed; reading books."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia tell the class about ADHD?",
+      "answers": [
+        "It means I'm sick",
+        "My brain works differently, not worse",
+        "I should sit in the corner",
+        "I'll never be good at school"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"No. It means my brain works differently. Not worse.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kasia want to become at university?",
+      "answers": [
+        "A doctor",
+        "A psychologist — to help children like her",
+        "A singer",
+        "A programmer"
+      ],
+      "correctIndex": 1,
+      "explanation": "She studies psychology to support children with similar difficulties."
+    }
+  ]
+}

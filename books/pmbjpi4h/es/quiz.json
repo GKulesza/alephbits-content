@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué le pidió el abuelo de Marta que viera en Berlín?",
+      "answers": [
+        "La nueva embajada polaca",
+        "La piedra conmemorativa de los soldados polacos",
+        "El antiguo palacio real",
+        "Un monumento a Napoleón"
+      ],
+      "correctIndex": 1,
+      "explanation": "En su lecho de muerte habla de una piedra en Berlín y de que los polacos estuvieron allí."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién habla en la conferencia de la nueva embajada?",
+      "answers": [
+        "Marta",
+        "Mateusz Fałkowski, del Instituto Pilecki",
+        "El abuelo de Marta",
+        "El canciller alemán"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la conferencia toma la palabra Mateusz Fałkowski, director del Instituto Pilecki de Berlín."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo cambia la imagen de la embajada en el texto?",
+      "answers": [
+        "Siempre fue moderna y llena de vida",
+        "De bloque gris de la era comunista a un lugar donde hay vida",
+        "Se cierra definitivamente",
+        "Se traslada a Cracovia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta recuerda la vieja y sombría embajada comunista, y ahora ve un edificio nuevo y vivo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Marta al volver a Varsovia?",
+      "answers": [
+        "Se olvida de la piedra",
+        "Escribe sobre su abuelo, la piedra y las personas que la pusieron",
+        "Se hace diplomática",
+        "Vende su libreta"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epílogo dice que sigue escribiendo sobre su abuelo, la piedra y quienes la pusieron."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cuál es el mensaje principal del final de la historia?",
+      "answers": [
+        "Las piedras cuentan historias por sí solas",
+        "Las personas que encuentran las piedras pueden hablar por ellas",
+        "La memoria histórica no importa",
+        "Berlín no se interesa por los polacos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La reflexión final dice que las piedras no hablan, pero las personas pueden hablar por ellas."
+    }
+  ]
+}

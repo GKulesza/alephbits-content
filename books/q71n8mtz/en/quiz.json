@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who was James M. Huston Jr.?",
+      "answers": [
+        "A US Navy pilot killed in 1945",
+        "A doctor from Louisiana",
+        "A German soldier",
+        "The designer of the Enigma"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text identifies him as a naval aviator."
+    },
+    {
+      "type": "single_choice",
+      "question": "What wakes James's mother in the middle of the night?",
+      "answers": [
+        "A nightmare about fire and a jammed cockpit",
+        "A peaceful sleep",
+        "A request for water",
+        "Joy over a toy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea wakes to a scream about flames."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does James get the details of his previous life?",
+      "answers": [
+        "He simply knew — no one told him",
+        "His parents told him",
+        "From a lesson at preschool",
+        "From a newspaper"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text stresses: no one had told him that."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the boy's mother called?",
+      "answers": [
+        "Andrea",
+        "Maria",
+        "Anna",
+        "Joanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea wakes to her son's scream."
+    },
+    {
+      "type": "single_choice",
+      "question": "Over which island did the pilot die in his previous life?",
+      "answers": [
+        "Chichi Jima",
+        "Okinawa",
+        "Hawaii",
+        "Guam"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text gives Chichi Jima as the place of death."
+    }
+  ]
+}

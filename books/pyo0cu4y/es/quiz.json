@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿De dónde saca Saltafuego su poder?",
+      "answers": [
+        "De las travesuras y los malos pensamientos de los niños",
+        "Del sol",
+        "De un libro de conjuros",
+        "Del agua"
+      ],
+      "correctIndex": 0,
+      "explanation": "El señor Stanisław dice que nació de las travesuras y los malos pensamientos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué atrapan a Saltafuego?",
+      "answers": [
+        "En un recipiente de cristal con dulces",
+        "En un saco",
+        "En el sótano",
+        "En un armario"
+      ],
+      "correctIndex": 0,
+      "explanation": "Preparan un recipiente con miel y confituras como trampa."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué pierde el duende cuando pierde el gorrito?",
+      "answers": [
+        "Toda su fuerza",
+        "La voz",
+        "La memoria",
+        "El tesoro"
+      ],
+      "correctIndex": 0,
+      "explanation": "El libro dice que sin el gorrito rojo pierde todo su poder."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿En qué se convierte Saltafuego al final?",
+      "answers": [
+        "En una pequeña piedrecita roja",
+        "En una mariposa",
+        "En un gato",
+        "En una chispa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se encoge y se convierte en una pequeña piedrecita roja."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama el libro de conjuros?",
+      "answers": [
+        "De espíritus, hechizos y conjuros: obra del maestro Adalberto",
+        "Harry Potter",
+        "Peter Pan",
+        "El libro de la selva"
+      ],
+      "correctIndex": 0,
+      "explanation": "El señor Stanisław encuentra el libro del maestro Adalberto sobre espíritus."
+    }
+  ]
+}
