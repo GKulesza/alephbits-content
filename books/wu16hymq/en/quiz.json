@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does Marek live?",
+      "answers": [
+        "In New York",
+        "On Long Island, in Montauk",
+        "In California",
+        "In Boston"
+      ],
+      "correctIndex": 1,
+      "explanation": "He lives in Montauk on Long Island."
+    },
+    {
+      "type": "single_choice",
+      "question": "What book does Marek find in the second-hand bookshop?",
+      "answers": [
+        "1984",
+        "\"The Montauk Project: Experiments in Time\"",
+        "The Lord of the Rings",
+        "The Bible"
+      ],
+      "correctIndex": 1,
+      "explanation": "He finds Nichols's book about the Montauk Project."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek find in the underground of Camp Hero?",
+      "answers": [
+        "Treasure",
+        "A metal chair with wires, like in the book",
+        "A chemical laboratory",
+        "An empty hangar"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the room there is a chair with wires — as Nichols described."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who does the elderly man with the pot turn out to be?",
+      "answers": [
+        "His father",
+        "Preston — someone who also forgot and then remembered",
+        "A guard",
+        "A psychologist"
+      ],
+      "correctIndex": 1,
+      "explanation": "The man says: my name is Preston, you were one of us."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Preston say about the pots?",
+      "answers": [
+        "That they are a joke",
+        "That they protect against the memory-suppressing field",
+        "That they are a fashion",
+        "That they do nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says the pots protect against the suppressing field."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama la canción de la historia?",
+      "answers": [
+        "Kaze no Prologue",
+        "La calma antes de la tormenta",
+        "El prólogo del viento",
+        "Energía prohibida"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko graba un videoclip de Kaze no Prologue."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde graban el videoclip?",
+      "answers": [
+        "En la playa de Chiba al amanecer",
+        "En un estudio de Los Ángeles",
+        "En una estación de Varsovia",
+        "En las montañas de Hokkaido"
+      ],
+      "correctIndex": 0,
+      "explanation": "El mánager escribe sobre la playa de Chiba a las 5:00."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué mensaje transmite la canción?",
+      "answers": [
+        "Se puede empezar de nuevo",
+        "El viento es peligroso",
+        "La carrera se acaba",
+        "La playa es mala"
+      ],
+      "correctIndex": 0,
+      "explanation": "La canción habla de un nuevo comienzo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es la protagonista?",
+      "answers": [
+        "Yumiko",
+        "María",
+        "Ana",
+        "Kasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko oye la canción y graba el videoclip."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué hora debe ser la sesión de grabación?",
+      "answers": [
+        "A las cinco de la mañana",
+        "Al mediodía",
+        "A medianoche",
+        "A las ocho de la tarde"
+      ],
+      "correctIndex": 0,
+      "explanation": "El mánager indica las 5:00 de la mañana."
+    }
+  ]
+}

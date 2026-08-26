@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿A dónde va Piotr al principio de la historia?",
+      "answers": [
+        "A un museo",
+        "Al Archivo Central de Registros Modernos",
+        "A un cementerio",
+        "A los tribunales"
+      ],
+      "correctIndex": 1,
+      "explanation": "Está delante del edificio del Archivo Central de Registros Modernos."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué recibió del hombre desconocido en Łomża?",
+      "answers": [
+        "Dinero",
+        "Un sobre con copias de documentos de 1945",
+        "Una carta de Gross",
+        "Una fotografía"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sobre contenía copias de documentos con testimonios."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice el director del archivo sobre la verdad en este asunto?",
+      "answers": [
+        "Que es simple",
+        "Que la verdad es como el Santo Grial: todos la buscan, nadie quiere encontrarla",
+        "Que no existe",
+        "Que está en el libro de texto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que la verdad es incómoda para todas las partes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Marek, el hombre que se encuentra con Piotr en la cafetería?",
+      "answers": [
+        "Un estudiante",
+        "Un profesor de historia de Łomża",
+        "Un periodista",
+        "Un político"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek es profesor de historia en el instituto local."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué escribe Piotr al final de su artículo sobre la historia?",
+      "answers": [
+        "Que pertenece a un solo bando",
+        "Que la historia es una búsqueda de la verdad, y Jedwabne es más complejo de lo que nos contaron",
+        "Que hay que olvidar",
+        "Que Gross se equivocaba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Escribe sobre la complejidad de la verdad y sobre que la historia no es propiedad de ningún bando."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se sentía Tomek como un extraño en Nikiszowiec de niño?",
+      "answers": [
+        "Porque no sabía el dialecto silesio",
+        "Porque el barrio nuevo y su trazado le parecían una trampa de ladrillo rojo",
+        "Porque quería trabajar en la mina enseguida",
+        "Porque no le gustaban las iglesias"
+      ],
+      "correctIndex": 1,
+      "explanation": "El comienzo del texto subraya la mudanza, la extrañeza del lugar y la sensación de estar atrapado."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde ve Tomek por primera vez la figura del Monje Negro?",
+      "answers": [
+        "En la estación de Katowice",
+        "Junto a la iglesia de Santa Ana, a la sombra de un portal",
+        "En el tejado de una casa familiar",
+        "En el ascensor de la mina"
+      ],
+      "correctIndex": 1,
+      "explanation": "El primer encuentro tiene lugar junto a la iglesia de Santa Ana, al lado de uno de los portales."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué papel desempeña la mina Gisze/Wieczorek en el texto?",
+      "answers": [
+        "Es solo un telón de fondo sin importancia",
+        "Es la madre nutricia y la fuente del destino de los habitantes",
+        "Es un museo que visitan los turistas",
+        "Se describe como una galería privada"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto dice claramente que la mina daba trabajo, vivienda y decidía la vida de los habitantes."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué significa el gesto del Monje en el segundo encuentro con Tomek?",
+      "answers": [
+        "Una invitación a bajar a la mina",
+        "Señalar la iglesia y la memoria del lugar",
+        "Una amenaza contra los habitantes",
+        "Una petición de dinero"
+      ],
+      "correctIndex": 1,
+      "explanation": "El Monje señala la iglesia, y Tomek lo lee como un signo de memoria de los que se fueron."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo cambia la actitud de Tomek hacia Nikiszowiec al final de la historia?",
+      "answers": [
+        "Todavía quiere escapar de allí",
+        "Empieza a verlo como su casa y como un guía de su propia historia",
+        "Decide vender el piso de sus padres",
+        "Deja de creer en cualquier leyenda"
+      ],
+      "correctIndex": 1,
+      "explanation": "De lugar-trampa, Nikiszowiec se convierte en su casa y en portador de memoria."
+    }
+  ]
+}

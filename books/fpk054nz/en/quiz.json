@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Why did Tomek feel like a stranger in Nikiszowiec as a child?",
+      "answers": [
+        "Because he didn't know the Silesian dialect",
+        "Because the new estate and its layout seemed to him a trap of red brick",
+        "Because he wanted to work in the mine right away",
+        "Because he didn't like churches"
+      ],
+      "correctIndex": 1,
+      "explanation": "The beginning of the text emphasizes the move, the foreignness of the place and the feeling of being trapped."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does Tomek first see the figure of the Black Monk?",
+      "answers": [
+        "At the station in Katowice",
+        "By the Church of St. Anne, in the shadow of a gate",
+        "On the roof of a family tenement block",
+        "In the mine lift"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first meeting takes place by the Church of St. Anne, next to one of the gates."
+    },
+    {
+      "type": "single_choice",
+      "question": "What role does the Gisze/Wieczorek mine play in the text?",
+      "answers": [
+        "It is only an insignificant backdrop",
+        "It is the breadwinner mother and the source of the residents' fate",
+        "It is a museum visited by tourists",
+        "It is described as a private gallery"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says directly that the mine gave work, homes and decided the residents' lives."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the Monk's gesture mean during the second meeting with Tomek?",
+      "answers": [
+        "An invitation to descend underground",
+        "A pointing to the church and to the memory of the place",
+        "A threat against the residents",
+        "A request for money"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Monk points to the church, and Tomek reads it as a sign of memory of those who passed."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Tomek's attitude towards Nikiszowiec change at the end of the story?",
+      "answers": [
+        "He still wants to escape from there",
+        "He begins to see it as a home and a guide to his own history",
+        "He decides to sell his parents' flat",
+        "He stops believing in any legends"
+      ],
+      "correctIndex": 1,
+      "explanation": "From a place-trap, Nikiszowiec becomes his home and a carrier of memory."
+    }
+  ]
+}

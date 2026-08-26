@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Dónde vive Marek?",
+      "answers": [
+        "En Nueva York",
+        "En Long Island, en Montauk",
+        "En California",
+        "En Boston"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vive en Montauk, en Long Island."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué libro encuentra Marek en la librería de viejo?",
+      "answers": [
+        "1984",
+        "«The Montauk Project: Experiments in Time»",
+        "El Señor de los Anillos",
+        "La Biblia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Encuentra el libro de Nichols sobre el Proyecto Montauk."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué encuentra Marek en los subterráneos de Camp Hero?",
+      "answers": [
+        "Un tesoro",
+        "Una silla metálica con cables, como en el libro",
+        "Un laboratorio químico",
+        "Un hangar vacío"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la sala hay una silla con cables, como describió Nichols."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién resulta ser el hombre mayor de la olla?",
+      "answers": [
+        "Su padre",
+        "Preston — alguien que también olvidó y luego lo recordó todo",
+        "Un guardia",
+        "Un psicólogo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hombre dice: me llamo Preston, tú eras uno de los nuestros."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Preston sobre las ollas?",
+      "answers": [
+        "Que son una broma",
+        "Que protegen del campo que reprime la memoria",
+        "Que son una moda",
+        "Que no hacen nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que las ollas protegen del campo represor."
+    }
+  ]
+}

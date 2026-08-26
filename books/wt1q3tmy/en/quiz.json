@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What is the name of the song in the story?",
+      "answers": [
+        "Kaze no Prologue",
+        "Calm Before the Storm",
+        "Prologue of the Wind",
+        "Forbidden Energy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko is filming a music video for Kaze no Prologue."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where do they film the music video?",
+      "answers": [
+        "On Chiba beach at dawn",
+        "In a studio in Los Angeles",
+        "At a station in Warsaw",
+        "In the mountains of Hokkaido"
+      ],
+      "correctIndex": 0,
+      "explanation": "The manager writes about Chiba beach at 5:00 AM."
+    },
+    {
+      "type": "single_choice",
+      "question": "What message does the song carry?",
+      "answers": [
+        "You can start anew",
+        "The wind is dangerous",
+        "A career comes to an end",
+        "The beach is bad"
+      ],
+      "correctIndex": 0,
+      "explanation": "The song speaks of a new beginning."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is the main character?",
+      "answers": [
+        "Yumiko",
+        "Maria",
+        "Anna",
+        "Kasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko hears the song and films the music video."
+    },
+    {
+      "type": "single_choice",
+      "question": "At what time is the shoot supposed to be?",
+      "answers": [
+        "At five in the morning",
+        "At noon",
+        "At midnight",
+        "At eight in the evening"
+      ],
+      "correctIndex": 0,
+      "explanation": "The manager gives 5:00 AM."
+    }
+  ]
+}

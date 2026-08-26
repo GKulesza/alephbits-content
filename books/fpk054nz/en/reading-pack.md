@@ -1,0 +1,252 @@
+# The Black Monk of Nikiszowiec
+
+## Metadata
+
+**Pack ID:** fpk054nz
+**Book ID:** fpk054nz
+**Legacy Pack ID:** polish_czarny_mnich_z_nikiszowca
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** The Black Monk of Nikiszowiec  
+**Subtitle:** The legend and memory of Nikiszowiec  
+**Blurb:** Tomek grew up in Nikiszowiec like a stranger in his own neighbourhood. The legend of the Black Monk returns when the mine falls silent, and the tenement houses tell their own story. Between childhood memories and an adult gaze, a question emerges: can a place's demon become part of the identity of a man who finally wants to stay?
+
+**Genres:** legend, history  
+**Series:** Collection Three  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 5 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Czarny mnich z Nikiszowca" — Collection Three official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** polish, nikiszowiec, legend, silesia, memory  
+
+**Keywords:** Nikiszowiec, Czarny Mnich, Katowice, kopalnia  
+
+**Editorial notes:** English translation of the Polish canonical edition (Collection Three manuscript). Full text preserved — not abridged.
+
+---
+
+**Cover family:** legend
+
+---
+
+**World:**
+- places: gate, street
+- symbols: monk
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** GPT-5  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Fiction
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 06.07.2026 -> https://www.youtube.com/watch?v=Ppqyyz1tTj8  
+**Revision notes:** Legenda osadzona w realnej historii Nikiszowca i kopalni; wymaga ręcznej oceny proporcji między faktem a lokalnym podaniem.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Phase 40 migration |
+
+---
+## Sources
+
+### Source 1: Collection Three manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Ppqyyz1tTj8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-06  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu.
+
+---
+## Text
+
+**THE BLACK MONK OF NIKISZOWIEC**
+
+When Tomek first heard about the Black Monk, he was twelve years old and had just moved to Katowice with his parents. A new estate, a new school, new friends – everything was foreign. But the most foreign thing was Nikiszowiec. The place where his parents had moved for good, and where he felt as if he were trapped in a cage of red brick. Everywhere the same buildings, the same gates, the same alleys. It seemed to him that he would never escape from here.
+
+One evening, as he was walking home from school, he saw something that changed the way he saw this place forever. By the Church of St. Anne, in the shadow of one of the gates, stood a tall figure in a black habit. The hood was pulled deep over the face, which could not be seen. Tomek froze. He wanted to run, but his legs went numb. The figure stood motionless, as if looking at him. Then, in an instant, it vanished. As if it had dissolved into thin air.
+
+Tomek ran home, dashed into the flat and locked the door. He told nobody what he had seen. He was afraid that nobody would believe him. But that moment, that figure, that shadow – it stayed with him forever.
+
+
+**The breadwinner mother**
+
+Nikiszowiec was not an ordinary estate. It was a town within a town, a self-sufficient organism created to serve the mine. The Gisze mine, later Wieczorek, was the breadwinner mother. It was the mine that gave work, homes, bread. It was the mine that decided who lived and who died.
+
+Tomek did not know that when he first entered a family tenement block. He did not know that the bricks surrounding him had witnessed thousands of stories – joyful and tragic. He did not know that in those gates, called _einfarty_, dramas unfolded that nobody wanted to talk about. And he did not know that the Black Monk he had met was one of those dramas.
+
+When he grew up, he began to read about the history of Nikiszowiec. About how the mine was founded in 1826, how for decades it was the heart of the region, how coal was hewn, how people died. About the strikes, about the protests of the women who, in 1937, surrounded the management building with barbed wire, shouting: "Our men are starving, so you starve too." About how the miners spent 12 hours a day underground, how their only holiday was three days a year, and unpaid at that.
+
+And about how disasters happened in this mine that claimed the lives of many men. And how after each one, someone said they had seen the Black Monk.
+
+
+**The Church of St. Anne**
+
+The Church of St. Anne was the centre of Nikiszowiec. Its mighty mass, monumental arcades and enormous dome dominated the whole estate. Whenever Tomek went inside, he always felt small. The stained-glass windows – 56 windows, 10 monumental figural compositions – turned the interior into a spectacle of light. Reds, blues, gold, purple. And above the heads of the faithful – the organ, over 5,300 pipes, 75 stops.
+
+It was here, according to legend, that the Black Monk appeared most often. People said he stood motionless by the church walls, looked at the faithful, and then disappeared. Some claimed he warned of misfortune. Others, that he was the soul of a monk who had died in the mine trying to save the miners. And still others, that he was a January Uprising insurgent whose soul had found no peace.
+
+Tomek did not know whom to believe. But he knew that this place held something extraordinary. Something that could not be explained by reason.
+
+
+**The einfarty**
+
+What fascinated him most were the gates. Each one was different. They had different vaults, different patterns, different shapes. Once he asked an elderly neighbour about it.
+
+– That's so a chap who's had a few drinks doesn't mistake his gate – said the neighbour with a smile. – Each block has a different entrance, so he gets to his own home. Because if he went into the wrong one, his wife would give him a hard time.
+
+Tomek laughed then. But later, when he walked through those alleys, he understood that those gates hid more than just practicality. They hid history. Each one had seen as much as the people who passed through them. Children's laughter, married couples' quarrels, returns from the shift, farewells for ever.
+
+It was in those gates, in those dark passages, that the Black Monk was said to appear. He was said to enter them and disappear. He never left a trace.
+
+
+**The meeting**
+
+Tomek was twenty-two years old when he decided to return to Nikiszowiec. He already lived in Warsaw, studied, worked, lived his own life. But this place gave him no peace. He felt he had to go back, had to understand.
+
+He stood before the Church of St. Anne. It was evening, dusk was falling. Nikiszowiec was quiet, only somewhere in the distance a dog barked. Tomek walked into one of the gates, into an _einfart_ he remembered from childhood. Darkness wrapped around him like a blanket. For a moment he saw nothing. Then, in the distance, he made out a shadow.
+
+A figure in a black habit.
+
+Tomek did not run. This time he walked closer. The figure did not move. It stood motionless, as if waiting. Tomek stopped a few metres away. He wanted to say something, but could not find his voice.
+
+– Who are you? – he asked at last.
+
+Silence.
+
+– Why are you here?
+
+Silence.
+
+Then the figure raised its hand and pointed towards the church. And then it vanished. Just as it had when Tomek was a child.
+
+Tomek was left alone in the darkness. But this time he felt no fear. He felt something else. He felt that this place, this legend, this monk – all of it made sense. That this was not just a story. It was memory. Memory of those who had passed. Of the miners, of their families, of their suffering and their hope.
+
+He walked out of the gate and looked at the Church of St. Anne. The lights in the windows flickered like candles. Somewhere in the distance a bell rang.
+
+Tomek smiled. He knew he would come back. That this place, which he had once thought of as a trap, had become his home. And that the Black Monk, who had once frightened him, was now a guide to him. A guide to the secrets of Nikiszowiec, to its history, to its soul.
+
+And he knew that this story would never end. It would be passed down from generation to generation, as it had been for years. And that the Black Monk would always be there. Waiting for those who wanted to listen.
+
+
+**THE END**
+
+---
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** Why did Tomek feel like a stranger in Nikiszowiec as a child?
+
+**Answers:**
+- A) Because he didn't know the Silesian dialect
+- B) Because the new estate and its layout seemed to him a trap of red brick
+- C) Because he wanted to work in the mine right away
+- D) Because he didn't like churches
+
+**Correct:** B
+**Explanation:** The beginning of the text emphasizes the move, the foreignness of the place and the feeling of being trapped.
+**Text reference:** trap of red brick
+
+### Question 2
+
+**Question:** Where does Tomek first see the figure of the Black Monk?
+
+**Answers:**
+- A) At the station in Katowice
+- B) By the Church of St. Anne, in the shadow of a gate
+- C) On the roof of a family tenement block
+- D) In the mine lift
+
+**Correct:** B
+**Explanation:** The first meeting takes place by the Church of St. Anne, next to one of the gates.
+**Text reference:** By the Church of St. Anne
+
+### Question 3
+
+**Question:** What role does the Gisze/Wieczorek mine play in the text?
+
+**Answers:**
+- A) It is only an insignificant backdrop
+- B) It is the breadwinner mother and the source of the residents' fate
+- C) It is a museum visited by tourists
+- D) It is described as a private gallery
+
+**Correct:** B
+**Explanation:** The text says directly that the mine gave work, homes and decided the residents' lives.
+**Text reference:** was the breadwinner mother
+
+### Question 4
+
+**Question:** What does the Monk's gesture mean during the second meeting with Tomek?
+
+**Answers:**
+- A) An invitation to descend underground
+- B) A pointing to the church and to the memory of the place
+- C) A threat against the residents
+- D) A request for money
+
+**Correct:** B
+**Explanation:** The Monk points to the church, and Tomek reads it as a sign of memory of those who passed.
+**Text reference:** pointed towards the church
+
+### Question 5
+
+**Question:** How does Tomek's attitude towards Nikiszowiec change at the end of the story?
+
+**Answers:**
+- A) He still wants to escape from there
+- B) He begins to see it as a home and a guide to his own history
+- C) He decides to sell his parents' flat
+- D) He stops believing in any legends
+
+**Correct:** B
+**Explanation:** From a place-trap, Nikiszowiec becomes his home and a carrier of memory.
+**Text reference:** had become his home
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

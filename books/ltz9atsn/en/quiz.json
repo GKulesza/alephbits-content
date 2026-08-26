@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Where does Piotr go at the beginning of the story?",
+      "answers": [
+        "To a museum",
+        "To the Central Archives of Modern Records",
+        "To a cemetery",
+        "To court"
+      ],
+      "correctIndex": 1,
+      "explanation": "He stands in front of the building of the Central Archives of Modern Records."
+    },
+    {
+      "type": "single_choice",
+      "question": "What did he get from the unknown man in Łomża?",
+      "answers": [
+        "Money",
+        "An envelope with copies of documents from 1945",
+        "A letter from Gross",
+        "A photograph"
+      ],
+      "correctIndex": 1,
+      "explanation": "The envelope contained copies of documents with testimonies."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the archive director say about the truth in this matter?",
+      "answers": [
+        "That it is simple",
+        "That the truth is like the Holy Grail — everyone searches, nobody wants to find",
+        "That it does not exist",
+        "That it is in the textbook"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says the truth is inconvenient for all sides."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Marek, the man who meets Piotr in the café?",
+      "answers": [
+        "A student",
+        "A history teacher from Łomża",
+        "A journalist",
+        "A politician"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek is a history teacher at the local high school."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Piotr write at the end of his article about history?",
+      "answers": [
+        "That it belongs to one side",
+        "That history is a search for truth, and Jedwabne is more complex than we were told",
+        "That we should forget",
+        "That Gross was wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "He writes about the complexity of the truth and about history not belonging to any one side."
+    }
+  ]
+}
