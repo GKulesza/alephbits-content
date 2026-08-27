@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiam Zosia unuafoje aŭdas, ke ŝi estas „bonkonduta knabino\"?",
       "answers": [
-        "En la lernejo, dum leciono",
+        "En la lernejo, dum leciono pri la historio",
         "Ŝi havas ĉirkaŭ kvin jarojn, dum la matenmanĝo",
-        "Dum la studoj, ĉe prelegoj",
-        "Post naskiĝo de la filo"
+        "Dum la studoj, ĉe la prelegoj pri psikologio",
+        "Post la naskiĝo de la filo en la domo"
       ],
       "correctIndex": 1,
       "explanation": "La patrino diras tion al ŝi super la matenmanĝo, kiam ŝi havas kvin jarojn."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Zosia faras unuafoje en la aĝo de ĉirkaŭ 15 jaroj?",
       "answers": [
-        "Ŝi ŝanĝas lernejon meze de la jaro",
+        "Ŝi ŝanĝas lernejon meze de la lerneja jaro",
         "Ŝi rifuzas la forveturon al la ĥora provo",
-        "Ŝi forveturas al Erasmus",
-        "Ŝi rezignas pri Instagram"
+        "Ŝi forveturas al Erasmus por la studoj",
+        "Ŝi rezignas pri Instagram kaj pri la sociaj retoj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi rifuzas la forveturon al la ĥora provo kaj fermas sin en la banĉambro."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiun fakojn ŝi elektas post la seniluziiĝo pri ĵurnalistiko?",
       "answers": [
-        "Psikologion",
-        "Eŭropajn studojn",
-        "Medicinon",
-        "Juron"
+        "Psikologion en la universitato",
+        "Eŭropajn studojn en la universitato",
+        "Medicinon en la medicina akademio",
+        "Juron en la jura akademio"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi transiras al eŭropaj studoj pro Erasmus kaj vojaĝoj."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Zosia komencas fari dum la pandemio kaj la malfacila gravedeco?",
       "answers": [
-        "Ŝi skribas krimromanon",
-        "Ŝi registras konversaciojn kaj publikigas ilin en la reto",
-        "Ŝi malfermas restoracion en la urbo",
-        "Ŝi lernas programadon"
+        "Ŝi skribas krimromanon pri la familio kaj la najbaroj",
+        "Ŝi registras konversaciojn kaj publikigas ilin rete",
+        "Ŝi malfermas restoracion en la urbocentro kun amikoj",
+        "Ŝi lernas programadon en la noktaj kursoj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi registras konversaciojn por la familio, poste por Instagram/TikTok/YouTube."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Zosia dirus al sia juna memo?",
       "answers": [
-        "Estu eĉ pli perfekta",
+        "Estu eĉ pli perfekta kaj pli laborema",
         "Vi ne devas esti perfekta — sufiĉas esti vi mem",
-        "Forĵetu la lernejon kaj forveturu",
-        "Neniam diru al iu „ne\""
+        "Forĵetu la lernejon kaj forveturu al alia lando",
+        "Neniam diru al iu „ne\" kaj cedu ĉiam"
       ],
       "correctIndex": 1,
       "explanation": "En la intervjuo ŝi diras: „Vi ne devas esti tiel perfekta. Sufiĉas, ke vi estos vi mem.\""

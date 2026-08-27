@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Patryk skribas en la kajero meze de la nokto?",
       "answers": [
-        "Aĉetliston",
-        "Ke li ne memoras, kiam li sentis sin bone kaj vere spiris",
-        "Feriplano",
-        "Filmoskripto"
+        "Aĉetliston por la semajno en la superbazaro",
+        "Ke li ne memoras, kiam li sentis sin vere bone",
+        "Feriplano por la somero kun la familio",
+        "Filmoskripto por nova filmo de la studio"
       ],
       "correctIndex": 1,
       "explanation": "La unua noto temas pri ne memori la lastan bonfarton kaj la veran spiron."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "De kie devenas la kajero, kiun Patryk uzas?",
       "answers": [
-        "Li aĉetis ĝin tiun tagon en librobutiko",
+        "Li aĉetis ĝin tiun tagon en la librobutiko de la urbocentro",
         "Li ricevis ĝin de la edzino por la naskiĝtago antaŭ tri jaroj",
-        "Li trovis ĝin surstrate",
-        "Li ricevis ĝin de la estro"
+        "Li trovis ĝin surstrate apud la domo",
+        "Li ricevis ĝin de la estro de la firmao"
       ],
       "correctIndex": 1,
       "explanation": "En la tirkesto kuŝas malnova kajero de la edzino, donaco por la naskiĝtago antaŭ tri jaroj."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel Patryk komprenas la streson fine de la rakonto?",
       "answers": [
-        "Kiel malamikon, kontraŭ kiu oni devas batali",
-        "Kiel informon de la korpo, al kiu la respondo estas haltiĝo kaj spiro",
-        "Kiel ion, kion oni devas ignori",
-        "Kiel kialon por alia nokta laboro"
+        "Kiel malamikon, kontraŭ kiu oni devas batali per ĉiuj rimedoj",
+        "Kiel informon de la korpo — la respondo estas haltiĝo kaj spiro",
+        "Kiel ion, kion oni devas ignori kaj forgesi",
+        "Kiel kialon por alia nokta laboro en la oficejo"
       ],
       "correctIndex": 1,
       "explanation": "La fina pripenso diras, ke streso estas informo, kaj la respondo estas haltiĝo kaj spirado."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kiel finiĝas la nokto de Patryk?",
       "answers": [
-        "Li revenas al la laboro pri la prelego",
+        "Li revenas al la laboro pri la prelego por la morgaŭo",
         "Li kuŝiĝas apud la edzino kaj trankvile endormiĝas",
-        "Li eliras kuri je noktomezo",
-        "Li veturas al la oficejo"
+        "Li eliras kuri je noktomezo tra la stratoj",
+        "Li veturas al la oficejo en la centro"
       ],
       "correctIndex": 1,
       "explanation": "Post la pripenso li kuŝiĝas apud la edzino kaj, unuafoje post longe, trankvile endormiĝas."

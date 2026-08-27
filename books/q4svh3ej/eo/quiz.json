@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiel Kasia priskribas sian ADHD al la psikologino?",
       "answers": [
-        "Mi estas pigra",
+        "Mi estas pigra kaj ne ŝatas labori matene",
         "Mi havas en la kapo radion — ĉiujn staciojn samtempe",
-        "Mi ne ŝatas la lernejon",
-        "Mi estas malsana"
+        "Mi ne ŝatas la lernejon kaj la lernadon",
+        "Mi estas malsana kaj bezonas kuracadon de kuracisto"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi diras: „Mi havas en la kapo radion… Ludas ĉiuj stacioj samtempe\"."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kio helpas al Kasia koncentriĝi dum la leciono?",
       "answers": [
-        "Punisoj",
-        "Senca premotesto kaj la eblo de mallonga moviĝo",
-        "Malpermeso de interparoloj",
-        "Forigo de la klaso"
+        "Punisoj pro la malbona konduto",
+        "Sensa premotesto kaj ebla mallonga moviĝo",
+        "Malpermeso de interparoloj kun la kolegoj",
+        "Forigo de la klaso pro la bruo"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi ricevas la premoteston; ŝi povas leviĝi momenton sen ĝeni."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion la panjo faras antaŭ la dormo?",
       "answers": [
-        "Ŝi ŝaltas la televidilon",
+        "Ŝi ŝaltas la televidilon en la ĉambro",
         "Ŝi forigas la ekranojn — legado kaj silento",
-        "Ŝi donas energiajn trinkaĵojn",
-        "Ŝi faras la hejmtaskojn anstataŭ Kasia"
+        "Ŝi donas energiajn trinkaĵojn por la vigleco",
+        "Ŝi faras la hejmtaskojn anstataŭ Kasia mem"
       ],
       "correctIndex": 1,
       "explanation": "Sen ekranoj antaŭ la dormo; legado de libroj."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Kasia diras al la klaso pri ADHD?",
       "answers": [
-        "Tio signifas, ke mi estas malsana",
+        "Tio signifas, ke mi estas malsana kaj malforta",
         "Mia cerbo funkcias alie, ne pli malbone",
-        "Mi devus sidi en la angulo",
-        "Mi neniam estos bona en la lernejo"
+        "Mi devus sidi en la angulo de la klaso",
+        "Mi neniam estos bona en la lernejo kaj en la vivo"
       ],
       "correctIndex": 1,
       "explanation": "„Ne. Tio signifas, ke mia cerbo funkcias alie. Ne pli malbone\"."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Kasia volas fari en la studoj?",
       "answers": [
-        "Fariĝi kuracistino",
+        "Fariĝi kuracistino en la urba hospitalo",
         "Psikologino — helpi infanojn kiel ŝi",
-        "Kantistino",
-        "Programistino"
+        "Kantistino en la nacia operejo",
+        "Programistino en granda firmao"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi studas psikologion, por subteni infanojn kun similaj malfacilaĵoj."

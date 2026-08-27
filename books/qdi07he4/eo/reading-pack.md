@@ -242,10 +242,10 @@ Kaj ke tio sufiĉas.
 **Question:** Kio estas la profesio de Marek?
 
 **Answers:**
-- A) Flegisto
+- A) Flegisto en la centra kliniko
 - B) Kirurgo en la suda hospitalo
-- C) Ĵurnalisto
-- D) Politikisto
+- C) Ĵurnalisto de la urba gazeto
+- D) Politikisto en la urba konsilio
 
 **Correct:** B
 **Explanation:** Li laboras kiel kirurgo en la suda hospitalo de tri jaroj.
@@ -256,10 +256,10 @@ Kaj ke tio sufiĉas.
 **Question:** Kion Marek diagnozas ĉe la paciento en la ĉambro numero 4?
 
 **Answers:**
-- A) Gripon
+- A) Gripon kaj altan febron
 - B) Koratakon en frua stadio
-- C) Frakturon
-- D) Anemion
+- C) Frakturon de la maldekstra kruro
+- D) Anemion post la operacio
 
 **Correct:** B
 **Explanation:** Post la ekzameno li konstatas koratakon en frua stadio.
@@ -270,10 +270,10 @@ Kaj ke tio sufiĉas.
 **Question:** Kion la kolego Nowak diras pri la sistemo?
 
 **Answers:**
-- A) Ke ĝi estas ideala
-- B) Ke tio estas la pinto de la glacimonto — la sistemo putras de jaroj
-- C) Ke ĝi pliboniĝas
-- D) Ke ĝi ne koncernas ilian hospitalon
+- A) Ke ĝi estas ideala kaj funkcias sen problemoj en ĉiuj fakoj
+- B) Ke tio estas la pinto de la glacimonto — la sistemo putras
+- C) Ke ĝi pliboniĝas de jaro al jaro en la suda hospitalo
+- D) Ke ĝi ne koncernas ilian hospitalon, sed nur la najbaran
 
 **Correct:** B
 **Explanation:** Nowak diras, ke tio estas la pinto de la glacimonto kaj la sistemo putras.
@@ -284,10 +284,10 @@ Kaj ke tio sufiĉas.
 **Question:** Kion Marek faras anstataŭ iri al la hospitalo la sekvan matenon?
 
 **Answers:**
-- A) Li forveturas ferie
+- A) Li forveturas ferie al la montoj por ripozi kaj pensi
 - B) Li sidas kaj skribas notojn pri tio, kion li vidis
-- C) Li rezignas sen vorto
-- D) Li iras al politikisto
+- C) Li rezignas sen vorto kaj ne revenas al la fako
+- D) Li iras al la politikisto por protesti publike
 
 **Correct:** B
 **Explanation:** La sekvan tagon li skribas notojn, rememorojn kaj observojn.
@@ -298,10 +298,10 @@ Kaj ke tio sufiĉas.
 **Question:** Kio okazas semajnon post la publikigo de la teksto?
 
 **Answers:**
-- A) Li ricevas premion
-- B) Li estas maldungita, sed sentas, ke li faris tion, kion li devis
-- C) Li revenas al la laboro sen ŝanĝoj
-- D) Li ŝajnigas, ke li skribis nenion
+- A) Li ricevas premion por la kuraĝa teksto en la gazeto
+- B) Li estas maldungita, sed sentas, ke li faris sian devon
+- C) Li revenas al la laboro sen ŝanĝoj en la fako
+- D) Li ŝajnigas, ke li skribis nenion kaj daŭrigas la laboron
 
 **Correct:** B
 **Explanation:** Li estas maldungita, sed ne sentas sin malgajninto — li diris la veron.

@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kio estas la profesio de Marek?",
       "answers": [
-        "Flegisto",
+        "Flegisto en la centra kliniko",
         "Kirurgo en la suda hospitalo",
-        "Ĵurnalisto",
-        "Politikisto"
+        "Ĵurnalisto de la urba gazeto",
+        "Politikisto en la urba konsilio"
       ],
       "correctIndex": 1,
       "explanation": "Li laboras kiel kirurgo en la suda hospitalo de tri jaroj."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Marek diagnozas ĉe la paciento en la ĉambro numero 4?",
       "answers": [
-        "Gripon",
+        "Gripon kaj altan febron",
         "Koratakon en frua stadio",
-        "Frakturon",
-        "Anemion"
+        "Frakturon de la maldekstra kruro",
+        "Anemion post la operacio"
       ],
       "correctIndex": 1,
       "explanation": "Post la ekzameno li konstatas koratakon en frua stadio."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion la kolego Nowak diras pri la sistemo?",
       "answers": [
-        "Ke ĝi estas ideala",
-        "Ke tio estas la pinto de la glacimonto — la sistemo putras de jaroj",
-        "Ke ĝi pliboniĝas",
-        "Ke ĝi ne koncernas ilian hospitalon"
+        "Ke ĝi estas ideala kaj funkcias sen problemoj en ĉiuj fakoj",
+        "Ke tio estas la pinto de la glacimonto — la sistemo putras",
+        "Ke ĝi pliboniĝas de jaro al jaro en la suda hospitalo",
+        "Ke ĝi ne koncernas ilian hospitalon, sed nur la najbaran"
       ],
       "correctIndex": 1,
       "explanation": "Nowak diras, ke tio estas la pinto de la glacimonto kaj la sistemo putras."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Marek faras anstataŭ iri al la hospitalo la sekvan matenon?",
       "answers": [
-        "Li forveturas ferie",
+        "Li forveturas ferie al la montoj por ripozi kaj pensi",
         "Li sidas kaj skribas notojn pri tio, kion li vidis",
-        "Li rezignas sen vorto",
-        "Li iras al politikisto"
+        "Li rezignas sen vorto kaj ne revenas al la fako",
+        "Li iras al la politikisto por protesti publike"
       ],
       "correctIndex": 1,
       "explanation": "La sekvan tagon li skribas notojn, rememorojn kaj observojn."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kio okazas semajnon post la publikigo de la teksto?",
       "answers": [
-        "Li ricevas premion",
-        "Li estas maldungita, sed sentas, ke li faris tion, kion li devis",
-        "Li revenas al la laboro sen ŝanĝoj",
-        "Li ŝajnigas, ke li skribis nenion"
+        "Li ricevas premion por la kuraĝa teksto en la gazeto",
+        "Li estas maldungita, sed sentas, ke li faris sian devon",
+        "Li revenas al la laboro sen ŝanĝoj en la fako",
+        "Li ŝajnigas, ke li skribis nenion kaj daŭrigas la laboron"
       ],
       "correctIndex": 1,
       "explanation": "Li estas maldungita, sed ne sentas sin malgajninto — li diris la veron."

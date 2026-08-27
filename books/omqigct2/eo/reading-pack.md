@@ -235,10 +235,10 @@ Li leviĝis, aliris al la lito kaj kuŝiĝis apud la edzino. Li fermis la okuloj
 **Question:** Kion Patryk skribas en la kajero meze de la nokto?
 
 **Answers:**
-- A) Aĉetliston
-- B) Ke li ne memoras, kiam li sentis sin bone kaj vere spiris
-- C) Feriplano
-- D) Filmoskripto
+- A) Aĉetliston por la semajno en la superbazaro
+- B) Ke li ne memoras, kiam li sentis sin vere bone
+- C) Feriplano por la somero kun la familio
+- D) Filmoskripto por nova filmo de la studio
 
 **Correct:** B
 **Explanation:** La unua noto temas pri ne memori la lastan bonfarton kaj la veran spiron.
@@ -249,10 +249,10 @@ Li leviĝis, aliris al la lito kaj kuŝiĝis apud la edzino. Li fermis la okuloj
 **Question:** De kie devenas la kajero, kiun Patryk uzas?
 
 **Answers:**
-- A) Li aĉetis ĝin tiun tagon en librobutiko
+- A) Li aĉetis ĝin tiun tagon en la librobutiko de la urbocentro
 - B) Li ricevis ĝin de la edzino por la naskiĝtago antaŭ tri jaroj
-- C) Li trovis ĝin surstrate
-- D) Li ricevis ĝin de la estro
+- C) Li trovis ĝin surstrate apud la domo
+- D) Li ricevis ĝin de la estro de la firmao
 
 **Correct:** B
 **Explanation:** En la tirkesto kuŝas malnova kajero de la edzino, donaco por la naskiĝtago antaŭ tri jaroj.
@@ -263,10 +263,10 @@ Li leviĝis, aliris al la lito kaj kuŝiĝis apud la edzino. Li fermis la okuloj
 **Question:** Kiel Patryk komprenas la streson fine de la rakonto?
 
 **Answers:**
-- A) Kiel malamikon, kontraŭ kiu oni devas batali
-- B) Kiel informon de la korpo, al kiu la respondo estas haltiĝo kaj spiro
-- C) Kiel ion, kion oni devas ignori
-- D) Kiel kialon por alia nokta laboro
+- A) Kiel malamikon, kontraŭ kiu oni devas batali per ĉiuj rimedoj
+- B) Kiel informon de la korpo — la respondo estas haltiĝo kaj spiro
+- C) Kiel ion, kion oni devas ignori kaj forgesi
+- D) Kiel kialon por alia nokta laboro en la oficejo
 
 **Correct:** B
 **Explanation:** La fina pripenso diras, ke streso estas informo, kaj la respondo estas haltiĝo kaj spirado.
@@ -277,10 +277,10 @@ Li leviĝis, aliris al la lito kaj kuŝiĝis apud la edzino. Li fermis la okuloj
 **Question:** Kiel finiĝas la nokto de Patryk?
 
 **Answers:**
-- A) Li revenas al la laboro pri la prelego
+- A) Li revenas al la laboro pri la prelego por la morgaŭo
 - B) Li kuŝiĝas apud la edzino kaj trankvile endormiĝas
-- C) Li eliras kuri je noktomezo
-- D) Li veturas al la oficejo
+- C) Li eliras kuri je noktomezo tra la stratoj
+- D) Li veturas al la oficejo en la centro
 
 **Correct:** B
 **Explanation:** Post la pripenso li kuŝiĝas apud la edzino kaj, unuafoje post longe, trankvile endormiĝas.

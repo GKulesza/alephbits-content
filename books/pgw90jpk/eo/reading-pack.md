@@ -175,10 +175,10 @@ Kion ajn li faros, ŝi jam scias. _Hodiaŭ komenciĝas alia tago el la resto de 
 **Question:** Pri kio Marta „troviĝas" kontraŭ Darek komence?
 
 **Answers:**
-- A) Pri la laboro
+- A) Pri la laboro en la oficejo kaj la manko de tempo
 - B) Ke li ne ŝraŭbis la pasttubon post la dentobroso
-- C) Pri la infanoj
-- D) Pri la mono
+- C) Pri la infanoj kaj pri ilia lernejo matene
+- D) Pri la mono elspezita por la semajna aĉetado
 
 **Correct:** B
 **Explanation:** Ŝi diras: vi denove ne ŝraŭbis la pasttubon.
@@ -189,10 +189,10 @@ Kion ajn li faros, ŝi jam scias. _Hodiaŭ komenciĝas alia tago el la resto de 
 **Question:** Kion Darek respondas al ŝiaj rimarkoj?
 
 **Answers:**
-- A) Li pardonpetas
+- A) Li pardonpetas kaj promesas ŝanĝiĝi
 - B) „Ĉesu, Marta. Vi denove troviĝas."
-- C) Li silentas
-- D) Li eliras
+- C) Li silentas kaj rigardas la fenestron
+- D) Li eliras al la balkono silente
 
 **Correct:** B
 **Explanation:** Li ripetas: ĉesu, vi denove troviĝas.
@@ -203,10 +203,10 @@ Kion ajn li faros, ŝi jam scias. _Hodiaŭ komenciĝas alia tago el la resto de 
 **Question:** Kion Marta diras, ke ŝi ĉesos fari?
 
 **Answers:**
-- A) Ami Darkon
+- A) Ami Darkon tiel kiel antaŭe, sen rezervoj kaj sen duboj
 - B) Plendi kaj memori al li, ke liaj reagoj ŝin doloras
-- C) Kuiri
-- D) Labori
+- C) Kuiri por la tuta familio ĉiun vesperon en la kuirejo
+- D) Labori ĝis malfrua nokto en la oficejo de la firmao
 
 **Correct:** B
 **Explanation:** Ŝi anoncas, ke ŝi ĉesos plendi, sed lia reago estos signo.
@@ -217,10 +217,10 @@ Kion ajn li faros, ŝi jam scias. _Hodiaŭ komenciĝas alia tago el la resto de 
 **Question:** De kie Marta konas la metodon „anstataŭ plendi, ni prenu respondecon"?
 
 **Answers:**
-- A) De Darek
+- A) De Darek, de la edzo mem
 - B) El podkasto, kiun ŝi aŭskultis en la aŭto
-- C) El la libro de Darek
-- D) De terapiisto
+- C) El la libro, kiun Darek legas nun
+- D) De terapiisto, kiun ŝi vizitis pasintjare
 
 **Correct:** B
 **Explanation:** Ŝi rememoras la hieraŭan podkaston en la aŭto.
@@ -231,10 +231,10 @@ Kion ajn li faros, ŝi jam scias. _Hodiaŭ komenciĝas alia tago el la resto de 
 **Question:** Kion Marta pensas fine pri la tago?
 
 **Answers:**
-- A) Ke ĉio finiĝis
+- A) Ke ĉio finiĝis kaj oni ne povas ŝanĝi la faritan decidon
 - B) „Hodiaŭ komenciĝas alia tago el la resto de ŝia vivo."
-- C) Ke ŝi devas forveturi
-- D) Ke Darek ŝanĝiĝos
+- C) Ke ŝi devas forveturi por iom ripozi kaj pensi
+- D) Ke Darek ŝanĝiĝos post la nokta konversacio
 
 **Correct:** B
 **Explanation:** Ŝi finas per pripenso pri la tago, kiu komencas la reston de la vivo.

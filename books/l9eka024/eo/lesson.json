@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kion Marcin plej timas en la kunteksto de la mikrofono?",
         "answers": [
-          "Ke li forgesos la tekston de la lumbildoj",
-          "Ke la silento plifortigas lian necertecon kaj ke iu juĝos, ke li ne devus esti ĉi tie",
-          "Ke la mikrofono estas tro laŭta",
-          "Ke la ĉefo maldungos lin"
+          "Ke li forgesos la tekston de ĉiuj lumbildoj",
+          "Ke iu juĝos, ke li ne devus esti ĉi tie",
+          "Ke la mikrofono estas tro laŭta por la publiko",
+          "Ke la ĉefo maldungos lin post la prezento"
         ],
         "correctIndex": 1,
         "explanation": "Kammel diras, ke homoj timas la juĝon: „Kion li faras ĉi tie? Li ne devus esti ĉi tie.\""
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kion Kammel konsilas anstataŭ diri „mi estas nervoza\"?",
         "answers": [
-          "Diri „mi estas laca\"",
+          "Diri „mi estas laca\" antaŭ ĉiuj",
           "Diri „mi estas agitiĝinta\"",
-          "Diri nenion",
-          "Publike pardonpeti"
+          "Diri nenion pri siaj emocioj",
+          "Publike pardonpeti al la kolegoj"
         ],
         "correctIndex": 1,
         "explanation": "Marcin notas: ne diru „nervoza\", diru „agitiĝinta\" — la biokemio ŝanĝiĝas."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Pri kio Kammel petas Marcino-n fine de la unua leciono?",
         "answers": [
-          "Pri recitado de la lumbildoj",
-          "Pri rakontado pri la infanoj tiel, kiel ĉe la vespermanĝo — ne sur la scenejo",
-          "Pri ekzercado antaŭ la spegulo",
-          "Pri video-registrado"
+          "Pri recitado de la lumbildoj parkere",
+          "Pri rakontado pri la infanoj kiel hejme, ne sur scenejo",
+          "Pri ekzercado antaŭ la spegulo en la hejma ĉambro vespere",
+          "Pri video-registrado de la tuta prezento en la studio"
         ],
         "correctIndex": 1,
         "explanation": "Tomasz petas: rakontu pri la infanoj tiel, kiel hejme, ne kiel sur la scenejo."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kiel Marcin komencas la adiaŭan parolon por Andrzej?",
         "answers": [
-          "De pardonpeto pro la barakto",
+          "De pardonpeto pro la barakto en la komenco",
           "De ŝerco, ke li konfuzis Andrzej kun gardisto",
-          "De legado de la lumbildoj",
-          "De citaĵo el libro"
+          "De legado de la lumbildoj al la publiko",
+          "De citaĵo el la libro de Andrzej"
         ],
         "correctIndex": 1,
         "explanation": "Li komencas: „Kiam mi unuafoje renkontis Andrzej — mi konfuzis lin kun gardisto.\""
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kion diras la filino de la direktoro post la parolo?",
         "answers": [
-          "Ke la prezento estis tro longa",
+          "Ke la prezento estis tro longa por la publiko en la salono",
           "Ke li parolis pri la paĉjo tiel, kvazaŭ li vere lin konus",
-          "Ke li devus reveni al la lumbildoj",
-          "Ke ŝi ne komprenis la ŝercon"
+          "Ke li devus reveni al la lumbildoj kaj al la skribo",
+          "Ke ŝi ne komprenis la ŝercon pri la gardisto"
         ],
         "correctIndex": 1,
         "explanation": "La filino diras: „Vi parolis pri paĉjo tiel, kvazaŭ vi vere lin konus.\""

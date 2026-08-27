@@ -274,10 +274,10 @@ Ne ĉar ŝi superis lin. Sed ĉar ŝi ĉesis esti lia peono.
 **Question:** Kion Kasia vidas en la okuloj de Karol nokte?
 
 **Answers:**
-- A) Ĝojon
+- A) Sinceran ĝojon kaj varmon
 - B) Malplenon — mortaj okuloj
-- C) Larmojn
-- D) Dormon
+- C) Larmojn de malespero kaj de sopiro
+- D) Trankvilan dormon de laca homo
 
 **Correct:** B
 **Explanation:** Ŝi priskribas la okulojn kiel malplenajn, mortajn.
@@ -288,10 +288,10 @@ Ne ĉar ŝi superis lin. Sed ĉar ŝi ĉesis esti lia peono.
 **Question:** Kion ŝia amikino konsilas al Kasia en la mesaĝo?
 
 **Answers:**
-- A) Ke ŝi revenu al Karol
-- B) Ke ŝi aŭskultu sian intuicion kaj gardu sin kontraŭ liaj okuloj
-- C) Ke ŝi iru al laboro
-- D) Ke ŝi ignoru tion
+- A) Ke ŝi revenu al Karol kaj denove fidu al li kiel antaŭe
+- B) Ke ŝi aŭskultu sian intuicion kaj gardu sin de liaj okuloj
+- C) Ke ŝi iru al laboro kaj pensu pri tute aliaj aferoj ol pri li
+- D) Ke ŝi ignoru tion kaj vivu plu kvazaŭ nenio okazus
 
 **Correct:** B
 **Explanation:** La amikino skribas: aŭskultu intuicion, ĉio videblas en la okuloj.
@@ -302,10 +302,10 @@ Ne ĉar ŝi superis lin. Sed ĉar ŝi ĉesis esti lia peono.
 **Question:** Kion Kasia vidas en Karol, kiam ŝi demandas pri amo?
 
 **Answers:**
-- A) Sinceran emocion
-- B) Kalkulon — kvazaŭ li pesus la avantaĝan respondon
-- C) Koleron
-- D) Dormon
+- A) Sinceran emocion kaj varman rigardon al ŝi
+- B) Kalkulon — kvazaŭ li pezus avantaĝan respondon
+- C) Koleron pro la oftaj demandoj pri amo al ŝi
+- D) Dormon kaj trankvilon post la longa labortago
 
 **Correct:** B
 **Explanation:** Dum momento la masko falas kaj videblas la malvarma malpleno.
@@ -316,10 +316,10 @@ Ne ĉar ŝi superis lin. Sed ĉar ŝi ĉesis esti lia peono.
 **Question:** Kion Kasia aldonas en sia kajero post la legado?
 
 **Answers:**
-- A) Ke ŝi estas malforta
+- A) Ke ŝi estas malforta kaj timas la veron
 - B) Ke ili ne scias, kio estas forto
-- C) Ke ŝi revenos al Karol
-- D) Ke psikopatio ne ekzistas
+- C) Ke ŝi revenos al Karol pro amo
+- D) Ke psikopatio ne ekzistas tute
 
 **Correct:** B
 **Explanation:** Ŝi aldonas, ke tio ne signifas, ke ŝi estas malforta.
@@ -330,10 +330,10 @@ Ne ĉar ŝi superis lin. Sed ĉar ŝi ĉesis esti lia peono.
 **Question:** Kion Kasia diras al Ola, kiam ŝi renkontas Karolon hazarde?
 
 **Answers:**
-- A) Ke Karol estas bona
+- A) Ke Karol estas bona homo kaj oni povas tute fidi al li
 - B) "Gardu vin kontraŭ li. Li havas malvarmajn okulojn."
-- C) Ke ŝi revenas al li
-- D) Nenion
+- C) Ke ŝi revenas al li kaj reparolas kun li
+- D) Nenion, ĉar ŝi ne volas ĝeni la paron
 
 **Correct:** B
 **Explanation:** Ŝi avertas Ola: gardu vin, li havas malvarmajn okulojn.

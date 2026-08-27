@@ -235,10 +235,10 @@ Kaj ie en ŝia kapo, en la tirkesto kun taglibroj, malgranda knabino kun kajero 
 **Question:** Kiam Zosia unuafoje aŭdas, ke ŝi estas „bonkonduta knabino"?
 
 **Answers:**
-- A) En la lernejo, dum leciono
+- A) En la lernejo, dum leciono pri la historio
 - B) Ŝi havas ĉirkaŭ kvin jarojn, dum la matenmanĝo
-- C) Dum la studoj, ĉe prelegoj
-- D) Post naskiĝo de la filo
+- C) Dum la studoj, ĉe la prelegoj pri psikologio
+- D) Post la naskiĝo de la filo en la domo
 
 **Correct:** B
 **Explanation:** La patrino diras tion al ŝi super la matenmanĝo, kiam ŝi havas kvin jarojn.
@@ -249,10 +249,10 @@ Kaj ie en ŝia kapo, en la tirkesto kun taglibroj, malgranda knabino kun kajero 
 **Question:** Kion Zosia faras unuafoje en la aĝo de ĉirkaŭ 15 jaroj?
 
 **Answers:**
-- A) Ŝi ŝanĝas lernejon meze de la jaro
+- A) Ŝi ŝanĝas lernejon meze de la lerneja jaro
 - B) Ŝi rifuzas la forveturon al la ĥora provo
-- C) Ŝi forveturas al Erasmus
-- D) Ŝi rezignas pri Instagram
+- C) Ŝi forveturas al Erasmus por la studoj
+- D) Ŝi rezignas pri Instagram kaj pri la sociaj retoj
 
 **Correct:** B
 **Explanation:** Ŝi rifuzas la forveturon al la ĥora provo kaj fermas sin en la banĉambro.
@@ -263,10 +263,10 @@ Kaj ie en ŝia kapo, en la tirkesto kun taglibroj, malgranda knabino kun kajero 
 **Question:** Kiun fakojn ŝi elektas post la seniluziiĝo pri ĵurnalistiko?
 
 **Answers:**
-- A) Psikologion
-- B) Eŭropajn studojn
-- C) Medicinon
-- D) Juron
+- A) Psikologion en la universitato
+- B) Eŭropajn studojn en la universitato
+- C) Medicinon en la medicina akademio
+- D) Juron en la jura akademio
 
 **Correct:** B
 **Explanation:** Ŝi transiras al eŭropaj studoj pro Erasmus kaj vojaĝoj.
@@ -277,10 +277,10 @@ Kaj ie en ŝia kapo, en la tirkesto kun taglibroj, malgranda knabino kun kajero 
 **Question:** Kion Zosia komencas fari dum la pandemio kaj la malfacila gravedeco?
 
 **Answers:**
-- A) Ŝi skribas krimromanon
-- B) Ŝi registras konversaciojn kaj publikigas ilin en la reto
-- C) Ŝi malfermas restoracion en la urbo
-- D) Ŝi lernas programadon
+- A) Ŝi skribas krimromanon pri la familio kaj la najbaroj
+- B) Ŝi registras konversaciojn kaj publikigas ilin rete
+- C) Ŝi malfermas restoracion en la urbocentro kun amikoj
+- D) Ŝi lernas programadon en la noktaj kursoj
 
 **Correct:** B
 **Explanation:** Ŝi registras konversaciojn por la familio, poste por Instagram/TikTok/YouTube.
@@ -291,10 +291,10 @@ Kaj ie en ŝia kapo, en la tirkesto kun taglibroj, malgranda knabino kun kajero 
 **Question:** Kion Zosia dirus al sia juna memo?
 
 **Answers:**
-- A) Estu eĉ pli perfekta
+- A) Estu eĉ pli perfekta kaj pli laborema
 - B) Vi ne devas esti perfekta — sufiĉas esti vi mem
-- C) Forĵetu la lernejon kaj forveturu
-- D) Neniam diru al iu „ne"
+- C) Forĵetu la lernejon kaj forveturu al alia lando
+- D) Neniam diru al iu „ne" kaj cedu ĉiam
 
 **Correct:** B
 **Explanation:** En la intervjuo ŝi diras: „Vi ne devas esti tiel perfekta. Sufiĉas, ke vi estos vi mem."

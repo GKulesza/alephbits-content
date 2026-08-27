@@ -242,10 +242,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** De kie devenas Anastazja?
 
 **Answers:**
-- A) El Varsovio
+- A) El Varsovio, la ĉefurbo
 - B) El Almaty en Kazaĥio
-- C) El Kievo
-- D) El Vilno
+- C) El Kievo en Ukrainio
+- D) El Vilno en Litovio
 
 **Correct:** B
 **Explanation:** Ŝi loĝas en Almaty; filino de polino kaj kazaĥo.
@@ -256,10 +256,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kial la ambasadejo rifuzas al ŝi la vizon?
 
 **Answers:**
-- A) Manko de mono
+- A) Manko de mono por la bileto
 - B) Celo de vojaĝo indikita malĝuste
-- C) Manko de pasporto
-- D) La aĝo
+- C) Manko de pasporto aŭ de vizo
+- D) La aĝo de la vojaĝanto
 
 **Correct:** B
 **Explanation:** La retpoŝto diras: rifuzo — celo de vojaĝo indikita malĝuste.
@@ -270,10 +270,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kion Justyna diras pri Pollando?
 
 **Answers:**
-- A) Ke ĝi estas nur lando
+- A) Ke ĝi estas nur lando sur la mapo
 - B) Ke Pollando estas hejmo en la koro, ne en la paperoj
-- C) Ke oni devas forgesi la radikojn
-- D) Ke la vizo estas necesa
+- C) Ke oni devas forgesi la radikojn kaj la pasintecon
+- D) Ke la vizo estas necesa por vojaĝi
 
 **Correct:** B
 **Explanation:** Ŝi diras: Pollando ne estas nur lando — ĝi estas hejmo, eĉ sen vizo.
@@ -284,10 +284,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kion Anastazja skribas en la kajero sub la demando "Kiu mi estas?"
 
 **Answers:**
-- A) Ke ŝi estas kazaĥino
-- B) Ke ŝi estas filino de polino kaj kazaĥo, kaj Pollando estas ŝia hejmo
-- C) Ke ŝi ne scias
-- D) Ke ŝi bezonas vizon
+- A) Ke ŝi estas kazaĥino sen polaj radikoj kaj sen kontaktoj
+- B) Ke ŝi estas filino de polino kaj kazaĥo, hejme en Pollando
+- C) Ke ŝi ne scias pri sia deveno kaj siaj radikoj
+- D) Ke ŝi bezonas vizon por eniri la polan teritorion
 
 **Correct:** B
 **Explanation:** Ŝi priskribas siajn polajn radikojn kaj la senton de hejmo.
@@ -298,10 +298,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kien iras Anastazja en la epilogo?
 
 **Answers:**
-- A) Al Almaty por ĉiam
+- A) Al Almaty por ĉiam en la estonteco
 - B) Al la flughaveno — adiaŭante sian naskiĝurbon
-- C) Al la ambasadejo
-- D) Al la universitato
+- C) Al la ambasadejo por novaj dokumentoj
+- D) Al la universitato de la urbo
 
 **Correct:** B
 **Explanation:** Ŝi staras sur la monteto, adiaŭas Almaty kaj iras al la flughaveno.

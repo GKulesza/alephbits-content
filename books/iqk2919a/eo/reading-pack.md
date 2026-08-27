@@ -245,10 +245,10 @@ Kaj ŝi komprenis, ke la memoro ne estas nur doloro. Ĝi estas ankaŭ espero.
 **Question:** Kion Magda havas en la tirkesto de la avino?
 
 **Answers:**
-- A) Monon
+- A) Malnovan monon kaj fotojn
 - B) Leterojn de la avo el Volinio
-- C) Geedziĝajn fotojn
-- D) Medalojn
+- C) Geedziĝajn fotojn de la familio
+- D) Militajn medalojn de la avo
 
 **Correct:** B
 **Explanation:** Ŝi havas leterojn, kiujn la avo skribis antaŭ la morto en 1943.
@@ -259,10 +259,10 @@ Kaj ŝi komprenis, ke la memoro ne estas nur doloro. Ĝi estas ankaŭ espero.
 **Question:** De kie devenas Olena?
 
 **Answers:**
-- A) El Lvivo
-- B) El Donbaso — ŝi fuĝis en 2022 post la morto de la edzo
-- C) El Varsovio
-- D) El Berlino
+- A) El Lvivo, kie ŝi studis medicinon antaŭ la milito
+- B) El Donbaso — ŝi fuĝis en 2022 pro la milito
+- C) El Varsovio, la ĉefurbo de Pollando, kie ŝi laboras
+- D) El Berlino, kie loĝas ŝia frato kaj la parencoj
 
 **Correct:** B
 **Explanation:** Ŝi diras, ke ŝi fuĝis el Donbaso en 2022; la edzo pereis en la milito.
@@ -273,10 +273,10 @@ Kaj ŝi komprenis, ke la memoro ne estas nur doloro. Ĝi estas ankaŭ espero.
 **Question:** Kion Olena diras pri la banderovistoj?
 
 **Answers:**
-- A) Ke ĉiuj ukrainoj estas ili
-- B) Ke ŝi ne estas banderovisto kaj ne ĉiuj ukrainoj malamas la polojn
-- C) Ke ŝi malamas la polojn
-- D) Ke ŝi ne konas la historion
+- A) Ke ĉiuj ukrainoj estas banderovistoj kaj sekve malamas la polojn
+- B) Ke ŝi ne estas banderovisto; ne ĉiuj ukrainoj malamas la polojn
+- C) Ke ŝi malamas la polojn pro la historio de la dua mondmilito
+- D) Ke ŝi ne konas la historion de la ukraina-pola konflikto
 
 **Correct:** B
 **Explanation:** Ŝi petas, ke oni sciu, ke ŝi ne estas banderovisto.
@@ -287,10 +287,10 @@ Kaj ŝi komprenis, ke la memoro ne estas nur doloro. Ĝi estas ankaŭ espero.
 **Question:** Kion Magda diras al la avino en la epilogo?
 
 **Answers:**
-- A) Ke ŝi forgesas
+- A) Ke ŝi forgesos pri la leteroj kaj la rakontoj de la avino
 - B) „Mi ne forgesas, avinjo — sed mi lernas pardoni."
-- C) Ke ŝi malamas la ukrainojn
-- D) Ke ŝi forveturas
+- C) Ke ŝi ne povas pardoni al la ukrainoj pro la milito
+- D) Ke ŝi forveturos al Varsovio kaj ne revenos
 
 **Correct:** B
 **Explanation:** Ŝi flustras: mi ne forgesas, sed mi lernas pardoni.
@@ -301,10 +301,10 @@ Kaj ŝi komprenis, ke la memoro ne estas nur doloro. Ĝi estas ankaŭ espero.
 **Question:** Kion Magda kaj Olena faras unu jaron poste?
 
 **Answers:**
-- A) Ili skribas libron
+- A) Ili kune skribas libron pri la historio de la familioj
 - B) Ili gvidas laborgrupojn por polaj kaj ukrainaj familioj
-- C) Ili malfermas restoracion
-- D) Ili iras al milito
+- C) Ili malfermas restoracion kun ukraina kuirarto
+- D) Ili iras al la fronto batali kontraŭ la rusoj
 
 **Correct:** B
 **Explanation:** Unu jaron poste ili gvidas laborgrupojn en Vroclavo.

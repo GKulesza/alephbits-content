@@ -255,10 +255,10 @@ La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
 **Question:** Kiel Kasia priskribas sian ADHD al la psikologino?
 
 **Answers:**
-- A) Mi estas pigra
+- A) Mi estas pigra kaj ne ŝatas labori matene
 - B) Mi havas en la kapo radion — ĉiujn staciojn samtempe
-- C) Mi ne ŝatas la lernejon
-- D) Mi estas malsana
+- C) Mi ne ŝatas la lernejon kaj la lernadon
+- D) Mi estas malsana kaj bezonas kuracadon de kuracisto
 
 **Correct:** B
 **Explanation:** Ŝi diras: „Mi havas en la kapo radion… Ludas ĉiuj stacioj samtempe".
@@ -269,10 +269,10 @@ La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
 **Question:** Kio helpas al Kasia koncentriĝi dum la leciono?
 
 **Answers:**
-- A) Punisoj
-- B) Senca premotesto kaj la eblo de mallonga moviĝo
-- C) Malpermeso de interparoloj
-- D) Forigo de la klaso
+- A) Punisoj pro la malbona konduto
+- B) Sensa premotesto kaj ebla mallonga moviĝo
+- C) Malpermeso de interparoloj kun la kolegoj
+- D) Forigo de la klaso pro la bruo
 
 **Correct:** B
 **Explanation:** Ŝi ricevas la premoteston; ŝi povas leviĝi momenton sen ĝeni.
@@ -283,10 +283,10 @@ La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
 **Question:** Kion la panjo faras antaŭ la dormo?
 
 **Answers:**
-- A) Ŝi ŝaltas la televidilon
+- A) Ŝi ŝaltas la televidilon en la ĉambro
 - B) Ŝi forigas la ekranojn — legado kaj silento
-- C) Ŝi donas energiajn trinkaĵojn
-- D) Ŝi faras la hejmtaskojn anstataŭ Kasia
+- C) Ŝi donas energiajn trinkaĵojn por la vigleco
+- D) Ŝi faras la hejmtaskojn anstataŭ Kasia mem
 
 **Correct:** B
 **Explanation:** Sen ekranoj antaŭ la dormo; legado de libroj.
@@ -297,10 +297,10 @@ La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
 **Question:** Kion Kasia diras al la klaso pri ADHD?
 
 **Answers:**
-- A) Tio signifas, ke mi estas malsana
+- A) Tio signifas, ke mi estas malsana kaj malforta
 - B) Mia cerbo funkcias alie, ne pli malbone
-- C) Mi devus sidi en la angulo
-- D) Mi neniam estos bona en la lernejo
+- C) Mi devus sidi en la angulo de la klaso
+- D) Mi neniam estos bona en la lernejo kaj en la vivo
 
 **Correct:** B
 **Explanation:** „Ne. Tio signifas, ke mia cerbo funkcias alie. Ne pli malbone".
@@ -311,10 +311,10 @@ La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
 **Question:** Kion Kasia volas fari en la studoj?
 
 **Answers:**
-- A) Fariĝi kuracistino
+- A) Fariĝi kuracistino en la urba hospitalo
 - B) Psikologino — helpi infanojn kiel ŝi
-- C) Kantistino
-- D) Programistino
+- C) Kantistino en la nacia operejo
+- D) Programistino en granda firmao
 
 **Correct:** B
 **Explanation:** Ŝi studas psikologion, por subteni infanojn kun similaj malfacilaĵoj.

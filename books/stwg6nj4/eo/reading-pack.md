@@ -255,10 +255,10 @@ Oni simple devas scii, de kie komenci.
 **Question:** Kion Aga Rogala diras pri la frazo „Surmetu la jakon"?
 
 **Answers:**
-- A) Tio estas unu simpla ordono
+- A) Tio estas unu simpla ordono por la infano
 - B) Tio estas multaj paŝoj: hoko, manikoj, zipo ktp.
-- C) Tio havas neniun sencon
-- D) Tio estas nur por plenkreskuloj
+- C) Tio havas neniun sencon por la infano
+- D) Tio estas nur por plenkreskuloj, ne por infanoj
 
 **Correct:** B
 **Explanation:** Por la infano unu frazo = serio de komplikaj agoj.
@@ -269,10 +269,10 @@ Oni simple devas scii, de kie komenci.
 **Question:** Kion Magda faras la sekvan matenon?
 
 **Answers:**
-- A) Ŝi surmetas la jakon al Zosia mem
+- A) Ŝi surmetas la jakon al Zosia mem, rapide
 - B) Ŝi sidiĝas apude kaj gvidas paŝon post paŝo
-- C) Ŝi rezignas pri la infanĝardeno
-- D) Ŝi krias
+- C) Ŝi rezignas pri la infanĝardeno hodiaŭ
+- D) Ŝi krias kaj postulas, ke Zosia rapidu
 
 **Correct:** B
 **Explanation:** „Mi montros al vi, kiel ni vestiĝas. Kune".
@@ -283,10 +283,10 @@ Oni simple devas scii, de kie komenci.
 **Question:** Kiel Magda klarigas „preparu vin por dormo"?
 
 **Answers:**
-- A) Unu vorto sufiĉas
+- A) Unu vorto sufiĉas por la infano jam granda
 - B) Ŝi dividas en: banĉambro, dentoj, piĵamo, lito
-- C) Ŝi ordonas dormi en vestaĵoj
-- D) Ŝi ignoras
+- C) Ŝi ordonas dormi en la ĉiutagaj vestaĵoj hejme
+- D) Ŝi ignoras la demandon de la infano pri dormo
 
 **Correct:** B
 **Explanation:** Konkreta listo de vesperaj paŝoj.
@@ -297,10 +297,10 @@ Oni simple devas scii, de kie komenci.
 **Question:** Kiel Zosia komparas la instrukciojn al kanto?
 
 **Answers:**
-- A) Ŝi ne ŝatas kantojn
-- B) Kiam ŝi konas la vortojn — ŝi kantas mem; kiam ne — panjo helpas
-- C) Ŝi ĉiam bezonas la panjon
-- D) Ŝi neniam memoras
+- A) Ŝi ne ŝatas la kantojn kaj preferas silenton en la ĉambro
+- B) Kiam ŝi konas la vortojn — ŝi kantas mem; alie helpas la panjo
+- C) Ŝi ĉiam bezonas la panjon por ĉiu nova kanto kaj ĉiu paŝo
+- D) Ŝi neniam memoras la vortojn de la lernitaj kantoj tute korekte
 
 **Correct:** B
 **Explanation:** La metaforo de la kanto = laŭgrada memstareco.
@@ -313,8 +313,8 @@ Oni simple devas scii, de kie komenci.
 **Answers:**
 - A) Ŝi kuiras tagmanĝon por la familio
 - B) Ŝi faras sandviĉon kaj teon paŝon post paŝo
-- C) Ŝi veturas per buso
-- D) Ŝi skribas leteron al Aga
+- C) Ŝi veturas per buso al la lernejo
+- D) Ŝi skribas leteron al Aga pri la sukcesoj
 
 **Correct:** B
 **Explanation:** Ŝi priskribas la paŝojn: pano, butero, fromaĝo, teo.

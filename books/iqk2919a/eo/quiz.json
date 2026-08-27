@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Magda havas en la tirkesto de la avino?",
       "answers": [
-        "Monon",
+        "Malnovan monon kaj fotojn",
         "Leterojn de la avo el Volinio",
-        "Geedziĝajn fotojn",
-        "Medalojn"
+        "Geedziĝajn fotojn de la familio",
+        "Militajn medalojn de la avo"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi havas leterojn, kiujn la avo skribis antaŭ la morto en 1943."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "De kie devenas Olena?",
       "answers": [
-        "El Lvivo",
-        "El Donbaso — ŝi fuĝis en 2022 post la morto de la edzo",
-        "El Varsovio",
-        "El Berlino"
+        "El Lvivo, kie ŝi studis medicinon antaŭ la milito",
+        "El Donbaso — ŝi fuĝis en 2022 pro la milito",
+        "El Varsovio, la ĉefurbo de Pollando, kie ŝi laboras",
+        "El Berlino, kie loĝas ŝia frato kaj la parencoj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi diras, ke ŝi fuĝis el Donbaso en 2022; la edzo pereis en la milito."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Olena diras pri la banderovistoj?",
       "answers": [
-        "Ke ĉiuj ukrainoj estas ili",
-        "Ke ŝi ne estas banderovisto kaj ne ĉiuj ukrainoj malamas la polojn",
-        "Ke ŝi malamas la polojn",
-        "Ke ŝi ne konas la historion"
+        "Ke ĉiuj ukrainoj estas banderovistoj kaj sekve malamas la polojn",
+        "Ke ŝi ne estas banderovisto; ne ĉiuj ukrainoj malamas la polojn",
+        "Ke ŝi malamas la polojn pro la historio de la dua mondmilito",
+        "Ke ŝi ne konas la historion de la ukraina-pola konflikto"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi petas, ke oni sciu, ke ŝi ne estas banderovisto."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Magda diras al la avino en la epilogo?",
       "answers": [
-        "Ke ŝi forgesas",
+        "Ke ŝi forgesos pri la leteroj kaj la rakontoj de la avino",
         "„Mi ne forgesas, avinjo — sed mi lernas pardoni.\"",
-        "Ke ŝi malamas la ukrainojn",
-        "Ke ŝi forveturas"
+        "Ke ŝi ne povas pardoni al la ukrainoj pro la milito",
+        "Ke ŝi forveturos al Varsovio kaj ne revenos"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi flustras: mi ne forgesas, sed mi lernas pardoni."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Magda kaj Olena faras unu jaron poste?",
       "answers": [
-        "Ili skribas libron",
+        "Ili kune skribas libron pri la historio de la familioj",
         "Ili gvidas laborgrupojn por polaj kaj ukrainaj familioj",
-        "Ili malfermas restoracion",
-        "Ili iras al milito"
+        "Ili malfermas restoracion kun ukraina kuirarto",
+        "Ili iras al la fronto batali kontraŭ la rusoj"
       ],
       "correctIndex": 1,
       "explanation": "Unu jaron poste ili gvidas laborgrupojn en Vroclavo."

@@ -193,10 +193,10 @@ Kaj poste, unuafoje post jaroj, li ne analizis ĉiun vorton. Li simple trinketis
 **Question:** Kion Marcin plej timas en la kunteksto de la mikrofono?
 
 **Answers:**
-- A) Ke li forgesos la tekston de la lumbildoj
-- B) Ke la silento plifortigas lian necertecon kaj ke iu juĝos, ke li ne devus esti ĉi tie
-- C) Ke la mikrofono estas tro laŭta
-- D) Ke la ĉefo maldungos lin
+- A) Ke li forgesos la tekston de ĉiuj lumbildoj
+- B) Ke iu juĝos, ke li ne devus esti ĉi tie
+- C) Ke la mikrofono estas tro laŭta por la publiko
+- D) Ke la ĉefo maldungos lin post la prezento
 
 **Correct:** B
 **Explanation:** Kammel diras, ke homoj timas la juĝon: „Kion li faras ĉi tie? Li ne devus esti ĉi tie."
@@ -207,10 +207,10 @@ Kaj poste, unuafoje post jaroj, li ne analizis ĉiun vorton. Li simple trinketis
 **Question:** Kion Kammel konsilas anstataŭ diri „mi estas nervoza"?
 
 **Answers:**
-- A) Diri „mi estas laca"
+- A) Diri „mi estas laca" antaŭ ĉiuj
 - B) Diri „mi estas agitiĝinta"
-- C) Diri nenion
-- D) Publike pardonpeti
+- C) Diri nenion pri siaj emocioj
+- D) Publike pardonpeti al la kolegoj
 
 **Correct:** B
 **Explanation:** Marcin notas: ne diru „nervoza", diru „agitiĝinta" — la biokemio ŝanĝiĝas.
@@ -221,10 +221,10 @@ Kaj poste, unuafoje post jaroj, li ne analizis ĉiun vorton. Li simple trinketis
 **Question:** Pri kio Kammel petas Marcino-n fine de la unua leciono?
 
 **Answers:**
-- A) Pri recitado de la lumbildoj
-- B) Pri rakontado pri la infanoj tiel, kiel ĉe la vespermanĝo — ne sur la scenejo
-- C) Pri ekzercado antaŭ la spegulo
-- D) Pri video-registrado
+- A) Pri recitado de la lumbildoj parkere
+- B) Pri rakontado pri la infanoj kiel hejme, ne sur scenejo
+- C) Pri ekzercado antaŭ la spegulo en la hejma ĉambro vespere
+- D) Pri video-registrado de la tuta prezento en la studio
 
 **Correct:** B
 **Explanation:** Tomasz petas: rakontu pri la infanoj tiel, kiel hejme, ne kiel sur la scenejo.
@@ -235,10 +235,10 @@ Kaj poste, unuafoje post jaroj, li ne analizis ĉiun vorton. Li simple trinketis
 **Question:** Kiel Marcin komencas la adiaŭan parolon por Andrzej?
 
 **Answers:**
-- A) De pardonpeto pro la barakto
+- A) De pardonpeto pro la barakto en la komenco
 - B) De ŝerco, ke li konfuzis Andrzej kun gardisto
-- C) De legado de la lumbildoj
-- D) De citaĵo el libro
+- C) De legado de la lumbildoj al la publiko
+- D) De citaĵo el la libro de Andrzej
 
 **Correct:** B
 **Explanation:** Li komencas: „Kiam mi unuafoje renkontis Andrzej — mi konfuzis lin kun gardisto."
@@ -249,10 +249,10 @@ Kaj poste, unuafoje post jaroj, li ne analizis ĉiun vorton. Li simple trinketis
 **Question:** Kion diras la filino de la direktoro post la parolo?
 
 **Answers:**
-- A) Ke la prezento estis tro longa
+- A) Ke la prezento estis tro longa por la publiko en la salono
 - B) Ke li parolis pri la paĉjo tiel, kvazaŭ li vere lin konus
-- C) Ke li devus reveni al la lumbildoj
-- D) Ke ŝi ne komprenis la ŝercon
+- C) Ke li devus reveni al la lumbildoj kaj al la skribo
+- D) Ke ŝi ne komprenis la ŝercon pri la gardisto
 
 **Correct:** B
 **Explanation:** La filino diras: „Vi parolis pri paĉjo tiel, kvazaŭ vi vere lin konus."

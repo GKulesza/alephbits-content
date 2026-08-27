@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Pri kio Marta „troviĝas\" kontraŭ Darek komence?",
       "answers": [
-        "Pri la laboro",
+        "Pri la laboro en la oficejo kaj la manko de tempo",
         "Ke li ne ŝraŭbis la pasttubon post la dentobroso",
-        "Pri la infanoj",
-        "Pri la mono"
+        "Pri la infanoj kaj pri ilia lernejo matene",
+        "Pri la mono elspezita por la semajna aĉetado"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi diras: vi denove ne ŝraŭbis la pasttubon."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Darek respondas al ŝiaj rimarkoj?",
       "answers": [
-        "Li pardonpetas",
+        "Li pardonpetas kaj promesas ŝanĝiĝi",
         "„Ĉesu, Marta. Vi denove troviĝas.\"",
-        "Li silentas",
-        "Li eliras"
+        "Li silentas kaj rigardas la fenestron",
+        "Li eliras al la balkono silente"
       ],
       "correctIndex": 1,
       "explanation": "Li ripetas: ĉesu, vi denove troviĝas."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Marta diras, ke ŝi ĉesos fari?",
       "answers": [
-        "Ami Darkon",
+        "Ami Darkon tiel kiel antaŭe, sen rezervoj kaj sen duboj",
         "Plendi kaj memori al li, ke liaj reagoj ŝin doloras",
-        "Kuiri",
-        "Labori"
+        "Kuiri por la tuta familio ĉiun vesperon en la kuirejo",
+        "Labori ĝis malfrua nokto en la oficejo de la firmao"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi anoncas, ke ŝi ĉesos plendi, sed lia reago estos signo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "De kie Marta konas la metodon „anstataŭ plendi, ni prenu respondecon\"?",
       "answers": [
-        "De Darek",
+        "De Darek, de la edzo mem",
         "El podkasto, kiun ŝi aŭskultis en la aŭto",
-        "El la libro de Darek",
-        "De terapiisto"
+        "El la libro, kiun Darek legas nun",
+        "De terapiisto, kiun ŝi vizitis pasintjare"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi rememoras la hieraŭan podkaston en la aŭto."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Marta pensas fine pri la tago?",
       "answers": [
-        "Ke ĉio finiĝis",
+        "Ke ĉio finiĝis kaj oni ne povas ŝanĝi la faritan decidon",
         "„Hodiaŭ komenciĝas alia tago el la resto de ŝia vivo.\"",
-        "Ke ŝi devas forveturi",
-        "Ke Darek ŝanĝiĝos"
+        "Ke ŝi devas forveturi por iom ripozi kaj pensi",
+        "Ke Darek ŝanĝiĝos post la nokta konversacio"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi finas per pripenso pri la tago, kiu komencas la reston de la vivo."

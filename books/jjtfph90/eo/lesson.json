@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kion Kasia vidas en la okuloj de Karol nokte?",
         "answers": [
-          "Ĝojon",
+          "Sinceran ĝojon kaj varmon",
           "Malplenon — mortaj okuloj",
-          "Larmojn",
-          "Dormon"
+          "Larmojn de malespero kaj de sopiro",
+          "Trankvilan dormon de laca homo"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi priskribas la okulojn kiel malplenajn, mortajn."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion ŝia amikino konsilas al Kasia en la mesaĝo?",
         "answers": [
-          "Ke ŝi revenu al Karol",
-          "Ke ŝi aŭskultu sian intuicion kaj gardu sin kontraŭ liaj okuloj",
-          "Ke ŝi iru al laboro",
-          "Ke ŝi ignoru tion"
+          "Ke ŝi revenu al Karol kaj denove fidu al li kiel antaŭe",
+          "Ke ŝi aŭskultu sian intuicion kaj gardu sin de liaj okuloj",
+          "Ke ŝi iru al laboro kaj pensu pri tute aliaj aferoj ol pri li",
+          "Ke ŝi ignoru tion kaj vivu plu kvazaŭ nenio okazus"
         ],
         "correctIndex": 1,
         "explanation": "La amikino skribas: aŭskultu intuicion, ĉio videblas en la okuloj."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion Kasia vidas en Karol, kiam ŝi demandas pri amo?",
         "answers": [
-          "Sinceran emocion",
-          "Kalkulon — kvazaŭ li pesus la avantaĝan respondon",
-          "Koleron",
-          "Dormon"
+          "Sinceran emocion kaj varman rigardon al ŝi",
+          "Kalkulon — kvazaŭ li pezus avantaĝan respondon",
+          "Koleron pro la oftaj demandoj pri amo al ŝi",
+          "Dormon kaj trankvilon post la longa labortago"
         ],
         "correctIndex": 1,
         "explanation": "Dum momento la masko falas kaj videblas la malvarma malpleno."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion Kasia aldonas en sia kajero post la legado?",
         "answers": [
-          "Ke ŝi estas malforta",
+          "Ke ŝi estas malforta kaj timas la veron",
           "Ke ili ne scias, kio estas forto",
-          "Ke ŝi revenos al Karol",
-          "Ke psikopatio ne ekzistas"
+          "Ke ŝi revenos al Karol pro amo",
+          "Ke psikopatio ne ekzistas tute"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi aldonas, ke tio ne signifas, ke ŝi estas malforta."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Kasia diras al Ola, kiam ŝi renkontas Karolon hazarde?",
         "answers": [
-          "Ke Karol estas bona",
+          "Ke Karol estas bona homo kaj oni povas tute fidi al li",
           "\"Gardu vin kontraŭ li. Li havas malvarmajn okulojn.\"",
-          "Ke ŝi revenas al li",
-          "Nenion"
+          "Ke ŝi revenas al li kaj reparolas kun li",
+          "Nenion, ĉar ŝi ne volas ĝeni la paron"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi avertas Ola: gardu vin, li havas malvarmajn okulojn."

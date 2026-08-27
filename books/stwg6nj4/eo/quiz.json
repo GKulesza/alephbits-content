@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Aga Rogala diras pri la frazo „Surmetu la jakon\"?",
       "answers": [
-        "Tio estas unu simpla ordono",
+        "Tio estas unu simpla ordono por la infano",
         "Tio estas multaj paŝoj: hoko, manikoj, zipo ktp.",
-        "Tio havas neniun sencon",
-        "Tio estas nur por plenkreskuloj"
+        "Tio havas neniun sencon por la infano",
+        "Tio estas nur por plenkreskuloj, ne por infanoj"
       ],
       "correctIndex": 1,
       "explanation": "Por la infano unu frazo = serio de komplikaj agoj."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Magda faras la sekvan matenon?",
       "answers": [
-        "Ŝi surmetas la jakon al Zosia mem",
+        "Ŝi surmetas la jakon al Zosia mem, rapide",
         "Ŝi sidiĝas apude kaj gvidas paŝon post paŝo",
-        "Ŝi rezignas pri la infanĝardeno",
-        "Ŝi krias"
+        "Ŝi rezignas pri la infanĝardeno hodiaŭ",
+        "Ŝi krias kaj postulas, ke Zosia rapidu"
       ],
       "correctIndex": 1,
       "explanation": "„Mi montros al vi, kiel ni vestiĝas. Kune\"."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiel Magda klarigas „preparu vin por dormo\"?",
       "answers": [
-        "Unu vorto sufiĉas",
+        "Unu vorto sufiĉas por la infano jam granda",
         "Ŝi dividas en: banĉambro, dentoj, piĵamo, lito",
-        "Ŝi ordonas dormi en vestaĵoj",
-        "Ŝi ignoras"
+        "Ŝi ordonas dormi en la ĉiutagaj vestaĵoj hejme",
+        "Ŝi ignoras la demandon de la infano pri dormo"
       ],
       "correctIndex": 1,
       "explanation": "Konkreta listo de vesperaj paŝoj."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel Zosia komparas la instrukciojn al kanto?",
       "answers": [
-        "Ŝi ne ŝatas kantojn",
-        "Kiam ŝi konas la vortojn — ŝi kantas mem; kiam ne — panjo helpas",
-        "Ŝi ĉiam bezonas la panjon",
-        "Ŝi neniam memoras"
+        "Ŝi ne ŝatas la kantojn kaj preferas silenton en la ĉambro",
+        "Kiam ŝi konas la vortojn — ŝi kantas mem; alie helpas la panjo",
+        "Ŝi ĉiam bezonas la panjon por ĉiu nova kanto kaj ĉiu paŝo",
+        "Ŝi neniam memoras la vortojn de la lernitaj kantoj tute korekte"
       ],
       "correctIndex": 1,
       "explanation": "La metaforo de la kanto = laŭgrada memstareco."
@@ -57,8 +57,8 @@
       "answers": [
         "Ŝi kuiras tagmanĝon por la familio",
         "Ŝi faras sandviĉon kaj teon paŝon post paŝo",
-        "Ŝi veturas per buso",
-        "Ŝi skribas leteron al Aga"
+        "Ŝi veturas per buso al la lernejo",
+        "Ŝi skribas leteron al Aga pri la sukcesoj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi priskribas la paŝojn: pano, butero, fromaĝo, teo."
