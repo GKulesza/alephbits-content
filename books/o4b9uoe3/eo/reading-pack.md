@@ -272,10 +272,10 @@ Sed ĉi-foje ŝi ne sentis premon. Ĉi-foje ŝi sentis nur decidemon.
 **Question:** Kion la estrintino kritikas en la dekdua lumbildo?
 
 **Answers:**
-- A) La kolorojn
+- A) La kolorojn de la diagramo
 - B) Datumojn sen sufiĉa pravigo
-- C) La mankon de titolo
-- D) Tro longan tekston
+- C) La mankon de klara titolo de la grafeo
+- D) Tro longan tekston por la legado
 
 **Correct:** B
 **Explanation:** Ŝi petas pli bonan pravigon de la datumoj en la dekdua lumbildo.
@@ -286,10 +286,10 @@ Sed ĉi-foje ŝi ne sentis premon. Ĉi-foje ŝi sentis nur decidemon.
 **Question:** Kion Kamila petas de la teamo pri rimarkoj?
 
 **Answers:**
-- A) Simple ilin ignori
+- A) Simple ilin ignori kaj daŭrigi la laboron plu
 - B) Doni rimarkojn matene, kiam la baterio estas plena
-- C) Skribi ilin retletere
-- D) Paroli pri ili angle
+- C) Skribi ilin retletere al la estro de la teamo
+- D) Paroli pri ili angle en la kunveno de la firmao
 
 **Correct:** B
 **Explanation:** Ŝi petas rimarkojn matene — posttagmeze la baterio estas je nulo.

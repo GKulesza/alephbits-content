@@ -250,10 +250,10 @@ Kaj noti, antaŭ ol estos tro malfrue.
 **Question:** Kiu estas la ĉefrolulo de la rakonto?
 
 **Answers:**
-- A) Isaac Newton
+- A) Isaac Newton, la fizikisto de la gravito
 - B) Srinivasa Ramanujan
-- C) Albert Einstein
-- D) Ada Lovelace
+- C) Albert Einstein, la aŭtoro de la relativeco
+- D) Ada Lovelace, la pioniro de la programado
 
 **Correct:** B
 **Explanation:** La rakonto sekvas la vivon de Ramanujan.
@@ -278,10 +278,10 @@ Kaj noti, antaŭ ol estos tro malfrue.
 **Question:** Kiun diinon Ramanujan mencias?
 
 **Answers:**
-- A) Lakshmi
+- A) Lakshmi, la diino de la riĉeco
 - B) Namagiri el Namakkal
-- C) Kali
-- D) Saraswati
+- C) Kali, la diino de la detruo
+- D) Saraswati, la diino de la scio
 
 **Correct:** B
 **Explanation:** La patrino aŭdas en sonĝo la voĉon de la diino Namagiri.
@@ -306,10 +306,10 @@ Kaj noti, antaŭ ol estos tro malfrue.
 **Question:** Kion Ramanujan diras pri ekvacioj?
 
 **Answers:**
-- A) Ili devas esti mallongaj
+- A) Ili devas esti mallongaj kaj facile legeblaj por ĉiuj
 - B) Ili ne havas sencon, se ili ne esprimas penson de Dio
-- C) Ili estas nur por inĝenieroj
-- D) Li ne ŝatas ekvaciojn
+- C) Ili estas nur por inĝenieroj kaj por la sciencistoj
+- D) Li ne ŝatas ekvaciojn kaj preferas la geometrion
 
 **Correct:** B
 **Explanation:** Li ripetas: ekvacio sen senco, se ĝi ne esprimas penson de Dio.

@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kiun la rakontanto memoras kiel „sanktan batalanton\" en la homa senco?",
       "answers": [
-        "La patron",
+        "La patron de la familio el Varsovio",
         "La avon el la Hejma Armeo",
-        "Artur Wójtowicz",
-        "Ator"
+        "Artur Wójtowicz, la kolego de la patro",
+        "Ator, la amiko de la avo"
       ],
       "correctIndex": 1,
       "explanation": "La avo estis soldato de la Hejma Armeo kaj trovis trankvilon en akcepto de la pasinteco."
@@ -32,9 +32,9 @@
       "question": "Kion la rakontanto portis kiel infano?",
       "answers": [
         "Medalionon kun la Dipatrino",
-        "Ruĝan krucon",
-        "Samurajan amuleton",
-        "Ordonon"
+        "Ruĝan krucon de la hospitala ordeno",
+        "Samurajan amuleton el la malnova Japanio",
+        "Ordonon de la reĝo por la milito"
       ],
       "correctIndex": 0,
       "explanation": "Li rememoras medalionon kun la Dipatrino, en kiu li kredis kiel infano."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiun konkludon tiras la rakontanto fine?",
       "answers": [
-        "Oni devas reveni al religio",
+        "Oni devas reveni al religio kaj al la ĉiutaga preĝado",
         "Eble sufiĉas kredo je si mem kaj doni al la vivo sencon",
-        "Milito estas ĉiam justa",
-        "Ritoj estas senutilaj"
+        "Milito estas ĉiam justa kaj necesa por la popolo",
+        "Ritoj estas senutilaj en la moderna mondo de hodiaŭ"
       ],
       "correctIndex": 1,
       "explanation": "Li finas per la penso, ke eble ni ne bezonas kredon je dioj — sufiĉas kredo je ni mem."

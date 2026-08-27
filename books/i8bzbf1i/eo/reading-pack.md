@@ -302,10 +302,10 @@ Li rigardis la pordon de la ĉambro de Julia. Tra la fendo videblis lumo. Julia 
 **Question:** Kiel Tomasz korektas la frazon de Julia „mi ne scias matematikon"?
 
 **Answers:**
-- A) Vi pravas
+- A) Vi pravas kaj ĉio estos bone en la fino
 - B) Vi ankoraŭ ne scias — vi povas lerni
-- C) Lernu pli multe
-- D) Matematiko estas stulta
+- C) Lernu pli multe kaj ne plendu pri tio
+- D) Matematiko estas stulta kaj senutila
 
 **Correct:** B
 **Explanation:** La ŝlosila vorto „ankoraŭ" ŝanĝas la perspektivon.
@@ -316,7 +316,7 @@ Li rigardis la pordon de la ĉambro de Julia. Tra la fendo videblis lumo. Julia 
 **Question:** Kiun demandon Tomasz faras anstataŭ „kiel estis en la lernejo"?
 
 **Answers:**
-- A) Kiom da notoj vi havas
+- A) Kiom da notoj vi havas hodiaŭ
 - B) Kio hodiaŭ plej surprizis vin?
 - C) Ĉu vi ricevos malbonan noton
 - D) Kiam vi faros la hejmtaskojn
@@ -330,10 +330,10 @@ Li rigardis la pordon de la ĉambro de Julia. Tra la fendo videblis lumo. Julia 
 **Question:** Kiel Tomasz uzas krespojn?
 
 **Answers:**
-- A) Kiel rekompencon por notoj
+- A) Kiel rekompencon por la bonaj notoj en la lernejo
 - B) Kiel praktikan matematikon — duobligo de porcio
-- C) Li neniam kuiras
-- D) Kiel punon
+- C) Li neniam kuiras kaj ordonas manĝaĵojn
+- D) Kiel punon por la malbona konduto de la infanoj
 
 **Correct:** B
 **Explanation:** Julia kalkulas farunon kaj ovojn por duobla porcio.
@@ -344,10 +344,10 @@ Li rigardis la pordon de la ĉambro de Julia. Tra la fendo videblis lumo. Julia 
 **Question:** Kion Julia diras al si mem dum la hejmtaskoj?
 
 **Answers:**
-- A) Mi neniam faros tion
+- A) Mi neniam faros tion, ĉar mi ne scipovas kaj mi timas
 - B) Mi ankoraŭ ne scias fari tion, sed mi povas provi
-- C) Paĉjo helpos al mi
-- D) Mi ne lernos
+- C) Paĉjo helpos al mi kun la hejmtaskoj vespere
+- D) Mi ne lernos kaj ne faros la ekzercojn
 
 **Correct:** B
 **Explanation:** Interna monologo kun „ankoraŭ".

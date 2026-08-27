@@ -67,9 +67,9 @@
         "question": "Por kio Lutek finfine elspezas la monon?",
         "answers": [
           "Li donas ĝin al malsata maljunulo",
-          "Li aĉetas palacon",
-          "Li ludas kartojn ĝis mateno",
-          "Li kaŝas ĝin sub la planko"
+          "Li aĉetas luksan palacon por la tuta familio",
+          "Li ludas kartojn kun la amikoj ĝis la mateno",
+          "Li kaŝas ĝin en la kaŝejo sub la planko"
         ],
         "correctIndex": 0,
         "explanation": "Li elŝutas la restantajn dukatojn al la militinvitula maljunulo."
@@ -79,9 +79,9 @@
         "question": "Kiu iĝas Lutek fine de la rakonto?",
         "answers": [
           "Ŝuista majstro kun propra metiejo",
-          "Reĝo",
-          "Komercisto",
-          "Soldato"
+          "Reĝo de la lando kun la reĝa krono",
+          "Komercisto vendanta ĉevalojn kaj brutojn",
+          "Soldato batalanta en la milito"
         ],
         "correctIndex": 0,
         "explanation": "Baldaŭ Lutek iĝas majstro kaj malfermas sian propran metiejon."
@@ -91,9 +91,9 @@
         "question": "Kie troviĝas la legendo pri la anaso?",
         "answers": [
           "En la subterejoj de la Kastelo de Ostrogski ĉe Tama",
-          "Sur la Vavelo",
-          "En Wola",
-          "En Łazienki"
+          "Sur la Vavelo, en la reĝa kastelo de la urbo Krakovo",
+          "En Wola, en la kvartalo de la malnova Varsovio",
+          "En Łazienki, en la parko de la ĉefurbo Varsovio"
         ],
         "correctIndex": 0,
         "explanation": "La ŝuistoj parolas pri la subterejoj de la Kastelo de Ostrogski ĉe Tama."

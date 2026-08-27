@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kie Tomasz observas ses kvinjarulojn ludantajn antaŭ dometo?",
         "answers": [
-          "En Varsovio",
+          "En Varsovio, en la moderna lernejo de la centro",
           "En la infanĝardeno en Kopytkowo en Podlaĥio",
-          "En Krakovo",
-          "En Gdańsk"
+          "En Krakovo ĉe la Vavelo en la malnova urbo",
+          "En Gdańsk ĉe la maro en la havena kvartalo"
         ],
         "correctIndex": 1,
         "explanation": "Li staras antaŭ la infanĝardeno en Kopytkowo, ie en Podlaĥio."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kiel Tomasz instruas al infanoj la tagojn de la semajno en Kopytkowo?",
         "answers": [
-          "Per fotokopiita folio kaj testo",
+          "Per fotokopiita folio kaj skribita testo por la infanoj de la klaso",
           "Per movo — la infanoj transdonas al si la tagojn de la semajno",
-          "Nur per kanto el Jutubo",
-          "Per puno pro eraroj"
+          "Nur per kanto el Jutubo kaj per la komuna dancado de la infanoj",
+          "Per puno pro la eraroj de la infanoj en la lernejo ĉiutage"
         ],
         "correctIndex": 1,
         "explanation": "Li starigas sep infanojn meze — ĉiu diras tagon de la semajno, marŝante kaj kunlaborante."
@@ -91,9 +91,9 @@
         "type": "single_choice",
         "question": "Kion la instruisto en Kopytkowo diras al Tomasz pri la sistemo?",
         "answers": [
-          "Ke la direktoro lin laŭdas",
+          "Ke la direktoro lin laŭdas antaŭ la tuta instruistaro",
           "Ke ĝi havas sencon, sed la sistemo ne permesas tion",
-          "Ke la gepatroj protestas",
+          "Ke la gepatroj protestas kontraŭ la nova metodo",
           "Ke ili ŝanĝos la studprograman bazon morgaŭ"
         ],
         "correctIndex": 1,

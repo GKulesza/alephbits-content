@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiu estas la ĉefrolulo de la rakonto?",
       "answers": [
-        "Isaac Newton",
+        "Isaac Newton, la fizikisto de la gravito",
         "Srinivasa Ramanujan",
-        "Albert Einstein",
-        "Ada Lovelace"
+        "Albert Einstein, la aŭtoro de la relativeco",
+        "Ada Lovelace, la pioniro de la programado"
       ],
       "correctIndex": 1,
       "explanation": "La rakonto sekvas la vivon de Ramanujan."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiun diinon Ramanujan mencias?",
       "answers": [
-        "Lakshmi",
+        "Lakshmi, la diino de la riĉeco",
         "Namagiri el Namakkal",
-        "Kali",
-        "Saraswati"
+        "Kali, la diino de la detruo",
+        "Saraswati, la diino de la scio"
       ],
       "correctIndex": 1,
       "explanation": "La patrino aŭdas en sonĝo la voĉon de la diino Namagiri."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Ramanujan diras pri ekvacioj?",
       "answers": [
-        "Ili devas esti mallongaj",
+        "Ili devas esti mallongaj kaj facile legeblaj por ĉiuj",
         "Ili ne havas sencon, se ili ne esprimas penson de Dio",
-        "Ili estas nur por inĝenieroj",
-        "Li ne ŝatas ekvaciojn"
+        "Ili estas nur por inĝenieroj kaj por la sciencistoj",
+        "Li ne ŝatas ekvaciojn kaj preferas la geometrion"
       ],
       "correctIndex": 1,
       "explanation": "Li ripetas: ekvacio sen senco, se ĝi ne esprimas penson de Dio."

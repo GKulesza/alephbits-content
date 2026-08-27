@@ -202,10 +202,10 @@ Kaj tio sufiĉas.
 **Question:** Kiun la rakontanto memoras kiel „sanktan batalanton" en la homa senco?
 
 **Answers:**
-- A) La patron
+- A) La patron de la familio el Varsovio
 - B) La avon el la Hejma Armeo
-- C) Artur Wójtowicz
-- D) Ator
+- C) Artur Wójtowicz, la kolego de la patro
+- D) Ator, la amiko de la avo
 
 **Correct:** B
 **Explanation:** La avo estis soldato de la Hejma Armeo kaj trovis trankvilon en akcepto de la pasinteco.
@@ -217,9 +217,9 @@ Kaj tio sufiĉas.
 
 **Answers:**
 - A) Medalionon kun la Dipatrino
-- B) Ruĝan krucon
-- C) Samurajan amuleton
-- D) Ordonon
+- B) Ruĝan krucon de la hospitala ordeno
+- C) Samurajan amuleton el la malnova Japanio
+- D) Ordonon de la reĝo por la milito
 
 **Correct:** A
 **Explanation:** Li rememoras medalionon kun la Dipatrino, en kiu li kredis kiel infano.
@@ -230,10 +230,10 @@ Kaj tio sufiĉas.
 **Question:** Kiun konkludon tiras la rakontanto fine?
 
 **Answers:**
-- A) Oni devas reveni al religio
+- A) Oni devas reveni al religio kaj al la ĉiutaga preĝado
 - B) Eble sufiĉas kredo je si mem kaj doni al la vivo sencon
-- C) Milito estas ĉiam justa
-- D) Ritoj estas senutilaj
+- C) Milito estas ĉiam justa kaj necesa por la popolo
+- D) Ritoj estas senutilaj en la moderna mondo de hodiaŭ
 
 **Correct:** B
 **Explanation:** Li finas per la penso, ke eble ni ne bezonas kredon je dioj — sufiĉas kredo je ni mem.

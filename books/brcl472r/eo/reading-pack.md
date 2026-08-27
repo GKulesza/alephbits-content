@@ -168,10 +168,10 @@ Li ne sciis, ĉu tio funkcios. Sed unuafoje de longe li havis emon provi.
 **Question:** De kio komenciĝas la kverelo de Kuba kaj Marta?
 
 **Answers:**
-- A) De fakturoj
+- A) De la nepagitaj fakturoj de la domo de la gepatroj
 - B) De tio, ke Kuba ne malplenigis la telerlavan maŝinon
-- C) De la televidilo
-- D) De vizito de la boparencoj
+- C) De la televidilo, kiu bruas la tutan nokton senĉese
+- D) De la neatendita vizito de la boparencoj dimanĉe posttagmeze
 
 **Correct:** B
 **Explanation:** Marta diras: „Denove vi ne malplenigis ĝin" — kaj aldonas: „Ne temas pri la telerlava maŝino."
@@ -210,10 +210,10 @@ Li ne sciis, ĉu tio funkcios. Sed unuafoje de longe li havis emon provi.
 **Question:** Kion Kuba diras al Marta en la dormoĉambro anstataŭ ataki?
 
 **Answers:**
-- A) Ke ŝi ĉiam komencas
+- A) Ke ŝi ĉiam komencas kaj li devas fini ĉiujn aferojn de la domo
 - B) Ke li sentas, kvazaŭ li seniluziigus ŝin, kaj ne scias, kiel tion ripari
-- C) Ke li dormos sur la kanapo
-- D) Ke la telerlava maŝino povas atendi
+- C) Ke li dormos sur la kanapo kaj ne en la komuna ĉambro kun ŝi
+- D) Ke la telerlava maŝino povas atendi ĝis la sekva mateno sen problemoj
 
 **Correct:** B
 **Explanation:** Kuba parolas pri si mem: „Mi sentas, kvazaŭ mi seniluziigus vin. Ĉiutage. Kaj mi ne scias, kiel tion ripari."
@@ -224,10 +224,10 @@ Li ne sciis, ĉu tio funkcios. Sed unuafoje de longe li havis emon provi.
 **Question:** Kion Marta gluas sur la fridujon?
 
 **Answers:**
-- A) Aĉetliston
+- A) Aĉetliston por la dimanĉa aĉetado en la urbo
 - B) Papereton: „Se ni kverelos, mi krias URSO"
-- C) Foton el ferioj
-- D) Horaron de devoj
+- C) Foton el la ferioj ĉe la maro kun la infanoj
+- D) Horaron de la devoj de la tuta semajno
 
 **Correct:** B
 **Explanation:** Sur la fridujo pendas papereto kun la surskribo pri la krio „URSO".

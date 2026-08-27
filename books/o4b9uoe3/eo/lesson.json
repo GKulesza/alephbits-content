@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion la estrintino kritikas en la dekdua lumbildo?",
         "answers": [
-          "La kolorojn",
+          "La kolorojn de la diagramo",
           "Datumojn sen sufiĉa pravigo",
-          "La mankon de titolo",
-          "Tro longan tekston"
+          "La mankon de klara titolo de la grafeo",
+          "Tro longan tekston por la legado"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi petas pli bonan pravigon de la datumoj en la dekdua lumbildo."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Kamila petas de la teamo pri rimarkoj?",
         "answers": [
-          "Simple ilin ignori",
+          "Simple ilin ignori kaj daŭrigi la laboron plu",
           "Doni rimarkojn matene, kiam la baterio estas plena",
-          "Skribi ilin retletere",
-          "Paroli pri ili angle"
+          "Skribi ilin retletere al la estro de la teamo",
+          "Paroli pri ili angle en la kunveno de la firmao"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi petas rimarkojn matene — posttagmeze la baterio estas je nulo."

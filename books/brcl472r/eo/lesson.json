@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "De kio komenciĝas la kverelo de Kuba kaj Marta?",
         "answers": [
-          "De fakturoj",
+          "De la nepagitaj fakturoj de la domo de la gepatroj",
           "De tio, ke Kuba ne malplenigis la telerlavan maŝinon",
-          "De la televidilo",
-          "De vizito de la boparencoj"
+          "De la televidilo, kiu bruas la tutan nokton senĉese",
+          "De la neatendita vizito de la boparencoj dimanĉe posttagmeze"
         ],
         "correctIndex": 1,
         "explanation": "Marta diras: „Denove vi ne malplenigis ĝin\" — kaj aldonas: „Ne temas pri la telerlava maŝino.\""
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kion Kuba diras al Marta en la dormoĉambro anstataŭ ataki?",
         "answers": [
-          "Ke ŝi ĉiam komencas",
+          "Ke ŝi ĉiam komencas kaj li devas fini ĉiujn aferojn de la domo",
           "Ke li sentas, kvazaŭ li seniluziigus ŝin, kaj ne scias, kiel tion ripari",
-          "Ke li dormos sur la kanapo",
-          "Ke la telerlava maŝino povas atendi"
+          "Ke li dormos sur la kanapo kaj ne en la komuna ĉambro kun ŝi",
+          "Ke la telerlava maŝino povas atendi ĝis la sekva mateno sen problemoj"
         ],
         "correctIndex": 1,
         "explanation": "Kuba parolas pri si mem: „Mi sentas, kvazaŭ mi seniluziigus vin. Ĉiutage. Kaj mi ne scias, kiel tion ripari.\""
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kion Marta gluas sur la fridujon?",
         "answers": [
-          "Aĉetliston",
+          "Aĉetliston por la dimanĉa aĉetado en la urbo",
           "Papereton: „Se ni kverelos, mi krias URSO\"",
-          "Foton el ferioj",
-          "Horaron de devoj"
+          "Foton el la ferioj ĉe la maro kun la infanoj",
+          "Horaron de la devoj de la tuta semajno"
         ],
         "correctIndex": 1,
         "explanation": "Sur la fridujo pendas papereto kun la surskribo pri la krio „URSO\"."

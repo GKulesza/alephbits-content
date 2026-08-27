@@ -224,9 +224,9 @@ Kaj eble ĝuste tial la fontano sur la korto de la Kastelo de Ostrogski ankoraŭ
 
 **Answers:**
 - A) Li donas ĝin al malsata maljunulo
-- B) Li aĉetas palacon
-- C) Li ludas kartojn ĝis mateno
-- D) Li kaŝas ĝin sub la planko
+- B) Li aĉetas luksan palacon por la tuta familio
+- C) Li ludas kartojn kun la amikoj ĝis la mateno
+- D) Li kaŝas ĝin en la kaŝejo sub la planko
 
 **Correct:** A
 **Explanation:** Li elŝutas la restantajn dukatojn al la militinvitula maljunulo.
@@ -238,9 +238,9 @@ Kaj eble ĝuste tial la fontano sur la korto de la Kastelo de Ostrogski ankoraŭ
 
 **Answers:**
 - A) Ŝuista majstro kun propra metiejo
-- B) Reĝo
-- C) Komercisto
-- D) Soldato
+- B) Reĝo de la lando kun la reĝa krono
+- C) Komercisto vendanta ĉevalojn kaj brutojn
+- D) Soldato batalanta en la milito
 
 **Correct:** A
 **Explanation:** Baldaŭ Lutek iĝas majstro kaj malfermas sian propran metiejon.
@@ -252,9 +252,9 @@ Kaj eble ĝuste tial la fontano sur la korto de la Kastelo de Ostrogski ankoraŭ
 
 **Answers:**
 - A) En la subterejoj de la Kastelo de Ostrogski ĉe Tama
-- B) Sur la Vavelo
-- C) En Wola
-- D) En Łazienki
+- B) Sur la Vavelo, en la reĝa kastelo de la urbo Krakovo
+- C) En Wola, en la kvartalo de la malnova Varsovio
+- D) En Łazienki, en la parko de la ĉefurbo Varsovio
 
 **Correct:** A
 **Explanation:** La ŝuistoj parolas pri la subterejoj de la Kastelo de Ostrogski ĉe Tama.

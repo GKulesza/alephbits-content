@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiel Tomasz korektas la frazon de Julia „mi ne scias matematikon\"?",
       "answers": [
-        "Vi pravas",
+        "Vi pravas kaj ĉio estos bone en la fino",
         "Vi ankoraŭ ne scias — vi povas lerni",
-        "Lernu pli multe",
-        "Matematiko estas stulta"
+        "Lernu pli multe kaj ne plendu pri tio",
+        "Matematiko estas stulta kaj senutila"
       ],
       "correctIndex": 1,
       "explanation": "La ŝlosila vorto „ankoraŭ\" ŝanĝas la perspektivon."
@@ -19,7 +19,7 @@
       "type": "single_choice",
       "question": "Kiun demandon Tomasz faras anstataŭ „kiel estis en la lernejo\"?",
       "answers": [
-        "Kiom da notoj vi havas",
+        "Kiom da notoj vi havas hodiaŭ",
         "Kio hodiaŭ plej surprizis vin?",
         "Ĉu vi ricevos malbonan noton",
         "Kiam vi faros la hejmtaskojn"
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiel Tomasz uzas krespojn?",
       "answers": [
-        "Kiel rekompencon por notoj",
+        "Kiel rekompencon por la bonaj notoj en la lernejo",
         "Kiel praktikan matematikon — duobligo de porcio",
-        "Li neniam kuiras",
-        "Kiel punon"
+        "Li neniam kuiras kaj ordonas manĝaĵojn",
+        "Kiel punon por la malbona konduto de la infanoj"
       ],
       "correctIndex": 1,
       "explanation": "Julia kalkulas farunon kaj ovojn por duobla porcio."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Julia diras al si mem dum la hejmtaskoj?",
       "answers": [
-        "Mi neniam faros tion",
+        "Mi neniam faros tion, ĉar mi ne scipovas kaj mi timas",
         "Mi ankoraŭ ne scias fari tion, sed mi povas provi",
-        "Paĉjo helpos al mi",
-        "Mi ne lernos"
+        "Paĉjo helpos al mi kun la hejmtaskoj vespere",
+        "Mi ne lernos kaj ne faros la ekzercojn"
       ],
       "correctIndex": 1,
       "explanation": "Interna monologo kun „ankoraŭ\"."

@@ -278,10 +278,10 @@ Kaj eble pli frue.
 **Question:** Kie Tomasz observas ses kvinjarulojn ludantajn antaŭ dometo?
 
 **Answers:**
-- A) En Varsovio
+- A) En Varsovio, en la moderna lernejo de la centro
 - B) En la infanĝardeno en Kopytkowo en Podlaĥio
-- C) En Krakovo
-- D) En Gdańsk
+- C) En Krakovo ĉe la Vavelo en la malnova urbo
+- D) En Gdańsk ĉe la maro en la havena kvartalo
 
 **Correct:** B
 **Explanation:** Li staras antaŭ la infanĝardeno en Kopytkowo, ie en Podlaĥio.
@@ -292,10 +292,10 @@ Kaj eble pli frue.
 **Question:** Kiel Tomasz instruas al infanoj la tagojn de la semajno en Kopytkowo?
 
 **Answers:**
-- A) Per fotokopiita folio kaj testo
+- A) Per fotokopiita folio kaj skribita testo por la infanoj de la klaso
 - B) Per movo — la infanoj transdonas al si la tagojn de la semajno
-- C) Nur per kanto el Jutubo
-- D) Per puno pro eraroj
+- C) Nur per kanto el Jutubo kaj per la komuna dancado de la infanoj
+- D) Per puno pro la eraroj de la infanoj en la lernejo ĉiutage
 
 **Correct:** B
 **Explanation:** Li starigas sep infanojn meze — ĉiu diras tagon de la semajno, marŝante kaj kunlaborante.
@@ -306,9 +306,9 @@ Kaj eble pli frue.
 **Question:** Kion la instruisto en Kopytkowo diras al Tomasz pri la sistemo?
 
 **Answers:**
-- A) Ke la direktoro lin laŭdas
+- A) Ke la direktoro lin laŭdas antaŭ la tuta instruistaro
 - B) Ke ĝi havas sencon, sed la sistemo ne permesas tion
-- C) Ke la gepatroj protestas
+- C) Ke la gepatroj protestas kontraŭ la nova metodo
 - D) Ke ili ŝanĝos la studprograman bazon morgaŭ
 
 **Correct:** B
