@@ -42,9 +42,9 @@
         "question": "Kial la ĉielo aspektas blua?",
         "answers": [
           "Pro disiĝo de mallongonda lumo",
-          "Pro farbo en la nuboj",
-          "Pro reflekto de la maro",
-          "Pro iluzio ĉe krepusko"
+          "Pro farbo en la nuboj de la ĉielo",
+          "Pro reflekto de la maro en la lagoj",
+          "Pro iluzio ĉe krepusko en la vespero"
         ],
         "correctIndex": 0,
         "explanation": "La teksto klarigas la Rayleigh-disiĝon — bluaj ondoj disiĝas pli forte."
@@ -78,9 +78,9 @@
         "question": "Kion la Himba faras alie ol eŭropanoj?",
         "answers": [
           "Ili pli bone vidas nuancojn de verdo",
-          "Ili tute ne vidas",
-          "Ili ne distingas ruĝon",
-          "Ili vidas nur nigre-blanke"
+          "Ili tute ne vidas la kolorojn",
+          "Ili ne distingas ruĝon kaj oranĝon",
+          "Ili vidas nur nigre-blanke ĉion"
         ],
         "correctIndex": 0,
         "explanation": "La Himba pli rapide indikas malsamajn nuancojn de verdo."
@@ -90,9 +90,9 @@
         "question": "Kiun demandon Feynman faras al la kelnerino?",
         "answers": [
           "De kie vi scias, ke la ĉielo estas blua?",
-          "Kiom kostas la kafo?",
-          "Kie estas Berkeley?",
-          "Ĉu vi ŝatas fizikon?"
+          "Kiom kostas la kafo en la kafejo?",
+          "Kie estas Berkeley en la mapo de la ŝtato?",
+          "Ĉu vi ŝatas fizikon kaj la astronomion?"
         ],
         "correctIndex": 0,
         "explanation": "Li demandas: de kie vi scias — kaj la kelnerino levas la ŝultrojn."

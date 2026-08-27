@@ -172,9 +172,9 @@ Kaj tio sufiĉis por komenci.
 
 **Answers:**
 - A) Ni decidas fari aferojn, kiuj rezultas en nenio
-- B) Manko de tempo por legado
-- C) Tro multe da kunvenoj
-- D) Manko de interreto
+- B) Manko de tempo por legado kaj por la studado
+- C) Tro multe da kunvenoj en la laboro kaj hejme
+- D) Manko de interreto en la regiono de la lando
 
 **Correct:** A
 **Explanation:** La letero demandas, kiom ofte ni decidas fari ion, kio rezultas en nenio.
@@ -200,9 +200,9 @@ Kaj tio sufiĉis por komenci.
 
 **Answers:**
 - A) Serĉas en la interreto novajn metodojn
-- B) Dormas la tutan tagon
-- C) Telefonas por peti libertempon
-- D) Vendas sian komputilon
+- B) Dormas la tutan tagon sen vekiĝi
+- C) Telefonas por peti libertempon de la estro
+- D) Vendas sian komputilon kaj la libron
 
 **Correct:** A
 **Explanation:** Anstataŭ labori, li legas pri laboro en la interreto.
@@ -228,9 +228,9 @@ Kaj tio sufiĉis por komenci.
 
 **Answers:**
 - A) Legas pri aplikaĵoj kaj lifehackoj
-- B) Tuj finas la laboron
-- C) Forveturas ferien
-- D) Dungas asistanton
+- B) Tuj finas la laboron de la semajno
+- C) Forveturas ferien al la montoj
+- D) Dungas asistanton por la hejmo
 
 **Correct:** A
 **Explanation:** Li serĉas novajn aplikaĵojn anstataŭ agi.

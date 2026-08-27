@@ -121,9 +121,9 @@ Tiun tagon mi lernis, ke legado pri konata loko helpas memori novajn signojn. Ĉ
 
 **Answers:**
 - A) Sur la Malgranda Placo
-- B) Ĉe Vavelo
-- C) Sur la Plantoj
-- D) Ĉe la Vistulo
+- B) Ĉe Vavelo, la reĝa kastelo
+- C) Sur la Plantoj, la urba parko
+- D) Ĉe la Vistulo, la granda rivero
 
 **Correct:** A
 **Explanation:** La aŭtoro skribas pri la Malgranda Placo.
@@ -163,9 +163,9 @@ Tiun tagon mi lernis, ke legado pri konata loko helpas memori novajn signojn. Ĉ
 
 **Answers:**
 - A) Stratmuzikistojn per violonoj
-- B) Preĝejaj sonoriloj
-- C) Traman sirenon
-- D) La ondojn de la Vistulo
+- B) Preĝejaj sonoriloj de la kirko
+- C) Traman sirenon sur la strato
+- D) La ondojn de la Vistulo apud la ponto
 
 **Correct:** A
 **Explanation:** Li aŭdis muzikistojn ludantajn malnovan melodion.
@@ -177,9 +177,9 @@ Tiun tagon mi lernis, ke legado pri konata loko helpas memori novajn signojn. Ĉ
 
 **Answers:**
 - A) Legado pri konata loko helpas memori novajn signojn
-- B) Plej bone estas lerni nur en muzeo
-- C) Krakovo ne havas historion
-- D) Stratmuzikistoj malhelpas lernadon
+- B) Plej bone estas lerni nur en muzeo en la urbo
+- C) Krakovo ne havas historion por rakonti
+- D) Stratmuzikistoj malhelpas la lernadon de la lingvo
 
 **Correct:** A
 **Explanation:** La lasta alineo resumas la utilon de legado pri konata loko.

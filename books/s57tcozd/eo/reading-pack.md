@@ -198,9 +198,9 @@ Kaj eble ĝuste tial la sekreto ankoraŭ daŭris.
 
 **Answers:**
 - A) Dokumenton el 1889 pri rezonanca sistemo
-- B) Planojn el 2024
-- C) Leteron de Tesla
-- D) Fotojn sen notoj
+- B) Planojn el 2024 de la nova projekto de la urbo
+- C) Leteron de Tesla al la edzino en la domo
+- D) Fotojn sen notoj kaj sen subskriboj de la aŭtoro
 
 **Correct:** A
 **Explanation:** Ŝi trafas projekton kun noto pri rezonanca sistemo.
@@ -212,9 +212,9 @@ Kaj eble ĝuste tial la sekreto ankoraŭ daŭris.
 
 **Answers:**
 - A) Sekretajn sistemojn el antaŭ la elektra epoko
-- B) Identajn horloĝojn
-- C) Mankon de ripetebleco
-- D) Nur gaslumigon
+- B) Identajn horloĝojn de la fabriko en la urbo
+- C) Mankon de ripetebleco en la tuta procezo
+- D) Nur gaslumigon de la stratetoj de la centro
 
 **Correct:** A
 **Explanation:** En Krakovo, Poznań kaj Vroclavo ŝi vidas similajn sistemojn.
@@ -240,9 +240,9 @@ Kaj eble ĝuste tial la sekreto ankoraŭ daŭris.
 
 **Answers:**
 - A) Arĥitektino esploranta arkivojn
-- B) Ĵurnalistino
-- C) Fervojistino
-- D) Studentino de medicino
+- B) Ĵurnalistino de la ĉefurbo
+- C) Fervojistino de la loka stacidomo
+- D) Studentino de medicino en la universitato
 
 **Correct:** A
 **Explanation:** Helena traserĉas la arkivojn de stacidomoj.

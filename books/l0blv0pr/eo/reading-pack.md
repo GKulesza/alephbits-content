@@ -222,9 +222,9 @@ Kaj tiam la vero fine aperos.
 
 **Answers:**
 - A) Agnieszka iras kun malaltiĝanta singardemo
-- B) Agnieszka veturas per taksio
-- C) Agnieszka dancas gaje
-- D) Agnieszka parolas per telefono
+- B) Agnieszka veturas per taksio al la centro
+- C) Agnieszka dancas gaje sur la placo
+- D) Agnieszka parolas per telefono kun la amikino
 
 **Correct:** A
 **Explanation:** Joanna parolas pri la falsa sindromo de la sekura sojlo.
@@ -236,9 +236,9 @@ Kaj tiam la vero fine aperos.
 
 **Answers:**
 - A) La afero estis traktita kiel forkuro de adoleskantino
-- B) Ne estis raporto
-- C) La monitorado ne funkciis
-- D) Agnieszka telefonis al la polico
+- B) Ne estis raporto pri la malapero de la knabino en la urbo
+- C) La monitorado ne funkciis ĝuste en la nokto de la evento
+- D) Agnieszka telefonis al la polico mem tiun tagon matene
 
 **Correct:** A
 **Explanation:** La unua raporto estis traktita kiel norma forkuro.
@@ -278,9 +278,9 @@ Kaj tiam la vero fine aperos.
 
 **Answers:**
 - A) Tio estas falsa sento de sekureco
-- B) Agnieszka estis hejme
-- C) La monitorado mensogas
-- D) Adoleskantinoj ĉiam revenas
+- B) Agnieszka estis hejme dum la tuta tempo
+- C) La monitorado mensogas al la gepatroj
+- D) Adoleskantinoj ĉiam revenas hejmen
 
 **Correct:** A
 **Explanation:** La falsa sindromo de la sekura sojlo malaltigas la singardemon.

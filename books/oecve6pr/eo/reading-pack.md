@@ -237,9 +237,9 @@ Kaj Kuriozulo? Li iris serĉi novan domon. Kaj li trovis. Sed tio estas jam alia
 
 **Answers:**
 - A) Dum tri tagoj eĉ unu fojon ne ofendiĝu
-- B) Ne iru al la lernejo
-- C) Transloĝiĝu por ĉiam
-- D) Manĝu pli da pizosupo
+- B) Ne iru al la lernejo en la tuta semajno
+- C) Transloĝiĝu por ĉiam al la granda urbo
+- D) Manĝu pli da pizosupo ĉiutage matene
 
 **Correct:** A
 **Explanation:** La maljunulo ordonas elteni tri tagojn sen ofendiĝo.
@@ -251,9 +251,9 @@ Kaj Kuriozulo? Li iris serĉi novan domon. Kaj li trovis. Sed tio estas jam alia
 
 **Answers:**
 - A) En la helaj plektaĵoj de la knabino
-- B) En la kelo
-- C) En la ŝranko
-- D) En la kameno
+- B) En la kelo de la malnova domo de la avino
+- C) En la ŝranko en la ĉambro de la frato
+- D) En la kameno de la kuirejo de la familio
 
 **Correct:** A
 **Explanation:** Li loĝas en la plektaĵoj de Fraŭlino Ofendiĝema.
@@ -279,9 +279,9 @@ Kaj Kuriozulo? Li iris serĉi novan domon. Kaj li trovis. Sed tio estas jam alia
 
 **Answers:**
 - A) Li malfortiĝas kaj fuĝas el la domo
-- B) Li plifortiĝas
-- C) Li transformiĝas en hundon
-- D) Li restas por ĉiam
+- B) Li plifortiĝas kaj kreskas plu
+- C) Li transformiĝas en hundon por ĉiam
+- D) Li restas por ĉiam en la domo
 
 **Correct:** A
 **Explanation:** Post la tria tago Kuriozulo malfortiĝas kaj eliras el la domo.

@@ -8,9 +8,9 @@
       "question": "Kie la aŭtoro haltis ĉe la puto?",
       "answers": [
         "Sur la Malgranda Placo",
-        "Ĉe Vavelo",
-        "Sur la Plantoj",
-        "Ĉe la Vistulo"
+        "Ĉe Vavelo, la reĝa kastelo",
+        "Sur la Plantoj, la urba parko",
+        "Ĉe la Vistulo, la granda rivero"
       ],
       "correctIndex": 0,
       "explanation": "La aŭtoro skribas pri la Malgranda Placo."
@@ -44,9 +44,9 @@
       "question": "Kion la aŭtoro aŭdas survoje al la Plantoj?",
       "answers": [
         "Stratmuzikistojn per violonoj",
-        "Preĝejaj sonoriloj",
-        "Traman sirenon",
-        "La ondojn de la Vistulo"
+        "Preĝejaj sonoriloj de la kirko",
+        "Traman sirenon sur la strato",
+        "La ondojn de la Vistulo apud la ponto"
       ],
       "correctIndex": 0,
       "explanation": "Li aŭdis muzikistojn ludantajn malnovan melodion."
@@ -56,9 +56,9 @@
       "question": "Kian konkludon la aŭtoro faras fine?",
       "answers": [
         "Legado pri konata loko helpas memori novajn signojn",
-        "Plej bone estas lerni nur en muzeo",
-        "Krakovo ne havas historion",
-        "Stratmuzikistoj malhelpas lernadon"
+        "Plej bone estas lerni nur en muzeo en la urbo",
+        "Krakovo ne havas historion por rakonti",
+        "Stratmuzikistoj malhelpas la lernadon de la lingvo"
       ],
       "correctIndex": 0,
       "explanation": "La lasta alineo resumas la utilon de legado pri konata loko."

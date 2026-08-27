@@ -20,9 +20,9 @@
       "question": "Kiun konsilon donas la maljunulo?",
       "answers": [
         "Dum tri tagoj eĉ unu fojon ne ofendiĝu",
-        "Ne iru al la lernejo",
-        "Transloĝiĝu por ĉiam",
-        "Manĝu pli da pizosupo"
+        "Ne iru al la lernejo en la tuta semajno",
+        "Transloĝiĝu por ĉiam al la granda urbo",
+        "Manĝu pli da pizosupo ĉiutage matene"
       ],
       "correctIndex": 0,
       "explanation": "La maljunulo ordonas elteni tri tagojn sen ofendiĝo."
@@ -32,9 +32,9 @@
       "question": "Kie loĝas Kuriozulo?",
       "answers": [
         "En la helaj plektaĵoj de la knabino",
-        "En la kelo",
-        "En la ŝranko",
-        "En la kameno"
+        "En la kelo de la malnova domo de la avino",
+        "En la ŝranko en la ĉambro de la frato",
+        "En la kameno de la kuirejo de la familio"
       ],
       "correctIndex": 0,
       "explanation": "Li loĝas en la plektaĵoj de Fraŭlino Ofendiĝema."
@@ -56,9 +56,9 @@
       "question": "Kio okazas al Kuriozulo post la tria tago?",
       "answers": [
         "Li malfortiĝas kaj fuĝas el la domo",
-        "Li plifortiĝas",
-        "Li transformiĝas en hundon",
-        "Li restas por ĉiam"
+        "Li plifortiĝas kaj kreskas plu",
+        "Li transformiĝas en hundon por ĉiam",
+        "Li restas por ĉiam en la domo"
       ],
       "correctIndex": 0,
       "explanation": "Post la tria tago Kuriozulo malfortiĝas kaj eliras el la domo."

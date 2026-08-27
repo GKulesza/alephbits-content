@@ -234,9 +234,9 @@ Feynman kutimis diri, ke bona demando estas pli grava ol bona respondo. Kaj kvan
 
 **Answers:**
 - A) Pro disiĝo de mallongonda lumo
-- B) Pro farbo en la nuboj
-- C) Pro reflekto de la maro
-- D) Pro iluzio ĉe krepusko
+- B) Pro farbo en la nuboj de la ĉielo
+- C) Pro reflekto de la maro en la lagoj
+- D) Pro iluzio ĉe krepusko en la vespero
 
 **Correct:** A
 **Explanation:** La teksto klarigas la Rayleigh-disiĝon — bluaj ondoj disiĝas pli forte.
@@ -276,9 +276,9 @@ Feynman kutimis diri, ke bona demando estas pli grava ol bona respondo. Kaj kvan
 
 **Answers:**
 - A) Ili pli bone vidas nuancojn de verdo
-- B) Ili tute ne vidas
-- C) Ili ne distingas ruĝon
-- D) Ili vidas nur nigre-blanke
+- B) Ili tute ne vidas la kolorojn
+- C) Ili ne distingas ruĝon kaj oranĝon
+- D) Ili vidas nur nigre-blanke ĉion
 
 **Correct:** A
 **Explanation:** La Himba pli rapide indikas malsamajn nuancojn de verdo.
@@ -290,9 +290,9 @@ Feynman kutimis diri, ke bona demando estas pli grava ol bona respondo. Kaj kvan
 
 **Answers:**
 - A) De kie vi scias, ke la ĉielo estas blua?
-- B) Kiom kostas la kafo?
-- C) Kie estas Berkeley?
-- D) Ĉu vi ŝatas fizikon?
+- B) Kiom kostas la kafo en la kafejo?
+- C) Kie estas Berkeley en la mapo de la ŝtato?
+- D) Ĉu vi ŝatas fizikon kaj la astronomion?
 
 **Correct:** A
 **Explanation:** Li demandas: de kie vi scias — kaj la kelnerino levas la ŝultrojn.

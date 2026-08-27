@@ -8,9 +8,9 @@
       "question": "Kion Helena trovas en la arkivo de la Ĉefa Stacidomo?",
       "answers": [
         "Dokumenton el 1889 pri rezonanca sistemo",
-        "Planojn el 2024",
-        "Leteron de Tesla",
-        "Fotojn sen notoj"
+        "Planojn el 2024 de la nova projekto de la urbo",
+        "Leteron de Tesla al la edzino en la domo",
+        "Fotojn sen notoj kaj sen subskriboj de la aŭtoro"
       ],
       "correctIndex": 0,
       "explanation": "Ŝi trafas projekton kun noto pri rezonanca sistemo."
@@ -20,9 +20,9 @@
       "question": "Kiun ŝablonon Helena vidas en aliaj urboj?",
       "answers": [
         "Sekretajn sistemojn el antaŭ la elektra epoko",
-        "Identajn horloĝojn",
-        "Mankon de ripetebleco",
-        "Nur gaslumigon"
+        "Identajn horloĝojn de la fabriko en la urbo",
+        "Mankon de ripetebleco en la tuta procezo",
+        "Nur gaslumigon de la stratetoj de la centro"
       ],
       "correctIndex": 0,
       "explanation": "En Krakovo, Poznań kaj Vroclavo ŝi vidas similajn sistemojn."
@@ -44,9 +44,9 @@
       "question": "Kiu estas Helena?",
       "answers": [
         "Arĥitektino esploranta arkivojn",
-        "Ĵurnalistino",
-        "Fervojistino",
-        "Studentino de medicino"
+        "Ĵurnalistino de la ĉefurbo",
+        "Fervojistino de la loka stacidomo",
+        "Studentino de medicino en la universitato"
       ],
       "correctIndex": 0,
       "explanation": "Helena traserĉas la arkivojn de stacidomoj."

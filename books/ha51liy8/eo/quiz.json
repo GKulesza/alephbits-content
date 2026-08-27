@@ -8,9 +8,9 @@
       "question": "Kiun problemon nomis Kadysz en la letero?",
       "answers": [
         "Ni decidas fari aferojn, kiuj rezultas en nenio",
-        "Manko de tempo por legado",
-        "Tro multe da kunvenoj",
-        "Manko de interreto"
+        "Manko de tempo por legado kaj por la studado",
+        "Tro multe da kunvenoj en la laboro kaj hejme",
+        "Manko de interreto en la regiono de la lando"
       ],
       "correctIndex": 0,
       "explanation": "La letero demandas, kiom ofte ni decidas fari ion, kio rezultas en nenio."
@@ -32,9 +32,9 @@
       "question": "Kion faras Łukasz anstataŭ labori?",
       "answers": [
         "Serĉas en la interreto novajn metodojn",
-        "Dormas la tutan tagon",
-        "Telefonas por peti libertempon",
-        "Vendas sian komputilon"
+        "Dormas la tutan tagon sen vekiĝi",
+        "Telefonas por peti libertempon de la estro",
+        "Vendas sian komputilon kaj la libron"
       ],
       "correctIndex": 0,
       "explanation": "Anstataŭ labori, li legas pri laboro en la interreto."
@@ -56,9 +56,9 @@
       "question": "Kion faras Łukasz, kiam li komencas dubi?",
       "answers": [
         "Legas pri aplikaĵoj kaj lifehackoj",
-        "Tuj finas la laboron",
-        "Forveturas ferien",
-        "Dungas asistanton"
+        "Tuj finas la laboron de la semajno",
+        "Forveturas ferien al la montoj",
+        "Dungas asistanton por la hejmo"
       ],
       "correctIndex": 0,
       "explanation": "Li serĉas novajn aplikaĵojn anstataŭ agi."

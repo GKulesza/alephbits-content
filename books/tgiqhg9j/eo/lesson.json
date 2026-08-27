@@ -43,9 +43,9 @@
         "question": "Kian problemon havas Magda kaj Grzesiek?",
         "answers": [
           "Ili evitas sinceran konversacion pri bezonoj",
-          "Magda ne ŝatas ĵazon",
-          "Grzesiek ne aĉetas lakton",
-          "Magda ne volas brakumi"
+          "Magda ne ŝatas ĵazon kaj la diskotekon en la urbo",
+          "Grzesiek ne aĉetas lakton por la matena kafo",
+          "Magda ne volas brakumi la geavojn dum la festo"
         ],
         "correctIndex": 0,
         "explanation": "Ambaŭ reagas per ofendo anstataŭ paroli rekte."
@@ -56,8 +56,8 @@
         "answers": [
           "Ke ŝi ŝajnigis interesojn al Grzesiek",
           "Ke ŝi devus pli ofte aĉeti lakton",
-          "Ke Grzesiek estas perfekta",
-          "Ke ĵazo estas pli bona ol popo"
+          "Ke Grzesiek estas perfekta por ŝi",
+          "Ke ĵazo estas pli bona ol popo en la radio"
         ],
         "correctIndex": 0,
         "explanation": "Ŝi rememoris ŝajnigi intereson pri promenoj kaj ĵazo."
@@ -67,9 +67,9 @@
         "question": "Kiel finiĝas la rakonto?",
         "answers": [
           "Ili komencas paroli rekte pri siaj bezonoj",
-          "Ili disiĝas",
-          "Grzesiek forvojaĝas",
-          "Magda revenas al ŝajnigado"
+          "Ili disiĝas por longa tempo kaj ne vidas sin",
+          "Grzesiek forvojaĝas al la sudo de la lando",
+          "Magda revenas al ŝajnigado denove ĉiutage"
         ],
         "correctIndex": 0,
         "explanation": "La epilogo priskribas sinceran komunikadon."

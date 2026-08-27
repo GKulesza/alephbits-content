@@ -43,9 +43,9 @@
         "question": "Kion Joanna vidas sur la registraĵo de la monitorado?",
         "answers": [
           "Agnieszka iras kun malaltiĝanta singardemo",
-          "Agnieszka veturas per taksio",
-          "Agnieszka dancas gaje",
-          "Agnieszka parolas per telefono"
+          "Agnieszka veturas per taksio al la centro",
+          "Agnieszka dancas gaje sur la placo",
+          "Agnieszka parolas per telefono kun la amikino"
         ],
         "correctIndex": 0,
         "explanation": "Joanna parolas pri la falsa sindromo de la sekura sojlo."
@@ -55,9 +55,9 @@
         "question": "Kial la unuaj horoj de la serĉado estis vanaj?",
         "answers": [
           "La afero estis traktita kiel forkuro de adoleskantino",
-          "Ne estis raporto",
-          "La monitorado ne funkciis",
-          "Agnieszka telefonis al la polico"
+          "Ne estis raporto pri la malapero de la knabino en la urbo",
+          "La monitorado ne funkciis ĝuste en la nokto de la evento",
+          "Agnieszka telefonis al la polico mem tiun tagon matene"
         ],
         "correctIndex": 0,
         "explanation": "La unua raporto estis traktita kiel norma forkuro."
@@ -91,9 +91,9 @@
         "question": "Kion Joanna diras pri la sekura sojlo?",
         "answers": [
           "Tio estas falsa sento de sekureco",
-          "Agnieszka estis hejme",
-          "La monitorado mensogas",
-          "Adoleskantinoj ĉiam revenas"
+          "Agnieszka estis hejme dum la tuta tempo",
+          "La monitorado mensogas al la gepatroj",
+          "Adoleskantinoj ĉiam revenas hejmen"
         ],
         "correctIndex": 0,
         "explanation": "La falsa sindromo de la sekura sojlo malaltigas la singardemon."

@@ -219,9 +219,9 @@ Magda alpremiĝis al li. Kaj la unuan fojon post longe ŝi sentis, ke ŝi ne dev
 
 **Answers:**
 - A) Ili evitas sinceran konversacion pri bezonoj
-- B) Magda ne ŝatas ĵazon
-- C) Grzesiek ne aĉetas lakton
-- D) Magda ne volas brakumi
+- B) Magda ne ŝatas ĵazon kaj la diskotekon en la urbo
+- C) Grzesiek ne aĉetas lakton por la matena kafo
+- D) Magda ne volas brakumi la geavojn dum la festo
 
 **Correct:** A
 **Explanation:** Ambaŭ reagas per ofendo anstataŭ paroli rekte.
@@ -234,8 +234,8 @@ Magda alpremiĝis al li. Kaj la unuan fojon post longe ŝi sentis, ke ŝi ne dev
 **Answers:**
 - A) Ke ŝi ŝajnigis interesojn al Grzesiek
 - B) Ke ŝi devus pli ofte aĉeti lakton
-- C) Ke Grzesiek estas perfekta
-- D) Ke ĵazo estas pli bona ol popo
+- C) Ke Grzesiek estas perfekta por ŝi
+- D) Ke ĵazo estas pli bona ol popo en la radio
 
 **Correct:** A
 **Explanation:** Ŝi rememoris ŝajnigi intereson pri promenoj kaj ĵazo.
@@ -247,9 +247,9 @@ Magda alpremiĝis al li. Kaj la unuan fojon post longe ŝi sentis, ke ŝi ne dev
 
 **Answers:**
 - A) Ili komencas paroli rekte pri siaj bezonoj
-- B) Ili disiĝas
-- C) Grzesiek forvojaĝas
-- D) Magda revenas al ŝajnigado
+- B) Ili disiĝas por longa tempo kaj ne vidas sin
+- C) Grzesiek forvojaĝas al la sudo de la lando
+- D) Magda revenas al ŝajnigado denove ĉiutage
 
 **Correct:** A
 **Explanation:** La epilogo priskribas sinceran komunikadon.
