@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion faras Magda, kiam Tymon verŝas sukon sur la tapiŝon?",
         "answers": [
-          "Ŝi krias kaj forprenas lian ludilon",
+          "Ŝi krias kaj forprenas lian plej ŝatatan ludilon por ĉiam",
           "Ŝi demandas \"Kion ni povas fari?\" kaj ili purigas kune",
-          "Ŝi ignoras la malpuraĵon",
-          "Ŝi sendas lin en la angulon"
+          "Ŝi ignoras la malpuraĵon sur la tapiŝo de la salono",
+          "Ŝi sendas lin en la angulon de la salono"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi montras konsekvencon (purigi), ne punon."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kiel Gabryś proponas nomi la angulon hejme?",
         "answers": [
-          "La puna angulo",
+          "La puna angulo de la ĉambro",
           "La trankvila angulo",
-          "La lerna angulo",
-          "La luda angulo"
+          "La lerna angulo por la infanoj",
+          "La luda angulo de la infanoj"
         ],
         "correctIndex": 1,
         "explanation": "Gabryś diras: \"Trankvila angulo — ĉar kiam mi estas trankvila, mi pensas pli bone\"."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kio estas la ĉefa konkludo de la rakonto?",
         "answers": [
-          "La infanoj devas esti obeemaj",
-          "Temas pri tio, ke la infanoj estu pretaj por la vivo — kapablaj trakti siajn emociojn",
-          "La punoj estas la plej efikaj",
-          "Dolĉaj rekompencoj estas devigaj"
+          "La infanoj devas esti obeemaj kaj kvietaj sen protesto",
+          "Temas pri tio, ke la infanoj estu pretaj por la vivo",
+          "La punoj estas la plej efikaj rimedoj de la tuta edukado",
+          "Dolĉaj rekompencoj estas devigaj por la infanoj ĉiutage"
         ],
         "correctIndex": 1,
         "explanation": "La fino: \"Temas ne pri tio, ke la infanoj estu obeemaj. Temas pri tio, ke ili estu pretaj por la vivo.\""

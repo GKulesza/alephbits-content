@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kial Tomek kiel infano sentis sin fremde en Nikiszowiec?",
       "answers": [
-        "Ĉar li ne konis la silezian lingvon",
-        "Ĉar la nova kvartalo kaj ĝia strukturo ŝajnis al li kaptilo el ruĝaj brikoj",
-        "Ĉar li tuj volis labori en la minejo",
-        "Ĉar li ne ŝatis preĝejojn"
+        "Ĉar li ne konis la silezian lingvon nek la kutimojn de la loka loĝantaro",
+        "Ĉar la nova kvartalo kun sia strukturo ŝajnis al li kaptilo el ruĝaj brikoj",
+        "Ĉar li tuj volis labori en la minejo kiel la patro kaj la avo de lia familio",
+        "Ĉar li ne ŝatis la preĝejojn kaj la religian vivon de la nova kvartalo"
       ],
       "correctIndex": 1,
       "explanation": "Komence la teksto emfazas la transloĝiĝon, la fremdecon de la loko kaj la senton de enkarceriĝo."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kie Tomek unuafoje vidas la figuron de la Nigra Monaĥo?",
       "answers": [
-        "Ĉe la stacidomo en Katowice",
+        "Ĉe la stacidomo en la centro de la urbo Katowice",
         "Ĉe la preĝejo de Sankta Anna, en la ombro de pordego",
-        "Sur la tegmento de la ŝtonkonstruaĵo",
-        "En la mineja lifto"
+        "Sur la tegmento de la ŝtonkonstruaĵo de la nova kvartalo",
+        "En la mineja lifto de la profunda ŝakto"
       ],
       "correctIndex": 1,
       "explanation": "La unua renkonto okazas ĉe la preĝejo de Sankta Anna, apud unu el la pordegoj."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kian rolon ludas la minejo Gisze/Wieczorek en la teksto?",
       "answers": [
-        "Ĝi estas nur senutila fono",
-        "Ĝi estas la patrino-flegantino kaj fonto de la sorto de la loĝantoj",
-        "Ĝi estas muzeo vizitata de turistoj",
-        "Ĝi estas priskribita kiel privata galerio"
+        "Ĝi estas nur senutila fono por la agado de la tuta historio",
+        "Ĝi estas patrino kaj flegantino kaj fonto de la sorto de la loĝantoj",
+        "Ĝi estas muzeo vizitata de turistoj el la tuta mondo",
+        "Ĝi estas priskribita kiel privata galerio de la arto de la tuta urbo"
       ],
       "correctIndex": 1,
       "explanation": "La teksto diras rekte, ke la minejo donis laboron, loĝejojn kaj decidis pri la vivo de la loĝantoj."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion signifas la gesto de la Monaĥo dum la dua renkonto kun Tomek?",
       "answers": [
-        "Inviton malsupreniri sub la teron",
+        "Inviton malsupreniri sub la teron en la minejon de la kvartalo",
         "Montron al la preĝejo kaj al la memoro de la loko",
-        "Minacon kontraŭ la loĝantoj",
-        "Peton pri mono"
+        "Minacon kontraŭ la loĝantoj de la kvartalo",
+        "Peton pri mono de la loĝantoj"
       ],
       "correctIndex": 1,
       "explanation": "La Monaĥo montras la preĝejon, kaj Tomek interpretas tion kiel signon de memoro pri tiuj, kiuj foriris."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kiel ŝanĝiĝas la sinteno de Tomek al Nikiszowiec fine de la rakonto?",
       "answers": [
-        "Li ankoraŭ volas forkuri de tie",
-        "Li komencas vidi en ĝi hejmon kaj gvidanton tra sia propra historio",
-        "Li decidas vendi la loĝejon de siaj gepatroj",
-        "Li ĉesas kredi iujn ajn legendojn"
+        "Li ankoraŭ volas forkuri de tie kiel antaŭe",
+        "Li vidas en ĝi hejmon kaj gvidanton tra sia propra historio",
+        "Li decidas vendi la loĝejon de siaj gepatroj en la kvartalo",
+        "Li ĉesas kredi iujn ajn legendojn pri la loko"
       ],
       "correctIndex": 1,
       "explanation": "El loko-kaptilo Nikiszowiec iĝas por li hejmo kaj portanto de memoro."

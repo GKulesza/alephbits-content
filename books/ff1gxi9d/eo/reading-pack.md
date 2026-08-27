@@ -316,7 +316,7 @@ Kaj ŝi iris plu, sciante, ke en Pollando — kiel en ĉiu lando de la mondo —
 - A) Ĝi ne estas apriora — ĝi aperas kun kialo
 - B) La poloj ridetas konstante
 - C) La rideto estas malpermesita
-- D) La rideto ĉiam signifas flirtadon
+- D) La rideto ĉiam signifas flirtadon aŭ ŝercan intencon
 
 **Correct:** A
 **Explanation:** La amiko klarigas, ke la rideto ne estas la apriora sinteno de la vizaĝo.
@@ -328,7 +328,7 @@ Kaj ŝi iris plu, sciante, ke en Pollando — kiel en ĉiu lando de la mondo —
 
 **Answers:**
 - A) La usona rideto ne malfermas kontakton
-- B) Ŝi ne konas polajn vortojn
+- B) Ŝi ne konas la polajn vortojn kaj la polajn frazojn
 - C) Ŝi ne havas monon
 - D) Ŝi veturis al Krakovo
 
@@ -356,7 +356,7 @@ Kaj ŝi iris plu, sciante, ke en Pollando — kiel en ĉiu lando de la mondo —
 
 **Answers:**
 - A) Diri „dankon" pole
-- B) Aĉeti kafon
+- B) Aĉeti kafon en la kafejo
 - C) Veturi per metroo
 - D) Trovi hotelon
 
@@ -370,7 +370,7 @@ Kaj ŝi iris plu, sciante, ke en Pollando — kiel en ĉiu lando de la mondo —
 
 **Answers:**
 - A) La loĝanto akceptas la landon tian, kia ĝi estas
-- B) Turistoj lernas la polan
+- B) Turistoj lernas la polan lingvon antaŭ la vojaĝo al Pollando
 - C) Loĝantoj ne ridetas
 - D) Turistoj ĉiam revenas
 

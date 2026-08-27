@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Michał finas post kvin jaroj da laboro?",
       "answers": [
-        "Komputilan ludon",
+        "Komputilan ludon por infanoj",
         "La algoritmon de feliĉo",
-        "Bankan aplikaĵon",
-        "Operaciumon"
+        "Bankan aplikaĵon por telefonoj",
+        "Operaciumon por komputiloj"
       ],
       "correctIndex": 1,
       "explanation": "Post kvin jaroj la algoritmo estas preta."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Ewa diras pri la heroo de Dostojevskij?",
       "answers": [
-        "Ke li estas feliĉa",
-        "Ke li farus ion, por ruinigi al si la humoron — pro kontraŭstaremo",
-        "Ke li akceptas la algoritmon",
-        "Ke li ne legis"
+        "Ke li estas feliĉa kaj kontenta pri sia vivo",
+        "Ke li ruinigus al si la humoron pro kontraŭstaremo",
+        "Ke li akceptas la algoritmon de feliĉo sen duboj kaj esperoj",
+        "Ke li ne legis la libron de Dostojevskij ĝis la fino"
       ],
       "correctIndex": 1,
       "explanation": "Ewa demandas pri la homo, kiu ruinigus al si la humoron pro kontraŭstaremo."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Ewa diras, ke la algoritmo priskribus pri la arbo?",
       "answers": [
-        "Nur la belecon",
-        "La specion, la aĝon kaj la altecon — sed ne tion, kion vidas Michał",
-        "Nenion",
-        "La koloron de la folioj"
+        "Nur la belecon de la arbo en la parko",
+        "La specion, la aĝon kaj la altecon — sed ne lian sperton",
+        "Nenion pri la arbo kaj ĝia vivo",
+        "La koloron de la folioj kaj de la trunko de la granda arbo"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi diras, ke la algoritmo donus la acon, 120 jarojn, 15 metrojn — sed ne la sperton."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Michał vidas, rigardante la arbon kun fermitaj okuloj?",
       "answers": [
-        "Nenion",
+        "Nenion apartan en la mallumo",
         "La neĝon kaj ke li estas kun Ewa",
-        "La estontecon",
-        "La kodon"
+        "La estontecon de la homaro",
+        "La kodon de la algoritmo"
       ],
       "correctIndex": 1,
       "explanation": "Li diras: mi vidas la neĝon kaj ke mi estas ĉi tie kun vi."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Michał faras kun la algoritmo fine?",
       "answers": [
-        "Li vendas ĝin",
-        "Li forigas la modulojn sugestantajn ŝanĝojn — lasas nur la kolekton de informoj",
-        "Li publikigas ĝin sen ŝanĝoj",
-        "Li redonas ĝin al la teamo"
+        "Li vendas ĝin al granda kompanio de la teknologio",
+        "Li forigas la modulojn sugestantajn ŝanĝojn, lasante nur la informojn",
+        "Li publikigas ĝin sen ŝanĝoj por la tuta mondo",
+        "Li redonas ĝin al la teamo por plia laboro pri la moduloj de feliĉo"
       ],
       "correctIndex": 1,
       "explanation": "Li forigas la modulojn proponantajn ŝanĝojn; lasas simplan informan ilon."

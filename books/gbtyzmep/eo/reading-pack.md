@@ -285,10 +285,10 @@ Magda brakumis lin pli firme.
 **Question:** Kion faras Magda, kiam Tymon verŝas sukon sur la tapiŝon?
 
 **Answers:**
-- A) Ŝi krias kaj forprenas lian ludilon
+- A) Ŝi krias kaj forprenas lian plej ŝatatan ludilon por ĉiam
 - B) Ŝi demandas "Kion ni povas fari?" kaj ili purigas kune
-- C) Ŝi ignoras la malpuraĵon
-- D) Ŝi sendas lin en la angulon
+- C) Ŝi ignoras la malpuraĵon sur la tapiŝo de la salono
+- D) Ŝi sendas lin en la angulon de la salono
 
 **Correct:** B
 **Explanation:** Ŝi montras konsekvencon (purigi), ne punon.
@@ -299,10 +299,10 @@ Magda brakumis lin pli firme.
 **Question:** Kiel Gabryś proponas nomi la angulon hejme?
 
 **Answers:**
-- A) La puna angulo
+- A) La puna angulo de la ĉambro
 - B) La trankvila angulo
-- C) La lerna angulo
-- D) La luda angulo
+- C) La lerna angulo por la infanoj
+- D) La luda angulo de la infanoj
 
 **Correct:** B
 **Explanation:** Gabryś diras: "Trankvila angulo — ĉar kiam mi estas trankvila, mi pensas pli bone".
@@ -313,10 +313,10 @@ Magda brakumis lin pli firme.
 **Question:** Kio estas la ĉefa konkludo de la rakonto?
 
 **Answers:**
-- A) La infanoj devas esti obeemaj
-- B) Temas pri tio, ke la infanoj estu pretaj por la vivo — kapablaj trakti siajn emociojn
-- C) La punoj estas la plej efikaj
-- D) Dolĉaj rekompencoj estas devigaj
+- A) La infanoj devas esti obeemaj kaj kvietaj sen protesto
+- B) Temas pri tio, ke la infanoj estu pretaj por la vivo
+- C) La punoj estas la plej efikaj rimedoj de la tuta edukado
+- D) Dolĉaj rekompencoj estas devigaj por la infanoj ĉiutage
 
 **Correct:** B
 **Explanation:** La fino: "Temas ne pri tio, ke la infanoj estu obeemaj. Temas pri tio, ke ili estu pretaj por la vivo."

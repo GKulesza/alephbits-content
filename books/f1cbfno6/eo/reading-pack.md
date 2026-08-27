@@ -552,10 +552,10 @@ Li fermis la okulojn kaj ekdormis.
 **Question:** Kion Michał finas post kvin jaroj da laboro?
 
 **Answers:**
-- A) Komputilan ludon
+- A) Komputilan ludon por infanoj
 - B) La algoritmon de feliĉo
-- C) Bankan aplikaĵon
-- D) Operaciumon
+- C) Bankan aplikaĵon por telefonoj
+- D) Operaciumon por komputiloj
 
 **Correct:** B
 **Explanation:** Post kvin jaroj la algoritmo estas preta.
@@ -566,10 +566,10 @@ Li fermis la okulojn kaj ekdormis.
 **Question:** Kion Ewa diras pri la heroo de Dostojevskij?
 
 **Answers:**
-- A) Ke li estas feliĉa
-- B) Ke li farus ion, por ruinigi al si la humoron — pro kontraŭstaremo
-- C) Ke li akceptas la algoritmon
-- D) Ke li ne legis
+- A) Ke li estas feliĉa kaj kontenta pri sia vivo
+- B) Ke li ruinigus al si la humoron pro kontraŭstaremo
+- C) Ke li akceptas la algoritmon de feliĉo sen duboj kaj esperoj
+- D) Ke li ne legis la libron de Dostojevskij ĝis la fino
 
 **Correct:** B
 **Explanation:** Ewa demandas pri la homo, kiu ruinigus al si la humoron pro kontraŭstaremo.
@@ -580,10 +580,10 @@ Li fermis la okulojn kaj ekdormis.
 **Question:** Kion Ewa diras, ke la algoritmo priskribus pri la arbo?
 
 **Answers:**
-- A) Nur la belecon
-- B) La specion, la aĝon kaj la altecon — sed ne tion, kion vidas Michał
-- C) Nenion
-- D) La koloron de la folioj
+- A) Nur la belecon de la arbo en la parko
+- B) La specion, la aĝon kaj la altecon — sed ne lian sperton
+- C) Nenion pri la arbo kaj ĝia vivo
+- D) La koloron de la folioj kaj de la trunko de la granda arbo
 
 **Correct:** B
 **Explanation:** Ŝi diras, ke la algoritmo donus la acon, 120 jarojn, 15 metrojn — sed ne la sperton.
@@ -594,10 +594,10 @@ Li fermis la okulojn kaj ekdormis.
 **Question:** Kion Michał vidas, rigardante la arbon kun fermitaj okuloj?
 
 **Answers:**
-- A) Nenion
+- A) Nenion apartan en la mallumo
 - B) La neĝon kaj ke li estas kun Ewa
-- C) La estontecon
-- D) La kodon
+- C) La estontecon de la homaro
+- D) La kodon de la algoritmo
 
 **Correct:** B
 **Explanation:** Li diras: mi vidas la neĝon kaj ke mi estas ĉi tie kun vi.
@@ -608,10 +608,10 @@ Li fermis la okulojn kaj ekdormis.
 **Question:** Kion Michał faras kun la algoritmo fine?
 
 **Answers:**
-- A) Li vendas ĝin
-- B) Li forigas la modulojn sugestantajn ŝanĝojn — lasas nur la kolekton de informoj
-- C) Li publikigas ĝin sen ŝanĝoj
-- D) Li redonas ĝin al la teamo
+- A) Li vendas ĝin al granda kompanio de la teknologio
+- B) Li forigas la modulojn sugestantajn ŝanĝojn, lasante nur la informojn
+- C) Li publikigas ĝin sen ŝanĝoj por la tuta mondo
+- D) Li redonas ĝin al la teamo por plia laboro pri la moduloj de feliĉo
 
 **Correct:** B
 **Explanation:** Li forigas la modulojn proponantajn ŝanĝojn; lasas simplan informan ilon.

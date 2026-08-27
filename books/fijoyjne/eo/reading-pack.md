@@ -245,9 +245,9 @@ Li eliris kun la rideto, kun kiu li venis. Kaj Piotr restis en la studio, rigard
 
 **Answers:**
 - A) En la studio de la podkasto „Sen Sekretoj"
-- B) Sur la pafekzercejo
-- C) En la kortumejo
-- D) En televido
+- B) Sur la pafekzercejo de la armeo de la lando
+- C) En la kortumejo de la kazerno de la soldatoj
+- D) En la televido de la publika stacio de la tuta lando
 
 **Correct:** A
 **Explanation:** Piotr kaj Marcin parolas en la podkasta studio.
@@ -259,7 +259,7 @@ Li eliris kun la rideto, kun kiu li venis. Kaj Piotr restis en la studio, rigard
 
 **Answers:**
 - A) Estas temoj, pri kiuj oni ne povas paroli
-- B) Ĉion oni povas rakonti publike
+- B) Ĉion oni povas rakonti publike sen ajna timo
 - C) BOR ne ekzistas
 - D) Ĉiuj volas intervjuojn
 
@@ -287,7 +287,7 @@ Li eliris kun la rideto, kun kiu li venis. Kaj Piotr restis en la studio, rigard
 
 **Answers:**
 - A) Pri la operatoro Żuk el BOR
-- B) Pri la prezidanto
+- B) Pri la prezidanto de la respubliko de Pollando
 - C) Pri kuracisto
 - D) Pri instruisto
 

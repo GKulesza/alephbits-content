@@ -164,10 +164,10 @@ Kaj li sciis, ke tiu historio neniam finiĝos. Ĝi estos transdonata de generaci
 **Question:** Kial Tomek kiel infano sentis sin fremde en Nikiszowiec?
 
 **Answers:**
-- A) Ĉar li ne konis la silezian lingvon
-- B) Ĉar la nova kvartalo kaj ĝia strukturo ŝajnis al li kaptilo el ruĝaj brikoj
-- C) Ĉar li tuj volis labori en la minejo
-- D) Ĉar li ne ŝatis preĝejojn
+- A) Ĉar li ne konis la silezian lingvon nek la kutimojn de la loka loĝantaro
+- B) Ĉar la nova kvartalo kun sia strukturo ŝajnis al li kaptilo el ruĝaj brikoj
+- C) Ĉar li tuj volis labori en la minejo kiel la patro kaj la avo de lia familio
+- D) Ĉar li ne ŝatis la preĝejojn kaj la religian vivon de la nova kvartalo
 
 **Correct:** B
 **Explanation:** Komence la teksto emfazas la transloĝiĝon, la fremdecon de la loko kaj la senton de enkarceriĝo.
@@ -178,10 +178,10 @@ Kaj li sciis, ke tiu historio neniam finiĝos. Ĝi estos transdonata de generaci
 **Question:** Kie Tomek unuafoje vidas la figuron de la Nigra Monaĥo?
 
 **Answers:**
-- A) Ĉe la stacidomo en Katowice
+- A) Ĉe la stacidomo en la centro de la urbo Katowice
 - B) Ĉe la preĝejo de Sankta Anna, en la ombro de pordego
-- C) Sur la tegmento de la ŝtonkonstruaĵo
-- D) En la mineja lifto
+- C) Sur la tegmento de la ŝtonkonstruaĵo de la nova kvartalo
+- D) En la mineja lifto de la profunda ŝakto
 
 **Correct:** B
 **Explanation:** La unua renkonto okazas ĉe la preĝejo de Sankta Anna, apud unu el la pordegoj.
@@ -192,10 +192,10 @@ Kaj li sciis, ke tiu historio neniam finiĝos. Ĝi estos transdonata de generaci
 **Question:** Kian rolon ludas la minejo Gisze/Wieczorek en la teksto?
 
 **Answers:**
-- A) Ĝi estas nur senutila fono
-- B) Ĝi estas la patrino-flegantino kaj fonto de la sorto de la loĝantoj
-- C) Ĝi estas muzeo vizitata de turistoj
-- D) Ĝi estas priskribita kiel privata galerio
+- A) Ĝi estas nur senutila fono por la agado de la tuta historio
+- B) Ĝi estas patrino kaj flegantino kaj fonto de la sorto de la loĝantoj
+- C) Ĝi estas muzeo vizitata de turistoj el la tuta mondo
+- D) Ĝi estas priskribita kiel privata galerio de la arto de la tuta urbo
 
 **Correct:** B
 **Explanation:** La teksto diras rekte, ke la minejo donis laboron, loĝejojn kaj decidis pri la vivo de la loĝantoj.
@@ -206,10 +206,10 @@ Kaj li sciis, ke tiu historio neniam finiĝos. Ĝi estos transdonata de generaci
 **Question:** Kion signifas la gesto de la Monaĥo dum la dua renkonto kun Tomek?
 
 **Answers:**
-- A) Inviton malsupreniri sub la teron
+- A) Inviton malsupreniri sub la teron en la minejon de la kvartalo
 - B) Montron al la preĝejo kaj al la memoro de la loko
-- C) Minacon kontraŭ la loĝantoj
-- D) Peton pri mono
+- C) Minacon kontraŭ la loĝantoj de la kvartalo
+- D) Peton pri mono de la loĝantoj
 
 **Correct:** B
 **Explanation:** La Monaĥo montras la preĝejon, kaj Tomek interpretas tion kiel signon de memoro pri tiuj, kiuj foriris.
@@ -220,10 +220,10 @@ Kaj li sciis, ke tiu historio neniam finiĝos. Ĝi estos transdonata de generaci
 **Question:** Kiel ŝanĝiĝas la sinteno de Tomek al Nikiszowiec fine de la rakonto?
 
 **Answers:**
-- A) Li ankoraŭ volas forkuri de tie
-- B) Li komencas vidi en ĝi hejmon kaj gvidanton tra sia propra historio
-- C) Li decidas vendi la loĝejon de siaj gepatroj
-- D) Li ĉesas kredi iujn ajn legendojn
+- A) Li ankoraŭ volas forkuri de tie kiel antaŭe
+- B) Li vidas en ĝi hejmon kaj gvidanton tra sia propra historio
+- C) Li decidas vendi la loĝejon de siaj gepatroj en la kvartalo
+- D) Li ĉesas kredi iujn ajn legendojn pri la loko
 
 **Correct:** B
 **Explanation:** El loko-kaptilo Nikiszowiec iĝas por li hejmo kaj portanto de memoro.

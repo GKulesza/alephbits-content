@@ -235,7 +235,7 @@ Li iris plu, lasante malantaŭ si la laboratorion, la presaĵojn kaj la tutan br
 **Question:** Kio precize ekigas la alarmon en la laboratorio komence de la rakonto?
 
 **Answers:**
-- A) Misfunkcio de la elektroprovizo de la klastero
+- A) Misfunkcio de la elektroprovizo de la komputila klastero
 - B) Devio je 4,2 sigmoj de la baza modelo en la simulado nr 47
 - C) Hazarda ŝalto de la nokta simulado fare de la doktoriganto
 - D) Manko de konekto kun kosma teleskopo
@@ -250,9 +250,9 @@ Li iris plu, lasante malantaŭ si la laboratorion, la presaĵojn kaj la tutan br
 
 **Answers:**
 - A) La punktoj aranĝiĝas en regulan strukturon, ne en hazardan distribuon
-- B) Sur la mapo ne estas iuj ajn datumpunktoj
-- C) Ĉiuj pulsaroj havas identan brilon kiel la Suno
-- D) La simulado montras nur interstelaran polvon sen emisio
+- B) Sur la mapo ne estas iuj ajn datumpunktoj el la centro de la galaksio
+- C) Ĉiuj pulsaroj havas identan brilon kiel la Suno de la mapo
+- D) La simulado montras nur interstelaran polvon sen ia ajn emisio
 
 **Correct:** A
 **Explanation:** La neŭrona reto detektas ŝablonon — la distribuo ne similas tipan loĝantaron de neŭtronaj steloj.
@@ -263,10 +263,10 @@ Li iris plu, lasante malantaŭ si la laboratorion, la presaĵojn kaj la tutan br
 **Question:** Kian alternativan instrukcion Tadek donas al Kamil post la duboj pri la malhela materio?
 
 **Answers:**
-- A) Forigi la datumojn kaj fermi la projekton
+- A) Forigi la datumojn kaj fermi la projekton por ĉiam
 - B) Fari simuladon de nekonata emisiprocezo, donante al la AI liberan manon
-- C) Publikigi la rezultojn tuj sen recenzo
-- D) Transdoni la esploradon al la viena teamo
+- C) Publikigi la rezultojn tuj sen recenzo de la kolegoj
+- D) Transdoni la esploradon al la viena teamo de la universitato por laboro
 
 **Correct:** B
 **Explanation:** Tadek petas pri alternativa simulado supozanta procezon, kiun ili ankoraŭ ne konas.
@@ -279,8 +279,8 @@ Li iris plu, lasante malantaŭ si la laboratorion, la presaĵojn kaj la tutan br
 **Answers:**
 - A) Al la revuo Physical Review Letters
 - B) Nur al scienca Twitter
-- C) Al la loka gazeto en Gdynia
-- D) Rekte al NASA sen recenzo
+- C) Al la loka gazeto de la urbo Gdynia
+- D) Rekte al NASA sen recenzo de la sciencistoj
 
 **Correct:** A
 **Explanation:** Tadek decidas sendi la laboron al PRL, kaj arXiv traktas kiel rezervan vojon.
@@ -291,7 +291,7 @@ Li iris plu, lasante malantaŭ si la laboratorion, la presaĵojn kaj la tutan br
 **Question:** Kion Tadek metas en la piednoton de la publikigita artikolo?
 
 **Answers:**
-- A) La plenan liston de la perditaj subvencioj
+- A) La plenan liston de la perditaj subvencioj de la projekto
 - B) Dediĉon al la instruistoj instruantaj per defioj
 - C) Averton pri la eraro de la simulado
 - D) La telefonnumeron de la teamo el Harvard

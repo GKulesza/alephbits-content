@@ -7,7 +7,7 @@
       "type": "single_choice",
       "question": "Kio precize ekigas la alarmon en la laboratorio komence de la rakonto?",
       "answers": [
-        "Misfunkcio de la elektroprovizo de la klastero",
+        "Misfunkcio de la elektroprovizo de la komputila klastero",
         "Devio je 4,2 sigmoj de la baza modelo en la simulado nr 47",
         "Hazarda ŝalto de la nokta simulado fare de la doktoriganto",
         "Manko de konekto kun kosma teleskopo"
@@ -20,9 +20,9 @@
       "question": "Kion en la datumoj el la centro de la galaksio Kamil elstarigas kaj kio vekas dubojn pri pulsaroj?",
       "answers": [
         "La punktoj aranĝiĝas en regulan strukturon, ne en hazardan distribuon",
-        "Sur la mapo ne estas iuj ajn datumpunktoj",
-        "Ĉiuj pulsaroj havas identan brilon kiel la Suno",
-        "La simulado montras nur interstelaran polvon sen emisio"
+        "Sur la mapo ne estas iuj ajn datumpunktoj el la centro de la galaksio",
+        "Ĉiuj pulsaroj havas identan brilon kiel la Suno de la mapo",
+        "La simulado montras nur interstelaran polvon sen ia ajn emisio"
       ],
       "correctIndex": 0,
       "explanation": "La neŭrona reto detektas ŝablonon — la distribuo ne similas tipan loĝantaron de neŭtronaj steloj."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kian alternativan instrukcion Tadek donas al Kamil post la duboj pri la malhela materio?",
       "answers": [
-        "Forigi la datumojn kaj fermi la projekton",
+        "Forigi la datumojn kaj fermi la projekton por ĉiam",
         "Fari simuladon de nekonata emisiprocezo, donante al la AI liberan manon",
-        "Publikigi la rezultojn tuj sen recenzo",
-        "Transdoni la esploradon al la viena teamo"
+        "Publikigi la rezultojn tuj sen recenzo de la kolegoj",
+        "Transdoni la esploradon al la viena teamo de la universitato por laboro"
       ],
       "correctIndex": 1,
       "explanation": "Tadek petas pri alternativa simulado supozanta procezon, kiun ili ankoraŭ ne konas."
@@ -45,8 +45,8 @@
       "answers": [
         "Al la revuo Physical Review Letters",
         "Nur al scienca Twitter",
-        "Al la loka gazeto en Gdynia",
-        "Rekte al NASA sen recenzo"
+        "Al la loka gazeto de la urbo Gdynia",
+        "Rekte al NASA sen recenzo de la sciencistoj"
       ],
       "correctIndex": 0,
       "explanation": "Tadek decidas sendi la laboron al PRL, kaj arXiv traktas kiel rezervan vojon."
@@ -55,7 +55,7 @@
       "type": "single_choice",
       "question": "Kion Tadek metas en la piednoton de la publikigita artikolo?",
       "answers": [
-        "La plenan liston de la perditaj subvencioj",
+        "La plenan liston de la perditaj subvencioj de la projekto",
         "Dediĉon al la instruistoj instruantaj per defioj",
         "Averton pri la eraro de la simulado",
         "La telefonnumeron de la teamo el Harvard"

@@ -55,9 +55,9 @@
         "question": "Kie okazas la konversacio?",
         "answers": [
           "En la studio de la podkasto „Sen Sekretoj\"",
-          "Sur la pafekzercejo",
-          "En la kortumejo",
-          "En televido"
+          "Sur la pafekzercejo de la armeo de la lando",
+          "En la kortumejo de la kazerno de la soldatoj",
+          "En la televido de la publika stacio de la tuta lando"
         ],
         "correctIndex": 0,
         "explanation": "Piotr kaj Marcin parolas en la podkasta studio."
@@ -67,7 +67,7 @@
         "question": "Kion la teksto sugestas pri la BOR-unuo?",
         "answers": [
           "Estas temoj, pri kiuj oni ne povas paroli",
-          "Ĉion oni povas rakonti publike",
+          "Ĉion oni povas rakonti publike sen ajna timo",
           "BOR ne ekzistas",
           "Ĉiuj volas intervjuojn"
         ],
@@ -91,7 +91,7 @@
         "question": "Pri kiu ĉefe temas la konversacio?",
         "answers": [
           "Pri la operatoro Żuk el BOR",
-          "Pri la prezidanto",
+          "Pri la prezidanto de la respubliko de Pollando",
           "Pri kuracisto",
           "Pri instruisto"
         ],

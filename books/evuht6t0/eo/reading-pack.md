@@ -391,10 +391,10 @@ Li publikigis ĝin malfrue vespere. Kaj kiam li finis, li fermis la tekokomputil
 **Question:** Kion Tadeusz Jędrzejowski malkovras en sia sekreta dosiero?
 
 **Answers:**
-- A) Nur erarojn en la feriodokumentaro
-- B) Falsajn kontraktojn, deĵorojn kaj falsitajn subskribojn en la sistemo de sanservo
-- C) Planojn de la renovigo de la hospitalo
-- D) Amleteron al la edzino
+- A) Nur erarojn en la feriodokumentaro de la stabo de la hospitalo
+- B) Falsajn kontraktojn, deĵorojn kaj falsitajn subskribojn en la sanservo
+- C) Planojn de la renovigo de la hospitalo en la urbo de la tuta rakonto
+- D) Amleteron al la edzino de lia kolego en la hospitalo
 
 **Correct:** B
 **Explanation:** La dosiero enhavas familinomojn de kuracistoj sur multaj postenoj, falsajn deĵorojn kaj liajn falsitajn subskribojn.
@@ -419,10 +419,10 @@ Li publikigis ĝin malfrue vespere. Kaj kiam li finis, li fermis la tekokomputil
 **Question:** Kio ligas la hospitalan fadenon kun la malkovro apud Bielin?
 
 **Answers:**
-- A) Ambaŭ koncernas la saman konstruaĵon
+- A) Ambaŭ koncernas la saman konstruaĵon en la urbo
 - B) En ambaŭ kazoj iu konsideris, ke la vivo kaj morto de iu ne havas signifon
-- C) Ambaŭ estas elpensitaj de la amaskomunikiloj
-- D) Ambaŭ koncernas nur eksteran politikon
+- C) Ambaŭ estas elpensitaj de la amaskomunikiloj kaj de la tuta gazetaro en la mondo
+- D) Ambaŭ koncernas nur eksteran politikon de la lando
 
 **Correct:** B
 **Explanation:** La fina teksto komparas la ostojn en la arbaro kaj la homojn mortantajn en la krizfako kiel kazojn de malestimo de la vivo.
@@ -433,10 +433,10 @@ Li publikigis ĝin malfrue vespere. Kaj kiam li finis, li fermis la tekokomputil
 **Question:** Kian decidon Tadeusz faras fine de la rakonto?
 
 **Answers:**
-- A) Li detruas ĉiujn pruvojn kaj silentas
+- A) Li detruas ĉiujn pruvojn kaj silentas por ĉiam
 - B) Li ne retiriĝas — li akceptas subtenon kaj daŭrigas la batalon por la vero
-- C) Li forveturas al la filino eksterlanden
-- D) Li revenas al la laboro sur noktaj deĵoroj
+- C) Li forveturas al la filino eksterlanden kaj restas tie
+- D) Li revenas al la laboro sur la noktaj deĵoroj de la hospitalo de la urbo
 
 **Correct:** B
 **Explanation:** Li akceptas de la flegistinoj monon por advokato kaj scias, ke antaŭ li estas longa vojo.
@@ -447,10 +447,10 @@ Li publikigis ĝin malfrue vespere. Kaj kiam li finis, li fermis la tekokomputil
 **Question:** Kial Tadeusz kondukas la enketon sekrete?
 
 **Answers:**
-- A) Ĉar li ne scias legi dokumentojn
+- A) Ĉar li ne scias legi la dokumentojn ĝuste
 - B) Ĉar li scias, ke la malkaŝo de la dosiero povas senigi lin je ĉio
-- C) Ĉar la edzino petas lin pri tio
-- D) Ĉar li volas verki krimromanon
+- C) Ĉar la edzino petas lin pri tio hejme
+- D) Ĉar li volas verki krimromanon pri la historio de la hospitalo
 
 **Correct:** B
 **Explanation:** Li laboras pri la dosiero sekrete, sciante, ke ĝia malkaŝo povas senigi lin je ĉio.

@@ -10,7 +10,7 @@
         "Ĝi ne estas apriora — ĝi aperas kun kialo",
         "La poloj ridetas konstante",
         "La rideto estas malpermesita",
-        "La rideto ĉiam signifas flirtadon"
+        "La rideto ĉiam signifas flirtadon aŭ ŝercan intencon"
       ],
       "correctIndex": 0,
       "explanation": "La amiko klarigas, ke la rideto ne estas la apriora sinteno de la vizaĝo."
@@ -20,7 +20,7 @@
       "question": "Kial la heroino sentas sin perdita?",
       "answers": [
         "La usona rideto ne malfermas kontakton",
-        "Ŝi ne konas polajn vortojn",
+        "Ŝi ne konas la polajn vortojn kaj la polajn frazojn",
         "Ŝi ne havas monon",
         "Ŝi veturis al Krakovo"
       ],
@@ -44,7 +44,7 @@
       "question": "Kion la heroino konsideras malgranda venko?",
       "answers": [
         "Diri „dankon\" pole",
-        "Aĉeti kafon",
+        "Aĉeti kafon en la kafejo",
         "Veturi per metroo",
         "Trovi hotelon"
       ],
@@ -56,7 +56,7 @@
       "question": "Kio estas la diferenco inter turisto kaj loĝanto?",
       "answers": [
         "La loĝanto akceptas la landon tian, kia ĝi estas",
-        "Turistoj lernas la polan",
+        "Turistoj lernas la polan lingvon antaŭ la vojaĝo al Pollando",
         "Loĝantoj ne ridetas",
         "Turistoj ĉiam revenas"
       ],

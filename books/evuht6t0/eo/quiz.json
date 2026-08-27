@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Tadeusz Jędrzejowski malkovras en sia sekreta dosiero?",
       "answers": [
-        "Nur erarojn en la feriodokumentaro",
-        "Falsajn kontraktojn, deĵorojn kaj falsitajn subskribojn en la sistemo de sanservo",
-        "Planojn de la renovigo de la hospitalo",
-        "Amleteron al la edzino"
+        "Nur erarojn en la feriodokumentaro de la stabo de la hospitalo",
+        "Falsajn kontraktojn, deĵorojn kaj falsitajn subskribojn en la sanservo",
+        "Planojn de la renovigo de la hospitalo en la urbo de la tuta rakonto",
+        "Amleteron al la edzino de lia kolego en la hospitalo"
       ],
       "correctIndex": 1,
       "explanation": "La dosiero enhavas familinomojn de kuracistoj sur multaj postenoj, falsajn deĵorojn kaj liajn falsitajn subskribojn."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kio ligas la hospitalan fadenon kun la malkovro apud Bielin?",
       "answers": [
-        "Ambaŭ koncernas la saman konstruaĵon",
+        "Ambaŭ koncernas la saman konstruaĵon en la urbo",
         "En ambaŭ kazoj iu konsideris, ke la vivo kaj morto de iu ne havas signifon",
-        "Ambaŭ estas elpensitaj de la amaskomunikiloj",
-        "Ambaŭ koncernas nur eksteran politikon"
+        "Ambaŭ estas elpensitaj de la amaskomunikiloj kaj de la tuta gazetaro en la mondo",
+        "Ambaŭ koncernas nur eksteran politikon de la lando"
       ],
       "correctIndex": 1,
       "explanation": "La fina teksto komparas la ostojn en la arbaro kaj la homojn mortantajn en la krizfako kiel kazojn de malestimo de la vivo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kian decidon Tadeusz faras fine de la rakonto?",
       "answers": [
-        "Li detruas ĉiujn pruvojn kaj silentas",
+        "Li detruas ĉiujn pruvojn kaj silentas por ĉiam",
         "Li ne retiriĝas — li akceptas subtenon kaj daŭrigas la batalon por la vero",
-        "Li forveturas al la filino eksterlanden",
-        "Li revenas al la laboro sur noktaj deĵoroj"
+        "Li forveturas al la filino eksterlanden kaj restas tie",
+        "Li revenas al la laboro sur la noktaj deĵoroj de la hospitalo de la urbo"
       ],
       "correctIndex": 1,
       "explanation": "Li akceptas de la flegistinoj monon por advokato kaj scias, ke antaŭ li estas longa vojo."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kial Tadeusz kondukas la enketon sekrete?",
       "answers": [
-        "Ĉar li ne scias legi dokumentojn",
+        "Ĉar li ne scias legi la dokumentojn ĝuste",
         "Ĉar li scias, ke la malkaŝo de la dosiero povas senigi lin je ĉio",
-        "Ĉar la edzino petas lin pri tio",
-        "Ĉar li volas verki krimromanon"
+        "Ĉar la edzino petas lin pri tio hejme",
+        "Ĉar li volas verki krimromanon pri la historio de la hospitalo"
       ],
       "correctIndex": 1,
       "explanation": "Li laboras pri la dosiero sekrete, sciante, ke ĝia malkaŝo povas senigi lin je ĉio."
