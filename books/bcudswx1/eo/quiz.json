@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kie okazas la ŝlosila incidento kun la aŭto?",
       "answers": [
-        "En Gdańsk",
+        "En Gdańsk ĉe la stacidomo",
         "Ĉe la transirejo en Otnice",
-        "En Vroclavo",
-        "En Opole"
+        "En Vroclavo ĉe la ĉefa strato",
+        "En Opole apud la rivero"
       ],
       "correctIndex": 1,
       "explanation": "La aŭto eliras de la maldekstra flanko ĉe la transirejo en Otnice."
@@ -31,7 +31,7 @@
       "type": "single_choice",
       "question": "Kiom da metroj pli malproksimen la ŝoforino devus eliri, por ke la trajno trafu la spacon, kie sidis la infanoj?",
       "answers": [
-        "Duonon da metro",
+        "Duonon da metro antaŭ la trajno",
         "Unu metron kaj duonon",
         "Tri metrojn",
         "Kvin metrojn"
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion la policano iam diris al Paweł kiel metaforon?",
       "answers": [
-        "Ke li estas kulpa",
+        "Ke li estas kulpa pri la okazaĵo",
         "Ke li estas la arbo, sur kiu iu pendigos sin",
-        "Ke li devas foriri de la laboro",
-        "Ke tio estas komputila ludo"
+        "Ke li devas foriri de la laboro kaj ripozi",
+        "Ke tio estas komputila ludo sen sekvoj"
       ],
       "correctIndex": 1,
       "explanation": "La policano diris, ke li elektis por si, kaj Paweł estas tiu arbo."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Paweł komprenas vespere post la incidento?",
       "answers": [
-        "Ke li devas tuj foriri",
+        "Ke li devas tuj foriri de la stacidomo kaj de la laboro",
         "Ke li ne estas arbo — li havas elekton, ĉu resti aŭ foriri",
-        "Ke la ŝoforino estas kulpa",
-        "Ke la sonĝo plenumiĝos"
+        "Ke la ŝoforino estas kulpa pri la okazinta akcidento",
+        "Ke la sonĝo plenumiĝos pro la incidento"
       ],
       "correctIndex": 1,
       "explanation": "Li diras, ke li povas foriri aŭ resti, sed tio estos lia elekto."

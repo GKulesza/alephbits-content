@@ -44,7 +44,7 @@
         "type": "single_choice",
         "question": "Kiel sinjorino Maria difinas la konstruadon de aŭtoritato?",
         "answers": [
-          "Per ordonoj kaj malpermesoj",
+          "Per ordonoj, krioj kaj malpermesoj",
           "Per \"pardonu\" kaj agnosko de eraroj",
           "Per punoj",
           "Per rekompencoj"
@@ -56,10 +56,10 @@
         "type": "single_choice",
         "question": "Kion faras Ania, kiam Marysia verŝas la lakton?",
         "answers": [
-          "Krias \"Denove?\"",
+          "Krias \"Denove?\" kaj riproĉas ŝin",
           "Ĉirkaŭprenas ŝin kaj laŭdas la provon de memstareco",
-          "Ordonas iri en la ĉambron",
-          "Ignoras la tutan situacion"
+          "Ordonas iri en la ĉambron kaj sidi",
+          "Ignoras la tutan situacion kaj daŭras sian aferon"
         ],
         "correctIndex": 1,
         "explanation": "Priskriba subteno anstataŭ riproĉado."
@@ -68,10 +68,10 @@
         "type": "single_choice",
         "question": "Kiel Marek laŭdas la desegnaĵon de Marysia?",
         "answers": [
-          "\"Vi estas bela\"",
+          "\"Vi estas bela kaj tre talenta knabino\"",
           "Priskribe: li vidas detalojn, penon kaj talenton observi",
-          "\"Bonege\" kaj fino",
-          "Li tute ne laŭdas"
+          "\"Bonege\" kaj fino de la laŭdo",
+          "Li tute ne laŭdas la desegnaĵon de la filino, sed silentas"
         ],
         "correctIndex": 1,
         "explanation": "Marek parolas pri la floretoj en la fono kaj la longa laboro pri la desegnaĵo."
@@ -80,10 +80,10 @@
         "type": "single_choice",
         "question": "Kion timas Marek, parolante pri sia patro?",
         "answers": [
-          "Ke lia filo ne amas lin",
+          "Ke lia filo ne amas lin kaj evitas lin en la domo",
           "Ke li fariĝos kiel la patro, kiu neniam pardonpetis nek diris \"mi amas vin\"",
-          "Ke li perdos la laboron",
-          "Ke ili foriros eksterlanden"
+          "Ke li perdos la laboron kaj la domon en la urbo",
+          "Ke ili foriros eksterlanden kaj neniam plu revenos al sia hejmo kaj familio"
         ],
         "correctIndex": 1,
         "explanation": "Marek: la patro neniam pardonpetis – li ne scias, kiel esti alie."
@@ -92,7 +92,7 @@
         "type": "single_choice",
         "question": "Kian fabelon legas Ania fine?",
         "answers": [
-          "Pri Cindrulino",
+          "Pri Cindrulino kaj ŝiaj duonfratinoj",
           "Pri drako, kiu ne scipovis pardonpeti",
           "Pri kosmonaŭto",
           "Pri hundo"

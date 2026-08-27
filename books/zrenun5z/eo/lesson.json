@@ -55,7 +55,7 @@
         "question": "Kiun celon Ania elektas fine de la rakonto?",
         "answers": [
           "Skribi libron en unu jaro",
-          "Esti sufiĉa",
+          "Esti sufiĉa — ĉi tie kaj nun",
           "Promociiĝi al prezidanto",
           "Transloĝiĝi eksterlanden"
         ],
@@ -66,7 +66,7 @@
         "type": "single_choice",
         "question": "Kion montras la komenco de la rakonto pri la decidoj de Ania?",
         "answers": [
-          "Ke ĉiuj ŝiaj celoj estas realigataj perfekte kaj ĝustatempe",
+          "Ke ĉiuj ŝiaj celoj estas realigataj perfekte, ĝustatempe kaj sen problemoj",
           "Ke la gimnastikejon ŝi vizitis dufoje, kaj la libro havas nur titolon",
           "Ke ŝi neniam havis ian ajn planon aŭ personan revon",
           "Ke ŝi tuj rezignis pri la laboro kaj pri la familio"
@@ -78,7 +78,7 @@
         "type": "single_choice",
         "question": "Kiu estas Karolina en la rakonto?",
         "answers": [
-          "La estro de Ania en la korporacio",
+          "La estro de Ania en la granda internacia korporacio",
           "Mentorino, kun kiu Ania komencis seancojn",
           "La filino de Ania, ankoraŭ infano",
           "Nemoveblaĵa agentino el la oficejo"
@@ -92,7 +92,7 @@
         "answers": [
           "Ania ploras pro malespero en la pluvo",
           "Ania kaj Karolina ridas pensante pri la celo esti sufiĉa",
-          "Ania revenas al la laboro nokte sen iu ajn plano",
+          "Ania revenas al la laboro nokte, sen ia ajn plano por la morgaŭa tago",
           "Ania forlasas la familion kaj elmigras"
         ],
         "correctIndex": 1,

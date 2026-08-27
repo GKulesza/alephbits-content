@@ -197,10 +197,10 @@ Kaj Tomasz fine komprenis tion.
 **Question:** Kial Tomasz konsentas al la multekostaj opcioj en la funebra entrepreno?
 
 **Answers:**
-- A) Ĉar li antaŭe komparis ĉiujn proponojn
-- B) Ĉar en funebro li fidas, ke la proponitaj elementoj estas necesaj por digna adiaŭo
-- C) Ĉar li havis specialan asekuron
-- D) Ĉar la patrino skribis ĉion en la testamento
+- A) Ĉar li antaŭe komparis ĉiujn proponojn de la konkurantaj entreprenoj
+- B) Ĉar en funebro li fidas, ke la proponitaj elementoj necesas por digna adiaŭo
+- C) Ĉar li havis specialan asekuron por la okazo
+- D) Ĉar la patrino skribis ĉion en la testamento, kiun ŝi lasis antaŭ la morto
 
 **Correct:** B
 **Explanation:** La teksto montras lian perditecon kaj vundeblecon al sugestoj en la momento de freŝa perdo.
@@ -211,10 +211,10 @@ Kaj Tomasz fine komprenis tion.
 **Question:** Kio plej ŝanĝas lian rigardon kelkajn semajnojn poste?
 
 **Answers:**
-- A) Artikolo en gazeto pri kremacio
+- A) Artikolo en la regiona gazeto pri la avantaĝoj de kremacio por la medio
 - B) La konversacio kun Magda pri pli malmultekostaj kaj ekologiaj alternativoj
-- C) Telefonvoko el la banko
-- D) Letero de la pastro
+- C) Telefonvoko el la banko pri la nekompletaj dokumentoj
+- D) Letero de la pastro pri la formo de la enterigo
 
 **Correct:** B
 **Explanation:** Magda unuafoje konsciigas al li, ke ekzistis aliaj solvoj.
@@ -225,10 +225,10 @@ Kaj Tomasz fine komprenis tion.
 **Question:** Kian rolon plenumas la renkontiĝo de la fondaĵo Funerarium?
 
 **Answers:**
-- A) Ĝi konvinkas lin aĉeti pli multekostan urnon
-- B) Ĝi montras, ke la familio rajtas demandi, elekti kaj plendi pri malbone plenumita servo
-- C) Ĝi malpermesas al infanoj partopreni en enterigoj
-- D) Ĝi instigas lin translokiĝi
+- A) Ĝi konvinkas lin aĉeti pli multekostan urnon por la cindroj de la patrino
+- B) Ĝi montras, ke la familio rajtas demandi, elekti kaj plendi pri malbona servo
+- C) Ĝi malpermesas al infanoj partopreni en la enterigaj ceremonioj de la familio
+- D) Ĝi instigas lin translokiĝi al alia urbo
 
 **Correct:** B
 **Explanation:** Agnes Tołoczmańska parolas pri la rajto elekti kaj pri konsumantaj rajtoj.
@@ -239,10 +239,10 @@ Kaj Tomasz fine komprenis tion.
 **Question:** Kian pli larĝan ŝanĝon Tomasz enkondukas post tiu edukado?
 
 **Answers:**
-- A) Li ĉesas iri al la tombejo
-- B) Li komencas paroli kun proksimuloj, ankaŭ kun infanoj, pri morto kaj pri enterigaj elektoj
-- C) Li fondas funebran entreprenon
-- D) Li rezignas pri libroj
+- A) Li ĉesas iri al la tombejo kaj tute evitas la temon de la morto
+- B) Li komencas paroli kun proksimuloj, ankaŭ kun infanoj, pri morto kaj enterigaj elektoj
+- C) Li fondas funebran entreprenon kun amiko el la kvartalo kaj laboras en ĝi dum la tuta tago
+- D) Li rezignas pri libroj kaj pri ĉia legado pri morto
 
 **Correct:** B
 **Explanation:** Post la legado kaj la renkontiĝo li komencas malsentimigi la temon de morto en la familio.
@@ -253,10 +253,10 @@ Kaj Tomasz fine komprenis tion.
 **Question:** Kiu ĉefa konkludo fermas la rakonton de Tomasz?
 
 **Answers:**
-- A) Plej bone neniam organizi enterigojn memstare
+- A) Plej bone neniam organizi enterigojn memstare, sed uzi helpon
 - B) En situacio de nescio oni devas demandi kaj postuli alternativojn
-- C) Alta prezo ĉiam signifas dignon
-- D) Infanoj ne devus koni la temon de morto
+- C) Alta prezo ĉiam signifas dignon kaj respekton
+- D) Infanoj ne devus koni la temon de morto kaj de enterigo
 
 **Correct:** B
 **Explanation:** La fina pripensado resumiĝas al la rajto demandi kaj elekti.

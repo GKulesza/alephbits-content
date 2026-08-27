@@ -19,7 +19,7 @@
       "type": "single_choice",
       "question": "Kio ekigas la pripenson de Tomek en la aŭto?",
       "answers": [
-        "Mesaĝo de la estro pri nova projekto",
+        "Mesaĝo de la estro pri nova urĝa projekto",
         "Podkasto de Maria Berlińska pri dialogo",
         "Agfilmo pri herooj en la kinejo",
         "Reklamo pri nova saĝtelefono"
@@ -45,7 +45,7 @@
       "answers": [
         "Pli da televidilo por la infanoj",
         "Li flankenmetas la telefonon kaj parolas kun ili",
-        "Li sendas la infanojn al la avino",
+        "Li sendas la infanojn al la avino por la tuta semajno",
         "Li aĉetas al ili novajn komputilajn ludojn"
       ],
       "correctIndex": 1,
@@ -57,7 +57,7 @@
       "answers": [
         "Ke Zosia plimalboniĝis en la lernejo",
         "Ke Zosia estas pli malferma — Tomek: „Mi ŝanĝiĝis\"",
-        "Ke Zosia devus ŝanĝi lernejon pro la problemoj",
+        "Ke Zosia devus ŝanĝi lernejon pro la konstantaj problemoj",
         "Nenion koncerne la infanojn"
       ],
       "correctIndex": 1,

@@ -287,7 +287,7 @@ Pankracy ne estis homo. Li ne sciis paroli, li ne sciis solvi taskojn pri matema
 - A) Aspekti kaj esti estas du malsamaj aferoj
 - B) La neĝohomo estas vivanta kaj spiranta
 - C) La neĝohomo estas la reĝo de la neĝo
-- D) La neĝohomon oni devas tuj detrui
+- D) La neĝohomon oni devas tuj detrui kaj forĵeti
 
 **Correct:** A
 **Explanation:** La korvo diras: „Aspekti kaj esti, tio estas du malsamaj aferoj".

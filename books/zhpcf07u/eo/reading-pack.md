@@ -210,7 +210,7 @@ _Ĝi ne estas magio. Ĝi ne estas teknologio de la estonteco. Ĝi estas la leĝo
 - A) Tiuj estas du tute malsamaj fenomenoj, kiuj havas nenion komunan
 - B) Ambaŭ apartenas al la elektromagneta spektro kaj diferencas per frekvenco
 - C) La radio estas mekanika ondo, kiu bezonas aeron por disvastiĝi
-- D) Lumo ne havas ian ajn rilaton kun la energio de la ondoj
+- D) Lumo ne havas ian ajn rilaton kun la energio kaj la movado de la ondoj
 
 **Correct:** B
 **Explanation:** La aŭtoro bazas la klarigon sur la komuna naturo de elektromagnetaj ondoj.
@@ -235,7 +235,7 @@ _Ĝi ne estas magio. Ĝi ne estas teknologio de la estonteco. Ĝi estas la leĝo
 **Question:** Por kio aperas en la teksto la ekvacio E = h × f?
 
 **Answers:**
-- A) Por kalkuli la pezon de la muro en la domo
+- A) Por kalkuli la pezon de la muro kaj la fortikecon de la domo
 - B) Por montri, ke la energio de fotono kreskas kun la frekvenco
 - C) Por klarigi la boltemperaturon de la akvo en la kaldrono
 - D) Por priskribi la movon de la planedoj ĉirkaŭ la suno
@@ -252,7 +252,7 @@ _Ĝi ne estas magio. Ĝi ne estas teknologio de la estonteco. Ĝi estas la leĝo
 - A) Ĉar ili estas pli rapidaj ol la lumo mem en la vakuo
 - B) Ĉar iliaj fotonoj estas tro malfortaj, por veki la elektronojn
 - C) Ĉar la muroj enhavas nur metalon kaj ŝtalon
-- D) Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al gravito
+- D) Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al la gravita forto
 
 **Correct:** B
 **Explanation:** La kerno de la klarigo estas la energia malkongruo kun la niveloj de la elektronoj.
@@ -263,7 +263,7 @@ _Ĝi ne estas magio. Ĝi ne estas teknologio de la estonteco. Ĝi estas la leĝo
 **Question:** Kiun pli vastan lecionon pri la realo tiras la teksto el ĉi tiu ekzemplo?
 
 **Answers:**
-- A) Ke la mondo estas nur iluzio kaj nenio vere ekzistas
+- A) Ke la mondo, kiun ni vidas, estas nur iluzio kaj nenio vere ekzistas
 - B) Ke la homa percepto kovras nur malgrandan fragmenton de la vera mondo
 - C) Ke nur tio, kio estas videbla per la okulo, estas reala
 - D) Ke la radiondonoj estas pli gravaj por la homoj ol la videbla lumo

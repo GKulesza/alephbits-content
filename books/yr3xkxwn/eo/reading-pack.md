@@ -204,7 +204,7 @@ Wałęsa, Bolek, prezidanto, homo. Ĉio ĉi estas unu. Kaj ĉio ĉi kune kreas b
 **Answers:**
 - A) Nur kiel perfidan agenton de la sekureca servo
 - B) Nek nur tra rozkoloraj, nek nur tra nigraj okulvitroj
-- C) Nur kiel sanktan heroon de la tuta nacio
+- C) Nur kiel sanktan heroon, kiun admiras la tuta nacio
 - D) Nur tra la Nobel-premio, kiu kronis lian vivon
 
 **Correct:** B
@@ -219,7 +219,7 @@ Wałęsa, Bolek, prezidanto, homo. Ĉio ĉi estas unu. Kaj ĉio ĉi kune kreas b
 - A) Lian prezidentecon post la jaro 1990
 - B) La rolon luditan en la okdekaj jaroj kaj en Solidarność
 - C) Nur la Nobel-premion pri paco, ricevitan en 1983
-- D) Lian agadon post la jaro 2000
+- D) Lian agadon post la jaro 2000, jam en la 21-a jarcento
 
 **Correct:** B
 **Explanation:** Dudek diras, ke la pozitiva bilanco devenas ĉefe el la okdekaj jaroj.
@@ -233,7 +233,7 @@ Wałęsa, Bolek, prezidanto, homo. Ĉio ĉi estas unu. Kaj ĉio ĉi kune kreas b
 - A) Ĝi koncernas nur falsan interretan legendon, nenian realon
 - B) Ĝi rilatas al la kunlaboro de Wałęsa kun SB en la sepdekaj jaroj
 - C) Ĝi estas la kaŝnomo de la granda striko el 1980
-- D) Ĝi estas la nomo de malnova politika partio
+- D) Ĝi estas la nomo de malnova politika partio el la komunisma epoko
 
 **Correct:** B
 **Explanation:** La sekcio „Bolek" priskribas la kunlaboron kaj ĝian moralan ŝarĝon.
@@ -246,7 +246,7 @@ Wałęsa, Bolek, prezidanto, homo. Ĉio ĉi estas unu. Kaj ĉio ĉi kune kreas b
 **Answers:**
 - A) Ĉar li ne volis kandidatiĝi en la prezidentaj balotoj
 - B) Ĉar li ne komprenis sian rolon kaj malstabiligis la politikon
-- C) Ĉar li tuj elmigris eksterlanden post la elekto
+- C) Ĉar li tuj elmigris eksterlanden post la elekto, neniam revenante
 - D) Ĉar li malakceptis la konstitucion en la referendumo
 
 **Correct:** B
@@ -260,7 +260,7 @@ Wałęsa, Bolek, prezidanto, homo. Ĉio ĉi estas unu. Kaj ĉio ĉi kune kreas b
 **Answers:**
 - A) Nur la agado de la okcidentaj amaskomunikiloj
 - B) La nekapablo agnoski erarojn kaj lia propra megalomanio
-- C) La manko de teknika edukiteco kaj scio pri juro
+- C) La manko de teknika edukiteco kaj de scio pri la juraj procedoj
 - D) La rifuzo akcepti la Nobel-premion pri paco
 
 **Correct:** B

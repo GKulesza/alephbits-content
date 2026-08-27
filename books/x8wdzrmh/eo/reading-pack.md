@@ -313,7 +313,7 @@ Kaj tio estis la plej grava.
 **Answers:**
 - A) Nur el la veterprognozo en la televido
 - B) El la arbaro — li rekonas sekegon sen termometro
-- C) De turistoj en la buso al la urbo de Poznań
+- C) De turistoj, kiujn li renkontis en la buso al Poznań
 - D) El la kurprogramo en lia telefono matene
 
 **Correct:** B
@@ -341,7 +341,7 @@ Kaj tio estis la plej grava.
 **Answers:**
 - A) Ĉar en la arbaroj dum jarcentoj pino kreskis sur sabloj
 - B) Ĉar la arbaro estas protektita de la konstruregularo
-- C) Ĉar Tomek ne ŝatas plantojn kaj ĝardenadon
+- C) Ĉar Tomek ne ŝatas plantojn, ĝardenadon kaj agrikulturon
 - D) Ĉar mankas loko por la arboj en la arbaro
 
 **Correct:** A
@@ -367,7 +367,7 @@ Kaj tio estis la plej grava.
 **Question:** Kia estas la sinteno de la herooj fine de la rakonto?
 
 **Answers:**
-- A) Pesimismo sen ia ajn agado aŭ espero pri la arbaro
+- A) Pesimismo sen ia ajn agado aŭ espero pri la estonteco de la arbaro
 - B) Konscio pri malfacilaĵoj, sed la provo havas sencon
 - C) Kredo, ke la problemo estas jam tute solvita
 - D) Rezigno pri ekologio kaj ĉia ajn agado

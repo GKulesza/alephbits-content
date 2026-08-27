@@ -277,7 +277,7 @@ Kaj ke ĝuste pri tio temas.
 - A) En la ĉambro kun kolorigbildoj
 - B) Ekstere, sendepende de la vetero
 - C) En la kinejo kun la tuta grupo
-- D) Hejme kun la gepatroj
+- D) Hejme kun la gepatroj kaj la gefratoj
 
 **Correct:** B
 **Explanation:** Grażyna: plej multe da tempo ekstere, lernado per sperto.
@@ -290,7 +290,7 @@ Kaj ke ĝuste pri tio temas.
 **Answers:**
 - A) Per skriba testo por la infanoj en la klaso
 - B) Per figuro de dinosaŭro, kiun alportas Franek
-- C) Per puno pro malbona konduto
+- C) Per puno pro malbona konduto de la infanoj
 - D) Per la propono de la gepatroj
 
 **Correct:** B
@@ -302,7 +302,7 @@ Kaj ke ĝuste pri tio temas.
 **Question:** Kiun Marta invitas al la infanĝardeno?
 
 **Answers:**
-- A) Astronaŭton el la kosma centro
+- A) Astronaŭton, kiu vizitis la kosman stacion
 - B) La paĉjon de Franek — bestokuraciston
 - C) Politikiston de la urba konsilio
 - D) Kantiston el la loka televido
@@ -318,7 +318,7 @@ Kaj ke ĝuste pri tio temas.
 **Answers:**
 - A) Ke li malamis la infanĝardenon kaj la instruistinojn
 - B) Ke en la lernejo li ŝatas lerni, ĉar li povas demandi
-- C) Ke li jam forgesis pri la dinosaŭroj
+- C) Ke li jam forgesis pri la dinosaŭroj kaj pri la projekto
 - D) Ke li volas fariĝi instruisto de infanoj
 
 **Correct:** B

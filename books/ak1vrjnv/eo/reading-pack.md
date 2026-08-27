@@ -303,10 +303,10 @@ Ne ĉar ŝi venkis. Sed ĉar ŝi ĉesis ludi ĝin.
 **Question:** Kio estas la profesio de Anna?
 
 **Answers:**
-- A) Kuracistino
+- A) Kuracistino en la urba hospitalo de Varsovio
 - B) Psikologino kaj aŭtorino de libroj pri rilatoj
-- C) Instruistino
-- D) Ĵurnalistino
+- C) Instruistino en la elementa lernejo de la kvartalo
+- D) Ĵurnalistino en la regiona gazeto
 
 **Correct:** B
 **Explanation:** Anna estas fakulino pri rilatoj, psikologino kaj aŭtorino.
@@ -317,10 +317,10 @@ Ne ĉar ŝi venkis. Sed ĉar ŝi ĉesis ludi ĝin.
 **Question:** Kiujn tri rilatajn ludojn Anna mencias en la parolo kun Paweł?
 
 **Answers:**
-- A) Ŝako, pokero kaj ruleto
-- B) «Mi kaptis vin», «mi devas esti kuraĝa» kaj «se ne estus vi»
-- C) Silento, mensogo kaj fuĝo
-- D) Konkurado, ĵaluzo kaj kontrolo
+- A) Ŝako, pokero kaj ruleto en la kazino de la urbo
+- B) «Mi kaptis vin», «mi devas esti kuraĝa», «se ne estus vi»
+- C) Silento, mensogo kaj fuĝo el la komuna domo
+- D) Konkurado, ĵaluzo kaj kontrolo en la ĉiutaga geedza vivo
 
 **Correct:** B
 **Explanation:** Anna parolas rekte pri tiuj tri ludoj.
@@ -331,10 +331,10 @@ Ne ĉar ŝi venkis. Sed ĉar ŝi ĉesis ludi ĝin.
 **Question:** Kion Anna memoras pri sia patro?
 
 **Answers:**
-- A) Li estis kuracisto
+- A) Li estis kuracisto en la vilaĝo
 - B) Li havis duran manojn kaj foje batis
-- C) Li foriris, kiam ŝi estis malgranda
-- D) Li neniam vundis ŝin
+- C) Li foriris, kiam ŝi estis malgranda knabino
+- D) Li neniam vundis ŝin per la manoj
 
 **Correct:** B
 **Explanation:** Ŝi rakontas pri la dura laboro de la patro kaj pri perforto.
@@ -345,10 +345,10 @@ Ne ĉar ŝi venkis. Sed ĉar ŝi ĉesis ludi ĝin.
 **Question:** Kion diras Paweł pri la «monstro» de Anna?
 
 **Answers:**
-- A) Ke li ne konas ĝin
-- B) Ke li scias, ke tio ne estas ŝi — tio estas ŝia monstro
-- C) Ke li devas foriri
-- D) Ke Anna estas kulpa
+- A) Ke li ne konas ĝin kaj ne volas scii
+- B) Ke li scias, ke tio ne estas ŝi, sed ŝia monstro
+- C) Ke li devas foriri por ĉiam, por savi sin
+- D) Ke Anna estas kulpa pri la tuta konflikto inter ili du
 
 **Correct:** B
 **Explanation:** Paweł diras: «Mi sciis, ke tio ne estis vi. Tio estis via monstro».
@@ -359,10 +359,10 @@ Ne ĉar ŝi venkis. Sed ĉar ŝi ĉesis ludi ĝin.
 **Question:** Kiel Anna finas la rakonton pri la ludo?
 
 **Answers:**
-- A) Ke ŝi venkis
+- A) Ke ŝi fine venkis en la ludo
 - B) Ke ŝi eliris el la ludo, ĉar ŝi ĉesis ludi ĝin
-- C) Ke Paweł foriris
-- D) Ke ŝi fermis la laborejojn
+- C) Ke Paweł foriris de ŝi por ĉiam
+- D) Ke ŝi fermis la laborejojn kaj ĉesis labori
 
 **Correct:** B
 **Explanation:** Ŝi komprenis, ke ŝi ne venkis — ŝi ĉesis ludi.

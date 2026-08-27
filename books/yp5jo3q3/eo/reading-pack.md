@@ -243,7 +243,7 @@ Kaj ĉiu, kiu eniras sur ĝin, revenas al si mem.
 - A) Sonĝon pri granda vojaĝo tra la tuta mondo
 - B) Oran lumon kaj la senton „Vi estas parto de la tuto"
 - C) Kapdoloron kaj konfuzon post la nokto
-- D) Nenion nekutiman, nur ordinaran nokton
+- D) Nenion nekutiman, nur ordinaran nokton sen sonĝoj
 
 **Correct:** B
 **Explanation:** Li vidas densan oran lumon kaj aŭdas, ke li ne estas korpo.
@@ -254,10 +254,10 @@ Kaj ĉiu, kiu eniras sur ĝin, revenas al si mem.
 **Question:** Kion Federico konsilas anstataŭ serĉi la konscion en la cerbo?
 
 **Answers:**
-- A) Esplori ĝin plu en la laboratorio per sciencaj metodoj
+- A) Esplori ĝin plu en la laboratorio per la novaj sciencaj metodoj
 - B) Trakti la konscion kiel fundamenton, kaj la cerbon kiel ilon
 - C) Rezigni pri la scienco tute kaj forĵeti la esplorojn
-- D) Preĝi en la preĝejo ĉiun dimanĉon
+- D) Preĝi kaj mediti en la preĝejo ĉiun dimanĉon
 
 **Correct:** B
 **Explanation:** Li diras, ke la cerbo estas nur ilo, kiun la konscio uzas.
@@ -268,7 +268,7 @@ Kaj ĉiu, kiu eniras sur ĝin, revenas al si mem.
 **Question:** Kion faras Marek unu jaron poste anstataŭ artikoloj pri neŭrobiologio?
 
 **Answers:**
-- A) Li revenas al la malnova materialismo
+- A) Li revenas al la malnova materialismo kaj ateismo
 - B) Li gvidas laborrenkontiĝojn por perditaj homoj
 - C) Li rezignas pri la universitata laboro tute
 - D) Li skribas pri la politiko en la ĵurnaloj
@@ -284,7 +284,7 @@ Kaj ĉiu, kiu eniras sur ĝin, revenas al si mem.
 **Answers:**
 - A) Ke ŝi devas iri al la kuracisto por kontrolo
 - B) „Vi revenas al vi mem — tio estas la plej grava paŝo"
-- C) Ke tio estis nur sonĝo, ne grava afero
+- C) Ke tio estis nur sonĝo, tute ne grava afero en ŝia vivo
 - D) Ke ne ekzistas respondoj al tiaj demandoj
 
 **Correct:** B

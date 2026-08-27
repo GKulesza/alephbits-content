@@ -290,10 +290,10 @@ Adam prenis ŝian manon.
 **Question:** Kiel Adam priskribas pensadon pri sia edzino?
 
 **Answers:**
-- A) Kiel legadon de libro
+- A) Kiel legadon de konata libro, kies finon li jam konas
 - B) Kiel alklakon de ikono — tuj malfermiĝas konata dosiero
-- C) Kiel aŭskultadon de radio
-- D) Kiel ripetiĝantan sonĝon
+- C) Kiel aŭskultadon de la sama radioelsendo matene
+- D) Kiel ripetiĝantan sonĝon el la jaroj de juneco
 
 **Correct:** B
 **Explanation:** Li parolas pri la ikono sur la labortablo kaj dosiero konata anticipe.
@@ -304,10 +304,10 @@ Adam prenis ŝian manon.
 **Question:** Kial Magda kuiras buljonon?
 
 **Answers:**
-- A) Ĉar ŝi ŝatas nur buljonon
-- B) Ĉar ŝi sentas sin soleca, kiam la vivo estas antaŭvidebla
-- C) Ĉar Adam ordonis al ŝi
-- D) Ĉar ili atendas gastojn
+- A) Ĉar ŝi ŝatas nur buljonon, kaj nenion alian kuiras
+- B) Ĉar ŝi sentas solecon, kiam la vivo estas antaŭvidebla
+- C) Ĉar Adam ordonis al ŝi kuiri ĝin
+- D) Ĉar ili atendas gastojn por la dimanĉa vespermanĝo
 
 **Correct:** B
 **Explanation:** Ŝi konfesas, ke ŝi kuiras buljonon, kiam ŝi sentas solecon kaj antaŭvideblecon.
@@ -318,10 +318,10 @@ Adam prenis ŝian manon.
 **Question:** Pri kio Adam demandas Magdan dum la paŭzita filmo?
 
 **Answers:**
-- A) Pri ferioj
+- A) Pri la planitaj ferioj en la montoj
 - B) Ĉu ŝi foje pensas pri disiĝo
-- C) Pri la laboro
-- D) Pri la infanoj
+- C) Pri la laboro kaj la kolegoj
+- D) Pri la infanoj kaj la lernejo
 
 **Correct:** B
 **Explanation:** Li demandas rekte: ĉu vi foje pensas pri disiĝo?
@@ -332,10 +332,10 @@ Adam prenis ŝian manon.
 **Question:** Kion Adam skribas en la libro fine?
 
 **Answers:**
-- A) Ke rilatoj estas sensencaj
+- A) Ke rilatoj estas tute sensencaj kaj ne indas savi ilin
 - B) Ke la plej granda eraro estis pensi, ke li konas sian edzinon ĝisfunde
-- C) Ke terapio tute ne funkcias
-- D) Ke divorco estas la sola eliro
+- C) Ke terapio tute ne funkcias kaj la problemoj restas
+- D) Ke divorco estas la sola eliro, kiu povus savi ilian geedzecan vivon
 
 **Correct:** B
 **Explanation:** Li skribas pri la eraro pensi, ke li konis sian edzinon ĝisfunde.

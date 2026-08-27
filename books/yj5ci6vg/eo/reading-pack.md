@@ -205,7 +205,7 @@ Kaj ie sur la limo inter unu kaj la alia, inter memoro kaj imago, inter tio, kio
 **Answers:**
 - A) Ke li flugis per ĝi hieraŭ vespere en sonĝo
 - B) Ke lia aviadilo brulis kaj ke tio estis Corsair
-- C) Ke li vidis ĝin en la muzeo dum ekskurso
+- C) Ke li vidis ĝin en la muzeo dum la hieraŭa ekskurso
 - D) Ke tio estis la aviadilo, kiun havis la avo
 
 **Correct:** B
@@ -231,7 +231,7 @@ Kaj ie sur la limo inter unu kaj la alia, inter memoro kaj imago, inter tio, kio
 **Question:** Kiun klarigon proponas doktoro Kosakowski?
 
 **Answers:**
-- A) Ke Franek certe estis piloto en antaŭa vivo kaj memoras tion
+- A) Ke Franek certe estis piloto en antaŭa vivo kaj li vere memoras tion
 - B) Ke la cerbo kunmetis informerojn en koheran historion — kriptomnezio
 - C) Ke Franek ŝajnigas ĉion pro enuo kaj tedo
 - D) Ke tio estas efiko de hipnozo en la infanĝardeno de la kvartalo
@@ -247,7 +247,7 @@ Kaj ie sur la limo inter unu kaj la alia, inter memoro kaj imago, inter tio, kio
 **Answers:**
 - A) Forgesadon de la nomoj de proksimuloj kaj amikoj
 - B) Selektan kolektadon de pruvoj por historio, al kiu ni kredas
-- C) Falsan memoron, enplantitan per hipnozo en la kliniko
+- C) Falsan memoron, enplantitan per hipnozo en la kliniko de la urbo
 - D) Eraron en la militarkivoj pri la nomoj de pilotoj
 
 **Correct:** B

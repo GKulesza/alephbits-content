@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kial Tomasz konsentas al la multekostaj opcioj en la funebra entrepreno?",
         "answers": [
-          "Ĉar li antaŭe komparis ĉiujn proponojn",
-          "Ĉar en funebro li fidas, ke la proponitaj elementoj estas necesaj por digna adiaŭo",
-          "Ĉar li havis specialan asekuron",
-          "Ĉar la patrino skribis ĉion en la testamento"
+          "Ĉar li antaŭe komparis ĉiujn proponojn de la konkurantaj entreprenoj",
+          "Ĉar en funebro li fidas, ke la proponitaj elementoj necesas por digna adiaŭo",
+          "Ĉar li havis specialan asekuron por la okazo",
+          "Ĉar la patrino skribis ĉion en la testamento, kiun ŝi lasis antaŭ la morto"
         ],
         "correctIndex": 1,
         "explanation": "La teksto montras lian perditecon kaj vundeblecon al sugestoj en la momento de freŝa perdo."
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kio plej ŝanĝas lian rigardon kelkajn semajnojn poste?",
         "answers": [
-          "Artikolo en gazeto pri kremacio",
+          "Artikolo en la regiona gazeto pri la avantaĝoj de kremacio por la medio",
           "La konversacio kun Magda pri pli malmultekostaj kaj ekologiaj alternativoj",
-          "Telefonvoko el la banko",
-          "Letero de la pastro"
+          "Telefonvoko el la banko pri la nekompletaj dokumentoj",
+          "Letero de la pastro pri la formo de la enterigo"
         ],
         "correctIndex": 1,
         "explanation": "Magda unuafoje konsciigas al li, ke ekzistis aliaj solvoj."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kian rolon plenumas la renkontiĝo de la fondaĵo Funerarium?",
         "answers": [
-          "Ĝi konvinkas lin aĉeti pli multekostan urnon",
-          "Ĝi montras, ke la familio rajtas demandi, elekti kaj plendi pri malbone plenumita servo",
-          "Ĝi malpermesas al infanoj partopreni en enterigoj",
-          "Ĝi instigas lin translokiĝi"
+          "Ĝi konvinkas lin aĉeti pli multekostan urnon por la cindroj de la patrino",
+          "Ĝi montras, ke la familio rajtas demandi, elekti kaj plendi pri malbona servo",
+          "Ĝi malpermesas al infanoj partopreni en la enterigaj ceremonioj de la familio",
+          "Ĝi instigas lin translokiĝi al alia urbo"
         ],
         "correctIndex": 1,
         "explanation": "Agnes Tołoczmańska parolas pri la rajto elekti kaj pri konsumantaj rajtoj."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kian pli larĝan ŝanĝon Tomasz enkondukas post tiu edukado?",
         "answers": [
-          "Li ĉesas iri al la tombejo",
-          "Li komencas paroli kun proksimuloj, ankaŭ kun infanoj, pri morto kaj pri enterigaj elektoj",
-          "Li fondas funebran entreprenon",
-          "Li rezignas pri libroj"
+          "Li ĉesas iri al la tombejo kaj tute evitas la temon de la morto",
+          "Li komencas paroli kun proksimuloj, ankaŭ kun infanoj, pri morto kaj enterigaj elektoj",
+          "Li fondas funebran entreprenon kun amiko el la kvartalo kaj laboras en ĝi dum la tuta tago",
+          "Li rezignas pri libroj kaj pri ĉia legado pri morto"
         ],
         "correctIndex": 1,
         "explanation": "Post la legado kaj la renkontiĝo li komencas malsentimigi la temon de morto en la familio."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kiu ĉefa konkludo fermas la rakonton de Tomasz?",
         "answers": [
-          "Plej bone neniam organizi enterigojn memstare",
+          "Plej bone neniam organizi enterigojn memstare, sed uzi helpon",
           "En situacio de nescio oni devas demandi kaj postuli alternativojn",
-          "Alta prezo ĉiam signifas dignon",
-          "Infanoj ne devus koni la temon de morto"
+          "Alta prezo ĉiam signifas dignon kaj respekton",
+          "Infanoj ne devus koni la temon de morto kaj de enterigo"
         ],
         "correctIndex": 1,
         "explanation": "La fina pripensado resumiĝas al la rajto demandi kaj elekti."

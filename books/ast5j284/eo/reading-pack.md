@@ -259,10 +259,10 @@ Marek kapjesis. Li sciis, ke li faris la ĝustan decidon. Ne ĉar estis facile. 
 **Question:** Kial Marek maldungas Magdan laŭ la firmao?
 
 **Answers:**
-- A) Pro malbonaj rezultoj
+- A) Pro malbonaj rezultoj de la laboro en la malprofita fako
 - B) Ĉar ŝia fako estas malprofita kaj la posteno ripetiĝanta
-- C) Pro malfruiĝoj
-- D) Pro konflikto
+- C) Pro oftaj malfruiĝoj al la laboro matene
+- D) Pro konflikto kun la kolegoj en la teamo
 
 **Correct:** B
 **Explanation:** Li klarigas, ke la fako estas malprofita, la posteno ripetiĝanta.
@@ -273,10 +273,10 @@ Marek kapjesis. Li sciis, ke li faris la ĝustan decidon. Ne ĉar estis facile. 
 **Question:** Kion Magda diras al Marek ĉe la eliro?
 
 **Answers:**
-- A) Ke ŝi pardonas al li
-- B) Ke ŝi bezonis, ke li staru apud ŝi, sed li nur plenumis ordonojn
-- C) Ke ŝi amas lin
-- D) Ke ŝi revenos
+- A) Ke ŝi pardonas al li pro la tuta maljustaĵo, kiun li faris
+- B) Ke ŝi bezonis lin apud si, sed li nur plenumis ordonojn
+- C) Ke ŝi amas lin kaj ne volas perdi lin nun
+- D) Ke ŝi revenos al la firmao post la ferioj
 
 **Correct:** B
 **Explanation:** Ŝi diras, ke ŝi bezonis subtenon, kaj li plenumis ordonojn.
@@ -287,10 +287,10 @@ Marek kapjesis. Li sciis, ke li faris la ĝustan decidon. Ne ĉar estis facile. 
 **Question:** Kial Marek eksiĝas?
 
 **Answers:**
-- A) Pro pli alta salajro
+- A) Pro pli alta salajro en la nova firmao de la urbo
 - B) Ĉar li ne volas plenumi ordonojn sen pensi pri la homoj
-- C) Ĉar li translokiĝas eksterlanden
-- D) Ĉar li malsanas
+- C) Ĉar li translokiĝas eksterlanden kun la tuta familio por ĉiam
+- D) Ĉar li malsanas kaj bezonas ripozon
 
 **Correct:** B
 **Explanation:** Li diras al la estro, ke li ne volas plenumi ordonojn sen pensi pri la homoj.
@@ -301,10 +301,10 @@ Marek kapjesis. Li sciis, ke li faris la ĝustan decidon. Ne ĉar estis facile. 
 **Question:** Kiun Marek dungas en sia nova firmao?
 
 **Answers:**
-- A) Nur sin mem
+- A) Nur sin mem kaj sian sekretarion
 - B) Magdan kiel ĉefan analizistinon
-- C) La iaman estron
-- D) Neniun
+- C) La iaman estron de la malnova firmao
+- D) Neniun, ĉar la firmao estas malgranda
 
 **Correct:** B
 **Explanation:** Epilogo: Magda fariĝas lia ĉefa analizistino.

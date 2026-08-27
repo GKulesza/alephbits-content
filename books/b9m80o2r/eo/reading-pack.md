@@ -257,7 +257,7 @@ Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufi
 **Question:** Kiel sinjorino Maria difinas la konstruadon de aŭtoritato?
 
 **Answers:**
-- A) Per ordonoj kaj malpermesoj
+- A) Per ordonoj, krioj kaj malpermesoj
 - B) Per "pardonu" kaj agnosko de eraroj
 - C) Per punoj
 - D) Per rekompencoj
@@ -271,10 +271,10 @@ Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufi
 **Question:** Kion faras Ania, kiam Marysia verŝas la lakton?
 
 **Answers:**
-- A) Krias "Denove?"
+- A) Krias "Denove?" kaj riproĉas ŝin
 - B) Ĉirkaŭprenas ŝin kaj laŭdas la provon de memstareco
-- C) Ordonas iri en la ĉambron
-- D) Ignoras la tutan situacion
+- C) Ordonas iri en la ĉambron kaj sidi
+- D) Ignoras la tutan situacion kaj daŭras sian aferon
 
 **Correct:** B
 **Explanation:** Priskriba subteno anstataŭ riproĉado.
@@ -285,10 +285,10 @@ Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufi
 **Question:** Kiel Marek laŭdas la desegnaĵon de Marysia?
 
 **Answers:**
-- A) "Vi estas bela"
+- A) "Vi estas bela kaj tre talenta knabino"
 - B) Priskribe: li vidas detalojn, penon kaj talenton observi
-- C) "Bonege" kaj fino
-- D) Li tute ne laŭdas
+- C) "Bonege" kaj fino de la laŭdo
+- D) Li tute ne laŭdas la desegnaĵon de la filino, sed silentas
 
 **Correct:** B
 **Explanation:** Marek parolas pri la floretoj en la fono kaj la longa laboro pri la desegnaĵo.
@@ -299,10 +299,10 @@ Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufi
 **Question:** Kion timas Marek, parolante pri sia patro?
 
 **Answers:**
-- A) Ke lia filo ne amas lin
+- A) Ke lia filo ne amas lin kaj evitas lin en la domo
 - B) Ke li fariĝos kiel la patro, kiu neniam pardonpetis nek diris "mi amas vin"
-- C) Ke li perdos la laboron
-- D) Ke ili foriros eksterlanden
+- C) Ke li perdos la laboron kaj la domon en la urbo
+- D) Ke ili foriros eksterlanden kaj neniam plu revenos al sia hejmo kaj familio
 
 **Correct:** B
 **Explanation:** Marek: la patro neniam pardonpetis – li ne scias, kiel esti alie.
@@ -313,7 +313,7 @@ Kaj Ania, kiu dum jaroj pensis, ke ŝi devas esti perfekta, fine komprenis: sufi
 **Question:** Kian fabelon legas Ania fine?
 
 **Answers:**
-- A) Pri Cindrulino
+- A) Pri Cindrulino kaj ŝiaj duonfratinoj
 - B) Pri drako, kiu ne scipovis pardonpeti
 - C) Pri kosmonaŭto
 - D) Pri hundo

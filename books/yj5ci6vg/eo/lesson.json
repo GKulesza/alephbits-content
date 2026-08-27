@@ -45,7 +45,7 @@
         "answers": [
           "Ke li flugis per ĝi hieraŭ vespere en sonĝo",
           "Ke lia aviadilo brulis kaj ke tio estis Corsair",
-          "Ke li vidis ĝin en la muzeo dum ekskurso",
+          "Ke li vidis ĝin en la muzeo dum la hieraŭa ekskurso",
           "Ke tio estis la aviadilo, kiun havis la avo"
         ],
         "correctIndex": 1,
@@ -67,7 +67,7 @@
         "type": "single_choice",
         "question": "Kiun klarigon proponas doktoro Kosakowski?",
         "answers": [
-          "Ke Franek certe estis piloto en antaŭa vivo kaj memoras tion",
+          "Ke Franek certe estis piloto en antaŭa vivo kaj li vere memoras tion",
           "Ke la cerbo kunmetis informerojn en koheran historion — kriptomnezio",
           "Ke Franek ŝajnigas ĉion pro enuo kaj tedo",
           "Ke tio estas efiko de hipnozo en la infanĝardeno de la kvartalo"
@@ -81,7 +81,7 @@
         "answers": [
           "Forgesadon de la nomoj de proksimuloj kaj amikoj",
           "Selektan kolektadon de pruvoj por historio, al kiu ni kredas",
-          "Falsan memoron, enplantitan per hipnozo en la kliniko",
+          "Falsan memoron, enplantitan per hipnozo en la kliniko de la urbo",
           "Eraron en la militarkivoj pri la nomoj de pilotoj"
         ],
         "correctIndex": 1,

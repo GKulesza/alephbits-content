@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kial Marek maldungas Magdan laŭ la firmao?",
       "answers": [
-        "Pro malbonaj rezultoj",
+        "Pro malbonaj rezultoj de la laboro en la malprofita fako",
         "Ĉar ŝia fako estas malprofita kaj la posteno ripetiĝanta",
-        "Pro malfruiĝoj",
-        "Pro konflikto"
+        "Pro oftaj malfruiĝoj al la laboro matene",
+        "Pro konflikto kun la kolegoj en la teamo"
       ],
       "correctIndex": 1,
       "explanation": "Li klarigas, ke la fako estas malprofita, la posteno ripetiĝanta."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Magda diras al Marek ĉe la eliro?",
       "answers": [
-        "Ke ŝi pardonas al li",
-        "Ke ŝi bezonis, ke li staru apud ŝi, sed li nur plenumis ordonojn",
-        "Ke ŝi amas lin",
-        "Ke ŝi revenos"
+        "Ke ŝi pardonas al li pro la tuta maljustaĵo, kiun li faris",
+        "Ke ŝi bezonis lin apud si, sed li nur plenumis ordonojn",
+        "Ke ŝi amas lin kaj ne volas perdi lin nun",
+        "Ke ŝi revenos al la firmao post la ferioj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi diras, ke ŝi bezonis subtenon, kaj li plenumis ordonojn."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kial Marek eksiĝas?",
       "answers": [
-        "Pro pli alta salajro",
+        "Pro pli alta salajro en la nova firmao de la urbo",
         "Ĉar li ne volas plenumi ordonojn sen pensi pri la homoj",
-        "Ĉar li translokiĝas eksterlanden",
-        "Ĉar li malsanas"
+        "Ĉar li translokiĝas eksterlanden kun la tuta familio por ĉiam",
+        "Ĉar li malsanas kaj bezonas ripozon"
       ],
       "correctIndex": 1,
       "explanation": "Li diras al la estro, ke li ne volas plenumi ordonojn sen pensi pri la homoj."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kiun Marek dungas en sia nova firmao?",
       "answers": [
-        "Nur sin mem",
+        "Nur sin mem kaj sian sekretarion",
         "Magdan kiel ĉefan analizistinon",
-        "La iaman estron",
-        "Neniun"
+        "La iaman estron de la malnova firmao",
+        "Neniun, ĉar la firmao estas malgranda"
       ],
       "correctIndex": 1,
       "explanation": "Epilogo: Magda fariĝas lia ĉefa analizistino."

@@ -45,7 +45,7 @@
         "answers": [
           "Nur kiel perfidan agenton de la sekureca servo",
           "Nek nur tra rozkoloraj, nek nur tra nigraj okulvitroj",
-          "Nur kiel sanktan heroon de la tuta nacio",
+          "Nur kiel sanktan heroon, kiun admiras la tuta nacio",
           "Nur tra la Nobel-premio, kiu kronis lian vivon"
         ],
         "correctIndex": 1,
@@ -58,7 +58,7 @@
           "Lian prezidentecon post la jaro 1990",
           "La rolon luditan en la okdekaj jaroj kaj en Solidarność",
           "Nur la Nobel-premion pri paco, ricevitan en 1983",
-          "Lian agadon post la jaro 2000"
+          "Lian agadon post la jaro 2000, jam en la 21-a jarcento"
         ],
         "correctIndex": 1,
         "explanation": "Dudek diras, ke la pozitiva bilanco devenas ĉefe el la okdekaj jaroj."
@@ -70,7 +70,7 @@
           "Ĝi koncernas nur falsan interretan legendon, nenian realon",
           "Ĝi rilatas al la kunlaboro de Wałęsa kun SB en la sepdekaj jaroj",
           "Ĝi estas la kaŝnomo de la granda striko el 1980",
-          "Ĝi estas la nomo de malnova politika partio"
+          "Ĝi estas la nomo de malnova politika partio el la komunisma epoko"
         ],
         "correctIndex": 1,
         "explanation": "La sekcio „Bolek\" priskribas la kunlaboron kaj ĝian moralan ŝarĝon."
@@ -81,7 +81,7 @@
         "answers": [
           "Ĉar li ne volis kandidatiĝi en la prezidentaj balotoj",
           "Ĉar li ne komprenis sian rolon kaj malstabiligis la politikon",
-          "Ĉar li tuj elmigris eksterlanden post la elekto",
+          "Ĉar li tuj elmigris eksterlanden post la elekto, neniam revenante",
           "Ĉar li malakceptis la konstitucion en la referendumo"
         ],
         "correctIndex": 1,
@@ -93,7 +93,7 @@
         "answers": [
           "Nur la agado de la okcidentaj amaskomunikiloj",
           "La nekapablo agnoski erarojn kaj lia propra megalomanio",
-          "La manko de teknika edukiteco kaj scio pri juro",
+          "La manko de teknika edukiteco kaj de scio pri la juraj procedoj",
           "La rifuzo akcepti la Nobel-premion pri paco"
         ],
         "correctIndex": 1,

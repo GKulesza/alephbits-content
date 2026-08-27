@@ -22,7 +22,7 @@
         "Sonĝon pri granda vojaĝo tra la tuta mondo",
         "Oran lumon kaj la senton „Vi estas parto de la tuto\"",
         "Kapdoloron kaj konfuzon post la nokto",
-        "Nenion nekutiman, nur ordinaran nokton"
+        "Nenion nekutiman, nur ordinaran nokton sen sonĝoj"
       ],
       "correctIndex": 1,
       "explanation": "Li vidas densan oran lumon kaj aŭdas, ke li ne estas korpo."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Federico konsilas anstataŭ serĉi la konscion en la cerbo?",
       "answers": [
-        "Esplori ĝin plu en la laboratorio per sciencaj metodoj",
+        "Esplori ĝin plu en la laboratorio per la novaj sciencaj metodoj",
         "Trakti la konscion kiel fundamenton, kaj la cerbon kiel ilon",
         "Rezigni pri la scienco tute kaj forĵeti la esplorojn",
-        "Preĝi en la preĝejo ĉiun dimanĉon"
+        "Preĝi kaj mediti en la preĝejo ĉiun dimanĉon"
       ],
       "correctIndex": 1,
       "explanation": "Li diras, ke la cerbo estas nur ilo, kiun la konscio uzas."
@@ -43,7 +43,7 @@
       "type": "single_choice",
       "question": "Kion faras Marek unu jaron poste anstataŭ artikoloj pri neŭrobiologio?",
       "answers": [
-        "Li revenas al la malnova materialismo",
+        "Li revenas al la malnova materialismo kaj ateismo",
         "Li gvidas laborrenkontiĝojn por perditaj homoj",
         "Li rezignas pri la universitata laboro tute",
         "Li skribas pri la politiko en la ĵurnaloj"
@@ -57,7 +57,7 @@
       "answers": [
         "Ke ŝi devas iri al la kuracisto por kontrolo",
         "„Vi revenas al vi mem — tio estas la plej grava paŝo\"",
-        "Ke tio estis nur sonĝo, ne grava afero",
+        "Ke tio estis nur sonĝo, tute ne grava afero en ŝia vivo",
         "Ke ne ekzistas respondoj al tiaj demandoj"
       ],
       "correctIndex": 1,

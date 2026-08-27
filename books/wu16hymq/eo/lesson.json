@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kiun libron Marek trovas en la malnovlibrovendejo?",
         "answers": [
-          "\"1984\" de Orwell",
+          "La fama romano \"1984\" de George Orwell",
           "\"The Montauk Project: Experiments in Time\"",
-          "\"La Mastro de l' Ringoj\" de Tolkien",
-          "\"La Biblio\", la sankta libro"
+          "\"La Mastro de l' Ringoj\" de J. R. R. Tolkien",
+          "La Biblio, la sankta libro de la kristana tradicio"
         ],
         "correctIndex": 1,
         "explanation": "Li trovas la libron de Nichols pri la Projekto Montauk."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion Marek trovas en la subteretaĝoj de Camp Hero?",
         "answers": [
-          "Malnovan trezoron en la kelo",
+          "Malnovan trezoron, kaŝitan en la kelo",
           "Metalan seĝon kun dratoj, kiel en la libro",
-          "Kemian laboratorion kun provtuboj",
-          "Malplenan hangaron sen ekipaĵo"
+          "Kemian laboratorion kun provtuboj kaj reakciiloj",
+          "Malplenan hangaron sen ia ajn ekipaĵo"
         ],
         "correctIndex": 1,
         "explanation": "En la ĉambro estas seĝo kun dratoj — kiel priskribis Nichols."
@@ -78,7 +78,7 @@
         "type": "single_choice",
         "question": "Kiu montriĝas la pli aĝa viro kun la poto?",
         "answers": [
-          "Lia propra patro",
+          "Lia propra patro, delonge forpasinta",
           "Preston — iu, kiu ankaŭ rememoris",
           "La gardisto de la komplekso",
           "Lia iama psikologo"
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Preston diras pri la potoj?",
         "answers": [
-          "Ke tio estas ŝerco",
+          "Ke tio estas nur ŝerco, nenio serioza",
           "Ke ili protektas kontraŭ la subprema kampo",
           "Ke ili estas nuna modo",
-          "Ke ili faras nenion"
+          "Ke ili faras nenion kaj havas neniun signifon"
         ],
         "correctIndex": 1,
         "explanation": "Li diras, ke la potoj protektas kontraŭ la subprema kampo."

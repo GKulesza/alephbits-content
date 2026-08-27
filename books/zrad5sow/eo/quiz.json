@@ -22,7 +22,7 @@
         "En la ĉambro kun kolorigbildoj",
         "Ekstere, sendepende de la vetero",
         "En la kinejo kun la tuta grupo",
-        "Hejme kun la gepatroj"
+        "Hejme kun la gepatroj kaj la gefratoj"
       ],
       "correctIndex": 1,
       "explanation": "Grażyna: plej multe da tempo ekstere, lernado per sperto."
@@ -33,7 +33,7 @@
       "answers": [
         "Per skriba testo por la infanoj en la klaso",
         "Per figuro de dinosaŭro, kiun alportas Franek",
-        "Per puno pro malbona konduto",
+        "Per puno pro malbona konduto de la infanoj",
         "Per la propono de la gepatroj"
       ],
       "correctIndex": 1,
@@ -43,7 +43,7 @@
       "type": "single_choice",
       "question": "Kiun Marta invitas al la infanĝardeno?",
       "answers": [
-        "Astronaŭton el la kosma centro",
+        "Astronaŭton, kiu vizitis la kosman stacion",
         "La paĉjon de Franek — bestokuraciston",
         "Politikiston de la urba konsilio",
         "Kantiston el la loka televido"
@@ -57,7 +57,7 @@
       "answers": [
         "Ke li malamis la infanĝardenon kaj la instruistinojn",
         "Ke en la lernejo li ŝatas lerni, ĉar li povas demandi",
-        "Ke li jam forgesis pri la dinosaŭroj",
+        "Ke li jam forgesis pri la dinosaŭroj kaj pri la projekto",
         "Ke li volas fariĝi instruisto de infanoj"
       ],
       "correctIndex": 1,

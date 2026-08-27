@@ -241,10 +241,10 @@ Kaj alia tago, en kiu li povis fari diferencon.
 **Question:** Kie okazas la ŝlosila incidento kun la aŭto?
 
 **Answers:**
-- A) En Gdańsk
+- A) En Gdańsk ĉe la stacidomo
 - B) Ĉe la transirejo en Otnice
-- C) En Vroclavo
-- D) En Opole
+- C) En Vroclavo ĉe la ĉefa strato
+- D) En Opole apud la rivero
 
 **Correct:** B
 **Explanation:** La aŭto eliras de la maldekstra flanko ĉe la transirejo en Otnice.
@@ -255,7 +255,7 @@ Kaj alia tago, en kiu li povis fari diferencon.
 **Question:** Kiom da metroj pli malproksimen la ŝoforino devus eliri, por ke la trajno trafu la spacon, kie sidis la infanoj?
 
 **Answers:**
-- A) Duonon da metro
+- A) Duonon da metro antaŭ la trajno
 - B) Unu metron kaj duonon
 - C) Tri metrojn
 - D) Kvin metrojn
@@ -269,10 +269,10 @@ Kaj alia tago, en kiu li povis fari diferencon.
 **Question:** Kion la policano iam diris al Paweł kiel metaforon?
 
 **Answers:**
-- A) Ke li estas kulpa
+- A) Ke li estas kulpa pri la okazaĵo
 - B) Ke li estas la arbo, sur kiu iu pendigos sin
-- C) Ke li devas foriri de la laboro
-- D) Ke tio estas komputila ludo
+- C) Ke li devas foriri de la laboro kaj ripozi
+- D) Ke tio estas komputila ludo sen sekvoj
 
 **Correct:** B
 **Explanation:** La policano diris, ke li elektis por si, kaj Paweł estas tiu arbo.
@@ -283,10 +283,10 @@ Kaj alia tago, en kiu li povis fari diferencon.
 **Question:** Kion Paweł komprenas vespere post la incidento?
 
 **Answers:**
-- A) Ke li devas tuj foriri
+- A) Ke li devas tuj foriri de la stacidomo kaj de la laboro
 - B) Ke li ne estas arbo — li havas elekton, ĉu resti aŭ foriri
-- C) Ke la ŝoforino estas kulpa
-- D) Ke la sonĝo plenumiĝos
+- C) Ke la ŝoforino estas kulpa pri la okazinta akcidento
+- D) Ke la sonĝo plenumiĝos pro la incidento
 
 **Correct:** B
 **Explanation:** Li diras, ke li povas foriri aŭ resti, sed tio estos lia elekto.

@@ -10,7 +10,7 @@
         "Tiuj estas du tute malsamaj fenomenoj, kiuj havas nenion komunan",
         "Ambaŭ apartenas al la elektromagneta spektro kaj diferencas per frekvenco",
         "La radio estas mekanika ondo, kiu bezonas aeron por disvastiĝi",
-        "Lumo ne havas ian ajn rilaton kun la energio de la ondoj"
+        "Lumo ne havas ian ajn rilaton kun la energio kaj la movado de la ondoj"
       ],
       "correctIndex": 1,
       "explanation": "La aŭtoro bazas la klarigon sur la komuna naturo de elektromagnetaj ondoj."
@@ -31,7 +31,7 @@
       "type": "single_choice",
       "question": "Por kio aperas en la teksto la ekvacio E = h × f?",
       "answers": [
-        "Por kalkuli la pezon de la muro en la domo",
+        "Por kalkuli la pezon de la muro kaj la fortikecon de la domo",
         "Por montri, ke la energio de fotono kreskas kun la frekvenco",
         "Por klarigi la boltemperaturon de la akvo en la kaldrono",
         "Por priskribi la movon de la planedoj ĉirkaŭ la suno"
@@ -46,7 +46,7 @@
         "Ĉar ili estas pli rapidaj ol la lumo mem en la vakuo",
         "Ĉar iliaj fotonoj estas tro malfortaj, por veki la elektronojn",
         "Ĉar la muroj enhavas nur metalon kaj ŝtalon",
-        "Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al gravito"
+        "Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al la gravita forto"
       ],
       "correctIndex": 1,
       "explanation": "La kerno de la klarigo estas la energia malkongruo kun la niveloj de la elektronoj."
@@ -55,7 +55,7 @@
       "type": "single_choice",
       "question": "Kiun pli vastan lecionon pri la realo tiras la teksto el ĉi tiu ekzemplo?",
       "answers": [
-        "Ke la mondo estas nur iluzio kaj nenio vere ekzistas",
+        "Ke la mondo, kiun ni vidas, estas nur iluzio kaj nenio vere ekzistas",
         "Ke la homa percepto kovras nur malgrandan fragmenton de la vera mondo",
         "Ke nur tio, kio estas videbla per la okulo, estas reala",
         "Ke la radiondonoj estas pli gravaj por la homoj ol la videbla lumo"

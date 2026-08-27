@@ -301,7 +301,7 @@ Kaj poste ili ambaŭ ekridis. Ĉar fine — kio estus, se ĉiu el ni havus tian 
 
 **Answers:**
 - A) Skribi libron en unu jaro
-- B) Esti sufiĉa
+- B) Esti sufiĉa — ĉi tie kaj nun
 - C) Promociiĝi al prezidanto
 - D) Transloĝiĝi eksterlanden
 
@@ -314,7 +314,7 @@ Kaj poste ili ambaŭ ekridis. Ĉar fine — kio estus, se ĉiu el ni havus tian 
 **Question:** Kion montras la komenco de la rakonto pri la decidoj de Ania?
 
 **Answers:**
-- A) Ke ĉiuj ŝiaj celoj estas realigataj perfekte kaj ĝustatempe
+- A) Ke ĉiuj ŝiaj celoj estas realigataj perfekte, ĝustatempe kaj sen problemoj
 - B) Ke la gimnastikejon ŝi vizitis dufoje, kaj la libro havas nur titolon
 - C) Ke ŝi neniam havis ian ajn planon aŭ personan revon
 - D) Ke ŝi tuj rezignis pri la laboro kaj pri la familio
@@ -328,7 +328,7 @@ Kaj poste ili ambaŭ ekridis. Ĉar fine — kio estus, se ĉiu el ni havus tian 
 **Question:** Kiu estas Karolina en la rakonto?
 
 **Answers:**
-- A) La estro de Ania en la korporacio
+- A) La estro de Ania en la granda internacia korporacio
 - B) Mentorino, kun kiu Ania komencis seancojn
 - C) La filino de Ania, ankoraŭ infano
 - D) Nemoveblaĵa agentino el la oficejo
@@ -344,7 +344,7 @@ Kaj poste ili ambaŭ ekridis. Ĉar fine — kio estus, se ĉiu el ni havus tian 
 **Answers:**
 - A) Ania ploras pro malespero en la pluvo
 - B) Ania kaj Karolina ridas pensante pri la celo esti sufiĉa
-- C) Ania revenas al la laboro nokte sen iu ajn plano
+- C) Ania revenas al la laboro nokte, sen ia ajn plano por la morgaŭa tago
 - D) Ania forlasas la familion kaj elmigras
 
 **Correct:** B

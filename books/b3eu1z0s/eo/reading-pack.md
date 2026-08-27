@@ -373,10 +373,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kial la prologo malfermiĝas per sceno en Saharo, se la rakonto baldaŭ revenas al la infanaĝo?
 
 **Answers:**
-- A) Ĉar Saharo estas pli grava ol la kastelo en Saint-Maurice
+- A) Ĉar Saharo estas pli grava por la rakonto ol la kastelo de la infanaĝo en Saint-Maurice
 - B) Ĉar la katastrofo kaj la savo anoncas bildon, el kiu kreskos „La Eta Princo"
-- C) Ĉar Antoine nur tiam lernis skribi
-- D) Ĉar la bedueno estas la ĉefa heroo de la libro
+- C) Ĉar Antoine nur tiam lernis skribi kaj legi
+- D) Ĉar la bedueno estas la ĉefa heroo de la tuta libro
 
 **Correct:** B  
 **Explanation:** La prologo ligas la kraŝon en la dezerto kun la estonta fabelo pri piloto kaj orhara knabo — kaj kun la memoro pri la frato, kiu „neniam plenkreskis".  
@@ -387,10 +387,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kion signifis la kromnomo „Suna Reĝo" en la infanaĝo de Antoine?
 
 **Answers:**
-- A) Ke li estis la oficiala heredonto de la trono de Francio
+- A) Ke li estis la oficiala heredonto de la trono de Francio kaj de la reĝa kortego
 - B) Ke la domanoj vidis en li orharan knabon kun reĝa temperamento kaj „trono"
-- C) Ke li regis la kastelon anstataŭ la patrino
-- D) Ke oni malpermesis al li ludi sur la subtegmento
+- C) Ke li regis la kastelon anstataŭ la patrino en la infanaĝo
+- D) Ke oni malpermesis al li ludi sur la subtegmento de la kastelo
 
 **Correct:** B  
 **Explanation:** Tiel lin nomis la domanoj; li portis verdan lakitaj seĝeton kiel tronon kaj sidiĝis tie, kie haltis la patrino.  
@@ -401,10 +401,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kion Antoine lernis en la unua flugo en Ambérieu?
 
 **Answers:**
-- A) Ke la patrino ĉiam permesas al li flugi
-- B) Ke la ĉielo povas fariĝi loko, en kiu li volas pasigi sian vivon — kvankam li supreniris mensogante
-- C) Ke la Honora Legio atendas dekdujarulojn
-- D) Ke Wróblewski rifuzis ekflugi
+- A) Ke la patrino ĉiam permesas al li flugi, se li bone kondutas
+- B) Ke li volas pasigi sian vivon en la ĉielo, kvankam li supreniris mensogante
+- C) Ke la Honora Legio atendas dekdujarulojn el la tuta lando kaj premias ilin
+- D) Ke Wróblewski rifuzis ekflugi pro la malbona vetero
 
 **Correct:** B  
 **Explanation:** La dekdujarulo mensogis pri la permeso de la patrino; en la aero li sentis liberecon kaj vokiĝon, kiun li ankoraŭ ne sciis nomi.  
@@ -415,10 +415,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kiel la morto de François ligiĝas poste kun „La Eta Princo"?
 
 **Answers:**
-- A) François verkis la unuan version de la fabelo
-- B) La vortoj kaj la gesto de la adiaŭo de la frato revenas en la adiaŭo de la orhara knabo; la figuro portas ankaŭ la memoron pri la frato, kiu ne plenkreskis
-- C) François estis la modelo de Consuelo
-- D) Antoine forgesis pri la frato kaj elpensis la finon tute nove
+- A) François verkis la unuan version de la fabelo dum sia malsano en la kastelo, sed Antoine neniam legis ĝin kaj la manuskripto perdiĝis
+- B) La adiaŭaj vortoj kaj la gesto de la frato revenas en la adiaŭo de la orhara knabo, kaj portas la memoron pri tiu, kiu ne plenkreskis
+- C) François estis la modelo de Consuelo, la edzino de Antoine, kaj ankaŭ de la aviadilo Simoun en la rakonto
+- D) Antoine forgesis pri la frato kaj elpensis la finon tute nove, sen ia ajn ligo al la pasinteco aŭ al la infanaĝo
 
 **Correct:** B  
 **Explanation:** La rakonto emfazas, ke la vortoj pri la „malnova ŝelo" kaj la falo „kiel falas arbo" revenas en la fabelo; la kerno de la figuro estas ankaŭ François.  
@@ -429,10 +429,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kiu estas la rozo en la interpreto donita en la teksto — kaj kial tio gravas?
 
 **Answers:**
-- A) La patrino Marie — ĉar ŝi legis Andersen
-- B) Consuelo — kaprica, unika; nur la fabelo permesas al Antoine diri teneron, kiun li ne sciis en la vivo
-- C) La fratino de Antoine
-- D) Metaforto de la aviadilo Simoun
+- A) La patrino Marie — ĉar ŝi legis Andersen kaj rakontis al la infanoj fabelojn ĉiun vesperon antaŭ la dormo
+- B) Consuelo — kaprica kaj unika; nur en la fabelo li povas diri teneron, kiun li ne sciis en la vivo
+- C) La fratino de Antoine, kiu forpasis juna en la kastelo
+- D) Metaforto de la aviadilo Simoun kaj de la flugo super la dezerto
 
 **Correct:** B  
 **Explanation:** Antoine ne kaŝis, ke la rozo estas Consuelo; la ŝtorma rilato akiras en la fabelo teneran kaj mildan formon.  
@@ -443,10 +443,10 @@ Ion, kion oni vidas nur per la koro.
 **Question:** Kial Antoine rifuzis ŝanĝi la finon de „La Eta Princo"?
 
 **Answers:**
-- A) Ĉar la eldonistoj volis pli longan libron
-- B) Ĉar la sceno de la morto estis transmeto de la plej intima memoro pri François — adiaŭo, ne ornamaĵo
-- C) Ĉar Consuelo verkis tiun finon
-- D) Ĉar la aŭtoraj rajtoj malpermesis ŝanĝojn
+- A) Ĉar la eldonistoj volis pli longan libron por la vendo kaj minacis nuligi la tutan kontrakton
+- B) Ĉar la mortosceno estis transmeto de la plej intima memoro pri François — adiaŭo, ne ornamaĵo
+- C) Ĉar Consuelo verkis tiun finon memstare kaj postulis ĝian konservon
+- D) Ĉar la aŭtoraj rajtoj malpermesis ŝanĝojn en la libro de la eldonejo
 
 **Correct:** B  
 **Explanation:** La eldonistoj timis la morton de la knabo; Antoine defendis scenon verkitajn per vortoj portataj de kvaronjarcento — la fabelo estis testamento kaj adiaŭo.  

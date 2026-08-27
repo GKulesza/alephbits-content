@@ -227,10 +227,10 @@ Li ekdormis kun la poto sur la kapo. Kaj unuafoje post jaroj li ne havis koŝmar
 **Question:** Kiun libron Marek trovas en la malnovlibrovendejo?
 
 **Answers:**
-- A) "1984" de Orwell
+- A) La fama romano "1984" de George Orwell
 - B) "The Montauk Project: Experiments in Time"
-- C) "La Mastro de l' Ringoj" de Tolkien
-- D) "La Biblio", la sankta libro
+- C) "La Mastro de l' Ringoj" de J. R. R. Tolkien
+- D) La Biblio, la sankta libro de la kristana tradicio
 
 **Correct:** B
 **Explanation:** Li trovas la libron de Nichols pri la Projekto Montauk.
@@ -241,10 +241,10 @@ Li ekdormis kun la poto sur la kapo. Kaj unuafoje post jaroj li ne havis koŝmar
 **Question:** Kion Marek trovas en la subteretaĝoj de Camp Hero?
 
 **Answers:**
-- A) Malnovan trezoron en la kelo
+- A) Malnovan trezoron, kaŝitan en la kelo
 - B) Metalan seĝon kun dratoj, kiel en la libro
-- C) Kemian laboratorion kun provtuboj
-- D) Malplenan hangaron sen ekipaĵo
+- C) Kemian laboratorion kun provtuboj kaj reakciiloj
+- D) Malplenan hangaron sen ia ajn ekipaĵo
 
 **Correct:** B
 **Explanation:** En la ĉambro estas seĝo kun dratoj — kiel priskribis Nichols.
@@ -255,7 +255,7 @@ Li ekdormis kun la poto sur la kapo. Kaj unuafoje post jaroj li ne havis koŝmar
 **Question:** Kiu montriĝas la pli aĝa viro kun la poto?
 
 **Answers:**
-- A) Lia propra patro
+- A) Lia propra patro, delonge forpasinta
 - B) Preston — iu, kiu ankaŭ rememoris
 - C) La gardisto de la komplekso
 - D) Lia iama psikologo
@@ -269,10 +269,10 @@ Li ekdormis kun la poto sur la kapo. Kaj unuafoje post jaroj li ne havis koŝmar
 **Question:** Kion Preston diras pri la potoj?
 
 **Answers:**
-- A) Ke tio estas ŝerco
+- A) Ke tio estas nur ŝerco, nenio serioza
 - B) Ke ili protektas kontraŭ la subprema kampo
 - C) Ke ili estas nuna modo
-- D) Ke ili faras nenion
+- D) Ke ili faras nenion kaj havas neniun signifon
 
 **Correct:** B
 **Explanation:** Li diras, ke la potoj protektas kontraŭ la subprema kampo.

@@ -311,7 +311,7 @@ Kaj Kamil sciis, ke ĝuste tion li faras. Kaj ke tio funkcias.
 **Answers:**
 - A) Li ankoraŭ kredas al la malnova etikedo de la patro
 - B) Li scias, ke li ne estas mallaboremulo — nur foje mankas motivado
-- C) Li malamas la paĉjon pro la malnovaj etikedoj
+- C) Li malamas la paĉjon pro la malnovaj etikedoj, kiujn li ricevis
 - D) Li ne volas plu iri al la lernejo iam ajn
 
 **Correct:** B

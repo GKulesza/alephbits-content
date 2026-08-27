@@ -9,7 +9,7 @@
       "answers": [
         "Nur el la veterprognozo en la televido",
         "El la arbaro — li rekonas sekegon sen termometro",
-        "De turistoj en la buso al la urbo de Poznań",
+        "De turistoj, kiujn li renkontis en la buso al Poznań",
         "El la kurprogramo en lia telefono matene"
       ],
       "correctIndex": 1,
@@ -33,7 +33,7 @@
       "answers": [
         "Ĉar en la arbaroj dum jarcentoj pino kreskis sur sabloj",
         "Ĉar la arbaro estas protektita de la konstruregularo",
-        "Ĉar Tomek ne ŝatas plantojn kaj ĝardenadon",
+        "Ĉar Tomek ne ŝatas plantojn, ĝardenadon kaj agrikulturon",
         "Ĉar mankas loko por la arboj en la arbaro"
       ],
       "correctIndex": 0,
@@ -55,7 +55,7 @@
       "type": "single_choice",
       "question": "Kia estas la sinteno de la herooj fine de la rakonto?",
       "answers": [
-        "Pesimismo sen ia ajn agado aŭ espero pri la arbaro",
+        "Pesimismo sen ia ajn agado aŭ espero pri la estonteco de la arbaro",
         "Konscio pri malfacilaĵoj, sed la provo havas sencon",
         "Kredo, ke la problemo estas jam tute solvita",
         "Rezigno pri ekologio kaj ĉia ajn agado"

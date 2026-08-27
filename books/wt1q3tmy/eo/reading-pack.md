@@ -192,7 +192,7 @@ Eĉ post tiom da jaroj.
 **Answers:**
 - A) Sur la plaĝo en Chiba je mateniĝo
 - B) En sonstudio en Los-Anĝeleso
-- C) Ĉe la stacidomo en Varsovio
+- C) Ĉe la centra stacidomo en Varsovio
 - D) En la montoj de Hokajdo
 
 **Correct:** A
@@ -205,7 +205,7 @@ Eĉ post tiom da jaroj.
 
 **Answers:**
 - A) Oni povas komenci de nove
-- B) La vento estas danĝera
+- B) La vento estas danĝera por la homoj
 - C) La kariero finiĝas
 - D) La plaĝo estas malbona
 

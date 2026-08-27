@@ -303,7 +303,7 @@ Kaj Tomek sciis, ke tio estas nur la komenco. Sed tio estis bona komenco.
 **Question:** Kio ekigas la pripenson de Tomek en la aŭto?
 
 **Answers:**
-- A) Mesaĝo de la estro pri nova projekto
+- A) Mesaĝo de la estro pri nova urĝa projekto
 - B) Podkasto de Maria Berlińska pri dialogo
 - C) Agfilmo pri herooj en la kinejo
 - D) Reklamo pri nova saĝtelefono
@@ -333,7 +333,7 @@ Kaj Tomek sciis, ke tio estas nur la komenco. Sed tio estis bona komenco.
 **Answers:**
 - A) Pli da televidilo por la infanoj
 - B) Li flankenmetas la telefonon kaj parolas kun ili
-- C) Li sendas la infanojn al la avino
+- C) Li sendas la infanojn al la avino por la tuta semajno
 - D) Li aĉetas al ili novajn komputilajn ludojn
 
 **Correct:** B
@@ -347,7 +347,7 @@ Kaj Tomek sciis, ke tio estas nur la komenco. Sed tio estis bona komenco.
 **Answers:**
 - A) Ke Zosia plimalboniĝis en la lernejo
 - B) Ke Zosia estas pli malferma — Tomek: „Mi ŝanĝiĝis"
-- C) Ke Zosia devus ŝanĝi lernejon pro la problemoj
+- C) Ke Zosia devus ŝanĝi lernejon pro la konstantaj problemoj
 - D) Nenion koncerne la infanojn
 
 **Correct:** B

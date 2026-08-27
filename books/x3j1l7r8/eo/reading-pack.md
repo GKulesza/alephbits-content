@@ -214,7 +214,7 @@ Kaj li estis preta partopreni en tiu batalo.
 **Answers:**
 - A) Ĉar li neniam aĉetis ciferecajn ludojn kaj filmon
 - B) Ĉar ĝi montras la diferencon inter aliro kaj posedo
-- C) Ĉar li volas aĉeti kaj vendi licencojn
+- C) Ĉar li volas aĉeti kaj vendi licencojn por gajni monon
 - D) Ĉar ĝi koncernas nur la filmojn kaj seriojn
 
 **Correct:** B
@@ -242,7 +242,7 @@ Kaj li estis preta partopreni en tiu batalo.
 **Answers:**
 - A) Disputon pri la koloro kaj grandeco de la skatoloj
 - B) Demandon pri konsumantaj rajtoj kaj cifereca proprieto
-- C) Nur la francan prezidentan balotkampanjon
+- C) Nur la francan prezidentan balotkampanjon de la lasta jaro
 - D) Militon inter PC kaj poŝtelefonoj
 
 **Correct:** B
@@ -257,7 +257,7 @@ Kaj li estis preta partopreni en tiu batalo.
 - A) Koleron kontraŭ ĉiuj retaj ludoj kaj servoj
 - B) Pretecon rezigni pri la estonta konzolo, se la posedo ne ŝanĝiĝos
 - C) Peton pri senpagaj ludoj de Sony por ĉiuj
-- D) Planon malfermi propran vendejon de diskoj
+- D) Planon malfermi propran interretan vendejon de diskoj kaj ciferecaj ludoj
 
 **Correct:** B
 **Explanation:** Li skribas, ke li ne aĉetos PS6, se Sony realigos tiun planon.

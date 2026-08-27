@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kial la prologo malfermiĝas per sceno en Saharo, se la rakonto baldaŭ revenas al la infanaĝo?",
       "answers": [
-        "Ĉar Saharo estas pli grava ol la kastelo en Saint-Maurice",
+        "Ĉar Saharo estas pli grava por la rakonto ol la kastelo de la infanaĝo en Saint-Maurice",
         "Ĉar la katastrofo kaj la savo anoncas bildon, el kiu kreskos „La Eta Princo\"",
-        "Ĉar Antoine nur tiam lernis skribi",
-        "Ĉar la bedueno estas la ĉefa heroo de la libro"
+        "Ĉar Antoine nur tiam lernis skribi kaj legi",
+        "Ĉar la bedueno estas la ĉefa heroo de la tuta libro"
       ],
       "correctIndex": 1,
       "explanation": "La prologo ligas la kraŝon en la dezerto kun la estonta fabelo pri piloto kaj orhara knabo — kaj kun la memoro pri la frato, kiu „neniam plenkreskis\"."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion signifis la kromnomo „Suna Reĝo\" en la infanaĝo de Antoine?",
       "answers": [
-        "Ke li estis la oficiala heredonto de la trono de Francio",
+        "Ke li estis la oficiala heredonto de la trono de Francio kaj de la reĝa kortego",
         "Ke la domanoj vidis en li orharan knabon kun reĝa temperamento kaj „trono\"",
-        "Ke li regis la kastelon anstataŭ la patrino",
-        "Ke oni malpermesis al li ludi sur la subtegmento"
+        "Ke li regis la kastelon anstataŭ la patrino en la infanaĝo",
+        "Ke oni malpermesis al li ludi sur la subtegmento de la kastelo"
       ],
       "correctIndex": 1,
       "explanation": "Tiel lin nomis la domanoj; li portis verdan lakitaj seĝeton kiel tronon kaj sidiĝis tie, kie haltis la patrino."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Antoine lernis en la unua flugo en Ambérieu?",
       "answers": [
-        "Ke la patrino ĉiam permesas al li flugi",
-        "Ke la ĉielo povas fariĝi loko, en kiu li volas pasigi sian vivon — kvankam li supreniris mensogante",
-        "Ke la Honora Legio atendas dekdujarulojn",
-        "Ke Wróblewski rifuzis ekflugi"
+        "Ke la patrino ĉiam permesas al li flugi, se li bone kondutas",
+        "Ke li volas pasigi sian vivon en la ĉielo, kvankam li supreniris mensogante",
+        "Ke la Honora Legio atendas dekdujarulojn el la tuta lando kaj premias ilin",
+        "Ke Wróblewski rifuzis ekflugi pro la malbona vetero"
       ],
       "correctIndex": 1,
       "explanation": "La dekdujarulo mensogis pri la permeso de la patrino; en la aero li sentis liberecon kaj vokiĝon, kiun li ankoraŭ ne sciis nomi."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel la morto de François ligiĝas poste kun „La Eta Princo\"?",
       "answers": [
-        "François verkis la unuan version de la fabelo",
-        "La vortoj kaj la gesto de la adiaŭo de la frato revenas en la adiaŭo de la orhara knabo; la figuro portas ankaŭ la memoron pri la frato, kiu ne plenkreskis",
-        "François estis la modelo de Consuelo",
-        "Antoine forgesis pri la frato kaj elpensis la finon tute nove"
+        "François verkis la unuan version de la fabelo dum sia malsano en la kastelo, sed Antoine neniam legis ĝin kaj la manuskripto perdiĝis",
+        "La adiaŭaj vortoj kaj la gesto de la frato revenas en la adiaŭo de la orhara knabo, kaj portas la memoron pri tiu, kiu ne plenkreskis",
+        "François estis la modelo de Consuelo, la edzino de Antoine, kaj ankaŭ de la aviadilo Simoun en la rakonto",
+        "Antoine forgesis pri la frato kaj elpensis la finon tute nove, sen ia ajn ligo al la pasinteco aŭ al la infanaĝo"
       ],
       "correctIndex": 1,
       "explanation": "La rakonto emfazas, ke la vortoj pri la „malnova ŝelo\" kaj la falo „kiel falas arbo\" revenas en la fabelo; la kerno de la figuro estas ankaŭ François."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kiu estas la rozo en la interpreto donita en la teksto — kaj kial tio gravas?",
       "answers": [
-        "La patrino Marie — ĉar ŝi legis Andersen",
-        "Consuelo — kaprica, unika; nur la fabelo permesas al Antoine diri teneron, kiun li ne sciis en la vivo",
-        "La fratino de Antoine",
-        "Metaforto de la aviadilo Simoun"
+        "La patrino Marie — ĉar ŝi legis Andersen kaj rakontis al la infanoj fabelojn ĉiun vesperon antaŭ la dormo",
+        "Consuelo — kaprica kaj unika; nur en la fabelo li povas diri teneron, kiun li ne sciis en la vivo",
+        "La fratino de Antoine, kiu forpasis juna en la kastelo",
+        "Metaforto de la aviadilo Simoun kaj de la flugo super la dezerto"
       ],
       "correctIndex": 1,
       "explanation": "Antoine ne kaŝis, ke la rozo estas Consuelo; la ŝtorma rilato akiras en la fabelo teneran kaj mildan formon."
@@ -67,10 +67,10 @@
       "type": "single_choice",
       "question": "Kial Antoine rifuzis ŝanĝi la finon de „La Eta Princo\"?",
       "answers": [
-        "Ĉar la eldonistoj volis pli longan libron",
-        "Ĉar la sceno de la morto estis transmeto de la plej intima memoro pri François — adiaŭo, ne ornamaĵo",
-        "Ĉar Consuelo verkis tiun finon",
-        "Ĉar la aŭtoraj rajtoj malpermesis ŝanĝojn"
+        "Ĉar la eldonistoj volis pli longan libron por la vendo kaj minacis nuligi la tutan kontrakton",
+        "Ĉar la mortosceno estis transmeto de la plej intima memoro pri François — adiaŭo, ne ornamaĵo",
+        "Ĉar Consuelo verkis tiun finon memstare kaj postulis ĝian konservon",
+        "Ĉar la aŭtoraj rajtoj malpermesis ŝanĝojn en la libro de la eldonejo"
       ],
       "correctIndex": 1,
       "explanation": "La eldonistoj timis la morton de la knabo; Antoine defendis scenon verkitajn per vortoj portataj de kvaronjarcento — la fabelo estis testamento kaj adiaŭo."
