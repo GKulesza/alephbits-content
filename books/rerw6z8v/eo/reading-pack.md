@@ -276,9 +276,9 @@ Kaj Franek sciis, ke tio estas nur la komenco. Ke estos ankoraŭ multaj jaroj, m
 
 **Answers:**
 - A) Librojn pri la naturo kaj amikeco
-- B) Ĵurnalojn
-- C) Teruran bildrakonton
-- D) Mapojn
+- B) Ĵurnalojn por la plenkreskuloj
+- C) Teruran bildrakonton pri la fantomoj
+- D) Mapojn de la urbo kaj de la mondo
 
 **Correct:** A
 **Explanation:** Li legas pri sciuroj, kaŝtanoj, aŭtunaj folioj, amikeco.
@@ -290,9 +290,9 @@ Kaj Franek sciis, ke tio estas nur la komenco. Ke estos ankoraŭ multaj jaroj, m
 
 **Answers:**
 - A) El „petolemulo" en respektatan knabon
-- B) Li malaperas el la dombloko
-- C) Li fariĝas plenkreskulo
-- D) Nenio ŝanĝiĝas
+- B) Li malaperas el la dombloko de la strato
+- C) Li fariĝas plenkreskulo kun sia familio
+- D) Nenio ŝanĝiĝas en la tuta kvartalo
 
 **Correct:** A
 **Explanation:** Ili diras pri li „Franek", ne „Franek la bubaĉo".

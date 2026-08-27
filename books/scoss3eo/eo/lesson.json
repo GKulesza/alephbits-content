@@ -66,9 +66,9 @@
         "question": "Kion la patro de Marek diras pri la iama fervojado?",
         "answers": [
           "Ke esti ĉe la stacidomo signifis esti en la urbo",
-          "Ke la stacidomoj ĉiam estis galerioj",
-          "Ke li neniam veturis per trajno",
-          "Ke la fervojaj vojaĝoj finiĝis"
+          "Ke la stacidomoj ĉiam estis galerioj de arto kaj belo",
+          "Ke li neniam veturis per trajno en sia tuta vivo",
+          "Ke la fervojaj vojaĝoj por li jam tute finiĝis"
         ],
         "correctIndex": 0,
         "explanation": "La patro rememoras, ke iam esti ĉe la stacidomo signifis esti en la urbo."
@@ -78,9 +78,9 @@
         "question": "Kion Marek skribas en la notoj en la telefono?",
         "answers": [
           "Ke la stacidomo estas sojlo de la vojaĝo",
-          "Ke li ne ŝatas trajnojn",
-          "Ke li revenas al Poznań por ĉiam",
-          "Ke Gdańsk estas malbela"
+          "Ke li tute ne ŝatas trajnojn kaj fervojon",
+          "Ke li revenas al Poznań por ĉiam resti",
+          "Ke Gdańsk estas malbela kaj enuiga urbo"
         ],
         "correctIndex": 0,
         "explanation": "La noto diras, ke la stacidomo estas sojlo, ne nur konstruaĵo."
@@ -89,7 +89,7 @@
         "type": "single_choice",
         "question": "Kial Marek defendas Poznań en la komentoj?",
         "answers": [
-          "Ĉar li devenas el tie",
+          "Ĉar li devenas el Poznań kaj defendas ĝin",
           "Ĉar ĝi havas la plej belan stacidomon en Pollando",
           "Ĉar li laboras tie",
           "Ĉar li neniam estis en Gdańsk"

@@ -241,9 +241,9 @@ Kaj ŝia kampo iĝis la plej bela kampo en la tuta ĉirkaŭaĵo — plena de viv
 
 **Answers:**
 - A) Heliko-inventisto
-- B) Kato
-- C) Monstro
-- D) Bovino
+- B) Kato el la domo de la najbaroj
+- C) Monstro el la malnova legendo
+- D) Bovino de la vilaĝa bieno
 
 **Correct:** A
 **Explanation:** Tigro sin prezentas kiel heliko kaj inventisto.
@@ -255,9 +255,9 @@ Kaj ŝia kampo iĝis la plej bela kampo en la tuta ĉirkaŭaĵo — plena de viv
 
 **Answers:**
 - A) Por planti arbojn, kiuj retenas akvon
-- B) Por detrui la maizon
-- C) Por serĉi trezorojn
-- D) Por fari naĝejon
+- B) Por detrui la maizon de la tuta kampo
+- C) Por serĉi trezorojn de la avo en la tero
+- D) Por fari grandan naĝejon por la infanoj
 
 **Correct:** A
 **Explanation:** Li klarigas, ke la radikoj de la arboj helpas reteni akvon en la grundo.

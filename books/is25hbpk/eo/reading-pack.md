@@ -273,9 +273,9 @@ Tio estis plano.
 
 **Answers:**
 - A) La Oran Branĉon de James George Frazer
-- B) La Reĝon de l' Ringoj
-- C) Enciklopedion de kriptomoneroj
-- D) Jaran horoskopon
+- B) La Reĝon de l' Ringoj de Tolkien
+- C) Enciklopedion de kriptomoneroj en du volumoj
+- D) Jaran horoskopon por la nova jaro
 
 **Correct:** A
 **Explanation:** Li aĉetas „La Oran Branĉon" de Frazer.
@@ -286,10 +286,10 @@ Tio estis plano.
 **Question:** Kion Ewa konsilas al Michał anstataŭ kontroli la merkaton?
 
 **Answers:**
-- A) Prunti pli da kapitalo
+- A) Prunti pli da kapitalo de la banko
 - B) Observi la ciklojn kaj lerni surfi ilin
-- C) Rezigni la laboron
-- D) Aĉeti nur akciojn de bankoj
+- C) Rezigni la laboron kaj la komercadon
+- D) Aĉeti nur akciojn de bankoj en la borso
 
 **Correct:** B
 **Explanation:** Ewa parolas pri kompreno de la ritmo kaj surfo anstataŭ kontrolo.

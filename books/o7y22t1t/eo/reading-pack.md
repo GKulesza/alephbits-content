@@ -245,10 +245,10 @@ _Kaj fiziko, kvankam ĝi ne konas la respondon, sugestas, ke tiu demando estas p
 **Question:** Kio ekigas la pripensojn de Marek en ĉi tiu rakonto?
 
 **Answers:**
-- A) Misfunkcio de la fizika laboratorio
+- A) Misfunkcio de la moderna fizika laboratorio
 - B) Komentoj de la spektantoj pri malbono kaj konscio
-- C) Letero de eksterlanda Nobel-premiito
-- D) Nova esplor-monhelpo de la ministerio
+- C) Letero de konata eksterlanda Nobel-premiito
+- D) Nova esplor-monhelpo de la ministerio pri scienco
 
 **Correct:** B
 **Explanation:** Ĝuste la komentoj sub lia filmeto eltiras lin el la scienca rutino.
@@ -259,10 +259,10 @@ _Kaj fiziko, kvankam ĝi ne konas la respondon, sugestas, ke tiu demando estas p
 **Question:** Kiun limon Marek komencas ekvidi kiel fizikisto?
 
 **Answers:**
-- A) Ke matematiko neniam funkcias
+- A) Ke matematiko tute neniam funkcias ĝuste
 - B) Ke formuloj ne klarigos demandojn pri senco
-- C) Ke oni ne povas paroli pri atomoj publike
-- D) Ke la konscion oni jam povas precize mezuri
+- C) Ke oni ne povas publike paroli pri atomoj
+- D) Ke la konscion oni jam povas precize mezuri en laboratorio
 
 **Correct:** B
 **Explanation:** La teksto montras la streĉon inter preciza priskribo kaj demandoj pri senco.
@@ -273,10 +273,10 @@ _Kaj fiziko, kvankam ĝi ne konas la respondon, sugestas, ke tiu demando estas p
 **Question:** Al kio kondukas Marek-on la reveno al la kajero el la juneco?
 
 **Answers:**
-- A) Al forĵeto de la tuta kvantuma fiziko
+- A) Al forĵeto de la tuta moderna kvantuma fiziko
 - B) Al spekulado pri pensoj, ondoj kaj konscio
-- C) Al verkado de verko pri ekonomiko
-- D) Al aĉeto de nova radio
+- C) Al verkado de verko pri ekonomiko kaj merkato
+- D) Al aĉeto de nova radio por la laboratorio
 
 **Correct:** B
 **Explanation:** La malnovaj notoj redonas al li la intuicion ligi ondojn kaj la menson.
@@ -290,7 +290,7 @@ _Kaj fiziko, kvankam ĝi ne konas la respondon, sugestas, ke tiu demando estas p
 - A) Ke oni povas empiria pruvi reenkarniĝon
 - B) Ke nenio malaperas, ĉio transformiĝas
 - C) Ke la morto estas nur eraro de biologio
-- D) Ke atomoj ĉesas ekzisti
+- D) Ke la atomoj tute ĉesas ekzisti por ĉiam
 
 **Correct:** B
 **Explanation:** En la filmeto li klarigas la konservon de energio kaj la cirkuladon de atomoj post morto.
@@ -301,10 +301,10 @@ _Kaj fiziko, kvankam ĝi ne konas la respondon, sugestas, ke tiu demando estas p
 **Question:** Kial ĉi tiu teksto postulas singardan legadon kiel popularscienca materialo?
 
 **Answers:**
-- A) Ĉar ĝi ne enhavas iujn ajn sciencajn nociojn
+- A) Ĉar ĝi ne enhavas iujn ajn konatajn sciencajn nociojn
 - B) Ĉar ĝi miksas fizikon kun filozofiaj spekuladoj
-- C) Ĉar ĝi neas la ekziston de atomoj
-- D) Ĉar ĝi priskribas nur religion
+- C) Ĉar ĝi neas la ekziston de ĉiuj atomoj
+- D) Ĉar ĝi priskribas nur religion kaj misterojn
 
 **Correct:** B
 **Explanation:** La rakonto konscie moviĝas de scienco al spekulacio kaj memrefleksio.

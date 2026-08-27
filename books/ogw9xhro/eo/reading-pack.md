@@ -229,9 +229,9 @@ Li revenis internen. La baristino kun la tatuo rigardis lin surprizite.
 
 **Answers:**
 - A) Kapuĉinan kafon kun avena lakto
-- B) Citronan teon
-- C) Duoblan espreson
-- D) Fromaĝkukon
+- B) Citronan teon kun mielo el la butiko
+- C) Duoblan espreson sen sukero kaj lakto
+- D) Fromaĝkukon el la vitrino de la kafejo
 
 **Correct:** A
 **Explanation:** Li mendas grandan kapuĉinan kafon kun avena lakto.
@@ -271,9 +271,9 @@ Li revenis internen. La baristino kun la tatuo rigardis lin surprizite.
 
 **Answers:**
 - A) Li vokas kaj demandas, kiel komenci de nove
-- B) Li ĵetas ĝin en la rubujon
-- C) Li redonas ĝin al la baristino
-- D) Li skribas al sia eksedzino
+- B) Li ĵetas ĝin en la rubujon de la domo
+- C) Li redonas ĝin al la baristino de la kafejo
+- D) Li skribas al sia eksedzino en la telefono
 
 **Correct:** A
 **Explanation:** Fine li vokas kaj demandas pri la fondaĵo.

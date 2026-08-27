@@ -20,9 +20,9 @@
       "question": "Kiun libron li aĉetas en la antikvaĵvendejo?",
       "answers": [
         "La Oran Branĉon de James George Frazer",
-        "La Reĝon de l' Ringoj",
-        "Enciklopedion de kriptomoneroj",
-        "Jaran horoskopon"
+        "La Reĝon de l' Ringoj de Tolkien",
+        "Enciklopedion de kriptomoneroj en du volumoj",
+        "Jaran horoskopon por la nova jaro"
       ],
       "correctIndex": 0,
       "explanation": "Li aĉetas „La Oran Branĉon\" de Frazer."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Ewa konsilas al Michał anstataŭ kontroli la merkaton?",
       "answers": [
-        "Prunti pli da kapitalo",
+        "Prunti pli da kapitalo de la banko",
         "Observi la ciklojn kaj lerni surfi ilin",
-        "Rezigni la laboron",
-        "Aĉeti nur akciojn de bankoj"
+        "Rezigni la laboron kaj la komercadon",
+        "Aĉeti nur akciojn de bankoj en la borso"
       ],
       "correctIndex": 1,
       "explanation": "Ewa parolas pri kompreno de la ritmo kaj surfo anstataŭ kontrolo."

@@ -44,9 +44,9 @@
       "question": "Kion Franek legas al Karolek vespere?",
       "answers": [
         "Librojn pri la naturo kaj amikeco",
-        "Ĵurnalojn",
-        "Teruran bildrakonton",
-        "Mapojn"
+        "Ĵurnalojn por la plenkreskuloj",
+        "Teruran bildrakonton pri la fantomoj",
+        "Mapojn de la urbo kaj de la mondo"
       ],
       "correctIndex": 0,
       "explanation": "Li legas pri sciuroj, kaŝtanoj, aŭtunaj folioj, amikeco."
@@ -56,9 +56,9 @@
       "question": "Kiel Franek ŝanĝiĝas en la okuloj de la najbaroj?",
       "answers": [
         "El „petolemulo\" en respektatan knabon",
-        "Li malaperas el la dombloko",
-        "Li fariĝas plenkreskulo",
-        "Nenio ŝanĝiĝas"
+        "Li malaperas el la dombloko de la strato",
+        "Li fariĝas plenkreskulo kun sia familio",
+        "Nenio ŝanĝiĝas en la tuta kvartalo"
       ],
       "correctIndex": 0,
       "explanation": "Ili diras pri li „Franek\", ne „Franek la bubaĉo\"."

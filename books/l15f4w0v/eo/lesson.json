@@ -55,9 +55,9 @@
         "question": "Kiu estas Tigro?",
         "answers": [
           "Heliko-inventisto",
-          "Kato",
-          "Monstro",
-          "Bovino"
+          "Kato el la domo de la najbaroj",
+          "Monstro el la malnova legendo",
+          "Bovino de la vilaĝa bieno"
         ],
         "correctIndex": 0,
         "explanation": "Tigro sin prezentas kiel heliko kaj inventisto."
@@ -67,9 +67,9 @@
         "question": "Por kio Tigro fosas kavetojn sur la rando de la kampo?",
         "answers": [
           "Por planti arbojn, kiuj retenas akvon",
-          "Por detrui la maizon",
-          "Por serĉi trezorojn",
-          "Por fari naĝejon"
+          "Por detrui la maizon de la tuta kampo",
+          "Por serĉi trezorojn de la avo en la tero",
+          "Por fari grandan naĝejon por la infanoj"
         ],
         "correctIndex": 0,
         "explanation": "Li klarigas, ke la radikoj de la arboj helpas reteni akvon en la grundo."

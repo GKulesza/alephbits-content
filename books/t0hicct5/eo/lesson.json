@@ -43,9 +43,9 @@
         "question": "Kio surprizas Markon en la novaĵtitolo?",
         "answers": [
           "Koreio aĉetas de Pollando mil tankojn",
-          "Pollando aĉetas tankojn de Koreio",
-          "Koreio malaperas de la mapo",
-          "Marek ricevas monpunon"
+          "Pollando aĉetas multajn tankojn de Koreio",
+          "Koreio malaperas de la mapo de la mondo",
+          "Marek ricevas grandan monpunon pro la rapido"
         ],
         "correctIndex": 0,
         "explanation": "Li legas pri Sud-Koreio aĉetanta tankojn de Pollando."
@@ -91,9 +91,9 @@
         "question": "Kiu estas Marek laŭ la profesio?",
         "answers": [
           "Li laboras ĉe muzeaj projektoj",
-          "Li estas soldato",
-          "Li estas ĵurnalisto",
-          "Li estas instruisto"
+          "Li estas soldato en la korea armeo",
+          "Li estas ĵurnalisto de la ĉefurba gazeto",
+          "Li estas instruisto en lernejo por infanoj"
         ],
         "correctIndex": 0,
         "explanation": "La kontoro gajnis la konkurson pri muzeo — Marek reprezentas la firmaon."

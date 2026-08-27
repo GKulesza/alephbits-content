@@ -242,9 +242,9 @@ Kiel pri amiko.
 
 **Answers:**
 - A) Koreio aĉetas de Pollando mil tankojn
-- B) Pollando aĉetas tankojn de Koreio
-- C) Koreio malaperas de la mapo
-- D) Marek ricevas monpunon
+- B) Pollando aĉetas multajn tankojn de Koreio
+- C) Koreio malaperas de la mapo de la mondo
+- D) Marek ricevas grandan monpunon pro la rapido
 
 **Correct:** A
 **Explanation:** Li legas pri Sud-Koreio aĉetanta tankojn de Pollando.
@@ -298,9 +298,9 @@ Kiel pri amiko.
 
 **Answers:**
 - A) Li laboras ĉe muzeaj projektoj
-- B) Li estas soldato
-- C) Li estas ĵurnalisto
-- D) Li estas instruisto
+- B) Li estas soldato en la korea armeo
+- C) Li estas ĵurnalisto de la ĉefurba gazeto
+- D) Li estas instruisto en lernejo por infanoj
 
 **Correct:** A
 **Explanation:** La kontoro gajnis la konkurson pri muzeo — Marek reprezentas la firmaon.

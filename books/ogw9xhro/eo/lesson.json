@@ -54,9 +54,9 @@
         "question": "Kion Marek mendas ĉe la vendotablo?",
         "answers": [
           "Kapuĉinan kafon kun avena lakto",
-          "Citronan teon",
-          "Duoblan espreson",
-          "Fromaĝkukon"
+          "Citronan teon kun mielo el la butiko",
+          "Duoblan espreson sen sukero kaj lakto",
+          "Fromaĝkukon el la vitrino de la kafejo"
         ],
         "correctIndex": 0,
         "explanation": "Li mendas grandan kapuĉinan kafon kun avena lakto."
@@ -90,9 +90,9 @@
         "question": "Kion Marek faras kun la vizitkarto de la fondaĵo?",
         "answers": [
           "Li vokas kaj demandas, kiel komenci de nove",
-          "Li ĵetas ĝin en la rubujon",
-          "Li redonas ĝin al la baristino",
-          "Li skribas al sia eksedzino"
+          "Li ĵetas ĝin en la rubujon de la domo",
+          "Li redonas ĝin al la baristino de la kafejo",
+          "Li skribas al sia eksedzino en la telefono"
         ],
         "correctIndex": 0,
         "explanation": "Fine li vokas kaj demandas pri la fondaĵo."

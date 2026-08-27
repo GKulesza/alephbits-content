@@ -192,9 +192,9 @@ Li ridetis. La trajno malrapidiĝis. Malantaŭ la fenestro aperis Gdynia. Kaj la
 
 **Answers:**
 - A) Ke esti ĉe la stacidomo signifis esti en la urbo
-- B) Ke la stacidomoj ĉiam estis galerioj
-- C) Ke li neniam veturis per trajno
-- D) Ke la fervojaj vojaĝoj finiĝis
+- B) Ke la stacidomoj ĉiam estis galerioj de arto kaj belo
+- C) Ke li neniam veturis per trajno en sia tuta vivo
+- D) Ke la fervojaj vojaĝoj por li jam tute finiĝis
 
 **Correct:** A
 **Explanation:** La patro rememoras, ke iam esti ĉe la stacidomo signifis esti en la urbo.
@@ -206,9 +206,9 @@ Li ridetis. La trajno malrapidiĝis. Malantaŭ la fenestro aperis Gdynia. Kaj la
 
 **Answers:**
 - A) Ke la stacidomo estas sojlo de la vojaĝo
-- B) Ke li ne ŝatas trajnojn
-- C) Ke li revenas al Poznań por ĉiam
-- D) Ke Gdańsk estas malbela
+- B) Ke li tute ne ŝatas trajnojn kaj fervojon
+- C) Ke li revenas al Poznań por ĉiam resti
+- D) Ke Gdańsk estas malbela kaj enuiga urbo
 
 **Correct:** A
 **Explanation:** La noto diras, ke la stacidomo estas sojlo, ne nur konstruaĵo.
@@ -219,7 +219,7 @@ Li ridetis. La trajno malrapidiĝis. Malantaŭ la fenestro aperis Gdynia. Kaj la
 **Question:** Kial Marek defendas Poznań en la komentoj?
 
 **Answers:**
-- A) Ĉar li devenas el tie
+- A) Ĉar li devenas el Poznań kaj defendas ĝin
 - B) Ĉar ĝi havas la plej belan stacidomon en Pollando
 - C) Ĉar li laboras tie
 - D) Ĉar li neniam estis en Gdańsk
