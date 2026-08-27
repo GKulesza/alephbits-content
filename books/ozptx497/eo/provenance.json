@@ -1,0 +1,24 @@
+{
+  "packId": "ozptx497:eo",
+  "bookId": "ozptx497",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o duchowości i ezoteryce; treści pseudonaukowe są narracją postaci, nie stanowiskiem katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "zP7kO7afJHQ"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

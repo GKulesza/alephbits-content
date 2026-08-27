@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Per kio nutras sin Kuriozulo la Mokanto?",
+      "answers": [
+        "Rido",
+        "Pano",
+        "Lakto",
+        "Fruktoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "La diableto „nutris sin nur per rido\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun konsilon donas la maljunulo?",
+      "answers": [
+        "Dum tri tagoj eĉ unu fojon ne ofendiĝu",
+        "Ne iru al la lernejo",
+        "Transloĝiĝu por ĉiam",
+        "Manĝu pli da pizosupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La maljunulo ordonas elteni tri tagojn sen ofendiĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie loĝas Kuriozulo?",
+      "answers": [
+        "En la helaj plektaĵoj de la knabino",
+        "En la kelo",
+        "En la ŝranko",
+        "En la kameno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li loĝas en la plektaĵoj de Fraŭlino Ofendiĝema."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la knabino ligas sur la mano kiel memoraĵon?",
+      "answers": [
+        "Bluan rubandon",
+        "Ruĝan rubandon",
+        "Ŝnureton",
+        "Braceleton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi ligas bluan rubandon post la konsilo de la maljunulo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas al Kuriozulo post la tria tago?",
+      "answers": [
+        "Li malfortiĝas kaj fuĝas el la domo",
+        "Li plifortiĝas",
+        "Li transformiĝas en hundon",
+        "Li restas por ĉiam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post la tria tago Kuriozulo malfortiĝas kaj eliras el la domo."
+    }
+  ]
+}

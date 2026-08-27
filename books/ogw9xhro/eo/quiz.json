@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Marek venas al la kafejo?",
+      "answers": [
+        "Por havi momenton de alia vivo",
+        "Por ricevi salajron",
+        "Por labori malantaŭ la vendotablo",
+        "Por aĉeti kafon porprenan por la filo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek serĉas lokon, kie dum horo li povus ŝajnigi esti iu alia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek mendas ĉe la vendotablo?",
+      "answers": [
+        "Kapuĉinan kafon kun avena lakto",
+        "Citronan teon",
+        "Duoblan espreson",
+        "Fromaĝkukon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li mendas grandan kapuĉinan kafon kun avena lakto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kiu Marek pensas, atendante en la kafejo?",
+      "answers": [
+        "Pri sia filo Kuba",
+        "Pri sia estro en la oficejo",
+        "Pri sia patrino",
+        "Pri sia kuracisto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li rememoras la konversacion, en kiu Kuba demandas, ĉu la paĉjo revenos."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la baristino donas al Marek dum lia dua vizito?",
+      "answers": [
+        "Kafon senpage",
+        "Kalkulon por pagi",
+        "Sian laboran vizitkarton",
+        "Senpagan fromaĝkukon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi revenas kun taso kaj diras: \"Nia gasto\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek faras kun la vizitkarto de la fondaĵo?",
+      "answers": [
+        "Li vokas kaj demandas, kiel komenci de nove",
+        "Li ĵetas ĝin en la rubujon",
+        "Li redonas ĝin al la baristino",
+        "Li skribas al sia eksedzino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fine li vokas kaj demandas pri la fondaĵo."
+    }
+  ]
+}

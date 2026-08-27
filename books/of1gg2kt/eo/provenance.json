@@ -1,0 +1,24 @@
+{
+  "packId": "of1gg2kt:eo",
+  "bookId": "of1gg2kt",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o przemocy emocjonalnej; founder review przed promocją."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "roUXYWHyT4o"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

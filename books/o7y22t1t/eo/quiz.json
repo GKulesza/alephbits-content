@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio ekigas la pripensojn de Marek en ĉi tiu rakonto?",
+      "answers": [
+        "Misfunkcio de la fizika laboratorio",
+        "Komentoj de la spektantoj pri malbono kaj konscio",
+        "Letero de eksterlanda Nobel-premiito",
+        "Nova esplor-monhelpo de la ministerio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ĝuste la komentoj sub lia filmeto eltiras lin el la scienca rutino."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun limon Marek komencas ekvidi kiel fizikisto?",
+      "answers": [
+        "Ke matematiko neniam funkcias",
+        "Ke formuloj ne klarigos demandojn pri senco",
+        "Ke oni ne povas paroli pri atomoj publike",
+        "Ke la konscion oni jam povas precize mezuri"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto montras la streĉon inter preciza priskribo kaj demandoj pri senco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Al kio kondukas Marek-on la reveno al la kajero el la juneco?",
+      "answers": [
+        "Al forĵeto de la tuta kvantuma fiziko",
+        "Al spekulado pri pensoj, ondoj kaj konscio",
+        "Al verkado de verko pri ekonomiko",
+        "Al aĉeto de nova radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "La malnovaj notoj redonas al li la intuicion ligi ondojn kaj la menson."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek konsideras grava mesaĝo de fiziko pri la morto?",
+      "answers": [
+        "Ke oni povas empiria pruvi reenkarniĝon",
+        "Ke nenio malaperas, ĉio transformiĝas",
+        "Ke la morto estas nur eraro de biologio",
+        "Ke atomoj ĉesas ekzisti"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la filmeto li klarigas la konservon de energio kaj la cirkuladon de atomoj post morto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial ĉi tiu teksto postulas singardan legadon kiel popularscienca materialo?",
+      "answers": [
+        "Ĉar ĝi ne enhavas iujn ajn sciencajn nociojn",
+        "Ĉar ĝi miksas fizikon kun filozofiaj spekuladoj",
+        "Ĉar ĝi neas la ekziston de atomoj",
+        "Ĉar ĝi priskribas nur religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La rakonto konscie moviĝas de scienco al spekulacio kaj memrefleksio."
+    }
+  ]
+}

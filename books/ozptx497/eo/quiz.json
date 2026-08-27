@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Je kioma horo Ada vekiĝas unuafoje kun la vekiĝo?",
+      "answers": [
+        "5:47",
+        "3:33",
+        "12:00",
+        "6:15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi vekiĝas je 3:33 matene."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la voĉo, kiun Ada aŭdas?",
+      "answers": [
+        "Leon",
+        "Sirun",
+        "Adam",
+        "Marta"
+      ],
+      "correctIndex": 1,
+      "explanation": "La voĉo sin prezentas kiel Sirun, sendito."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ada faras profesie monaton post la vekiĝo?",
+      "answers": [
+        "Reiras al la posteno",
+        "Rezignas la postenon kaj kreas paĝon pri la siriaj kodoj",
+        "Iras al la hospitalo",
+        "Reiras al la patrino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi rezignas la postenon kaj verkas pri la kodoj de la vekiĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie Ada staras en la epilogo jaron poste?",
+      "answers": [
+        "En Varsovio",
+        "Sur la dezerto en Egiptio, apud piramido",
+        "En la hospitalo",
+        "Ĉe la patrino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogo: ŝi staras sur la dezerto en Egiptio antaŭ piramido."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la nekonatulo skribas al Ada en la mesaĝo?",
+      "answers": [
+        "Ke li estas malsana",
+        "Ke de semajnoj li sentas pulsadon en la manplato kaj dankas, ke ŝi ekzistas",
+        "Ke li volas renkontiĝon",
+        "Ke tio estas fraŭdo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La leganto skribas pri la sama pulsado kaj pri sia dankemo."
+    }
+  ]
+}

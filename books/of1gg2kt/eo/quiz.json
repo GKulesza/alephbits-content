@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion la patro diras al Maciek ĉe la peco da ŝtalo en la laborejo?",
+      "answers": [
+        "Metalon oni devas hardi en fajro — same la homon",
+        "Lernu ludi gitaron",
+        "Estu afabla al la patrino",
+        "Legu ĉiutage"
+      ],
+      "correctIndex": 0,
+      "explanation": "La metaforo de hardado de metalo = edukado per „malfacila\" doloro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Maciek nomas la mankon de sekura haveno ĉe la gepatroj?",
+      "answers": [
+        "Paradizo",
+        "Prova tereno",
+        "Biblioteko",
+        "Ponto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li pensas: „Mi ne havas tian havenon. Mi havas provan terenon\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la psikologo al Maciek?",
+      "answers": [
+        "La gepatroj estis vere malbonaj",
+        "Ili ne estis malbonaj, nur neĉeestaj — tio ne estas lia kulpo",
+        "Li devus reveni hejmen",
+        "Li ne devus havi infanojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La psikologo: neĉeestaj, ne scipovantaj ĉeesti — kaj tio ne estas kulpo de Maciek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Maciek diras al la patro post jaroj?",
+      "answers": [
+        "Ke li malamas lin kaj ne volas lin vidi",
+        "Ke li timis liajn eksplodojn kaj kulpigis sin mem",
+        "Ke li dankas al li pro la severa edukado",
+        "Ke li ne volas viziti lin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li rakontas pri la timo kaj la konvinko, ke li estas „malforta\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion desegnas la filino fine?",
+      "answers": [
+        "Dinosaŭron",
+        "La familion — ĉiuj ridetas",
+        "Aŭton",
+        "Domon sen homoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La filino: „Tio estas ni — mi, vi kaj panjo. Kaj ĉiuj ridetas\"."
+    }
+  ]
+}
