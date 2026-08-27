@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion Ewa aŭdas en la podkasto pri „la enkonstruita skripto\"?",
         "answers": [
-          "Ke homoj neniam mensogas",
+          "Ke homoj neniam mensogas en geedzeco",
           "Ke kiam iu trompas, ni pensas: „Dio min trovis\"",
-          "Ke geedzeco estas facila",
-          "Ke divorco estas la sola elirejo"
+          "Ke geedzeco estas facila por ĉiuj",
+          "Ke divorco estas la sola elirejo el la situacio"
         ],
         "correctIndex": 1,
         "explanation": "Miłosz parolas pri la skripto: trompanto = „Dio min trovis\"."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion Ewa pensis, kiam Marek kuiris ŝian plej ŝatatan pladon?",
         "answers": [
-          "Ke ŝi estas dankema al li",
+          "Ke ŝi estas dankema al li pro la kuirejo",
           "Ke li faris ion malbone kaj volas pardoni",
-          "Ke io lin doloras",
-          "Ke li amas ŝin"
+          "Ke io lin doloras kaj premegas",
+          "Ke li amas ŝin pli ol iam"
         ],
         "correctIndex": 1,
         "explanation": "Dum jaroj ŝi pensis, ke li kuiras, ĉar li faris ion malbone."
@@ -78,7 +78,7 @@
         "type": "single_choice",
         "question": "Kion Marek proponas anstataŭ diveni?",
         "answers": [
-          "Silenti",
+          "Silenti kaj atendi pli bonan momenton",
           "Akcepti, ke ni ne scias, kaj demandi",
           "Skribi leterojn",
           "Divorcon"
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Ewa skribas al la fratino en la letero?",
         "answers": [
-          "Ke ilia geedzeco estas perfekta",
+          "Ke ilia geedzeco estas perfekta kaj sen iaj ajn problemoj aŭ duboj",
           "Ke la plej granda eraro estis pensi, ke ŝi konas sian edzon ĝisfunde",
-          "Ke divorco estas necesa",
-          "Ke la podkasto tute ne helpis ŝin"
+          "Ke divorco estas necesa por la tuta familio",
+          "Ke la podkasto tute ne helpis ŝin kompreni ion"
         ],
         "correctIndex": 1,
         "explanation": "La letero avertas kontraŭ pensi, ke ŝi konas sian edzon ĝisfunde."

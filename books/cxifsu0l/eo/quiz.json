@@ -9,8 +9,8 @@
       "answers": [
         "Farmakologion",
         "Juron",
-        "Astronomion",
-        "Arthistorion"
+        "Astronomion kaj astrofizikon",
+        "Arthistorion kaj muzeologion"
       ],
       "correctIndex": 0,
       "explanation": "La ekzameno pri farmakologio okazos post tri semajnoj."
@@ -20,7 +20,7 @@
       "question": "Kian teknikon ŝi uzas en la biblioteko?",
       "answers": [
         "La metodon Pomodoro — 25 minutojn da lernado",
-        "Lernadon la tutan nokton sen paŭzoj",
+        "Lernadon la tutan nokton sen paŭzoj kaj sen dormo",
         "Nur videoregistraĵojn",
         "Grupajn retajn projektojn"
       ],
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Krzysztof diras en la programo pri alkrokiĝi al aferoj?",
       "answers": [
-        "Ke oni devas atendi entuziasmon",
+        "Ke oni devas atendi entuziasmon kaj komenci nur kiam venos inspiro",
         "Ke la ago estas kiel klarigita butero — sen superenergio komence",
-        "Ke plej bone estas fari nenion",
-        "Ke nur la plenluno helpas"
+        "Ke plej bone estas fari nenion kaj ripozi",
+        "Ke nur la plenluno helpas komenci"
       ],
       "correctIndex": 1,
       "explanation": "Li citas la metaforon de klarigita butero — sen entuziasmo ĉe la komenco."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kian kanton de YUI ŝi aŭskultas dum lernado?",
       "answers": [
-        "\"again\"",
-        "\"Rolling Star\"",
-        "Ambaŭ — \"again\" ĉe la turnopunkto kaj \"Rolling Star\" post la ekzameno",
-        "Nenian"
+        "\"again\" ĉe la turnopunkto de la lernado, por akiri novan kuraĝon",
+        "\"Rolling Star\" dum la tuta semajno, tage kaj nokte sen paŭzo",
+        "Ambaŭ — \"again\" ĉe la turnopunkto, \"Rolling Star\" post la ekzameno",
+        "Nenian, ĉar ŝi lernas plej bone en plena silento de la biblioteko"
       ],
       "correctIndex": 2,
       "explanation": "\"again\" helpas ĉe la turnopunkto; post la ekzameno ŝi ŝaltas \"Rolling Star\"."

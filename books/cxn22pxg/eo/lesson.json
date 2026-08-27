@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kial Przemek kaj Darek iras al UEP?",
         "answers": [
-          "Al ekzameno",
+          "Al ekzameno pri la juro en la universitato de la urbo",
           "Por demandi pri luado de oficejo je triono de la merkata prezo kaj pri firmao de laŭleĝigo",
-          "Al manifestacio",
-          "Por kolekti sian studentan indekson"
+          "Al manifestacio kontraŭ la altaj prezoj de la loĝejoj",
+          "Por kolekti sian studentan indekson en la sekretariejo de la fakultato, tuj post la prelegoj"
         ],
         "correctIndex": 1,
         "explanation": "Ili legas, ke ukraina firmao luigas oficejon je triono de la merkata prezo kaj laŭleĝigas la loĝadon."
@@ -55,7 +55,7 @@
         "type": "single_choice",
         "question": "Pri kiu ago laŭ la puna kodo estas la protokolo?",
         "answers": [
-          "Art. 190 — minaco",
+          "Art. 190 — minaco kontraŭ la vivo",
           "Art. 212 — publika kalumnio",
           "Art. 279 — ŝtelo",
           "Art. 148 — murdo"
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kiel Przemek estas traktata dum la aresto?",
         "answers": [
-          "Li ricevas skriban alvokon",
-          "Mankatenoj malantaŭe, fotoj sur la profilo de la polico, demandokonduko en mankatenoj",
-          "Li ricevas monpunon surloke",
-          "Oni liberigas lin post unu horo"
+          "Li ricevas skriban alvokon al la policejo kaj venas memvole, sen mankatenoj",
+          "Mankatenoj malantaŭe, fotoj sur la police profilo, demandokonduko en mankatenoj",
+          "Li ricevas monpunon surloke kaj povas tuj foriri hejmen al la familio",
+          "Oni liberigas lin post unu horo de demandado, sen mankatenoj kaj sen protokolo"
         ],
         "correctIndex": 1,
         "explanation": "Oni frapas je la sesa, mankatenoj malantaŭe, fotoj de «arestito» sur la profilo de la policejo."
@@ -81,8 +81,8 @@
         "answers": [
           "Sur la listo de voĉdonantoj de la Eŭropa Parlamento",
           "Sur la ukraina listo Myrotvorets — de homoj mortigendaj",
-          "Sur la listo de ŝuldantoj",
-          "Sur la listo de kronaj atestantoj"
+          "Sur la listo de ŝuldantoj de la komunumaj impostoj",
+          "Sur la listo de kronaj atestantoj de la proceso"
         ],
         "correctIndex": 1,
         "explanation": "Paweł estas sur Myrotvorets — la listo de «malamikoj de Ukrainio», de kiu homoj mortiĝas."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kion Przemek diras al Darek post la filmo de Wyżżykowski?",
         "answers": [
-          "Ke ili retiriĝas",
+          "Ke ili retiriĝas kaj forgesas la aferon",
           "Ke ili iras al la tribunalo kaj ne estas solaj",
-          "Ke ili ŝanĝos profesion",
-          "Ke ili ne parolos kun la amaskomunikiloj"
+          "Ke ili ŝanĝos profesion kaj la urbon",
+          "Ke ili ne parolos kun la amaskomunikiloj pri la kazo"
         ],
         "correctIndex": 1,
         "explanation": "Przemek diras: «Ni iras al la tribunalo. Ni ne rezignos... Ni ne estas solaj.»"

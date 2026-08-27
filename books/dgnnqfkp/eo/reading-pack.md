@@ -206,10 +206,10 @@ Simple esti.
 **Question:** Kian kontraŭdiron Marek rimarkas, rigardante sian propran firmaon post jaroj?
 
 **Answers:**
-- A) Inter oficejoj en malsamaj urboj
-- B) Inter la origina misio kaj la realo de la agado, ĉiam pli orientita al salajro kaj kresko
-- C) Inter paperaj kaj ciferecaj dokumentoj
-- D) Inter IT kaj vendo
+- A) Inter oficejoj en malsamaj urboj de la tuta lando
+- B) Inter la origina misio kaj la reala agado, ĉiam pli orientita al salajro kaj kresko
+- C) Inter paperaj kaj ciferecaj dokumentoj en la arkivo de la firmao de la rakonto de Marek
+- D) Inter IT kaj vendo de la novaj produktoj de la firmao
 
 **Correct:** B
 **Explanation:** Tiu krevo inter la ideo kaj la praktiko ekfunkciigas la tutan rakonton.
@@ -220,10 +220,10 @@ Simple esti.
 **Question:** Kial la historio de OpenAI tiel forte ekmovas Marek?
 
 **Answers:**
-- A) Ĉar li volas aĉeti akciojn de Microsoft
-- B) Ĉar li vidas en ĝi respeguliĝon de sia propra konflikto inter misio kaj negoco
-- C) Ĉar li planas maldungi la estraron
-- D) Ĉar li ne ŝatas start-upojn
+- A) Ĉar li volas aĉeti akciojn de Microsoft por sia propra firmao de IT
+- B) Ĉar li vidas en ĝi respeguliĝon de sia konflikto inter misio kaj negoco
+- C) Ĉar li planas maldungi la estraron de sia firmao
+- D) Ĉar li ne ŝatas start-upojn kaj iliajn estrojn
 
 **Correct:** B
 **Explanation:** En la eventoj ĉirkaŭ Sam Altman li rekonas siajn proprajn demandojn pri senco kaj respondeco.
@@ -234,10 +234,10 @@ Simple esti.
 **Question:** Kio en la teksto estas AI Brain Fry?
 
 **Answers:**
-- A) Nova rangiga algoritmo
-- B) Mensa laciĝo rezultanta el la konstanta ĵonglado per AI-iloj
-- C) Programo por aŭtomatigi laboron
-- D) Speco de servila paneo
+- A) Nova rangiga algoritmo por la serĉilo de la kompanio
+- B) Mensa laciĝo el la konstanta ĵonglado per AI-iloj
+- C) Programo por aŭtomatigi la laboron de la tuta teamo
+- D) Speco de servila paneo en la nubo
 
 **Correct:** B
 **Explanation:** La raporto kaj la konversacio kun Agnieszka difinas ĝin kiel kognan troŝarĝon.
@@ -248,10 +248,10 @@ Simple esti.
 **Question:** Kian solvon Marek proponas kontraŭ la ĥaoso de AI-iloj?
 
 **Answers:**
-- A) Sekvi ĉiun novaĵon eĉ pli rapide
+- A) Sekvi ĉiun novaĵon eĉ pli rapide ol antaŭe
 - B) Elekti kelkajn vere gravajn ilojn kaj rezigni pri FOMO
-- C) Malpermesi AI en la firmao
-- D) Lasi la decidon nur al la homresursa fako
+- C) Malpermesi AI en la firmao kaj en la teamo
+- D) Lasi la decidon nur al la homresursa fako de la firmao
 
 **Correct:** B
 **Explanation:** Lia recepto estas limigi la nombron de iloj kaj havi komunan strategion.
@@ -262,10 +262,10 @@ Simple esti.
 **Question:** Kian rolon ludas la «kunteksto» en la lasta parto de la teksto?
 
 **Answers:**
-- A) Ĝi estas la nomo de nova produkto de la firmao
-- B) Ĝi memorigas, ke solvojn oni devas adapti al la skalo, merkato kaj realoj de sia propra firmao
-- C) Ĝi signifas nur la politikan situacion de Usono
-- D) Ĝi servas por klarigi kontadon
+- A) Ĝi estas la nomo de nova produkto de la firmao de Marek kaj Agnieszka
+- B) Ĝi memorigas, ke solvojn oni devas adapti al la skalo kaj merkato de sia firmao
+- C) Ĝi signifas nur la politikan situacion de Usono en la tuta mondo de la negoco
+- D) Ĝi servas por klarigi kontadon kaj la buĝeton
 
 **Correct:** B
 **Explanation:** Marek klarigas, ke la scio el grandaj korporacioj ne funkcias aŭtomate ĉie.

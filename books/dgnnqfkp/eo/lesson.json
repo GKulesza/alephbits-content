@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kian kontraŭdiron Marek rimarkas, rigardante sian propran firmaon post jaroj?",
         "answers": [
-          "Inter oficejoj en malsamaj urboj",
-          "Inter la origina misio kaj la realo de la agado, ĉiam pli orientita al salajro kaj kresko",
-          "Inter paperaj kaj ciferecaj dokumentoj",
-          "Inter IT kaj vendo"
+          "Inter oficejoj en malsamaj urboj de la tuta lando",
+          "Inter la origina misio kaj la reala agado, ĉiam pli orientita al salajro kaj kresko",
+          "Inter paperaj kaj ciferecaj dokumentoj en la arkivo de la firmao de la rakonto de Marek",
+          "Inter IT kaj vendo de la novaj produktoj de la firmao"
         ],
         "correctIndex": 1,
         "explanation": "Tiu krevo inter la ideo kaj la praktiko ekfunkciigas la tutan rakonton."
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kial la historio de OpenAI tiel forte ekmovas Marek?",
         "answers": [
-          "Ĉar li volas aĉeti akciojn de Microsoft",
-          "Ĉar li vidas en ĝi respeguliĝon de sia propra konflikto inter misio kaj negoco",
-          "Ĉar li planas maldungi la estraron",
-          "Ĉar li ne ŝatas start-upojn"
+          "Ĉar li volas aĉeti akciojn de Microsoft por sia propra firmao de IT",
+          "Ĉar li vidas en ĝi respeguliĝon de sia konflikto inter misio kaj negoco",
+          "Ĉar li planas maldungi la estraron de sia firmao",
+          "Ĉar li ne ŝatas start-upojn kaj iliajn estrojn"
         ],
         "correctIndex": 1,
         "explanation": "En la eventoj ĉirkaŭ Sam Altman li rekonas siajn proprajn demandojn pri senco kaj respondeco."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kio en la teksto estas AI Brain Fry?",
         "answers": [
-          "Nova rangiga algoritmo",
-          "Mensa laciĝo rezultanta el la konstanta ĵonglado per AI-iloj",
-          "Programo por aŭtomatigi laboron",
-          "Speco de servila paneo"
+          "Nova rangiga algoritmo por la serĉilo de la kompanio",
+          "Mensa laciĝo el la konstanta ĵonglado per AI-iloj",
+          "Programo por aŭtomatigi la laboron de la tuta teamo",
+          "Speco de servila paneo en la nubo"
         ],
         "correctIndex": 1,
         "explanation": "La raporto kaj la konversacio kun Agnieszka difinas ĝin kiel kognan troŝarĝon."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kian solvon Marek proponas kontraŭ la ĥaoso de AI-iloj?",
         "answers": [
-          "Sekvi ĉiun novaĵon eĉ pli rapide",
+          "Sekvi ĉiun novaĵon eĉ pli rapide ol antaŭe",
           "Elekti kelkajn vere gravajn ilojn kaj rezigni pri FOMO",
-          "Malpermesi AI en la firmao",
-          "Lasi la decidon nur al la homresursa fako"
+          "Malpermesi AI en la firmao kaj en la teamo",
+          "Lasi la decidon nur al la homresursa fako de la firmao"
         ],
         "correctIndex": 1,
         "explanation": "Lia recepto estas limigi la nombron de iloj kaj havi komunan strategion."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kian rolon ludas la «kunteksto» en la lasta parto de la teksto?",
         "answers": [
-          "Ĝi estas la nomo de nova produkto de la firmao",
-          "Ĝi memorigas, ke solvojn oni devas adapti al la skalo, merkato kaj realoj de sia propra firmao",
-          "Ĝi signifas nur la politikan situacion de Usono",
-          "Ĝi servas por klarigi kontadon"
+          "Ĝi estas la nomo de nova produkto de la firmao de Marek kaj Agnieszka",
+          "Ĝi memorigas, ke solvojn oni devas adapti al la skalo kaj merkato de sia firmao",
+          "Ĝi signifas nur la politikan situacion de Usono en la tuta mondo de la negoco",
+          "Ĝi servas por klarigi kontadon kaj la buĝeton"
         ],
         "correctIndex": 1,
         "explanation": "Marek klarigas, ke la scio el grandaj korporacioj ne funkcias aŭtomate ĉie."

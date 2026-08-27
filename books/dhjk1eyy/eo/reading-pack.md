@@ -249,10 +249,10 @@ Kaj tio estis la plej grava afero.
 **Question:** Kian fundamentan kontraŭdiron spertas la rakontanto laboranta en la hotelo?
 
 **Answers:**
-- A) Li havas tro multe da libera tempo
-- B) Li servas la lukson vendatan al la gastoj, sciante pri la kaŝitaj paneoj kaj la malfacila realo de la laboro
-- C) Li ne volas labori nokte, ĉar li ŝatas matenojn
-- D) Li ne komprenas la hotelajn regulojn
+- A) Li havas tro multe da libera tempo en la laboro kaj en la hotelo
+- B) Li vendas lukson al la gastoj, sciante pri la kaŝitaj paneoj kaj la malfacila realo de la laboro
+- C) Li ne volas labori nokte, ĉar li ŝatas la matenojn, la sunlumon, la trankvilon kaj la ripozon hejme
+- D) Li ne komprenas la hotelajn regulojn kaj la ordonojn de la estro
 
 **Correct:** B
 **Explanation:** La kontrasto inter la prezo de la apartamentoj kaj la laborkondiĉoj kaj kvalito de la servo estas la akso de la teksto.
@@ -263,10 +263,10 @@ Kaj tio estis la plej grava afero.
 **Question:** Kial la konversacio kun la mistera viro sur la teraso estas turnopunkto?
 
 **Answers:**
-- A) Ĉar li ricevas proponon pri promocio
-- B) Ĉar li aŭdas de la projektanto, ke la hotelaj problemoj estis konataj kaj kaŝitaj de la komenco
-- C) Ĉar li renkontas novan VIP-gaston
-- D) Ĉar li trovas perditan telefonon
+- A) Ĉar li ricevas proponon pri promocio en la hotelo de la firmao
+- B) Ĉar la projektanto malkaŝas, ke la hotelaj problemoj estis konataj kaj kaŝitaj de la komenco
+- C) Ĉar li renkontas novan VIP-gaston en la restoracio de la hotelo dum la vespero de la konferenco
+- D) Ĉar li trovas perditan telefonon sur la teraso
 
 **Correct:** B
 **Explanation:** La viro malkaŝas, ke la sistemo estis difekta de la komenco kaj ke iu sciis pri tio.
@@ -277,10 +277,10 @@ Kaj tio estis la plej grava afero.
 **Question:** Kion la rakontanto jam scias antaŭ ol la viro diras ĝin rekte?
 
 **Answers:**
-- A) Ke la hotelo estos vendita post unu monato
+- A) Ke la hotelo estos vendita post unu monato al nova posedanto de la firmao
 - B) Ke la internaj retleteroj konfirmis, ke la teknikaj avertoj estis ignorataj
-- C) Ke la amaskomunikiloj elpensis ĉion
-- D) Ke la klimatizilo funkcias perfekte
+- C) Ke la amaskomunikiloj elpensis ĉion pri la hotelo
+- D) Ke la klimatizilo funkcias perfekte en ĉiuj ĉambroj
 
 **Correct:** B
 **Explanation:** Li vidis la notojn de la teknikistoj, kiuj finiĝis en la rubujo.
@@ -291,10 +291,10 @@ Kaj tio estis la plej grava afero.
 **Question:** Kian decidon faras la rakontanto post la reveno de la teraso?
 
 **Answers:**
-- A) Li decidas forigi ĉiujn retleterojn
-- B) Li skribas leteron kaj kontaktas iun, kiu povas publikigi la veran historion
-- C) Li foriras tuj antaŭ la tagiĝo, sen spuro
-- D) Li petas plialtigon de salajro
+- A) Li decidas forigi ĉiujn retleterojn el la sistemo de la hotelo
+- B) Li skribas leteron kaj kontaktas iun, kiu povas publikigi la veron
+- C) Li foriras tuj antaŭ la tagiĝo, sen spuro kaj sen ia ajn adiaŭo
+- D) Li petas plialtigon de salajro kaj pli bonan ĉambron
 
 **Correct:** B
 **Explanation:** La kulmino estas la letero al la direkcio kaj la voko petanta publikigi la veron.
@@ -305,10 +305,10 @@ Kaj tio estis la plej grava afero.
 **Question:** Kion signifas la epilogo kun la vojaĝo al Japanio?
 
 **Answers:**
-- A) Ke la hotelo estas granda sukceso
-- B) Ke la rakontanto reakiras sian iniciativon kaj fermas la ĉapitron de vivo bazita sur ŝajnigado
-- C) Ke li revenas al la sama laboro post la renovigo
-- D) Ke li volas projektadi klimatizilojn
+- A) Ke la hotelo estas granda sukceso en la mondo
+- B) Ke la rakontanto reakiras sian iniciativon kaj fermas la ĉapitron de ŝajnigita vivo
+- C) Ke li revenas al la sama laboro post la renovigo de la hotelo kaj la ferioj en Japanio
+- D) Ke li volas projektadi klimatizilojn kaj aŭtomatigon de la konstruaĵoj
 
 **Correct:** B
 **Explanation:** La foriro simbolas lasi toksan aranĝon kaj la komencon de nova ĉapitro.

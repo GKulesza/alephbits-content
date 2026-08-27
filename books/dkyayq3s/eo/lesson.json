@@ -43,7 +43,7 @@
         "type": "single_choice",
         "question": "Kiu eraro ekigas la krizon de Adam?",
         "answers": [
-          "Li dividas la bankan pasvorton en Slack",
+          "Li dividas la bankan pasvorton en Slack kun la teamo",
           "Li enmetas la API-ŝlosilon en publikan GitHub-deponejon",
           "Li aĉetas konton sur la nigra merkato",
           "Li malŝaltas la 2FA"
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kion Adam malkovras, analizante la nekutiman ĵetonkonsumadon?",
         "answers": [
-          "Ke OpenAI malĝuste kalkulis la fakturon",
-          "Ke lia ŝlosilo trafis sistemon de perantoj vendantaj malmultekostan aliron",
-          "Ke la firmao testis novajn modelojn",
-          "Ke lian konton uzis lia kunlaboranto"
+          "Ke OpenAI malĝuste kalkulis la fakturon de la uzado de la ĵetonoj",
+          "Ke lia ŝlosilo trafis perantojn vendantajn malmultekostan aliron",
+          "Ke la firmao testis novajn modelojn senpage por ĉiuj uzantoj",
+          "Ke lian konton uzis lia kunlaboranto en la laboro dum la nokto"
         ],
         "correctIndex": 1,
         "explanation": "Sur la forumoj li trovas proponojn de malmultekostaj ĵetonoj kaj komprenas la mekanismon de perantoj."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kian rolon plenumas loĝejaj prokuraĵoj en la priskribita negoco?",
         "answers": [
-          "Ili servas nur al laŭleĝa gastigado",
+          "Ili servas nur al laŭleĝa gastigado de la modeloj de la kompanio",
           "Ili helpas kaŝi trafikon, uzante la ligilojn de ordinaraj uzantoj",
-          "Ili akcelas la trejnadon de modeloj",
-          "Ili blokas spamon sur la forumoj"
+          "Ili akcelas la trejnadon de modeloj por la firmao",
+          "Ili blokas spamon kaj reklamojn sur la forumoj"
         ],
         "correctIndex": 1,
         "explanation": "La teksto priskribas ilin kiel manieron maski trafikon per la infrastrukturo de ordinaraj homoj."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kial la konversacio kun Li Wei ŝanĝas la pensmanieron de Adam?",
         "answers": [
-          "Ĉar Li Wei redonas al li ĉiun monon",
-          "Ĉar ĝi montras la homan flankon de la kontraŭleĝa merkato kaj la problemon de alirbarieroj",
-          "Ĉar li montriĝas policano",
-          "Ĉar li proponas komunan noventreprenon"
+          "Ĉar Li Wei redonas al li ĉiun monon de la fakturoj kaj pardonpetas",
+          "Ĉar ĝi montras la homan flankon de la nigra merkato kaj la alirbarierojn",
+          "Ĉar li montriĝas policano, kiu laboras kaŝe en la reto",
+          "Ĉar li proponas komunan noventreprenon pri sekureco de la API-oj en la reto"
         ],
         "correctIndex": 1,
         "explanation": "Adam komencas vidi ne nur la trompon, sed ankaŭ homojn forpuŝitajn ekster la laŭleĝan aliron."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kian praktikan lecionon Adam eltiras el la tuta historio?",
         "answers": [
-          "Oni devas ĉesi uzi API-on",
+          "Oni devas ĉesi uzi API-on kaj la reton",
           "Sekureco postulas kaj ilojn, kaj konscion pri sistemaj minacoj",
-          "Plej bone labori nur malkonekte",
-          "Neniam uzi GitHub"
+          "Plej bone labori nur malkonekte de la interreto kaj de ĉiuj retoj",
+          "Neniam uzi GitHub aŭ aliajn servojn"
         ],
         "correctIndex": 1,
         "explanation": "Li transiras al sekretadministrilo, monitorado kaj edukado de aliaj programistoj."

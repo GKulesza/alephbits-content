@@ -205,10 +205,10 @@ Kaj ie en Poznań, en malhela ĉambro, Paweł Wyżżykowski rigardis la mortlist
 **Question:** Kial Przemek kaj Darek iras al UEP?
 
 **Answers:**
-- A) Al ekzameno
+- A) Al ekzameno pri la juro en la universitato de la urbo
 - B) Por demandi pri luado de oficejo je triono de la merkata prezo kaj pri firmao de laŭleĝigo
-- C) Al manifestacio
-- D) Por kolekti sian studentan indekson
+- C) Al manifestacio kontraŭ la altaj prezoj de la loĝejoj
+- D) Por kolekti sian studentan indekson en la sekretariejo de la fakultato, tuj post la prelegoj
 
 **Correct:** B
 **Explanation:** Ili legas, ke ukraina firmao luigas oficejon je triono de la merkata prezo kaj laŭleĝigas la loĝadon.
@@ -219,7 +219,7 @@ Kaj ie en Poznań, en malhela ĉambro, Paweł Wyżżykowski rigardis la mortlist
 **Question:** Pri kiu ago laŭ la puna kodo estas la protokolo?
 
 **Answers:**
-- A) Art. 190 — minaco
+- A) Art. 190 — minaco kontraŭ la vivo
 - B) Art. 212 — publika kalumnio
 - C) Art. 279 — ŝtelo
 - D) Art. 148 — murdo
@@ -233,10 +233,10 @@ Kaj ie en Poznań, en malhela ĉambro, Paweł Wyżżykowski rigardis la mortlist
 **Question:** Kiel Przemek estas traktata dum la aresto?
 
 **Answers:**
-- A) Li ricevas skriban alvokon
-- B) Mankatenoj malantaŭe, fotoj sur la profilo de la polico, demandokonduko en mankatenoj
-- C) Li ricevas monpunon surloke
-- D) Oni liberigas lin post unu horo
+- A) Li ricevas skriban alvokon al la policejo kaj venas memvole, sen mankatenoj
+- B) Mankatenoj malantaŭe, fotoj sur la police profilo, demandokonduko en mankatenoj
+- C) Li ricevas monpunon surloke kaj povas tuj foriri hejmen al la familio
+- D) Oni liberigas lin post unu horo de demandado, sen mankatenoj kaj sen protokolo
 
 **Correct:** B
 **Explanation:** Oni frapas je la sesa, mankatenoj malantaŭe, fotoj de «arestito» sur la profilo de la policejo.
@@ -249,8 +249,8 @@ Kaj ie en Poznań, en malhela ĉambro, Paweł Wyżżykowski rigardis la mortlist
 **Answers:**
 - A) Sur la listo de voĉdonantoj de la Eŭropa Parlamento
 - B) Sur la ukraina listo Myrotvorets — de homoj mortigendaj
-- C) Sur la listo de ŝuldantoj
-- D) Sur la listo de kronaj atestantoj
+- C) Sur la listo de ŝuldantoj de la komunumaj impostoj
+- D) Sur la listo de kronaj atestantoj de la proceso
 
 **Correct:** B
 **Explanation:** Paweł estas sur Myrotvorets — la listo de «malamikoj de Ukrainio», de kiu homoj mortiĝas.
@@ -261,10 +261,10 @@ Kaj ie en Poznań, en malhela ĉambro, Paweł Wyżżykowski rigardis la mortlist
 **Question:** Kion Przemek diras al Darek post la filmo de Wyżżykowski?
 
 **Answers:**
-- A) Ke ili retiriĝas
+- A) Ke ili retiriĝas kaj forgesas la aferon
 - B) Ke ili iras al la tribunalo kaj ne estas solaj
-- C) Ke ili ŝanĝos profesion
-- D) Ke ili ne parolos kun la amaskomunikiloj
+- C) Ke ili ŝanĝos profesion kaj la urbon
+- D) Ke ili ne parolos kun la amaskomunikiloj pri la kazo
 
 **Correct:** B
 **Explanation:** Przemek diras: «Ni iras al la tribunalo. Ni ne rezignos... Ni ne estas solaj.»

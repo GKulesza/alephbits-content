@@ -267,8 +267,8 @@ Kaj poste ŝi revenos.
 **Answers:**
 - A) Farmakologion
 - B) Juron
-- C) Astronomion
-- D) Arthistorion
+- C) Astronomion kaj astrofizikon
+- D) Arthistorion kaj muzeologion
 
 **Correct:** A
 **Explanation:** La ekzameno pri farmakologio okazos post tri semajnoj.
@@ -280,7 +280,7 @@ Kaj poste ŝi revenos.
 
 **Answers:**
 - A) La metodon Pomodoro — 25 minutojn da lernado
-- B) Lernadon la tutan nokton sen paŭzoj
+- B) Lernadon la tutan nokton sen paŭzoj kaj sen dormo
 - C) Nur videoregistraĵojn
 - D) Grupajn retajn projektojn
 
@@ -293,10 +293,10 @@ Kaj poste ŝi revenos.
 **Question:** Kion Krzysztof diras en la programo pri alkrokiĝi al aferoj?
 
 **Answers:**
-- A) Ke oni devas atendi entuziasmon
+- A) Ke oni devas atendi entuziasmon kaj komenci nur kiam venos inspiro
 - B) Ke la ago estas kiel klarigita butero — sen superenergio komence
-- C) Ke plej bone estas fari nenion
-- D) Ke nur la plenluno helpas
+- C) Ke plej bone estas fari nenion kaj ripozi
+- D) Ke nur la plenluno helpas komenci
 
 **Correct:** B
 **Explanation:** Li citas la metaforon de klarigita butero — sen entuziasmo ĉe la komenco.
@@ -321,10 +321,10 @@ Kaj poste ŝi revenos.
 **Question:** Kian kanton de YUI ŝi aŭskultas dum lernado?
 
 **Answers:**
-- A) "again"
-- B) "Rolling Star"
-- C) Ambaŭ — "again" ĉe la turnopunkto kaj "Rolling Star" post la ekzameno
-- D) Nenian
+- A) "again" ĉe la turnopunkto de la lernado, por akiri novan kuraĝon
+- B) "Rolling Star" dum la tuta semajno, tage kaj nokte sen paŭzo
+- C) Ambaŭ — "again" ĉe la turnopunkto, "Rolling Star" post la ekzameno
+- D) Nenian, ĉar ŝi lernas plej bone en plena silento de la biblioteko
 
 **Correct:** C
 **Explanation:** "again" helpas ĉe la turnopunkto; post la ekzameno ŝi ŝaltas "Rolling Star".

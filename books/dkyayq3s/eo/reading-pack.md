@@ -174,7 +174,7 @@ Adam fermis la tekokomputilon. Li rigardis la ekranon, sur kiu ankoraŭ lumis la
 **Question:** Kiu eraro ekigas la krizon de Adam?
 
 **Answers:**
-- A) Li dividas la bankan pasvorton en Slack
+- A) Li dividas la bankan pasvorton en Slack kun la teamo
 - B) Li enmetas la API-ŝlosilon en publikan GitHub-deponejon
 - C) Li aĉetas konton sur la nigra merkato
 - D) Li malŝaltas la 2FA
@@ -188,10 +188,10 @@ Adam fermis la tekokomputilon. Li rigardis la ekranon, sur kiu ankoraŭ lumis la
 **Question:** Kion Adam malkovras, analizante la nekutiman ĵetonkonsumadon?
 
 **Answers:**
-- A) Ke OpenAI malĝuste kalkulis la fakturon
-- B) Ke lia ŝlosilo trafis sistemon de perantoj vendantaj malmultekostan aliron
-- C) Ke la firmao testis novajn modelojn
-- D) Ke lian konton uzis lia kunlaboranto
+- A) Ke OpenAI malĝuste kalkulis la fakturon de la uzado de la ĵetonoj
+- B) Ke lia ŝlosilo trafis perantojn vendantajn malmultekostan aliron
+- C) Ke la firmao testis novajn modelojn senpage por ĉiuj uzantoj
+- D) Ke lian konton uzis lia kunlaboranto en la laboro dum la nokto
 
 **Correct:** B
 **Explanation:** Sur la forumoj li trovas proponojn de malmultekostaj ĵetonoj kaj komprenas la mekanismon de perantoj.
@@ -202,10 +202,10 @@ Adam fermis la tekokomputilon. Li rigardis la ekranon, sur kiu ankoraŭ lumis la
 **Question:** Kian rolon plenumas loĝejaj prokuraĵoj en la priskribita negoco?
 
 **Answers:**
-- A) Ili servas nur al laŭleĝa gastigado
+- A) Ili servas nur al laŭleĝa gastigado de la modeloj de la kompanio
 - B) Ili helpas kaŝi trafikon, uzante la ligilojn de ordinaraj uzantoj
-- C) Ili akcelas la trejnadon de modeloj
-- D) Ili blokas spamon sur la forumoj
+- C) Ili akcelas la trejnadon de modeloj por la firmao
+- D) Ili blokas spamon kaj reklamojn sur la forumoj
 
 **Correct:** B
 **Explanation:** La teksto priskribas ilin kiel manieron maski trafikon per la infrastrukturo de ordinaraj homoj.
@@ -216,10 +216,10 @@ Adam fermis la tekokomputilon. Li rigardis la ekranon, sur kiu ankoraŭ lumis la
 **Question:** Kial la konversacio kun Li Wei ŝanĝas la pensmanieron de Adam?
 
 **Answers:**
-- A) Ĉar Li Wei redonas al li ĉiun monon
-- B) Ĉar ĝi montras la homan flankon de la kontraŭleĝa merkato kaj la problemon de alirbarieroj
-- C) Ĉar li montriĝas policano
-- D) Ĉar li proponas komunan noventreprenon
+- A) Ĉar Li Wei redonas al li ĉiun monon de la fakturoj kaj pardonpetas
+- B) Ĉar ĝi montras la homan flankon de la nigra merkato kaj la alirbarierojn
+- C) Ĉar li montriĝas policano, kiu laboras kaŝe en la reto
+- D) Ĉar li proponas komunan noventreprenon pri sekureco de la API-oj en la reto
 
 **Correct:** B
 **Explanation:** Adam komencas vidi ne nur la trompon, sed ankaŭ homojn forpuŝitajn ekster la laŭleĝan aliron.
@@ -230,10 +230,10 @@ Adam fermis la tekokomputilon. Li rigardis la ekranon, sur kiu ankoraŭ lumis la
 **Question:** Kian praktikan lecionon Adam eltiras el la tuta historio?
 
 **Answers:**
-- A) Oni devas ĉesi uzi API-on
+- A) Oni devas ĉesi uzi API-on kaj la reton
 - B) Sekureco postulas kaj ilojn, kaj konscion pri sistemaj minacoj
-- C) Plej bone labori nur malkonekte
-- D) Neniam uzi GitHub
+- C) Plej bone labori nur malkonekte de la interreto kaj de ĉiuj retoj
+- D) Neniam uzi GitHub aŭ aliajn servojn
 
 **Correct:** B
 **Explanation:** Li transiras al sekretadministrilo, monitorado kaj edukado de aliaj programistoj.

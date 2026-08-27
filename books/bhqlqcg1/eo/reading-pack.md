@@ -266,10 +266,10 @@ Ewa ridetis al la telefono.
 **Question:** Kion Ewa aŭdas en la podkasto pri „la enkonstruita skripto"?
 
 **Answers:**
-- A) Ke homoj neniam mensogas
+- A) Ke homoj neniam mensogas en geedzeco
 - B) Ke kiam iu trompas, ni pensas: „Dio min trovis"
-- C) Ke geedzeco estas facila
-- D) Ke divorco estas la sola elirejo
+- C) Ke geedzeco estas facila por ĉiuj
+- D) Ke divorco estas la sola elirejo el la situacio
 
 **Correct:** B
 **Explanation:** Miłosz parolas pri la skripto: trompanto = „Dio min trovis".
@@ -280,10 +280,10 @@ Ewa ridetis al la telefono.
 **Question:** Kion Ewa pensis, kiam Marek kuiris ŝian plej ŝatatan pladon?
 
 **Answers:**
-- A) Ke ŝi estas dankema al li
+- A) Ke ŝi estas dankema al li pro la kuirejo
 - B) Ke li faris ion malbone kaj volas pardoni
-- C) Ke io lin doloras
-- D) Ke li amas ŝin
+- C) Ke io lin doloras kaj premegas
+- D) Ke li amas ŝin pli ol iam
 
 **Correct:** B
 **Explanation:** Dum jaroj ŝi pensis, ke li kuiras, ĉar li faris ion malbone.
@@ -294,7 +294,7 @@ Ewa ridetis al la telefono.
 **Question:** Kion Marek proponas anstataŭ diveni?
 
 **Answers:**
-- A) Silenti
+- A) Silenti kaj atendi pli bonan momenton
 - B) Akcepti, ke ni ne scias, kaj demandi
 - C) Skribi leterojn
 - D) Divorcon
@@ -308,10 +308,10 @@ Ewa ridetis al la telefono.
 **Question:** Kion Ewa skribas al la fratino en la letero?
 
 **Answers:**
-- A) Ke ilia geedzeco estas perfekta
+- A) Ke ilia geedzeco estas perfekta kaj sen iaj ajn problemoj aŭ duboj
 - B) Ke la plej granda eraro estis pensi, ke ŝi konas sian edzon ĝisfunde
-- C) Ke divorco estas necesa
-- D) Ke la podkasto tute ne helpis ŝin
+- C) Ke divorco estas necesa por la tuta familio
+- D) Ke la podkasto tute ne helpis ŝin kompreni ion
 
 **Correct:** B
 **Explanation:** La letero avertas kontraŭ pensi, ke ŝi konas sian edzon ĝisfunde.

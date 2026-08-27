@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kiu estas Anna en la rakonto?",
       "answers": [
-        "Radio-produktistino",
+        "Radio-produktistino en la loka stacio",
         "La edzino de Krzysztof, kuracistino kaj raciistino",
-        "Aŭskultantino el Irano",
-        "Studentino pri astrologio"
+        "Aŭskultantino el Irano, kiu telefonas",
+        "Studentino pri astrologio en la universitato de la urbo"
       ],
       "correctIndex": 1,
       "explanation": "Anna eniras en banrobo, ŝi estas kuracistino kaj pridubas la influon de la luno."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Krzysztof diras pri Irano en la evoluo de la programo?",
       "answers": [
-        "Ke Irano komplete kapitulacos sen batalo",
-        "Ke en junio komenciĝos okazaj atakoj kaj la «nigra tukego» falas super Iranon",
-        "Ke Irano malaperos de la mapo en unu semajno",
-        "Ke Irano transprenos la Eŭropan Union"
+        "Ke Irano komplete kapitulacos sen batalo kaj sen iaj kondiĉoj",
+        "Ke en junio komenciĝos okazaj atakoj kaj la «nigra tukego» falos super Iranon",
+        "Ke Irano malaperos de la mapo de la mondo en unu semajno",
+        "Ke Irano transprenos la Eŭropan Union post la krizo de la energio en la regiono"
       ],
       "correctIndex": 1,
       "explanation": "Li antaŭdiras okazajn atakojn en junio kaj la metaforon de la nigra tukego super Irano."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kio okazas en Eŭropo en la epilogo, laŭ la rakonto?",
       "answers": [
-        "Plena foresto de varmegoj",
-        "Varmegoj, centro de Ebola en Italio, pli multekosta manĝaĵo kaj nova imposto de EU",
-        "Malapero de ĉiuj impostoj",
-        "La fino de la programo de Krzysztof por ĉiam"
+        "Plena foresto de varmegoj en la tuta Eŭropo dum la somero",
+        "Varmegoj, centro de Ebola en Italio, pli multekosta manĝaĵo, nova imposto de EU",
+        "Malapero de ĉiuj impostoj de la Eŭropa Unio en la regiono",
+        "La fino de la programo de Krzysztof por ĉiam en la loka radiostacio de la urbo"
       ],
       "correctIndex": 1,
       "explanation": "La epilogo listigas varmegojn, centron en Italio, multekostiĝon kaj infrastrukturan imposton."
@@ -55,7 +55,7 @@
       "type": "single_choice",
       "question": "Kion diras la anonima letero en januaro 2027?",
       "answers": [
-        "Ke la programo estis malpermesita per leĝo",
+        "Ke la programo estis malpermesita per nova leĝo de la registaro",
         "Ke danke al la avertoj li sukcesis forveturi el Irano kaj vivas",
         "Ke Krzysztof devus gajni la Nobel-premion",
         "Ke la plenluno estas mito"

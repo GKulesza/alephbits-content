@@ -315,10 +315,10 @@ Li fermis la okulojn. Kaj ĝi venis denove.
 **Question:** Kiu estas Anna en la rakonto?
 
 **Answers:**
-- A) Radio-produktistino
+- A) Radio-produktistino en la loka stacio
 - B) La edzino de Krzysztof, kuracistino kaj raciistino
-- C) Aŭskultantino el Irano
-- D) Studentino pri astrologio
+- C) Aŭskultantino el Irano, kiu telefonas
+- D) Studentino pri astrologio en la universitato de la urbo
 
 **Correct:** B
 **Explanation:** Anna eniras en banrobo, ŝi estas kuracistino kaj pridubas la influon de la luno.
@@ -329,10 +329,10 @@ Li fermis la okulojn. Kaj ĝi venis denove.
 **Question:** Kion Krzysztof diras pri Irano en la evoluo de la programo?
 
 **Answers:**
-- A) Ke Irano komplete kapitulacos sen batalo
-- B) Ke en junio komenciĝos okazaj atakoj kaj la «nigra tukego» falas super Iranon
-- C) Ke Irano malaperos de la mapo en unu semajno
-- D) Ke Irano transprenos la Eŭropan Union
+- A) Ke Irano komplete kapitulacos sen batalo kaj sen iaj kondiĉoj
+- B) Ke en junio komenciĝos okazaj atakoj kaj la «nigra tukego» falos super Iranon
+- C) Ke Irano malaperos de la mapo de la mondo en unu semajno
+- D) Ke Irano transprenos la Eŭropan Union post la krizo de la energio en la regiono
 
 **Correct:** B
 **Explanation:** Li antaŭdiras okazajn atakojn en junio kaj la metaforon de la nigra tukego super Irano.
@@ -343,10 +343,10 @@ Li fermis la okulojn. Kaj ĝi venis denove.
 **Question:** Kio okazas en Eŭropo en la epilogo, laŭ la rakonto?
 
 **Answers:**
-- A) Plena foresto de varmegoj
-- B) Varmegoj, centro de Ebola en Italio, pli multekosta manĝaĵo kaj nova imposto de EU
-- C) Malapero de ĉiuj impostoj
-- D) La fino de la programo de Krzysztof por ĉiam
+- A) Plena foresto de varmegoj en la tuta Eŭropo dum la somero
+- B) Varmegoj, centro de Ebola en Italio, pli multekosta manĝaĵo, nova imposto de EU
+- C) Malapero de ĉiuj impostoj de la Eŭropa Unio en la regiono
+- D) La fino de la programo de Krzysztof por ĉiam en la loka radiostacio de la urbo
 
 **Correct:** B
 **Explanation:** La epilogo listigas varmegojn, centron en Italio, multekostiĝon kaj infrastrukturan imposton.
@@ -357,7 +357,7 @@ Li fermis la okulojn. Kaj ĝi venis denove.
 **Question:** Kion diras la anonima letero en januaro 2027?
 
 **Answers:**
-- A) Ke la programo estis malpermesita per leĝo
+- A) Ke la programo estis malpermesita per nova leĝo de la registaro
 - B) Ke danke al la avertoj li sukcesis forveturi el Irano kaj vivas
 - C) Ke Krzysztof devus gajni la Nobel-premion
 - D) Ke la plenluno estas mito
