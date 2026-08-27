@@ -1,0 +1,24 @@
+{
+  "packId": "l15f4w0v:eo",
+  "bookId": "l15f4w0v",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Opowieść edukacyjna o roli drzew i retencji wody; postacie zwierzęce."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "SdQAa0A4XvA"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion kultivas Tera?",
+      "answers": [
+        "Maizon",
+        "Tritikon",
+        "Fragojn",
+        "Vinberojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tera zorgas pri sia maizkampo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Tigro?",
+      "answers": [
+        "Heliko-inventisto",
+        "Kato",
+        "Monstro",
+        "Bovino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tigro sin prezentas kiel heliko kaj inventisto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Por kio Tigro fosas kavetojn sur la rando de la kampo?",
+      "answers": [
+        "Por planti arbojn, kiuj retenas akvon",
+        "Por detrui la maizon",
+        "Por serĉi trezorojn",
+        "Por fari naĝejon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li klarigas, ke la radikoj de la arboj helpas reteni akvon en la grundo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la amikoj de Tera?",
+      "answers": [
+        "Tola kaj Urwis",
+        "Burek kaj Azor",
+        "Filek kaj Milek",
+        "Hania kaj Basia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tola (katino) kaj Urwis (hundeto) helpas al Tera."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas post la unua ŝtormo?",
+      "answers": [
+        "La tero humidiĝas, la maizo reviviĝas",
+        "La kampo estas inundita kaj detruita",
+        "Tera forveturas el la vilaĝo",
+        "Tigro malaperas por ĉiam"
+      ],
+      "correctIndex": 0,
+      "explanation": "La pluvo haltas en la grundo danke al la arboj, la maizo aspektas pli bone."
+    }
+  ]
+}

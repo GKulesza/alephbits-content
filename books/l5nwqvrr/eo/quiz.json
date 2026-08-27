@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Anna priskribas siajn unuajn sentojn post la vundo?",
+      "answers": [
+        "Ŝi sentas nur fizikan doloron",
+        "Ŝi sentas strangecon de sia propra korpo kaj la impreson, ke la mano ne apartenas al ŝi",
+        "Ŝi tuj memoras la tutan akcidenton",
+        "Ŝi havas neniajn psikajn simptomojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La unuaj scenoj fokusiĝas al la perturbita sento de sia propra korpeco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Por kio doktoro Marek proponas mikrofenomenologion?",
+      "answers": [
+        "Por mezuri la sangopremon",
+        "Por esplori la strukturon de la sperto de Anna, ne nur la rezultojn de skanaĵoj",
+        "Por anstataŭigi la magneta resonancon",
+        "Por instrui al ŝi religian meditadon"
+      ],
+      "correctIndex": 1,
+      "explanation": "La metodo devas helpi priskribi la sperton mem de konscio kaj percepto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun penson alportas Marta en la konversacio pri iluzio kaj 'mi'?",
+      "answers": [
+        "Ke tiaj demandoj ne havas sencon",
+        "Ke eĉ se la sperto estas iluzio, ĝi restas travivata kiel propra kaj reala",
+        "Ke oni devas tuj malŝalti ĉiujn maŝinojn",
+        "Ke la konscio estas nur religio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta emfazas la gravecon de la sperto kiel propra, eĉ se ĝi havas la karakteron de mensa konstruo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel doktoro Marek distingas inteligentecon kaj konscion?",
+      "answers": [
+        "Li konsideras ilin la samo",
+        "Li diras, ke inteligenteco povas ekzisti sen subjekta sentado",
+        "Li asertas, ke la konscio estas facile mezurebla",
+        "Li opinias, ke AI jam estas plene konscia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tio estas la ŝlosila etika ĉeftemo en la konversacio pri AI."
+    },
+    {
+      "type": "single_choice",
+      "question": "Al kiu konkludo venas Anna en la epilogo?",
+      "answers": [
+        "Ke ŝi trovis definitivan difinon de la konscio",
+        "Ke la demando pri 'mi' povas esti pli grava ol preta respondo",
+        "Ke ŝi ne plu volas skribi pri scienco",
+        "Ke la vundo nenion ŝanĝis ĉe ŝi"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fino lasas la problemon malfermita kaj emfazas la gravecon de la demando mem."
+    }
+  ]
+}

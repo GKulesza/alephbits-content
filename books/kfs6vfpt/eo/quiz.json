@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "De kio Patryk komencas sian jaran rutinon en la kajero?",
+      "answers": [
+        "De kurado de maratono",
+        "De ŝtofado de la lito",
+        "De ŝanĝo de laboro",
+        "De forveturo al ferioj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La unua enskribo tekstas: „Tago 1. Mi ŝtofis la liton\", kaj la tuta ŝanĝo komenciĝas de tiu gesto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Patryk priskribas sian vivon ekster la oficejo komence de la rakonto?",
+      "answers": [
+        "Kiel plenan de vojaĝoj kaj aventuroj",
+        "Kiel vivon de homo, kiu timas eniri sian propran loĝejon",
+        "Kiel harmonian familian vivon",
+        "Kiel tempon de intensa sporto"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fratino diras al li rekte, ke ne estas normale timi eniri sian propran loĝejon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Patryk NE atendas post unu jaro de tenado de la kajero?",
+      "answers": [
+        "Malgrandajn ĉiutagajn paŝojn",
+        "Subitajn grandajn transformiĝojn",
+        "Pli malbonajn tagojn",
+        "Daŭrigon de la rutino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post unu jaro li rimarkas, ke ne estis grandaj revolucioj — estis nur malgrandaj paŝoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun lecionon Patryk eltiras post la kuro en la pluvo?",
+      "answers": [
+        "Ke gravas esti pli bona ol la hieraŭa memo, ne ol aliaj",
+        "Ke pluvo malebligas trejnadon",
+        "Ke rekordoj estas pli gravaj ol sano",
+        "Ke li devus ĉesi kuri"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto diras rekte, ke temas pri esti pli bona ol la hieraŭa memo, ne pri rekordoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Patryk enskribas en la tago 366?",
+      "answers": [
+        "Ke li rezignas pri la kajero",
+        "Ke li ŝtofis la liton, kuris kaj vivas — kaj tio sufiĉas",
+        "Ke li forveturas al Dubajo",
+        "Ke li vendis la loĝejon"
+      ],
+      "correctIndex": 1,
+      "explanation": "La lasta enskribo kunigas liton, kuron kaj vivon en unu frazo pri sufiĉo."
+    }
+  ]
+}

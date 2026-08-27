@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Joanna vidas sur la registraĵo de la monitorado?",
+      "answers": [
+        "Agnieszka iras kun malaltiĝanta singardemo",
+        "Agnieszka veturas per taksio",
+        "Agnieszka dancas gaje",
+        "Agnieszka parolas per telefono"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna parolas pri la falsa sindromo de la sekura sojlo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la unuaj horoj de la serĉado estis vanaj?",
+      "answers": [
+        "La afero estis traktita kiel forkuro de adoleskantino",
+        "Ne estis raporto",
+        "La monitorado ne funkciis",
+        "Agnieszka telefonis al la polico"
+      ],
+      "correctIndex": 0,
+      "explanation": "La unua raporto estis traktita kiel norma forkuro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Je kioma horo la fotilo vidas Agnieszka-n la lastan fojon?",
+      "answers": [
+        "4:12 matene",
+        "2:00 nokte",
+        "Tagmeze",
+        "22:30"
+      ],
+      "correctIndex": 0,
+      "explanation": "La sekcio „Punkto nulo\" donas 4:12."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Joanna en la rakonto?",
+      "answers": [
+        "Sperta enketistino",
+        "La patrino de Agnieszka",
+        "Ĵurnalistino",
+        "Najbarino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joanna analizas registraĵojn kaj policajn procedurojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Joanna diras pri la sekura sojlo?",
+      "answers": [
+        "Tio estas falsa sento de sekureco",
+        "Agnieszka estis hejme",
+        "La monitorado mensogas",
+        "Adoleskantinoj ĉiam revenas"
+      ],
+      "correctIndex": 0,
+      "explanation": "La falsa sindromo de la sekura sojlo malaltigas la singardemon."
+    }
+  ]
+}

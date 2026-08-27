@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Anastazja iras al Pollando?",
+      "answers": [
+        "Ŝi volas lerni la polan",
+        "Ŝi vizitas familion en Jełań",
+        "Ŝi studas medicinon",
+        "Ŝi laboras kiel ŝoforo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi havas ĉi tie nek familion nek karierajn planojn — ŝi volas la lingvon „en si\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "De kie devenas Anastazja?",
+      "answers": [
+        "El Rusio, ŝi loĝas en Germanio",
+        "El Pollando",
+        "El Usono",
+        "El Ukrainio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras al la ŝoforo, ke ŝi estas el Rusio, sed loĝas en Germanio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun libron ŝi legas en la ĉambro en Praga?",
+      "answers": [
+        "„La Pupo\" de Prus",
+        "„Quo vadis\"",
+        "„Pan Tadeusz\"",
+        "Gramatikan lernolibron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi legas „La Pupo\" en la originalo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie ŝi luigas la ĉambron?",
+      "answers": [
+        "En Praga en Varsovio",
+        "En Jełań",
+        "En Krakovo",
+        "En Berlino"
+      ],
+      "correctIndex": 0,
+      "explanation": "La luigita ĉambro en Praga estas priskribita rekte."
+    },
+    {
+      "type": "single_choice",
+      "question": "De kiom da jaroj ŝi loĝas ekster Rusio?",
+      "answers": [
+        "De naŭ jaroj",
+        "De unu jaro",
+        "De dudek jaroj",
+        "De tri monatoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi loĝas en Germanio de naŭ jaroj."
+    }
+  ]
+}
