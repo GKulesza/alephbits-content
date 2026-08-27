@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kie ŝi luigas la ĉambron?",
       "answers": [
-        "En Praga en Varsovio",
-        "En Jełań, la vilaĝo de la familio",
-        "En Krakovo ĉe la malnova placo",
-        "En Berlino en la ĉefa stacidomo"
+        "En Praga, la malnova kvartalo de Varsovio",
+        "En Jełań, la malgranda vilaĝo de la familio",
+        "En Krakovo ĉe la malnova placo de la urbo",
+        "En Berlino en la ĉefa stacidomo de la urbo"
       ],
       "correctIndex": 0,
       "explanation": "La luigita ĉambro en Praga estas priskribita rekte."

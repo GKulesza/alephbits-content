@@ -304,10 +304,10 @@ Kaj li sentis nenion.
 **Question:** Kion Tom faras tuj post trovi Anan en la kuirejo?
 
 **Answers:**
-- A) Li vokas la ambulancon
-- B) Li sidiĝas kaj komencas serĉi en la reto demandojn pri putrado kaj balzamigo
-- C) Li vekas la infanojn
-- D) Li vokas la najbarojn
+- A) Li tuj vokas la ambulancon al la domo por helpo
+- B) Li serĉas en la reto demandojn pri putrado kaj balzamigo
+- C) Li vekas la infanojn el iliaj litoj en la domo
+- D) Li vokas la najbarojn de la apuda loĝejo por tuja helpo
 
 **Correct:** B
 **Explanation:** Anstataŭ voki helpon, li malfermas la retumilon kaj demandas pri la odoro de la korpo kaj balzamigo.

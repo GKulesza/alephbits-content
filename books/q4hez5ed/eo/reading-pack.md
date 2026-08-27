@@ -262,9 +262,9 @@ Kaj en Pollando, en la Universitato Maria Curie-Skłodowska en Lublin, studentoj
 
 **Answers:**
 - A) Ŝi laboras kaj subtenas la fratinon Bronia
-- B) Ŝi ricevas stipendion de la caro
-- C) Ŝi iras kun la edzo Pierre
-- D) Ŝi gajnas sciencan konkurson
+- B) Ŝi ricevas grandan stipendion de la rusa caro
+- C) Ŝi iras al la universitato kun la edzo Pierre
+- D) Ŝi gajnas gravan sciencan konkurson en Varsovio
 
 **Correct:** A
 **Explanation:** Kun Bronia ŝi faras pakton: unue unu studas, la dua laboras.

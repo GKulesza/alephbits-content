@@ -250,10 +250,10 @@ Kaj noti, antaŭ ol estos tro malfrue.
 **Question:** Kiu estas la ĉefrolulo de la rakonto?
 
 **Answers:**
-- A) Isaac Newton, la fizikisto de la gravito
-- B) Srinivasa Ramanujan
-- C) Albert Einstein, la aŭtoro de la relativeco
-- D) Ada Lovelace, la pioniro de la programado
+- A) Isaac Newton, la fama fizikisto de la gravito
+- B) Srinivasa Ramanujan, la matematikisto de Barato
+- C) Albert Einstein, la fama aŭtoro de la relativeco
+- D) Ada Lovelace, la fama pioniro de la programado
 
 **Correct:** B
 **Explanation:** La rakonto sekvas la vivon de Ramanujan.

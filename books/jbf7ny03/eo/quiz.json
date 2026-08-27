@@ -20,9 +20,9 @@
       "question": "Kion diras la pli aĝa sinjoro pri la vento?",
       "answers": [
         "La vento memoras tion, kion portis la akvo",
-        "La vento ĉiam estas malvarma",
-        "La vento haltigas la ponton",
-        "La vento ne revenas"
+        "La vento ĉiam estas malvarma dum la vespero",
+        "La vento haltigas la ponton de la rivero",
+        "La vento ne revenas al la sama loko"
       ],
       "correctIndex": 0,
       "explanation": "Li diras, ke la vento memoras ĉion, kion portis la akvo."

@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion diras la funkciuloj pri ŝia pasporto?",
       "answers": [
-        "Ke ĝi estas eksvalidiĝinta",
+        "Ke la pasporto estas eksvalidiĝinta antaŭ multaj jaroj",
         "Ke ĝi estas falsa — la numero ne ekzistas en la sistemo",
-        "Ke mankas la vizo",
-        "Ke la foto estas tro malnova"
+        "Ke en ĝi mankas la valida vizo por la longa vojaĝo",
+        "Ke la foto en la pasporto estas tro malnova kaj neklara"
       ],
       "correctIndex": 1,
       "explanation": "Ili diras: „Via pasporto estas falsa. La numero ne ekzistas en la sistemo.”"

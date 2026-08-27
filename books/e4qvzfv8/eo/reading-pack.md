@@ -223,9 +223,9 @@ Marek uśmiechnął się. Włożył telefon do kieszeni i jeszcze raz spojrzał 
 
 **Answers:**
 - A) Starożytną deltę rzeki
-- B) Bazę obcych
-- C) Lodowiec
-- D) Wulkan
+- B) Bazę obcych na Marsie
+- C) Ogromny lodowiec na biegunie
+- D) Wulkan na powierzchni Marsa
 
 **Correct:** A
 **Explanation:** Marek mówi o starożytnej delcie rzeki — dobrym miejscu na ślady życia.

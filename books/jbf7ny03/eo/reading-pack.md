@@ -123,9 +123,9 @@ La sinjoro leviĝis, kapsignis kaj foriris al la ponto. Anna restis ankoraŭ kel
 
 **Answers:**
 - A) La vento memoras tion, kion portis la akvo
-- B) La vento ĉiam estas malvarma
-- C) La vento haltigas la ponton
-- D) La vento ne revenas
+- B) La vento ĉiam estas malvarma dum la vespero
+- C) La vento haltigas la ponton de la rivero
+- D) La vento ne revenas al la sama loko
 
 **Correct:** A
 **Explanation:** Li diras, ke la vento memoras ĉion, kion portis la akvo.

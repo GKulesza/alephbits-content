@@ -241,10 +241,10 @@ Ching Ting ridetis. Ŝi fermis sian komputilon.
 **Question:** Kion diras la funkciuloj pri ŝia pasporto?
 
 **Answers:**
-- A) Ke ĝi estas eksvalidiĝinta
+- A) Ke la pasporto estas eksvalidiĝinta antaŭ multaj jaroj
 - B) Ke ĝi estas falsa — la numero ne ekzistas en la sistemo
-- C) Ke mankas la vizo
-- D) Ke la foto estas tro malnova
+- C) Ke en ĝi mankas la valida vizo por la longa vojaĝo
+- D) Ke la foto en la pasporto estas tro malnova kaj neklara
 
 **Correct:** B
 **Explanation:** Ili diras: „Via pasporto estas falsa. La numero ne ekzistas en la sistemo.”

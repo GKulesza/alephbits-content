@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kian diagnozon havas la falsa forpermeso de Michała?",
         "answers": [
-          "Rompo de la brako",
+          "Rompo de la maldekstra brako ĉe la kubuto",
           "Akuta infekto de la supraj spiraj vojoj",
-          "Depresio",
-          "Migreno"
+          "Depresio kaj malalta animstato de la paciento",
+          "Migreno kun forta kapdoloro dum la tuta tago"
         ],
         "correctIndex": 1,
         "explanation": "La PDF havas la diagnozon \"akuta infekto de la supraj spiraj vojoj\", kvankam Michał estas sana."

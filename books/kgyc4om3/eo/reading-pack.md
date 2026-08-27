@@ -256,10 +256,10 @@ Eble tio estis vera amo. Aŭ eble nur komenco.
 **Question:** Kie ŝi luigas la ĉambron?
 
 **Answers:**
-- A) En Praga en Varsovio
-- B) En Jełań, la vilaĝo de la familio
-- C) En Krakovo ĉe la malnova placo
-- D) En Berlino en la ĉefa stacidomo
+- A) En Praga, la malnova kvartalo de Varsovio
+- B) En Jełań, la malgranda vilaĝo de la familio
+- C) En Krakovo ĉe la malnova placo de la urbo
+- D) En Berlino en la ĉefa stacidomo de la urbo
 
 **Correct:** A
 **Explanation:** La luigita ĉambro en Praga estas priskribita rekte.

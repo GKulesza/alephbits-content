@@ -54,7 +54,7 @@
         "type": "single_choice",
         "question": "Kiun malfortecon de la germanoj malkovras Rejewski?",
         "answers": [
-          "La alfabeta ordo en la konektoj",
+          "La alfabeta ordo en la konektoj de la drataro",
           "Hazardaj konektoj de la konstantaj ŝtifoj",
           "Manko de rotoroj en la ĉifrilo de la armeo",
           "Unu ŝlosilo jare por la tuta germana armeo"
@@ -66,7 +66,7 @@
         "type": "single_choice",
         "question": "Kio estas la kriptologia bombo?",
         "answers": [
-          "Aparato simulantaj Enigmojn",
+          "Aparato simulanta la laboron de la Enigmoj",
           "Pafarmilo uzata de la germana soldato",
           "Vetera instrumento por antaŭdiri la pluvon",
           "Instrua libro pri la historio de la milito"

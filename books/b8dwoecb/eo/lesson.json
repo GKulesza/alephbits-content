@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kion Tom faras tuj post trovi Anan en la kuirejo?",
         "answers": [
-          "Li vokas la ambulancon",
-          "Li sidiĝas kaj komencas serĉi en la reto demandojn pri putrado kaj balzamigo",
-          "Li vekas la infanojn",
-          "Li vokas la najbarojn"
+          "Li tuj vokas la ambulancon al la domo por helpo",
+          "Li serĉas en la reto demandojn pri putrado kaj balzamigo",
+          "Li vekas la infanojn el iliaj litoj en la domo",
+          "Li vokas la najbarojn de la apuda loĝejo por tuja helpo"
         ],
         "correctIndex": 1,
         "explanation": "Anstataŭ voki helpon, li malfermas la retumilon kaj demandas pri la odoro de la korpo kaj balzamigo."

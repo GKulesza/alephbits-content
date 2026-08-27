@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiu estas la ĉefrolulo de la rakonto?",
       "answers": [
-        "Isaac Newton, la fizikisto de la gravito",
-        "Srinivasa Ramanujan",
-        "Albert Einstein, la aŭtoro de la relativeco",
-        "Ada Lovelace, la pioniro de la programado"
+        "Isaac Newton, la fama fizikisto de la gravito",
+        "Srinivasa Ramanujan, la matematikisto de Barato",
+        "Albert Einstein, la fama aŭtoro de la relativeco",
+        "Ada Lovelace, la fama pioniro de la programado"
       ],
       "correctIndex": 1,
       "explanation": "La rakonto sekvas la vivon de Ramanujan."

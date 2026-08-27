@@ -301,9 +301,9 @@ Kaj tiam, en la brileto de la subiranta suno, la avino kaj la nepino malfermis l
 
 **Answers:**
 - A) Pli, pli, pli, bonvolu malfermi la pordon…
-- B) Pluvo, fluiĝu sur ĉi tiun teron
-- C) Kokeriko
-- D) Muuu
+- B) Pluvo, fluiĝu sur ĉi tiun teron de la ĝardeno
+- C) Kokeriko, kokeriko, la koko krias
+- D) Muuu, muuu, la bovino krias laŭte
 
 **Correct:** A
 **Explanation:** La avino instruas kanton, kiu komenciĝas per «Pli, pli, pli…».

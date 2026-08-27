@@ -220,7 +220,7 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 **Question:** Kiun malfortecon de la germanoj malkovras Rejewski?
 
 **Answers:**
-- A) La alfabeta ordo en la konektoj
+- A) La alfabeta ordo en la konektoj de la drataro
 - B) Hazardaj konektoj de la konstantaj ŝtifoj
 - C) Manko de rotoroj en la ĉifrilo de la armeo
 - D) Unu ŝlosilo jare por la tuta germana armeo
@@ -234,7 +234,7 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 **Question:** Kio estas la kriptologia bombo?
 
 **Answers:**
-- A) Aparato simulantaj Enigmojn
+- A) Aparato simulanta la laboron de la Enigmoj
 - B) Pafarmilo uzata de la germana soldato
 - C) Vetera instrumento por antaŭdiri la pluvon
 - D) Instrua libro pri la historio de la milito

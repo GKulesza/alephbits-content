@@ -251,9 +251,9 @@ Se iam vi vizitos Krakovon, haltu ĉe la monteto de Vavelo. Aŭskultu la bruon d
 
 **Answers:**
 - A) Li trinkas tro multe da akvo kaj krevas
-- B) Li falas de la turo
-- C) Li pereas de glavo
-- D) Li fuĝas al la montoj
+- B) Li falas de la alta turo de la kastelo
+- C) Li pereas de la akra glavo de la kavaliro
+- D) Li fuĝas al la montoj en la nordo de la lando
 
 **Correct:** A
 **Explanation:** Li trinkis el la Vistulo, ĝis li krevis.
