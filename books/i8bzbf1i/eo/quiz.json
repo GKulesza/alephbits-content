@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Tomasz korektas la frazon de Julia „mi ne scias matematikon\"?",
+      "answers": [
+        "Vi pravas",
+        "Vi ankoraŭ ne scias — vi povas lerni",
+        "Lernu pli multe",
+        "Matematiko estas stulta"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ŝlosila vorto „ankoraŭ\" ŝanĝas la perspektivon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun demandon Tomasz faras anstataŭ „kiel estis en la lernejo\"?",
+      "answers": [
+        "Kiom da notoj vi havas",
+        "Kio hodiaŭ plej surprizis vin?",
+        "Ĉu vi ricevos malbonan noton",
+        "Kiam vi faros la hejmtaskojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demandoj pri malkovroj kaj surprizoj vekas scivolemon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Tomasz uzas krespojn?",
+      "answers": [
+        "Kiel rekompencon por notoj",
+        "Kiel praktikan matematikon — duobligo de porcio",
+        "Li neniam kuiras",
+        "Kiel punon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julia kalkulas farunon kaj ovojn por duobla porcio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Julia diras al si mem dum la hejmtaskoj?",
+      "answers": [
+        "Mi neniam faros tion",
+        "Mi ankoraŭ ne scias fari tion, sed mi povas provi",
+        "Paĉjo helpos al mi",
+        "Mi ne lernos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interna monologo kun „ankoraŭ\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Julia diras fine pri lernado?",
+      "answers": [
+        "Neniam plu lernejon",
+        "Ŝajne mi ŝatas lerni",
+        "Nur matematiko estas bona",
+        "Paĉjo faras por mi la hejmtaskojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Ŝajne mi ŝatas lerni\" — interna motivado."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Ala reagas al la unuaj lecionoj de legado?",
+      "answers": [
+        "Kun entuziasmo kaj rapida progreso",
+        "Ŝi forturnas la rigardon kaj diras, ke tio estas laboro, ne ludo",
+        "Ŝi tuj legas tutajn frazojn",
+        "Ŝi petas pliajn librojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La kvarjara Ala forpuŝas la manon de la patrino kaj diras, ke tio ne estas ludo, sed laboro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia pripensis, sed fine ne elektis la pli facilan vojon?",
+      "answers": [
+        "Laso de la filino ĉe la geavoj",
+        "Anstataŭigo de la libroj per tablojdo kaj desegnofilmo anstataŭ tempo",
+        "Sendado de la filino al lernejo eksterlande",
+        "Rezigno de la lernado de legado"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina pripenso diras, ke ŝi povus doni tablojdon kaj desegnofilmon anstataŭ tempo, sed ŝi ne faris tion."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Ala komence de la rakonto?",
+      "answers": [
+        "Du jarojn",
+        "Kvar jarojn",
+        "Sep jarojn",
+        "Dek du jarojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "La unua sekcio komenciĝas per la frazo: kiam Ala havis kvar jarojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia faras, por direkti la atenton de la filino al la literoj?",
+      "answers": [
+        "Ŝi malŝaltas la lumon",
+        "Ŝi tuŝas per la fingro la mentonon de Ala, por direkti la rigardon",
+        "Ŝi donas al ŝi bombonon",
+        "Ŝi ŝaltas la televidilon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia tuŝas per la fingro la mentonon de la filino, por direkti ŝian rigardon al la karteto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kasia konsideras la plej grava fine?",
+      "answers": [
+        "Ke la filino ĉesis lerni",
+        "Ke ŝi ne iris la pli facilan vojon kaj ne rezignis pri la pacienco",
+        "Ke ŝi vendis ĉiujn librojn",
+        "Ke la filino forveturis al la avino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi finas per la penso, ke povus iri alie, sed ŝi ne faris tion — kaj tio estis la plej grava."
+    }
+  ]
+}

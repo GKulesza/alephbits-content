@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom Michał perdas komence de la rakonto?",
+      "answers": [
+        "Ok mil zlotojn",
+        "Dudek tri mil zlotojn",
+        "Cent zlotojn",
+        "Unu milionon da zlotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto parolas pri perdo de dudek tri mil zlotoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun libron li aĉetas en la antikvaĵvendejo?",
+      "answers": [
+        "La Oran Branĉon de James George Frazer",
+        "La Reĝon de l' Ringoj",
+        "Enciklopedion de kriptomoneroj",
+        "Jaran horoskopon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li aĉetas „La Oran Branĉon\" de Frazer."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa konsilas al Michał anstataŭ kontroli la merkaton?",
+      "answers": [
+        "Prunti pli da kapitalo",
+        "Observi la ciklojn kaj lerni surfi ilin",
+        "Rezigni la laboron",
+        "Aĉeti nur akciojn de bankoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa parolas pri kompreno de la ritmo kaj surfo anstataŭ kontrolo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom Michał gajnas post la unua simbola transakcio?",
+      "answers": [
+        "Profiton de sep zlotoj",
+        "Profiton de dudek tri mil",
+        "Perdon de pliaj ok mil",
+        "Nenion — li ne komercas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li fermas la pozicion kun profito de sep zlotoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie finiĝas la rakonto kun Michał rigardanta la maron?",
+      "answers": [
+        "Sur la plaĝo en Gdańsk",
+        "Sur la Vavelo",
+        "En laboratorio en Gdynia",
+        "En la antikvaĵvendejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ses monatojn poste li staras sur la plaĝo en Gdańsk."
+    }
+  ]
+}

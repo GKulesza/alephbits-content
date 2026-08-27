@@ -1,0 +1,350 @@
+# Observanto
+
+## Metadata
+
+**Pack ID:** is25hbpk
+**Book ID:** is25hbpk
+**Legacy Pack ID:** polish_obserwator
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Observanto  
+**Subtitle:** Merkato, mito kaj la reveno de Saturno  
+**Blurb:** Michał perdas la ŝparaĵojn en kriptomoneroj kaj prenas libron pri mitologio. Renkonto kun astrologino Ewa ŝanĝas la demandon de „kiel venki la merkaton?" al „kiel legi ciklojn?" — rakonto pri perdo de kontrolo kaj pri reveno al observado anstataŭ batalo.
+
+**Genres:** everyday_live, short_story  
+**Series:** Collection Seven  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Obserwator" — oficiala eldono de Collection Seven.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** kripto, astrologio, cikloj, Collection Seven  
+
+**Keywords:** obserwator, trading, astrologia, Dumuzi, Bałtyk  
+
+**Cover family:** everyday_live
+
+**Editorial notes:** Fikcja metaforiczna; astrologia jest narzędziem narracyjnym postaci, nie nauką katalogu.
+
+**Inspiration:** Mitologia Dumuzi/Tammuz, Frazer „Złota Gałąź", motyw powrotu Saturna.
+
+---
+
+**World:**
+- objects: window
+- places: home, town
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 08.07.2026 -> https://www.youtube.com/watch?v=k6s8nPcSCgI / 06.07.2026 -> https://www.youtube.com/watch?v=6VEGH-kSb_U / 11.07.2026 -> https://www.youtube.com/watch?v=ZXUDc3n0yvU / 22.06.2026 -> https://www.youtube.com/watch?v=2ZK5rjQzT-g  
+**Revision notes:** Phase 97 import. Blisko „Synchroniczności" — founder decyduje o obu na półce.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-12 | Collection Seven editorial import (Phase 97) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar (o braciach Strugackich) |
+| 1.0.1 | 2026-08-27 | Esperanto translation edition |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 97 import; philosophy fit 3/5 — Akceptowalne jako metafora o cyklach i pokorze wobec niepewności; słaba strona — astrologia prezentowana niemal autentycznie. |
+
+---
+
+## Sources
+
+### Source 1: Collection Seven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=k6s8nPcSCgI  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-08  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**OBSERVANTO**
+
+## I. KOMENCO
+
+Michał Krawczyk havis tridek ok jarojn kaj ĵus perdis ĉion.
+
+Ne laŭvorte, kompreneble. La loĝejo en Varsovio ankoraŭ staris, sur la konto restis kelkaj miloj da zlotoj, kaj lia patrino vokis ĉiusemajne kun la demando, ĉu li jam trovis „decan laboron". Sed tio, kion li perdis, estis pli malbona ol mono — li perdis certecon. Li perdis la konvinkon, ke la mondo estas antaŭvidebla, ke sufiĉas bone analizi la datumojn, por scii, kio okazos.
+
+Dum la lastaj kvin jaroj li komercis sur la merkato de kriptomoneroj. Li komencis de malgrandaj sumoj, iom post iom konstruis kapitalon, ellaboris strategion, kiu ŝajnis funkcii. Grafikaĵoj, indikiloj, teknika analizo — ĉio indikis, ke li estas sur la ĝusta vojo. Ĝis la pasinta monato, kiam la merkato faris ion, kion neniu modelo antaŭvidis.
+
+Li sidis nun en sia loĝejo en Mokotów, rigardante la ekranon de la komputilo, sur kiu estis frostigita la grafikaĵo de la lasta transakcio. Perdo: dudek tri mil zlotoj. Duona jaro da laboro.
+
+— Mia analizo estis erara — li diris al la malplena ĉambro. — Simple... erara.
+
+Neniu respondis al li.
+
+Li leviĝis kaj transiris al la kuirejo. Sur la tablo kuŝis libro, kiun li aĉetis antaŭ unu semajno, kiam li preterpasis antikvaĵvendejon. „La Ora Branĉo" de James George Frazer. Li prenis ĝin sen kialo, ĉar la titolo sonis interesa, sed li ne malfermis ĝin ĝis nun. Nun, kun malpleno en la kapo, li etendis la manon al ĝi.
+
+Li malfermis je hazarda paĝo kaj legis:
+
+_"En multaj antikvaj kulturoj ekzistis la motivo de dio, kiu mortas kaj revenas al vivo. Tio estis simbolo de la cikla naturo de la realo — la morto de vintro kaj la naskiĝo de printempo, la fino de la malnova ordo kaj la komenco de la nova."_
+
+Li turnis la okulojn. Denove sensencaĵoj pri superstiĉoj. Li demetis la libron, sed li ne povis ĉesi pensi pri tio, kion li legis. _Dio, kiu mortas kaj revenas al vivo._ Ĉu tio ne estis precize tio, kion li sentis? Lia malnova memo mortis — tiu memcerta komercisto, kiu pensis, ke li kontrolas la merkaton. Eble nun venis la tempo por io nova.
+
+---
+
+## II. DISVOLVIĜO
+
+La sekvantan tagon Michał leviĝis je la tagiĝo. Li ne dormis bone — nokte sonĝis al li grafikaĵoj, kiuj fandiĝis en akvo, kaj figuro en blanka robo, kiu diris ion pri planedoj. Tio estis sufiĉe stranga sonĝo, ke li decidis ĝin ignori.
+
+Li iris al kafejo ĉe la stratangulo, mendis nigran kafon kaj sidiĝis ĉe la fenestro. Li provis legi novaĵojn sur la telefono, sed la rigardo ĉiumomente forkuris al la strato, kie homoj iris al laboro, al lernejoj, al siaj ĉiutagaj ritoj.
+
+— Pardonu, ĉu tiu loko estas libera?
+
+Li levis la rigardon. Antaŭ li staris virino ĉirkaŭ kvardekjara — mallongaj ruĝaj haroj, okulvitroj en dikaj kadroj, rideto, kiu ŝajnis samtempe varma kaj atenta. En la mano ŝi tenis libron pri astrologio.
+
+— Jes, kompreneble — li diris, forŝovante sian sakon.
+
+La virino sidiĝis, mendis teon kaj momenton rigardis lin kun scivolemo.
+
+— Michał, ĉu ne? — ŝi demandis. — Marek rakontis al mi pri vi. Li diris, ke vi havas problemon kun... la merkato.
+
+— Marek? — li miradis. — Ĉu vi konas Markon?
+
+— Mi konas multajn homojn. — Ŝi ridetis. — Mi nomiĝas Ewa. Mi estas astrologino. Kaj psikologino.
+
+Michał ekridetis moke. — Astrologio? Vere?
+
+Ewa ne ofendiĝis. — Mi scias, kion vi pensas. Horoskopoj el gazetoj, mambo jumbo, negravaj aferoj. Ankaŭ mi pensis tiel. Dum longa tempo.
+
+— Kaj kio ŝanĝiĝis?
+
+— Ŝanĝiĝis tio, ke mi komencis trakti astrologion ne kiel divenadon, sed kiel ilon por kompreni ciklojn. Ritmojn. — Ŝi metis la teon sur la tablon. — Diru al mi, Michał, ĉu vi scias, kial la merkato kondutis tiel, kiel ĝi kondutis?
+
+— Ĉar ĝi estas neantaŭvidebla — li respondis malgaje. — Ĉar oni ne povas ĝin kontroli.
+
+— Kaj se vi ne provus ĝin kontroli? Se anstataŭe vi provus kompreni ĝian ritmon? — Ewa kliniĝis antaŭen. — Ĉu vi scias, la antikvaj mezopotamianoj kredis, ke la dioj mortas kaj revenas al vivo. Dumuzi, Tammuz, Baal. Tio ne estis superstiĉo. Tio estis metaforo de cikleco. Somero kaj vintro, kresko kaj falo, vivo kaj morto. Via perdo ne estas fiasko, Michał. Tio estas vintro. Morta sezono. Sed post vintro ĉiam venas printempo.
+
+Michał silentis. En lia kapo aperis memoro el la pasinta semajno, kiam li rigardis filmon pri la fratoj Strugackij. Iu parolis pri tio, ke en iliaj romanoj la herooj ofte suferis malvenkojn, sed tiuj malvenkoj estis la komenco de io nova.
+
+— Kion mi faru? — li demandis fine.
+
+Ewa rigardis lin kun bonvolemo.
+
+— Ĉesi provi kontroli la ondojn. Kompreni, ke ekzistas cikloj. Kaj lerni surfi ilin.
+
+---
+
+## III. TRUNKPUNKTO
+
+Tri semajnojn poste Michał leviĝis je la kvina matene, kiel ĉiutage de du semajnoj. Li verŝis al si kafon, malfermis la tekokomputilon kaj en tajpis en la serĉilon: „planedaj cikloj kaj financaj merkatoj".
+
+Li trovis artikolojn pri retrogrado de Merkuro, pri fazoj de la Luno, pri kiel Jupitero kaj Saturno influas la decidojn de investantoj. Li ne kredis pri tio. Ne tute. Sed io estis en tio — io, kio resonis kun tio, kion diris Ewa.
+
+Dum tri semajnoj li ne komercis. Li nur observis. La merkato falis, poste kreskis, poste denove falis — sed li ne malfermis poziciojn. Anstataŭe li gvidis taglibron, en kiu li registris siajn emociojn: timo, espero, necerteco. Tio, kion li iam konsideris malforto, nun iĝis datumoj.
+
+Kaj tiam li memoris ion, kion li legis en la libro pri astrologio: _"La reveno de Saturno"_. Momento en la vivo, kutime ĉirkaŭ la trideka jaro, kiam ĉio, kion ni konstruis, diseriĝas en malgrandaj pecoj. Ne puno, sed donaco. Ŝanco por nova komenco.
+
+Li havis tridek ok jarojn. Eble li ĵus travivis sian duan revenon de Saturno.
+
+Tiun matenon, unuafoje post unu monato, li malfermis pozicion. Ne grandan — nur simbola. Sed li faris ĝin alie ol antaŭe. Ne kun febro en la okuloj, ne kun la konvinko, ke li kontrolas la rezulton. Li faris ĝin kun la akcepto, ke la rezulto ne dependas de li.
+
+Li sidis antaŭ la ekrano kaj rigardis, kiel la prezo kreskas. Poste falas. Poste denove kreskas. Kaj li ne sentis timon.
+
+— Bone — li diris al si. — Mi ne scias, kiel tio finiĝos. Sed mi scias, ke tio estas nur ondo.
+
+Li fermis la pozicion post du horoj kun profito de sep zlotoj. Tio estis ridinda sumo. Sed li ne rigardis la monon. Li rigardis la trankvilon, kiu aperis en lia kapo.
+
+---
+
+## IV. DUA TRUNKPUNKTO
+
+Kelkajn tagojn poste Michał ricevis mesaĝon de Marek: _"Mi havas por vi ion, kio interesos vin. Ni renkontiĝu sabate."_
+
+Ili renkontiĝis en la sama loko — la kafejo ĉe la stratangulo. Marek estis pli aĝa viro, profesoro de historio, kiu dum jaroj interesiĝis pri la ligoj inter mitologio kaj psikologio.
+
+— Vi pravas, Michał — diris Marek, trinketante kafon. — Via perdo ne estas fiasko. Ĝi estas parto de pli granda ciklo. Ĉu vi scias, en la mezopotamia mitologio ekzistis dio nomata Dumuzi. Ĉiujare li mortis kaj revenis al vivo. Sed tio ne estis nur mito — tio estis maniero priskribi la realon. Morto kaj renaskiĝo, fino kaj nova komenco.
+
+— Kaj kion tio havas komunan kun mia komerco? — demandis Michał, kvankam en la fundo de la animo li sentis, ke la respondo estas ie proksime.
+
+— Ĉion. — Marek kliniĝis antaŭen. — Via komerca strategio, viaj analizoj, via konvinko, ke vi povas kontroli la merkaton — tio estis via malnova ordo. Kaj ĝi devis morti, por ke io nova povu naskiĝi. Sed atentu, Michał — tio ne estas nur metaforo. En unu el la libroj pri astrologio mi legis, ke en decembro 2020 komenciĝis nova ciklo. Granda konjunkcio de Jupitero kaj Saturno en Akvisto. 200 jaroj de civilizo de aero. Tio signifas, ke ĉio, kion ni konis, ĉesas validi. Nia mono, niaj valoroj, niaj pensmanieroj — ĉio ŝanĝiĝas. Kaj se vi ne komprenos tiun ciklon, vi restos malantaŭe.
+
+Michał silentis. En lia kapo aperis memoro el la lasta jaro — kiel ĉiuj ĉirkaŭ li parolis pri artefarita inteligenteco, pri novaj teknologioj, pri ŝanĝoj, kiuj okazas tro rapide por sekvi.
+
+— Tio signifas, ke mi devas ŝanĝi ne nur la strategion — li diris malrapide. — Mi devas ŝanĝi la pensmanieron.
+
+— Ĝuste — konfirmis Marek. — Kaj tio estas via reveno de Saturno. Via ŝanco por nova komenco.
+
+---
+
+## V. FINO
+
+Ses monatojn poste Michał staris sur la plaĝo en Gdańsk, rigardante la Baltan Maron. Estis decembro, malvarme, sed li ne sentis la malvarmon. Dum la lasta duonjaro li lernis novan strategion — ne bazitan sur teknika analizo, sed sur kompreno de cikloj. Planedoj, fazoj de la Luno, retrogradoj — li ne traktis ilin kiel orakolon, sed kiel ilojn, kiuj helpis al li kompreni, kiam agi kaj kiam ripozi.
+
+Lia konto estis je malgranda minuso — sed ne tia, kiu lin detruis. Tio estis minuso, kun kiu li sciis vivi. Li konis siajn limojn, siajn principojn, siajn ciklojn. Li ĉesis batali kontraŭ la merkato. Li komencis ĝin observi.
+
+En la poŝo li havis telefonon, sur kiu montriĝis astrologia aplikaĵo — informo, ke Jupitero ĵus eniris la signon de Fiŝoj, kio devis signifi la komencon de nova emocia ciklo.
+
+Li ne kredis pri tio blinde. Sed li lernis akcepti, ke estas aferoj, kiujn li ne komprenas. Kaj ke tio estas en ordo.
+
+Li memorigis al si la vortojn de Ewa: _"Astrologio regas nenion. Tio estas nur horloĝo. Ĝi montras al vi, kie vi estas sur la tempolinio."_
+
+Kaj la vortojn de Marek: _"La plej grandaj malkovroj komenciĝas de tio, ke iu rimarkas ion, kion aliaj ne volas vidi."_
+
+Li profunde enspiris kaj rigardis la ĉielon. Tage ne estis videblaj steloj, sed li sciis, ke tie, ie en la kosmo, la planedoj turniĝas en siaj ritmoj. Kaj ke ankaŭ li estas parto de tiu ritmo.
+
+Li ridetis al si mem.
+
+_"Bone"_ — li pensis. _"Ĝuste tiel devus esti."_
+
+Li iris laŭ la bordo, lasante malantaŭ si la pasintecon, kiu devis morti, por ke io nova povu naskiĝi. Ĉar li sciis, ke tio, kio estas vere grava, nur komenciĝas.
+
+---
+
+## VI. EPILOGO
+
+Nokte Michał vekiĝis kun stranga sento. Sonĝis al li, ke li staras en antikva templo, kaj antaŭ li estas pastro, kiu diras ion pri Tammuz. Pri dio, kiu mortas kaj revenas al vivo. Sed en tiu sonĝo tio ne estis mito — tio estis realo.
+
+Li sidiĝis sur la lito kaj etendis la manon al la telefono. Li malfermis la astrologian aplikaĵon kaj kontrolis la aranĝon de la planedoj. Venuso ĵus eniris trignon kun Jupitero — aranĝo, kiu, kiel oni klarigis al li, favoris novajn komencojn.
+
+Li leviĝis, verŝis al si teon kaj sidiĝis antaŭ la komputilo. Li malfermis la komercan taglibron kaj en tajpis:
+
+_"Hodiaŭ mi komencas novan ciklon. Mi ne scias, kion ĝi alportos. Sed mi scias, ke mi estas preta."_
+
+Li fermis la komputilon kaj rigardis tra la fenestro. Ekstere komencis fali neĝo — la unua en tiu vintro. Blankaj flokoj falis malrapide, kovrante la urbon per tavolo de silento.
+
+Li memorigis al si la vortojn, kiujn li legis en la libro de Frazer: _"La dio mortas, por renaskiĝi."_
+
+Kaj li komprenis, ke tio ne estis nur metaforo.
+
+Tio estis plano.
+
+---
+
+**FINO**
+
+---
+
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Kiom Michał perdas komence de la rakonto?
+
+**Answers:**
+- A) Ok mil zlotojn
+- B) Dudek tri mil zlotojn
+- C) Cent zlotojn
+- D) Unu milionon da zlotoj
+
+**Correct:** B
+**Explanation:** La teksto parolas pri perdo de dudek tri mil zlotoj.
+**Text reference:** dudek tri mil
+
+### Question 2
+
+**Question:** Kiun libron li aĉetas en la antikvaĵvendejo?
+
+**Answers:**
+- A) La Oran Branĉon de James George Frazer
+- B) La Reĝon de l' Ringoj
+- C) Enciklopedion de kriptomoneroj
+- D) Jaran horoskopon
+
+**Correct:** A
+**Explanation:** Li aĉetas „La Oran Branĉon" de Frazer.
+**Text reference:** La Ora Branĉo
+
+### Question 3
+
+**Question:** Kion Ewa konsilas al Michał anstataŭ kontroli la merkaton?
+
+**Answers:**
+- A) Prunti pli da kapitalo
+- B) Observi la ciklojn kaj lerni surfi ilin
+- C) Rezigni la laboron
+- D) Aĉeti nur akciojn de bankoj
+
+**Correct:** B
+**Explanation:** Ewa parolas pri kompreno de la ritmo kaj surfo anstataŭ kontrolo.
+**Text reference:** surfi
+
+### Question 4
+
+**Question:** Kiom Michał gajnas post la unua simbola transakcio?
+
+**Answers:**
+- A) Profiton de sep zlotoj
+- B) Profiton de dudek tri mil
+- C) Perdon de pliaj ok mil
+- D) Nenion — li ne komercas
+
+**Correct:** A
+**Explanation:** Li fermas la pozicion kun profito de sep zlotoj.
+**Text reference:** sep zlotoj
+
+### Question 5
+
+**Question:** Kie finiĝas la rakonto kun Michał rigardanta la maron?
+
+**Answers:**
+- A) Sur la plaĝo en Gdańsk
+- B) Sur la Vavelo
+- C) En laboratorio en Gdynia
+- D) En la antikvaĵvendejo
+
+**Correct:** A
+**Explanation:** Ses monatojn poste li staras sur la plaĝo en Gdańsk.
+**Text reference:** plaĝo en Gdańsk
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "De kie devenas Mai?",
+      "answers": [
+        "El Pollando",
+        "El norda Vjetnamio",
+        "El Ĉinio",
+        "El Japanio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi naskiĝis en vilaĝo en la montoj de Vjetnamio; la familio elmigris."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio igas Mai reveni al la danco?",
+      "answers": [
+        "Premio en konkurso",
+        "Filmeto kun la danco de Hmong",
+        "Premo de la familio",
+        "Postulo de la lernejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi trafas filmeton kun la danco de Hmong kaj sentas sopiron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Mai diras al Ania pri hejmo?",
+      "answers": [
+        "Hejmo estas adreso",
+        "Hejmo estas sento, ne loko",
+        "Hejmo estas nur Vjetnamio",
+        "Hejmo ne ekzistas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi respondas: hejmo estas sento, ne loko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Mai diras al la lernantoj pri la danco?",
+      "answers": [
+        "Ke tio estas sporto",
+        "Ke la danco estas konversacio kun la prapatroj",
+        "Ke tio estas modo",
+        "Ke tio estas nur movo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi diras, ke la danco estas konversacio kun la prapatroj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Mai tenas en la mano en la epilogo?",
+      "answers": [
+        "Telefonon",
+        "Monbileton de cent kronoj",
+        "Leteron",
+        "Aviadan bileton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi tenas cent kronojn — la monon el la tago de la kolapso de la sistemo."
+    }
+  ]
+}
