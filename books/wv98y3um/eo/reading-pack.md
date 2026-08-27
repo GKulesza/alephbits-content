@@ -204,10 +204,10 @@ Li leviĝis, prenis sian palton kaj eliris el la domo. Antaŭ li estis multaj de
 **Question:** Kion Marek trovas en la kelo?
 
 **Answers:**
-- A) Oron
+- A) Oron kaj valorajn juvelojn de la domo
 - B) Skatolon kun malnovaj leteroj pole kaj ukraine
-- C) Armilojn
-- D) Fotojn
+- C) Malnovajn armilojn kaj municion de la milito
+- D) Malnovajn fotojn de la tuta familio
 
 **Correct:** B
 **Explanation:** Skatolo kun centoj da leteroj en du lingvoj.
@@ -218,10 +218,10 @@ Li leviĝis, prenis sian palton kaj eliris el la domo. Antaŭ li estis multaj de
 **Question:** Al kiu estas adresita la unua letero el 1943?
 
 **Answers:**
-- A) Al Marek
+- A) Al Marek, lia amiko
 - B) Al "Kara Janku"
-- C) Al lia avo
-- D) Al soldatoj
+- C) Al lia avo el la milito
+- D) Al la soldatoj de la fronto
 
 **Correct:** B
 **Explanation:** La letero komenciĝas: "Janku..."
@@ -232,10 +232,10 @@ Li leviĝis, prenis sian palton kaj eliris el la domo. Antaŭ li estis multaj de
 **Question:** Kiu montriĝas esti la aŭtoro de la letero laŭ Ołeksandr?
 
 **Answers:**
-- A) Polo
+- A) Polo el la nordaj regionoj
 - B) La ukraina avo de Ołeksandr, devige varbita en la UPA
-- C) Germano
-- D) Soldato de la Hejma Armeo (AK)
+- C) Germano el la orientaj regionoj
+- D) Soldato de la Hejma Armeo (AK) en la dua mondmilito
 
 **Correct:** B
 **Explanation:** Ołeksandr diras: li estis mia avo Ivano.
@@ -246,10 +246,10 @@ Li leviĝis, prenis sian palton kaj eliris el la domo. Antaŭ li estis multaj de
 **Question:** Kion Marek skribas komence de sia teksto?
 
 **Answers:**
-- A) Ke oni devas forgesi
-- B) "Ne ekzistas io pli malbona ol viktimoj, kiuj provas elekti siajn proprajn ekzekutistojn."
-- C) Ke kulpaj estas ĉiuj
-- D) Ke la historio estas simpla
+- A) Ke oni devas forgesi pri la pasinteco de la milito kaj vivi plu
+- B) Ke viktimoj ne devus elekti siajn proprajn ekzekutistojn
+- C) Ke kulpaj estas ĉiuj flankoj de la konflikto kaj de la milito
+- D) Ke la historio estas simpla kaj klara por ĉiuj legantoj
 
 **Correct:** B
 **Explanation:** Li citas la frazon pri viktimoj elektantaj ekzekutistojn.
@@ -260,10 +260,10 @@ Li leviĝis, prenis sian palton kaj eliris el la domo. Antaŭ li estis multaj de
 **Question:** Kion Marek skribas fine pri la memoro de Volinio?
 
 **Answers:**
-- A) Ke ĝi devus dividi
+- A) Ke ĝi devus dividi la homojn
 - B) Ke la memoro devus kunigi, ne dividi — por kompreni
-- C) Ke oni devas silenti
-- D) Ke suferas nur poloj
+- C) Ke oni devas silenti pri la pasinteco por ĉiam kaj ĉie
+- D) Ke suferas nur poloj en la milito
 
 **Correct:** B
 **Explanation:** Li konkludas: la memoro devus nin kunigi, ne dividi.

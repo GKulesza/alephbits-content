@@ -194,10 +194,10 @@ La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar
 **Question:** Kiu direktis Darkon al doktorino Cubała?
 
 **Answers:**
-- A) Marta
+- A) Marta, la filino
 - B) Profesoro Czupryniak
-- C) Psikologo
-- D) La estro
+- C) La ĉefa psikologo
+- D) La estro de la kliniko
 
 **Correct:** B
 **Explanation:** La noto: profesoro Czupryniak diras — tio ne estas diabeto, iru al doktorino Cubała.
@@ -208,10 +208,10 @@ La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar
 **Question:** Kio estas nenormala ĉe Darek en la kortizola kurbo?
 
 **Answers:**
-- A) Tro alta matene
-- B) Matene la kortizolo apenaŭ "spiras", vespere ĝi eksplodas supren
-- C) Manko de kortizolo
-- D) Konstanta nivelo
+- A) Tro alta matene en la sango de la paciento
+- B) Ke la tagritmo de kortizolo estas inversigita
+- C) Manko de kortizolo en la korpo de la paciento
+- D) Konstanta nivelo de kortizolo dum la tuta tago
 
 **Correct:** B
 **Explanation:** Magdalena klarigas la inversigitan tagan ritmon de kortizolo.
@@ -222,10 +222,10 @@ La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar
 **Question:** Kion Magdalena diras pri la intest-cerba akso?
 
 **Answers:**
-- A) Ke ĝi ne ekzistas
-- B) Ke ĝi estas dudirekta ŝoseo — la streso ruinigas la intestojn, malsanaj intestoj streĉigas la cerbon
-- C) Ke ĝi koncernas nur infanojn
-- D) Ke ĝin kuracas antibiotiko
+- A) Ke ĝi ne ekzistas en la realo de la medicino
+- B) Ke streso kaj intestoj influas sin reciproke ambaŭdirekte
+- C) Ke ĝi koncernas nur infanojn kaj junulojn en la lernejo
+- D) Ke ĝin kuracas simpla antibiotiko kaj paŭzo
 
 **Correct:** B
 **Explanation:** Ŝi priskribas la varian cirklon inter streso kaj intestoj.
@@ -236,10 +236,10 @@ La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar
 **Question:** Kion Darek agnoskas pri la eksedziĝo kun Marta?
 
 **Answers:**
-- A) Ke Marta estis kulpa
-- B) Ke li ne havis forton kvereli kaj pensis, ke ŝi troigas — kaj nun li vidas, ke li "rompiĝis"
-- C) Ke li neniam amis ŝin
-- D) Ke li revenos al ŝi
+- A) Ke Marta estis kulpa pri la tuta familia konflikto
+- B) Ke li ne havis forton kvereli kaj nun vidas, ke li rompiĝis
+- C) Ke li neniam amis ŝin kaj volas foriri de la domo
+- D) Ke li revenos al ŝi post la resaniĝo de la korpo kaj de la menso
 
 **Correct:** B
 **Explanation:** Li diras: mi mem rompiĝis laŭvorte.
@@ -250,10 +250,10 @@ La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar
 **Question:** Kion Magdalena diras pri emocioj kaj kortizolo?
 
 **Answers:**
-- A) Ke la emocioj ne gravas
-- B) Ke teni rankoron produktas kortizolon — la korpo estas ĉiam en stato de milito
-- C) Ke oni devas ilin subpremi
-- D) Ke nur medikamentoj helpas
+- A) Ke la emocioj ne gravas por la sano de la korpo de la homo
+- B) Ke la rankoro produktas kortizolon kaj la korpo restas en milito
+- C) Ke oni devas subpremi la emociojn por esti sana kaj forta
+- D) Ke nur medikamentoj helpas la korpon resaniĝi rapide kaj certe
 
 **Correct:** B
 **Explanation:** Ŝi parolas pri emocioj produktantaj kortizolon kaj stato de sieĝo.

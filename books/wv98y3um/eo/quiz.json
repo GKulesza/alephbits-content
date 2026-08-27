@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Marek trovas en la kelo?",
       "answers": [
-        "Oron",
+        "Oron kaj valorajn juvelojn de la domo",
         "Skatolon kun malnovaj leteroj pole kaj ukraine",
-        "Armilojn",
-        "Fotojn"
+        "Malnovajn armilojn kaj municion de la milito",
+        "Malnovajn fotojn de la tuta familio"
       ],
       "correctIndex": 1,
       "explanation": "Skatolo kun centoj da leteroj en du lingvoj."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Al kiu estas adresita la unua letero el 1943?",
       "answers": [
-        "Al Marek",
+        "Al Marek, lia amiko",
         "Al \"Kara Janku\"",
-        "Al lia avo",
-        "Al soldatoj"
+        "Al lia avo el la milito",
+        "Al la soldatoj de la fronto"
       ],
       "correctIndex": 1,
       "explanation": "La letero komenciĝas: \"Janku...\""
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiu montriĝas esti la aŭtoro de la letero laŭ Ołeksandr?",
       "answers": [
-        "Polo",
+        "Polo el la nordaj regionoj",
         "La ukraina avo de Ołeksandr, devige varbita en la UPA",
-        "Germano",
-        "Soldato de la Hejma Armeo (AK)"
+        "Germano el la orientaj regionoj",
+        "Soldato de la Hejma Armeo (AK) en la dua mondmilito"
       ],
       "correctIndex": 1,
       "explanation": "Ołeksandr diras: li estis mia avo Ivano."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Marek skribas komence de sia teksto?",
       "answers": [
-        "Ke oni devas forgesi",
-        "\"Ne ekzistas io pli malbona ol viktimoj, kiuj provas elekti siajn proprajn ekzekutistojn.\"",
-        "Ke kulpaj estas ĉiuj",
-        "Ke la historio estas simpla"
+        "Ke oni devas forgesi pri la pasinteco de la milito kaj vivi plu",
+        "Ke viktimoj ne devus elekti siajn proprajn ekzekutistojn",
+        "Ke kulpaj estas ĉiuj flankoj de la konflikto kaj de la milito",
+        "Ke la historio estas simpla kaj klara por ĉiuj legantoj"
       ],
       "correctIndex": 1,
       "explanation": "Li citas la frazon pri viktimoj elektantaj ekzekutistojn."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Marek skribas fine pri la memoro de Volinio?",
       "answers": [
-        "Ke ĝi devus dividi",
+        "Ke ĝi devus dividi la homojn",
         "Ke la memoro devus kunigi, ne dividi — por kompreni",
-        "Ke oni devas silenti",
-        "Ke suferas nur poloj"
+        "Ke oni devas silenti pri la pasinteco por ĉiam kaj ĉie",
+        "Ke suferas nur poloj en la milito"
       ],
       "correctIndex": 1,
       "explanation": "Li konkludas: la memoro devus nin kunigi, ne dividi."

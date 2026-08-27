@@ -219,10 +219,10 @@ La artikolo ne ŝanĝis la mondon. Sed ĝi ŝanĝis Piotr.
 **Question:** Kien Piotr iras komence de la rakonto?
 
 **Answers:**
-- A) Al muzeo
+- A) Al la muzeo de la urbo
 - B) Al la Arĥivo de Novaj Dokumentoj
-- C) Al tombejo
-- D) Al juĝejo
+- C) Al la tombejo de la urbo
+- D) Al la juĝejo de la distrikto
 
 **Correct:** B
 **Explanation:** Li staras antaŭ la konstruaĵo de la Arĥivo de Novaj Dokumentoj.
@@ -233,10 +233,10 @@ La artikolo ne ŝanĝis la mondon. Sed ĝi ŝanĝis Piotr.
 **Question:** Kion li ricevis de nekonata viro en Łomża?
 
 **Answers:**
-- A) Monon
+- A) Monon por la vojaĝo
 - B) Koverton kun kopioj de dokumentoj el 1945
-- C) Leteron de Gross
-- D) Fotografion
+- C) Leteron de Gross el la arĥivo de la urbo
+- D) Fotografion de la familio
 
 **Correct:** B
 **Explanation:** La koverto enhavas kopiojn de dokumentoj kun atestoj.
@@ -247,10 +247,10 @@ La artikolo ne ŝanĝis la mondon. Sed ĝi ŝanĝis Piotr.
 **Question:** Kion la direktoro de la arĥivo diras pri la vero en tiu ĉi afero?
 
 **Answers:**
-- A) Ke ĝi estas simpla
-- B) Ke la vero estas kiel la Sankta Gralo — ĉiuj serĉas, neniu volas trovi
-- C) Ke ĝi ne ekzistas
-- D) Ke ĝi estas en lernolibro
+- A) Ke ĝi estas simpla kaj klara por ĉiuj legantoj
+- B) Ke la vero estas kiel la Sankta Gralo — neniu volas ĝin trovi
+- C) Ke ĝi ne ekzistas en la mondo de la politiko
+- D) Ke ĝi estas en lernolibro de la lernejo de la urbo Łomża por ĉiuj lernantoj
 
 **Correct:** B
 **Explanation:** Li diras, ke la vero estas malkomforta por ĉiuj flankoj.
@@ -261,10 +261,10 @@ La artikolo ne ŝanĝis la mondon. Sed ĝi ŝanĝis Piotr.
 **Question:** Kiu estas Marek, kiu renkontas Piotr-on en la kafejo?
 
 **Answers:**
-- A) Studento
+- A) Studento de la universitato
 - B) Instruisto de historio el Łomża
-- C) Ĵurnalisto
-- D) Politikisto
+- C) Ĵurnalisto de la loka gazeto
+- D) Politikisto de la urbo
 
 **Correct:** B
 **Explanation:** Marek estas instruisto de historio en la loka liceo.
@@ -275,10 +275,10 @@ La artikolo ne ŝanĝis la mondon. Sed ĝi ŝanĝis Piotr.
 **Question:** Kion Piotr skribas fine de la artikolo pri historio?
 
 **Answers:**
-- A) Ke ĝi apartenas al unu flanko
-- B) Ke historio estas serĉado de la vero, kaj Jedwabne estas pli kompleksa ol oni diris
-- C) Ke oni devas forgesi
-- D) Ke Gross eraris
+- A) Ke ĝi apartenas al unu flanko de la konflikto por ĉiam
+- B) Ke historio estas serĉado de la vero kaj Jedwabne pli kompleksa
+- C) Ke oni devas forgesi pri la pasinteco de la milito
+- D) Ke Gross eraris en sia libro pri la historio de la urbo Łomża
 
 **Correct:** B
 **Explanation:** Li skribas pri la komplekseco de la vero kaj pri tio, ke historio ne estas propraĵo de unu flanko.

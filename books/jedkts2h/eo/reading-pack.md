@@ -259,10 +259,10 @@ Edukado ne estas batalo. Ĝi estas komuna vojaĝo. Kaj eĉ se ĝi kelkfoje estas
 **Question:** Kiel Anna priskribas la familion?
 
 **Answers:**
-- A) Kiel prizonon
+- A) Kiel prizonon sen elirejo por ĉiuj loĝantoj de la domo
 - B) Kiel komunikantajn vazojn — la akvonivelo ŝanĝiĝas ĉie
-- C) Kiel firmaon
-- D) Kiel teatron
+- C) Kiel firmaon de la komerco de la urbo
+- D) Kiel teatron de la urbo de la regiono
 
 **Correct:** B
 **Explanation:** Familio kiel komunikantaj vazoj — influo ambaŭdirekte.
@@ -274,9 +274,9 @@ Edukado ne estas batalo. Ĝi estas komuna vojaĝo. Kaj eĉ se ĝi kelkfoje estas
 
 **Answers:**
 - A) Sekvojn kaj riparon de la damaĝo
-- B) Ignoradon
-- C) Forpelon el la lernejo
-- D) Publikan humiligon
+- B) Ignoradon de la malbona konduto
+- C) Forpelon el la lernejo de la urbo
+- D) Publikan humiligon antaŭ la klaso
 
 **Correct:** A
 **Explanation:** Naturaj sekvoj — pardonpetoj, purigado, riparo.
@@ -287,10 +287,10 @@ Edukado ne estas batalo. Ĝi estas komuna vojaĝo. Kaj eĉ se ĝi kelkfoje estas
 **Question:** Kion Marta diras al Kacper, kiam li ĵetas aferojn?
 
 **Answers:**
-- A) Vi estas malpermesata havi emociojn
+- A) Vi estas malpermesata havi emociojn en la domo kaj en la lernejo
 - B) Vi havas la rajton koleri, sed vi ne povas ĵeti aferojn
-- C) Iru tuj en la angulon
-- D) Ŝi diras nenion
+- C) Iru tuj en la angulon kaj silentu
+- D) Ŝi diras nenion kaj foriras
 
 **Correct:** B
 **Explanation:** "Vi havas la rajton koleri" + klara limo.
@@ -301,10 +301,10 @@ Edukado ne estas batalo. Ĝi estas komuna vojaĝo. Kaj eĉ se ĝi kelkfoje estas
 **Question:** Kion Kacper faras, kiam li nervoziĝas en la lernejo post la ŝanĝoj?
 
 **Answers:**
-- A) Li batas aliajn
-- B) Li sidiĝas sur la tapiŝo, premas la strespilkon, diras "mi bezonas momenton"
-- C) Li forkuras de la lernejo
-- D) Li krias al la instruistino
+- A) Li batas aliajn infanojn en la lernejo
+- B) Li sidiĝas, premas la strespilkon kaj petas momenton
+- C) Li forkuras de la lernejo kaj de la klaso hejmen
+- D) Li krias al la instruistino kaj al la kolegoj de la klaso
 
 **Correct:** B
 **Explanation:** Li lernas reguliĝon — strespilko, momento, eliro.
@@ -315,10 +315,10 @@ Edukado ne estas batalo. Ĝi estas komuna vojaĝo. Kaj eĉ se ĝi kelkfoje estas
 **Question:** Kio estas sur la desegno, kiun Kacper donas al Anna?
 
 **Answers:**
-- A) Dinosaŭro
+- A) Dinosaŭro el la ludo
 - B) Danko: "instruis min esti bona"
-- C) Domo sen homoj
-- D) Mapo
+- C) Domo sen homoj kaj fenestroj
+- D) Mapo de la lernejo
 
 **Correct:** B
 **Explanation:** La skribo: "Dankon, ke vi instruis min esti bona."

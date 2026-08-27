@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kiu direktis Darkon al doktorino Cubała?",
         "answers": [
-          "Marta",
+          "Marta, la filino",
           "Profesoro Czupryniak",
-          "Psikologo",
-          "La estro"
+          "La ĉefa psikologo",
+          "La estro de la kliniko"
         ],
         "correctIndex": 1,
         "explanation": "La noto: profesoro Czupryniak diras — tio ne estas diabeto, iru al doktorino Cubała."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kio estas nenormala ĉe Darek en la kortizola kurbo?",
         "answers": [
-          "Tro alta matene",
-          "Matene la kortizolo apenaŭ \"spiras\", vespere ĝi eksplodas supren",
-          "Manko de kortizolo",
-          "Konstanta nivelo"
+          "Tro alta matene en la sango de la paciento",
+          "Ke la tagritmo de kortizolo estas inversigita",
+          "Manko de kortizolo en la korpo de la paciento",
+          "Konstanta nivelo de kortizolo dum la tuta tago"
         ],
         "correctIndex": 1,
         "explanation": "Magdalena klarigas la inversigitan tagan ritmon de kortizolo."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion Magdalena diras pri la intest-cerba akso?",
         "answers": [
-          "Ke ĝi ne ekzistas",
-          "Ke ĝi estas dudirekta ŝoseo — la streso ruinigas la intestojn, malsanaj intestoj streĉigas la cerbon",
-          "Ke ĝi koncernas nur infanojn",
-          "Ke ĝin kuracas antibiotiko"
+          "Ke ĝi ne ekzistas en la realo de la medicino",
+          "Ke streso kaj intestoj influas sin reciproke ambaŭdirekte",
+          "Ke ĝi koncernas nur infanojn kaj junulojn en la lernejo",
+          "Ke ĝin kuracas simpla antibiotiko kaj paŭzo"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi priskribas la varian cirklon inter streso kaj intestoj."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion Darek agnoskas pri la eksedziĝo kun Marta?",
         "answers": [
-          "Ke Marta estis kulpa",
-          "Ke li ne havis forton kvereli kaj pensis, ke ŝi troigas — kaj nun li vidas, ke li \"rompiĝis\"",
-          "Ke li neniam amis ŝin",
-          "Ke li revenos al ŝi"
+          "Ke Marta estis kulpa pri la tuta familia konflikto",
+          "Ke li ne havis forton kvereli kaj nun vidas, ke li rompiĝis",
+          "Ke li neniam amis ŝin kaj volas foriri de la domo",
+          "Ke li revenos al ŝi post la resaniĝo de la korpo kaj de la menso"
         ],
         "correctIndex": 1,
         "explanation": "Li diras: mi mem rompiĝis laŭvorte."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Magdalena diras pri emocioj kaj kortizolo?",
         "answers": [
-          "Ke la emocioj ne gravas",
-          "Ke teni rankoron produktas kortizolon — la korpo estas ĉiam en stato de milito",
-          "Ke oni devas ilin subpremi",
-          "Ke nur medikamentoj helpas"
+          "Ke la emocioj ne gravas por la sano de la korpo de la homo",
+          "Ke la rankoro produktas kortizolon kaj la korpo restas en milito",
+          "Ke oni devas subpremi la emociojn por esti sana kaj forta",
+          "Ke nur medikamentoj helpas la korpon resaniĝi rapide kaj certe"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi parolas pri emocioj produktantaj kortizolon kaj stato de sieĝo."

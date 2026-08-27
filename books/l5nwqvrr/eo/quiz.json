@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiel Anna priskribas siajn unuajn sentojn post la vundo?",
       "answers": [
-        "Ŝi sentas nur fizikan doloron",
-        "Ŝi sentas strangecon de sia propra korpo kaj la impreson, ke la mano ne apartenas al ŝi",
-        "Ŝi tuj memoras la tutan akcidenton",
-        "Ŝi havas neniajn psikajn simptomojn"
+        "Ŝi sentas nur fizikan doloron en la brako kaj en la ŝultro",
+        "Ŝi sentas strangecon de sia korpo — la mano ne apartenas al ŝi",
+        "Ŝi tuj memoras la tutan akcidenton detale kaj klare",
+        "Ŝi havas neniajn psikajn simptomojn post la vundo de la mano"
       ],
       "correctIndex": 1,
       "explanation": "La unuaj scenoj fokusiĝas al la perturbita sento de sia propra korpeco."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Por kio doktoro Marek proponas mikrofenomenologion?",
       "answers": [
-        "Por mezuri la sangopremon",
-        "Por esplori la strukturon de la sperto de Anna, ne nur la rezultojn de skanaĵoj",
-        "Por anstataŭigi la magneta resonancon",
-        "Por instrui al ŝi religian meditadon"
+        "Por mezuri la sangopremon kaj la pulson de la paciento",
+        "Por esplori la sperton de Anna, ne nur la skanaĵojn",
+        "Por anstataŭigi la magnetan resonancon de la hospitalo",
+        "Por instrui al ŝi religian meditadon de la oriento"
       ],
       "correctIndex": 1,
       "explanation": "La metodo devas helpi priskribi la sperton mem de konscio kaj percepto."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiun penson alportas Marta en la konversacio pri iluzio kaj 'mi'?",
       "answers": [
-        "Ke tiaj demandoj ne havas sencon",
-        "Ke eĉ se la sperto estas iluzio, ĝi restas travivata kiel propra kaj reala",
-        "Ke oni devas tuj malŝalti ĉiujn maŝinojn",
-        "Ke la konscio estas nur religio"
+        "Ke tiaj demandoj ne havas sencon por la moderna scienco",
+        "Ke eĉ iluzia sperto restas travivata kiel propra kaj reala",
+        "Ke oni devas tuj malŝalti ĉiujn maŝinojn de la esploro",
+        "Ke la konscio estas nur afero de religio kaj de kredo"
       ],
       "correctIndex": 1,
       "explanation": "Marta emfazas la gravecon de la sperto kiel propra, eĉ se ĝi havas la karakteron de mensa konstruo."
@@ -43,9 +43,9 @@
       "type": "single_choice",
       "question": "Kiel doktoro Marek distingas inteligentecon kaj konscion?",
       "answers": [
-        "Li konsideras ilin la samo",
+        "Li konsideras ilin la samo en la esenco",
         "Li diras, ke inteligenteco povas ekzisti sen subjekta sentado",
-        "Li asertas, ke la konscio estas facile mezurebla",
+        "Li asertas, ke la konscio estas facile mezurebla per maŝinoj",
         "Li opinias, ke AI jam estas plene konscia"
       ],
       "correctIndex": 1,
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Al kiu konkludo venas Anna en la epilogo?",
       "answers": [
-        "Ke ŝi trovis definitivan difinon de la konscio",
+        "Ke ŝi trovis definitivan difinon de la konscio por la tuta homaro",
         "Ke la demando pri 'mi' povas esti pli grava ol preta respondo",
-        "Ke ŝi ne plu volas skribi pri scienco",
-        "Ke la vundo nenion ŝanĝis ĉe ŝi"
+        "Ke ŝi ne plu volas skribi pri scienco kaj konscio",
+        "Ke la vundo nenion ŝanĝis ĉe ŝi en la vivo"
       ],
       "correctIndex": 1,
       "explanation": "La fino lasas la problemon malfermita kaj emfazas la gravecon de la demando mem."

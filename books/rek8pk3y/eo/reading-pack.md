@@ -341,9 +341,9 @@ Kaj tiam ŝi komprenis, ke ne temas pri tio, por ŝanĝi la tutan mondon. Temas 
 
 **Answers:**
 - A) Pri la influo de dolĉigaj substancoj sur la ĉelan metabolon
-- B) Pri la historio de astronomio
-- C) Pri la organika kemio en gimnazio
-- D) Pri la kordoteorio
+- B) Pri la historio de astronomio en la mezepoko de Eŭropo
+- C) Pri la organika kemio en la gimnazio de la urbo de la regiono
+- D) Pri la kordoteorio de la moderna fiziko
 
 **Correct:** A
 **Explanation:** Komence la teksto parolas pri artikolo pri la influo de dolĉigaj substancoj sur la ĉelan metabolon.
@@ -354,10 +354,10 @@ Kaj tiam ŝi komprenis, ke ne temas pri tio, por ŝanĝi la tutan mondon. Temas 
 **Question:** Kion profesoro Nowak proponas al Ania?
 
 **Answers:**
-- A) Senpagan forpermeson
-- B) Financadon de esploroj pri la nova generacio de dolĉigiloj de granda firmao
-- C) Ŝanĝon de la loĝlando
-- D) Rezignon de la doktoriĝo
+- A) Senpagan forpermeson por la somero en la sudo de la lando
+- B) Financadon de esploroj pri nova generacio de dolĉigiloj
+- C) Ŝanĝon de la loĝlando al alia lando de la Eŭropo
+- D) Rezignon de la doktoriĝo kaj de la tuta scienca kariero
 
 **Correct:** B
 **Explanation:** Nowak parolas pri firmao, kiu volas financi esplorojn pri la nova generacio de dolĉigiloj.
@@ -368,10 +368,10 @@ Kaj tiam ŝi komprenis, ke ne temas pri tio, por ŝanĝi la tutan mondon. Temas 
 **Question:** Kial Anna hezitas antaŭ ol akcepti la sponsoradon?
 
 **Answers:**
-- A) Ĉar ŝi ne ŝatas la laboratorion
-- B) Ĉar ŝi scias, ke la mono de la konzerno povas distordi la rezultojn kaj la devontigojn
-- C) Ĉar ŝi ne konas la anglan lingvon
-- D) Ĉar ŝi volas fariĝi politikistino
+- A) Ĉar ŝi ne ŝatas la laboratorion de la universitato en la ĉefurbo
+- B) Ĉar la mono de la konzerno povas distordi la rezultojn
+- C) Ĉar ŝi ne konas la anglan lingvon de la esploroj
+- D) Ĉar ŝi volas fariĝi politikistino de la urbo
 
 **Correct:** B
 **Explanation:** La tuta fadeno koncernas la konflikton inter financado kaj scienca honesteco.
@@ -382,10 +382,10 @@ Kaj tiam ŝi komprenis, ke ne temas pri tio, por ŝanĝi la tutan mondon. Temas 
 **Question:** Kiel Ania finas la rakonton?
 
 **Answers:**
-- A) Ŝi subskribas interkonsenton kun la konzerno
+- A) Ŝi subskribas interkonsenton kun la granda konzerno
 - B) Ŝi diras, ke ŝi farus la samon, eĉ se ĝi devus ripetiĝi
-- C) Ŝi forlasas la sciencon sen vorto
-- D) Ŝi publikigas falsajn rezultojn
+- C) Ŝi forlasas la sciencon sen iu ajn vorto
+- D) Ŝi publikigas falsajn rezultojn de la esploroj
 
 **Correct:** B
 **Explanation:** Ŝi finas per deklaracio, ke eĉ se ĝi devus ripetiĝi, ŝi farus la samon — ŝi restis sciencistino, ne ilo.
@@ -398,8 +398,8 @@ Kaj tiam ŝi komprenis, ke ne temas pri tio, por ŝanĝi la tutan mondon. Temas 
 **Answers:**
 - A) Scienco ĉiam estas libera de politiko
 - B) Scienco sen vero fariĝas ilo de manipulado
-- C) Konzernoj ĉiam diras la veron
-- D) Esploroj ne bezonas monon
+- C) Konzernoj ĉiam diras la veron pri la produktoj
+- D) Esploroj ne bezonas monon por labori
 
 **Correct:** B
 **Explanation:** La fina pripensado diras rekte pri scienco sen vero kiel ilo de manipulado.

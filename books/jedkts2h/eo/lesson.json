@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kiel Anna priskribas la familion?",
         "answers": [
-          "Kiel prizonon",
+          "Kiel prizonon sen elirejo por ĉiuj loĝantoj de la domo",
           "Kiel komunikantajn vazojn — la akvonivelo ŝanĝiĝas ĉie",
-          "Kiel firmaon",
-          "Kiel teatron"
+          "Kiel firmaon de la komerco de la urbo",
+          "Kiel teatron de la urbo de la regiono"
         ],
         "correctIndex": 1,
         "explanation": "Familio kiel komunikantaj vazoj — influo ambaŭdirekte."
@@ -56,9 +56,9 @@
         "question": "Kion Anna proponas anstataŭ punoj kiel forpreno de la tablojdo?",
         "answers": [
           "Sekvojn kaj riparon de la damaĝo",
-          "Ignoradon",
-          "Forpelon el la lernejo",
-          "Publikan humiligon"
+          "Ignoradon de la malbona konduto",
+          "Forpelon el la lernejo de la urbo",
+          "Publikan humiligon antaŭ la klaso"
         ],
         "correctIndex": 0,
         "explanation": "Naturaj sekvoj — pardonpetoj, purigado, riparo."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kion Marta diras al Kacper, kiam li ĵetas aferojn?",
         "answers": [
-          "Vi estas malpermesata havi emociojn",
+          "Vi estas malpermesata havi emociojn en la domo kaj en la lernejo",
           "Vi havas la rajton koleri, sed vi ne povas ĵeti aferojn",
-          "Iru tuj en la angulon",
-          "Ŝi diras nenion"
+          "Iru tuj en la angulon kaj silentu",
+          "Ŝi diras nenion kaj foriras"
         ],
         "correctIndex": 1,
         "explanation": "\"Vi havas la rajton koleri\" + klara limo."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kion Kacper faras, kiam li nervoziĝas en la lernejo post la ŝanĝoj?",
         "answers": [
-          "Li batas aliajn",
-          "Li sidiĝas sur la tapiŝo, premas la strespilkon, diras \"mi bezonas momenton\"",
-          "Li forkuras de la lernejo",
-          "Li krias al la instruistino"
+          "Li batas aliajn infanojn en la lernejo",
+          "Li sidiĝas, premas la strespilkon kaj petas momenton",
+          "Li forkuras de la lernejo kaj de la klaso hejmen",
+          "Li krias al la instruistino kaj al la kolegoj de la klaso"
         ],
         "correctIndex": 1,
         "explanation": "Li lernas reguliĝon — strespilko, momento, eliro."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kio estas sur la desegno, kiun Kacper donas al Anna?",
         "answers": [
-          "Dinosaŭro",
+          "Dinosaŭro el la ludo",
           "Danko: \"instruis min esti bona\"",
-          "Domo sen homoj",
-          "Mapo"
+          "Domo sen homoj kaj fenestroj",
+          "Mapo de la lernejo"
         ],
         "correctIndex": 1,
         "explanation": "La skribo: \"Dankon, ke vi instruis min esti bona.\""

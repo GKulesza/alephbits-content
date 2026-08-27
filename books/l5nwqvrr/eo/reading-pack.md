@@ -291,10 +291,10 @@ Malantaŭ la fenestro pluvis. Kaj ŝi skribis plu.
 **Question:** Kiel Anna priskribas siajn unuajn sentojn post la vundo?
 
 **Answers:**
-- A) Ŝi sentas nur fizikan doloron
-- B) Ŝi sentas strangecon de sia propra korpo kaj la impreson, ke la mano ne apartenas al ŝi
-- C) Ŝi tuj memoras la tutan akcidenton
-- D) Ŝi havas neniajn psikajn simptomojn
+- A) Ŝi sentas nur fizikan doloron en la brako kaj en la ŝultro
+- B) Ŝi sentas strangecon de sia korpo — la mano ne apartenas al ŝi
+- C) Ŝi tuj memoras la tutan akcidenton detale kaj klare
+- D) Ŝi havas neniajn psikajn simptomojn post la vundo de la mano
 
 **Correct:** B
 **Explanation:** La unuaj scenoj fokusiĝas al la perturbita sento de sia propra korpeco.
@@ -305,10 +305,10 @@ Malantaŭ la fenestro pluvis. Kaj ŝi skribis plu.
 **Question:** Por kio doktoro Marek proponas mikrofenomenologion?
 
 **Answers:**
-- A) Por mezuri la sangopremon
-- B) Por esplori la strukturon de la sperto de Anna, ne nur la rezultojn de skanaĵoj
-- C) Por anstataŭigi la magneta resonancon
-- D) Por instrui al ŝi religian meditadon
+- A) Por mezuri la sangopremon kaj la pulson de la paciento
+- B) Por esplori la sperton de Anna, ne nur la skanaĵojn
+- C) Por anstataŭigi la magnetan resonancon de la hospitalo
+- D) Por instrui al ŝi religian meditadon de la oriento
 
 **Correct:** B
 **Explanation:** La metodo devas helpi priskribi la sperton mem de konscio kaj percepto.
@@ -319,10 +319,10 @@ Malantaŭ la fenestro pluvis. Kaj ŝi skribis plu.
 **Question:** Kiun penson alportas Marta en la konversacio pri iluzio kaj 'mi'?
 
 **Answers:**
-- A) Ke tiaj demandoj ne havas sencon
-- B) Ke eĉ se la sperto estas iluzio, ĝi restas travivata kiel propra kaj reala
-- C) Ke oni devas tuj malŝalti ĉiujn maŝinojn
-- D) Ke la konscio estas nur religio
+- A) Ke tiaj demandoj ne havas sencon por la moderna scienco
+- B) Ke eĉ iluzia sperto restas travivata kiel propra kaj reala
+- C) Ke oni devas tuj malŝalti ĉiujn maŝinojn de la esploro
+- D) Ke la konscio estas nur afero de religio kaj de kredo
 
 **Correct:** B
 **Explanation:** Marta emfazas la gravecon de la sperto kiel propra, eĉ se ĝi havas la karakteron de mensa konstruo.
@@ -333,9 +333,9 @@ Malantaŭ la fenestro pluvis. Kaj ŝi skribis plu.
 **Question:** Kiel doktoro Marek distingas inteligentecon kaj konscion?
 
 **Answers:**
-- A) Li konsideras ilin la samo
+- A) Li konsideras ilin la samo en la esenco
 - B) Li diras, ke inteligenteco povas ekzisti sen subjekta sentado
-- C) Li asertas, ke la konscio estas facile mezurebla
+- C) Li asertas, ke la konscio estas facile mezurebla per maŝinoj
 - D) Li opinias, ke AI jam estas plene konscia
 
 **Correct:** B
@@ -347,10 +347,10 @@ Malantaŭ la fenestro pluvis. Kaj ŝi skribis plu.
 **Question:** Al kiu konkludo venas Anna en la epilogo?
 
 **Answers:**
-- A) Ke ŝi trovis definitivan difinon de la konscio
+- A) Ke ŝi trovis definitivan difinon de la konscio por la tuta homaro
 - B) Ke la demando pri 'mi' povas esti pli grava ol preta respondo
-- C) Ke ŝi ne plu volas skribi pri scienco
-- D) Ke la vundo nenion ŝanĝis ĉe ŝi
+- C) Ke ŝi ne plu volas skribi pri scienco kaj konscio
+- D) Ke la vundo nenion ŝanĝis ĉe ŝi en la vivo
 
 **Correct:** B
 **Explanation:** La fino lasas la problemon malfermita kaj emfazas la gravecon de la demando mem.

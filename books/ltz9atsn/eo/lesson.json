@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kien Piotr iras komence de la rakonto?",
         "answers": [
-          "Al muzeo",
+          "Al la muzeo de la urbo",
           "Al la Arĥivo de Novaj Dokumentoj",
-          "Al tombejo",
-          "Al juĝejo"
+          "Al la tombejo de la urbo",
+          "Al la juĝejo de la distrikto"
         ],
         "correctIndex": 1,
         "explanation": "Li staras antaŭ la konstruaĵo de la Arĥivo de Novaj Dokumentoj."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion li ricevis de nekonata viro en Łomża?",
         "answers": [
-          "Monon",
+          "Monon por la vojaĝo",
           "Koverton kun kopioj de dokumentoj el 1945",
-          "Leteron de Gross",
-          "Fotografion"
+          "Leteron de Gross el la arĥivo de la urbo",
+          "Fotografion de la familio"
         ],
         "correctIndex": 1,
         "explanation": "La koverto enhavas kopiojn de dokumentoj kun atestoj."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion la direktoro de la arĥivo diras pri la vero en tiu ĉi afero?",
         "answers": [
-          "Ke ĝi estas simpla",
-          "Ke la vero estas kiel la Sankta Gralo — ĉiuj serĉas, neniu volas trovi",
-          "Ke ĝi ne ekzistas",
-          "Ke ĝi estas en lernolibro"
+          "Ke ĝi estas simpla kaj klara por ĉiuj legantoj",
+          "Ke la vero estas kiel la Sankta Gralo — neniu volas ĝin trovi",
+          "Ke ĝi ne ekzistas en la mondo de la politiko",
+          "Ke ĝi estas en lernolibro de la lernejo de la urbo Łomża por ĉiuj lernantoj"
         ],
         "correctIndex": 1,
         "explanation": "Li diras, ke la vero estas malkomforta por ĉiuj flankoj."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kiu estas Marek, kiu renkontas Piotr-on en la kafejo?",
         "answers": [
-          "Studento",
+          "Studento de la universitato",
           "Instruisto de historio el Łomża",
-          "Ĵurnalisto",
-          "Politikisto"
+          "Ĵurnalisto de la loka gazeto",
+          "Politikisto de la urbo"
         ],
         "correctIndex": 1,
         "explanation": "Marek estas instruisto de historio en la loka liceo."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Piotr skribas fine de la artikolo pri historio?",
         "answers": [
-          "Ke ĝi apartenas al unu flanko",
-          "Ke historio estas serĉado de la vero, kaj Jedwabne estas pli kompleksa ol oni diris",
-          "Ke oni devas forgesi",
-          "Ke Gross eraris"
+          "Ke ĝi apartenas al unu flanko de la konflikto por ĉiam",
+          "Ke historio estas serĉado de la vero kaj Jedwabne pli kompleksa",
+          "Ke oni devas forgesi pri la pasinteco de la milito",
+          "Ke Gross eraris en sia libro pri la historio de la urbo Łomża"
         ],
         "correctIndex": 1,
         "explanation": "Li skribas pri la komplekseco de la vero kaj pri tio, ke historio ne estas propraĵo de unu flanko."

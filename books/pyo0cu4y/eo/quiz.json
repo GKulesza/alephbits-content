@@ -8,9 +8,9 @@
       "question": "De kie Fajrosaltulo ricevas sian potencon?",
       "answers": [
         "El la petoloj kaj malbonaj pensoj de la infanoj",
-        "De la suno",
-        "El libro sen hundoj",
-        "De la akvo"
+        "De la suno kaj de la luno de la ĉielo de la nokto",
+        "El libro sen hundoj kaj sen katoj de la avino",
+        "De la akvo de la rivero de la urbo"
       ],
       "correctIndex": 0,
       "explanation": "Sinjoro Stanisław diras, ke li naskiĝis el petoloj kaj malbonaj pensoj."
@@ -20,9 +20,9 @@
       "question": "En kio ili kaptas Fajrosaltulon?",
       "answers": [
         "En vitra botelo kun dolĉaĵoj",
-        "En sako",
-        "En kelo",
-        "En ŝranko"
+        "En granda sako de la kuirejo",
+        "En la kelo de la domo",
+        "En la ŝranko de la ĉambro"
       ],
       "correctIndex": 0,
       "explanation": "Ili preparas botelon kun mielo kaj konfitaĵoj kiel kaptilon."
@@ -32,9 +32,9 @@
       "question": "Kion la animo perdas, kiam li perdas la ĉapeton?",
       "answers": [
         "Ĉiun sian forton",
-        "La voĉon",
-        "La memoron",
-        "La trezoron"
+        "La voĉon de la libro",
+        "La memoron pri la infanaĝo",
+        "La trezoron de la sorĉisto"
       ],
       "correctIndex": 0,
       "explanation": "La libro diras, ke sen la ruĝa ĉapeto li perdas ĉian potencon."
@@ -44,9 +44,9 @@
       "question": "En kio Fajrosaltulo transformiĝas fine?",
       "answers": [
         "En malgrandan ruĝan ŝtoneton",
-        "En papilion",
-        "En katon",
-        "En fajreron"
+        "En belan papilion de la ĝardeno",
+        "En nigran katon de la domo",
+        "En fajreron de la kameno"
       ],
       "correctIndex": 0,
       "explanation": "Li kuntiriĝas kaj transformiĝas en malgrandan ruĝan ŝtoneton."
@@ -56,9 +56,9 @@
       "question": "Kiel nomiĝas la sorĉlibro?",
       "answers": [
         "Pri spiritoj, sorĉoj kaj ensorĉoj — verko de la majstro Adalbert",
-        "Hari Poter",
-        "Kaprino Peko",
-        "Sinjoro Tadeo"
+        "Hari Poter kaj la sorĉa libro de la lernejo de sorĉado",
+        "Kaprino Peko el la infanlibro de la avino de la urbo",
+        "Sinjoro Tadeo de Adam Mickiewicz pri la nobeloj de la regiono"
       ],
       "correctIndex": 0,
       "explanation": "Sinjoro Stanisław trovas la libron de la majstro Adalbert pri spiritoj."

@@ -231,9 +231,9 @@ La ruĝan ŝtoneton oni neniam plu trovis. Kaj la malnova libro de la majstro Ad
 
 **Answers:**
 - A) El la petoloj kaj malbonaj pensoj de la infanoj
-- B) De la suno
-- C) El libro sen hundoj
-- D) De la akvo
+- B) De la suno kaj de la luno de la ĉielo de la nokto
+- C) El libro sen hundoj kaj sen katoj de la avino
+- D) De la akvo de la rivero de la urbo
 
 **Correct:** A
 **Explanation:** Sinjoro Stanisław diras, ke li naskiĝis el petoloj kaj malbonaj pensoj.
@@ -245,9 +245,9 @@ La ruĝan ŝtoneton oni neniam plu trovis. Kaj la malnova libro de la majstro Ad
 
 **Answers:**
 - A) En vitra botelo kun dolĉaĵoj
-- B) En sako
-- C) En kelo
-- D) En ŝranko
+- B) En granda sako de la kuirejo
+- C) En la kelo de la domo
+- D) En la ŝranko de la ĉambro
 
 **Correct:** A
 **Explanation:** Ili preparas botelon kun mielo kaj konfitaĵoj kiel kaptilon.
@@ -259,9 +259,9 @@ La ruĝan ŝtoneton oni neniam plu trovis. Kaj la malnova libro de la majstro Ad
 
 **Answers:**
 - A) Ĉiun sian forton
-- B) La voĉon
-- C) La memoron
-- D) La trezoron
+- B) La voĉon de la libro
+- C) La memoron pri la infanaĝo
+- D) La trezoron de la sorĉisto
 
 **Correct:** A
 **Explanation:** La libro diras, ke sen la ruĝa ĉapeto li perdas ĉian potencon.
@@ -273,9 +273,9 @@ La ruĝan ŝtoneton oni neniam plu trovis. Kaj la malnova libro de la majstro Ad
 
 **Answers:**
 - A) En malgrandan ruĝan ŝtoneton
-- B) En papilion
-- C) En katon
-- D) En fajreron
+- B) En belan papilion de la ĝardeno
+- C) En nigran katon de la domo
+- D) En fajreron de la kameno
 
 **Correct:** A
 **Explanation:** Li kuntiriĝas kaj transformiĝas en malgrandan ruĝan ŝtoneton.
@@ -287,9 +287,9 @@ La ruĝan ŝtoneton oni neniam plu trovis. Kaj la malnova libro de la majstro Ad
 
 **Answers:**
 - A) Pri spiritoj, sorĉoj kaj ensorĉoj — verko de la majstro Adalbert
-- B) Hari Poter
-- C) Kaprino Peko
-- D) Sinjoro Tadeo
+- B) Hari Poter kaj la sorĉa libro de la lernejo de sorĉado
+- C) Kaprino Peko el la infanlibro de la avino de la urbo
+- D) Sinjoro Tadeo de Adam Mickiewicz pri la nobeloj de la regiono
 
 **Correct:** A
 **Explanation:** Sinjoro Stanisław trovas la libron de la majstro Adalbert pri spiritoj.
