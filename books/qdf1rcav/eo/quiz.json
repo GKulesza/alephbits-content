@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu direktis Darkon al doktorino Cubała?",
+      "answers": [
+        "Marta",
+        "Profesoro Czupryniak",
+        "Psikologo",
+        "La estro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La noto: profesoro Czupryniak diras — tio ne estas diabeto, iru al doktorino Cubała."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas nenormala ĉe Darek en la kortizola kurbo?",
+      "answers": [
+        "Tro alta matene",
+        "Matene la kortizolo apenaŭ \"spiras\", vespere ĝi eksplodas supren",
+        "Manko de kortizolo",
+        "Konstanta nivelo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magdalena klarigas la inversigitan tagan ritmon de kortizolo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Magdalena diras pri la intest-cerba akso?",
+      "answers": [
+        "Ke ĝi ne ekzistas",
+        "Ke ĝi estas dudirekta ŝoseo — la streso ruinigas la intestojn, malsanaj intestoj streĉigas la cerbon",
+        "Ke ĝi koncernas nur infanojn",
+        "Ke ĝin kuracas antibiotiko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi priskribas la varian cirklon inter streso kaj intestoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Darek agnoskas pri la eksedziĝo kun Marta?",
+      "answers": [
+        "Ke Marta estis kulpa",
+        "Ke li ne havis forton kvereli kaj pensis, ke ŝi troigas — kaj nun li vidas, ke li \"rompiĝis\"",
+        "Ke li neniam amis ŝin",
+        "Ke li revenos al ŝi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras: mi mem rompiĝis laŭvorte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Magdalena diras pri emocioj kaj kortizolo?",
+      "answers": [
+        "Ke la emocioj ne gravas",
+        "Ke teni rankoron produktas kortizolon — la korpo estas ĉiam en stato de milito",
+        "Ke oni devas ilin subpremi",
+        "Ke nur medikamentoj helpas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi parolas pri emocioj produktantaj kortizolon kaj stato de sieĝo."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estis James M. Huston Jr.?",
+      "answers": [
+        "Piloto de la usona mara aviado, pereinta en 1945",
+        "Kuracisto el Luiziano",
+        "Germana soldato",
+        "Konstruinto de Enigma"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto identigas lin kiel piloton de la mara aviado."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio vekas la patrinon de James meze de la nokto?",
+      "answers": [
+        "Koŝmaro pri fajro kaj blokita kabino",
+        "Trankvila dormo",
+        "Peto pri akvo",
+        "Ĝojo pro ludilo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea vekiĝas pro kriado pri flamoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "De kie James konas la detalojn de la antaŭa vivo?",
+      "answers": [
+        "Li simple sciis — neniu diris al li",
+        "La gepatroj rakontis",
+        "El leciono en la infanĝardeno",
+        "El gazeto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto emfazas: neniu diris tion al li."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la patrino de la knabo?",
+      "answers": [
+        "Andrea",
+        "Maria",
+        "Anna",
+        "Joanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andrea vekiĝas pro la kriado de la filo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Super kiu insulo pereis la piloto en la antaŭa vivo?",
+      "answers": [
+        "Chichi Jima",
+        "Okinawa",
+        "Havajo",
+        "Gvamo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto donas Chichi Jima kiel la lokon de la morto."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio estas la profesio de Marek?",
+      "answers": [
+        "Flegisto",
+        "Kirurgo en la suda hospitalo",
+        "Ĵurnalisto",
+        "Politikisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li laboras kiel kirurgo en la suda hospitalo de tri jaroj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek diagnozas ĉe la paciento en la ĉambro numero 4?",
+      "answers": [
+        "Gripon",
+        "Koratakon en frua stadio",
+        "Frakturon",
+        "Anemion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post la ekzameno li konstatas koratakon en frua stadio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la kolego Nowak diras pri la sistemo?",
+      "answers": [
+        "Ke ĝi estas ideala",
+        "Ke tio estas la pinto de la glacimonto — la sistemo putras de jaroj",
+        "Ke ĝi pliboniĝas",
+        "Ke ĝi ne koncernas ilian hospitalon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak diras, ke tio estas la pinto de la glacimonto kaj la sistemo putras."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek faras anstataŭ iri al la hospitalo la sekvan matenon?",
+      "answers": [
+        "Li forveturas ferie",
+        "Li sidas kaj skribas notojn pri tio, kion li vidis",
+        "Li rezignas sen vorto",
+        "Li iras al politikisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "La sekvan tagon li skribas notojn, rememorojn kaj observojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas semajnon post la publikigo de la teksto?",
+      "answers": [
+        "Li ricevas premion",
+        "Li estas maldungita, sed sentas, ke li faris tion, kion li devis",
+        "Li revenas al la laboro sen ŝanĝoj",
+        "Li ŝajnigas, ke li skribis nenion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li estas maldungita, sed ne sentas sin malgajninto — li diris la veron."
+    }
+  ]
+}

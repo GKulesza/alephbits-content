@@ -1,0 +1,286 @@
+# La dua fundo
+
+## Metadata
+
+**Pack ID:** qdf1rcav
+**Book ID:** qdf1rcav
+**Legacy Pack ID:** polish_drugie_dno
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** La dua fundo  
+**Subtitle:** Kortizolo, intestoj kaj la eksedziĝo de Darek  
+**Blurb:** Darek trafas al doktorino Cubała laŭ la direktilo de profesoro Czupryniak — ne pro diabeto, sed pro la „dua fundo". La kortizola kurbo, disbiozo kaj la intest-cerba akso klarigas la nebulon, la ŝvelojn kaj la eksedziĝon kun Marta. Rakonto pri korpo, kiu kriis dum jaroj, antaŭ ol iu aŭskultis ĝin.
+
+**Genres:** medicine, psychology, short_story  
+**Series:** Collection Eight  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 10 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Drugie dno" — oficiala eldono de Collection Eight.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 4  
+
+**Tags:** kortyzol, jelita, stres, Collection Eight  
+
+**Keywords:** drugie dno, Cubalska, Darek, kortyzol, dysbioza  
+
+**Cover family:** medicine
+
+**Editorial notes:** Fikcja-opinia medyczna o medycynie funkcjonalnej; nie zastępuje porady lekarskiej. Powiązanie z „Dniem z reszty życia”.
+
+**Inspiration:** Oś HPA, jelitowo-mózgowa; skierowanie od Czupryniaka.
+
+---
+
+**World:**
+- objects: boat
+- places: home, river
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-12  
+**Trust classification:** Popular science  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 22.03.2026 -> https://www.youtube.com/watch?v=oCX5erg9_KE  
+**Revision notes:** Phase 102 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.1.0 | 2026-08-26 | Quiz correction — doctor’s surname unified (“Cubała”, as in the story) |
+| 1.0.0 | 2026-07-12 | Collection editorial import (Phase 102) |
+| 1.1.0 | 2026-08-27 | Esperanto translation edition |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-12 | AlephBits Editorial | Phase 102 import; philosophy fit 3/5 — Ważny temat zdrowia psychosomatycznego; wymaga disclaimera opinion. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eight manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=oCX5erg9_KE  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-03-22  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**La dua fundo**
+
+Doktorino Magdalena Cubała demetis la telefonon kaj rigardis la kalendaron de vizitoj. Post dudek minutoj ŝi devis akcepti novan pacienton – viron post kvardeko, direktitan de profesoro Czupryniak el Banach. "Sinjoro Darek, tio ne estas diabeto. Iru al doktorino Cubała, ŝi trovos la duan fundon" – ŝi legis en la noto de la profesoro kaj ridetis sub la nazo. Ŝi konis lin de jaroj, ankoraŭ de la tempoj, kiam ŝi mem laboris en la sistemo, antaŭ ol ŝi fuĝis al la funkcia medicino. Czupryniak estis unu el la malmultaj akademiaj kuracistoj, kiuj ne rigardis ŝin kiel ĉarlataninon, kiam ŝi parolis pri la intest-cerba akso aŭ la kortizola kurbo. "Vi serĉas kaŭzojn, kaj mi kuracas efikojn" – li diris al ŝi iam ĉe kafo. "Tial mi sendas al vi tiujn, al kiuj miaj piloloj ne sufiĉas."
+
+Darek venis akurate. Li estis alta, iom klinita viro kun griziĝantaj tempioj kaj profundaj ombroj sub la okuloj, kiuj malkaŝis pli ol lacecon – ili malkaŝis rezignon. En la mano li premis dosieron kun rezultoj de esploroj, pli dikan ol la norma dokumentaro de paciento kun diabeto. La profesoro devis fari al li plenan superrigardon.
+
+– Sinjoro Darek – ŝi komencis, kiam li jam sidiĝis kontraŭ ŝi. – Antaŭ ol ni transiros al la rezultoj, bonvolu rakonti al mi vian historion. Ne tiun medicinan. Tiun vivan.
+
+La viro rigardis ŝin malfideme. Poste li levis la ŝultrojn.
+
+– Mi eksedziĝis. Antaŭ duonjaro. La edzino... la eksedzino. Ŝi ne plu eltenis. Ŝi diris, ke mi ŝanĝiĝis. Ke mi ne plu estas tiu sama homo kiel antaŭe. Ke mi nur laboras, kaj kiam mi revenas hejmen, mi estas kiel zombio. – Li glutis salivon. – Ŝi pravis. Nur tiam mi ne sciis, kial. Mi pensis, ke tio estas pigreco, elbruligo, eble depresio. Mi vizitis kuracistojn, prenis antidepresiaĵojn, nenio helpis. Nebulo en la kapo, nula energio. Matene mi vekiĝis laca, kvazaŭ mi tute ne dormus. Mi trinkis kafon post kafo. Vespere la kapo krevis al mi. Kaj ĉi tie... – li montris la ventron – konstante ŝveloj, gasoj, foje mallakso, foje diareo. Mi pensis, ke tio estas pro la streso en la laboro. Ke ĝi pasos mem.
+
+Magdalena aŭskultis, ne interrompante. Kiam li finis, ŝi malfermis la dosieron kaj dismetis la rezultojn sur la skribotablo.
+
+– Profesoro Czupryniak ekskludis diabeton, insulinreziston, tirodajn malsanojn, anemion. Ĉiujn bazajn esplorojn vi havas en la normo. Preskaŭ ĉiujn. – Ŝi montris per la fingro unu el ili. – Vi faris al vi la kortizolan kurbon el salivo. Ĉu vi scias, kio tio estas?
+
+– La profesoro diris, ke tio estas esploro de la streĉnivelo. Sed mi ne komprenas... Streso? Ĉiuj havas streson. Oni ne povas pro tio ne dormi, ne pensi, havi ruinigitajn intestojn.
+
+– Oni povas. – Ŝi ŝovis al li printaĵon kun diagramo. – Bonvolu rigardi. Ĉe sana homo la kortizolo matene estas la plej alta – ĝuste ĝi helpas nin leviĝi, senti energion. Poste ĝi malrapide malaltiĝas, por vespere atingi la minimumon kaj permesi endormiĝon. Ĉe vi estas inverse. Matene la kortizolo apenaŭ spiras, tial vi vekiĝas laca. Sed vespere, ĉirkaŭ la deksepa, la dekok horo, ĝi eksplodas supren. Tiam vi havas tiujn kapdolorojn, tiun nekapablon malstreĉiĝi. Kaj nokte, kiam vi devus dormi, la kortizolo denove kreskas. Tial vi turniĝas de flanko al flanko kaj ne povas endormiĝi, kvankam vi estas elĉerpita.
+
+Darek rigardis la diagramon, kvazaŭ li vidus ĝin unuafoje. Eble ja vidis – la profesoro certe montris al li la samon, sed tiam ĝi ne eniris.
+
+– Tio nomiĝas malreguligo de la HPA-akso – daŭrigis Magdalena. – Hipotalamo, hipofizo, surrenaj glandoj. Kiam ni estas streĉitaj – ne dum semajno, ne dum monato, sed dum jaroj – tiu sistemo rompiĝas. Kiel motoro, kiu ĉiam laboras sur la plej altaj turnoj. Fine ĝi blokiĝas. Kaj tiam la kortizolo ĉesas obei la tagan ritmon. Ĝi estas tro malmulte, kiam oni devus leviĝi. Tro multe, kiam oni devus endormiĝi. Kaj tio estas nur la komenco.
+
+Ŝi turnis la paĝon.
+
+– Vi ankaŭ faris la esploron de la mikrobiomo. Kaj ĉi tie estas la dua parto de la respondo. Vi havas intestan disbiozan sindromon. Pli simple: nenormalan bakterian flaŭron. Tro da bakterioj, kiuj produktas toksinojn, tro malmulte da tiuj, kiuj protektas la intestojn. Sub la influo de kronika streso pliiĝas la permeablo de la intestoj – tio signifas, ke tio, kio devus resti en la intestoj, trairas en la sangon. Toksinoj, nedigestitaj restaĵoj, produktoj de fermentado. Kaj ili iras rekte al la cerbo. Ĉu vi scias, kio estas la sindromo de la propra bierfarejo?
+
+– Ne.
+
+– Tio estas stato, en kiu fungoj de la genro kandido produktas en la intestoj alkoholon. Laŭvorte. La homo estas kvazaŭ konstante iomete ebria. Cerba nebulo, laceco, problemoj kun koncentriĝo – ĉio kongruas. Mi ne scias, ĉu vi havas ĝuste tion, sed la disbiozo, kiun vi havas, donas tre similajn simptomojn. Aldoniĝas la laktacido produktata de nenormalaj bakterioj – ĝi ankaŭ trafas la cerbon.
+
+Darek silentis. Liaj manoj, kunplektitaj sur la genuoj, blankiĝis de premado.
+
+– Do... ĉio ĉi estas en la intestoj? – li demandis fine.
+
+– En la intestoj kaj en la kapo. Aŭ pli ĝuste inter ili. La intest-cerba akso estas dudirekta ŝoseo. La vaga nervo ligas la cerbon kun la intestoj kaj transdonas signalojn en ambaŭ direktoj. Kiam vi streĉiĝas, la cerbo sendas signalon al la intestoj: "Atentu, danĝero!". La intestoj kuntiriĝas, ŝanĝiĝas ilia permeablo, ŝanĝiĝas la mikrobiomo. Kaj kiam la intestoj estas malsanaj, ili sendas signalojn al la cerbo: "Estas malbone". Kaj la cerbo denove streĉiĝas. Kaj tiel en rondiro. Varia cirklo.
+
+– Do tial Marta...
+
+Li interrompis sin. Magdalena ne urĝis lin. Ŝi sciis, ke tio, kio baldaŭ eliros, estas la plej grava frazo de tiu vizito.
+
+– Marta, mia edzino, diris, ke mi ŝanĝiĝis. Ke nenio min ĝojigas. Ke mi estas cinika, indiferenta. Ke ni eĉ ne kverelas, nur preterpasas unu la alian. Kaj mi... mi ne havis forton kvereli. Mi ne havis forton por io ajn. Mi pensis, ke ŝi troigas. Ke se ŝi iom mildiĝus, estus pli bone. Kaj nun mi vidas... – Li levis la rigardon al Magdalena. – Mi mem rompiĝis. Laŭvorte.
+
+Magdalena demetis la rezultojn kaj rigardis lin rekte en la okulojn.
+
+– Sinjoro Darek. Tio ne estas via kulpo. Neniu diris al vi, ke la organismo havas siajn limojn. Ke la streso ne estas io, kion oni povas ignori, ĉar ĝi enskribiĝas en la korpon. Laŭvorte. Kortizolo diras al la tiroido: "Ni malrapidigas la metabolon, ĉar estas minaco". Ĝi diras al la seksaj hormonoj: "Ni ne reproduktiĝos, ĉar ne estas la tempo". Ĝi diras al la imunosistemo: "Ni malŝaltas la defendon, ĉar ni devas fuĝi antaŭ tigro". Nur ke vi ne fuĝis antaŭ tigro. Vi sidis antaŭ la komputilo, rulumis la telefonon, spektis seriojn ĝis noktomezo kaj ĉiutage aŭdis de la estro, ke la celoj ne estas plenumitaj. Via organismo pensis, ke ĝi estas en stato de permanenta sieĝo. Kaj sieĝitaj fortikaĵoj fine falas.
+
+Darek viŝis la okulojn per la dorso de la mano. Li ne ploris – li ne kapablis. Sed io en lia vizaĝo krevis, kvazaŭ unuafoje post jaroj la vero atingus lin.
+
+– Kion mi devas fari? – li demandis.
+
+– Komencu de simplaj aferoj. Kaj tio ne estas iuj sorĉoj. Unue, ritmo. Konstanta tempo de manĝoj. Kvar tage, neniuj manĝetoj inter ili. Viaj intestoj bezonas purigan teamon – tio nomiĝas migra motora komplekso. Kiam vi manĝetas, la teamo ne havas ŝancon purigi la restaĵojn. Kaj fariĝas malordo.
+
+– Due, manĝado sen ekranoj. Nula tekokomputilo, nula telefono. La unua fazo de la digesto estas en la kapo – kiam vi vidas manĝaĵon, flaras ĝin, la cerbo preparas la digestan sistemon al laboro. Se dum tiu tempo vi rulumas retmesaĝojn, la cerbo ne scias, ke vi manĝas. La digesto forglitas.
+
+– Trie, promenoj. Ĉiutage. Minimumon duonhoron. Vi ne devas kuri, vi ne devas aĉeti abonon al la gimnastikejo. Ĉu vi havas hundon?
+
+– Ne.
+
+– Do vi promenigos virtualan hundon. Bonvolu imagi, ke vi havas labradoron, kiu devas eliri tri fojojn tage. Pluvo, neĝo, vento – ne gravas. La hundo ne atendas belan veteron.
+
+Darek preskaŭ ridetis. Preskaŭ.
+
+– Kvare, higieno de la dormo. Unu horon antaŭ la dormo neniuj ekranoj. Duonmallumo. Vi povas aŭskulti ĉilaŭton, vi povas legi libron – paperan. La blua lumo el la telefono kaj la komputilo malreguligas la melatonino. Kaj vi jam havas ĝin malreguligita.
+
+– Kaj kvine, la plej malfacila. Emocioj. Ankaŭ ili estas biologiaj. Kiam vi tenas en vi rankoron, kiam vi ne povas ellasi la koleron, via korpo ĉiam produktas kortizolon. Ĉiam estas en stato de milito. Ĉu vi konas tian historion? Virino vokas amikinon kaj plendas, ke iu vundis ŝin. Kaj la amikino demandas: "Por kio vi bezonas tiujn emociojn? Kiu nun vundas vin – tiuj personoj aŭ vi mem? Ĉar tiuj delonge forgesis pri vi, kaj vi per via kolero kaj malespero vundas nur vin mem. Kaj tiujn, kiuj estas proksimaj al vi."
+
+Darek ektremis. Tiu frazo trafis lin pli forte ol ĉiuj medicinaj klarigoj.
+
+– Mi... mi probable ĝuste tion faris. Dum la lastaj jaroj. Mi vundis min mem. Kaj Martan. Ĉar mi ne sciis ellasi. La laboron, la premon, la atendojn. Ĉion.
+
+– Ellasi ne signifas forgesi – diris Magdalena mallaŭte. – Ĝi signifas ĉesi nutri la emocion, kiu detruas vin de interne. Tiu metodo nomiĝas la Metodo de Sedona, vi povas legi pri ĝi. Sed por la komenco sufiĉas unu ekzerco. Kiam vi sentos, ke revenas la malnova kolero, la malnova bedaŭro, demandu vin: "Ĉu mi estas preta ellasi ĉi tiun emocion?". Vi ne devas tuj scipovi. Sufiĉas, ke vi provu. Ke vi diru: "Jes, mi estas preta". Kaj tiam faru ion tute alian ol kutime. Iru promeni. Spiru. Rigardu la arbon ekster la fenestro.
+
+– Kaj medikamentoj? – demandis Darek. – Ĉu vi donos al mi ion por ĉio ĉi?
+
+– Mi donos. Adaptogenojn por trankviliĝo, probiotikojn por la intestoj, magnezion, ĉar en la streso vi perdas ĝin kiel freneza. Sed tio ne estas medikamentoj, kiuj resanigos vin. Tio estas apogiloj. La fundamenton vi devas konstrui mem. Vivstilon. Ĉiutagon. Sen tio neniu suplemento helpos.
+
+Darek prenis la preskribon kaj staris momenton ĉe la pordo, kvazaŭ li volus diri ankoraŭ ion. Fine li turniĝis.
+
+– Ĉu vi pensas, ke mi povus... povus ankoraŭ malkonstrui tion? Ne la malsanon. La reston.
+
+Magdalena rigardis lin kun io, kio ne estis kompato, sed respekto – tia, kian oni havas por pacientoj, kiuj fine faras la ĝustan demandon.
+
+– Sinjoro Darek. Via organismo kriis de longe. Unue per nebulo en la kapo, poste per la intestoj, poste per laceco. Vi ne aŭskultis ĝin. Kaj nun ĝi parolas pli laŭte. Sed tio ne signifas, ke estas tro malfrue. Tio signifas, ke oni devas komenci aŭskulti ĝin. Kaj pri la resto... – Ŝi hezitis. – Mi estas kuracistino, ne parterapiistino. Sed unu aferon mi diros al vi. La korpo memoras ĉion, kion ni faras al ĝi. Se vi riparos ĝin, se vi reakiros energion, klarecon de pensado, ekvilibron – vi estos alia homo. Kaj eble vi estos preta por nova rilato. Kun tiu sama persono aŭ kun alia. Sed unue vi devas reakiri vin mem. Ĉar kiel oni povas doni al iu ion, kion oni mem ne havas?
+
+Darek eliris. Magdalena akompanis lin per la rigardo ĝis la pordo, poste sidiĝis ĉe la skribotablo kaj notis kelkajn aferojn en la paciencan karton. Poste ŝi iris al la fenestro. Malantaŭ la vitro pluvis, sed en la malproksimo, super la tegmentoj de la blokoj, klariĝis. Ŝi pensis pri sia onklo, kirurgo, kiu mortis pro korinfarkto post tridek jaroj da laboro en la publika sansistemo. Pri juna viro, kiu supreniris la ŝtupetaron de la korporacio kaj ricevis cerban sangoverŝon en la aĝo de tridek ok jaroj. Pri si mem antaŭ kelkaj jaroj, kiam ŝi ne povis leviĝi de la lito pro dorsdoloro kaj pensis, ke ŝia vivo finiĝis. Tiam, en tiu doloro, ankaŭ ŝi devis lerni dankemon – pro la birdoj ekster la fenestro, pro la kato dormanta sur la kuseno, pro la glaso da varma akvo matene, kiu estis la sola, kiu ne kaŭzis stomakan kuntiriĝon.
+
+La sano estas pli valora ol milionoj – ŝi pensis. Kaj ŝi ridetis al si, ĉar post unu horo ŝi havis la sekvan pacienton. La sekvan historion. La sekvan ŝancon trovi la duan fundon.
+
+**FINO**
+
+---
+
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Kiu direktis Darkon al doktorino Cubała?
+
+**Answers:**
+- A) Marta
+- B) Profesoro Czupryniak
+- C) Psikologo
+- D) La estro
+
+**Correct:** B
+**Explanation:** La noto: profesoro Czupryniak diras — tio ne estas diabeto, iru al doktorino Cubała.
+**Text reference:** profesoro Czupryniak
+
+### Question 2
+
+**Question:** Kio estas nenormala ĉe Darek en la kortizola kurbo?
+
+**Answers:**
+- A) Tro alta matene
+- B) Matene la kortizolo apenaŭ "spiras", vespere ĝi eksplodas supren
+- C) Manko de kortizolo
+- D) Konstanta nivelo
+
+**Correct:** B
+**Explanation:** Magdalena klarigas la inversigitan tagan ritmon de kortizolo.
+**Text reference:** inverse
+
+### Question 3
+
+**Question:** Kion Magdalena diras pri la intest-cerba akso?
+
+**Answers:**
+- A) Ke ĝi ne ekzistas
+- B) Ke ĝi estas dudirekta ŝoseo — la streso ruinigas la intestojn, malsanaj intestoj streĉigas la cerbon
+- C) Ke ĝi koncernas nur infanojn
+- D) Ke ĝin kuracas antibiotiko
+
+**Correct:** B
+**Explanation:** Ŝi priskribas la varian cirklon inter streso kaj intestoj.
+**Text reference:** varia cirklo
+
+### Question 4
+
+**Question:** Kion Darek agnoskas pri la eksedziĝo kun Marta?
+
+**Answers:**
+- A) Ke Marta estis kulpa
+- B) Ke li ne havis forton kvereli kaj pensis, ke ŝi troigas — kaj nun li vidas, ke li "rompiĝis"
+- C) Ke li neniam amis ŝin
+- D) Ke li revenos al ŝi
+
+**Correct:** B
+**Explanation:** Li diras: mi mem rompiĝis laŭvorte.
+**Text reference:** rompiĝis
+
+### Question 5
+
+**Question:** Kion Magdalena diras pri emocioj kaj kortizolo?
+
+**Answers:**
+- A) Ke la emocioj ne gravas
+- B) Ke teni rankoron produktas kortizolon — la korpo estas ĉiam en stato de milito
+- C) Ke oni devas ilin subpremi
+- D) Ke nur medikamentoj helpas
+
+**Correct:** B
+**Explanation:** Ŝi parolas pri emocioj produktantaj kortizolon kaj stato de sieĝo.
+**Text reference:** stato de milito
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

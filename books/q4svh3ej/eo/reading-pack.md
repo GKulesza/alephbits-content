@@ -1,0 +1,347 @@
+# Radio en la kapo
+
+## Metadata
+
+**Pack ID:** q4svh3ej
+**Book ID:** q4svh3ej
+**Legacy Pack ID:** polish_radio_w_glowie
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Radio en la kapo  
+**Subtitle:** ADHD kiel stacioj ludantaj samtempe  
+**Blurb:** Kasia de la infanaĝo havas en la kapo „radion" — ĉiujn staciojn samtempe. Post la diagnozo de ADHD ŝi lernas strategiojn kaj diras al la klaso, ke alia cerbo ne signifas pli malbonan.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** family
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Radio w głowie" — oficiala eldono de Collection Ten.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** ADHD, szkoła, koncentracja, Collection Ten  
+
+**Keywords:** Radio w głowie, ADHD, Kasia, koncentracja  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- childhood
+- school
+- fear
+- discovery
+- teaching
+- companionship
+
+**Editorial notes:** Fikcja edukacyjna o ADHD; nie zastępuje diagnozy medycznej.
+
+**Inspiration:** Metafora ADHD jako „radia” z wieloma stacjami naraz; YouTube 00uyvRqYlo4 (2025-01-16).
+
+---
+
+**World:**
+- places: school, home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 16.01.2025 -> https://www.youtube.com/watch?v=00uyvRqYlo4  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.0 | 2026-08-27 | Esperanto translation edition |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Przystępna metafora dla młodzieży i rodzin. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=00uyvRqYlo4  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2025-01-16  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**RADIO EN LA KAPO**
+
+Kiam Kasia havis sep jarojn, en ŝia kapo ludis radio. Ne tia ordinara, kun unu stacio. En ŝia kapo ludis ĉiuj stacioj samtempe. Iu parolis pri la vetero, iu alia pri politiko, ankoraŭ iu ludigis muzikon, kaj en la fono iu legis novaĵojn. Ĉio samtempe. Kaj neniu butono funkciis, por malŝalti ĝin.
+
+Ŝi sidis en la benko, kaj la instruistino diris ion pri adicio. Kasia aŭdis la vortojn, sed en ŝia kapo ĝuste iu rakontis historion pri drakoj. Post momento iu alia rememorigis al ŝi, ke hieraŭ ŝi forgesis paki la sportvestaĵon. Kaj poste la radio ŝanĝiĝis al kanto, kiun ŝi aŭdis en la aŭto. Kaj subite la instruistino rigardis ŝin kaj demandis:
+
+– Kasia, kiom estas sep plus ok?
+
+Kasia frostis. La radio en ŝia kapo subite silentis, sed en la silento ne estis respondo. Nur malpleno. Kaj honto.
+
+– Nu, Kasia? Sep plus ok?
+
+– Mi ne scias – ŝi flustris.
+
+La instruistino sopiris.
+
+– Ni ja ĝuste parolis pri tio. Eble vi aŭskultu?
+
+Kasia mallevis la rigardon. Ŝi sciis, ke ŝi aŭskultis. Nur ke en ŝia kapo estis tro laŭte, por aŭdi.
+
+---
+
+Hejme estis simile. Kasia havis sian propran ĉambron, sed ŝi malofte ordigis ĝin. Ne ĉar ŝi ne volis. Simple kiam ŝi komencis ordigi, la radio en ŝia kapo diris al ŝi pri io alia. Pri libro, kiun ŝi volis legi. Pri desegno, kiun ŝi volis fini. Pri tio, ke baldaŭ ŝi devas iri al la vespermanĝo. Kaj subite montriĝis, ke pasis horo, kaj ŝi sukcesis nur transmeti unu ludilon de unu loko al alia.
+
+– Kasia, ordigu fine tiun ĉambron! – diris la panjo. – Kiom da fojoj mi devas ripeti al vi?
+
+– Jam, panjo.
+
+Sed Kasia ne povis. Ne ĉar ŝi ne volis. Simple ŝia cerbo ne sciis, de kie komenci. Ludiloj sur la planko, libroj sur la skribotablo, vestaĵoj sur la seĝo. Ĉio kriis al ŝi samtempe: "Komencu de mi!". Kaj Kasia frostis, nekapabla fari iun ajn paŝon.
+
+---
+
+En la lernejo Kasia estis "tiu stranga". Foje ŝi leviĝis meze de la leciono kaj marŝis tra la klasĉambro. Ne ĉar ŝi volis ĝeni. Simple ŝiaj kruroj mem portis ŝin. Kvazaŭ ŝi havus interne baterion, kiu ĉiam ŝargiĝis pli ol necese, kaj la sola maniero malŝarĝi ĝin estis moviĝo.
+
+– Kasia, sidiĝu – diris la instruistino.
+
+Kasia sidiĝis. Sed post kvin minutoj ŝi denove leviĝis.
+
+– Kasia, ni ne leviĝas dum la leciono.
+
+– Sed mi ne povas sidi.
+
+– Vi povas, nur vi ne volas.
+
+Kasia ne sciis, kiel klarigi, ke tio ne estas vero. Ke ŝi vere volas sidi. Ke ŝi provas. Ke foje ŝi pensas: "Nun mi sidos, mi ne leviĝos, mi promesas". Kaj poste, antaŭ ol ŝi ekkomprenas, ŝi jam staras.
+
+---
+
+Kiam Kasia havis dek jarojn, la panjo kunportis ŝin al psikologino. Ili sidis en la kabineto, kaj la sinjorino psikologino faris demandojn.
+
+– Ĉu Kasia havas malfacilaĵojn kun koncentriĝo?
+
+– Grandegajn – respondis la panjo. – En la lernejo ili diras, ke ŝi flugas en la nuboj.
+
+– Ĉu ŝi estas motore troaktiva?
+
+– Tre. Ŝi ne kapablas sidi senmove.
+
+– Ĉu ŝi havas malfacilaĵojn kun organizado?
+
+– Ŝi ne kapablas ordigi la ĉambron. Ŝi perdas aĵojn. Ŝi forgesas pri hejmtaskoj.
+
+La sinjorino psikologino kapjesis kaj rigardis Kasian.
+
+– Kasia, kiel vi sentas tion?
+
+Kasia pripensis momenton.
+
+– Mi havas en la kapo radion – ŝi diris. – Ludas ĉiuj stacioj samtempe. Kaj mi ne povas ĝin malŝalti. Kelkfoje, kiam iu parolas al mi, mi aŭdas, sed mi ne aŭskultas, ĉar en la radio ludas io alia. Kaj poste mi ne scias, pri kio temis.
+
+La sinjorino psikologino ridetis.
+
+– Tio estas tre bona priskribo. Kaj ĉu vi scias? Por multaj homoj kun ADHD tiu radio estas ĝuste tia. Ne ĉar ili ne volas aŭskulti. Simple ili havas malfacilaĵon trankviligi ĉiujn staciojn.
+
+Kasia sentis krizosopiron. Iu fine komprenis.
+
+---
+
+Post la diagnozo ĉio ŝanĝiĝis. Kasia ricevis medikamentojn, kiuj helpis al ŝi iom trankviligi la radion. Ili ne malŝaltis ĝin tute – ĝi ankoraŭ ludis. Sed nun ŝi povis elekti unu stacion kaj koncentriĝi je ĝi.
+
+En la lernejo la instruistino sidigis ŝin antaŭe, proksime al si. For de la fenestro, por ke ŝi ne distriĝu per tio, kio okazas ekstere. Kasia ricevis sensan premoteston – malgrandan, molan globeton, kiun ŝi povis premi en la mano dum la leciono. Tio helpis al ŝi koncentriĝi. Kiam ŝi sentis, ke ŝi volas leviĝi, ŝi premis la teston kaj tio donis al ŝi iom da trankvilo.
+
+– Vi povas leviĝi – diris la instruistino – sed nur se vi ne ĝenas iun ajn. Kaj nur por momento.
+
+Kasia lernis, ke ŝi povas leviĝi, etendi sin, iri al la trankviliga angulo, kaj poste reveni al la benko. Tio estis pli bona ol batali kontraŭ sia propra korpo.
+
+---
+
+Hejme la panjo ankaŭ enkondukis ŝanĝojn. La ĉambro de Kasia estis ordigita – ne ideale, sed tiel, ke ne estu en ĝi tro da stimuloj. Ludiloj estis en skatoloj, libroj sur la breto. Kasia ricevis liston de taskoj por ĉiu tago, skribitan per grandaj literoj. Ŝi povis streki la taskojn, kiujn ŝi jam faris.
+
+– Vidu – diris la panjo. – Tio ne estas tiel malfacila. Unue ni vestiĝas, poste ni lavas la dentojn, poste ni pakas la tornistron. Paŝon post paŝo.
+
+Kasia rigardis la liston kaj sentis sin pli sekura. Ŝi sciis, kion ŝi devas fari. Ŝi ne devis pensi pri ĉio samtempe.
+
+Kaj antaŭ la dormo – neniuj ekranoj. Neniu blua lumo, kiu malreguligas la tagan ritmon. Anstataŭe – legado de libroj. Kaj silento. Malrapide, tre malrapide, Kasia komencis dormi pli bone.
+
+---
+
+Kiam Kasia havis dek kvar jarojn, ŝi komencis kompreni sian ADHD. Ŝi sciis, ke tio ne estas ŝia kulpo. Ŝi sciis, ke ŝia cerbo funkcias alie, ne pli malbone. Ŝi sciis, ke ŝi havas fortajn flankojn – ŝi estis kreiva, ŝi havis bonegajn ideojn, ŝi povis engaĝiĝi en aferojn, kiuj interesis ŝin, kun nekredebla forto. Tio nomiĝis hiperfokuso. Kaj kiam ŝi uzis ĝin, ŝi povis fari aferojn, kiujn aliaj ne povis.
+
+– Mi ne estas pigra – ŝi diris al si en la spegulo. – Mi ne estas stulta. Simple mi havas ADHD.
+
+Kaj tio estis en ordo.
+
+---
+
+Iun tagon, dum la eduka leciono, la instruistino demandis la klason, ĉu iu scias, kio estas ADHD. Neniu respondis. Kasia levis la manon.
+
+– Tio signifas, ke vi havas en la kapo radion – ŝi diris. – Ĉiuj stacioj ludas samtempe. Kaj vi ne povas ĝin malŝalti. Sed vi povas lerni elekti unu stacion.
+
+La klaso rigardis ŝin kun miro. La instruistino ridetis.
+
+– Kaj de kie vi scias tion, Kasia?
+
+– Ĉar mi havas ADHD.
+
+Ekregis silento. Kaj poste iu de la malantaŭo demandis:
+
+– Kaj do, tio signifas, ke vi estas malsana?
+
+Kasia skuis la kapon.
+
+– Ne. Tio signifas, ke mia cerbo funkcias alie. Ne pli malbone. Alie. Kaj kelkfoje estas malfacile, sed kelkfoje estas bonege. Ekzemple kiam io min interesas, mi povas pensi pri tio la tutan tagon. Kaj tiam mi estas en tio la plej bona.
+
+Iu ekridis, sed ne malicete. Iu alia diris:
+
+– Mi ankaŭ tiel havas. Kelkfoje mi ne povas koncentriĝi. Eble ankaŭ mi havas ADHD?
+
+Kasia ridetis.
+
+– Eble. Aŭ eble vi simple estas homo. Ĉiu foje havas malfacilaĵojn kun koncentriĝo. Sed se tio daŭras la tutan tempon kaj ĝenas vin en la vivo, tiam valoras kontroli.
+
+---
+
+Hodiaŭ Kasia havas dudek jarojn. Ŝi studas psikologion. Ŝi volas helpi infanojn kiel ŝi. Infanojn, kiuj aŭdas en la kapo radion kaj pensas, ke ili estas malbonaj, stultaj, pigraj. Ŝi scias, ke tio ne estas vero. Ŝi scias, ke ili bezonas nur iun, kiu diros al ili: "Vi ne estas malbona. Via cerbo simple funkcias alie. Kaj tio estas en ordo".
+
+Ŝi ankoraŭ havas en la kapo radion. Sed ŝi lernis vivi kun ĝi. Ŝi lernis elekti la staciojn, kiujn ŝi volas aŭskulti. Ŝi lernis peti helpon, kiam ŝi bezonas. Ŝi lernis, ke ŝi ne devas esti perfekta. Sufiĉas, ke ŝi estas si mem.
+
+Kelkfoje, kiam ŝi havas malbonan tagon, ŝi revenas en pensoj al tiu psikologa kabineto. Al la demando, kiu ŝanĝis ĉion: "Kiel vi sentas tion?".
+
+Kaj ŝi pensas pri tio, ke kelkfoje sufiĉas, ke iu demandu. Kaj aŭskultu. Kaj komprenu.
+
+La radio en ŝia kapo ludas plu. Sed nun tio estas muziko, kiun ŝi ŝatas.
+
+**FINO**
+
+---
+
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Kiel Kasia priskribas sian ADHD al la psikologino?
+
+**Answers:**
+- A) Mi estas pigra
+- B) Mi havas en la kapo radion — ĉiujn staciojn samtempe
+- C) Mi ne ŝatas la lernejon
+- D) Mi estas malsana
+
+**Correct:** B
+**Explanation:** Ŝi diras: „Mi havas en la kapo radion… Ludas ĉiuj stacioj samtempe".
+**Text reference:** Mi havas en la kapo radion
+
+### Question 2
+
+**Question:** Kio helpas al Kasia koncentriĝi dum la leciono?
+
+**Answers:**
+- A) Punisoj
+- B) Senca premotesto kaj la eblo de mallonga moviĝo
+- C) Malpermeso de interparoloj
+- D) Forigo de la klaso
+
+**Correct:** B
+**Explanation:** Ŝi ricevas la premoteston; ŝi povas leviĝi momenton sen ĝeni.
+**Text reference:** sensan premoteston
+
+### Question 3
+
+**Question:** Kion la panjo faras antaŭ la dormo?
+
+**Answers:**
+- A) Ŝi ŝaltas la televidilon
+- B) Ŝi forigas la ekranojn — legado kaj silento
+- C) Ŝi donas energiajn trinkaĵojn
+- D) Ŝi faras la hejmtaskojn anstataŭ Kasia
+
+**Correct:** B
+**Explanation:** Sen ekranoj antaŭ la dormo; legado de libroj.
+**Text reference:** neniuj ekranoj
+
+### Question 4
+
+**Question:** Kion Kasia diras al la klaso pri ADHD?
+
+**Answers:**
+- A) Tio signifas, ke mi estas malsana
+- B) Mia cerbo funkcias alie, ne pli malbone
+- C) Mi devus sidi en la angulo
+- D) Mi neniam estos bona en la lernejo
+
+**Correct:** B
+**Explanation:** „Ne. Tio signifas, ke mia cerbo funkcias alie. Ne pli malbone".
+**Text reference:** alie. Ne pli malbone
+
+### Question 5
+
+**Question:** Kion Kasia volas fari en la studoj?
+
+**Answers:**
+- A) Fariĝi kuracistino
+- B) Psikologino — helpi infanojn kiel ŝi
+- C) Kantistino
+- D) Programistino
+
+**Correct:** B
+**Explanation:** Ŝi studas psikologion, por subteni infanojn kun similaj malfacilaĵoj.
+**Text reference:** Ŝi studas psikologion
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

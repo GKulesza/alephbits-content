@@ -1,0 +1,340 @@
+# Sojlo
+
+## Metadata
+
+**Pack ID:** qa3s8ke2
+**Book ID:** qa3s8ke2
+**Legacy Pack ID:** polish_prog
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Sojlo  
+**Subtitle:** Kvin kvardek sep kaj la frapo de la polico  
+**Blurb:** Przemek vekiĝas ĉiutage je 5:47. Iun matenon li iras al la Ekonomia Universitato nur kun kajero kaj identigilo — por demandi pri luado kaj legalizado. Semajnon poste, je la sama horo, frapas la polico. Rakonto de la flanko de la sojlo: de demando en la koridoro ĝis mankatenoj en la kuirejo.
+
+**Genres:** short_story, everyday_live, article  
+**Series:** Collection Nine  
+**Audience:** adult
+
+**Difficulty:** 7 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Próg" — oficiala eldono de Collection Nine.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 5  
+
+**Tags:** UEP, próg, policja, obywatel, Collection Nine  
+
+**Keywords:** Próg, Przemek, 5:47, UEP, zatrzymanie  
+
+**Cover family:** article
+
+
+**Motifs:**
+- threshold
+- door
+- question
+- fear
+- clock
+
+**Editorial notes:** Fikcja-inspirowana companion do Sprawa; ten sam incydent, perspektywa progu domu. P0 founder review.
+
+**Inspiration:** Ten sam incydent UEP — narracja od budzenia o 5:47 do pukania policji.
+
+---
+
+**World:**
+- places: home
+- objects: clock, window, book
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 10.07.2026 -> https://www.youtube.com/watch?v=NX29uqSdBI8  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.1 | 2026-08-26 | Polish prose correction — grammar fix “drzwi otworzyły się” |
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.1 | 2026-08-27 | Esperanto translation edition |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Mocna struktura progowej — granica między pytaniem a represją. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nine manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=NX29uqSdBI8  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-10  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**SOJLO**
+
+Przemek vekiĝis je 5:47. Ne pro vekhorloĝo – li simple ĉiam tiel havas. Horo, en kiu li ĉiam malfermis la okulojn, antaŭ ol la suno sukcesis enrigardi tra la fenestro. Li trinkis gluton de malvarma teo, kiu staris sur la noktotablo de hieraŭ. Li ŝaltis la telefonon. En la najbara grupo iu enmetis ligilon al la afero en la Ekonomia Universitato.
+
+– Przemek, vidu – skribis Kamil. – Ili luas lokalon por 1200 zlotoj. La merkato estas 3500. Kaj iu tie legalizas fremdulojn. Sur la tereno de la universitato. Ĉu vi vere volas iri tien?
+
+Przemek rulumis la komentojn. Homoj skribis la samon: "Iu devus kontroli tion", "Eble iu demandos", "Sed mi timas, ĉar oni eble vokos la policon". Przemek demetis la telefonon. Li pensis pri sia patro, kiu en la naŭdekaj jaroj perdis la laboron pro tio, ke li demandis al la estro pri malaperantaj fakturoj. "Ne faru demandojn, filo" – li diris poste. "Demandoj estas multekostaj."
+
+Przemek leviĝis. En la kuirejo li faris sandviĉon, pakis en ŝtofpaperon. En la sakon li ĵetis kajeron, plumon, identigilon. Por io pli li ne bezonis rajtigojn. Li ne estis policano, li ne estis prokuroro. Li estis nur homo, kiu volis scii, kial publika universitato luas siajn ĉambrojn por triono de la merkata valoro. Kaj ĉu tiu firmao vere funkcias laŭ la leĝo.
+
+Kiam li eliris, la edzino rigardis lin super la libro.
+
+– Kien vi iras?
+
+– Al la universitato.
+
+– Por kio?
+
+– Demandu pri io.
+
+– Gardu vin.
+
+– Mi ĉiam gardas.
+
+---
+
+La Ekonomia Universitato en Poznań odoris je planklavanto kaj eterna kafo. La ŝtuparo estis pura, trankvila. Sur la tria etaĝo, sur la pordo, pendis malgranda tabuleto: _Legalizado de restado – sen rifuzoj, sen streso, plena efikeco_. Przemek rigardis Kamilon. Kamil levis la ŝultrojn.
+
+– Nu frapu.
+
+Przemek frapis. La pordo malfermiĝis tuj, kvazaŭ iu atendus malantaŭ ĝi. En ĝi staris juna virino, ridetanta, kun telefono en la mano – ŝi jam registris.
+
+– Bonan tagon – diris Przemek. – Mi nomiĝas Przemysław Grzegorek. Ĉu mi povas fari al vi kelkajn demandojn?
+
+– Bonvolu.
+
+Ili ne eniris internen. Ili staris en la koridoro, kiel en ĝentilaj konversacioj. La virino parolis bele, flue, sed en ŝia voĉo estis nek surprizo, nek indigno. Ŝi estis preparita. Ŝi ne demandis, kiuj ili estas, ne demandis pri legitimilo, ne fermis la pordon. Przemek demandis pri la prezo de la luado, pri la legalizado, pri la jura bazo. Ŝi respondis per ĝeneralajoj. En certa momento Przemek demandis pri la bandera kaj la kulto de UPA.
+
+– Tio ne estas loko por politikaj diskutoj – ŝi respondis.
+
+– Komprenas. Dankon.
+
+Ili eliris. Sur la ŝtuparo Kamil diris:
+
+– Ŝi sciis, ke ni venos.
+
+– Mi scias. Ŝi ne nervoziĝis eĉ iomete.
+
+– Kaj ŝi registris ĉion.
+
+– Tio estas bone. Ŝi registru. Ankaŭ mi registris.
+
+Przemek kaŝis la telefonon en la poŝon. Li pensis, ke tio estas la fino. Ke li revenos hejmen, faros notojn, skribos retmesaĝon al la rektoro. Eble la afero atingos la amaskomunikilojn, eble ne. Sed li faris sian aferon. Li demandis. Tio sufiĉas.
+
+---
+
+Sep tagojn poste, je 5:47, iu frapis la pordon. Przemek malfermis la okulojn, antaŭ ol la frapo eĉ eksilentis. Li leviĝis de la lito, ŝaltis la kaldronon. Li pensis: eble la leterportisto. Aŭ la najbaro de supre, al kiu ĉiam gutas akvo.
+
+Poste la frapo ripetiĝis – pli laŭta, pli ritma. Kaj voĉo: _Polico, malfermu!_
+
+Przemek ne sukcesis tuŝi la anso. La pordo malfermiĝis mem – iu havis ŝlosilojn. En la sojlo staris ses viroj en bluaj uniformoj. Unu el ili tenis en la mano fotilon. La dua – kameraon. La tria etendis la manon al Przemek, antaŭ ol tiu sukcesis retropaŝi.
+
+– Przemysław Grzegorek?
+
+– Jes.
+
+– Aresto. Bonvolu turniĝi kaj meti la manojn malantaŭ la dorson.
+
+Przemek obeis. Li sentis malvarman metalon sur la pojnoj – malantaŭe, ne antaŭe. Iu ĵetis sur liajn ŝultrojn jakon, por kaŝi la mankatenojn. Ili kondukis lin laŭ la koridoro. En la pordo de la kuirejo staris lia edzino. Ŝi rigardis lin, kvazaŭ ŝi vidus fremdan viron. En la fenestro de la etaĝo infana vizaĝo algluiĝinta al la vitro. Przemek volis diri: "Ĉio estos en ordo", sed li ne sukcesis. Oni puŝis lin direkte al la ŝtuparo.
+
+En la polica aŭto odoris je ŝvito kaj plasto. Unu el la policanoj ion skribis en kajero. La dua rigardis la telefonon. Neniu parolis. Przemek provis kompreni, kio okazas, sed en lia kapo laboris nur unu demando: _pro kio?_
+
+En la prokurorejo oni ordonis al li sidi. Li estis ankoraŭ katenita. Li donis ateston en mankatenoj. Li diktis, kaj la oficisto tajpis en la komputilon. Post unu horo iu aliris kaj malfermis unu paron de mankatenoj, transkatenante lian manojn al la antaŭo.
+
+– Vi devas subskribi – li diris.
+
+Przemek rigardis siajn manojn. Ili estis cianozaj. Li subskribis.
+
+– Art. 212. Publika kalumnio. Minacas monpuno aŭ jaro da mallibero.
+
+– Ĉu tio estas krimo laŭ persona akuzo? – demandis Przemek.
+
+La prokuroro rigardis lin atente.
+
+– Ja.
+
+– Do kial la polico venis al mi je la 6-a matene?
+
+Neniu respondis.
+
+---
+
+Li eliris post du horoj. Li revenis hejmen per taksio, ĉar oni forprenis de li la telefonon kaj la tekokomputilon. En la pordo lin salutis la edzino. Dum momento ili staris en silento.
+
+– Vi demandis ŝin pri tiu firmao – ŝi diris. – Nur demandis.
+
+– Jes.
+
+– Kaj pro tio oni katenis vin.
+
+Przemek sidiĝis en la kuirejo. Li verŝis al si teon, kvankam ĝi pli frue malvarmiĝis. En la kapo li kunmetis enigmon: la polico ne devus agi oficiale ĉe 212. Tio estas civila afero. La viktimo devas mem raporti. Kaj la viktimo – tiu ukrainino el la universitato – ne raportis. Jes, ŝi faris denoncon, sed nur kiam la polico mem spuris ŝin, trovis kaj kondukis al la komisarejo. La iniciato venis de la funkciuloj. Kaj ankoraŭ la fotoj – publikigitaj en la Fejsbuko de la komandejo, kiel oni kondukas lin laŭ la ŝtuparo, kvazaŭ li estus murdisto. Fotoj faritaj por la amaskomunikiloj, por politikistoj, por spektantoj.
+
+Przemek malfermis la tekokomputilon, kiun oni redonis al li. Li ŝaltis la retumilon. Li trovis profilon de Paweł Wyrzykowski. Iu parolis al li pri tiu viro. Ĵurnalisto, kiu de jaroj estas celo de persekuto. Homo, kiu ankaŭ trafis en la ukrainan mortliston. Przemek skribis: _Mi bezonas helpon._
+
+La respondo venis post dek minutoj: _Vi estas arestita pro demandoj. Mi scias. Voku._
+
+---
+
+– Vi diras, ke vi estis katenita malantaŭe? – demandis Paweł telefone.
+
+– Jes. Kaj dum la atesto ankaŭ. Nur antaŭ la subskribo de la protokolo oni transkatenis miajn manojn al la antaŭo.
+
+– Tio estas skandalo, kiun mi ne vidis de jaroj. Aŭskultu, mi havas jam kvar infanojn. Sepdek kilometrojn de mi ili murdis homon el la sama listo, sur kiu mi estas. Mi retiriĝos antaŭ nenio.
+
+Przemek aŭskultis. La voĉo de Paweł estis trankvila, sed en la fono oni aŭdis infanojn – ridon, paŝojn, normalan vivon. Kaj tamen tiu homo parolis pri sia propra morto kiel pri ebla scenaro.
+
+– Vi ne estas sola – aldonis Paweł. – Malantaŭ vi staras homoj, kiuj kredas, ke en Pollando oni povas ankoraŭ demandi pri io sen mankatenoj. Vi ricevos juran helpon. Ne rezignu.
+
+Przemek demetis la aŭdilon. En la kuirejo estis silente. Tra la fenestro oni vidis la straton – aŭtojn, homojn irantajn al la laboro, infanojn al la lernejo. Ĉio aspektis normale. Nur interne de Przemek io krevis. Ne pro timo. Pro io alia.
+
+Li komprenis, ke la ŝtato, kiu devus protekti, venis al li, ĉar li faris demandon. Ke la limo inter la laŭleĝa kaj la kontraŭleĝa tiom proksimiĝis, ke li jam ne scias, sur kiu flanko li staras. Kaj ke li ne plu povas ŝajnigi, ke tio ne koncernas lin.
+
+Li prenis kajeron kaj plumon. Li sidiĝis ĉe la tablo. Li komencis skribi liston – nomojn, datojn, numerojn de aferoj, nomojn de firmaoj. Ĉiun detalon, ĉiun fragmenton de la enigmo. Kiam li finis, li rigardis la edzinon.
+
+– Mi batalos por miaj rajtoj.
+
+– Mi scias.
+
+– Ĉar se ne mi, tiam kiu? Se ni ne demandos, tiam neniu demandos.
+
+– Iru dormi – diris la edzino. – Morgaŭ ni komencos de nove.
+
+Przemek fermis la kajeron. Li kuŝiĝis sur la liton. Tra la malfermita fenestro aŭdiĝis sono de sireno – ie malproksime, eble sur la alia fino de la urbo. Iam li pensis, ke sireno estas signo, ke iu bezonas helpon. Nun li sciis, ke foje ĝi signifas ion tute alian: ke iu demandis pri io, pri kio li ne devus.
+
+Li ekdormis post la 23-a. Li vekiĝis je 5:47. Kun vekhorloĝo.
+
+**FINO**
+
+---
+
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Je kioma horo Przemek vekiĝas komence de la rakonto?
+
+**Answers:**
+- A) Je 6:00
+- B) Je 5:47
+- C) Je 7:15
+- D) Je 5:30
+
+**Correct:** B
+**Explanation:** La teksto komenciĝas: „Przemek vekiĝis je 5:47".
+**Text reference:** 5:47
+
+### Question 2
+
+**Question:** Kion li vidas sur la pordo en la tria etaĝo de la universitato?
+
+**Answers:**
+- A) Tabuleton de la dekanujo
+- B) Tabuleton: Legalizado de restado — sen rifuzoj, sen streso
+- C) Anoncon pri ekzameno
+- D) Afiŝon de UPA
+
+**Correct:** B
+**Explanation:** Sur la pordo pendas tabuleto pri legalizado de restado „sen rifuzoj, sen streso".
+**Text reference:** Legalizado de restado
+
+### Question 3
+
+**Question:** Kion faras la virino el la oficejo, kiam Przemek frapas?
+
+**Answers:**
+- A) Ŝi fermas la pordon kaj vokas la sekurecon
+- B) Ŝi malfermas tuj kaj jam registras per la telefono
+- C) Ŝi petas polican legitimilon
+- D) Ŝi rifuzas paroli
+
+**Correct:** B
+**Explanation:** La pordo malfermiĝas tuj; la virino havas telefonon kaj jam registras.
+**Text reference:** ŝi jam registris
+
+### Question 4
+
+**Question:** Kiom da tagoj post la vizito al la universitato la polico venas al la domo?
+
+**Answers:**
+- A) La sekvan tagon
+- B) Sep tagojn
+- C) Monaton
+- D) La saman nokton
+
+**Correct:** B
+**Explanation:** „Sep tagojn poste, je 5:47, iu frapis la pordon".
+**Text reference:** Sep tagojn poste
+
+### Question 5
+
+**Question:** Kion Przemek komprenas post la reveno el la prokurorejo?
+
+**Answers:**
+- A) Ke li faris formalan eraron
+- B) Ke la ŝtato venis al li, ĉar li faris demandon — la limo de la laŭleĝa proksimiĝis
+- C) Ke la ukrainino retiris la plendon
+- D) Ke la afero estas fermita
+
+**Correct:** B
+**Explanation:** Przemek komprenas, ke la ŝtato venis al li pro demando, kaj la limo de la laŭleĝa proksimiĝis.
+**Text reference:** la ŝtato, kiu devus protekti
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*
