@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel la Ora Sonorilo diferencas de la aliaj instrumentoj?",
+      "answers": [
+        "Ĝi sonoras tre mallaŭte",
+        "Ĝi ne havas sonorilon",
+        "Ĝi estas la plej granda",
+        "Ĝi ne ŝatas muzikon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ĝia sono estas tute mallaŭta, kiel flustro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la violonĉelo pri flustroj?",
+      "answers": [
+        "Ke ankaŭ ili havas signifon",
+        "Ke ili estas senutilaj",
+        "Ke oni devas krii",
+        "Ke la sonorilo estas difektita"
+      ],
+      "correctIndex": 0,
+      "explanation": "La violonĉelo diras, ke ankaŭ flustroj havas signifon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu aĉetas la sonorilon?",
+      "answers": [
+        "Malgranda knabino",
+        "Sinjoro vendejestro",
+        "Instruisto",
+        "Maljunuleto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La knabino aŭdas ĝian mallaŭtan sonon kaj aĉetas ĝin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie la knabino pendigas la sonorilon?",
+      "answers": [
+        "Sur la fenestro en la ĉambro",
+        "En la malhela kelo",
+        "Sur la tegmento de la domo",
+        "En la lernejo de la kvartalo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi pendigis ĝin sur la fenestro, kie blovas venteto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun konkludon tiras la sonorilo?",
+      "answers": [
+        "Ĝi ne devas esti laŭta, por esti grava",
+        "Ĝi devas ludi laŭte kiel tamburo",
+        "Ĝi devas kaŝi sin malantaŭ la aliaj",
+        "La silento estas malbona afero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ĝi komprenas, ke ĝia mallaŭta sono estas unika kaj grava."
+    }
+  ]
+}

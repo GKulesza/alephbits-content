@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Tomek scias, ke tiu mateno estos varma?",
+      "answers": [
+        "Nur el la veterprognozo en la televido",
+        "El la arbaro — li rekonas sekegon sen termometro",
+        "De turistoj en la buso al la urbo de Poznań",
+        "El la kurprogramo en lia telefono matene"
+      ],
+      "correctIndex": 1,
+      "explanation": "La patro instruis al li legi la arbaron rigardante; Tomek rekonas la sekegon sen termometro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la patro diras al Tomek pri la sekego?",
+      "answers": [
+        "Ke tio estas normala printempa vetero, nenio stranga",
+        "Ke tio ne plu estas normala sekego, sed vera ŝanĝo por la arboj",
+        "Ke sufiĉas akvumi la arbaron per ĝardena hosotubo ĉiutage matene",
+        "Ke pinoj estas imuna al ĉiuj malsanoj kaj sekecoj de la arbaro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La patro diras, ke ĉiujare estas pli malbone kaj ke tio ne plu estas normala sekego, sed ŝanĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la ideo planti aliajn arbojn montriĝas malfacila?",
+      "answers": [
+        "Ĉar en la arbaroj dum jarcentoj pino kreskis sur sabloj",
+        "Ĉar la arbaro estas protektita de la konstruregularo",
+        "Ĉar Tomek ne ŝatas plantojn kaj ĝardenadon",
+        "Ĉar mankas loko por la arboj en la arbaro"
+      ],
+      "correctIndex": 0,
+      "explanation": "La patro diras, ke ĉi tie estas sabloj kaj dum jarcentoj kreskis pino; se ĝi ne sukcesas, li ne scias, kio sukcesos."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio okazas en la epilogo en 2029?",
+      "answers": [
+        "La arbaro estas komplete elhakita kaj forigita",
+        "Aperas programo de akvoreteno kaj adaptaj agoj",
+        "Tomek forlasas la laboron en la arbaro por ĉiam",
+        "La sekego ĉesas tuj post la unua pluvo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La epilogo priskribas la programon de rekonstruo de akvoreteno, novajn rezervujojn kaj agojn de urboj kaj kamparanoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kia estas la sinteno de la herooj fine de la rakonto?",
+      "answers": [
+        "Pesimismo sen ia ajn agado aŭ espero pri la arbaro",
+        "Konscio pri malfacilaĵoj, sed la provo havas sencon",
+        "Kredo, ke la problemo estas jam tute solvita",
+        "Rezigno pri ekologio kaj ĉia ajn agado"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fino diras, ke se io ŝanĝiĝos nun, eble oni sukcesos haltigi tion, kio estas neevitebla — kaj se ne, ili almenaŭ povos diri, ke ili provis."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion diras Franek pri la aviadilo, kiam en la televido aperas bombaviadilo?",
+      "answers": [
+        "Ke li flugis per ĝi hieraŭ vespere en sonĝo",
+        "Ke lia aviadilo brulis kaj ke tio estis Corsair",
+        "Ke li vidis ĝin en la muzeo dum ekskurso",
+        "Ke tio estis la aviadilo, kiun havis la avo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek diras trankvile: „Mia aviadilo brulis – tio estis Corsair. Mi ne revenis al la aviadilŝipo.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun nomon de piloto Anna trovas unue en la militarkivoj?",
+      "answers": [
+        "Jack Larsen",
+        "Daniel Rakowiecki",
+        "Michał Kosakowski",
+        "Piotr Wójcik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur la listo de pilotoj pereintaj en la batalo de Ivo Ĝima aperas Daniel Rakowiecki el Detrojto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun klarigon proponas doktoro Kosakowski?",
+      "answers": [
+        "Ke Franek certe estis piloto en antaŭa vivo kaj memoras tion",
+        "Ke la cerbo kunmetis informerojn en koheran historion — kriptomnezio",
+        "Ke Franek ŝajnigas ĉion pro enuo kaj tedo",
+        "Ke tio estas efiko de hipnozo en la infanĝardeno de la kvartalo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosakowski klarigas kriptomnezion: la menso forgesas la fonton de informo, sed kunmetas ĝin en unu rakonton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kosakowski nomas konfirma eraro?",
+      "answers": [
+        "Forgesadon de la nomoj de proksimuloj kaj amikoj",
+        "Selektan kolektadon de pruvoj por historio, al kiu ni kredas",
+        "Falsan memoron, enplantitan per hipnozo en la kliniko",
+        "Eraron en la militarkivoj pri la nomoj de pilotoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiam io ŝajnas vera, ni komencas kolekti nur la pruvojn „por\", kaj la kontraŭdirojn ignori."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anna flustras al Franek fine?",
+      "answers": [
+        "Ke li devas forgesi pri la aviadilo",
+        "Kiu ajn vi estis — nun vi estas mia",
+        "Ke morgaŭ ili iras al la muzeo",
+        "Ke ankaŭ la patro estis piloto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna kisas la filon kaj diras: „Kiu ajn vi estis – nun vi estas mia.\""
+    }
+  ]
+}

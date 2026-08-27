@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Patryk pensas pri la duobla turka kaldrono?",
+      "answers": [
+        "Ke ĝi estas lerta invento",
+        "Ke ĝi servas por kafo",
+        "Ke ĝi estas difektita",
+        "Ke ĝi faras nur herboteon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patryk opinias la duoblan kaldronon genia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Furkan diras al Patryk pri la preparado?",
+      "answers": [
+        "Tro malmulte da teo kaj tro mallonge",
+        "Tro multe da sukero en la taso",
+        "Uzo de malvarma akvo por la teo",
+        "Malbonaj folioj aĉetitaj en la vendejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Furkan konsilas: pli da folioj kaj pli longa infuzado."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la majstrino de maĉao diras pri teo?",
+      "answers": [
+        "Ke ĝi estas harmonio kaj respekto",
+        "Ke oni devas trinki ĝin rapide",
+        "Ke ĝi estas nur ordinara trinkaĵo",
+        "Ke ĝi estas ĉiam amara kaj malvarma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras: harmonio, respekto, pureco, trankvilo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel oni trinkas teon en Turkio laŭ la teksto?",
+      "answers": [
+        "Forta kaj dolĉa en malgrandaj glasoj",
+        "Malvarma kaj tute sen sukero, kiel kafo",
+        "Nur vespere antaŭ la dormo aŭ frue matene",
+        "Nur en la ceremonio de maĉao, kiel en Ĉinio"
+      ],
+      "correctIndex": 0,
+      "explanation": "En Turkio oni trinkas ĝin forta, dolĉa, en malgrandaj glasoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun konkludon tiras Patryk fine?",
+      "answers": [
+        "Ĉiu havas sian bonan manieron prepari",
+        "Nur maĉao gravas en la mondo",
+        "Teo estas ĉie la sama kaj unueca",
+        "Pola teo estas la plej bona de ĉiuj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ĉiu havas sian manieron — kaj ĉiu estas bona."
+    }
+  ]
+}

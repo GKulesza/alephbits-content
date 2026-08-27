@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Marek komence de la rakonto?",
+      "answers": [
+        "Pastro en la preĝejo de la kvartalo",
+        "Profesoro, materialisto kaj neŭrobiologo",
+        "Artisto, kiu pentras bildojn en ateliero",
+        "Monaĥo, kiu loĝas en la monaĥejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li estas materialisto, fizikisto, esploristo de konscio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion spertas Marek post fermo de la okuloj komence de la rakonto?",
+      "answers": [
+        "Sonĝon pri granda vojaĝo tra la tuta mondo",
+        "Oran lumon kaj la senton „Vi estas parto de la tuto\"",
+        "Kapdoloron kaj konfuzon post la nokto",
+        "Nenion nekutiman, nur ordinaran nokton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li vidas densan oran lumon kaj aŭdas, ke li ne estas korpo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Federico konsilas anstataŭ serĉi la konscion en la cerbo?",
+      "answers": [
+        "Esplori ĝin plu en la laboratorio per sciencaj metodoj",
+        "Trakti la konscion kiel fundamenton, kaj la cerbon kiel ilon",
+        "Rezigni pri la scienco tute kaj forĵeti la esplorojn",
+        "Preĝi en la preĝejo ĉiun dimanĉon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras, ke la cerbo estas nur ilo, kiun la konscio uzas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras Marek unu jaron poste anstataŭ artikoloj pri neŭrobiologio?",
+      "answers": [
+        "Li revenas al la malnova materialismo",
+        "Li gvidas laborrenkontiĝojn por perditaj homoj",
+        "Li rezignas pri la universitata laboro tute",
+        "Li skribas pri la politiko en la ĵurnaloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li gvidas laborrenkontiĝojn pri unueco kaj kuniĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek diras al la virino post la laborrenkontiĝo?",
+      "answers": [
+        "Ke ŝi devas iri al la kuracisto por kontrolo",
+        "„Vi revenas al vi mem — tio estas la plej grava paŝo\"",
+        "Ke tio estis nur sonĝo, ne grava afero",
+        "Ke ne ekzistas respondoj al tiaj demandoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li ripetas: vi revenas al vi mem — la plej grava paŝo."
+    }
+  ]
+}
