@@ -1,0 +1,24 @@
+{
+  "packId": "evuht6t0:eo",
+  "bookId": "evuht6t0",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "BIVzbrnrL90"
+    }
+  ],
+  "revisionNotes": "Reportażowa fikcja inspirowana aferami szpitalnymi i tematem pamięci o ofiarach; wymaga ręcznej oceny odniesień politycznych."
+}

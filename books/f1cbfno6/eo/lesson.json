@@ -1,0 +1,124 @@
+{
+  "id": "f1cbfno6:eo",
+  "bookId": "f1cbfno6",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_algorytm_szczescia",
+  "legacySlug": "algorytm-szczescia",
+  "title": "Algoritmo de feliĉo",
+  "language": "eo",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-12",
+  "description": "Michał finas kvinjaran laboron pri la algoritmo de feliĉo — kaj subite ne scias, ĉu li havas rajton. Ewa el la Strato Długa demandas lin pri Dostojevskij kaj pri la arbo en la neĝo. Rakonto pri programisto, kiu serĉis feliĉon en datumoj, kaj trovis ĝin en demando.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "3",
+  "tags": [
+    "algorytm",
+    "szczęście",
+    "programowanie",
+    "Collection Eight"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 11,
+  "translation": "Esperanta traduko de la pola legpaketo „Algorytm szczęścia\" — oficiala eldono de Collection Eight.",
+  "text": "**ALGORITMO DE FELIĈO**\n\n## I\n\nVespere, post dek tri horoj en la laboratorio, Michał sidiĝis antaŭ la ekrano kaj rigardis la lastajn liniojn de la kodo. Ili estis perfektaj. Ĉiuj testoj pasis. La algoritmo, pri kiu li laboris de kvin jaroj, fine estis preta.\n\nLi vokis Ewa.\n\n— Ĝi estas — li diris. — Ĝi funkcias.\n\nEn la aŭdilo li aŭdis, kiel ŝi demetas la libron. Kraĉe tusetas. Poste silenton, kiu daŭris tro longe.\n\n— Tio signifas, ke vi havas ĝin — ŝi diris fine. — Vi havas.\n\nŜi ne demandis: „Kaj kio nun?\" Tiun demandon ŝi ripetis dum la lastaj du jaroj, ĉiufoje kiam li vizitis ŝin en la loĝejo ĉe la Strato Długa, kiam li rakontis pri la sekvaj iteracioj, pri eraroj, pri tagoj, kiam li revenis hejmen je la tria matene kaj ekdormis sur la planko en la oficejo.\n\n_Kaj kio nun, Michał?_\n\nĈi-foje ŝi ne demandis.\n\n— Mi venos morgaŭ — li diris. — Vi devas vidi tion.\n\n— Morgaŭ estas vendredo. Vi havas prezentadon.\n\n— La prezentadon mi povas prokrasti.\n\n— Michał.\n\n— Kio.\n\n— Kvar jaroj.\n\n— Mi scias.\n\n— Via firmao atendas tiun algoritmon.\n\n— Mi scias.\n\n— Vi scias, ke mi ne povas helpi al vi. Mi ne scipovas. Tio ne estas mia fako.\n\n— Vi ne devas scipovi. Vi nur havas...\n\nLi hezitis. Li sciis, ke li ne devus. Ewa ne toleris, kiam li taksis ŝin.\n\n— Vi nur havas vidi — li finis.\n\nEn la aŭdilo li aŭdis ŝian spiradon. Poste susuron de ŝtofo, kvazaŭ ŝi turniĝus sur la kanapo. Li imagis ŝin — en griza svetero, kun subpremitaj piedoj, kun kajero sur la genuoj, en kiu dum jaroj ŝi notis fragmentojn el libroj, kiujn ŝi legis, frazojn, kiujn ŝi aŭdis en la buso, sonĝojn, kiujn ŝi memoris matene. Li sciis, ke en tiu kajero ne estas eĉ unu formulo, eĉ unu linio de kodo. Pura lingvo.\n\n— Venu — ŝi diris fine. — Sed ne diru al mi, ke tio ion ŝanĝos.\n\n— Mi ne diras.\n\n— Vi diras. En ĉiu frazo.\n\n— Pardonu.\n\n— Ne pardonpetu. Nur memoru. Vi kreas algoritmojn. Kaj la mondo estas pli granda ol algoritmoj. Ankaŭ via.\n\nŜi finis la konversacion, antaŭ ol li sukcesis respondi.\n\nLi lasis la telefonon sur la skribotablo kaj eliris al la koridoro. La lumoj en la laboratorio estis estingitaj. Ĉe la alia fino de la konstruaĵo iu parolis per telefono — voĉo resaltis de la muroj, malalta, laca. Michał apogis sin sur la fenestrobreton kaj rigardis la urbon.\n\nEn Varsovio neĝis. La unua neĝo en tiu jaro, grandaj flokoj, kiuj en la lumo de la lanternoj aspektis kiel fajreroj. Li rigardis ilin dum momento kaj sentis ion, kion li ne kapablis nomi. Ne ĝojon. Ne trankvilon. Ion alian.\n\nLi revenis al la oficejo, malŝaltis la komputilon kaj fermis la pordon.\n\nPreterpasante la akceptejon, li ĵetis:\n\n— Morgaŭ mi ne venas.\n\nJuna virino malantaŭ la skribotablo levis la kapon.\n\n— Vi havas prezentadon.\n\n— Mi prokrastos ĝin.\n\n— La teamo atendas.\n\n— Ĝi atendu.\n\nLi eliris sur la straton, antaŭ ol ŝi sukcesis respondi.\n\n---\n## II\n\nLi loĝis en Ochota, en malgranda loĝejo kun rigardo al la korto. Iam li ŝatis tiun lokon. Poste li ĉesis atenti ĝin. Nun, revenante hejmen, li rimarkis, ke io ŝanĝiĝis. La lumo en la kuirejo brulis la tutan tempon. Li lasis ĝin ŝaltita, elirante matene. Li sciis, ke li devus koleri al si mem — fakturoj, malŝparo de elektro — sed li ne povis. Li rigardis tiun lumon kaj sentis nur malplenon.\n\nLi eniris la loĝejon, ne ŝaltante la lumon en la antaŭĉambro. Li iris al la kuirejo, verŝis al si glason da akvo. En la fridujo staris manĝaĵo, kiun li ne tuŝis de unu semajno. Li fermis la pordon kaj sidiĝis sur la planko, apogante la dorson kontraŭ la ŝranko.\n\nLi elprenis la telefonon, malŝlosis kaj malfermis la aplikaĵon. Tie, sur la ĉefa ekrano, atendis la algoritmo.\n\n_Algoritmo de Feliĉo._\n\nTiel li nomis ĝin ŝerce, dum la unua renkontiĝo kun la investantoj. Poste la nomo restis. Neniu demandis, ĉu tio estas bona nomo. Ĉiu komprenis — aŭ ŝajnigis kompreni.\n\nMichał rigardis la kodon, kiun li skribis, kaj sentis, ke io estas malĝusta. Nenio en ĝi indikis eraron. La matematiko estis pura. La logiko senriproĉa. La testoj konfirmis la efikecon.\n\nKaj tamen.\n\nLi fermis la telefonon, metis ĝin en la poŝon kaj kuŝiĝis sur la planko en la kuirejo. La tabuloj estis malvarmaj. Tra la fenestro li vidis la neĝflokojn, kiuj ankoraŭ falis, kaj subitan, akran penson, kiu aperis el nenie:\n\n_Kial?_\n\nKial li kreis ion, kion li mem ne volis uzi?\n\nLi sidiĝis. Li leviĝis. Li faris tri paŝojn al la antaŭĉambro, poste haltis. Li revenis al la kuirejo, malfermis la fridujon, fermis.\n\nLi vokis Ewa.\n\nŜi respondis post la dua signalo.\n\n— Ewa.\n\n— Michał. Estas preskaŭ la unua.\n\n— Mi scias. Pardonu. Mi ne povas dormi.\n\n— Vi diris, ke la algoritmo funkcias.\n\n— Ĝi funkcias.\n\n— Do pri kio temas?\n\n— Mi ne scias.\n\nSur la alia flanko falis silento. Li aŭdis, ke ŝi leviĝas de la lito. Verŝajne ŝi iras al la kuirejo, al sia plej ŝatata apogseĝo en la angulo, kie ŝi tenas kajeron kaj plumon.\n\n— Rakontu al mi pri ĝi — ŝi diris. — Kiel ĝi funkcias.\n\n— Tio estas simpla — li komencis. — Ĝi kolektas datumojn. Viajn historiojn. Deklarojn. Tion, kion vi diras, ke ĝojigas vin. Poste ĝi rigardas tion, kion vi fakte faras. Kaj trovas ŝablonojn, kiujn vi mem ne vidas. Kiam vi diras, ke vi amas vian laboron, sed pasigas ĉiun liberan momenton pensante pri io alia... la algoritmo vidas tion.\n\n— Kaj kio tiam?\n\n— Tiam ĝi riparas tion.\n\n— Kiel?\n\n— Ĝi donas al vi konsilojn. Etaŝojn. Anstataŭ resti en la laboro ĝis la dudek dua, iru hejmen je la dekok. Anstataŭ kontroli retpoŝtojn en la lito, legu libron. Tiaj aferoj.\n\n— Tio sonas kiel aplikaĵo por tempadministrado.\n\n— Tio estas pli ol tio. Ĝi lernas. Kun ĉiu tago ĝi pli bone komprenas, kion vi bezonas. Ĝi adaptiĝas.\n\n— Kaj vi pensas, ke tio funkcias?\n\n— La testoj diras, ke jes.\n\n— Kaj vi?\n\nLi hezitis.\n\n— Mi ne scias.\n\n— Kion vi ne scias?\n\n— Ĉu tio ne estas trompo.\n\nEwa silentis. Poste li aŭdis, kiel ŝi demetas la plumon.\n\n— Aŭskultu, Michał. Mi havas neniun ideon, kiel funkcias via algoritmo. Mi ne komprenas la kodon. Mi ne volas kompreni. Sed mi komprenas unu aferon.\n\n— Kion?\n\n— Ĉu vi konas la rakonton de Dostojevskij? El la _Notoj el la subterejo_?\n\n— Mi konas.\n\n— Tiu homo. Tiu heroo. Li parolas pri tio, ke se oni povus ellabori perfektan algoritmon de feliĉo — por ke la homo ĉiam estu feliĉa, en ĉiu sekundo — tiam li kaj tiel farus ion, por ruinigi al si la humoron. Pro kontraŭstaremo.\n\n— Mi memoras.\n\n— Kial?\n\n— Mi ne scias.\n\n— Ĉu vi pensas, ke tio estas vero?\n\n— Mi ne scias.\n\n— Kaj mi pensas, ke jes — ŝi diris. — Kaj ne ĉar homoj estas stultaj. Aŭ ĉar ili ne volas esti feliĉaj. Nur ĉar ili ne volas esti _programitaj_. Eĉ se la programo promesas al ili ĉion.\n\nMichał fermis la okulojn.\n\n— Do kion mi faru?\n\n— Mi ne scias. Sed morgaŭ vi venos. Kaj montros al mi tiun algoritmon. Kaj eble tiam vi vidos ion, kion vi ne vidas nun.\n\n— Bone.\n\n— Dormu.\n\n— Dankon.\n\n— Ne danku. Nur dormu.\n\nŜi malkonektiĝis.\n\nMichał demetis la telefonon kaj rigardis la plafonon. La neĝo ankoraŭ falis. En la kuirejo ŝaltiĝis la aŭtomata lumo, kiu ekbrulis, kiam iu eniris la ĉambron. Li sciis, ke li devus ĝin malŝalti. Li restis.\n\n---\n## III\n\nAl Ewa li venis antaŭtagmeze, kun tekokomputilo en la sako kaj taso da kafo en la mano, kiu malvarmiĝis dumvoje.\n\nLa loĝejo ĉe la Strato Długa odoris per kardamomo kaj papero. Sur la tablo kuŝis libroj — malfermitaj, markitaj per paperetoj. En la angulo staris granda planto, kies folioj falis sur la fenestrobreton. Ewa sidis en la apogseĝo, kun subpremitaj piedoj, en griza svetero, kun taso da teo en la mano.\n\n— Sidiĝu — ŝi diris, montrante al la seĝo. — Rakontu al mi de la komenco.\n\nLi sidiĝis. Li metis la tekokomputilon sur la tablon, sed ne malfermis ĝin. Dum momento li rigardis la fermitan kovrilon, la reflekton de sia propra vizaĝo en la nigra ekrano.\n\n— Ĉu vi memoras, kiel mi komencis?\n\n— Mi memoras. Vi parolis pri tio, ke homoj ne scias, kion ili volas. Ke ili diras unu aferon, kaj faras alian.\n\n— Tio estas ankoraŭ vero.\n\n— Mi scias.\n\n— Mi pensis, ke se mi trovos ŝablonon, mi helpos al ili. Montros al ili, kion ili vere bezonas. Ke sufiĉas rigardi la datumojn.\n\n— Kaj kio. Ĉu vi trovis?\n\n— Mi trovis.\n\n— Do montru.\n\nLi malfermis la tekokomputilon. Li ensalutis. Li malfermis la aplikaĵon, kiu de monatoj atendis tiun momenton.\n\nSur la ekrano aperis simpla interfaco. Malplena kampo. Butono kun la surskribo: _Komencu analizon_.\n\n— Ĉu vi volas provi? — li demandis.\n\nEwa rigardis la ekranon, poste lin.\n\n— Ne.\n\n— Kial?\n\n— Ĉar mi ne volas scii.\n\n— Kion?\n\n— Kion mi vere volas. Se vi diros al mi, mi ĉesos havi elekton.\n\n— Tio ne tiel funkcias.\n\n— Kaj kiel funkcias?\n\n— La algoritmo nur proponas. Sugestas. Vi decidas.\n\n— Vere?\n\n— Jes.\n\n— Tiam kial vi kreis ĝin?\n\nLi silentis. Li rigardis la ekranon. La malplenan kampon. La butonon.\n\n— Ĉar mi pensis, ke mi helpos al homoj — li diris fine.\n\n— Helpi al ili en kio?\n\n— En trovo de tio, kion ili serĉas.\n\n— Kaj kion ili serĉas?\n\n— Feliĉon.\n\nEwa ridetis. Ne malicete. Malĝoje.\n\n— Kaj vi, Michał? Ĉu vi trovis?\n\nLi ne respondis.\n\n---\n## IV\n\nIli eliris por promeno. La neĝo ĉesis fali, sed la ĉielo estis griza, peza. Ili iris en silento tra la stratoj de Ochota, preterpasante vendejojn, kafejojn, malnovajn urbodomojn.\n\n— Ĉu vi konas la momenton — li diris fine — kiam vi scias, ke io estas malĝusta, sed vi ne scias ĝin nomi?\n\n— Mi konas.\n\n— Mi sentas tion de semajnoj. De kiam la algoritmo estis preta. Mi pensis, ke estos alie. Ke mi sentos trankvilon. Ke mi estos fiera.\n\n— Kaj ĉu vi estas?\n\n— Mi ne scias.\n\n— Kiam vi lastfoje estis fiera pri vi mem?\n\nLi haltis. Li rigardis arbon, kiu kreskis antaŭ unu el la domoj. Ĝiaj branĉoj estis nudaj, kovritaj per maldika tavolo da neĝo.\n\n— Mi ne memoras.\n\n— Ĉu vi pensas, ke via algoritmo scius?\n\n— Kion?\n\n— Se vi dirus al ĝi pri vi mem. Pri tio, ke vi ne scias, ĉu vi estas fiera. Ĉu la algoritmo scius, kion fari?\n\n— Ĝi scius, ke mi devus ŝanĝi ion.\n\n— Sed ĝi ne scius, kion.\n\n— Ne.\n\n— Tiam kial vi pensas, ke ĝi scius, kion iu alia devus fari?\n\nMichał rigardis la arbon. La neĝon sur la branĉoj. La lumon, kiu trarompis la nubojn.\n\n— Eble mi ne devus krei ĝin.\n\n— Eble vi devus.\n\n— Kion?\n\nEwa alproksimiĝis.\n\n— Eble vi devus krei ĝin. Sed ne por diri al aliaj, kion ili devas fari. Nur por ke vi vidu tion, kion vi mem ne vidas.\n\n— Kion?\n\n— Ke vi serĉas ion, kion la algoritmo ne trovos.\n\n— Kaj kio tio estas?\n\nŜi ne respondis. Anstataŭe ŝi montris al la arbo.\n\n— Ĉu vi vidas tiun arbon?\n\n— Jes.\n\n— La algoritmo priskribus ĝin. Dirus, ke tio estas acero. Ke ĝi havas cent dudek jarojn. Ke la alteco estas dek kvin metroj.\n\n— Kaj kio el tio.\n\n— Kaj vi. Kion vi vidas?\n\nMichał rigardis la arbon. La neĝon. La branĉojn. La lumon.\n\n— Mi ne scias.\n\n— Provu.\n\nLi fermis la okulojn. Li sentis malvarmon sur la vizaĝo. Li aŭdis la bruojn de la urbo. Poste silenton.\n\n— Mi vidas, ke neĝas — li diris. — Kaj ke mi estas ĉi tie. Kun vi.\n\nLi malfermis la okulojn. Ewa ridetis.\n\n— Tio — ŝi diris. — Tio estas io, kion la algoritmo ne trovos.\n\n---\n## V\n\nLi revenis al la laboratorio la sekvan tagon. Al la renkontiĝo kun la teamo. Li devis montri al ili la pretan algoritmon, respondi al demandoj, difini la vojon de la enkonduko.\n\nLi eniris la konferencan ĉambron kaj vidis ilin ĉiujn: programistojn, analizistojn, administrantojn. Ĉiuj atendis.\n\n— Sinjoro Michał — ekparolis unu el la analizistinoj. — Ĉu ĉiuj testoj pasis?\n\n— Jes.\n\n— Ĉu ni estas pretaj?\n\n— Jes.\n\n— Do kio nun?\n\nLi rigardis ilin. La ekranojn. La notojn. La vizaĝojn plenajn de atendo.\n\nLi fermis la tekokomputilon.\n\n— Mi ne scias — li diris.\n\nFalis silento.\n\n— Pardonu — li aldonis. — Mi ne scias.\n\nIu ridetis nervoze. Iu alia rigardis la horloĝon.\n\n— Kion signifas, ke vi ne scias? — demandis la administranto.\n\n— Tio signifas, ke mi ne scias, ĉu ĝi funkcias. Ĉu vere funkcias. Mi ne scias, ĉu mi helpas al homoj, aŭ ĉu mi forprenas de ili ion, kion mi mem ne komprenas.\n\n— Tio estas nur algoritmo.\n\n— Mi scias.\n\n— Tio estas ilo.\n\n— Mi scias.\n\n— Ĝi helpas al homoj.\n\n— Eble.\n\n— Do pri kio temas?\n\nMichał rigardis la ekranon. La malplenan kampon. La butonon.\n\n— Pardonu — li diris — sed mi devas pripensi tion.\n\nLi eliris el la ĉambro, lasante ilin en silento.\n\n---\n## VI\n\nLi revenis al la loĝejo. Li sidiĝis sur la planko en la kuirejo kaj malfermis la tekokomputilon.\n\nLa algoritmo ankoraŭ atendis.\n\nMichał rigardis ĝin longan tempon. La liniojn de la kodo, kiun li skribis. La ŝablonojn, kiujn li elpensis. La testojn, kiujn li pasis.\n\nPoste, malrapide, li komencis ion forigi.\n\nNe ĉion. Ne tuj.\n\nLi komencis de la unua modulo — tiu, kiu analizis la datumojn. Poste la dua — kiu proponis ŝanĝojn. Poste la tria — kiu lernis el la eraroj.\n\nLi lasis nur tion, kio estis la plej simpla: ilo por kolekti informojn. Sen sugesti. Sen taksi. Sen konsiloj.\n\nKiam li finis, li fermis la tekokomputilon.\n\nEn la kuirejo ankoraŭ brulis la lumo.\n\nĈi-foje li ne malŝaltis ĝin tuj. Li sidiĝis sur la planko kaj rigardis ĝin momenton. La ampolon. La varman lumon, kiu falis sur la labortablojn, sur la telerojn, sur la librojn, kiuj staris sur la breto.\n\nKaj tiam, unuafoje post tre longa tempo, li sentis, ke li faris ion bonan.\n\nLi ne sciis kial.\n\nLi ne bezonis scii.\n\n---\n\nVespere, antaŭ ol li ekdormis, li skribis al Ewa:\n\n_„Mi ne scias, ĉu ĝi funkcias. Mi ne scias, ĉu ĝi helpos al iu. Sed mi scias, ke mi jam ne volas diri al homoj, kion ili devas fari. Eble tio sufiĉas.\"_\n\nŜi respondis post kelkaj minutoj:\n\n_„Tio sufiĉas. Dormu.\"_\n\nKaj tiam, rigardante ŝian respondon, li komprenis, ke la algoritmo de feliĉo neniam estis necesa. Ke li serĉis ĝin en la kodo, en la testoj, en la datumoj. Kaj ĝi estis ĉi tie la tutan tempon — en la arbo, en la neĝo, en la lumo, kiun iu lasis ŝaltita. En la vortoj, kiuj ne donis respondojn. En la demandoj, kiuj restis sen fino.\n\nLi fermis la okulojn kaj ekdormis.\n\n**FINO**",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kion Michał finas post kvin jaroj da laboro?",
+        "answers": [
+          "Komputilan ludon",
+          "La algoritmon de feliĉo",
+          "Bankan aplikaĵon",
+          "Operaciumon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Post kvin jaroj la algoritmo estas preta."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion Ewa diras pri la heroo de Dostojevskij?",
+        "answers": [
+          "Ke li estas feliĉa",
+          "Ke li farus ion, por ruinigi al si la humoron — pro kontraŭstaremo",
+          "Ke li akceptas la algoritmon",
+          "Ke li ne legis"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ewa demandas pri la homo, kiu ruinigus al si la humoron pro kontraŭstaremo."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion Ewa diras, ke la algoritmo priskribus pri la arbo?",
+        "answers": [
+          "Nur la belecon",
+          "La specion, la aĝon kaj la altecon — sed ne tion, kion vidas Michał",
+          "Nenion",
+          "La koloron de la folioj"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ŝi diras, ke la algoritmo donus la acon, 120 jarojn, 15 metrojn — sed ne la sperton."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion Michał vidas, rigardante la arbon kun fermitaj okuloj?",
+        "answers": [
+          "Nenion",
+          "La neĝon kaj ke li estas kun Ewa",
+          "La estontecon",
+          "La kodon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Li diras: mi vidas la neĝon kaj ke mi estas ĉi tie kun vi."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kion Michał faras kun la algoritmo fine?",
+        "answers": [
+          "Li vendas ĝin",
+          "Li forigas la modulojn sugestantajn ŝanĝojn — lasas nur la kolekton de informoj",
+          "Li publikigas ĝin sen ŝanĝoj",
+          "Li redonas ĝin al la teamo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Li forigas la modulojn proponantajn ŝanĝojn; lasas simplan informan ilon."
+      }
+    ]
+  },
+  "coverFamily": "philosophy",
+  "audience": "adult",
+  "subtitle": "Kodo, Ewa kaj demando sen respondo",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-07-12",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-07-12"
+  ],
+  "world": {
+    "objects": [
+      "book",
+      "glass"
+    ],
+    "places": [
+      "home",
+      "town"
+    ]
+  }
+}

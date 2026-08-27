@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel la teksto klarigas la polan rideton?",
+      "answers": [
+        "Ĝi ne estas apriora — ĝi aperas kun kialo",
+        "La poloj ridetas konstante",
+        "La rideto estas malpermesita",
+        "La rideto ĉiam signifas flirtadon"
+      ],
+      "correctIndex": 0,
+      "explanation": "La amiko klarigas, ke la rideto ne estas la apriora sinteno de la vizaĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la heroino sentas sin perdita?",
+      "answers": [
+        "La usona rideto ne malfermas kontakton",
+        "Ŝi ne konas polajn vortojn",
+        "Ŝi ne havas monon",
+        "Ŝi veturis al Krakovo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Homoj ne reagas al ŝia konstanta rideto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion faras la poloj enirante la domon?",
+      "answers": [
+        "Ili demetas la ŝuojn",
+        "Ili lasas la ŝuojn sur la piedoj",
+        "Ili lavas la fenestrojn",
+        "Ili manĝas tagmanĝon"
+      ],
+      "correctIndex": 0,
+      "explanation": "La principo dek parolas pri demeto de ŝuoj en la domo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la heroino konsideras malgranda venko?",
+      "answers": [
+        "Diri „dankon\" pole",
+        "Aĉeti kafon",
+        "Veturi per metroo",
+        "Trovi hotelon"
+      ],
+      "correctIndex": 0,
+      "explanation": "La unua „dankon\" en vendejo estas malgranda venko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la diferenco inter turisto kaj loĝanto?",
+      "answers": [
+        "La loĝanto akceptas la landon tian, kia ĝi estas",
+        "Turistoj lernas la polan",
+        "Loĝantoj ne ridetas",
+        "Turistoj ĉiam revenas"
+      ],
+      "correctIndex": 0,
+      "explanation": "La turisto postulas, ke la lando estu kiel lia propra; la loĝanto akceptas."
+    }
+  ]
+}

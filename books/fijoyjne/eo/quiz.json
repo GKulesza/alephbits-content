@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Żuk klarigas la diferencon soldato kontraŭ operatoro?",
+      "answers": [
+        "Praktike tio estas la samo",
+        "Tio estas tute malsamaj profesioj",
+        "Operatoroj ne uzas armilojn",
+        "Soldatoj ne trejniĝas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Żuk diras, ke tio estas efektive la samo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie okazas la konversacio?",
+      "answers": [
+        "En la studio de la podkasto „Sen Sekretoj\"",
+        "Sur la pafekzercejo",
+        "En la kortumejo",
+        "En televido"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piotr kaj Marcin parolas en la podkasta studio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la teksto sugestas pri la BOR-unuo?",
+      "answers": [
+        "Estas temoj, pri kiuj oni ne povas paroli",
+        "Ĉion oni povas rakonti publike",
+        "BOR ne ekzistas",
+        "Ĉiuj volas intervjuojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jam en la subtitolo aperas frazo pri aferoj, pri kiuj oni ne povas paroli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la interparolantoj en la podkasto?",
+      "answers": [
+        "Piotr kaj Marcin",
+        "Adam kaj Jan",
+        "Marek kaj Tomek",
+        "Kasia kaj Ania"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la studio parolas la ĉefo Piotr kaj la gasto Marcin „Żuk\" Kowalczyk."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kiu ĉefe temas la konversacio?",
+      "answers": [
+        "Pri la operatoro Żuk el BOR",
+        "Pri la prezidanto",
+        "Pri kuracisto",
+        "Pri instruisto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La gasto estas la operatoro Żuk."
+    }
+  ]
+}
