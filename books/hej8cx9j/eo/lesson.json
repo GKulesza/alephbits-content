@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Pri kio parolas la heroo kun la prezidantino en Bruselo?",
         "answers": [
-          "Pri ferioj en la Alpoj",
+          "Pri la ferioj en la Alpoj kun la familio",
           "Pri falantaj popularaj taksoj kaj ebla kriza eliro",
-          "Pri reformo de la lerneja sistemo",
-          "Pri futbala matĉo"
+          "Pri reformo de la lerneja sistemo de la tuta lando",
+          "Pri la futbala matĉo de la nacia teamo"
         ],
         "correctIndex": 1,
         "explanation": "La prezidantino parolas pri la komplikiĝanta situacio en Pollando kaj demandas pri bezono de protekto aŭ posteno."
@@ -55,9 +55,9 @@
         "question": "Kia skandalo aperas en la televido en la kabineto de la heroo?",
         "answers": [
           "Skandalo en la Suda Hospitalo kun falsaj deĵoroj",
-          "Vicskandalo en la impostejo",
-          "Disputo pri la nacia stadiono",
-          "Konflikto en muzika lernejo"
+          "Vicskandalo en la impostejo de la distrikto de la urbo",
+          "Disputo pri la konstruo de la nova nacia stadiono",
+          "Konflikto en la muzika lernejo de la urbo kaj la direktoro"
         ],
         "correctIndex": 0,
         "explanation": "En la televido ruliĝas informoj pri la skandalo en la Suda Hospitalo kaj pri kontraktoj de kuracistoj."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kiel la heroo priskribas Bruselon post la renkonto?",
         "answers": [
-          "Kiel urbon sen principoj",
+          "Kiel urbon sen principoj, sen valoroj kaj sen idealoj",
           "Kiel patrinon donantan sekurecon nur al obeemuloj",
-          "Kiel paradizon por artistoj",
-          "Kiel lokon sen politiko"
+          "Kiel paradizon por artistoj, poetoj kaj intelektuloj",
+          "Kiel lokon sen la politiko de la landoj de Eŭropo"
         ],
         "correctIndex": 1,
         "explanation": "Li diras al la konsilisto, ke Bruselo estas kiel patrino: donas sekurecon, kiam vi estas obeema."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Al kio venas Tomek fine de la rakonto?",
         "answers": [
-          "Ke la politikistoj estas la plej gravaj",
-          "Ke gravas la sekureco de lia familio, kaj la resto estas nur teatro",
-          "Ke li devus fariĝi ĵurnalisto",
-          "Ke Bruselo forĵetis lin por ĉiam"
+          "Ke la politikistoj estas la plej gravaj homoj en la tuta ŝtato",
+          "Ke gravas la sekureco de la familio; la resto estas teatro",
+          "Ke li devus fariĝi ĵurnalisto kaj rakonti la veron al ĉiuj",
+          "Ke Bruselo forĵetis lin por ĉiam el la politiko"
         ],
         "correctIndex": 1,
         "explanation": "La fina pripenso diras, ke li bezonas scii, ke la familio estas sekura, kaj la resto estas nur teatro."

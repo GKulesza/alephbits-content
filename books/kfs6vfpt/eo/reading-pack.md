@@ -241,10 +241,10 @@ Kaj tio estis la plej grava.
 **Question:** Kiel Patryk priskribas sian vivon ekster la oficejo komence de la rakonto?
 
 **Answers:**
-- A) Kiel plenan de vojaĝoj kaj aventuroj
+- A) Kiel plenan de vojaĝoj kaj aventuroj tra la tuta mondo
 - B) Kiel vivon de homo, kiu timas eniri sian propran loĝejon
-- C) Kiel harmonian familian vivon
-- D) Kiel tempon de intensa sporto
+- C) Kiel harmonian familian vivon kun la edzino kaj la infanoj
+- D) Kiel tempon de intensa sporto kaj trejnado
 
 **Correct:** B
 **Explanation:** La fratino diras al li rekte, ke ne estas normale timi eniri sian propran loĝejon.
@@ -255,10 +255,10 @@ Kaj tio estis la plej grava.
 **Question:** Kion Patryk NE atendas post unu jaro de tenado de la kajero?
 
 **Answers:**
-- A) Malgrandajn ĉiutagajn paŝojn
-- B) Subitajn grandajn transformiĝojn
-- C) Pli malbonajn tagojn
-- D) Daŭrigon de la rutino
+- A) Malgrandajn ĉiutagajn paŝojn de la rutino
+- B) Subitajn grandajn transformiĝojn de la vivo
+- C) Pli malbonajn tagojn de la semajno
+- D) Daŭrigon de la rutino sen ŝanĝoj
 
 **Correct:** B
 **Explanation:** Post unu jaro li rimarkas, ke ne estis grandaj revolucioj — estis nur malgrandaj paŝoj.
@@ -270,9 +270,9 @@ Kaj tio estis la plej grava.
 
 **Answers:**
 - A) Ke gravas esti pli bona ol la hieraŭa memo, ne ol aliaj
-- B) Ke pluvo malebligas trejnadon
-- C) Ke rekordoj estas pli gravaj ol sano
-- D) Ke li devus ĉesi kuri
+- B) Ke pluvo malebligas trejnadon en la parko
+- C) Ke rekordoj estas pli gravaj ol la sano de la propra korpo
+- D) Ke li devus ĉesi kuri pro la malvarmo
 
 **Correct:** A
 **Explanation:** La teksto diras rekte, ke temas pri esti pli bona ol la hieraŭa memo, ne pri rekordoj.
@@ -283,10 +283,10 @@ Kaj tio estis la plej grava.
 **Question:** Kion Patryk enskribas en la tago 366?
 
 **Answers:**
-- A) Ke li rezignas pri la kajero
-- B) Ke li ŝtofis la liton, kuris kaj vivas — kaj tio sufiĉas
-- C) Ke li forveturas al Dubajo
-- D) Ke li vendis la loĝejon
+- A) Ke li rezignas pri la kajero kaj la tuta rutino
+- B) Ke li ŝtofis la liton, kuris, vivas — tio sufiĉas
+- C) Ke li forveturas al Dubajo por ripozi kaj pensi
+- D) Ke li vendis la loĝejon kaj translokiĝis al la maro
 
 **Correct:** B
 **Explanation:** La lasta enskribo kunigas liton, kuron kaj vivon en unu frazo pri sufiĉo.

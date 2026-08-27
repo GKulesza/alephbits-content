@@ -216,9 +216,9 @@ Eble la sekvan fojon, kiam via infano vekiĝos meze de la nokto kun ploro kaj ko
 
 **Answers:**
 - A) Piloto de la usona mara aviado, pereinta en 1945
-- B) Kuracisto el Luiziano
-- C) Germana soldato
-- D) Konstruinto de Enigma
+- B) Kuracisto el Luiziano, kiu servis en la armeo
+- C) Germana soldato batalanta en la dua mondmilito
+- D) Konstruinto de la sekreta ĉifromaŝino Enigma
 
 **Correct:** A
 **Explanation:** La teksto identigas lin kiel piloton de la mara aviado.
@@ -230,9 +230,9 @@ Eble la sekvan fojon, kiam via infano vekiĝos meze de la nokto kun ploro kaj ko
 
 **Answers:**
 - A) Koŝmaro pri fajro kaj blokita kabino
-- B) Trankvila dormo
-- C) Peto pri akvo
-- D) Ĝojo pro ludilo
+- B) Trankvila dormo sen la plej malgranda perturbo
+- C) Peto pri akvo de la patrino meze de la nokto
+- D) Ĝojo pro nova ludilo donacita de la patro
 
 **Correct:** A
 **Explanation:** Andrea vekiĝas pro kriado pri flamoj.
@@ -244,9 +244,9 @@ Eble la sekvan fojon, kiam via infano vekiĝos meze de la nokto kun ploro kaj ko
 
 **Answers:**
 - A) Li simple sciis — neniu diris al li
-- B) La gepatroj rakontis
-- C) El leciono en la infanĝardeno
-- D) El gazeto
+- B) La gepatroj rakontis al li ĉion pri tio
+- C) El leciono en la infanĝardeno pri la milito
+- D) El malnova gazeto trovita en la mansardo
 
 **Correct:** A
 **Explanation:** La teksto emfazas: neniu diris tion al li.

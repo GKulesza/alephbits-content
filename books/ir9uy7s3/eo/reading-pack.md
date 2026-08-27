@@ -186,10 +186,10 @@ Sufiĉas, ke vi dancu.
 **Question:** De kie devenas Mai?
 
 **Answers:**
-- A) El Pollando
+- A) El Pollando, el Varsovio
 - B) El norda Vjetnamio
-- C) El Ĉinio
-- D) El Japanio
+- C) El Ĉinio, el Pekino
+- D) El Japanio, el Tokio
 
 **Correct:** B
 **Explanation:** Ŝi naskiĝis en vilaĝo en la montoj de Vjetnamio; la familio elmigris.
@@ -200,10 +200,10 @@ Sufiĉas, ke vi dancu.
 **Question:** Kio igas Mai reveni al la danco?
 
 **Answers:**
-- A) Premio en konkurso
-- B) Filmeto kun la danco de Hmong
-- C) Premo de la familio
-- D) Postulo de la lernejo
+- A) Venko en konkurso pri moderna danco
+- B) Filmeto kun la tradicia danco de Hmong
+- C) Premo de la familio por ke ŝi revenu
+- D) Postulo de la lernejo pri regulaj provoj
 
 **Correct:** B
 **Explanation:** Ŝi trafas filmeton kun la danco de Hmong kaj sentas sopiron.
@@ -228,10 +228,10 @@ Sufiĉas, ke vi dancu.
 **Question:** Kion Mai diras al la lernantoj pri la danco?
 
 **Answers:**
-- A) Ke tio estas sporto
+- A) Ke tio estas sporto, kiu trejnas la korpon
 - B) Ke la danco estas konversacio kun la prapatroj
-- C) Ke tio estas modo
-- D) Ke tio estas nur movo
+- C) Ke tio estas modo, kiu rapide pasas kaj ŝanĝiĝas
+- D) Ke tio estas nur movo de la korpo kaj de la manoj
 
 **Correct:** B
 **Explanation:** Ŝi diras, ke la danco estas konversacio kun la prapatroj.
@@ -242,10 +242,10 @@ Sufiĉas, ke vi dancu.
 **Question:** Kion Mai tenas en la mano en la epilogo?
 
 **Answers:**
-- A) Telefonon
+- A) Sian malnovan poŝtelefonon
 - B) Monbileton de cent kronoj
-- C) Leteron
-- D) Aviadan bileton
+- C) Leteron de la patro el Vjetnamio
+- D) Aviadan bileton al Vjetnamio
 
 **Correct:** B
 **Explanation:** Ŝi tenas cent kronojn — la monon el la tago de la kolapso de la sistemo.

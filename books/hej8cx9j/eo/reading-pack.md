@@ -296,10 +296,10 @@ Kaj la resto — la resto estas nur teatro.
 **Question:** Pri kio parolas la heroo kun la prezidantino en Bruselo?
 
 **Answers:**
-- A) Pri ferioj en la Alpoj
+- A) Pri la ferioj en la Alpoj kun la familio
 - B) Pri falantaj popularaj taksoj kaj ebla kriza eliro
-- C) Pri reformo de la lerneja sistemo
-- D) Pri futbala matĉo
+- C) Pri reformo de la lerneja sistemo de la tuta lando
+- D) Pri la futbala matĉo de la nacia teamo
 
 **Correct:** B
 **Explanation:** La prezidantino parolas pri la komplikiĝanta situacio en Pollando kaj demandas pri bezono de protekto aŭ posteno.
@@ -311,9 +311,9 @@ Kaj la resto — la resto estas nur teatro.
 
 **Answers:**
 - A) Skandalo en la Suda Hospitalo kun falsaj deĵoroj
-- B) Vicskandalo en la impostejo
-- C) Disputo pri la nacia stadiono
-- D) Konflikto en muzika lernejo
+- B) Vicskandalo en la impostejo de la distrikto de la urbo
+- C) Disputo pri la konstruo de la nova nacia stadiono
+- D) Konflikto en la muzika lernejo de la urbo kaj la direktoro
 
 **Correct:** A
 **Explanation:** En la televido ruliĝas informoj pri la skandalo en la Suda Hospitalo kaj pri kontraktoj de kuracistoj.
@@ -324,10 +324,10 @@ Kaj la resto — la resto estas nur teatro.
 **Question:** Kiel la heroo priskribas Bruselon post la renkonto?
 
 **Answers:**
-- A) Kiel urbon sen principoj
+- A) Kiel urbon sen principoj, sen valoroj kaj sen idealoj
 - B) Kiel patrinon donantan sekurecon nur al obeemuloj
-- C) Kiel paradizon por artistoj
-- D) Kiel lokon sen politiko
+- C) Kiel paradizon por artistoj, poetoj kaj intelektuloj
+- D) Kiel lokon sen la politiko de la landoj de Eŭropo
 
 **Correct:** B
 **Explanation:** Li diras al la konsilisto, ke Bruselo estas kiel patrino: donas sekurecon, kiam vi estas obeema.
@@ -352,10 +352,10 @@ Kaj la resto — la resto estas nur teatro.
 **Question:** Al kio venas Tomek fine de la rakonto?
 
 **Answers:**
-- A) Ke la politikistoj estas la plej gravaj
-- B) Ke gravas la sekureco de lia familio, kaj la resto estas nur teatro
-- C) Ke li devus fariĝi ĵurnalisto
-- D) Ke Bruselo forĵetis lin por ĉiam
+- A) Ke la politikistoj estas la plej gravaj homoj en la tuta ŝtato
+- B) Ke gravas la sekureco de la familio; la resto estas teatro
+- C) Ke li devus fariĝi ĵurnalisto kaj rakonti la veron al ĉiuj
+- D) Ke Bruselo forĵetis lin por ĉiam el la politiko
 
 **Correct:** B
 **Explanation:** La fina pripenso diras, ke li bezonas scii, ke la familio estas sekura, kaj la resto estas nur teatro.

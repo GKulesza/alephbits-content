@@ -244,10 +244,10 @@ Kaj tio sufiĉis.
 **Question:** Kion Marcin faras anstataŭ labori matene?
 
 **Answers:**
-- A) Li kuras
+- A) Li kuras tra la parko matene
 - B) Li ludas per la telefono dum unu horo
-- C) Li dormas ĝis tagmezo
-- D) Li iras al la oficejo
+- C) Li dormas ĝis tagmezo kaj ellitiĝas malfrue
+- D) Li iras al la oficejo por la kunveno
 
 **Correct:** B
 **Explanation:** Li prenas la telefonon kaj unu horon poste estas sur la kvina nivelo de la ludo.
@@ -258,10 +258,10 @@ Kaj tio sufiĉis.
 **Question:** Kiun metaforon Marcin aŭdas en la podkasto?
 
 **Answers:**
-- A) Ke atento estas donaco
-- B) Ke atento estas kiel muskolo, kiun oni devas trejni
-- C) Ke atento ne ekzistas
-- D) Ke atento estas geno
+- A) Ke atento estas donaco de la naturo
+- B) Ke atento estas kiel muskolo, kiun oni trejnas
+- C) Ke atento ne ekzistas en la modernaj tempoj
+- D) Ke atento estas geno heredita de la gepatroj
 
 **Correct:** B
 **Explanation:** La gasto diras, ke atento estas kiel muskolo por ekzercado.
@@ -272,10 +272,10 @@ Kaj tio sufiĉis.
 **Question:** Kion Marcin skribas kiel la unuan punkton en la kajero?
 
 **Answers:**
-- A) Aĉeti kafon
+- A) Aĉeti kafon por la matena kunveno kun la estro
 - B) Finu la prezenton — komencu de la unua diapozitivo
-- C) Telefoni al la estro
-- D) Iri dormi
+- C) Telefoni al la estro pri la projekto de la jaro tuj
+- D) Iri dormi post la laboro en la oficejo matene
 
 **Correct:** B
 **Explanation:** La unua punkto: finu la prezenton, komencu de la unua diapozitivo.
@@ -286,10 +286,10 @@ Kaj tio sufiĉis.
 **Question:** Kiun frazon Marcin memoras pri eklaboro?
 
 **Answers:**
-- A) Atendu la motivon
+- A) Atendu la ĝustan motivon
 - B) „Nu, oni devas fari."
-- C) Faru tion morgaŭ
-- D) Petu iun alian
+- C) Faru tion morgaŭ matene
+- D) Petu iun alian por tio
 
 **Correct:** B
 **Explanation:** Li lernas: eklabori aspektas tiel — nu, oni devas fari.

@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kio kaŭzas la kverelon inter Ewa kaj Wojtek?",
         "answers": [
-          "Lernejaj aferoj pri notoj",
+          "Lernejaj aferoj pri la notoj de la filo",
           "La decido, ke Wojtek ne iros al la festo",
-          "Aĉeto de nova telefono",
-          "Forveturo ferie"
+          "Aĉeto de nova telefono por la adoleskanto",
+          "Forveturo ferie al la montoj"
         ],
         "correctIndex": 1,
         "explanation": "Wojtek ŝlosis sin en la ĉambro post kiam Ewa malpermesis al li iri al la festo."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion Ewa legas en la telefono, kio ŝin emociigas?",
         "answers": [
-          "Recepton por kuko",
+          "Recepton por la kuko de la dimanĉa mateno",
           "Afiŝojn pri subtenanta edukado de adoleskanto",
-          "Laboroferton",
-          "Mesaĝon de la lernejo"
+          "Laboroferton de la granda firmao",
+          "Mesaĝon de la lernejo pri la konduto de la filo"
         ],
         "correctIndex": 1,
         "explanation": "Sur la ekrano aperas afiŝo de virino, kiu nomas sin subtenanta patrino de adoleskanto."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kiu frazo precipe haltigas Ewa?",
         "answers": [
-          "Infanoj ĉiam aŭskultas la gepatrojn",
+          "Infanoj ĉiam aŭskultas la gepatrojn atente",
           "Vi ne devas esti perfekta. Vi devas esti ĉeesta",
-          "Punoj estas la plej bona metodo",
-          "Adoleskantoj ne sentas emociojn"
+          "Punoj estas la plej bona metodo de edukado",
+          "Adoleskantoj ne sentas la emociojn de la gepatroj"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi haltas ĉe la frazo: vi ne devas esti perfekta, vi devas esti ĉeesta."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Ewa komprenas ĉe la fino de la rakonto?",
         "answers": [
-          "Ke la filo ĉesis ŝin ami",
-          "Ke la plej gravan ŝi lernis de la filo — pri esti ĉeesta kaj aŭtentika",
-          "Ke ŝi devus sendi la filon al internulejo",
-          "Ke la laborgrupoj donis nenion"
+          "Ke la filo ĉesis ŝin ami kaj ne bezonas ŝian helpon plu",
+          "Ke la plej gravan ŝi lernis de la filo — esti ĉeesta kaj aŭtentika",
+          "Ke ŝi devus sendi la filon al internulejo por la tuta lerneja jaro tuj",
+          "Ke la laborgrupoj donis nenion al ŝi kaj al la filo"
         ],
         "correctIndex": 1,
         "explanation": "La fina pripensado diras, ke la plej grava venis de la filo, kiu la tutan tempon vidis ŝin."

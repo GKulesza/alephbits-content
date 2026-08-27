@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kion Marcin faras anstataŭ labori matene?",
       "answers": [
-        "Li kuras",
+        "Li kuras tra la parko matene",
         "Li ludas per la telefono dum unu horo",
-        "Li dormas ĝis tagmezo",
-        "Li iras al la oficejo"
+        "Li dormas ĝis tagmezo kaj ellitiĝas malfrue",
+        "Li iras al la oficejo por la kunveno"
       ],
       "correctIndex": 1,
       "explanation": "Li prenas la telefonon kaj unu horon poste estas sur la kvina nivelo de la ludo."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kiun metaforon Marcin aŭdas en la podkasto?",
       "answers": [
-        "Ke atento estas donaco",
-        "Ke atento estas kiel muskolo, kiun oni devas trejni",
-        "Ke atento ne ekzistas",
-        "Ke atento estas geno"
+        "Ke atento estas donaco de la naturo",
+        "Ke atento estas kiel muskolo, kiun oni trejnas",
+        "Ke atento ne ekzistas en la modernaj tempoj",
+        "Ke atento estas geno heredita de la gepatroj"
       ],
       "correctIndex": 1,
       "explanation": "La gasto diras, ke atento estas kiel muskolo por ekzercado."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion Marcin skribas kiel la unuan punkton en la kajero?",
       "answers": [
-        "Aĉeti kafon",
+        "Aĉeti kafon por la matena kunveno kun la estro",
         "Finu la prezenton — komencu de la unua diapozitivo",
-        "Telefoni al la estro",
-        "Iri dormi"
+        "Telefoni al la estro pri la projekto de la jaro tuj",
+        "Iri dormi post la laboro en la oficejo matene"
       ],
       "correctIndex": 1,
       "explanation": "La unua punkto: finu la prezenton, komencu de la unua diapozitivo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiun frazon Marcin memoras pri eklaboro?",
       "answers": [
-        "Atendu la motivon",
+        "Atendu la ĝustan motivon",
         "„Nu, oni devas fari.\"",
-        "Faru tion morgaŭ",
-        "Petu iun alian"
+        "Faru tion morgaŭ matene",
+        "Petu iun alian por tio"
       ],
       "correctIndex": 1,
       "explanation": "Li lernas: eklabori aspektas tiel — nu, oni devas fari."

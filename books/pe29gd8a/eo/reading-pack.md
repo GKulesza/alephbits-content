@@ -209,10 +209,10 @@ Kaj Janusz sciis, ke tiu historio neniam finiĝos. Ĉar historioj pri pluvivo, p
 **Question:** Kio igas Janusz komenci esplori la Nigran Kodon?
 
 **Answers:**
-- A) Li trovas familian taglibron el Haitio
+- A) En la domo li trovas malnovan familian taglibron de sia avino el Haitio
 - B) Li legas informon, ke la dokumento formale validis ĝis la 28-a de majo 2026
-- C) Li ricevas monhelpon por esplori la polan juron
-- D) Li aŭdas pri ĝi en la preĝejo en Krakovo
+- C) Li ricevas monhelpon de fondaĵo por esplori la polan juron kaj ĝian historion
+- D) Li aŭdas pri ĝi de la pastro en la preĝejo en Krakovo dum la meso
 
 **Correct:** B
 **Explanation:** La impulso estas la informo pri la surprize malfrua abrogo de la dokumento.
@@ -237,10 +237,10 @@ Kaj Janusz sciis, ke tiu historio neniam finiĝos. Ĉar historioj pri pluvivo, p
 **Question:** Kial Bois Caïman estas grava en la rakonto?
 
 **Answers:**
-- A) Ĝi estas la naskiĝloko de la pola elmigrintaro
+- A) Ĝi estas la naskiĝloko de la pola elmigrintaro en Francio
 - B) Ĝi estas la loko de rito antaŭanta la haitian revolucion
-- C) Ĝi estas malnova sidejo de Napoleono
-- D) Ĝi estas muzeo de la kolonia juro
+- C) Ĝi estas malnova sidejo de Napoleono kaj de lia armeo
+- D) Ĝi estas muzeo dediĉita al la historio de la kolonia juro
 
 **Correct:** B
 **Explanation:** Jean-Pierre priskribas Bois Caïman kiel lokon de rito ligita al la komenco de la ribelo.
@@ -251,10 +251,10 @@ Kaj Janusz sciis, ke tiu historio neniam finiĝos. Ĉar historioj pri pluvivo, p
 **Question:** Kiel la teksto interpretas la ligon inter la Dipatrino de Częstochowa kaj Erzulie Dantor?
 
 **Answers:**
-- A) Kiel historian tradukeraron
-- B) Kiel ekzemplon de religia sinkretismo kaj pluvivo
-- C) Kiel pruvon de la regado de Vatikano
-- D) Kiel modernan merkatan kampanjon
+- A) Kiel historian tradukeraron faritan de la franca pastro
+- B) Kiel ekzemplon de religia sinkretismo, pluvivo kaj adapto
+- C) Kiel pruvon de la regado de Vatikano super la tuta insulo
+- D) Kiel modernan merkatan kampanjon de la turisma agentejo
 
 **Correct:** B
 **Explanation:** La temo servas por montri, kiel religiaj simboloj estis sorbitaj kaj transformitaj.
@@ -265,10 +265,10 @@ Kaj Janusz sciis, ke tiu historio neniam finiĝos. Ĉar historioj pri pluvivo, p
 **Question:** Kian pli ĝeneralan lecionon Janusz eltiras el la vojaĝo?
 
 **Answers:**
-- A) Ke la historio de sklaveco apartenas nur al la pasinteco
-- B) Ke la spirito de la Nigra Kodo daŭras en antaŭjuĝoj kaj en la traktado de 'aliaj'
-- C) Ke Voduon oni povas klarigi nur per magio
-- D) Ke Pollando kaj Haitio havas nenian komunan punkton
+- A) Ke la historio de la sklaveco apartenas nur al la malproksima pasinteco
+- B) Ke la spirito de la Nigra Kodo vivas en antaŭjuĝoj kaj traktado de 'aliaj'
+- C) Ke la praktikon de Voduo oni povas klarigi nur per magio kaj ritaj dancoj
+- D) Ke Pollando kaj Haitio havas nenian komunan punkton en sia historio
 
 **Correct:** B
 **Explanation:** En la fino Janusz skribas pri la daŭrado de la spirito de tiu leĝo en la hodiaŭaj antaŭjuĝoj.

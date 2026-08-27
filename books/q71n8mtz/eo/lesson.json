@@ -43,9 +43,9 @@
         "question": "Kiu estis James M. Huston Jr.?",
         "answers": [
           "Piloto de la usona mara aviado, pereinta en 1945",
-          "Kuracisto el Luiziano",
-          "Germana soldato",
-          "Konstruinto de Enigma"
+          "Kuracisto el Luiziano, kiu servis en la armeo",
+          "Germana soldato batalanta en la dua mondmilito",
+          "Konstruinto de la sekreta ĉifromaŝino Enigma"
         ],
         "correctIndex": 0,
         "explanation": "La teksto identigas lin kiel piloton de la mara aviado."
@@ -55,9 +55,9 @@
         "question": "Kio vekas la patrinon de James meze de la nokto?",
         "answers": [
           "Koŝmaro pri fajro kaj blokita kabino",
-          "Trankvila dormo",
-          "Peto pri akvo",
-          "Ĝojo pro ludilo"
+          "Trankvila dormo sen la plej malgranda perturbo",
+          "Peto pri akvo de la patrino meze de la nokto",
+          "Ĝojo pro nova ludilo donacita de la patro"
         ],
         "correctIndex": 0,
         "explanation": "Andrea vekiĝas pro kriado pri flamoj."
@@ -67,9 +67,9 @@
         "question": "De kie James konas la detalojn de la antaŭa vivo?",
         "answers": [
           "Li simple sciis — neniu diris al li",
-          "La gepatroj rakontis",
-          "El leciono en la infanĝardeno",
-          "El gazeto"
+          "La gepatroj rakontis al li ĉion pri tio",
+          "El leciono en la infanĝardeno pri la milito",
+          "El malnova gazeto trovita en la mansardo"
         ],
         "correctIndex": 0,
         "explanation": "La teksto emfazas: neniu diris tion al li."

@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "De kie devenas Mai?",
         "answers": [
-          "El Pollando",
+          "El Pollando, el Varsovio",
           "El norda Vjetnamio",
-          "El Ĉinio",
-          "El Japanio"
+          "El Ĉinio, el Pekino",
+          "El Japanio, el Tokio"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi naskiĝis en vilaĝo en la montoj de Vjetnamio; la familio elmigris."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kio igas Mai reveni al la danco?",
         "answers": [
-          "Premio en konkurso",
-          "Filmeto kun la danco de Hmong",
-          "Premo de la familio",
-          "Postulo de la lernejo"
+          "Venko en konkurso pri moderna danco",
+          "Filmeto kun la tradicia danco de Hmong",
+          "Premo de la familio por ke ŝi revenu",
+          "Postulo de la lernejo pri regulaj provoj"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi trafas filmeton kun la danco de Hmong kaj sentas sopiron."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion Mai diras al la lernantoj pri la danco?",
         "answers": [
-          "Ke tio estas sporto",
+          "Ke tio estas sporto, kiu trejnas la korpon",
           "Ke la danco estas konversacio kun la prapatroj",
-          "Ke tio estas modo",
-          "Ke tio estas nur movo"
+          "Ke tio estas modo, kiu rapide pasas kaj ŝanĝiĝas",
+          "Ke tio estas nur movo de la korpo kaj de la manoj"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi diras, ke la danco estas konversacio kun la prapatroj."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Mai tenas en la mano en la epilogo?",
         "answers": [
-          "Telefonon",
+          "Sian malnovan poŝtelefonon",
           "Monbileton de cent kronoj",
-          "Leteron",
-          "Aviadan bileton"
+          "Leteron de la patro el Vjetnamio",
+          "Aviadan bileton al Vjetnamio"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi tenas cent kronojn — la monon el la tago de la kolapso de la sistemo."

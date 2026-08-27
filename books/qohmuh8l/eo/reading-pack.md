@@ -391,10 +391,10 @@ Eĉ tiam, kiam ŝi ne vidis sin mem.
 **Question:** Kio kaŭzas la kverelon inter Ewa kaj Wojtek?
 
 **Answers:**
-- A) Lernejaj aferoj pri notoj
+- A) Lernejaj aferoj pri la notoj de la filo
 - B) La decido, ke Wojtek ne iros al la festo
-- C) Aĉeto de nova telefono
-- D) Forveturo ferie
+- C) Aĉeto de nova telefono por la adoleskanto
+- D) Forveturo ferie al la montoj
 
 **Correct:** B
 **Explanation:** Wojtek ŝlosis sin en la ĉambro post kiam Ewa malpermesis al li iri al la festo.
@@ -405,10 +405,10 @@ Eĉ tiam, kiam ŝi ne vidis sin mem.
 **Question:** Kion Ewa legas en la telefono, kio ŝin emociigas?
 
 **Answers:**
-- A) Recepton por kuko
+- A) Recepton por la kuko de la dimanĉa mateno
 - B) Afiŝojn pri subtenanta edukado de adoleskanto
-- C) Laboroferton
-- D) Mesaĝon de la lernejo
+- C) Laboroferton de la granda firmao
+- D) Mesaĝon de la lernejo pri la konduto de la filo
 
 **Correct:** B
 **Explanation:** Sur la ekrano aperas afiŝo de virino, kiu nomas sin subtenanta patrino de adoleskanto.
@@ -419,10 +419,10 @@ Eĉ tiam, kiam ŝi ne vidis sin mem.
 **Question:** Kiu frazo precipe haltigas Ewa?
 
 **Answers:**
-- A) Infanoj ĉiam aŭskultas la gepatrojn
+- A) Infanoj ĉiam aŭskultas la gepatrojn atente
 - B) Vi ne devas esti perfekta. Vi devas esti ĉeesta
-- C) Punoj estas la plej bona metodo
-- D) Adoleskantoj ne sentas emociojn
+- C) Punoj estas la plej bona metodo de edukado
+- D) Adoleskantoj ne sentas la emociojn de la gepatroj
 
 **Correct:** B
 **Explanation:** Ŝi haltas ĉe la frazo: vi ne devas esti perfekta, vi devas esti ĉeesta.
@@ -447,10 +447,10 @@ Eĉ tiam, kiam ŝi ne vidis sin mem.
 **Question:** Kion Ewa komprenas ĉe la fino de la rakonto?
 
 **Answers:**
-- A) Ke la filo ĉesis ŝin ami
-- B) Ke la plej gravan ŝi lernis de la filo — pri esti ĉeesta kaj aŭtentika
-- C) Ke ŝi devus sendi la filon al internulejo
-- D) Ke la laborgrupoj donis nenion
+- A) Ke la filo ĉesis ŝin ami kaj ne bezonas ŝian helpon plu
+- B) Ke la plej gravan ŝi lernis de la filo — esti ĉeesta kaj aŭtentika
+- C) Ke ŝi devus sendi la filon al internulejo por la tuta lerneja jaro tuj
+- D) Ke la laborgrupoj donis nenion al ŝi kaj al la filo
 
 **Correct:** B
 **Explanation:** La fina pripensado diras, ke la plej grava venis de la filo, kiu la tutan tempon vidis ŝin.

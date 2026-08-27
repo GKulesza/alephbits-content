@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kio igas Janusz komenci esplori la Nigran Kodon?",
       "answers": [
-        "Li trovas familian taglibron el Haitio",
+        "En la domo li trovas malnovan familian taglibron de sia avino el Haitio",
         "Li legas informon, ke la dokumento formale validis ĝis la 28-a de majo 2026",
-        "Li ricevas monhelpon por esplori la polan juron",
-        "Li aŭdas pri ĝi en la preĝejo en Krakovo"
+        "Li ricevas monhelpon de fondaĵo por esplori la polan juron kaj ĝian historion",
+        "Li aŭdas pri ĝi de la pastro en la preĝejo en Krakovo dum la meso"
       ],
       "correctIndex": 1,
       "explanation": "La impulso estas la informo pri la surprize malfrua abrogo de la dokumento."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kial Bois Caïman estas grava en la rakonto?",
       "answers": [
-        "Ĝi estas la naskiĝloko de la pola elmigrintaro",
+        "Ĝi estas la naskiĝloko de la pola elmigrintaro en Francio",
         "Ĝi estas la loko de rito antaŭanta la haitian revolucion",
-        "Ĝi estas malnova sidejo de Napoleono",
-        "Ĝi estas muzeo de la kolonia juro"
+        "Ĝi estas malnova sidejo de Napoleono kaj de lia armeo",
+        "Ĝi estas muzeo dediĉita al la historio de la kolonia juro"
       ],
       "correctIndex": 1,
       "explanation": "Jean-Pierre priskribas Bois Caïman kiel lokon de rito ligita al la komenco de la ribelo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel la teksto interpretas la ligon inter la Dipatrino de Częstochowa kaj Erzulie Dantor?",
       "answers": [
-        "Kiel historian tradukeraron",
-        "Kiel ekzemplon de religia sinkretismo kaj pluvivo",
-        "Kiel pruvon de la regado de Vatikano",
-        "Kiel modernan merkatan kampanjon"
+        "Kiel historian tradukeraron faritan de la franca pastro",
+        "Kiel ekzemplon de religia sinkretismo, pluvivo kaj adapto",
+        "Kiel pruvon de la regado de Vatikano super la tuta insulo",
+        "Kiel modernan merkatan kampanjon de la turisma agentejo"
       ],
       "correctIndex": 1,
       "explanation": "La temo servas por montri, kiel religiaj simboloj estis sorbitaj kaj transformitaj."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kian pli ĝeneralan lecionon Janusz eltiras el la vojaĝo?",
       "answers": [
-        "Ke la historio de sklaveco apartenas nur al la pasinteco",
-        "Ke la spirito de la Nigra Kodo daŭras en antaŭjuĝoj kaj en la traktado de 'aliaj'",
-        "Ke Voduon oni povas klarigi nur per magio",
-        "Ke Pollando kaj Haitio havas nenian komunan punkton"
+        "Ke la historio de la sklaveco apartenas nur al la malproksima pasinteco",
+        "Ke la spirito de la Nigra Kodo vivas en antaŭjuĝoj kaj traktado de 'aliaj'",
+        "Ke la praktikon de Voduo oni povas klarigi nur per magio kaj ritaj dancoj",
+        "Ke Pollando kaj Haitio havas nenian komunan punkton en sia historio"
       ],
       "correctIndex": 1,
       "explanation": "En la fino Janusz skribas pri la daŭrado de la spirito de tiu leĝo en la hodiaŭaj antaŭjuĝoj."
