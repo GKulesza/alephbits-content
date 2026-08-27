@@ -354,10 +354,10 @@ Hejme atendis lin Marta. Kaj li sciis, ke nun, post ĉio, ili povos paroli.
 **Question:** Kiel Marta komparas ilian geedzecon al la historio de la Tria Regno?
 
 **Answers:**
-- A) Al venko en milito
+- A) Al venko en milito kontraŭ la najbaraj ŝtatoj
 - B) Al sistemo bazita sur ekspansio, kiu timas halti
-- C) Al paco post milito
-- D) Al diplomatio
+- C) Al paco post milito en la regiono de la lando
+- D) Al diplomatio kaj al la intertraktoj de la reĝoj
 
 **Correct:** B
 **Explanation:** Marta diras, ke ili ŝajnigis, ke ĉio estas en ordo, anstataŭ halti kaj ripari la problemon.
@@ -368,10 +368,10 @@ Hejme atendis lin Marta. Kaj li sciis, ke nun, post ĉio, ili povos paroli.
 **Question:** Kion Adam skribas al la studento en la epilogo pri la limoj?
 
 **Answers:**
-- A) Ke la limoj estas muroj
+- A) Ke la limoj estas muroj de la ŝtatoj kaj landoj
 - B) Ke la limoj estas pordoj, kiuj povas esti malfermitaj
-- C) Ke la limojn oni devas detrui
-- D) Ke la limoj ne ekzistas
+- C) Ke la limojn oni devas detrui kaj forgesi por ĉiam
+- D) Ke la limoj ne ekzistas por la homoj kaj la popoloj
 
 **Correct:** B
 **Explanation:** Li respondas, ke la limoj ne estas muroj, sed pordoj por tiuj, kiuj scias frapi.

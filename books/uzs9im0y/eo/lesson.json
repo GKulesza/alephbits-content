@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kiel Marta komparas ilian geedzecon al la historio de la Tria Regno?",
         "answers": [
-          "Al venko en milito",
+          "Al venko en milito kontraŭ la najbaraj ŝtatoj",
           "Al sistemo bazita sur ekspansio, kiu timas halti",
-          "Al paco post milito",
-          "Al diplomatio"
+          "Al paco post milito en la regiono de la lando",
+          "Al diplomatio kaj al la intertraktoj de la reĝoj"
         ],
         "correctIndex": 1,
         "explanation": "Marta diras, ke ili ŝajnigis, ke ĉio estas en ordo, anstataŭ halti kaj ripari la problemon."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kion Adam skribas al la studento en la epilogo pri la limoj?",
         "answers": [
-          "Ke la limoj estas muroj",
+          "Ke la limoj estas muroj de la ŝtatoj kaj landoj",
           "Ke la limoj estas pordoj, kiuj povas esti malfermitaj",
-          "Ke la limojn oni devas detrui",
-          "Ke la limoj ne ekzistas"
+          "Ke la limojn oni devas detrui kaj forgesi por ĉiam",
+          "Ke la limoj ne ekzistas por la homoj kaj la popoloj"
         ],
         "correctIndex": 1,
         "explanation": "Li respondas, ke la limoj ne estas muroj, sed pordoj por tiuj, kiuj scias frapi."

@@ -8,9 +8,9 @@
       "question": "Kiu estis la enspezo de Kanał Sportowy en 2025 laŭ la rezultoj?",
       "answers": [
         "Naŭ kaj naŭ dekunoj de miliono da zlotoj",
-        "Du miliardoj da zlotoj",
-        "Kvin milionoj da zlotoj",
-        "Unu miliono da zlotoj"
+        "Du miliardoj da zlotoj de la banko de la lando",
+        "Kvin milionoj da zlotoj en la kontoj de la firmao",
+        "Unu miliono da zlotoj por la ŝtato kaj la urboj"
       ],
       "correctIndex": 0,
       "explanation": "Tomek legas: naŭ kaj naŭ dekunoj de miliono da enspezo kaj tricent miloj da perdo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion diras Sebastian Felkner pri partneroj?",
       "answers": [
-        "Ke ĉiu devus havi egale",
+        "Ke ĉiu en la kompanio devus havi egale kaj sen privilegioj por la tuta teamo",
         "Ke li prenas dungitojn kun kondiĉoj kiel ĉe partneroj, sed sen voĉdonrajto en decidoj",
-        "Ke partneroj estas necesaj",
-        "Ke li neniam fondas firmaojn"
+        "Ke partneroj estas necesaj por la kresko de la kompanio kaj por ĝiaj novaj projektoj",
+        "Ke li neniam fondas firmaojn kun aliaj homoj, ĉar li tute ne fidas ilin"
       ],
       "correctIndex": 1,
       "explanation": "Sebastian diras, ke li donas al dungitoj kondiĉojn kiel al partneroj, sed sen voĉo en decidoj."

@@ -235,9 +235,9 @@ Li kaŝis la buŝtukon pli profunden en la tirkeston kaj iris fari al si freŝan
 
 **Answers:**
 - A) Naŭ kaj naŭ dekunoj de miliono da zlotoj
-- B) Du miliardoj da zlotoj
-- C) Kvin milionoj da zlotoj
-- D) Unu miliono da zlotoj
+- B) Du miliardoj da zlotoj de la banko de la lando
+- C) Kvin milionoj da zlotoj en la kontoj de la firmao
+- D) Unu miliono da zlotoj por la ŝtato kaj la urboj
 
 **Correct:** A
 **Explanation:** Tomek legas: naŭ kaj naŭ dekunoj de miliono da enspezo kaj tricent miloj da perdo.
@@ -276,10 +276,10 @@ Li kaŝis la buŝtukon pli profunden en la tirkeston kaj iris fari al si freŝan
 **Question:** Kion diras Sebastian Felkner pri partneroj?
 
 **Answers:**
-- A) Ke ĉiu devus havi egale
+- A) Ke ĉiu en la kompanio devus havi egale kaj sen privilegioj por la tuta teamo
 - B) Ke li prenas dungitojn kun kondiĉoj kiel ĉe partneroj, sed sen voĉdonrajto en decidoj
-- C) Ke partneroj estas necesaj
-- D) Ke li neniam fondas firmaojn
+- C) Ke partneroj estas necesaj por la kresko de la kompanio kaj por ĝiaj novaj projektoj
+- D) Ke li neniam fondas firmaojn kun aliaj homoj, ĉar li tute ne fidas ilin
 
 **Correct:** B
 **Explanation:** Sebastian diras, ke li donas al dungitoj kondiĉojn kiel al partneroj, sed sen voĉo en decidoj.

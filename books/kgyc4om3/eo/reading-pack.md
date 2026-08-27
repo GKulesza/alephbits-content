@@ -229,9 +229,9 @@ Eble tio estis vera amo. Aŭ eble nur komenco.
 
 **Answers:**
 - A) El Rusio, ŝi loĝas en Germanio
-- B) El Pollando
-- C) El Usono
-- D) El Ukrainio
+- B) El Pollando, el la regiono de Krakovo
+- C) El Usono, el la urbo Ĉikago
+- D) El Ukrainio, el la urbo Kievo
 
 **Correct:** A
 **Explanation:** Ŝi diras al la ŝoforo, ke ŝi estas el Rusio, sed loĝas en Germanio.
@@ -257,9 +257,9 @@ Eble tio estis vera amo. Aŭ eble nur komenco.
 
 **Answers:**
 - A) En Praga en Varsovio
-- B) En Jełań
-- C) En Krakovo
-- D) En Berlino
+- B) En Jełań, la vilaĝo de la familio
+- C) En Krakovo ĉe la malnova placo
+- D) En Berlino en la ĉefa stacidomo
 
 **Correct:** A
 **Explanation:** La luigita ĉambro en Praga estas priskribita rekte.

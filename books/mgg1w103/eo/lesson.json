@@ -66,9 +66,9 @@
         "question": "Kial Rudi komence ne ricevas bombonojn?",
         "answers": [
           "Li helpas nur por ricevi rekompencon",
-          "Li ne konas la arbon",
-          "Li estas malsana",
-          "Li ne ŝatas dolĉaĵojn"
+          "Li ne konas la arbon de la ĝardeno",
+          "Li estas malsana kaj tre malforta",
+          "Li ne ŝatas dolĉaĵojn de la arbo"
         ],
         "correctIndex": 0,
         "explanation": "Lia helpo ne estas seninteresa: li atendas rekompencon."
@@ -89,10 +89,10 @@
         "type": "single_choice",
         "question": "Kiam folio transformiĝas en bombonon?",
         "answers": [
-          "Kiam Kolczuś seninterese helpas Kicek",
-          "Kiam pluvas",
-          "Kiam Rudi krias",
-          "Nokte"
+          "Kiam Kolczuś seninterese helpas Kicek en la ĝardeno de la arbo",
+          "Kiam pluvas dum la tuta tago kaj la nokto senĉese en la regiono",
+          "Kiam Rudi krias en la ĝardeno de la domo de la amikoj laŭtege",
+          "Nokte kiam ĉiuj dormas trankvile en siaj litoj hejme kaj en la domo"
         ],
         "correctIndex": 0,
         "explanation": "La arbo reagas al la seninteresa helpo de Kolczuś."

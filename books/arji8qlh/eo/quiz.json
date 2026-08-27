@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Rafał nomas la «malbenita simetrio»?",
       "answers": [
-        "La ekvilibron de potenco en EU",
+        "La ekvilibron de potenco en EU kaj la mondo",
         "Kompari genocidon kun «poloj ankaŭ vundis»",
-        "Simetrion en arkitekturo",
-        "Simetrion en la amaskomunikiloj"
+        "Simetrion en arkitekturo de la urboj",
+        "Simetrion en la amaskomunikiloj kaj gazetoj"
       ],
       "correctIndex": 1,
       "explanation": "La salonaj «simetrio» trivialigas Volinion: «poloj ankaŭ vundis, ĉu ne?»."
@@ -32,9 +32,9 @@
       "question": "Kian scenon el la poemo de Ŝevĉenko Rafał alvokas?",
       "answers": [
         "Ivano Gonta murdanta siajn proprajn infanojn",
-        "La batalon de Grunwald",
-        "Subskribon de paco",
-        "La geedziĝon de la heroo"
+        "La batalon de Grunwald de la du grandaj armeoj",
+        "Subskribon de paco inter la du reĝoj de la regiono",
+        "La geedziĝon de la heroo kun ŝia fratino en la preĝejo"
       ],
       "correctIndex": 0,
       "explanation": "En «Hajdamakoj» la ĉefa sceno: Ivano Gonta murdas siajn proprajn infanojn pro la «pola sango»."

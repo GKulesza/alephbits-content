@@ -20,9 +20,9 @@
       "question": "De kie devenas Anastazja?",
       "answers": [
         "El Rusio, ŝi loĝas en Germanio",
-        "El Pollando",
-        "El Usono",
-        "El Ukrainio"
+        "El Pollando, el la regiono de Krakovo",
+        "El Usono, el la urbo Ĉikago",
+        "El Ukrainio, el la urbo Kievo"
       ],
       "correctIndex": 0,
       "explanation": "Ŝi diras al la ŝoforo, ke ŝi estas el Rusio, sed loĝas en Germanio."
@@ -44,9 +44,9 @@
       "question": "Kie ŝi luigas la ĉambron?",
       "answers": [
         "En Praga en Varsovio",
-        "En Jełań",
-        "En Krakovo",
-        "En Berlino"
+        "En Jełań, la vilaĝo de la familio",
+        "En Krakovo ĉe la malnova placo",
+        "En Berlino en la ĉefa stacidomo"
       ],
       "correctIndex": 0,
       "explanation": "La luigita ĉambro en Praga estas priskribita rekte."

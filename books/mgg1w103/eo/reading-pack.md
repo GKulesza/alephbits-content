@@ -180,9 +180,9 @@ Kaj tiel Rudi komprenis, ke la plej grandan ĝojon donas ne preni, sed doni. De 
 
 **Answers:**
 - A) Li helpas nur por ricevi rekompencon
-- B) Li ne konas la arbon
-- C) Li estas malsana
-- D) Li ne ŝatas dolĉaĵojn
+- B) Li ne konas la arbon de la ĝardeno
+- C) Li estas malsana kaj tre malforta
+- D) Li ne ŝatas dolĉaĵojn de la arbo
 
 **Correct:** A
 **Explanation:** Lia helpo ne estas seninteresa: li atendas rekompencon.
@@ -207,10 +207,10 @@ Kaj tiel Rudi komprenis, ke la plej grandan ĝojon donas ne preni, sed doni. De 
 **Question:** Kiam folio transformiĝas en bombonon?
 
 **Answers:**
-- A) Kiam Kolczuś seninterese helpas Kicek
-- B) Kiam pluvas
-- C) Kiam Rudi krias
-- D) Nokte
+- A) Kiam Kolczuś seninterese helpas Kicek en la ĝardeno de la arbo
+- B) Kiam pluvas dum la tuta tago kaj la nokto senĉese en la regiono
+- C) Kiam Rudi krias en la ĝardeno de la domo de la amikoj laŭtege
+- D) Nokte kiam ĉiuj dormas trankvile en siaj litoj hejme kaj en la domo
 
 **Correct:** A
 **Explanation:** La arbo reagas al la seninteresa helpo de Kolczuś.

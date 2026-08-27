@@ -220,10 +220,10 @@ Malantaŭ la fenestro la suno leviĝis pli alten. Rafał revenis al la skribado.
 **Question:** Kion Rafał nomas la «malbenita simetrio»?
 
 **Answers:**
-- A) La ekvilibron de potenco en EU
+- A) La ekvilibron de potenco en EU kaj la mondo
 - B) Kompari genocidon kun «poloj ankaŭ vundis»
-- C) Simetrion en arkitekturo
-- D) Simetrion en la amaskomunikiloj
+- C) Simetrion en arkitekturo de la urboj
+- D) Simetrion en la amaskomunikiloj kaj gazetoj
 
 **Correct:** B
 **Explanation:** La salonaj «simetrio» trivialigas Volinion: «poloj ankaŭ vundis, ĉu ne?».
@@ -235,9 +235,9 @@ Malantaŭ la fenestro la suno leviĝis pli alten. Rafał revenis al la skribado.
 
 **Answers:**
 - A) Ivano Gonta murdanta siajn proprajn infanojn
-- B) La batalon de Grunwald
-- C) Subskribon de paco
-- D) La geedziĝon de la heroo
+- B) La batalon de Grunwald de la du grandaj armeoj
+- C) Subskribon de paco inter la du reĝoj de la regiono
+- D) La geedziĝon de la heroo kun ŝia fratino en la preĝejo
 
 **Correct:** A
 **Explanation:** En «Hajdamakoj» la ĉefa sceno: Ivano Gonta murdas siajn proprajn infanojn pro la «pola sango».

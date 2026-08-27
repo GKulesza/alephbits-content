@@ -56,9 +56,9 @@
         "question": "Kial oni indikis la prezojn en eŭroj?",
         "answers": [
           "La hungaroj kaj slovakoj ne volis kalkuli",
-          "La eŭro estas la valuto de Pollando",
-          "La bankaŭtomatoj ne funkciis",
-          "La vendistoj ne scipovis la polan"
+          "La eŭro estas la valuto de Pollando en la tuta mondo",
+          "La bankaŭtomatoj ne funkciis en la lando",
+          "La vendistoj ne scipovis la polan lingvon"
         ],
         "correctIndex": 0,
         "explanation": "La vendisto klarigas, ke la klientoj el Hungario kaj Slovakio preferas la eŭron."
@@ -68,9 +68,9 @@
         "question": "Per kio komercas Adamo fine?",
         "answers": [
           "Ledaj jakoj kaj ŝuoj",
-          "Kaŝmiro",
-          "Elektroniko",
-          "Legomoj"
+          "Kaŝmiro el la montaro",
+          "Elektroniko de Japanio",
+          "Legomoj de la vilaĝo"
         ],
         "correctIndex": 0,
         "explanation": "Li havas sian propran budon kun ledaj jakoj kaj ŝuoj."
@@ -80,9 +80,9 @@
         "question": "De kie venas la komercistoj al la bazaro?",
         "answers": [
           "El Hungario, Ĉeĥio kaj Slovakio",
-          "Nur el Pollando",
-          "El Japanio",
-          "El Usono"
+          "Nur el Pollando kaj la apudaj landoj",
+          "El Japanio kaj la malproksima oriento",
+          "El Usono kaj la anglalingva mondo"
         ],
         "correctIndex": 0,
         "explanation": "La teksto mencias hungarojn, ĉeĥojn kaj slovakojn."

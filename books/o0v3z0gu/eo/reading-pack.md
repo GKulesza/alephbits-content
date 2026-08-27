@@ -222,10 +222,10 @@ Li sendis la artikolon al la redakcio. Li ne sciis, ĉu ĝi estos publikigita. S
 **Question:** Pri kio Marcin hazarde spektas filmon?
 
 **Answers:**
-- A) Pri Mikołaj Kopernik
+- A) Pri Mikołaj Kopernik kaj la steloj de la ĉielo
 - B) Pri la batalo de Beresteczko kaj Wiśniowiecki
-- C) Pri la dua mondmilito
-- D) Pri la Varsovia Ribelo
+- C) Pri la dua mondmilito kaj la okupado de la lando
+- D) Pri la Varsovia Ribelo de la urbo kaj la loĝantoj
 
 **Correct:** B
 **Explanation:** Li trafas je filmo pri Beresteczko kaj Wiśniowiecki.
@@ -250,10 +250,10 @@ Li sendis la artikolon al la redakcio. Li ne sciis, ĉu ĝi estos publikigita. S
 **Question:** Kial Wiśniowiecki ekiris orienten anstataŭ fuĝi?
 
 **Answers:**
-- A) Pro milita devo
+- A) Pro milita devo de la soldatoj en la batalo
 - B) Ĉar sen rezisto la ribelo detruus ĉion
-- C) Ĉar la reĝo tion ordonis
-- D) Ĉar li serĉis trezorojn
+- C) Ĉar la reĝo tion ordonis al li persone
+- D) Ĉar li serĉis trezorojn en la tero de la regiono
 
 **Correct:** B
 **Explanation:** Marcin skribas, ke li ekiris en la fajron, ĉar la ribelo devis esti haltigita.

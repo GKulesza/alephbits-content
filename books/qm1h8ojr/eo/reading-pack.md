@@ -410,9 +410,9 @@ Kaj pri tio, ke ĉiam eblas komenci denove. Eĉ je minus naŭ gradoj.
 
 **Answers:**
 - A) La hungaroj kaj slovakoj ne volis kalkuli
-- B) La eŭro estas la valuto de Pollando
-- C) La bankaŭtomatoj ne funkciis
-- D) La vendistoj ne scipovis la polan
+- B) La eŭro estas la valuto de Pollando en la tuta mondo
+- C) La bankaŭtomatoj ne funkciis en la lando
+- D) La vendistoj ne scipovis la polan lingvon
 
 **Correct:** A
 **Explanation:** La vendisto klarigas, ke la klientoj el Hungario kaj Slovakio preferas la eŭron.
@@ -424,9 +424,9 @@ Kaj pri tio, ke ĉiam eblas komenci denove. Eĉ je minus naŭ gradoj.
 
 **Answers:**
 - A) Ledaj jakoj kaj ŝuoj
-- B) Kaŝmiro
-- C) Elektroniko
-- D) Legomoj
+- B) Kaŝmiro el la montaro
+- C) Elektroniko de Japanio
+- D) Legomoj de la vilaĝo
 
 **Correct:** A
 **Explanation:** Li havas sian propran budon kun ledaj jakoj kaj ŝuoj.
@@ -438,9 +438,9 @@ Kaj pri tio, ke ĉiam eblas komenci denove. Eĉ je minus naŭ gradoj.
 
 **Answers:**
 - A) El Hungario, Ĉeĥio kaj Slovakio
-- B) Nur el Pollando
-- C) El Japanio
-- D) El Usono
+- B) Nur el Pollando kaj la apudaj landoj
+- C) El Japanio kaj la malproksima oriento
+- D) El Usono kaj la anglalingva mondo
 
 **Correct:** A
 **Explanation:** La teksto mencias hungarojn, ĉeĥojn kaj slovakojn.
