@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Adam diras al la studentoj pri la Tria Regno komence de la prelego?",
+      "answers": [
+        "Ke ĝi havis rezervojn de municio por ses jaroj",
+        "Ke ĝi timis la pacon pli ol la militon",
+        "Ke ĝi ne planis la ekspansion",
+        "Ke ĝi estis preta por longa milito"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam diras, ke Germanio en 1939 timis ne la militon, sed la pacon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta malkovras sur la komputilo de Adam?",
+      "answers": [
+        "Notojn por la prelego",
+        "Mesaĝojn al alia virino",
+        "Leteron de studento",
+        "Esploran projekton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta diras, ke ŝi trovis liajn mesaĝojn \"al ŝi\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom daŭris la perfido de Adam laŭ lia konfeso?",
+      "answers": [
+        "Jaron",
+        "Tri monatojn",
+        "Ses monatojn",
+        "Du semajnojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam agnoskas, ke tio daŭris tri monatojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Marta komparas ilian geedzecon al la historio de la Tria Regno?",
+      "answers": [
+        "Al venko en milito",
+        "Al sistemo bazita sur ekspansio, kiu timas halti",
+        "Al paco post milito",
+        "Al diplomatio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta diras, ke ili ŝajnigis, ke ĉio estas en ordo, anstataŭ halti kaj ripari la problemon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Adam skribas al la studento en la epilogo pri la limoj?",
+      "answers": [
+        "Ke la limoj estas muroj",
+        "Ke la limoj estas pordoj, kiuj povas esti malfermitaj",
+        "Ke la limojn oni devas detrui",
+        "Ke la limoj ne ekzistas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li respondas, ke la limoj ne estas muroj, sed pordoj por tiuj, kiuj scias frapi."
+    }
+  ]
+}

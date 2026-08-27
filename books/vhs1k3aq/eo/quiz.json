@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio kverelas Magda kaj Tomek komence de la rakonto?",
+      "answers": [
+        "Pri disiĝo",
+        "Pri tio, ke Franek ne malŝaltis la tablojdon post la ekrana tempo",
+        "Pri la ferioj",
+        "Pri la laboro de Magda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek ludis futbalon sur la tablojdo post la 18:45."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Franek demandas la patrinon post la kverelo?",
+      "answers": [
+        "Ĉu li ricevos la tablojdon",
+        "Ĉu la gepatroj ankoraŭ amas unu la alian",
+        "Ĉu ili iros al kinejo",
+        "Ĉu Zosia estas malsana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek demandas rekte: „Ĉu vi ankoraŭ amas unu la alian?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kies podkastan penson Magda alvokas en la dormoĉambro?",
+      "answers": [
+        "De Jesper Juul",
+        "De Aga Rogala",
+        "De Maria Berlińska",
+        "De Szymon Grzelak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda citas Aga Rogala pri nenecesaj kvereloj kaj laboro pri si."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Tomek reagas, kiam Franek petas antaŭan averton antaŭ forpreno de la tablojdo?",
+      "answers": [
+        "Li krias",
+        "Li ridetas kaj diras „Interkonsento staras\"",
+        "Li ignoras la filon",
+        "Li ordonas iri dormi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek akceptas la proponon kaj diras: „Interkonsento staras\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion signifas la metaforo de la „ĥoro de voĉoj\" en la finalo?",
+      "answers": [
+        "Ke la infanoj devus silenti",
+        "Ke en la gepatroj sonas la voĉoj de antaŭaj generacioj, kiujn ili lernas aŭskulti kaj transformi",
+        "Ke la familio kantas en preĝejo",
+        "Ke Tomek fariĝas kantisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek kaj Magda lernas aŭskulti la voĉojn de gepatroj/geavoj kaj „kanti sian propran melodion\"."
+    }
+  ]
+}

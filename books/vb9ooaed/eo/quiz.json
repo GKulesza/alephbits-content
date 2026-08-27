@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiun aliron Rejewski proponas al Enigmo?",
+      "answers": [
+        "Kompreni la agadon de la aparato",
+        "Analizi nur la tekstojn",
+        "Atendi la komputilon",
+        "Ignori la dokumentaron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski diras, ke oni devas kompreni la maŝinon — tio estas matematiko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun malfortecon de la germanoj malkovras Rejewski?",
+      "answers": [
+        "La alfabeta ordo en la konektoj",
+        "Hazardaj konektoj",
+        "Manko de rotoroj",
+        "Unu ŝlosilo jare"
+      ],
+      "correctIndex": 0,
+      "explanation": "La konstruistoj elektis la alfabetan ordon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la kriptologia bombo?",
+      "answers": [
+        "Aparato simulantaj Enigmojn",
+        "Pafarmilo",
+        "Vetera instrumento",
+        "Instrua libro"
+      ],
+      "correctIndex": 0,
+      "explanation": "La bombo simulas la agadon de multaj Enigmoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas la ĉefa heroo de la rakonto?",
+      "answers": [
+        "Marian Rejewski",
+        "Alan Turing",
+        "Hitler",
+        "Generalo Sikorski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejewski gvidas la laborojn pri rompo de Enigmo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Rejewski diras pri Enigmo komence?",
+      "answers": [
+        "Tio estas matematiko, ne lingvo",
+        "Tio estas neebla por rompi",
+        "Tio estas nur legendo",
+        "Tio estas usona invento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li emfazas, ke oni devas pensi matematike."
+    }
+  ]
+}

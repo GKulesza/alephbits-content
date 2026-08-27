@@ -1,0 +1,296 @@
+# Silento antaŭ la ŝtormo
+
+## Metadata
+
+**Pack ID:** vb9ooaed
+**Book ID:** vb9ooaed
+**Legacy Pack ID:** polish_cisza_przed_burza
+**Version:** 1.0.1  
+**Edition version:** 1.0.1  
+
+**Title:** Silento antaŭ la ŝtormo  
+**Subtitle:** Polaj rompantoj de Enigmo  
+**Blurb:** Varsovio, oktobro 1932. Marian Rejewski rigardas la germanan Enigmon kiel logikan enigmon, ne kiel magian ĉifron. En la Ĉifrejo naskiĝas ideo, kiu povas ŝanĝi la kurson de la milito — se ili sukcesos, antaŭ ol la mondo vekiĝos el la koŝmaro. La streĉo kreskas en la silento de la laboratorio, kie gravas ĉiu eraro.
+
+**Genres:** history, article  
+**Series:** Collection One  
+**Audience:** adult
+
+**Difficulty:** 6 (of 8)
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** *(varies — see text)*  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Cisza przed burzą" — oficiala eldono de Collection One.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** polish, narrative, enigma, cryptography  
+
+**Keywords:** Rejewski, Enigma, kryptologia, II wojna światowa  
+
+**Editorial notes:** Migrated from Collection One manuscript. Full text preserved — not abridged.
+
+---
+
+**Cover family:** history
+
+---
+
+**World:**
+- objects: book
+- places: office, town, street
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude (editorial migration)  
+**Human reviewed:** yes — 2026-07-09  
+**Trust classification:** Inspired by reality  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Narracja historyczna oparta na znanych faktach; dialogi i sceny są literacką rekonstrukcją.
+
+**Source video:** https://www.youtube.com/watch?v=BqoujzdBDBg  
+**Source date (manuscript):** 05.07.2026
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-09 | Collection One migration (Phase 39) |
+| 1.0.1 | 2026-08-26 | Polish prose correction — timing consistency |
+| 1.0.1 | 2026-08-27 | Esperanto translation edition |
+
+---
+## Sources
+
+### Source 1: Collection One manuscript (YouTube editorial)
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=BqoujzdBDBg  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-05  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał wideo — źródło redakcyjne Collection One.
+
+---
+## Text
+
+**SILENTO ANTAŬ LA ŜTORMO**
+
+Oktobro 1932, Varsovio. En malgranda, polvokovrita ĉambro en la malantaŭo de la konstruaĵo de la Ĝenerala Stabo sur la strato Ujazdowskie, Marian Rejewski unuafoje vidis Enigmon. Ne la tutan, ĉar tiu ripozis sekure en germanaj kazernoj, sed ĝian spiriton – la dokumentaron, kiun la pola spionado akiris danke al francaj kolegoj, kaj tiuj siavice de germana perfidulo, kiu vendis la sekretojn de la Regno por malgranda mano da markoj.
+
+Rejewski havis dudek sep jarojn, ĵus post matematikaj studoj en Poznań, kaj eĉ pli freŝan kriptografian kurson, en kiun li akceptiĝis kiel unu el la malmultaj. Li estis silenta, koncentrita, kun okuloj, kiuj vidis pli ol la plimulto de homoj. Kiam li rigardis la skemojn de Enigmo, li sentis, ke tio ne estas nur maŝino. Tio estas defio.
+
+– Ne havas sencon analizi tekstojn – li diris al siaj kolegoj, Henryk Zygalski kaj Jerzy Różycki, kiuj staris malantaŭ li. – Ni devas kompreni, kiel funkcias la aparato mem. Tio ne estas lingvo, tio estas matematiko.
+
+Zygalski, kiu ĉiam havis en si pli da skeptikismo ol entuziasmo, levis la ŝultrojn.
+
+– La maŝino havas milionojn da kombinoj. Oni ne povas kontroli ilin ĉiujn.
+
+– Ni ne devas kontroli ĉiujn – respondis Rejewski, jam dismetante sur la tablo la unuajn kalkulojn. – Ni devas trovi ilian logikon.
+
+Kaj li trovis. Dum kelkaj semajnoj, laborante nokte ĉe petrola lampo, Rejewski malkovris la ŝlosilon al Enigmo – la manieron de konektoj inter la klavaro kaj la rotoroj. Montriĝis, ke la germanaj konstruistoj, kvankam geniaj en kreado de komplikaj sistemoj, estis kiel la plimulto de homoj – ili elektis la plej simplan solvon. La alfabeta ordo.
+
+– Tio estas neebla – diris Zygalski, kiam Rejewski montris al li siajn rezultojn.
+
+– Kaj tamen – respondis Rejewski kun rideto, kiu ne ofte okazis al li. – La germanoj estas sistemecaj. Kaj tio estas ilia malforteco.
+
+
+**Kriptologia bombo**
+
+La jaroj pasis, kaj Enigmo fariĝadis ĉiam pli komplika. La germanoj enkondukis pliajn sekurigilojn, ŝanĝis la agordojn, aldonis novajn rotorojn. La polaj kriptologoj devis senĉese elpensi novajn metodojn, por sekvi la malamikon. Rejewski do projektis maŝinon, kiu devis akceli la procezon de rompo de ĉifroj – la "kriptologian bombon", elektromekanikan aparaton, kiu simulis la agadon de pluraj Enigmoj samtempe kaj aŭtomate kontrolis eblajn kombinojn.
+
+La unua bombo estis konstruita en 1938. Ĝi estis granda, peza, brua – sed ĝi funkciis. Dum du horoj ĝi kapablis trovi la ĉiutagan ŝlosilon de Enigmo. Tion, kio iam okupis al la kriptologoj semajnojn, nun estis afero de du horoj.
+
+– Tio ŝanĝas ĉion – diris Różycki, observante, kiel la maŝino prilaboras sekvajn kombinojn. – Nun ni povas legi la germanajn ordonojn, antaŭ ol ili atingos iliajn proprajn unuojn.
+
+– Se ni nur konservos la ritmon – aldonis Zygalski. – La germanoj ne dormas.
+
+Kaj efektive, la germanoj jam laboris pri eĉ pli malfacila versio de Enigmo – kun kvin rotoroj anstataŭ tri. La poloj sciis, ke iliaj metodoj povas baldaŭ fariĝi malmodernaj. Ili bezonis tempon. Kaj monon. Ambaŭ rimedoj finiĝis pli rapide, ol ili atendis.
+
+
+**Julio 1939, arbaro apud Pyry**
+
+La sekreta renkontiĝo okazis en vilao en Pyry apud Varsovio. Sur la tablo kuŝis dokumentoj, skemoj, kaj en la angulo staris rekonstruita Enigmo kaj la pola "bombo". Kontraŭe al la polaj matematikistoj sidis britaj kaj francaj kriptologoj.
+
+La vizaĝo de Alistair Denniston, estro de la brita kriptografia sekcio, estis griza pro impreso. Dum jaroj la britoj provis rompi Enigmon sen pli grandaj sukcesoj. Kaj nun tri poloj montris al ili pretan solvon.
+
+– Kiel tio estas ebla? – demandis Denniston, rigardante la bombon. – Kiel vi sukcesis fari tion?
+
+– Matematiko – respondis Rejewski. – Kaj iom da bonŝanco.
+
+– Kaj germana sistemeco – aldonis Zygalski.
+
+Denniston kapjesis. Li sciis, ke tio, kion li vidas, ŝanĝas ĉion. La poloj transdonis al ili ĉion – dokumentojn, metodojn, maŝinojn. Kaj tio en la antaŭtago de la milito.
+
+– Vi bezonos tion – diris Rejewski. – La germanoj baldaŭ atakos.
+
+Denniston rigardis lin. En liaj okuloj estis demando, kiu ne estis dirita: "Kaj pri vi?".
+
+Rejewski respondis al ĝi, antaŭ ol ĝi estis dirita:
+
+– Ni restas. Ni batalos. Sed vi devas daŭrigi tion, kion ni komencis.
+
+
+**Bletchley Park, 1940**
+
+Dum bomboj falis sur Londonon, kaj germanaj submarŝipoj semis teruron sur la Atlantiko, en la bieno Bletchley Park, ĉirkaŭ okdek kilometrojn norde de la ĉefurbo, okazis silenta milito. En konstruaĵoj, kiuj iam estis staloj kaj dancejoj, nun laboris miloj da homoj. Matematikistoj, lingvistoj, inĝenieroj, kaj ankaŭ virinoj – kiuj en tiuj tempoj ne ofte troviĝis en tiel respondecaj roloj.
+
+Alan Turing estis unu el ili. Li havis tridek unu jarojn, neobeeman hartufon kaj kondutmanieron, kiu igis iujn konsideri lin ekscentrulo. Aliajn – geniulo. Kaj unuj kaj aliaj pravis.
+
+Turing ne komencis de nulo. Kiam li trafis al Bletchley Park, li havis jam la scion, kiun la poloj transdonis al la britoj unu jaron pli frue. Li sciis, kiel funkcias Enigmo, li konis la polajn metodojn, li vidis la bombon. Sed li ankaŭ sciis, ke tio ne sufiĉas. La germanoj ŝanĝis la agordojn ĉiutage, kaj la milito postulis respondon en reala tempo.
+
+– Ni bezonas ion pli rapidan – li diris al sia teamo. – Ion, kio testos la kombinojn aŭtomate, sen homa partopreno.
+
+Li komencis desegni maŝinon, kiu devis fari tion, kion faris la pola bombo, sed pli rapide kaj pli efike. Li utiligis la ideojn de Rejewski, sed aldonis al ili siajn proprajn – matematikan logikon, kiu permesis elimini tutajn grupojn da agordoj samtempe.
+
+– Tio ne estas nur maŝino por rompi ĉifrojn – li diris al la kunlaborantoj. – Tio estas prototipo de komputilo. Maŝino, kiu pensas.
+
+Iuj rigardis lin kun malkredo. Sed kiam la unua "Bombe" – ĉar tiel oni nomis lian maŝinon – komencis funkcii, ĉiuj duboj malaperis. Dum dekkelkaj minutoj ĝi kapablis trovi la agordojn de Enigmo, kiujn mane okupus al la kriptologoj tagojn.
+
+
+**Eraro, kiu savis milionojn**
+
+La sekreto de la sukceso montriĝis ne nur la maŝinoj, sed ankaŭ la homaj eraroj. La germanaj operatoroj de Enigmo, kvankam trejnitaj kiel perfektistoj, estis kiel ĉiu homo – lacaj, distritaj, kelkfoje mallaboremaj. Ilia malforteco montriĝis la kutimo al ripetaj frazoj. "Heil Hitler" komence de la raporto. "Keine besonderen Ereignisse" – "neniuj specialaj okazoj" – fine. Tiuj antaŭvideblaj fragmentoj de la teksto donis al la kriptologoj deirpunkton.
+
+Plej multe tamen helpis al ili proceduro, kiu devis pliigi la sekurecon. Ĉiu operatoro devis tri fojojn enigi la ŝlosilon de la mesaĝo komence de la dissendo. Tiu ripeto, kiu devis preventi la erarojn de la dissendo, fariĝis la plej granda eraro.
+
+– Ili mem donis al ni la ŝlosilon al sia sekreto – Turing diris iam al sia teamo. – Ili ripetas la saman ŝablonon, do ni ĝin rekonas. Estas kvazaŭ ili lasus la pordon malfermita.
+
+Danke al tiu kaj al aliaj malfortecoj, Bletchley Park fariĝis la koro de la alianca spionado. Ĉiutage oni deĉifris milojn da germanaj mesaĝoj, kiujn oni transdonis al la komandantoj sur la frontoj. Informoj pri la movoj de submarŝipoj, pri planitaj atakoj, pri provizado – ĉio tio atingis la aliancanojn, antaŭ ol la germanaj komandantoj sukcesis ĝin utiligi.
+
+
+**Prezo de la venko**
+
+La milito finiĝis. Germanio kapitulacis, kaj Eŭropo komencis leviĝi el la ruinoj. Sed por Alan Turing la fino de la milito ne signifis la finon de la problemoj. Lia laboro en Bletchley Park restis sekreto – pri ĝi sciis nur kelkdek homoj, kaj li mem ne povis rakonti al iu ajn pri tio, kion li atingis.
+
+En 1952, kiam la mondo malrapide forgesis pri la milito, Turing estis akuzita pri samseksemo – en tiuj tempoj krimo en Britio. Oni metis lin antaŭ elekto: prizono aŭ kemia kastrado. Li elektis la duan, sed la prezo estis terura. Li perdis la senton de si mem, sian identecon, kaj fine – la emon vivi.
+
+La 7-an de junio 1954 Alan Turing mortis. Li estis trovita en sia domo, apud li kuŝis mordita pomo trempita en cianido. Li havis kvardek unu jarojn.
+
+Nur multajn jarojn poste oni komencis aprezi lian kontribuon. En 2009 la brita ĉefministro Gordon Brown pardonpetis pro la maniero, kiel oni traktis Turing. En 2013 la reĝino Elizabeto la 2-a rehonorigis lin. Hodiaŭ lia nomo estas sinonimo de genio, sed ĝi ankaŭ simbolas la maljustecon, kiun individuo povas sperti de la sistemo.
+
+
+**Kio restis**
+
+Marian Rejewski, Henryk Zygalski kaj Jerzy Różycki neniam ĝuis famon je la nivelo de Turing. Post la milito Rejewski revenis al Pollando, kie li laboris kiel ordinara librotenisto. Li neniam parolis pri sia milita laboro. Zygalski elmigris al Britio, kie li mortis en forgeso. Różycki pereis en 1942 en ŝipkatastrofo ĉe la marbordo de Alĝerio.
+
+Sed ilia kontribuo al la venko de la aliancanoj estis netaksebla. Ilin unuajn rigardis Enigmon ne kiel lingvan enigmon, sed kiel matematikan problemon. Ili konstruis la unuajn ilojn, kiuj ebligis ĝian rompon. Ili transdonis sian scion al la britoj en la momento, kiam ili mem staris sur la rando de la abismo.
+
+Se ne estus la polaj matematikistoj, la milito povus daŭri ankoraŭ du, tri, aŭ eble kvar jarojn pli longe. Pliaj milionoj da vivoj estus perditaj. Tio, kion ili faris, ŝanĝis la kurson de la historio – kvankam dum longaj jaroj ilia rolo restis en la ombro.
+
+Hodiaŭ, en Bletchley Park, troviĝas monumento dediĉita al la polaj kriptologoj. Ĝi ne estas granda. Ĝi ne estas impona. Sed ĝi estas. Kaj sur ĝi troviĝas tri nomoj: Rejewski, Zygalski, Różycki.
+
+Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de la venko".
+
+
+**FINO**
+
+---
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Kiun aliron Rejewski proponas al Enigmo?
+
+**Answers:**
+- A) Kompreni la agadon de la aparato
+- B) Analizi nur la tekstojn
+- C) Atendi la komputilon
+- D) Ignori la dokumentaron
+
+**Correct:** A
+**Explanation:** Rejewski diras, ke oni devas kompreni la maŝinon — tio estas matematiko.
+**Text reference:** kompreni, kiel funkcias la aparato mem
+
+### Question 2
+
+**Question:** Kiun malfortecon de la germanoj malkovras Rejewski?
+
+**Answers:**
+- A) La alfabeta ordo en la konektoj
+- B) Hazardaj konektoj
+- C) Manko de rotoroj
+- D) Unu ŝlosilo jare
+
+**Correct:** A
+**Explanation:** La konstruistoj elektis la alfabetan ordon.
+**Text reference:** La alfabeta ordo
+
+### Question 3
+
+**Question:** Kio estas la kriptologia bombo?
+
+**Answers:**
+- A) Aparato simulantaj Enigmojn
+- B) Pafarmilo
+- C) Vetera instrumento
+- D) Instrua libro
+
+**Correct:** A
+**Explanation:** La bombo simulas la agadon de multaj Enigmoj.
+**Text reference:** elektromekanika aparato
+
+### Question 4
+
+**Question:** Kiu estas la ĉefa heroo de la rakonto?
+
+**Answers:**
+- A) Marian Rejewski
+- B) Alan Turing
+- C) Hitler
+- D) Generalo Sikorski
+
+**Correct:** A
+**Explanation:** Rejewski gvidas la laborojn pri rompo de Enigmo.
+**Text reference:** Rejewski
+
+### Question 5
+
+**Question:** Kion Rejewski diras pri Enigmo komence?
+
+**Answers:**
+- A) Tio estas matematiko, ne lingvo
+- B) Tio estas neebla por rompi
+- C) Tio estas nur legendo
+- D) Tio estas usona invento
+
+**Correct:** A
+**Explanation:** Li emfazas, ke oni devas pensi matematike.
+**Text reference:** matematiko, ne lingvo
+
+---
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

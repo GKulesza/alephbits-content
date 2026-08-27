@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Jan ĉiutage transportas tra la ponto?",
+      "answers": [
+        "Malplenan dorsosakon",
+        "Grizan sakon kun sablo",
+        "Valizon kun vestaĵoj",
+        "Biciklojn por infanoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La doganistoj vidas, ke la viro ĉiutage preterpasas la limon kun la sama griza sako."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Jan respondas al la demando de la doganisto pri la enhavo de la sako?",
+      "answers": [
+        "Ke tio estas oro",
+        "Ke tio estas sablo",
+        "Ke tio estas libroj",
+        "Ke tio estas nutraĵoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al la demando de la doganisto li respondas simple: sablo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie okazas la rakonto?",
+      "answers": [
+        "Ĉe la limo inter Cieszyn kaj Český Těšín",
+        "En Gdańsk ĉe la haveno",
+        "En la Tatroj sur la montpasejo",
+        "Sur la flughaveno en Varsovio"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto parolas pri la limpasejo inter Cieszyn kaj Český Těšín."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion donas al Tomek la veturo kun la sako sur la pakaĵujo de la biciklo?",
+      "answers": [
+        "La senton, ke Jan estus fiera kaj ke la sako estas simbolo de io sen nomo",
+        "Planon forveturi al Ĉeĥio por ĉiam",
+        "Ideon komerci per sablo",
+        "La emon fariĝi politikisto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La fino diras, ke la sako estas simbolo de io sen nomo, kaj Tomek scias, ke Jan estus fiera."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Tomek en la rakonto?",
+      "answers": [
+        "Juna doganisto laboranta ĉe la limo",
+        "Urbestro de Cieszyn",
+        "Ŝoforo de buso",
+        "Turisto el Germanio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek estas juna doganisto, kiu laboras ĉe la limo de unu monato."
+    }
+  ]
+}
