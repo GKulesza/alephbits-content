@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu procento de kvinjaruloj elmontras kreativon je la nivelo de geniulo laŭ la esploroj de Land?",
+      "answers": [
+        "30%",
+        "98%",
+        "12%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomasz citas: inter kvinjaruloj eĉ 98% je la nivelo de geniulo de kreativo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu procento de plenkreskuloj super 25 jaroj konservas tiun kreativon?",
+      "answers": [
+        "12%",
+        "30%",
+        "2%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ĉe plenkreskuloj super 25 jaroj restas ĉ. 2% — la reston „mortigas\" la sistemo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie Tomasz observas ses kvinjarulojn ludantajn antaŭ dometo?",
+      "answers": [
+        "En Varsovio",
+        "En la infanĝardeno en Kopytkowo en Podlaĥio",
+        "En Krakovo",
+        "En Gdańsk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li staras antaŭ la infanĝardeno en Kopytkowo, ie en Podlaĥio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Tomasz instruas al infanoj la tagojn de la semajno en Kopytkowo?",
+      "answers": [
+        "Per fotokopiita folio kaj testo",
+        "Per movo — la infanoj transdonas al si la tagojn de la semajno",
+        "Nur per kanto el Jutubo",
+        "Per puno pro eraroj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li starigas sep infanojn meze — ĉiu diras tagon de la semajno, marŝante kaj kunlaborante."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la instruisto en Kopytkowo diras al Tomasz pri la sistemo?",
+      "answers": [
+        "Ke la direktoro lin laŭdas",
+        "Ke ĝi havas sencon, sed la sistemo ne permesas tion",
+        "Ke la gepatroj protestas",
+        "Ke ili ŝanĝos la studprograman bazon morgaŭ"
+      ],
+      "correctIndex": 1,
+      "explanation": "La instruisto diras: „La sistemo ne permesas al mi. Mi havas programon, kontrolojn, notojn.\""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "packId": "hxtpdpff:eo",
+  "bookId": "hxtpdpff",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Morał o ciekawości bez moralizowania; pozytywne zakończenie z pasją botaniczną."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "gGZ7a47-rW4"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}

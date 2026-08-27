@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio parolas la heroo kun la prezidantino en Bruselo?",
+      "answers": [
+        "Pri ferioj en la Alpoj",
+        "Pri falantaj popularaj taksoj kaj ebla kriza eliro",
+        "Pri reformo de la lerneja sistemo",
+        "Pri futbala matĉo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La prezidantino parolas pri la komplikiĝanta situacio en Pollando kaj demandas pri bezono de protekto aŭ posteno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kia skandalo aperas en la televido en la kabineto de la heroo?",
+      "answers": [
+        "Skandalo en la Suda Hospitalo kun falsaj deĵoroj",
+        "Vicskandalo en la impostejo",
+        "Disputo pri la nacia stadiono",
+        "Konflikto en muzika lernejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la televido ruliĝas informoj pri la skandalo en la Suda Hospitalo kaj pri kontraktoj de kuracistoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel la heroo priskribas Bruselon post la renkonto?",
+      "answers": [
+        "Kiel urbon sen principoj",
+        "Kiel patrinon donantan sekurecon nur al obeemuloj",
+        "Kiel paradizon por artistoj",
+        "Kiel lokon sen politiko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras al la konsilisto, ke Bruselo estas kiel patrino: donas sekurecon, kiam vi estas obeema."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la heroo konsideras sia lasta espero?",
+      "answers": [
+        "Leteron de elektantoj",
+        "La karton el Bruselo",
+        "Intervjuon en la radio",
+        "Ferion ĉe la maro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La konsilisto parolas pri eltiro de la karto el Bruselo, kaj la heroo scias, ke tio estas lia lasta espero."
+    },
+    {
+      "type": "single_choice",
+      "question": "Al kio venas Tomek fine de la rakonto?",
+      "answers": [
+        "Ke la politikistoj estas la plej gravaj",
+        "Ke gravas la sekureco de lia familio, kaj la resto estas nur teatro",
+        "Ke li devus fariĝi ĵurnalisto",
+        "Ke Bruselo forĵetis lin por ĉiam"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina pripenso diras, ke li bezonas scii, ke la familio estas sekura, kaj la resto estas nur teatro."
+    }
+  ]
+}

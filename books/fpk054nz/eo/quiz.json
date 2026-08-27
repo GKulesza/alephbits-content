@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Tomek kiel infano sentis sin fremde en Nikiszowiec?",
+      "answers": [
+        "Ĉar li ne konis la silezian lingvon",
+        "Ĉar la nova kvartalo kaj ĝia strukturo ŝajnis al li kaptilo el ruĝaj brikoj",
+        "Ĉar li tuj volis labori en la minejo",
+        "Ĉar li ne ŝatis preĝejojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komence la teksto emfazas la transloĝiĝon, la fremdecon de la loko kaj la senton de enkarceriĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie Tomek unuafoje vidas la figuron de la Nigra Monaĥo?",
+      "answers": [
+        "Ĉe la stacidomo en Katowice",
+        "Ĉe la preĝejo de Sankta Anna, en la ombro de pordego",
+        "Sur la tegmento de la ŝtonkonstruaĵo",
+        "En la mineja lifto"
+      ],
+      "correctIndex": 1,
+      "explanation": "La unua renkonto okazas ĉe la preĝejo de Sankta Anna, apud unu el la pordegoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian rolon ludas la minejo Gisze/Wieczorek en la teksto?",
+      "answers": [
+        "Ĝi estas nur senutila fono",
+        "Ĝi estas la patrino-flegantino kaj fonto de la sorto de la loĝantoj",
+        "Ĝi estas muzeo vizitata de turistoj",
+        "Ĝi estas priskribita kiel privata galerio"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras rekte, ke la minejo donis laboron, loĝejojn kaj decidis pri la vivo de la loĝantoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion signifas la gesto de la Monaĥo dum la dua renkonto kun Tomek?",
+      "answers": [
+        "Inviton malsupreniri sub la teron",
+        "Montron al la preĝejo kaj al la memoro de la loko",
+        "Minacon kontraŭ la loĝantoj",
+        "Peton pri mono"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Monaĥo montras la preĝejon, kaj Tomek interpretas tion kiel signon de memoro pri tiuj, kiuj foriris."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel ŝanĝiĝas la sinteno de Tomek al Nikiszowiec fine de la rakonto?",
+      "answers": [
+        "Li ankoraŭ volas forkuri de tie",
+        "Li komencas vidi en ĝi hejmon kaj gvidanton tra sia propra historio",
+        "Li decidas vendi la loĝejon de siaj gepatroj",
+        "Li ĉesas kredi iujn ajn legendojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "El loko-kaptilo Nikiszowiec iĝas por li hejmo kaj portanto de memoro."
+    }
+  ]
+}

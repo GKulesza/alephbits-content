@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio elsaltas el la kredencujo, kiam Zosia ĝin malfermas?",
+      "answers": [
+        "Blanka muso",
+        "Kato",
+        "Papilio",
+        "Araneo"
+      ],
+      "correctIndex": 0,
+      "explanation": "El la kredencujo elsaltas blanka muso."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la avino promesas doni al Zosia, kiam ŝi ĉesos esti tro scivolema?",
+      "answers": [
+        "La ludilojn el la kredencujo",
+        "Ĉevalojn",
+        "Telefonon",
+        "Monon"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la kredencujo staras pupo, pajaca figuro, puŝĉareto kaj pilko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian novan pasion malkovras Zosia?",
+      "answers": [
+        "Sekigadon de floroj kaj plantoj",
+        "Ludon per pilko",
+        "Kuiradon",
+        "Dancojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi komencas sekigi florojn kaj fari el ili donacojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio kaptas la fingron de Zosia en la korbo?",
+      "answers": [
+        "Krabo",
+        "Omaro",
+        "Fiŝo",
+        "Rano"
+      ],
+      "correctIndex": 0,
+      "explanation": "Krabo kaŝita en la korbo kaptas ŝian fingron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian konkludon eltiras la avino en la letero?",
+      "answers": [
+        "Scivolemo estas bona, kiam ĝi ne rompas promesojn kaj ne vundas",
+        "Scivolemo ĉiam estas malbona",
+        "Neniam rajtas tuŝi ion ajn",
+        "Ludiloj estas la plej gravaj"
+      ],
+      "correctIndex": 0,
+      "explanation": "La avino skribas, ke scivolemo estas bona, kiam ĝi ne vundas kaj ne rompas promesojn."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiam oni povas trovi la reĝidinon laŭ la legendo?",
+      "answers": [
+        "En la somermeza nokto",
+        "En la kristnaska vespero",
+        "En la andrzejka nokto",
+        "En ĉiu nokto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La legendo diras, ke oni povas fari tion nur en la somermeza nokto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da dukatoj Lutek ricevas de la reĝidino?",
+      "answers": [
+        "Cent",
+        "Kvindek",
+        "Dek",
+        "Mil"
+      ],
+      "correctIndex": 0,
+      "explanation": "La reĝidino donas al li monujon kun cent dukatoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Por kio Lutek finfine elspezas la monon?",
+      "answers": [
+        "Li donas ĝin al malsata maljunulo",
+        "Li aĉetas palacon",
+        "Li ludas kartojn ĝis mateno",
+        "Li kaŝas ĝin sub la planko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li elŝutas la restantajn dukatojn al la militinvitula maljunulo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu iĝas Lutek fine de la rakonto?",
+      "answers": [
+        "Ŝuista majstro kun propra metiejo",
+        "Reĝo",
+        "Komercisto",
+        "Soldato"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baldaŭ Lutek iĝas majstro kaj malfermas sian propran metiejon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie troviĝas la legendo pri la anaso?",
+      "answers": [
+        "En la subterejoj de la Kastelo de Ostrogski ĉe Tama",
+        "Sur la Vavelo",
+        "En Wola",
+        "En Łazienki"
+      ],
+      "correctIndex": 0,
+      "explanation": "La ŝuistoj parolas pri la subterejoj de la Kastelo de Ostrogski ĉe Tama."
+    }
+  ]
+}

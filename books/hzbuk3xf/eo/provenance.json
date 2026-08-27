@@ -1,0 +1,24 @@
+{
+  "packId": "hzbuk3xf:eo",
+  "bookId": "hzbuk3xf",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Klasyczna baśń z morałem; odniesienia do Kilińskiego i Starówki jako tło kulturowe."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "WFOCPSWVVvE"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}
