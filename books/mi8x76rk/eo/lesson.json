@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kiel Krzysztof komence interpretas la staton de la loĝejo de sia patrino?",
         "answers": [
-          "Kiel bonege organizitan magazenon",
+          "Kiel bonege organizitan magazenon de la domo",
           "Kiel kaoson, kiu vekas furiozon kaj malesperon",
-          "Kiel interesan artan projekton",
-          "Kiel pruvon de kaŝita riĉeco"
+          "Kiel interesan artan projekton de la ekspozicio",
+          "Kiel pruvon de kaŝita riĉeco de la familio"
         ],
         "correctIndex": 1,
         "explanation": "La unua eniro en la loĝejon vekas ŝokon, senpovecon kaj koleron."
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kiun pli profundan sencon li komencas vidi en la amasado de sia patrino?",
         "answers": [
-          "Nur la deziron investi monon",
+          "Nur la deziron investi monon en la loĝejon",
           "Timon de la reveno de malriĉeco kaj bezonon de kontrolo",
-          "Ludon pri kolektado de bagatelaĵoj",
-          "Provon kaŝi la havaĵojn antaŭ la mondo"
+          "Ludon pri kolektado de bagatelaĵoj kaj ŝtofetoj",
+          "Provon kaŝi la havaĵojn antaŭ la mondo kaj la najbaroj"
         ],
         "correctIndex": 1,
         "explanation": "La nokta rememoro pri la PRL permesas al li legi la aĵojn kiel protekton kontraŭ antikva timo."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Por kio aperas Ola el decluttering en la rakonto?",
         "answers": [
-          "Nur por fizike forĵeti la rubon",
+          "Nur por fizike forĵeti la rubon el la tuta domo",
           "Por kunigi la ordigon de aĵoj kun la kompreno de emocioj",
-          "Por vendi la loĝejon je pli alta prezo",
-          "Por taksi antikvaĵojn kaj vendi ilin"
+          "Por vendi la loĝejon je pli alta prezo en la merkato",
+          "Por taksi antikvaĵojn kaj vendi ilin al riĉaj kolektantoj"
         ],
         "correctIndex": 1,
         "explanation": "Ola ne agas kiel puriga firmao, sed kiel gvidanto tra la funebro kaj la signifoj de la objektoj."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kial la kuketujo montriĝas tiel grava?",
         "answers": [
-          "Ĉar ĝi enhavas monon por la renovigo de la loĝejo",
-          "Ĉar ĝi konservas leterojn kaj spurojn de la ĉiutaga amo de la patrino",
-          "Ĉar ĝi estas la plej multekosta meblo en la domo",
-          "Ĉar ĝi apartenas al la najbaroj kontraŭe"
+          "Ĉar ĝi enhavas monon por la renovigo de la tuta loĝejo",
+          "Ĉar ĝi konservas leterojn kaj spurojn de la patrina amo",
+          "Ĉar ĝi estas la plej multekosta meblo en la tuta domo",
+          "Ĉar ĝi apartenas al la najbaroj loĝantaj kontraŭe"
         ],
         "correctIndex": 1,
         "explanation": "Estas en la skatolo, kie troviĝas la aĵoj tuj legitaj kiel vere gravaj."
@@ -91,10 +91,10 @@
         "type": "single_choice",
         "question": "Kiun finan movon faras Krzysztof rilate al la pasinteco de sia patrino?",
         "answers": [
-          "Li tute rezignas la memoron pri sia patrino",
-          "Li komprenas ŝian timon kaj ellasa tion, kion ŝi ne sciis ellasi",
-          "Li ĉesas paroli kun sia filino pri la pasinteco",
-          "Li decidas konservi ĉion sen ŝanĝoj"
+          "Li tute rezignas la memoron pri sia patrino kaj forgesas",
+          "Li komprenas ŝian timon kaj ellasa tion, kion ŝi ne povis",
+          "Li ĉesas paroli kun sia filino pri la pasinteco de la avino",
+          "Li decidas konservi ĉion en la loĝejo sen ŝanĝoj"
         ],
         "correctIndex": 1,
         "explanation": "La fino montras la transiron de kolero al kompreno kaj al nova komenco."

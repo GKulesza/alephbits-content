@@ -258,10 +258,10 @@ Kaj tiam, la unuan fojon post multaj monatoj, li sentis, ke li vere spiras.
 **Question:** Kiel Krzysztof komence interpretas la staton de la loĝejo de sia patrino?
 
 **Answers:**
-- A) Kiel bonege organizitan magazenon
+- A) Kiel bonege organizitan magazenon de la domo
 - B) Kiel kaoson, kiu vekas furiozon kaj malesperon
-- C) Kiel interesan artan projekton
-- D) Kiel pruvon de kaŝita riĉeco
+- C) Kiel interesan artan projekton de la ekspozicio
+- D) Kiel pruvon de kaŝita riĉeco de la familio
 
 **Correct:** B
 **Explanation:** La unua eniro en la loĝejon vekas ŝokon, senpovecon kaj koleron.
@@ -272,10 +272,10 @@ Kaj tiam, la unuan fojon post multaj monatoj, li sentis, ke li vere spiras.
 **Question:** Kiun pli profundan sencon li komencas vidi en la amasado de sia patrino?
 
 **Answers:**
-- A) Nur la deziron investi monon
+- A) Nur la deziron investi monon en la loĝejon
 - B) Timon de la reveno de malriĉeco kaj bezonon de kontrolo
-- C) Ludon pri kolektado de bagatelaĵoj
-- D) Provon kaŝi la havaĵojn antaŭ la mondo
+- C) Ludon pri kolektado de bagatelaĵoj kaj ŝtofetoj
+- D) Provon kaŝi la havaĵojn antaŭ la mondo kaj la najbaroj
 
 **Correct:** B
 **Explanation:** La nokta rememoro pri la PRL permesas al li legi la aĵojn kiel protekton kontraŭ antikva timo.
@@ -286,10 +286,10 @@ Kaj tiam, la unuan fojon post multaj monatoj, li sentis, ke li vere spiras.
 **Question:** Por kio aperas Ola el decluttering en la rakonto?
 
 **Answers:**
-- A) Nur por fizike forĵeti la rubon
+- A) Nur por fizike forĵeti la rubon el la tuta domo
 - B) Por kunigi la ordigon de aĵoj kun la kompreno de emocioj
-- C) Por vendi la loĝejon je pli alta prezo
-- D) Por taksi antikvaĵojn kaj vendi ilin
+- C) Por vendi la loĝejon je pli alta prezo en la merkato
+- D) Por taksi antikvaĵojn kaj vendi ilin al riĉaj kolektantoj
 
 **Correct:** B
 **Explanation:** Ola ne agas kiel puriga firmao, sed kiel gvidanto tra la funebro kaj la signifoj de la objektoj.
@@ -300,10 +300,10 @@ Kaj tiam, la unuan fojon post multaj monatoj, li sentis, ke li vere spiras.
 **Question:** Kial la kuketujo montriĝas tiel grava?
 
 **Answers:**
-- A) Ĉar ĝi enhavas monon por la renovigo de la loĝejo
-- B) Ĉar ĝi konservas leterojn kaj spurojn de la ĉiutaga amo de la patrino
-- C) Ĉar ĝi estas la plej multekosta meblo en la domo
-- D) Ĉar ĝi apartenas al la najbaroj kontraŭe
+- A) Ĉar ĝi enhavas monon por la renovigo de la tuta loĝejo
+- B) Ĉar ĝi konservas leterojn kaj spurojn de la patrina amo
+- C) Ĉar ĝi estas la plej multekosta meblo en la tuta domo
+- D) Ĉar ĝi apartenas al la najbaroj loĝantaj kontraŭe
 
 **Correct:** B
 **Explanation:** Estas en la skatolo, kie troviĝas la aĵoj tuj legitaj kiel vere gravaj.
@@ -314,10 +314,10 @@ Kaj tiam, la unuan fojon post multaj monatoj, li sentis, ke li vere spiras.
 **Question:** Kiun finan movon faras Krzysztof rilate al la pasinteco de sia patrino?
 
 **Answers:**
-- A) Li tute rezignas la memoron pri sia patrino
-- B) Li komprenas ŝian timon kaj ellasa tion, kion ŝi ne sciis ellasi
-- C) Li ĉesas paroli kun sia filino pri la pasinteco
-- D) Li decidas konservi ĉion sen ŝanĝoj
+- A) Li tute rezignas la memoron pri sia patrino kaj forgesas
+- B) Li komprenas ŝian timon kaj ellasa tion, kion ŝi ne povis
+- C) Li ĉesas paroli kun sia filino pri la pasinteco de la avino
+- D) Li decidas konservi ĉion en la loĝejo sen ŝanĝoj
 
 **Correct:** B
 **Explanation:** La fino montras la transiron de kolero al kompreno kaj al nova komenco.
