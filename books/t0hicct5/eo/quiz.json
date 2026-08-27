@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio surprizas Markon en la novaĵtitolo?",
+      "answers": [
+        "Koreio aĉetas de Pollando mil tankojn",
+        "Pollando aĉetas tankojn de Koreio",
+        "Koreio malaperas de la mapo",
+        "Marek ricevas monpunon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li legas pri Sud-Koreio aĉetanta tankojn de Pollando."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Marek veturas al Koreio?",
+      "answers": [
+        "Modernigo de muzeo",
+        "Ekskurso kun la familio",
+        "Lernado de la korea",
+        "Komenco de K-pop kariero"
+      ],
+      "correctIndex": 0,
+      "explanation": "La kontoro gajnis la ofertokonkurson por modernigo de muzeo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek trovas en la rezultoj pri Pollando?",
+      "answers": [
+        "Chopin, La Sorĉisto, Lewandowski",
+        "Nur Aŭŝvicon",
+        "Pollando ne ekzistas en la amaskomunikiloj",
+        "Nur lernadon de la pola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li citas Chopin, Lewandowski kaj La Sorĉiston."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom longe li devas labori en Koreio?",
+      "answers": [
+        "Monaton",
+        "Jaron",
+        "Semajnon",
+        "Kvin jarojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek devas veturi por monato."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Marek laŭ la profesio?",
+      "answers": [
+        "Li laboras ĉe muzeaj projektoj",
+        "Li estas soldato",
+        "Li estas ĵurnalisto",
+        "Li estas instruisto"
+      ],
+      "correctIndex": 0,
+      "explanation": "La kontoro gajnis la konkurson pri muzeo — Marek reprezentas la firmaon."
+    }
+  ]
+}

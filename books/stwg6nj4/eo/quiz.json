@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Aga Rogala diras pri la frazo „Surmetu la jakon\"?",
+      "answers": [
+        "Tio estas unu simpla ordono",
+        "Tio estas multaj paŝoj: hoko, manikoj, zipo ktp.",
+        "Tio havas neniun sencon",
+        "Tio estas nur por plenkreskuloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Por la infano unu frazo = serio de komplikaj agoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Magda faras la sekvan matenon?",
+      "answers": [
+        "Ŝi surmetas la jakon al Zosia mem",
+        "Ŝi sidiĝas apude kaj gvidas paŝon post paŝo",
+        "Ŝi rezignas pri la infanĝardeno",
+        "Ŝi krias"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Mi montros al vi, kiel ni vestiĝas. Kune\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Magda klarigas „preparu vin por dormo\"?",
+      "answers": [
+        "Unu vorto sufiĉas",
+        "Ŝi dividas en: banĉambro, dentoj, piĵamo, lito",
+        "Ŝi ordonas dormi en vestaĵoj",
+        "Ŝi ignoras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konkreta listo de vesperaj paŝoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Zosia komparas la instrukciojn al kanto?",
+      "answers": [
+        "Ŝi ne ŝatas kantojn",
+        "Kiam ŝi konas la vortojn — ŝi kantas mem; kiam ne — panjo helpas",
+        "Ŝi ĉiam bezonas la panjon",
+        "Ŝi neniam memoras"
+      ],
+      "correctIndex": 1,
+      "explanation": "La metaforo de la kanto = laŭgrada memstareco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Zosia faras mem post kelkaj semajnoj?",
+      "answers": [
+        "Ŝi kuiras tagmanĝon por la familio",
+        "Ŝi faras sandviĉon kaj teon paŝon post paŝo",
+        "Ŝi veturas per buso",
+        "Ŝi skribas leteron al Aga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi priskribas la paŝojn: pano, butero, fromaĝo, teo."
+    }
+  ]
+}

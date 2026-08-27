@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu listo aperas en la rakonto?",
+      "answers": [
+        "Listo de kandidatoj al la EP",
+        "La ukraina listo Myrotvorec — malamikoj de Ukrainio",
+        "La aĉetlisto de Ewa",
+        "Listo de atestantoj en tribunalo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ĵurnalisto diras, ke Ewa aperis sur la listo Myrotvorec."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa levas dum sia parolado en la EP?",
+      "answers": [
+        "La blanke-ruĝan flagon de Pollando",
+        "La ruĝe-nigran flagon kiel pruvon",
+        "Foton de la viktimoj",
+        "Peton de loĝantoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la dosierujo ŝi havas ruĝe-nigran flagon kaj levas ĝin kiel pruvon dum la parolado pri Volinio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa diras al la reprezentanto de la eksterafera ministerio pri la diplomata noto?",
+      "answers": [
+        "Ke ŝi dankas pro la rapida reago",
+        "Ke la noto estas preta de jaroj kaj nenio ŝanĝiĝis — ŝi volas agadon",
+        "Ke ŝi preferas silenti",
+        "Ke ŝi mem veturos al Kievo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa diras: „Vi havas tiun noton pretan de jaroj... Parolu al mi pri agado.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Anna Bryłka diras al Ewa telefone?",
+      "answers": [
+        "Ke ŝi retiriĝu",
+        "Ke ankaŭ ŝi estas sur la listo de longe — „bonvenon en la klubon\"",
+        "Ke ŝi ne konas Myrotvorec",
+        "Ke la EP forigis la registraĵon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna respondas: „Ankaŭ mi estas de longe. Bonvenon en la klubon.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa diras en la vlogo post la apero sur la listo?",
+      "answers": [
+        "Ke ŝi finas la politikon",
+        "Ke ŝi ne ĉesos paroli pri Volinio — ŝi parolos eĉ pli laŭte",
+        "Ke ŝi pardonpetas al Ukrainio",
+        "Ke ŝi forigas la registraĵon el la EP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa diras: „Mi ne ĉesos paroli pri Volinio. Mi parolos eĉ pli laŭte.\""
+    }
+  ]
+}

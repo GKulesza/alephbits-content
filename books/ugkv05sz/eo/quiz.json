@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiun HOMA-rezulton havas Kasia?",
+      "answers": [
+        "2,0",
+        "7,2",
+        "1,5",
+        "12,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "La profesoro legas: HOMA 7,2."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la profesoro diras pri la normo por la indikilo HOMA?",
+      "answers": [
+        "Ke la normo estas sub 2",
+        "Ke ne ekzistas establita klinika normo",
+        "Ke la normo estas 5",
+        "Ke la normo dependas de la aĝo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras rekte: por tiu indikilo ne ekzistas normo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun malsanon la profesoro atribuas al Kasia anstataŭ „insulinrezisto\"?",
+      "answers": [
+        "Diabeto de tipo 1",
+        "Obezeco — kodo ICD E66",
+        "Anemio",
+        "Depresio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras: vi havas obezecon, kodo E66 — tio estas malsano."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun medikamenton la profesoro preskribas al Kasia?",
+      "answers": [
+        "Metforminon",
+        "Ozempic (analogo de GLP-1)",
+        "Insulinon",
+        "Aspirinon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recepto: Ozempic unufoje semajne."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu fariĝas Kasia jaron poste?",
+      "answers": [
+        "Flegistino",
+        "Volontulino en edukprogramo por pacientoj kun diabeto",
+        "Dietistino",
+        "Profesoro"
+      ],
+      "correctIndex": 1,
+      "explanation": "La profesoro proponas volontuladon en la edukprogramo."
+    }
+  ]
+}
