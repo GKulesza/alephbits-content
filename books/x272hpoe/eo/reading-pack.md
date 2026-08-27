@@ -274,10 +274,10 @@ Kaj ke ĝuste tio estas la plej grava.
 **Question:** Kion signifas shitsuke en la rakonto?
 
 **Answers:**
-- A) Puni ĉiun eraron
+- A) Puni ĉiun eraron de la infano tuj
 - B) Konstrui kapablojn anstataŭ puni
-- C) Ignori la infanon
-- D) Premi per dolĉaĵoj
+- C) Ignori la infanon kaj ties bezonojn
+- D) Premi per dolĉaĵoj kaj donacoj
 
 **Correct:** B
 **Explanation:** Shitsuke demandas: kiu kapablo mankas al la infano?
@@ -288,10 +288,10 @@ Kaj ke ĝuste tio estas la plej grava.
 **Question:** Kion faras Kasia, kiam Franek ne povas fermi la jakon?
 
 **Answers:**
-- A) Ŝi fermas ĝin por li tuj
+- A) Ŝi fermas ĝin por li tuj kaj silente
 - B) Ŝi atendas 10 sekundojn antaŭ ol helpi
-- C) Ŝi krias
-- D) Ŝi foriras sen li
+- C) Ŝi krias kaj postulas, ke li rapidu
+- D) Ŝi foriras sen li kaj lasas lin sola
 
 **Correct:** B
 **Explanation:** Mimamoru — ŝi atendas kun amo; Franek fermas mem.
@@ -302,10 +302,10 @@ Kaj ke ĝuste tio estas la plej grava.
 **Question:** Kio estas amae laŭ la filmo?
 
 **Answers:**
-- A) Publika puno
-- B) Esti sekura sen vortoj — la infano povas apogi sin sur la amo
-- C) Sendependeco sen gepatro
-- D) Belkonkursoj
+- A) Publika puno en la ĉeesto de la tuta familio
+- B) Esti sekura sen vortoj, apogante sin sur la amo
+- C) Sendependeco sen la gepatroj kaj ilia kontrolo
+- D) Belkonkursoj por la junaj infanoj kaj iliaj gepatroj
 
 **Correct:** B
 **Explanation:** Amae = sekura alligiteco ebliganta trankvilon.
@@ -316,10 +316,10 @@ Kaj ke ĝuste tio estas la plej grava.
 **Question:** Kion diras la voĉo el la filmo pri edukado?
 
 **Answers:**
-- A) Edukado ŝanĝas la infanon
+- A) Edukado ŝanĝas la infanon laŭ la plano
 - B) Edukado ŝanĝas vin — kaj tio sufiĉas
-- C) Edukado ne gravas
-- D) Edukado estas nur puno
+- C) Edukado ne gravas por la familio
+- D) Edukado estas nur puno por la infano
 
 **Correct:** B
 **Explanation:** "Edukado ne ŝanĝas vian infanon. Ĝi ŝanĝas vin."

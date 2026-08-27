@@ -196,9 +196,9 @@ Kaj kvankam ŝi neniam ricevis tiun pupon aŭ la pajacan figuron, ŝi sciis, ke 
 
 **Answers:**
 - A) Blanka muso
-- B) Kato
-- C) Papilio
-- D) Araneo
+- B) Griza kato
+- C) Kolora papilio
+- D) Granda araneo
 
 **Correct:** A
 **Explanation:** El la kredencujo elsaltas blanka muso.
@@ -210,9 +210,9 @@ Kaj kvankam ŝi neniam ricevis tiun pupon aŭ la pajacan figuron, ŝi sciis, ke 
 
 **Answers:**
 - A) La ludilojn el la kredencujo
-- B) Ĉevalojn
-- C) Telefonon
-- D) Monon
+- B) Ĉevalojn el la korto de la farmo
+- C) Novan telefonon kun ekrano
+- D) Monon por la dolĉaĵoj
 
 **Correct:** A
 **Explanation:** En la kredencujo staras pupo, pajaca figuro, puŝĉareto kaj pilko.
@@ -224,9 +224,9 @@ Kaj kvankam ŝi neniam ricevis tiun pupon aŭ la pajacan figuron, ŝi sciis, ke 
 
 **Answers:**
 - A) Sekigadon de floroj kaj plantoj
-- B) Ludon per pilko
-- C) Kuiradon
-- D) Dancojn
+- B) Ludon per pilko en la ĝardeno
+- C) Kuiradon kune kun la avino
+- D) Dancojn en la urba lernejo
 
 **Correct:** A
 **Explanation:** Ŝi komencas sekigi florojn kaj fari el ili donacojn.
@@ -251,10 +251,10 @@ Kaj kvankam ŝi neniam ricevis tiun pupon aŭ la pajacan figuron, ŝi sciis, ke 
 **Question:** Kian konkludon eltiras la avino en la letero?
 
 **Answers:**
-- A) Scivolemo estas bona, kiam ĝi ne rompas promesojn kaj ne vundas
-- B) Scivolemo ĉiam estas malbona
-- C) Neniam rajtas tuŝi ion ajn
-- D) Ludiloj estas la plej gravaj
+- A) Scivolemo estas bona, se ĝi ne rompas promesojn nek vundas
+- B) Scivolemo ĉiam estas malbona kaj danĝera por la infano
+- C) Neniam rajtas tuŝi ion ajn sen la permeso de la plenkreskuloj
+- D) Ludiloj estas la plej gravaj en la tuta infanaĝo
 
 **Correct:** A
 **Explanation:** La avino skribas, ke scivolemo estas bona, kiam ĝi ne vundas kaj ne rompas promesojn.

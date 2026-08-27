@@ -8,9 +8,9 @@
       "question": "Kion la patro diras al Maciek ĉe la peco da ŝtalo en la laborejo?",
       "answers": [
         "Metalon oni devas hardi en fajro — same la homon",
-        "Lernu ludi gitaron",
-        "Estu afabla al la patrino",
-        "Legu ĉiutage"
+        "Lernu ludi gitaron kaj la aliajn instrumentojn",
+        "Estu afabla al la patrino kaj al la fratinoj",
+        "Legu ĉiutage librojn de la lernejo"
       ],
       "correctIndex": 0,
       "explanation": "La metaforo de hardado de metalo = edukado per „malfacila\" doloro."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion diras la psikologo al Maciek?",
       "answers": [
-        "La gepatroj estis vere malbonaj",
-        "Ili ne estis malbonaj, nur neĉeestaj — tio ne estas lia kulpo",
-        "Li devus reveni hejmen",
-        "Li ne devus havi infanojn"
+        "La gepatroj estis vere malbonaj kaj malafablaj al la infano",
+        "Ili ne estis malbonaj, nur neĉeestaj — ne lia kulpo",
+        "Li devus reveni hejmen kaj repacigi la tutan familion",
+        "Li ne devus havi infanojn en tia malfacila tempo"
       ],
       "correctIndex": 1,
       "explanation": "La psikologo: neĉeestaj, ne scipovantaj ĉeesti — kaj tio ne estas kulpo de Maciek."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Maciek diras al la patro post jaroj?",
       "answers": [
-        "Ke li malamas lin kaj ne volas lin vidi",
+        "Ke li malamas lin kaj ne volas lin vidi plu",
         "Ke li timis liajn eksplodojn kaj kulpigis sin mem",
-        "Ke li dankas al li pro la severa edukado",
-        "Ke li ne volas viziti lin"
+        "Ke li dankas al li pro la severa edukado de la juneco",
+        "Ke li ne volas viziti lin en la hospitalo"
       ],
       "correctIndex": 1,
       "explanation": "Li rakontas pri la timo kaj la konvinko, ke li estas „malforta\"."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion desegnas la filino fine?",
       "answers": [
-        "Dinosaŭron",
+        "Grandan verdan dinosaŭron",
         "La familion — ĉiuj ridetas",
-        "Aŭton",
-        "Domon sen homoj"
+        "Rapidan aŭton de la konkursoj",
+        "Domon sen homoj kaj sen fenestroj"
       ],
       "correctIndex": 1,
       "explanation": "La filino: „Tio estas ni — mi, vi kaj panjo. Kaj ĉiuj ridetas\"."

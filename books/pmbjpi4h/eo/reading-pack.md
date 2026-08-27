@@ -274,10 +274,10 @@ Kaj tio estas la plej grava afero.
 **Question:** Kiu parolas dum la konferenco en la nova ambasado?
 
 **Answers:**
-- A) Marta
+- A) Marta, la nepino de la avo
 - B) Mateusz Fałkowski el la Instituto Pilecki
-- C) La avo de Marta
-- D) La germana kanceliero
+- C) La avo de Marta, la militveterano
+- D) La germana kanceliero de la federacia registaro
 
 **Correct:** B
 **Explanation:** Dum la konferenco parolas Mateusz Fałkowski, direktoro de la Instituto Pilecki en Berlino.
@@ -288,10 +288,10 @@ Kaj tio estas la plej grava afero.
 **Question:** Kiel la bildo de la ambasado ŝanĝiĝas en la teksto?
 
 **Answers:**
-- A) Ĝi ĉiam estis moderna kaj plena de vivo
-- B) De griza maso de la Popola Pollando al loko, kie pulsadas vivo
-- C) Ĝi estas fermita por ĉiam
-- D) Ĝi transloĝiĝas al Krakovo
+- A) Ĝi ĉiam estis moderna kaj plena de vivo kaj de multaj homoj
+- B) De griza maso de la Popola Pollando al pulsanta vivo
+- C) Ĝi estas fermita por ĉiam post la longa renovigo
+- D) Ĝi transloĝiĝas al Krakovo, la malnova reĝa urbo de Pollando
 
 **Correct:** B
 **Explanation:** Marta memoras la malnovan, malgajan ambasadon, kaj nun vidas novan, vivan konstruaĵon.
@@ -302,10 +302,10 @@ Kaj tio estas la plej grava afero.
 **Question:** Kion Marta faras post la reveno al Varsovio?
 
 **Answers:**
-- A) Ŝi forgesas pri la ŝtono
-- B) Ŝi verkas pri la avo, la ŝtono kaj la homoj, kiuj ĝin starigis
-- C) Ŝi fariĝas diplomatinino
-- D) Ŝi vendas la kajeron
+- A) Ŝi forgesas pri la ŝtono kaj pri la tuta vojaĝo al Berlino
+- B) Ŝi verkas pri la avo, la ŝtono kaj ĝiaj starigantoj
+- C) Ŝi fariĝas diplomatinino en la nova ambasado
+- D) Ŝi vendas la kajeron al la antikvaĵisto
 
 **Correct:** B
 **Explanation:** La epilogo diras, ke ŝi ankoraŭ verkas pri la avo, la ŝtono kaj tiuj, kiuj ĝin starigis.
@@ -316,10 +316,10 @@ Kaj tio estas la plej grava afero.
 **Question:** Kio estas la ĉefa mesaĝo de la fino de la rakonto?
 
 **Answers:**
-- A) La ŝtonoj mem rakontas historiojn
-- B) La homoj, kiuj trovas la ŝtonojn, povas paroli anstataŭ ili
-- C) La historia memoro ne gravas
-- D) Berlino ne interesas la polojn
+- A) La ŝtonoj mem rakontas la historiojn de la mortintoj
+- B) La homoj, kiuj trovas la ŝtonojn, parolas por ili
+- C) La historia memoro ne gravas por la moderna mondo
+- D) Berlino ne interesas la polojn nuntempe
 
 **Correct:** B
 **Explanation:** La fina pripenso diras, ke la ŝtonoj ne parolas, sed la homoj povas paroli anstataŭ ili.

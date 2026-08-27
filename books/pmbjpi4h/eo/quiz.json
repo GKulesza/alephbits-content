@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kiu parolas dum la konferenco en la nova ambasado?",
       "answers": [
-        "Marta",
+        "Marta, la nepino de la avo",
         "Mateusz Fałkowski el la Instituto Pilecki",
-        "La avo de Marta",
-        "La germana kanceliero"
+        "La avo de Marta, la militveterano",
+        "La germana kanceliero de la federacia registaro"
       ],
       "correctIndex": 1,
       "explanation": "Dum la konferenco parolas Mateusz Fałkowski, direktoro de la Instituto Pilecki en Berlino."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kiel la bildo de la ambasado ŝanĝiĝas en la teksto?",
       "answers": [
-        "Ĝi ĉiam estis moderna kaj plena de vivo",
-        "De griza maso de la Popola Pollando al loko, kie pulsadas vivo",
-        "Ĝi estas fermita por ĉiam",
-        "Ĝi transloĝiĝas al Krakovo"
+        "Ĝi ĉiam estis moderna kaj plena de vivo kaj de multaj homoj",
+        "De griza maso de la Popola Pollando al pulsanta vivo",
+        "Ĝi estas fermita por ĉiam post la longa renovigo",
+        "Ĝi transloĝiĝas al Krakovo, la malnova reĝa urbo de Pollando"
       ],
       "correctIndex": 1,
       "explanation": "Marta memoras la malnovan, malgajan ambasadon, kaj nun vidas novan, vivan konstruaĵon."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Marta faras post la reveno al Varsovio?",
       "answers": [
-        "Ŝi forgesas pri la ŝtono",
-        "Ŝi verkas pri la avo, la ŝtono kaj la homoj, kiuj ĝin starigis",
-        "Ŝi fariĝas diplomatinino",
-        "Ŝi vendas la kajeron"
+        "Ŝi forgesas pri la ŝtono kaj pri la tuta vojaĝo al Berlino",
+        "Ŝi verkas pri la avo, la ŝtono kaj ĝiaj starigantoj",
+        "Ŝi fariĝas diplomatinino en la nova ambasado",
+        "Ŝi vendas la kajeron al la antikvaĵisto"
       ],
       "correctIndex": 1,
       "explanation": "La epilogo diras, ke ŝi ankoraŭ verkas pri la avo, la ŝtono kaj tiuj, kiuj ĝin starigis."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kio estas la ĉefa mesaĝo de la fino de la rakonto?",
       "answers": [
-        "La ŝtonoj mem rakontas historiojn",
-        "La homoj, kiuj trovas la ŝtonojn, povas paroli anstataŭ ili",
-        "La historia memoro ne gravas",
-        "Berlino ne interesas la polojn"
+        "La ŝtonoj mem rakontas la historiojn de la mortintoj",
+        "La homoj, kiuj trovas la ŝtonojn, parolas por ili",
+        "La historia memoro ne gravas por la moderna mondo",
+        "Berlino ne interesas la polojn nuntempe"
       ],
       "correctIndex": 1,
       "explanation": "La fina pripenso diras, ke la ŝtonoj ne parolas, sed la homoj povas paroli anstataŭ ili."

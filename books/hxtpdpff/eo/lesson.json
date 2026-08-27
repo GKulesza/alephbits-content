@@ -43,9 +43,9 @@
         "question": "Kio elsaltas el la kredencujo, kiam Zosia ĝin malfermas?",
         "answers": [
           "Blanka muso",
-          "Kato",
-          "Papilio",
-          "Araneo"
+          "Griza kato",
+          "Kolora papilio",
+          "Granda araneo"
         ],
         "correctIndex": 0,
         "explanation": "El la kredencujo elsaltas blanka muso."
@@ -55,9 +55,9 @@
         "question": "Kion la avino promesas doni al Zosia, kiam ŝi ĉesos esti tro scivolema?",
         "answers": [
           "La ludilojn el la kredencujo",
-          "Ĉevalojn",
-          "Telefonon",
-          "Monon"
+          "Ĉevalojn el la korto de la farmo",
+          "Novan telefonon kun ekrano",
+          "Monon por la dolĉaĵoj"
         ],
         "correctIndex": 0,
         "explanation": "En la kredencujo staras pupo, pajaca figuro, puŝĉareto kaj pilko."
@@ -67,9 +67,9 @@
         "question": "Kian novan pasion malkovras Zosia?",
         "answers": [
           "Sekigadon de floroj kaj plantoj",
-          "Ludon per pilko",
-          "Kuiradon",
-          "Dancojn"
+          "Ludon per pilko en la ĝardeno",
+          "Kuiradon kune kun la avino",
+          "Dancojn en la urba lernejo"
         ],
         "correctIndex": 0,
         "explanation": "Ŝi komencas sekigi florojn kaj fari el ili donacojn."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kian konkludon eltiras la avino en la letero?",
         "answers": [
-          "Scivolemo estas bona, kiam ĝi ne rompas promesojn kaj ne vundas",
-          "Scivolemo ĉiam estas malbona",
-          "Neniam rajtas tuŝi ion ajn",
-          "Ludiloj estas la plej gravaj"
+          "Scivolemo estas bona, se ĝi ne rompas promesojn nek vundas",
+          "Scivolemo ĉiam estas malbona kaj danĝera por la infano",
+          "Neniam rajtas tuŝi ion ajn sen la permeso de la plenkreskuloj",
+          "Ludiloj estas la plej gravaj en la tuta infanaĝo"
         ],
         "correctIndex": 0,
         "explanation": "La avino skribas, ke scivolemo estas bona, kiam ĝi ne vundas kaj ne rompas promesojn."

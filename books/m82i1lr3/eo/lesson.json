@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kion Robert faras ĉiutage je 5:47?",
         "answers": [
-          "Li kuras dek kilometrojn",
-          "Li kontrolas la telefonon, ĉu la mondo estas tia, kia ĝi devus esti",
-          "Li skribas poemojn",
-          "Li kuiras matenmanĝon por najbaroj"
+          "Li kuras dek kilometrojn tra la parko",
+          "Li kontrolas la telefonon, ĉu la mondo estas en ordo",
+          "Li skribas poemojn pri la urbo",
+          "Li kuiras matenmanĝon por la najbaroj de la tuta domo"
         ],
         "correctIndex": 1,
         "explanation": "La unua, kion li faras post la vekiĝo, estas kontroli la telefonon kaj la planojn por la tago."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kiel Robert priskribas la kaoson?",
         "answers": [
-          "Kiel amikon de la artisto",
+          "Kiel amikon de la artisto en la studio",
           "Kiel malamikon, kiun oni devas kontroli",
-          "Kiel ion dezirindan",
-          "Kiel staton sen signifo"
+          "Kiel ion dezirindan por la libera tempo",
+          "Kiel staton sen signifo kaj sen ordo"
         ],
         "correctIndex": 1,
         "explanation": "Li diras al la edzino, ke la vivon oni devas kontroli, ĉar kaoso estas malamiko."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Per kio okupiĝas la edzino de Robert, Magda?",
         "answers": [
-          "Ŝi estas kuracistino",
+          "Ŝi estas kuracistino en la urba hospitalo",
           "Ŝi estas artistino, kiu pentras bildojn",
-          "Ŝi estas advokatino",
-          "Ŝi estas instruistino"
+          "Ŝi estas advokatino en la granda firmao",
+          "Ŝi estas instruistino en la elementa lernejo"
         ],
         "correctIndex": 1,
         "explanation": "La teksto diras, ke Magda estis artistino kaj pentris bildojn."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion Robert diras al Magda post la ŝanĝo fine de la rakonto?",
         "answers": [
-          "Ke li revenas al la malnova reĝimo",
-          "Ke li ĉesis timi, ke io iros malbone, kaj la mondo ankoraŭ turniĝas",
-          "Ke li vendas la firmaon",
-          "Ke li ne plu volas paroli"
+          "Ke li revenas al la malnova reĝimo de la ordo kaj de la horaro",
+          "Ke li ĉesis timi, ke io iros malbone; la mondo turniĝas",
+          "Ke li vendas la firmaon kaj retiriĝas al la kampo",
+          "Ke li ne plu volas paroli pri la ŝanĝoj en la domo"
         ],
         "correctIndex": 1,
         "explanation": "Li diras, ke li ĉesis timi, ke io iros malbone, kaj la mondo ankoraŭ turniĝas."

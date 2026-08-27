@@ -199,10 +199,10 @@ Pri Pollando, kiu eble ankoraŭ ne pereis.
 **Question:** Kiu listo aperas en la rakonto?
 
 **Answers:**
-- A) Listo de kandidatoj al la EP
+- A) Listo de kandidatoj al la Eŭropa Parlamento
 - B) La ukraina listo Myrotvorec — malamikoj de Ukrainio
-- C) La aĉetlisto de Ewa
-- D) Listo de atestantoj en tribunalo
+- C) La aĉetlisto de Ewa por la semajna merkato
+- D) Listo de atestantoj en la proceso pri la militkrimoj
 
 **Correct:** B
 **Explanation:** La ĵurnalisto diras, ke Ewa aperis sur la listo Myrotvorec.
@@ -227,10 +227,10 @@ Pri Pollando, kiu eble ankoraŭ ne pereis.
 **Question:** Kion Ewa diras al la reprezentanto de la eksterafera ministerio pri la diplomata noto?
 
 **Answers:**
-- A) Ke ŝi dankas pro la rapida reago
-- B) Ke la noto estas preta de jaroj kaj nenio ŝanĝiĝis — ŝi volas agadon
-- C) Ke ŝi preferas silenti
-- D) Ke ŝi mem veturos al Kievo
+- A) Ke ŝi dankas pro la rapida reago de la ministerio al ŝia peto
+- B) Ke la noto estas preta de jaroj kaj ŝi volas agadon
+- C) Ke ŝi preferas silenti pri la tuta afero kaj forgesi
+- D) Ke ŝi mem veturos al Kievo por la necesaj kunsidoj
 
 **Correct:** B
 **Explanation:** Ewa diras: „Vi havas tiun noton pretan de jaroj... Parolu al mi pri agado."
@@ -241,10 +241,10 @@ Pri Pollando, kiu eble ankoraŭ ne pereis.
 **Question:** Kion Anna Bryłka diras al Ewa telefone?
 
 **Answers:**
-- A) Ke ŝi retiriĝu
-- B) Ke ankaŭ ŝi estas sur la listo de longe — „bonvenon en la klubon"
-- C) Ke ŝi ne konas Myrotvorec
-- D) Ke la EP forigis la registraĵon
+- A) Ke ŝi retiriĝu de la politiko tuj kaj por ĉiam, sen ajnaj paroloj
+- B) Ke ankaŭ ŝi estas sur la listo — „bonvenon en la klubon"
+- C) Ke ŝi ne konas Myrotvorec kaj la liston de la nomoj entute
+- D) Ke la EP forigis la registraĵon de la tuta sesio tuj
 
 **Correct:** B
 **Explanation:** Anna respondas: „Ankaŭ mi estas de longe. Bonvenon en la klubon."
@@ -255,10 +255,10 @@ Pri Pollando, kiu eble ankoraŭ ne pereis.
 **Question:** Kion Ewa diras en la vlogo post la apero sur la listo?
 
 **Answers:**
-- A) Ke ŝi finas la politikon
-- B) Ke ŝi ne ĉesos paroli pri Volinio — ŝi parolos eĉ pli laŭte
-- C) Ke ŝi pardonpetas al Ukrainio
-- D) Ke ŝi forigas la registraĵon el la EP
+- A) Ke ŝi finas la politikon kaj revenos al la privata vivo
+- B) Ke ŝi ne ĉesos paroli pri Volinio — eĉ pli laŭte
+- C) Ke ŝi pardonpetas al Ukrainio pro la vlogoj
+- D) Ke ŝi forigas la registraĵon el la EP kaj silentas
 
 **Correct:** B
 **Explanation:** Ewa diras: „Mi ne ĉesos paroli pri Volinio. Mi parolos eĉ pli laŭte."

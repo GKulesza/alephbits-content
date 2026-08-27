@@ -43,10 +43,10 @@
         "type": "single_choice",
         "question": "Kion signifas shitsuke en la rakonto?",
         "answers": [
-          "Puni ĉiun eraron",
+          "Puni ĉiun eraron de la infano tuj",
           "Konstrui kapablojn anstataŭ puni",
-          "Ignori la infanon",
-          "Premi per dolĉaĵoj"
+          "Ignori la infanon kaj ties bezonojn",
+          "Premi per dolĉaĵoj kaj donacoj"
         ],
         "correctIndex": 1,
         "explanation": "Shitsuke demandas: kiu kapablo mankas al la infano?"
@@ -55,10 +55,10 @@
         "type": "single_choice",
         "question": "Kion faras Kasia, kiam Franek ne povas fermi la jakon?",
         "answers": [
-          "Ŝi fermas ĝin por li tuj",
+          "Ŝi fermas ĝin por li tuj kaj silente",
           "Ŝi atendas 10 sekundojn antaŭ ol helpi",
-          "Ŝi krias",
-          "Ŝi foriras sen li"
+          "Ŝi krias kaj postulas, ke li rapidu",
+          "Ŝi foriras sen li kaj lasas lin sola"
         ],
         "correctIndex": 1,
         "explanation": "Mimamoru — ŝi atendas kun amo; Franek fermas mem."
@@ -67,10 +67,10 @@
         "type": "single_choice",
         "question": "Kio estas amae laŭ la filmo?",
         "answers": [
-          "Publika puno",
-          "Esti sekura sen vortoj — la infano povas apogi sin sur la amo",
-          "Sendependeco sen gepatro",
-          "Belkonkursoj"
+          "Publika puno en la ĉeesto de la tuta familio",
+          "Esti sekura sen vortoj, apogante sin sur la amo",
+          "Sendependeco sen la gepatroj kaj ilia kontrolo",
+          "Belkonkursoj por la junaj infanoj kaj iliaj gepatroj"
         ],
         "correctIndex": 1,
         "explanation": "Amae = sekura alligiteco ebliganta trankvilon."
@@ -79,10 +79,10 @@
         "type": "single_choice",
         "question": "Kion diras la voĉo el la filmo pri edukado?",
         "answers": [
-          "Edukado ŝanĝas la infanon",
+          "Edukado ŝanĝas la infanon laŭ la plano",
           "Edukado ŝanĝas vin — kaj tio sufiĉas",
-          "Edukado ne gravas",
-          "Edukado estas nur puno"
+          "Edukado ne gravas por la familio",
+          "Edukado estas nur puno por la infano"
         ],
         "correctIndex": 1,
         "explanation": "\"Edukado ne ŝanĝas vian infanon. Ĝi ŝanĝas vin.\""

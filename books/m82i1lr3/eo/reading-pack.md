@@ -242,10 +242,10 @@ Magda prenis lian manon.
 **Question:** Kion Robert faras ĉiutage je 5:47?
 
 **Answers:**
-- A) Li kuras dek kilometrojn
-- B) Li kontrolas la telefonon, ĉu la mondo estas tia, kia ĝi devus esti
-- C) Li skribas poemojn
-- D) Li kuiras matenmanĝon por najbaroj
+- A) Li kuras dek kilometrojn tra la parko
+- B) Li kontrolas la telefonon, ĉu la mondo estas en ordo
+- C) Li skribas poemojn pri la urbo
+- D) Li kuiras matenmanĝon por la najbaroj de la tuta domo
 
 **Correct:** B
 **Explanation:** La unua, kion li faras post la vekiĝo, estas kontroli la telefonon kaj la planojn por la tago.
@@ -256,10 +256,10 @@ Magda prenis lian manon.
 **Question:** Kiel Robert priskribas la kaoson?
 
 **Answers:**
-- A) Kiel amikon de la artisto
+- A) Kiel amikon de la artisto en la studio
 - B) Kiel malamikon, kiun oni devas kontroli
-- C) Kiel ion dezirindan
-- D) Kiel staton sen signifo
+- C) Kiel ion dezirindan por la libera tempo
+- D) Kiel staton sen signifo kaj sen ordo
 
 **Correct:** B
 **Explanation:** Li diras al la edzino, ke la vivon oni devas kontroli, ĉar kaoso estas malamiko.
@@ -270,10 +270,10 @@ Magda prenis lian manon.
 **Question:** Per kio okupiĝas la edzino de Robert, Magda?
 
 **Answers:**
-- A) Ŝi estas kuracistino
+- A) Ŝi estas kuracistino en la urba hospitalo
 - B) Ŝi estas artistino, kiu pentras bildojn
-- C) Ŝi estas advokatino
-- D) Ŝi estas instruistino
+- C) Ŝi estas advokatino en la granda firmao
+- D) Ŝi estas instruistino en la elementa lernejo
 
 **Correct:** B
 **Explanation:** La teksto diras, ke Magda estis artistino kaj pentris bildojn.
@@ -284,10 +284,10 @@ Magda prenis lian manon.
 **Question:** Kion Robert diras al Magda post la ŝanĝo fine de la rakonto?
 
 **Answers:**
-- A) Ke li revenas al la malnova reĝimo
-- B) Ke li ĉesis timi, ke io iros malbone, kaj la mondo ankoraŭ turniĝas
-- C) Ke li vendas la firmaon
-- D) Ke li ne plu volas paroli
+- A) Ke li revenas al la malnova reĝimo de la ordo kaj de la horaro
+- B) Ke li ĉesis timi, ke io iros malbone; la mondo turniĝas
+- C) Ke li vendas la firmaon kaj retiriĝas al la kampo
+- D) Ke li ne plu volas paroli pri la ŝanĝoj en la domo
 
 **Correct:** B
 **Explanation:** Li diras, ke li ĉesis timi, ke io iros malbone, kaj la mondo ankoraŭ turniĝas.

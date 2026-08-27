@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Kiel Krzysztof priskribas la karakteron de sia elsendo komence?",
       "answers": [
-        "Kiel pure informan programon",
+        "Kiel pure informan programon pri la scienco",
         "Kiel distran serion pri konspiraj teorioj",
-        "Kiel matenan veterraporton",
-        "Kiel muzikan elsendon sen paroloj"
+        "Kiel matenan veterraporton por la aŭskultantoj",
+        "Kiel muzikan elsendon kun la malnovaj kantoj"
       ],
       "correctIndex": 1,
       "explanation": "Li parolas pri la „verda brilo\" kiel pri distra serio pri konspiraj teorioj."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Krzysztof trovas en la malnova noto de antaŭ tri jaroj?",
       "answers": [
-        "Recepton por kafo",
+        "Recepton por la matena kafo de la redakcia teamo de la radio",
         "Menciojn pri preparaĵo reiganta la maljuniĝon je 20 jaroj",
-        "Leteron de la redakcio",
-        "Horaron de vojaĝoj"
+        "Leteron de la redakcio pri la nova programo de la radio",
+        "Horaron de la vojaĝoj de la redakcia teamo"
       ],
       "correctIndex": 1,
       "explanation": "Li rulumas al la noto pri preparaĵo plilongiganta la juneco je ĝuste 20 jaroj."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion sugestas la anonima letero post la elsendo pri la flava pulvoro?",
       "answers": [
-        "Ke la preparaĵo ne ekzistas kaj neniam estiĝos",
-        "Ke la preparaĵo ekzistas, sed havas kaŝitan kondiĉon kaj pliajn sekvojn",
-        "Ke la elsendo estos premiita",
-        "Ke Krzysztof tuj forlasu la radion"
+        "Ke la preparaĵo ne ekzistas kaj neniam estiĝos ie ajn en la mondo",
+        "Ke la preparaĵo ekzistas, sed havas kaŝitan kondiĉon kaj sekvojn",
+        "Ke la elsendo estos premiita de la jurnalistoj de la radio",
+        "Ke Krzysztof tuj forlasu la radion kaj la ĵurnalistan profesion"
       ],
       "correctIndex": 1,
       "explanation": "La letero parolas pri funkcianta preparaĵo, tamen kun kondiĉo kaj profetaĵo de degradiĝo."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel finiĝas la unua linio de la averto en la dua letero?",
       "answers": [
-        "Bonvolu registri pli",
+        "Bonvolu registri pli da elsendoj matene",
         "Vi diris tro multe — bonvolu ĉesi",
-        "Ni invitas vin al konferenco",
-        "Ni petas intervjuon en TV"
+        "Ni invitas vin al la konferenco de la radio",
+        "Ni petas intervjuon en la televida studio"
       ],
       "correctIndex": 1,
       "explanation": "La dua letero alvokas ĉesi la registraĵojn pro la sekureco."

@@ -272,10 +272,10 @@ Kaj ĉiufoje, kiam iu ilin reaŭdigis, li vidis la samon: la verdan brilon.
 **Question:** Kiel Krzysztof priskribas la karakteron de sia elsendo komence?
 
 **Answers:**
-- A) Kiel pure informan programon
+- A) Kiel pure informan programon pri la scienco
 - B) Kiel distran serion pri konspiraj teorioj
-- C) Kiel matenan veterraporton
-- D) Kiel muzikan elsendon sen paroloj
+- C) Kiel matenan veterraporton por la aŭskultantoj
+- D) Kiel muzikan elsendon kun la malnovaj kantoj
 
 **Correct:** B
 **Explanation:** Li parolas pri la „verda brilo" kiel pri distra serio pri konspiraj teorioj.
@@ -286,10 +286,10 @@ Kaj ĉiufoje, kiam iu ilin reaŭdigis, li vidis la samon: la verdan brilon.
 **Question:** Kion Krzysztof trovas en la malnova noto de antaŭ tri jaroj?
 
 **Answers:**
-- A) Recepton por kafo
+- A) Recepton por la matena kafo de la redakcia teamo de la radio
 - B) Menciojn pri preparaĵo reiganta la maljuniĝon je 20 jaroj
-- C) Leteron de la redakcio
-- D) Horaron de vojaĝoj
+- C) Leteron de la redakcio pri la nova programo de la radio
+- D) Horaron de la vojaĝoj de la redakcia teamo
 
 **Correct:** B
 **Explanation:** Li rulumas al la noto pri preparaĵo plilongiganta la juneco je ĝuste 20 jaroj.
@@ -300,10 +300,10 @@ Kaj ĉiufoje, kiam iu ilin reaŭdigis, li vidis la samon: la verdan brilon.
 **Question:** Kion sugestas la anonima letero post la elsendo pri la flava pulvoro?
 
 **Answers:**
-- A) Ke la preparaĵo ne ekzistas kaj neniam estiĝos
-- B) Ke la preparaĵo ekzistas, sed havas kaŝitan kondiĉon kaj pliajn sekvojn
-- C) Ke la elsendo estos premiita
-- D) Ke Krzysztof tuj forlasu la radion
+- A) Ke la preparaĵo ne ekzistas kaj neniam estiĝos ie ajn en la mondo
+- B) Ke la preparaĵo ekzistas, sed havas kaŝitan kondiĉon kaj sekvojn
+- C) Ke la elsendo estos premiita de la jurnalistoj de la radio
+- D) Ke Krzysztof tuj forlasu la radion kaj la ĵurnalistan profesion
 
 **Correct:** B
 **Explanation:** La letero parolas pri funkcianta preparaĵo, tamen kun kondiĉo kaj profetaĵo de degradiĝo.
@@ -314,10 +314,10 @@ Kaj ĉiufoje, kiam iu ilin reaŭdigis, li vidis la samon: la verdan brilon.
 **Question:** Kiel finiĝas la unua linio de la averto en la dua letero?
 
 **Answers:**
-- A) Bonvolu registri pli
+- A) Bonvolu registri pli da elsendoj matene
 - B) Vi diris tro multe — bonvolu ĉesi
-- C) Ni invitas vin al konferenco
-- D) Ni petas intervjuon en TV
+- C) Ni invitas vin al la konferenco de la radio
+- D) Ni petas intervjuon en la televida studio
 
 **Correct:** B
 **Explanation:** La dua letero alvokas ĉesi la registraĵojn pro la sekureco.

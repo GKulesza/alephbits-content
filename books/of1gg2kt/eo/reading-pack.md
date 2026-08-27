@@ -252,9 +252,9 @@ Kaj oni devas memori, ke infano ne estas peco da metalo por forĝi en fajro. Tio
 
 **Answers:**
 - A) Metalon oni devas hardi en fajro — same la homon
-- B) Lernu ludi gitaron
-- C) Estu afabla al la patrino
-- D) Legu ĉiutage
+- B) Lernu ludi gitaron kaj la aliajn instrumentojn
+- C) Estu afabla al la patrino kaj al la fratinoj
+- D) Legu ĉiutage librojn de la lernejo
 
 **Correct:** A
 **Explanation:** La metaforo de hardado de metalo = edukado per „malfacila" doloro.
@@ -279,10 +279,10 @@ Kaj oni devas memori, ke infano ne estas peco da metalo por forĝi en fajro. Tio
 **Question:** Kion diras la psikologo al Maciek?
 
 **Answers:**
-- A) La gepatroj estis vere malbonaj
-- B) Ili ne estis malbonaj, nur neĉeestaj — tio ne estas lia kulpo
-- C) Li devus reveni hejmen
-- D) Li ne devus havi infanojn
+- A) La gepatroj estis vere malbonaj kaj malafablaj al la infano
+- B) Ili ne estis malbonaj, nur neĉeestaj — ne lia kulpo
+- C) Li devus reveni hejmen kaj repacigi la tutan familion
+- D) Li ne devus havi infanojn en tia malfacila tempo
 
 **Correct:** B
 **Explanation:** La psikologo: neĉeestaj, ne scipovantaj ĉeesti — kaj tio ne estas kulpo de Maciek.
@@ -293,10 +293,10 @@ Kaj oni devas memori, ke infano ne estas peco da metalo por forĝi en fajro. Tio
 **Question:** Kion Maciek diras al la patro post jaroj?
 
 **Answers:**
-- A) Ke li malamas lin kaj ne volas lin vidi
+- A) Ke li malamas lin kaj ne volas lin vidi plu
 - B) Ke li timis liajn eksplodojn kaj kulpigis sin mem
-- C) Ke li dankas al li pro la severa edukado
-- D) Ke li ne volas viziti lin
+- C) Ke li dankas al li pro la severa edukado de la juneco
+- D) Ke li ne volas viziti lin en la hospitalo
 
 **Correct:** B
 **Explanation:** Li rakontas pri la timo kaj la konvinko, ke li estas „malforta".
@@ -307,10 +307,10 @@ Kaj oni devas memori, ke infano ne estas peco da metalo por forĝi en fajro. Tio
 **Question:** Kion desegnas la filino fine?
 
 **Answers:**
-- A) Dinosaŭron
+- A) Grandan verdan dinosaŭron
 - B) La familion — ĉiuj ridetas
-- C) Aŭton
-- D) Domon sen homoj
+- C) Rapidan aŭton de la konkursoj
+- D) Domon sen homoj kaj sen fenestroj
 
 **Correct:** B
 **Explanation:** La filino: „Tio estas ni — mi, vi kaj panjo. Kaj ĉiuj ridetas".
