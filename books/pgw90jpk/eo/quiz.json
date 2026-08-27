@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio Marta „troviĝas\" kontraŭ Darek komence?",
+      "answers": [
+        "Pri la laboro",
+        "Ke li ne ŝraŭbis la pasttubon post la dentobroso",
+        "Pri la infanoj",
+        "Pri la mono"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi diras: vi denove ne ŝraŭbis la pasttubon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Darek respondas al ŝiaj rimarkoj?",
+      "answers": [
+        "Li pardonpetas",
+        "„Ĉesu, Marta. Vi denove troviĝas.\"",
+        "Li silentas",
+        "Li eliras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li ripetas: ĉesu, vi denove troviĝas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta diras, ke ŝi ĉesos fari?",
+      "answers": [
+        "Ami Darkon",
+        "Plendi kaj memori al li, ke liaj reagoj ŝin doloras",
+        "Kuiri",
+        "Labori"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi anoncas, ke ŝi ĉesos plendi, sed lia reago estos signo."
+    },
+    {
+      "type": "single_choice",
+      "question": "De kie Marta konas la metodon „anstataŭ plendi, ni prenu respondecon\"?",
+      "answers": [
+        "De Darek",
+        "El podkasto, kiun ŝi aŭskultis en la aŭto",
+        "El la libro de Darek",
+        "De terapiisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi rememoras la hieraŭan podkaston en la aŭto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta pensas fine pri la tago?",
+      "answers": [
+        "Ke ĉio finiĝis",
+        "„Hodiaŭ komenciĝas alia tago el la resto de ŝia vivo.\"",
+        "Ke ŝi devas forveturi",
+        "Ke Darek ŝanĝiĝos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi finas per pripenso pri la tago, kiu komencas la reston de la vivo."
+    }
+  ]
+}

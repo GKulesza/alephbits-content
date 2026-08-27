@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kie naskiĝas Maria?",
+      "answers": [
+        "En Varsovio",
+        "En Parizo",
+        "En Krakovo",
+        "En Francio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Varsovio, la jaro 1867 — la familio Skłodowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Maria perdas la kredon je Dio?",
+      "answers": [
+        "Post la morto de la patrino",
+        "Post la milito",
+        "Post la morto de la patro",
+        "Post la eksedziĝo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post la morto de la patrino pro tuberkulozo ŝi ĉesas kredi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Maria atingas la Sorbonon?",
+      "answers": [
+        "Ŝi laboras kaj subtenas la fratinon Bronia",
+        "Ŝi ricevas stipendion de la caro",
+        "Ŝi iras kun la edzo Pierre",
+        "Ŝi gajnas sciencan konkurson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kun Bronia ŝi faras pakton: unue unu studas, la dua laboras."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel ŝi nomis la elementon honore al Pollando?",
+      "answers": [
+        "Polonio",
+        "Radiumo",
+        "Uranio",
+        "Kuriumo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria nomas ĝin Polonio — omaĝo al Pollando."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da fojoj Maria ricevis la Nobel-premion?",
+      "answers": [
+        "Du fojojn",
+        "Unu fojon",
+        "Tri fojojn",
+        "Neniam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nobel-premio pri fiziko kaj pri ĥemio."
+    }
+  ]
+}

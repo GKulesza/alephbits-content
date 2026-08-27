@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "De kie Fajrosaltulo ricevas sian potencon?",
+      "answers": [
+        "El la petoloj kaj malbonaj pensoj de la infanoj",
+        "De la suno",
+        "El libro sen hundoj",
+        "De la akvo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sinjoro Stanisław diras, ke li naskiĝis el petoloj kaj malbonaj pensoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "En kio ili kaptas Fajrosaltulon?",
+      "answers": [
+        "En vitra botelo kun dolĉaĵoj",
+        "En sako",
+        "En kelo",
+        "En ŝranko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ili preparas botelon kun mielo kaj konfitaĵoj kiel kaptilon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la animo perdas, kiam li perdas la ĉapeton?",
+      "answers": [
+        "Ĉiun sian forton",
+        "La voĉon",
+        "La memoron",
+        "La trezoron"
+      ],
+      "correctIndex": 0,
+      "explanation": "La libro diras, ke sen la ruĝa ĉapeto li perdas ĉian potencon."
+    },
+    {
+      "type": "single_choice",
+      "question": "En kio Fajrosaltulo transformiĝas fine?",
+      "answers": [
+        "En malgrandan ruĝan ŝtoneton",
+        "En papilion",
+        "En katon",
+        "En fajreron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li kuntiriĝas kaj transformiĝas en malgrandan ruĝan ŝtoneton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la sorĉlibro?",
+      "answers": [
+        "Pri spiritoj, sorĉoj kaj ensorĉoj — verko de la majstro Adalbert",
+        "Hari Poter",
+        "Kaprino Peko",
+        "Sinjoro Tadeo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sinjoro Stanisław trovas la libron de la majstro Adalbert pri spiritoj."
+    }
+  ]
+}
