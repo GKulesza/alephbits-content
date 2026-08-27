@@ -265,10 +265,10 @@ Kaj tiam, unuafoje post miloj da jaroj, ŝi rememoris ĉion.
 **Question:** Kion Ada faras profesie monaton post la vekiĝo?
 
 **Answers:**
-- A) Reiras al la posteno
+- A) Reiras al la posteno kaj daŭre laboras kvazaŭ nenio okazus
 - B) Rezignas la postenon kaj kreas paĝon pri la siriaj kodoj
-- C) Iras al la hospitalo
-- D) Reiras al la patrino
+- C) Iras al la hospitalo por la kontrolo de la koro
+- D) Reiras al la patrino kaj rakontas pri la renkontiĝo
 
 **Correct:** B
 **Explanation:** Ŝi rezignas la postenon kaj verkas pri la kodoj de la vekiĝo.
@@ -279,10 +279,10 @@ Kaj tiam, unuafoje post miloj da jaroj, ŝi rememoris ĉion.
 **Question:** Kie Ada staras en la epilogo jaron poste?
 
 **Answers:**
-- A) En Varsovio
+- A) En Varsovio, en la centro de la malnova urbo
 - B) Sur la dezerto en Egiptio, apud piramido
-- C) En la hospitalo
-- D) Ĉe la patrino
+- C) En la hospitalo por la plena ekzamenado
+- D) Ĉe la patrino en la familia domo de la prauloj
 
 **Correct:** B
 **Explanation:** Epilogo: ŝi staras sur la dezerto en Egiptio antaŭ piramido.
@@ -293,10 +293,10 @@ Kaj tiam, unuafoje post miloj da jaroj, ŝi rememoris ĉion.
 **Question:** Kion la nekonatulo skribas al Ada en la mesaĝo?
 
 **Answers:**
-- A) Ke li estas malsana
+- A) Ke li estas grave malsana kaj devas tuj viziti la kuraciston en la hospitalo
 - B) Ke de semajnoj li sentas pulsadon en la manplato kaj dankas, ke ŝi ekzistas
-- C) Ke li volas renkontiĝon
-- D) Ke tio estas fraŭdo
+- C) Ke li volas renkontiĝon por paroli pri la pasinteco kaj la familiaj aferoj
+- D) Ke tio estas fraŭdo kontraŭ liaj pensoj, sentoj kaj memoroj
 
 **Correct:** B
 **Explanation:** La leganto skribas pri la sama pulsado kaj pri sia dankemo.

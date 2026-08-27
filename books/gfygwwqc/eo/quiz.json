@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion legas Ola en la libro de Magdalena Chorzewska?",
       "answers": [
-        "Ke la unua rendevuo montras nenion",
+        "Ke la unua rendevuo montras nenion certan",
         "Ke ŝi estos la sekva, kiu estos malbona",
-        "Ke oni devas serĉi idealan partneron",
-        "Ke rendevuoj estas perdo de tempo"
+        "Ke oni devas serĉi idealan partneron sen ĉeso",
+        "Ke rendevuoj estas perdo de tempo kaj mono"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi legas la frazon pri la eksaj, kiuj „estis malbonaj\"."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kun kio Magda komparas la konduton de Ola en la historio?",
       "answers": [
-        "Kun la paco post la milito",
+        "Kun la paco, kiu venis post la milito",
         "Kun la Tria Regno, kiu timis la pacon",
-        "Kun diplomatio",
-        "Kun geedziĝo"
+        "Kun diplomatio kaj la sekretaj traktatoj",
+        "Kun geedziĝo kaj la familio de la politikisto"
       ],
       "correctIndex": 1,
       "explanation": "Magda diras, ke ĉiu rendevuo estas nova kampanjo, kaj Ola timas ĉesi serĉi."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion diras Tomasz pri siaj eksaj partnerinoj?",
       "answers": [
-        "Ke ili ĉiuj estis malbonaj",
+        "Ke ili ĉiuj estis malbonaj kaj ne indaj je la atento de la homoj",
         "Ke kun unu li ne interkompreniĝas, sed kun alia li havas bonan kontakton",
-        "Ke li neniam havis rilatojn",
-        "Ke la kulpo estis tute ilia"
+        "Ke li neniam havis rilatojn kaj timis la virinojn kaj ilian proksimecon",
+        "Ke la kulpo estis tute ilia kaj li neniel povis aŭ volis ŝanĝiĝi"
       ],
       "correctIndex": 1,
       "explanation": "Tomasz diras, ke ne ĉiuj eksaj estas malbonaj — ili estis malbonaj unu por la alia."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Ola skribas en la libro fine?",
       "answers": [
-        "Ke rendevuoj ne havas sencon",
+        "Ke rendevuoj ne havas sencon kaj oni ne povas ilin plani",
         "Ke oni devas serĉi homon, ne idealon",
-        "Ke Tomasz estas perfekta",
-        "Ke terapio ne helpas"
+        "Ke Tomasz estas perfekta kaj ne eraras neniam",
+        "Ke terapio ne helpas al li pri la elekto"
       ],
       "correctIndex": 1,
       "explanation": "La noto parolas pri rilatoj konstruitaj post multaj rendevuoj, kiam oni serĉas homon, ne idealon."

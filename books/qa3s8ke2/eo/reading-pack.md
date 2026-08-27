@@ -262,10 +262,10 @@ Li ekdormis post la 23-a. Li vekiĝis je 5:47. Kun vekhorloĝo.
 **Question:** Kion li vidas sur la pordo en la tria etaĝo de la universitato?
 
 **Answers:**
-- A) Tabuleton de la dekanujo
+- A) Tabuleton de la dekanujo pri la nomlisto de la studentoj
 - B) Tabuleton: Legalizado de restado — sen rifuzoj, sen streso
-- C) Anoncon pri ekzameno
-- D) Afiŝon de UPA
+- C) Anoncon pri ekzameno de la franca lingvo
+- D) Afiŝon de UPA pri la dekretaro de la universitato
 
 **Correct:** B
 **Explanation:** Sur la pordo pendas tabuleto pri legalizado de restado „sen rifuzoj, sen streso".
@@ -276,10 +276,10 @@ Li ekdormis post la 23-a. Li vekiĝis je 5:47. Kun vekhorloĝo.
 **Question:** Kion faras la virino el la oficejo, kiam Przemek frapas?
 
 **Answers:**
-- A) Ŝi fermas la pordon kaj vokas la sekurecon
+- A) Ŝi fermas la pordon kaj vokas la sekurecon de la domo tuj
 - B) Ŝi malfermas tuj kaj jam registras per la telefono
-- C) Ŝi petas polican legitimilon
-- D) Ŝi rifuzas paroli
+- C) Ŝi petas polican legitimilon de la vizitanto antaŭ ol malfermi
+- D) Ŝi rifuzas paroli kaj fermas la fenestron kaj la pordojn
 
 **Correct:** B
 **Explanation:** La pordo malfermiĝas tuj; la virino havas telefonon kaj jam registras.
@@ -304,10 +304,10 @@ Li ekdormis post la 23-a. Li vekiĝis je 5:47. Kun vekhorloĝo.
 **Question:** Kion Przemek komprenas post la reveno el la prokurorejo?
 
 **Answers:**
-- A) Ke li faris formalan eraron
+- A) Ke li faris formalan eraron en la dokumentoj de la universitato kaj de la biblioteko
 - B) Ke la ŝtato venis al li, ĉar li faris demandon — la limo de la laŭleĝa proksimiĝis
-- C) Ke la ukrainino retiris la plendon
-- D) Ke la afero estas fermita
+- C) Ke la ukrainino retiris la plendon pro la premo de la ambasado kaj de la ministerio
+- D) Ke la afero estas fermita kaj ne plu koncernas lin nek lian familion nek lian studon
 
 **Correct:** B
 **Explanation:** Przemek komprenas, ke la ŝtato venis al li pro demando, kaj la limo de la laŭleĝa proksimiĝis.

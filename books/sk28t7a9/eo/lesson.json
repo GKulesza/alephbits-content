@@ -55,9 +55,9 @@
         "question": "Kiel Marta kutime prokrastas la ordigon?",
         "answers": [
           "Ŝi diras al si, ke ŝi faros ĝin morgaŭ, kvankam ŝi scias, ke tio ne estas vero",
-          "Ŝi ordigas tuj post la reveno",
-          "Ŝi petas helpon de najbaroj ĉiutage",
-          "Ŝi dungas purigfirmaon ĉiusemajne"
+          "Ŝi ordigas tuj post la reveno de la laboro kaj de la ĉiutagaj okupoj hejme",
+          "Ŝi petas helpon de la najbaroj ĉiutage matene antaŭ la komenco de la laboro",
+          "Ŝi dungas purigfirmaon ĉiusemajne por la granda ordigado de la tuta domo"
         ],
         "correctIndex": 0,
         "explanation": "Ŝi diras „morgaŭ mi faros ĝin\", sed scias, ke morgaŭ estos same kiel hodiaŭ."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kion Marta malkovras post la ordigo?",
         "answers": [
-          "Ke la malordo estis kaŝita havaĵo",
+          "Ke la malordo estis kaŝita havaĵo de la ŝtato",
           "Ke la malordo estis ŝi mem atendanta ŝanĝon",
-          "Ke ŝi devus aĉeti pli da aĵoj",
-          "Ke la loĝejo estas tro malgranda"
+          "Ke ŝi devus aĉeti pli da aĵoj por la ornamado",
+          "Ke la loĝejo estas tro malgranda por ŝiaj libroj"
         ],
         "correctIndex": 1,
         "explanation": "Ŝi skribas al la amikino, ke tio ne estis malordo — tio estis ŝi atendanta ŝanĝon."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kiel la rakonto finas la difinon de hejmo?",
         "answers": [
-          "Hejmo estas nur adreso",
+          "Hejmo estas nur adreso skribita en la oficialaj dokumentoj",
           "Hejmo estas la loko, kie oni estas kaj kie oni fariĝas",
-          "Hejmo estas deponejo de aĵoj",
-          "Hejmo estas oficejo"
+          "Hejmo estas deponejo de aĵoj, de rememoroj kaj de la pasinteco",
+          "Hejmo estas oficejo, kie oni laboras ĉiutage de la mateno"
         ],
         "correctIndex": 1,
         "explanation": "La fina frazo diras, ke hejmo estas la loko, kie oni estas kaj kie oni fariĝas."

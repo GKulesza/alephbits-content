@@ -290,10 +290,10 @@ Li profunde enspiris kaj ekiris hejmen.
 **Question:** Kio estas la profesio de Sebastian?
 
 **Answers:**
-- A) Komercisto de Wall Street
+- A) Komercisto de Wall Street kun granda salajro
 - B) Instruisto de matematiko en gimnazio
-- C) Astrologino
-- D) Kuracisto
+- C) Astrologino leganta la stelojn de la klientoj
+- D) Kuracisto laboranta en la urba kliniko
 
 **Correct:** B
 **Explanation:** Li estas instruisto de matematiko en varsovia gimnazio.
@@ -305,9 +305,9 @@ Li profunde enspiris kaj ekiris hejmen.
 
 **Answers:**
 - A) Kun funkcio kun negativa delto — manko de solvo en la serĉata loko
-- B) Kun la areo de triangulo
-- C) Kun natura logaritmo
-- D) Kun la vico de Fibonaĉi
+- B) Kun la areo de triangulo en la geometria ekzercaro de la lernejo
+- C) Kun natura logaritmo de la negativa nombro en la tabelo
+- D) Kun la vico de Fibonaĉi en la kursa programo de matematiko
 
 **Correct:** A
 **Explanation:** Ŝi parolas pri kvadrata funkcio sen reelaj solvoj ĉe negativa delto.
@@ -346,10 +346,10 @@ Li profunde enspiris kaj ekiris hejmen.
 **Question:** Kion Sebastian skribas al Maria post la unua monato je pluso?
 
 **Answers:**
-- A) Ke ŝi gajnis por li
+- A) Ke ŝi gajnis por li la monon en la kazino
 - B) Ke li fermis la monaton je pluso — kaj dankas
-- C) Ke li rezignas pri la komercado
-- D) Ke li translokiĝas al Gdańsk
+- C) Ke li rezignas pri la komercado kaj vendas la maŝinon
+- D) Ke li translokiĝas al Gdańsk por la nova vivo
 
 **Correct:** B
 **Explanation:** Sebastian skribas: „Hodiaŭ unuafoje post unu jaro mi fermis la monaton je pluso. Ne grandan. Sed pluson. Dankon." Maria respondas: „Tio ne estas mi. Tio estas vi. Vi fidis al vi mem."

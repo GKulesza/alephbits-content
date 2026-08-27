@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion li vidas sur la pordo en la tria etaĝo de la universitato?",
       "answers": [
-        "Tabuleton de la dekanujo",
+        "Tabuleton de la dekanujo pri la nomlisto de la studentoj",
         "Tabuleton: Legalizado de restado — sen rifuzoj, sen streso",
-        "Anoncon pri ekzameno",
-        "Afiŝon de UPA"
+        "Anoncon pri ekzameno de la franca lingvo",
+        "Afiŝon de UPA pri la dekretaro de la universitato"
       ],
       "correctIndex": 1,
       "explanation": "Sur la pordo pendas tabuleto pri legalizado de restado „sen rifuzoj, sen streso\"."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion faras la virino el la oficejo, kiam Przemek frapas?",
       "answers": [
-        "Ŝi fermas la pordon kaj vokas la sekurecon",
+        "Ŝi fermas la pordon kaj vokas la sekurecon de la domo tuj",
         "Ŝi malfermas tuj kaj jam registras per la telefono",
-        "Ŝi petas polican legitimilon",
-        "Ŝi rifuzas paroli"
+        "Ŝi petas polican legitimilon de la vizitanto antaŭ ol malfermi",
+        "Ŝi rifuzas paroli kaj fermas la fenestron kaj la pordojn"
       ],
       "correctIndex": 1,
       "explanation": "La pordo malfermiĝas tuj; la virino havas telefonon kaj jam registras."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Przemek komprenas post la reveno el la prokurorejo?",
       "answers": [
-        "Ke li faris formalan eraron",
+        "Ke li faris formalan eraron en la dokumentoj de la universitato kaj de la biblioteko",
         "Ke la ŝtato venis al li, ĉar li faris demandon — la limo de la laŭleĝa proksimiĝis",
-        "Ke la ukrainino retiris la plendon",
-        "Ke la afero estas fermita"
+        "Ke la ukrainino retiris la plendon pro la premo de la ambasado kaj de la ministerio",
+        "Ke la afero estas fermita kaj ne plu koncernas lin nek lian familion nek lian studon"
       ],
       "correctIndex": 1,
       "explanation": "Przemek komprenas, ke la ŝtato venis al li pro demando, kaj la limo de la laŭleĝa proksimiĝis."

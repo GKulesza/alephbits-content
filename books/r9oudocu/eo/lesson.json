@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kial Tadeusz portas novajn ŝuojn?",
         "answers": [
-          "Por laboro",
+          "Por laboro en la ĉefurbo",
           "Por la geedziĝo de la filo",
-          "Por kurado",
-          "Por la preĝejo"
+          "Por kurado de la maratono en la urbo",
+          "Por la preĝejo kaj la pastra vizito"
         ],
         "correctIndex": 1,
         "explanation": "Li diras, ke tiuj estas novaj ŝuoj por la geedziĝo de la filo."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion la doktoro vidas post la forŝiro de la ŝtrumpeto?",
         "answers": [
-          "Ordinaran kalon",
+          "Ordinaran kalon sur la piedfingro de la maldekstra piedo",
           "Mortintan, nigran piedfingron kaj odoron de puso",
-          "Frakturon",
-          "Alergion"
+          "Frakturon de la piedo pro la falo de la ŝtuparo",
+          "Alergion al la nova ŝuo el la butiko en la centro"
         ],
         "correctIndex": 1,
         "explanation": "La piedfingro estas nigra, mortinta; odoro de pusŝpino."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kion Tadeusz lasas al la doktoro ĉe la reveno?",
         "answers": [
-          "Monon",
+          "Monon por la kuracado kaj por la aĉeto de la nova ŝuo el la butiko",
           "Novan ŝuon — li petas, ke li memoru pri tiuj, kiuj ne venas",
-          "Leteron",
-          "Foton de la patro"
+          "Leteron de la familio el la hejmurbo kun bonaj novaĵoj por li",
+          "Foton de la patro en la malnova uniformo de la armeo de la lando"
         ],
         "correctIndex": 1,
         "explanation": "Li lasas ŝuon kun sanga makulo kiel averton."

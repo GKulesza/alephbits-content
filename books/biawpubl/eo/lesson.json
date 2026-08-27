@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kio estas la profesio de Sebastian?",
         "answers": [
-          "Komercisto de Wall Street",
+          "Komercisto de Wall Street kun granda salajro",
           "Instruisto de matematiko en gimnazio",
-          "Astrologino",
-          "Kuracisto"
+          "Astrologino leganta la stelojn de la klientoj",
+          "Kuracisto laboranta en la urba kliniko"
         ],
         "correctIndex": 1,
         "explanation": "Li estas instruisto de matematiko en varsovia gimnazio."
@@ -55,9 +55,9 @@
         "question": "Kun kio Lena komparas la vivon de Sebastian?",
         "answers": [
           "Kun funkcio kun negativa delto — manko de solvo en la serĉata loko",
-          "Kun la areo de triangulo",
-          "Kun natura logaritmo",
-          "Kun la vico de Fibonaĉi"
+          "Kun la areo de triangulo en la geometria ekzercaro de la lernejo",
+          "Kun natura logaritmo de la negativa nombro en la tabelo",
+          "Kun la vico de Fibonaĉi en la kursa programo de matematiko"
         ],
         "correctIndex": 0,
         "explanation": "Ŝi parolas pri kvadrata funkcio sen reelaj solvoj ĉe negativa delto."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion Sebastian skribas al Maria post la unua monato je pluso?",
         "answers": [
-          "Ke ŝi gajnis por li",
+          "Ke ŝi gajnis por li la monon en la kazino",
           "Ke li fermis la monaton je pluso — kaj dankas",
-          "Ke li rezignas pri la komercado",
-          "Ke li translokiĝas al Gdańsk"
+          "Ke li rezignas pri la komercado kaj vendas la maŝinon",
+          "Ke li translokiĝas al Gdańsk por la nova vivo"
         ],
         "correctIndex": 1,
         "explanation": "Sebastian skribas: „Hodiaŭ unuafoje post unu jaro mi fermis la monaton je pluso. Ne grandan. Sed pluson. Dankon.\" Maria respondas: „Tio ne estas mi. Tio estas vi. Vi fidis al vi mem.\""

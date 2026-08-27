@@ -32,9 +32,9 @@
       "question": "Kie okazas la rakonto?",
       "answers": [
         "Ĉe la limo inter Cieszyn kaj Český Těšín",
-        "En Gdańsk ĉe la haveno",
-        "En la Tatroj sur la montpasejo",
-        "Sur la flughaveno en Varsovio"
+        "En Gdańsk ĉe la haveno apud la ŝipoj",
+        "En la Tatroj sur la montpasejo inter la pintoj",
+        "Sur la flughaveno en Varsovio dum la flugo"
       ],
       "correctIndex": 0,
       "explanation": "La teksto parolas pri la limpasejo inter Cieszyn kaj Český Těšín."
@@ -44,9 +44,9 @@
       "question": "Kion donas al Tomek la veturo kun la sako sur la pakaĵujo de la biciklo?",
       "answers": [
         "La senton, ke Jan estus fiera kaj ke la sako estas simbolo de io sen nomo",
-        "Planon forveturi al Ĉeĥio por ĉiam",
-        "Ideon komerci per sablo",
-        "La emon fariĝi politikisto"
+        "Planon forveturi al Ĉeĥio por ĉiam kaj neniam reveni al la hejmlando de la patro",
+        "Ideon komerci per sablo de la limregiono kaj gajni multe da mono",
+        "La emon fariĝi politikisto kaj paroli en la parlamento de la ĉefurbo Varsovio"
       ],
       "correctIndex": 0,
       "explanation": "La fino diras, ke la sako estas simbolo de io sen nomo, kaj Tomek scias, ke Jan estus fiera."
@@ -56,9 +56,9 @@
       "question": "Kiu estas Tomek en la rakonto?",
       "answers": [
         "Juna doganisto laboranta ĉe la limo",
-        "Urbestro de Cieszyn",
-        "Ŝoforo de buso",
-        "Turisto el Germanio"
+        "Urbestro de Cieszyn en la malfacilaj jaroj",
+        "Ŝoforo de buso sur la loka linio",
+        "Turisto el Germanio vojaĝanta tra Pollando"
       ],
       "correctIndex": 0,
       "explanation": "Tomek estas juna doganisto, kiu laboras ĉe la limo de unu monato."

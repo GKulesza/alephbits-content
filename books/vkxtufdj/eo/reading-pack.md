@@ -310,9 +310,9 @@ Kaj Tomek sciis, ke Jan estus fiera.
 
 **Answers:**
 - A) Ĉe la limo inter Cieszyn kaj Český Těšín
-- B) En Gdańsk ĉe la haveno
-- C) En la Tatroj sur la montpasejo
-- D) Sur la flughaveno en Varsovio
+- B) En Gdańsk ĉe la haveno apud la ŝipoj
+- C) En la Tatroj sur la montpasejo inter la pintoj
+- D) Sur la flughaveno en Varsovio dum la flugo
 
 **Correct:** A
 **Explanation:** La teksto parolas pri la limpasejo inter Cieszyn kaj Český Těšín.
@@ -324,9 +324,9 @@ Kaj Tomek sciis, ke Jan estus fiera.
 
 **Answers:**
 - A) La senton, ke Jan estus fiera kaj ke la sako estas simbolo de io sen nomo
-- B) Planon forveturi al Ĉeĥio por ĉiam
-- C) Ideon komerci per sablo
-- D) La emon fariĝi politikisto
+- B) Planon forveturi al Ĉeĥio por ĉiam kaj neniam reveni al la hejmlando de la patro
+- C) Ideon komerci per sablo de la limregiono kaj gajni multe da mono
+- D) La emon fariĝi politikisto kaj paroli en la parlamento de la ĉefurbo Varsovio
 
 **Correct:** A
 **Explanation:** La fino diras, ke la sako estas simbolo de io sen nomo, kaj Tomek scias, ke Jan estus fiera.
@@ -338,9 +338,9 @@ Kaj Tomek sciis, ke Jan estus fiera.
 
 **Answers:**
 - A) Juna doganisto laboranta ĉe la limo
-- B) Urbestro de Cieszyn
-- C) Ŝoforo de buso
-- D) Turisto el Germanio
+- B) Urbestro de Cieszyn en la malfacilaj jaroj
+- C) Ŝoforo de buso sur la loka linio
+- D) Turisto el Germanio vojaĝanta tra Pollando
 
 **Correct:** A
 **Explanation:** Tomek estas juna doganisto, kiu laboras ĉe la limo de unu monato.

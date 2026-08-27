@@ -291,10 +291,10 @@ Ekster la fenestro brilis la suno. Kaj ĉio estis en ordo.
 **Question:** Kion legas Ola en la libro de Magdalena Chorzewska?
 
 **Answers:**
-- A) Ke la unua rendevuo montras nenion
+- A) Ke la unua rendevuo montras nenion certan
 - B) Ke ŝi estos la sekva, kiu estos malbona
-- C) Ke oni devas serĉi idealan partneron
-- D) Ke rendevuoj estas perdo de tempo
+- C) Ke oni devas serĉi idealan partneron sen ĉeso
+- D) Ke rendevuoj estas perdo de tempo kaj mono
 
 **Correct:** B
 **Explanation:** Ŝi legas la frazon pri la eksaj, kiuj „estis malbonaj".
@@ -305,10 +305,10 @@ Ekster la fenestro brilis la suno. Kaj ĉio estis en ordo.
 **Question:** Kun kio Magda komparas la konduton de Ola en la historio?
 
 **Answers:**
-- A) Kun la paco post la milito
+- A) Kun la paco, kiu venis post la milito
 - B) Kun la Tria Regno, kiu timis la pacon
-- C) Kun diplomatio
-- D) Kun geedziĝo
+- C) Kun diplomatio kaj la sekretaj traktatoj
+- D) Kun geedziĝo kaj la familio de la politikisto
 
 **Correct:** B
 **Explanation:** Magda diras, ke ĉiu rendevuo estas nova kampanjo, kaj Ola timas ĉesi serĉi.
@@ -319,10 +319,10 @@ Ekster la fenestro brilis la suno. Kaj ĉio estis en ordo.
 **Question:** Kion diras Tomasz pri siaj eksaj partnerinoj?
 
 **Answers:**
-- A) Ke ili ĉiuj estis malbonaj
+- A) Ke ili ĉiuj estis malbonaj kaj ne indaj je la atento de la homoj
 - B) Ke kun unu li ne interkompreniĝas, sed kun alia li havas bonan kontakton
-- C) Ke li neniam havis rilatojn
-- D) Ke la kulpo estis tute ilia
+- C) Ke li neniam havis rilatojn kaj timis la virinojn kaj ilian proksimecon
+- D) Ke la kulpo estis tute ilia kaj li neniel povis aŭ volis ŝanĝiĝi
 
 **Correct:** B
 **Explanation:** Tomasz diras, ke ne ĉiuj eksaj estas malbonaj — ili estis malbonaj unu por la alia.
@@ -333,10 +333,10 @@ Ekster la fenestro brilis la suno. Kaj ĉio estis en ordo.
 **Question:** Kion Ola skribas en la libro fine?
 
 **Answers:**
-- A) Ke rendevuoj ne havas sencon
+- A) Ke rendevuoj ne havas sencon kaj oni ne povas ilin plani
 - B) Ke oni devas serĉi homon, ne idealon
-- C) Ke Tomasz estas perfekta
-- D) Ke terapio ne helpas
+- C) Ke Tomasz estas perfekta kaj ne eraras neniam
+- D) Ke terapio ne helpas al li pri la elekto
 
 **Correct:** B
 **Explanation:** La noto parolas pri rilatoj konstruitaj post multaj rendevuoj, kiam oni serĉas homon, ne idealon.

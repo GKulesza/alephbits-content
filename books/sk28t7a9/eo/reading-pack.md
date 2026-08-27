@@ -256,9 +256,9 @@ Kaj morgaŭ, matene, anstataŭ diri "morgaŭ mi faros tion", ŝi diros: "mi fari
 
 **Answers:**
 - A) Ŝi diras al si, ke ŝi faros ĝin morgaŭ, kvankam ŝi scias, ke tio ne estas vero
-- B) Ŝi ordigas tuj post la reveno
-- C) Ŝi petas helpon de najbaroj ĉiutage
-- D) Ŝi dungas purigfirmaon ĉiusemajne
+- B) Ŝi ordigas tuj post la reveno de la laboro kaj de la ĉiutagaj okupoj hejme
+- C) Ŝi petas helpon de la najbaroj ĉiutage matene antaŭ la komenco de la laboro
+- D) Ŝi dungas purigfirmaon ĉiusemajne por la granda ordigado de la tuta domo
 
 **Correct:** A
 **Explanation:** Ŝi diras „morgaŭ mi faros ĝin", sed scias, ke morgaŭ estos same kiel hodiaŭ.
@@ -269,10 +269,10 @@ Kaj morgaŭ, matene, anstataŭ diri "morgaŭ mi faros tion", ŝi diros: "mi fari
 **Question:** Kion Marta malkovras post la ordigo?
 
 **Answers:**
-- A) Ke la malordo estis kaŝita havaĵo
+- A) Ke la malordo estis kaŝita havaĵo de la ŝtato
 - B) Ke la malordo estis ŝi mem atendanta ŝanĝon
-- C) Ke ŝi devus aĉeti pli da aĵoj
-- D) Ke la loĝejo estas tro malgranda
+- C) Ke ŝi devus aĉeti pli da aĵoj por la ornamado
+- D) Ke la loĝejo estas tro malgranda por ŝiaj libroj
 
 **Correct:** B
 **Explanation:** Ŝi skribas al la amikino, ke tio ne estis malordo — tio estis ŝi atendanta ŝanĝon.
@@ -297,10 +297,10 @@ Kaj morgaŭ, matene, anstataŭ diri "morgaŭ mi faros tion", ŝi diros: "mi fari
 **Question:** Kiel la rakonto finas la difinon de hejmo?
 
 **Answers:**
-- A) Hejmo estas nur adreso
+- A) Hejmo estas nur adreso skribita en la oficialaj dokumentoj
 - B) Hejmo estas la loko, kie oni estas kaj kie oni fariĝas
-- C) Hejmo estas deponejo de aĵoj
-- D) Hejmo estas oficejo
+- C) Hejmo estas deponejo de aĵoj, de rememoroj kaj de la pasinteco
+- D) Hejmo estas oficejo, kie oni laboras ĉiutage de la mateno
 
 **Correct:** B
 **Explanation:** La fina frazo diras, ke hejmo estas la loko, kie oni estas kaj kie oni fariĝas.
