@@ -1,0 +1,412 @@
+# The Choir
+
+## Metadata
+
+**Pack ID:** vhs1k3aq
+**Book ID:** vhs1k3aq
+**Legacy Pack ID:** polish_chor
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** The Choir  
+**Subtitle:** A row about a tablet and the voices of generations  
+**Blurb:** Magda and Tomek argue about their son's screen, but underneath they are fighting over their own parents' traumas and whether they are still partners. After Aga Rogala's podcast they begin to talk — not perfectly, but truly.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 11 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** en  
+**Translation summary:** English translation of the Polish reading pack "Chór" — Collection Ten official edition.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** wychowanie, małżeństwo, podcast, Aga Rogali, Collection Ten  
+
+**Keywords:** Chór, Magda, Tomek, tablet, rodzicielstwo, Aga Rogali  
+
+**Cover family:** psychology
+
+
+**Motifs:**
+- family
+- marriage
+- childhood
+- rain
+- home
+- forgiveness
+
+**Editorial notes:** Fikcja parentingowa; adaptacja redakcyjna podcastu Agi Rogali.
+
+**Inspiration:** Podcast Agi Rogali o zbędnych kłótniach rodzicielskich; opowieść o traumach pokoleń; YouTube syzWuhF_U2I (2023-07-14).
+
+---
+
+**World:**
+- places: home
+- objects: glass
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 14.07.2023 -> https://www.youtube.com/watch?v=syzWuhF_U2I  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — question grammar |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Dobre dopasowanie — granice, przepraszanie, pokoleniowa trauma bez moralizowania. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=syzWuhF_U2I  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2023-07-14  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**THE CHOIR**
+
+Once, long ago, before they even had children, Magda and Tomek loved each other in silence. They were young, in love, they could talk for hours, and when they had nothing to say, they were silent together – it was a good silence, a warm one, the kind in which you feel the other person without words.
+
+Then Franek came. And then Zosia. And the silence stopped being good. It became tense, dense, filled with everything unsaid.
+
+Tomek stood in the kitchen, holding a mug of cold coffee. Rain was falling outside the window. In the living room Magda was building blocks with Zosia, and Franek was playing football on the tablet – right at that moment, at 18:47, when according to their agreement the screen time had long since ended.
+
+– Franek – Tomek called through the wall. – Turn it off.
+
+– Dad, just a minute.
+
+– Turn it off, I said.
+
+Magda looked up. She knew that look of Tomek's – stiff, unbending, the one that in her eyes meant "he's about to make this a matter of honour".
+
+– Tomek – she said gently, as if speaking to a small child – he'll finish his match in a second, wait two minutes.
+
+– He won't wait. An agreement is an agreement. I said he was to turn it off at 18:45.
+
+– It's two minutes, Tomek. Don't turn this into a drama.
+
+– It's not two minutes. It's a rule. If I let him now, next time he'll want two more minutes. Don't you understand?
+
+Franek turned off the tablet and looked at his parents, frightened. Zosia, who was four, froze with a block in her hand.
+
+Magda stood up, walked over to Tomek and said, so that the children couldn't hear:
+
+– He's seven. Seven. Everything you're doing here is your own trauma. It's not the child, it's you. You're dragging your demons out on him because your father raised you that way. And that's not his fault, and it's not my job to cure you of it.
+
+Tomek looked at her. In his eyes appeared something Magda could no longer stand – offence. The same look his father had had whenever someone challenged his authority.
+
+– Don't bring my father into this – he said quietly, but in that quiet voice there was more shouting than in a raised tone. – You have no right.
+
+– I have no right? – Magda laughed bitterly. – I've lived with you for ten years. I'm raising children with you. And I have no right to say that your way of raising them is a carbon copy of your father's? That every move you make is a rigid rule, that there isn't a gram of flexibility in you, that the children are afraid to come near you when you have that look on your face?
+
+Tomek set down the mug. Too loudly.
+
+– You always have to let everything slide. You have no boundaries. They do whatever they want with you. They're spoiled, they don't listen, they don't show respect. And that's your fault.
+
+– My fault? I'm teaching them that emotions matter. That they're allowed to feel. That they don't have to be soldiers.
+
+– They don't have to be soldiers! – Tomek repeated, this time louder. – And you think it's good that Franek can't lose? That Zosia throws a tantrum when she doesn't have her own mug? That we have to carry them in our arms because "they're sensitive"? You're the one raising them that way. It's all because of you.
+
+Franek got up from the sofa and went to his room. Zosia started to cry.
+
+Silence fell in the kitchen.
+
+---
+An hour passed. Magda put Zosia to bed, then went to Franek. He was sitting on the bed with his knees under his chin.
+
+– I'm sorry about the argument – she said quietly.
+
+– It was my fault – he answered. – Because I didn't turn off the tablet.
+
+Magda sat down beside him.
+
+– No, sweetheart. It wasn't your fault. Daddy and I… we have different opinions on some things. It's not your fault.
+
+Franek looked at her. There was no anger in his eyes. Only sadness.
+
+– Do you still love each other?
+
+Magda froze.
+
+– Of course we do.
+
+– Then why do you shout like that?
+
+She didn't know what to say. She only knew that this question contained the whole truth about their relationship, about how far apart they had drifted over the past few years. That the arguments about parenting methods, about the tablet, about rules, about who was right – all of it was only a cover. Something they could focus on so they wouldn't have to admit to themselves that their relationship, the one that had once been so warm, had grown cold. That Magda was right when she talked about Tomek's traumas. And that Tomek was right when he said that Magda gave in too much – not to the children, but to him, over the years, through silence, through avoiding the conversations that could have brought them closer.
+
+---
+She remembered Aga Rogala's podcast, which she listened to on her way to work. "Part of our quarrels is unnecessary," Aga said. "You can go on living without that difference, without that dispute."
+
+Back then Magda thought: "She has no idea what she's talking about. In her world everything is simple." But now, sitting next to her son, she understood that Aga was right. The quarrels about the tablet, about rules, about boundaries – those weren't the real quarrels. They were revelations. They showed something nobody wanted to see.
+
+Tomek was afraid that if he let go, he would lose control. That he would become like his father – absent, dismissive, uninterested in anyone. So he became his opposite: rigid, demanding, present – but present like a prison guard, not like a father.
+
+Magda was afraid that if she was too strict, she would lose the children's love. That they would remember her as a bad mother. So she became too soft, too forgiving, too ready to give in – and in that way she didn't give them what they needed: clear boundaries within which they could feel safe.
+
+Underneath all of that lay one more layer: Magda felt rejected. Tomek hadn't seen her as a woman for years, only as a mother. And Tomek felt powerless – at work, in life, in his relationship with her, which was slipping out of his hands.
+
+And this quarrel about the tablet – it was about everything.
+
+---
+Half an hour later Magda entered the bedroom. Tomek was lying on the bed with his face turned to the wall. She sat down beside him.
+
+– Tomek – she said. – Let's talk.
+
+– There's nothing to talk about.
+
+– There is. I want to tell you something Aga said in that podcast.
+
+– Who?
+
+– The psychologist. "Part of our quarrels is unnecessary. You can go on living without that difference."
+
+Tomek turned his face toward her. He was tired, with dark circles under his eyes.
+
+– It's not a difference – he said. – It's that I can't rely on her. Every time I set boundaries, she undermines them. The children see that we disagree. They have no authority.
+
+– It's not about authority – Magda answered. – It's that we don't talk. We just fight. There's no dialogue between us. You talk, I talk, but nobody listens.
+
+Tomek sat up. For a moment they were both silent.
+
+– Listen – Magda began. – I know you don't want to be like your father. I don't want to be like my mother either. But it's us who are here, Tomek. Not them. And if we don't start talking to each other, if we don't stop arguing about who's right about the tablet, we'll lose each other in no time. And we'll lose the children.
+
+Tomek looked at her.
+
+– I know – he said. – I know I'm rigid. That I'm… like him. But I don't know how to be different. How to stop being afraid that if I let go, everything will fall apart.
+
+– I know – Magda answered. – And I'm afraid too. I'm afraid that if I'm too strict, the children will stop loving me. And I know that's silly. But that's how it is.
+
+She laid her hand on his.
+
+– Maybe we don't have to be the same. Maybe we can be different and that's all right. Maybe your boundaries and my softness can coexist. Maybe it's not about one of us winning, but about learning to talk to each other.
+
+Tomek clenched his jaw.
+
+– I don't know how – he said. – I don't know how to talk.
+
+– Neither do I. But we can learn. We can go see someone. Aga, or someone else. But let's stop pretending these quarrels are about the children. They're not about the children.
+
+Tomek looked at her. In his eyes appeared something she hadn't seen in a long time – not offence, not rigidity, but tiredness. And need.
+
+– I know – he said. – They're not.
+
+Magda moved closer and hugged him. It wasn't a great reconciliation. It wasn't a solution. But it was a beginning.
+
+---
+The next day, at breakfast, Zosia asked:
+
+– Mummy, Daddy, aren't you fighting anymore?
+
+Tomek and Magda glanced at each other.
+
+– No – said Tomek. – We're not fighting. We're talking.
+
+Zosia nodded, as if it were the simplest thing in the world. Franek looked at his father, then at his mother, and smiled.
+
+Maybe that was the moment they understood that their quarrels weren't about the children. That the children weren't the reason – or the victim. They were only witnesses to what the adults were doing to themselves. And that what they most needed to hear wasn't "we'll stop fighting" – it was "we'll manage, and we'll show you how".
+
+That evening Tomek went into Franek's room and sat down on his bed.
+
+– Listen – he said. – I'm sorry I shouted yesterday. That wasn't right.
+
+Franek shrugged.
+
+– Will you forgive me for not knowing how to let go sometimes? – Tomek asked.
+
+Franek looked at him seriously.
+
+– Yes – he said. – But next time you want to take my tablet away, tell me about it beforehand.
+
+Tomek smiled.
+
+– Deal.
+
+In the living room Magda heard this dialogue. And she thought about what Aga Rogala had said: "In the end it won't be that we get along perfectly. There's no such thing, no way around it. But maybe we'll only mess up 10 percent."
+
+Maybe that was it. Maybe it wasn't about being perfect parents – only about being real ones. About admitting your mistakes. About apologising. About not turning an argument over parenting methods into a battlefield where wars from generations ago are fought.
+
+Because what their children really needed wasn't perfect parents. It was parents who could get along. Or at least try.
+
+---
+Tomek and Magda didn't stop arguing. But they started talking. Sometimes they still raised their voices, sometimes they still took offence. But then – maybe not always, but more and more often – they came back to each other and tried again.
+
+One day, on the way to work, Magda turned on another of Aga Rogala's podcasts. She heard words she would remember forever:
+
+– Your behaviour as a parent isn't only what you consciously want. A whole mass of unconscious things plays a part. It's as if you were wearing gloves that have other hands inside them. And in those hands – the hands of your parents, and in their hands – the hands of your grandparents.
+
+Magda stopped for a moment. She looked at her hands, which were holding the steering wheel. And she understood that these hands – her hands – were part of something bigger. They weren't only hers. They were also her mother's hands, which had never known how to hug her, and her grandmother's hands, which always said that children should be well-behaved and quiet.
+
+And Tomek – his hands were his father's hands, who demanded perfection, and his grandfather's, who hadn't been present at all.
+
+And now they, Tomek and Magda, had their own hands. And they could do something different with them. They didn't have to be like them. They could try to be themselves.
+
+It wasn't easy. There were days when they fell back into old patterns. They argued about the tablet, about rules, about who loved the children more. But now they knew those quarrels weren't about the children. They were about them. About what they hadn't been given, what they were afraid of, what they hadn't known how to say.
+
+And that was no longer known only to Magda. Tomek knew it too.
+
+---
+One evening, after another, shorter argument, Tomek said:
+
+– You know what came to my mind today? How my father came home from work and shut himself in his room. And nobody could go in.
+
+Magda looked at him.
+
+– And I don't want to be like him – he added. – I don't want to shut myself away from you. From you. From the children.
+
+– You're different – said Magda. – You're here. You're with us. Even when you're arguing.
+
+Tomek smiled sadly.
+
+– But I don't know how to be any other way. I don't know how to be soft.
+
+– You don't have to be soft – she answered. – You have to be yourself. Just that. And it's everything.
+
+At night, when the children were asleep and they lay side by side, Tomek laid his hand on Magda's. And they both thought that what they had wasn't perfect. But it was real.
+
+And that was enough.
+
+And the children – they didn't know that in those quiet nights, in those talks after arguments, in those attempts to reach an understanding, their parents were doing something that mattered most to them. They weren't giving them peace, they weren't giving them silence. They were giving them something far more precious: the example that you can fight, and then make up. That you can make mistakes, and then fix them. That you can be imperfect, and still be a good parent.
+
+And that – not the tablet, not the rules, not the boundaries – was what they needed.
+
+The choir of voices that sounded inside them – the voices of parents, grandparents, whole generations – was still there. But Tomek and Magda were beginning to learn how to listen to it. And slowly, very slowly, they began to sing their own melody.
+
+**THE END**
+
+---
+
+## Quiz
+
+**Quiz title:** Check your understanding
+
+### Question 1
+
+**Question:** What do Magda and Tomek argue about at the beginning of the story?
+
+**Answers:**
+- A) About separating
+- B) About Franek not turning off the tablet after screen time
+- C) About holidays
+- D) About Magda's job
+
+**Correct:** B
+**Explanation:** Franek was playing football on the tablet after 18:45.
+**Text reference:** Turn it off
+
+### Question 2
+
+**Question:** What does Franek ask his mother after the argument?
+
+**Answers:**
+- A) Whether he'll get the tablet
+- B) Whether his parents still love each other
+- C) Whether they'll go to the cinema
+- D) Whether Zosia is ill
+
+**Correct:** B
+**Explanation:** Franek asks directly: "Do you still love each other?"
+**Text reference:** Do you still love each other
+
+### Question 3
+
+**Question:** Whose podcast idea does Magda bring up in the bedroom?
+
+**Answers:**
+- A) Jesper Juul's
+- B) Aga Rogala's
+- C) Maria Berlińska's
+- D) Szymon Grzelak's
+
+**Correct:** B
+**Explanation:** Magda quotes Aga Rogala about unnecessary quarrels and working on oneself.
+**Text reference:** Aga Rogala's podcast
+
+### Question 4
+
+**Question:** How does Tomek react when Franek asks to be warned beforehand about taking the tablet?
+
+**Answers:**
+- A) He shouts
+- B) He smiles and says "Deal"
+- C) He ignores his son
+- D) He tells him to go to bed
+
+**Correct:** B
+**Explanation:** Tomek accepts the proposal and says: "Deal".
+**Text reference:** Deal
+
+### Question 5
+
+**Question:** What does the metaphor of the "choir of voices" mean in the ending?
+
+**Answers:**
+- A) That children should stay quiet
+- B) That the voices of previous generations sound in the parents, and they are learning to listen to and transform them
+- C) That the family sings in church
+- D) That Tomek becomes a singer
+
+**Correct:** B
+**Explanation:** Tomek and Magda learn to listen to the voices of parents/grandparents and "sing their own melody".
+**Text reference:** Choir of voices
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

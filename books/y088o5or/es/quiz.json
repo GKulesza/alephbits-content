@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué piensa Patryk de la doble tetera turca?",
+      "answers": [
+        "Que es un invento ingenioso",
+        "Que sirve para el café",
+        "Que está rota",
+        "Que solo prepara hierbas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patryk considera genial la doble tetera."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Furkan a Patryk sobre la preparación?",
+      "answers": [
+        "Poco té y muy poco tiempo",
+        "Demasiado azúcar",
+        "Agua fría",
+        "Hojas malas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Furkan aconseja: más hojas y más tiempo de reposo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice la maestra del matcha sobre el té?",
+      "answers": [
+        "Que es armonía y respeto",
+        "Que hay que beberlo rápido",
+        "Que es solo una bebida",
+        "Que siempre es amargo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dice: armonía, respeto, pureza, calma."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se bebe el té en Turquía según el texto?",
+      "answers": [
+        "Fuerte y dulce, en vasos pequeños",
+        "Frío y sin azúcar",
+        "Solo por la noche",
+        "Solo en ceremonia"
+      ],
+      "correctIndex": 0,
+      "explanation": "En Turquía lo beben fuerte, dulce, en vasos pequeños."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué conclusión saca Patryk al final?",
+      "answers": [
+        "Cada uno tiene su buena manera de prepararlo",
+        "Solo el matcha importa",
+        "El té es igual en todas partes",
+        "El té polaco es el mejor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada uno tiene su manera — y todas son buenas."
+    }
+  ]
+}

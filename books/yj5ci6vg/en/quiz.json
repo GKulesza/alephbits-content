@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Franek say about the plane when the bomber appears on television?",
+      "answers": [
+        "That he flew it yesterday",
+        "That his plane was burning and that it was a Corsair",
+        "That he saw it in a museum",
+        "That it was grandpa's plane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek says calmly: \"My plane was burning – it was a Corsair. I didn't make it back to the carrier.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Which pilot's name does Anna first find in the military archives?",
+      "answers": [
+        "Jack Larsen",
+        "Daniel Rakowiecki",
+        "Michał Kosakowski",
+        "Piotr Wójcik"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the list of pilots who fell at the Battle of Iwo Jima appears Daniel Rakowiecki from Detroit."
+    },
+    {
+      "type": "single_choice",
+      "question": "What explanation does Doctor Kosakowski propose?",
+      "answers": [
+        "That Franek was certainly a pilot in a past life",
+        "That the brain assembled scraps of information into a coherent story — cryptomnesia and memory reconstruction",
+        "That Franek is pretending out of boredom",
+        "That it's an effect of hypnosis at nursery school"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosakowski explains cryptomnesia: the mind forgets the source of the information but assembles it into one narrative."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kosakowski call confirmation bias?",
+      "answers": [
+        "Forgetting the names of loved ones",
+        "Selectively collecting evidence for a story we already believe",
+        "A false memory after hypnosis",
+        "An error in the military archives"
+      ],
+      "correctIndex": 1,
+      "explanation": "When something seems true, we begin collecting only the evidence \"for\" and ignore the contradictions."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Anna whisper to Franek at the end?",
+      "answers": [
+        "That he must forget about the plane",
+        "Whoever you were — now you are mine",
+        "That tomorrow they are going to the museum",
+        "That his father was also a pilot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna kisses her son and says: \"Whoever you were – now you are mine.\""
+    }
+  ]
+}

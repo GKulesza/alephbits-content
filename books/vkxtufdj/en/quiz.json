@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Jan carry across the bridge every day?",
+      "answers": [
+        "An empty backpack",
+        "A grey sack of sand",
+        "A suitcase of clothes",
+        "Bicycles for children"
+      ],
+      "correctIndex": 1,
+      "explanation": "The customs officers see the man crossing the border every day with the same grey sack."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Jan answer the customs officer's question about the contents of the sack?",
+      "answers": [
+        "That it's gold",
+        "That it's sand",
+        "That it's books",
+        "That it's food"
+      ],
+      "correctIndex": 1,
+      "explanation": "In answer to the officer's question he simply says: sand."
+    },
+    {
+      "type": "single_choice",
+      "question": "Where does the story take place?",
+      "answers": [
+        "At the border between Cieszyn and Český Těšín",
+        "In Gdańsk by the port",
+        "In the Tatras at a mountain pass",
+        "At the airport in Warsaw"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text speaks of the border crossing between Cieszyn and Český Těšín."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the ride with the sack on the bicycle rack give Tomek?",
+      "answers": [
+        "The feeling that Jan would have been proud and that the sack is a symbol of something without a name",
+        "A plan to move to the Czech Republic for good",
+        "An idea for trading sand",
+        "A desire to become a politician"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ending says the sack is a symbol of something without a name, and Tomek knows Jan would have been proud."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Tomek in the story?",
+      "answers": [
+        "A young customs officer working at the border",
+        "The mayor of Cieszyn",
+        "A bus driver",
+        "A tourist from Germany"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek is a young customs officer who has been working at the border for a month."
+    }
+  ]
+}

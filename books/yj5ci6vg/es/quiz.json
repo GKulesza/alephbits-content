@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Franek sobre el avión cuando aparece el bombardero en la televisión?",
+      "answers": [
+        "Que lo pilotó ayer",
+        "Que su avión estaba ardiendo y que era un Corsair",
+        "Que lo vio en un museo",
+        "Que era el avión del abuelo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek dice con calma: \"Mi avión estaba ardiendo – era un Corsair. No volví al portaaviones.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué apellido de piloto encuentra Anna primero en los archivos militares?",
+      "answers": [
+        "Jack Larsen",
+        "Daniel Rakowiecki",
+        "Michał Kosakowski",
+        "Piotr Wójcik"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la lista de pilotos caídos en la batalla de Iwo Jima aparece Daniel Rakowiecki, de Detroit."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué explicación propone el doctor Kosakowski?",
+      "answers": [
+        "Que Franek fue sin duda piloto en una vida anterior",
+        "Que el cerebro ensambló fragmentos de información en una historia coherente — criptomnesia y reconstrucción de la memoria",
+        "Que Franek finge por aburrimiento",
+        "Que es un efecto de la hipnosis en la guardería"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosakowski explica la criptomnesia: la mente olvida la fuente de la información, pero la ensambla en una narración."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A qué llama Kosakowski sesgo de confirmación?",
+      "answers": [
+        "Olvidar los nombres de los seres queridos",
+        "Recoger selectivamente pruebas a favor de una historia que ya creemos",
+        "Un recuerdo falso tras la hipnosis",
+        "Un error en los archivos militares"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cuando algo nos parece verdadero, empezamos a recoger solo las pruebas \"a favor\" e ignoramos las contradicciones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le susurra Anna a Franek al final?",
+      "answers": [
+        "Que debe olvidar el avión",
+        "Seas quien hayas sido — ahora eres mío",
+        "Que mañana irán al museo",
+        "Que su padre también fue piloto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anna besa a su hijo y dice: \"Seas quien hayas sido – ahora eres mío.\""
+    }
+  ]
+}

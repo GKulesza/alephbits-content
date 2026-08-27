@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué lleva Jan cada día a través del puente?",
+      "answers": [
+        "Una mochila vacía",
+        "Un saco gris de arena",
+        "Una maleta con ropa",
+        "Bicicletas para niños"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los aduaneros ven que el hombre cruza la frontera cada día con el mismo saco gris."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo responde Jan a la pregunta del aduanero sobre el contenido del saco?",
+      "answers": [
+        "Que es oro",
+        "Que es arena",
+        "Que son libros",
+        "Que es comida"
+      ],
+      "correctIndex": 1,
+      "explanation": "A la pregunta del aduanero responde simplemente: arena."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde se desarrolla la historia?",
+      "answers": [
+        "En la frontera entre Cieszyn y Český Těšín",
+        "En Gdańsk, junto al puerto",
+        "En los Tatras, en un puerto de montaña",
+        "En el aeropuerto de Varsovia"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto habla del paso fronterizo entre Cieszyn y Český Těšín."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le aporta a Tomek el paseo con el saco en el portaequipajes de la bicicleta?",
+      "answers": [
+        "La sensación de que Jan habría estado orgulloso y de que el saco es un símbolo de algo sin nombre",
+        "El plan de mudarse a la República Checa para siempre",
+        "La idea de dedicarse al comercio de arena",
+        "Las ganas de hacerse político"
+      ],
+      "correctIndex": 0,
+      "explanation": "El final dice que el saco es un símbolo de algo sin nombre, y Tomek sabe que Jan habría estado orgulloso."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Tomek en la historia?",
+      "answers": [
+        "Un joven aduanero que trabaja en la frontera",
+        "El alcalde de Cieszyn",
+        "Un conductor de autobús",
+        "Un turista de Alemania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tomek es un joven aduanero que lleva un mes trabajando en la frontera."
+    }
+  ]
+}

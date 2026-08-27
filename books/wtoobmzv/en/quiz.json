@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What did Kamil's father regularly tell him?",
+      "answers": [
+        "You're a genius",
+        "You're lazy / you're a layabout",
+        "Go to sleep",
+        "I love you"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"You're as lazy as they come.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What book does Kamil read?",
+      "answers": [
+        "Harry Potter",
+        "The Wild Father by Szymon Grzelak",
+        "In Desert and Wilderness",
+        "1984"
+      ],
+      "correctIndex": 1,
+      "explanation": "He reads Grzelak's \"The Wild Father\" about labels."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Kamil say to Adam after the C on the test?",
+      "answers": [
+        "You've always been a layabout",
+        "I can see you prepared — that's persistence",
+        "Go to your room",
+        "No more sports ever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Descriptive appreciation of effort, not of the grade."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Adam say about being a \"layabout\" at the end?",
+      "answers": [
+        "He still believes it",
+        "He knows he's not a layabout — sometimes he lacks motivation, but he can change that",
+        "He hates his dad",
+        "He doesn't want to go to school"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam: he's not a layabout, sometimes he lacks motivation — but he can change."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Kamil react to the broken school project?",
+      "answers": [
+        "He shouts about carelessness",
+        "He calmly asks what happened and what Adam can do",
+        "He buys a new project",
+        "He cancels the lessons"
+      ],
+      "correctIndex": 1,
+      "explanation": "He asks about a solution and a lesson for the future."
+    }
+  ]
+}

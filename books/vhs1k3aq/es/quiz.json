@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Por qué se pelean Magda y Tomek al principio de la historia?",
+      "answers": [
+        "Por una separación",
+        "Porque Franek no apagó la tableta al terminar el tiempo de pantalla",
+        "Por las vacaciones",
+        "Por el trabajo de Magda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek jugaba al fútbol en la tableta después de las 18:45."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le pregunta Franek a su madre después de la pelea?",
+      "answers": [
+        "Si tendrá la tableta",
+        "Si sus padres todavía se quieren",
+        "Si irán al cine",
+        "Si Zosia está enferma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek pregunta directamente: \"¿Todavía os queréis?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿La idea de qué podcast menciona Magda en el dormitorio?",
+      "answers": [
+        "De Jesper Juul",
+        "De Aga Rogala",
+        "De Maria Berlińska",
+        "De Szymon Grzelak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda cita a Aga Rogala sobre las peleas innecesarias y el trabajo sobre uno mismo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo reacciona Tomek cuando Franek pide que le avisen antes de quitarle la tableta?",
+      "answers": [
+        "Grita",
+        "Sonríe y dice \"Trato hecho\"",
+        "Ignora a su hijo",
+        "Le manda a la cama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek acepta la propuesta y dice: \"Trato hecho\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué significa la metáfora del \"coro de voces\" en el final?",
+      "answers": [
+        "Que los niños deberían callar",
+        "Que en los padres suenan las voces de las generaciones anteriores, y están aprendiendo a escucharlas y transformarlas",
+        "Que la familia canta en la iglesia",
+        "Que Tomek se hace cantante"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek y Magda aprenden a escuchar las voces de los padres/abuelos y a \"cantar su propia melodía\"."
+    }
+  ]
+}

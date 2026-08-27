@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué le decía regularmente el padre de Kamil?",
+      "answers": [
+        "Eres un genio",
+        "Eres perezoso / eres un vago",
+        "Vete a dormir",
+        "Te quiero"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Eres más vago que nadie.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué libro lee Kamil?",
+      "answers": [
+        "Harry Potter",
+        "El padre salvaje, de Szymon Grzelak",
+        "En el desierto y en la selva",
+        "1984"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lee \"El padre salvaje\" de Grzelak, sobre las etiquetas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Kamil a Adam después del notable en el examen?",
+      "answers": [
+        "Siempre has sido un vago",
+        "Veo que te has preparado — eso es persistencia",
+        "Vete a tu habitación",
+        "Nada de deporte nunca más"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valoración descriptiva del esfuerzo, no de la nota."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Adam sobre ser \"vago\" al final?",
+      "answers": [
+        "Todavía se lo cree",
+        "Sabe que no es un vago — a veces le falta motivación, pero puede cambiarlo",
+        "Odia a su papá",
+        "No quiere ir al colegio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam: no es un vago, a veces le falta motivación — pero puede cambiar."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo reacciona Kamil ante el proyecto escolar roto?",
+      "answers": [
+        "Grita por el despiste",
+        "Pregunta con calma qué ha pasado y qué puede hacer Adam",
+        "Compra un proyecto nuevo",
+        "Anula las clases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pregunta por una solución y por una lección para el futuro."
+    }
+  ]
+}

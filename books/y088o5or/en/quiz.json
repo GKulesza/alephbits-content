@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Patryk think about the double Turkish teapot?",
+      "answers": [
+        "That it's a clever invention",
+        "That it's for coffee",
+        "That it's broken",
+        "That it only brews herbs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patryk considers the double teapot ingenious."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Furkan tell Patryk about brewing?",
+      "answers": [
+        "Too little tea and too briefly",
+        "Too much sugar",
+        "Cold water",
+        "Bad leaves"
+      ],
+      "correctIndex": 0,
+      "explanation": "Furkan advises: more leaves and a longer steep."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the matcha mistress say about tea?",
+      "answers": [
+        "That it's harmony and respect",
+        "That you have to drink it quickly",
+        "That it's only a drink",
+        "That it's always bitter"
+      ],
+      "correctIndex": 0,
+      "explanation": "She says: harmony, respect, purity, calm."
+    },
+    {
+      "type": "single_choice",
+      "question": "How is tea drunk in Turkey according to the text?",
+      "answers": [
+        "Strong and sweet, in small glasses",
+        "Cold, without sugar",
+        "Only in the evening",
+        "Only in a ceremony"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Turkey they drink it strong, sweet, in small glasses."
+    },
+    {
+      "type": "single_choice",
+      "question": "What conclusion does Patryk draw at the end?",
+      "answers": [
+        "Everyone has their own good way of brewing",
+        "Only matcha matters",
+        "Tea is the same everywhere",
+        "Polish tea is the best"
+      ],
+      "correctIndex": 0,
+      "explanation": "Everyone has their own way — and every way is good."
+    }
+  ]
+}

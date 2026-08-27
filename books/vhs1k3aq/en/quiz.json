@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What do Magda and Tomek argue about at the beginning of the story?",
+      "answers": [
+        "About separating",
+        "About Franek not turning off the tablet after screen time",
+        "About holidays",
+        "About Magda's job"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek was playing football on the tablet after 18:45."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Franek ask his mother after the argument?",
+      "answers": [
+        "Whether he'll get the tablet",
+        "Whether his parents still love each other",
+        "Whether they'll go to the cinema",
+        "Whether Zosia is ill"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek asks directly: \"Do you still love each other?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Whose podcast idea does Magda bring up in the bedroom?",
+      "answers": [
+        "Jesper Juul's",
+        "Aga Rogala's",
+        "Maria Berlińska's",
+        "Szymon Grzelak's"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda quotes Aga Rogala about unnecessary quarrels and working on oneself."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Tomek react when Franek asks to be warned beforehand about taking the tablet?",
+      "answers": [
+        "He shouts",
+        "He smiles and says \"Deal\"",
+        "He ignores his son",
+        "He tells him to go to bed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek accepts the proposal and says: \"Deal\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the metaphor of the \"choir of voices\" mean in the ending?",
+      "answers": [
+        "That children should stay quiet",
+        "That the voices of previous generations sound in the parents, and they are learning to listen to and transform them",
+        "That the family sings in church",
+        "That Tomek becomes a singer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek and Magda learn to listen to the voices of parents/grandparents and \"sing their own melody\"."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "packId": "vhs1k3aq:en",
+  "bookId": "vhs1k3aq",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-13",
+  "lastReviewedAt": "2026-07-13",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja parentingowa; adaptacja redakcyjna podcastu Agi Rogali."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "syzWuhF_U2I"
+    }
+  ],
+  "revisionNotes": "Phase 119 import."
+}
