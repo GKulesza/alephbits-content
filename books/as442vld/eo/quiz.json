@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Tomasz konsentas al la multekostaj opcioj en la funebra entrepreno?",
+      "answers": [
+        "Ĉar li antaŭe komparis ĉiujn proponojn",
+        "Ĉar en funebro li fidas, ke la proponitaj elementoj estas necesaj por digna adiaŭo",
+        "Ĉar li havis specialan asekuron",
+        "Ĉar la patrino skribis ĉion en la testamento"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto montras lian perditecon kaj vundeblecon al sugestoj en la momento de freŝa perdo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio plej ŝanĝas lian rigardon kelkajn semajnojn poste?",
+      "answers": [
+        "Artikolo en gazeto pri kremacio",
+        "La konversacio kun Magda pri pli malmultekostaj kaj ekologiaj alternativoj",
+        "Telefonvoko el la banko",
+        "Letero de la pastro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magda unuafoje konsciigas al li, ke ekzistis aliaj solvoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian rolon plenumas la renkontiĝo de la fondaĵo Funerarium?",
+      "answers": [
+        "Ĝi konvinkas lin aĉeti pli multekostan urnon",
+        "Ĝi montras, ke la familio rajtas demandi, elekti kaj plendi pri malbone plenumita servo",
+        "Ĝi malpermesas al infanoj partopreni en enterigoj",
+        "Ĝi instigas lin translokiĝi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agnes Tołoczmańska parolas pri la rajto elekti kaj pri konsumantaj rajtoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian pli larĝan ŝanĝon Tomasz enkondukas post tiu edukado?",
+      "answers": [
+        "Li ĉesas iri al la tombejo",
+        "Li komencas paroli kun proksimuloj, ankaŭ kun infanoj, pri morto kaj pri enterigaj elektoj",
+        "Li fondas funebran entreprenon",
+        "Li rezignas pri libroj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post la legado kaj la renkontiĝo li komencas malsentimigi la temon de morto en la familio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu ĉefa konkludo fermas la rakonton de Tomasz?",
+      "answers": [
+        "Plej bone neniam organizi enterigojn memstare",
+        "En situacio de nescio oni devas demandi kaj postuli alternativojn",
+        "Alta prezo ĉiam signifas dignon",
+        "Infanoj ne devus koni la temon de morto"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina pripensado resumiĝas al la rajto demandi kaj elekti."
+    }
+  ]
+}

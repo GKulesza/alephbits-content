@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj Paweł laboras kiel maŝinisto?",
+      "answers": [
+        "Kvin",
+        "Kvardek kvin",
+        "Dudek",
+        "Tridek"
+      ],
+      "correctIndex": 1,
+      "explanation": "De kvardek kvin jaroj li estas maŝinisto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie okazas la ŝlosila incidento kun la aŭto?",
+      "answers": [
+        "En Gdańsk",
+        "Ĉe la transirejo en Otnice",
+        "En Vroclavo",
+        "En Opole"
+      ],
+      "correctIndex": 1,
+      "explanation": "La aŭto eliras de la maldekstra flanko ĉe la transirejo en Otnice."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da metroj pli malproksimen la ŝoforino devus eliri, por ke la trajno trafu la spacon, kie sidis la infanoj?",
+      "answers": [
+        "Duonon da metro",
+        "Unu metron kaj duonon",
+        "Tri metrojn",
+        "Kvin metrojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paweł diras: se ŝi estus elirinta unu metron kaj duonon pli malproksimen, li trafus centre."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la policano iam diris al Paweł kiel metaforon?",
+      "answers": [
+        "Ke li estas kulpa",
+        "Ke li estas la arbo, sur kiu iu pendigos sin",
+        "Ke li devas foriri de la laboro",
+        "Ke tio estas komputila ludo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La policano diris, ke li elektis por si, kaj Paweł estas tiu arbo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Paweł komprenas vespere post la incidento?",
+      "answers": [
+        "Ke li devas tuj foriri",
+        "Ke li ne estas arbo — li havas elekton, ĉu resti aŭ foriri",
+        "Ke la ŝoforino estas kulpa",
+        "Ke la sonĝo plenumiĝos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras, ke li povas foriri aŭ resti, sed tio estos lia elekto."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da procentoj de la dungitaro la firmao devas redukti?",
+      "answers": [
+        "5%",
+        "15%",
+        "50%",
+        "30%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek parolas pri redukto de la dungitaro je 15%."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Marek maldungas Magdan laŭ la firmao?",
+      "answers": [
+        "Pro malbonaj rezultoj",
+        "Ĉar ŝia fako estas malprofita kaj la posteno ripetiĝanta",
+        "Pro malfruiĝoj",
+        "Pro konflikto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li klarigas, ke la fako estas malprofita, la posteno ripetiĝanta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Magda diras al Marek ĉe la eliro?",
+      "answers": [
+        "Ke ŝi pardonas al li",
+        "Ke ŝi bezonis, ke li staru apud ŝi, sed li nur plenumis ordonojn",
+        "Ke ŝi amas lin",
+        "Ke ŝi revenos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi diras, ke ŝi bezonis subtenon, kaj li plenumis ordonojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Marek eksiĝas?",
+      "answers": [
+        "Pro pli alta salajro",
+        "Ĉar li ne volas plenumi ordonojn sen pensi pri la homoj",
+        "Ĉar li translokiĝas eksterlanden",
+        "Ĉar li malsanas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras al la estro, ke li ne volas plenumi ordonojn sen pensi pri la homoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun Marek dungas en sia nova firmao?",
+      "answers": [
+        "Nur sin mem",
+        "Magdan kiel ĉefan analizistinon",
+        "La iaman estron",
+        "Neniun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epilogo: Magda fariĝas lia ĉefa analizistino."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Tom faras tuj post trovi Anan en la kuirejo?",
+      "answers": [
+        "Li vokas la ambulancon",
+        "Li sidiĝas kaj komencas serĉi en la reto demandojn pri putrado kaj balzamigo",
+        "Li vekas la infanojn",
+        "Li vokas la najbarojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anstataŭ voki helpon, li malfermas la retumilon kaj demandas pri la odoro de la korpo kaj balzamigo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pri kio Ana volas paroli en la silvestra nokto?",
+      "answers": [
+        "Pri ferioj en Eŭropo",
+        "Pri William, la agento",
+        "Pri nova aŭto",
+        "Pri translokiĝo al Pollando"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ana diras, ke ili devas paroli pri William, la agento."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel fakte nomiĝas Tom?",
+      "answers": [
+        "Brian",
+        "William",
+        "Donald",
+        "Tomasz"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la epilogo Tom estas nomata Brian sidanta en ĉelo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian verdikton ricevas Brian?",
+      "answers": [
+        "Monpunon",
+        "Vidaŭron",
+        "Unu jaron da provado",
+        "Senkulpigon"
+      ],
+      "correctIndex": 1,
+      "explanation": "La epilogo diras, ke Brian havas vidaŭron kaj sentas nenion."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie plenkreskas la infanoj de la heroo post la eventoj?",
+      "answers": [
+        "En Pollando",
+        "En Masaĉuseco sen gepatroj",
+        "En Francio",
+        "En Serbio ĉe la avino de Ana"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras, ke en Masaĉuseco liaj infanoj plenkreskas sen gepatroj."
+    }
+  ]
+}

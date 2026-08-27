@@ -1,0 +1,28 @@
+{
+  "packId": "b3eu1z0s:eo",
+  "bookId": "b3eu1z0s",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-26",
+  "lastReviewedAt": "2026-07-26",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Collection Thirteen manuscript. Full literary biography (Standard length — exceeds Starter Shelf Short biography band by design). Chronology restored (Consuelo 1930 before Sahara crash 1935). Softened contested claims (B612 serial lore; \"most translated after Bible\"; speculative suicide). Not a scholarly monograph."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "dA95nIHACFM"
+    },
+    {
+      "type": "youtube",
+      "videoId": "lN8hHquERTg"
+    }
+  ],
+  "revisionNotes": "Founder editorial pipeline — chronology, claims, motifs catalog, quiz length, reading time; vignette.webp present."
+}
