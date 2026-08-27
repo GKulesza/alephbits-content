@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Krzysztof priskribas la karakteron de sia elsendo komence?",
+      "answers": [
+        "Kiel pure informan programon",
+        "Kiel distran serion pri konspiraj teorioj",
+        "Kiel matenan veterraporton",
+        "Kiel muzikan elsendon sen paroloj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li parolas pri la „verda brilo\" kiel pri distra serio pri konspiraj teorioj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Krzysztof trovas en la malnova noto de antaŭ tri jaroj?",
+      "answers": [
+        "Recepton por kafo",
+        "Menciojn pri preparaĵo reiganta la maljuniĝon je 20 jaroj",
+        "Leteron de la redakcio",
+        "Horaron de vojaĝoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li rulumas al la noto pri preparaĵo plilongiganta la juneco je ĝuste 20 jaroj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion sugestas la anonima letero post la elsendo pri la flava pulvoro?",
+      "answers": [
+        "Ke la preparaĵo ne ekzistas kaj neniam estiĝos",
+        "Ke la preparaĵo ekzistas, sed havas kaŝitan kondiĉon kaj pliajn sekvojn",
+        "Ke la elsendo estos premiita",
+        "Ke Krzysztof tuj forlasu la radion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La letero parolas pri funkcianta preparaĵo, tamen kun kondiĉo kaj profetaĵo de degradiĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel finiĝas la unua linio de la averto en la dua letero?",
+      "answers": [
+        "Bonvolu registri pli",
+        "Vi diris tro multe — bonvolu ĉesi",
+        "Ni invitas vin al konferenco",
+        "Ni petas intervjuon en TV"
+      ],
+      "correctIndex": 1,
+      "explanation": "La dua letero alvokas ĉesi la registraĵojn pro la sekureco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion sugestas la kaŝita registraĵo en la epilogo pri „unu el ili\"?",
+      "answers": [
+        "Ke li estas ordinara aŭskultanto de la radio",
+        "Ke ĝi estas io eksterhoma, sugestanta per homoj",
+        "Ke tio estas ŝerco de la studio",
+        "Ke tio estas reklamo de suplemento"
+      ],
+      "correctIndex": 1,
+      "explanation": "La registraĵo diras, ke „unu el ili\" estas io veninta de ekstere, kiu konas la estontecon."
+    }
+  ]
+}

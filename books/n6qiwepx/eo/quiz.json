@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiam Zosia unuafoje aŭdas, ke ŝi estas „bonkonduta knabino\"?",
+      "answers": [
+        "En la lernejo, dum leciono",
+        "Ŝi havas ĉirkaŭ kvin jarojn, dum la matenmanĝo",
+        "Dum la studoj, ĉe prelegoj",
+        "Post naskiĝo de la filo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La patrino diras tion al ŝi super la matenmanĝo, kiam ŝi havas kvin jarojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Zosia faras unuafoje en la aĝo de ĉirkaŭ 15 jaroj?",
+      "answers": [
+        "Ŝi ŝanĝas lernejon meze de la jaro",
+        "Ŝi rifuzas la forveturon al la ĥora provo",
+        "Ŝi forveturas al Erasmus",
+        "Ŝi rezignas pri Instagram"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi rifuzas la forveturon al la ĥora provo kaj fermas sin en la banĉambro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun fakojn ŝi elektas post la seniluziiĝo pri ĵurnalistiko?",
+      "answers": [
+        "Psikologion",
+        "Eŭropajn studojn",
+        "Medicinon",
+        "Juron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi transiras al eŭropaj studoj pro Erasmus kaj vojaĝoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Zosia komencas fari dum la pandemio kaj la malfacila gravedeco?",
+      "answers": [
+        "Ŝi skribas krimromanon",
+        "Ŝi registras konversaciojn kaj publikigas ilin en la reto",
+        "Ŝi malfermas restoracion en la urbo",
+        "Ŝi lernas programadon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi registras konversaciojn por la familio, poste por Instagram/TikTok/YouTube."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Zosia dirus al sia juna memo?",
+      "answers": [
+        "Estu eĉ pli perfekta",
+        "Vi ne devas esti perfekta — sufiĉas esti vi mem",
+        "Forĵetu la lernejon kaj forveturu",
+        "Neniam diru al iu „ne\""
+      ],
+      "correctIndex": 1,
+      "explanation": "En la intervjuo ŝi diras: „Vi ne devas esti tiel perfekta. Sufiĉas, ke vi estos vi mem.\""
+    }
+  ]
+}

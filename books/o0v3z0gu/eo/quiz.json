@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio Marcin hazarde spektas filmon?",
+      "answers": [
+        "Pri Mikołaj Kopernik",
+        "Pri la batalo de Beresteczko kaj Wiśniowiecki",
+        "Pri la dua mondmilito",
+        "Pri la Varsovia Ribelo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li trafas je filmo pri Beresteczko kaj Wiśniowiecki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la pli aĝa viro en Beresteczko pri la atako?",
+      "answers": [
+        "Ke ĝi daŭris tri tagojn",
+        "Ke tri horoj ŝanĝis ĉion",
+        "Ke ĝi havis neniun signifon",
+        "Ke ĝi estis malvenko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras: tri horoj, filo — kaj ŝanĝiĝis ĉio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Wiśniowiecki ekiris orienten anstataŭ fuĝi?",
+      "answers": [
+        "Pro milita devo",
+        "Ĉar sen rezisto la ribelo detruus ĉion",
+        "Ĉar la reĝo tion ordonis",
+        "Ĉar li serĉis trezorojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcin skribas, ke li ekiris en la fajron, ĉar la ribelo devis esti haltigita."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havis Wiśniowiecki, kiam li mortis laŭ la epilogo?",
+      "answers": [
+        "50",
+        "39",
+        "25",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "La epilogo: li mortis en la aĝo de 39 jaroj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marcin skribas fine de la artikolo pri la kondiĉa modo de la historio?",
+      "answers": [
+        "Ke la historio ĉiam ripetas erarojn",
+        "Ke la historio ne konas kondiĉan modon",
+        "Ke oni povas ŝanĝi la pasintecon",
+        "Ke la batalo estis sensignifa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li citas: la historio ne konas kondiĉan modon."
+    }
+  ]
+}

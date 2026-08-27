@@ -1,0 +1,280 @@
+# Sanktaj batalantoj
+
+## Metadata
+
+**Pack ID:** ne9nnovj
+**Book ID:** ne9nnovj
+**Legacy Pack ID:** polish_swieci_wojownicy
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Sanktaj batalantoj  
+**Subtitle:** Podkasto, ritoj kaj batalantoj de ĉiuj kulturoj  
+**Blurb:** Plenkreska rakontanto aŭskultas podkaston pri templanoj, samurajoj, vikingoj kaj muĝahidoj — kaj rememoras medalionon el infanaĝo, avon de la Hejma Armeo kaj la demandon: ĉu ni bezonas kredon je dioj, por batali niajn proprajn militojn?
+
+**Genres:** philosophy, history, short_story  
+**Series:** Collection Eleven  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★★☆  
+**Estimated reading time:** 6 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** eo  
+**Translation summary:** Esperanta traduko de la pola legpaketo „Święci wojownicy" — oficiala eldono de Collection Eleven.
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 3  
+
+**Tags:** podcast, wojownicy, rytuały, templariusze, Collection Eleven  
+
+**Keywords:** Święci wojownicy, templariusze, samuraje, rytuały, podcast  
+
+**Cover family:** philosophy
+
+
+**Motifs:**
+- warrior
+- faith
+- ritual
+- memory
+- mentor
+- question
+
+**Editorial notes:** Eseistyczna fikcja inspirowana podcastem Atora i Artura Wójtowicza; odniesienia historyczne (berserkerzy, II wojna światowa, islam) w narracji dorosłego bohatera — nie lekcja historii.
+
+**Inspiration:** Manuskrypt Collection Eleven; YouTube -vRABYN-UAA (13.07.2026); YouTube -vRABYN-UAA (2026-07-13).
+
+---
+
+**World:**
+- objects: book
+- places: home, castle
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 13.07.2026 -> https://www.youtube.com/watch?v=-vRABYN-UAA  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.0.0 | 2026-08-27 | Esperanto translation edition |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 4/5 — Silna refleksja o sensie, rytuałach i akceptacji — dobry ton AlephBits dla dorosłych; nie dla dzieci. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eleven manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=-vRABYN-UAA  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2026-07-13  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**SANTAJ BATALANTOJ**
+
+Kiam mi havis dek du jarojn, mi unuafoje aŭdis pri templanoj. Mia patro, fascinita per la historio de la mezepoko, rakontis al mi pri ili vespere, kiam mi ne povis ekdormi. Li parolis pri blankaj manteloj kun ruĝaj krucoj, pri la sankta milito, pri tio, ke oni povas esti samtempe monaĥo kaj soldato. Tiam mi pensis, ke tio estas la plej mojosa afero en la mondo.
+
+Nun, dudek jarojn poste, mi sidas en mia varsovia loĝejo, aŭskultante la podkaston de Ator kaj Artur Wójtowicz. Verda lumo sur la ekrano, du voĉoj interplektiĝantaj en diskuto pri sanktaj batalantoj de diversaj kulturoj. Kaj mi sentas, ke io en mi tremas.
+
+---
+
+Artur parolas pri templanoj. Pri tio, kiel la ordeno estiĝis en 1119, post la konkero de Jerusalemo fare de la krucmilitistoj. Pri tio, kiel komence ili devis protekti pilgrimantojn, kaj poste fariĝis unu el la plej potencaj institucioj de la mezepoka mondo. Bankistoj, batalantoj, monaĥoj. Ĉio en unu.
+
+— Por la moderna homo tio povas ŝajni paradokso — diras Artur. — Kiel oni povas esti samtempe ordenmonaĥo kaj soldato?
+
+Mi aŭskultas kaj pensas pri mi mem. Pri tio, kiel forte mi kredis, ke la mondo estas simpla. Ke ekzistas bonaj kaj malbonaj. Ke oni povas esti nur unu el ili. Kaj poste mi plenkreskiĝis kaj vidis, ke ĉio estas pli komplika. Ke ĉiu batalanto havas siajn demonojn. Ke ĉiu sanktulo havas sian malhelan flankon.
+
+Ator parolas pri relikvoj. Pri tio, kiel la mezepokaj homoj kredis, ke la sanktuloj ankoraŭ intervenas en la vivo de homoj. Ke ili helpas en malsanoj, ke ili influas la rezultojn de bataloj. Kaj li ridas pri la relikvoj de la Sankta Spirito en Bytom, pri la sep kranioj de sankta Antonio, pri la arbaro, kiun oni povus fari el la pecoj de la sankta Kruco.
+
+— Tio estis la plej potenca armilo — diras Artur. — Kompreneble ekzistis produktado. Sed tio devis doni nekredeblan protekton.
+
+Kaj tiam mi rememoras, kiel kiel infano mi portis medalionon kun la Dipatrino. Mi kredis, ke ĝi protektas min kontraŭ ĉio. Ke mi estas sekura. Kaj poste mi ĉesis kredi. Kaj subite mi ĉesis senti min sekura.
+
+---
+
+Artur rakontas pri samurajoj. Pri Bushido, la vojo de la batalanto. Pri lojaleco, honoro, kuraĝo, preteco al morto. Pri tio, kiel la samurajo antaŭ la batalo skribis mortpoemon, esprimantan ne malesperon, sed pacigon kun la pasemo.
+
+— Tio estis tia akcepto de la sorto — li diras.
+
+Mi aŭskultas kaj pensas pri mia avo. Li estis soldato de la Hejma Armeo. Li neniam parolis pri la milito. Ĝis iun tagon, kiam mi estis pli aĝa, li rakontis al mi historion. Pri tio, kiel li vidis, kiel pereas liaj amikoj. Kiel li devis mortigi. Kiel post la milito dum jaroj li ne povis dormi. Kaj kiel fine li trovis trankvilon, ne en religio, sed en akcepto. En tio, ke li faris tion, kion li devis. Kaj ke ne havas sencon malesperi pri la pasinteco.
+
+— Ili ankaŭ havis siajn ritojn — diras Artur pri samurajoj. — Preĝoj en temploj, vizitoj al sanktejoj, oferoj por Kami, meditoj de Zeno.
+
+Kaj mi pensas, ke eble ni ĉiuj bezonas ritojn. Ke eble la batalantoj de ĉiuj tempoj kaj kulturoj bezonis ion, kio helpus al ili trakti la teruron, kiun ili sentis antaŭ la batalo. Ke eble ĝuste tiu bezono kreis templanojn, samurajojn, vikingojn, muĝahidojn.
+
+---
+
+Ator kaj Artur transiras al vikingoj. Al berserkoj, kiuj falis en batalan frenezon. Ili ne sentis doloron, ili ignoris vundojn, ili batalis kun superhoma forto.
+
+— La berserkoj regalis sin per infuzaĵoj kaj fumo — diras Artur. — Ili estis unu el la unuaj en la eŭropa tradicio batalantoj, kiuj iris al batalo drogitaj.
+
+Kaj tiam Ator rakontas pri la plej drogitaj soldato de la dua mondmilito. Pri la finna snajperisto, kiu englutis tutan ampolon da tablojdoj kaj dum du tagoj faris 200 kilometrojn sur skioj, mortigante survoje plurajn dekojn da rusoj.
+
+— Fakte la unua historia formo de drogado estis la jaguaraj batalantoj — diras Ator. — La aztekoj miksis al si kafosemojn kun graso kaj manĝis tion antaŭ la batalo.
+
+Mi aŭskultas kaj pensas pri tio, kiel forte homo kapablas sin trompi. Ke li bezonas kredon, por travivi. Ke li bezonas ion, kio faros, ke la morto havos sencon. Kaj ke tiu bezono estas tiel forta, ke ĝi kreas tutajn religiajn sistemojn, tutajn honorajn kodeksojn, tutajn kulturojn.
+
+---
+
+Artur parolas pri islamo. Pri tio, kiel la batalantoj kredis, ke la sorto de ĉiu homo estas konata al Dio jam antaŭ la naskiĝo. Ke se ilia horo ankoraŭ ne venis, ili ne pereos, eĉ en la plej malfacila batalo.
+
+— En la islama kulturo la vivo de homo estis rigardata kiel parto de la dia plano — li diras. — Kaj multaj batalantoj iris al batalo konvinkitaj, ke se ili devas perei, ili pereos, kaj se ne, ili transvivos.
+
+Kaj mi pensas pri tio, kiel forte tiu kredo devis esti konsoliga. Ke vi ne devas timi. Ke ĉio estas planita. Ke vi ne havas influon sur tio. Ke vi povas simple iri kaj batali, kaj la cetero ne dependas de vi.
+
+---
+
+Fine Artur parolas pri io, kio min plej forte kortuŝas. Pri tio, ke en ĉiuj tiuj kulturoj, distancaj unu de alia je miloj da kilometroj, aperadis similaj ritoj. Amuletoj, sanktaj objektoj, kulto de la mortintoj.
+
+— La batalanto post morto ne ĉiam malaperis el la mondo — li diras. — Li fariĝis nova sanktulo, nova heroo. Al li oni atribuis protekton. Al li oni revenis.
+
+Kaj tiam mi pensas pri mia avo. Pri tio, ke eble ankaŭ li estis sankta batalanto. Ne en religia senco. En homa senco. Homo, kiu faris tion, kion li devis, por travivi. Kaj kiu postlasis historion, kiu ankoraŭ vivas en mi.
+
+---
+
+Ator finas la konversacion, dankante al Artur. Mi malŝaltas la komputilon kaj rigardas tra la fenestro. Malantaŭ ĝi tremulas la lumoj de Varsovio. Milionoj da homoj, ĉiu kun siaj propraj militoj, siaj propraj demonoj, siaj propraj sanktuloj.
+
+Kaj mi pensas, ke eble ni ne bezonas kredon je dioj, por esti sanktaj batalantoj. Eble sufiĉas kredo je ni mem. Je tio, ke tio, kion ni faras, havas sencon. Ke ni povas esti pli bonaj. Ke ni povas travivi.
+
+Mi leviĝas, alproksimiĝas al la fenestro. En la malproksimo, kontraŭ la fono de la nokta ĉielo, mi ekvidas la unuajn stelojn. Kaj mi rememoras la vortojn de Artur pri samurajoj, kiuj antaŭ la batalo rigardis la stelojn kaj skribis poemojn pri la pasemo de la vivo.
+
+Eble ĝuste pri tio temas. Ne pri tio, por venki. Ne pri tio, por travivi. Sed pri tio, por doni al sia vivo sencon. Eĉ se tiu senco estas nur en via kapo. Eĉ se tio estas nur kredo, kiu helpas vin trairi la plej malhelajn noktojn.
+
+Mi turniĝas de la fenestro. En la ĉambro estas silente. Ie en la malproksimo aŭdiĝas sireno — eble ambulanco, eble polico. Iu batalas por sia vivo. Iu mortas. Iu naskiĝas.
+
+Kaj mi pensas, ke ni ĉiuj estas sanktaj batalantoj. Ĉiu laŭ sia maniero. Ĉiu kun siaj propraj amuletoj, siaj propraj ritoj, sia propra kredo. Ĉiu kun la espero, ke tio, kion ni faras, havas sencon.
+
+Kaj tio sufiĉas.
+
+**FINO**
+
+---
+
+## Quiz
+
+**Quiz title:** Kontrolu vian komprenon
+
+### Question 1
+
+**Question:** Kiom da jaroj havis la rakontanto, kiam li unuafoje aŭdis pri templanoj?
+
+**Answers:**
+- A) Dek
+- B) Dek du
+- C) Dek kvin
+- D) Sep
+
+**Correct:** B
+**Explanation:** La teksto diras: „Kiam mi havis dek du jarojn, mi unuafoje aŭdis pri templanoj."
+**Text reference:** dek du jarojn
+
+### Question 2
+
+**Question:** Kiun la rakontanto memoras kiel „sanktan batalanton" en la homa senco?
+
+**Answers:**
+- A) La patron
+- B) La avon el la Hejma Armeo
+- C) Artur Wójtowicz
+- D) Ator
+
+**Correct:** B
+**Explanation:** La avo estis soldato de la Hejma Armeo kaj trovis trankvilon en akcepto de la pasinteco.
+**Text reference:** avo
+
+### Question 3
+
+**Question:** Kion la rakontanto portis kiel infano?
+
+**Answers:**
+- A) Medalionon kun la Dipatrino
+- B) Ruĝan krucon
+- C) Samurajan amuleton
+- D) Ordonon
+
+**Correct:** A
+**Explanation:** Li rememoras medalionon kun la Dipatrino, en kiu li kredis kiel infano.
+**Text reference:** medalionon
+
+### Question 4
+
+**Question:** Kiun konkludon tiras la rakontanto fine?
+
+**Answers:**
+- A) Oni devas reveni al religio
+- B) Eble sufiĉas kredo je si mem kaj doni al la vivo sencon
+- C) Milito estas ĉiam justa
+- D) Ritoj estas senutilaj
+
+**Correct:** B
+**Explanation:** Li finas per la penso, ke eble ni ne bezonas kredon je dioj — sufiĉas kredo je ni mem.
+**Text reference:** kredo je ni mem
+
+### Question 5
+
+**Question:** Kie sidas la rakontanto dum aŭskultado de la podkasto?
+
+**Answers:**
+- A) En sia varsovia loĝejo
+- B) En Krakovo
+- C) En Poznań
+- D) En la vilaĝo ĉe la avo
+
+**Correct:** A
+**Explanation:** La rakonto komenciĝas de „mi sidas en mia varsovia loĝejo".
+**Text reference:** varsovia loĝejo
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*

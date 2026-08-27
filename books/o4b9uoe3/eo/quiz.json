@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Je kioma horo Kamila havas la limtempon de la prezento?",
+      "answers": [
+        "8:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "correctIndex": 1,
+      "explanation": "Limtempo: 12:00."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Kamila priskribas la funkciadon de sia cerbo?",
+      "answers": [
+        "Kiel aŭton sur neŭtrala transmisio",
+        "Kiel aviadilon bezonantan akcelon",
+        "Kiel horloĝon",
+        "Kiel radion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi diras, ke la cerbo funkcias kiel aviadilo — ĝi bezonas fuelon por ekflugi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da lumbildoj Kamila finas en hiperfokuso?",
+      "answers": [
+        "Dek",
+        "Tridek du",
+        "Kvin",
+        "Dudek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi finas la prezenton: tridek du lumbildoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la estrintino kritikas en la dekdua lumbildo?",
+      "answers": [
+        "La kolorojn",
+        "Datumojn sen sufiĉa pravigo",
+        "La mankon de titolo",
+        "Tro longan tekston"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi petas pli bonan pravigon de la datumoj en la dekdua lumbildo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kamila petas de la teamo pri rimarkoj?",
+      "answers": [
+        "Simple ilin ignori",
+        "Doni rimarkojn matene, kiam la baterio estas plena",
+        "Skribi ilin retletere",
+        "Paroli pri ili angle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi petas rimarkojn matene — posttagmeze la baterio estas je nulo."
+    }
+  ]
+}
