@@ -1,0 +1,24 @@
+{
+  "packId": "wu16hymq:eo",
+  "bookId": "wu16hymq",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-12",
+  "lastReviewedAt": "2026-07-12",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja inspirowana teorią Montauk; treści spiskowe są narracją, nie faktami katalogu."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "6jEFpcWo-oM"
+    }
+  ],
+  "revisionNotes": "Phase 102 import."
+}

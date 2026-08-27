@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kien Matołek volas atingi komence?",
+      "answers": [
+        "Al Pacanów",
+        "Al Varsovio",
+        "Al Afriko",
+        "Al la Luno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li ekvojaĝas al Pacanów, por ricevi hufumojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun Matołek renkontas sur la Luno?",
+      "answers": [
+        "Sinjoron Twardowski",
+        "Drakon el la montaro",
+        "Reĝon de simioj",
+        "Sorĉistinon el la kabano"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur la Luno li renkontas sinjoron Twardowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Matołek perdas en la urbo kun la stranga leĝo?",
+      "answers": [
+        "La barbon",
+        "La hufumojn",
+        "La pakaĵeton",
+        "La krurojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "En la urbo, kie barbuloj devas perdi ĝin, oni fortranĉas al li la barbon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie Matołek fine restas?",
+      "answers": [
+        "En Pollando inter siaj",
+        "En Pacanów por ĉiam",
+        "En Afriko kiel reĝo",
+        "Sur la Luno por ĉiam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li diras: „Mi restos! Mi neniam plu forlasos Pollandon.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu kudras al Matołek la kapon post la perdo de la barbo?",
+      "answers": [
+        "Ŝuisto",
+        "Sorĉistino",
+        "Reĝidino",
+        "Forĝisto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bonkora ŝuisto kudras al li la kapon reen al la trunko."
+    }
+  ]
+}

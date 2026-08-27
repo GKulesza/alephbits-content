@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion la patro de Kamil diris al li regule?",
+      "answers": [
+        "Vi estas vera geniulo",
+        "Vi estas mallaboremulo",
+        "Iru dormi frue",
+        "Mi amas vin ĉiam"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Vi estas mallaborema kiel neniu alia.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun libron legas Kamil?",
+      "answers": [
+        "Hari Poter",
+        "„Dziki ojciec\" de Szymon Grzelak",
+        "En la dezerto kaj en la praarbaro",
+        "1984"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li legas „Dziki ojciec\" de Grzelak pri etikedoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kamil diras al Adam post la triono en la kurtesto?",
+      "answers": [
+        "Ĉiam vi estis mallaboremulo kaj ĝena",
+        "Vi prepariĝis — jen persistemo",
+        "Iru en vian ĉambron nun",
+        "Neniam plu sporton por vi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Priskriba aprezo de la peno, ne de la noto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Adam diras pri la „mallaboremulo\" fine?",
+      "answers": [
+        "Li ankoraŭ kredas al la malnova etikedo de la patro",
+        "Li scias, ke li ne estas mallaboremulo — nur foje mankas motivado",
+        "Li malamas la paĉjon pro la malnovaj etikedoj",
+        "Li ne volas plu iri al la lernejo iam ajn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam: li ne estas mallaboremulo, foje mankas motivado — sed li povas ŝanĝi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Kamil reagas al la rompita lernoprojekto?",
+      "answers": [
+        "Li krios pri la neatento de la filo kaj liaj eraroj",
+        "Li trankvile demandas, kio okazis kaj kion fari",
+        "Li aĉetas novan projekton al la filo",
+        "Li nuligas la lecionojn por ĉiam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li demandas pri la solvo kaj la leciono por la estonteco."
+    }
+  ]
+}

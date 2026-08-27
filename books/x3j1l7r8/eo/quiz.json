@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio ekfunkciigas la ĉefan konflikton en la rakonto de Adam?",
+      "answers": [
+        "La premiero de la nova konzolo de Nintendo en Japanio",
+        "La informo, ke Sony ĉesos produkti diskojn en 2028",
+        "La granda altiĝo de prezoj de televidiloj",
+        "La fermo de la serviloj de Steam"
+      ],
+      "correctIndex": 1,
+      "explanation": "La titolo pri la fino de novaj fizikaj eldonoj vekas lian reagon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la frazo pri la \"nuligebla licenco\" tiel forte efikas sur Adam?",
+      "answers": [
+        "Ĉar li neniam aĉetis ciferecajn ludojn kaj filmon",
+        "Ĉar ĝi montras la diferencon inter aliro kaj posedo",
+        "Ĉar li volas aĉeti kaj vendi licencojn",
+        "Ĉar ĝi koncernas nur la filmojn kaj seriojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam ligas tion kun la risko de perdo de aliro al aĉetita enhavo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun unuan konkretan decidon faras Adam post la anonco de Sony?",
+      "answers": [
+        "Li vendas ĉiujn siajn diskoludojn en la reto",
+        "Li nuligas la abonon de PlayStation Plus",
+        "Li aĉetas plian novan konzolon",
+        "Li ĉesas uzi la interreton tute"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la sekcio pri abonoj li eniras la agordojn de la konto kaj rezignas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian pli larĝan investon rimarkas Adam post la deklaroj de Ybarra kaj Mélenchon?",
+      "answers": [
+        "Disputon pri la koloro kaj grandeco de la skatoloj",
+        "Demandon pri konsumantaj rajtoj kaj cifereca proprieto",
+        "Nur la francan prezidentan balotkampanjon",
+        "Militon inter PC kaj poŝtelefonoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "De adoranta kolero li transiras al disputo pri cifereca proprieto kaj kulturo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion esprimas la viral afiŝo de Adam fine?",
+      "answers": [
+        "Koleron kontraŭ ĉiuj retaj ludoj kaj servoj",
+        "Pretecon rezigni pri la estonta konzolo, se la posedo ne ŝanĝiĝos",
+        "Peton pri senpagaj ludoj de Sony por ĉiuj",
+        "Planon malfermi propran vendejon de diskoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li skribas, ke li ne aĉetos PS6, se Sony realigos tiun planon."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la verko en la rakonto?",
+      "answers": [
+        "Kaze no Prologue",
+        "Silento antaŭ la ŝtormo",
+        "Prologo de la vento",
+        "Malpermesita Energio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko filmas muzikfilmeton por „Kaze no Prologue\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie oni filmas la muzikfilmeton?",
+      "answers": [
+        "Sur la plaĝo en Chiba je mateniĝo",
+        "En sonstudio en Los-Anĝeleso",
+        "Ĉe la stacidomo en Varsovio",
+        "En la montoj de Hokajdo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La administranto skribas pri la plaĝo en Chiba je la 5:00 matene."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian mesaĝon portas la kanto?",
+      "answers": [
+        "Oni povas komenci de nove",
+        "La vento estas danĝera",
+        "La kariero finiĝas",
+        "La plaĝo estas malbona"
+      ],
+      "correctIndex": 0,
+      "explanation": "La kanto parolas pri nova komenco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas la ĉefa rolulino?",
+      "answers": [
+        "Yumiko",
+        "Maria",
+        "Anna",
+        "Kasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yumiko aŭdas la kanton kaj filmas la muzikfilmeton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Je kioma horo okazos la fotado?",
+      "answers": [
+        "Je la kvina matene",
+        "Je la tagmezo",
+        "Je la noktomezo",
+        "Je la dudeka horo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La administranto indikas la 5:00 matene."
+    }
+  ]
+}
