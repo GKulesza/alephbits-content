@@ -319,10 +319,10 @@ Kaj tiam ŝi komprenis, ke ĝuste tion ŝi faris. Ŝi denove enloĝiĝis en sian
 **Question:** Kion Ewa sentas tuj post la reveno de la meditaj laborgrupoj?
 
 **Answers:**
-- A) Ĝojon, ke la loĝejo estas perfekte pura
+- A) Ĝojon, ke la loĝejo denove estas perfekte pura kaj orda
 - B) Seniluziiĝon kaj perdon de energio antaŭ la konata kaoso
-- C) Indiferenton al la malordo
-- D) Deziron tuj translokiĝi
+- C) Plenan indiferenton al la malordo en la ĉambroj
+- D) Deziron tuj translokiĝi al alia urbo
 
 **Correct:** B
 **Explanation:** Post semajno en la centro ŝi revenas al la sama malordo kaj sentas, kiel la energio ŝin forlasas.
@@ -334,9 +334,9 @@ Kaj tiam ŝi komprenis, ke ĝuste tion ŝi faris. Ŝi denove enloĝiĝis en sian
 
 **Answers:**
 - A) Ŝia iama kunloĝantino Asia, kiu venigas Martan
-- B) Hazarda najbaro el la supra etaĝo
-- C) Pastro el la paroĥo
-- D) Nemoveblaĵa agento
+- B) Hazarda najbaro el la supra etaĝo de la domo
+- C) Pastro el la paroĥo, kiu konas la familion
+- D) Nemoveblaĵa agento de la agentejo en la centro
 
 **Correct:** A
 **Explanation:** Asia vizitas Ewan kaj proponas kontakton kun virino, kiu helpas homojn ordigi loĝejojn.
@@ -348,9 +348,9 @@ Kaj tiam ŝi komprenis, ke ĝuste tion ŝi faris. Ŝi denove enloĝiĝis en sian
 
 **Answers:**
 - A) Temas pri konstruado de domo, ne pri enloĝiĝo en sian vivon
-- B) Ŝi volas tuj vendi la loĝejon
-- C) Ŝi decidas fariĝi arĥitektino
-- D) Ŝi opinias, ke la malordo estas familia heredaĵo
+- B) Ŝi volas tuj vendi la loĝejon kaj forlasi la urbon
+- C) Ŝi decidas fariĝi arĥitektino kaj projektadi domojn
+- D) Ŝi opinias, ke la malordo estas heredita familia heredaĵo
 
 **Correct:** A
 **Explanation:** La fina pripensado diras rekte, ke ne temas pri la domo, sed pri tio, por enloĝi ĝin.
@@ -363,8 +363,8 @@ Kaj tiam ŝi komprenis, ke ĝuste tion ŝi faris. Ŝi denove enloĝiĝis en sian
 **Answers:**
 - A) Kiel manieron pliigi la merkatan valoron de la loĝejo
 - B) Kiel ion, kio donas spiron kaj permesas decidi, kio plu
-- C) Kiel devon de ĉiu virino post la tridek
-- D) Kiel anstataŭaĵon de farmakologia terapio
+- C) Kiel devon de ĉiu virino post la tridekaj jaroj
+- D) Kiel anstataŭaĵon de psikologia aŭ farmakologia terapio
 
 **Correct:** B
 **Explanation:** Marta diras, ke spaco, kiu favoras, donas spiron, kaj poste oni povas decidi, kion fari kun ĝi.
@@ -375,10 +375,10 @@ Kaj tiam ŝi komprenis, ke ĝuste tion ŝi faris. Ŝi denove enloĝiĝis en sian
 **Question:** Kio estas la fina stato de Ewa rilate al ŝiaj aĵoj?
 
 **Answers:**
-- A) Ŝi restas radikala minimalistino sen rememoroj
+- A) Ŝi restas radikala minimalistino sen rememoroj kaj sen propraj aĵoj
 - B) Ŝi konservas tion, kion ŝi amas, sed ĉesas porti la aĵojn kiel balaston
-- C) Ŝi transdonas la loĝejon al la fratino
-- D) Ŝi tute ĉesas ordigi
+- C) Ŝi transdonas la loĝejon al la fratino kaj foriras al la maro por ĉiam
+- D) Ŝi tute ĉesas ordigi kaj ĝuas vivi senzorge en la malordo
 
 **Correct:** B
 **Explanation:** La epilogo substrekas, ke ŝi havas aĵojn kaj rememorojn, sed ili jam ne estas balasto.

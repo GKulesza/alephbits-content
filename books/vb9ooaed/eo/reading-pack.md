@@ -207,9 +207,9 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 
 **Answers:**
 - A) Kompreni la agadon de la aparato
-- B) Analizi nur la tekstojn
-- C) Atendi la komputilon
-- D) Ignori la dokumentaron
+- B) Analizi nur la tekstojn kaptitajn el la radio
+- C) Atendi la komputilon kaj la kalkuladon
+- D) Ignori la dokumentaron de la germana stabo
 
 **Correct:** A
 **Explanation:** Rejewski diras, ke oni devas kompreni la maŝinon — tio estas matematiko.
@@ -221,9 +221,9 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 
 **Answers:**
 - A) La alfabeta ordo en la konektoj
-- B) Hazardaj konektoj
-- C) Manko de rotoroj
-- D) Unu ŝlosilo jare
+- B) Hazardaj konektoj de la konstantaj ŝtifoj
+- C) Manko de rotoroj en la ĉifrilo de la armeo
+- D) Unu ŝlosilo jare por la tuta germana armeo
 
 **Correct:** A
 **Explanation:** La konstruistoj elektis la alfabetan ordon.
@@ -235,9 +235,9 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 
 **Answers:**
 - A) Aparato simulantaj Enigmojn
-- B) Pafarmilo
-- C) Vetera instrumento
-- D) Instrua libro
+- B) Pafarmilo uzata de la germana soldato
+- C) Vetera instrumento por antaŭdiri la pluvon
+- D) Instrua libro pri la historio de la milito
 
 **Correct:** A
 **Explanation:** La bombo simulas la agadon de multaj Enigmoj.
@@ -264,8 +264,8 @@ Kaj sub ili – surskribo, kiu diras ĉion: "Ĉi tie komenciĝis la historio de 
 **Answers:**
 - A) Tio estas matematiko, ne lingvo
 - B) Tio estas neebla por rompi
-- C) Tio estas nur legendo
-- D) Tio estas usona invento
+- C) Tio estas nur legendo pri la mistera maŝino
+- D) Tio estas usona invento de la sekreta servo
 
 **Correct:** A
 **Explanation:** Li emfazas, ke oni devas pensi matematike.

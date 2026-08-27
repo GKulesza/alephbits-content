@@ -43,9 +43,9 @@
         "question": "Kiun aliron Rejewski proponas al Enigmo?",
         "answers": [
           "Kompreni la agadon de la aparato",
-          "Analizi nur la tekstojn",
-          "Atendi la komputilon",
-          "Ignori la dokumentaron"
+          "Analizi nur la tekstojn kaptitajn el la radio",
+          "Atendi la komputilon kaj la kalkuladon",
+          "Ignori la dokumentaron de la germana stabo"
         ],
         "correctIndex": 0,
         "explanation": "Rejewski diras, ke oni devas kompreni la maŝinon — tio estas matematiko."
@@ -55,9 +55,9 @@
         "question": "Kiun malfortecon de la germanoj malkovras Rejewski?",
         "answers": [
           "La alfabeta ordo en la konektoj",
-          "Hazardaj konektoj",
-          "Manko de rotoroj",
-          "Unu ŝlosilo jare"
+          "Hazardaj konektoj de la konstantaj ŝtifoj",
+          "Manko de rotoroj en la ĉifrilo de la armeo",
+          "Unu ŝlosilo jare por la tuta germana armeo"
         ],
         "correctIndex": 0,
         "explanation": "La konstruistoj elektis la alfabetan ordon."
@@ -67,9 +67,9 @@
         "question": "Kio estas la kriptologia bombo?",
         "answers": [
           "Aparato simulantaj Enigmojn",
-          "Pafarmilo",
-          "Vetera instrumento",
-          "Instrua libro"
+          "Pafarmilo uzata de la germana soldato",
+          "Vetera instrumento por antaŭdiri la pluvon",
+          "Instrua libro pri la historio de la milito"
         ],
         "correctIndex": 0,
         "explanation": "La bombo simulas la agadon de multaj Enigmoj."
@@ -92,8 +92,8 @@
         "answers": [
           "Tio estas matematiko, ne lingvo",
           "Tio estas neebla por rompi",
-          "Tio estas nur legendo",
-          "Tio estas usona invento"
+          "Tio estas nur legendo pri la mistera maŝino",
+          "Tio estas usona invento de la sekreta servo"
         ],
         "correctIndex": 0,
         "explanation": "Li emfazas, ke oni devas pensi matematike."

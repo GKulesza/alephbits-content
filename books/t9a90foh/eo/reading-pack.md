@@ -133,9 +133,9 @@ La patrino rigardis siajn manojn. Kaj tiam ŝi komprenis, ke la plej grava afero
 
 **Answers:**
 - A) Instruistino pri legado en la antaŭlerneja klaso
-- B) Kuracistino
-- C) Lernejdirektorino
-- D) Aŭtorino de lernolibroj
+- B) Kuracistino laboranta en la urba hospitalo
+- C) Lernejdirektorino de la elementa lernejo
+- D) Aŭtorino de lernolibroj pri legado por infanoj
 
 **Correct:** A
 **Explanation:** Ŝi jam dudek jarojn instruas legadon en la antaŭlerneja klaso.
@@ -161,9 +161,9 @@ La patrino rigardis siajn manojn. Kaj tiam ŝi komprenis, ke la plej grava afero
 
 **Answers:**
 - A) Li rekonas bildojn el la aplikaĵo
-- B) Li ne konas la alfabeton
-- C) Li ne iras al lernejo
-- D) Li havas vidan difekton
+- B) Li tute ne konas la literojn de la alfabeto
+- C) Li ne iras al lernejo kaj ne havas librojn
+- D) Li havas vidan difekton kaj ne vidas la paĝojn
 
 **Correct:** A
 **Explanation:** La aplikaĵo montras vortojn kun bildoj — tio estas asociego, ne legado.
@@ -175,9 +175,9 @@ La patrino rigardis siajn manojn. Kaj tiam ŝi komprenis, ke la plej grava afero
 
 **Answers:**
 - A) Ŝi legas al la infano librojn kaj ekzercas la silabojn
-- B) Ŝi aĉetas novan tabulkomputilon
-- C) Ŝi enskribas la filon al sporto
-- D) Ŝi ŝanĝas lernejon
+- B) Ŝi aĉetas novan tabulkomputilon kun pli da aplikoj por infanoj
+- C) Ŝi enskribas la filon al sporto en la loka sporta klubo
+- D) Ŝi ŝanĝas lernejon kaj transloĝiĝas al alia urbo
 
 **Correct:** A
 **Explanation:** Post unu monato la patrino legas librojn kaj montras silabojn — la knabo komencas legi.
@@ -189,9 +189,9 @@ La patrino rigardis siajn manojn. Kaj tiam ŝi komprenis, ke la plej grava afero
 
 **Answers:**
 - A) Ke estis la patrino, kiu instruis la knabon legi
-- B) Ke la aplikaĵo sufiĉas
-- C) Ke la infano ne taŭgas por lernado
-- D) Ke kulpas la lernejo
+- B) Ke la aplikaĵo sufiĉas por la lernado de la knabo
+- C) Ke la infano ne taŭgas por lernado en la lernejo
+- D) Ke kulpas la lernejo kaj la instruistino
 
 **Correct:** A
 **Explanation:** Ŝi diras: „Ne mi. Vi."
