@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kion la profesoro diras pri la normo por la indikilo HOMA?",
         "answers": [
-          "Ke la normo estas sub 2",
+          "Ke la normo estas sub 2 por la indikilo",
           "Ke ne ekzistas establita klinika normo",
-          "Ke la normo estas 5",
-          "Ke la normo dependas de la aĝo"
+          "Ke la normo estas 5 por la sanaj pacientoj",
+          "Ke la normo dependas de la aĝo kaj de la sekso"
         ],
         "correctIndex": 1,
         "explanation": "Li diras rekte: por tiu indikilo ne ekzistas normo."
@@ -67,9 +67,9 @@
         "question": "Kiun malsanon la profesoro atribuas al Kasia anstataŭ „insulinrezisto\"?",
         "answers": [
           "Diabeto de tipo 1",
-          "Obezeco — kodo ICD E66",
-          "Anemio",
-          "Depresio"
+          "Obezeco — ICD E66",
+          "Fera anemio",
+          "Severa depresio"
         ],
         "correctIndex": 1,
         "explanation": "Li diras: vi havas obezecon, kodo E66 — tio estas malsano."
@@ -78,10 +78,10 @@
         "type": "single_choice",
         "question": "Kiun medikamenton la profesoro preskribas al Kasia?",
         "answers": [
-          "Metforminon",
+          "Metforminon kaj striktan dieton",
           "Ozempic (analogo de GLP-1)",
-          "Insulinon",
-          "Aspirinon"
+          "Insulinon por la ĉiutagaj injektoj",
+          "Aspirinon por la koro kaj la sango"
         ],
         "correctIndex": 1,
         "explanation": "Recepto: Ozempic unufoje semajne."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kiu fariĝas Kasia jaron poste?",
         "answers": [
-          "Flegistino",
-          "Volontulino en edukprogramo por pacientoj kun diabeto",
-          "Dietistino",
-          "Profesoro"
+          "Flegistino en la granda diabetologia kliniko",
+          "Volontulino en edukprogramo por diabetuloj",
+          "Dietistino en la granda urba hospitalo",
+          "Profesoro en la medicina universitato"
         ],
         "correctIndex": 1,
         "explanation": "La profesoro proponas volontuladon en la edukprogramo."

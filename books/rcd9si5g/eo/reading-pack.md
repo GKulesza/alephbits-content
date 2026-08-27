@@ -287,10 +287,10 @@ Kaj ke tion, kio estas plej grava, ŝi jam havas – amon, kiu travivis ĉiujn e
 **Question:** Kion Tomek memoras el la infanaĝo, kio dolorigas Annan?
 
 **Answers:**
-- A) Nur donacojn
+- A) Nur donacojn kaj la festojn de la familio
 - B) Ke panjo ofte kriis kaj nuligis la iron al kinejo
-- C) Nur feriojn
-- D) Nenion
+- C) Nur feriojn pasigitajn ĉe la avino en la vilaĝo
+- D) Nenion pri la infanaĝo kaj la hejmo de la gepatroj
 
 **Correct:** B
 **Explanation:** Tomek rememoras la krion kaj la nuligitan kinejon.
@@ -301,10 +301,10 @@ Kaj ke tion, kio estas plej grava, ŝi jam havas – amon, kiu travivis ĉiujn e
 **Question:** Por kio Anna skribas la liston?
 
 **Answers:**
-- A) Por la najbaroj
+- A) Por la najbaroj, kiuj kritikas ŝian edukadon ĉiutage
 - B) Por kompreni la erarojn kaj ion ŝanĝi — ne por kulpigi sin
-- C) Por la tribunalo
-- D) Por la lernejo
+- C) Por la tribunalo, por la proceso pri la prizorgo de la infano
+- D) Por la lernejo, por la instruistino de la juna Tomek
 
 **Correct:** B
 **Explanation:** Ŝi skribis la liston por kompreni kaj ŝanĝi, ne por kulpigi sin.
@@ -315,10 +315,10 @@ Kaj ke tion, kio estas plej grava, ŝi jam havas – amon, kiu travivis ĉiujn e
 **Question:** Kion Tomek faras kun la malnovaj fotoj?
 
 **Answers:**
-- A) Li forĵetas ilin
+- A) Li forĵetas ilin en la rubujon post la forigo
 - B) Li skanas ilin kaj ordigas albumon de rememoroj
-- C) Li vendas ilin
-- D) Li bruligas ilin
+- C) Li vendas ilin al la antikvaĵisto de la urbo
+- D) Li bruligas ilin en la forno de la domo
 
 **Correct:** B
 **Explanation:** Tomek skanas la fotojn el la kesto — „niaj rememoroj".
@@ -329,10 +329,10 @@ Kaj ke tion, kio estas plej grava, ŝi jam havas – amon, kiu travivis ĉiujn e
 **Question:** Kion Tomek skribas pri la listo de bedaŭroj?
 
 **Answers:**
-- A) Li estas kolera
-- B) Li estas danka — videblas, ke panjo zorgas kaj amas lin
-- C) Li ignoras la patrinon
-- D) Li volas monon
+- A) Li estas kolera pri la pasinteco kaj la eraroj
+- B) Li estas danka — panjo zorgas kaj amas lin
+- C) Li ignoras la patrinon kaj ne legas la liston
+- D) Li volas monon de la patrino por la studoj
 
 **Correct:** B
 **Explanation:** Tomek: la listo montras, ke ŝi zorgas kaj amas — tio estas la plej grava.

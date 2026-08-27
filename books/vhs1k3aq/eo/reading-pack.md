@@ -327,10 +327,10 @@ La ĥoro de voĉoj, kiuj sonis en ili – la voĉoj de gepatroj, geavoj, tutaj g
 **Question:** Pri kio kverelas Magda kaj Tomek komence de la rakonto?
 
 **Answers:**
-- A) Pri disiĝo
-- B) Pri tio, ke Franek ne malŝaltis la tablojdon post la ekrana tempo
-- C) Pri la ferioj
-- D) Pri la laboro de Magda
+- A) Pri la ebla disiĝo de la gepatroj de Franek
+- B) Pri tio, ke Franek ne malŝaltis la tablojdon
+- C) Pri la ferioj de la tuta familio en la montoj
+- D) Pri la laboro de Magda kaj ŝiaj troaj okupoj
 
 **Correct:** B
 **Explanation:** Franek ludis futbalon sur la tablojdo post la 18:45.
@@ -341,10 +341,10 @@ La ĥoro de voĉoj, kiuj sonis en ili – la voĉoj de gepatroj, geavoj, tutaj g
 **Question:** Kion Franek demandas la patrinon post la kverelo?
 
 **Answers:**
-- A) Ĉu li ricevos la tablojdon
+- A) Ĉu li ricevos la tablojdon por la vespero
 - B) Ĉu la gepatroj ankoraŭ amas unu la alian
-- C) Ĉu ili iros al kinejo
-- D) Ĉu Zosia estas malsana
+- C) Ĉu ili iros al kinejo kun la tuta familio
+- D) Ĉu Zosia estas malsana kaj bezonas kuraciston
 
 **Correct:** B
 **Explanation:** Franek demandas rekte: „Ĉu vi ankoraŭ amas unu la alian?"
@@ -369,10 +369,10 @@ La ĥoro de voĉoj, kiuj sonis en ili – la voĉoj de gepatroj, geavoj, tutaj g
 **Question:** Kiel Tomek reagas, kiam Franek petas antaŭan averton antaŭ forpreno de la tablojdo?
 
 **Answers:**
-- A) Li krias
+- A) Li krias kaj koleras pro la postulo
 - B) Li ridetas kaj diras „Interkonsento staras"
-- C) Li ignoras la filon
-- D) Li ordonas iri dormi
+- C) Li ignoras la filon kaj ŝanĝas la temon tute
+- D) Li ordonas al la filo iri tuj dormi
 
 **Correct:** B
 **Explanation:** Tomek akceptas la proponon kaj diras: „Interkonsento staras".
@@ -383,10 +383,10 @@ La ĥoro de voĉoj, kiuj sonis en ili – la voĉoj de gepatroj, geavoj, tutaj g
 **Question:** Kion signifas la metaforo de la „ĥoro de voĉoj" en la finalo?
 
 **Answers:**
-- A) Ke la infanoj devus silenti
-- B) Ke en la gepatroj sonas la voĉoj de antaŭaj generacioj, kiujn ili lernas aŭskulti kaj transformi
-- C) Ke la familio kantas en preĝejo
-- D) Ke Tomek fariĝas kantisto
+- A) Ke la infanoj devus silenti kaj ne ĝeni la plenkreskulojn
+- B) Ke en la gepatroj sonas la voĉoj de antaŭaj generacioj
+- C) Ke la familio kantas en la preĝejo dum la meso
+- D) Ke Tomek fariĝas kantisto en la urba ĥoro
 
 **Correct:** B
 **Explanation:** Tomek kaj Magda lernas aŭskulti la voĉojn de gepatroj/geavoj kaj „kanti sian propran melodion".

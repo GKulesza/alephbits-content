@@ -388,10 +388,10 @@ Kaj ŝi komencis rakonti.
 **Question:** Kion la profesoro diras pri la normo por la indikilo HOMA?
 
 **Answers:**
-- A) Ke la normo estas sub 2
+- A) Ke la normo estas sub 2 por la indikilo
 - B) Ke ne ekzistas establita klinika normo
-- C) Ke la normo estas 5
-- D) Ke la normo dependas de la aĝo
+- C) Ke la normo estas 5 por la sanaj pacientoj
+- D) Ke la normo dependas de la aĝo kaj de la sekso
 
 **Correct:** B
 **Explanation:** Li diras rekte: por tiu indikilo ne ekzistas normo.
@@ -403,9 +403,9 @@ Kaj ŝi komencis rakonti.
 
 **Answers:**
 - A) Diabeto de tipo 1
-- B) Obezeco — kodo ICD E66
-- C) Anemio
-- D) Depresio
+- B) Obezeco — ICD E66
+- C) Fera anemio
+- D) Severa depresio
 
 **Correct:** B
 **Explanation:** Li diras: vi havas obezecon, kodo E66 — tio estas malsano.
@@ -416,10 +416,10 @@ Kaj ŝi komencis rakonti.
 **Question:** Kiun medikamenton la profesoro preskribas al Kasia?
 
 **Answers:**
-- A) Metforminon
+- A) Metforminon kaj striktan dieton
 - B) Ozempic (analogo de GLP-1)
-- C) Insulinon
-- D) Aspirinon
+- C) Insulinon por la ĉiutagaj injektoj
+- D) Aspirinon por la koro kaj la sango
 
 **Correct:** B
 **Explanation:** Recepto: Ozempic unufoje semajne.
@@ -430,10 +430,10 @@ Kaj ŝi komencis rakonti.
 **Question:** Kiu fariĝas Kasia jaron poste?
 
 **Answers:**
-- A) Flegistino
-- B) Volontulino en edukprogramo por pacientoj kun diabeto
-- C) Dietistino
-- D) Profesoro
+- A) Flegistino en la granda diabetologia kliniko
+- B) Volontulino en edukprogramo por diabetuloj
+- C) Dietistino en la granda urba hospitalo
+- D) Profesoro en la medicina universitato
 
 **Correct:** B
 **Explanation:** La profesoro proponas volontuladon en la edukprogramo.

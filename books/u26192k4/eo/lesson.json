@@ -42,10 +42,10 @@
         "type": "single_choice",
         "question": "Kion la filo krias en la koŝmaro?",
         "answers": [
-          "„Mi volas glaciaĵon\"",
+          "„Mi volas glaciaĵon kaj novan ludilon el la butiko apud nia domo\"",
           "„Disbatita aviadilo! Ĝi brulas! Malgranda homo ne povas eliri!\"",
-          "„Mi timas la mallumon\"",
-          "„Kie estas panjo?\""
+          "„Mi timas la mallumon en la ĉambro de mia pli juna frato kaj fratino\"",
+          "„Kie estas panjo kaj kial ŝi foriris el la domo nokte?\""
         ],
         "correctIndex": 1,
         "explanation": "Li ripetas la samajn vortojn ĉiunokte."
@@ -54,10 +54,10 @@
         "type": "single_choice",
         "question": "Kiel la filo ludas per la aviadiloj?",
         "answers": [
-          "Li flugigas ilin",
+          "Li flugigas ilin tra la ĉambro de la infaneto",
           "Li disbatas ilin — frapas unu per la alia",
-          "Li kolektas ilin",
-          "Li pentras ilin"
+          "Li kolektas ilin kaj metas sur la breton",
+          "Li pentras ilin per la koloroj de la krajonoj"
         ],
         "correctIndex": 1,
         "explanation": "Li disbatas la ludilojn, ĝis la flugiloj defalas."
@@ -66,10 +66,10 @@
         "type": "single_choice",
         "question": "Kiujn tri nomojn la filo citas?",
         "answers": [
-          "Adam, Ewa, Noa",
-          "Billy, Walter kaj Leon",
-          "Jan, Petro, Paŭlo",
-          "Tom, Dick, Harry"
+          "Adam, Ewa kaj Noa, la tri fratoj",
+          "Billy, Walter kaj Leon — la pilotoj",
+          "Jan, Petro kaj Paŭlo, la tri apostoloj",
+          "Tom, Dick kaj Harry, la tri amikoj"
         ],
         "correctIndex": 1,
         "explanation": "Li montras tri disbatitajn aviadilojn kaj donas tiujn nomojn."
@@ -90,10 +90,10 @@
         "type": "single_choice",
         "question": "Kion la filo diras matene post la lasta koŝmaro pri Leon?",
         "answers": [
-          "Ke Leon pereis",
+          "Ke Leon pereis en la batalo super la granda urbo dum la lasta nokto",
           "„Jes, paĉjo. Ĉiuj. Ili estas tie.\" — kaj montras la ĉielon",
-          "Ke li timas aviadilojn",
-          "Nenion"
+          "Ke li timas aviadilojn kaj ne volas flugi denove en la vivo",
+          "Nenion, ĉar li ankoraŭ dormas duondorme kaj apenaŭ parolas"
         ],
         "correctIndex": 1,
         "explanation": "Li diras, ke ĉiuj revenis — ili estas tie, montrante la ĉielon."

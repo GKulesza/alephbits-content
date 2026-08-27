@@ -379,10 +379,10 @@ Kaj tio estis la plej grava.
 **Question:** Kiel Ala reagas al la unuaj lecionoj de legado?
 
 **Answers:**
-- A) Kun entuziasmo kaj rapida progreso
+- A) Kun entuziasmo kaj rapida progreso en la lernado de la unuaj literoj
 - B) Ŝi forturnas la rigardon kaj diras, ke tio estas laboro, ne ludo
-- C) Ŝi tuj legas tutajn frazojn
-- D) Ŝi petas pliajn librojn
+- C) Ŝi tuj legas tutajn frazojn kaj librojn
+- D) Ŝi petas pliajn librojn de la patrino
 
 **Correct:** B
 **Explanation:** La kvarjara Ala forpuŝas la manon de la patrino kaj diras, ke tio ne estas ludo, sed laboro.
@@ -393,10 +393,10 @@ Kaj tio estis la plej grava.
 **Question:** Kion Kasia pripensis, sed fine ne elektis la pli facilan vojon?
 
 **Answers:**
-- A) Laso de la filino ĉe la geavoj
-- B) Anstataŭigo de la libroj per tablojdo kaj desegnofilmo anstataŭ tempo
-- C) Sendado de la filino al lernejo eksterlande
-- D) Rezigno de la lernado de legado
+- A) Laso de la filino ĉe la geavoj por la tuta tago
+- B) Anstataŭigo de la libroj per tablojdo kaj desegnofilmoj
+- C) Sendado de la filino al lernejo eksterlande por la jaro
+- D) Rezigno de la lernado de legado ĝis la lernejo
 
 **Correct:** B
 **Explanation:** La fina pripenso diras, ke ŝi povus doni tablojdon kaj desegnofilmon anstataŭ tempo, sed ŝi ne faris tion.
@@ -421,10 +421,10 @@ Kaj tio estis la plej grava.
 **Question:** Kion Kasia faras, por direkti la atenton de la filino al la literoj?
 
 **Answers:**
-- A) Ŝi malŝaltas la lumon
-- B) Ŝi tuŝas per la fingro la mentonon de Ala, por direkti la rigardon
-- C) Ŝi donas al ŝi bombonon
-- D) Ŝi ŝaltas la televidilon
+- A) Ŝi malŝaltas la lumon en la ĉambro de la filino por plena trankvilo
+- B) Ŝi tuŝas per la fingro la mentonon de Ala por direkti la rigardon
+- C) Ŝi donas al ŝi bombonon por la bona konduto dum la leciono
+- D) Ŝi ŝaltas la televidilon kun la infanaj programoj pri la literoj
 
 **Correct:** B
 **Explanation:** Kasia tuŝas per la fingro la mentonon de la filino, por direkti ŝian rigardon al la karteto.
@@ -435,10 +435,10 @@ Kaj tio estis la plej grava.
 **Question:** Kion Kasia konsideras la plej grava fine?
 
 **Answers:**
-- A) Ke la filino ĉesis lerni
-- B) Ke ŝi ne iris la pli facilan vojon kaj ne rezignis pri la pacienco
-- C) Ke ŝi vendis ĉiujn librojn
-- D) Ke la filino forveturis al la avino
+- A) Ke la filino ĉesis lerni la legadon tute kaj tuj
+- B) Ke ŝi ne elektis la pli facilan vojon kaj ne rezignis
+- C) Ke ŝi vendis ĉiujn librojn de la filino en la urbo
+- D) Ke la filino forveturis al la avino por la tuta somero
 
 **Correct:** B
 **Explanation:** Ŝi finas per la penso, ke povus iri alie, sed ŝi ne faris tion — kaj tio estis la plej grava.

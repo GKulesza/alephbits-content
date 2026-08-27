@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Tomek memoras el la infanaĝo, kio dolorigas Annan?",
       "answers": [
-        "Nur donacojn",
+        "Nur donacojn kaj la festojn de la familio",
         "Ke panjo ofte kriis kaj nuligis la iron al kinejo",
-        "Nur feriojn",
-        "Nenion"
+        "Nur feriojn pasigitajn ĉe la avino en la vilaĝo",
+        "Nenion pri la infanaĝo kaj la hejmo de la gepatroj"
       ],
       "correctIndex": 1,
       "explanation": "Tomek rememoras la krion kaj la nuligitan kinejon."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Por kio Anna skribas la liston?",
       "answers": [
-        "Por la najbaroj",
+        "Por la najbaroj, kiuj kritikas ŝian edukadon ĉiutage",
         "Por kompreni la erarojn kaj ion ŝanĝi — ne por kulpigi sin",
-        "Por la tribunalo",
-        "Por la lernejo"
+        "Por la tribunalo, por la proceso pri la prizorgo de la infano",
+        "Por la lernejo, por la instruistino de la juna Tomek"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi skribis la liston por kompreni kaj ŝanĝi, ne por kulpigi sin."
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion Tomek faras kun la malnovaj fotoj?",
       "answers": [
-        "Li forĵetas ilin",
+        "Li forĵetas ilin en la rubujon post la forigo",
         "Li skanas ilin kaj ordigas albumon de rememoroj",
-        "Li vendas ilin",
-        "Li bruligas ilin"
+        "Li vendas ilin al la antikvaĵisto de la urbo",
+        "Li bruligas ilin en la forno de la domo"
       ],
       "correctIndex": 1,
       "explanation": "Tomek skanas la fotojn el la kesto — „niaj rememoroj\"."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion Tomek skribas pri la listo de bedaŭroj?",
       "answers": [
-        "Li estas kolera",
-        "Li estas danka — videblas, ke panjo zorgas kaj amas lin",
-        "Li ignoras la patrinon",
-        "Li volas monon"
+        "Li estas kolera pri la pasinteco kaj la eraroj",
+        "Li estas danka — panjo zorgas kaj amas lin",
+        "Li ignoras la patrinon kaj ne legas la liston",
+        "Li volas monon de la patrino por la studoj"
       ],
       "correctIndex": 1,
       "explanation": "Tomek: la listo montras, ke ŝi zorgas kaj amas — tio estas la plej grava."

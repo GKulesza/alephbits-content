@@ -225,10 +225,10 @@ Tio estis nur la komenco.
 **Question:** Pri kio Adam volas paroli kun Ewa en la kafejo?
 
 **Answers:**
-- A) Pri la ferioj de la filo
-- B) Pri interkonsento pri la sumo de la alimentoj sen tribunalo
-- C) Pri reveno al la geedzeco
-- D) Pri vendo de la loĝejo
+- A) Pri la ferioj de la filo kaj la somera vojaĝo
+- B) Pri interkonsento pri la alimentoj sen tribunalo
+- C) Pri reveno al la geedzeco kaj la komuna vivo
+- D) Pri vendo de la loĝejo kaj la divido de la havaĵoj
 
 **Correct:** B
 **Explanation:** Adam malfermas: «Mi volis paroli pri la alimentoj... interkonsenti pri sumo sen tribunalo».
@@ -253,10 +253,10 @@ Tio estis nur la komenco.
 **Question:** Kiun sumon de alimentoj Adam proponas ĉe la mediatoro?
 
 **Answers:**
-- A) Mil zlotojn
-- B) Mil ducent zlotojn plus duonon de la elspezoj por lernejo kaj kuracado
-- C) Du mil kvincent zlotojn
-- D) Kvincent zlotojn
+- A) Mil zlotojn por ĉiu monato, sed nur ĝis la fino de la jaro
+- B) Mil ducent zlotojn plus duonon por lernejo kaj kuracado
+- C) Du mil kvincent zlotojn por la tuta jaro en unu pago
+- D) Kvincent zlotojn por ĉiu monato kaj nenion kroman
 
 **Correct:** B
 **Explanation:** Adam proponas 1200 zlotojn monate plus duonon de la elspezoj por lernejo kaj kuracado.
@@ -267,10 +267,10 @@ Tio estis nur la komenco.
 **Question:** Kion faras Adam, kiam Ewa diras «Kaj sur kio vi elspezas tiom?»
 
 **Answers:**
-- A) Li foriras el la salono
-- B) Li diras, ke nun ili parolas pri la alimentoj kaj povas reveni al tiu temo poste
-- C) Li konfesas sian kulpon
-- D) Li krias
+- A) Li foriras el la salono kaj ne revenas al la temo de la elspezoj
+- B) Li diras, ke nun ili parolas pri la alimentoj kaj revenos poste
+- C) Li konfesas sian kulpon kaj promesas ŝanĝi la konduton
+- D) Li krias kaj postulas tuj fini la konversacion
 
 **Correct:** B
 **Explanation:** Adam trankvile revenas al la temo: «Sed nun ni parolas pri la alimentoj».
@@ -281,10 +281,10 @@ Tio estis nur la komenco.
 **Question:** Pri kiu sumo ili fine interkonsentas?
 
 **Answers:**
-- A) Mil ducent zlotoj
-- B) Mil kvincent plus duono de la elspezoj por lernejo kaj kuracado
-- C) Du mil zlotoj
-- D) Mil okcent zlotoj
+- A) Mil ducent zlotojn por ĉiu monato, sen pliaj kondiĉoj
+- B) Mil kvincent zlotojn plus duonon por lernejo kaj kuracado
+- C) Du mil zlotojn por la tuta jaro pagotaj en unu pago
+- D) Mil okcent zlotojn kaj nenion kroman por la juna infano
 
 **Correct:** B
 **Explanation:** Adam skribas: «Ni interkonsentis mil kvincent plus duono de la elspezoj por lernejo kaj kuracado».

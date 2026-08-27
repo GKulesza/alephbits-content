@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion faras Ola, kiam Franek timas la naĝejon?",
       "answers": [
-        "Devigas lin lerni naĝi",
+        "Devigas lin lerni naĝi sen la helpo de la panjo",
         "Demandas pri sentoj kaj proponas naĝbrakumilojn",
-        "Nuligas la ekskurson",
-        "Krias"
+        "Nuligas la ekskurson al la naĝejo por ĉiam",
+        "Krias kaj koleras pro la timo de la filo"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi demandas \"Kion vi sentas?\" kaj kune ili serĉas sekurecon (naĝbrakumiloj)."
@@ -31,10 +31,10 @@
       "type": "single_choice",
       "question": "Kion diras Franek post sukcesa naĝado?",
       "answers": [
-        "Neniam plu al la naĝejo",
+        "Neniam plu al la naĝejo kun la tuta familio",
         "Panjo, mi povas ĉion, se vi permesas al mi",
-        "Mi volas iĝi trejnisto",
-        "La naĝejo estas stulta"
+        "Mi volas iĝi trejnisto de la naĝado",
+        "La naĝejo estas stulta kaj tro malkomforta"
       ],
       "correctIndex": 1,
       "explanation": "Franek: \"Panjo, mi povas ĉion, se vi permesas al mi.\""
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kion faras Ola, kiam Zosia prenas la tondilon?",
       "answers": [
-        "Malpermesas al ŝi uzi ĝin",
+        "Malpermesas al ŝi uzi ĝin sen la ĉeesto de la panjo",
         "Demandas pri sekura uzo kaj lasas ŝin eltranĉi koreton",
-        "Donas la tondilon al la instruistino",
-        "Punas"
+        "Donas la tondilon al la instruistino por la leciono",
+        "Punas ŝin kaj forprenas ĉiujn tondilojn"
       ],
       "correctIndex": 1,
       "explanation": "Ola demandas pri sekura uzo kaj akompanas — Zosia eltranĉas la koreton mem."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kial ŝi enkondukas rutinojn por Zosia?",
       "answers": [
-        "Kiel punojn",
-        "Kiel helpon ĉe ebla ADHD — malpli da stimuloj, stabila dorma ritmo, sen ekranoj",
-        "Ĉar la instruistino ordonas",
-        "Por sporto"
+        "Kiel punojn pro la malbona konduto de la infano en la domo de la gepatroj",
+        "Kiel helpon ĉe ebla ADHD — malpli da stimuloj, stabila dormo, sen ekranoj",
+        "Kiel regulojn, kiujn la instruistino trudas al la tuta familio hejme",
+        "Kiel trejnadon por la sporto kaj la fizika evoluo de la juna infano"
       ],
       "correctIndex": 1,
       "explanation": "Orda spaco, rutino, temporizilo por dentoj, sen ekranoj antaŭ dormo."

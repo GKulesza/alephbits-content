@@ -311,10 +311,10 @@ De la sama komenco.
 **Question:** Kion faras Ola, kiam Franek timas la naĝejon?
 
 **Answers:**
-- A) Devigas lin lerni naĝi
+- A) Devigas lin lerni naĝi sen la helpo de la panjo
 - B) Demandas pri sentoj kaj proponas naĝbrakumilojn
-- C) Nuligas la ekskurson
-- D) Krias
+- C) Nuligas la ekskurson al la naĝejo por ĉiam
+- D) Krias kaj koleras pro la timo de la filo
 
 **Correct:** B
 **Explanation:** Ŝi demandas "Kion vi sentas?" kaj kune ili serĉas sekurecon (naĝbrakumiloj).
@@ -325,10 +325,10 @@ De la sama komenco.
 **Question:** Kion diras Franek post sukcesa naĝado?
 
 **Answers:**
-- A) Neniam plu al la naĝejo
+- A) Neniam plu al la naĝejo kun la tuta familio
 - B) Panjo, mi povas ĉion, se vi permesas al mi
-- C) Mi volas iĝi trejnisto
-- D) La naĝejo estas stulta
+- C) Mi volas iĝi trejnisto de la naĝado
+- D) La naĝejo estas stulta kaj tro malkomforta
 
 **Correct:** B
 **Explanation:** Franek: "Panjo, mi povas ĉion, se vi permesas al mi."
@@ -339,10 +339,10 @@ De la sama komenco.
 **Question:** Kion faras Ola, kiam Zosia prenas la tondilon?
 
 **Answers:**
-- A) Malpermesas al ŝi uzi ĝin
+- A) Malpermesas al ŝi uzi ĝin sen la ĉeesto de la panjo
 - B) Demandas pri sekura uzo kaj lasas ŝin eltranĉi koreton
-- C) Donas la tondilon al la instruistino
-- D) Punas
+- C) Donas la tondilon al la instruistino por la leciono
+- D) Punas ŝin kaj forprenas ĉiujn tondilojn
 
 **Correct:** B
 **Explanation:** Ola demandas pri sekura uzo kaj akompanas — Zosia eltranĉas la koreton mem.
@@ -353,10 +353,10 @@ De la sama komenco.
 **Question:** Kial ŝi enkondukas rutinojn por Zosia?
 
 **Answers:**
-- A) Kiel punojn
-- B) Kiel helpon ĉe ebla ADHD — malpli da stimuloj, stabila dorma ritmo, sen ekranoj
-- C) Ĉar la instruistino ordonas
-- D) Por sporto
+- A) Kiel punojn pro la malbona konduto de la infano en la domo de la gepatroj
+- B) Kiel helpon ĉe ebla ADHD — malpli da stimuloj, stabila dormo, sen ekranoj
+- C) Kiel regulojn, kiujn la instruistino trudas al la tuta familio hejme
+- D) Kiel trejnadon por la sporto kaj la fizika evoluo de la juna infano
 
 **Correct:** B
 **Explanation:** Orda spaco, rutino, temporizilo por dentoj, sen ekranoj antaŭ dormo.

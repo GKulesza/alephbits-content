@@ -7,10 +7,10 @@
       "type": "single_choice",
       "question": "Pri kio kverelas Magda kaj Tomek komence de la rakonto?",
       "answers": [
-        "Pri disiĝo",
-        "Pri tio, ke Franek ne malŝaltis la tablojdon post la ekrana tempo",
-        "Pri la ferioj",
-        "Pri la laboro de Magda"
+        "Pri la ebla disiĝo de la gepatroj de Franek",
+        "Pri tio, ke Franek ne malŝaltis la tablojdon",
+        "Pri la ferioj de la tuta familio en la montoj",
+        "Pri la laboro de Magda kaj ŝiaj troaj okupoj"
       ],
       "correctIndex": 1,
       "explanation": "Franek ludis futbalon sur la tablojdo post la 18:45."
@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kion Franek demandas la patrinon post la kverelo?",
       "answers": [
-        "Ĉu li ricevos la tablojdon",
+        "Ĉu li ricevos la tablojdon por la vespero",
         "Ĉu la gepatroj ankoraŭ amas unu la alian",
-        "Ĉu ili iros al kinejo",
-        "Ĉu Zosia estas malsana"
+        "Ĉu ili iros al kinejo kun la tuta familio",
+        "Ĉu Zosia estas malsana kaj bezonas kuraciston"
       ],
       "correctIndex": 1,
       "explanation": "Franek demandas rekte: „Ĉu vi ankoraŭ amas unu la alian?\""
@@ -43,10 +43,10 @@
       "type": "single_choice",
       "question": "Kiel Tomek reagas, kiam Franek petas antaŭan averton antaŭ forpreno de la tablojdo?",
       "answers": [
-        "Li krias",
+        "Li krias kaj koleras pro la postulo",
         "Li ridetas kaj diras „Interkonsento staras\"",
-        "Li ignoras la filon",
-        "Li ordonas iri dormi"
+        "Li ignoras la filon kaj ŝanĝas la temon tute",
+        "Li ordonas al la filo iri tuj dormi"
       ],
       "correctIndex": 1,
       "explanation": "Tomek akceptas la proponon kaj diras: „Interkonsento staras\"."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kion signifas la metaforo de la „ĥoro de voĉoj\" en la finalo?",
       "answers": [
-        "Ke la infanoj devus silenti",
-        "Ke en la gepatroj sonas la voĉoj de antaŭaj generacioj, kiujn ili lernas aŭskulti kaj transformi",
-        "Ke la familio kantas en preĝejo",
-        "Ke Tomek fariĝas kantisto"
+        "Ke la infanoj devus silenti kaj ne ĝeni la plenkreskulojn",
+        "Ke en la gepatroj sonas la voĉoj de antaŭaj generacioj",
+        "Ke la familio kantas en la preĝejo dum la meso",
+        "Ke Tomek fariĝas kantisto en la urba ĥoro"
       ],
       "correctIndex": 1,
       "explanation": "Tomek kaj Magda lernas aŭskulti la voĉojn de gepatroj/geavoj kaj „kanti sian propran melodion\"."

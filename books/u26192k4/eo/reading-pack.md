@@ -308,10 +308,10 @@ Sed mi scias unu aferon: ĉiunokte, kiam mi aŭdas la venton, mi pensas pri ili.
 **Question:** Kion la filo krias en la koŝmaro?
 
 **Answers:**
-- A) „Mi volas glaciaĵon"
+- A) „Mi volas glaciaĵon kaj novan ludilon el la butiko apud nia domo"
 - B) „Disbatita aviadilo! Ĝi brulas! Malgranda homo ne povas eliri!"
-- C) „Mi timas la mallumon"
-- D) „Kie estas panjo?"
+- C) „Mi timas la mallumon en la ĉambro de mia pli juna frato kaj fratino"
+- D) „Kie estas panjo kaj kial ŝi foriris el la domo nokte?"
 
 **Correct:** B
 **Explanation:** Li ripetas la samajn vortojn ĉiunokte.
@@ -322,10 +322,10 @@ Sed mi scias unu aferon: ĉiunokte, kiam mi aŭdas la venton, mi pensas pri ili.
 **Question:** Kiel la filo ludas per la aviadiloj?
 
 **Answers:**
-- A) Li flugigas ilin
+- A) Li flugigas ilin tra la ĉambro de la infaneto
 - B) Li disbatas ilin — frapas unu per la alia
-- C) Li kolektas ilin
-- D) Li pentras ilin
+- C) Li kolektas ilin kaj metas sur la breton
+- D) Li pentras ilin per la koloroj de la krajonoj
 
 **Correct:** B
 **Explanation:** Li disbatas la ludilojn, ĝis la flugiloj defalas.
@@ -336,10 +336,10 @@ Sed mi scias unu aferon: ĉiunokte, kiam mi aŭdas la venton, mi pensas pri ili.
 **Question:** Kiujn tri nomojn la filo citas?
 
 **Answers:**
-- A) Adam, Ewa, Noa
-- B) Billy, Walter kaj Leon
-- C) Jan, Petro, Paŭlo
-- D) Tom, Dick, Harry
+- A) Adam, Ewa kaj Noa, la tri fratoj
+- B) Billy, Walter kaj Leon — la pilotoj
+- C) Jan, Petro kaj Paŭlo, la tri apostoloj
+- D) Tom, Dick kaj Harry, la tri amikoj
 
 **Correct:** B
 **Explanation:** Li montras tri disbatitajn aviadilojn kaj donas tiujn nomojn.
@@ -364,10 +364,10 @@ Sed mi scias unu aferon: ĉiunokte, kiam mi aŭdas la venton, mi pensas pri ili.
 **Question:** Kion la filo diras matene post la lasta koŝmaro pri Leon?
 
 **Answers:**
-- A) Ke Leon pereis
+- A) Ke Leon pereis en la batalo super la granda urbo dum la lasta nokto
 - B) „Jes, paĉjo. Ĉiuj. Ili estas tie." — kaj montras la ĉielon
-- C) Ke li timas aviadilojn
-- D) Nenion
+- C) Ke li timas aviadilojn kaj ne volas flugi denove en la vivo
+- D) Nenion, ĉar li ankoraŭ dormas duondorme kaj apenaŭ parolas
 
 **Correct:** B
 **Explanation:** Li diras, ke ĉiuj revenis — ili estas tie, montrante la ĉielon.
