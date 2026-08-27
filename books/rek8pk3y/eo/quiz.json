@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Pri kio Anna devis verki artikolon, sed konstante prokrastis la laboron?",
+      "answers": [
+        "Pri la influo de dolĉigaj substancoj sur la ĉelan metabolon",
+        "Pri la historio de astronomio",
+        "Pri la organika kemio en gimnazio",
+        "Pri la kordoteorio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Komence la teksto parolas pri artikolo pri la influo de dolĉigaj substancoj sur la ĉelan metabolon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion profesoro Nowak proponas al Ania?",
+      "answers": [
+        "Senpagan forpermeson",
+        "Financadon de esploroj pri la nova generacio de dolĉigiloj de granda firmao",
+        "Ŝanĝon de la loĝlando",
+        "Rezignon de la doktoriĝo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nowak parolas pri firmao, kiu volas financi esplorojn pri la nova generacio de dolĉigiloj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial Anna hezitas antaŭ ol akcepti la sponsoradon?",
+      "answers": [
+        "Ĉar ŝi ne ŝatas la laboratorion",
+        "Ĉar ŝi scias, ke la mono de la konzerno povas distordi la rezultojn kaj la devontigojn",
+        "Ĉar ŝi ne konas la anglan lingvon",
+        "Ĉar ŝi volas fariĝi politikistino"
+      ],
+      "correctIndex": 1,
+      "explanation": "La tuta fadeno koncernas la konflikton inter financado kaj scienca honesteco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Ania finas la rakonton?",
+      "answers": [
+        "Ŝi subskribas interkonsenton kun la konzerno",
+        "Ŝi diras, ke ŝi farus la samon, eĉ se ĝi devus ripetiĝi",
+        "Ŝi forlasas la sciencon sen vorto",
+        "Ŝi publikigas falsajn rezultojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi finas per deklaracio, ke eĉ se ĝi devus ripetiĝi, ŝi farus la samon — ŝi restis sciencistino, ne ilo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la ĉefa mesaĝo de la rakonto?",
+      "answers": [
+        "Scienco ĉiam estas libera de politiko",
+        "Scienco sen vero fariĝas ilo de manipulado",
+        "Konzernoj ĉiam diras la veron",
+        "Esploroj ne bezonas monon"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina pripensado diras rekte pri scienco sen vero kiel ilo de manipulado."
+    }
+  ]
+}

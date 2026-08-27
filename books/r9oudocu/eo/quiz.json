@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial Tadeusz portas novajn ŝuojn?",
+      "answers": [
+        "Por laboro",
+        "Por la geedziĝo de la filo",
+        "Por kurado",
+        "Por la preĝejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras, ke tiuj estas novaj ŝuoj por la geedziĝo de la filo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la doktoro vidas post la forŝiro de la ŝtrumpeto?",
+      "answers": [
+        "Ordinaran kalon",
+        "Mortintan, nigran piedfingron kaj odoron de puso",
+        "Frakturon",
+        "Alergion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La piedfingro estas nigra, mortinta; odoro de pusŝpino."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Tadeusz diras, kiam la doktoro parolas pri amputo?",
+      "answers": [
+        "Ke ĝi doloras",
+        "„Sed ĝi ne doloras\"",
+        "Ke li konsentas tuj",
+        "Ke li iras al alia kuracisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li ripetas: sed ĝi ne doloras."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Tadeusz lasas al la doktoro ĉe la reveno?",
+      "answers": [
+        "Monon",
+        "Novan ŝuon — li petas, ke li memoru pri tiuj, kiuj ne venas",
+        "Leteron",
+        "Foton de la patro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li lasas ŝuon kun sanga makulo kiel averton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun rezulton de glikata hemoglobino havas Krzysztof jaron poste?",
+      "answers": [
+        "11,5",
+        "6,2",
+        "9,0",
+        "8,0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof revenas kun HbA1c 6,2 post jaro da kuracado."
+    }
+  ]
+}

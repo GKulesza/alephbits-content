@@ -1,0 +1,24 @@
+{
+  "packId": "qohmuh8l:eo",
+  "bookId": "qohmuh8l",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli."
+  },
+  "sources": [
+    {
+      "type": "adaptation",
+      "description": "Collection Four manuscript"
+    }
+  ],
+  "revisionNotes": "Fikcja o relacji matki z nastolatkiem i uczeniu się obecności zamiast kontroli."
+}

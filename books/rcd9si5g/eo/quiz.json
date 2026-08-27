@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Anna?",
+      "answers": [
+        "32",
+        "42",
+        "52",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto: „Anna havis kvardek du jarojn\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Tomek memoras el la infanaĝo, kio dolorigas Annan?",
+      "answers": [
+        "Nur donacojn",
+        "Ke panjo ofte kriis kaj nuligis la iron al kinejo",
+        "Nur feriojn",
+        "Nenion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek rememoras la krion kaj la nuligitan kinejon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Por kio Anna skribas la liston?",
+      "answers": [
+        "Por la najbaroj",
+        "Por kompreni la erarojn kaj ion ŝanĝi — ne por kulpigi sin",
+        "Por la tribunalo",
+        "Por la lernejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi skribis la liston por kompreni kaj ŝanĝi, ne por kulpigi sin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Tomek faras kun la malnovaj fotoj?",
+      "answers": [
+        "Li forĵetas ilin",
+        "Li skanas ilin kaj ordigas albumon de rememoroj",
+        "Li vendas ilin",
+        "Li bruligas ilin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek skanas la fotojn el la kesto — „niaj rememoroj\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Tomek skribas pri la listo de bedaŭroj?",
+      "answers": [
+        "Li estas kolera",
+        "Li estas danka — videblas, ke panjo zorgas kaj amas lin",
+        "Li ignoras la patrinon",
+        "Li volas monon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek: la listo montras, ke ŝi zorgas kaj amas — tio estas la plej grava."
+    }
+  ]
+}

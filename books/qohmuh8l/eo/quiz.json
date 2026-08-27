@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio kaŭzas la kverelon inter Ewa kaj Wojtek?",
+      "answers": [
+        "Lernejaj aferoj pri notoj",
+        "La decido, ke Wojtek ne iros al la festo",
+        "Aĉeto de nova telefono",
+        "Forveturo ferie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wojtek ŝlosis sin en la ĉambro post kiam Ewa malpermesis al li iri al la festo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa legas en la telefono, kio ŝin emociigas?",
+      "answers": [
+        "Recepton por kuko",
+        "Afiŝojn pri subtenanta edukado de adoleskanto",
+        "Laboroferton",
+        "Mesaĝon de la lernejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur la ekrano aperas afiŝo de virino, kiu nomas sin subtenanta patrino de adoleskanto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu frazo precipe haltigas Ewa?",
+      "answers": [
+        "Infanoj ĉiam aŭskultas la gepatrojn",
+        "Vi ne devas esti perfekta. Vi devas esti ĉeesta",
+        "Punoj estas la plej bona metodo",
+        "Adoleskantoj ne sentas emociojn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi haltas ĉe la frazo: vi ne devas esti perfekta, vi devas esti ĉeesta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la edukiteco de Ewa?",
+      "answers": [
+        "Kuracistino",
+        "Psikologino",
+        "Arĥitektino",
+        "Advokatino"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras rekte, ke Ewa estis psikologino laŭ edukiteco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa komprenas ĉe la fino de la rakonto?",
+      "answers": [
+        "Ke la filo ĉesis ŝin ami",
+        "Ke la plej gravan ŝi lernis de la filo — pri esti ĉeesta kaj aŭtentika",
+        "Ke ŝi devus sendi la filon al internulejo",
+        "Ke la laborgrupoj donis nenion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina pripensado diras, ke la plej grava venis de la filo, kiu la tutan tempon vidis ŝin."
+    }
+  ]
+}

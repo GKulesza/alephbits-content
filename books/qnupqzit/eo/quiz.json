@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kial la ĉielo aspektas blua?",
+      "answers": [
+        "Pro disiĝo de mallongonda lumo",
+        "Pro farbo en la nuboj",
+        "Pro reflekto de la maro",
+        "Pro iluzio ĉe krepusko"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto klarigas la Rayleigh-disiĝon — bluaj ondoj disiĝas pli forte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Gladstone rimarkas ĉe Homero?",
+      "answers": [
+        "Mankon de vorto por bluo",
+        "Centojn da priskriboj de la ĉielo",
+        "Nur blankan koloron",
+        "Priskribon de ĉielarko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gladstone kalkulas la kolorojn ĉe Homero — bluo ne aperas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun la teksto mencias ĉe la malfacila problemo de la konscio?",
+      "answers": [
+        "Feynman",
+        "Newton",
+        "Einstein",
+        "Koperniko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feynman revenas al humileco antaŭ tio, kion ni ne komprenas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la Himba faras alie ol eŭropanoj?",
+      "answers": [
+        "Ili pli bone vidas nuancojn de verdo",
+        "Ili tute ne vidas",
+        "Ili ne distingas ruĝon",
+        "Ili vidas nur nigre-blanke"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Himba pli rapide indikas malsamajn nuancojn de verdo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun demandon Feynman faras al la kelnerino?",
+      "answers": [
+        "De kie vi scias, ke la ĉielo estas blua?",
+        "Kiom kostas la kafo?",
+        "Kie estas Berkeley?",
+        "Ĉu vi ŝatas fizikon?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li demandas: de kie vi scias — kaj la kelnerino levas la ŝultrojn."
+    }
+  ]
+}
