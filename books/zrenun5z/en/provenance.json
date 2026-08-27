@@ -1,0 +1,24 @@
+{
+  "packId": "zrenun5z:en",
+  "bookId": "zrenun5z",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "sBztkEoksgg"
+    }
+  ],
+  "revisionNotes": "Fikcja o presji osiągnięć i rezygnacji z wiecznego gonienia za celami."
+}

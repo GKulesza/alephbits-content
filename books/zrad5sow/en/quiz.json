@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What does Franek ask about the apple colouring sheet?",
+      "answers": [
+        "Whether it can be purple",
+        "Whether he'll get a prize",
+        "Whether Miss Marta is leaving",
+        "Whether the apple is edible"
+      ],
+      "correctIndex": 0,
+      "explanation": "Franek: \"Can mine be purple?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Where do the children spend most of their time after the change?",
+      "answers": [
+        "In the classroom with colouring sheets",
+        "Outdoors, whatever the weather",
+        "At the cinema",
+        "At home"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grażyna: most of the time outdoors, learning through experience."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the dinosaur project begin?",
+      "answers": [
+        "With a written test",
+        "With a toy dinosaur that Franek brings",
+        "With a punishment",
+        "With the parents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek brings a toy — the children want to know more."
+    },
+    {
+      "type": "single_choice",
+      "question": "Whom does Marta invite to the kindergarten?",
+      "answers": [
+        "An astronaut",
+        "Franek's dad — a veterinarian",
+        "A politician",
+        "A singer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek's dad talks about animals; a veterinary corner is created."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Franek say to Marta years later, as a pupil?",
+      "answers": [
+        "He hated kindergarten",
+        "At school he likes learning too, because he can ask questions",
+        "He forgot about the dinosaurs",
+        "He wants to become a teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: at school he likes learning because he knows he can ask questions."
+    }
+  ]
+}

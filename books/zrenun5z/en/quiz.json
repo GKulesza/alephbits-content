@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Ania describe her life from the outside and from the inside?",
+      "answers": [
+        "From the outside empty, from the inside fulfilled",
+        "From the outside fulfilled, from the inside empty",
+        "Perfect in both dimensions",
+        "Chaotic in both dimensions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says it directly: from the outside fulfilled, from her own perspective empty."
+    },
+    {
+      "type": "single_choice",
+      "question": "What goal does Ania choose at the end of the story?",
+      "answers": [
+        "To write a book in a year",
+        "To be enough",
+        "To be promoted to CEO",
+        "To move abroad"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final conversation leads to the goal of \"being enough\" as a lifelong goal."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the beginning of the story show about Ania's resolutions?",
+      "answers": [
+        "That all her goals are being achieved perfectly",
+        "That she went to the gym twice, and the book only has a title",
+        "That she never had any plans",
+        "That she immediately quit her job"
+      ],
+      "correctIndex": 1,
+      "explanation": "On 7 February: gym twice, water for three days, the book has only a title."
+    },
+    {
+      "type": "single_choice",
+      "question": "Who is Karolina in the story?",
+      "answers": [
+        "Ania's boss at the corporation",
+        "The mentor with whom Ania started sessions",
+        "Ania's daughter",
+        "A real estate agent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ania hears the voice of Karolina, her mentor, from the first session a week earlier."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the story end emotionally?",
+      "answers": [
+        "Ania cries in despair",
+        "Ania and Karolina laugh at the thought of the goal of being enough",
+        "Ania goes back to work at night",
+        "Ania abandons her family"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ending is shared laughter over the fact that being enough is the hardest goal."
+    }
+  ]
+}

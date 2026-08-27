@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué pregunta Franek sobre la ficha de la manzana?",
+      "answers": [
+        "Si puede ser morada",
+        "Si recibirá un premio",
+        "Si la señorita Marta se va",
+        "Si la manzana es comestible"
+      ],
+      "correctIndex": 0,
+      "explanation": "Franek: \"¿La mía puede ser morada?\""
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Dónde pasan los niños la mayor parte del tiempo después del cambio?",
+      "answers": [
+        "En el aula con las fichas para colorear",
+        "Al aire libre, llueva o haga sol",
+        "En el cine",
+        "En casa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grażyna: la mayor parte del tiempo al aire libre, aprendizaje a través de la experiencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo comienza el proyecto de los dinosaurios?",
+      "answers": [
+        "Con un examen escrito",
+        "Con una figura de dinosaurio que trae Franek",
+        "Con un castigo",
+        "Con los padres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek trae una figura: los niños quieren saber más."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿A quién invita Marta al jardín de infancia?",
+      "answers": [
+        "A un astronauta",
+        "Al papá de Franek, un veterinario",
+        "A un político",
+        "A un cantante"
+      ],
+      "correctIndex": 1,
+      "explanation": "El papá de Franek habla de los animales; se crea el rincón veterinario."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Franek a Marta años después, siendo alumno?",
+      "answers": [
+        "Que odiaba el jardín de infancia",
+        "Que en el colegio también le gusta aprender, porque puede preguntar",
+        "Que olvidó los dinosaurios",
+        "Que quiere ser maestro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: en el colegio le gusta aprender porque sabe que puede preguntar."
+    }
+  ]
+}

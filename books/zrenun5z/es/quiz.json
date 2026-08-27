@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe Ania su vida desde fuera y desde dentro?",
+      "answers": [
+        "Desde fuera vacía, desde dentro realizada",
+        "Desde fuera realizada, desde dentro vacía",
+        "Perfecta en ambas dimensiones",
+        "Caótica en ambas dimensiones"
+      ],
+      "correctIndex": 1,
+      "explanation": "El texto lo dice directamente: desde fuera realizada, desde su propia perspectiva vacía."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué meta elige Ania al final de la historia?",
+      "answers": [
+        "Escribir un libro en un año",
+        "Ser suficiente",
+        "Ascender a presidenta",
+        "Mudarse al extranjero"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conversación final conduce a la meta de \"ser suficiente\" como meta de por vida."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué muestra el comienzo de la historia sobre los propósitos de Ania?",
+      "answers": [
+        "Que todas sus metas se cumplen perfectamente",
+        "Que fue dos veces al gimnasio y el libro solo tiene un título",
+        "Que nunca tuvo planes",
+        "Que dejó el trabajo de inmediato"
+      ],
+      "correctIndex": 1,
+      "explanation": "El 7 de febrero: gimnasio dos veces, agua tres días, el libro solo tiene título."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Karolina en la historia?",
+      "answers": [
+        "La jefa de Ania en la corporación",
+        "La mentora con la que Ania empezó las sesiones",
+        "La hija de Ania",
+        "Una agente inmobiliaria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ania oye la voz de Karolina, su mentora, de la primera sesión de hace una semana."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo termina la historia emocionalmente?",
+      "answers": [
+        "Ania llora de desesperación",
+        "Ania y Karolina se ríen ante la idea de la meta de ser suficiente",
+        "Ania vuelve al trabajo de noche",
+        "Ania abandona a su familia"
+      ],
+      "correctIndex": 1,
+      "explanation": "El final es la risa compartida ante el hecho de que ser suficiente es la meta más difícil."
+    }
+  ]
+}
