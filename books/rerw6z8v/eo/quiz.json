@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Franek?",
+      "answers": [
+        "Sep",
+        "Dek",
+        "Dek du",
+        "Ok"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto: „Franek havis dek jarojn\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Franek promesas, kiam li petas pri Karolek?",
+      "answers": [
+        "Ke li neniam plu faros petolon",
+        "Ke li forveturos el la domo",
+        "Ke li ĉesos iri al la lernejo",
+        "Ke li fordonos ĉiujn ludilojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li ĵuras, ke li neniam plu faros iun ajn petolon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun Franek petas, ke li instruu al li legi?",
+      "answers": [
+        "La paĉjon",
+        "Fraŭlinon Gertruda",
+        "Sinjorinon Gienia",
+        "La instruiston"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li petas la paĉjon pri lernado de legado por Karolek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Franek legas al Karolek vespere?",
+      "answers": [
+        "Librojn pri la naturo kaj amikeco",
+        "Ĵurnalojn",
+        "Teruran bildrakonton",
+        "Mapojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li legas pri sciuroj, kaŝtanoj, aŭtunaj folioj, amikeco."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Franek ŝanĝiĝas en la okuloj de la najbaroj?",
+      "answers": [
+        "El „petolemulo\" en respektatan knabon",
+        "Li malaperas el la dombloko",
+        "Li fariĝas plenkreskulo",
+        "Nenio ŝanĝiĝas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ili diras pri li „Franek\", ne „Franek la bubaĉo\"."
+    }
+  ]
+}

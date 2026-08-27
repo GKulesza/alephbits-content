@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa sentas tuj post la reveno de la meditaj laborgrupoj?",
+      "answers": [
+        "Ĝojon, ke la loĝejo estas perfekte pura",
+        "Seniluziiĝon kaj perdon de energio antaŭ la konata kaoso",
+        "Indiferenton al la malordo",
+        "Deziron tuj translokiĝi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post semajno en la centro ŝi revenas al la sama malordo kaj sentas, kiel la energio ŝin forlasas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu helpas Ewan komenci la laboron pri la loĝejo?",
+      "answers": [
+        "Ŝia iama kunloĝantino Asia, kiu venigas Martan",
+        "Hazarda najbaro el la supra etaĝo",
+        "Pastro el la paroĥo",
+        "Nemoveblaĵa agento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asia vizitas Ewan kaj proponas kontakton kun virino, kiu helpas homojn ordigi loĝejojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian malkovron faras Ewa, rigardante la malnovan desegnon el la gimnazio?",
+      "answers": [
+        "Temas pri konstruado de domo, ne pri enloĝiĝo en sian vivon",
+        "Ŝi volas tuj vendi la loĝejon",
+        "Ŝi decidas fariĝi arĥitektino",
+        "Ŝi opinias, ke la malordo estas familia heredaĵo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La fina pripensado diras rekte, ke ne temas pri la domo, sed pri tio, por enloĝi ĝin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Marta priskribas la rolon de ordigita spaco?",
+      "answers": [
+        "Kiel manieron pliigi la merkatan valoron de la loĝejo",
+        "Kiel ion, kio donas spiron kaj permesas decidi, kio plu",
+        "Kiel devon de ĉiu virino post la tridek",
+        "Kiel anstataŭaĵon de farmakologia terapio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta diras, ke spaco, kiu favoras, donas spiron, kaj poste oni povas decidi, kion fari kun ĝi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio estas la fina stato de Ewa rilate al ŝiaj aĵoj?",
+      "answers": [
+        "Ŝi restas radikala minimalistino sen rememoroj",
+        "Ŝi konservas tion, kion ŝi amas, sed ĉesas porti la aĵojn kiel balaston",
+        "Ŝi transdonas la loĝejon al la fratino",
+        "Ŝi tute ĉesas ordigi"
+      ],
+      "correctIndex": 1,
+      "explanation": "La epilogo substrekas, ke ŝi havas aĵojn kaj rememorojn, sed ili jam ne estas balasto."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Helena trovas en la arkivo de la Ĉefa Stacidomo?",
+      "answers": [
+        "Dokumenton el 1889 pri rezonanca sistemo",
+        "Planojn el 2024",
+        "Leteron de Tesla",
+        "Fotojn sen notoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi trafas projekton kun noto pri rezonanca sistemo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun ŝablonon Helena vidas en aliaj urboj?",
+      "answers": [
+        "Sekretajn sistemojn el antaŭ la elektra epoko",
+        "Identajn horloĝojn",
+        "Mankon de ripetebleco",
+        "Nur gaslumigon"
+      ],
+      "correctIndex": 0,
+      "explanation": "En Krakovo, Poznań kaj Vroclavo ŝi vidas similajn sistemojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Helena reagas al la pruvoj?",
+      "answers": [
+        "Ŝi ripetas, ke tio estas neebla",
+        "Ŝi tuj publikigas en la amaskomunikiloj",
+        "Ŝi forlasas la profesion",
+        "Ŝi ŝajnigas, ke ŝi trovis nenion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi multfoje diras „tio estas neebla\", kvankam la pruvoj kreskas."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Helena?",
+      "answers": [
+        "Arĥitektino esploranta arkivojn",
+        "Ĵurnalistino",
+        "Fervojistino",
+        "Studentino de medicino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena traserĉas la arkivojn de stacidomoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "En kiu urbo ŝi komencas la serĉadon?",
+      "answers": [
+        "En Varsovio",
+        "En Krakovo",
+        "En Gdańsk",
+        "En Vroclavo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi komencas de la arkivoj de la Ĉefa Stacidomo en Varsovio."
+    }
+  ]
+}

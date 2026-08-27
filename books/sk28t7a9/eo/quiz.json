@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Marta enskribas en la serĉilon post la reveno hejmen?",
+      "answers": [
+        "kiel kuiri tagmanĝon",
+        "kiel venki malordon",
+        "kiel aĉeti loĝejon",
+        "kiel trovi laboron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Post la sidiĝo sur la sofo ŝi enskribas en la telefono: kiel venki malordon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Marta kutime prokrastas la ordigon?",
+      "answers": [
+        "Ŝi diras al si, ke ŝi faros ĝin morgaŭ, kvankam ŝi scias, ke tio ne estas vero",
+        "Ŝi ordigas tuj post la reveno",
+        "Ŝi petas helpon de najbaroj ĉiutage",
+        "Ŝi dungas purigfirmaon ĉiusemajne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras „morgaŭ mi faros ĝin\", sed scias, ke morgaŭ estos same kiel hodiaŭ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta malkovras post la ordigo?",
+      "answers": [
+        "Ke la malordo estis kaŝita havaĵo",
+        "Ke la malordo estis ŝi mem atendanta ŝanĝon",
+        "Ke ŝi devus aĉeti pli da aĵoj",
+        "Ke la loĝejo estas tro malgranda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ŝi skribas al la amikino, ke tio ne estis malordo — tio estis ŝi atendanta ŝanĝon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Marta?",
+      "answers": [
+        "Dudek kvin",
+        "Tridek kvin",
+        "Kvardek kvin",
+        "Kvindek kvin"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras rekte, ke Marta havas tridek kvin jarojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel la rakonto finas la difinon de hejmo?",
+      "answers": [
+        "Hejmo estas nur adreso",
+        "Hejmo estas la loko, kie oni estas kaj kie oni fariĝas",
+        "Hejmo estas deponejo de aĵoj",
+        "Hejmo estas oficejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina frazo diras, ke hejmo estas la loko, kie oni estas kaj kie oni fariĝas."
+    }
+  ]
+}
