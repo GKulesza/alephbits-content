@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Zosia?",
+      "answers": [
+        "Sep",
+        "Naŭ",
+        "Dek unu",
+        "Dek du"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teksto: „Zosia havis naŭ jarojn\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la Pluva Reĝino?",
+      "answers": [
+        "Kropeia",
+        "Rózia",
+        "Neĝineto",
+        "Stella"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Reĝino nomiĝas Kropeia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kio malfermas la pordon al la sorĉita vojeto?",
+      "answers": [
+        "Arĝenta ŝlosileto",
+        "Mapo",
+        "Sorĉo sen ŝlosilo",
+        "Kanto sen ŝlosilo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La avino elprenas malgrandan arĝentan ŝlosileton el la antaŭtuko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiujn tri sonojn divenas Zosia ĉe la papilio?",
+      "answers": [
+        "Koko, bovino, griloj",
+        "Hundo, kato, kokino",
+        "Pluvo, vento, tondro",
+        "Fluto, harpo, tamburo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi divenas la kokon (kokeriko), la bovinon (muuu) kaj la grilojn (cik-cik)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kropeia faras super la sekigita lando?",
+      "answers": [
+        "Ŝi kantas la pluvkanton",
+        "Ŝi ĵetas la ŝlosilon",
+        "Ŝi frostigas la lagon",
+        "Ŝi fuĝas al la Luno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kropeia kantas, kaj el la nuboj falas abunda pluvo."
+    }
+  ]
+}

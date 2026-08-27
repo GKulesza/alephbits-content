@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj Ewa kaj Marek estas kune?",
+      "answers": [
+        "Dek",
+        "Dudek kvin",
+        "Kvardek",
+        "Kvin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ewa diras, ke ili konas sin de dudek kvin jaroj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa aŭdas en la podkasto pri „la enkonstruita skripto\"?",
+      "answers": [
+        "Ke homoj neniam mensogas",
+        "Ke kiam iu trompas, ni pensas: „Dio min trovis\"",
+        "Ke geedzeco estas facila",
+        "Ke divorco estas la sola elirejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miłosz parolas pri la skripto: trompanto = „Dio min trovis\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa pensis, kiam Marek kuiris ŝian plej ŝatatan pladon?",
+      "answers": [
+        "Ke ŝi estas dankema al li",
+        "Ke li faris ion malbone kaj volas pardoni",
+        "Ke io lin doloras",
+        "Ke li amas ŝin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dum jaroj ŝi pensis, ke li kuiras, ĉar li faris ion malbone."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marek proponas anstataŭ diveni?",
+      "answers": [
+        "Silenti",
+        "Akcepti, ke ni ne scias, kaj demandi",
+        "Skribi leterojn",
+        "Divorcon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras: akcepti, ke ni ne scias, kaj demandi „kial?\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Ewa skribas al la fratino en la letero?",
+      "answers": [
+        "Ke ilia geedzeco estas perfekta",
+        "Ke la plej granda eraro estis pensi, ke ŝi konas sian edzon ĝisfunde",
+        "Ke divorco estas necesa",
+        "Ke la podkasto tute ne helpis ŝin"
+      ],
+      "correctIndex": 1,
+      "explanation": "La letero avertas kontraŭ pensi, ke ŝi konas sian edzon ĝisfunde."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "De kio komenciĝas la kverelo de Kuba kaj Marta?",
+      "answers": [
+        "De fakturoj",
+        "De tio, ke Kuba ne malplenigis la telerlavan maŝinon",
+        "De la televidilo",
+        "De vizito de la boparencoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marta diras: „Denove vi ne malplenigis ĝin\" — kaj aldonas: „Ne temas pri la telerlava maŝino.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun Kammel nomas „la kvara rajdanto de la apokalipso\" en rilato?",
+      "answers": [
+        "Kritikon",
+        "Malestimon",
+        "Silentadon",
+        "Ĵaluzon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel parolas pri malestimo — kiam vi diras „vi estas senespera\" anstataŭ taksi la konduton."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la signalo devas soni „urso\", ne „urseto\"?",
+      "answers": [
+        "Ĉar urseto estas tro serioza",
+        "Ĉar urseto estas dolĉa, kaj urso haltigas ĉion",
+        "Ĉar Marta ŝatas ursojn",
+        "Ĉar tio estas ŝerco pri la familia nomo de Kammel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kammel klarigas: urseto estas dolĉa kaj oni povas ĝin malestimi; urso haltigas ĉion."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kuba diras al Marta en la dormoĉambro anstataŭ ataki?",
+      "answers": [
+        "Ke ŝi ĉiam komencas",
+        "Ke li sentas, kvazaŭ li seniluziigus ŝin, kaj ne scias, kiel tion ripari",
+        "Ke li dormos sur la kanapo",
+        "Ke la telerlava maŝino povas atendi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuba parolas pri si mem: „Mi sentas, kvazaŭ mi seniluziigus vin. Ĉiutage. Kaj mi ne scias, kiel tion ripari.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Marta gluas sur la fridujon?",
+      "answers": [
+        "Aĉetliston",
+        "Papereton: „Se ni kverelos, mi krias URSO\"",
+        "Foton el ferioj",
+        "Horaron de devoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur la fridujo pendas papereto kun la surskribo pri la krio „URSO\"."
+    }
+  ]
+}

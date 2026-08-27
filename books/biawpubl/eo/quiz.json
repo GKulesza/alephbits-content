@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kio estas la profesio de Sebastian?",
+      "answers": [
+        "Komercisto de Wall Street",
+        "Instruisto de matematiko en gimnazio",
+        "Astrologino",
+        "Kuracisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li estas instruisto de matematiko en varsovia gimnazio."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kun kio Lena komparas la vivon de Sebastian?",
+      "answers": [
+        "Kun funkcio kun negativa delto — manko de solvo en la serĉata loko",
+        "Kun la areo de triangulo",
+        "Kun natura logaritmo",
+        "Kun la vico de Fibonaĉi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi parolas pri kvadrata funkcio sen reelaj solvoj ĉe negativa delto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiom da mono Sebastian perdas komence?",
+      "answers": [
+        "Ok mil zlotojn",
+        "Kvar mil zlotojn",
+        "Dudek tri mil zlotojn",
+        "Nenion"
+      ],
+      "correctIndex": 0,
+      "explanation": "En unu tago li perdas ok mil zlotojn."
+    },
+    {
+      "type": "single_choice",
+      "question": "Per kia sumo li malfermas la unuan konscian pozicion post la paŭzo?",
+      "answers": [
+        "Cent zlotojn",
+        "Ok mil zlotojn",
+        "Kvardek mil zlotojn",
+        "Unu zloton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li malfermas simbole pozicion por cent zlotoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Sebastian skribas al Maria post la unua monato je pluso?",
+      "answers": [
+        "Ke ŝi gajnis por li",
+        "Ke li fermis la monaton je pluso — kaj dankas",
+        "Ke li rezignas pri la komercado",
+        "Ke li translokiĝas al Gdańsk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebastian skribas: „Hodiaŭ unuafoje post unu jaro mi fermis la monaton je pluso. Ne grandan. Sed pluson. Dankon.\" Maria respondas: „Tio ne estas mi. Tio estas vi. Vi fidis al vi mem.\""
+    }
+  ]
+}

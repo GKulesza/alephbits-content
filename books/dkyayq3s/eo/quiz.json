@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu eraro ekigas la krizon de Adam?",
+      "answers": [
+        "Li dividas la bankan pasvorton en Slack",
+        "Li enmetas la API-ŝlosilon en publikan GitHub-deponejon",
+        "Li aĉetas konton sur la nigra merkato",
+        "Li malŝaltas la 2FA"
+      ],
+      "correctIndex": 1,
+      "explanation": "La liko de la API-ŝlosilo en la publikan deponejon estas la rekta kaŭzo de la misuzoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Adam malkovras, analizante la nekutiman ĵetonkonsumadon?",
+      "answers": [
+        "Ke OpenAI malĝuste kalkulis la fakturon",
+        "Ke lia ŝlosilo trafis sistemon de perantoj vendantaj malmultekostan aliron",
+        "Ke la firmao testis novajn modelojn",
+        "Ke lian konton uzis lia kunlaboranto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur la forumoj li trovas proponojn de malmultekostaj ĵetonoj kaj komprenas la mekanismon de perantoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian rolon plenumas loĝejaj prokuraĵoj en la priskribita negoco?",
+      "answers": [
+        "Ili servas nur al laŭleĝa gastigado",
+        "Ili helpas kaŝi trafikon, uzante la ligilojn de ordinaraj uzantoj",
+        "Ili akcelas la trejnadon de modeloj",
+        "Ili blokas spamon sur la forumoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto priskribas ilin kiel manieron maski trafikon per la infrastrukturo de ordinaraj homoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la konversacio kun Li Wei ŝanĝas la pensmanieron de Adam?",
+      "answers": [
+        "Ĉar Li Wei redonas al li ĉiun monon",
+        "Ĉar ĝi montras la homan flankon de la kontraŭleĝa merkato kaj la problemon de alirbarieroj",
+        "Ĉar li montriĝas policano",
+        "Ĉar li proponas komunan noventreprenon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adam komencas vidi ne nur la trompon, sed ankaŭ homojn forpuŝitajn ekster la laŭleĝan aliron."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian praktikan lecionon Adam eltiras el la tuta historio?",
+      "answers": [
+        "Oni devas ĉesi uzi API-on",
+        "Sekureco postulas kaj ilojn, kaj konscion pri sistemaj minacoj",
+        "Plej bone labori nur malkonekte",
+        "Neniam uzi GitHub"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li transiras al sekretadministrilo, monitorado kaj edukado de aliaj programistoj."
+    }
+  ]
+}
