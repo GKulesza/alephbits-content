@@ -256,10 +256,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kial la ambasadejo rifuzas al ŝi la vizon?
 
 **Answers:**
-- A) Manko de mono por la bileto
+- A) Manko de sufiĉa mono por la bileto
 - B) Celo de vojaĝo indikita malĝuste
-- C) Manko de pasporto aŭ de vizo
-- D) La aĝo de la vojaĝanto
+- C) Manko de valida pasporto aŭ de vizo
+- D) La tro malgranda aĝo de la vojaĝanto
 
 **Correct:** B
 **Explanation:** La retpoŝto diras: rifuzo — celo de vojaĝo indikita malĝuste.
@@ -298,10 +298,10 @@ Kaj sufiĉis, ke ŝi revenis al si mem.
 **Question:** Kien iras Anastazja en la epilogo?
 
 **Answers:**
-- A) Al Almaty por ĉiam en la estonteco
+- A) Al Almaty por ĉiam en la estonteco de la vivo
 - B) Al la flughaveno — adiaŭante sian naskiĝurbon
-- C) Al la ambasadejo por novaj dokumentoj
-- D) Al la universitato de la urbo
+- C) Al la ambasadejo por novaj dokumentoj kaj paperoj
+- D) Al la universitato de la urbo por la studoj
 
 **Correct:** B
 **Explanation:** Ŝi staras sur la monteto, adiaŭas Almaty kaj iras al la flughaveno.

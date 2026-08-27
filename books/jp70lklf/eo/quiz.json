@@ -19,10 +19,10 @@
       "type": "single_choice",
       "question": "Kial la ambasadejo rifuzas al ŝi la vizon?",
       "answers": [
-        "Manko de mono por la bileto",
+        "Manko de sufiĉa mono por la bileto",
         "Celo de vojaĝo indikita malĝuste",
-        "Manko de pasporto aŭ de vizo",
-        "La aĝo de la vojaĝanto"
+        "Manko de valida pasporto aŭ de vizo",
+        "La tro malgranda aĝo de la vojaĝanto"
       ],
       "correctIndex": 1,
       "explanation": "La retpoŝto diras: rifuzo — celo de vojaĝo indikita malĝuste."
@@ -55,10 +55,10 @@
       "type": "single_choice",
       "question": "Kien iras Anastazja en la epilogo?",
       "answers": [
-        "Al Almaty por ĉiam en la estonteco",
+        "Al Almaty por ĉiam en la estonteco de la vivo",
         "Al la flughaveno — adiaŭante sian naskiĝurbon",
-        "Al la ambasadejo por novaj dokumentoj",
-        "Al la universitato de la urbo"
+        "Al la ambasadejo por novaj dokumentoj kaj paperoj",
+        "Al la universitato de la urbo por la studoj"
       ],
       "correctIndex": 1,
       "explanation": "Ŝi staras sur la monteto, adiaŭas Almaty kaj iras al la flughaveno."
