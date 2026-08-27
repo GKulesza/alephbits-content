@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Franek en ĉi tiu rakonto?",
+      "answers": [
+        "Sep",
+        "Dek",
+        "Kvin",
+        "Dek du"
+      ],
+      "correctIndex": 0,
+      "explanation": "La teksto: „Franek havis sep jarojn\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel nomiĝas la hundo?",
+      "answers": [
+        "Pankracy",
+        "Burek",
+        "Azor",
+        "Rudi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy apartenas al sinjoro Zygmunt de la teretaĝo."
+    },
+    {
+      "type": "single_choice",
+      "question": "El kiu programo sinjoro Zygmunt ludigas kasedon?",
+      "answers": [
+        "Piątek z Pankracym",
+        "Słonecznik",
+        "Teleranek",
+        "Klan"
+      ],
+      "correctIndex": 0,
+      "explanation": "La kasedo devenas el la programo „Piątek z Pankracym\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion diras la korvo pri la neĝohomo?",
+      "answers": [
+        "Aspekti kaj esti estas du malsamaj aferoj",
+        "La neĝohomo estas vivanta kaj spiranta",
+        "La neĝohomo estas la reĝo de la neĝo",
+        "La neĝohomon oni devas tuj detrui"
+      ],
+      "correctIndex": 0,
+      "explanation": "La korvo diras: „Aspekti kaj esti, tio estas du malsamaj aferoj\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel Pankracy helpas al Franek sur la korto?",
+      "answers": [
+        "Li stariĝas apud li — sufiĉas unu paŝo",
+        "Li mordas ĉiujn, kiuj alproksimiĝas",
+        "Li instruas al li ludi pilkon sur la korto",
+        "Li forkondukas lin hejmen antaŭ la vespero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy faras paŝon antaŭen kaj la knabo retiriĝas."
+    }
+  ]
+}

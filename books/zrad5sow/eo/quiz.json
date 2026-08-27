@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kion Franek demandas pri la kolorigbildo kun pomo?",
+      "answers": [
+        "Ĉu ĝi povas esti viola",
+        "Ĉu li ricevos premion",
+        "Ĉu sinjorino Marta foriras",
+        "Ĉu la pomo estas manĝebla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Franek: „Ĉu la mia povas esti viola?\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kie la infanoj pasigas la plej grandan parton de la tempo post la ŝanĝo?",
+      "answers": [
+        "En la ĉambro kun kolorigbildoj",
+        "Ekstere, sendepende de la vetero",
+        "En la kinejo kun la tuta grupo",
+        "Hejme kun la gepatroj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grażyna: plej multe da tempo ekstere, lernado per sperto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel komenciĝas la projekto pri dinosaŭroj?",
+      "answers": [
+        "Per skriba testo por la infanoj en la klaso",
+        "Per figuro de dinosaŭro, kiun alportas Franek",
+        "Per puno pro malbona konduto",
+        "Per la propono de la gepatroj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek alportas figuron — la infanoj volas ekscii pli."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun Marta invitas al la infanĝardeno?",
+      "answers": [
+        "Astronaŭton el la kosma centro",
+        "La paĉjon de Franek — bestokuraciston",
+        "Politikiston de la urba konsilio",
+        "Kantiston el la loka televido"
+      ],
+      "correctIndex": 1,
+      "explanation": "La paĉjo de Franek rakontas pri la bestoj; ekestas bestokuracista angulo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Franek diras al Marta post jaroj kiel lernanto?",
+      "answers": [
+        "Ke li malamis la infanĝardenon kaj la instruistinojn",
+        "Ke en la lernejo li ŝatas lerni, ĉar li povas demandi",
+        "Ke li jam forgesis pri la dinosaŭroj",
+        "Ke li volas fariĝi instruisto de infanoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek: en la lernejo li ŝatas lerni, ĉar li scias, ke li povas demandi."
+    }
+  ]
+}

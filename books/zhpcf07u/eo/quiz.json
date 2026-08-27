@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu baza tezo malfermas la klarigon de la diferenco inter radio kaj lumo?",
+      "answers": [
+        "Tiuj estas du tute malsamaj fenomenoj, kiuj havas nenion komunan",
+        "Ambaŭ apartenas al la elektromagneta spektro kaj diferencas per frekvenco",
+        "La radio estas mekanika ondo, kiu bezonas aeron por disvastiĝi",
+        "Lumo ne havas ian ajn rilaton kun la energio de la ondoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La aŭtoro bazas la klarigon sur la komuna naturo de elektromagnetaj ondoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel la teksto priskribas la malmolecon de materio sur la atoma nivelo?",
+      "answers": [
+        "Kiel efikon de tuŝado de plenaj globetoj de materio",
+        "Kiel rezulton de forpuŝo de la elektronaj nuboj",
+        "Kiel agadon de la gravita forto en la tablo",
+        "Kiel econ de ligno kaj betono sendependan de atomoj"
+      ],
+      "correctIndex": 1,
+      "explanation": "La klarigo de malmoleco rilatas al la forpuŝo de elektronoj, ne al kompakta maso."
+    },
+    {
+      "type": "single_choice",
+      "question": "Por kio aperas en la teksto la ekvacio E = h × f?",
+      "answers": [
+        "Por kalkuli la pezon de la muro en la domo",
+        "Por montri, ke la energio de fotono kreskas kun la frekvenco",
+        "Por klarigi la boltemperaturon de la akvo en la kaldrono",
+        "Por priskribi la movon de la planedoj ĉirkaŭ la suno"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ekvacio de Planck klarigas la energian diferencon inter radio- kaj videblaj fotonoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial radiondonoj trairas multajn murojn pli facile ol la videbla lumo?",
+      "answers": [
+        "Ĉar ili estas pli rapidaj ol la lumo mem en la vakuo",
+        "Ĉar iliaj fotonoj estas tro malfortaj, por veki la elektronojn",
+        "Ĉar la muroj enhavas nur metalon kaj ŝtalon",
+        "Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al gravito"
+      ],
+      "correctIndex": 1,
+      "explanation": "La kerno de la klarigo estas la energia malkongruo kun la niveloj de la elektronoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun pli vastan lecionon pri la realo tiras la teksto el ĉi tiu ekzemplo?",
+      "answers": [
+        "Ke la mondo estas nur iluzio kaj nenio vere ekzistas",
+        "Ke la homa percepto kovras nur malgrandan fragmenton de la vera mondo",
+        "Ke nur tio, kio estas videbla per la okulo, estas reala",
+        "Ke la radiondonoj estas pli gravaj por la homoj ol la videbla lumo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La finaj partoj substrekas la limigitecon de niaj sensoj antaŭ la plena spektro kaj la strukturo de materio."
+    }
+  ]
+}

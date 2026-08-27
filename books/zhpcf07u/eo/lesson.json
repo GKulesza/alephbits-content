@@ -1,0 +1,128 @@
+{
+  "id": "zhpcf07u:eo",
+  "bookId": "zhpcf07u",
+  "locale": "eo",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_dlaczego_fale_radiowe_przenikaja_przez_sciany_a_swiatlo_nie",
+  "legacySlug": "dlaczego-fale-radiowe-przenikaja-przez-sciany-a-swiatlo-nie",
+  "title": "Kial Radiondo Penetras Tra Muroj, sed Lumo Ne?",
+  "language": "eo",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-07-09",
+  "description": "Kial la radio funkcias malantaŭ la muro, sed la lumo jam ne? La rakonto kondukas de elektromagnetaj ondoj tra la strukturo de materio ĝis la demandoj, kiujn la fizikistoj ankoraŭ faras. Sen sekaj prelegoj — kun la scivolemo de homo, kiu volas kompreni la mondon tuj preter la ĉiutaga sperto de vido kaj aŭdo.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "4",
+  "tags": [
+    "physics",
+    "electromagnetism",
+    "feynman",
+    "atoms",
+    "light"
+  ],
+  "difficulty": 6,
+  "estimatedReadingTime": 7,
+  "translation": "Esperanta traduko de la pola legpaketo „Dlaczego Fale Radiowe Przenikają Przez Ściany, a Światło Nie?\" — oficiala eldono de Collection Three.",
+  "text": "**Kial Radiondo Penetras Tra Muroj, sed Lumo Ne?**\n\n**Rakonto inspirita de materialoj pri Richard Feynman**\n\nVarsovio, la jaro 1980. Malgranda loĝejo sur la kvara etaĝo, ekster la fenestro aŭtklakonoj, neonsignoj kaj betonkonstruaĵoj etendiĝantaj ĝis la horizonto. En la ĉambro, sur la ligna tablo, staras malnova radioaparato. El ĝia laŭtparolilo aŭdiĝas ĵazo — notoj fluantaj el centoj da kilometroj for, el Krakovo, aŭ eble eĉ el eksterlando.\n\nLa radiosignalo penetras tra muroj, tra betono, tra brikoj, tra homaj korpoj, por atingi la antenon de la aparato. Dume la lumo el la koridoro — tiu sama, kiu ebligas vidi formojn kaj kolorojn — haltiĝas sur la muro kiel ĉe nevidebla digo.\n\nKial?\n\nTiu demando turmentis min de la infanaĝo. Kiam mi plenkreskis, mi komprenis, ke la respondo kaŝiĝas en io, kio transiras nian ĉiutagan intuicion. La fiziko, kiun praktikis homoj kiel Richard Feynman, montras, ke la realo estas multe pli stranga, ol sugestas al ni la cerbo.\n\n**Nevidebla oceano**\n\nJames Clerk Maxwell en 1865 kunigis elektron kaj magnetismon en unu teorion. Li pruvis, ke lumo kaj radiondonoj estas la sama fenomeno — elektromagnetaj ondoj. Ili diferencas nur per la frekvenco.\n\nImagu la elektromagnetan kampon kiel nevideblan oceanon etendiĝantan tra la tuta universo. Se vi movas la surfacon malrapide, vi kreas radiondonojn longajn je metroj, eĉ je kilometroj. Se vi movas ĝin pli rapide — ekestas mikroondoj. Ankoraŭ pli rapide — infraruĝa radiado. Vi akcelas eĉ pli — aperas videbla lumo. Kaj kiam vi skuas tiun kampon per ekstreme alta frekvenco — vi ricevas gamaradiadon, kiu kapablas disfendi atomojn.\n\nLa naturo uzas unu fundamenton en la tuta spektro. La videbla lumo estas nenio speciala el la vidpunkto de la fiziko. Ĝi estas nur tiu eta fragmento, kiun la biologio de la homa okulo lernis registri.\n\n**Muro, kiu estas malpleno**\n\nKiam vi batas per la pugno muregon, vi sentas ĝian malmolecon. Sed la fiziko rakontas ĉi tie tute alian historion.\n\nSe vi pligrandigus la atomon milionojn da fojoj, vi vidus, ke ĝi estas fakte malplena interne. La atomkerno estas komike malgranda kompare kun la tuta atomo. Se la kerno havus la grandecon de pizgrajno en la mezo de la nacia stadiono, la elektronoj rondirus sur la plej supraj tribinoj — ne kiel malmolaj globetoj, sed kiel nebulaj probablecaj nuboj.\n\nTio, kion ni nomas malmola objekto, estas fakte kampo de elektromagnetaj fortoj inter la atomoj. Kiam vi metas la manon sur la tablon, viaj elektronoj neniam vere tuŝas la elektronojn de la tablo. Tio, kion vi sentas, estas potenca forto de forpuŝo inter la elektronaj nuboj. Vi ambaŭ havas negativan ŝargon — vi forpuŝas unu la alian per neimagebla forto.\n\nLa sento de fizika malmoleco ne devenas de tio, ke la materio estas solida bloko. Ĝi devenas de tio, ke la elektromagneta kampo ne permesas al la elektronoj penetri unu la alian.\n\n**Kvantuma seruro**\n\nEn 1900 Max Planck faris eltrovon, kiu skuis la fizikon. Li eltrovis, ke la energio ne fluas kontinue kiel akvo en rivero, sed aperas en malgrandaj, apartaj porcioj. Li nomis ilin kvantoj.\n\nLa ekvacio estis surprize simpla: **E = h × f**\n\nKie E estas la energio, h estas la konstanto de Planck (ekstreme malgranda nombro), kaj f estas la frekvenco de la radiado.\n\nJu pli alta la frekvenco, des pli granda la energio. Radiondonoj havas malaltajn frekvencojn, do iliaj fotonoj estas nekredeble malfortaj. La videbla lumo estas multe pli forta. Gamaradioj portas energion sufiĉan por disŝiri atomojn.\n\nLa elektronoj en la atomoj povas troviĝi nur sur strikte difinitaj energiaj niveloj — kiel ŝtuparo, ne kiel fluida dekliveto. Elektrono neniam haltos duonvoje inter la ŝtupoj. Ĝi povas troviĝi nur en konkretaj, permesitaj lokoj.\n\nTio signifas, ke la elektronoj estas elektoemaj rilate al la tipo de absorbata energio. Ili sorbos fotonon nur tiam, kiam la energio de tiu fotono perfekte kongruas kun la diferenco de niveloj inter la ŝtupoj. Se ĝi eĉ iomete ne kongruas — la elektrono simple ignoras ĝin.\n\n**Sekreto de la penetrado**\n\nKaj ĝuste ĉi tie ĉio klariĝas.\n\nLa fotonoj de radiondonoj portas tre malmulte da energio. Tiel malmulte, ke la elektronoj en la konstruaj materialoj — briko, betono, ligno — simple ilin ignoras. Radiondonoj ne havas la ĝustan kvanton da energio, por devigi la elektronojn salti al pli altaj niveloj.\n\nEl la vidpunkto de radiondonoj, tiuj solidaj, masivaj muroj simple ne ekzistas. Ili penetras ilin preskaŭ sen rezisto.\n\nLa videbla lumo ludas en tute alia ligo. Ĝiaj fotonoj portas energion milionojn da fojoj pli grandan ol la radiofotonoj. Kaj — plej grave — tiu energia nivelo perfekte kongruas kun tio, kion ŝatas la elektronoj en la materio. Danke al tiu kongruo la partikloj de la materio agreseme absorbas, reflektas aŭ disĵetas la falantan sur ilin videblan lumon.\n\nLa muro, kiu por radiondonoj estas travidebla, por la lumo fariĝas murego netransirebla.\n\n**Mondo, kiun ni ne vidas**\n\nLa homa okulo perceptas nur eltranĉaĵon de la elektromagneta spektro — de 400 ĝis 700 nanometroj. Tio estas ĉio, kion vi iam ajn vidis: la blua ĉielo, la vizaĝoj de amikoj, la briletantaj steloj, la lumoj de la nokta Varsovio.\n\nPreter tiu mallarĝa intervalo ekzistas radiondonoj, infraruĝa radiado, ultraviolo, rentgenaj kaj gamaj radioj — ili ĉirkaŭas vin en ĉiu sekundo. Via cerbo tute ne konscias pri ili.\n\nEn 1800 William Herschel malkovris la infraruĝan radiadon, metante termometron tien, kie jam ne videblis lumo. La temperaturo en tiu loko altiĝis. La naturo dum la tuta tempo brilis en la infraruĝo — la homoj simple tion ne rimarkis.\n\nLa serpento perceptas la infraruĝan radiadon kiel naturan elementon de sia realo. La abelo vidas ultraviolajn ŝablonojn sur la petaloj de floroj, kiuj por ni estas kaŝitaj. Ĉiu specio vivas en sia propra versio de la universo.\n\nLa realo estas ĉiam multe pli vasta ol la homa sperto. Ĝuste en ĉi tiu momento miliardoj da radiondonoj penetras vian korpon. La infraruĝa radiado el via haŭto disvastiĝas tra la ĉambro. Kosmaj radioj el fora kosmo prapasas tra la atmosfero. Via cerbo registras el tio nur etan fragmenton kaj nomas ĝin simple mondo.\n\n**Kosma danco**\n\nLa leĝoj de la fiziko, kiuj klarigas, kial radiondonoj penetras tra muroj, direktas ankaŭ la movon de galaksioj.\n\nNia galaksio — la Lakta Vojo — flugrapidas al Andromedo kun rapideco de ĉirkaŭ 110 kilometroj en sekundo. Tio estas pli ol 400 mil kilometroj en horo. Andromedo enhavas ĉirkaŭ duilionon da steloj — multe pli ol nia galaksio.\n\nPost ĉirkaŭ 4–5 miliardoj da jaroj tiuj du galaksioj komencos kunfandiĝi. Sed tio ne estos spektakla kolizio, kian montras la filmoj. La averaĝa distanco inter la steloj estas 4–5 lumjaroj. Se ni malgrandigus la Sunon ĝis la grandeco de tenispilko kaj metus ĝin sur straton en Varsovio, la plej proksima stelo troviĝus centojn da kilometroj for, en tute alia provinco.\n\nLa probableco de rekta kolizio de du steloj estas neglektebla. La plej grandaj ŝanĝoj okazos en la gravitaj orbitoj. La gravito entiros centojn da miliardoj da steloj en novan dancon de la spactempo.\n\nTiu sama gravito, kiu igis la pomon fali sur la kapon de Newton, kontrolas la movon de galaksioj enhavantaj centojn da miliardoj da steloj. La universo ne faras distingon inter tio, kio estas malgranda, kaj tio, kio estas giganta.\n\n**Muro kaj realo**\n\nJu pli profunde mi enprofundiĝas en la fizikon, des pli mi konvinkiĝas, ke la scienco ne faras la universon pli malgranda nek malpli mistera. Ĝi faras ĝuste la malon. Ĝi konstante memorigas al ni, ke tio, kion ni nomas realo, estas multe pli granda kaj pli stranga ol la biologia percepto, per kiu la evoluo dotis la homon.\n\nLa muro apud vi tute ne estas tiel solida, kiel sugestas al vi la homa cerbo. Tio, kion vi nomas malmola, travidebla aŭ malluma — dependas nur de tio, kiel la koncerna materio interagas kun la ondo, kaj kiel viaj sensorganoj interpretas tiun interagon.\n\nLa fiziko absolute ne asertas, ke la mondo estas iluzio. Ĝi nur konsciigas al ni, ke nia percepto estas draste limigita. Ju pli profunde vi rigardas en la internon de la atomo, des malpli ĝi similas al fizika objekto. Ĝi komencas simili al freneza danco de probablecoj kaj pulsantaj forto-kampoj.\n\nTio, kion ni senzorge nomas muro, estas rezulto de duilionoj da kvantumaj interagoj okazantaj en reala tempo kun neimagebla rapideco. Nia biologia cerbo kolektas tiun tutan nekompreneblan ĥaoson kaj algluas al ĝi oportunan etikedon: „malmola muro\".\n\n**Feynman kaj la rigardo al la realo**\n\nRichard Feynman instruis al ni, ke la fiziko estas ne nur formuloj kaj ekvacioj — ĝi estas maniero rigardi la mondon. Li klarigis, ke la materio selekte reagas al diversaj tipoj de elektromagneta energio sur la kvantuma nivelo. Kompreni la diferencojn en la frekvencoj de ondoj permesas rigardi la fizikan realon en tute nova maniero, transiranta la limojn de la homa percepto.\n\nKiam vi tion jam komprenos, vi neniam plu rigardos lumon kaj radiondonojn same. La muro ne plu estas por vi obstaklo — ĝi estas pordego al kompreno, kiel la naturo intertraktas kun la materio sur la plej fundamenta nivelo.\n\nSe vi estus estaĵo, kiu evoluigis la senson de vido helpe de radiondonoj, la mondo ĉirkaŭ vi aspektus radikale alie. Betonaj muroj estus por vi duontravidebla nebulo, ne masiva obstaklo. La arkitekturo, la urboj, la sperto de spaco — ĉio starus sur la kapo.\n\nLa realo ne havas absolutan, fiksitan formon. Tio, kion vi nomas mondo, estas nur interpretaĵo — unu el nefinie multaj eblaj. Kaj ie tie, en tiu por vi nevidebla spaco, radiondonoj ankoraŭ penetras tra muroj, tra korpoj, tra ĉio — dancante sian kvantuman dancon, kiu daŭras de la komenco de la universo.\n\n_Ĝi ne estas magio. Ĝi ne estas teknologio de la estonteco. Ĝi estas la leĝoj de la fiziko, kiuj agas ĉirkaŭ ni senĉese._\n\n**[Fino]**",
+  "quiz": {
+    "title": "Kontrolu vian komprenon",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kiu baza tezo malfermas la klarigon de la diferenco inter radio kaj lumo?",
+        "answers": [
+          "Tiuj estas du tute malsamaj fenomenoj, kiuj havas nenion komunan",
+          "Ambaŭ apartenas al la elektromagneta spektro kaj diferencas per frekvenco",
+          "La radio estas mekanika ondo, kiu bezonas aeron por disvastiĝi",
+          "Lumo ne havas ian ajn rilaton kun la energio de la ondoj"
+        ],
+        "correctIndex": 1,
+        "explanation": "La aŭtoro bazas la klarigon sur la komuna naturo de elektromagnetaj ondoj."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiel la teksto priskribas la malmolecon de materio sur la atoma nivelo?",
+        "answers": [
+          "Kiel efikon de tuŝado de plenaj globetoj de materio",
+          "Kiel rezulton de forpuŝo de la elektronaj nuboj",
+          "Kiel agadon de la gravita forto en la tablo",
+          "Kiel econ de ligno kaj betono sendependan de atomoj"
+        ],
+        "correctIndex": 1,
+        "explanation": "La klarigo de malmoleco rilatas al la forpuŝo de elektronoj, ne al kompakta maso."
+      },
+      {
+        "type": "single_choice",
+        "question": "Por kio aperas en la teksto la ekvacio E = h × f?",
+        "answers": [
+          "Por kalkuli la pezon de la muro en la domo",
+          "Por montri, ke la energio de fotono kreskas kun la frekvenco",
+          "Por klarigi la boltemperaturon de la akvo en la kaldrono",
+          "Por priskribi la movon de la planedoj ĉirkaŭ la suno"
+        ],
+        "correctIndex": 1,
+        "explanation": "La ekvacio de Planck klarigas la energian diferencon inter radio- kaj videblaj fotonoj."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kial radiondonoj trairas multajn murojn pli facile ol la videbla lumo?",
+        "answers": [
+          "Ĉar ili estas pli rapidaj ol la lumo mem en la vakuo",
+          "Ĉar iliaj fotonoj estas tro malfortaj, por veki la elektronojn",
+          "Ĉar la muroj enhavas nur metalon kaj ŝtalon",
+          "Ĉar la radio ĉirkaŭiras la konstruaĵojn danke al gravito"
+        ],
+        "correctIndex": 1,
+        "explanation": "La kerno de la klarigo estas la energia malkongruo kun la niveloj de la elektronoj."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kiun pli vastan lecionon pri la realo tiras la teksto el ĉi tiu ekzemplo?",
+        "answers": [
+          "Ke la mondo estas nur iluzio kaj nenio vere ekzistas",
+          "Ke la homa percepto kovras nur malgrandan fragmenton de la vera mondo",
+          "Ke nur tio, kio estas videbla per la okulo, estas reala",
+          "Ke la radiondonoj estas pli gravaj por la homoj ol la videbla lumo"
+        ],
+        "correctIndex": 1,
+        "explanation": "La finaj partoj substrekas la limigitecon de niaj sensoj antaŭ la plena spektro kaj la strukturo de materio."
+      }
+    ]
+  },
+  "coverFamily": "popular_science",
+  "audience": "adult",
+  "subtitle": "Rakonto pri la elektromagneta spektro kaj materio",
+  "trustClassification": "popular_science",
+  "editorialHistory": {
+    "firstPublished": "2026-07-09",
+    "lastEditorialUpdate": "2026-08-27"
+  },
+  "inspirationDates": [
+    "2026-07-04"
+  ],
+  "inspiredBy": {
+    "youtube": "TemssaBn_lI"
+  },
+  "world": {
+    "objects": [
+      "book",
+      "window"
+    ],
+    "places": [
+      "home",
+      "school"
+    ]
+  }
+}
