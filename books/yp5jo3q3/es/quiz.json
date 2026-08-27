@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Quién es Marek al principio de la historia?",
+      "answers": [
+        "Un sacerdote",
+        "Un profesor, materialista y neurocientífico",
+        "Un artista",
+        "Un monje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Es materialista, físico, investigador de la conciencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué experimenta Marek al cerrar los ojos al principio de la historia?",
+      "answers": [
+        "Un sueño sobre un viaje",
+        "Luz dorada y el sentimiento: \"Eres parte del todo\"",
+        "Un dolor de cabeza",
+        "Nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ve una luz dorada y densa y oye que no es un cuerpo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le aconseja Federico en lugar de buscar la conciencia en el cerebro?",
+      "answers": [
+        "En el laboratorio",
+        "Tratar la conciencia como fundamento, y el cerebro como herramienta",
+        "Renunciar a la ciencia",
+        "Rezar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dice que el cerebro es solo una herramienta que usa la conciencia."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué hace Marek un año después, en lugar de escribir artículos de neurobiología?",
+      "answers": [
+        "Vuelve al materialismo",
+        "Dirige talleres para personas perdidas",
+        "Deja el trabajo",
+        "Escribe sobre política"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dirige talleres sobre la unidad y la conexión."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué le dice Marek a la mujer después del taller?",
+      "answers": [
+        "Que debe ir al médico",
+        "\"Vuelves a ti misma — y ese es el paso más importante.\"",
+        "Que fue un sueño",
+        "Que no hay respuestas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repite: vuelves a ti misma — el paso más importante."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How does Antoni Dudek propose to look at Wałęsa?",
+      "answers": [
+        "Exclusively as a traitorous agent",
+        "Neither exclusively through rose-tinted nor exclusively through black glasses",
+        "Only as a holy hero",
+        "Exclusively through the prism of the Nobel Prize"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the basic thesis that opens and closes the whole text."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the text regard as the most important reason for the positive balance of Wałęsa's life?",
+      "answers": [
+        "His presidency after 1990",
+        "The role he played in the 1980s and in Solidarity",
+        "Exclusively the Nobel Peace Prize",
+        "His activity after 2000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek says the positive balance results above all from the 1980s."
+    },
+    {
+      "type": "single_choice",
+      "question": "What problem is connected with the pseudonym \"Bolek\"?",
+      "answers": [
+        "It concerns exclusively a false internet legend",
+        "It refers to Wałęsa's collaboration with the Security Service in the first half of the 1970s",
+        "It is the code name of the 1980 strike",
+        "It is the name of a political party"
+      ],
+      "correctIndex": 1,
+      "explanation": "The \"Bolek\" section describes the collaboration and its moral weight."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does Wałęsa's presidency fare poorly in the text?",
+      "answers": [
+        "Because he didn't want to run in the elections",
+        "Because he didn't understand the role of the president in a parliamentary system and destabilised politics",
+        "Because he emigrated immediately",
+        "Because he rejected the constitution in a referendum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek points to the lack of understanding of the political system and the conflict-ridden nature of the presidency."
+    },
+    {
+      "type": "single_choice",
+      "question": "What, according to the text, particularly damaged Wałęsa's later image?",
+      "answers": [
+        "Exclusively the activity of the West",
+        "The inability to admit to mistakes and his own megalomania",
+        "The lack of technical education",
+        "Refusing to accept the Nobel Prize"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dudek stresses that Wałęsa hurt himself most after leaving office."
+    }
+  ]
+}

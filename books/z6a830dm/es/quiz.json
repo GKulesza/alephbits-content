@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué decía el padre de Tomek cuando este intentaba hablar?",
+      "answers": [
+        "Los niños deben ser vistos y no oídos",
+        "Habla más alto",
+        "Pregunta por todo",
+        "Aprende por tu cuenta"
+      ],
+      "correctIndex": 0,
+      "explanation": "El padre: \"Los niños deben ser vistos y no oídos: tú tienes que escuchar, no hablar\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué desencadena la reflexión de Tomek en el coche?",
+      "answers": [
+        "Un SMS del jefe",
+        "Un pódcast de Maria Berlińska sobre el diálogo con los hijos",
+        "Una película de acción",
+        "Un anuncio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oye: \"Antes los niños tenían que escuchar, y ahora quieren estar en diálogo\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice Zosia que necesita de su padre?",
+      "answers": [
+        "Más regalos",
+        "Que estés conmigo — no solo físicamente",
+        "Un teléfono nuevo",
+        "Que no trabaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Necesito que estés conmigo. No solo físicamente\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué cambia Tomek por las noches?",
+      "answers": [
+        "Más televisión",
+        "Deja el teléfono a un lado y habla con sus hijos",
+        "Manda a los niños a casa de la abuela",
+        "Les compra juegos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Noches sin teléfonos: conversación, lectura, paseo."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice la profesora en la reunión de padres?",
+      "answers": [
+        "Que Zosia ha empeorado",
+        "Que Zosia es más abierta — y Tomek responde: \"He cambiado yo\"",
+        "Que Zosia debería cambiar de colegio",
+        "Nada"
+      ],
+      "correctIndex": 1,
+      "explanation": "La profesora ve el cambio; Tomek: \"He cambiado yo\"."
+    }
+  ]
+}

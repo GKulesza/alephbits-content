@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What did Tomek's father say when he tried to speak up?",
+      "answers": [
+        "Children should be seen and not heard",
+        "Speak louder",
+        "Ask about everything",
+        "Learn on your own"
+      ],
+      "correctIndex": 0,
+      "explanation": "His father: \"Children should be seen and not heard — you're supposed to listen, not talk.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What triggers Tomek's reflection in the car?",
+      "answers": [
+        "A text message from his boss",
+        "A podcast with Maria Berlińska about dialogue with children",
+        "An action movie",
+        "An advertisement"
+      ],
+      "correctIndex": 1,
+      "explanation": "He hears: \"Children used to be expected to listen, and now they want to be in a dialogue.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Zosia say she needs from her dad?",
+      "answers": [
+        "More presents",
+        "For him to be with me — not just physically",
+        "A new phone",
+        "For him not to work"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"I need you to be with me. Not just physically.\""
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Tomek change in the evenings?",
+      "answers": [
+        "More TV",
+        "He puts the phone aside and talks with his children",
+        "He sends the children to their grandmother",
+        "He buys them games"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evenings without phones — talking, reading, walking."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the teacher say at parent-teacher night?",
+      "answers": [
+        "That Zosia has got worse",
+        "That Zosia is more open — and Tomek answers: \"I changed\"",
+        "That Zosia should change schools",
+        "Nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "The teacher sees the change; Tomek: \"I changed.\""
+    }
+  ]
+}

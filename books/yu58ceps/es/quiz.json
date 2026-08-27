@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Cuántos años tiene Franek en esta historia?",
+      "answers": [
+        "Siete",
+        "Diez",
+        "Cinco",
+        "Doce"
+      ],
+      "correctIndex": 0,
+      "explanation": "El texto dice: \"Franek tenía siete años\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo se llama el perro?",
+      "answers": [
+        "Pankracy",
+        "Burek",
+        "Azor",
+        "Rudi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy es del señor Zygmunt, de la planta baja."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿De qué programa pone el señor Zygmunt una cinta?",
+      "answers": [
+        "Piątek z Pankracym",
+        "Słonecznik",
+        "Teleranek",
+        "Klan"
+      ],
+      "correctIndex": 0,
+      "explanation": "La cinta es del programa \"Piątek z Pankracym\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué dice la corneja sobre el muñeco de nieve?",
+      "answers": [
+        "Parecer y ser son dos cosas distintas",
+        "El muñeco está vivo",
+        "El muñeco es un rey",
+        "El muñeco hay que destruirlo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La corneja dice: \"Parecer y ser son dos cosas distintas\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo ayuda Pankracy a Franek en el patio?",
+      "answers": [
+        "Se pone a su lado — un solo paso basta para ahuyentar al chico",
+        "Muerde a todos",
+        "Le enseña a jugar al fútbol",
+        "Lo lleva a casa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy da un paso al frente y el chico retrocede."
+    }
+  ]
+}

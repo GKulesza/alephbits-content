@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Who is Marek at the beginning of the story?",
+      "answers": [
+        "A priest",
+        "A professor, a materialist and a neuroscientist",
+        "An artist",
+        "A monk"
+      ],
+      "correctIndex": 1,
+      "explanation": "He is a materialist, a physicist, a researcher of consciousness."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek experience after closing his eyes at the beginning of the story?",
+      "answers": [
+        "A dream about a journey",
+        "Golden light and the feeling: \"You are part of the whole\"",
+        "A headache",
+        "Nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "He sees dense golden light and hears that he is not a body."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Federico advise instead of looking for consciousness in the brain?",
+      "answers": [
+        "In the laboratory",
+        "To treat consciousness as the foundation, and the brain as a tool",
+        "To give up science",
+        "To pray"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says the brain is only a tool that consciousness uses."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek do a year later instead of writing articles about neurobiology?",
+      "answers": [
+        "He returns to materialism",
+        "He runs workshops for lost people",
+        "He quits his job",
+        "He writes about politics"
+      ],
+      "correctIndex": 1,
+      "explanation": "He runs workshops about oneness and connection."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does Marek say to the woman after the workshop?",
+      "answers": [
+        "That she must see a doctor",
+        "\"You're returning to yourself — and that's the most important step.\"",
+        "That it was a dream",
+        "That there are no answers"
+      ],
+      "correctIndex": 1,
+      "explanation": "He repeats: you're returning to yourself — the most important step."
+    }
+  ]
+}

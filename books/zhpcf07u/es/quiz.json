@@ -1,0 +1,67 @@
+{
+  "title": "Comprueba tu comprensión",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "¿Qué tesis básica abre la explicación de la diferencia entre la radio y la luz?",
+      "answers": [
+        "Son dos fenómenos totalmente distintos",
+        "Ambas pertenecen al espectro electromagnético y se diferencian en la frecuencia",
+        "La radio es una onda mecánica",
+        "La luz no tiene relación con la energía"
+      ],
+      "correctIndex": 1,
+      "explanation": "El autor basa la explicación en la naturaleza común de las ondas electromagnéticas."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Cómo describe el texto la dureza de la materia a nivel atómico?",
+      "answers": [
+        "Como efecto del contacto de bolitas llenas de materia",
+        "Como consecuencia de la repulsión de los campos electromagnéticos entre las nubes de electrones",
+        "Como acción de la gravedad en la mesa",
+        "Como propiedad de la madera y el hormigón independiente de los átomos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La explicación de la dureza remite a la repulsión de los electrones, no a un cuerpo compacto."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Para qué aparece la ecuación E = h × f en el texto?",
+      "answers": [
+        "Para calcular el peso de una pared",
+        "Para mostrar que la energía del fotón crece con la frecuencia",
+        "Para explicar la temperatura de ebullición del agua",
+        "Para describir el movimiento de los planetas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ecuación de Planck explica la diferencia de energía entre los fotones de radio y los visibles."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Por qué las ondas de radio atraviesan muchas paredes más fácilmente que la luz visible?",
+      "answers": [
+        "Porque son más rápidas que la luz",
+        "Porque sus fotones tienen demasiada poca energía para excitar los electrones del material",
+        "Porque las paredes solo contienen metal",
+        "Porque la radio rodea los edificios gracias a la gravedad"
+      ],
+      "correctIndex": 1,
+      "explanation": "El núcleo de la explicación es el desajuste energético con los niveles de los electrones."
+    },
+    {
+      "type": "single_choice",
+      "question": "¿Qué lección más amplia sobre la realidad extrae el texto de este ejemplo?",
+      "answers": [
+        "Que el mundo es una ilusión y nada existe",
+        "Que la percepción humana abarca solo un pequeño fragmento de un mundo físico mucho más rico",
+        "Que solo lo visible es real",
+        "Que las ondas de radio son más importantes que la luz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las partes finales subrayan la limitación de nuestros sentidos frente al espectro completo y a la estructura de la materia."
+    }
+  ]
+}

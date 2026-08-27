@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "What basic thesis opens the explanation of the difference between radio and light?",
+      "answers": [
+        "They are two completely different phenomena",
+        "Both belong to the electromagnetic spectrum and differ in frequency",
+        "Radio is a mechanical wave",
+        "Light has nothing to do with energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The author bases the explanation on the common nature of electromagnetic waves."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does the text describe the hardness of matter at the atomic level?",
+      "answers": [
+        "As the result of solid balls of matter touching",
+        "As the result of repulsion of electromagnetic fields between electron clouds",
+        "As the action of gravity in the table",
+        "As a property of wood and concrete independent of atoms"
+      ],
+      "correctIndex": 1,
+      "explanation": "The explanation of hardness refers to the repulsion of electrons, not to a compact body."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why does the equation E = h × f appear in the text?",
+      "answers": [
+        "To calculate the weight of a wall",
+        "To show that a photon's energy grows with frequency",
+        "To explain the boiling point of water",
+        "To describe the motion of planets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planck's equation explains the energy difference between radio and visible photons."
+    },
+    {
+      "type": "single_choice",
+      "question": "Why do radio waves pass through many walls more easily than visible light?",
+      "answers": [
+        "Because they are faster than light",
+        "Because their photons have too little energy to excite the electrons of the material",
+        "Because walls contain only metal",
+        "Because radio goes around buildings thanks to gravity"
+      ],
+      "correctIndex": 1,
+      "explanation": "The essence of the explanation lies in the energy mismatch with electron levels."
+    },
+    {
+      "type": "single_choice",
+      "question": "What broader lesson about reality does the text draw from this example?",
+      "answers": [
+        "That the world is an illusion and nothing exists",
+        "That human perception covers only a small fragment of a much richer physical world",
+        "That only what is visible is real",
+        "That radio waves are more important than light"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final sections emphasise the limits of our senses in the face of the full spectrum and the structure of matter."
+    }
+  ]
+}

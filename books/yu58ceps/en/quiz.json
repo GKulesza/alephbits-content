@@ -1,0 +1,67 @@
+{
+  "title": "Check your understanding",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "How old is Franek in this story?",
+      "answers": [
+        "Seven",
+        "Ten",
+        "Five",
+        "Twelve"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text says: \"Franek was seven years old\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What is the dog's name?",
+      "answers": [
+        "Pankracy",
+        "Burek",
+        "Azor",
+        "Rudi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy belongs to Mr Zygmunt from the ground floor."
+    },
+    {
+      "type": "single_choice",
+      "question": "Which programme is the tape Mr Zygmunt plays from?",
+      "answers": [
+        "Piątek z Pankracym",
+        "Słonecznik",
+        "Teleranek",
+        "Klan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tape comes from the programme \"Piątek z Pankracym\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "What does the crow say about the snowman?",
+      "answers": [
+        "Looking and being are two different things",
+        "The snowman is alive",
+        "The snowman is a king",
+        "The snowman must be destroyed"
+      ],
+      "correctIndex": 0,
+      "explanation": "The crow says: \"Looking and being are two different things\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "How does Pankracy help Franek in the yard?",
+      "answers": [
+        "He stands beside him — one step is enough to scare the boy off",
+        "He bites everyone",
+        "He teaches him football",
+        "He takes him home"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pankracy takes a step forward and the boy backs away."
+    }
+  ]
+}

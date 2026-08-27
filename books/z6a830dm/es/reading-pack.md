@@ -1,0 +1,375 @@
+# Un mundo nuevo
+
+## Metadata
+
+**Pack ID:** z6a830dm
+**Book ID:** z6a830dm
+**Legacy Pack ID:** polish_nowy_swiat
+**Version:** 1.1.0  
+**Edition version:** 1.1.0  
+
+**Title:** Un mundo nuevo  
+**Subtitle:** De "escuchar" a "dialogar"  
+**Blurb:** Tomek, educado según el principio de que los niños deben ser vistos y no oídos, no entiende por qué su hija Zosia se cierra en sí misma. El pódcast de Maria Berlińska sobre el diálogo le abre los ojos.
+
+**Genres:** psychology, short_story  
+**Series:** Collection Ten  
+**Audience:** family
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** es  
+**Translation summary:** Traducción al español del pack de lectura polaco "Nowy świat" — edición oficial de Collection Ten.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 1  
+
+**Tags:** dialog, ekrany, wychowanie, Maria Berlińska, Collection Ten  
+
+**Keywords:** Nowy świat, Tomek, Zosia, dialog  
+
+**Cover family:** everyday_live
+
+
+**Motifs:**
+- fatherhood
+- childhood
+- home
+- silence
+- companionship
+- journey
+
+**Editorial notes:** Fikcja parentingowa; powtarzalna struktura podcast→zmiana.
+
+**Inspiration:** Podcast Marii Berlińskiej o dialogu zamiast tresury; YouTube hRjcnfpDQ2Q (2025-08-20).
+
+---
+
+**World:**
+- objects: book, window
+- places: home, town
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-07-13  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Source block:** 20.08.2025 -> https://www.youtube.com/watch?v=hRjcnfpDQ2Q  
+**Revision notes:** Phase 119 import.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-07-13 | Collection editorial import (Phase 119) |
+| 1.1.0 | 2026-08-26 | Quiz correction — grammar |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-07-13 | AlephBits Editorial | Phase 119 import; philosophy fit 3/5 — Akceptowalna — ważny przekaz obecności, mniej oryginalna niż Chór. |
+
+---
+
+## Sources
+
+### Source 1: Collection Ten manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=hRjcnfpDQ2Q  
+**License:** CC0 1.0 Universal (text); source material per original availability  
+**Retrieval date:** 2025-08-20  
+**Availability:** adaptation  
+**Deprecated:** no  
+**Editor notes:** Materiał źródłowy wskazany w bloku source manuskryptu; tekst jest adaptacją redakcyjną.
+
+---
+
+## Text
+
+**UN MUNDO NUEVO**
+
+Cuando Tomek era pequeño, el mundo era simple. Sus padres hablaban, él escuchaba. Los profesores hablaban, él escuchaba. Los adultos sabían cómo sería el futuro y lo preparaban para él como se prepara un árbol para el invierno: podando las ramas para que creciera recto.
+
+– Los niños deben ser vistos y no oídos – decía su padre cada vez que Tomek intentaba hablar. – Tú tienes que escuchar, no hablar.
+
+Y Tomek escuchaba. Aprendió que su opinión no importaba. Que los adultos sabían más. Que si era bueno y obediente, le iría bien en la vida.
+
+Pasaron los años. Tomek tenía ahora cuarenta años, dos hijos – Zosia, de diez, y Borys, de ocho – y un trabajo que lo absorbía más de lo que quería. Volvía a casa cansado, se sentaba delante del ordenador y consultaba las redes sociales para descansar. Y los niños – también tenían sus pantallas. Teléfonos, tabletas, la televisión. Todos en una misma habitación, cada uno en su propio mundo.
+
+Y estaban cómodos. Nadie discutía. Nadie hacía preguntas incómodas. Había silencio.
+
+Hasta que un día Zosia trajo del colegio un boletín con un suspenso en matemáticas.
+
+– ¿Y esto qué es? – preguntó Tomek, mirando la nota. – Si tú habías estudiado, ¿no?
+
+– Había estudiado – respondió Zosia en voz baja.
+
+– Entonces, ¿por qué has suspendido?
+
+– No lo sé. En el examen no podía concentrarme.
+
+– ¿Que no podías concentrarte? – Tomek sintió que la ira le subía por dentro. – No podías concentrarte porque seguro que estabas otra vez con el teléfono. Te dije que lo usas demasiado.
+
+Zosia bajó la mirada.
+
+– No es por el teléfono, papá.
+
+– ¿Entonces por qué?
+
+– Es que se me mezclan muchas cosas en la cabeza. No puedo concentrarme en nada.
+
+Tomek suspiró con pesar.
+
+– Eso no es una excusa. Tienes que estudiar, no inventar cosas.
+
+Zosia se levantó y salió de la habitación. Tomek se quedó solo, mirando la silla vacía. Sabía que debería haber hecho algo de otra manera, pero no sabía qué. En su cabeza seguía sonando el viejo esquema: "Lo ha hecho mal, pues hay que decirle que lo ha hecho mal. Así se educa a los hijos."
+
+---
+Unos días después Tomek volvía a casa del trabajo. La radio del coche estaba encendida, pero él no escuchaba. Pensaba en Zosia. En que últimamente no quería hablar con él. En que se encerraba en su habitación cuando él llegaba a casa. En que no lo miraba a los ojos.
+
+Encendió un pódcast que le había recomendado un conocido. "U Sawickich" – la invitada era la señora Maria Berlińska, que hablaba de la educación. Tomek escuchaba con un solo oído, pero una frase hizo que pulsara pausa.
+
+"Antes los niños tenían que escuchar, y ahora quieren estar en diálogo."
+
+Tomek detuvo el coche en el arcén. Durante un momento se quedó en silencio, mirando el parabrisas. Y entonces oyó más palabras:
+
+"No existe eso de la educación sin estrés. El mundo de hoy es un estrés interminable para los niños. El hogar tiene que ser un lugar donde sean aceptados, comprendidos, apoyados."
+
+Tomek pensó en Zosia. En cómo decía que no podía concentrarse. Y recordó cómo se había sentido él mismo de niño, cuando los adultos le decían que era malo, en lugar de preguntarle por qué se comportaba así.
+
+– Quizá no eres tú la que no escuchas, Zosia – se dijo. – Quizá soy yo quien no te escucha a ti.
+
+---
+Esa tarde Tomek se acercó a Zosia, que estaba sentada en la cama dibujando.
+
+– ¿Puedo sentarme? – preguntó.
+
+Zosia se encogió de hombros. Tomek se sentó a su lado.
+
+– Me gustaría preguntarte algo – dijo. – Sobre ese examen. ¿Qué pasó?
+
+Zosia lo miró sorprendida.
+
+– Ya te lo dije, no podía concentrarme.
+
+– Pero, ¿por qué? ¿Qué te distraía?
+
+– No lo sé. Todo. Los pensamientos. Papá, a veces tengo tantos pensamientos en la cabeza que no sé por dónde empezar. Y entonces no puedo hacer nada.
+
+Tomek sintió que algo le apretaba la garganta. Era exactamente lo que él mismo había sentido de niño. Solo que entonces nadie le preguntó. Nadie intentó comprenderlo.
+
+– ¿Y cómo te sientes entonces? – preguntó.
+
+– Enfadada. Conmigo misma. Porque no puedo pararlo. Y entonces me pongo nerviosa, y entonces es todavía peor.
+
+– Lo entiendo – dijo Tomek. – A mí también me pasa a veces.
+
+Zosia lo miró con incredulidad.
+
+– ¿De verdad?
+
+– De verdad. ¿Y sabes qué me ayuda?
+
+– ¿Qué?
+
+– Que alguien me escuche. Que pueda contar lo que siento. Y que pueda descansar de todos esos pensamientos.
+
+Zosia sonrió. Por primera vez en muchos días.
+
+– ¿Y cómo se hace?
+
+– Podemos intentarlo juntos. Por ejemplo por la noche, sin teléfonos, sin televisión. Solo conversación. O lectura. O un paseo. ¿Qué te parece?
+
+Zosia asintió.
+
+– Vale.
+
+---
+Tomek decidió cambiar algo. Al principio fue difícil. Cada noche dejaba el teléfono a un lado y se sentaba con Zosia y Borys. Al principio los niños no sabían qué hacer consigo mismos. Estaban acostumbrados a que las noches eran tiempo de pantallas. Pero poco a poco empezaron a hablar.
+
+Zosia contaba cosas del colegio, de sus amigas, de lo que la agobiaba. Borys hablaba de sus sueños – quería ser paleontólogo. Tomek escuchaba. Y no juzgaba. No criticaba. No decía: "Eso es una tontería" o "Así no se puede".
+
+Y entonces, una noche, Zosia dijo algo que lo sorprendió.
+
+– Papá, ¿por qué nunca antes habíamos hablado así?
+
+Tomek dudó.
+
+– Porque no sabía que era tan importante. Creía que bastaba con que estuvieras a salvo, que tuvieras comida, ropa, colegio. Creía que eso bastaba.
+
+– No basta – dijo Zosia. – Necesito que estés conmigo. No solo físicamente.
+
+– Lo sé. Y perdona por no saberlo.
+
+Zosia se abrazó a él.
+
+– No tienes que pedir perdón. Lo importante es que ahora lo sabes.
+
+---
+Tomek pensaba en lo que había dicho la señora Maria: "Educamos a los hijos con nosotros mismos." Y entendió que si quería que sus hijos estuvieran presentes, él mismo tenía que estar presente. Si quería que escucharan, él tenía que escuchar. Si quería que tuvieran autoestima, él tenía que dársela.
+
+Recordó cómo lo habían educado a él. Cómo sus padres le decían lo que tenía que hacer, pero nunca le preguntaban qué sentía. Y cómo durante muchos años pensó que así era el amor. Que el amor era garantizar la seguridad, no estar juntos.
+
+Pero eso no bastaba. Y Tomek lo sabía ahora.
+
+---
+Unos meses después, en la reunión de padres, la profesora le dijo a Tomek que Zosia había cambiado. Era más abierta, más segura de sí misma, le iba mejor en el colegio.
+
+– ¿Ha cambiado algo en casa? – preguntó la profesora.
+
+Tomek sonrió.
+
+– He cambiado yo.
+
+De vuelta a casa, Tomek pensaba en su padre. En que nunca había tenido la oportunidad de cambiar. En que se había criado en otro mundo, donde no había lugar para la conversación. Y en que no se le podía culpar.
+
+Pero él, Tomek, tenía la oportunidad. Podía ser distinto. Podía dar a sus hijos lo que a él nunca le dieron. Y aunque era difícil, aunque a veces volvía a los viejos hábitos, sabía que iba en la buena dirección.
+
+Por la noche, cuando los niños se habían acostado, Tomek se sentó en el salón. Durante un momento miró el teléfono que estaba sobre la mesa. Podía cogerlo, encenderlo, sumergirse en un mundo que no le exigía nada. Pero en su lugar cogió un libro que llevaba tiempo queriendo leer.
+
+Y pensó en lo que decía la señora Maria: "La educación es también educarse a uno mismo."
+
+Quizá de eso se trataba. No de ser un padre perfecto. De estar presente. Y de intentarlo cada día otra vez.
+
+---
+A la mañana siguiente Zosia se despertó antes. Se acercó a Tomek, que tomaba café en la cocina, y dijo:
+
+– Papá, hoy me gustaría dar un paseo. Solos los dos.
+
+Tomek la miró y sonrió.
+
+– Vale. Iremos juntos.
+
+Salieron delante de casa. Era temprano, el sol apenas estaba saliendo. Caminaron en silencio, pero era un silencio bueno – de esos en los que se siente a la otra persona.
+
+– Papá – dijo Zosia. – Gracias.
+
+– ¿Por qué?
+
+– Por estar aquí. Y por escucharme.
+
+Tomek se detuvo un momento. Sintió que algo se le rompía por dentro – no de dolor, sino de alivio.
+
+– Gracias a ti – dijo. – Por darme una oportunidad.
+
+Zosia sonrió y le cogió la mano. Y siguieron andando, hacia un mundo nuevo. Un mundo en el que los niños no solo escuchan, sino que también hablan. En el que los padres no solo proveen, sino que también están. En el que la educación no es adiestramiento, sino relación.
+
+Y Tomek sabía que aquello era solo el principio. Pero era un buen principio.
+
+**FIN**
+
+---
+
+
+## Quiz
+
+**Quiz title:** Comprueba tu comprensión
+
+### Question 1
+
+**Question:** ¿Qué decía el padre de Tomek cuando este intentaba hablar?
+
+**Answers:**
+- A) Los niños deben ser vistos y no oídos
+- B) Habla más alto
+- C) Pregunta por todo
+- D) Aprende por tu cuenta
+
+**Correct:** A
+**Explanation:** El padre: "Los niños deben ser vistos y no oídos: tú tienes que escuchar, no hablar".
+**Text reference:** vistos y no oídos
+
+### Question 2
+
+**Question:** ¿Qué desencadena la reflexión de Tomek en el coche?
+
+**Answers:**
+- A) Un SMS del jefe
+- B) Un pódcast de Maria Berlińska sobre el diálogo con los hijos
+- C) Una película de acción
+- D) Un anuncio
+
+**Correct:** B
+**Explanation:** Oye: "Antes los niños tenían que escuchar, y ahora quieren estar en diálogo".
+**Text reference:** U Sawickich
+
+### Question 3
+
+**Question:** ¿Qué dice Zosia que necesita de su padre?
+
+**Answers:**
+- A) Más regalos
+- B) Que estés conmigo — no solo físicamente
+- C) Un teléfono nuevo
+- D) Que no trabaje
+
+**Correct:** B
+**Explanation:** "Necesito que estés conmigo. No solo físicamente".
+**Text reference:** No solo físicamente
+
+### Question 4
+
+**Question:** ¿Qué cambia Tomek por las noches?
+
+**Answers:**
+- A) Más televisión
+- B) Deja el teléfono a un lado y habla con sus hijos
+- C) Manda a los niños a casa de la abuela
+- D) Les compra juegos
+
+**Correct:** B
+**Explanation:** Noches sin teléfonos: conversación, lectura, paseo.
+**Text reference:** dejaba el teléfono
+
+### Question 5
+
+**Question:** ¿Qué dice la profesora en la reunión de padres?
+
+**Answers:**
+- A) Que Zosia ha empeorado
+- B) Que Zosia es más abierta — y Tomek responde: "He cambiado yo"
+- C) Que Zosia debería cambiar de colegio
+- D) Nada
+
+**Correct:** B
+**Explanation:** La profesora ve el cambio; Tomek: "He cambiado yo".
+**Text reference:** He cambiado yo
+
+
+---
+
+## Future Extensions
+
+### Images
+*(none)*
+
+### Illustrations
+*(none)*
+
+### Audio narration
+*(none)*
+
+### Pronunciation
+*(none)*
+
+### Handwriting
+*(none)*
+
+### Exercises
+*(none)*
+
+### Vocabulary
+*(none)*
