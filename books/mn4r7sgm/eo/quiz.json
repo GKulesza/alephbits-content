@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Skuba?",
+      "answers": [
+        "Ŝuisto",
+        "Reĝo",
+        "Kavaliro dekomence",
+        "Komercisto de la foirejo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Skuba estas simpla ŝuisto el Krakovo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Skuba metas en la virŝafon?",
+      "answers": [
+        "Sulfuron kaj gudron",
+        "Oron",
+        "Venenon el apoteko",
+        "Ŝtonojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li plenigas la virŝafon per sulfuro kaj gudro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la drako pereas?",
+      "answers": [
+        "Li trinkas tro multe da akvo kaj krevas",
+        "Li falas de la turo",
+        "Li pereas de glavo",
+        "Li fuĝas al la montoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Li trinkis el la Vistulo, ĝis li krevis."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun titolon ricevas Skuba?",
+      "answers": [
+        "Drako-Pereiganto",
+        "Reĝo de Krakovo",
+        "Armeestro",
+        "Gardanto de la Vistulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "La reĝo donas al li la titolon Drako-Pereiganto."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion anoncas la reĝo fine?",
+      "answers": [
+        "Grandan nupton",
+        "Novan militon",
+        "Malkonstruon de la kastelo",
+        "Forpelon de Skuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "La reĝo anoncas grandan nupton kun princino Wanda."
+    }
+  ]
+}

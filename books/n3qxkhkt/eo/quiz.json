@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiom da jaroj havas Kacper?",
+      "answers": [
+        "Naŭ",
+        "Dek unu",
+        "Dek tri",
+        "Ok"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto: „Kacper havis dek unu jarojn\"."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kian kukon la avino donas post la supo?",
+      "answers": [
+        "Brasikan",
+        "Poman",
+        "Karotan",
+        "Mielan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post la supo venis la vico de la brasika kuko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun libron la avino nomas sia plej ŝatata?",
+      "answers": [
+        "La granda trezoro",
+        "Harry Potter",
+        "Pinokjo",
+        "Robinzono"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi parolas pri „La granda trezoro\" — pri knabo kaj mapoj en la kelo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Kacper malkovras malantaŭ la bildo?",
+      "answers": [
+        "Arĝentan ŝlosileton",
+        "Oran moneron",
+        "Malnovan pistolon",
+        "Sigelitan leteron"
+      ],
+      "correctIndex": 0,
+      "explanation": "La avino elprenas malgrandan arĝentan ŝlosileton de malantaŭ la bildo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kial la avino kaj la avo ĉesis rabi?",
+      "answers": [
+        "Pro la sekureco de la familio",
+        "Ĉar ili perdis la mapon",
+        "Ĉar ili iris al prizono",
+        "Ĉar ili ne ŝatis trezorojn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ŝi diras: „Pro vi. Pro la familio. Pro via sekureco.\""
+    }
+  ]
+}

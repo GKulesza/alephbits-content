@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kien Piotr iras komence de la rakonto?",
+      "answers": [
+        "Al muzeo",
+        "Al la Arĥivo de Novaj Dokumentoj",
+        "Al tombejo",
+        "Al juĝejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li staras antaŭ la konstruaĵo de la Arĥivo de Novaj Dokumentoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion li ricevis de nekonata viro en Łomża?",
+      "answers": [
+        "Monon",
+        "Koverton kun kopioj de dokumentoj el 1945",
+        "Leteron de Gross",
+        "Fotografion"
+      ],
+      "correctIndex": 1,
+      "explanation": "La koverto enhavas kopiojn de dokumentoj kun atestoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion la direktoro de la arĥivo diras pri la vero en tiu ĉi afero?",
+      "answers": [
+        "Ke ĝi estas simpla",
+        "Ke la vero estas kiel la Sankta Gralo — ĉiuj serĉas, neniu volas trovi",
+        "Ke ĝi ne ekzistas",
+        "Ke ĝi estas en lernolibro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li diras, ke la vero estas malkomforta por ĉiuj flankoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Marek, kiu renkontas Piotr-on en la kafejo?",
+      "answers": [
+        "Studento",
+        "Instruisto de historio el Łomża",
+        "Ĵurnalisto",
+        "Politikisto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marek estas instruisto de historio en la loka liceo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion Piotr skribas fine de la artikolo pri historio?",
+      "answers": [
+        "Ke ĝi apartenas al unu flanko",
+        "Ke historio estas serĉado de la vero, kaj Jedwabne estas pli kompleksa ol oni diris",
+        "Ke oni devas forgesi",
+        "Ke Gross eraris"
+      ],
+      "correctIndex": 1,
+      "explanation": "Li skribas pri la komplekseco de la vero kaj pri tio, ke historio ne estas propraĵo de unu flanko."
+    }
+  ]
+}

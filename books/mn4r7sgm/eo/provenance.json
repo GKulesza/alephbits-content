@@ -1,0 +1,40 @@
+{
+  "packId": "mn4r7sgm:eo",
+  "bookId": "mn4r7sgm",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-07-10",
+  "lastReviewedAt": "2026-07-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": false,
+    "tools": [],
+    "humanReview": "Migrated from CollectionZero catalog (Phase 75)."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Z-DJ7XocjRY"
+    },
+    {
+      "type": "youtube",
+      "videoId": "vZ_As1yDPAc"
+    },
+    {
+      "type": "youtube",
+      "videoId": "1wAJ0mC5nbc"
+    },
+    {
+      "type": "youtube",
+      "videoId": "pACvHQUZMqk"
+    },
+    {
+      "type": "youtube",
+      "videoId": "1J_Y12RqeLM"
+    }
+  ],
+  "revisionNotes": "Esperanto translation edition"
+}
