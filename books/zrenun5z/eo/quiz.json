@@ -1,0 +1,67 @@
+{
+  "title": "Kontrolu vian komprenon",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kiel Ania priskribas sian vivon el ekstere kaj de interne?",
+      "answers": [
+        "El ekstere malplena, de interne plenumita",
+        "El ekstere plenumita, de interne malplena",
+        "En ambaŭ dimensioj idealigita",
+        "En ambaŭ dimensioj ĥaosa"
+      ],
+      "correctIndex": 1,
+      "explanation": "La teksto diras rekte: el la ekstera perspektivo plenumita, el la propra — malplena."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiun celon Ania elektas fine de la rakonto?",
+      "answers": [
+        "Skribi libron en unu jaro",
+        "Esti sufiĉa",
+        "Promociiĝi al prezidanto",
+        "Transloĝiĝi eksterlanden"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fina interparolo kondukas al la celo „esti sufiĉa\" kiel celo por la tuta vivo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kion montras la komenco de la rakonto pri la decidoj de Ania?",
+      "answers": [
+        "Ke ĉiuj ŝiaj celoj estas realigataj perfekte kaj ĝustatempe",
+        "Ke la gimnastikejon ŝi vizitis dufoje, kaj la libro havas nur titolon",
+        "Ke ŝi neniam havis ian ajn planon aŭ personan revon",
+        "Ke ŝi tuj rezignis pri la laboro kaj pri la familio"
+      ],
+      "correctIndex": 1,
+      "explanation": "La 7-an de februaro gimnastikejo du fojojn, akvo tri tagojn, la libro havas nur titolon."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiu estas Karolina en la rakonto?",
+      "answers": [
+        "La estro de Ania en la korporacio",
+        "Mentorino, kun kiu Ania komencis seancojn",
+        "La filino de Ania, ankoraŭ infano",
+        "Nemoveblaĵa agentino el la oficejo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ania aŭdas la voĉon de Karolina, sia mentorino, de la unua seanco antaŭ unu semajno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiel la rakonto finiĝas emocie?",
+      "answers": [
+        "Ania ploras pro malespero en la pluvo",
+        "Ania kaj Karolina ridas pensante pri la celo esti sufiĉa",
+        "Ania revenas al la laboro nokte sen iu ajn plano",
+        "Ania forlasas la familion kaj elmigras"
+      ],
+      "correctIndex": 1,
+      "explanation": "La fino estas komuna rido pri tio, ke esti sufiĉa estas la plej malfacila celo."
+    }
+  ]
+}
