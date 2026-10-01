@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Wanda na początku?",
+      "answers": [
+        "Sześć lat",
+        "Osiem lat",
+        "Dziesięć lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wanda ma osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile pieniędzy dał jej ojciec?",
+      "answers": [
+        "Dziesięć złotych w monetach",
+        "Trzydzieści złotych w monetach",
+        "Pięćdziesiąt złotych w monetach",
+        "Sto złotych w jednym banknocie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trzy dziesięciozłotówki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Wanda obiecuje ojcu?",
+      "answers": [
+        "Odłożyć wszystkie monety",
+        "Nic więcej już nie wydać",
+        "Kupić mamie coś ładnego",
+        "Oddać wszystko bratu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Obiecuje kupić mamie coś ładnego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Wanda uczy się o wartości?",
+      "answers": [
+        "Liczy się wyłącznie sama cena",
+        "Wartość bywa więcej niż cena",
+        "Bank zawsze pomaga dzieciom",
+        "Kredyt bywa zawsze darmowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie wszystko da się przeliczyć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ojciec reaguje na obietnicę?",
+      "answers": [
+        "Każe jej milczeć natychmiast",
+        "Całuje ją czule w czoło",
+        "Zabiera wszystkie monety",
+        "Śmieje się głośno z niej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Całuje ją w czoło."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie i kiedy zaczyna się prolog?",
+      "answers": [
+        "Gniezno latem roku 966",
+        "Kraków wiosną roku 1000",
+        "Biskupin zimą 738 p.n.e.",
+        "Poznań jesienią roku 1253"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biskupin, zima 738 p.n.e."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka pogoda panuje w prologu?",
+      "answers": [
+        "Mróz i zamarzająca para",
+        "Upał oraz kurz na drodze",
+        "Deszcz padający bez przerwy",
+        "Gęsta mgła nad morzem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mróz; para zamarza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do kogo „należy” ta historia?",
+      "answers": [
+        "Do jednego wielkiego narodu",
+        "Do wszystkich ludzi świata",
+        "Tylko do starych królów",
+        "Wyłącznie do zapomnienia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Należy do wszystkich."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co odkrywają archeolodzy?",
+      "answers": [
+        "Nową szeroką autostradę",
+        "Nowy stadion sportowy",
+        "Złoty skarb lokalnego banku",
+        "Zaginioną osadę w błocie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Osadę pod warstwami czasu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść?",
+      "answers": [
+        "Astronomii współczesnej epoki",
+        "Archeologii oraz żywej pamięci",
+        "Bankowości inwestycyjnej firm",
+        "Medycyny sportowej tego sezonu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Archeologia i pamięć."
+    }
+  ]
+}

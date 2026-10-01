@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie i kiedy toczy się akcja?",
+      "answers": [
+        "Kraków jesienią 1410",
+        "Gdańsk zimą roku 1308",
+        "Sandomierz wiosną 1288",
+        "Lublin latem roku 1569"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sandomierz, wiosna 1288."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest bohater na murach?",
+      "answers": [
+        "Mnich i skryba klasztoru",
+        "Zwykły miejski kamieniarz",
+        "Rycerz zakonu krzyżackiego",
+        "Kupiec zboża z rynku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zwykły kamieniarz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat życia wspomina bohater?",
+      "answers": [
+        "Dziesięć lat ciężkiej pracy w mieście",
+        "Czterdzieści lat własnego życia",
+        "Sto lat miejskiej legendy o murze",
+        "Pięć lat okrutnej wojny na kresach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czterdzieści lat życia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego kamień „nie drży”?",
+      "answers": [
+        "Bo jest z rzadkich metali",
+        "Bo go właśnie namalowano",
+        "Bo jest pusty w środku",
+        "Bo pamięta i trwale stoi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kamień pamięta i nie drży."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść najbardziej?",
+      "answers": [
+        "Nowych technologii miasta",
+        "Odwagi i pamięci kamienia",
+        "Banków oraz kredytów",
+        "Modnych letnich wakacji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odwaga i pamięć kamienia."
+    }
+  ]
+}

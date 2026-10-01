@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się główna akcja?",
+      "answers": [
+        "Na Wawelu w Krakowie",
+        "Na Wolinie nad morzem",
+        "Na Malborku w pełne lato",
+        "W Biskupinie zimową porą"
+      ],
+      "correctIndex": 3,
+      "explanation": "Biskupin zimą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi mróz z drzewami?",
+      "answers": [
+        "Pęka je w bezgwiezdne noce",
+        "Suszy liście w jasny dzień",
+        "Zamienia je w czarny węgiel",
+        "Chroni je przed silnym wiatrem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pęka drzewa nocą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dla kogo jest ta pamięć?",
+      "answers": [
+        "Tylko dla wielkich zwycięzców",
+        "Tylko dla zawodowych archeologów",
+        "Dla wszystkich, którzy tu stali",
+        "Dla jednej politycznej partii"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dla wszystkich, którzy tu stali."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co trzeba zrobić, by „usłyszeć”?",
+      "answers": [
+        "Kupić drogi bilet wstępu na teren",
+        "Zanurzyć ręce głęboko w błocie",
+        "Nagrać film i wrzucić na YouTube",
+        "Zbudować nowy kamienny mur obronny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zanurzyć ręce w błocie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść?",
+      "answers": [
+        "Pieniędzy oraz lokalnych banków",
+        "Wody, pamięci oraz ziemi",
+        "Sportu oraz wielkich stadionów",
+        "Mody oraz sieci społeczności"
+      ],
+      "correctIndex": 1,
+      "explanation": "Woda, pamięć, ziemia."
+    }
+  ]
+}

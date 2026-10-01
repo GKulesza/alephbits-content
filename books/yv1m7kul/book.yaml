@@ -1,0 +1,7 @@
+book_id: "yv1m7kul"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_hegemonia"
+legacy_slug: "hegemonia"

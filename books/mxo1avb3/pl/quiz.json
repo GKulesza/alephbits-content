@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co trzyma bohater w rękach?",
+      "answers": [
+        "Nowy pad do konsoli PS5",
+        "Stary pad od PlayStation 2",
+        "Klawiaturę mechaniczną RGB",
+        "Stary telefon z klapką"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontroler od PS2."
+    },
+    {
+      "type": "single_choice",
+      "question": "W jaką grę nadal gra?",
+      "answers": [
+        "FIFA w najnowszej edycji sezonu",
+        "Underground 2 na starym padzie",
+        "Nowy Call of Duty w sieci",
+        "Tetris w wersji sieciowej online"
+      ],
+      "correctIndex": 1,
+      "explanation": "Underground 2."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego nie kupuje nowego sprzętu?",
+      "answers": [
+        "Bo sklep jest już zamknięty",
+        "Bo nie ma w domu internetu",
+        "Bo zabrania mu nowa umowa",
+        "Bo stara gra wciąż działa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dopóki działa — nie trzeba nowego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki spór pokazuje tekst?",
+      "answers": [
+        "Spór o sąsiednią działkę ziemi",
+        "Nostalgia kontra pęd nowości",
+        "Wojna o państwową granicę kraju",
+        "Konflikt w szkolnej klasie dzieci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nostalgia vs nowości."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki jest morał opowieści?",
+      "answers": [
+        "Kupować bez żadnego końca",
+        "Doceniać to, co nadal działa",
+        "Wyrzucać wszystkie stare gry",
+        "Śledzić wyłącznie nowe trendy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doceniać to, co działa."
+    }
+  ]
+}

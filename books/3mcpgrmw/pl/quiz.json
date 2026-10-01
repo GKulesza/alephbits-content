@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest główna postać?",
+      "answers": [
+        "Trenerem piłki nożnej",
+        "Dziennikarzem w mediach",
+        "Lekarzem z prywatną kliniką",
+        "Nauczycielem w dużym liceum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Postać medialna / Stanowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zostaje po nagraniu?",
+      "answers": [
+        "Tłum fanów w wielkim studio",
+        "Plan kolejnego długiego sezonu",
+        "Umowa z nowym reklamodawcą",
+        "Cisza oraz głęboka samotność"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gasną światła; zostaje sam."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym jest „skorupa”?",
+      "answers": [
+        "Maską sukcesu w mediach",
+        "Starym rodzinnym samochodem",
+        "Nowym logo całego kanału",
+        "Biletem na ważny mecz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Publiczna maska sukcesu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie pytanie zostaje na końcu?",
+      "answers": [
+        "Ile kosztuje ta nowa kamera?",
+        "Czy to było w ogóle warto?",
+        "Gdzie jest wolny parking tu?",
+        "Kiedy zaczyna się ten urlop?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czy warto było."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść?",
+      "answers": [
+        "Cen biletów na mecze",
+        "Ceny sukcesu oraz sławy",
+        "Tanich lotów samolotem",
+        "Abonamentu telewizyjnego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cena sukcesu i sławy."
+    }
+  ]
+}

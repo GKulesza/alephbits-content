@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile dni mają spędzić w lesie?",
+      "answers": [
+        "Pięć spokojnych dni w lesie",
+        "Dziesięć spokojnych dni",
+        "Dwa spokojne tygodnie lasu",
+        "Jeden spokojny miesiąc lasu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dziesięć dni w lesie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto proponuje wyjazd do lasu?",
+      "answers": [
+        "Sam tylko Kacper z miasta",
+        "Zośka mówi Kacprowi",
+        "Ich bliski sąsiad z bloku",
+        "Szef z biura pracy w firmie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zośka proponuje wyjazd."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego mają uniknąć w lesie?",
+      "answers": [
+        "Mapy w dużym plecaku",
+        "Prądu oraz zasięgu",
+        "Jedzenia oraz wody",
+        "Namiotu w gęstym lesie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bez prądu i zasięgu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robią zamiast iść do kina?",
+      "answers": [
+        "Idą wieczorem do kina",
+        "Wracają szybko do miasta",
+        "Kupują nowy laptop",
+        "Robią prawdziwą herbatę"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prawdziwa herbata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki kontrast pokazuje opowieść?",
+      "answers": [
+        "Spór o same pieniądze",
+        "Kłótnia o szkołę dzieci",
+        "Miasto kontra dziki las",
+        "Walka o awans w pracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Miasto kontra las."
+    }
+  ]
+}

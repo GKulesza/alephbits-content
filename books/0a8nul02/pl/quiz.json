@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest bohater opowieści?",
+      "answers": [
+        "Marcin z miasta Shenzhen",
+        "Krzysztof Jackowski",
+        "Kacper z głębokiego lasu",
+        "Tomasz z miasta Warszawa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof Jackowski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie i kiedy budzi się w nocy?",
+      "answers": [
+        "Człuchów, noc roku 2026",
+        "Gdynia nad zimnym morzem",
+        "Elbląg w samo południe",
+        "Berlin w środku zimy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Człuchów, noc 2026."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak „wie” o odległych miejscach?",
+      "answers": [
+        "Bo nagle dzwoni telefon",
+        "Bo słyszy huk wielkiego pożaru",
+        "Bo mocno piecze go ręka",
+        "Po prostu otwiera oczy i wie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Otwiera oczy i wie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co daje ten dar ludziom?",
+      "answers": [
+        "Sławę medialną jasnowidza",
+        "Wygraną w wielkiej loterii",
+        "Odnalezione ciała i pamięć",
+        "Nowy program w telewizji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ciała odzyskują imię."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak tekst nazywa ten dar?",
+      "answers": [
+        "Dar, umiejętność oraz cisza",
+        "Ścisły dowód naukowy faktów",
+        "Zwykły szczęśliwy przypadek",
+        "Żart redakcji wieczornej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dar, umiejętność, cisza."
+    }
+  ]
+}

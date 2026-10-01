@@ -1,0 +1,24 @@
+{
+  "packId": "g6dq5bem:pl",
+  "bookId": "g6dq5bem",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-01",
+  "lastReviewedAt": "2026-10-01",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/13 CollectionThirteen.md."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Collection Thirteen manuscript"
+    }
+  ],
+  "revisionNotes": "Collection Thirteen import — Polish only; quiz answers length-balanced."
+}

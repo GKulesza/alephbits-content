@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie stoi Marcin w prologu?",
+      "answers": [
+        "Na dachu hotelu w Warszawie",
+        "Na dachu hotelu w Shenzhen",
+        "Na mostie mostowym w Chicago",
+        "Na lotnisku miejskim w Berlinie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dach hotelu w Shenzhen."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym ostrzega CEO Google?",
+      "answers": [
+        "O spadku sprzedaży reklam",
+        "O wysokim ryzyku wyginięcia",
+        "O braku dobrych programistów",
+        "O awarii chłodni serwerów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ryzyko wyginięcia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest gorzka puenta tekstu?",
+      "answers": [
+        "Świetne firmy — a co z nami?",
+        "AI zawsze ratuje cały świat",
+        "Firmy w ogóle nic nie znaczą",
+        "AI to wyłącznie sezonowa moda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Świetne firmy; co z nami?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka metafora kończy opowieść?",
+      "answers": [
+        "Wyścig z nagrodą dla wszystkich",
+        "Wyścig już dawno skończony",
+        "Wyścig przeznaczony dla robotów",
+        "Wyścig bez spojrzenia na metę"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wyścig bez patrzenia na metę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść najbardziej?",
+      "answers": [
+        "Turystyki i kuchni Azji",
+        "AI oraz ludzkiej ceny postępu",
+        "Historii średniowiecza Europy",
+        "Wychowania w przedszkolu"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI i ludzka cena postępu."
+    }
+  ]
+}

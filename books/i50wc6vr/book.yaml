@@ -1,0 +1,7 @@
+book_id: "i50wc6vr"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_ksiega_przypadku"
+legacy_slug: "ksiega-przypadku"

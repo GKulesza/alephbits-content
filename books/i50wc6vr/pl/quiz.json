@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie i kiedy jest główna scena?",
+      "answers": [
+        "Muzeum w Krakowie, 2026",
+        "UW w Warszawie, maj 2025",
+        "Politechnika Gdańsk, 2024",
+        "Biblioteka Wrocław, 2023"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muzeum w Krakowie, 2026."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym mówi wykład?",
+      "answers": [
+        "O gotowaniu lokalnych zup",
+        "O dowodzie oraz przypadku",
+        "O sporcie olimpijskim kraju",
+        "O remontach starych domów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prawda, dowód, przypadek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zostaje, gdy pewność znika?",
+      "answers": [
+        "Zamknięcie całej księgi",
+        "Wyścig z uciekającym czasem",
+        "Wspinaczka na wysoki szczyt",
+        "Samotny rzut monetą"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rzut monetą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie słowa wracają w tekście?",
+      "answers": [
+        "Tylko mnożenie suchych liczb",
+        "Historia samej piłki nożnej",
+        "Prawda, dowód oraz los",
+        "Przepisy kuchni regionalnej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prawda, dowód, przypadek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy opowieść?",
+      "answers": [
+        "Turystyki miejskiej Krakowa",
+        "Modnych ubrań sezonu",
+        "Matematyki i niepewności",
+        "Kuchni regionalnej Polski"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matematyka i niepewność."
+    }
+  ]
+}

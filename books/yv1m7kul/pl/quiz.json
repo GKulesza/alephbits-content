@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie siedzi narrator?",
+      "answers": [
+        "Na Mokotowie w Warszawie",
+        "Na Pradze Północ w Warszawie",
+        "W ścisłym centrum Łodzi",
+        "Na Starym Mieście Krakowa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mokotów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czyjego głosu słucha?",
+      "answers": [
+        "Stanowskiego o sporcie dnia i nocy",
+        "Winnickiego o kryzysie prawicy",
+        "Jackowskiego o nocnych snach ludzi",
+        "Kasi o złocie inwestycyjnym w banku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Winnicki o kryzysie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak narrator widzi hegemonię?",
+      "answers": [
+        "Jako zawsze szkodliwą siłę",
+        "Jako możliwą zdrową rywalizację",
+        "Jako temat tylko dla historyków",
+        "Jako żart z internetowych forów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Może być zdrową konkurencją."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi narrator wobec chaosu?",
+      "answers": [
+        "Wyjeżdża natychmiast z kraju",
+        "Zakłada własną nową partię",
+        "Patrzy uważnie i obserwuje",
+        "Wyłącza cały internet w domu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patrzy i obserwuje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie słowo jest tytułem?",
+      "answers": [
+        "Symetria dnia",
+        "Hegemonia",
+        "Skorupa snu",
+        "Bryłka złota"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hegemonia."
+    }
+  ]
+}

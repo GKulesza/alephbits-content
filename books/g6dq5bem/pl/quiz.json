@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Lena w opowieści?",
+      "answers": [
+        "Polką z miasta Kraków",
+        "Francuzką na stypendium",
+        "Nauczycielką z Gdańska",
+        "Tłumaczką z miasta Berlin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Francuzka na stypendium."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie rozmawiają wieczorem?",
+      "answers": [
+        "W metrze nocnym miasta",
+        "Nad Wisłą w Warszawie",
+        "Na dworcu w Łodzi",
+        "W parku w Poznaniu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nad Wisłą w Warszawie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co narrator mówi o polskim?",
+      "answers": [
+        "Że jest zbyt łatwy w nauce",
+        "Że jest trudny i prawdziwy",
+        "Że trzeba go szybko zmienić",
+        "Że jest tylko sucho urzędowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie jest trudny — jest prawdziwy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Lena się uczy?",
+      "answers": [
+        "Polskiego i bliskości",
+        "Tylko suchej gramatyki",
+        "Angielskiego w biurze",
+        "Niemieckiego w domu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Języka i relacji."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym jest ta historia?",
+      "answers": [
+        "O wojnie i polityce dnia",
+        "O miłości oraz języku",
+        "O sporcie i rywalizacji",
+        "O bankach i kredytach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miłość i język."
+    }
+  ]
+}

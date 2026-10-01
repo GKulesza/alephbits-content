@@ -1,0 +1,7 @@
+book_id: "3mcpgrmw"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_skorupa"
+legacy_slug: "skorupa"

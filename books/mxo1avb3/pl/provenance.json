@@ -1,0 +1,24 @@
+{
+  "packId": "mxo1avb3:pl",
+  "bookId": "mxo1avb3",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-01",
+  "lastReviewedAt": "2026-10-01",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/13 CollectionThirteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "qi_0fMx7lUE"
+    }
+  ],
+  "revisionNotes": "Collection Thirteen import — Polish only; quiz answers length-balanced."
+}

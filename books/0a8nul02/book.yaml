@@ -1,0 +1,7 @@
+book_id: "0a8nul02"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_cienie_ktore_widze"
+legacy_slug: "cienie-ktore-widze"

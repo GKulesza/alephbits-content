@@ -1,0 +1,360 @@
+# Cienie, które widzę
+
+## Metadata
+
+**Pack ID:** 0a8nul02
+**Book ID:** 0a8nul02
+**Legacy Pack ID:** polish_cienie_ktore_widze
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Cienie, które widzę  
+**Subtitle:** *(none)*  
+**Blurb:** Człuchów, trzecia w nocy. Jackowski otwiera oczy — i niektóre ciała nie zostają w lesie bez imienia.
+
+**Genres:** biography, short_story  
+**Series:** Collection Thirteen  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Cienie, które widzę — Collection Thirteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** jasnowidzenie, cisza, pamięć, Collection Thirteen  
+
+**Keywords:** Cienie, które widzę, Collection Thirteen  
+
+**Cover family:** biography
+
+**Editorial notes:** Collection Thirteen — Polish original; balanced quizzes; import 2026-10-01.
+
+---
+
+**World:**
+- places: home
+- objects: window
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-01  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Thirteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-01 | Collection Thirteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-01 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Thirteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=Khwct50BlpE  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-19  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/13 CollectionThirteen.md.
+
+---
+
+## Text
+
+**CIENIE, KTÓRE WIDZĘ**
+
+## PROLOG
+
+_Człuchów, noc, 2026 rok_
+
+Krzysztof Jackowski obudził się o trzeciej nad ranem. Nie dlatego, że miał sen. Nie dlatego, że coś go zbudziło. Po prostu otworzył oczy i wiedział.
+
+Ktoś zaginął. Gdzieś w Polsce. Ktoś, kogo nie znał, kogo nigdy nie widział na oczy – ale którego twarz pojawiła się przed nim jak wywołana z ciemności.
+
+Siadł na łóżku. Obok spała żona, Kasia. Oddychała równo, spokojnie. On wstał cicho, przeszedł do swojego gabinetu i włączył komputer. Godzina 3:14. Na ekranie otworzył skrzynkę mailową.
+
+I zobaczył zdjęcie.
+
+Młoda kobieta. 32 lata. Zaginęła w Kielcach. Wyszła z domu dzień wcześniej i nie wróciła. Jej partner zmartwiony, ale nie przerażony. Sąsiedzi mówią, że miała depresję. Nikt nie wie, gdzie jest.
+
+Jackowski popatrzył na zdjęcie przez dłuższą chwilę. Potem zamknął oczy.
+
+I wtedy zobaczył las.
+
+## ROZDZIAŁ I: NAUCZYCIEL, KTÓRY NIE UMIEŁ PRZEWIDZIEĆ WŁASNEJ PRZYSZŁOŚCI
+
+Jackowski ma 63 lata. Mówi o sobie z pokorą i dystansem, jakby opowiadał o kimś innym. Kiedyś był kimś innym – chłopcem, który nie wiedział, że będzie widział rzeczy, których inni nie widzą.
+
+W dzieciństwie – nic szczególnego. Zwykły dom, zwykła rodzina, zwykła szkoła. Pierwsze przebłyski przyszły później. Poczucie, że wie, co ktoś zaraz powie. Że czuje, co się wydarzy. Że czasami widzi obrazy, które nie mają sensu – dopóki nie stają się rzeczywistością.
+
+Przez lata próbował to ignorować. Tłumaczyć sobie, że to przypadek, zbieg okoliczności, wyobraźnia. Ale obrazy nie znikały.
+
+Potem zrozumiał, że może pomagać ludziom. Rodzinom, które straciły kogoś bliskiego. Policji, która utknęła w ślepym zaułku. Prokuraturze, która potrzebowała choćby cienia wskazówki.
+
+I zaczął to robić. Przez ponad czterdzieści lat.
+
+– Zobaczcie – mówi w wywiadzie, pokazując stos dokumentów. – To są podziękowania od policji. Z Węgorzewa, z Lublina, z Zabrza, z Leska. Oficjalne pisma z komend, z prokuratur. One istnieją.
+
+Pokazuje list od zastępcy komendanta policji w Lublinie z 1996 roku. List od prokuratury w Słubicach. Telegram z Zabrza, w którym policja prosi o przesłuchanie Jackowskiego w charakterze świadka w sprawie zabójstwa.
+
+– Gdybym był oszustem – mówi spokojnie – to te pisma by nie istniały. Zjedliby mnie. Po prostu zjedliby.
+
+## ROZDZIAŁ II: MIEJSCA, KTÓRE WIDZI
+
+_Marianka, pod Elblągiem, 2016 rok_
+
+To był jeden z tych dni, które zapamiętał na zawsze. Kilka tygodni po operacji serca. Żona powiedziała mu, że ludzie dzwonili z kondolencjami, myśląc, że nie żyje – bo w gazetach pojawił się nagłówek: _"Jackowskiemu serce nie wytrzymało"_.
+
+Nie wytrzymało, ale zostało naprawione. I wrócił do życia.
+
+Kilka dni później zadzwonił telefon. Zaginęła młoda matka z rocznym dzieckiem. Wyszła z domu w nocy, w koszuli nocnej, z dzieckiem na ręku. Depresja poporodowa. Policja szukała cały dzień, helikopter, psy, nic.
+
+Rodzina zwróciła się do Jackowskiego wieczorem.
+
+– Dostałem zdjęcie – opowiada. – I po chwili poczułem staw. Taki podłużny, rudy od trzcin dookoła. Sprawdziłem na Google Maps. We wsi Marianka, około 500 metrów od zabudowań, był taki staw.
+
+Zaznaczył miejsce na mapie, wydrukował, wysłał.
+
+Policja nie chciała tam iść. Rodzina z sąsiadami wzięli latarki i poszli sami. Znaleźli kobietę stojącą przy drzewie, nieruchomą, z dzieckiem w ramionach. Myśleli, że się powiesiła. Ale stała. Dziecko zaczęło płakać. Odwieziono je do szpitala. Odwodnione, ale żywe.
+
+Ona też żyła.
+
+– To nie ja wskazałem to miejsce – mówi Jackowski. – To ona dała mi impuls. Ona chciała, żeby ją znaleźli.
+
+## ROZDZIAŁ III: DUCHY, KTÓRE PRZEMAWIAJĄ
+
+Jackowski nie lubi słowa "jasnowidz". Woli mówić o sobie jako o pośredniku.
+
+– Nie każdy, kto rozkłada karty, jest jasnowidzem – mówi. – Żeby nazywać się jasnowidzem, trzeba mieć udokumentowane efekty. Powtarzalne. Nie przypadkowe.
+
+I rzeczywiście – ma dokumenty. Setki spraw, w których wskazał miejsce, gdzie znajdowały się zwłoki. Pisma od prokuratorów, którzy przesłuchiwali go w charakterze świadka.
+
+– Prokurator pyta: "Skąd pan wie?" – opowiada. – A ja mówię: "Mam wizję". A on: "Jak ja mam napisać, że pan ma wizję? Co to są wizje?" Ja mówię: "Poczucie. Wyobrażenie. Tak poczułem."
+
+I wtedy pokazuje pismo z prokuratury w Słubicach: _"W toku przedmiotowego postępowania rodzina zmarłego zwróciła się o pomoc do jasnowidza Krzysztofa Jackowskiego, który na etapie akcji poszukiwawczej wskazał trafne miejsce, gdzie znajdowały się zwłoki."_
+
+Nie jest to dla niego łatwe. Każda sprawa to stres, nerwy, kontakt z tragedią. Bierze za to 300 złotych. Kwota moralna, jak mówi – choć ZUS i urzędy skarbowe traktują to jak każdą inną działalność gospodarczą. Płaci podatki.
+
+– Gdybym chciał zarabiać, to mógłbym brać dużo więcej – mówi. – Ale ja nie chcę zarabiać na czyjejś śmierci.
+
+## ROZDZIAŁ IV: SPRAWA, KTÓREJ NIE DOTYKA
+
+_Studio w Warszawie, lipiec 2026_
+
+Prowadzący wywiad, Mateusz Szymkowiak, pyta w pewnym momencie:
+
+– Grillują cię o temat Iwony Wieczorek?
+
+Jackowski wzdycha. To pytanie pojawia się w każdym wywiadzie.
+
+– Bardzo – odpowiada. – Ale nie wypowiadam się na jej temat.
+
+– Dlaczego?
+
+– Sprawa Iwony Wieczorek jest sprawą bardzo złożoną. Nie chcę się na ten temat wypowiadać.
+
+– Ale dziewczyna nie żyje. Może pomógłbyś...
+
+– Przepraszam, nie wypowiadam się na jej temat.
+
+Szymkowiak nie naciska. Ale widzowie wiedzą, o co chodzi. Iwona Wieczorek zaginęła w 2010 roku w Gdyni. Wyszła z klubu, nigdy nie wróciła do domu. Jej ciała nie znaleziono. Sprawa stała się jednym z najgłośniejszych zaginięć w Polsce.
+
+Jackowski wielokrotnie wypowiadał się o niej w przeszłości. Miał wizje, wskazywał miejsca. Ale potem przestał. Odmawia komentarza.
+
+– Dla mnie temat Iwony Wieczorek jest skończony – mówi stanowczo.
+
+W sieci krążą plotki, że został zastraszony. Że ktoś mu zagroził. Że wie, co się stało, ale nie może tego powiedzieć.
+
+On nie potwierdza, nie zaprzecza. Tylko powtarza: _"To skomplikowane."_
+
+A w jego oczach widać coś, czego nie da się udawać. Zmęczenie.
+
+## ROZDZIAŁ V: PRZYSZŁOŚĆ, KTÓRA NADCHODZI
+
+Mimo że Jackowski od lat specjalizuje się w odnajdywaniu zaginionych, to przyszłość jest tematem, który przyciąga najwięcej uwagi. Ludzie chcą wiedzieć, co ich czeka. Co czeka Polskę. Co czeka świat.
+
+W wywiadzie z 2026 roku mówi o rzeczach, które mają nadejść.
+
+– Ja kilka lat temu powiedziałem, że najgorsze rzeczy wydarzą się do 2028 roku – mówi. – To nie oznacza, że w 2028 będzie już dobrze. To oznacza, że wykluwanie się zła na świecie będzie trwało.
+
+Mówi o demokracji, która ulega erozji. O instytucjach międzynarodowych, które tracą znaczenie. O wojnie, która zaczęła się w 2022 roku, ale która jest częścią czegoś większego.
+
+– Ludzie myślą, że II wojna światowa zaczęła się 1 września 1939 roku – mówi. – Ale to nieprawda. Zaczęła się znacznie wcześniej. Podobnie jest teraz.
+
+– Jest wojna – kontynuuje. – Jest na wschodzie. Jest na Bliskim Wschodzie. To się nie uspokoi. Prędzej czy później będzie musiało mieć swoją erupcję.
+
+Nie mówi, kiedy. Nie mówi, jak. Tylko ostrzega.
+
+– Cieszmy się spokojem, jaki teraz mamy – mówi. – Bo będzie gorzej.
+
+## ROZDZIAŁ VI: DUCHOWOŚĆ I POKORA
+
+W pewnym momencie wywiadu Jackowski mówi coś, co wielu zaskakuje.
+
+– Ja nie wymyśliłem miejsca, gdzie są zwłoki – mówi. – To osoba zmarła dała mi impuls.
+
+– Więc jesteś medium? – pyta Szymkowiak.
+
+– Tak. Uważam, że jestem pośrednikiem. Wiem, że można się kontaktować z osobami zmarłymi.
+
+Nie mówi tego z dumą. Mówi z pokorą.
+
+– Ja nie jestem cudotwórcą – podkreśla. – Ja tylko odbieram sygnały.
+
+Opowiada o mężczyźnie, który utopił się w rzece w miejscowości Koło, a jego zwłoki znaleziono 18 kilometrów dalej. Jackowski wskazał to miejsce. Kiedy pytają go, skąd wiedział, odpowiada:
+
+– On mi pokazał. Mimo że jego ciało było w zupełnie innym miejscu, on wiedział, gdzie jest. On mi to przekazał.
+
+Dla Jackowskiego to dowód na to, że życie nie kończy się wraz ze śmiercią. Że duchowość jest czymś realnym. Że my, ludzie, jesteśmy czymś więcej niż materią.
+
+– Atom składa się w 95% z pustki – mówi. – A potem są elektrony, neutrony, protony. To energia. Wszystko jest z tego samego budulca. Materia to zmrożona energia.
+
+I w tym zdaniu – w tym prostym, cichym zdaniu – kryje się cała jego filozofia.
+
+## EPILOG
+
+_Człuchów, ta sama noc_
+
+Skończył rozmowę. Wyszedł ze studia, wsiadł do samochodu i ruszył w drogę powrotną na Pomorze. Żona prowadziła. On patrzył w okno na migające światła mijanych miasteczek.
+
+Myślał o zaginionej kobiecie z Kielc. Czy udało się ją znaleźć? Czy jeszcze żyje? Czy jego mapa dotarła na czas?
+
+Nie wiedział. Jeszcze nie zadzwonili.
+
+Wiedział tylko, że wróci do domu, otworzy komputer i sprawdzi pocztę. Może będzie tam wiadomość od tego pana – od kogoś, kto kiedyś był głosem Telekomunikacji Polskiej, a teraz jest tylko zaniepokojonym znajomym zaginionej.
+
+Może będzie wiadomość od policji. Może dziękują. Może pytają o kolejną sprawę.
+
+Albo cisza. Cisza też jest odpowiedzią.
+
+I wtedy przypomniał sobie własne słowa, które wypowiedział w wywiadzie kilka godzin wcześniej:
+
+– My musimy zrozumieć, że żyjemy w czasach bardzo niebezpiecznych dla nas. Coraz mniej mamy czasu na własną osobowość. Coraz mniej zaglądamy w siebie. Tracimy czujność.
+
+Uśmiechnął się pod nosem. Czuł, że ma rację. Ale wiedział też, że nie ma na to wpływu. On tylko odbiera sygnały. Reszta nie należy do niego.
+
+Samochód wjechał w ciemność. Na niebie nie było gwiazd. Ale on wiedział, że gdzieś tam, w tej ciemności, ktoś czeka.
+
+Ktoś, kto chce zostać odnaleziony.
+
+## POSŁOWIE
+
+Czy wierzyć w zdolności Krzysztofa Jackowskiego? To pytanie, które każdy musi sobie zadać sam.
+
+Mamy dokumenty. Mamy podziękowania od policji. Mamy pisma prokuratorskie, w których jasnowidz jest przesłuchiwany w charakterze świadka. Mamy setki spraw, w których wskazał miejsce, gdzie znajdowały się zwłoki.
+
+Mamy też jego własne słowa: _"Nie wymyśliłem tego. Oni mi to pokazali."_
+
+Czy to prawda? Czy to mistyfikacja? Czy Jackowski naprawdę widzi to, czego inni nie widzą, czy tylko potrafi czytać w ludzkich oczach to, czego inni nie chcą dostrzegać?
+
+Nie ma jednoznacznej odpowiedzi. I chyba nigdy nie będzie.
+
+Ale jedno jest pewne: Jackowski pomógł wielu ludziom. Rodzinom, które straciły bliskich i potrzebowały choćby cienia nadziei. Policji, która utknęła w ślepym zaułku. Prokuraturze, która potrzebowała wskazówki.
+
+Może to dar. Może to umiejętność. Może to po prostu ktoś, kto potrafi słuchać ciszy.
+
+W każdym razie, gdyby nie on, niektóre ciała wciąż leżałyby w lasach, w stawach, w rzekach. Nieodnalezione. Niepogrzebane. Niepamiętane.
+
+I to jest chyba najważniejsze.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest bohater opowieści?
+
+**Answers:**
+- A) Marcin z miasta Shenzhen
+- B) Krzysztof Jackowski
+- C) Kacper z głębokiego lasu
+- D) Tomasz z miasta Warszawa
+
+**Correct:** B
+**Explanation:** Krzysztof Jackowski.
+**Text reference:** Jackowski
+
+### Question 2
+
+**Question:** Gdzie i kiedy budzi się w nocy?
+
+**Answers:**
+- A) Człuchów, noc roku 2026
+- B) Gdynia nad zimnym morzem
+- C) Elbląg w samo południe
+- D) Berlin w środku zimy
+
+**Correct:** A
+**Explanation:** Człuchów, noc 2026.
+**Text reference:** Człuchów
+
+### Question 3
+
+**Question:** Jak „wie” o odległych miejscach?
+
+**Answers:**
+- A) Bo nagle dzwoni telefon
+- B) Bo słyszy huk wielkiego pożaru
+- C) Bo mocno piecze go ręka
+- D) Po prostu otwiera oczy i wie
+
+**Correct:** D
+**Explanation:** Otwiera oczy i wie.
+**Text reference:** wie
+
+### Question 4
+
+**Question:** Co daje ten dar ludziom?
+
+**Answers:**
+- A) Sławę medialną jasnowidza
+- B) Wygraną w wielkiej loterii
+- C) Odnalezione ciała i pamięć
+- D) Nowy program w telewizji
+
+**Correct:** C
+**Explanation:** Ciała odzyskują imię.
+**Text reference:** ciała
+
+### Question 5
+
+**Question:** Jak tekst nazywa ten dar?
+
+**Answers:**
+- A) Dar, umiejętność oraz cisza
+- B) Ścisły dowód naukowy faktów
+- C) Zwykły szczęśliwy przypadek
+- D) Żart redakcji wieczornej
+
+**Correct:** A
+**Explanation:** Dar, umiejętność, cisza.
+**Text reference:** dar
+

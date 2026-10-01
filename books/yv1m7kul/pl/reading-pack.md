@@ -1,0 +1,342 @@
+# Hegemonia
+
+## Metadata
+
+**Pack ID:** yv1m7kul
+**Book ID:** yv1m7kul
+**Legacy Pack ID:** polish_hegemonia
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Hegemonia  
+**Subtitle:** *(none)*  
+**Blurb:** Mokotów, YouTube, kryzys na prawicy. Narrator patrzy — jak zawsze — i pyta, czy to koniec, czy początek.
+
+**Genres:** article, short_story  
+**Series:** Collection Thirteen  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Hegemonia — Collection Thirteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** polityka, obserwacja, Polska, Collection Thirteen  
+
+**Keywords:** Hegemonia, Collection Thirteen  
+
+**Cover family:** article
+
+**Editorial notes:** Collection Thirteen — Polish original; balanced quizzes; import 2026-10-01.
+
+---
+
+**World:**
+- places: home
+- objects: computer
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-01  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Thirteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-01 | Collection Thirteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-01 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Thirteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=DXFaX-8Rulo  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-19  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/13 CollectionThirteen.md.
+
+---
+
+## Text
+
+**HEGEMONIA**
+
+## PROLOG
+
+_Warszawa, lipiec 2026 roku_
+
+Siedziałem w swoim mieszkaniu na Mokotowie, patrząc na ekran komputera. Na YouTube otwarty był film Roberta Winnickiego – analiza kryzysu w Prawie i Sprawiedliwości. Słuchałem go od godziny, a w głowie układała mi się cała historia tej partii.
+
+Nie byłem politykiem. Nie byłem dziennikarzem. Byłem tylko obserwatorem – kimś, kto patrzy na polską scenę polityczną od ponad dwóch dekad. Widziałem powstanie PiS, widziałem jego hegemonię, widziałem jego upadek. A teraz patrzyłem na rozłam, który mógł być jego końcem.
+
+Winnicki mówił o fazach rozwoju PiS. O pierwszym, konserwatywnym PiS-ie z 2001 roku. O skręcie w prawo w 2005. O hegemonii po 2007. O smoleńskim PiS-ie po 2010. O szczycie potęgi w 2015-2019. I o zmierzchu, który trwa do dziś.
+
+Słuchałem i myślałem: to nie jest tylko historia partii. To historia pewnego rodzaju władzy, która kiedyś wydawała się niezniszczalna. A teraz pęka w szwach.
+
+Zamknąłem oczy i cofnąłem się w czasie.
+
+## ROZDZIAŁ I: POCZĄTEK
+
+_Warszawa, 2001 rok_
+
+Prawo i Sprawiedliwość powstało na gruzach AWS-u i Unii Wolności. Dwie partie, które rządziły Polską w latach 1997-2001, zniknęły ze sceny politycznej. W ich miejsce pojawiły się dwie nowe formacje: Platforma Obywatelska i Prawo i Sprawiedliwość.
+
+Pierwszy PiS był partią konserwatywnego mieszczaństwa. Nie był radykalnie eurosceptyczny – sceptycyzm wobec Unii Europejskiej owszem, był, ale nie na tyle, by walczyć z integracją. To Liga Polskich Rodzin była wtedy główną siłą eurosceptyczną.
+
+PiS wyrastał z dwóch źródeł. Po pierwsze – z Porozumienia Centrum Jarosława Kaczyńskiego, które przetrwało w różnych formach przez całe lata dziewięćdziesiąte. Po drugie – z wizerunku Lecha Kaczyńskiego jako ministra sprawiedliwości, który wytoczył walkę zorganizowanej przestępczości.
+
+Nazwa partii nie była przypadkowa. "Prawo i sprawiedliwość" nawiązywało bezpośrednio do legendy Lecha Kaczyńskiego – szeryfa, który rozprawił się z gangami pruszkowskimi i wołomińskimi na przełomie wieków.
+
+W wyborach w 2001 roku PiS zdobył 9,5 procent. Liga Polskich Rodzin – około 8. Platforma Obywatelska – podobny wynik. Wszystkie trzy partie prawicowe razem miały może 25-30 procent. Resztę zgarnęło SLD – 38 procent, które razem z PSL utworzyło rząd.
+
+To był początek. Nikt wtedy nie przypuszczał, że ta partia, ledwo co istniejąca, za kilkanaście lat będzie absolutnym hegemonem polskiej sceny politycznej.
+
+## ROZDZIAŁ II: SKRĘT W PRAWO
+
+_Warszawa, 2004 rok_
+
+Wybory do Parlamentu Europejskiego w 2004 roku były dla PiS-u momentem przełomowym.
+
+Platforma Obywatelska zajęła pierwsze miejsce z około 17-18 procentami. Liga Polskich Rodzin – drugie z prawie 16 procentami. PiS był trzeci, albo nawet czwarty.
+
+To był sygnał alarmowy.
+
+Jarosław Kaczyński zrozumiał, że musi zmienić strategię. PiS nie mógł być partią umiarkowaną, skoro elektorat prawicowy wybierał bardziej radykalną Ligę Polskich Rodzin. Trzeba było przejąć ten elektorat.
+
+I PiS dokonał zwrotu w prawo.
+
+Kampania 2005 roku była już kampanią narodowo-katolicką. PiS wszedł w buty, które wcześniej należały do Ligi. Hasła o Polsce solidarnej, o zwykłym człowieku, o walce z elitami. A przy tym – coraz mocniejszy eurosceptycyzm.
+
+Do tego doszło porozumienie z ojcem Tadeuszem Rydzykiem. Radio Maryja, które wcześniej wspierało Ligę Polskich Rodzin, zaczęło skłaniać się ku PiS-owi. Ojciec Rydzyk wygłosił słynne przemówienie, w którym mówił o Lidze Polskich Rodzin, że "ligę to już można na katafalku złożyć".
+
+Liga Polskich Rodzin zdobyła w 2005 roku jeszcze 8 procent. Ale PiS wygrał wybory – 20-procentowym wynikiem, wyprzedzając Platformę Obywatelską.
+
+I wtedy zaczął się nowy podział polityczny. PiS zaczął mówić o Polsce liberalnej i Polsce solidarnej. O elitach i zwykłych ludziach. O Platformie jako partii bogatych, a o sobie jako partii tych, którzy zostali pominięci.
+
+To był moment, w którym PiS przestał być tylko partią konserwatywną. Stał się partią ludową.
+
+## ROZDZIAŁ III: HEGEMONIA
+
+_Warszawa, 2007-2019_
+
+Przez dwanaście lat PiS był hegemonem po prawej stronie sceny politycznej.
+
+Nie znaczy to, że zawsze rządził. W latach 2007-2015 był w opozycji. Ale na prawicy nie było dla niego konkurencji. Liga Polskich Rodzin i Samoobrona zostały zniszczone. Konfederacja jeszcze nie istniała. Kto chciał głosować na prawicę, głosował na PiS.
+
+Ta hegemonia miała różne oblicza.
+
+Najpierw był PiS rządzący w latach 2005-2007 – chaotyczny, skłócony z koalicjantami, ale potężny w sondażach. W pewnym momencie dochodził do 40 procent poparcia. Kazimierz Marcinkiewicz, pierwszy premier PiS, był jednym z najpopularniejszych polityków w Polsce.
+
+Potem był PiS w opozycji, po 2007 roku. Wtedy główną siłą napędową partii stał się Lech Kaczyński – prezydent, który toczył wojnę z Platformą Obywatelską. Wojnę małego i dużego pałacu.
+
+A potem – katastrofa smoleńska.
+
+10 kwietnia 2010 roku pod Smoleńskiem zginął Lech Kaczyński, zginęło wielu wybitnych polityków PiS, zginęło funkcjonowanie państwa polskiego. Tak to ujął kiedyś Robert Winnicki: "Pod Smoleńskiem nie rozbił się samolot. Rozbiło się funkcjonowanie państwa polskiego."
+
+Smoleński PiS to już była inna formacja. Narracja miesięcznic, kult prezydenta, walka o prawdę. I przesunięcie w mediach prawicowych – z Radia Maryja na Gazetę Polską i Tomasza Sakiewicza.
+
+A potem – 2015 rok.
+
+PiS wygrał wybory z wynikiem 230 mandatów. Po raz pierwszy od 1989 roku jedna partia uzyskała samodzielną większość w Sejmie. PiS miał prezydenta, miał większość w Senacie, miał NBP, służby, media publiczne. Miał wszystko, co tylko można było mieć.
+
+To był szczyt hegemonii.
+
+## ROZDZIAŁ IV: KONIEC HEGEMONII
+
+_Warszawa, 2019 rok_
+
+Konfederacja weszła do Sejmu w 2019 roku i hegemonia PiS na prawicy skończyła się na dobre.
+
+Nie znaczy to, że PiS przestał być najsilniejszą partią. Wciąż był. Ale już nie był jedyną opcją dla prawicowego wyborcy. Pojawiła się alternatywa – bardziej radykalna, bardziej wolnościowa, bardziej eurosceptyczna.
+
+I PiS zaczął tracić.
+
+W 2023 roku przegrał wybory. Nie w sensie liczby mandatów – wciąż był pierwszą partią. Ale nie miał z kim tworzyć koalicji. Platforma Obywatelska, Polska 2050, Lewica i PSL stworzyły rząd, a PiS został w opozycji.
+
+Dlaczego przegrał? Winnicki wymieniał wiele powodów: zmęczenie materiału, błędy w zarządzaniu, COVID, wojna na Ukrainie, brak asertywności wobec Ukrainy, polityka klimatyczna, masowa imigracja. Ale przede wszystkim – stracił kontakt z wyborcami.
+
+PiS prowadził kampanię w 2023 roku tak, jakby lata 2015-2023 w ogóle się nie wydarzyły. Mówił do Polaków tak samo jak wtedy, gdy byli biedni i wdzięczni za każdą złotówkę. Ale Polacy już nie byli tacy biedni. 500 plus, 800 plus, 13. i 14. emerytura – podniosły poziom życia. A wraz z poziomem życia wzrosły aspiracje.
+
+PiS nie dostrzegł tej zmiany. I przegrał.
+
+## ROZDZIAŁ V: ROZŁAM
+
+_Warszawa, 2026 rok_
+
+Dziś PiS jest w głębokim kryzysie tożsamościowym.
+
+Od kilku miesięcy trwa otwarty bunt przeciwko Jarosławowi Kaczyńskiemu. Na czele buntowników stoi Mateusz Morawiecki – premier, który przez lata był prawą ręką prezesa, a teraz chce przejąć partię.
+
+Morawiecki ma swoich ludzi. Około 45 parlamentarzystów. Silne oparcie w strukturach. I własną wizję PiS-u – powrót do korzeni, do partii konserwatywnego mieszczaństwa z 2001 roku.
+
+Jarosław Kaczyński próbuje gasić bunt. Najpierw groził wyrzuceniem z partii. Potem, gdy buntownicy pokazali siłę, wszedł w tryb koncyliacyjny. Napisał deeskalacyjny tweeta. Ale to nie wystarczyło.
+
+Rozłam jest realny. Być może nieunikniony.
+
+I pytanie, które zadaje sobie cała polska scena polityczna: czy PiS przetrwa? Czy rozpadnie się na dwie partie? Czy może jednak uda się go poskładać?
+
+Winnicki mówi w swoim filmie: "Rzeczywistość dominacji PiS po prawej stronie nie wróci. Tego już nie będzie."
+
+I chyba ma rację.
+
+## ROZDZIAŁ VI: TOŻSAMOŚĆ
+
+_Warszawa, ten sam wieczór_
+
+Słuchałem dalej. Winnicki mówił o tożsamości.
+
+"Dzisiaj PiS szuka własnej tożsamości. Jest w fazie daleko postępującego rozkładu. Nie struktury – struktury są potężne. Ale jest w głębokim kryzysie tożsamościowym."
+
+To kluczowe słowo: tożsamość. Kim jest PiS? Partią narodowo-katolicką? Partią ludową? Partią konserwatywną? Partią eurosceptyczną? Wszystkim naraz?
+
+Przez lata PiS był wszystkim naraz. Miał twarze na każdą okazję. Dla bardziej radykalnych – Antoniego Macierewicza i Zbigniewa Ziobrę. Dla centrum – Beatę Szydło, Mateusza Morawieckiego, Jarosława Gowina. Dla wyborców katolickich – Radia Maryja. Dla wyborców patriotycznych – Gazetę Polską.
+
+Ale to się skończyło. Bo pojawiła się Konfederacja – bardziej radykalna, bardziej konsekwentna, bardziej wiarygodna. Bo PiS zaczął być postrzegany jako partia, która mówi jedno, a robi drugie. Bo w internecie algorytmy promują najbardziej radykalne głosy, a PiS nie jest już najbardziej radykalny.
+
+Morawiecki proponuje powrót do pierwszego PiS-u. Do eurosceptycyzmu umiarkowanego, do konserwatyzmu niebitewnego, do wartości mieszczańskich. I jeszcze coś: rozwój. Aspiracje. Bo PiS nie dostrzegł w 2023 roku, że Polacy chcą już czegoś więcej niż tylko socjalnych darów.
+
+Ale czy to wystarczy? Czy PiS z Morawieckim będzie w stanie przekonać wyborców, że jest lepszą opcją niż Konfederacja? Czy może rozłam tylko przyspieszy upadek?
+
+Nikt nie zna odpowiedzi.
+
+## EPILOG
+
+_Warszawa, noc_
+
+Wyłączyłem film. Zostałem w ciszy, patrząc w pusty ekran.
+
+Myślałem o tej partii. O jej narodzinach w 2001 roku, o jej skręcie w prawo w 2005, o jej hegemonii, która trwała ponad dekadę, o jej zmierzchu, który trwa teraz.
+
+PiS nie jest pierwszą partią, która przeżywa kryzys tożsamości. I nie będzie ostatnią. Ale jego przypadek jest wyjątkowy, bo to partia, która zbudowała swoją potęgę na hegemonii po prawej stronie. A teraz ta hegemonia się skończyła.
+
+Może to koniec. Może to tylko transformacja. Może za rok zobaczymy nowy PiS – odrodzony, silniejszy, bardziej dostosowany do nowej rzeczywistości. A może zobaczymy dwa PiS-y – jeden Kaczyńskiego, drugi Morawieckiego – które będą ze sobą walczyć o ten sam elektorat.
+
+Jedno jest pewne: hegemonii PiS po prawej stronie już nie ma. I nie wróci.
+
+Winnicki mówił o tym w swoim filmie: "Rzeczywistość dominacji PiS po prawej stronie nie wróci. Tego już nie będzie."
+
+Niektórzy się cieszą. Inni się smucą.
+
+Ja tylko patrzę. I czekam.
+
+## POSŁOWIE
+
+Historia Prawa i Sprawiedliwości to historia pewnej hegemonii. Partii, która przez ponad dekadę była absolutnym liderem prawicy, która rządziła Polską przez dwie kadencje, która zdobyła samodzielną większość w Sejmie – co udało się tylko jej, dwa razy.
+
+Ale hegemonia się skończyła. I to nie dlatego, że PiS stał się słabszy. To dlatego, że pojawiła się konkurencja, której nie potrafił zignorować.
+
+Winnicki mówi o fazach rozwoju PiS. O pierwszym, drugim, trzecim, czwartym, piątym i szóstym etapie. Ja widzę to trochę inaczej. Widzę historię partii, która przez dwadzieścia pięć lat ewoluowała, zmieniała się, dostosowywała do rzeczywistości. A teraz stoi przed największym wyzwaniem: zdefiniować siebie na nowo.
+
+Czy to się uda? Nie wiem. Nikt nie wie.
+
+Wiem tylko tyle, że Polska scena polityczna już nigdy nie będzie taka sama. Hegemonia się skończyła. Rozpoczęła się era fragmentaryzacji, rywalizacji i niepewności.
+
+I być może to dobrze. Może Polska potrzebuje więcej niż jednej partii na prawicy. Może konkurencja jest zdrowa. Może to, co teraz się dzieje, to nie koniec, tylko początek czegoś nowego.
+
+A może to tylko życzenie.
+
+W każdym razie, ja będę patrzył. Jak zawsze.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Gdzie siedzi narrator?
+
+**Answers:**
+- A) Na Mokotowie w Warszawie
+- B) Na Pradze Północ w Warszawie
+- C) W ścisłym centrum Łodzi
+- D) Na Starym Mieście Krakowa
+
+**Correct:** A
+**Explanation:** Mokotów.
+**Text reference:** Mokotowie
+
+### Question 2
+
+**Question:** Czyjego głosu słucha?
+
+**Answers:**
+- A) Stanowskiego o sporcie dnia i nocy
+- B) Winnickiego o kryzysie prawicy
+- C) Jackowskiego o nocnych snach ludzi
+- D) Kasi o złocie inwestycyjnym w banku
+
+**Correct:** B
+**Explanation:** Winnicki o kryzysie.
+**Text reference:** Winnicki
+
+### Question 3
+
+**Question:** Jak narrator widzi hegemonię?
+
+**Answers:**
+- A) Jako zawsze szkodliwą siłę
+- B) Jako możliwą zdrową rywalizację
+- C) Jako temat tylko dla historyków
+- D) Jako żart z internetowych forów
+
+**Correct:** B
+**Explanation:** Może być zdrową konkurencją.
+**Text reference:** rywalizację
+
+### Question 4
+
+**Question:** Co robi narrator wobec chaosu?
+
+**Answers:**
+- A) Wyjeżdża natychmiast z kraju
+- B) Zakłada własną nową partię
+- C) Patrzy uważnie i obserwuje
+- D) Wyłącza cały internet w domu
+
+**Correct:** C
+**Explanation:** Patrzy i obserwuje.
+**Text reference:** patrzy
+
+### Question 5
+
+**Question:** Jakie słowo jest tytułem?
+
+**Answers:**
+- A) Symetria dnia
+- B) Hegemonia
+- C) Skorupa snu
+- D) Bryłka złota
+
+**Correct:** B
+**Explanation:** Hegemonia.
+**Text reference:** Hegemonia
+

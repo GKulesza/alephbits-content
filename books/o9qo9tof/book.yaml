@@ -1,0 +1,7 @@
+book_id: "o9qo9tof"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_wakacje_z_niczego"
+legacy_slug: "wakacje-z-niczego"

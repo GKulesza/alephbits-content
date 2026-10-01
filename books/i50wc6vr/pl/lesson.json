@@ -1,0 +1,124 @@
+{
+  "id": "i50wc6vr:pl",
+  "bookId": "i50wc6vr",
+  "locale": "pl",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_ksiega_przypadku",
+  "legacySlug": "ksiega-przypadku",
+  "title": "Księga przypadku",
+  "language": "pl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-10-01",
+  "description": "Kraków, muzeum, dyktafon. O dowodach, pytaniach i momencie, gdy zostaje tylko rzut monetą.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "matematyka",
+    "przypadek",
+    "prawda",
+    "Collection Thirteen"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 8,
+  "translation": "Księga przypadku — Collection Thirteen official reading pack (Polish).",
+  "text": "**KSIĘGA PRZYPADKU**\n\n## PROLOG\n\nMuzeum Inżynierii i Techniki, Kraków, 18 lipca 2026 roku\n\nGodzina 16:47. Siedziałem w trzecim rzędzie, z dyktafonem w dłoni i notatnikiem na kolanach, i czułem, że zaraz coś we mnie pęknie.\n\nByłem dziennikarzem naukowym od pięciu lat. Pisałem o czarnych dziurach, o edycji genów, o sztucznej inteligencji – o wszystkim, co miało choć cień sensacji. Myślałem, że rozumiem naukę. Myślałem, że wiem, czym jest pewność.\n\nA potem przyszedł na scenę pan profesor Tomasz Łuczak i zaczął mówić o prawdopodobieństwie.\n\nNie o tym, jak policzyć szansę na wyrzucenie szóstki. Nie o tym, jak obstawiać mecze. On mówił o czymś znacznie głębszym – o tym, że sam akt liczenia prawdopodobieństwa jest aktem wiary. Że matematycy przez wieki nie wiedzieli, czym właściwie jest prawdopodobieństwo. Że dopiero w latach trzydziestych XX wieku Kołmogorow podał aksjomaty teorii prawdopodobieństwa – i od tego czasu zaczęła ona istnieć jako \"poważna\" matematyka.\n\nA potem powiedział coś, co zmieniło wszystko.\n\n\"Przypuśćmy, że jedynka na kostce wychodzi z prawdopodobieństwem 1 przez 2π. Co to właściwie znaczy? I na to pytanie matematycy nie potrafili przez długi czas odpowiedzieć. Zresztą tego nie da się sprawdzić eksperymentalnie.\"\n\nZamknąłem notatnik. Wiedziałem, że to będzie długa noc.\n\n## ROZDZIAŁ I: AKSJOMATY\n\nWykład, godzina 17:02\n\nPan profesor zaczął od historii.\n\nPrzed drugą wojną światową rachunek prawdopodobieństwa nie wchodził w skład podstawowego wykształcenia matematyka – mówił. – Był używany od wieków – towarzystwa ubezpieczeniowe w Wenecji w średniowieczu, gry hazardowe, którymi zajmował się Pascal – ale nie uznawano go za część poważnej matematyki.\n\nSłuchałem i myślałem o swoim życiu. O tym, jak przez lata unikałem niepewności. Jak planowałem każdy dzień, każdy ruch, każdą decyzję. Jak bałem się ryzyka.\n\nA dlaczego? – kontynuował profesor. – Otóż dlatego, że matematycy nie potrafili odpowiedzieć na pytanie: czym właściwie jest prawdopodobieństwo?\n\nI wtedy zrobił coś, co zapamiętam do końca życia. Porównał prawdopodobieństwo do geometrii Euklidesa.\n\nEuklides podał aksjomaty geometrii, ale nie mówił, jak te aksjomaty mają się do rzeczywistości – powiedział. – Na odcinku jest nieskończenie wiele punktów, ale na żadnym realnym odcinku nie ma nieskończenie wielu punktów. On nie zajmował się tym, jak teoria geometrii ma się do rzeczywistości. On po prostu podał aksjomaty.\n\nI Kołmogorow zrobił to samo z prawdopodobieństwem w latach trzydziestych.\n\nOd tego czasu teoria prawdopodobieństwa zaczęła istnieć w poważnej matematyce – powiedział. – Ostatnie cztery medale Fieldsa, przynajmniej jeden, były z dziedziny związanej z rachunkiem prawdopodobieństwa.\n\nSłuchałem i czułem, że coś we mnie zaczyna się zmieniać. Że to, co zawsze uważałem za słabość – niepewność, losowość, przypadek – nagle staje się siłą.\n\n## ROZDZIAŁ II: NIESKOŃCZONOŚĆ\n\nWykład, godzina 17:24\n\nPotem pan profesor zaczął mówić o nieskończoności.\n\nKantor w XIX wieku wprowadził pojęcie zbiorów nieskończonych – powiedział. – Pokazał, że istnieje zbiór, który jest większy niż zbiór liczb naturalnych. To zbiór liczb rzeczywistych.\n\nKtoś na sali sapnął. Ja też.\n\nPrzez innego matematyka, Kroneckera, Kantor został nazwany oszustem i deprawatorem młodzieży – dodał profesor z uśmiechem. – A to dlatego, że przeczyło to prawdzie objawionej przez Arystotelesa: że część jest zawsze mniejsza od całości.\n\nZrobiłem notatkę: \"Liczb parzystych jest dokładnie tyle samo co liczb wszystkich\".\n\nAle Kantor poszedł dalej – ciągnął profesor. – Pokazał, że nie ma jednej nieskończoności. Są przynajmniej dwie – i pewnie nieskończenie wiele.\n\nI wtedy powiedział coś, co sprawiło, że przestałem pisać.\n\nNiejaki Cohen udowodnił, że hipoteza continuum – pytanie, czy istnieje zbiór nieskończony większy od liczb naturalnych, ale mniejszy od liczb rzeczywistych – jest niezależna od aksjomatów teorii zbiorów.\n\nCo to znaczy? – zapytał ktoś z sali.\n\nTo znaczy, że możemy uprawiać matematykę przyjmując, że taki zbiór istnieje, i możemy uprawiać matematykę przyjmując, że takiego zbioru nie ma. I obie te matematyki są równie poprawne.\n\nWstrzymałem oddech.\n\nI co? – zapytałem, nie zdając sobie sprawy, że mówię na głos.\n\nProfesor spojrzał w moją stronę.\n\nGödel, który wiedział, że są twierdzenia, których nie można udowodnić, był przekonany, że to pytanie ma rozwiązanie. Był platonikiem. Wierzył, że obiekty matematyczne istnieją gdzieś. Że w platońskim świecie nie mogą równocześnie istnieć i nie istnieć.\n\nA pan? – zapytałem.\n\nUśmiechnął się.\n\nJa? Jestem matematykiem. Dla mnie piękno polega na tym, że nie wiemy. Że zawsze zostaje coś do odkrycia.\n\n## ROZDZIAŁ III: LOSOWOŚĆ\n\nWykład, godzina 17:48\n\nCzy można udowodnić coś, rzucając monetą? – zapytał profesor. – Okazuje się, że można.\n\nOpowiedział o metodzie probabilistycznej, którą wymyślił Paul Erdős.\n\nPrzypuśćmy, że mają państwo 1000 zbiorów, każdy po 12 elementów. Trzeba pokazać, że można pomalować wszystkie elementy dwoma kolorami, tak żeby żaden zbiór nie był jednokolorowy.\n\nZrobiłem pauzę. To brzmiało jak łamigłówka.\n\nNie wiadomo, jak się do tego zabrać – powiedział profesor. – Ale Erdős powiedział: pokolorujmy te elementy, rzucając monetą. Prawdopodobieństwo, że jeden zbiór zostanie jednokolorowy, wynosi 1/1024. Jest 1000 zbiorów, więc średnio będzie mniej niż jeden zbiór jednokolorowy. A jeśli średnia jest mniejsza od jednego, to znaczy, że istnieje takie pokolorowanie, gdzie żaden zbiór nie jest jednokolorowy.\n\nMimo że nie wiemy, jak to pokolorowanie wygląda – dodał – mamy pewność, że istnieje.\n\nSiedziałem i myślałem o swoim życiu. O wszystkich decyzjach, które podejmowałem, próbując być pewnym. O wszystkich momentach, w których bałem się ryzyka. A tu nagle okazywało się, że sama niepewność – rzut monetą – może być narzędziem do odkrywania prawdy.\n\nTo się nazywa metoda nieefektywna – powiedział profesor. – Ale czasami to jedyna metoda, jaką mamy.\n\n## ROZDZIAŁ IV: DOWÓD\n\nWykład, godzina 18:12\n\nPotem profesor zaczął mówić o czymś, co brzmiało jak magia.\n\nJest coś takiego jak _zero-knowledge proof_ – powiedział. – Chcemy komuś udowodnić, że potrafimy coś zrobić, ale nie chcemy mu pokazać jak.\n\nOpowiedział o tym, jak można udowodnić, że potrafi się rozłożyć liczbę złożoną na czynniki pierwsze, nie zdradzając algorytmu.\n\nI można to zrobić, rzucając monetą – dodał. – Po wielu próbach druga strona będzie przekonana z dużym prawdopodobieństwem, że to prawda.\n\nWidziałem przed sobą obrazy: szyfry, banki, tajne umowy. Wszystko to oparte na losowości. Na tym, czego nie wiemy.\n\nA potem jest PCP – _probabilistic checkable proofs_ – ciągnął profesor. – Ktoś zapisuje dowód w szczególnej postaci, a my sprawdzamy tylko 10 lub 20 miejsc. Z prawdopodobieństwem bliskim pewności wiemy, że dowód jest poprawny.\n\nTo brzmi niewiarygodnie – powiedziałem.\n\nTo brzmi jak magia – odpowiedział profesor. – Ale to matematyka.\n\n## ROZDZIAŁ V: WYROCZNIA\n\nPytania z sali, godzina 18:34\n\nNadeszła część pytań. Ktoś zapytał o wolną wolę. Ktoś o aksjomat wyboru. Ktoś o to, czy matematyka jest odkrywana, czy wymyślana.\n\nA potem prowadzący zadał pytanie, które wszyscy chcieliśmy usłyszeć:\n\nGdyby objawiła się panu matematyczna wyrocznia i mógłby pan zadać jedno pytanie – o co by pan spytał?\n\nProfesor zamyślił się na chwilę. Potem odpowiedział:\n\nChciałbym widzieć problemy, które mają rozwiązania niezwykle piękne i zachwycające. Takie, które mogłyby mnie zaskoczyć.\n\nJak Erdős i jego _Księga_ – dodał prowadzący.\n\nProfesor skinął głową.\n\nTak. Dowody z Księgi. Są takie twierdzenia, które można udowodnić – ale ich dowody są zupełnie niewiarygodne. I to jest piękno matematyki.\n\nSiedziałem w ciszy. Dyktafon wciąż nagrywał, ale już nie słuchałem. Myślałem o swoim życiu – o wszystkich momentach, w których bałem się niepewności. O wszystkich decyzjach, które odkładałem, czekając na pewność. O wszystkich rzutach monetą, których unikałem.\n\nA teraz, po tym wykładzie, wiedziałem jedno:\n\nNiepewność nie jest wrogiem. Jest narzędziem. Jest drogą do prawdy. Jest tym, co sprawia, że matematyka – i życie – są piękne.\n\n## EPILOG\n\nMuzeum Inżynierii i Techniki, Kraków, godzina 19:00\n\nWykład się skończył. Pan profesor zebrał swoje notatki, a publiczność zaczęła się rozchodzić.\n\nPodszedłem do niego.\n\nPanie profesorze – powiedziałem. – Dziękuję. To było... coś.\n\nUśmiechnął się.\n\nCoś?\n\nNie wiem, jak to nazwać. Objawienie? Zmiana perspektywy? Przez całe życie bałem się losowości. A pan pokazał mi, że losowość to nie słabość. To siła.\n\nTo nie ja – odpowiedział. – To matematyka.\n\nA jeśli nie ma odpowiedzi? Jeśli pytanie o hipotezę continuum pozostanie otwarte?\n\nTo też jest odpowiedź – powiedział. – Że są pytania, na które nie znamy odpowiedzi. I że to jest w porządku.\n\nWyszedłem z muzeum. Na zewnątrz był wieczór, ciepły, lipcowy. Wyjąłem z kieszeni monetę. Dwuzłotówkę. Rzuciłem ją w górę.\n\nOrzeł.\n\nUśmiechnąłem się.\n\nNie wiedziałem, co przyniesie przyszłość. Nie wiedziałem, czy moje decyzje będą dobre. Ale wiedziałem jedno – że mogę rzucać monetą. Że mogę ufać przypadkowi. Że niepewność nie jest końcem świata.\n\nJest początkiem.\n\n## POSŁOWIE\n\nWykład profesora Tomasza Łuczaka o prawdopodobieństwie był czymś więcej niż lekcją matematyki. Był lekcją o życiu.\n\nPokazał, że to, co uważamy za słabość – niepewność, losowość, przypadek – może być naszą największą siłą. Że metody probabilistyczne pozwalają nam rozwiązywać problemy, których inaczej nie moglibyśmy dotknąć. Że _zero-knowledge proofs_ pozwalają nam udowodnić prawdę, nie zdradzając sekretów. Że nawet jeśli nie znamy odpowiedzi na wszystkie pytania – jak hipoteza continuum – to sam fakt, że pytanie istnieje, jest piękny.\n\nI że czasami najlepsze, co możemy zrobić, to rzucić monetą.",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gdzie i kiedy jest główna scena?",
+        "answers": [
+          "Muzeum w Krakowie, 2026",
+          "UW w Warszawie, maj 2025",
+          "Politechnika Gdańsk, 2024",
+          "Biblioteka Wrocław, 2023"
+        ],
+        "correctIndex": 0,
+        "explanation": "Muzeum w Krakowie, 2026."
+      },
+      {
+        "type": "single_choice",
+        "question": "O czym mówi wykład?",
+        "answers": [
+          "O gotowaniu lokalnych zup",
+          "O dowodzie oraz przypadku",
+          "O sporcie olimpijskim kraju",
+          "O remontach starych domów"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prawda, dowód, przypadek."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co zostaje, gdy pewność znika?",
+        "answers": [
+          "Zamknięcie całej księgi",
+          "Wyścig z uciekającym czasem",
+          "Wspinaczka na wysoki szczyt",
+          "Samotny rzut monetą"
+        ],
+        "correctIndex": 3,
+        "explanation": "Rzut monetą."
+      },
+      {
+        "type": "single_choice",
+        "question": "Jakie słowa wracają w tekście?",
+        "answers": [
+          "Tylko mnożenie suchych liczb",
+          "Historia samej piłki nożnej",
+          "Prawda, dowód oraz los",
+          "Przepisy kuchni regionalnej"
+        ],
+        "correctIndex": 2,
+        "explanation": "Prawda, dowód, przypadek."
+      },
+      {
+        "type": "single_choice",
+        "question": "Czego dotyczy opowieść?",
+        "answers": [
+          "Turystyki miejskiej Krakowa",
+          "Modnych ubrań sezonu",
+          "Matematyki i niepewności",
+          "Kuchni regionalnej Polski"
+        ],
+        "correctIndex": 2,
+        "explanation": "Matematyka i niepewność."
+      }
+    ]
+  },
+  "coverFamily": "popular_science",
+  "audience": "adult",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-10-01",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-07-18"
+  ],
+  "inspiredBy": {
+    "youtube": "p1qLUOnl-Bs"
+  },
+  "world": {
+    "objects": [
+      "notebook"
+    ],
+    "places": [
+      "museum"
+    ]
+  }
+}

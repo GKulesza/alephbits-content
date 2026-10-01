@@ -1,0 +1,7 @@
+book_id: "w420q86b"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_ksiega_wody_i_zapomnienia"
+legacy_slug: "ksiega-wody-i-zapomnienia"

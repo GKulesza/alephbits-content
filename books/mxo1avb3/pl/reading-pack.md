@@ -1,0 +1,350 @@
+# Sprzedane
+
+## Metadata
+
+**Pack ID:** mxo1avb3
+**Book ID:** mxo1avb3
+**Legacy Pack ID:** polish_sprzedane
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Sprzedane  
+**Subtitle:** *(none)*  
+**Blurb:** Stary pad od PS2 i Underground 2. Dopóki działa, nie trzeba kupować niczego nowego.
+
+**Genres:** everyday_live, short_story  
+**Series:** Collection Thirteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Sprzedane — Collection Thirteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** gry, nostalgia, konsumpcja, Collection Thirteen  
+
+**Keywords:** Sprzedane, Collection Thirteen  
+
+**Cover family:** everyday_live
+
+**Editorial notes:** Collection Thirteen — Polish original; balanced quizzes; import 2026-10-01.
+
+---
+
+**World:**
+- objects: game_controller
+- places: home
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-01  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Thirteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-01 | Collection Thirteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-01 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Thirteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=qi_0fMx7lUE  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-18  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/13 CollectionThirteen.md.
+
+---
+
+## Text
+
+**SPRZEDANE**
+
+## PROLOG
+
+_Warszawa, lipiec 2026 roku_
+
+Siedziałem przed ekranem komputera, trzymając w dłoni kontroler od PlayStation 2. Sprzęt miał ponad dwadzieścia lat, porysowany, z wytartymi przyciskami, ale wciąż działał. Włożyłem płytę _Need for Speed: Underground 2_ – tę samą, którą kupiłem jako nastolatek, oszczędzając pieniądze z kieszonkowego przez całe lato.
+
+Gra uruchomiła się bez aktualizacji. Bez logowania. Bez reklam.
+
+Na ekranie pojawiło się miasto – neonowe światła, deszcz, ulice pełne życia. Na billboardach wisiały reklamy Old Spice i Axe. Nigdy mi nie przeszkadzały. Były częścią świata, tak jak reklamy w prawdziwym mieście są częścią ulicy.
+
+Uśmiechnąłem się.
+
+A potem sięgnąłem po telefon i otworzyłem YouTube. Trafiłem na film Arkadikussa o nowych planach Electronic Arts. I poczułem, że coś we mnie umiera.
+
+## ROZDZIAŁ I: MIEJSCE NA TWOJĄ REKLAMĘ
+
+_Studio nagraniowe, ten sam dzień_
+
+Alexander Dao, wiceprezes Electronic Arts do spraw reklam i sponsoringu, wystąpił w programie _The Game Business Show_. Wyglądał jak człowiek, który wierzy w to, co mówi. Może naprawdę wierzył.
+
+– Kiedy myślicie o nowych grach, które dopiero powstają, pojawiają się okazje, by od samego początku zaprojektować je z odpowiednimi reklamami oraz obecnością marek – powiedział. – To po prostu znacznie ułatwia proces.
+
+Słuchałem i czułem, jak we mnie rośnie coś, co trudno nazwać inaczej niż wstręt. Nie dlatego, że chciał wciskać reklamy w gry. Dlatego, że mówił o tym tak naturalnie. Jakby to było oczywiste. Jakby tworzenie gier zawsze miało być projektowaniem przestrzeni dla sponsorów.
+
+– Nie myślcie o tym, o czym ma być gra – tłumaczył Dao. – Pomyślcie, gdzie wpieprzycie reklamy. To jest najważniejsze.
+
+Nie powiedział tego wprost. Ale właśnie to miał na myśli.
+
+Kiedy słuchałem jego słów, przypomniałem sobie coś, co ktoś kiedyś powiedział na jednym z forów: _"Gracze nigdy nie oczekują reklam. Ewentualnie się na nie godzą."_
+
+To jest klucz. To jest sedno całego problemu.
+
+My się godzimy. Godzimy się na coraz więcej. Godzimy się na mikropłatności w grach za 300 złotych. Godzimy się na sezonowe przepustki. Godzimy się na wczesny dostęp dla tych, którzy dopłacą. Godzimy się na wszystko, co korporacje wrzucą nam na talerz, byle tylko mieć nową grę.
+
+I oni to wiedzą.
+
+## ROZDZIAŁ II: SZKOŁA PRZETRWANIA
+
+_Internet, 2026 rok_
+
+Społeczność _College Football 27_ właśnie zrobiła coś, co wydawało się niemożliwe. Zmusiła EA do wycofania płatnej progresji z trybów dla pojedynczego gracza.
+
+Przez chwilę mogłem uwierzyć, że coś się zmieniło. Że gracze w końcu powiedzieli "dość" i korporacja usłyszała.
+
+Potem przeczytałem komunikat EA.
+
+_"Płatne opcje miały zapewniać graczom większy wybór oraz dodatkową wartość."_
+
+Większy wybór. Dodatkowa wartość.
+
+Przetłumaczmy to na ludzki język: _"Chcieliśmy wziąć od was więcej pieniędzy, ale wkurzyliście się, więc na chwilę się wycofujemy. Ale nie oddamy wam tego, co zabraliśmy."_
+
+Bo nie oddali. Rezygnacja z płatnych ulepszeń nie oznaczała powrotu do rozwiązań z poprzedniej części. Wprowadzono trzy ustawienia tempa rozwoju – najszybsze z nich odpowiadało starej opcji "faster", ale nie wróciła opcja "fastest". Dlaczego? Bo nie.
+
+Gracze nie odzyskali wszystkich narzędzi pozwalających samodzielnie regulować szybkość zabawy.
+
+Zwycięstwo? Nie. To było taktyczne wycofanie. Jak w szachach – poświęcasz pionka, żeby wygrać partię.
+
+A co z ludźmi, którzy już kupili _College Points_? Electronic Arts nazwało to "niefortunnym skutkiem ubocznym". Gracze nie mogli już wykorzystać waluty do ulepszania zawodników. Musieli wydać ją na coś innego. Firma zachęcała do szybkiego wydania pieniędzy przed aktualizacją.
+
+_"Niefortunny skutek uboczny"_.
+
+Wzięli pieniądze, zmienili zasady, a potem powiedzieli: _"Przepraszamy, nie możecie już tego użyć tak, jak chcieliście. Ale możecie wydać to na coś innego. Szybko."_
+
+I to jest właśnie Electronic Arts.
+
+## ROZDZIAŁ III: KAMPUS
+
+_Redakcja Angry Joe, ten sam tydzień_
+
+Angry Joe, jeden z największych krytyków EA, opowiedział o czymś, co wstrząsnęło mną bardziej niż wszystkie dotychczasowe doniesienia.
+
+Przed premierą _College Football 27_ w sieci krążyły materiały przedstawiające koncepcję otwartego kampusu. Gracz miałby swobodnie poruszać się po akademickim miasteczku, odwiedzać sklepy, kupować ubrania, urządzać pokój. Pomysł wywołał natychmiast skojarzenia z _The City_ z NBA 2K – tam zwykłe menu zastąpiono dużą przestrzenią pełną sklepów, marek i przedmiotów kosmetycznych.
+
+Angry Joe podejrzewa, że kampus początkowo planowano właśnie dla _College Football 27_, ale nie zdążono go ukończyć. Wydawca wprowadził więc płatną progresję do istniejących ekranów i tabel.
+
+Według tej teorii tegoroczny odwrót to tylko taktyczne wycofanie. W _College Football 28_ dodatkowe wydatki mogą wrócić – wraz z otwartym kampusem, sklepami i społecznościową otoczką.
+
+Tym razem łatwiej będzie przedstawić je jako naturalną część większego świata.
+
+Wyobraźcie sobie: gracie w grę sportową, ale zamiast wybierać opcje z menu, musicie fizycznie przejść przez centrum handlowe. Obok sklepu z butami reklama Coca-Coli. Przy wejściu na stadion baner z napisem: "Kup przyspieszenie rozwoju za 9,99 $". Chcecie ulepszyć swoją postać? Musicie podejść do odpowiedniego stanowiska, kliknąć, zapłacić.
+
+To nie jest immersja. To więzienie.
+
+Kiedyś w grach sportowych chodziło o sport. O rywalizację. O to, żeby poprowadzić drużynę do zwycięstwa. Teraz chodzi o to, żeby prowadzić gracza do portfela.
+
+## ROZDZIAŁ IV: DZIECIĘCA NAIWNOŚĆ
+
+_Moje biurko, ta sama noc_
+
+Włączyłem ponownie _Need for Speed: Underground 2_.
+
+Na billboardach wciąż wisiały reklamy Old Spice. W radiu leciały piosenki, które znałem na pamięć. Samochody, które lubiłem, miały prawdziwe marki – Nissan, Mitsubishi, Subaru. Wszystko to było produktami. Wszystko to było reklamą.
+
+I nigdy mi to nie przeszkadzało.
+
+Dlaczego? Bo gra była zaprojektowana jako całość. Reklamy były częścią świata, a nie czymś wklejonym na siłę. Nie musiałem za nie płacić. Nie blokowały mi dostępu do treści. Nie mówiły mi: "Zapłać 5 dolarów, żeby przyspieszyć rozwój."
+
+To była inna era. Era, w której gry tworzono po to, żeby były dobre. Nie po to, żeby generować przychody z reklam przez następne pięć lat.
+
+Teraz Electronic Arts mówi otwarcie: projektujcie gry z myślą o reklamach. Nie doklejajcie ich po premierze. Od razu twórzcie przestrzeń dla sponsorów.
+
+I co gorsza – wielu twórców to zrobi. Bo EA ma władzę. Bo EA ma pieniądze. Bo EA może zdecydować, czy dane studio dostanie kontrakt na kolejną grę.
+
+## ROZDZIAŁ V: ABSURD
+
+_Internet, kilka dni później_
+
+EA Sports FC27 wyciekło przed oficjalną zapowiedzią. Gra ma trafić na wszystkie możliwe platformy – od PlayStation 4 po Switcha 2. Podstawowa wersja ma kosztować 70 euro. Na konsolach – 80.
+
+NHL27 zostało oficjalnie zapowiedziane. Na PlayStation 5 i Xbox Series X/S. Ciekawsze elementy? Nowy system zachowania tłumu. Odświeżona realizacja transmisji. Nowi komentatorzy.
+
+No i powrót sieciowego trybu franczyzowego po 13 latach przerwy.
+
+Tylko jedna rzecz psuje obraz: NHL27 ponownie ominie komputery osobiste.
+
+Seria nie otrzymała wersji pecetowej od NHL09. To już 18 lat przerwy.
+
+I teraz pomyślcie o tym w kontekście tego, co mówił Dao. EA chce projektować gry z myślą o reklamach. Tworzyć otwarte światy sportowe. Rozwijać zaawansowane systemy monetyzacji.
+
+A przeniesienie hokeja na komputery nadal okazuje się technologią zbyt drogą i futurystyczną.
+
+Na komputerze też możecie zamieścić reklamy, wiecie. To nie jest wymówka.
+
+## ROZDZIAŁ VI: CO POZOSTAJE
+
+_Moje mieszkanie, poranek_
+
+Wyłączyłem komputer. Wziąłem do ręki płytę z _Underground 2_. Przez chwilę zastanawiałem się, czy włożyć ją z powrotem do pudełka.
+
+Nie włożyłem. Zostawiłem ją w napędzie.
+
+Bo ta gra – i wszystkie inne z tamtej ery – są tym, co zostanie, gdy korporacje całkowicie zawładną przyszłością. Są dowodem na to, że kiedyś tworzono gry dla graczy. Że nie wszystko było podyktowane arkuszami kalkulacyjnymi i prognozami zysków.
+
+Teraz patrzę na nowe produkcje EA i widzę coś innego. Widzę grę, która chce być usługą. Widzę reklamy zaprojektowane w fazie koncepcyjnej. Widzę płatne skróty, które miały "zapewnić większy wybór". Widzę społeczność, która walczy o to, co kiedyś było oczywiste.
+
+Najgorsze jest to, że nie przegramy tej bitwy. Wygramy niektóre potyczki, tak jak z _College Football 27_. Ale wojnę przegramy, bo korporacje mają cierpliwość. Mają pieniądze. Mają czas.
+
+A my mamy tylko nostalgiczne wspomnienia i stare gry, które wciąż działają bez aktualizacji.
+
+## EPILOG
+
+_Warszawa, ten sam wieczór_
+
+Włączyłem _Underground 2_ po raz ostatni tego dnia. Przejechałem przez miasto, słuchając radia, oglądając billboardy, czując, że jestem częścią świata, który został zaprojektowany z myślą o przyjemności.
+
+Na ekranie pojawił się komunikat: _"Dziękujemy za grę."_
+
+Uśmiechnąłem się gorzko.
+
+Bo wiedziałem, że za kilka lat, kiedy uruchomię kolejną grę EA, nie zobaczę "Dziękujemy za grę". Zobaczę "Kup sezonową przepustkę". "Zapłać za wczesny dostęp". "Kliknij tutaj, żeby przyspieszyć postępy". "Reklama za chwilę".
+
+I nie będę mógł nawet wyłączyć gry, bo będzie wymagać połączenia z serwerem.
+
+Kiedyś gry były ucieczką od rzeczywistości. Teraz rzeczywistość ucieka od gier.
+
+Ale wciąż mam _Underground 2_. Mam _Most Wanted_. Mam _Carbon_. Mam wszystkie te gry, które zostały zaprojektowane jako całość, a nie jako nośniki reklam.
+
+I dopóki one istnieją, dopóty istnieje nadzieja.
+
+Albo przynajmniej wspomnienie tego, co kiedyś było.
+
+## POSŁOWIE
+
+Electronic Arts nie wymyśliło reklam w grach. Reklamy w grach istniały od zawsze – od billboardów w _Underground 2_ po produkty w _Death Stranding_. Różnica jest taka, że kiedyś były dodatkiem, urozmaiceniem, elementem świata. Teraz mają być planowane od początku, jako integralna część projektu.
+
+To, co proponuje EA, to nie lokowanie produktu. To projektowanie przestrzeni pod reklamy, a potem wypełnianie jej grą.
+
+I najgorsze jest to, że wielu graczy to zaakceptuje. Nie dlatego, że chcą. Ale dlatego, że nie mają wyboru. Jeśli chcesz grać w nowe gry sportowe, musisz grać w gry EA. Jeśli chcesz grać w nowe hokejówki, musisz grać w NHL od EA. Jeśli chcesz grać w nowego _Maddena_, musisz grać w _Maddena_ od EA.
+
+Monopol to nie tylko brak konkurencji. To brak wyjścia.
+
+I to jest właśnie największa tragedia współczesnego gamingu. Nie reklamy. Nie mikropłatności. Nie sezonowe przepustki. To, że coraz więcej graczy nie ma już wyboru.
+
+A ci, którzy mają wybór, wybierają stare gry.
+
+I może właśnie w tym tkwi nadzieja. Może dopóki są ludzie, którzy wracają do gier sprzed dwudziestu lat, dopóty coś jeszcze się da uratować.
+
+Albo może to tylko nostalgia. Może to tylko wspomnienie czegoś, co już nigdy nie wróci.
+
+W każdym razie, ja wciąż mam _Underground 2_.
+
+I dopóki działa, nie muszę kupować nic nowego.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Co trzyma bohater w rękach?
+
+**Answers:**
+- A) Nowy pad do konsoli PS5
+- B) Stary pad od PlayStation 2
+- C) Klawiaturę mechaniczną RGB
+- D) Stary telefon z klapką
+
+**Correct:** B
+**Explanation:** Kontroler od PS2.
+**Text reference:** PS2
+
+### Question 2
+
+**Question:** W jaką grę nadal gra?
+
+**Answers:**
+- A) FIFA w najnowszej edycji sezonu
+- B) Underground 2 na starym padzie
+- C) Nowy Call of Duty w sieci
+- D) Tetris w wersji sieciowej online
+
+**Correct:** B
+**Explanation:** Underground 2.
+**Text reference:** Underground
+
+### Question 3
+
+**Question:** Dlaczego nie kupuje nowego sprzętu?
+
+**Answers:**
+- A) Bo sklep jest już zamknięty
+- B) Bo nie ma w domu internetu
+- C) Bo zabrania mu nowa umowa
+- D) Bo stara gra wciąż działa
+
+**Correct:** D
+**Explanation:** Dopóki działa — nie trzeba nowego.
+**Text reference:** działa
+
+### Question 4
+
+**Question:** Jaki spór pokazuje tekst?
+
+**Answers:**
+- A) Spór o sąsiednią działkę ziemi
+- B) Nostalgia kontra pęd nowości
+- C) Wojna o państwową granicę kraju
+- D) Konflikt w szkolnej klasie dzieci
+
+**Correct:** B
+**Explanation:** Nostalgia vs nowości.
+**Text reference:** nostalgia
+
+### Question 5
+
+**Question:** Jaki jest morał opowieści?
+
+**Answers:**
+- A) Kupować bez żadnego końca
+- B) Doceniać to, co nadal działa
+- C) Wyrzucać wszystkie stare gry
+- D) Śledzić wyłącznie nowe trendy
+
+**Correct:** B
+**Explanation:** Doceniać to, co działa.
+**Text reference:** działa
+

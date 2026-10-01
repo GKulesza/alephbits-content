@@ -1,0 +1,384 @@
+# Skorupa
+
+## Metadata
+
+**Pack ID:** 3mcpgrmw
+**Book ID:** 3mcpgrmw
+**Legacy Pack ID:** polish_skorupa
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Skorupa  
+**Subtitle:** *(none)*  
+**Blurb:** Po nagraniu gasną światła. Stanowski zostaje sam ze skorupą i pytaniem: czy warto było?
+
+**Genres:** biography, short_story  
+**Series:** Collection Thirteen  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Skorupa — Collection Thirteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** media, sława, cena sukcesu, Collection Thirteen  
+
+**Keywords:** Skorupa, Collection Thirteen  
+
+**Cover family:** biography
+
+**Editorial notes:** Collection Thirteen — Polish original; balanced quizzes; import 2026-10-01.
+
+---
+
+**World:**
+- places: studio
+- objects: camera
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-01  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Thirteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-01 | Collection Thirteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-01 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Thirteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-01  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/13 CollectionThirteen.md.
+
+---
+
+## Text
+
+**SKORUPA**
+
+## PROLOG
+
+_(Studio Kanału Zero, Warszawa, noc)_
+
+Światła zgasły. Kamery wyłączone. W słuchawkach pozostał tylko szum ciszy.
+
+Krzysztof Stanowski siedział nieruchomo na swoim fotelu, wpatrzony w czerwone światełko gasnącej kamery. Przed chwilą skończył trzygodzinny wywiad. Mówił o sobie – o karierze, o wrogach, o pieniądzach, o straconym świętym spokoju. Powiedział prawie wszystko.
+
+Prawie.
+
+Bo jest jedno pytanie, na które nigdy nie odpowiedział publicznie. I nie odpowie.
+
+Wstał, zdjął mikrofon, przeciągnął się. W lustrze na ścianie zobaczył swoją twarz – czterdziestoczteroletnią, zmęczoną, z długimi włosami zaczesanymi tak, by zakryć łysinę po nieudanym przeszczepie. Uśmiechnął się pod nosem.
+
+Kiedyś marzył, żeby być dziennikarzem. Teraz był kimś więcej – i kimś mniej.
+
+## ROZDZIAŁ I: CHŁOPIEC Z PRZEGLĄDU
+
+W 1997 roku miał czternaście lat i marzenie, które wydawało się nierealne: pracować w _Przeglądzie Sportowym_.
+
+Siedział w redakcji na Krakowskim Przedmieściu, wśród dorosłych mężczyzn pachnących papierosami i kawą, i pisał teksty o trzeciej lidze. Matka woziła go na mecze swoim małym samochodem. On notował, obserwował, zapamiętywał. Był najmłodszy, najgłupszy i najbardziej zdeterminowany.
+
+– Chłopak ma zacięcie – powiedział kiedyś o nim któryś z redaktorów. – Ale czy to wystarczy?
+
+Nie wiedział wtedy, że odpowiedź pozna dopiero po latach, gdy zostanie zwolniony.
+
+W 2005 roku Roman Kołtoń, naczelny _Przeglądu_, wezwał go do gabinetu. Powiedział, że wprowadza atmosferę demoralizującą. Że testując nowy layout gazety, kazał dziennikarzom wpisywać byle jakie liczby, bo i tak to się nie ukaże. Że to nie fair. Że to koniec.
+
+Stanowski wyszedł z gabinetu, zamknął drzwi i poczuł, że cały świat się zawalił.
+
+– Byłem zakochany w tej gazecie – powie później w wywiadzie. – Nigdy bym nie odszedł. Siedziałbym tam do teraz.
+
+Ale świat się nie zawalił. Tylko się otworzył.
+
+## ROZDZIAŁ II: WESZŁO – IMPERIUM Z NICZEGO
+
+W 2008 roku, pracując w firmie bukmacherskiej, założył blog. Nazwał go _Weszło_.
+
+Początkowo miał być anonimowy. Pisał pod pseudonimem, bo nie chciał, żeby jego pracodawca wiedział, że robi coś na boku. Ale szybko okazało się, że ludzie chcą czytać to, co pisze. Chcą czytać prawdę o polskiej piłce – nie słodzoną, nie pudrowaną, ale brutalną i szczerą.
+
+– Żyliśmy z porażek – przyznał później. – Jak tylko coś złego działo się w polskiej piłce, ludzie wbijali się tłumnie na Weszło.
+
+Polska piłka w tamtych latach dostarczała nieograniczonych pokładów porażek. Legia odpadała w eliminacjach Ligi Mistrzów z zespołami z Kazachstanu, Azerbejdżanu, Armenii. Reprezentacja przegrywała z każdym, kto tylko chciał. A on był tam, żeby to opisać.
+
+I nagle z anonimowego blogera stał się postacią, której środowisko piłkarskie zaczęło się bać.
+
+## ROZDZIAŁ III: SKORUPA
+
+_(Dom Stanowskich, Lesznowola, 2026)_
+
+Godzina 23:47. Dzieci już spały – Leon w swoim pokoju, Aleksander w drugim. Marta, jego żona, czekała na niego w salonie. Dietetyczka z zawodu, od lat ukrywająca się przed fleszami.
+
+– Długo dzisiaj – powiedziała.
+
+– Długo – odparł.
+
+Usiadł obok niej na kanapie. Czuł, że powinien coś powiedzieć, ale słowa nie przychodziły. Od lat tak miał – im bardziej był obecny publicznie, tym bardziej znikał prywatnie.
+
+– Twoja skorupa – powiedziała cicho. – Znowu jest grubsza.
+
+– Wiem.
+
+– Pamiętasz, jak było przedtem?
+
+Pamiętał.
+
+## ROZDZIAŁ IV: CZŁOWIEK, KTÓRY ZATRZYMAŁ EMOCJE
+
+W jednym z wywiadów powiedział coś, co wielu zaskoczyło: _"Stałem się bardzo twardy. Zamieszkałem w jakiejś własnej skorupie."_
+
+Nie było to przechwałką. Było diagnozą.
+
+Kiedyś był bardziej spontaniczny. Śmiał się, płakał, reagował skrajnymi emocjami. Dziś – chłodny, wyrachowany, zaszczepiony na nadmiar uczuć.
+
+– Co zabija emocje? – zapytał go kiedyś prowadzący.
+
+– Gdy mierzysz się ze skrajnymi wyzwaniami, gdy jesteś na świeczniku, gdy masa ludzi od ciebie chce – odpowiedział. – W pewnym momencie się do tego przyzwyczajasz. Jesteś zaszczepiony.
+
+Tylko czy zaszczepienie to jeszcze życie? Czy to już tylko przetrwanie?
+
+## ROZDZIAŁ V: KANAŁ ZERO – IMPERIUM Z KAMIENIA
+
+1 lutego 2024 roku wystartował _Kanał Zero_.
+
+Pomysł narodził się w Barcelonie, w Excelu rozpisany godzinami. Miał być odpowiedzią na to, czego nie dawały mu tradycyjne media – wolności, skali, pieniędzy. I szybko stał się dominującą siłą na polskim YouTubie.
+
+W 2025 roku przychody sięgnęły 40 milionów złotych. W 2026 – miały przekroczyć 100 milionów. Zespół liczył setki osób. Biura w Warszawie. Telewizja. Portal. Wszystko, czego chciał.
+
+A on czuł… ulgę. Nie radość. Ulgę, że się udało. Że nie upadło.
+
+– Odczuwam ulgę, że coś się udało zrobić – mówił. – A nie, że tego nie zrobiła.
+
+## ROZDZIAŁ VI: WROGOWIE
+
+_(Kancelaria prawna, Warszawa, 2026)_
+
+Siedział naprzeciwko swojego prawnika i słuchał o kolejnym pozwie.
+
+Roman Giertych – polityk, adwokat, od lat jego największy antagonista. Nazywał go "małym człowiekiem", "człowiekiem bez honoru". Giertych pozywał go, on pozywał Giertycha. Wojna bez końca.
+
+– To już chyba dziesiąty proces – powiedział prawnik.
+
+– Jedenasty – poprawił go Stanowski. – Ale kto liczy?
+
+– Ty liczysz. Zawsze liczysz.
+
+Uśmiechnął się.
+
+– Jestem mściwy – powiedział. – Ludzie tego nie rozumieją.
+
+Pamiętał, jak w 2024 roku, po tym, jak Giertych zaczął go publicznie atakować, zorganizował w Kanale Zero _Tydzień Giertychowy_ – kilkanaście materiałów o życiu i działalności polityka. Każdy szczegół, każda kontrowersja, każda wątpliwa transakcja – wszystko wylądowało w sieci.
+
+– Czy to była zemsta? – zapytano go.
+
+– To była sprawiedliwość – odpowiedział. – A jeśli wygląda jak zemsta, to tym lepiej.
+
+## ROZDZIAŁ VII: LIST, KTÓRY ZMIENIŁ WSZYSTKO
+
+W 2026 roku, po jednym z kontrowersyjnych formatów w Kanale Zero – debacie o biciu dzieci, która wywołała burzę – Stanowski otrzymał list.
+
+Nie od wroga. Od fanki.
+
+Starsza pani, która pracowała w tym samym budynku, wręczyła mu kopertę. W środku był list od jej córki – dziecka, które doświadczyło przemocy domowej. I słowa, które zapamiętał do końca życia:
+
+_"Panie Krzysztofie, ja pana za pana dałabym się kiedyś pokroić. Byłam pana fanką. I coś we mnie pękło po tym, co pan powiedział. Nie rozumiem, jak mogłam się tak pomylić."_
+
+Stanowski przeczytał list. Potem przeczytał jeszcze raz. I zrobił coś, czego nie robił od lat – poszedł do tej kobiety, zapukał do drzwi i zapytał:
+
+– Czy możemy porozmawiać?
+
+– O czym?
+
+– O tym, że nie widziała pani całego programu. O tym, że media zmanipulowały pani odbiór. O tym, że jeśli po obejrzeniu całości nadal będzie pani czuła się zraniona – będę pierwszą osobą, którą szczerze przeproszę.
+
+– To była pierwsza osoba, która mi dobrze życzyła – powiedział później. – I poczuła się przeze mnie zraniona. Do tego w ogóle nie byłem przygotowany.
+
+## ROZDZIAŁ VIII: SYN I LEO MESSI
+
+_(Dom Stanowskich, noc)_
+
+Leon, jego starszy syn, miał dwanaście lat i był w wieku, w którym zaczynał wątpić w autorytet ojca. Szczególnie w kwestiach piłkarskich.
+
+– Tato, ten Messi jest stary – mówił. – Gra w MLS, tam nie ma obrońców. To wszystko żałosne.
+
+Stanowski patrzył na syna i widział siebie sprzed lat. Tego samego zuchwałego chłopaka, który myślał, że wie wszystko.
+
+– Słuchaj – powiedział. – Nie widziałeś, jak grał w prime'ie. On gra cały czas tak samo. Obrońcy zawsze byli bezradni wokół niego. Zobaczysz. To jest najlepszy piłkarz na świecie.
+
+I wtedy, podczas mistrzostw świata, Messi zrobił to, co zawsze – pokazał, że klasy nie da się kupić ani podrobić.
+
+Syn spojrzał na ojca z nowym respektem.
+
+– Miałeś rację, tato.
+
+– Wiem.
+
+– I nie uderzyłeś mnie żelazkiem.
+
+– Nie. Ale chciałem.
+
+Zaśmiali się obaj. I przez chwilę Stanowski poczuł coś, czego nie czuł od dawna – czystą, nieskomplikowaną radość.
+
+## ROZDZIAŁ IX: CENA SUKCESU
+
+W 2026 roku Kanał Zero osiągnął przychody rzędu 100 milionów złotych. Zespół liczył setki osób. Telewizja, portal, YouTube – wszystko działało.
+
+A on wciąż wstawał o 5:00 rano, wciąż pracował do późna w nocy, wciąż nie umiał zwolnić.
+
+– Czasami męczą, czasami bawią, czasami nakręcają – mówił o medialnych wojnach. – Ale ja mam cały czas to FOMO. Nawet jak tu siedzimy, na bank coś się wydarzyło i na bank jestem o coś oskarżany. I ja nie zdążyłem jeszcze odpowiedzieć.
+
+Jego żona, Marta, patrzyła na to z rosnącym niepokojem.
+
+– Krzysiek – powiedziała pewnego wieczoru. – To, co robisz publicznie, zaczyna wpływać na nasze życie. Na dzieci. Na mnie.
+
+– Wiem – odpowiedział. – Ale nie umiem przestać.
+
+– A chciałbyś?
+
+Zawahał się.
+
+– Nie wiem.
+
+## EPILOG
+
+_(Studio Kanału Zero, ta sama noc)_
+
+Wyszedł z budynku o 2:00 w nocy. Na parkingu stał jego samochód – luksusowy, szybki, drogi. Wsiadł, ale nie odpalił silnika. Siedział w ciemności i patrzył na światła Warszawy.
+
+Myślał o liście od tamtej kobiety. O synu, który zaczął go szanować. O żonie, która wciąż czekała. O wszystkich wrogach, którzy chcieli go zniszczyć – i o tych, których sam zniszczył.
+
+I zdał sobie sprawę z czegoś, co wiedział od dawna, ale nigdy nie chciał przyznać:
+
+Nie chodziło o pieniądze. Nie chodziło o władzę. Nie chodziło o zemstę.
+
+Chodziło o to, żeby udowodnić sobie, że czternastoletni chłopak z _Przeglądu Sportowego_ nie zmarnował życia.
+
+Że skorupa, którą zbudował wokół siebie, nie była więzieniem. Była fortecą.
+
+I że nawet jeśli w środku było pusto – to dlatego, że całe ciepło oddał innym.
+
+Włączył silnik. Ruszył w stronę domu.
+
+## POSŁOWIE
+
+### _Dlaczego ta historia ma znaczenie_
+
+Krzysztof Stanowski to postać, która dzieli Polskę. Dla jednych – dziennikarz, który odarł mainstream z godności i zbudował niezależne imperium medialne. Dla innych – człowiek bez skrupułów, który dla klikalności gotów jest przekraczać granice.
+
+Prawda, jak zwykle, leży gdzieś pośrodku.
+
+Jest człowiekiem, który zbudował coś z niczego – od anonimowego bloga do medium o przychodach 100 milionów złotych. Jest człowiekiem, który nie cofa się przed konfliktem, ale który potrafi też przyznać, że czasami posuwa się za daleko. Jest ojcem, mężem, szefem – i skorupą, która robi się coraz grubsza, bo tylko tak potrafi funkcjonować w świecie, który sam stworzył.
+
+I być może to jest najważniejsza lekcja z jego historii: że sukces ma cenę. Że władza ma cenę. Że sława ma cenę.
+
+I że czasami, w środku nocy, kiedy gasną światła i wyłączają się kamery – zostajesz sam ze swoją skorupą. I musisz odpowiedzieć sobie na pytanie, które zadałeś innym tysiące razy:
+
+_Czy warto było?_
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest główna postać?
+
+**Answers:**
+- A) Trenerem piłki nożnej
+- B) Dziennikarzem w mediach
+- C) Lekarzem z prywatną kliniką
+- D) Nauczycielem w dużym liceum
+
+**Correct:** B
+**Explanation:** Postać medialna / Stanowski.
+**Text reference:** media
+
+### Question 2
+
+**Question:** Co zostaje po nagraniu?
+
+**Answers:**
+- A) Tłum fanów w wielkim studio
+- B) Plan kolejnego długiego sezonu
+- C) Umowa z nowym reklamodawcą
+- D) Cisza oraz głęboka samotność
+
+**Correct:** D
+**Explanation:** Gasną światła; zostaje sam.
+**Text reference:** cisza
+
+### Question 3
+
+**Question:** Czym jest „skorupa”?
+
+**Answers:**
+- A) Maską sukcesu w mediach
+- B) Starym rodzinnym samochodem
+- C) Nowym logo całego kanału
+- D) Biletem na ważny mecz
+
+**Correct:** A
+**Explanation:** Publiczna maska sukcesu.
+**Text reference:** maska
+
+### Question 4
+
+**Question:** Jakie pytanie zostaje na końcu?
+
+**Answers:**
+- A) Ile kosztuje ta nowa kamera?
+- B) Czy to było w ogóle warto?
+- C) Gdzie jest wolny parking tu?
+- D) Kiedy zaczyna się ten urlop?
+
+**Correct:** B
+**Explanation:** Czy warto było.
+**Text reference:** warto
+
+### Question 5
+
+**Question:** Czego dotyczy opowieść?
+
+**Answers:**
+- A) Cen biletów na mecze
+- B) Ceny sukcesu oraz sławy
+- C) Tanich lotów samolotem
+- D) Abonamentu telewizyjnego
+
+**Correct:** B
+**Explanation:** Cena sukcesu i sławy.
+**Text reference:** sukcesu
+
