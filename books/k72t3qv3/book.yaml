@@ -1,0 +1,7 @@
+book_id: "k72t3qv3"
+created: "2026-10-01"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_poligon"
+legacy_slug: "poligon"

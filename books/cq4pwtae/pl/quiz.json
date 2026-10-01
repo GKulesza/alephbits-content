@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie mieszka Michał?",
+      "answers": [
+        "W piwnicy",
+        "Na 15. piętrze w Warszawie",
+        "Na wsi",
+        "W hotelu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za oknem na 15. piętrze widać Warszawę."
+    },
+    {
+      "type": "single_choice",
+      "question": "O jakim procederze dowiaduje się Michał?",
+      "answers": [
+        "O handlu autami",
+        "O kupowaniu zwolnień L4",
+        "O fałszywych paszportach",
+        "O hazardzie sportowym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ludzie kupują sobie wolne / L4 za niewielką kwotę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile kosztuje „wolne” wspomniane w opowieści?",
+      "answers": [
+        "7,90 zł",
+        "79 złotych",
+        "790 złotych",
+        "Bezpłatnie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wspomniane jest 79 złotych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Michał robi z wydrukowanym L4?",
+      "answers": [
+        "Wysyła do ZUS",
+        "Wyrzuca do kosza",
+        "Sprzedaje dalej",
+        "Ramuje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyrzuca wydrukowane L4 do kosza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką decyzję moralną podejmuje Michał?",
+      "answers": [
+        "Dołącza do procederu",
+        "Przestaje być częścią problemu",
+        "Zgłasza tylko sąsiada",
+        "Ignoruje temat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Może przestać być częścią problemu."
+    }
+  ]
+}

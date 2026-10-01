@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Filippo Biondi?",
+      "answers": [
+        "Kucharzem",
+        "Badaczem / naukowcem przy danych o Sfinksie",
+        "Piłkarzem",
+        "Pilotystą"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dr Filippo Biondi pracuje przy danych i zagadce Sfinksa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki zabytek pojawia się w zakończeniu?",
+      "answers": [
+        "Koloseum",
+        "Wielki Sfinks w Gizie",
+        "Wieża Eiffla",
+        "Akropol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kończy się obrazem Wielkiego Sfinksa na płaskowyżu Giza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co leży na zachód od Sfinksa?",
+      "answers": [
+        "Morze",
+        "Piaszczyste wzgórze, pod którym coś czeka",
+        "Lotnisko",
+        "Muzeum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za Sfinksem leży piaszczyste wzgórze; pod nim coś czeka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką metaforę zagadki przywołuje narracja?",
+      "answers": [
+        "Labirynt Minotaura",
+        "Zagadkę greckiego Sfinksa",
+        "Jabłko Newtona",
+        "Miecz Damoklesa tylko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Porównuje pytanie do zagadki greckiego Sfinksa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Biondi na końcu sceny w pracy?",
+      "answers": [
+        "Krzyczy na zespół",
+        "Zamyka za sobą drzwi",
+        "Niszczy dane",
+        "Emigruje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biondi zamyka za sobą drzwi."
+    }
+  ]
+}

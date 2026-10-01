@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat Janusz pracował w jednym zakładzie?",
+      "answers": [
+        "Dwadzieścia",
+        "Czterdzieści",
+        "Dziesięć",
+        "Pięć"
+      ],
+      "correctIndex": 1,
+      "explanation": "Narracja zaczyna się od czterdziestu lat pracy Janusza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki dzienny limit wypłat usłyszał Janusz w banku?",
+      "answers": [
+        "Cztery tysiące złotych",
+        "Czterysta złotych",
+        "Osiemdziesiąt tysięcy",
+        "Bez limitu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasjerka mówi o limicie czterystu złotych dziennie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co kupił Janusz u jubilera?",
+      "answers": [
+        "Złoty łańcuszek",
+        "Małą sztabkę złota",
+        "Monety kolekcjonerskie",
+        "Obligacje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kupuje dziesięciogramową sztabkę złota."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię córka Janusza?",
+      "answers": [
+        "Anna",
+        "Marta",
+        "Kasia",
+        "Ewa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Córka nazywa się Marta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Janusz chce ochronić, kupując złoto?",
+      "answers": [
+        "Tylko inwestycję spekulacyjną",
+        "Wartość oszczędności przed słabnącą walutą",
+        "Zniżkę w banku",
+        "Emeryturę państwową"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odkrywa, że papierowe oszczędności tracą wartość względem złota."
+    }
+  ]
+}

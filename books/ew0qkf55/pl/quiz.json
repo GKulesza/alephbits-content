@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie narrator widzi dzieci na co dzień?",
+      "answers": [
+        "W urzędzie",
+        "W przedszkolu w Kopytkowie na Podlasiu",
+        "Na stadionie",
+        "W muzeum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przedszkole w Kopytkowie na Podlasiu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się jako ważny głos ekspercki / rozmówczyni?",
+      "answers": [
+        "Kasia z banku",
+        "Aleksandra",
+        "Berkas",
+        "Chen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aleksandra mówi o patrzeniu na dziecko i siebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka rada kończy opowieść?",
+      "answers": [
+        "Trzymać się jednej ideologii wychowawczej",
+        "Patrzeć na dziecko i siebie; szukać własnej drogi",
+        "Oddać dziecko do internatu",
+        "Unikać emocji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrzcie na dziecko i siebie; nie bądźcie wyznawcami ideologii."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest „kluczem”, według zakończenia?",
+      "answers": [
+        "System reform",
+        "Być sobą i patrzeć na dziecko",
+        "Podręcznik MEN",
+        "Kara cielesna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Klucz: być sobą i patrzeć na dziecko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego narrator nie chce dla dziecięcych oczu?",
+      "answers": [
+        "Żeby świeciły za mocno",
+        "Żeby zgasły",
+        "Żeby nosiły okulary",
+        "Żeby czytały w nocy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marzy, by oczy dzieci nie zgasły."
+    }
+  ]
+}

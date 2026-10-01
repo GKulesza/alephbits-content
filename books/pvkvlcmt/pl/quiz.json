@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Co czuje Ola, biorąc syna na ręce pierwszy raz?",
+      "answers": [
+        "Tylko strach",
+        "Dwie rzeczy naraz — ogromną miłość i coś jeszcze trudnego",
+        "Tylko dumę zawodową",
+        "Obojętność"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czuje dwie rzeczy naraz — m.in. ogrom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie imię dziecka pojawia się w opowieści?",
+      "answers": [
+        "Janusz",
+        "Franek",
+        "Ignus",
+        "Chen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna teza zakończenia?",
+      "answers": [
+        "Rodzic musi być idealny",
+        "Traktować dziecko jak pełnego człowieka od początku",
+        "Dziecko nie ma prawa do uczuć",
+        "Wystarczy system kar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traktować drugiego — także małego — jak równego, w pełni człowieka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Ola uczy się o byciu rodzicem?",
+      "answers": [
+        "Że błędy są zakazane",
+        "Że można być prawdziwym: popełniać błędy, prosić o pomoc, szukać",
+        "Że nigdy nie wolno prosić o pomoc",
+        "Że milczenie rozwiązuje wszystko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Być prawdziwym rodzicem, nie idealnym."
+    },
+    {
+      "type": "single_choice",
+      "question": "Od kiedy — według zakończenia — dziecko jest „w pełni człowiekiem”?",
+      "answers": [
+        "Od matury",
+        "Od samego początku",
+        "Od 18. roku życia",
+        "Od pierwszej pracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Od samego początku."
+    }
+  ]
+}

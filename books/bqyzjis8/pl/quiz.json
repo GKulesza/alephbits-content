@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim są Magda i Tomek?",
+      "answers": [
+        "Sąsiadami bez dzieci",
+        "Rodzicami uczącymi się słuchać „chóru” pokoleń",
+        "Nauczycielami WF",
+        "Lekarzami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Para z dziećmi, ucząca się nowej melodii rodzicielstwa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dawali dzieciom według zakończenia?",
+      "answers": [
+        "Tylko tablety",
+        "Przykład, że można się kłócić i godzić",
+        "Tylko kary",
+        "Ciszę absolutną"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dawali przykład kłótni i godzenia się."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza „chór” w tej opowieści?",
+      "answers": [
+        "Zespół szkolny",
+        "Głosy rodziców, dziadków i pokoleń w głowie",
+        "Radio w kuchni",
+        "Aplikację muzyczną"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chór głosów pokoleń, który wciąż w nich brzmi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie imię dziecka pojawia się w tekście?",
+      "answers": [
+        "Janusz",
+        "Franek",
+        "Berkas",
+        "Filippo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojawia się Franek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Magda i Tomek uczą się powoli?",
+      "answers": [
+        "Śpiewać obcą melodię bez zmian",
+        "Słuchać chóru i śpiewać własną melodię",
+        "Milczeć zawsze",
+        "Oddać wychowanie szkole"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uczą się słuchać chóru i śpiewać własną melodię."
+    }
+  ]
+}

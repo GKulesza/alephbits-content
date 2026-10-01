@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dokąd ojciec zabiera siedmioletniego Maćka?",
+      "answers": [
+        "Na basen",
+        "Do warsztatu",
+        "Do kina",
+        "Na stadion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zaprowadził go do warsztatu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Maciek uczy się jako ojciec?",
+      "answers": [
+        "Kuć dziecko jak metal",
+        "Słuchać, przepraszać, być obecnym",
+        "Ignorować rysunki",
+        "Porównywać dzieci"
+      ],
+      "correctIndex": 1,
+      "explanation": "Słucha, jest obecny; dziecko to nie metal do kucia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co córka rysuje?",
+      "answers": [
+        "Samochód",
+        "Rodzinę: ja, ty i mama — wszyscy się uśmiechamy",
+        "Mapę Polski",
+        "Smoka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rysunek rodziny, która się uśmiecha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką metaforę odrzuca zakończenie?",
+      "answers": [
+        "Dziecko jak ptak",
+        "Dziecko jak kawałek metalu do kucia w ogniu",
+        "Dziecko jak książka",
+        "Dziecko jak ogród"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dziecko to nie kawałek metalu do kucia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Maciek robi po obejrzeniu rysunku?",
+      "answers": [
+        "Wychodzi z pokoju",
+        "Siada obok i prosi: Opowiesz mi o tym rysunku?",
+        "Krytykuje kolory",
+        "Wyłącza światło"
+      ],
+      "correctIndex": 1,
+      "explanation": "Siada obok i prosi o opowiedzenie rysunku."
+    }
+  ]
+}

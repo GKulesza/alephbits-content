@@ -1,0 +1,24 @@
+{
+  "packId": "dd1mrer7:pl",
+  "bookId": "dd1mrer7",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-01",
+  "lastReviewedAt": "2026-10-01",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Prepared from AwesomeVault Books/12 CollectionTwelve.md for library testing."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Collection Twelve manuscript"
+    }
+  ],
+  "revisionNotes": "Collection Twelve import — Polish only."
+}

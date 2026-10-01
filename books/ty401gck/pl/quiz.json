@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Rafał w tej opowieści?",
+      "answers": [
+        "Kucharzem",
+        "Publicystą / piszącym o Wołyniu",
+        "Kierowcą",
+        "Lekarzem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał Ziemkiewicz pisze nocą o Wołyniu i pamięci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego najbardziej boi się Rafał?",
+      "answers": [
+        "Żmij dosłownie",
+        "Ciszy i zapomnienia",
+        "Podatków",
+        "Podróży"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie boi się żmij — boi się ciszy i zapomnienia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Rafał ocenia „symetrię” w narracji o zbrodniach?",
+      "answers": [
+        "Jako prawdę historyczną",
+        "Jako kłamstwo",
+        "Jako żart",
+        "Jako przepis kulinarny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Symetria jest tylko kłamstwem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Rafał o świcie?",
+      "answers": [
+        "Idzie spać na zawsze",
+        "Wraca do pisania",
+        "Wyjeżdża z kraju",
+        "Kasuje tekst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za oknem wschodzi słońce; Rafał wraca do pisania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki cytat / myśl pojawia się o studni?",
+      "answers": [
+        "Kto pije wodę ze studni, tego otoczą jadowite żmije",
+        "Studnia zawsze jest pusta",
+        "Woda leczy wszystko",
+        "Nie wolno pić w nocy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przywołuje myśl o napiciu się ze studni i jadowitych żmijach."
+    }
+  ]
+}

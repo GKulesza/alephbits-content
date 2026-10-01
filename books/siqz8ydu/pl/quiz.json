@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "W jakim wieku bohaterka pierwszy raz słyszy „dobra dziewczynka”?",
+      "answers": [
+        "Piętnastu lat",
+        "Pięciu lat",
+        "Dwudziestu lat",
+        "Roku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miała pięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka rozmowy w studiu?",
+      "answers": [
+        "Marta",
+        "Zosia",
+        "Ewa",
+        "Ola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zosia rozmawia w studiu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zosia mówi na koniec do prowadzącego?",
+      "answers": [
+        "Że żałuje wszystkiego",
+        "Dziękuję — za to, że mogłam być sobą",
+        "Że wraca do milczenia",
+        "Że kończy karierę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dziękuje za to, że mogła być sobą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi wewnętrzna „mała dziewczynka” z zeszytem?",
+      "answers": [
+        "Nigdy nie dasz rady",
+        "Widzisz? Mówiłam ci, że będzie dobrze.",
+        "Schowaj zeszyt",
+        "Uciekaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: Widzisz? Mówiłam ci, że będzie dobrze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki konflikt napędza opowieść?",
+      "answers": [
+        "Konflikt o pieniądze w banku",
+        "Presja bycia „grzeczną/dobrą” vs bycie sobą",
+        "Konflikt sportowy",
+        "Wojna o terytorium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Presja bycia dobrą dziewczynką kontra autentyczność."
+    }
+  ]
+}

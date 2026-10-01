@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat miała Magda, gdy ojciec sadzał ją na krzesełku w kącie?",
+      "answers": [
+        "Trzy",
+        "Siedem",
+        "Piętnaście",
+        "Dwanaście"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miała siedem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się syn Magdy?",
+      "answers": [
+        "Janusz",
+        "Gabryś",
+        "Berkas",
+        "Rafał"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojawia się Gabryś / Gabrysia kontekstowo jako dziecko Magdy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Magda chce unikać w wychowaniu?",
+      "answers": [
+        "Rozmów",
+        "Starych metod: krzyku, zakazów i kar jako jedynego narzędzia",
+        "Przytulania",
+        "Zabawy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wie, że sięganie po stare metody to krok wstecz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki cel wychowania podkreśla zakończenie?",
+      "answers": [
+        "Posłuszeństwo za wszelką cenę",
+        "Gotowość dzieci do życia — emocje, samodzielność, odpowiedzialność",
+        "Wyłącznie dobre oceny",
+        "Ciszę w domu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie o posłuszeństwo — o gotowość do życia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Magda robi, gdy syn mówi, że spokojny myśli lepiej?",
+      "answers": [
+        "Krzyczy",
+        "Przytula go mocniej",
+        "Wysyła do kąta",
+        "Wyłącza światło"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przytula go mocniej."
+    }
+  ]
+}

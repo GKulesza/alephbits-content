@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak zaczyna się opowieść Ewy?",
+      "answers": [
+        "Listem z banku",
+        "Telefonem z nieznanego numeru",
+        "Podróżą pociągiem",
+        "Snem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zadzwonił telefon — nieznany numer."
+    },
+    {
+      "type": "single_choice",
+      "question": "O jakiej zbrodni / historii mówi Ewa?",
+      "answers": [
+        "O Powstaniu Warszawskim tylko",
+        "O Wołyniu",
+        "O bitwie pod Grunwaldem",
+        "O solidarności 1980"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myśli o Wołyniu i ofiarach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Ewa pod koniec, włączając kamerę?",
+      "answers": [
+        "Milczy",
+        "Zaczyna mówić / nagrywać przekaz",
+        "Śpiewa",
+        "Wyłącza internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Włącza kamerę i zaczyna mówić."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd pochodzi mail, o którym myśli Ewa?",
+      "answers": [
+        "Od sąsiada",
+        "Od ojca ofiary / córki ofiary",
+        "Od banku",
+        "Od szkoły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myśli o ojcu, którego córka napisała do niej maila."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki sens pamięci podkreśla Ewa?",
+      "answers": [
+        "Pamięć jest zbędna",
+        "Jeśli naród pamięta ofiary, ich cierpienie nie poszło na marne",
+        "Pamięć służy tylko polityce partyjnej",
+        "Lepiej zapomnieć wszystko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pamięć o ofiarach nadaje sens ich cierpieniu."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Zofia nie ufa bankom?",
+      "answers": [
+        "Bo lubi tylko gotówkę na show",
+        "Bo pamięta historie o utracie oszczędności",
+        "Bo bank odmówił jej kredytu",
+        "Bo mąż jej zabronił"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie ufa bankom, bo pamięta rodzinne historie o utracie pieniędzy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dotyczy nagranie Kasi, które zmienia myślenie Zofii?",
+      "answers": [
+        "Modzie",
+        "Złocie i wartości pieniądza",
+        "Dietach",
+        "Turystyce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia mówi o złocie i słabnących walutach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Zofia chowa do szuflady pod koniec opowieści?",
+      "answers": [
+        "Klucze do samochodu",
+        "Złotą monetę",
+        "Umowę kredytową",
+        "Pasaport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chowа monetę głębiej do szuflady."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do kogo pisze Zofia SMS pod koniec?",
+      "answers": [
+        "Do matki",
+        "Do męża",
+        "Do Kasi",
+        "Do dyrektorki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisze do męża o przyszłości i dzieciach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką lekcję o wartości wyciąga Zofia?",
+      "answers": [
+        "Wartość to tylko cyfry na koncie",
+        "Wartość to spokój z czymś niezależnym od cudzej decyzji",
+        "Wartość to prestiż marki",
+        "Wartość to wysokość limitu karty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wartość to spokój, że masz coś niezależnego od cudzej decyzji."
+    }
+  ]
+}

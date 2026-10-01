@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O której budzi się Przemek?",
+      "answers": [
+        "O 7:00",
+        "O 5:47",
+        "O 9:15",
+        "O 12:00"
+      ],
+      "correctIndex": 1,
+      "explanation": "Budzi się o 5:47 — najpierw bez budzika, na końcu z budzikiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czym zajmuje się Przemek?",
+      "answers": [
+        "Jest kucharzem",
+        "Jest dziennikarzem śledczym / pytającym o władzę",
+        "Jest pilotem",
+        "Jest nauczycielem WF"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zadaje niewygodne pytania i notuje zagrożenia związane z pracą dziennikarską."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co żona mówi Przemkowi wieczorem?",
+      "answers": [
+        "Żeby wyjechał z kraju",
+        "Żeby poszedł spać — jutro zaczynają od nowa",
+        "Żeby zmienił zawód",
+        "Żeby milczał"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mówi: Idź spać. Jutro zaczynamy od nowa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się dzień Przemka?",
+      "answers": [
+        "Zasypia po 23 i budzi się o 5:47 z budzikiem",
+        "Nie śpi wcale",
+        "Wyjeżdża z miasta",
+        "Rezygnuje z pracy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zasypia po 23; budzi się o 5:47 z budzikiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza dla Przemka syrena w nocy?",
+      "answers": [
+        "Zawsze tylko pomoc medyczną",
+        "Czasem znak, że ktoś zapytał o coś, czego nie powinien",
+        "Koniec wojny",
+        "Zaproszenie na konferencję"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czasem oznacza, że ktoś zapytał o coś, czego nie powinien."
+    }
+  ]
+}

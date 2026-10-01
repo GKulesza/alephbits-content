@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Berkas?",
+      "answers": [
+        "Piłkarzem",
+        "Graczem e-sportowym / strategicznym",
+        "Lekarzem",
+        "Politykiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berkas przygotowuje się do meczu w grze strategicznej."
+    },
+    {
+      "type": "single_choice",
+      "question": "O której Berkas się budzi przed meczem?",
+      "answers": [
+        "O dziesiątej",
+        "O piątej rano",
+        "O południu",
+        "O północy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Budzi się o piątej, choć mecz jest o dziesiątej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co według Berkasa decyduje o zwycięstwie?",
+      "answers": [
+        "Szczęście",
+        "Lepsze decyzje",
+        "Lepszy komputer",
+        "Więcej bohaterów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wygrał, bo podejmował lepsze decyzje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się akcja po meczu?",
+      "answers": [
+        "W Krakowie",
+        "W Warszawie",
+        "W Gdańsku",
+        "W Berlinie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrzy na zwyczajną warszawską ulicę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Berkas na końcu opowieści?",
+      "answers": [
+        "Rezygnuje z gry",
+        "Zaczyna przygotowywać się do jutra",
+        "Sprzedaje konto",
+        "Jedzie na urlop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wraca do komputera i przygotowuje się do jutra."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie Chen Ching Ting stoi na początku?",
+      "answers": [
+        "Na dworcu w Warszawie",
+        "Przy bramce na lotnisku we Frankfurcie",
+        "W porcie w Gdańsku",
+        "W metrze w Tokio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stoi przed automatyczną bramką we Frankfurcie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki problem napotyka przy kontroli?",
+      "answers": [
+        "Zgubiła bagaż",
+        "System / świat udaje, że jej kraj nie istnieje",
+        "Nie ma biletu",
+        "Nie zna angielskiego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doświadcza, że świat udaje, iż jej kraj nie istnieje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do kogo pisze maila?",
+      "answers": [
+        "Do szefa w Berlinie",
+        "Do męża w Tajpej",
+        "Do matki w Pekinie",
+        "Do koleżanki w Paryżu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisze do męża w Tajpej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co odpowiada mąż?",
+      "answers": [
+        "Zostań w Europie",
+        "Wracaj do domu szybko. Jesteśmy z tobą.",
+        "Nie oddzwaniaj",
+        "Zmień paszport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mąż pisze: Wracaj do domu szybko. Jesteśmy z tobą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się opowieść?",
+      "answers": [
+        "Rezygnuje z tożsamości",
+        "Wie, że na Tajwanie będzie mogła być sobą",
+        "Emigruje do USA",
+        "Zmienia imię"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na Tajwanie nikt nie każe jej udawać kogoś innego."
+    }
+  ]
+}

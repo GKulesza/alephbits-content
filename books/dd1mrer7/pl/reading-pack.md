@@ -1,0 +1,278 @@
+# Bryłka
+
+## Metadata
+
+**Pack ID:** dd1mrer7
+**Book ID:** dd1mrer7
+**Legacy Pack ID:** polish_brylka
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Bryłka  
+**Subtitle:** *(none)*  
+**Blurb:** Janusz przez czterdzieści lat odkładał pensję na lokatę. Pewnego dnia bank mówi „nie” — i zaczyna rozumieć, czym jest prawdziwa wartość.
+
+**Genres:** economics, short_story  
+**Series:** Collection Twelve  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Bryłka — Collection Twelve official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** złoto, oszczędności, rodzina, Collection Twelve  
+
+**Keywords:** Bryłka, Collection Twelve  
+
+**Cover family:** economics
+
+**Editorial notes:** Collection Twelve — Polish original; editorial pass 2026-10-01.
+
+**Inspiration:** Contemporary short fiction for AlephBits library testing.
+
+---
+
+**World:**
+- objects: gold
+- places: home, bank
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-01  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Twelve import — Polish only.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-01 | Collection Twelve editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-01 | AlephBits Editorial | Normalized from CollectionTwelf manuscript; quiz authored; PL-only. |
+
+---
+
+## Sources
+
+### Source 1: Collection Twelve manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-01  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Prepared from AwesomeVault Books/12 CollectionTwelve.md for library testing.
+
+---
+
+## Text
+
+**BRYŁKA**
+
+Janusz Kowalik przez czterdzieści lat pracował w jednym zakładzie. Najpierw jako ślusarz, potem jako brygadzista, a przez ostatnie dziesięć lat przed emeryturą – jako kierownik działu utrzymania ruchu. Przychodził punktualnie, wychodził punktualnie, a każdego dziesiątego dnia miesiąca, kiedy na jego konto wpływała pensja, odkładał dwieście złotych na lokatę. Potem trzysta. Potem pięćset.
+
+– Na czarną godzinę – mówił żonie, kiedy pytała, po co mu tyle oszczędności. – I na mieszkanie dla córki. Żeby miała lżej niż my.
+
+Córka miała na imię Marta. Skończyła studia, wyszła za mąż, urodziła syna. Mieszkała w wynajętym mieszkaniu na obrzeżach miasta, bo na kredyt – jak twierdziła – nie było jej stać. „Tato, ceny są takie, że rata byłaby wyższa niż czynsz, a jeszcze wkład własny. Nie damy rady.” Janusz słuchał i odkładał dalej. Myślał, że kiedyś, kiedy przyjdzie odpowiedni moment, przekaże jej te pieniądze i wreszcie zobaczy, jak kupują własne cztery kąty.
+
+Ale odpowiedni moment nie nadchodził. Ceny rosły szybciej niż jego oszczędności. To, co dekadę temu wystarczyłoby na połowę kawalerki, teraz ledwie pokryłoby koszty notariusza. Janusz nie rozumiał dlaczego. Przecież wszystko powinno działać inaczej – on pracował, odkładał, nie wydawał na głupoty. Gdzieś po drodze musiał być błąd. Tylko gdzie?
+
+Wszystko zaczęło się zmieniać któregoś wtorku, kiedy poszedł do banku wypłacić większą sumę. Remont dachu, przeciek po ostatniej ulewie, dekarz zażądał gotówki.
+
+– Przykro mi, panie Januszu – powiedziała kasjerka, nie odrywając wzroku od ekranu. – Dzienny limit wypłat na pana koncie to czterysta złotych.
+
+– Czterysta? – Janusz spojrzał na nią, jakby mówiła w obcym języku. – Przecież to są moje pieniądze. Mam na koncie prawie osiemdziesiąt tysięcy!
+
+– Rozumiem, ale takie są przepisy. Większe sumy trzeba zgłaszać z wyprzedzeniem. I wyjaśnić cel.
+
+– Cel? – Janusz poczuł, jak krew uderza mu do głowy. – Cel jest taki, że to są moje pieniądze i chce je mieć przy sobie. Czy to jest przestępstwo?
+
+Kasjerka westchnęła. Miała zmęczoną twarz kogoś, kto setki razy tłumaczył to samo.
+
+– Przykro mi. Mogę zaproponować przelew. Albo wizytę u doradcy.
+
+Janusz wyszedł z banku, nie załatwiwszy niczego. Na ulicy zatrzymał się przy bankomacie – stała przy nim kolejka pięciu osób. Westchnął. Bankomat wydawał po sto złotych na transakcję. Kiedyś, pamiętał, w tym samym miejscu stały trzy maszyny i nikt nie musiał czekać.
+
+Wtedy właśnie pomyślał pierwszy raz, że coś jest nie tak. Nie z nim. Ze światem.
+
+Tydzień później spotkał się z Martą na kawie. Wyglądała na zmęczoną. Piotr, jej mąż, stracił właśnie pracę – firma, która zatrudniała go jako programistę, ogłosiła restrukturyzację. „Optymalizacja kosztów”, powiedzieli. „Zastępujemy część zespołu rozwiązaniami opartymi na sztucznej inteligencji.”
+
+– Tato, oni nas zwalniają, bo jakiś algorytm może to zrobić taniej – powiedziała Marta, mieszając cukier w filiżance. – Nawet nie chodzi o to, że gorzej. Taniej. A my mamy kredyt na auto, czynsz, przedszkole dla małego. Co ja mam robić?
+
+Janusz chciał powiedzieć: „Nie martw się, pomogę ci, mam oszczędności”. Ale słowa zamarły mu na ustach. Bo zdał sobie sprawę, że jego osiemdziesiąt tysięcy, które jeszcze rok temu wydawały się fortuną, teraz – w świecie drożejących mieszkań, rosnących rat i niepewnej pracy – było jak garść piasku na pustyni.
+
+– Jakoś się ułoży – powiedział w końcu. Zabrzmiało to słabo.
+
+Marta uśmiechnęła się smutno.
+
+– Wiesz, co jest najgorsze? Że ja zawsze myślałam, że będzie lepiej. Że my, nasze pokolenie, będziemy mieli łatwiej niż wy. Bo tak zawsze było – każde pokolenie żyło lepiej niż poprzednie. A teraz... – zawahała się. – Teraz się boję, że mój syn będzie miał gorzej niż ja. I że to nie jest chwilowe. Że to jest właśnie ten moment, kiedy wszystko się odwróciło.
+
+Janusz milczał. Myślał o swoim dziadku, który po wojnie odbudowywał dom z niczego. O ojcu, który jako pierwszy w rodzinie kupił samochód. O sobie, który przez czterdzieści lat piął się od ślusarza do kierownika i wierzył, że ta droga prowadzi tylko w górę.
+
+Może prowadziła. Ale gdzieś po drodze ktoś zmienił kierunek.
+
+Kilka dni później trafił na nagranie w internecie. Ktoś mu je podesłał – może kolega z pracy, może sąsiad, już nie pamiętał. Kobieta o imieniu Kasia mówiła o złocie, o długu, o tym, że światowy system finansowy opiera się na zaufaniu, a to zaufanie powoli, nieubłaganie się wyczerpuje.
+
+– W 2007 roku złoto kosztowało sześćset siedemdziesiąt dolarów za uncję – mówiła. – Dziś kosztuje ponad cztery tysiące. Dolar stracił osiemdziesiąt pięć procent swojej wartości względem złota w ciągu dwudziestu lat. Euro straciło osiemdziesiąt siedem procent.
+
+Janusz słuchał, początkowo nieufnie. Ale potem kobieta powiedziała coś, co sprawiło, że serce zabiło mu mocniej.
+
+– Wyceniamy złoto w dolarach, jakby to dolar był stabilny. A on nie jest stabilny. To tak, jakbyście jechali samochodem ze zepsutym prędkościomierzem i twierdzili, że nie przekraczacie prędkości, bo licznik pokazuje pięćdziesiąt. Tylko że licznik jest zepsuty. I dostaniecie mandat nie za to, co pokazuje, tylko za to, jak naprawdę jedziecie.
+
+Wyłączył nagranie i długo siedział w ciszy.
+
+A potem, po raz pierwszy od czterdziestu lat, poszedł do jubilera.
+
+– Ile kosztuje taka mała sztabka? – zapytał, wskazując palcem na witrynę.
+
+Sprzedawca, młody mężczyzna w okularach, spojrzał na niego znad lady.
+
+– Dziesięć gramów? Dwa i pół tysiąca.
+
+Janusz przełknął ślinę. Dwa i pół tysiąca. Mógłby za to kupić dwa tygodnie jedzenia. Albo opłacić czynsz za miesiąc. Ale przypomniał sobie słowa Kasi z nagrania: „Nie patrz na cenę, patrz na wartość”.
+
+Kupił sztabkę. Małą, mieszczącą się w dłoni, ważącą tyle co trzy monety pięciozłotowe. Kiedy sprzedawca podał mu aksamitne pudełeczko, poczuł się dziwnie. Jakby po raz pierwszy od dawna trzymał w ręku coś prawdziwego.
+
+– Gdyby chciał pan więcej, możemy zamówić – powiedział sprzedawca.
+
+– Nie, dziękuję. Na razie tyle wystarczy.
+
+Ale wiedział, że to nie koniec. Że ta mała sztabka to dopiero początek.
+
+Wieczorem zadzwonił do córki.
+
+– Marto, muszę ci coś pokazać. I opowiedzieć.
+
+– Tato, jestem zmęczona, może jutro?
+
+– Nie jutro. Dziś. To ważne. Przyjedź.
+
+Marta przyjechała po ósmej. Usiadła przy stole w kuchni, a on położył przed nią pudełeczko ze sztabką. Potem opowiedział jej wszystko, co usłyszał w tamtym nagraniu. O tym, że światowy dług jest większy niż światowa produkcja. Że banki centralne drukują pieniądze, które potem trafiają do największych korporacji, a zwykli ludzie dostają tylko rosnące ceny. Że zaufanie do walut – do tego, na czym opiera się cały ich świat – powoli znika.
+
+– Ale co my możemy zrobić? – zapytała Marta, wpatrując się w złotą sztabkę.
+
+– Możemy przestać ufać, że ktoś to za nas naprawi. Możemy zacząć myśleć inaczej. To, co trzymamy w banku, to nie są już nasze pieniądze. To są cyfry na ekranie. A te cyfry, kiedy przyjdzie co do czego, mogą znaczyć tyle co nic.
+
+– Tato, ty naprawdę w to wierzysz? Że to wszystko runie?
+
+Janusz spojrzał na nią i zobaczył w jej oczach ten sam strach, który czuł w sobie, ale też coś więcej – nadzieję, że on, jak zawsze, będzie wiedział, co robić.
+
+– Nie wiem, czy runie. Ale wiem, że twój dziadek trzymał złote ruble w skrytce pod podłogą. I kiedy przyszła wojna, miał za co kupić chleb. Nie dlatego, że był mądry. Tylko dlatego, że nie ufał papierowi. I teraz ja zaczynam rozumieć dlaczego.
+
+Marta milczała. Potem sięgnęła po sztabkę, obróciła ją w palcach.
+
+– Jest taka mała.
+
+– Mała. Ale prawdziwa. I nie zniknie, kiedy bank zablokuje ci konto. Nie zniknie, kiedy ktoś uzna, że masz za dużo oszczędności i trzeba je „zweryfikować”. To jest twoje. Tylko twoje.
+
+Tej nocy Janusz długo nie mógł zasnąć. Leżał w ciemności i słuchał oddechu żony. Za oknem świecił księżyc – ten sam, który widział jego dziadka w ruinach powojennego miasta, jego ojca w kolejce po pierwszy samochód i jego samego, gdy po raz pierwszy w życiu trzymał w dłoni coś, co miało wartość nie dlatego, że ktoś tak powiedział, ale dlatego, że było.
+
+Rano wstał wcześniej niż zwykle. Otworzył małe pudełeczko i spojrzał na swoją złotą sztabkę. Była chłodna w dotyku. I dziwnie spokojna.
+
+Pomyślał o tym, że jeszcze dwadzieścia lat temu nie uwierzyłby, że znajdzie się w tym miejscu. Że będzie kupował złoto jak jakiś wariat, który szykuje się na koniec świata. Ale to nie był koniec świata. To był początek czegoś nowego. Czegoś, czego jeszcze do końca nie rozumiał, ale co czuł całym sobą – że świat, w którym żył, odchodzi. I że jeśli chce ochronić to, co najważniejsze, musi myśleć inaczej.
+
+Schował sztabkę do szuflady, a potem wyszedł do ogrodu. Wiosenne słońce grzało pierwszy raz od tygodni. Na gałęzi starej jabłoni śpiewał kos.
+
+Janusz spojrzał na swoje dłonie – te same, które przez czterdzieści lat pracowały w fabryce. Które odkładały pieniądze na lokatę. Które podawały córce pierwszy tornister i które teraz, po raz pierwszy, trzymały złoto.
+
+Nie wiedział, co będzie dalej. Ale po raz pierwszy od dawna czuł, że nie jest bezbronny.
+
+A gdzieś daleko stąd, w salach konferencyjnych, prezesi banków centralnych podejmowali decyzje, które za kilka miesięcy znów zmienią świat. Ale Janusz już się tym nie przejmował. Miał swoją bryłkę. I wiedział, że bez względu na to, co się stanie – ona nie zniknie.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Ile lat Janusz pracował w jednym zakładzie?
+
+**Answers:**
+- A) Dwadzieścia
+- B) Czterdzieści
+- C) Dziesięć
+- D) Pięć
+
+**Correct:** B
+**Explanation:** Narracja zaczyna się od czterdziestu lat pracy Janusza.
+**Text reference:** czterdzieści lat
+
+### Question 2
+
+**Question:** Jaki dzienny limit wypłat usłyszał Janusz w banku?
+
+**Answers:**
+- A) Cztery tysiące złotych
+- B) Czterysta złotych
+- C) Osiemdziesiąt tysięcy
+- D) Bez limitu
+
+**Correct:** B
+**Explanation:** Kasjerka mówi o limicie czterystu złotych dziennie.
+**Text reference:** czterysta złotych
+
+### Question 3
+
+**Question:** Co kupił Janusz u jubilera?
+
+**Answers:**
+- A) Złoty łańcuszek
+- B) Małą sztabkę złota
+- C) Monety kolekcjonerskie
+- D) Obligacje
+
+**Correct:** B
+**Explanation:** Kupuje dziesięciogramową sztabkę złota.
+**Text reference:** sztabkę
+
+### Question 4
+
+**Question:** Jak ma na imię córka Janusza?
+
+**Answers:**
+- A) Anna
+- B) Marta
+- C) Kasia
+- D) Ewa
+
+**Correct:** B
+**Explanation:** Córka nazywa się Marta.
+**Text reference:** Marta
+
+### Question 5
+
+**Question:** Co Janusz chce ochronić, kupując złoto?
+
+**Answers:**
+- A) Tylko inwestycję spekulacyjną
+- B) Wartość oszczędności przed słabnącą walutą
+- C) Zniżkę w banku
+- D) Emeryturę państwową
+
+**Correct:** B
+**Explanation:** Odkrywa, że papierowe oszczędności tracą wartość względem złota.
+**Text reference:** złoto
+

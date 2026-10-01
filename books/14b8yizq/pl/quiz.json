@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest narrator?",
+      "answers": [
+        "Uczniem 3 klasy",
+        "Tomaszem, 38 lat, obserwującym edukację dzieci",
+        "Prezesem banku",
+        "Kierowcą autobusu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przedstawia się jako Tomasz, 38 lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza tytułowa metafora „gaszenia skrzydeł”?",
+      "answers": [
+        "Naukę latania samolotem",
+        "Gaszenie naturalnej motywacji i potencjału dzieci",
+        "Wyłączanie świateł w klasie",
+        "Trening sportowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chodzi o gaszenie motywacji i skrzydeł dzieci w systemie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie narrator upatruje szansy na zmianę?",
+      "answers": [
+        "Tylko w ministerstwie",
+        "Poza systemem — w domach, przedszkolach, odważnych szkołach",
+        "Wyłącznie w testach PISA",
+        "W reklamach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Może uda się poza systemem: w domach, przedszkolach, innych szkołach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do czego wraca Tomasz na końcu?",
+      "answers": [
+        "Do gry komputerowej",
+        "Do pisania kolejnej lekcji",
+        "Do banku",
+        "Do milczenia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wraca do pisania kolejnej lekcji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego nie chce czekać latami?",
+      "answers": [
+        "Bo lubi pośpiech",
+        "Bo dzieci nie mają czasu czekać",
+        "Bo kończy się grant",
+        "Bo zbliża się emerytura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dzieci nie mają czasu czekać."
+    }
+  ]
+}
