@@ -65,7 +65,7 @@ const canonicalCategories = <Map<String, String>>[
 ];
 
 /// Repository-wide constants used when generating manifest.json.
-const repositoryVersion = '1.0.0';
+const repositoryVersion = '1.1.0';
 const schemaVersion = '1';
 const minimumAppVersion = '0.5.0';
 
