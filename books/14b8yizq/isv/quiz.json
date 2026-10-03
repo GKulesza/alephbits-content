@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest povědnik?",
+      "answers": [
+        "Učenik 3 klase?",
+        "Tomaš, 38 lět, ktory vidit obrazovanje",
+        "Prezident banka",
+        "Voditel avtobusa"
+      ],
+      "correctIndex": 1,
+      "explanation": "On predstavjaje sebe kako Tomaš, 38 lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto označaje metafora «gašenje kril»?",
+      "answers": [
+        "Učenje letati avionom",
+        "Gašenje prirodnoj motivacije i potenciala",
+        "Vyključenje světa v klase",
+        "Sportny trening?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hodit o gašenje motivacije i kril dětij v sistemu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě povědnik vidit šansu na změnu?",
+      "answers": [
+        "Samo v ministerstvu",
+        "Vně sistema — v domah, vrtcah, smělyh",
+        "Jedino v testah PISA",
+        "V reklamah?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Može byti vně sistema: v domah, vrtcah, drugyh školah."
+    },
+    {
+      "type": "single_choice",
+      "question": "K čemu se Tomaš vraca na koncu?",
+      "answers": [
+        "K kompjuternej igrě",
+        "K pisanju slědujučej",
+        "K banku?",
+        "K molčanju"
+      ],
+      "correctIndex": 1,
+      "explanation": "On vraca se k pisanju slědujučej lekcije."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po čemu ne hoče čekati lětami?",
+      "answers": [
+        "Bo ljubi spěh?",
+        "Bo děti ne imajut vremena",
+        "Bo konča se grant",
+        "Bo bliži se penzija"
+      ],
+      "correctIndex": 1,
+      "explanation": "Děti ne imajut vremena čekati."
+    }
+  ]
+}

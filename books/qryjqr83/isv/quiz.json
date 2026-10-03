@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako se zove planeta?",
+      "answers": [
+        "Harmonia",
+        "Melodia",
+        "Sinfonia",
+        "Galaksija"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planeta Harmonia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove simfonia světa?",
+      "answers": [
+        "Velika Sinfonia",
+        "Mala Pěsn planety",
+        "Tiha Nota planety",
+        "Stary Hor planety"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nazyvali to Velikoju Sinfonijoju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko očij ima Miron?",
+      "answers": [
+        "Četyri oči",
+        "Dva oči",
+        "Tri oči",
+        "Jedno oko"
+      ],
+      "correctIndex": 2,
+      "explanation": "Miron imal tri oči."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoro oko vidit čuvstva?",
+      "answers": [
+        "Črno oko",
+        "Modro oko",
+        "Zeleno oko",
+        "Zolto oko"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tretje, zolto oko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto činjajut mušelky na plažah?",
+      "answers": [
+        "Spijut bez zvuka",
+        "Zvonet kako",
+        "Pukajut od slnca",
+        "Tonut v pěsku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mušelky zvonet kako zvončiki."
+    }
+  ]
+}

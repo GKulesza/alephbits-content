@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Po čemu Zofia ne věři bankam?",
+      "answers": [
+        "Bo ljubi samo gotovinu na pokazu",
+        "Bo pamęta rodove istorije o zgubě",
+        "Bo bank odkazal jej kredit",
+        "Bo muž jej zapovědal?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne věři bankam, bo pamęta rodove istorije o zgubě penez."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se nagranje Kasi, ktore změnja myslenje Zofii?",
+      "answers": [
+        "Mody?",
+        "Zlata i vrednosti",
+        "Diet",
+        "Turizma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasia govori o zlatu i slabějučih valjutah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Zofia shova do suknje na koncu pověsti?",
+      "answers": [
+        "Ključe od avtomobila",
+        "Zolotu monetu",
+        "Kreditnu dogovor",
+        "Pasport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shova monetu glubje do suknje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do kogo Zofia piše SMS na koncu?",
+      "answers": [
+        "Do materi",
+        "Do muža",
+        "Do Kasi",
+        "Do direktorice"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piše do muža o budučnosti i děteh."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku lekciju o vrednosti izvodi Zofia?",
+      "answers": [
+        "Vrednost to samo cifry na kontu",
+        "Vrednost to pokoj s čim nezavisim od tujej",
+        "Vrednost to prestiž marky?",
+        "Vrednost to vysota limita karty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vrednost to pokoj, že imaš čto nezavisimo od tujej odluky."
+    }
+  ]
+}

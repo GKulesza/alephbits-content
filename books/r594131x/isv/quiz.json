@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako zovut se hlapci?",
+      "answers": [
+        "Miloš i Viktor",
+        "Antek i Bartek",
+        "Šimon i Danijel",
+        "Gnjevko i Fabijan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miloš i Viktor — nerazlučni."
+    },
+    {
+      "type": "single_choice",
+      "question": "V čto igrajut večerom?",
+      "answers": [
+        "V futbol",
+        "V skryvačku",
+        "V šahy?",
+        "V damky"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vykradli se, by igrati v skryvačku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto jest ino na polaně?",
+      "answers": [
+        "Zlaty zmij?",
+        "Črveny volk",
+        "Večši světlik",
+        "Stary medvěd"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jedin světlik byl večši."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto stoji na polaně?",
+      "answers": [
+        "Selska škola",
+        "Mala hiža",
+        "Kamenny most",
+        "Stary dub"
+      ],
+      "correctIndex": 3,
+      "explanation": "V srědku polany stojal stary dub."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako opisujut jih zapah v selu?",
+      "answers": [
+        "Pahnut kako priključenje",
+        "Pahnut kako deždž",
+        "Pahnut kako dym",
+        "Pahnut kako med"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pahnuli by kako priključenje."
+    }
+  ]
+}

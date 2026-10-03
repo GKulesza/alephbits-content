@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako se zove magazin?",
+      "answers": [
+        "Pod Slunečnikom",
+        "Pod Zlatym Zvonkom",
+        "Biedronka na osedlju",
+        "U Pani Zofii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Magazin Pod Slunečnikom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto vedet magazin?",
+      "answers": [
+        "Pani Krystyna",
+        "Pani Halina",
+        "Pani Zofia",
+        "Pani Wanda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pani Halina s očkami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bartoš?",
+      "answers": [
+        "Burger na polkě",
+        "Slojka ogurkov",
+        "Bohon hlěba",
+        "Rybka v sosu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bartoš – bohon hlěba."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego boji se Bartoš?",
+      "answers": [
+        "Že padne na podlogu",
+        "Že znikne s polky",
+        "Že bude posoljen",
+        "Že stane se tvrdy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bojał se, že stane se tvrdy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto děje se v noči v magazinu?",
+      "answers": [
+        "Gasnut vsě světyla?",
+        "Produkty otvarjajut",
+        "Zamyka se na vsegda",
+        "Prihodet samo ljudi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Produkty otvarjajut oči."
+    }
+  ]
+}

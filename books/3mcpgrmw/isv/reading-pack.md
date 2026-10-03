@@ -1,0 +1,391 @@
+# Skorupa
+
+## Metadata
+
+**Pack ID:** 3mcpgrmw
+**Book ID:** 3mcpgrmw
+**Legacy Pack ID:** polish_skorupa
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Skorupa  
+**Subtitle:** *(none)*  
+**Blurb:** Po nagranju svetla gasnut. Stanovsky ostaje sam so skorupoju i pytanjem: či vredno bylo?
+
+**Genres:** biography, short_story  
+**Series:** Collection Thirteen  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Skorupa" — oficialnoje izdanje Collection Thirteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** media, sława, cena sukcesu, Collection Thirteen  
+
+**Keywords:** Skorupa, Skorupa, Collection Thirteen  
+
+**Cover family:** biography
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Thirteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** 3mcpgrmw:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**SKORUPA**
+
+Prolog
+
+_(Studio Kanal Zero, Varšava, noč)_
+
+Světla zgasla. Kamery izključene. V slušalkah ostal samo šum tišiny.
+
+Krzysztof Stanowski sědel nepodvižno na svojem kreslu, vpereny v črveno světelko gasnučej kamery. Prěd hvilju skončil trihodinovy intervju. Govoril o sobě – o karierě, o vragah, o grošah, o izgubljenom svetom pokoju. Skazal malo ne vse.
+
+Malo ne.
+
+Bo jest jedno pytanje, na ktore on nikogda ne odgovoril publično. I ne odgovori.
+
+Vstal, snjal mikrofon, protegnul se. V zrcalu na stěně uviděl svoju tvarj – četrdeset i četyri lět staroju, umorjenoju, s dolgymi vlasami začesanymi tak, aby zakryla lysinu po neudanom presadku. Usměhnul se pod nosom.
+
+Někogda mečtal, da by byl žurnalistom. Tutčas byl kims veče – i kims menje.
+
+Razděl I: Hlapec iz Przeglądu
+
+V 1997 godu imel četyrinadset lět i mečtu, ktora se zdala nerealnoj: rabotati v gazetě „Przegląd Sportowy”.
+
+Sědel v redakciji na Krakovskom Prědměstju, posrěd odraslyh mužskih, pahnučih cigaretami i kavoju, i pisal teksty o tretoj ligě. Matka vozila jeho na meče svojim malym vozilom. On zapisyval, nabljudal, zapametal. Byl najmladši, najglupši i najviše odlučeny.
+
+– Hlapec imaje talent – skazal kogda-to o njem ktorysi iz redaktorov. – Ale či to bude dostatočno?
+
+Ne vědel togda, že odgovor izvěstno mu bude doprva po lětah, kogda bude otpuščen.
+
+V 2005 godu Roman Kołtoń, glavny redaktor „Przeglądu Sportowego”, prizval jego do kabineta. Skazal, že vvodi demoralizujuču atmosferu. Že testujuči novy maket gazety, kazal žurnalistom vpisovati kakie-nebudj čisla, bo i tak to se ne pojavi. Že to ne jest fer. Že to konc.
+
+Stanowski izšel iz kabineta, zatvoril dveri i počutil, že cely svět se obalil.
+
+– Byl jesm zaljubleny v toj gazetě – skaže poslě v intervju. – Nikogda bym ne odšel. Sědel bym tam do nyně.
+
+Ale svět se ne obalil. Samo se otvoril.
+
+Razděl II: Weszło – Imperija iz ničego
+
+V 2008 godu, rabotajuči v kladioničskoj firmě, osnoval blog. Nazval jego Weszło.
+
+Spočetka imel byti anonimny. Pisal pod pseudonimom, bo ne htel, da by jeho rabotodatelj znal, že dělaje nečto na stranu. Ale bystro pokazalo se, že ljudi hočet čitati to, čto on piše. Hočet čitati pravdu o poljskom futbalu – ne oslaždenu, ne napudrovanu, ale brutalnu i iskrenu.
+
+– Žili jesmo iz poraženij – priznal poslě. – Kako skoro nečto zlo dějalo se v poljskom futbalu, ljudi se masovo vbivali na Weszło.
+
+Poljsky futbal v tih lětah daval neograničene poklady poraženij. Legija otpadala v eliminacijah Ligy Prvakov s timami iz Kazahstana, Azerbejdžana, Armenije. Reprezentacija prěigravala s každom, kto tolko htel. A on byl tam, da by to opisal.
+
+I naglo iz anonimnogo blogera stal se ličnostju, ktoroj se futbalna sredina počela bojati.
+
+Razděl III: Skorupa
+
+_(Dom Stanovskih, Lesznowola, 2026)_
+
+Čas 23:47. Děti uže spali – Leon v svojem pokoju, Aleksander v drugom. Marta, jego žena, čekala na njego v salonu. Dietetička po profesiji, od lět krijuča se prěd bljeskami.
+
+– Dolgo dnes – skazala.
+
+– Dolgo – odpovedel.
+
+Sěl pokraj nje na divaně. Čutil, že by trebalo nečto skazati, ale slova ne prihodili. Od lět tako imel – čim veče byl prisutny publično, tim veče izčezal privatno.
+
+– Tvoja skorupa – skazala tiho. – Ponovno jest grubša.
+
+– Znam.
+
+– Pametaš li, kako bylo prědže?
+
+Pametal.
+
+Razděl IV: Člověk, ktory zaustavil emocije
+
+V jednom iz intervjuov skazal nečto, čto mnogih udivilo: _"Stal jesm se velmi tvrdy. Poselil jesm se v nekakoj svojej skorupě."_
+
+To ne bylo hvaljenjem. Bylo diagnozoju.
+
+Někogda byl bolje spontanny. Směl se, plakal, reagoval skrajnymi emocijami. Dnes – hladny, proračunany, vakcinovany na izbytok čuvstv.
+
+– Čto ubivaje emocije? – pytal jego kogda-to voditelj.
+
+– Kogda ty měriš se s skrajnymi vyzovami, kogda jesi na svěčniku, kogda masa ljudi od tebe hoče – odgovoril. – V nekakom momentu se na to privykneš. Jesi vakcinovany.
+
+Toliko či vakcinacija to ješče život? Či to uže samo prěžitje?
+
+Razděl V: Kanal Zero – Imperija iz kamena
+
+1 fevruara 2024 goda startoval Kanal Zero.
+
+Pomysl rodil se v Barceloně, v Excelu raspisan časami. Imel byti odgovorom na to, čto ne davali jemu tradicijny mediji – svobodu, skalu, groše. I bystro stal se dominujučej siloju na poljskom YouTubu.
+
+V 2025 godu prihody dosegli 40 milionov zlotyh. V 2026 – imeli prěkročiti 100 milionov. Tim brojil stotine osob. Kancelarije v Varšavě. Televizija. Portal. Vse, čto htel.
+
+A on čutil… ulegčenie. Ne radost. Ulegčenie, že se udalo. Že ne propadlo.
+
+– Čuju ulegčenie, že nečto se udalo sdělati – govoril. – A ne, že se to ne udalo.
+
+Razděl VI: Vragi
+
+_(Advokatska kancelarija, Varšava, 2026)_
+
+Sědel nasprot svojego advokata i slušal o sledujučej tužbě.
+
+Roman Gjertych – politik, advokat, od lět jego največi antagonist. Nazyval jego "malym člověkom", "člověkem bez česti". Gjertych tužil jeho, on tužil Gjertycha. Vojna bez konca.
+
+– To uže može byti desety proces – skazal advokat.
+
+– Jedinadseti – popravil jego Stanowski. – Ale kto broji?
+
+– Ty brojiš. Vsegda brojiš.
+
+Usměhnul se.
+
+– Jesm mstivy – skazal. – Ljudi togo ne razumejut.
+
+Pametal, kako v 2024 godu, poslě togo, kako Gjertych načel jego publično napadati, organizoval v Kanale Zero Tydžeň Gjertychovy – dvanadset materialov o žitju i dějateljnosti politika. Každy detalj, každa kontroverzija, každa sumniva transakcija – vse popadlo v sět.
+
+– Či to byla osveta? – pytali jego.
+
+– To byla spravedlivost – odgovoril. – A ako izgledaje kako osveta, to tim lěpje.
+
+Razděl VII: List, ktory izměnil vse
+
+V 2026 godu, po jednom iz kontroverznyh formatov v Kanale Zero – debatě o bitju detej, ktora izvadila burju – Stanowski polučil pismo.
+
+Ne od vraga. Od fanki.
+
+Starša pani, ktora rabotala v tom samom zdaniju, vručila jemu koveru. Vnutri bylo pismo od jej dočeri – deteta, ktoro prěžilo domašno nasilje. I slova, ktore zapametal do konca žitja:
+
+_"Panie Krzysztofie, ja by se za vas dala kogda-nebudj pokrojiti. Byla jesm vašoju fankoju. I nečto v mně puklo poslě togo, čto vy skazali. Ne razuměju, kako jesm mogla se tako pomyliti."_
+
+Stanowski pročital pismo. Potom pročital ješče raz. I sdělal nečto, čto ne dělal od lět – pošel do toj ženy, potrkal na dveri i pytal:
+
+– Možemo li besědovati?
+
+– O čem?
+
+– O tom, že vy ne viděli cely program. O tom, že mediji izmanipulovali vaše vosprijanje. O tom, že ako po pogledanju cělosti i nadalje budete se čuti zranjenoju – ja budu prva osoba, ktora se vam izkreno izvinila.
+
+– To byla prva osoba, ktora mi dobro želala – skazal poslě. – I počutila se zranjenoju prěz mene. Na to ja vobče ne byl podgotovljen.
+
+Razděl VIII: Syn i Leo Messi
+
+_(Dom Stanovskih, noč)_
+
+Leon, jego starši syn, imel dvanadset lět i byl v věku, v ktorom načinal sumnevati se v avtoritet otca. Osoblivo v futbalnyh voprosah.
+
+– Tato, toj Messi jest stary – govoril. – Igral je v MLS, tam nema obraniteljev. To vse je žalostno.
+
+Stanowski gledel na syna i videl sebe iz prědnih lět. Togo samogo zuchvalogo hlapca, ktory myslil, že zna vse.
+
+– Slušaj – skazal. – Ne videl jesi, kako on igral v prime. On igraje cely čas ravno tako. Obranitelji vsegda byli bezpomočni vokrug njego. Uviděš. To jest najlěpši futbalist na světu.
+
+I togdá, vo vrěme mistrovstv světa, Messi sdělal to, čto vsegda – pokazal, že klass ne možno kupiti ni poddělati.
+
+Syn pogledel na otca s novym respektom.
+
+– Imel jesi pravdu, tato.
+
+– Znam.
+
+– I ne udaril jesi mene želězkom.
+
+– Ne. Ale htel jesm.
+
+Oba se zasmejali. I za moment Stanowski počul něčto, čego ne čul od davna – čistu, nesložnu radost.
+
+## RAZDĚL IX: CENA USPĚHA
+
+V 2026 godu Kanał Zero dosegnul prihody okolo 100 milionov zlotyh. Tim imal sotine ljudi. Televizija, portal, YouTube – vse funkcionovalo.
+
+A on vse tako vstaval v 5:00 rano, vse tako rabotal do pozdna v noči, vse tako ne uměl zvolniti.
+
+– Časami mučat, časami zabavjajut, časami nakručivajut – govoril o medijskyh vojnah. – Ale ja imam cely čas to FOMO. Daže kogda my tut sedimo, zaisto něčto se stalo i zaisto mene o něčto obvinjajut. I ja ješče ne uspěl odgovoriti.
+
+Jego žena, Marta, gledala na to s rastučim nepokojem.
+
+– Krzysiek – rěkla jednogo večera. – To, čto ty dělaš publično, počinaje vplyvati na naš život. Na děti. Na mene.
+
+– Znam – odgovoril. – Ale ne uměju prěstati.
+
+– A htel by?
+
+Zavahal se.
+
+– Ne znam.
+
+## EPILOG
+
+(Studio Kanał Zero, ta sama noč)
+
+Vyšel iz budovy v 2:00 v noči. Na parkingu stojal jego avtomobil – luksuzny, bystry, drogy. Sěl v avtomobil, ale ne zapalil motor. Sěděl v temnotě i gledel na světla Varšavy.
+
+Myslil o pismu od tamtoj ženy. O synu, ktory načel jeho respektovati. O ženě, ktora vse tako čekala. O vsih vragah, ktori htěli jego uničtožiti – i o tih, ktoryh sam uničtožil.
+
+I uvědomil se o nečem, čto znal od davna, ale nikogda ne htel priznati:
+
+Ne šlo o denary. Ne šlo o vlast. Ne šlo o osvetu.
+
+Šlo o to, da by dokazati sobě, že četyrnadsetlětny hlapec iz Przeglądu Sportowego ne protračil svojego žitja.
+
+Že skorupa, ktoru zbudoval vokrug sebe, ne byla tjurmoju. Byla krěpostju.
+
+I že daže ako vnutri bylo pusto – to zato, že vse teplo oddal drugim.
+
+Zapalil motor. Pojehal k domu.
+
+## POSLOVJE
+
+### Začto tuta historija imaje značenje
+
+Krzysztof Stanowski jest osoba, ktora dělit Poljsku.
+
+Dlja jednyh – žurnalist, ktory lišil mainstream dostojnosti i zbudoval nezavisimu medijsku imperiju. Dlja drugih – člověk bez skrupulov, ktory zaradi klikabilnosti gotov jest prěkračati granice.
+
+Pravda, kako obyčno, leži někde v srědině.
+
+On jest človekom, ktory zbudoval něčto iz ničego – od anonimnogo bloga do medija s prihodami 100 milionov zlotyh.
+
+On jest človekom, ktory ne izbegaje konflikta, ale ktory takože uměje priznati, že časami ide prekoměrno daleko. On jest otcem, mužem, šefom – i skorupoju, ktora staje se vse grubša, jerbo samo tako uměje funkcionovati v světu, ktory sam stvoril.
+
+I može byti, to jest najvažnja lekcija iz jego historije: že uspěh imaje cenu. Že vlast imaje cenu. Že slava imaje cenu.
+
+I že časami, v srědině noči, kogda gasnut světla i isključajut se kamery – ostaješ sam so svojeju skorupoju. I musiš odgovoriti sobě na pytanje, ktoro jesi zadal drugim tisuče razy:
+
+Stojilo li to?
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Kto jest glavna osoba?
+
+**Answers:**
+- A) Trener futbolovy
+- B) Novinar v medijah
+- C) Lekar s privatnoju klinikoju
+- D) Učitelj v velikoj gimnaziji
+
+**Correct:** B
+**Explanation:** Medijna osoba / Stanovsky.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čto ostaje po nagranju?
+
+**Answers:**
+- A) Množstvo fanov v velikom studiju
+- B) Plan slědujućego dolgogo sezona
+- C) Dogovor s novym reklamodavcem
+- D) Tišina i gluboka samotnost
+
+**Correct:** D
+**Explanation:** Svetla gasnut; ostaje sam.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Čto jest «skorupa»?
+
+**Answers:**
+- A) Maska uspěha v medijah
+- B) Stary semejny avtomobil
+- C) Novo logo cělago kanala
+- D) Bilet na važny futbalovy match
+
+**Correct:** A
+**Explanation:** Publicna maska uspěha.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Kako pytanje ostaje na koncu?
+
+**Answers:**
+- A) Koliko koštuje ta nova kamera?
+- B) Či to vsegda vredno bylo?
+- C) Gdě jest svobodny parking tut?
+- D) Kogda počinaje se ta dopust?
+
+**Correct:** B
+**Explanation:** Či vredno bylo.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čego dotyče se pověst?
+
+**Answers:**
+- A) Cěn biletov na matchi
+- B) Cěny uspěha i slavy
+- C) Tanyh letov avionom
+- D) Abonamenta televizijnego
+
+**Correct:** B
+**Explanation:** Cěna uspěha i slavy.
+**Text reference:** q5
+

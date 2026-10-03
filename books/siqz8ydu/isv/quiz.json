@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "V kakom věku junakinja prvy raz slyšit «dobra děvčinka»?",
+      "answers": [
+        "Petnadcat lět",
+        "Pet lět",
+        "Dvadcat lět",
+        "Rok"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iměla pet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove junakinja razgovora v studiju?",
+      "answers": [
+        "Marta",
+        "Zosja",
+        "Eva",
+        "Ola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zosja razgovarja v studiju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Zosja govorit na koncu k vedučemu?",
+      "answers": [
+        "Že žalěje vsego?",
+        "Děkuju — za to, že mogla byti",
+        "Že vraca se k molčanju",
+        "Že konča karijeru"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blagodarit za to, že mogla byti soboju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govorit vnutrenja «mala děvčinka» s zeszytom?",
+      "answers": [
+        "Nikogda ne uspěješ",
+        "Vidiš? Govorila ti jesm, že bude",
+        "Shovaj zeszyt",
+        "Běži?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govorit: Vidiš? Govorila ti jesm, že bude dobro."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky konflikt goni pověst?",
+      "answers": [
+        "Konflikt o penezy v banku",
+        "Presija byti «dobra» vs byti",
+        "Sportovy konflikt?",
+        "Vojna o teritoriju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Presija byti dobroju děvčinkoju protiv avtentičnosti."
+    }
+  ]
+}

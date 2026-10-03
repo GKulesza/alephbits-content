@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Хелена?",
+      "answers": [
+        "Седм лєт",
+        "Десет лєт",
+        "Јединнадцат лєт",
+        "Осм лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Хелена имєла седм лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове пријатељка?",
+      "answers": [
+        "Отылија",
+        "Амелија",
+        "Лилијана",
+        "Поља"
+      ],
+      "correctIndex": 1,
+      "explanation": "Амелија – најлєпша пријатељка."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове пес Хелены?",
+      "answers": [
+        "Азор",
+        "Бурек",
+        "Фафик",
+        "Рексио"
+      ],
+      "correctIndex": 2,
+      "explanation": "Пес Фафик."
+    },
+    {
+      "type": "single_choice",
+      "question": "Чего боји се Хелена в ночи?",
+      "answers": [
+        "Злеј оцєны",
+        "Утраты плецака",
+        "Недостатка кредки",
+        "Другој класы"
+      ],
+      "correctIndex": 3,
+      "explanation": "Же Амелија буде в другој класє."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что имајут на собє обє дєвчеты?",
+      "answers": [
+        "Чрвене пелерины с капишоном",
+        "Темно-модре сукнє в кропкы",
+        "Зелене курткы на вєтр",
+        "Жуте блузы с капишоном"
+      ],
+      "correctIndex": 1,
+      "explanation": "Темно-модре сукнє в кропкы."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како называјут се скарпеткы?",
+      "answers": [
+        "Лєва и права",
+        "Горна и долна",
+        "Мала и велика",
+        "Модра и чрвена"
+      ],
+      "correctIndex": 0,
+      "explanation": "Лєва и права в звєздках."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто носи скарпеткы?",
+      "answers": [
+        "Тымек",
+        "Антек",
+        "Бартек",
+        "Миłосз"
+      ],
+      "correctIndex": 1,
+      "explanation": "Антек носи је на смєну."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что изчезаје в прачце?",
+      "answers": [
+        "Обє нараз",
+        "Лєва скарпетка",
+        "Права скарпетка",
+        "Цєлы кош за прање"
+      ],
+      "correctIndex": 2,
+      "explanation": "Права изчезла по прању."
+    },
+    {
+      "type": "single_choice",
+      "question": "Какы припєв је ведет?",
+      "answers": [
+        "Кто је, тен расте",
+        "Кто спи, тен сни",
+        "Кто бєжи, тен падаје",
+        "Кто искаје, тен"
+      ],
+      "correctIndex": 3,
+      "explanation": "Кто искаје, тен најде."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кде иде лєва скарпетка?",
+      "answers": [
+        "До школској шафы",
+        "Тунел за прачкоју",
+        "На подкровје дома",
+        "Под подлогу кухње"
+      ],
+      "correctIndex": 1,
+      "explanation": "Тунел меџу прачкоју и стєноју."
+    }
+  ]
+}

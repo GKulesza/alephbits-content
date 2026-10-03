@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Пола?",
+      "answers": [
+        "Седм лєт",
+        "Десет лєт",
+        "Осем лєт",
+        "Дванадсет лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Пола имєла седм лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име има пријатељ?",
+      "answers": [
+        "Шимон?",
+        "Даниел",
+        "Антек",
+        "Миłош"
+      ],
+      "correctIndex": 1,
+      "explanation": "Даниел – најбољши пријатељ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кого школа објављаје?",
+      "answers": [
+        "Пани Халину",
+        "Пани Зофију",
+        "Пани Калину",
+        "Пани Ванду"
+      ],
+      "correctIndex": 2,
+      "explanation": "Пани Калина – зналка звєзд."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что Даниел называје каменчики?",
+      "answers": [
+        "Звєздами",
+        "Дијамантами",
+        "Цукрками",
+        "Метеоритами"
+      ],
+      "correctIndex": 3,
+      "explanation": "Камене называје метеоритами."
+    },
+    {
+      "type": "single_choice",
+      "question": "Чего Пола боји се?",
+      "answers": [
+        "Боји се тмы",
+        "Боји се воды",
+        "Боји се псов",
+        "Боји се бурје"
+      ],
+      "correctIndex": 1,
+      "explanation": "Бојала се тмы."
+    }
+  ]
+}

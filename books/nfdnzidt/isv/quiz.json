@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gde Čen Čing Ting stoji na početku?",
+      "answers": [
+        "Na dvorcu vo Varšavi",
+        "Pri vratcah na letišču vo",
+        "V portu v Gdansku",
+        "V metru v Tokiu?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona stoji pred avtomatičnymi vratcami vo Frankfurtu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky problem sreča pri kontroli?",
+      "answers": [
+        "Zgubila je bagaž",
+        "Sistem / svet dela se, že jej kraj ne",
+        "Nema bileta?",
+        "Ne zna anglijsky"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona doživlja, že svet dela se, jako by jej kraj ne postojal."
+    },
+    {
+      "type": "single_choice",
+      "question": "Komu piše imejl?",
+      "answers": [
+        "Šefu v Berlinu",
+        "Mužu v Tajpeju",
+        "Materi v Pekinu",
+        "Kolegynji v Parizu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ona piše mužu v Tajpeju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto odgovarja muž?",
+      "answers": [
+        "Ostani v Evropi",
+        "Vrni se domov skoro. My smo s",
+        "Ne zvoni nazad",
+        "Změni pasport?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muž piše: Vrni se domov skoro. My smo s toboju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako konča se pověst?",
+      "answers": [
+        "Ona odrekaje se identitetu",
+        "Zna, že na Tajvanu bude moči byti",
+        "Emigruje v SŠA",
+        "Měnja ime?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na Tajvanu nikto ne veli jej pritvarjati se kym inym."
+    }
+  ]
+}

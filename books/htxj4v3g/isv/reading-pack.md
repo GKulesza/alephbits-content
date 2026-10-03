@@ -1,0 +1,428 @@
+# Pola, Daniel i Tanec Planet
+
+## Metadata
+
+**Pack ID:** htxj4v3g
+**Book ID:** htxj4v3g
+**Legacy Pack ID:** polish_pola_daniel_i_taniec_planet
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Pola, Daniel i Tanec Planet  
+**Subtitle:** *(none)*  
+**Blurb:** V malom městečku, tam gde večerami nebo bylo tako čisto, že možno bylo prebrojiti zvězdy, živěla děvojčica imenem Pola.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Pola, Daniel i Taniec Planet" — oficialnoje izdanje Collection Fifteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'pola-daniel-i-taniec-planet']  
+
+**Keywords:** Pola, Daniel i Tanec Planet, Pola, Daniel i Taniec Planet, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fifteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** htxj4v3g:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**POLA, DANIEL I TANEC PLANET**
+
+### Pověst o děvčici, ktora odkryla, že temnota jest samo tlo dlja světla
+
+## Vstup
+
+V malom městečku, tam kde večerami nebo bylo tako čisto, že bylo možno počítati zvězdy, žila děvčica po imenu **Pola**.
+
+Pola iměla sedem lět, vlasy koloru kaštanov i oči široko otvorene na svět. Ona ljubila zadavati pytanja. A najvyše ljubila pytanja, na ktore nikto ne znal odgovorov.
+
+— Mamo, začto zvězdy migajut?
+— Tato, čto jest za nebom?
+— Babuško, či na inyh planetah takože sut děti?
+
+Dorosli usměhali se i odgovarjali različno. Ale Pola čula, že pravdivy odgovor jest nagde inače. Nagde daleko. Nagde, kude ješče nikto ne došel.
+
+Jej najdobrym prijateljem byl **Daniel**. Daniel iměl osem lět, vječno rozmetane vlasy i karmany polne kamyčkov, ktore nazyval „meteoritami". Daniel ne bojal se ničego. A najmenje tako govoril.
+
+Pola bojala se temnoty. Bojala se, že kogda světlo pogasne, nečto može vyskociti iz kuta. Bojala se, že zvězdy izčeznut, a nebo bude pusto.
+
+Jednogo dnja v školě pojavila se zapověd něčego neobyčnogo. Na dverjah saly visěla karta:
+
+**„V poneděljek posětit nas Gospoža Kalina — putovateljka i znavka zvězd. Ona vozme nas v put črěz Sunčny Sistem."**
+
+Pola pročitala kartu tri razy. Srce bilo jej bystrěje. S jednoj strany byla vozbudžena. S drugoj — bojala se. Bojala se, že ne porazuměje. Že ini budut znati večje. Že ona ostane vzadu.
+
+— Bojiš se? — zapytal Daniel, podhodeči k njej.
+
+— Ne — slagala Pola.
+
+— Ja takože se nemnogo boju — priznal Daniel. — Ale to dobro. Strah znači, že nečto jest važno.
+
+Pola pogledala na njego. I prvy raz počutila, že ne jest sama.
+
+## Razděl prvy: Gospoža Stella
+
+V poneděljek sala byla ina než obično. Krěsla sut postavili v krug. Na srědině stojal veliky, kolorovy model Sunčnogo Sistema. A pokraj njego — žena.
+
+Iměla dolgu, srebrnu sukniu, ktora blěskala kako zvězdy. Vlasy svezane v kok. Oči, ktore gledali tako, kakby viděli vse — i ješče nemnogo večje.
+
+— Vitajte — rěkla. — Jesm Kalina. Ale možete mi govoriti Gospoža Stella.
+
+Děti rozsmějali se. A Pola počutila, že nečto v njej mękne.
+
+— Dnes vozmu vas v put — govorila dalje Gospoža Stella. — Ne taku običnu. Vozmu vas tam, kde nikto iz vas ješče ne byl. V kosmos.
+
+Pola počutila, že jej kolěna se tresut.
+
+— Ale najprvo — dodala Gospoža Stella — musu vam nečto pověděti. Kosmos ne jest město, do ktorogo se jěde. Kosmos jest v nas. I vokrug nas. My jesmo jego čest.
+
+Děti mlčeli. A Pola prvy raz od davna počutila, že razuměje.
+
+Togda se ozval **Kacper** — hlapec iz konca klasy, ktory vsegda znal vse najbolje.
+
+— Ja tam se ne boju temnoty — rěkl glasno. — Toliko male děti se bojajut.
+
+Pola počutila, že jej lice gori. Spustila pogled.
+
+— Kacper — rěkla spokojno Gospoža Stella. — Ja takože se negda bojala temnoty. I znaš čto? Vse ješče časom se boju. Ale naučila jesm se nečego važnogo.
+
+— Čego? — zapytal Kacper.
+
+— Že strah ne izčezaje zato, že ktosi govori, že jest glupy. Strah izčezaje togda, kogda my go porazumějemo.
+
+Kacper mlčal. A Pola podnjesla pogled. Prvy raz od davna počutila, že ktosi ju razuměje.
+
+## Razděl drugy: Put črěz Sunčny Sistem
+
+Gospoža Stella poprosila, da by vse děti zakryli oči.
+
+— Voobrazite sebě, že jeste v raketě — rěkla. — Raketa jest mala. Ale vy jeste odvažni. I imate sebe vzajemno.
+
+Pola zakryla oči. Uslyšala tihy šum. Kakby větr. Kakby voda. Kakby nečto, čego nikogda ranje ne slyšala.
+
+A kogda otvorila oči, ne byla uže v salě.
+
+Stojala v prostranstvě. Črnoj. Tihoj. Polnoj zvězd. Pokraj njej stojal Daniel. Držal ju za ruku.
+
+— Kde my jesmo? — šeptala Pola.
+
+— V kosmosu — odgovoril Daniel. — Ale se ne boju. Jerbo jesi so mnoju.
+
+Pola usměhnula se.
+
+Prěd nimi pojavila se velika, žolta kula. Světila tako jasno, že musěli prižmuriti oči.
+
+— To Sunce — rěkla Gospoža Stella, ktora naglo pojavila se pokraj njih. — Naša zvězda. Daje nam světlo i teplo. Bez njego ne bylo by života.
+
+Pola počutila teplo na kožě. Kakby ktosi ju obnjimal. Teplo ne bylo goruče. Bylo prijemno. Kako pokrivalo v zimovy večer.
+
+— A tam? — zapytala Pola, ukazujuči na malu, sěru kulku, ktora kružila vokrug Sunca.
+
+— To Merkury. Najmenša planeta. Najbliže Sunca. Jest bystry kako zaječik.
+
+Poletěli dalje. Uviděli planetu obvitu v oblaky.
+
+— To Wenus — rěkla Gospoža Stella. — Jest goreča. Gorečejša než Merkury. Jerbo oblaky zadržavajut teplo.
+
+Pola počutila zapah. Čudny. Kakby sěra. Kakby nečego, čego ne uměla nazvati.
+
+Potom uviděli planetu sinju i zelenu. Polnu života.
+
+— To Zemja — rěkla Gospoža Stella. — Naš dom. Jedina planeta, na ktoroj znamy, že jest život.
+
+Pola počutila nečto čudno. Kakby ktosi obnjal ju iz vnutra.
+
+— A tam? — zapytal Daniel, ukazujuči na črvenu kulu.
+
+— Mars. Črvena planeta. Imaje najvyšje gory v cělom Sunčnom Sistemě.
+
+Daniel pogledal na Polu.
+
+— Znaš čto? — rěkl tiho. — Ja takože se boju. Ne temnoty. Ale togo, že ne porazumějem. Že ini budut se smějati. Že ostanu sam.
+
+Pola pogledala na njego.
+
+— Ne ostaneš — rěkla. — Jerbo ja jesm s toboju.
+
+## Razděl trety: Tanec planet
+
+Gospoža Stella plesnula v doloni.
+
+— A tutčas — rěkla — zatancujemo.
+
+Děti stali v kruhu. Každo dostalo papirnu planetu na paličkě. Pola dostala Wenus. Daniel — Zemju.
+
+— Budemo kružiti vokrug Sunca — objasnila Gospoža Stella. — Každo v svojem tempu. Ale zajedno. Vsegda zajedno.
+
+I načeli tancovati.
+
+Pola kružila vokrug Sunca, držeči svoju planetu. Čutila se legka. Čutila se svobodna. A strah — toj strah, ktory nosila v sebě od toliko lět — nagde izčezl.
+
+Gospoža Stella govorila rymovanku, a děti povtarjali:
+
+**„Osem planet vokrug Sunca,  
+každa ina, každa tresuča.  
+Merkury, Wenus, Zemja, Mars,  
+Jupiter, Saturn, Uran — včas.  
+Neptun na koncu, zimny kako led,  
+tancujut zajedno — prěkrasny čud."**
+
+Pola usměhnula se. Prvy raz od davna počutila, že jest čest nečego večšego.
+
+A kogda tanec se končil, Pola pogledala na Gospožu Stellu.
+
+— Gospožo Stello — rěkla tiho. — Začto vy rěkli, že kosmos jest v nas?
+
+Gospoža Stella usměhnula se.
+
+— Jerbo vse, čto vidiš na nebě, jest zbudovano iz togo samego, kako ty. Zvězdy, planety, měseci — to vse atomy, ktore negda byli v tebě. I budut, kogda tebe uže ne bude. Jesi čest kosmosa. A kosmos jest čest tebe.
+
+Pola mlčala dolgo. A potom rěkla:
+
+— To znači, že kogda gledam v nebo, gledam na sebe?
+
+— Tak — rěkla Gospoža Stella. — I to jest najkrasne, čto možeš sdělati.
+
+## Razděl četvrty: Povratok do domu
+
+Tanec se končil.
+
+Gospoža Stella poprosila, da by děti zakryli oči. Pola zakryla. Uslyšala toj samy šum. A kogda otvorila oči, byla nazad v salě.
+
+Ale nečto se izměnilo.
+
+Pola pogledala na Daniela. Daniel pogledal na nju.
+
+— To bylo pravdivo? — zapytala.
+
+— Ne znam — odgovoril. — Ale čuju, že tako.
+
+Gospoža Stella podošla k njim.
+
+— Kosmos ne jest daleko — rěkla tiho. — Jest v vas. V vaših pytanjah. V vaših sanjah. V vaših srcah.
+
+Pola kivnula glavom.
+
+— Uže se ne boju — rěkla.
+
+— Čego si se bojala?
+
+— Temnoty. Že nečto vyskocit. Že zvězdy izčeznut.
+
+— A tutčas?
+
+— Tutčas znaju, že zvězdy ne izčezajut. Prosto časom one kryjut se za oblakami. Ale one sut. Vsegda sut.
+
+Gospoža Stella usměhnula se.
+
+— Zapamętaj to — rěkla. — Bo to pravda ne samo o zvězdah.
+
+## Razděl pety: Noč
+
+Toj noči Pola ne mogla zasnuti.
+
+Ležala v posteli. Světlo bylo ugašeno. Temnota obvijala pokoj kak tolsty koc.
+
+Pola počula, že strah vračaje se. Toj samy strah, ktory znala od vsegda. Že nečto vyskocit iz kuta. Že nečto se stane.
+
+Zakryla oči. Htěla prizovati mamu. Htěla zapaliti světlo.
+
+Ale togda vozpomnila sobě tanec planet. Vozpomnila sobě, kako kružila vokrug Slnca. Kako čula se legka. Kako čula se svobodna.
+
+Otvorila oči. Pogledala v okno.
+
+Za steklom bylo nebo. Črno. Polno zvězd.
+
+Pola vstala. Podošla k oknu. Odsunula zavěsu.
+
+I gledala.
+
+Zvězdy ne izčeznuli. Světili. Tihe. Spokojne. Věčne.
+
+Pola usměhnula se. Vratila se do posteli. Legla. Zakryla oči.
+
+I zasnula — prěje než mama uspěla zagledati do pokoja.
+
+## Zaključenje
+
+Minul tyždenj.
+
+Pola i Daniel sěděli na travě prěd domom. Gledali v nebo.
+
+— Vidiš tu jasnu? — zapytala Pola, ukazyvajuči na punkt na nebе.
+
+— To Venera — rěkl Daniel. — Tvoja planeta.
+
+— A tamta? — Pola ukazala drugu.
+
+— To Mars. Črvena.
+
+— A tamo, daleko? Ta sinja?
+
+— Neptun. Zimny kako led.
+
+Pola molčala kratko.
+
+— Znaš čto? — rěkla. — Ja uže ne hoču byti zvězda. Hoču byti planeta.
+
+— Začto?
+
+— Bo planety ne sut samotne. Kružet vokrug nečego. I imajut druge planety obok. Kako prijateljev.
+
+Daniel usměhnul se.
+
+— Togda i ja hoču byti planeta — rěkl.
+
+Sěděli tako dolgo. A nad nimi světili zvězdy. Tihe. Spokojne. Věčne.
+
+Toj noči Pola ugasila světlo sama. Legla. Pogledala v strop.
+
+Temnota uže ne byla strašna.
+
+Byla jedino tlo dlja světla.
+
+---
+
+**Ne musiš letěti v kosmos, da by uviděti zvězdy.  
+Dostatočno pogledati v nebo — i vozpomniti sobě,  
+že jesi čest nečego večšego.**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Koliko lět ima Pola?
+
+**Answers:**
+- A) Sedm lět
+- B) Deset lět
+- C) Osem lět
+- D) Dvanadset lět
+
+**Correct:** A
+**Explanation:** Pola iměla sedm lět.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kako ime ima prijatelj?
+
+**Answers:**
+- A) Šimon?
+- B) Daniel
+- C) Antek
+- D) Miłoš
+
+**Correct:** B
+**Explanation:** Daniel – najboljši prijatelj.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kogo škola objavljaje?
+
+**Answers:**
+- A) Pani Halinu
+- B) Pani Zofiju
+- C) Pani Kalinu
+- D) Pani Vandu
+
+**Correct:** C
+**Explanation:** Pani Kalina – znalka zvězd.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čto Daniel nazyvaje kamenčiki?
+
+**Answers:**
+- A) Zvězdami
+- B) Dijamantami
+- C) Cukrkami
+- D) Meteoritami
+
+**Correct:** D
+**Explanation:** Kamene nazyvaje meteoritami.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čego Pola boji se?
+
+**Answers:**
+- A) Boji se tmy
+- B) Boji se vody
+- C) Boji se psov
+- D) Boji se burje
+
+**Correct:** B
+**Explanation:** Bojala se tmy.
+**Text reference:** q5
+

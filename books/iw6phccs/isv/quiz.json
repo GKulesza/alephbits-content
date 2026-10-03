@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest pověstnik po izučenju?",
+      "answers": [
+        "Historik, arhivist",
+        "Lěkar, hirurg",
+        "Pravnik, sudija",
+        "Inženjer, budovnik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Historik, arhivist v institutu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě žije pověstnik?",
+      "answers": [
+        "Krakov, Kaziměř",
+        "Varšava, Praga",
+        "Gdańsk, Vrzeszcz",
+        "Vroclav, Nadodře"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stan na Pragě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo slušaje v radu?",
+      "answers": [
+        "Viktora Slojkovskogo",
+        "Marka Boronja",
+        "Leška Žebrovskogo",
+        "Stefana Kovalskogo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Program Leška Žebrovskogo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoru metaforu upotrebjaje veduči?",
+      "answers": [
+        "Šetnja po lěsu",
+        "Let v kosmos",
+        "Konjska gonitva",
+        "Bal na Titaniku"
+      ],
+      "correctIndex": 3,
+      "explanation": "To jest bal na Titaniku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto radio govori o vyborah?",
+      "answers": [
+        "Že su već zakončene",
+        "Že mogut se ne",
+        "Že su samo lokalne",
+        "Že su za graniceju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mogut se ne odbydti."
+    }
+  ]
+}

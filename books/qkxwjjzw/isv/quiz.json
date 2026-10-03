@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět imaje Helena?",
+      "answers": [
+        "Deset lět",
+        "Sedm lět",
+        "Osem lět",
+        "Dvanadcat lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena imala deset lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto zbiraje Helena?",
+      "answers": [
+        "Kameny",
+        "Puhateki",
+        "Znaky",
+        "Rakoviny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karmany polne Puhatekov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko Puhatekov imaje Helena?",
+      "answers": [
+        "Dvanadcat kusov",
+        "Tri kusy",
+        "Sedm kusov",
+        "Jedin kus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Imala ih už sedm."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto dal běly Puhatek?",
+      "answers": [
+        "Susedka Halina",
+        "Mama Ivona",
+        "Teta Zofia",
+        "Baba Bogna"
+      ],
+      "correctIndex": 3,
+      "explanation": "Od baby Bogny na rodiny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini běly Puhatek pri lampě?",
+      "answers": [
+        "Raste v velikosti",
+        "Měnja kolor",
+        "Iznika s polky",
+        "Pěvaje k Heleni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Měnja kolor osvětjenny."
+    }
+  ]
+}

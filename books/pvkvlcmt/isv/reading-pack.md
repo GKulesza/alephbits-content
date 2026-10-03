@@ -1,0 +1,357 @@
+# V polnosti
+
+## Metadata
+
+**Pack ID:** pvkvlcmt
+**Book ID:** pvkvlcmt
+**Legacy Pack ID:** polish_w_pelni
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** V polnosti  
+**Subtitle:** *(none)*  
+**Blurb:** Ola bere syna na rųky i čuje dvě stvari zaraz. Dětę jest v polnosti člověkom — od samogo počętka.
+
+**Genres:** psychology, family  
+**Series:** Collection Twelve  
+**Audience:** family
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "W pełni" — oficialnoje izdanje Collection Twelve.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** rodzicielstwo, godność, niemowlę, Collection Twelve  
+
+**Keywords:** V polnosti, W pełni, Collection Twelve  
+
+**Cover family:** family
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Twelve). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** pvkvlcmt:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**V POLNOSTI**
+
+Kogda Ola vzela syna na ruky prvy raz, počutila dve stvari jednogočasno. Jednu – ogromnu, pritiskajuču ljubov. Drugu – strah. Jero v tom malom, smorščenom suščestvu uviděla člověka, ktory cělkom od njej zavisi. I pomyslila si: "Musim jego sformovati. Musim jego vospitati. Musim jego naučiti vsego."
+
+Prošlo pět lět. Franek, uže prědškolnik, seděl na podlogě v saloně i ukladal kocky. Ola gledala na njego iz kuhnje, pijuči pomalo vystydlu kavu. Viděla v njem to samo, čto v denj jego narodženja – člověka. Ale tutčas znala něčto, čego ne znala togdа.
+
+Že ne musi jego formovati. Že on uže jest v polnosti soboju.
+
+---
+
+Vzęlo se to z podkasta, ktory slučajno uslyšala, kogda myla posudy. Někto govoril o Jesperu Julu – danskom terapevtu, ktory postavil provokativnu tezu: "Čto by bylo, ako by my prědpoložili, že děte od samogo momenta narodženja jest v 100% polnym člověkom?"
+
+Ola se tutčas zastavila s gubkoju v dlani. Něčto v njej kliknulo. Vospomnila si vse situacije, v ktoryh obhodila se s Frankom kako s projektom dlja popravki. Kako něčto, čto trěba izgladiti, popraviti, prilagoditi. Kako by on sam ne znal, kto jest. Kako by jego čuvstva ne iměla značenja.
+
+A potom vospomnila si situaciju v kavjarni, ktoru opisal Jul. Roditelj pytaje dete, čto hoče piti. Dete izbiraje. Kelnerka prinosi sok, a dete naglo izměnjaje svoje mnjenje. Roditelj razljučuje se i govori: "Zatvori usta, smrkaču."
+
+I Ola pomyslila: "Ja takože tako dělala. Jedino drugimi slovami."
+
+Pametala, kako Franek, kogda iměl tri lěta, plakal, že ne hoče jesti brokoly. A ona govorila: "Ne mrmori, brokoly sut zdrave. Ako ne zjedeš, ne bude deserta." Togda myslila, že to dobro vospitanje. Že uči jego, čto dobro, a čto zlo. Že formuje jego navyky.
+
+Tutčas viděla to inače: "Kazala jesm mu ne věriti svojemu tělu, ktoro govorilo jemu, že ne hoče togo jesti. Naučila jesm jego, že moja realnost jest važnějša než jego."
+
+---
+
+Ale najtežše bylo dověrje.
+
+V knigě Jula našla tako rěčenje: "Děte jest kompetentno." I to izměnilo vse. Jero ako děte jest kompetentno, to znači, že znaje, čto jemu potrěbno. Že uměje prijmovati rěšenja. Že ne trěba jemu narzučati gotovyh rěšenij, jedino byti s njim v otkrivanju světa.
+
+Ola rěšila to izprobati. Kogda Franek skazal, že ne hoče idti na bazen, jero boji se vody, Ola ne skazala: "Ne boj se, to ničto strašno." Vmjesto togo spytala: "Čto čuješ, kogda mysliš o bazeně?"
+
+Franek pogleděl na nju zaskočen. Nikto nikogda raněje ne pytal jego o to, čto čuje.
+
+– Boju se – rěče. – Že se utopim.
+
+– Razuměju – odgovorila Ola. – To jest normalno, že se bojiš. Či jest něčto, čto by moglo ti pomoči čuti se bezpečnjej?
+
+Franek pomyslil na moment.
+
+– Može ako bym iměl rukavky?
+
+– Možemo poprobovati.
+
+Oni pošli na bazen. Franek vstupil v vodu s rukavkami i po pěti minutah rěče:
+
+– Mamo, ja uže hoču snjeti rukavky. Hoču probovati sam.
+
+Ola dozvolila jemu. I on plaval. Ne idealno, ale samostojno. I kogda vyšel iz bazena, rěče:
+
+– Mamo, ja mogu vse, ako mi dozvoliš.
+
+Ola tutčas pomyslila: "To ne jest tako, že on potrěbuje mojih metod. On potrěbuje mojego dověrja."
+
+---
+
+Četyri lěta pozdněje Ola iměla uže dvoje dětej – Franka i trělětnju Zosju. I vse ješče učila se toj filozofiji ponovno vsaky denj.
+
+Jednogo dnja Zosja vzela do ruky nožice. Ola uviděla to i prvy impuls byl: "Ne, to jest nebezpečno!" Ale zastavila se. Vospomnila si, čto govoril Jul: "Děte potrěbuje svědka, ne korektora."
+
+– Zosja – rěče. – Vidim, že hočeš koristati nožice. To jest ostry prědmet. Znaš li, kako jego bezpečno koristati?
+
+Zosja pogleděla na nju serjozno.
+
+– Da, mama. Trěba držati za ročku, a ne za ostrje.
+
+– Dobro. A čto budeš izrězati?
+
+– Serduško dlja taty.
+
+– To jest krasno. Jedino pametaj, da by pazila na palce. Ako budeš potrěbovati pomoči, ja jesm tut.
+
+Zosja izrězala serduško. Ne idealno, ale jej vlastno. I kogda podala je tatě, rěče:
+
+– Tato, ja sdělala to sama. Mama mi dověrila.
+
+To bylo dlja Oli više než vsaka metoda vospitanja.
+
+---
+
+Najtežše byli dny, kogda sama ne iměla sily. Kogda rabota, dom, děti – vse ju pritiskalo. Togda najlegše bylo vratiti se do staryh navykov: do krika, do karanja, do "jero ja tako govorim".
+
+Pametala jedin večer, kogda Franek ne hčel idti spati. Iměla uže dosta, byla izmučena, hčela jedino moment tišiny. I kriknula: "Moraš idti spati, konec diskusije!" Franek pogleděl na nju s slzami v očah i rěče:
+
+– Mama, ty uže ne věriš, že ja znam, čto mi je potrěbno.
+
+Ola zamrla. Tute slova udarila ju kako obuh. Izvinila se. Sěla pokraj njego na postelju.
+
+– Izvinjaj – rěče. – Ja jesm izmučena i to ne jest tvoja vina. Ale znaš čto? Ty imaješ pravdu. Ja věrim, že ty znaš, čto ti je potrěbno. Jedino časami o tom zapominam.
+
+Franek pritulil se k njej.
+
+– To ničto, mama. Ja takože časami zapominam.
+
+---
+
+Ola čitala o vospitatelnyh greskah, o karanjah i nagradah, o tom, čto razrušaje dětej. Viděla v tyh opisah svoju vlastnu prošlost. Viděla svoje gresky, svoju neumělost, svoje umorenje. I vsaky raz čula, že to jest prěmnogo. Že nikogda ne bude idealna. Že vsegda něčto pokvari.
+
+Až jednogo dnja natknula se na citat Jula, ktory izměnil vse:
+
+"Ako smo dnes ponovno postupili s detem protekcionalno, ne musimo se za to bičevati. To jest prosto signal dlja nas. Informacija, že naše vlastne granice byly narušene i ne smogli smo jih obraniti včas. To ne jest pričina k čuvstvu viny, ale radej pozvanje k razmyšljenju nad samym sobom."
+
+I togdа Ola razuměla: ne ide o to, da by byti idealnym roditeljem. Ide o to, da by byti pravdivym. Da by priznavati se do svojih greskov, izvinjati se, probovati ješče raz. I iměti dověrje — k sobě i k svojemu detetu.
+
+---
+
+Zosja iměla pět lět, kogda Ola uslyšala o ADHD. Někto iz jej okruženja skazal, že Zosja jest "takim trudnym detem" – nevnimatelna, haotična, nesposobna skoncentrovati se na jednej stvari duže než pět minut. Ola pošla k specialistu.
+
+– Či podzrěvamo ADHD? – spytala.
+
+– To jest prěrano na diagnozu – odgovoril psiholog. – Ale možemo rabotati nad někotorymi navykami. Uporędkovan prostor, rutiny, higiena sna, fizična aktivnost – to vse pomagaje.
+
+Ola vratila se doma i pogleděla na Zosju. Jej kčer, ktora risovala na stěně v saloně, jero zapomnila, že imaje list papira. Ktora vstupala na kreslo, da by dosęgnuti sladkosti, a potom zapominala, začto tam vstupila. Ktora zasypala v jedinadset večerom i budila se v šest rano, umorena.
+
+Ola pomyslila o tom, čto čitala: "Dobovy rytm u detej s ADHD jest prěsunuty o dve godiny."
+
+Rěšila vvesti izměny. Ne kako karanje, ne kako "metody". Kako pomoč.
+
+Prěde vsim – prostor. Kutik Zosji byl uporędkovan. Menje igraček na vrhu, više prostora. Menje razdražajučih podnetov.
+
+Potom – rutina. Stale časy jedjenja, stale časy sna. Vvela timer do mytja zubov: "Pogledajmo, kto prvy umyje zuby – ty ili ja?"
+
+Zosja ljubila gonitvy. I naglo mytje zubov prěstalo byti borboju, a stalo se igroju.
+
+A prěd snom – bez ekranov. Bez sinjego světa, ktoro pobudžaje prědfrontalnu koru i ne dozvoljaje sna. Vmjesto togo – čitanje knig. I tišina.
+
+Zosja načela bolje spati. I bolje funkcionovati. Ne idealno – vse ješče byla haotična, vse ješče zapominala o stvarah. Ale iměla orudja. I znala, že može poprositi o pomoč.
+
+Največšu trudnost dlja Oly predstavjalo planovanje časa. Zosja, kako mnogo dětej s ADHD, iměla težkosti s izvršnymi funkcijami. Zabyvala o zadačah, otkladyvala ih do poslědnjej minuty, gubila se v haosě svojih mysli.
+
+Ola vvela kalendarj. Samolěpljive kartki na hladilniku. Napominanja v telefonu. I pravilo: "Najprvo najvažnjejše."
+
+– Zosja, čto musiš sdělati dnes? – pytala rano.
+
+– Umyti zuby, obleči se, spakovati ruksak.
+
+– Dobro. Čto jest najvažnjejše?
+
+– Umyti zuby.
+
+– To s čim načnemo?
+
+– S mytjem zubov.
+
+I to dělalo. Ne vsegda, ale vse čestěje. Zosja učila se planovati. Učila se, že može iměti vpliv na svoje žitje. Že ne musi byti haosom.
+
+Jednogo dnja Franek, ktory iměl uže sedem lět, rěče do Oly:
+
+– Mamo, myslim, že jesi dobra mama.
+
+Ola byla udivjena.
+
+– Začto tako mysliš?
+
+– Bo dozvoljaješ nam byti soboju.
+
+Ola počula, kako něčto stiskaje ju v grlu.
+
+– A čto to znači "byti soboju"?
+
+– To znači, že kogda hču něčto sdělati, ty mi dověrjaješ. I daže ako sdělam zlo, ty mi pomagaješ, a ne kričiš. I izvinjaješ se, ako sama sdělaješ zlo.
+
+Ola pritulila syna.
+
+– Děkuju – rěče.
+
+I pomyslila sobě, že to jest ravno največji dar, ktory može dati děcku: ne metody, ne kazni, ne nagrady. Ale dověrje. I prisutnost. I ljubov, ktora ne postavjaje uslovij, ne zahtěvaje, ne ocenjaje.
+
+Ljubov, ktora govori: "Jesi v polni člověkom. Od samogo početka. I vsegda buděš."
+
+---
+
+V noči, kogda děti spali, Ola otvorila knigu Jula. Natrafila na rečenje, ktore uže ranje čitala, ale ktore vsaky raz zvučalo inače:
+
+"Ako naučimo děti, že jih dostojnost jest nenarušiteljna od prvogo dnja žitja, to one ne budut potom musěti boriti se za nju v odraslosti."
+
+Ola zatvorila knigu. Pogledala na dveri dětskogo pokoja. Črěz šparu bylo vidno světlo nočnoj lampy – malo, teplo, spokojno.
+
+Pomyslila o vsih pogrěšenjah, ktore sdělala. O vsih momentah, v ktoryh mogla sdělati bolje. O vsih hviljah, v ktoryh podvela.
+
+I pomyslila takože o vsih momentah, v ktoryh probovala ješče raz. V ktoryh izvinjala se. V ktoryh dověrjala.
+
+To ne byla idealna droga. Ale byla jej. I byla pravdiva.
+
+A može ravno o to šlo – ne o to, da by byti idealnym roditeljem, ale da by byti pravdivym. Da by pokazati děcku, že možno činiti pogrěšenja i jih napravjati. Že možno byti utomjenym i prositi o pomoč. Že možno ne znati, ale iskati.
+
+I že v toj cěloj puti najvažno jest jedno: traktovati drugogo člověka – malogo ili velikogo – kako ravnogo sobě. Kako někogo, kto imaje pravo do svojih čuvstv, svojih potreb, svojih granic.
+
+Kako někogo, kto jest v polni člověkom.
+
+Od samogo početka.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Čto čuje Ola, berųči syna na rųky prvy raz?
+
+**Answers:**
+- A) Samo strah?
+- B) Dvě stvari zaraz — ogromnų ljubov i něčto
+- C) Samo profesionalnų gordost
+- D) Ravnodušnost
+
+**Correct:** B
+**Explanation:** Čuje dvě stvari zaraz — m.in. ogrom.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kako imę dětęta pojavjaje se v pověstji?
+
+**Answers:**
+- A) Januš
+- B) Franek
+- C) Ignus
+- D) Čen?
+
+**Correct:** B
+**Explanation:** Franek.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kaka jest glavna teza zaključenja?
+
+**Answers:**
+- A) Roditelj mora byti idealny
+- B) Traktovati dětę kako polnogo člověka od
+- C) Dětę ne imaje prava na čuvstva
+- D) Dovoljno jest sistem kar?
+
+**Correct:** B
+**Explanation:** Traktovati drugogo — takože malogo — kako ravnego, v polnosti člověka.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čego Ola uči se o bytju roditeljem?
+
+**Answers:**
+- A) Že omyłky sųt zabranjene
+- B) Že možno byti pravdivym: omyłjati se, prositi o pomoč,
+- C) Že nikogda ne směje se prositi o pomoč
+- D) Že molčanje rešaje vse?
+
+**Correct:** B
+**Explanation:** Byti pravdivym roditeljem, ne idealnym.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Od kogda — po zaključenju — dětę jest „v polnosti člověkom“?
+
+**Answers:**
+- A) Od matury
+- B) Od samogo počętka
+- C) Od 18. goda života
+- D) Od prvoj raboty
+
+**Correct:** B
+**Explanation:** Od samogo počętka.
+**Text reference:** q5
+

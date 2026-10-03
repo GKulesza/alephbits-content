@@ -1,0 +1,467 @@
+# Zvonček, ktory zazvonil tri razy
+
+## Metadata
+
+**Pack ID:** j0s3qy2y
+**Book ID:** j0s3qy2y
+**Legacy Pack ID:** polish_dzwoneczek_ktory_zadzwonil_trzy_razy
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Zvonček, ktory zazvonil tri razy  
+**Subtitle:** *(none)*  
+**Blurb:** V malom městečku pod imenom Srebrno Vzgorje, tam gde zima ne igrala se v polměry, živěli dva prijatelji — Antoni i Viktorija.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 10 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Dzwoneczek, który zadzwonił trzy razy" — oficialnoje izdanje Collection Fifteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'dzwoneczek-ktory-zadzwonil-trzy-razy']  
+
+**Keywords:** Zvonček, ktory zazvonil tri razy, Dzwoneczek, który zadzwonił trzy razy, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fifteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** j0s3qy2y:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**ZVONČEK, KTORY ZAZVONIL TRI RAZY**
+
+### Opověst o najkrasšej pomyłkě
+
+## Vstup
+
+V malom městečku s imenom **Srebrno Vzgorje**, tam kde zima ne znala polovičnyh mer, žili dvoje prijateljev — **Antoni** i **Wiktoria**.
+
+Antoni imal jedinnadset lět i vječno rozčuhane vlasy. Wiktoria takože imala jedinnadset lět i vsegda nosila pri sobě něčto, čto blěskalo — hot by to byla jedino stara, srebrna spinka do vlasov.
+
+Znali se od djetinstva. Antoni raz zjel jej sinju kredku v dětskom sadu. Wiktoria ne plakala. Jedino pogledala na njego i rěkla:
+
+— Slědujuči raz razděli se so mnoju.
+
+Od togo dnja oni dělili se vsim.
+
+A toj zimy oni imali razděliti se něčim večim, než jedino kredkami.
+
+## Razděl prvy: Skarb Antka
+
+Antoni ljubil futbal. To ne bylo hobi. To byla religija.
+
+Imal stare korky, ktore dostal od děda. Byli iznosjeni, potrěskani na dvoh městah, ale idealno pasovali do jego stop. V tih korkah on strělil svoj prvy gol. V tih korkah on obranil penal v meču protiv hlapcov iz susednoj ulicy. V tih korkah on čul se soboju.
+
+Ale nedostavalo mu jednogo. Pravdivoj futbalnoj lopty. Takoj iz kože, s dobrym švom, idealno vyvaženoj. Lopty, ktora ne zavrtala se v vozduhu črěz větr.
+
+On videl taku v **Sklepu Pod Zlatym Zvončekom**. Ona ležala na aksamitnoj poduške, ravno obok starogo gramofona. Ona izgledala kako trofej, ktory čekal na majstora.
+
+Jednogo večera Antoni siděl na ložu i držal korky v rukah. Obertal je. Gledal na trěščiny. Na iznosjene podošvy. Na slědy, ktore ostavili sotni časin na dvoru.
+
+— Vy jeste stari — šepnal. — Ale vy jeste moje.
+
+On snjal je. Postavil na polku. A potom snjal je s polky i pritulil.
+
+— Ne mogu — rěkl do sebe. — Ne mogu jih oddati.
+
+Ale potom on pomyslil o Wiktorii. O tom, kako jej oči temnějut, kogda ona gledaje na vitrinu antikvariata. O tom, kako ona rěkla: „Moj privěsok izgledal by na tom lančku idealno”. O tom, kako jej babka dala jej medalion, a lančok se prětrval.
+
+Antoni vzjal gluboky dyh. Vložil korky do torby. I vyšel.
+
+## Razděl drugi: Skarb Wiktorii
+
+Wiktoria imala medalion po babke. Zlaty, v formě srca, s vyrytym inicialom. Byl krasny i težky. Ale nedostavalo mu lančka.
+
+Ona viděla toj lančok v **Sklepu Pod Zlatym Zvončekom**. Srebrny, delikatny, s spletom tankym kako pajęčina.
+
+Jednogo večera Wiktoria siděla prěd zrcalom. Držala medalion v ruce. Čula jego težinu. Teplo. Zapah babky, ktory ješče byl v njem.
+
+— Ne mogu — šepnala. — To jedina več, ktoru mi ostavila.
+
+Ale potom pomyslila o Antoniju. O tom, kako on razpovedaje o lopte s ruměncem na licu. O tom, kako govori: „Ako byh imal tu loptu, mogl byh v koncu trenovati zakručene mety bez rizika, že taja jevtina guma izměni put leta črěz větr”.
+
+Wiktoria vstala. Vložila medalion do džepa. I vyšla.
+
+## Razděl tretji: Sklep Pod Zlatym Zvončekom
+
+Sklep Pod Zlatym Zvončekom držali gospodin **Feliks** i gospoja **Barbara**.
+
+Gospodin Feliks imal sive usy, ktore dvigali se, kogda on govoril. Gospoja Barbara imala oči, ktore viděli veče než ine. A nad pultom visěl maly, mosjažny zvonček.
+
+Zvonček byl stary. Nikto ne pametal, odkud se vzjal. Ale gospodin Feliks i gospoja Barbara znali jedno: on zvonil jedino togda, kogda ktosi daval něčto iz srca.
+
+Jednogo razu gospodin Feliks prodal svoj stary časovnik — poslědnju pametku po otcu — da by kupiti gospoji Barbarě obručalny prstenj. Zvonček zazvonil togda po prvy raz. A gospodin Feliks do dnes žaloval, že ne zadržal časovnika. Ne žaloval prstenja. Žaloval časovnika. Bo něktoryh večij ne da se odkupiti.
+
+— Pameti, Barbaro — govoril nekogda, kogda oni gledali na zvonček. — Ako by ktosi prišel tu i htel prodati něčto, čto jest čestju jego... ne dozvoli mu. Ili najmenje se zamysli.
+
+Gospoja Barbara kivala glavom. Ale znala, že nekogda trěba dozvoliti ljudam prijeti svoje rěšenja. Dže ako potom žalujut.
+
+Jednogo popoldnja do sklepa vstupil Antoni.
+
+— Dobry denj — rěkl tiho. — Htel byh něčto prodati.
+
+Gospodin Feliks podnjal oči iznad popravjanogo časovnika.
+
+— A čto to tako?
+
+Antoni izjal korky. Položil je na pult. Korky tam izgledali tako samotno kako napuščeni ščenec.
+
+— To moje korky — rěkl. — V nih jesm strělil prvy gol. V nih jesm obranil penal. Ale... hču kupiti srebrny lančok dlja Wiktorii.
+
+Gospodin Feliks molčal. Gospoja Barbara vyšla iz zapleča s podnosom pečiva i zastala se na pol koraka.
+
+— Tvoje korky? — pytala tiho. — Hlapče, znaju, koliko oni značet dlja tebe.
+
+— Znaju — rěkl Antoni. — Ale Wiktoria znači veče.
+
+Gospodin Feliks odložil časovnik. Pogledal na hlapca vnimatelno.
+
+— Kažu ti něčto — rěkl tiho. — Nekogda prodal jesm časovnik po otcu, da by kupiti prstenj mojej ženě. Zvonček zazvonil togda po prvy raz. Do dnes žaluju, že ne zadržal jesm časovnik.
+
+Antoni molčal.
+
+— Ale znaš čto? — dodal gospodin Feliks. — Ne žaluju prstenja. Žaluju jedino, že ne uměl jesm najti drugogo sposoba. Zamysli se, hlapče. Či pravdivo ty musiš to dělati?
+
+Antoni pogledal na korky. Potom na gospodina Feliksa. Potom znovu na korky.
+
+— Musu — rěkl. — Bo ona ne prosit o ničto dlja sebe. A ja hču, da by ona hot raz dostala něčto, o čem sanja.
+
+I togda zvonček zazvonil. Raz. Tiho. Kako by ktosi legko dotknul strunu.
+
+Gospodin Feliks vzdohnul.
+
+— Dobro — rěkl. — To jest izdelje vysokej klasy. Myslju, že možemo izvršiti zaměnu. Korky za lančok.
+
+Antoni vyšel iz sklepa, stiskajuči v ruce malo aksamitno krabičko.
+
+Ne minula časina, kogda zvonček nad dvermi zazvonil ponovno.
+
+Do sklepa vstupila Wiktoria.
+
+— Dobry denj — rěkla tiho. — Htela byh něčto prodati.
+
+Položila na pult zlaty medalion.
+
+— To pametka po mojej babce — objasnila. — Ale nedostavaje mu lančka. A Antoni sanja o pravdivoj lopte. Hču mu ju kupiti.
+
+Gospodin Feliks zadavil se čajem. Gospoja Barbara oprela ruki o bedra.
+
+— Prodaješ rodinnu pametku, da by kupiti loptu? — uverila se.
+
+— Antoni ne imaje čim igrati — rěkla Wiktoria s prostotoju. — A medalion to jedino zlato. Hču, da by byl ščestlivy.
+
+Gospoja Barbara prišla bliže.
+
+— Ljuba — rěkla lagodno. — Tvoj medalion to ne jedino zlato. To pamet. To babka. To tvoje srce.
+
+— Znaju — odgovorila Wiktoria. — Ale Antoni to takože moje srce. A on ne prosit o ničto dlja sebe. Hču, da by hot raz dostal něčto, o čem sanja.
+
+I togda zvonček zazvonil drugi raz. Tutčas glasněje. Kako by ktosi udaril v maly zvon.
+
+Gospodin Feliks i gospoja Barbara pogledali se. V jih očah bylo něčto veče než čudenje. Bylo razuměvanje.
+
+— Soglasje — rěkl gospodin Feliks. — Lopta za medalion.
+
+Kogda Wiktoria vyšla, gospodin Feliks pogledal na ženu.
+
+— Barbaro — rěkl. — Na pultu ležat korky Antka i medalion Wiktorii. Prěce to ne godi se. To kako razděliti dvoje prijateljev.
+
+Gospoja Barbara usměhnula se tajemno.
+
+— Myslju, Felikse, že v tute svjatky budemo musiti igrati se v Svjatogo Mikolaja. Ale takogo, ktory popravjaje omyłky mladosti. Zbiraj se. Zatvarjamo raněje. Imamo misiju.
+
+## Razděl četvrty: Vilijna zaměna
+
+Vilijny večer prišel s cěloju pompoju, ktoru si malo městečko moglo dozvoliti.
+
+Na srědině ploščadi stojala velika jolka. Pahnjala lěsom i smoloju. Pod njoj, soglasno s tradicijeju, sretali se vsi, ktori imali někomu něčto važno do vručenja.
+
+Antoni prěstupal s nogi na nogu. V jednom džepu čul fantomovu težinu korkov, ktoryh tam uže ne bylo. V drugom — malo aksamitno krabičko.
+
+Wiktoria prišla stazkoju. Sněg skripěl pod jej botami. Imala na sobě rozovu sukničku, ktora izlazila spod plašča. Stiskala v rukah maly paket, obloženy srebrnym papirom.
+
+— Zdravo — vydusil Antoni.
+
+— Zdravo — odgovorila. Jej polički iměli kolor divjej ruže.
+
+— Imam něčto dlja tebe — rekli oboje jednovremenno.
+
+Pogledali na sebe. Zasmějali se nervozno.
+
+— Na tri — prědložila Wiktoria.
+
+— Raz, dva, tri.
+
+Obměnili se paketami.
+
+Antoni razorval srebrny papir. Jego srce zamrlo, a potom rusilo se galopom. V dlanji držal je piłku. Pravdivu, ligovu, iz kože, s porjadnym švom.
+
+— To jest ta iz vitriny — šepnul.
+
+— Da — pritaknula Wiktoria, ne odryvajuči pogleda od krabičky. — Věděla jesm, že o njej sanjaš.
+
+Antoni usměhnul se lučezarno. Ale v glubině duše počutil je ubod. Imal je piłku. Piłku, ktoru by mogl loviti jedino v korkah. Těh samyh, ktore prodal.
+
+V toj samo vrěme Wiktoria otvorila aksamitno krabičko. Srebrny lančok splynul na jej dlan kako stružka misěčnogo světla.
+
+— Ojoj — vzdahnula. — Antoni, on jest prěkrasny.
+
+— To toj od gospodina Feliksa i gospoje Barbary — rěkl s gordostju. — Naděj go. Hču viděti.
+
+Wiktoria zamrla. Jej palce stisnuli se na lančku.
+
+— Ja ne mogu — šepnula.
+
+— Začto? Ne podoba ti se?
+
+— Podoba. Jest čudovny. Ale... ja uže ne imam medaljona.
+
+Antoni namrščil obrvy.
+
+— Kako to?
+
+— Prodala jesm go — rěkla tiho, ukazujuči brodoju na piłku v jego rukah. — Prodala jesm go gospodinu Feliksu, da by kupiti tobě tu piłku.
+
+Antoni stol kako vkopany.
+
+— Prodala jesi medaljon za moju piłku? — povtoril.
+
+— Da. Bo věděla jesm, kako silno ljubiš svoje korki i kako silno hčel jesi iměti pravdivu piłku k njim.
+
+Togda Antoni vybuhnul směhom. To ne byl vesely směh. Skorěje histeričny. Ale polny něžnosti.
+
+— Čto tebe tako zabavjaje? — zapitala Wiktoria.
+
+— Bo vidiš... — Antoni podignul svoju prazdnu lěvu ruku. — Ja prodal jesm korki, da by kupiti tobě toj lančok.
+
+Wiktoria široko otvorila oči.
+
+Gleděli na sebe v oslupjenju črěz dobryh deset sekund.
+
+Iměli lančok k medaljonu, ktorogo ne bylo. I iměli piłku k korkam, ktoryh ne bylo.
+
+A potom oboje vybuhnuli směhom.
+
+— My jesmo beznadějni ekonomisti — vydusil Antoni.
+
+— Najgorši na světě — dodala Wiktoria. — Ale za to kakymi prijateljami.
+
+## Razděl pety: Depozit srdec
+
+— Či ne prěškadžamo v toj dvigajučej sceně?
+
+Glas prišel je iz-za jihnih pleč. Antoni i Wiktoria obratili se naglo.
+
+Prěd nimi stojali gospodin Feliks i gospoja Barbara.
+
+— Dobry večer — promrmljali oni, posramjeni.
+
+— Dobry, dobry — mruknul gospodin Feliks, prětvarjajuči se, že grozno mršči obrvy. — Slušajte, no lopovi, imamo problem.
+
+— Problem? — uplašila se Wiktoria.
+
+— Seriozny — pritaknula gospoja Barbara. — A to moj muž, kako to mužčina, sdělal strašny neporjadok v inventarizaciji.
+
+— Ja? — oburil se teatralno gospodin Feliks.
+
+— Ty — skazala gospoja Barbara. — Soglasno s pravidlami našego sklepa, točka četvrta, podtočka zvězdočka, ne jest dozvoljeno zadrživati prědmety, ktore tužet za svojimi gospodarjami. To prinosi neuspeh v delah.
+
+Gospodin Feliks vzdahnul težko i posegnul do svojej propastnoj torby.
+
+— Na, hlapče — rěkl, izimajuči korki Antka. — Beri to. I tako nikto iny by jih ne kupil. Sut tako krivo sformovane pod tvoju stopu, že to jest až artistično.
+
+Antoni zlovil korki, kako by byli iz zlata. Pritisnul je k prsjam.
+
+— Ale my ne imamo denarov, da by je odkupiti — rěkl tiho.
+
+— Kto govori o denarah? — frknula gospoja Barbara. Podšla k Wiktorii i izimala iz džepa zlaty medaljon. Delikatno pripela go na srebrny lančok, ktory děvčinka vse ješče držala v dlaně.
+
+— My uznali jesmo, že transakcija byla nevažna iz-za proceduralnoj omyłky — rěkla.
+
+— Da, iz-za proceduralnoj omyłky — dodal gospodin Feliks. — To byl depozit. Depozit vaših srdec.
+
+I togda, po tretji raz, mosjažny zvonček zazvonil. Sej raz glasno i radostno. Kako by smějal se zajedno s njimi.
+
+— Blagodarimo! — kriknuli oboje.
+
+— Odplatite se, ako prěstanete tu stojati i vkoncu upotrěbite te dary — burknul gospodin Feliks, otirajuči tajkom slzu.
+
+Starci obratili se i krenuli v stranu svojego doma, držeči se pod ruku.
+
+— Mysliš, že pověrili v tu proceduralnu omyłku? — zapitala gospoja Barbara, kogda odšli nemnogo.
+
+— Razuměje se, že ne — zasmějal se gospodin Feliks. — Sut mladi, ale ne sut glupi. Ale znaš čto? To byl najlěpši dohod v tom godu.
+
+## Zakončenje
+
+Pod jolkoju Antoni obul korki. Oni padali idealno.
+
+Wiktoria popravila medaljon, ktory tutčas visel bezpečno na jej šiji.
+
+— Gotova? — zapital Antoni, podbrosajuči piłku.
+
+— Gotova — rěkla Wiktoria i stala v legkom raskroku, gotova do lovljenja.
+
+Antoni vzal zamah. Piłka poleťela v vozduh, prěsěkajuči mrazny vozduh. Sněžinke vijali se vokrug njih kako konfeti.
+
+Wiktoria iztegnula ruky. Piłka padla prosto v jej dlaně. Zlovila ju. I zasmějala se tako glasno, že až eho odrazilo se od ratuša.
+
+— Brosi ješče raz! — zakričala.
+
+Antoni usměhnul se. Vzal piłku. Odšel několiko korakov. Zamahnul se i kopnul.
+
+Piłka poleťela vysoko. Nad jolku. Nad lampy. Nad kryšy domov.
+
+I padla prosto v sněg, daleko, za drěvami.
+
+— Gol! — kriknul Antoni.
+
+Wiktoria plesnula. A potom poběgla za piłkoju. Antoni poběgl za njoj.
+
+Sněg skripěl pod jihnymi stopami. Světla jolki migali. A kdesi v odaljenju, v malom sklepu pod zlatym zvončekom, stary mosjažny zvonček vse ješče zvonil. Tiho. Radostno. Na slědujuči god.
+
+---
+
+## Moral
+
+**Najkrasše dary ne poměščajut se v krabicah.**  
+**One živut v srdecah tih, ktori umějut davati —**  
+**daže togda, kogda sami ne imajut ničto.**
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Kako se zove městečko?
+
+**Answers:**
+- A) Srebrno Vzgorje
+- B) Zeleny Dąb
+- C) Grad Biskupin
+- D) Grad Skierniewice
+
+**Correct:** A
+**Explanation:** Městečko Srebrno Vzgorje.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kako se zove hłopec?
+
+**Answers:**
+- A) Daniel
+- B) Antoni
+- C) Szymon
+- D) Miłosz
+
+**Correct:** B
+**Explanation:** Antoni, jedinnadcet lět.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kako se zove děvčica?
+
+**Answers:**
+- A) Ime: Viktorija
+- B) Ime: Helena
+- C) Ime: Pola
+- D) Ime: Otylia
+
+**Correct:** C
+**Explanation:** Viktorija, jedinnadcet lět.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čto Antoni ljubi najbolje?
+
+**Answers:**
+- A) Igru na skripcah
+- B) Malenje obrazov
+- C) Igru v šahmaty
+- D) Futbol
+
+**Correct:** D
+**Explanation:** Ljubi futbol.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Odkud ima korky Antoni?
+
+**Answers:**
+- A) Od trenera
+- B) Od děda
+- C) Iz sportskogo magazina
+- D) Od Viktorije
+
+**Correct:** B
+**Explanation:** Stare korky od děda.
+**Text reference:** q5
+

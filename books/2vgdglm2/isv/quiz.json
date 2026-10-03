@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě se odigrava prolog?",
+      "answers": [
+        "Polja pod",
+        "Vavel v Krakově?",
+        "Malbork nad Nogatom",
+        "Gdańsk pri portu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Polja pod Grunvaldom, 1410."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čije tělo potvŕdžaje rycar?",
+      "answers": [
+        "Zavisy Črnego",
+        "Ulricha von",
+        "Kralja Jagajla",
+        "Mszczuja ze Skrzynna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Veliky mistr ne živy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto nese rycar kako dokaz?",
+      "answers": [
+        "Voskovu pečat",
+        "Srebrny meč?",
+        "Zlaty pektoral",
+        "Herbovu šarfu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pektoral Ulricha von Jungingen."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto zglašaje se kako vinovnik?",
+      "answers": [
+        "Rycar bez imena",
+        "Kralj Jagajlo",
+        "Rycar Zavisa?",
+        "Mszczuj ze"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mszczuj ze Skrzynna, iz rodu Łabędjov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto sedi v šatru kralja?",
+      "answers": [
+        "Ulrich von Jungingen",
+        "Vladislav Jagajlo",
+        "Henrik V Anglijsky",
+        "Jan Hus Češsky"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kralj Vladislav Jagajlo."
+    }
+  ]
+}

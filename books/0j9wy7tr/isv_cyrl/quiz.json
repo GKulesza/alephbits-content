@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ким был Базилиј?",
+      "answers": [
+        "Ткачем",
+        "Дрварјем",
+        "Краљем",
+        "Вратником"
+      ],
+      "correctIndex": 0,
+      "explanation": "Базилиј был ткачем."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име носи најмладша дцера?",
+      "answers": [
+        "Корнелија",
+        "Клара",
+        "Ноеми",
+        "Хелена"
+      ],
+      "correctIndex": 1,
+      "explanation": "Клара – тиха како снег."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что згубил Базилиј по болєзни?",
+      "answers": [
+        "Глас до пєвања",
+        "Видјење все",
+        "Чутје в прстах",
+        "Памјат имен"
+      ],
+      "correctIndex": 2,
+      "explanation": "Не могал ткачити – без чутја."
+    },
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Клара при чудном случају?",
+      "answers": [
+        "Петнадцат лєт",
+        "Пет лєт",
+        "Дванадцат лєт",
+        "Осм лєт"
+      ],
+      "correctIndex": 3,
+      "explanation": "Клара имала осм лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто просит Базилија о кумов?",
+      "answers": [
+        "Саломеја бабка",
+        "Халина жена",
+        "Јадвига вєдма",
+        "Дагмара пестуња"
+      ],
+      "correctIndex": 1,
+      "explanation": "Халина вели ићи до црквы."
+    }
+  ]
+}

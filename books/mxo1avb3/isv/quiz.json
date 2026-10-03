@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto junak drži v rukah?",
+      "answers": [
+        "Novy džojstik za konsolu PS5",
+        "Stary džojstik od PlayStation",
+        "Mehaničnu klaviaturu s RGB",
+        "Stary telefon s klapkoju?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontroler od PS2."
+    },
+    {
+      "type": "single_choice",
+      "question": "V ktoru igru on ješče igra?",
+      "answers": [
+        "FIFA v najnovějšej sezonnoj ediciji",
+        "Underground 2 na starom džojstiku",
+        "Novy Call of Duty v sěti",
+        "Tetris v sětovoj onlajn verziji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Underground 2."
+    },
+    {
+      "type": "single_choice",
+      "question": "Za čto on ne kupuje novu tehniku?",
+      "answers": [
+        "Za to že magazin jest juže zatvoreny",
+        "Za to že v domu ne imaje interneta",
+        "Za to že mu zabranjaje nova dogovor",
+        "Za to že stara igra ješče děla"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dokolě děla — ne trěba novogo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky spor pokazuje tekst?",
+      "answers": [
+        "Spor o susědnu zemju",
+        "Nostalgija protiv běgu novostij",
+        "Vojna o državnu granicu zemje",
+        "Konflikt v školskoj klasě dětij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nostalgija protiv novostij."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka jest moralka pověsti?",
+      "answers": [
+        "Kupovati bez konečnogo konca",
+        "Cěniti to, čto ješče děla",
+        "Vyrěšiti vse stare igry",
+        "Slediti jedino nove trendy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cěniti to, čto děla."
+    }
+  ]
+}

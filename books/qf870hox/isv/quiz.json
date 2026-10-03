@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Otylia?",
+      "answers": [
+        "Jedinnadcet",
+        "Sedm lět",
+        "Pęt lět?",
+        "Pętnadcet lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia imala jedinnadcet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto ne padaje od trěh měsęcev?",
+      "answers": [
+        "Padaje deždž",
+        "Padaje sněg",
+        "Padaje grad",
+        "Padaje mgla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne spadla kaplja deždža."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto vędne za domom?",
+      "answers": [
+        "Roža na plotu",
+        "Stary dąb",
+        "Stara jablonja",
+        "Brěza nad rěkoju"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stara jablonja z dědkom."
+    },
+    {
+      "type": "single_choice",
+      "question": "S kym sadila jablonju?",
+      "answers": [
+        "S učiteljkoju",
+        "S mamoju",
+        "S bratom",
+        "S dědkom"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sadila s dědkom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto vidit Otylia nad rěkoju?",
+      "answers": [
+        "Jedin zamok",
+        "Tri domky",
+        "Pęt mostov",
+        "Stado ovcev"
+      ],
+      "correctIndex": 1,
+      "explanation": "Titul: Tri domky."
+    }
+  ]
+}

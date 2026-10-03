@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како се зове планета?",
+      "answers": [
+        "Хармониа",
+        "Мелодиа",
+        "Синфониа",
+        "Галаксија"
+      ],
+      "correctIndex": 0,
+      "explanation": "Планета Хармониа."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове симфониа свєта?",
+      "answers": [
+        "Велика Синфониа",
+        "Мала Пєсн планеты",
+        "Тиха Нота планеты",
+        "Стары Хор планеты"
+      ],
+      "correctIndex": 1,
+      "explanation": "Называли то Великоју Синфонијоју."
+    },
+    {
+      "type": "single_choice",
+      "question": "Колико очиј има Мирон?",
+      "answers": [
+        "Четыри очи",
+        "Два очи",
+        "Три очи",
+        "Једно око"
+      ],
+      "correctIndex": 2,
+      "explanation": "Мирон имал три очи."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кторо око видит чувства?",
+      "answers": [
+        "Чрно око",
+        "Модро око",
+        "Зелено око",
+        "Золто око"
+      ],
+      "correctIndex": 3,
+      "explanation": "Третје, золто око."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что чињајут мушелкы на плажах?",
+      "answers": [
+        "Спијут без звука",
+        "Звонет како",
+        "Пукајут од слнца",
+        "Тонут в пєску"
+      ],
+      "correctIndex": 1,
+      "explanation": "Мушелкы звонет како звончики."
+    }
+  ]
+}

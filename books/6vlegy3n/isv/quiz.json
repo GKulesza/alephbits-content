@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime nosi junakinja?",
+      "answers": [
+        "Otylia",
+        "Helena",
+        "Liliana",
+        "Kornelia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia s temnymi kudrami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto kupujut na promenadě?",
+      "answers": [
+        "Lody v rogu",
+        "Pudečka-nadiv",
+        "Balony s helijem",
+        "Karty nad morem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Puhaste klusečki v pudečkah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko pudeček kupuje tata?",
+      "answers": [
+        "Pet pudeček",
+        "Jedno pudečko",
+        "Dva pudečka",
+        "Nijedno"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tata kupil jej dva."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky cvět ima prva klusečka?",
+      "answers": [
+        "Črny",
+        "Modry",
+        "Zeleny",
+        "Rožovy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mekka, rožova klusečka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gde jest rodina na vakacijah?",
+      "answers": [
+        "V gorah",
+        "Nad morem",
+        "Na pustyni",
+        "V stolici"
+      ],
+      "correctIndex": 1,
+      "explanation": "Roditelji vzeli ju nad more."
+    }
+  ]
+}

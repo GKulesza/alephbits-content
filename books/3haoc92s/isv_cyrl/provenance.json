@@ -1,0 +1,27 @@
+{
+  "packId": "3haoc92s:isv_cyrl",
+  "bookId": "3haoc92s",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Теxт фром исв-ллм-лаб/Здраво/Опоwиаданиа/интерславиц; qуиззес транслатед то Меџусловјанскы."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Polish canon + ISV translation"
+    }
+  ],
+  "revisionNotes": "Цоллецтион 12–15 ИСВ импорт фром исв-ллм-лаб Опоwиаданиа/интерславиц.",
+  "translationStatus": "мацхине",
+  "translationSource": "3хаоц92с:пл",
+  "translationSourceVersion": "1.0.0"
+}

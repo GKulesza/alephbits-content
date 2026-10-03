@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Кто јест Блажеј?",
+      "answers": [
+        "Јежик",
+        "Принц",
+        "Хлапц",
+        "Змај"
+      ],
+      "correctIndex": 0,
+      "explanation": "Јежик в норє под дубом."
+    },
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Блажеј?",
+      "answers": [
+        "Десет лєт",
+        "Осем лєт",
+        "Пет лєт",
+        "Дванадцат лєт"
+      ],
+      "correctIndex": 1,
+      "explanation": "Блажеј имал осем лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име има мама?",
+      "answers": [
+        "Халина",
+        "Иwона",
+        "Ванда",
+        "Катарзына"
+      ],
+      "correctIndex": 2,
+      "explanation": "Мама Ванда."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что пахне јутром в дому?",
+      "answers": [
+        "Кава с млєком",
+        "Рыба в сосу?",
+        "Пица из печи",
+        "Налеśники з"
+      ],
+      "correctIndex": 3,
+      "explanation": "Налеśники з јагодами."
+    },
+    {
+      "type": "single_choice",
+      "question": "Чего најбоље се боји?",
+      "answers": [
+        "Темности",
+        "Школы",
+        "Воды",
+        "Псов"
+      ],
+      "correctIndex": 1,
+      "explanation": "Најбоље се бојал школы."
+    }
+  ]
+}

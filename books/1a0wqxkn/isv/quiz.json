@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima glavna junakinja?",
+      "answers": [
+        "Lindsey Shiver",
+        "Shannan Gilbert",
+        "Magda Bosek",
+        "Nina Czyżewska"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lindsey Shiver."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktore dva slova posyla na WhatsApp?",
+      "answers": [
+        "Help me / Ratuj mne",
+        "Kill him / Ubij go",
+        "Call police / Zvoniti",
+        "Leave now / Utekaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kill him. Ubij go."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gde často byva Lindsey?",
+      "answers": [
+        "Hata v Bieszčadah",
+        "Stan v Tokio",
+        "Dom vakacijny na",
+        "Jahta na Baltiku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vakacijny dom na Bahamah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do ktorogo arešta trafja?",
+      "answers": [
+        "Montel v Parizu",
+        "Rikers v Novom Jorku",
+        "Brixton v Londonu",
+        "Fox Hill na Bahamah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arest Fox Hill."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako začina se policijny prolog?",
+      "answers": [
+        "Varšava, julij 2026",
+        "Thomasville, Georgia",
+        "Dothan, Alabama 1986",
+        "Poznań, vtorek 2011"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thomasville, Georgia, julij 2023."
+    }
+  ]
+}

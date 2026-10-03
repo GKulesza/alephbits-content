@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "U kogo jest kabinet v prologu?",
+      "answers": [
+        "Klaudii Bosek",
+        "Magdy iz Krakova",
+        "Niny Czyżewskoj",
+        "Kasi u vrača"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kabinet Klaudii Bosek v Poznanju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Marek v prologu?",
+      "answers": [
+        "Trideset pet lět",
+        "Četyrideset dva",
+        "Petdeset lět?",
+        "Dvadeset osem lět"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iměl četyrideset dva lěta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Marek poznal na studijah?",
+      "answers": [
+        "Ninu menadžerku",
+        "Klaudiju terapevtku",
+        "Magdu pravničku",
+        "Ula vokalistku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Poznal Magdu na pravnih studijah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co leži v suknji od měsęcev?",
+      "answers": [
+        "Listy od dětij",
+        "Stare svadobne fotografije",
+        "Ključe do firmy",
+        "Razvodne dokumenty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tri razvodne dokumenty."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek pyta na počętku sesije?",
+      "answers": [
+        "Či imam byti hujem",
+        "Či imam oditi odtu",
+        "Či imam prosti jej",
+        "Či imam molčati tu"
+      ],
+      "correctIndex": 1,
+      "explanation": "To čo, ja imam byti hujem?"
+    }
+  ]
+}

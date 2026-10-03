@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě rabotaje družina Taito?",
+      "answers": [
+        "Tokio, vesna 1986",
+        "Osaka, lěto 1990",
+        "Kioto, jesen 1978",
+        "Hirošima, zima 1984"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tokio, vesna 1986 goda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Hiroši Cudžino?",
+      "answers": [
+        "Prezident Nintendo",
+        "Vizualny umělec",
+        "Sportovy žurnalist",
+        "Inženjer mostov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vizualny umělec iz SF."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoru igru raněje Taito klonuje?",
+      "answers": [
+        "Igra Field Goal",
+        "Igra Pac-Man",
+        "Igra Mario Bros",
+        "Igra Pong"
+      ],
+      "correctIndex": 2,
+      "explanation": "Field Goal – klon Breakouta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove finalna igra?",
+      "answers": [
+        "Pixel Shield",
+        "Dominate Hour",
+        "Space Knight",
+        "Arkanoid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Narodil se Arkanoid."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto spojuje ideje Fudžity i Cudžino?",
+      "answers": [
+        "Kosmos i mehanika",
+        "Sport i muzyka",
+        "Film i teatr",
+        "Knygy i komiks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosmos Fudžity i mehanika igry."
+    }
+  ]
+}

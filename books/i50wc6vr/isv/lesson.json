@@ -1,0 +1,124 @@
+{
+  "id": "i50wc6vr:isv",
+  "bookId": "i50wc6vr",
+  "locale": "isv",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_ksiega_przypadku",
+  "legacySlug": "ksiega-przypadku",
+  "title": "Kniga slučaja",
+  "language": "isv",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-10-03",
+  "description": "Krakov, muzeum, diktovod. O dokazah, pytanjah i momentu, kogda ostaje samo vrženje monety.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "matematyka",
+    "przypadek",
+    "prawda",
+    "Collection Thirteen"
+  ],
+  "difficulty": 5,
+  "estimatedReadingTime": 8,
+  "translation": "Medžuslovjanska literatura preklad polskoj redakcii \"Księga przypadku\" — oficialnoje izdanje Collection Thirteen.",
+  "text": "**KNIGA SLUČAJA**\n\n## PROLOG\n\nMuzej Inženerije i Tehniky, Krakov, 18 julija 2026 goda\n\nČasina 16:47. Sěděl jesm v tretjem rědu, s dyktafonom v dlani i zapisnikom na kolěnah, i čul jesm, že zaraz něčto v mně pukne.\n\nByl jesm naučnym žurnalistom uže pet lět. Pisal jesm o črnyh durah, o genovoj ediciji, o iskustvenoj inteligenciji – o vsem, čto imělo hot sěnj senzacije. Myslil jesm, že razumějem nauku. Myslil jesm, že znam, čto jest uvěrenost.\n\nA potom prišel na scenu gospodin profesor Tomasz Łuczak i načel govoriti o pravděpodobnosti.\n\nNe o tom, kako izračunati šansu vyhodženja šestky. Ne o tom, kako staviti na meče. On govoril o něčem značno glubšem – o tom, že sam akt računanja pravděpodobnosti jest aktom věry. Že matematiki črěz stolětja ne věděli, čto voobče jest pravděpodobnost. Že doprva v lětah tridesetyh XX stolětja Kolmogorov dal aksiomy teorije pravděpodobnosti – i od togo času ona načela jestvovati kako \"seriozna\" matematika.\n\nA potom rěkl něčto, čto izměnilo vse.\n\n\"Prědpoložimo, že jedinka na kostkě vyhodi s pravděpodobnostju 1 kroz 2π. Čto to voobče znači? I na to pytanje matematiki ne uměli črěz dolgo vrěme odgovoriti. Ostatno to ne možno prověriti eksperimentalno.\"\n\nZatvoril jesm zapisnik. Věděl jesm, že to bude dolga noč.\n\n## Razděl I: Aksiomy\n\nLekcija, časina 17:02\n\nGospodin profesor načel od historije.\n\nPrěd drugoj svetovoju vojnoju račun pravděpodobnosti ne vhazal v sostav osnovnogo obrazovanja matematika – govoril. – Byl koristany črěz stolětja – strahovne tovariščstva v Veneciji v srědnjem vrěmenu, igry na šans, ktorymi zanimal se Pascal – ale ne priznavali jego kako čest serioznoj matematiky.\n\nSlušal jesm i myslil jesm o svojem životě. O tom, kako jesm črěz lěta izběgal neuvěrenosti. Kako jesm planoval vsaky denj, vsako dviženje, vsaku decyziju. Kako jesm se bojal rizika.\n\nA dljačego? – prodolžal profesor. – Otož zato, že matematiki ne uměli odgovoriti na pytanje: čto voobče jest pravděpodobnost?\n\nI togda zdelal něčto, čto zapamětam do konca života. Sravnil pravděpodobnost s geometrijeju Evklida.\n\nEvklid dal aksiomy geometrije, ale ne govoril, kako tute aksiomy odnoset se k realnosti – rěkl. – Na otrězku jest bezkonečno mnogo točok, ale ni na ktorom realnom otrězku ne jest bezkonečno mnogo točok. On ne zanimal se tym, kako se teorija geometrije odnosi k realnosti. On prosto dal aksiomy.\n\nI Kolmogorov zdelal to samo s pravděpodobnostju v lětah tridesetyh.\n\nOd togo času teorija pravděpodobnosti načela jestvovati v serioznoj matematikě – rěkl. – Poslědne četyri medali Fieldsa, najmene jedin, byli iz oblasti, svezanoj s računanjem pravděpodobnosti.\n\nSlušal jesm i čul jesm, že něčto v mně načinaje se izměnjati. Že to, čto vsegda smatral jesm za slabost – neuvěrenost, slučajnost, slučaj – naglo staje se siloju.\n\n## Razděl II: Bezkonečnost\n\nLekcija, časina 17:24\n\nPotom gospodin profesor načel govoriti o bezkonečnosti.\n\nKantor v XIX stolětju vvel pojetje bezkonečnyh množin – rěkl. – Pokazal, že jestvuje množina, ktora jest bolša od množiny prirodnyh čisel. To jest množina realnyh čisel.\n\nNěkto v sali vzdihnul. Ja takože.\n\nIny matematik, Kronecker, nazval Kantora obmanščikom i depravatorom mladeži – dodal profesor s usměhom. – A to zato, že to prěčilo objavjenoj pravde Aristotelja: že čest jest vsegda menša od cělosti.\n\nZdelal jesm zapis: \"Parnyh čisel jest točno toliko, kako i vsih čisel\".\n\nAle Kantor pošel dalje – prodolžal profesor. – Pokazal, že ne jestvuje samo jedna bezkonečnost. Sut najmene dve – i věrojatno bezkonečno mnogo.\n\nI togda rěkl něčto, čto zdelalo, že prěstal jesm pisati.\n\nNěkaky Cohen dokazal, že hipoteza kontinuuma – pytanje, či jestvuje bezkonečna množina, bolša od prirodnyh čisel, ale menša od realnyh čisel – jest nezavisna od aksiomov teorije množin.\n\nČto to znači? – vprašal někto iz sali.\n\nTo znači, že možemo dělati matematiku prijmajuči, že takova množina jestvuje, i možemo dělati matematiku prijmajuči, že takej množiny ne jestvuje. I obe tute matematiky sut jednako pravilne.\n\nZadržal jesm dyhanje.\n\nI čto? – vprašal jesm, ne soznavajuči, že govorim glasno.\n\nProfesor pogleděl v moju stranu.\n\nGödel, ktory věděl, že sut tvrdenja, ktore ne možno dokazati, byl uvěren, že to pytanje imaje rěšenje. Byl platonikom. Věril, že matematične objekty jestvujut někde. Že v platonskom světě ne mogut jednovremenno jestvovati i ne jestvovati.\n\nA vy? – vprašal jesm.\n\nUsměhnul se.\n\nJa? Jesm matematikom. Dlja mene krasota sostoji v tom, že ne znamo. Že vsegda ostaje něčto do otkrytja.\n\n## Razděl III: Slučajnost\n\nLekcija, časina 17:48\n\nMožno li dokazati něčto, metajuči monetu? – vprašal profesor. – Okazuje se, že možno.\n\nRazpověl o probabilističnoj metodě, ktoru vymyslil Paul Erdős.\n\nPrědpoložimo, že imate 1000 množin, vsaka po 12 elementov. Trěba pokazati, že možno pokrasiti vse elementy dvoma kolorami tako, da by ni jedna množina ne byla jednokolorova.\n\nZdelal jesm pauzu. To zvučalo kako zagadka.\n\nNe izvěstno, kako pristupiti k tomu – rěkl profesor. – Ale Erdős rěkl: pokrasimo tute elementy, metajuči monetu. Pravděpodobnost, že jedna množina stane se jednokolorova, iznosi 1/1024. Jest 1000 množin, zato srědnje bude menje než jedna jednokolorova množina. A ako srědnja jest menša od jednogo, to znači, že jestvuje tako pokrasjenje, kde ni jedna množina ne jest jednokolorova.\n\nMimo togo, že ne znamo, kako to pokrasjenje izgledaje – dodal – imamo uvěrenost, že jestvuje.\n\nSěděl jesm i myslil jesm o svojem životě. O vsih decyzijah, ktore prijimal jesm, probujuči byti uvěrenym. O vsih momentah, v ktoryh bojal jesm se rizika. A tu naglo okazalo se, že sama neuvěrenost – metanje monety – može byti orudjem do otkryvanja pravdy.\n\nTo se nazyva neefektivna metoda – rěkl profesor. – Ale někogda to jest jedina metoda, ktoru imamo.\n\n## Razděl IV: Dokaz\n\nLekcija, časina 18:12\n\nPotom profesor načel govoriti o něčem, čto zvučalo kako magija.\n\nJest něčto tako kako zero-knowledge proof – rěkl. – Hočemo někomu dokazati, že umějemo něčto sdělati, ale ne hočemo jemu pokazati kako.\n\nRazpověl o tom, kako možno dokazati, že se uměje razložiti složeno čislo na proste činitelje, ne izdavajuči algoritma.\n\nI možno to sdělati, metajuči monetu – dodal. – Po mnogyh probah drugy strana bude uvěrena s velikoju pravděpodobnostju, že to pravda.\n\nViděl jesm prěd soboju obrazy: šifry, banki, tajne dogovory. Vse to osnovano na slučajnosti. Na tom, čto ne znamo.\n\nA potom jest PCP – probabilistic checkable proofs – prodolžal profesor. – Někto zapisuje dokaz v specialnoj formě, a my prověrjamo toliko 10 ili 20 měst. S pravděpodobnostju blizkoju k uvěrenosti znamo, že dokaz jest pravilny.\n\nTo zvuči neverojatno – rěkl jesm.\n\nTo zvuči kako magija – odgovoril profesor. – Ale to matematika.\n\n## Razděl V: Orakul\n\nPytanja iz sali, časina 18:34\n\nPrišla čest pytanj. Někto vprašal o svobodnoj volji. Někto o aksiomě vybora. Někto o tom, či matematika jest otkrivana ili vymysljana.\n\nA potom voditelj dal pytanje, ktoro vsi my hotěli slyšati:\n\nAko by vam se javil matematičny orakul i mogli byste zaledati jedno pytanje – o čto byste vprašali?\n\nProfesor zamyslil se na moment. Potom odgovoril:\n\nHotěl bym viděti problemy, ktore imajut rěšenja neobyknoveno krasna i voshititeljna. Take, ktore mogli by mene zaskočiti.\n\nKako Erdős i jego Kniga – dodal voditelj.\n\nProfesor kivnul glavoju.\n\nDa. Dokazy iz Knigy. Sut take tvrdenja, ktore možno dokazati – ale jih dokazy sut cělkom neverojatne. I to jest krasota matematiky.\n\nSěděl jesm v tišini. Dyktafon vse ješče snimal, ale uže ne slušal jesm. Myslil jesm o svojem životě – o vsih momentah, v ktoryh bojal jesm se neuvěrenosti. O vsih decyzijah, ktore otkladal jesm, čekajuči na uvěrenost. O vsih metanjah monety, ktoryh izběgal jesm.\n\nA tutčas, po toj lekciji, věděl jesm jedno:\n\nNeuvěrenost ne jest vragom. Jest orudjem. Jest putem do pravdy. Jest to, čto dělaje matematiku i život krasnymi.\n\nEpilog\n\nMuzej Inžinjerstva i Tehniky, Krakov, časina 19:00\n\nLekcija se končila. Pan profesor sobral svoje zapisky, a publika se načela razhoditi.\n\nPristupil jesm k njemu.\n\n- Pane profesorje – rěkl jesm. – Hvala. To bylo... něčto.\n\nUsměhnul se.\n\nNěčto?\n\nNe znam, kako to nazvati. Objavjenje? Izměna perspektivy? Črěz cěly život bojal jesm se slučajnosti. A vy pokazali mi, že slučajnost ne jest slabost. Jest sila.\n\n- To ne ja – odgovoril on. – To matematika.\n\nA ako li nema odgovora? Ako li pytanje o hipotezu kontinuuma ostane otvoreno?\n\n- To takože jest odgovor – rěkl on. – Že sut pytanja, na ktore ne znamo odgovorov. I že to jest v porjadku.\n\nIzšel jesm iz muzeja. Vně byl večer, teply, lipcovy. Izvadil jesm iz karmanja monetu. Dvuzlotovku. Brosil jesm ju v goru.\n\nOrel.\n\nUsměhnul jesm se.\n\nNe věděl jesm, čto prinese budučnost. Ne věděl jesm, či moje decyzije budut dobre. Ale věděl jesm jedno – že mogu brosati monetoju. Že mogu dověriti slučaju. Že neuvěrenost ne jest koncem světa.\n\nJest početkom.\n\nPoslěslovje\n\nLekcija profesora Tomasza Łuczaka o pravděpodobnosti byla nečim večej, neželi lekcija matematiky. Byla lekcijeju o životě.\n\nPokazal, že to, čto sčitajemo za slabost – neuvěrenost, slučajnost, slučaj – može byti naša največša sila. Že probabilistične metody dozvaljajut nam rěšiti problemy, ktoryh inače ne mogli bysmo se dotknuti. Že dokazy s nulovym znanjem dozvaljajut nam dokazati pravdu, ne izdavajuči sekretov. Že daže ako ne znamo odgovorov na vse pytanja – kako hipoteza kontinuuma – to sam fakt, že pytanje jestvuje, jest krasny.\n\nI že inogda najbolje, čto možemo sdělati, jest brositi monetoju.",
+  "quiz": {
+    "title": "Prověri razuměnje",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Gde i kogda jest glavna scena?",
+        "answers": [
+          "Muzeum v Krakově, 2026",
+          "UW v Varšavě, maj 2025",
+          "Politehnika Gdansk, 2024",
+          "Biblioteka Vroclav, 2023"
+        ],
+        "correctIndex": 0,
+        "explanation": "Muzeum v Krakově, 2026."
+      },
+      {
+        "type": "single_choice",
+        "question": "O čem govori predavanje?",
+        "answers": [
+          "O kuhanju lokalnyh supov",
+          "O dokazu i slučaju",
+          "O olimpijskom sportu zemje",
+          "O remontah staryh domov"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pravda, dokaz, slučaj."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čto ostaje, kogda uvěrjenost izčezaje?",
+        "answers": [
+          "Zakrytje vsej knigy?",
+          "Gonka s běžečim časom",
+          "Vshod na vysokyj vrch",
+          "Samotno vrženje"
+        ],
+        "correctIndex": 3,
+        "explanation": "Vrženje monety."
+      },
+      {
+        "type": "single_choice",
+        "question": "Ktore slova se vracajut v tekstu?",
+        "answers": [
+          "Samo množenje suhih čisel",
+          "Historija samej futbolnoj igry",
+          "Pravda, dokaz i sudba",
+          "Recepty regionalnoj kuhnje"
+        ],
+        "correctIndex": 2,
+        "explanation": "Pravda, dokaz, slučaj."
+      },
+      {
+        "type": "single_choice",
+        "question": "Čego dotyče se pověst?",
+        "answers": [
+          "Gradskogo turizma Krakova",
+          "Modnyh odež sezona",
+          "Matematiky i neuvěrjenosti",
+          "Regionalnoj kuhnje Poljsky"
+        ],
+        "correctIndex": 2,
+        "explanation": "Matematika i neuvěrjenost."
+      }
+    ]
+  },
+  "translationStatus": "machine",
+  "translationSource": "i50wc6vr:pl",
+  "translationSourceVersion": "1.0.0",
+  "coverFamily": "popular_science",
+  "audience": "adult",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-10-03",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-10-03"
+  ],
+  "world": {
+    "objects": [
+      "story"
+    ],
+    "places": [
+      "story"
+    ]
+  }
+}

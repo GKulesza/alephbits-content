@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě sědí povestvovatelj?",
+      "answers": [
+        "Na Mokotově v Varšavě",
+        "Na Prage Sever v Varšavě",
+        "V samom centru Lodži",
+        "Na Starom Městě v Krakově"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mokotov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čijego glasa slušaje?",
+      "answers": [
+        "Stanovskogo o sportu dnja i noči",
+        "Vinnickogo o krizi pravicy",
+        "Jackovskogo o nočnyh snah ljudij",
+        "Kasi o investicijnom zoltu v banku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vinnicki o krizi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako povestvovatelj vidi hegemoniju?",
+      "answers": [
+        "Kako vsegda škodlivu silu",
+        "Kako možnu zdravu rivalizaciju",
+        "Kako temu samo za historikov",
+        "Kako šutku iz internetnyh forumov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Može byti zdrava konkurencija."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini povestvovatelj pred haosom?",
+      "answers": [
+        "Vyježdžaje ihnat iz strany",
+        "Zaklada svoju novu partiju",
+        "Gledi vnimateljno i observuje",
+        "Vyključaje ves internet v domu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gledi i observuje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koje slovo jest naslovom?",
+      "answers": [
+        "Simetrija dnja",
+        "Hegemonija",
+        "Skorupa sna",
+        "Bryla zlata"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hegemonija."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě i kogda se odvija dějanje?",
+      "answers": [
+        "Krakov v jeseni 1410",
+        "Gdańsk v zimě 1308?",
+        "Sandomir v vesně",
+        "Lublin v lětě 1569"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sandomir, vesna 1288."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest junak na zidah?",
+      "answers": [
+        "Mnih i pisař monastyra",
+        "Prostyj městskyj",
+        "Rycarj zakona križakov",
+        "Kupc žita s rynka?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prostyj kamenarj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko lět života spominaje junak?",
+      "answers": [
+        "Deset lět těžkoj raboty v městě",
+        "Četyrideset lět svojego života",
+        "Sto lět městskoj legendy o zidu",
+        "Pět lět ljutoj vojny na krajah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Četyrideset lět života."
+    },
+    {
+      "type": "single_choice",
+      "question": "Po čemu kamenj „ne drži“?",
+      "answers": [
+        "Bo jest iz rědkyh metalov",
+        "Bo jego právě namalovali",
+        "Bo jest pustyj vnutri",
+        "Bo pamęta i tvrdo stoji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kamenj pamęta i ne drži."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se pověst najbolje?",
+      "answers": [
+        "Novyh tehnologij města",
+        "Smělosti i pamęti kamena",
+        "Bankov i kreditov",
+        "Modnyh lětnih prazdnikov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smělost i pamęt kamena."
+    }
+  ]
+}

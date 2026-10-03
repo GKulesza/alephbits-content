@@ -1,0 +1,67 @@
+{
+  "title": "Ⱂⱃⱁⰲⱑⱃⰹ ⱃⰰⰸⱆⰿⱑⱘⰵ",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰰⰽⱁ ⱀⰰⰸⱐⰲⰰⰺⱆⱅ ⱄⰵ ⱄⰽⰰⱃⱂⰵⱅⰽⱐ?",
+      "answers": [
+        "Ⰾⱑⰲⰰ ⰹ ⱂⱃⰰⰲⰰ",
+        "Ⰳⱁⱃⱀⰰ ⰹ ⰴⱁⰾⱀⰰ",
+        "Ⰿⰰⰾⰰ ⰹ ⰲⰵⰾⰹⰽⰰ",
+        "Ⰿⱁⰴⱃⰰ ⰹ ⱍⱃⰲⰵⱀⰰ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ⰾⱑⰲⰰ ⰹ ⱂⱃⰰⰲⰰ ⰲ ⰸⰲⱑⰸⰴⰽⰰⱈ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⱅⱁ ⱀⱁⱄⰹ ⱄⰽⰰⱃⱂⰵⱅⰽⱐ?",
+      "answers": [
+        "Ⱅⱐⰿⰵⰽ",
+        "Ⰰⱀⱅⰵⰽ",
+        "Ⰱⰰⱃⱅⰵⰽ",
+        "Ⰿⰹłⱁⱄⰸ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ⰰⱀⱅⰵⰽ ⱀⱁⱄⰹ ⰺⰵ ⱀⰰ ⱄⰿⱑⱀⱆ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⱍⱅⱁ ⰹⰸⱍⰵⰸⰰⰺⰵ ⰲ ⱂⱃⰰⱍⱌⰵ?",
+      "answers": [
+        "Ⱁⰱⱑ ⱀⰰⱃⰰⰸ",
+        "Ⰾⱑⰲⰰ ⱄⰽⰰⱃⱂⰵⱅⰽⰰ",
+        "Ⱂⱃⰰⰲⰰ ⱄⰽⰰⱃⱂⰵⱅⰽⰰ",
+        "Ⱌⱑⰾⱐ ⰽⱁⱎ ⰸⰰ ⱂⱃⰰⱘⰵ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ⱂⱃⰰⰲⰰ ⰹⰸⱍⰵⰸⰾⰰ ⱂⱁ ⱂⱃⰰⱘⱆ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰰⰽⱐ ⱂⱃⰹⱂⱑⰲ ⰺⰵ ⰲⰵⰴⰵⱅ?",
+      "answers": [
+        "Ⰽⱅⱁ ⰺⰵ, ⱅⰵⱀ ⱃⰰⱄⱅⰵ",
+        "Ⰽⱅⱁ ⱄⱂⰹ, ⱅⰵⱀ ⱄⱀⰹ",
+        "Ⰽⱅⱁ ⰱⱑⰶⰹ, ⱅⰵⱀ ⱂⰰⰴⰰⰺⰵ",
+        "Ⰽⱅⱁ ⰹⱄⰽⰰⰺⰵ, ⱅⰵⱀ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ⰽⱅⱁ ⰹⱄⰽⰰⰺⰵ, ⱅⰵⱀ ⱀⰰⰺⰴⰵ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰴⰵ ⰹⰴⰵ ⰾⱑⰲⰰ ⱄⰽⰰⱃⱂⰵⱅⰽⰰ?",
+      "answers": [
+        "Ⰴⱁ ⱎⰽⱁⰾⱄⰽⱁⰺ ⱎⰰⱇⱐ",
+        "Ⱅⱆⱀⰵⰾ ⰸⰰ ⱂⱃⰰⱍⰽⱁⰺⱆ",
+        "Ⱀⰰ ⱂⱁⰴⰽⱃⱁⰲⰺⰵ ⰴⱁⰿⰰ",
+        "Ⱂⱁⰴ ⱂⱁⰴⰾⱁⰳⱆ ⰽⱆⱈⱘⰵ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ⱅⱆⱀⰵⰾ ⰿⰵⱛⱆ ⱂⱃⰰⱍⰽⱁⰺⱆ ⰹ ⱄⱅⱑⱀⱁⰺⱆ."
+    }
+  ]
+}

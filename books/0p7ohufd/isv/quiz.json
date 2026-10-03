@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest pan Kazimierz?",
+      "answers": [
+        "Zvonarj v školi",
+        "Direktor školy?",
+        "Učitelj muzyki",
+        "Kuhar stolovoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zvonarj v Školi č. 7."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime mopa?",
+      "answers": [
+        "Mop imenom Florek",
+        "Mop imenom Bazyl",
+        "Mop imenom Oskar",
+        "Mop imenom Gips"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mop imenom Florek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako zove se živy učenik?",
+      "answers": [
+        "Miłosz iz klase",
+        "Antek iz dvora",
+        "Tymek Wichura",
+        "Knjaz Gniewko"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tymek Wichura."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto mrmlje pan Kazimierz?",
+      "answers": [
+        "Skořeje, skořeje",
+        "Praca, praca, praca",
+        "Tiho, tiho, tiho",
+        "Porjadok, ne na"
+      ],
+      "correctIndex": 3,
+      "explanation": "Porjadok, ale ne na pokaz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto děje se bez Wichury?",
+      "answers": [
+        "Škola gori",
+        "Koridory sut tihe",
+        "Mop izčezaje iz šafy",
+        "Nikto ne prihodi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koridory tihe kako nikogda."
+    }
+  ]
+}

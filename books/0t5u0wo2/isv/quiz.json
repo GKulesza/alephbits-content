@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako počka se opovidanje Evy?",
+      "answers": [
+        "Listom iz banka",
+        "Telefonom z neznanogo",
+        "Putovanjem pojezdom",
+        "Snom?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zazvonil telefon — neznany nomer."
+    },
+    {
+      "type": "single_choice",
+      "question": "O kakoj zločinu / istoriji govori Eva?",
+      "answers": [
+        "Samo o Varšavskom vosstanju",
+        "O Volyni",
+        "O bitvě pod Grunvaldom",
+        "O solidarnosti 1980"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mysli o Volyni i žertvah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini Eva na koncu, vključajuči kameru?",
+      "answers": [
+        "Molči?",
+        "Počina govoriti / nagryvati",
+        "Pojet",
+        "Vyključa internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vključa kameru i počina govoriti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Otkud pochodit mejl, o ktorom mysli Eva?",
+      "answers": [
+        "Od susěda",
+        "Od otca žertvy / dčeri",
+        "Od banka?",
+        "Od školy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mysli o otcu, ktorogo dči napisala do njej mejl."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky smysl pamjati podčrknjuje Eva?",
+      "answers": [
+        "Pamjat jest nepotrěbna",
+        "Ako narod pamjatuje žertvy, ih stradanja ne byli",
+        "Pamjat služi samo partijskoj politiki",
+        "Lěpje vse zabyti?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pamjat o žertvah dava smysl ih stradanju."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како име носи јунакиња?",
+      "answers": [
+        "Отылиа",
+        "Хелена",
+        "Лилиана",
+        "Корнелиа"
+      ],
+      "correctIndex": 0,
+      "explanation": "Отылиа с темными кудрами."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что купујут на променадє?",
+      "answers": [
+        "Лоды в рогу",
+        "Пудечка-надив",
+        "Балоны с хелијем",
+        "Карты над морем"
+      ],
+      "correctIndex": 1,
+      "explanation": "Пухасте клусечки в пудечках."
+    },
+    {
+      "type": "single_choice",
+      "question": "Колико пудечек купује тата?",
+      "answers": [
+        "Пет пудечек",
+        "Једно пудечко",
+        "Два пудечка",
+        "Ниједно"
+      ],
+      "correctIndex": 2,
+      "explanation": "Тата купил јеј два."
+    },
+    {
+      "type": "single_choice",
+      "question": "Какы цвєт има прва клусечка?",
+      "answers": [
+        "Чрны",
+        "Модры",
+        "Зелены",
+        "Рожовы"
+      ],
+      "correctIndex": 3,
+      "explanation": "Мекка, рожова клусечка."
+    },
+    {
+      "type": "single_choice",
+      "question": "Где јест родина на вакацијах?",
+      "answers": [
+        "В горах",
+        "Над морем",
+        "На пустыни",
+        "В столици"
+      ],
+      "correctIndex": 1,
+      "explanation": "Родитељи взели ју над море."
+    }
+  ]
+}

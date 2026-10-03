@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Кто јест Базилиј в тој бајце?",
+      "answers": [
+        "Дрвар",
+        "Ткач",
+        "Књаз",
+        "Вратник"
+      ],
+      "correctIndex": 0,
+      "explanation": "Базилиј был дрвар."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове вєдма?",
+      "answers": [
+        "Дагмара",
+        "Јадвига",
+        "Саломеја",
+        "Гражына"
+      ],
+      "correctIndex": 1,
+      "explanation": "Жена Јадвига при лєсу."
+    },
+    {
+      "type": "single_choice",
+      "question": "Каку цєну поставља Јадвига?",
+      "answers": [
+        "Оддајут коња",
+        "Оддајут дом",
+        "Оддајут дцеру",
+        "Оддајут лєс"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ако родит се дцера – оддајте."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како часто могут посєћати дєте?",
+      "answers": [
+        "Никогда вече",
+        "Кажды теден",
+        "Кажды десет лєт",
+        "Раз в року"
+      ],
+      "correctIndex": 3,
+      "explanation": "Раз в року в ден рођења."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име дцеры?",
+      "answers": [
+        "Клара",
+        "Ноеми",
+        "Лилиана",
+        "Отылија"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ноеми – главна јунакиња."
+    }
+  ]
+}

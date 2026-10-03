@@ -1,0 +1,375 @@
+# Kto Ubil Mistra
+
+## Metadata
+
+**Pack ID:** 2vgdglm2
+**Book ID:** 2vgdglm2
+**Legacy Pack ID:** polish_kto_zabil_mistrza
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Kto Ubil Mistra  
+**Subtitle:** *(none)*  
+**Blurb:** V šatru kralja Vladislava Jagajla bylo dušno. Světlo fakelov vrgljalo drgajuče sjene na platno, a vozduh pahnjal potom, krvju i spaljenym drvom – zapahami, ktore dolgo vrězali se v pamęt vsakogo, kto prežil tutoj den.
+
+**Genres:** ['article']  
+**Series:** Collection Fourteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 10 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Kto zabił mistrza" — oficialnoje izdanje Collection Fourteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'article', 'kto-zabil-mistrza']  
+
+**Keywords:** Kto Ubil Mistra, Kto zabił mistrza, Collection Fourteen  
+
+**Cover family:** article
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fourteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** 2vgdglm2:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**KTO UBIL MISTRA**
+
+## POVĚST O VITEZU, KTORY PRINESL DOKAZ POBĚDY
+
+---
+
+## PROLOG
+
+_Polja pod Grunwaldom, 15 lipca 1410 goda, pozdny večer_
+
+V šatoru kralja Władysława Jagiełły bylo dušno. Svetlo faklje metalo trěpetne sjeni na platno, a vozduh vonjal potom, krvju i paljenym drěvom – zapahami, ktore na dolgo vrězali se v pamet každogo, kto prěžil toj denj.
+
+Kralj siděl na prostom stolčeku, opert o stol, na ktorom ležala karta, ktoru i tako nikto uže ne potrěboval. Bitva se skončila. Armija križacka prěstala jestvovati. Pole bylo zaslano trupami – jih vlastnymi i vragov. Ale kralj ne prazdnoval. Byl umorjen, imal uže blizko šestdeset lět, a toj denj vyžal iz njego veče, než vse kampanije prošlyh lět.
+
+Naglo platno šatora se rozchylilo. Všel vitez. Byl cěly v prahu i zasušenoj krvi – nevědomo, čijej. V dlani držal něčto, čto blěskalo v blěsku ognja. Zlato. I na tym zlatě – črny križ.
+
+– Milostivy pane – rěče vitez, sklanjajuči glavu. – Veliky mistr ne žije. Vot dokaz.
+
+Podnesl predmet vyše. To byl pektorál – zlaty relikvijar, ktory Ulrich von Jungingen nosil na prsjah. Zakonny križ, vysadžany črnoju emaliju, zakončeny zlatymi lilijami. Na srědině – črny cesarsky orel.
+
+Jagiełło vstal. Prěz hvilju gledal na relikvijar. Potom na viteza.
+
+– Kako se zoveš?
+
+– Mszczuj ze Skrzynna, pane. Iz roda Łabędźov.
+
+Kralj kivnul glavoju. Znal, že to ime bude zapametano. Ale ne hčel, da by zapametali je na toj način – kako ime togo, kto ubil vladarja. Bo kraljev se ne ubija. Daže ako to vrag.
+
+– Skryj to – rěče tiho. – I ne govori nikomu, kto prinesl toj dokaz.
+
+Mszczuj se sklonil i vyšel. Kralj ostal sam, gledajuči v ogenj. Znal, že tota noč izměni vse. Ale ne znal ješče, že historija zapameta samo čest pravdy.
+
+---
+
+## RAZDĚL I: DVA NAGI MEČI
+
+_Denj prěd tym, 14 lipca 1410 goda_
+
+Slnce peklo nemilosrdno. Armija poljsko-litovska ostanovila se na nočleg medžu selami Grunwald, Stębark i Łodwigowo – městami, ktore za několiko časin iměla stati se sinonimami jednoj iz največih bitv srědnjevěčnoj Evropy.
+
+Mszczuj ze Skrzynna, vitez herbu Łabędź, stojal na straži pri kraljevom šatoru. Byl uže v zbroji, hot bitva iměla načeti se doprva na zorě. Znal, že Križaci sut gde-tam, na drugoj straně lěsa. Čuli jih prisutnost. I oni čuli jego.
+
+Naglo od strany vražskogo tabora prijehalo několiko jezdcev. Heraldi. Jedin iz njih nesl horugvu s črnym križem, drugi – cesarskogo orla. Za njimi jehal ščitonoša, ktory na sedlu nesl dva nagi meči.
+
+Posolstvo ostanovilo se prěd kraljevym šatorom. Jedin iz heraldov slěz s konja i poklonil se nizko.
+
+– Veliky mistr Ulrich von Jungingen posylaje pozdravjenja kralju poljskomu – rěče. – I te dva meči. Jedin dlja vas, drugi dlja knjazja Witolda. Nehaj poslužet vam v boju, ako imate odvagu do boja.
+
+Mszczuj počul, kako mu krv udarja v glavu. To byla obida. Uvreda. Vyzyv k boju na najbezsramnjejši iz možlivyh sposobov.
+
+Kralj Jagiełło vyšel iz šatora. Byl spokojny, opanovany. Vzel meči, ogledal ih vnimavo, potom kivnul glavoju.
+
+– Prijimam vyzyv – rěče. – I blagodarju za oružje. Nehaj Bog rassudit, kto imaje pravdu.
+
+Posolstvo odjehalo. Mszczuj gledal za njimi, stiskajuči ruku na rukojeti svojego meča.
+
+– To ne byli tolko dva meči – rěče tiho ščitonošu, ktory stojal obok. – To byl prěsud. Nekto dnes umre.
+
+– Kto, pane? – voprosil ščitonoša.
+
+Mszczuj pogledal v stranu križackogo tabora.
+
+– Oni.
+
+---
+
+## RAZDĚL II: MOST JAGIEŁŁY
+
+_Tri neděli prěd tym, 30 črvena 1410 goda_
+
+Prězde čem Križaci stihli se obaznati, že něčto ne jest tako, poljska armija stojala uže na pravom brěgu Visly. I stojala tam blagodarja něčemu, čego nikto ne ožidal – mostu.
+
+Pod Czerwińskom, v městu, gde Visla iměla malo ne petsto metrov širiny, v tečenju toliko několiko časin postrojili pontonny most iz ploskodnyh lodej. Byl tako široky, že po njem mogli jehati četyri konji v redu, a obok sebe – dva vozy. Byl tako stabilny, že dnesni inženery ocěnili, že bez problema by se po njem transportovala divizija tankov.
+
+Križaci ne znali o tym mostu. Ne iměli pojetja, že poljske vojska prěpravjajut se črěz Vislu v městu, ktoro oni uznali za nemožlivo do premoščenja.
+
+Prěprava trvala trideset šest časin. Črěz most prešlo dvadeset tysjač vitezov, šest tysjač vozov i deset tysjač zapasnyh konjev. Kogda poslědni odděl došel na drugi brěg, most rozobrali. Križaci nikogda ne doznali se, odkud naglo vzela se tota armija na jihnoj zemli.
+
+Mszczuj ze Skrzynna byl jedin iz tyh, ktori kako prvi prešli rěku. Gledal na vodu pod soboju i dumal o tym, že tota prěprava može rěšiti vse. Ako Križaci ne stihnut se pripraviti – vygrajut. Ako stihnut – bitva bude krvava.
+
+Ne znal ješče, že stihnut. I že to sraženje vajde v historiju.
+
+---
+
+## RAZDĚL III: POLJA GRUNWALDU
+
+_15 lipca 1410 goda, časina 9:00_
+
+Bitva načela se od grohota kanonov. Križaci iměli jih několiko nadset – prva polna artilerija v toj česti Evropy. Oni vystrelili dvakrat, ne zdělavši večih škod, i na tym končila se jih rolja v toj bitvě.
+
+Potom krenula konjica.
+
+Lěvo krydlo, na ktorom stali poljske horugvi, udarilo kako prvo. Pravo – litovsko – krenulo hvilju pozdnje. Cěla armija poljsko-litovska iměla okolo trideset tysjač oružjenih. Križaci iměli jih okolo petnadset tysjač. Menje, ale lěpje oružjenih.
+
+Mszczuj ze Skrzynna stojal v prvom redu horugvi krakovskoj – najslavnejšoj, najlěpšoj, najodabranejšoj jedinici v cěloj armiji. Obok njego stojali vitezi, čija imena prětrvala věky: Zawisza Czarny, Jan z Wąsosza, Dobiesław Oleśnicki. Vsi znali, že to oni budut rěšiti o sudbah bitvy.
+
+– Pametajte – kriknul vojevoda – udarjamo klinom. Prvi red – tri, drugi – četyri, potom pet, do jedinadset. Boki – kopije. Sredina – kuše.
+
+Mszczuj prijel poziciju v drugom redu. Videl prěd soboju pleči prědhorugvenyh. Videl za soboju ščitonošev, ktori uže pripravjali kuše. A prěd njim, na prosto – križacke horugvi v stroju kolumnovo-klinovom, identično kako jih.
+
+– Na njih! – ryknul vojevoda.
+
+Konji krenuli.
+
+---
+
+## RAZDĚL IV: BĚGSTVO LITVINOV
+
+_15 lipca 1410 goda, časina 11:00_
+
+Bitva trvala uže dve časiny. Križaci prli na pravo krydlo, gde stojali litovske vojska. Prěz hvilju izdavalo se, že Litviny vydržet. Potom – načeli se otstupati. Najprvo pomalo, potom bystrěje. Nakonec – poběgli.
+
+Mszczuj videl to iz daleka. Videl, kako litovske horugvi rozsypajut se v panikě. Videl, kako Križaci krenut v pogonju, mysleči, že uže vygrali. Videl takože něčto, čego Križaci ne viděli – že tri smolenske horugvi, ktore tvorili pravo krydlo, ne poběgli. Stojali. Borili se.
+
+– Držati! – kriknul nekto obok. – Držati liniju!
+
+I oni držali. Hot Litviny poběgli, hot izdavalo se, že bitva jest proigrana – oni držali. A potom, kogda Križaci rinuli se v pogonju i rozsypali svoje redy, něčto se izměnilo.
+
+Litviny se vratili.
+
+Neizvěstno, či to byla zaplanirana taktika – ili može panika, ktora se izměnila v kontratak. Izvěstno natom, že kogda udarili nazad na razsějane križacke vojska, iznenadženje bylo totalno. Križaci, ktori prěd hviljeju byli poběditeli, naglo stali se běgci.
+
+Mszczuj ze Skrzynna ne videl to točno. Byl preveč zanjat svojim bojem. Ale slyšal kriki. Slyšal rzanje konjev. Slyšal, kako izměnja se ton bitvy.
+
+I znal, že to jest jih moment.
+
+---
+
+## RAZDĚL V: SMRT MISTRA
+
+_15 lipca 1410 goda, časina 16:00_
+
+Ulrich von Jungingen, veliky mistr križackogo zakona, sobral poslědne horugvy. Bylo ih šestnadset – ostatok ležal na polju bitvy ili utěkal v panikě. On rěšil udariti s boka, razbiti poljske redy i obrnuti sudbu bitvy.
+
+Ale někto go zamětil.
+
+Někto iz krakovskoj horugvy. Može Mszczuj ze Skrzynna, može iny rycerz – neizvěstno. Izvěstno natom, že šestnadset križackyh horugv popadlo prjamo na najboljšu jedinicu v poljskoj armiji.
+
+Došlo do stolknovenja.
+
+Veliky mistr, ktory vmesto težkoj rycerskoj kopije koristal legšu sulicu – takoj, kako koristali Litviny – i ktory ne iměl na glavě zatvorenogo šlema s zaboralom, byl legkym cěljem. Dva udary. Prvy v glavu, vtory v grudnu klětku. Oba smrtelne. Oba nanesene pravdepodobno jednim človekom.
+
+Nikto ne zna, kto nanes prvy udar. Nikto ne zna, kto nanes vtory. Izvěstno natom, že pozdnim večerom do nameta kralja Jagiełły vstupil Mszczuj ze Skrzynna, nesuči v dlani zlaty pektorał velikogo mistra.
+
+– Oto dokaz – rěkl.
+
+I historija zapametala jego kako togo, ktory prinesl věst o smrti vraga. Ne kako ubijcu. Bo kraljev se ne ubijaje. Daže ako to jest vrag.
+
+---
+
+## RAZDĚL VI: JATKA
+
+*15 lipca 1410 goda, časina 17:00*
+
+Kogda veliky mistr padl, bitva obrnila se v rěz.
+
+Križaci, ktori ješče borili se, naglo uviděli, že sut okruženi. Ti, ktori probovali utěkati, popadli na bagna i uzke groblje – jedino tri puti, ktorymi možno bylo ujti. Tam počela se jatka.
+
+Mszczuj ze Skrzynna viděl to svojima očima. Viděl, kako jego tovariši gonjajut utěkajučih. Viděl, kako rubjajut tyh, ktori padajut na zemju. Viděl čerep, na ktorom potom našli četyri smrtelne udary – tri poprěko, jedno vzdolž. Tako, kako by někto dělal križik na glavě uže mrtvogo človeka.
+
+Ne bral plěnnyh. Nikto ne bral plěnnyh. Križakov ubijali bez milosrdja.
+
+Od dvesto petdeset bratov zakonnyh, ktori stali pod Grunwaldom, spaslo se jedino sedm bratov. Cěly ostatok – osem tysęć ljudij – padl na polju bitvy ili v času utěkstva.
+
+Mszczuj prěžil. Někakim čudom, mimo že boril se v prvom redu črěz cěly denj, ne odnesl težših ran. Jego konj byl cěly, jego brone byla cěla, a on sam – cěly. Vratil se do tabora pozdnim večerom, položil pektorał prěd kraljem i odšel spati.
+
+Nazajutrje probudil se kako junak.
+
+Ne znal ješče, že jego nazvanje ne bude zapisano v istoriji kako nazvanje ubijci velikogo mistra. Znal jedino, že prěžil. I že to, čto uviděl, ostane s njim do konca žitja.
+
+---
+
+## EPILOG
+
+*Skrzynno, rok 1446*
+
+Mszczuj ze Skrzynna dožil do starogo věku. Umrl imajuči nad osemdeset lět, okruženy rodinoju i poštovanjem susědljev. V parafijalnom kostelu v Kijah, ktory fundoval jego rod, do dnes shranjali pametku po bitvě – jasku, to jest rod relikvijara, ktory on snjal s těla velikogo mistra.
+
+Byla ušita iz šelka, s črnym križem obšitym zlatom. Na koncah križa vidněli zlate lilije, a v srědině – črny cesarsky orel. Črěz lěta služila kako ornat, v ktorom městny probošč odpravjal mši. Potom se iznosila. Izčezla. Propala na vsegda.
+
+Grunvaldské meči takože propali. Črěz stolětja shranjali je v skarbnici na Wawelu, potom došli do Pułav, do Izabeli Czartoryskiej. V času razdělov izčezli. Može byti ležut kdesi v ruskom magazinu, zapomnjene, pokryte prahom.
+
+A Mszczuj? Mszczuj ze Skrzynna vstupil do istorije kako rycerz, ktory prinesl kralju dokaz pobědy. Ne kako ubijca vladarja. Ne kako morderca. Kako toj, ktory iměl odvagu stati v prvom redu i boriti se do konca.
+
+I može imenno o to šlo. Da by ne pametali jego kako kata, jedino kako rycerza. Bo kraljev se ne ubijaje. Daže ako to jest vrag.
+
+A pravda o tom, kto nanes smrtelny udar, ostala v sěni. Tako kako hotěl togo Jagiełło. Tako kako hotěl togo Mszczuj.
+
+I tako kako hotěla togo istorija.
+
+---
+
+## POSLOVIE
+
+Bitva pod Grunwaldom jest jedno iz najslavnejših sobytij v istoriji Poljsky. Ale to takože jedna iz najvyše mitologizovanyh bitv srědnjevěčja. Dva goly meči, utěk Litvinov, smrt velikogo mistra – vse to obroslo legendami, ktore črěz stolětja formovali našu pamet o tom stolknovenju.
+
+Pravda jest vyše složena. I vyše člověčna.
+
+Most pod Červinskom, ktory umožlivil prěpravu armije, byl dělom inžinierije, ktoro do dnes budi podiv. Red kolumno-klinovy, v ktorom udarjali horugvy, trěboval neobyčajnoj točnosti i koordinacije. A smrt Ulricha von Jungingena – hot ne do konca izjasnjena – izměnila sudbu cěloj bitvy.
+
+I hot Mszczuj ze Skrzynna ne byl zapametan kako ubijca velikogo mistra, to jego rola v toj bitvě byla ključova. To on prinesl dokaz pobědy. To on stal v prvom redu. To on prěžil, da by opověděl historiju, ktora prětrvala stolětja.
+
+Či ubil velikogo mistra? Neizvěstno. I pravdepodobno nikogda ne dovědame se. Ale jedno jest izvěstno – bez takyh ljudij kako on, bez jihnoj odvagi, bez jihnoj rěšitelnosti, bitva pod Grunwaldom mogla by izgledati cělkom inače.
+
+A dnes, kogda gledame na obrazy Jana Matejki i čitame hroniki Jana Długosza, pametajmo – istorija to ne jedino velici junaci i velike bitvy. To takože ljudi, ktori stali v prvom redu. Ktori prinesli dokaz pobědy. I ktori, mimo že ne zapisali se v istoriji kako ubijci vladarjev, zapisali se v njej kako rycerzi.
+
+I to je dostatočno.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Gdě se odigrava prolog?
+
+**Answers:**
+- A) Polja pod
+- B) Vavel v Krakově?
+- C) Malbork nad Nogatom
+- D) Gdańsk pri portu
+
+**Correct:** A
+**Explanation:** Polja pod Grunvaldom, 1410.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čije tělo potvŕdžaje rycar?
+
+**Answers:**
+- A) Zavisy Črnego
+- B) Ulricha von
+- C) Kralja Jagajla
+- D) Mszczuja ze Skrzynna
+
+**Correct:** B
+**Explanation:** Veliky mistr ne živy.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Čto nese rycar kako dokaz?
+
+**Answers:**
+- A) Voskovu pečat
+- B) Srebrny meč?
+- C) Zlaty pektoral
+- D) Herbovu šarfu
+
+**Correct:** C
+**Explanation:** Pektoral Ulricha von Jungingen.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Kto zglašaje se kako vinovnik?
+
+**Answers:**
+- A) Rycar bez imena
+- B) Kralj Jagajlo
+- C) Rycar Zavisa?
+- D) Mszczuj ze
+
+**Correct:** D
+**Explanation:** Mszczuj ze Skrzynna, iz rodu Łabędjov.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Kto sedi v šatru kralja?
+
+**Answers:**
+- A) Ulrich von Jungingen
+- B) Vladislav Jagajlo
+- C) Henrik V Anglijsky
+- D) Jan Hus Češsky
+
+**Correct:** B
+**Explanation:** Kralj Vladislav Jagajlo.
+**Text reference:** q5
+

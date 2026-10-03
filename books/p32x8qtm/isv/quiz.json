@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Berkas?",
+      "answers": [
+        "Futbolist",
+        "Igrač e-sportovy /",
+        "Lěkar?",
+        "Politik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berkas prigotovlja se k meču v strategijnoj igri."
+    },
+    {
+      "type": "single_choice",
+      "question": "V ktoroj čas Berkas probuđa se před mečem?",
+      "answers": [
+        "V desetoj?",
+        "V petoj",
+        "V poludne",
+        "V polnoči"
+      ],
+      "correctIndex": 1,
+      "explanation": "Probuđa se o petoj, hoti meč jest o desetoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto po Berkasu odlučaje o pobědě?",
+      "answers": [
+        "Sčestje",
+        "Lěpše odluky",
+        "Lěpši kompjuter",
+        "Veče junakov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vyigral, bo priimal lěpše odluky."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě odigrava se dějanje po meču?",
+      "answers": [
+        "V Krakově",
+        "V Varšavě",
+        "V Gdansku",
+        "V Berlině"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gledi na običnu varšavsku ulicu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini Berkas na koncu pověsti?",
+      "answers": [
+        "Ostavlja igru?",
+        "Počinaje prigotovljati se k",
+        "Prodaje konto",
+        "Jede na odpočinok"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vrača se k kompjuteru i prigotovlja se k jutru."
+    }
+  ]
+}

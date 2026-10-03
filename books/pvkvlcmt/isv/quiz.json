@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Čto čuje Ola, berųči syna na rųky prvy raz?",
+      "answers": [
+        "Samo strah?",
+        "Dvě stvari zaraz — ogromnų ljubov i něčto",
+        "Samo profesionalnų gordost",
+        "Ravnodušnost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Čuje dvě stvari zaraz — m.in. ogrom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako imę dětęta pojavjaje se v pověstji?",
+      "answers": [
+        "Januš",
+        "Franek",
+        "Ignus",
+        "Čen?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Franek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka jest glavna teza zaključenja?",
+      "answers": [
+        "Roditelj mora byti idealny",
+        "Traktovati dětę kako polnogo člověka od",
+        "Dětę ne imaje prava na čuvstva",
+        "Dovoljno jest sistem kar?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traktovati drugogo — takože malogo — kako ravnego, v polnosti člověka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Ola uči se o bytju roditeljem?",
+      "answers": [
+        "Že omyłky sųt zabranjene",
+        "Že možno byti pravdivym: omyłjati se, prositi o pomoč,",
+        "Že nikogda ne směje se prositi o pomoč",
+        "Že molčanje rešaje vse?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Byti pravdivym roditeljem, ne idealnym."
+    },
+    {
+      "type": "single_choice",
+      "question": "Od kogda — po zaključenju — dětę jest „v polnosti člověkom“?",
+      "answers": [
+        "Od matury",
+        "Od samogo počętka",
+        "Od 18. goda života",
+        "Od prvoj raboty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Od samogo počętka."
+    }
+  ]
+}

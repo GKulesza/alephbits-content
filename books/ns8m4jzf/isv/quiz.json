@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Vanda na počętku?",
+      "answers": [
+        "Šest lět",
+        "Osm lět",
+        "Deset lět",
+        "Dvanadeset lět"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vanda ima osm lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko penez dal jej otec?",
+      "answers": [
+        "Deset zlatyh v monetah",
+        "Trideset zlatyh v monetah",
+        "Pedeset zlatyh v monetah",
+        "Sto zlatyh v jednoj banknotě"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tri desetozlatove monety."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Vanda obećaje otcu?",
+      "answers": [
+        "Odložiti vse monety",
+        "Ničego veče ne izdati",
+        "Kupiti mami něčto",
+        "Oddati vse bratu?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Obećaje kupiti mami něčto krasno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Vanda uči se o vrijednosti?",
+      "answers": [
+        "Samo cěna ima značenje?",
+        "Vrijednost byvaje veče než",
+        "Bank vsegda pomaga dětem",
+        "Kredit byvaje vsegda bezplatny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne vse da se prěčisliti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako otec reaguje na obećanje?",
+      "answers": [
+        "Velit jej molčati takoj",
+        "Cěluje jej nežno v čelo",
+        "Odnosi vse monety",
+        "Smeje se glasno iz njej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cěluje jej v čelo."
+    }
+  ]
+}

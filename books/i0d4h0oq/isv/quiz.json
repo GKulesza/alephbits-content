@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko let imaje Kornelija?",
+      "answers": [
+        "Osm let",
+        "Deset let",
+        "Pet let",
+        "Dvanadset let"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kornelija imala osm let."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko let imaje Fabian?",
+      "answers": [
+        "Osm let",
+        "Pet let",
+        "Deset let",
+        "Sedm let"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fabian imal pet let."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě rabotaje tata?",
+      "answers": [
+        "Tata rabotaje v bolnici",
+        "Tata rabotaje v školi",
+        "Tata rabotaje v kramu",
+        "Tata rabotaje na korabju"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tata Marcel v bolnici."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto končaje se v šafce?",
+      "answers": [
+        "Ryž i makaron",
+        "Hleb i maslo",
+        "Čaj i cukr?",
+        "Mleko i"
+      ],
+      "correctIndex": 3,
+      "explanation": "Skončilo se mleko i płatki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govori tata o rabotě?",
+      "answers": [
+        "Liči se samo kasa",
+        "Ostavjaješ čto po sebě",
+        "Trěba utěkati skoro",
+        "Najvažnějši jest urlop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Čto, ktoro ostavjaješ po sebě."
+    }
+  ]
+}

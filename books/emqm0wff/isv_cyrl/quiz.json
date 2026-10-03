@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Антек?",
+      "answers": [
+        "Десет лєт",
+        "Осем лєт",
+        "Дванадцат лєт",
+        "Седем лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Антек имал десет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ктора чрта дефинује Антека?",
+      "answers": [
+        "Страх пред водоју",
+        "Нетрпєливост",
+        "Ненавист к зимє",
+        "Бојазн пред псами"
+      ],
+      "correctIndex": 1,
+      "explanation": "Он был нетрпєливы."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что прєобража језеро в зимє?",
+      "answers": [
+        "Водны парк",
+        "Пустыњу",
+        "Ледовиско",
+        "Футболово игришче"
+      ],
+      "correctIndex": 2,
+      "explanation": "Језеро прєобража се в ледовиско."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест спокојны в группє?",
+      "answers": [
+        "Спокојна Корнелија",
+        "Спокојны Фабиан",
+        "Спокојны Бартош",
+        "Спокојна Лидија"
+      ],
+      "correctIndex": 3,
+      "explanation": "Корнелија была спокојна."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что слыши, когда нєкто говори зараз?",
+      "answers": [
+        "Всегда",
+        "Никогда",
+        "Може?",
+        "Заутра"
+      ],
+      "correctIndex": 1,
+      "explanation": "Он слышал: Никогда."
+    }
+  ]
+}

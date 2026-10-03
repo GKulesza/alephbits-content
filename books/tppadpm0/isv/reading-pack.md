@@ -1,0 +1,431 @@
+# Srebrny grebenj i kristalik eha
+
+## Metadata
+
+**Pack ID:** tppadpm0
+**Book ID:** tppadpm0
+**Legacy Pack ID:** polish_srebrny_grzebien_i_krysztalek_echa
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Srebrny grebenj i kristalik eha  
+**Subtitle:** *(none)*  
+**Blurb:** V jednom městečku, tam gde večerom ulice pahnjaly jasminom, a okna odražaly poslědne zlato světa dne, živěla děvojčica imenom Liliana.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Srebrny grzebień i kryształek echa" — oficialnoje izdanje Collection Fifteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'srebrny-grzebien-i-krysztalek-echa']  
+
+**Keywords:** Srebrny grebenj i kristalik eha, Srebrny grzebień i kryształek echa, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fifteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** tppadpm0:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**SREBRNY GREBENJ I KRISTALIK EHA**
+
+### Terapeutična pověst za děti v věku 9–13 lět
+
+## Vvod
+
+V jednom městečku, tam kde večerom ulice pahnule jasminom, a okna odbijale sut poslědnje zolto světlo dnja, žila jest děvčica po imenu **Liliana**.
+
+Iměla jest vlasy dolge i mekke kako voda v potoku. Mama je česala vsaky večer prěd snom. Pri tom šeptala jest historije o smělyh děvčicah i dobryh srdcah. A na koncu vsegda dodavala:
+
+— Pravda ne vsegda govori glasno. Časom govori šeptom. Ale ako ktos pravdivo slušaje, staje se pěsnjeju.
+
+Potom mama odšla jest. Po njej ostal je srebrny grebenj, zapah tepla i tišina, ktora byvala tako gusta, že až bolěla.
+
+Tata Liliany, **Julian**, veliko ju ljubil jest. Obnimoval ju, usměhal se, ale vse veče pracoval i vse čestěje vyježdžal. Doma ostavale sut samo časovnik, tikanje i Liliana, ktora česala se sama prěd zrcalom.
+
+V jednom dnju pojavila se **Dagmara**.
+
+Elegantna, pahnjuča parfumami, s usměhom tako starannym, kako by ktos prilěpil go k jeje licu. Prvogo dnja ispekla je pečiva. Drugogo dnja predložila, že zaplete Lilianě kosu. Tretjego dnja rěkla:
+
+— Tvoja mama byla by gorda na tebe.
+
+Liliana počula je teplo. Htěla věriti, že ktos pravdivo ju vidi. A v kapsě jeje sukni srebrny grebenj drgnul je, kako by črěz sъn. Byl je teply. Črěz malu čest sekundy Lilianě izdavalo se, že slyši šept mamy.
+
+Ale někore usměhy sut kako cvěty iz papira. Krasne iz daleka, hladne v dotyku.
+
+## Razděl prvy: Mila pani i prvo lganje
+
+Po svadbě taty s Dagmaroju dom načel se izměnjati. Ne odraza. Najprvo po tihu. Potom vse glasněje.
+
+Dagmara ustanavjala, čto jest dozvoljeno, a čto ne. Kogda tata byl doma, govorila je lagodno:
+
+— Liliano, mila moja, pomagaj mi, prošu.
+
+Kogda tata vyježdžal, jeje glas staval se hladny kako metal.
+
+— Opozdnila si se. To ne jest moj problem. Točnost jest osnova.
+
+Liliana čistila, myla podlogy, myla gornce. Dagmara pila čaj i popravjala podušky na divaně.
+
+V jednom dnju v školě pojavila se informacija o izletě. Liliana mečtala o njej od nedělj. Tata oběčal ostaviti denary na stolě.
+
+Rano denarov ne bylo.
+
+— Tvoj tata htěl je ostaviti, ale rěkla jesm jemu, že sama zaplaču — rěkla Dagmara s pokojnym usměhom.
+
+Liliana počula je oljekšenje. Može pomylila se. Može bude dobro.
+
+Dva dni poslě učiteljica, **pani Joanna**, posmotrila je na nju s smutkom.
+
+— Žal, že ne ideš s nami. Ne prišla nikaka uplata.
+
+Svět Liliany zatresl se kako domek iz kart.
+
+Doma izbuhnula je:
+
+— Govorila si, že zaplatiš!
+
+Togda v dverah stal je tata. Dagmara točas prijela je izraz obidženej.
+
+— Lila, o čem ty govoriš? Však ty ostavil denary — obratila se k Julianu.
+
+— Ne viděla jesm nikakyh denarov — šeptala Dagmara.
+
+Liliana plakala, kričala, že to jest lganje. A potom Dagmara rěkla tiho:
+
+— Ako si uvěrena, pokaži portfelj.
+
+Liliana bez kolebanja podala je portfelj tatě. V bokovoj kapse, svinute v rulonik, ležale sut banknoty.
+
+V kuhnji zapala je tišina tako gusta, že možno bylo ju rězati nožem.
+
+— Kako si mogla tako lgati? — pytal tata.
+
+Dagmara usměhnula se pod nosom toliko na malu čest sekundy. Potom jeje oči napolnile se slezami.
+
+— Ona mene ne ljubi — šeptala je. — Ja htěla dobro, a ona iz mene sdělala obmanščicu.
+
+Tata gledal je na dočku s razočarovanjem. V jego očah pojavilo se je nečto ješče — utomlenje. Od davna bojal se samotnosti. Bojal se, že ako izgubi Dagmaru, ponovno ostane sam s tišinoju. I to čuvstvo bylo silněje než nespokoj, ktory časom pojavjal se, kogda gledal na Lilianu.
+
+A Liliana vložila je dolonj v kapsu. Srebrny grebenj byl je teply. V toj raz slyšala je šept jasněje:
+
+— Ne kriči. Zapametaj.
+
+Ne razuměla je ješče, čto to znači. Ale prěstala je plakati.
+
+## Razděl drugy: Nožice i sive nitky
+
+Od togo dnja Liliana prěstala je se prěpirati. Ne zato, že uvěrila v lganja. Zato, že razuměla — čto koli reče, bude obratjeno protiv njej.
+
+Dagmara rasla je v tišině. Ustavjala čašky v idealne linije. Prěsuvala zanavěsy. Popravjala stvari, ktore vobče ne byly krive.
+
+V jednom dnju posmotrila je na Lilianu i rěkla:
+
+— Hočeš tako vyjti iz doma? Izgledaš nebrežno. Kako strašilo.
+
+Liliana počula je uklotenje v srcu.
+
+— Ne jesi moja mama, da by mene poučati — izbuhnula je.
+
+I togda v koridorě pojavil se tata. Dagmara točas zasleziła oči.
+
+— Ja samo htěla jej pomagati — rěkla je drěžučim glasom. — Htěla, da by ona izgledala dobro.
+
+Tata posmotril je na Lilianu s važnostju.
+
+— Izvini se jej.
+
+— Ne imam za čto.
+
+— V takom slučaju zakaz na izhody, dokud ne izviniš se.
+
+Liliana skryla je lice v dolonjah. Slezy tekle jej na podušku. Bojala se ne samo Dagmary. Bojala se, že izgubi tatu.
+
+Slědujučego dnja Dagmara rěkla sladko:
+
+— Tvoj tata prosil, da by ja vzela te do frizjera. Samo končiky. A potom pojdemo na sladolědy i pokupky.
+
+Liliana vahala se. Htěla věriti, že to jest dobry moment. Že može Dagmara pravdivo hoče se približiti.
+
+V saloně frizjerka **Cecylia** usměhnula se široko. Obratila je kreslo tako, že Liliana ne viděla zrcala.
+
+— Tut imam bolje světlo — rěkla.
+
+Nožice načele sut rabotati.
+
+Prve pasma pale sut na podlogu. Potom druge. Tretje. Vse veče. Liliana gledala na temnu, mekku kupku vlasov i čula, kak nečto v njej pukaje.
+
+— Iměli sut byti samo končiki! — kriknula je.
+
+Dagmara uže byla pri njej.
+
+— Ne rob sceny — rěkla spokojno, ale rěšitelno. — Vračaj se na kreslo. Hočeš, da by vsi se iz tebe smějali?
+
+Liliana sěla je. Nožice ponovno načele rězati. Kogda kreslo bylo obratjeno, uviděla je svoje odraženje. Vlasy segale jedva do ramen. Jeje lice izgledalo inače. Veče bezzaščitno. Kako by ktos zabral jeje čest.
+
+Dagmara pogladila je ju po glavě.
+
+— Vidiš, tutčas ti bude legko.
+
+A večerom, kogda Liliana myla gornce, Dagmara dodala:
+
+— Ne myslila si, že si to dostala bezplatno?
+
+Tute slova ostale sut v glavě Liliany dolgo po zgasjenju světla.
+
+Slědujučego dnja v školě jeje prijateljica **Oliwia** posmotrila na nju vnimatelno.
+
+— Liliana, čto se stalo? Izgledaš, kako by ty ne spala od nedělje.
+
+Liliana požala ramenami. Ale pani Joanna takože to zamětila. Poslě urokov zadržala ju na moment.
+
+— Znam, že ne vsegda možno reči vse odraza — rěkla tiho. — Ale ako kogda-koli budeš gotova, ja jesm tut. Jest takože pani **Marta**, naša psiholog. Ona pravdivo uměje slušati.
+
+Liliana kivnula glavoju. Ne rěkla ničto. Ale prvy raz od davna počula, že ne jest sovsem sama.
+
+V noči vzela je v ruku srebrny grebenj. Naglo počula, že jest teply. Slyšala tiho šept, kako by mama stala tut blizko njej:
+
+— Pravda ne izčezaje. Časom samo skryva se v tihyh městah.
+
+Liliana otrla slezy. Rěšila, že ne bude uže kričati. Bude slušati. I zapametavati.
+
+## Razděl treti: Kristalik eha
+
+Slědujučego dnja, kogda tata odjehal, Dagmara govorila je veče než obično. Byla uvěrena, že nikto je ne slyši.
+
+— Tvoj otec jest prěveč slěp, da by zamětiti razliku — rěkla spokojno. — Obvinula jesm go vokrug svojego palca. Tancuje tako, kako ja jemu zagraju.
+
+Liliana molčala. Držala je v doloni srebrny grebenj. V jego zubah pojavil se mali, světeči se kristalik. Izgledal kako kapka rosy. Vpijal je vsako slovo Dagmary — ne zato, da by obvinjati, ale da by shraniti pravdu.
+
+Dagmara govorila je dalje:
+
+— Ješče jedna žalba na mene, i najdu ti taku kazn, že do konca žitja budeš žaliti.
+
+Kristalik zadrhtal. Liliana skryla go zajedno s grebenjem.
+
+Črěz několik dni ne věděla, čto sdělati. Bojala se, že tata ponovno jej ne uvěri. Bojala se, že Dagmara najde sposob, da by vse obratiti. V koncu rěkla o vsem Oliwii.
+
+— Pravda to ne jest žalba — rěkla Oliwia. — To dar dlja tvojego taty. Davaješ jemu šansu, da by v koncu uviděl.
+
+Liliana dolgo myslila. Až jednogo večera tata vratil se ranje. V domu bylo tiho. Dagmara seděla v salonu i gledala televiziju.
+
+Liliana pristupila k tatě.
+
+— Tato, musiš něčto uviděti. Sedni pri mně.
+
+Izvadila grebenj. Kristalik eha zasvetil se delikatno. V komorě razlegl se glas Dagmary — spokojny, bez krika, ale polny prezrenja.
+
+— Obvinula jesm go vokrug svojego palca…
+
+Tata slušal. Najprvo s udivljenjem. Potom s bolom. V koncu so sramom.
+
+Dagmara vpadla do komory.
+
+— To nepravda! Ona vse to izvračaje! To jest manipulacija!
+
+Ale tata tutoj raz ne odvratil vzora. Gledal na nju dolgo.
+
+— Začto? — pytal tiho.
+
+Dagmara otvorila usta. Črěz moment izgledala ne kako čudovišče, ale kako prestrašena žena.
+
+— Ja toliko ne htěla byti znovu ničija — šepnula. — Ne htěla, da by mene ostavili. Htěla jesm iměti vse pod kontroloju.
+
+Tata zatvoril oči.
+
+— To ne opravdaje togo, čto jesi jej sdělala — rěkl tata.
+
+Dagmara spustila glavu. Prvy raz ne iměla gotovogo odgovora.
+
+— Za deset minut da tebe tut ne bude — rěkl tata.
+
+Potom prišel k Lilianě. Pokleknul.
+
+— Prosti, mila moja. Za to, že jesm ne slušal. Za to, že jesm byl slěp. Za to, že jesm dozvolil, da by ty se čuvstvovala samotna.
+
+Liliana ne odgovorila od razu. Jej srce bylo ostorožno. Prěmnogo raz bylo zlomjeno. Ale tutoj raz pravda byla na jej straně.
+
+— Ne znam, či uměju ti uže odpustiti — rěkla tiho. — Ale hoču probovati.
+
+Razděl četvrty: Odrastanje
+
+Dom ne stal se od razu bajkovy. Byvali dni tihe i trudne. Byvali večery, kogda Liliana gledala v zerkalo i ješče na moment viděla tamtu prestrašenu děvčicu.
+
+Tata vzel dolgšy oddyh. Zapisal Lilianu na srečanja s gospožeju Martoju. Liliana hodila tam raz v sedmicu. Časom govorila mnogo. Časom molčala. Gospoža Marta ne prisiljala jej k ničemu. Govorila toliko:
+
+— Ne trěbuješ uže byti hrabra. Možeš prosto byti.
+
+V školě gospoža Joanna često pytala, kako se čuvstvuje. Oliwia sedala pri njej na preryvah. Časom risovale zajedno. Časom ne děly ničto. I to takože bylo važno.
+
+Vlasy Liliany pomalo odrastali. Měkke, prirodne, znovu jeje.
+
+Jednogo večera tata sěl pri njej i vzel v ruku srebrny grebenj.
+
+— Mogu? — pytal.
+
+Liliana zavahala se. A potom kivnula glavoju.
+
+Tata proboval zaplesti kosu. Vihodil krivo. Liliana smějala se. On takože. I to byl najdobry směh od davnyh vrěmen.
+
+— Može zautra — rěkla. — Budeš trenovati.
+
+— Budu — oběčal.
+
+Na parapetu stal srebrny grebenj i mali kristalik eha. Časom, kogda tata prědlgo rabotal, Liliana govorila:
+
+— Tato, poslušaj.
+
+A on odkladal telefon. Jerbo se naučil, že pravda ne vsegda govori glasno. Časom govori šeptom. Ale ako nekto zaisto sluša, staje se pěsnjeju.
+
+Zakončenje
+
+Dagmara izselila se iz jih doma. Liliana časom ješče iměla košmary. Časom ne htěla govoriti. Časom bojala se, že nekto znovu odvratit pravdu.
+
+Ale vsakogo dnja bylo nemnogo svetljej.
+
+Tata ne stal se idealny. Časom vse ješče rabotal prěmnogo. Časom ne razuměl od razu. Ale vracal se. Sedal. Pytal. Slušal.
+
+A Liliana pomalo učila se, že jej glas imaje značenje. I že ne trěbuje byti sama.
+
+Moral
+
+Pravda ne vsegda govori glasno. Časom govori šeptom. Ale ako nekto zaisto sluša, staje se pěsnjeju.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Kako ime ima děvojčica?
+
+**Answers:**
+- A) Liliana
+- B) Dagmara
+- C) Klara
+- D) Noemi
+
+**Correct:** A
+**Explanation:** Liliana s dolgymi volosami.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čto ostaje po mami?
+
+**Answers:**
+- A) Zlaty prsten
+- B) Srebrny grebenj
+- C) Stary časoměr
+- D) Črvena pelerina
+
+**Correct:** B
+**Explanation:** Srebrny grebenj.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kto jest Dagmara?
+
+**Answers:**
+- A) Susedka iz ogroda
+- B) Učiteljka v školi
+- C) Nova domova
+- D) Kuzina iz grada?
+
+**Correct:** C
+**Explanation:** Elegantna opěkunka v domu.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čto mama govorila o pravdi?
+
+**Answers:**
+- A) Govori samo latinsky
+- B) Vsegda kriči glasno
+- C) Nikogda ne govori ničto
+- D) Govori časom šeptom
+
+**Correct:** D
+**Explanation:** Pravda govori časom šeptom.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Kako ime tata Liliany?
+
+**Answers:**
+- A) Mihal
+- B) Julian
+- C) Robert
+- D) Marcel
+
+**Correct:** B
+**Explanation:** Tata Julian.
+**Text reference:** q5
+

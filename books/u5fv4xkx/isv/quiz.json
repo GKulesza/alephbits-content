@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě Marcin stoji v prologu?",
+      "answers": [
+        "Na krovu hotela v Varšavě",
+        "Na krovu hotela v Šenženu",
+        "Na mostu v Čikagu",
+        "Na městskom aeroportu v Berlinu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krov hotela v Šenženu."
+    },
+    {
+      "type": "single_choice",
+      "question": "O čem upozorjaje generalny direktor Google?",
+      "answers": [
+        "O padu prodaje reklam",
+        "O vysokom risku iztrebljenja",
+        "O nedostatku dobryh programistov",
+        "O havariji hladiček serverov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risk iztrebljenja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka jest gorka pointa teksta?",
+      "answers": [
+        "Velike firmy — a čto z",
+        "AI vsegda spasaje ves svět",
+        "Firmy vobče ničto ne značut",
+        "AI jest samo sezonna moda?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Velike firmy; čto z nami?"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka metafora konča pověst?",
+      "answers": [
+        "Gonka s nagradoju za vsih",
+        "Gonka davno už končena",
+        "Gonka naznačena za robotov",
+        "Gonka bez pogleda na metu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gonka bez pogleda na metu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče pověst najbolje?",
+      "answers": [
+        "Turizma i kuhnje Azije",
+        "AI i ljudskej cěny postupu",
+        "Historije srednjověčja Evropy",
+        "Vospitanja v dětskom sadu"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI i ljudska cěna postupu."
+    }
+  ]
+}

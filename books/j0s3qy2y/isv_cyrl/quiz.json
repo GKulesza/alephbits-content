@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како се зове мєстечко?",
+      "answers": [
+        "Сребрно Взгорје",
+        "Зелены Дąб",
+        "Град Бискупин",
+        "Град Скиерниеwице"
+      ],
+      "correctIndex": 0,
+      "explanation": "Мєстечко Сребрно Взгорје."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове хłопец?",
+      "answers": [
+        "Даниел",
+        "Антони",
+        "Сзымон",
+        "Миłосз"
+      ],
+      "correctIndex": 1,
+      "explanation": "Антони, јединнадцет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове дєвчица?",
+      "answers": [
+        "Име: Викторија",
+        "Име: Хелена",
+        "Име: Пола",
+        "Име: Отылиа"
+      ],
+      "correctIndex": 2,
+      "explanation": "Викторија, јединнадцет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что Антони љуби најбоље?",
+      "answers": [
+        "Игру на скрипцах",
+        "Малење образов",
+        "Игру в шахматы",
+        "Футбол"
+      ],
+      "correctIndex": 3,
+      "explanation": "Љуби футбол."
+    },
+    {
+      "type": "single_choice",
+      "question": "Одкуд има коркы Антони?",
+      "answers": [
+        "Од тренера",
+        "Од дєда",
+        "Из спортского магазина",
+        "Од Викторије"
+      ],
+      "correctIndex": 1,
+      "explanation": "Старе коркы од дєда."
+    }
+  ]
+}

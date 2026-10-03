@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako se zove městečko?",
+      "answers": [
+        "Srebrno Vzgorje",
+        "Zeleny Dąb",
+        "Grad Biskupin",
+        "Grad Skierniewice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Městečko Srebrno Vzgorje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove hłopec?",
+      "answers": [
+        "Daniel",
+        "Antoni",
+        "Szymon",
+        "Miłosz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antoni, jedinnadcet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove děvčica?",
+      "answers": [
+        "Ime: Viktorija",
+        "Ime: Helena",
+        "Ime: Pola",
+        "Ime: Otylia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Viktorija, jedinnadcet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Antoni ljubi najbolje?",
+      "answers": [
+        "Igru na skripcah",
+        "Malenje obrazov",
+        "Igru v šahmaty",
+        "Futbol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ljubi futbol."
+    },
+    {
+      "type": "single_choice",
+      "question": "Odkud ima korky Antoni?",
+      "answers": [
+        "Od trenera",
+        "Od děda",
+        "Iz sportskogo magazina",
+        "Od Viktorije"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stare korky od děda."
+    }
+  ]
+}

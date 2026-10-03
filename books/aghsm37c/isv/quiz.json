@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako nazyvajut se skarpetky?",
+      "answers": [
+        "Lěva i prava",
+        "Gorna i dolna",
+        "Mala i velika",
+        "Modra i črvena"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lěva i prava v zvězdkah."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto nosi skarpetky?",
+      "answers": [
+        "Tymek",
+        "Antek",
+        "Bartek",
+        "Miłosz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antek nosi je na směnu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto izčezaje v pračce?",
+      "answers": [
+        "Obě naraz",
+        "Lěva skarpetka",
+        "Prava skarpetka",
+        "Cěly koš za pranje"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prava izčezla po pranju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky pripěv je vedet?",
+      "answers": [
+        "Kto je, ten raste",
+        "Kto spi, ten sni",
+        "Kto běži, ten padaje",
+        "Kto iskaje, ten"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kto iskaje, ten najde."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kde ide lěva skarpetka?",
+      "answers": [
+        "Do školskoj šafy",
+        "Tunel za pračkoju",
+        "Na podkrovje doma",
+        "Pod podlogu kuhnje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tunel medžu pračkoju i stěnoju."
+    }
+  ]
+}

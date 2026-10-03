@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Lena v povesti?",
+      "answers": [
+        "Poljka iz Krakova",
+        "Francuzka na stipendiji",
+        "Učiteljka iz Gdanska",
+        "Prevoditeljka iz Berlina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Francuzka na stipendiji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gde oni govorjat večerom?",
+      "answers": [
+        "V nočnom metro?",
+        "Nad Visloj v",
+        "Na dvorcu v Lodži",
+        "V parku v Poznanju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nad Visloj v Varšavi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto povestnik govori o poljskom?",
+      "answers": [
+        "Že jest prelahky za učenje",
+        "Že jest težky i istinny",
+        "Že treba jego skoro změniti",
+        "Že jest samo suho uradny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne jest težky — jest istinny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Lena uči se?",
+      "answers": [
+        "Poljskogo i",
+        "Samo suhoj gramatiki",
+        "Anglijskogo v biuru",
+        "Německogo v domu?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jezyka i odnosov."
+    },
+    {
+      "type": "single_choice",
+      "question": "O čem jest ta povest?",
+      "answers": [
+        "O vojně i politice",
+        "O ljubvi i jezyku",
+        "O sportu i rivalstvu",
+        "O bankah i kreditah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ljubov i jezyk."
+    }
+  ]
+}

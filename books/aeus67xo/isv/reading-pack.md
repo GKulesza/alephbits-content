@@ -1,0 +1,426 @@
+# Bazyli i Noč, v Ktorej Hlěb Znikl
+
+## Metadata
+
+**Pack ID:** aeus67xo
+**Book ID:** aeus67xo
+**Legacy Pack ID:** polish_bazyli_i_noc_w_ktorej_chleb_zniknal
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Bazyli i Noč, v Ktorej Hlěb Znikl  
+**Subtitle:** *(none)*  
+**Blurb:** V malom selu, tam gde droga zavrtaše k lěsu, a světilniki světiše slabo, ale teplo, stojaše magazin. Ne byl veliky. Ne byl moderny. Ale byl njih — žiteljev sela.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fourteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Bazyli i Noc, w Której Chleb Zniknął" — oficialnoje izdanje Collection Fourteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'bazyli-i-noc-w-ktorej-chleb-zniknal']  
+
+**Keywords:** Bazyli i Noč, v Ktorej Hlěb Znikl, Bazyli i Noc, w Której Chleb Zniknął, Collection Fourteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fourteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** aeus67xo:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**BAZYLI I NOČ, V KTOREJ HLĚB ZNIKL**
+
+### Pověst o tom, že daže najmenjši sirek imaje svoje město
+
+## Vvod
+
+V malom selu, tam kde doroga skrętala v stranu lěsa, a lanterny svetili slabo, ale teplo, stojal sklep. Ne byl veliky. Ne byl moderny. Ale byl **jih** — žiteljev sela.
+
+Sklep nazyval se **Pod Slnečnikom**. Vedla go gospoža Halina — žena s sivymi vlasy, okruglymi okularami i usměhom, ktory pamětal vsakogo klienta.
+
+V denj sklep byl obyčajnym sklepom. Voněl hlěbom, jabolkami i mydlom. Ljudi vhodili, kupovali, vyhodili. Gospoža Halina vitala jih, praštala i někogda pytala:
+
+— A kako tam děti? A kako tam zdravje?
+
+A v noči...
+
+V noči sklep žil.
+
+Kogda poslědny klient vyhodil, a gospoža Halina gasila světlo i zamykala dveri na ključ, něčto se izměnjalo. Polky drgale. Staklenky šeptale. A produkty — te obyčajne, vsekodnevne — otvarjali oči.
+
+Bo v sklepě Pod Slnečnikom vse imělo dušu.
+
+## Razděl prvy: Banda iz Sklepa
+
+Najvažnějšimi žiteljami sklepa byli:
+
+**Bartosz** — hlěb. Iměl hrustivu korku i mekko srce. Byl liderom. Ne zato, že htel. Zato, že drugi go slušali. Ale Bartosz iměl tajnu. Bojal se, že jednogo dnja stane se tvrdy. Že nikto go ne kupi. Že skonči kako suhy kus na dně koša.
+
+**Lidia** — staklenka ogorkov. Vsegda govorila to, čto myslila. Někogda za mnogo. Ale vsegda iskreno. V glubině duši bojala se, že nikto ne ljubi kislyh rěčij. Že ostane sama na polkě, až njej zaliv vyshne.
+
+**Bazyli** — sirek. Maly, okrugly, zavinuty v srebro. Stydil se, že jest tako maly. Ale iměl največe srce v celom sklepě. I največi strah. Že jest za nič. Za obyčajny. Za malo važny.
+
+**Kornelia** — butelka jablkovogo soka. Vesela, barvista, polna energije. Ljubila pěvati. Ale kogda nikto ne gledal, njej usměh gasl. Bo bojala se, že njej veselost to jest toliko maska.
+
+**Fabian** — jajce. Jedno iz mnogyh. Čuvstvoval se anonimnym. Ale mečtal o tom, da by někogda stati omletom. Čimsi veče než toliko jajcem.
+
+I **Oliwia** — staklenka meda. Zlata, lepliva, tiha. Nikto jej ne zamečal. A ona velmi htela byti zamečena. Bo odkogda pamětala, nikto nikogda jej ne kupil. Stojala na toj samej polkě tako dolgo, že počela věriti, že jest nevidima.
+
+## Razděl drugy: Zniknjenje
+
+Jednoj noči, kogda sklep zanuril se v temnosti, Kornelia otvorila oči.
+
+— Kde jest Bazyli? — zapytała.
+
+Vsi pogledali na polku s sirami. Město po Bazylim bylo pusto.
+
+— Može pošel na prohodku — rěče Fabian.
+
+— Sirek ne hodi na prohodky — odgovorila Lidia. — Sirek leži i čeka, až kto go kupi.
+
+— Togda kde jest?
+
+Počeli iskati. Bartosz vodil. Lidia svetila. Kornelia zvala. Fabian tresl se od straha.
+
+A Oliwia — Oliwia stojala z boku. Kako vsegda. Tiha. Nevidima.
+
+— Može ja něčto znam — rěče tiho.
+
+Vsi se obrnuli.
+
+— Čto? — zapytał Bartosz.
+
+— Viděla, kako izhodil. Črěz ščelinu v dverjah. Govoril, že... že ne hče byti problemom.
+
+— Problemom? — udivila se Lidia.
+
+— Bo nikto go ne kupuje. Bo vsi vybirajut druge siry. Bo mysli, že jest za maly. Za obyčajny. Za...
+
+Oliwia zamolčala.
+
+— Za čto? — dopytal se Fabian.
+
+— Za nič neznečny.
+
+Nastala tišina. Tako gusta, že ju bylo možno rězati nožem.
+
+Bartosz pogledal na Oliwiju.
+
+— Odkud znaš, čto on čuvstvuje?
+
+Oliwia molčala dolgo. A potom rěče tiho:
+
+— Bo ja čuvstvuju to samo.
+
+## Razděl tretji: Nočna vyprava
+
+— Musimo go najdti — rěče Bartosz.
+
+— Ale kako? — zapytała Kornelia. — Sklep jest veliky. A noč jest temna.
+
+— Ja pojdu — rěče Oliwia.
+
+Vsi pogledali na nju zaskočeni.
+
+— Ty? — udivila se Lidia. — Vedj ty nikogda...
+
+— Znam — prervala Oliwia. — Vsegda stojala z boku. Vsegda molčala. Ale znam, čto čuvstvuje Bazyli. Bo ja čuvstvuju to samo.
+
+Bartosz pogledal na nju dolgo. A potom kivnul glavoju.
+
+— Dobre. Idemo zajedno.
+
+Vypravili se. Črěz alejky. Črěz polky. Črěz temnost.
+
+Na početku šli v molčanju. A potom Oliwia počela govoriti.
+
+— Znate — rěče tiho — ja takože čuvstvuju se někogda nevidimoju. Ljudi kupujut džem. Kupujut čokoladu. Kupujut nutellu. A med? Med stoji i pokryva se prahom.
+
+— Ale med jest izjimkovy — rěče Kornelia.
+
+— Znam. Ale to ne znači, že čuvstvuju se izjimkovoju. Nikto nikogda mene ne kupil. Ni razu. Počela mysliti, že može jesm nevidima. Že može mene nema.
+
+Bartosz zastavil se.
+
+— Oliwio — rěče. — Ja takože se někogda bojim. Že nikto mene ne kupi. Že ostanu na polkě tako dolgo, že stanu se tvrdy kako kamenj.
+
+— Ja takože — priznala Lidia. — Ogorky to ne to samo čto čokolada. Bojim se, že nikto ne ljubi kislyh rěčij.
+
+— A ja? — zapytał Fabian. — Ja jesm toliko jajcem. Jednym iz mnogyh.
+
+— Jesi jajcem, ktoro može stati omletom — rěče Oliwia. — A to jest něčto.
+
+Fabian usměhnul se.
+
+— Ale ja — rěče Kornelia tiho — ja se bojim, že moja veselost to toliko maska. Že kogda prestanu se smějati, nikto mene ne poljubi.
+
+Nastala tišina. Ale ne taka težka. Taka, v ktorej možno dyhati.
+
+— Vsi se bojimo — rěče Bartosz. — Daže hlěb.
+
+— Daže hlěb — povtorila Oliwia.
+
+I šli dalje. Zajedno.
+
+## Razděl četvrty: Bazyli
+
+Našli go v zadu sklepa.
+
+Seděl v kutu, za pudlom od bananov. Byl cěly zaprašeny. Srebro iměl zmečkane. Izgledal kako někto, kto se predal.
+
+— Bazyli — rěče Oliwia.
+
+Podnjesl oči.
+
+— Oliwia? Čto ty tut dělaš?
+
+— Prišla jesm po tebe.
+
+— Začto?
+
+— Bo jest našim prijateljem.
+
+Bazyli molčal. A potom rěče tiho:
+
+— Nikto mene ne kupuje. Nikto mene ne hče. Jesm za maly. Za obyčajny. Za...
+
+— Za čto? — prervala mu Oliwia.
+
+— Za nič.
+
+Oliwia sěla obok njego.
+
+— Znaš čto? — rěče. — Ja takože čuvstvuju se někogda kako nič. Ale znaš, čto mi pomaga?
+
+— Čto?
+
+— Mysl, že někto mene potrěbuje. Može ne dnes. Može ne zautra. Ale někogda. Někto prijde i rěče: „O, med. Ravno togo iskal jesm.“
+
+Bazyli pogledal na nju.
+
+— A ako nikto ne prijde?
+
+— Togda ja prijdu — rěče Oliwia. — I skažu: „Bazyli, jest mojim prijateljem. I to mi dosta.“
+
+Bazyli molčal dolgo.
+
+— Ne znam — rěče na koncu. — Ne znam, hču li se vračati. Bojim se, že znovu nikto mene ne kupi. Že znovu budu stojati i čekati. I že to bude bolělo ješče bolje.
+
+— Znam — rěče Oliwia. — Ale znaš, čto jest gorje?
+
+— Čto?
+
+— Samota. Stojanje v kutu. Daleko od vsih. Ja tako stojala črěz mnogo lět. I znam, že to jest gorje než čekanje na polkě.
+
+Bazyli pogledal na nju.
+
+— Ty takože se bojala?
+
+— Da. I ješče se bojim. Ale voleju se bojati zajedno s vami, než otdelno.
+
+Bazyli molčal. A potom vstal.
+
+— Dobre — rěče. — Vratim se. Ale ne zato, že hču, da by někto mene kupil. Vratim se, bo hču viděti prijateljev.
+
+Oliwia usměhnula se.
+
+— To dobra pričina.
+
+## Razděl pety: Povrat
+
+Vratili se zajedno.
+
+Bartosz šel predom. Lidia svetila. Kornelia pěvala. Fabian podskakal. Oliwia nesla Bazylija.
+
+A kogda došli na město, vsi počeli pleskati.
+
+— Bazyli! — vskrikla Lidia. — Vratil si se!
+
+— Vratil jesm se — rěče Bazyli. — Bo... bo imam prijateljev.
+
+— Vsegda iměl jesi — rěče Oliwia.
+
+— Znam. Ale tutčas to čuvstvuju.
+
+Gospoža Halina ne věděla o ničem. Rano prišla, otvorila prodavnicu i postavila syrček na polku. Obok medu.
+
+— Někto tu robil neporjadok — mrmnula, gledajuči na zaprašeno srebrce. — Ale ne škodi. Vsečto na svojem městu.
+
+I pošla, da by zavariti čaj.
+
+## Zaključenje
+
+Prošli dni. Tydni.
+
+Bazyli vse ješče stal na polku. Nikto go ne kupil. Oliwia vse ješče stala obok. Nikto jej ne kupil.
+
+Ale něčto se izměnilo.
+
+Bo vsakoj noči, kogda prodavnica gasla, Bazyli i Oliwia sědali zajedno. Razgovarjali. Smějali se. Časami mlčali.
+
+A kogda prihodilo jutro, vračali se na svoja města.
+
+— Bojiš se? — spytala v jednoj noči Oliwia.
+
+— Malo — priznal Bazyli. — Že zautra ponovno nikto mene ne kupi.
+
+— Ja takože — rěkla Oliwia.
+
+— Ale znaš čto?
+
+— Čto?
+
+— Ne jesm sam.
+
+Oliwia usměhnula se.
+
+— Ja takože ne.
+
+I ležali tako obok sebe. Maly syrček i banka medu. Nikto jih ne htěl. Ale oni htěli sebe.
+
+A to bylo večje, než mogli dostati od kogokolvěk drugogo.
+
+---
+
+Daže najmenjši syrček imaje svoje město.
+A toj, kto čuvstvuje se nevidimy,
+često jest najvažnějši —
+jedino ješče o tom ne zna.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Kako se zove magazin?
+
+**Answers:**
+- A) Pod Slunečnikom
+- B) Pod Zlatym Zvonkom
+- C) Biedronka na osedlju
+- D) U Pani Zofii
+
+**Correct:** A
+**Explanation:** Magazin Pod Slunečnikom.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kto vedet magazin?
+
+**Answers:**
+- A) Pani Krystyna
+- B) Pani Halina
+- C) Pani Zofia
+- D) Pani Wanda
+
+**Correct:** B
+**Explanation:** Pani Halina s očkami.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kim jest Bartoš?
+
+**Answers:**
+- A) Burger na polkě
+- B) Slojka ogurkov
+- C) Bohon hlěba
+- D) Rybka v sosu
+
+**Correct:** C
+**Explanation:** Bartoš – bohon hlěba.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čego boji se Bartoš?
+
+**Answers:**
+- A) Že padne na podlogu
+- B) Že znikne s polky
+- C) Že bude posoljen
+- D) Že stane se tvrdy
+
+**Correct:** D
+**Explanation:** Bojał se, že stane se tvrdy.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čto děje se v noči v magazinu?
+
+**Answers:**
+- A) Gasnut vsě světyla?
+- B) Produkty otvarjajut
+- C) Zamyka se na vsegda
+- D) Prihodet samo ljudi
+
+**Correct:** B
+**Explanation:** Produkty otvarjajut oči.
+**Text reference:** q5
+

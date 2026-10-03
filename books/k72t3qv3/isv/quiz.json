@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kamo otec vede sedmiletnego Maćka?",
+      "answers": [
+        "Na bazén",
+        "Do varkstata",
+        "Do kina?",
+        "Na stadion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zavedl go do varkstata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Maćek uči sę kako otec?",
+      "answers": [
+        "Kovati dítě kako metal",
+        "Sluhati, izvinjati sę, byti",
+        "Ignorovati risunky",
+        "Sravnjivati děti?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sluha, jest prisutny; dítě ne jest metal za kovati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dščeri risuje?",
+      "answers": [
+        "Avtomobil",
+        "Rodinu: ja, ty i mama — vsi sę",
+        "Kartu Poljsky",
+        "Zmaja?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risunek rodiny, ktora sę směje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoru metaforu odmetaje zakončenje?",
+      "answers": [
+        "Dítě kako ptah",
+        "Dítě kako kus metala za kovati v",
+        "Dítě kako kniga",
+        "Dítě kako vrt?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dítě ne jest kus metala za kovati."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Maćek čini po pogledu na risunek?",
+      "answers": [
+        "Odhodi iz komnaty",
+        "Sěda blizko i prosi: Opovědaš mi o tom",
+        "Kritikuje barvy",
+        "Vygaša svetlo?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sěda blizko i prosi o opovědanje risunka."
+    }
+  ]
+}

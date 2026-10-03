@@ -1,0 +1,27 @@
+{
+  "packId": "6vlegy3n:isv",
+  "bookId": "6vlegy3n",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Polish canon + ISV translation"
+    }
+  ],
+  "revisionNotes": "Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.",
+  "translationStatus": "machine",
+  "translationSource": "6vlegy3n:pl",
+  "translationSourceVersion": "1.0.0"
+}

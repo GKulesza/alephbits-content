@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како име има дєвојчица?",
+      "answers": [
+        "Лилиана",
+        "Дагмара",
+        "Клара",
+        "Ноеми"
+      ],
+      "correctIndex": 0,
+      "explanation": "Лилиана с долгыми волосами."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что остаје по мами?",
+      "answers": [
+        "Златы прстен",
+        "Сребрны гребењ",
+        "Стары часомєр",
+        "Чрвена пелерина"
+      ],
+      "correctIndex": 1,
+      "explanation": "Сребрны гребењ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест Дагмара?",
+      "answers": [
+        "Суседка из огрода",
+        "Учитељка в школи",
+        "Нова домова",
+        "Кузина из града?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Елегантна опєкунка в дому."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что мама говорила о правди?",
+      "answers": [
+        "Говори само латинскы",
+        "Всегда кричи гласно",
+        "Никогда не говори ничто",
+        "Говори часом шептом"
+      ],
+      "correctIndex": 3,
+      "explanation": "Правда говори часом шептом."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име тата Лилианы?",
+      "answers": [
+        "Михал",
+        "Јулиан",
+        "Роберт",
+        "Марцел"
+      ],
+      "correctIndex": 1,
+      "explanation": "Тата Јулиан."
+    }
+  ]
+}

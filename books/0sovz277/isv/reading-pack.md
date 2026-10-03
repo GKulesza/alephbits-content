@@ -1,0 +1,295 @@
+# Prag
+
+## Metadata
+
+**Pack ID:** 0sovz277
+**Book ID:** 0sovz277
+**Legacy Pack ID:** polish_prog
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Prag  
+**Subtitle:** *(none)*  
+**Blurb:** Przemek probuđa se v 5:47. Postavlja pytanja, ktoryh drugi unikajut — i uči se, že sirena v noči ne vsegda znači pomoč.
+
+**Genres:** short_story, everyday_live  
+**Series:** Collection Twelve  
+**Audience:** adult
+
+**Difficulty:** 5 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Próg" — oficialnoje izdanje Collection Twelve.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** dziennikarstwo, odwaga, prawda, Collection Twelve  
+
+**Keywords:** Prag, Próg, Collection Twelve  
+
+**Cover family:** everyday_live
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Twelve). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** 0sovz277:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**PRAG**
+
+Przemek probudil se v 5:47. Ne s budilnikom – prosto tak uže iměl. Godina, v ktoru vsegda otvarjal oči, prězde čim slnko vstignulo zagledati črěz okno. Vypil gltku hladnogo čaja, ktory stojal na nočnom stoliku od včeraj. Vključil telefon. Na susědskoj grupě kto-to vložil link do spravy na Ekonomičnom Universitetě.
+
+– Przemek, pogledaj – napisa Kamil. – Vynajimajut lokal za 1200 zl. Rynok jest 3500. I kto-to tam legalizuje inozemcev. Na teritoriju učilišča. Zaisto hočeš tam iti?
+
+Przemek pregledal komentare. Ljudi pisali jedno i tože: "Kto-to by to prověril", "Može kto-to vpraša", "Ale boju se, bo ješče prizovut policiju". Przemek odložil telefon. Pomyšlil o svojem otcu, ktory v 90-yh lětah utratil rabotu prěz to, čto vprašal šefa o izčezajuče faktury. "Ne davaj pytanij, synu" – govoril potom. "Pytanja sut droge."
+
+Przemek vstal. V kuhnji sdělal sandvič, zavil v foliju. Do torby vložil notatnik, ručku, osobnu kartu. Do ničego vyše ne potrěboval ovlaščenij. Ne byl policijantom, ne byl prokuratorom. Byl jedino človekom, ktory htěl věděti, začto javno učilišče vynajimaje svoje poměščenja za jednu tretinu rynkovoj cěny. I či ta firma zaisto dělaje soglasno zakonu.
+
+Kogda on vychodil, žena pogledala na njego iznad knigy.
+
+– Kuda ideš?
+
+– Na universitet.
+
+– Za čto?
+
+– Vprašati o nečem.
+
+– Pazi na sebe.
+
+– Vsegda pazim.
+
+Ekonomičny Universitet v Poznanju pahnul sredstvom dlja podlogy i věčnoj kavoj. Shodova klětka byla čista, tiha. Na tretjem etažu, na dverjah, visěla mala tablička: Legalizacija prebyvanja – bez odkazov, bez stresu, polna uspěšnost. Przemek pogledal na Kamila. Kamil požal ramenami.
+
+– No to kucaj.
+
+Przemek pokucal. Dveri otvorile se tutčas, kako by kto-to za njimi čekal. V njih stojala mlada žena, usměhnena, s telefonom v dlani – uže snimala.
+
+– Dobry denj – rěče Przemek. – Nazyvaju se Przemysław Grzegorek. Mogu li vam zadati několiko pytanij?
+
+– Prosim.
+
+Ne vstupili vnutr. Stojali v koridoru, kako v učtivyh besědah. Žena govorila krasno, gladko, ale v jeje glasu ne bylo ni udivjenja, ni negodovanja. Byla prigotovlena. Ne vprašala, kto sut oni, ne vprašala o dokumenty, ne zatvorila dveri. Przemek pytal o cěnu najma, o legalizaciju, o pravnu osnovu. Ona odgovarjala občimi frazami. V jednom momentu Przemek vprašal o banderu i kult UPA.
+
+– To ne jest město do političnyh diskusij – odgovorila.
+
+– Razumějem. Blagodarim.
+
+Vyjšli. Na shodah Kamil rěče:
+
+– Ona znala, že prijdemo.
+
+– Znam. Ne nervirala se ni malo.
+
+– I snimala vse.
+
+– To dobro. Nehaj snimaje. Ja takože snimal.
+
+Przemek shovil telefon v karman. Myslil, že to konec. Že vrati se do doma, sdělaje notatky, napisaje email rektoru. Može sprava popadne v medije, može ne. Ale sdělal svoje. Vprašal. Toliko dostatočno.
+
+Sedem dnjev pozdeje, v 5:47, kto-to pokucal v dveri. Przemek otvoril oči, prězde čim kucanje utihlo. Vstal iz postelje, postavil čajnik. Pomyšlil: može listonoš. Ili susěd iz vrha, ktoromu vsegda teče voda.
+
+Potom kucanje ponovilo se – glasněje, ritmičnje. I glas: Policija, otvoriti!
+
+Przemek ne vstignul dotknuti kljamku. Dveri otvorile se same – kto-to iměl ključe. V pragu stojalo šest mužev v sinih mundurah. Jedin iz njih držal v rukě fotografičny aparat. Drugi – kameru. Treti posegnul po Przemka, prězde čim toj vstignul odstupiti o krok.
+
+– Przemysław Grzegorek?
+
+– Da.
+
+– Zadržanje. Prosim, obrniti se i položiti ruky za pleči.
+
+Przemek poslušal. Počutil hladny metal na zapestjah – z zadu, ne z prěda. Kto-to jemu nakinul kurtku na ramena, da by skryti okovy. Vypraveli go kroz koridor. V dverjah kuhnje stojala jego žena. Gledala na njego, kako by viděla čudžego muža. V oknu na etažu dětsko lice priklejeno do stekla. Przemek htěl rěči: "Vse bude dobro", ale ne vstignul. Pchnuli go v směr shodov.
+
+V policijnom avtu pahnulo potom i plastikom. Jedin iz policijantov něčto pisal v notatniku. Drugi gledal v telefon. Nikto ne govoril. Przemek proboval razuměti, čto se děje, ale v jego glavě rabotalo jedino jedno pytanje: za čto?
+
+V prokuraturě kazali jemu sěsti. Byl vse ješče skovan. Daval sviděčenje v okovah. Diktoval, a urědnik vpisaval v komputer. Po godinje kto-to podšel i otkryl jednu paru okov, prekovav jemu ruky naprěd.
+
+– Musite podpisati – rěče.
+
+Przemek pogledal na svoje ruky. Bile su sine. Podpisal.
+
+– Art. 212. Javna kleveta. Grozi globa ili rok zatvora.
+
+– Či to jest privatnožalbno prěstupstvo? – vprašal Przemek.
+
+Prokurator pogledal na njego pozorno.
+
+– Da.
+
+– Togda začto policija prišla do mene v 6 rano?
+
+Nikto ne odgovoril.
+
+Vyjšel po dvoh godinah. Vratil se do doma taksijem, bo zabrali jemu telefon i laptop. V dverjah jego privitala žena. Prěz moment stojali v molčanju.
+
+– Pytal jesi ju o toj firmu – rěkla. – Jedino pytal jesi.
+
+– Da.
+
+– I za to te skovali.
+
+Przemek sěl v kuhnji. Nalil sebě čaja, hoti byl uže hladny. V glavě skladal mozaiku: policija ne směla by dělati iz urěda pri 212. To jest civilna sprava. Poškođena musit sama prijaviti. A poškođena – ta Ukrajinka iz universiteta – ne prijavila. Da, podala prijavu, ale jedino kogda policija sama ju naměrila, našla i privela na komisariat. Inicijativa vyjšla od funkcionarjev. I ješče fotografije – objavjene na Facebooku policijnoj komendy, kako vedut go po shodah, kako by byl ubojcem. Fotografije sdělane dlja medijev, dlja politikarjev, dlja zriteljev.
+
+Przemek otvoril laptop, ktory jemu vrátili. Vključil pregledač. Našl profil Pawła Wyrzykowskiego. Kto-to jemu o njem govoril. Žurnalist, ktory od lět jest cěljem gonjenja. Člověk, ktory takože popal na ukrajinsku listu smrti. Przemek napisa: Potrěbujem pomoč.
+
+Odpověd prišla po deseti minutah: Jesi zaderžan za pytanja. Znam. Pozvoni.
+
+– Govoriš, že byl jesi skovan z zadu? – vprašal Paweł po telefonu.
+
+– Da. I v čas sviděčenja takože. Až prěd podpisom protokola prekovali mi ruky naprěd.
+
+– To jest skandal, ktory ne jesm viděl od lět. Slušaj, imam uže četvero dětej. Sedemdeset kilometrov od mene ubili človeka iz toj samej listy, na ktoroj jesm. Ne odstupim prěd ničim.
+
+Przemek slušal. Glas Pawła byl spokojny, ale v pozadiju bylo slyšati děti – směh, kroki, normalny život. A jednako toj človek govoril o svojej smrti kako o možnom scenariju.
+
+– Ne jesi sam – dodal Paweł. – Za toboju stojat ljudi, ktori věrujut, že v Polskoj može ješče vprašati o nečem bez okov. Dostaneš pravnu pomoč. Ne davaj se.
+
+Przemek odložil sluhavku. V kuhnji bylo tiho. Črěz okno bylo vidno ulicu – avtomobile, ljudi iduče do raboty, děti do školy. Vse izgledalo normalno. Jedino vnutri Przemka něčto puklo. Ne od straha. Od nečego drugogo.
+
+Razuměl, že država, ktora by iměla zaščititi, prišla po njego, bo vprašal pytanje. Že granica medžu legalnym i nelegalnym premestila se tako daleko, že uže ne zna, na ktoroj straně stoji. I že ne može uže pretvarjati se, že to go ne tika.
+
+Vzal notatnik i ručku. Sěl pri stolu. Počal pisati spisok – imena, daty, numera sprav, nazvy firm. Vsaky detalj, vsaky fragment mozaiky. Kogda skončil, pogledal na ženu.
+
+– Budem tražiti svoje prava.
+
+– Znam.
+
+– Bo ako ne ja, to kto? Ako my ne vprašamo, to nikto ne vpraša.
+
+– Idi spati – rěkla žena. – Zautra počinamo iznova.
+
+Przemek zatvoril notatnik. Legl na postelju. Črěz otvoreno okno doběgal zvuk sireny – někde daleko, može na drugom koncu grada. Někogda myslil, že sirena to znak, že kto-to potrěbuje pomoč. Tutčas znal, že časom označaje něčto sasvim drugo: že kto-to vprašal o něčto, čego ne směl by.
+
+Zasnul po 23. Obudil se o 5:47. S budilnikom.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** V ktorom času probuđa se Przemek?
+
+**Answers:**
+- A) V 7:00
+- B) V 5:47
+- C) V 9:15
+- D) V 12:00
+
+**Correct:** B
+**Explanation:** Probuđa se v 5:47 — najprvo bez budilnika, na koncu s budilnikom.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čim zanimaje se Przemek?
+
+**Answers:**
+- A) Jest kuhar?
+- B) Jest novinar slěditelj / pytajuči o
+- C) Jest pilot
+- D) Jest učitelj fizkultury
+
+**Correct:** B
+**Explanation:** Postavlja neudobna pytanja i zapisuje zagroženja svęzane s novinarskoj rabotoj.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Čto žena govori Przemku večerom?
+
+**Answers:**
+- A) Aby vyjehal iz strany
+- B) Aby šel spati — jutro načinajut od
+- C) Aby změnil profesiju
+- D) Aby molčal?
+
+**Correct:** B
+**Explanation:** Govori: Idi spati. Jutro načinajemo od nova.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Kako konča se den Przemka?
+
+**Answers:**
+- A) Zasypaje po 23 i probuđa se v 5:47 s
+- B) Ne spi vse?
+- C) Vyježdaje iz grada
+- D) Ostavjaje rabotu
+
+**Correct:** A
+**Explanation:** Zasypaje po 23; probuđa se v 5:47 s budilnikom.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čto znači za Przemka sirena v noči?
+
+**Answers:**
+- A) Vsegda samo medicinska pomoč
+- B) Često znak, že ktoś zapytal o čem, o čem ne
+- C) Konec vojny?
+- D) Pozvanje na konferenciju
+
+**Correct:** B
+**Explanation:** Često znači, že ktoś zapytal o čem, o čem ne dolžen.
+**Text reference:** q5
+

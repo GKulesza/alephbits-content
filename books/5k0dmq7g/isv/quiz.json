@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Helena?",
+      "answers": [
+        "Sedm lět",
+        "Deset lět",
+        "Jedinnadcat lět",
+        "Osm lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena iměla sedm lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove prijateljka?",
+      "answers": [
+        "Otylija",
+        "Amelija",
+        "Lilijana",
+        "Polja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amelija – najlěpša prijateljka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove pes Heleny?",
+      "answers": [
+        "Azor",
+        "Burek",
+        "Fafik",
+        "Reksio"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pes Fafik."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego boji se Helena v noči?",
+      "answers": [
+        "Zlej ocěny",
+        "Utraty plecaka",
+        "Nedostatka kredki",
+        "Drugoj klasy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Že Amelija bude v drugoj klasě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto imajut na sobě obě děvčety?",
+      "answers": [
+        "Črvene peleriny s kapišonom",
+        "Temno-modre sukně v kropky",
+        "Zelene kurtky na větr",
+        "Žute bluzy s kapišonom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Temno-modre sukně v kropky."
+    }
+  ]
+}

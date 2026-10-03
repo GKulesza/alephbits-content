@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Гниеwко?",
+      "answers": [
+        "Дванадцет лєт",
+        "Десет лєт",
+        "Пѧтнадцет лєт",
+        "Осем лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Гниеwко имєл дванадцет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест отец Гниеwка?",
+      "answers": [
+        "Дрвар Базылиј",
+        "Краљ Мśцисłаw",
+        "Возны Казимиерз",
+        "Ткач из села"
+      ],
+      "correctIndex": 1,
+      "explanation": "Краљ Мśцисłаw."
+    },
+    {
+      "type": "single_choice",
+      "question": "Одкуд приходи писмо?",
+      "answers": [
+        "Монастыр на холму",
+        "Мєстска школа?",
+        "Академија",
+        "Порт над рєкоју"
+      ],
+      "correctIndex": 2,
+      "explanation": "Академија Гуśларства."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто приноси призвање?",
+      "answers": [
+        "Орел",
+        "Голуб",
+        "Сова",
+        "Крук"
+      ],
+      "correctIndex": 3,
+      "explanation": "Писмо на крилах крука."
+    },
+    {
+      "type": "single_choice",
+      "question": "Когда има се јавити?",
+      "answers": [
+        "В зимње свѧта",
+        "В прзесилење",
+        "В ноћ листопада",
+        "В весну в мају"
+      ],
+      "correctIndex": 1,
+      "explanation": "Дењ прзесилења лєта."
+    }
+  ]
+}

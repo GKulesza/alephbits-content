@@ -1,0 +1,67 @@
+{
+  "title": "Ⱂⱃⱁⰲⱑⱃⰹ ⱃⰰⰸⱆⰿⱑⱘⰵ",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰰⰽⱁ ⰹⰿⰵ ⱌⱈⰾⰰⱂⱌⰰ?",
+      "answers": [
+        "Ⰿⰹłⱁⱄⰸ",
+        "Ⱄⰸⱐⰿⱁⱀ",
+        "Ⰳⱀⰹⰵwⰽⱁ",
+        "Ⰱłⰰżⰵⰺ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ⰿⰹłⱁⱄⰸ, ⱁⱄⰵⰿ ⰾⱑⱅ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⱍⱅⱁ ⱁⱀ ⰿⱐⱄⰾⰹ ⱁ ⰱⱃⱁⰽⱁⰾⰹ?",
+      "answers": [
+        "Ⱄⱆⱅ ⱀⰰⰺⰱⱁⰾⱎⰵ",
+        "Ⱄⱆⱅ ⱄⱆⰿⱘⰹⰲⰵ",
+        "Ⱄⱆⱅ ⰽⰰⰽⱁ ⱌⱆⰽⱃ",
+        "Ⱄⱆⱅ ⰽⰰⰽⱁ ⰲⱁⰴⰰ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ⰸⰵⰾⰵⱀⰹⱀⱐ ⱄⱆⱅ ⱄⱆⰿⱘⰹⰲⰵ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰰⰽⱁ ⰹⰿⰵ ⰿⰰⰿⱐ?",
+      "answers": [
+        "Ⱈⰰⰾⰹⱀⰰ",
+        "Ⰽⰰⱅⰰⱃⰸⱐⱀⰰ",
+        "Ⰹwⱁⱀⰰ",
+        "Wⰰⱀⰴⰰ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ⰿⰰⰿⰰ Ⰹwⱁⱀⰰ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⰰⰽⱁ ⱄⰵ ⰸⱁⰲⰵ ⱄⰵⱄⱅⱃⰰ?",
+      "answers": [
+        "Ⰽⰾⰰⱃⰰ",
+        "Ⱁⱅⱐⰾⰹⰰ",
+        "Ⱈⰵⰾⰵⱀⰰ",
+        "Ⱂⱁⰾⰰ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ⱄⰵⱄⱅⱃⰰ Ⱂⱁⰾⰰ."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ⰽⱅⱁ ⰺⰵⱄⱅ ⱅⰰⱅⰰ Ⰿⰹłⱁⱄⰸⰰ?",
+      "answers": [
+        "Ⰿⰹⱌⱈⰰł",
+        "Ⱃⱁⰱⰵⱃⱅ",
+        "Ⰺⱆⰾⰹⰰⱀ",
+        "Ⰰⱀⱅⱁⱀ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ⱅⰰⱅⰰ Ⱃⱁⰱⰵⱃⱅ."
+    }
+  ]
+}

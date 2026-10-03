@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како се называ склеп?",
+      "answers": [
+        "Биедронка",
+        "Под Слунечником",
+        "Под Златым Звонком",
+        "У Пани Зофии"
+      ],
+      "correctIndex": 0,
+      "explanation": "Склеп Биедронка."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест Оскар?",
+      "answers": [
+        "Бургер на полкє",
+        "Слојка огурков",
+        "Боцхен хлеба",
+        "Рыбка в сосу"
+      ],
+      "correctIndex": 1,
+      "explanation": "Оскар – слојка огурков."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест Бартек в склепу?",
+      "answers": [
+        "Хлопец из оседља",
+        "Вратник школы",
+        "Бургер, новы",
+        "Пес сусєда"
+      ],
+      "correctIndex": 2,
+      "explanation": "Бартек – бургер, новы."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто ведет склеп?",
+      "answers": [
+        "Склеп ведет Крыстына",
+        "Склеп ведет Халина",
+        "Склеп ведет Зофиа",
+        "Склеп ведет Иwона"
+      ],
+      "correctIndex": 3,
+      "explanation": "Пани Крыстына."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест Рысиа?",
+      "answers": [
+        "Слојка меда",
+        "Рыбка в сосу",
+        "Пацєчка чаја",
+        "Торбица мукы"
+      ],
+      "correctIndex": 1,
+      "explanation": "Рысиа – рыбка в сосу."
+    }
+  ]
+}

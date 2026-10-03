@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako nazval zespól Boroń?",
+      "answers": [
+        "Lovci sěnj",
+        "Vlci noči",
+        "Granična straža",
+        "Zespól Alfa"
+      ],
+      "correctIndex": 0,
+      "explanation": "– Lovci sěnj – rekl Boroń."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogda nastava koncepcija v prologu?",
+      "answers": [
+        "Varšava, julij 2026",
+        "Varšava, junij",
+        "Krakov, maj 2005",
+        "Gdańsk, januar 2019"
+      ],
+      "correctIndex": 1,
+      "explanation": "Varšava, junij 2011 goda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo prizyvaje Viktor Słojkowski?",
+      "answers": [
+        "Leszek Żebrowski",
+        "Marek Boroń",
+        "Piotr Halicki",
+        "Andrzej iz PPBW"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piotra Halickogo – avtora knigy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku jedinicu opisuje tekst?",
+      "answers": [
+        "SG graničnu",
+        "Straž městsku",
+        "ABW kontrrazvědky",
+        "CBŚP pogonske"
+      ],
+      "correctIndex": 3,
+      "explanation": "Otděl pogonskih operacij CBŚP."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky podcast vedje Viktor?",
+      "answers": [
+        "Sěnj dnja",
+        "Kozaczek",
+        "Nočna vlna",
+        "Lovac pravdy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Podcast Kozaczek."
+    }
+  ]
+}

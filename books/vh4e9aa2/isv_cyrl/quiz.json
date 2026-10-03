@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како име цхлапца?",
+      "answers": [
+        "Миłосз",
+        "Сзымон",
+        "Гниеwко",
+        "Бłаżеј"
+      ],
+      "correctIndex": 0,
+      "explanation": "Миłосз, осем лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что он мысли о броколи?",
+      "answers": [
+        "Сут најболше",
+        "Сут сумњиве",
+        "Сут како цукр",
+        "Сут како вода"
+      ],
+      "correctIndex": 1,
+      "explanation": "Зеленины сут сумњиве."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како име мамы?",
+      "answers": [
+        "Халина",
+        "Катарзына",
+        "Иwона",
+        "Wанда"
+      ],
+      "correctIndex": 2,
+      "explanation": "Мама Иwона."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове сестра?",
+      "answers": [
+        "Клара",
+        "Отылиа",
+        "Хелена",
+        "Пола"
+      ],
+      "correctIndex": 3,
+      "explanation": "Сестра Пола."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто јест тата Миłосза?",
+      "answers": [
+        "Мицхаł",
+        "Роберт",
+        "Јулиан",
+        "Антон"
+      ],
+      "correctIndex": 1,
+      "explanation": "Тата Роберт."
+    }
+  ]
+}

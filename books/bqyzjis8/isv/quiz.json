@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto sut Magda i Tomek?",
+      "answers": [
+        "Susedi bez děti",
+        "Roditelji, ktori učat se slušati „hor“",
+        "Učitelji telesnoj kultury",
+        "Lěkaři?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Para s dětmi, ktora uči se novoj melodiji roditeljstva."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto davali dětem po zakončenju?",
+      "answers": [
+        "Samo tablety",
+        "Primjer, že možno svaditi se i miriti",
+        "Samo kazni?",
+        "Absolutnu tišinu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Davali primjer svadby i mirenja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto označa „hor“ v tom pověstovanju?",
+      "answers": [
+        "Školny ansambl?",
+        "Głosy roditeljev, djedov i pokoljenij v",
+        "Radio v kuhnji",
+        "Muzyčnu aplikaciju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hor głosov pokoljenij, ktory ješče zvuči v njih."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoro ime djeteta pojavja se v tekstu?",
+      "answers": [
+        "Januš",
+        "Franek",
+        "Berkas",
+        "Filippo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojavja se Franek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Magda i Tomek učat se pomalu?",
+      "answers": [
+        "Pěti čužu melodiju bez změn",
+        "Slušati hor i pěti svoju",
+        "Vsegda molčati?",
+        "Oddati vospitanje školi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Učat se slušati hor i pěti svoju melodiju."
+    }
+  ]
+}

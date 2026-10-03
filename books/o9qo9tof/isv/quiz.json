@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko dnj imajut provesti v lěsu?",
+      "answers": [
+        "Pet spokojnyh dnj v lěsu",
+        "Deset spokojnyh dnj",
+        "Dva spokojne nedělji lěsa",
+        "Jedin spokojny měsjac lěsa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deset dnj v lěsu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto predlaga izjezd do lěsa?",
+      "answers": [
+        "Sam samo Kacper iz grada",
+        "Zośka govori Kacpru",
+        "Jih blizky sosed iz bloka",
+        "Šef iz biura raboty v firmě"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zośka predlaga izjezd."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego imajut uniknuti v lěsu?",
+      "answers": [
+        "Mapy v velikom rukzaku",
+        "Pruda i svęzi",
+        "Jedenja i vody",
+        "Šatra v gustom lěsu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bez pruda i svęzi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto činjajut vměsto idti do kina?",
+      "answers": [
+        "Idut večerom do kina",
+        "Vračajut se skoro do grada",
+        "Kupujut novy laptop",
+        "Činjajut pravu čaj"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prava čaj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky kontrast pokazuje pověst?",
+      "answers": [
+        "Spor o same penezy",
+        "Svar o školu dětij",
+        "Grad protiv divogo lěsa",
+        "Borba o napredovanje v rabotě"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grad protiv lěsa."
+    }
+  ]
+}

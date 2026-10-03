@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima děvojčica?",
+      "answers": [
+        "Liliana",
+        "Dagmara",
+        "Klara",
+        "Noemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liliana s dolgymi volosami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto ostaje po mami?",
+      "answers": [
+        "Zlaty prsten",
+        "Srebrny grebenj",
+        "Stary časoměr",
+        "Črvena pelerina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Srebrny grebenj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Dagmara?",
+      "answers": [
+        "Susedka iz ogroda",
+        "Učiteljka v školi",
+        "Nova domova",
+        "Kuzina iz grada?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elegantna opěkunka v domu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto mama govorila o pravdi?",
+      "answers": [
+        "Govori samo latinsky",
+        "Vsegda kriči glasno",
+        "Nikogda ne govori ničto",
+        "Govori časom šeptom"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pravda govori časom šeptom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime tata Liliany?",
+      "answers": [
+        "Mihal",
+        "Julian",
+        "Robert",
+        "Marcel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tata Julian."
+    }
+  ]
+}

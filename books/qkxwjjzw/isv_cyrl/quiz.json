@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт имаје Хелена?",
+      "answers": [
+        "Десет лєт",
+        "Седм лєт",
+        "Осем лєт",
+        "Дванадцат лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Хелена имала десет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что збираје Хелена?",
+      "answers": [
+        "Камены",
+        "Пухатеки",
+        "Знакы",
+        "Раковины"
+      ],
+      "correctIndex": 1,
+      "explanation": "Карманы полне Пухатеков."
+    },
+    {
+      "type": "single_choice",
+      "question": "Колико Пухатеков имаје Хелена?",
+      "answers": [
+        "Дванадцат кусов",
+        "Три кусы",
+        "Седм кусов",
+        "Једин кус"
+      ],
+      "correctIndex": 2,
+      "explanation": "Имала их уж седм."
+    },
+    {
+      "type": "single_choice",
+      "question": "Кто дал бєлы Пухатек?",
+      "answers": [
+        "Суседка Халина",
+        "Мама Ивона",
+        "Тета Зофиа",
+        "Баба Богна"
+      ],
+      "correctIndex": 3,
+      "explanation": "Од бабы Богны на родины."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что чини бєлы Пухатек при лампє?",
+      "answers": [
+        "Расте в великости",
+        "Мєња колор",
+        "Изника с полкы",
+        "Пєваје к Хелени"
+      ],
+      "correctIndex": 1,
+      "explanation": "Мєња колор освєтјенны."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest glavna osoba?",
+      "answers": [
+        "Trener futbolovy",
+        "Novinar v medijah",
+        "Lekar s privatnoju klinikoju",
+        "Učitelj v velikoj gimnaziji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Medijna osoba / Stanovsky."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto ostaje po nagranju?",
+      "answers": [
+        "Množstvo fanov v velikom studiju",
+        "Plan slědujućego dolgogo sezona",
+        "Dogovor s novym reklamodavcem",
+        "Tišina i gluboka samotnost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Svetla gasnut; ostaje sam."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto jest «skorupa»?",
+      "answers": [
+        "Maska uspěha v medijah",
+        "Stary semejny avtomobil",
+        "Novo logo cělago kanala",
+        "Bilet na važny futbalovy match"
+      ],
+      "correctIndex": 0,
+      "explanation": "Publicna maska uspěha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako pytanje ostaje na koncu?",
+      "answers": [
+        "Koliko koštuje ta nova kamera?",
+        "Či to vsegda vredno bylo?",
+        "Gdě jest svobodny parking tut?",
+        "Kogda počinaje se ta dopust?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Či vredno bylo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se pověst?",
+      "answers": [
+        "Cěn biletov na matchi",
+        "Cěny uspěha i slavy",
+        "Tanyh letov avionom",
+        "Abonamenta televizijnego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cěna uspěha i slavy."
+    }
+  ]
+}

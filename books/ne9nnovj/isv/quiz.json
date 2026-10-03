@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět iměl povědnik, kogda prvy raz slyšal o templarijah?",
+      "answers": [
+        "Deset",
+        "Dvanadset",
+        "Petnadset",
+        "Sedm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst govori: „Kogda iměl jesm dvanadset lět, prvy raz slyšal jesm o templarijah.“"
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo povědnik spominaje kako „svetogo vojnika“ v ljudskom smyslu?",
+      "answers": [
+        "Oca",
+        "Děda iz AK",
+        "Artura Vujtoviča",
+        "Atora"
+      ],
+      "correctIndex": 1,
+      "explanation": "Děd byl vojnikom Armije Krajovej i našel pokoj v prijetju prošlosti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto povědnik nosil kako dítě?",
+      "answers": [
+        "Medaljon s Materju",
+        "Črveny krst",
+        "Samurajsky amulet",
+        "Orden?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spominaje medaljon s Materju Božjeju, v ktory věril kako dítě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky zaključek čini povědnik na koncu?",
+      "answers": [
+        "Trěba vratiti se k religiji",
+        "Može dostatočna jest věra v sebe i danje smysla",
+        "Vojna jest vsegda pravedna",
+        "Ritualy sut bezpolězne?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Končaje myslju, že može ne potrěbujemo věry v bogov — dostatočna jest věra v sebe."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě sědi povědnik kogda slušaje podkast?",
+      "answers": [
+        "V varšavskom",
+        "V Krakově?",
+        "V Poznanju",
+        "Na selu u děda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pověst počinaje se od „sědžu v svojem varšavskom stanu“."
+    }
+  ]
+}

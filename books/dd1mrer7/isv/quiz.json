@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět Januš rabotál v jednom zavodě?",
+      "answers": [
+        "Dvadeset",
+        "Četyridesęti",
+        "Deset",
+        "Pęti?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Naracija počina od četyridesęti lět raboty Januša."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky dnevny limit vyplat uslyšál Januš v banku?",
+      "answers": [
+        "Četyri tysęče zlotyh",
+        "Četyrista zlotyh",
+        "Osemdesęt tysęč",
+        "Bez limita"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasiorka govorit o limitu četyrista zlotyh dnevno."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto kupil Januš u jubilera?",
+      "answers": [
+        "Zlaty lančušek",
+        "Malu sztabku zlata",
+        "Monety kolekcionne",
+        "Obligacije"
+      ],
+      "correctIndex": 1,
+      "explanation": "On kupuje desętigramovu sztabku zlata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako imę ima dćerka Januša?",
+      "answers": [
+        "Anna",
+        "Marta",
+        "Kaśa",
+        "Eva?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dćerka nazyva se Marta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Januš hoče zaščititi, kupujuči zlato?",
+      "answers": [
+        "Samo spekulativnu investiciju",
+        "Vrednost ščedrenij pred slabejučej",
+        "Znižku v banku?",
+        "Državnu penziju"
+      ],
+      "correctIndex": 1,
+      "explanation": "On odkryva, že papirne ščedrenija gubet vrednost v odnosu k zlatu."
+    }
+  ]
+}

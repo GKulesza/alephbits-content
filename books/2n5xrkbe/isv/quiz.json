@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kak Karolina odgovarja kim jest?",
+      "answers": [
+        "Jestem Poljankoju",
+        "Jestem Rusynjeju",
+        "Jestem graždaninom světa",
+        "Jestem samo gostjem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpověda: Jestem Poljankoju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě Karolina stoji v prologu?",
+      "answers": [
+        "Moskva, centrum",
+        "Poznań, Wilda",
+        "Berlin, Kreuzberg",
+        "Vilno, starověk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stan na poznańskoj Vildě."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima muž Karoliny?",
+      "answers": [
+        "Marek",
+        "Andrzej",
+        "Anton",
+        "Viktor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anton naliva kavu v kuhnji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima dcera?",
+      "answers": [
+        "Nina",
+        "Helena",
+        "Ula",
+        "Jasia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mala Jasia igra se s kockami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako pytanje slyši cěly život?",
+      "answers": [
+        "Studentka ili artistka",
+        "Poljanka ili Rusynja",
+        "Mama ili sestra",
+        "Rabotnica ili šefica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poljanka ili Rusynja?"
+    }
+  ]
+}

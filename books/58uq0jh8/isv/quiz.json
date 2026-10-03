@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako se zove junakinja?",
+      "answers": [
+        "Ula Kowalska",
+        "Karolina Wilda",
+        "Magda pravnička",
+        "Nina Czyżewska"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ula Kowalska."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na čto bolěje od dětinstva?",
+      "answers": [
+        "Tjažka astma",
+        "Cukrovka tipa",
+        "Alergija na pylky",
+        "Zlokvalitna anemija"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cukrovka od sedmogo goda."
+    },
+    {
+      "type": "single_choice",
+      "question": "V ktorom programu nastupaje kako dvanadcatolětna?",
+      "answers": [
+        "The Voice Kids",
+        "Mam talent",
+        "Mali giganti",
+        "Šansa na uspěh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Program Mali giganti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky cukr vidit prěd koncertom?",
+      "answers": [
+        "Okolo 380 mg/dl",
+        "Okolo 120 mg/dl",
+        "Okolo 80 mg/dl",
+        "Okolo 400 mg/dl"
+      ],
+      "correctIndex": 3,
+      "explanation": "380 na displeju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govorit neznajemy v vlaku?",
+      "answers": [
+        "Dcera dobro tancuje",
+        "Dcera krasno pěvaje",
+        "Dcera bystro běgaje",
+        "Dcera maluje obraz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pani dcera krasno pěvaje."
+    }
+  ]
+}

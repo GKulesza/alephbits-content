@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Rafał v toj pověsti?",
+      "answers": [
+        "Kuharjem?",
+        "Publicistom / pišučim o",
+        "Voditeljem",
+        "Lěkarjem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rafał Ziemkiewicz piše noću o Volyni i pamęti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego najbolje boji se Rafał?",
+      "answers": [
+        "Zmij doslovno",
+        "Tišiny i",
+        "Podatkov?",
+        "Putovanij"
+      ],
+      "correctIndex": 1,
+      "explanation": "On ne boji se zmij — boji se tišiny i zabytja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Rafał ocěnja „simetriju” v naraciji o zločinah?",
+      "answers": [
+        "Jako istorijsku pravdu",
+        "Jako lž",
+        "Jako šutku",
+        "Jako kuhinjsky recept"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simetrija jest samo lž."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini Rafał o svitanju?",
+      "answers": [
+        "Ide spati na vsegda",
+        "Vrača se k pisanju",
+        "Odježdža iz zemje",
+        "Izbrisuje tekst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za oknom vshodi slunce; Rafał vrača se k pisanju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky citat / mysl pojavja se o studnji?",
+      "answers": [
+        "Kto pije vodu iz studnje, togo obkružet jadovite",
+        "Studnja vsegda jest prazna",
+        "Voda lěči vse?",
+        "Ne směje se piti v noći"
+      ],
+      "correctIndex": 0,
+      "explanation": "Privodi mysl o napitju iz studnje i jadovityh zmijah."
+    }
+  ]
+}

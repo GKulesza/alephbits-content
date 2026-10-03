@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě povědnik vidit děti vsakodnevno?",
+      "answers": [
+        "V uradě?",
+        "V dětskom sadu v Kopytkově na",
+        "Na stadionu",
+        "V muzeju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dětski sad v Kopytkově na Podlasju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto javjaje se kako važny ekspertny glas / besědnik?",
+      "answers": [
+        "Kasia iz banka",
+        "Aleksandra",
+        "Berkas",
+        "Chen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aleksandra govori o gledanju na děte i sebe."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka rada zaključaje pověst?",
+      "answers": [
+        "Držati se jednej vospitatelnoj ideologije",
+        "Gledati na děte i sebe; iskati svoju vlastnu",
+        "Oddati děte do internata",
+        "Unikati emocij?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gledajte na děte i sebe; ne budte vyznavači ideologij."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto jest «ključ», po zaključenju?",
+      "answers": [
+        "Sistema reform?",
+        "Byti soboju i gledati na",
+        "Učebnik ministerstva",
+        "Telesno karanje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ključ: byti soboju i gledati na děte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego povědnik ne hoče za dětske oči?",
+      "answers": [
+        "Aby svetili premočno",
+        "Aby zgasli",
+        "Aby nosili očkы",
+        "Aby čitali v noči"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sni, aby oči děti ne zgasli."
+    }
+  ]
+}

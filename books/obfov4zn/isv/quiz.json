@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako se nazyva sklep?",
+      "answers": [
+        "Biedronka",
+        "Pod Slunečnikom",
+        "Pod Zlatym Zvonkom",
+        "U Pani Zofii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sklep Biedronka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Oskar?",
+      "answers": [
+        "Burger na polkě",
+        "Slojka ogurkov",
+        "Bochen hleba",
+        "Rybka v sosu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oskar – slojka ogurkov."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Bartek v sklepu?",
+      "answers": [
+        "Hlopec iz osedlja",
+        "Vratnik školy",
+        "Burger, novy",
+        "Pes susěda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bartek – burger, novy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto vedet sklep?",
+      "answers": [
+        "Sklep vedet Krystyna",
+        "Sklep vedet Halina",
+        "Sklep vedet Zofia",
+        "Sklep vedet Iwona"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pani Krystyna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Rysia?",
+      "answers": [
+        "Slojka meda",
+        "Rybka v sosu",
+        "Pacěčka čaja",
+        "Torbica muky"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rysia – rybka v sosu."
+    }
+  ]
+}

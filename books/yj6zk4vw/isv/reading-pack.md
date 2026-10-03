@@ -1,0 +1,606 @@
+# Noemi i Světlo v Temnotě
+
+## Metadata
+
+**Pack ID:** yj6zk4vw
+**Book ID:** yj6zk4vw
+**Legacy Pack ID:** polish_noemi_i_swiatlo_w_ciemnosci
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Noemi i Světlo v Temnotě  
+**Subtitle:** *(none)*  
+**Blurb:** V jednej zemji, tam gde gory celovaly oblaki, a rěky pěvaly stare pěsni, živěla ženatva s imenami Bazilij i Halina.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 13 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Noemi i Światło w Ciemności" — oficialnoje izdanje Collection Fifteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'noemi-i-swiatlo-w-ciemnosci']  
+
+**Keywords:** Noemi i Světlo v Temnotě, Noemi i Światło w Ciemności, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fifteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** yj6zk4vw:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**NOEMI I SVĚTLO V TEMNOTĚ**
+
+Povest o děvčinkě, ktora musěla usomněti se, da by razuměla
+
+Uvod
+
+V jednoj krajině, tam gde gory celovali oblaky, a rěky pěvali stare pěsni, žili muž i žena po imenu Bazyli i Halina.
+
+Bazyli byl drvosekom. Halina — sadovniceju. Iměli malo, ale iměli jedin drugogo. I sanjali o děcku.
+
+Jednoj zimy Halina zachvorěla. Gorjačka ne hotěla oditi. Bazyli proboval vsego — trav, obkladov, molitv. Ničto ne pomagalo.
+
+Až jednogo dnja uslyšal o ženě, ktora žila na kraju začarovanogo lěsa. Zvali ju Jadvigoju. Govorili, že lěči tyh, ktoryh ini priznali za utračenyh. Ale govorili takože, že nikogda ne dělaje to bezplatno.
+
+Bazyli pošel k njej.
+
+Jadviga žila v chatě obvitoj bljuščem. Iměla oči hladne kako led i usměh, ktory ne dosěgal do srdca. Ale v kutu izby, na podokonniku, stal mali drěvjany konjik. Igračka. Nekto ju někogda vyrězal s ljubovju.
+
+Bazyli togo ne zamětil. Byl preveč zajet prosjenjem.
+
+— Moja žena umiraje — rěkel. — Slyšal jesm, že možeš pomoći.
+
+Jadviga pogledala na njego dolgo.
+
+— Mogu — rěkla. — Ale moja pomoč imaje cenu.
+
+— Kaku?
+
+— Ako se vam rodi dočka — oddate mi ju. Budete mogli ju posěćati. Raz v godu. V denj jej roždenja. To vse, o čto prošu.
+
+Bazyli zamrěl. Ale myslil o Halině. O jej blědyh ustah, o jej trepetajućih rukah. O tom, že bez pomoći Jadvigy ne dožive do vesny.
+
+— Soglašaju se — rěkel.
+
+Jadviga kivnula glavoju. Dala mu grst sěmen. Posadil je v sadu. Iz njih vyrosli rastliny s srebrnymi listami. Halina jela je vsaky denj. Po tydnju vstala iz posteli. Po měsěcu byla zdrava.
+
+A po deveti měsěcah rodila dočku.
+
+Dali jej ime Noemi.
+
+Razděl prvy: Oběcanje, ktoro puklo
+
+Noemi rodila se v noči, kogda nad selom světil veliky, srebrny měsec. Iměla vlasy jasne kako len i oči, ktore gledali na svět s radoznalostju, ne strahom.
+
+Bazyli i Halina ljubili ju od prvoj hvilji.
+
+Ale věděli, že Jadviga prijde.
+
+Prišla tretoj noči. Stala v pragu, protegnula ruky i rěkla:
+
+— Oddajte mi to, čto moje.
+
+Halina plakala. Bazyli prosil.
+
+— Oběcala jesi, že budemo ju posěćati — pripomnil. — Raz v godu. V denj jej roždenja.
+
+Jadviga molčala hvilju. Potom kivnula glavoju.
+
+— Budete — rěkla. — Ale ne ranje.
+
+I izčezla zajedno s Noemi.
+
+Vzela ju do skrytoj doliny, okruženoj mgloju tako gustoju, že nikto čuži ne mogl črěz nju prějti. Toliko ti s čistym srdcem viděli stežku.
+
+V dolině stal dom. Ne věža, ne zamok — dom. Teplý, drěvjany, pahnuči travami.
+
+Jadviga ne byla zla. Byla samotna. I bojala se, že ako vypusti Noemi v svět, děvčinka stane se taka kako ona — hladna, tvrda, nedověrčiva.
+
+— Budeš tu bezpečna — govorila. — Svět jest pln vlkov.
+
+Noemi rastla v dolině. Učila se čitati iz zvězd, pěvati s pticami i slušati, čto govoret drěva. Jej vlasy rastli bystro — tako bystro, že Jadviga musěla je splětati v kosu, ktora dosěgala do zemje.
+
+A vlasy Noemi iměli moč.
+
+Kogda dotknula se njimi zvenutogo cvěta — cvět ožival. Kogda obvinula njimi bolno zvěre — zvěre zdravělo. Kogda Jadvigu bolěla glava, Noemi kladla jej kosu na čelo i bol izčezal.
+
+— To dar — govorila Jadviga. — Ale ne možeš go koristati dlja vsakogo. Ljudi sut lakomi. Izpolzujut tebe.
+
+Noemi slušala. Ale v jej srdcu rastlo něčto, čto Jadviga ne prědviděla — tuga za světom.
+
+A raz v godu, v denj roždenja, prihodili roditelji. Bazyli i Halina. Sěadali na pragu, obimali dočku i opovědali o selě. O tom, čto se izměnilo. Kto se oženil. Kto umrěl. Kto zbudoval novy dom.
+
+Noemi slušala očarovana. A potom gledala, kako odhodet. I čekala cěly god na slědujuče srětanje.
+
+Jednogo dnja, kogda iměla dvanadset lět, zapitala Jadvigu:
+
+— Začto ne mogu iti s njimi? Hot na tydenj?
+
+Jadviga namrščila brvi.
+
+— Bo svět jest nebezpečny.
+
+— Ale oni vračajut se. I ničto jim se ne děje.
+
+— Iměli sreču.
+
+— Mamo... — Noemi kolebala se. — Začto bojiš se, že izjdu?
+
+Jadviga molčala dolgo. A potom rěkla tiho:
+
+— Bo ja někogda izšla. I uže ne vratila se.
+
+Noemi ne razuměla. Ale zapametala.
+
+Razděl drugy: Světlo, ktoro lěči
+
+Prošli tri lěta.
+
+Noemi iměla petnadset lět, kogda prvy raz ugledala nekogo čužego v dolině.
+
+Byl ranok. Mgla byla gustějša neže obyčno. Noemi sěděla prěd domom i plela kosu. A potom uslyšala kroky.
+
+Obratila se.
+
+Prěd njej stal hlapec. Mlady, može sedmnadsetlětny. V putnom plašču, s očami umorenymi, ale plnymi nadeje.
+
+— Kto jesi? — zapitala.
+
+— Julian. Syn kraljevy Krystiny. Išču děvčinku, ktoroj vlasy lěčet.
+
+Noemi odstupila.
+
+— Jadviga govorila, že ne mogu nikomu pomagati. Že ljudi sut lakomi.
+
+— Moja mati umiraje — rěkel tiho Julian. — Ne prošu dlja sebe. Prošu dlja njej.
+
+Noemi molčala. Gledala na njego dolgo. A potom prišla bliže.
+
+— Dotkni mojih vlasov — rěkla. — Ako sut v tobě zle naměry, ničto se ne stane. Ako ne — počuješ teplo.
+
+Julian protegnul ruku. Dotknul kosu.
+
+Počul teplo. Kako by nekto objeł go mekkym pokryvalom.
+
+— Věruju ti — rěkla Noemi.
+
+Toj noči razgovarjali dolgo. Julian opovědal o palacu, o materi, o světu. Noemi slušala s široko otvorenymi očami. Prvy raz slyšala o morju, o gorah, o ljudah, ktori se smějut i tančujut.
+
+— Hotěla bym to někogda ugledati — šeptala.
+
+— Togda hodi so mnoju — rěkel Julian.
+
+Noemi kolebala se. Ale potom pomyslila o roditeljah. O jih licah, kogda odhodili. O tom, že črěz petnadset lět vidala jih tolko raz v godu.
+
+— Musim něčto ostaviti — rěkla.
+
+Otrězala svoju kosu. Ostavila ju na pragu kako dar dlja Jadvigy. A potom vzela Juliana za ruku i izšla iz doliny.
+
+Mgla razstupila se prěd njimi.
+
+Razděl trěti: Palac i sěn
+
+Julian i Noemi prišli do palaca. Kraljeva Krystyna byla blizko smrti. Noemi obvinula ju svojimi vlasami — tutoj raz one vyrostli nanovo, jasnějše neže kogda-libo.
+
+Krystyna otvorila oči.
+
+— Kto jesi? — zapitala.
+
+— Noemi.
+
+— Jesi... svetlom — šeptala kraljeva.
+
+Věst o děvčinkě, ktora lěči, raznesla se po cělom kraljevstvu. Ljudi počeli prihoditi do palaca. Noemi pomagala vsim — děcam, starcam, zvěrjam. Jej vlasy rastli i rastli, a ona nikogda ne otkazyvala.
+
+Byla dobra. Ale dobrota někogda byva slěpa.
+
+Noemi věrila vsakomu. Ne pytala se, či nekto zaisto potrěbuje pomoči, či tolko hoče izpolzovati jej dar. Ne zaměčala, že některe prihodet s pustymi rukami, ale s plnymi mošnami. Ne viděla, že jej sučutje staje se tovarom.
+
+Jednogo dnja prišla k njej žena, ktora hotěla, da by Noemi izlěčila jej psa. Pes byl stary, slěpy i bolny. Noemi pomogla. A potom žena prodala psa kupcu, ktory iskal „čudno izlěčenyh zvěrjev“.
+
+Julian zamětil to prvy.
+
+— Noemi — rěkel — musiš paziti. Ne vsaky, kto prosi, jest v potrěbě.
+
+— Ale ako mogu pomoći, povinna jesm — odgovorila Noemi.
+
+— Daže ako nekto tebe izpolzuje?
+
+Noemi ne odgovorila. Bo ne věděla, čto rěkati.
+
+V palacu byla žena po imenu Gražyna.
+
+Byla dvorska upraviteljka. Někogda krasna, někogda obožavana. Ale lěta prošli, a Gražyna ne mogla smiriti se s tym, že mladost odšla.
+
+Jej historija byla dolga i smutna. Prěd dvadesetju lětami Gražyna byla ženoju rycera. Ljubila go. Byla uvjerena, že on takože ju ljubi. Ale kogda na dvoru pojavila se mladša děvčina — dočka kupca, s vlasami kako zlato — rycer odšel. Bez slova. Bez proščanja.
+
+Gražyna ostala sama. S goryčju, ktora od lěta do lěta rosla.
+
+Iměla zrcalo. Ne obično — magično. Kupila je davno tomu od putujučego kupca. Zrcalo odgovarjalo na jedno pytanje:
+
+— Kto jest najkrasnějši?
+
+I vsegda odgovarjalo:
+
+— Ty, Gražyno.
+
+Ale jednogo dnja, kogda Noemi prehodila mimo, zrcalo šepnulo:
+
+— Noemi jest krasnějša. Jej krasa ne gasne. Tvoja — da.
+
+Gražyna zamrla.
+
+— Čto jesi rěkel?
+
+— Noemi jest krasnějša — povtorilo zrcalo.
+
+Gražyna očutila, kako něčto v njej pukaje. Zavist — hladna, ostra — vbiła se v jej srce kako kinžal.
+
+Rěšila uničtožiti Noemi.
+
+Razděl četvrty: Otravleny grebenj
+
+Gražyna preoblekla se za staricu. Oblekla ljahmany, sgrbila se i pošla do sada, kde Noemi vsaky denj sědala srěd cvětov.
+
+— Moja draga — rěkla tresučim glasom. — Jesm stara i bedna. Ne imam ničto. Ale imam tutoj grebenj. Jest krasny. Ja by htěla ti go dati.
+
+Noemi usměhnula se.
+
+— Blagodarju. Ale ne potrěbujem grebenja. Moje vlasy same se češut.
+
+— Vzemi go — nastojala starica. — Prošu. Sdělaj to dlja mene.
+
+Noemi ne htěla byti neprivětliva. Vzela grebenj.
+
+Kogda toliko dotknul se jej vlasov, očutila ukol. Kako by někto vbil jej iglu v kožu. Svet zavortěl se. Noemi upala na travu.
+
+Gražyna rozsmějala se.
+
+— Tutčas nikto ne bude krasnějši od mene!
+
+Odšla, ostavjajuči Noemi ležeču srěd cvětov.
+
+Ale Julian našel ju malo pozdněje. Uviděl grebenj, uviděl jej blědo lice. I razuměl.
+
+Izvlěkl grebenj iz jej vlasov. Noemi otvorila oči.
+
+— Čto se stalo? — šepnula.
+
+— Někto tebe vredil — rěkel Julian. — Ale uže po vsem.
+
+Noemi pogledala na grebenj.
+
+— Ona htěla mene ubiti — rěkla tiho. — Bo byla zavistliva.
+
+— Da — priznal Julian. — Zavist jest kako jad.
+
+Noemi vstala. Črez hvilju mlčala. A potom rěkla něčto, čego Julian ne očekival:
+
+— Može to jest moja vina.
+
+— Čto?
+
+— Može ako by ja ne byla taka... vidoma. Ako by ja ne lěčila vsih. Ako by ja slušala Jadwigi...
+
+— Noemi, to ne jest tvoja vina.
+
+— A ako moje vlasy sut prokletstvo? — šepnula. — Ako prinoset toliko neščestje?
+
+Julian vzel ju za ruky.
+
+— Tvoje vlasy ne sut prokletstvom. Tvoja dobrota ne jest prokletstvom. Prokletstvom jest to, že někori ne mogut iztrpěti čudžego světla.
+
+Noemi mlčala dolgo. A potom rěkla:
+
+— Hču s njeju pogovoriti. Sama.
+
+Razděl pety: Razgovor
+
+Gražyna sěděla v svojej komnatě, kogda Noemi vstupila bez stukanja.
+
+— Věděla jesi, že prijdem — rěkla Noemi.
+
+Gražyna ne obrnula se.
+
+— Věděla jesm.
+
+— Začto?
+
+— Bo jesi dobra. Dobri vsegda hčet razuměti.
+
+Noemi sěla na kreslě naprotiv.
+
+— Skaži mi.
+
+Gražyna mlčala črez dolgu hvilju. A potom načela govoriti. O ryceru. O zlatovlasej děvčině. O tom, kako ostala sama. O tom, že od dvadeset lět nikto na nju ne gledaje tako, kako někogda.
+
+— Kogda uviděla jesm tebe — rěkla — pomyslila jesm, že historija se povtarja. Že ponovno někto mene zaměnit. I že ponovno ostanem sama.
+
+Noemi slušala. Ne preryvala.
+
+— Znam, že to ne izvinjaje togo, čto sdělała jesm — dodala Gražyna. — Ale htěla jesm, da by věděla.
+
+Noemi mlčala dolgo. A potom rěkla:
+
+— Ne odpušču ti odrazu.
+
+Gražyna podnela pogled.
+
+— Probovala jesi mene ubiti. To bolělo. I budem o tom pametati.
+
+— Razuměju.
+
+— Ale hču ti něčto skazati. — Noemi vstala. — Ty ne jesi nevidima. Jesi toliko... zagublena. I može ako by ty črez vse te lěta ne gledala v zrcalo, toliko na ljudi vokrug tebe, uviděla by, že někto tebe potrěbuje.
+
+Gražyna zamrla.
+
+— Kto?
+
+— Ja — rěkla Noemi. — Potrěbujem kogo, kto mi rěče, kogda jesm prěmnogo dověriva. Kto mene prědupredit. Kto mene nauči, že dobrota bez mudrosti to naivnost.
+
+Gražyna gledala na nju s nevěrjem.
+
+— Hčeš... mene?
+
+— Hču, da by ostala. Ne kako upraviteljka. Kako někto, kto razuměje, čto to znači byti samotnym. I kto znaje, kako legko jest se zgubiti.
+
+Gražyna ne odgovorila. Ale po jej licah potekli slzy.
+
+Razděl šesty: Povratok do doma
+
+Julian i Noemi vydali se v put do sela, iz kotorogo proishodila Noemi. Htěla najdti roditeljev.
+
+Kogda došli do města, uviděli dom na kraju lěsa. Prěd domom sěděla starša žena. Obok njej — starši muž.
+
+Noemi približila se.
+
+— Jeste li vy Bazyli i Halina? — zapytala.
+
+Žena podnela pogled. Črez hvilju gledala na Noemi, kako by ne razuměla. A potom v jej očah pojavili se slzy.
+
+— Noemi? — šepnula. — Moja dočko?
+
+Halina vstala. Objeła Noemi. Bazyli priključil se k nim. Črez dolgu hvilju nikto ne govoril.
+
+— Tak dolgo smo te iskali — rěkla Halina. — Ale mgla ne htěla nas propustiti.
+
+— Znam — odgovorila Noemi. — Znam, že probovali jeste.
+
+— Ne probovali smo toliko raz v lětu — rěkel Bazyli. — Probovali smo vsaky tydenj. Vsaky mesec. Ale Jadwiga...
+
+Zamolk.
+
+— Čto Jadwiga?
+
+— Rěkla, že ako budemo prihoditi čestěje, zabere te na vsegda. Že ne uvidimo te už nikogda.
+
+Noemi zamrla.
+
+— Oběčala vam, že budem vas vidjevati raz v lětu. Ale ne rěkla, že to vse, na čto možete računati.
+
+— Da — priznala Halina. — Bojali smo se. Bojali smo se, že ju izgubimo.
+
+Noemi mlčala. Prvy raz od davna očutila gněv. Ne na Gražynu. Na Jadwigu.
+
+— Musim s njeju pogovoriti — rěkla.
+
+Razděl sedmy: Jadwiga
+
+Noemi vratila se do doliny sama.
+
+Mgla razstupila se prěd njeju, kako by ju vse ješče pametala. Dom stojal tam, kde vsegda. A prěd domom sěděla Jadwiga.
+
+Stara. Umorjena. S kosoju Noemi na kolěnah.
+
+— Věděla jesm, že prijdeš — rěkla.
+
+— Začto? — zapytala Noemi.
+
+— Bo jesi dobra. Dobri vsegda vračajut se, da by razuměli.
+
+Noemi sěla obok njej.
+
+— Rěkla jesi mojim roditeljam, že ako budut prihoditi čestěje, zabereš mene na vsegda.
+
+Jadwiga mlčala.
+
+— To bylo lganje — rěkla v koncu. — Ja by ne mogla tebe zabrati. Ale bojala se, že mene ostaviš. Že pojdeš s nimi i nikogda ne vratiš se.
+
+— Zato jesi mene obmanula.
+
+— Da.
+
+Noemi gledala na nju dolgo.
+
+— Začto bojiš se, že vsi tebe ostavet?
+
+Jadwiga mlčala črez hvilju. A potom načela govoriti. O svojej dočeri. O tom, že někogda iměla dětę. Děvčinku. Ktora umrla na tu samu bolězn, ktoru Jadwiga uměla lěčiti.
+
+— Byla jesm mlada — šepnula. — Ne uměla jesm ješče. Ne věděla jesm, čto dějati. A ona... odšla.
+
+Noemi zamrla.
+
+— Zato jesi mene zabrala.
+
+— Da. Myslila jesm, že ako vospitam te daleko od světa, ako nauču te vsemu, čego ne věděla jesm togda... to tebe zaščitim.
+
+— Ale mi ne hodilo o zaščitu — rěkla Noemi. — Hodilo o to, da by ne byla sama.
+
+Jadwiga kivnula glavoju. Ne zaprěčila.
+
+— Ne odpušču ti odrazu — rěkla Noemi. — Obmanula jesi mojih roditeljev. Obmanula jesi mene. Ale razuměju tebe.
+
+Vstala.
+
+— Hču, da by prišla na moj svadbu. Ne kako mati. Kako někto, kto mene vospital. Kto mene naučil, kako slušati drěv i zvězd. Kto mene ljubil, daže ako ne uměl togo pokazati.
+
+Jadwiga podnela pogled.
+
+— Prijdeš?
+
+— Prijdem.
+
+Zaklučenje
+
+Svadba Noemi i Juliana odbyla se v selu, srěd drěv i pěvanja ptic. Bazyli i Halina stojali obok. Krystyna takože prišla — zdrava, usměhnena, gorda.
+
+Gražyna stojala s boku. Ne kako upraviteljka. Kako někto, kto učil se ponovno gledati na ljudi.
+
+Jadwiga prišla. Stojala daleko, pod drěvom. Ne pristupila k Noemi odrazu. Ale kogda Noemi pogledala v jej stranu, kivnula glavoju. I usměhnula se. Prvy raz od velmi davna.
+
+Noemi i Julian ne poselili se v palacu. Vratili se do sela. Noemi hčela byti blizko roditeljev. Julian priježďal, kogda mogal. A kogda ne mogal — pisal pisma. Dolge, polne slov, ktore ne vsegda byli legke.
+
+Noemi dalje lěčila. Ale naučila se pytati. Pytati, či někto zaisto potrěbuje pomoči. Pytati, či ne jest izkoriščana. Pytati sebe, či to, čto dělaje, izhodi iz dobrosti, či iz potrěby byti potrěbnoj.
+
+Jednogo večera sěděla prěd domom. Gledala na svoje vlasy — dolge, jasne, blěskajuče v světlu měseca.
+
+Uže ne byli prokletstvom. Uže ne byli darom. Byli jedino vlasami.
+
+Moč ne byla v nih. Moč byla v njej — v jej očah, ktore viděli dobro. V jej srcu, ktore umělo odpustiti. V jej glavě, ktora naučila se mysliti.
+
+Noemi usměhnula se. A potom vstala i pošla do doma. Julian čekal na nju pri stolu. Bazyli i Halina razgovarjali o něčem tiho. A za oknom, v tmě, světili zvězdy.
+
+I to bylo vse, čto potrěbovala.
+
+Moral
+
+Pravdivo světlo ne jest v daru, ktory nosimo.
+Jest v tom, kako go koristamo — s mudrostju, odvagoju i srcem, ktore uměje odpustiti.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Kto jest Bazilij v toj bajce?
+
+**Answers:**
+- A) Drvar
+- B) Tkač
+- C) Knjaz
+- D) Vratnik
+
+**Correct:** A
+**Explanation:** Bazilij byl drvar.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kako se zove vědma?
+
+**Answers:**
+- A) Dagmara
+- B) Jadviga
+- C) Salomeja
+- D) Gražyna
+
+**Correct:** B
+**Explanation:** Žena Jadviga pri lěsu.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Kaku cěnu postavlja Jadviga?
+
+**Answers:**
+- A) Oddajut konja
+- B) Oddajut dom
+- C) Oddajut dceru
+- D) Oddajut lěs
+
+**Correct:** C
+**Explanation:** Ako rodit se dcera – oddajte.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Kako často mogut posěćati děte?
+
+**Answers:**
+- A) Nikogda veče
+- B) Každy teden
+- C) Každy deset lět
+- D) Raz v roku
+
+**Correct:** D
+**Explanation:** Raz v roku v den rođenja.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Kako ime dcery?
+
+**Answers:**
+- A) Klara
+- B) Noemi
+- C) Liliana
+- D) Otylija
+
+**Correct:** B
+**Explanation:** Noemi – glavna junakinja.
+**Text reference:** q5
+

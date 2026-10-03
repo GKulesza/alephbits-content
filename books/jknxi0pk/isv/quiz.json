@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě se odigrava glavna dějstvo?",
+      "answers": [
+        "Na Vavelu v Krakově?",
+        "Na Volině nad morjem",
+        "Na Malborku v polno lěto",
+        "V Biskupině zimnoju"
+      ],
+      "correctIndex": 3,
+      "explanation": "Biskupin zimoju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto čini mraz s drěvami?",
+      "answers": [
+        "Puka je v bezgvězdne noči",
+        "Suši listy v jasny dan",
+        "Prěobraža je v črny ugolj",
+        "Hrani je pred silnym větrom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Puka drěva nočju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Za kogo jest ta pamęt?",
+      "answers": [
+        "Toliko za velike poběditelje",
+        "Toliko za profesionalne arheologe",
+        "Za vsih, ktori tu stojali",
+        "Za jednu političnu partiju"
+      ],
+      "correctIndex": 2,
+      "explanation": "Za vsih, ktori tu stojali."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto trěba učiniti, by „uslyšati“?",
+      "answers": [
+        "Kupiti dragi bilet vhoda na teren",
+        "Zanuriti rųky gluboko v blato",
+        "Nagrađati film i vrěći na YouTube",
+        "Zbudovati novy kamenny obranny zid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zanuriti rųky v blato."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se pověst?",
+      "answers": [
+        "Penez i lokalnyh bankov",
+        "Vody, pamęti i zemje",
+        "Sporta i velikyh stadionov",
+        "Mody i socialnyh sětij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voda, pamęt, zemja."
+    }
+  ]
+}

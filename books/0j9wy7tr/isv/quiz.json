@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim byl Bazilij?",
+      "answers": [
+        "Tkačem",
+        "Drvarjem",
+        "Kraljem",
+        "Vratnikom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazilij byl tkačem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime nosi najmladša dcera?",
+      "answers": [
+        "Kornelija",
+        "Klara",
+        "Noemi",
+        "Helena"
+      ],
+      "correctIndex": 1,
+      "explanation": "Klara – tiha kako sneg."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto zgubil Bazilij po bolězni?",
+      "answers": [
+        "Glas do pěvanja",
+        "Vidjenje vse",
+        "Čutje v prstah",
+        "Pamjat imen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ne mogal tkačiti – bez čutja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Klara pri čudnom slučaju?",
+      "answers": [
+        "Petnadcat lět",
+        "Pet lět",
+        "Dvanadcat lět",
+        "Osm lět"
+      ],
+      "correctIndex": 3,
+      "explanation": "Klara imala osm lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prosit Bazilija o kumov?",
+      "answers": [
+        "Salomeja babka",
+        "Halina žena",
+        "Jadviga vědma",
+        "Dagmara pestunja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Halina veli ići do crkvy."
+    }
+  ]
+}

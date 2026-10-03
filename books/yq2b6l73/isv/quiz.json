@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime hlapca?",
+      "answers": [
+        "Šimon",
+        "Miloš",
+        "Fabian",
+        "Daniel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Šimon, devet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove trgovina pani Zofii?",
+      "answers": [
+        "Biedronka?",
+        "Trgovina Pani",
+        "Pod Zvonkom",
+        "Pod Slunečnikom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trgovina Pani Zofii."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto děti dostavajut za kupovanje?",
+      "answers": [
+        "Cukrky gratis",
+        "Zlate monety",
+        "Kolorne",
+        "Bilety do kina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kolorne nalěpky za kupovanje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na čto zaměnjajut nalěpky?",
+      "answers": [
+        "Na Sposobika",
+        "Na dětski velosiped",
+        "Na knigu iz trgoviny",
+        "Na stolovu igru"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zaměnjajut na Sposobika."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto pahne v trgovině?",
+      "answers": [
+        "Tytonjem i drěvom",
+        "Vanilijej i",
+        "Rybami i solju",
+        "Benzinom i metalom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pahnjelo vanilijej i knigami."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "packId": "siqz8ydu:isv_glag",
+  "bookId": "siqz8ydu",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "Ⱅⰵxⱅ ⱇⱃⱁⰿ ⰹⱄⰲ-ⰾⰾⰿ-ⰾⰰⰱ/Ⰸⰴⱃⰰⰲⱁ/Ⱁⱂⱁwⰹⰰⰴⰰⱀⰹⰰ/ⰹⱀⱅⰵⱃⱄⰾⰰⰲⰹⱌ; qⱆⰹⰸⰸⰵⱄ ⱅⱃⰰⱀⱄⰾⰰⱅⰵⰴ ⱅⱁ Ⰿⰵⱛⱆⱄⰾⱁⰲⰺⰰⱀⱄⰽⱐ."
+  },
+  "sources": [
+    {
+      "type": "original",
+      "description": "Polish canon + ISV translation"
+    }
+  ],
+  "revisionNotes": "Ⱌⱁⰾⰾⰵⱌⱅⰹⱁⱀ 12–15 ⰉⰔⰂ ⰹⰿⱂⱁⱃⱅ ⱇⱃⱁⰿ ⰹⱄⰲ-ⰾⰾⰿ-ⰾⰰⰱ Ⱁⱂⱁwⰹⰰⰴⰰⱀⰹⰰ/ⰹⱀⱅⰵⱃⱄⰾⰰⰲⰹⱌ.",
+  "translationStatus": "ⰿⰰⱌⱈⰹⱀⰵ",
+  "translationSource": "ⱄⰹqⰸ8ⱐⰴⱆ:ⱂⰾ",
+  "translationSourceVersion": "1.0.0"
+}

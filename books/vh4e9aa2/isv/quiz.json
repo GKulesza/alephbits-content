@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime chlapca?",
+      "answers": [
+        "Miłosz",
+        "Szymon",
+        "Gniewko",
+        "Błażej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miłosz, osem lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto on mysli o brokoli?",
+      "answers": [
+        "Sut najbolše",
+        "Sut sumnjive",
+        "Sut kako cukr",
+        "Sut kako voda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zeleniny sut sumnjive."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime mamy?",
+      "answers": [
+        "Halina",
+        "Katarzyna",
+        "Iwona",
+        "Wanda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama Iwona."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove sestra?",
+      "answers": [
+        "Klara",
+        "Otylia",
+        "Helena",
+        "Pola"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sestra Pola."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest tata Miłosza?",
+      "answers": [
+        "Michał",
+        "Robert",
+        "Julian",
+        "Anton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tata Robert."
+    }
+  ]
+}

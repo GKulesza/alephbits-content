@@ -1,0 +1,185 @@
+**KNIGA SLUČAJA**
+
+## PROLOG
+
+Muzej Inženerije i Tehniky, Krakov, 18 julija 2026 goda
+
+Časina 16:47. Sěděl jesm v tretjem rědu, s dyktafonom v dlani i zapisnikom na kolěnah, i čul jesm, že zaraz něčto v mně pukne.
+
+Byl jesm naučnym žurnalistom uže pet lět. Pisal jesm o črnyh durah, o genovoj ediciji, o iskustvenoj inteligenciji – o vsem, čto imělo hot sěnj senzacije. Myslil jesm, že razumějem nauku. Myslil jesm, že znam, čto jest uvěrenost.
+
+A potom prišel na scenu gospodin profesor Tomasz Łuczak i načel govoriti o pravděpodobnosti.
+
+Ne o tom, kako izračunati šansu vyhodženja šestky. Ne o tom, kako staviti na meče. On govoril o něčem značno glubšem – o tom, že sam akt računanja pravděpodobnosti jest aktom věry. Že matematiki črěz stolětja ne věděli, čto voobče jest pravděpodobnost. Že doprva v lětah tridesetyh XX stolětja Kolmogorov dal aksiomy teorije pravděpodobnosti – i od togo času ona načela jestvovati kako "seriozna" matematika.
+
+A potom rěkl něčto, čto izměnilo vse.
+
+"Prědpoložimo, že jedinka na kostkě vyhodi s pravděpodobnostju 1 kroz 2π. Čto to voobče znači? I na to pytanje matematiki ne uměli črěz dolgo vrěme odgovoriti. Ostatno to ne možno prověriti eksperimentalno."
+
+Zatvoril jesm zapisnik. Věděl jesm, že to bude dolga noč.
+
+## Razděl I: Aksiomy
+
+Lekcija, časina 17:02
+
+Gospodin profesor načel od historije.
+
+Prěd drugoj svetovoju vojnoju račun pravděpodobnosti ne vhazal v sostav osnovnogo obrazovanja matematika – govoril. – Byl koristany črěz stolětja – strahovne tovariščstva v Veneciji v srědnjem vrěmenu, igry na šans, ktorymi zanimal se Pascal – ale ne priznavali jego kako čest serioznoj matematiky.
+
+Slušal jesm i myslil jesm o svojem životě. O tom, kako jesm črěz lěta izběgal neuvěrenosti. Kako jesm planoval vsaky denj, vsako dviženje, vsaku decyziju. Kako jesm se bojal rizika.
+
+A dljačego? – prodolžal profesor. – Otož zato, že matematiki ne uměli odgovoriti na pytanje: čto voobče jest pravděpodobnost?
+
+I togda zdelal něčto, čto zapamětam do konca života. Sravnil pravděpodobnost s geometrijeju Evklida.
+
+Evklid dal aksiomy geometrije, ale ne govoril, kako tute aksiomy odnoset se k realnosti – rěkl. – Na otrězku jest bezkonečno mnogo točok, ale ni na ktorom realnom otrězku ne jest bezkonečno mnogo točok. On ne zanimal se tym, kako se teorija geometrije odnosi k realnosti. On prosto dal aksiomy.
+
+I Kolmogorov zdelal to samo s pravděpodobnostju v lětah tridesetyh.
+
+Od togo času teorija pravděpodobnosti načela jestvovati v serioznoj matematikě – rěkl. – Poslědne četyri medali Fieldsa, najmene jedin, byli iz oblasti, svezanoj s računanjem pravděpodobnosti.
+
+Slušal jesm i čul jesm, že něčto v mně načinaje se izměnjati. Že to, čto vsegda smatral jesm za slabost – neuvěrenost, slučajnost, slučaj – naglo staje se siloju.
+
+## Razděl II: Bezkonečnost
+
+Lekcija, časina 17:24
+
+Potom gospodin profesor načel govoriti o bezkonečnosti.
+
+Kantor v XIX stolětju vvel pojetje bezkonečnyh množin – rěkl. – Pokazal, že jestvuje množina, ktora jest bolša od množiny prirodnyh čisel. To jest množina realnyh čisel.
+
+Někto v sali vzdihnul. Ja takože.
+
+Iny matematik, Kronecker, nazval Kantora obmanščikom i depravatorom mladeži – dodal profesor s usměhom. – A to zato, že to prěčilo objavjenoj pravde Aristotelja: že čest jest vsegda menša od cělosti.
+
+Zdelal jesm zapis: "Parnyh čisel jest točno toliko, kako i vsih čisel".
+
+Ale Kantor pošel dalje – prodolžal profesor. – Pokazal, že ne jestvuje samo jedna bezkonečnost. Sut najmene dve – i věrojatno bezkonečno mnogo.
+
+I togda rěkl něčto, čto zdelalo, že prěstal jesm pisati.
+
+Někaky Cohen dokazal, že hipoteza kontinuuma – pytanje, či jestvuje bezkonečna množina, bolša od prirodnyh čisel, ale menša od realnyh čisel – jest nezavisna od aksiomov teorije množin.
+
+Čto to znači? – vprašal někto iz sali.
+
+To znači, že možemo dělati matematiku prijmajuči, že takova množina jestvuje, i možemo dělati matematiku prijmajuči, že takej množiny ne jestvuje. I obe tute matematiky sut jednako pravilne.
+
+Zadržal jesm dyhanje.
+
+I čto? – vprašal jesm, ne soznavajuči, že govorim glasno.
+
+Profesor pogleděl v moju stranu.
+
+Gödel, ktory věděl, že sut tvrdenja, ktore ne možno dokazati, byl uvěren, že to pytanje imaje rěšenje. Byl platonikom. Věril, že matematične objekty jestvujut někde. Že v platonskom světě ne mogut jednovremenno jestvovati i ne jestvovati.
+
+A vy? – vprašal jesm.
+
+Usměhnul se.
+
+Ja? Jesm matematikom. Dlja mene krasota sostoji v tom, že ne znamo. Že vsegda ostaje něčto do otkrytja.
+
+## Razděl III: Slučajnost
+
+Lekcija, časina 17:48
+
+Možno li dokazati něčto, metajuči monetu? – vprašal profesor. – Okazuje se, že možno.
+
+Razpověl o probabilističnoj metodě, ktoru vymyslil Paul Erdős.
+
+Prědpoložimo, že imate 1000 množin, vsaka po 12 elementov. Trěba pokazati, že možno pokrasiti vse elementy dvoma kolorami tako, da by ni jedna množina ne byla jednokolorova.
+
+Zdelal jesm pauzu. To zvučalo kako zagadka.
+
+Ne izvěstno, kako pristupiti k tomu – rěkl profesor. – Ale Erdős rěkl: pokrasimo tute elementy, metajuči monetu. Pravděpodobnost, že jedna množina stane se jednokolorova, iznosi 1/1024. Jest 1000 množin, zato srědnje bude menje než jedna jednokolorova množina. A ako srědnja jest menša od jednogo, to znači, že jestvuje tako pokrasjenje, kde ni jedna množina ne jest jednokolorova.
+
+Mimo togo, že ne znamo, kako to pokrasjenje izgledaje – dodal – imamo uvěrenost, že jestvuje.
+
+Sěděl jesm i myslil jesm o svojem životě. O vsih decyzijah, ktore prijimal jesm, probujuči byti uvěrenym. O vsih momentah, v ktoryh bojal jesm se rizika. A tu naglo okazalo se, že sama neuvěrenost – metanje monety – može byti orudjem do otkryvanja pravdy.
+
+To se nazyva neefektivna metoda – rěkl profesor. – Ale někogda to jest jedina metoda, ktoru imamo.
+
+## Razděl IV: Dokaz
+
+Lekcija, časina 18:12
+
+Potom profesor načel govoriti o něčem, čto zvučalo kako magija.
+
+Jest něčto tako kako zero-knowledge proof – rěkl. – Hočemo někomu dokazati, že umějemo něčto sdělati, ale ne hočemo jemu pokazati kako.
+
+Razpověl o tom, kako možno dokazati, že se uměje razložiti složeno čislo na proste činitelje, ne izdavajuči algoritma.
+
+I možno to sdělati, metajuči monetu – dodal. – Po mnogyh probah drugy strana bude uvěrena s velikoju pravděpodobnostju, že to pravda.
+
+Viděl jesm prěd soboju obrazy: šifry, banki, tajne dogovory. Vse to osnovano na slučajnosti. Na tom, čto ne znamo.
+
+A potom jest PCP – probabilistic checkable proofs – prodolžal profesor. – Někto zapisuje dokaz v specialnoj formě, a my prověrjamo toliko 10 ili 20 měst. S pravděpodobnostju blizkoju k uvěrenosti znamo, že dokaz jest pravilny.
+
+To zvuči neverojatno – rěkl jesm.
+
+To zvuči kako magija – odgovoril profesor. – Ale to matematika.
+
+## Razděl V: Orakul
+
+Pytanja iz sali, časina 18:34
+
+Prišla čest pytanj. Někto vprašal o svobodnoj volji. Někto o aksiomě vybora. Někto o tom, či matematika jest otkrivana ili vymysljana.
+
+A potom voditelj dal pytanje, ktoro vsi my hotěli slyšati:
+
+Ako by vam se javil matematičny orakul i mogli byste zaledati jedno pytanje – o čto byste vprašali?
+
+Profesor zamyslil se na moment. Potom odgovoril:
+
+Hotěl bym viděti problemy, ktore imajut rěšenja neobyknoveno krasna i voshititeljna. Take, ktore mogli by mene zaskočiti.
+
+Kako Erdős i jego Kniga – dodal voditelj.
+
+Profesor kivnul glavoju.
+
+Da. Dokazy iz Knigy. Sut take tvrdenja, ktore možno dokazati – ale jih dokazy sut cělkom neverojatne. I to jest krasota matematiky.
+
+Sěděl jesm v tišini. Dyktafon vse ješče snimal, ale uže ne slušal jesm. Myslil jesm o svojem životě – o vsih momentah, v ktoryh bojal jesm se neuvěrenosti. O vsih decyzijah, ktore otkladal jesm, čekajuči na uvěrenost. O vsih metanjah monety, ktoryh izběgal jesm.
+
+A tutčas, po toj lekciji, věděl jesm jedno:
+
+Neuvěrenost ne jest vragom. Jest orudjem. Jest putem do pravdy. Jest to, čto dělaje matematiku i život krasnymi.
+
+Epilog
+
+Muzej Inžinjerstva i Tehniky, Krakov, časina 19:00
+
+Lekcija se končila. Pan profesor sobral svoje zapisky, a publika se načela razhoditi.
+
+Pristupil jesm k njemu.
+
+- Pane profesorje – rěkl jesm. – Hvala. To bylo... něčto.
+
+Usměhnul se.
+
+Něčto?
+
+Ne znam, kako to nazvati. Objavjenje? Izměna perspektivy? Črěz cěly život bojal jesm se slučajnosti. A vy pokazali mi, že slučajnost ne jest slabost. Jest sila.
+
+- To ne ja – odgovoril on. – To matematika.
+
+A ako li nema odgovora? Ako li pytanje o hipotezu kontinuuma ostane otvoreno?
+
+- To takože jest odgovor – rěkl on. – Že sut pytanja, na ktore ne znamo odgovorov. I že to jest v porjadku.
+
+Izšel jesm iz muzeja. Vně byl večer, teply, lipcovy. Izvadil jesm iz karmanja monetu. Dvuzlotovku. Brosil jesm ju v goru.
+
+Orel.
+
+Usměhnul jesm se.
+
+Ne věděl jesm, čto prinese budučnost. Ne věděl jesm, či moje decyzije budut dobre. Ale věděl jesm jedno – že mogu brosati monetoju. Že mogu dověriti slučaju. Že neuvěrenost ne jest koncem světa.
+
+Jest početkom.
+
+Poslěslovje
+
+Lekcija profesora Tomasza Łuczaka o pravděpodobnosti byla nečim večej, neželi lekcija matematiky. Byla lekcijeju o životě.
+
+Pokazal, že to, čto sčitajemo za slabost – neuvěrenost, slučajnost, slučaj – može byti naša največša sila. Že probabilistične metody dozvaljajut nam rěšiti problemy, ktoryh inače ne mogli bysmo se dotknuti. Že dokazy s nulovym znanjem dozvaljajut nam dokazati pravdu, ne izdavajuči sekretov. Že daže ako ne znamo odgovorov na vse pytanja – kako hipoteza kontinuuma – to sam fakt, že pytanje jestvuje, jest krasny.
+
+I že inogda najbolje, čto možemo sdělati, jest brositi monetoju.

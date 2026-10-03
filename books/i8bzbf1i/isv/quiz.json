@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako Tomaš popravlja zdanje Julije „ne uměju matematiki”?",
+      "answers": [
+        "Maješ pravdu",
+        "Ješče ne uměješ — možeš se",
+        "Uči se veče?",
+        "Matematika je glupa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Klučno slovo „ješče” prěměnja perspektivu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktoro pytanje Tomaš dava zaměsto „kako běše v školě”?",
+      "answers": [
+        "Koliko imaješ ocěn",
+        "Čto dnes najbolje tebe udivilo?",
+        "Li dostaneš dvojku",
+        "Kogda odrabotaš domačne zadania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pytanja o odkrytjah i udivljenjah budet ljubopytnost."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako Tomaš upotrěblja palačinky?",
+      "answers": [
+        "Jako nagradu za ocěny",
+        "Jako praktičnu matematiku — dvojno",
+        "Nikogda ne gotovi",
+        "Jako kazn?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julija računa muku i jajca na dvojnu porciju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Julija govori k sebě pri odrabotanju zadanij?",
+      "answers": [
+        "Nikogda togo ne sdelaju",
+        "Ne uměju togo ješče, ale mogu",
+        "Tato mi pomože?",
+        "Ne budu se učiti"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vnutrny monolog s „ješče”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Julija govori na koncu o učenju?",
+      "answers": [
+        "Nikogda veče školy",
+        "Čutim, že ljubim se učiti",
+        "Samo matematika jest dobra",
+        "Tato dělaje za mene zadania"
+      ],
+      "correctIndex": 1,
+      "explanation": "„Čutim, že ljubim se učiti” — vnutrna motivacija."
+    }
+  ]
+}

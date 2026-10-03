@@ -1,0 +1,279 @@
+# Tajvan
+
+## Metadata
+
+**Pack ID:** nfdnzidt
+**Book ID:** nfdnzidt
+**Legacy Pack ID:** polish_tajwan
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Tajvan  
+**Subtitle:** *(none)*  
+**Blurb:** Čen Čing Ting stoji pri vratcah vo Frankfurtu. Svet dela se, že jej kraj ne postoji — a muž iz Tajpeja piše: vrni se, my smo s toboju.
+
+**Genres:** travel, short_story  
+**Series:** Collection Twelve  
+**Audience:** adult
+
+**Difficulty:** 4 (of 8)  
+**Reader difficulty:** ★★★☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Tajwan" — oficialnoje izdanje Collection Twelve.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** tożsamość, Tajwan, podróż, Collection Twelve  
+
+**Keywords:** Tajvan, Tajwan, Collection Twelve  
+
+**Cover family:** travel
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Twelve). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** nfdnzidt:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**TAJVAN**
+
+Chen Ching Ting stanula prěd avtomatičnoju bramkoju na letišču v Frankfurtu nad Menom. Iměla za soboju dolgy let iz Tajpeja, prěd soboju Knižny jarmark v Frankfurtu – jedno iz najvažnejših sobytij v jej profesionalnom životu. Byla izdateljkoju, privezla v čemodaně katalogy, proby knig, vizitky. I pasport.
+
+Zlate litery na bordovoj obložkě: TAIWAN.
+
+Priłożila pasport k čitalniku. Bramka blisnula zelenym světlom – skaner lica poznal ju, otvorili se dverice. Postavila krok naprěd. I togda sistem zamrznul.
+
+Črveno světlo. Zvuk, ktory zvučal kako predostreženje. Dverice se ne zatvorile, ale prěd njeju pojavil se funkcionar v temnosinjem munduru.
+
+– Prošu za mnoju.
+
+Ching Ting ne razuměla. Vedj ona iměla vse v porjadku – biometričny pasport, važeču vizu, povratne bilety. Samo to, že bramka ne propustila jej lice. A može to ne byla bramka – može to byl sistem, ktory gledal na nju i viděl nekogo, kim ona ne byla.
+
+V maloj, bezokonnoj komnatě sěla na plastikovom stulu. Prěd njeju stojali dva funkcionara. Jedin iz nih držal jej pasport v dlani i prěkladal go s stránky na stránku, kako by iskal v njem diru. Drugi gledal na nju, potom na fotografiju v pasportu, potom znovu na nju.
+
+– To vy? – spytal, ukazujuči na fotografiju.
+
+– Da. To ja.
+
+– Inače vy izgledajete.
+
+Ching Ting pomyslila o zubnom aparatu, ktory postavila dva měseca nazad. O stomatologičnyh procedurah, ktore izměnile nemnogo oblik jej čeljusti. O utomjenju po dolgom letu, ktoro dělalo, že jej oči sut nemnogo bolje prižmurene než na fotografiji.
+
+– Imam ortodontičny aparat – rěkla. – I byla jesm u zubnogo lěkarja. Moje lice se malo izměnilo.
+
+Funkcionar ne odgovoril. Črěz moment gledal na nju v molčanju, potom obratil se k kolegu i izměnili oni několiko slov po němečsky. Ching Ting ne razuměla, ale počula v jih glasah něčto, čto ju obezpokojilo – nesigurnost, ktora pomalo prerastala v podozrjenje.
+
+– Kim vy zaisto jeste? – spytal naglo jedin iz nih.
+
+– Ja jesm Chen Ching Ting. Ja jesm iz Tajwanu.
+
+– To ne je država.
+
+– Ja jesm iz Tajwanu – povtorila spokojno. – Imam pasport Tajwanu.
+
+– Vaš pasport je falšivy – rěkl funkcionar. – Numer ne jestvuje v sistemě. My ne možemo go najti.
+
+Ching Ting počula, kako jej srce načinaje biti bystrěje. Črěz moment myslila, že to je někaky žart, že za malo kto vnide i rěkne: "Pomyłka, izvinjamo." Ale nikto ne prišel. Vměsto togo funkcionar načel prěgljedati jej telefon – poslanja, fotografije, kontakty. Gledal na fotografije jej rodiny, jej biura, jej knig. I neprěstanno krutil glavoju, kako by ne mogl razuměti, kim je ta žena, ktora sěděla prěd nim.
+
+– Kim vy zaisto jeste? – spytal znovu. Tutoj raz glasněje. – Za čto vy sjuda prijehali?
+
+Ching Ting probovala ohraniti spokoj. Věděla, že jej pasport je legalny. Věděla, že Tajwan izpolnjaje vse kriterije državy – ima stalnu populaciju, vlast kontrolujuču teritorij, svoj pravny sistem, svoju armiju, svoje pasporty, svoje izbory. Věděla, že jej kraj je demokracija, v toj čas kogda Kitaj je komunističny režim. Věděla, že medžu nimi leži 140 kilometrov proliva, ktory je zajedno mostom i propastju.
+
+Ale funkcionar v Frankfurtu ne hčel togo slyšati. Dlja njego Tajwan byl toliko problemom – točkoju na mapě, ktora ne pasovala k nikakomu sistemu. Jej pasport byl falšivy, bo ne jestvoval v němečkoj bazi danyh. A ako ne jestvoval v bazě, to značilo, že ona ne jestvovala. Ili že jestvovala kako nekto iny – kako Kitajka, ktora udavaje Tajvanku, ili kako běglec, ktory ukral čudži dokument.
+
+Četyri godiny. Toliko trvalo saslušanje. Četyri godiny, v ktoryh Ching Ting povtarjala svoje ime, svoje prezime, svoj adres v Tajpeju, svoju rabotu, svoje mečty. Četyri godiny, v ktoryh funkcionari zadavali te same pytanja, kako by sčitali, že v někakom momentu se izmuči i skaže něčto ino.
+
+A potom – naglo – dveri se otvorile. Všla ina osoba, nekto s vyššim rangom, i skazal několiko slov po němečsky. Funkcionari pogledali jedin na drugogo, po čem jedin iz nih obratil se k Ching Ting.
+
+– Izvinjamo. To neporazuměnje. Možete iti.
+
+Ching Ting vstala. Jej nogi byly okosteněle, ruki trepetali. Vzela pasport, telefon, torbu.
+
+– To bylo neporazuměnje – povtoril funkcionar. – Prošu vzjeti to tako, kako by se nikogda ne slučilo.
+
+Kako by se nikogda ne slučilo.
+
+Ching Ting vyšla iz komnaty, prošla črěz pasportnu kontrolu, vzela bagaž. V prijezdnoj halě čekal na nju taksist s kartkoju s jej prezimenom. Usměhnul se, otvoril dveri.
+
+– Dobrodošli v Německu – skazal.
+
+Ching Ting sěla na zadnjem sědenju. Črěz okno viděla letišče – letadla, ktore startujut i prizemjajut se, i pasažery, ktori spěše se k brankam. Vse izgledalo normalno. Toliko v jej glavě neprěstanno zvučali te slova: "Vaš pasport je falšivy. Numer ne jestvuje v sistemě."
+
+Věděla, že to ne byla vina funkcionarov. To byl problem sistema – sistema, v ktorom Kitaj je jediny reprezentant vsego Kitaja, a Tajwan je toliko "provincija", ktoru trěba podbiti. Sistem, ktory od desetolětij drži fikciju, že Tajwan ne jestvuje kako država, hoč jestvuje kako fakt.
+
+Spomenula si historiju svojego kraja. Kako v 1947 godu, 28 februara, obyčna potyčka o cigarety prerodila se v povstanje, ktoro vlasti KMT stlumili v krvi. Desetky tisič ubityh. Běly teror, ktory trval skoro četyri desetolětja. 140 tisič uveznenyh. Ljudi izčezali v noči, a jih rodiny nikogda ne doznale se, čto se s nimi stalo.
+
+I kako v 1971 godu Tajwan byl izgnany iz OON, bo jej predstaviteli ne soglasili se na "dvojnu reprezentaciju", ktora by jih uznala toliko kako ostrovnu čest Kitaja. Vyšli iz zaly obrad, ne vědajuči, že to bude jih poslědny krok na meždunarodnoj areně. Od togo vrěmena Tajwan je vně OON. Priznavaje go toliko 12 držav – Haiti, Palau, Sveta Stolica, Maršalovy ostrovy i grst drugih, ktore ne imajut značenja v globalnoj politikě.
+
+A jednako – Tajwan jestvuje. Ima svoju demokraciju, svoju armiju, svoje pasporty, svoje mečty. I jednu iz najvažnejših firm na světě – TSMC, ktora produktuje 90% najnaprědnějših čipov na Zemji. Bez TSMC ne bylo by Nvidije, ne bylo by umělnoj inteligencije, ne bylo by modernoj tehnologije. A TSMC je na Tajwanu.
+
+Ching Ting izvadila telefon i otvorila fotografije. Uviděla svoju rodinu – muža, děti, roditeljev. Vsi žili v Tajpeju, v městu, ktoro bylo stoliceju državy, ktoru nikto ne priznaval. Jej děti hodili do školy, v ktoroj učili se historiju Tajwanu – historiju, ktoroj ne ma v učebnikah Kitaja.
+
+Pomyslila o tom, čto uslyšala v toj komnatě: "Tajwan to ne je država." I razuměla, že dlja funkcionara v Frankfurtu to byla toliko informacija iz sistema – suhy fakt, ktory ne iměl ničto spolne s jej žitjem, jej mečtami, jej tožnostju. Dlja njej – dlja Chen Ching Ting, izdateljky iz Tajpeja – Tajwan byl vsem. Byl domom.
+
+Avtomobil vjehal do Frankfurta. Za oknom migali kamjenice, magaziny, ljudi. Vse izgledalo tako samo kako v vsakom drugom evropejskom městu. Ale Ching Ting čula se inače – kako by za te četyri godiny něčto v njej puklo. Ne zlost. Ne strah. Něčto glubše – svědomje, že v očah světa jej jestvovanje je toliko problemom dlja rješenja.
+
+Izlězla prěd hotelem. Zaplatila taksistu, vzela bagaž, všla vnutr. V recepciji usměhnula se k portiru, pokazala pasport. Toj samy pasport, ktory četyri godiny nazad byl uznany za falšivy.
+
+– Dobrodošli v Německu, gospoža Chen – skazal recepcionist. – Želamo prijetnogo pobyta.
+
+Ching Ting kivnula glavoju. Vzela ključ od komnaty i všla v lift. Kogda dveri se zatvorile, oprla se o stěnu i zatvorila oči.
+
+Znala, že se vrati do Tajvana. Že bude dalje izdavati knigy, besědovati s avtorami, planovati slědujuče targy. Že jej děti budut dorastati v kraju, ktory jest demokracija, ale ne jest država. Že cěly svět bude se pretvarjati, že Tajvan ne jestvuje, hoč vsi budut koristati čipy izgotovjeny na Tajvanu.
+
+I znala, že to ne jest spravedlivo.
+
+Ale ne imala izbora. Mogla toliko žiti, rabotati, ljubiti i imati naděju, že jednogo dnja – može byti – svět prěstane se pretvarjati.
+
+Lift zastanovi se na petom etažu. Ching Ting otvorila oči, vzela gluboky vdyh i vyšla na koridor.
+
+Za oknom jej komnaty vidno bylo pokrvy Frankfurta. Někde tam, daleko na vzhodu, ležal Tajvan – ostrov, ktory byl država, hoč nikto ne hotěl togo skazati glasno.
+
+A na letišču v Frankfurtu, v kompjuterskom sistemě, ktory ne rozpoznal jej lica, vse ješče byl vidny komunikat:
+
+Pasport nedějstvitelny. Osoba neznana. Dělo do objašnjenja.
+
+Ale Ching Ting znala, že to ne jest pravda. Ona byla realna. Ona byla Tajvanka. I nijaky sistem, nijaky urědnjik, nijaka politika jednogo Kitaja ne mogla togo izměniti.
+
+Sěla na postelji. Otvorila laptop. Prěd njej čekala rabota – katalogy do prěgledanja, avtory do srětanja, targy do podgotovjenja. Normalno žitje. Žitje, ktoro teklo mimo vsego, mimo togo, že svět se pretvarjal, že jej kraj ne jestvuje.
+
+Načela pisati imejl do muža v Tajpeju. V jednom izrěčenju opisala, čto se stalo. V drugom – že vse jest v poredku. V tretjem – že tuži.
+
+Muž odpisał po petih minutah: Vračaj se domoj bystro. My jesmo s toboju.
+
+Ching Ting usměhnula se. Zatvorila laptop.
+
+Znala, že se vrati. I že togda, na letišču v Tajpeju, avtomatična branka ju propusti. Bo tam, na Tajvanu, nikto ne musel se pretvarjati, že jest kym inym.
+
+Mogla byti soboju.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Gde Čen Čing Ting stoji na početku?
+
+**Answers:**
+- A) Na dvorcu vo Varšavi
+- B) Pri vratcah na letišču vo
+- C) V portu v Gdansku
+- D) V metru v Tokiu?
+
+**Correct:** B
+**Explanation:** Ona stoji pred avtomatičnymi vratcami vo Frankfurtu.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Kaky problem sreča pri kontroli?
+
+**Answers:**
+- A) Zgubila je bagaž
+- B) Sistem / svet dela se, že jej kraj ne
+- C) Nema bileta?
+- D) Ne zna anglijsky
+
+**Correct:** B
+**Explanation:** Ona doživlja, že svet dela se, jako by jej kraj ne postojal.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Komu piše imejl?
+
+**Answers:**
+- A) Šefu v Berlinu
+- B) Mužu v Tajpeju
+- C) Materi v Pekinu
+- D) Kolegynji v Parizu
+
+**Correct:** B
+**Explanation:** Ona piše mužu v Tajpeju.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čto odgovarja muž?
+
+**Answers:**
+- A) Ostani v Evropi
+- B) Vrni se domov skoro. My smo s
+- C) Ne zvoni nazad
+- D) Změni pasport?
+
+**Correct:** B
+**Explanation:** Muž piše: Vrni se domov skoro. My smo s toboju.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Kako konča se pověst?
+
+**Answers:**
+- A) Ona odrekaje se identitetu
+- B) Zna, že na Tajvanu bude moči byti
+- C) Emigruje v SŠA
+- D) Měnja ime?
+
+**Correct:** B
+**Explanation:** Na Tajvanu nikto ne veli jej pritvarjati se kym inym.
+**Text reference:** q5
+

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Blažej?",
+      "answers": [
+        "Ježik",
+        "Princ",
+        "Hlapc",
+        "Zmaj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ježik v norě pod dubom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Blažej?",
+      "answers": [
+        "Deset lět",
+        "Osem lět",
+        "Pet lět",
+        "Dvanadcat lět"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blažej imal osem lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima mama?",
+      "answers": [
+        "Halina",
+        "Iwona",
+        "Vanda",
+        "Katarzyna"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama Vanda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto pahne jutrom v domu?",
+      "answers": [
+        "Kava s mlěkom",
+        "Ryba v sosu?",
+        "Pica iz peči",
+        "Naleśniki z"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naleśniki z jagodami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego najbolje se boji?",
+      "answers": [
+        "Temnosti",
+        "Školy",
+        "Vody",
+        "Psov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Najbolje se bojal školy."
+    }
+  ]
+}

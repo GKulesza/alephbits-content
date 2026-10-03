@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Колико лєт има Отылиа?",
+      "answers": [
+        "Јединнадцет",
+        "Седм лєт",
+        "Пѧт лєт?",
+        "Пѧтнадцет лєт"
+      ],
+      "correctIndex": 0,
+      "explanation": "Отылиа имала јединнадцет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что не падаје од трєх мєсѧцев?",
+      "answers": [
+        "Падаје дежџ",
+        "Падаје снєг",
+        "Падаје град",
+        "Падаје мгла"
+      ],
+      "correctIndex": 1,
+      "explanation": "Не спадла капља дежџа."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что вѧдне за домом?",
+      "answers": [
+        "Рожа на плоту",
+        "Стары дąб",
+        "Стара јаблоња",
+        "Брєза над рєкоју"
+      ],
+      "correctIndex": 2,
+      "explanation": "Стара јаблоња з дєдком."
+    },
+    {
+      "type": "single_choice",
+      "question": "С кым садила јаблоњу?",
+      "answers": [
+        "С учитељкоју",
+        "С мамоју",
+        "С братом",
+        "С дєдком"
+      ],
+      "correctIndex": 3,
+      "explanation": "Садила с дєдком."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что видит Отылиа над рєкоју?",
+      "answers": [
+        "Једин замок",
+        "Три домкы",
+        "Пѧт мостов",
+        "Стадо овцев"
+      ],
+      "correctIndex": 1,
+      "explanation": "Титул: Три домкы."
+    }
+  ]
+}

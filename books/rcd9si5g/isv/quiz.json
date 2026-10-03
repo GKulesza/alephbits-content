@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Anna?",
+      "answers": [
+        "32",
+        "42",
+        "52",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Anna imala četyrideset dva lěta“."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Tomek pamęta iz dětstva bolnogo za Annu?",
+      "answers": [
+        "Samo podarki",
+        "Že mama často kričala i odložila izhod v",
+        "Samo vakacije",
+        "Ničto?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek spominaje krik i odloženy izhod v kino."
+    },
+    {
+      "type": "single_choice",
+      "question": "Za čto Anna piše spis?",
+      "answers": [
+        "Za susědov",
+        "Da razuměti ošibky i něčto změniti — ne da se",
+        "Za sud?",
+        "Za školu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napisala spis, da razuměje i změni, ne da se obvinja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Tomek dělaje so starymi fotografijami?",
+      "answers": [
+        "Vyhody je",
+        "Skanuje i uporjadkuje album",
+        "Prodaje",
+        "Pali?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek skanuje fotografije iz korobky — „naše spominanja“."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Tomek piše o spisu žaljev?",
+      "answers": [
+        "Jest zly?",
+        "Jest vděčny — vidno, že mamě zaleži i",
+        "Ignoruje mater",
+        "Hoče penezy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tomek: spis pokazuje, že zaleži i ljubi — to najvažnějše."
+    }
+  ]
+}

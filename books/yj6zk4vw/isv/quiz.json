@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Bazilij v toj bajce?",
+      "answers": [
+        "Drvar",
+        "Tkač",
+        "Knjaz",
+        "Vratnik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazilij byl drvar."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove vědma?",
+      "answers": [
+        "Dagmara",
+        "Jadviga",
+        "Salomeja",
+        "Gražyna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Žena Jadviga pri lěsu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku cěnu postavlja Jadviga?",
+      "answers": [
+        "Oddajut konja",
+        "Oddajut dom",
+        "Oddajut dceru",
+        "Oddajut lěs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ako rodit se dcera – oddajte."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako často mogut posěćati děte?",
+      "answers": [
+        "Nikogda veče",
+        "Každy teden",
+        "Každy deset lět",
+        "Raz v roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Raz v roku v den rođenja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime dcery?",
+      "answers": [
+        "Klara",
+        "Noemi",
+        "Liliana",
+        "Otylija"
+      ],
+      "correctIndex": 1,
+      "explanation": "Noemi – glavna junakinja."
+    }
+  ]
+}

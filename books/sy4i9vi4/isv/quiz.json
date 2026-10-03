@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest Stefan v prologu?",
+      "answers": [
+        "Direktor po zakupam",
+        "Komendant policije",
+        "Ministr finansov",
+        "Lěkar na městskoj hitnoj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Direktor po zakupam v instituciji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto se posypalo v učenju?",
+      "answers": [
+        "Komunikacija medžu službami",
+        "Nedostatok mundurov v",
+        "Avarija požarnyh vozov?",
+        "Zalivanje trgovogo centra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Radiostancije ne govorili s ohranoju."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest Nina Čyževska?",
+      "answers": [
+        "Lěkarka na městskoj hitnoj",
+        "Šefica policije",
+        "Menadžerka projektov",
+        "Žurnalistka iz Onetu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Menadžerka projektov pri evropejskih."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Stefan slyši o PPBW?",
+      "answers": [
+        "Zakupky prědkomercialne?",
+        "Gotove vojenske produkty",
+        "Zaključene državne tenderi",
+        "Import bez carinskih"
+      ],
+      "correctIndex": 3,
+      "explanation": "Možno zakupiti izslědovanja prěd rynkom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě se odbiva prolog?",
+      "answers": [
+        "Varšava, avgust 2026",
+        "Krakov, lěto 2011 goda",
+        "Gdańsk, vesna 2020 goda",
+        "Poznań, jesen 2024 goda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Varšava, avgust 2026 goda."
+    }
+  ]
+}

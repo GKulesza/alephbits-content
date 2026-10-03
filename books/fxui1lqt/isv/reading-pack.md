@@ -1,0 +1,377 @@
+# Dveri, Ktore Byli Zamknjene
+
+## Metadata
+
+**Pack ID:** fxui1lqt
+**Book ID:** fxui1lqt
+**Legacy Pack ID:** polish_drzwi_ktore_zostaly_zamkniete
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Dveri, Ktore Byli Zamknjene  
+**Subtitle:** *(none)*  
+**Blurb:** Dom ješče pachněl dědom. Drvom, tytonjem i něčim teplim, čto ne uměla jmenovati. Sěděla jesm v kuchnji, ględajuči na prazdno kreslo pri okně, gdě on provoděl vsako popoldne. Mama pakovala oděv do kartonov. Ujec vynosil stare m…
+
+**Genres:** ['article']  
+**Series:** Collection Fourteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Drzwi, które zostały zamknięte" — oficialnoje izdanje Collection Fourteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'article', 'drzwi-ktore-zostaly-zamkniete']  
+
+**Keywords:** Dveri, Ktore Byli Zamknjene, Drzwi, które zostały zamknięte, Collection Fourteen  
+
+**Cover family:** article
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fourteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** fxui1lqt:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**DVERI, KTORE BYLI ZAMKNJENE**
+
+Opověst o tihoj dobroti, ktora ne hče byti vidima
+
+PROLOG
+
+Biskupin, dom rodinny, dva dni po pogrebu
+
+Dom pahněl je ješče dědom. Drěvom, tabakom i něčim teplim, čto ne uměla jesm nazvati. Sěděla jesm v kuhni, gledajuči na pusty fotel pri oknu, gde provodil vsako popoludne. Mama pakovala odež do kartonov. Ujec iznosil stare meblje. Otec hodil z zapisnikom i zapisyval, čto vzjeti, a čto oddati.
+
+Jedino ja ne mogla jesm se maknuti.
+
+Prěd mnom na stolu ležala čaška po kavě, ktoru děd uže nikogda ne vypije. Pored – stara fotografija v srebrnoj ramkě. On i babka v mladosti, usměhnuti, ščestlivi. Na zadu pripis: "Lěto 1962, prva spolna izjezdka na morje."
+
+– Kćerko, pomožeš? – pytala mama.
+
+– Zaraz – otgovorila jesm, hoč znala jesm, že ne zaraz.
+
+Ne mogla jesm prěstati mysliti o tyh dverjah. O majsternji, do ktoroj črěz cěly život ne iměla jesm vstupu.
+
+RAZDĚL I: ZABRANA
+
+Vospominanje, dvadeset lět raněje
+
+Iměla jesm može sedm lět, kogda prvy raz sprobovala jesm pristupiti k majsternji.
+
+Bylo lěto, okna v cělom domě stali široko otvorjene. Děd rabotal vnutri – slyšala jesm stukot mlatka, někogda šlifovanje šmirglovym papírom. Pahnělo drěvom i lakom, tym sladkym, težkym zapahom, ktory vsegda svezal mi se s njim.
+
+Pristupila jesm k dverjam. One byli zamknjene. Vzela jesm za ručku, hotěla jesm prověriti, či otvorju.
+
+– Aniu – slyšala jesm za plečami jego glas.
+
+Obratila jesm se. Stal je v dverjah vedučih iz kuhni, utiral ruky o fartuh. Ne izgledal je zlym – nikogda ne izgledal je zlym. Ale jego oči byli považne.
+
+– Ne otvarjaj tyh dveri – rekl spokojno. – Obečaj mi.
+
+– Začto? – pytala jesm.
+
+– To ne jest mesto dlja dětej. Hodi, pokažu ti něčto na dvorě.
+
+Vzel me za ruku i izvel me do sada. Pokazal mi gnjezdo lastovic pod strěhoju, rěkl, kako sam někogda kako hlapec nabjudal ptice i sanjal, da by uměl lětati. Zabyla jesm o dverjah.
+
+Ale potom, mnogo raz, probovala jesm k njim vratiti se. Vsegda nahodil sposob, da by me odvrati. Vsegda izměnjal temu.
+
+Až v koncu prěstala jesm pytati.
+
+RAZDĚL II: PROŠČANJE
+
+Dom dědov, denj pogreba
+
+Sveščenik rekl kilka teplih slov. Rodina plakala. Susedi prihodili s kondolencijami i kolacami.
+
+Děd umrěl v snu. Babka našla go rano, ješče teplogo, s usměhom na licu. Lěkar rekl, že serdece prosto prěstalo biti. V věku osemdeset i dva lět, po dolgom, dobrom životu.
+
+Na pogrebu někto rekl: "Byl dobrym člověkom. Vsegda usměhnuty. Vsegda gotov k pomoči."
+
+I to byla pravda. Děd byl dobry. Tihy, skromny, nikogda ne žaloval se. Rabotal kako stolar v městnom zavodě, ale doma iměl svoj mali majsternju, do ktoroj nikto ne iměl vstupu. Govorili jesmo sobě, že to jest jego prostor, jego azil. Vsaky trěbuje mesto jedino dlja sebe.
+
+Ale tutčas, po jego smrti, něčto v mně prasklo.
+
+Vratila jesm se do doma po pogrebu i prvy raz od lět stala jesm prěd tymi dverjami. One byli zamknjene. Tako kako vsegda.
+
+– Majsternju ostavi – rekl otec, videči, kde gledam. – Potom se njim zajmemo.
+
+– Potom? – pytala jesm.
+
+– Jest prěmnogo stvari do sdělanja. Zajmemo se njim v slědujučoj sedmici.
+
+Nikto daže ne pogleděl v stranu tyh dveri. Kako by vsi od lět privykli, že prosto se jih ne otvarja. Kako by ta pravila byla tako gluboko vrostla v našu rodinnu pamet, že daže po jego smrti nikto ne odvažil se jej zlomiti.
+
+A ja ne mogla jesm prěstati o njih mysliti.
+
+RAZDĚL III: KLJUČ
+
+Slědujučego dnja
+
+Ostala jesm sama v domě. Mama pojehala do města rěšiti formalnosti, otec s ujcem iznosili meblje na podkrovje. Babka drěmala v svojoj komorě.
+
+Znala jesm, že to jest jedina šansa.
+
+Preiskala jesm cěly dom. Šubljady, šafky, džepy jego staryh kurtok, visečih v prědsjeni. Pusty krabky od cigar, stare kalendare, fotografije iz armije. Ničto.
+
+Uže hotěla jesm prěstati, kogda zaměčila jesm stary rabotny fartuh viseči za kuhonnymi dverjami. Byl tako grjazny i iznošeny, že črěz lěta nikto ne obratil na njego vnimajenja.
+
+Visěl tam od vsegda, tako kako vsegda stojal tam gornjec s pelargonijami i stary časovnik, ktory tikaval, ale pokazyval zlu časinu.
+
+Snyala jesm fartuh. Byl težky od lět koriščenja. Pretresla jesm go v dlanjah – i togda počula jesm něčto v podšivkě.
+
+Maly, mosjažny ključ. Zardžěly, ale vse ješče silny. Někogda musil blěskati.
+
+Pristupila jesm k dverjam. Vložila jesm ključ v zamok. On podhodil idealno.
+
+Zavahala jesm se na okamženje. Črěz mysl prěbegli mi slova děda: "Ako li mene někogda ne stane, ne otvarjaj tyh dveri."
+
+Obratila jesm ključ.
+
+RAZDĚL IV: MAJSTERNJA
+
+Dveri otvorili se tiho, bez skripanja. Někto musil je redovno mažiti oljem, vprěki tomu, že nikto jih ne koriščal.
+
+Očekala jesm nered, prah, stare orudja razmetane v bezporedku. Meždučasom vsečto izgledalo, kako by děd vyšel pět minut raněje.
+
+Na stolu ležali naočniki – te s grubymi steklami, ktore nosil do čitanja. Pored čaška po kavě, ješče s zaschnutoju skoroju na dnu. Stary časovniček na srebrnom verižku. I nedokončeny drěvjany konik – ješče bez nog, bez grivy, ale uže s vyrezanym obrysom, ktory izdaval uměle ruky. Čula jesm zapah svěžego drěva, pilin, laka.
+
+Najvyše me udivili polky.
+
+Stali na njih desetky ručno sdělanyh igračk. Konji, medvědiky, samohodiky, lodky, ptice s dvigajučimi kridlami. Vsaka ina, vsaka krasno izvršena. Vsaka iměla privězanu malu kartičku s imenom.
+
+Pomyslila jesm, že to sut dary dlja rodiny. Može dlja dětej susedov, može dlja vnukov prijateljov. Ale ne znala jesm ni jednogo iz tyh imen. Ni Ani, ni Maćka, ni Kasi, ni Vojtka. Ni jednogo.
+
+Otvorila jesm prvu šubljad. Ležal tam gruby zvezanec v iznošenom, koženom obloženju. Stotine imen. Daty. Kratke zapisky – ničto vyše. Prevracala jesm stranicu za stranicom, čitajuči te kusky tuđego žitja.
+
+"Ania – kukla v sinjoj sukni, mart 1994."  
+"Maciek – samohod, jun 1995."  
+"Kasia – medvědik, decembr 1997."  
+"Paweł – risovanka, maj 1998."  
+"Ola – domik dlja kukel, septembr 2000."
+
+Tysjači igračk. Tysjači dětej.
+
+Na poslědnoj stranici bylo toliko jedno rečenje, napisano jego harakterističnym, naklonjenym pismom:
+
+"Nikako děte ne směje čuti se nevidimym."
+
+RAZDĚL V: OPOVĚDANJE BABKY
+
+Slyšala jesm za plečami glas babky. Ne znala jesm daže, že vstupila.
+
+– Obečal mi, že nikogda nikomu o tom ne opově – rekla tiho.
+
+Obratila jesm se. Stala v pragu, podpirajuči se o dovratnik. Jej oči byli mokre, ale usměhala se.
+
+– Babko, o čem ty govoriš?
+
+Sěla pored mene na starom drěvjanom stolku, ktory skripnul pod jej težinom. Črěz okamženje molčala, gledajuči na polky plne igračk. Potom prvy raz opovědala historiju, ktoroj črěz několiko deset lět ne znala daže vlastna rodina.
+
+– Tvoj děd – načela – ne iměl legkogo dětstva. Jego matka umrěla, kogda iměl tri lěta. Otec oženi se ponovno, ale mačoha ne hotěla go. Oddali go do doma dlja dětej. Govoril, že to bylo město, kde děti byli kako sěn. Nikto ne izgovarjal jih imen. V prazdniki dostavali pakety, ale bez kartiček. Bez podpisov. Kako by nikto ne hotěl, da by oni znali, že někto o njih pametaje.
+
+– Zato dělal te igračky? – pytala jesm.
+
+– Črěz ponad trideset lět – otgovorila. – Vsako ime v tom zvezancu to děte, ktore nikogda ne dostalo ničto od nikogo. On nahodil jih imena, uznaval, čto ljubjat, i dělal dlja njih igračky. Anonimno. Bez blagodarenij, bez fotografij, bez historij. Jedino drěvo i kartička s imenom.
+
+– Začto nikto o tom ne znal?
+
+– Bojal se – rekla babka. – Že ako li někto dozna se, to odbere mu tu radost. Že prěstane byti jego tajnostju, jego sposobom napraviti tamto dětstvo. Hotěl, da by to bylo jedino medžu njim a tymi dětmi.
+
+Zamolčala na časinu. Potom dodala:
+
+– Daže ja doznala se slučajno, po deseti lětah braka. Našla jesm pismo. Obvezala jesm se, že nikomu ne skažu.
+
+Črěz časinu siděly jesmo v tišině. Potom zatvorila jesm zvezanec i vložila jesm go nazad do šuflady.
+
+– Někto by iměl věděti – rěkla jesm tiho.
+
+– Tutčas uže zna – otgovorila babka. – Ty.
+
+---
+
+RAZDĚL VI: DOKONČENJE
+
+Godinu kasnje
+
+Vratila jesm se do dělalnice, ale uže ne zato, da by iskati tajnosti. Dom byl pusty. Rodina prodala go několiko měsecev ranje, ale dogovorila jesm se s novym vlastnikom, že mogu vniti ješče raz, da by vzjeti poslědne stvari.
+
+Vstupila jesm vnutr. Zapah drěva i laka vse ješče nosil se v vozduhu, hoć slabje neželi godinu ranje. Sěla jesm točno tam, kde vsegda siděl děd – na tom samom kreslu, pri tom samom stolu.
+
+Prěd mnoju vse ješče ležal nedokončeny drěvjany konik.
+
+Tutoj raz rěšila jesm go dokončati.
+
+Ne uměla jesm rězati drěvo tako kako on, ale črěz cěly rok učila jesm se od starogo stolara v susedstvu. Sdělala jesm nogi, vygladila jesm grivu, pomalovala jesm konika v jasny bronz, taky sam kako te, ktore dělal děd.
+
+Spakovala jesm go do krabice. Ne podpisala jesm se. Vnutri ostavila jesm jedino kratku kartičku, napisanu jeho pismom – naučila jesm se jeho podražati črěz poslědne měsece:
+
+"Někto o tobě pametaje."
+
+Odnesla jesm paket do blizkogo doma dětí. Črěz okno viděla jesm děti, ktore igrali se na dvorku. Jedno iz njih, maly hlapec v modroj kurtkě, obratil se i pogleděl v moju stranu. Usměhnul se.
+
+Ne věděl, že někto prěd časinoju ostavil dlja njego drěvjanogo konika. Ne věděl, že za tym gestom stoji cěly život někogo, kogo nikogdy ne poznal. Ne věděl, že pravdivym darom ne jest igračka, ale to, že někto izrekl jeho ime.
+
+I točno o to šlo.
+
+---
+
+EPILOG
+
+Grobišče, ta sama jesenj
+
+Prišla jesm do groba děda. Položila jesm na kamenju maly drěvjany konik – toj samy, ktory jesm dokončala. Ostavila jesm takože kartičku, tutoj raz s vlastnym podpisom:
+
+"Dědu, dokončala jesm tvoju rabotu. Imena budut zapametane. Oběcaju."
+
+Větr zatresl listami na blizskom drěvu. Črěz časinu izdavalo mi se, že slyšu jeho glas. Toj samy, ktory govoril: "Ne otvarjaj tyh dverij."
+
+Ale tutčas razuměla jesm. Některe dveri ostajut zatvorene ne zato, že skryvajut tajnosti. Jedino zato, že skryvajut nečiju tihu dobrotu. Dobrota, ktora ne hče byti vidana, ne hče byti nagraždana, ne hče byti opovědana. Dobrota, ktora jestvuje jedino radi samej sebe.
+
+I točno zato jest najpravdivějša.
+
+---
+
+POSLOVJE
+
+Tuta historija mogla by se dogoditi zaisto. V vsakom městě, v vsakom domu, za vsakymi zatvorenymi dverjami. Inogda največša dobrota skryva se tam, kde nikto ne gledaje. I jedino ti, ktori se odvažet otvoriti, mogut uviděti, čto skryva se v sěni.
+
+Děd črěz cěly život dělal igračky dlja dětí, ktoryh nikogdy ne poznal. Ne zato, da by jemu někto blagodaril, ne zato, da by go podivjali, ale zato, že sam kako děte čutil se nevidimy. Hotěl, da by ine děti ne musily čutiti togo samogo.
+
+I hoć nikogdy ne doznal se, či jeho igračky trafili do pravih ruk, to věrju, že negdě tam, v domě dětí, v bolnicě, v zastupnoj rodinie, bylo děte, ktore otvorilo paket i počutilo, že někto je vidit.
+
+A to može byti najkrasnějša stvar, ktoru možno někomu dati.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Gdě počina se prolog?
+
+**Answers:**
+- A) Biskupin, po
+- B) Varšava, v biuru
+- C) Krakov, na dvorcu
+- D) Gdańsk, nad morem
+
+**Correct:** A
+**Explanation:** Biskupin, dva dni po pogrebu.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čego děvčina ne iměla vstup?
+
+**Answers:**
+- A) Do školnoj biblioteky
+- B) Do dědovogo
+- C) Do sosednogo lesa
+- D) Do městskogo ratusa
+
+**Correct:** B
+**Explanation:** Do varkstata črez cěly život.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Čto děd dělal v tajnosti?
+
+**Answers:**
+- A) Listy do uręda města
+- B) Zlate monety za sosedov
+- C) Drvene igračky za
+- D) Obrazy na aukcije
+
+**Correct:** C
+**Explanation:** Dělal igračky za čuže děti.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** Čto narratorka klade na grob?
+
+**Answers:**
+- A) Fotografiju v ramě
+- B) Srebrnu čašu
+- C) Stary ključ do dverij
+- D) Drvenogo konika
+
+**Correct:** D
+**Explanation:** Maly drveny konik.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čto govori kartka na grobě?
+
+**Answers:**
+- A) Prosim, otvorite te dveri
+- B) Dokončila jesm tvoju
+- C) Vratim se tu v vesnu?
+- D) Vsegda budu pamętati
+
+**Correct:** B
+**Explanation:** Dokončila jesm tvoju rabotu.
+**Text reference:** q5
+

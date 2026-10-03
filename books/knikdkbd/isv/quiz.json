@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Gniewko?",
+      "answers": [
+        "Dvanadcet lět",
+        "Deset lět",
+        "Pętnadcet lět",
+        "Osem lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gniewko iměl dvanadcet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest otec Gniewka?",
+      "answers": [
+        "Drvar Bazylij",
+        "Kralj Mścisław",
+        "Vozny Kazimierz",
+        "Tkač iz sela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kralj Mścisław."
+    },
+    {
+      "type": "single_choice",
+      "question": "Odkud prihodi pismo?",
+      "answers": [
+        "Monastyr na holmu",
+        "Městska škola?",
+        "Akademija",
+        "Port nad rěkoju"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akademija Guślarstva."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prinosi prizvanje?",
+      "answers": [
+        "Orel",
+        "Golub",
+        "Sova",
+        "Kruk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pismo na krilah kruka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogda ima se javiti?",
+      "answers": [
+        "V zimnje svęta",
+        "V przesilenje",
+        "V noć listopada",
+        "V vesnu v maju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denj przesilenja lěta."
+    }
+  ]
+}

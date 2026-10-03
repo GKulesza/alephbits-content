@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Zosja?",
+      "answers": [
+        "Sedm",
+        "Devet",
+        "Jedinnadcet",
+        "Dvanadcet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tekst: „Zosja imala devet lět“."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove Kraljica Dožda?",
+      "answers": [
+        "Kropeja",
+        "Ruzja",
+        "Sněžinka",
+        "Stella"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kraljica se zove Kropeja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto otvara dveri do začarovanoj stězky?",
+      "answers": [
+        "Srebrny ključik",
+        "Mapa",
+        "Zaklinanje bez ključa",
+        "Pěsnja bez ključa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baba vyjimaje maly srebrny ključik iz fartuška."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kake tri zvuky ugadyvaje Zosja u motylka?",
+      "answers": [
+        "Kogut, korova,",
+        "Pes, kot, kura?",
+        "Dožd, větr, grom",
+        "Flet, harfa, buben"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ugadyvaje koguta (kukuryku), korovu (muuu) i svrčki (cyk-cyk)."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Kropeja čini nad usohnuvšeju krajinoju?",
+      "answers": [
+        "Pojaje pěsnju",
+        "Vrže ključ?",
+        "Zamrzaje jezero",
+        "Běži na Lunu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kropeja pojaje, a iz oblakov padaje obfity dožd."
+    }
+  ]
+}

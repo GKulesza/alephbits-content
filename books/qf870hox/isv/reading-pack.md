@@ -1,0 +1,411 @@
+# Otylia i Tri Domky
+
+## Metadata
+
+**Pack ID:** qf870hox
+**Book ID:** qf870hox
+**Legacy Pack ID:** polish_otylia_i_trzy_domki
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Otylia i Tri Domky  
+**Subtitle:** *(none)*  
+**Blurb:** V jednej zemji, tam gde lugy byli tako zeleny, že oči boleli od ględanja, a rěky pěli kolysanky plovuči medžu holmami, živěla děvojčica imenem Otylia.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 7 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** isv  
+**Translation summary:** Medžuslovjanska literatura preklad polskoj redakcii "Otylia i Trzy Domki" — oficialnoje izdanje Collection Fifteen.  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'otylia-i-trzy-domki']  
+
+**Keywords:** Otylia i Tri Domky, Otylia i Trzy Domki, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Medžuslovjansky preklad polskoj kanoničeskoj redakcii (Collection Fifteen). Povnyj tekst — bez skračenij.
+**Translation status:** machine  
+**Translation source:** qf870hox:pl  
+**Translation source version:** 1.0.0  
+
+---
+
+**World:**
+- places: story
+- objects: story
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** deepseek-chat  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection 12–15 ISV import from isv-llm-lab Opowiadania/interslavic.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Medžuslovjansky edition import (Latin). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Matched ISV translation to existing PL book; authored ISV quiz. |
+
+---
+
+## Sources
+
+### Source 1: Polish canon + ISV translation
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** none  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-03  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** Text from isv-llm-lab/Zdravo/Opowiadania/interslavic; quizzes translated to Medžuslovjansky.
+
+---
+
+## Text
+
+**OTYLIA I TRI DOMKY**
+
+Pověst o děvčine, ktora odkryla, že suša to ne samo nedostatok vody
+
+Uvod
+
+V jednoj kraině, tam gde luki byli tako zelene, že daže oči bolěli od gledanja, a rěky pěli kolysanky, plyvajuči medžu holmami, žila děvčinka po imenu Otylia.
+
+Otylia měla jedinnadset lět, vlasy v koloru medu i oči, ktore viděli veče než drugi. Uměla zamětiti, kogda mravka izgubila svoju put. Uměla slyšati, kogda ptak zval svojego ptenca. Uměla počuti, kogda nečto bylo ne tak — daže ako nikto drugy togo ne čul.
+
+A poslědno nečto bylo velmi ne tak.
+
+Uže tri měsece ne spadla ni jedna kapka dožda. Rěky stali se tenše než lenty. Luki žltěli kako stary listy. A ljudi načeli se bojati.
+
+Ale Otylia měla ješče jedin povod do brigi. Na kraju sela, tuž za jej domom, rosla stara jablonja. Otylia sadila ju s dědkom, kogda měla četiri lěta. Dědok odšel godinu kasnje, ale jablonja ostala. I teper ta jablonja vędla. Jeje listy zavinjali se kako male pesti. Jeje vetvy opadaly vse niže.
+
+Otylia sadala pod njoj vsaky denj. Dotykala se jeje kory. Šeptala:
+
+— Izdrži. Prošu.
+
+Ale jablonja ne odpovědala. A Otylia čula, že gubi nečto veče než drěvo. Gubi česticu dědka.
+
+Razděl prvy: Tri domky
+
+Pevnogo rana, kogda šla po brjegu vysušenoj rěky, uviděla nečto, čego nikogda ranje ne viděla.
+
+V oddalenju, tam gde rěka obrtala se k lěsu, stojali tri domky. Byli male, kolorovane i izgledali tako, kakby ih nekto postavil včera.
+
+Otylia znala tu okolinu na pamet. Nikogda ranje ne bylo tu nikakyh domkov.
+
+A však byli. Žolty kako citron. Črveny kako zrělo jabko. Zeleny kako mlade listky.
+
+Na dverah prvogo domka visěla zapiska. Otylia pročitala naglas:
+
+„Vojdi, ako hočeš pomoči. Ale najprvo odgovori: čego nedostaje tutoj kraině?"
+
+Otylia smrštila brvi.
+
+— Vody — rěče. — Nedostaje vody.
+
+Dveri se otvorile.
+
+Vnutri bylo temno. Pahlo vlažnoju zemjeju i nečim sladkym. V srjedě komnaty stojal stol. Na stolu ležali tri prědmeta: maly ključ, šnur i zrcalce.
+
+Na stěně byl napis:
+
+„Izberi jedin. Samo jedin te povede dalje."
+
+Otylia pogledala na prědmete.
+
+Ključ — mogal otvoriti dveri. Šnur — mogal nečto svezati. Zrcalce — moglo nečto pokazati.
+
+Razmyšljala dolgo. A potom vspomenula si, čto govorila jej babka Bogna, kogda byla mala:
+
+— Časom trěba pogledati v zrcalo, da by uviděti, čego iščeš.
+
+Otylia vzela zrcalce.
+
+I togda nečto se stalo.
+
+Razděl drugy: Domek Drěv
+
+Zrcalce zaiskrilo se. Otylia zatvorila oči. A kogda ih otvorila, stojala v sadu.
+
+To byl sad poln ovocnyh drěv. Jablonje, gruše, slivy. Vse iměli listy. Vse byli zelene. Ale ni na jednom ne bylo ovočev.
+
+— Vitaj — razleg se golos.
+
+Otylia obrnula se.
+
+Prěd njeju stojal maly stvor. Izgledal kako jež, ale iměl kridla. I usměhal se od uha do uha.
+
+— Ja jesm Pączek — rěče. — Staraju se o tutom sadu.
+
+— Začto tu nema ovočev? — spytala Otylia.
+
+— Bo drěva sut smutne — odpověděl Pączek. — A smutne drěva ne rodjat ovočev.
+
+— Začto sut smutne?
+
+— Bo nikto ih ne sluša.
+
+Otylia prišla k najbližšej jablonji. Dotknula se jeje kory.
+
+— Čego potrěbuješ? — spytala tiho.
+
+I togda uslyšala šepet.
+
+— Vody. I vnimajenja. I nekogo, kto ostane na hvilju.
+
+Otylia sedla pod drěvom. Seděla tako dolgo. A potom vstala i rěče:
+
+— Vratim se. I privedu drugih. Budemo slušati.
+
+Drěvo drgnulo. Na jegovoj větvi pojavil se maly, zeleny pup.
+
+Pączek klesnul v lapky.
+
+— Uspělo ti se! — zakričal. — Razuměla si!
+
+— Čto ja razuměla?
+
+— Že suša to ne samo nedostatok vody. To takože nedostatok vnimajenja.
+
+Razděl tretji: Domek Zvěrov
+
+Zrcalce zaiskrilo se ponovno.
+
+Otylia se našla v lěsu. Byl gust, temen i tih. Prětiho.
+
+— Halo? — zakričala.
+
+Nikto ne odpověděl.
+
+Šla prěd sebe. Až došla do polany. Na polaně stojala hata. Iz komina podnimal se dym. Prěd hatoju seděl stary Borsuk. Iměl sivu dlaku i umorne oči.
+
+— Vitaj — rěče. — Iskaš odgovorov?
+
+— Tak — odpověděla Otylia. — Iskam sposob, da by spasti krajinu od suše.
+
+Borsuk pogleděl na nju dolgo.
+
+— Znaš li, za čto v tom lěsu nema zvěrov? — spytal.
+
+— Ne.
+
+— Bo zvěri odšli. Pošli tam, gde jest voda. Ale voda ne vrati se, dokud zvěri ne vratit se.
+
+— Začto?
+
+— Bo zvěri noset sěmena. Kopajut nory. Měšajut zemju. Blagodarje jim lěs žive. A bez lěsa nema dožda.
+
+Otylia molčala.
+
+— Čto mam sdělati? — spytala v koncu.
+
+— Najdti je. I uběždati, da by se vratili.
+
+Otylia vputila se v put. Šla prěz mnogo dnej. Posětila polja, luki, gory. Až došla do velikogo duba, v ktorom žila stara veverica po imenu Orzeszka.
+
+— Vrati se do lěsa — rěče Otylia. — Lěs te potrěbuje.
+
+Orzeszka pogledala na nju s vysoty.
+
+— Začto mam se vratiti? — spytala. — Ljudi i tako znovu razrušajut lěs. Sekut drěva. Zatruvajut rěky. Ja to uže viděla.
+
+Otylia molčala. Bo znala, že veverica ima pravdu.
+
+— Ne znam, či ljudi se izměnjet — rěče v koncu. — Ale znam, že ja se izměnila. I znam, že bez tebe lěs umre. A ja ne hoču, da by on umrl.
+
+Orzeszka patrila na nju dolgo.
+
+— Jesi čudna — rěče. — Ale izgleda, že v porjadku.
+
+I vratila se s nju.
+
+Za njoj se vratili drugi zvěri. Najprvo jedin. Potom drugi. Potom deset. Potom sto.
+
+A kogda se vratili, lěs načel se izměnjati. Zemja pod jih lapami stavala se mekka. Sěmena klijala. A nad lěsom pojavili se oblaky.
+
+Razděl četvrti: Domek Vody
+
+Zrcalce zaiskrilo se po tretji raz.
+
+Otylia se našla nad jezerom. Bylo malo. Skoro vysušeno. Na jegovom brěgu seděla žaba. Iměla zlate oči i usměh, ktory govoril: „Znam, čto mysliš".
+
+— Nazyvam se Kropelka — rěče. — Stregu tuto jezero.
+
+— Začto je tako malo? — spytala Otylia.
+
+— Bo nikto ne pametaje, že voda ne jest samo voda.
+
+— Čto to znači?
+
+— Voda to pamet. Pametaje, gde byla. Pametaje, kto ju pil. Pametaje, kto ju poštoval. Ako ljudi zabudut o vodě, voda zabude o nih.
+
+Otylia vratila se do svojego sela. Sazvala vsih žiteljev.
+
+— Znam, za čto jest suša — rěče. — Bo my zabudili. Zabudili slušati drěva. Zabudili starati se o zvěreh. Zabudili, že voda ne jest več. To žitje.
+
+Ljudi molčali.
+
+Togda vystupil sosed Otylije, pan Dariusz.
+
+— To samo suša — rěče. — Ničto ne možemo sdělati. Musimo čekati.
+
+— Ne — odpověděla Otylia. — Možemo saditi drěva. Kopati studence. Štediti vodu. I slušati.
+
+Pan Dariusz frknul.
+
+— Slušati? Kogo? Drěv?
+
+— Tak — rěče Otylia. — Drěv. Zvěrov. Vody. I jedin drugogo.
+
+Ljudi načeli šeptati. Nikto ne htel veriti.
+
+Otylia vratila se domoj umorena. Sedla pod svoju jablonju. Dotknula se jeje kory.
+
+— Ne uspělo se — šeptala. — Nikto mi ne veri.
+
+Počula, že nečto stiska ju v grlu. Slzy prišli jej do očij.
+
+— Može pan Dariusz ima pravdu — rěče. — Može to samo suša. Može ničto ne možemo sdělati.
+
+Seděla tako dolgo. Až prišel večer. A potom noč.
+
+Nad ranom počula nečto na doloni. Kapku. Ona spala s lista jablonje.
+
+Otylia podnela pogled. Listy jablonje ne byli uže zvinute. Byli otvorene. Zelene. Kakby pili.
+
+— Ty takože slušaš — šeptala Otylia.
+
+I togda razuměla, že ne musi uběždati vsih. Dostatočno načeti od sebe.
+
+Zaključenje
+
+Minulo lěto.
+
+Otylia načela sama. Posadila tri male drěvca. Vykopala malu jamu, ktora sbirala doždževu vodu. Štedila vodu. Govorila „blagodarju“, kogda pila.
+
+Pomalo ini načeli dělati to samo. Pani Halina iz susědnogo sada posadila grušu. Pan Dariusz, hot ne priznal se k svojej pogrešky, načel sbirati doždževu vodu v bečkě.
+
+Jednogo dnja Otylia pošla k rěkě. Uviděla, že voda v njej povysila se o palec. Može i dva.
+
+Sedla pod svoju jablonju. Byla uže zdravejša. Imala nove listy.
+
+A potom — počula nečto na nosu. Kapku.
+
+Pogledala v goru. Nad lugami, nad lěsami, nad rěkami — sbirali se oblaky.
+
+Dožd ne prišel odraz. Ale prišel. Najprvo maly. Potom večši. A potom taky, že rěky ponovno načeli nucati.
+
+Otylia seděla pod jablonju. Dožd močil jeje vlasy. Stekal po licah. Měšal se so slzami.
+
+Usměhnula se.
+
+A jablonj — jeje jablonj — vypustila prvy pupok.
+
+---
+
+Suša ne vsegda jest nedostatkom vody.
+Někogda jest nedostatkom vnimanja.
+A dožd prihodi togda, kogda my ponovno počinamo slušati.
+
+---
+
+## Quiz
+
+**Quiz title:** Prověri razuměnje
+
+### Question 1
+
+**Question:** Koliko lět ima Otylia?
+
+**Answers:**
+- A) Jedinnadcet
+- B) Sedm lět
+- C) Pęt lět?
+- D) Pętnadcet lět
+
+**Correct:** A
+**Explanation:** Otylia imala jedinnadcet lět.
+**Text reference:** q1
+
+### Question 2
+
+**Question:** Čto ne padaje od trěh měsęcev?
+
+**Answers:**
+- A) Padaje deždž
+- B) Padaje sněg
+- C) Padaje grad
+- D) Padaje mgla
+
+**Correct:** B
+**Explanation:** Ne spadla kaplja deždža.
+**Text reference:** q2
+
+### Question 3
+
+**Question:** Čto vędne za domom?
+
+**Answers:**
+- A) Roža na plotu
+- B) Stary dąb
+- C) Stara jablonja
+- D) Brěza nad rěkoju
+
+**Correct:** C
+**Explanation:** Stara jablonja z dědkom.
+**Text reference:** q3
+
+### Question 4
+
+**Question:** S kym sadila jablonju?
+
+**Answers:**
+- A) S učiteljkoju
+- B) S mamoju
+- C) S bratom
+- D) S dědkom
+
+**Correct:** D
+**Explanation:** Sadila s dědkom.
+**Text reference:** q4
+
+### Question 5
+
+**Question:** Čto vidit Otylia nad rěkoju?
+
+**Answers:**
+- A) Jedin zamok
+- B) Tri domky
+- C) Pęt mostov
+- D) Stado ovcev
+
+**Correct:** B
+**Explanation:** Titul: Tri domky.
+**Text reference:** q5
+

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko let iměla Magda, kogda otec posađal jeju na stolček v kutu?",
+      "answers": [
+        "Tri",
+        "Sedm",
+        "Petnadcat",
+        "Dvanadcat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iměla sedm let."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako se zove syn Magdy?",
+      "answers": [
+        "Januš",
+        "Gabrys",
+        "Berkas",
+        "Rafal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojavja se Gabrys / Gabrysja v kontekstu kako dítě Magdy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Magda hoče unikati v vospitanju?",
+      "answers": [
+        "Razgovorov",
+        "Staryh metod: kriku, zapretov i kar kako jedinogo",
+        "Objimanja",
+        "Igr?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zna, že segnjenje po staryh metodah jest krok nazad."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky celj vospitanja podčrknjuje zakončenje?",
+      "answers": [
+        "Poslušnost za vsaku cěnu",
+        "Gotovnost dětij k životu — emocije, samostojnost,",
+        "Vyključno dobre ocěny",
+        "Tišinu v domu?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne o poslušnost — o gotovnost k životu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Magda čini, kogda syn govori, že spokojny mysli lěpje?",
+      "answers": [
+        "Kriči?",
+        "Objima go",
+        "Posyla go v kut",
+        "Vyključa svetlo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Objima go krepče."
+    }
+  ]
+}

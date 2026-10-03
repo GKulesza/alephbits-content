@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Filippo Biondi?",
+      "answers": [
+        "Kuhar?",
+        "Izsledovatelj / naučnik pri dannyh o",
+        "Futbolist",
+        "Pilot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dr Filippo Biondi rabotaje pri dannyh i zagadkě Sfinksa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaky spomenik javjaje se v koncu?",
+      "answers": [
+        "Koloseum",
+        "Veliky Sfinks v",
+        "Eifelova věža",
+        "Akropol?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konči se obrazom Velikogo Sfinksa na plato Giza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto leži na zapad od Sfinksa?",
+      "answers": [
+        "More?",
+        "Pěsčany holm, pod nim něčto",
+        "Letišče",
+        "Muzej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za Sfinksom leži pěsčany holm; pod nim něčto čeka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaku metaforu zagadky prizyvaje narrativ?",
+      "answers": [
+        "Labirint Minotaura",
+        "Zagadku grečskogo",
+        "Jablko Newtona?",
+        "Samo meč Damoklesa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sravnjaje pytanje s zagadkoju grečskogo Sfinksa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dela Biondi v koncu sceny v rabotě?",
+      "answers": [
+        "Kriči na svoj tim",
+        "Zatvarja za soboju",
+        "Uničtva dannyje",
+        "Emigruje?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biondi zatvarja za soboju dveri."
+    }
+  ]
+}

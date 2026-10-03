@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kako ime devčiny?",
+      "answers": [
+        "Kornelija iz sela",
+        "Helena iz grada",
+        "Lilijana iz lěsa",
+        "Pola iz sosedstva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kornelija, devet lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto šil črvenu pelerinu?",
+      "answers": [
+        "Mama Halina",
+        "Babka Salomeja",
+        "Tetka Ivona",
+        "Sosedka Zofija"
+      ],
+      "correctIndex": 1,
+      "explanation": "Babka Salomeja šila pelerinu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto mama prosi pri drogi?",
+      "answers": [
+        "Pěti glasno",
+        "Běžati v lěs",
+        "Ne svračati s",
+        "Zbirati griby"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ne svračaj s stězky."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto nosi Kornelija babkě?",
+      "answers": [
+        "Odejalo i podušku",
+        "Vedro vody",
+        "Stary časoměr",
+        "Košik s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Košik: bulky, med, zelja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto babka govori o črvenosti?",
+      "answers": [
+        "To magično zaklinanje",
+        "To spomínanje vybora",
+        "To znak volka",
+        "To straža pred deždem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Črveny to spomínanje vybora."
+    }
+  ]
+}

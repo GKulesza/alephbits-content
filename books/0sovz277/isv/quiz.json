@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "V ktorom času probuđa se Przemek?",
+      "answers": [
+        "V 7:00",
+        "V 5:47",
+        "V 9:15",
+        "V 12:00"
+      ],
+      "correctIndex": 1,
+      "explanation": "Probuđa se v 5:47 — najprvo bez budilnika, na koncu s budilnikom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čim zanimaje se Przemek?",
+      "answers": [
+        "Jest kuhar?",
+        "Jest novinar slěditelj / pytajuči o",
+        "Jest pilot",
+        "Jest učitelj fizkultury"
+      ],
+      "correctIndex": 1,
+      "explanation": "Postavlja neudobna pytanja i zapisuje zagroženja svęzane s novinarskoj rabotoj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto žena govori Przemku večerom?",
+      "answers": [
+        "Aby vyjehal iz strany",
+        "Aby šel spati — jutro načinajut od",
+        "Aby změnil profesiju",
+        "Aby molčal?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Govori: Idi spati. Jutro načinajemo od nova."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako konča se den Przemka?",
+      "answers": [
+        "Zasypaje po 23 i probuđa se v 5:47 s",
+        "Ne spi vse?",
+        "Vyježdaje iz grada",
+        "Ostavjaje rabotu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zasypaje po 23; probuđa se v 5:47 s budilnikom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto znači za Przemka sirena v noči?",
+      "answers": [
+        "Vsegda samo medicinska pomoč",
+        "Često znak, že ktoś zapytal o čem, o čem ne",
+        "Konec vojny?",
+        "Pozvanje na konferenciju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Često znači, že ktoś zapytal o čem, o čem ne dolžen."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě počina se prolog?",
+      "answers": [
+        "Biskupin, po",
+        "Varšava, v biuru",
+        "Krakov, na dvorcu",
+        "Gdańsk, nad morem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biskupin, dva dni po pogrebu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego děvčina ne iměla vstup?",
+      "answers": [
+        "Do školnoj biblioteky",
+        "Do dědovogo",
+        "Do sosednogo lesa",
+        "Do městskogo ratusa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Do varkstata črez cěly život."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto děd dělal v tajnosti?",
+      "answers": [
+        "Listy do uręda města",
+        "Zlate monety za sosedov",
+        "Drvene igračky za",
+        "Obrazy na aukcije"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dělal igračky za čuže děti."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto narratorka klade na grob?",
+      "answers": [
+        "Fotografiju v ramě",
+        "Srebrnu čašu",
+        "Stary ključ do dverij",
+        "Drvenogo konika"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maly drveny konik."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto govori kartka na grobě?",
+      "answers": [
+        "Prosim, otvorite te dveri",
+        "Dokončila jesm tvoju",
+        "Vratim se tu v vesnu?",
+        "Vsegda budu pamętati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dokončila jesm tvoju rabotu."
+    }
+  ]
+}

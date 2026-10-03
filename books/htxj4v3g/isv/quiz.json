@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Pola?",
+      "answers": [
+        "Sedm lět",
+        "Deset lět",
+        "Osem lět",
+        "Dvanadset lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pola iměla sedm lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako ime ima prijatelj?",
+      "answers": [
+        "Šimon?",
+        "Daniel",
+        "Antek",
+        "Miłoš"
+      ],
+      "correctIndex": 1,
+      "explanation": "Daniel – najboljši prijatelj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo škola objavljaje?",
+      "answers": [
+        "Pani Halinu",
+        "Pani Zofiju",
+        "Pani Kalinu",
+        "Pani Vandu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pani Kalina – znalka zvězd."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Daniel nazyvaje kamenčiki?",
+      "answers": [
+        "Zvězdami",
+        "Dijamantami",
+        "Cukrkami",
+        "Meteoritami"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kamene nazyvaje meteoritami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego Pola boji se?",
+      "answers": [
+        "Boji se tmy",
+        "Boji se vody",
+        "Boji se psov",
+        "Boji se burje"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bojala se tmy."
+    }
+  ]
+}

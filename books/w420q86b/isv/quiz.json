@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gde i kogda počina se prolog?",
+      "answers": [
+        "Gnezno letom goda 966?",
+        "Krakov vesnoju goda 1000",
+        "Biskupin zimoju 738 pr. n.",
+        "Poznań jesenju goda 1253"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biskupin, zima 738 pr. n. e."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kaka pogoda jest v prologu?",
+      "answers": [
+        "Mraz i zamrzajuča para",
+        "Žar i prah na drogi",
+        "Dožd padajuči bez prervy",
+        "Gusta mgla nad morem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mraz; para zamrza."
+    },
+    {
+      "type": "single_choice",
+      "question": "Komu „prinadleži” ta istorija?",
+      "answers": [
+        "Jednomu velikomu narodu",
+        "Vsim ljudam sveta",
+        "Samo starym korolam",
+        "Isključivo zabyťju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prinadleži vsim."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto otkryvajut arheologi?",
+      "answers": [
+        "Novu široku avtostradu",
+        "Novy stadion sportovy",
+        "Zlaty skarb lokalnogo banka",
+        "Zaginulu osadu v blatu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Osadu pod slojami vremena."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se povest?",
+      "answers": [
+        "Astronomije sovremenoj epohi",
+        "Arheologije i živej pameti",
+        "Bankovosti investicijnyh firm",
+        "Sportivoj mediciny sego sezona"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arheologija i pamet."
+    }
+  ]
+}

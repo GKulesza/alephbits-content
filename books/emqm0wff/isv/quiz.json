@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Koliko lět ima Antek?",
+      "answers": [
+        "Deset lět",
+        "Osem lět",
+        "Dvanadcat lět",
+        "Sedem lět"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antek imal deset lět."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktora črta definuje Anteka?",
+      "answers": [
+        "Strah pred vodoju",
+        "Netrpělivost",
+        "Nenavist k zimě",
+        "Bojazn pred psami"
+      ],
+      "correctIndex": 1,
+      "explanation": "On byl netrpělivy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto prěobraža jezero v zimě?",
+      "answers": [
+        "Vodny park",
+        "Pustynju",
+        "Ledovisko",
+        "Futbolovo igrišče"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jezero prěobraža se v ledovisko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest spokojny v gruppě?",
+      "answers": [
+        "Spokojna Kornelija",
+        "Spokojny Fabian",
+        "Spokojny Bartoš",
+        "Spokojna Lidija"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kornelija byla spokojna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto slyši, kogda někto govori zaraz?",
+      "answers": [
+        "Vsegda",
+        "Nikogda",
+        "Može?",
+        "Zautra"
+      ],
+      "correctIndex": 1,
+      "explanation": "On slyšal: Nikogda."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdě žije Mihail?",
+      "answers": [
+        "V podvalu",
+        "Na 15. podla v",
+        "Na selu?",
+        "V hotelu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Za oknom na 15. podla vidno Varšavu."
+    },
+    {
+      "type": "single_choice",
+      "question": "O kakvom postupku doznava se Mihail?",
+      "answers": [
+        "O trgovině avtomobilami",
+        "O kupovanju L4 svobodnyh",
+        "O falsifikovanih pasportah",
+        "O sportivnom hazardu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ljudje kupujut sebě svobodno / L4 za neveliku sumu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Koliko koštuje „svobodno“ spomenuto v pověstku?",
+      "answers": [
+        "7,90 zlotyh",
+        "79 zlotyh",
+        "790 zlotyh",
+        "Bezplatno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spomenuto jest 79 zlotyh."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto Mihail čini s vytisnjenym L4?",
+      "answers": [
+        "Posylaje do ZUS",
+        "Vrže do koša",
+        "Prodaje dalej",
+        "Vstavjaje v ramu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vrže vytisnjeno L4 do koša."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako moralno rešenje prějemaje Mihail?",
+      "answers": [
+        "Pridružaje se postupku",
+        "Prestaje byti čestju",
+        "Samo soseda donosi",
+        "Ignoruje temu?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Može prestati byti čestju problema."
+    }
+  ]
+}

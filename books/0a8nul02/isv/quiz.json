@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kto jest junakom pověsti?",
+      "answers": [
+        "Marcin iz grada Šenžena",
+        "Krzysztof Jackovski",
+        "Kacper iz glubokogo lěsa",
+        "Tomaš iz grada Varšavy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Krzysztof Jackovski."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdě i kogda probuđa se v noči?",
+      "answers": [
+        "Čłuchov, noč lěta 2026",
+        "Gdynja nad studenym morjem",
+        "Elbląg v samom poludnju",
+        "Berlin v sredině zimy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Čłuchov, noč 2026."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako „zna“ o dalekyh městah?",
+      "answers": [
+        "Bo naglo telefon zvonit",
+        "Bo slyši grom velikogo požara",
+        "Bo silno pečet jego ruka",
+        "Prosto otvara oči i zna"
+      ],
+      "correctIndex": 3,
+      "explanation": "Otvara oči i zna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto dava tut dar ljudam?",
+      "answers": [
+        "Slavu medijnogo vidovca",
+        "Vygranu v velikoj loteriji",
+        "Najděna těla i pamet",
+        "Novy program v televiziji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Těla dostavajut ime."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kako tekst nazyva tut dar?",
+      "answers": [
+        "Dar, umětnost i tišina",
+        "Strog naučny dokaz faktov",
+        "Prosty srečny slučaj",
+        "Šutku večernje redakcije"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dar, umětnost, tišina."
+    }
+  ]
+}

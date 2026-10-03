@@ -1,0 +1,67 @@
+{
+  "title": "Провєри разумєње",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Како име хлапца?",
+      "answers": [
+        "Шимон",
+        "Милош",
+        "Фабиан",
+        "Даниел"
+      ],
+      "correctIndex": 0,
+      "explanation": "Шимон, девет лєт."
+    },
+    {
+      "type": "single_choice",
+      "question": "Како се зове трговина пани Зофии?",
+      "answers": [
+        "Биедронка?",
+        "Трговина Пани",
+        "Под Звонком",
+        "Под Слунечником"
+      ],
+      "correctIndex": 1,
+      "explanation": "Трговина Пани Зофии."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что дєти доставајут за куповање?",
+      "answers": [
+        "Цукркы гратис",
+        "Злате монеты",
+        "Колорне",
+        "Билеты до кина"
+      ],
+      "correctIndex": 2,
+      "explanation": "Колорне налєпкы за куповање."
+    },
+    {
+      "type": "single_choice",
+      "question": "На что замєњајут налєпкы?",
+      "answers": [
+        "На Способика",
+        "На дєтски велосипед",
+        "На книгу из трговины",
+        "На столову игру"
+      ],
+      "correctIndex": 3,
+      "explanation": "Замєњајут на Способика."
+    },
+    {
+      "type": "single_choice",
+      "question": "Что пахне в трговинє?",
+      "answers": [
+        "Тытоњем и дрєвом",
+        "Ванилијеј и",
+        "Рыбами и сољу",
+        "Бензином и металом"
+      ],
+      "correctIndex": 1,
+      "explanation": "Пахњело ванилијеј и книгами."
+    }
+  ]
+}

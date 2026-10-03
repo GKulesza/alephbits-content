@@ -1,0 +1,67 @@
+{
+  "title": "Prověri razuměnje",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gde i kogda jest glavna scena?",
+      "answers": [
+        "Muzeum v Krakově, 2026",
+        "UW v Varšavě, maj 2025",
+        "Politehnika Gdansk, 2024",
+        "Biblioteka Vroclav, 2023"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muzeum v Krakově, 2026."
+    },
+    {
+      "type": "single_choice",
+      "question": "O čem govori predavanje?",
+      "answers": [
+        "O kuhanju lokalnyh supov",
+        "O dokazu i slučaju",
+        "O olimpijskom sportu zemje",
+        "O remontah staryh domov"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pravda, dokaz, slučaj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čto ostaje, kogda uvěrjenost izčezaje?",
+      "answers": [
+        "Zakrytje vsej knigy?",
+        "Gonka s běžečim časom",
+        "Vshod na vysokyj vrch",
+        "Samotno vrženje"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vrženje monety."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ktore slova se vracajut v tekstu?",
+      "answers": [
+        "Samo množenje suhih čisel",
+        "Historija samej futbolnoj igry",
+        "Pravda, dokaz i sudba",
+        "Recepty regionalnoj kuhnje"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pravda, dokaz, slučaj."
+    },
+    {
+      "type": "single_choice",
+      "question": "Čego dotyče se pověst?",
+      "answers": [
+        "Gradskogo turizma Krakova",
+        "Modnyh odež sezona",
+        "Matematiky i neuvěrjenosti",
+        "Regionalnoj kuhnje Poljsky"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matematika i neuvěrjenost."
+    }
+  ]
+}
