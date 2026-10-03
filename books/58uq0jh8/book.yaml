@@ -1,0 +1,7 @@
+book_id: "58uq0jh8"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_szescset_na_dwa"
+legacy_slug: "szescset-na-dwa"

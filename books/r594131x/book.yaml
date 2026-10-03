@@ -1,0 +1,7 @@
+book_id: "r594131x"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_swietlik_i_cien"
+legacy_slug: "swietlik-i-cien"

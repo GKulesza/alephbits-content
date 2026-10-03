@@ -1,0 +1,24 @@
+{
+  "packId": "aghsm37c:pl",
+  "bookId": "aghsm37c",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/14 CollectionFourteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "Nhv8KFHYw9c"
+    }
+  ],
+  "revisionNotes": "Collection Fourteen import — Polish only; quiz answers length-balanced."
+}

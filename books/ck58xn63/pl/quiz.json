@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Błażej?",
+      "answers": [
+        "Jeżyk",
+        "Książę",
+        "Chłopiec",
+        "Smok"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżyk w norce pod dębem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Błażej?",
+      "answers": [
+        "Dziesięć lat",
+        "Osiem lat",
+        "Pięć lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Błażej miał osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię mama?",
+      "answers": [
+        "Halina",
+        "Iwona",
+        "Wanda",
+        "Katarzyna"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama Wanda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co pachnie rano w domu?",
+      "answers": [
+        "Kawa z mlekiem",
+        "Ryba w sosie",
+        "Pizza z pieca",
+        "Naleśniki z"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naleśniki z jagodami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego najbardziej się boi?",
+      "answers": [
+        "Ciemności",
+        "Szkoły",
+        "Wody",
+        "Psów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Najbardziej bał się szkoły."
+    }
+  ]
+}

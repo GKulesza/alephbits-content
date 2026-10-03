@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się sklep?",
+      "answers": [
+        "Pod Słonecznikiem",
+        "Pod Złotym Dzwonkiem",
+        "Biedronka na osiedlu",
+        "U Pani Zofii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sklep Pod Słonecznikiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prowadzi sklep?",
+      "answers": [
+        "Pani Krystyna",
+        "Pani Halina",
+        "Pani Zofia",
+        "Pani Wanda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pani Halina z okularami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bartosz?",
+      "answers": [
+        "Burger na półce",
+        "Słoik ogórków",
+        "Bochen chleba",
+        "Rybka w sosie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bartosz – bochen chleba."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego boi się Bartosz?",
+      "answers": [
+        "Że spadnie na podłogę",
+        "Że zniknie z półki",
+        "Że zostanie posolony",
+        "Że stanie się twardy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bał się, że stanie się twardy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się nocą w sklepie?",
+      "answers": [
+        "Gasną wszystkie światła",
+        "Produkty otwierają oczy",
+        "Zamyka się na zawsze",
+        "Przychodzą tylko ludzie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Produkty otwierają oczy."
+    }
+  ]
+}

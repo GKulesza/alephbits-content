@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Pola?",
+      "answers": [
+        "Siedem lat",
+        "Dziesięć lat",
+        "Osiem lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pola miała siedem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię przyjaciel?",
+      "answers": [
+        "Szymon",
+        "Daniel",
+        "Antek",
+        "Miłosz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Daniel – najlepszy przyjaciel."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo zapowiada szkoła?",
+      "answers": [
+        "Panią Halinę",
+        "Panią Zofię",
+        "Panią Kalinę",
+        "Panią Wandę"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pani Kalina – znawczyni gwiazd."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Daniel nazywa kamykami?",
+      "answers": [
+        "Gwiazdami",
+        "Diamentami",
+        "Cukierkami",
+        "Meteorytam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kamienie nazywa meteorytami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Pola się boi?",
+      "answers": [
+        "Boi się ciemności",
+        "Boi się wody",
+        "Boi się psów",
+        "Boi się burzy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bała się ciemności."
+    }
+  ]
+}

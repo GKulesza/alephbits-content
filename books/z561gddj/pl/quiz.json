@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "U kogo jest gabinet w prologu?",
+      "answers": [
+        "Klaudii Bosek",
+        "Magdy z Krakowa",
+        "Niny Czyżewskiej",
+        "Kasi u lekarza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gabinet Klaudii Bosek w Poznaniu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Marek w prologu?",
+      "answers": [
+        "Trzydzieści pięć lat",
+        "Czterdzieści dwa lata",
+        "Pięćdziesiąt lat",
+        "Dwadzieścia osiem lat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miał czterdzieści dwa lata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Marek poznał na studiach?",
+      "answers": [
+        "Ninę menadżerkę",
+        "Klaudię terapeutkę",
+        "Magdę prawniczkę",
+        "Ula wokalistkę"
+      ],
+      "correctIndex": 2,
+      "explanation": "Poznał Magdę na studiach prawniczych."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co leży w szufladzie od miesięcy?",
+      "answers": [
+        "Listy od dzieci",
+        "Stare zdjęcia ślubne",
+        "Klucze do firmy",
+        "Dokumenty rozwodowe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trzy dokumenty rozwodowe."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marek pyta na początku sesji?",
+      "answers": [
+        "Czy mam być chujem",
+        "Czy mam odejść stąd",
+        "Czy mam wybaczyć jej",
+        "Czy mam milczeć tu"
+      ],
+      "correctIndex": 1,
+      "explanation": "To co, ja mam być chujem?"
+    }
+  ]
+}

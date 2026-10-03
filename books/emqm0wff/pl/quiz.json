@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Antek?",
+      "answers": [
+        "Dziesięć lat",
+        "Osiem lat",
+        "Dwanaście lat",
+        "Siedem lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antek miał dziesięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka cecha definiuje Antka?",
+      "answers": [
+        "Strach przed wodą",
+        "Niecierpliwość",
+        "Nienawiść do zimy",
+        "Lęk przed psami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Był niecierpliwy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zamienia jezioro zimą?",
+      "answers": [
+        "Park wodny",
+        "Pustynię",
+        "Lodowisko",
+        "Boisko piłkarskie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jezioro zamienia się w lodowisko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest spokojny w grupie?",
+      "answers": [
+        "Spokojna Kornelia",
+        "Spokojny Fabian",
+        "Spokojny Bartosz",
+        "Spokojna Lidia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kornelia była spokojna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co słyszy, gdy ktoś mówi zaraz?",
+      "answers": [
+        "Zawsze",
+        "Nigdy",
+        "Może",
+        "Jutro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Słyszał: Nigdy."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się sklep?",
+      "answers": [
+        "Biedronka",
+        "Pod Słonecznikiem",
+        "Pod Złotym Dzwonkiem",
+        "U Pani Zofii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sklep Biedronka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Oskar?",
+      "answers": [
+        "Burger na półce",
+        "Słoik ogórków",
+        "Bochen chleba",
+        "Rybka w sosie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oskar – słoik ogórków."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bartek w sklepie?",
+      "answers": [
+        "Chłopiec z osiedla",
+        "Woźny szkoły",
+        "Burger, nowy",
+        "Pies sąsiada"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bartek – burger, nowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prowadzi sklep?",
+      "answers": [
+        "Sklep prowadzi Krystyna",
+        "Sklep prowadzi Halina",
+        "Sklep prowadzi Zofia",
+        "Sklep prowadzi Iwona"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pani Krystyna."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Rysia?",
+      "answers": [
+        "Słoik miodu",
+        "Rybka w sosie",
+        "Paczka herbaty",
+        "Torebka mąki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rysia – rybka w sosie."
+    }
+  ]
+}

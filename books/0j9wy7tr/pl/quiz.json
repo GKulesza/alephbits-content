@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim był Bazyli?",
+      "answers": [
+        "Tkaczem",
+        "Drwalem",
+        "Królem",
+        "Woźnym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazyli był tkaczem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię najmłodsza córka?",
+      "answers": [
+        "Kornelia",
+        "Klara",
+        "Noemi",
+        "Helena"
+      ],
+      "correctIndex": 1,
+      "explanation": "Klara – cicha jak śnieg."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co stracił Bazyli po chorobie?",
+      "answers": [
+        "Głos do śpiewu",
+        "Wzrok całkowicie",
+        "Czucie w palcach",
+        "Pamięć imion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nie mógł już tkać – brak czucia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Klara przy dziwnym zdarzeniu?",
+      "answers": [
+        "Piętnaście lat",
+        "Pięć lat",
+        "Dwanaście lat",
+        "Osiem lat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Klara miała osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto prosi Bazylego o chrzestnych?",
+      "answers": [
+        "Salomea babcia",
+        "Halina żona",
+        "Jadwiga czarownica",
+        "Dagmara opiekunka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Halina każe iść do kościoła."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+book_id: "qf870hox"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_otylia_i_trzy_domki"
+legacy_slug: "otylia-i-trzy-domki"

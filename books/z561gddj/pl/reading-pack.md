@@ -1,0 +1,419 @@
+# Święty spokój
+
+## Metadata
+
+**Pack ID:** z561gddj
+**Book ID:** z561gddj
+**Legacy Pack ID:** polish_swiety_spokoj
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Święty spokój  
+**Subtitle:** *(none)*  
+**Blurb:** Marek siedział na kanapie i wpatrywał się w podłogę. Miał czterdzieści dwa lata, dobrze skrojony garnitur, firmę, którą zbudował od zera, i trzy dokumenty rozwodowe leżące w szufladzie od ośmiu miesięcy. Jeszcze ich nie podpisał.
+
+**Genres:** ['article']  
+**Series:** Collection Fourteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Święty spokój — Collection Fourteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'article', 'swiety-spokoj']  
+
+**Keywords:** Święty spokój, Collection Fourteen  
+
+**Cover family:** article
+
+**Editorial notes:** Collection Fourteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['city']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fourteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fourteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fourteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=hfTI_-ayqdI  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-17  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/14 CollectionFourteen.md.
+
+---
+
+## Text
+
+**ŚWIĘTY SPOKÓJ**
+
+## PROLOG
+
+_Poznań, gabinet Klaudii Bosek, wtorek, godzina 16:47_
+
+Marek siedział na kanapie i wpatrywał się w podłogę. Miał czterdzieści dwa lata, dobrze skrojony garnitur, firmę, którą zbudował od zera, i trzy dokumenty rozwodowe leżące w szufladzie od ośmiu miesięcy. Jeszcze ich nie podpisał.
+
+Klaudia patrzyła na niego spokojnie. Widziała już takich mężczyzn setki. Przedsiębiorcy, którzy odnosili sukcesy w biznesie, ale w domu czuli się jak w pułapce. Faceci, którzy przez lata odpuszczali "dla świętego spokoju", aż w końcu przestali być sobą.
+
+– Co cię tutaj sprowadza? – zapytała.
+
+Marek podniósł wzrok. Przez chwilę milczał. Potem powiedział coś, co Klaudia słyszała już tysiąc razy, ale co zawsze robiło na niej wrażenie – bo w tych słowach zawsze kryło się całe życie.
+
+– Klaudia – zaczął. – To co, ja mam być chujem?
+
+Klaudia uśmiechnęła się pod nosem. I wiedziała, że zaraz zacznie się prawdziwa rozmowa.
+
+## ROZDZIAŁ I: POCZĄTEK
+
+_Kraków, 2011 rok_
+
+Marek poznał Magdę na studiach prawniczych. Ona była rok starsza, miała rude włosy i śmiała się tak, że cała kawiarnia się oglądała. On był spokojny, opanowany, zawsze wiedział, co chce powiedzieć.
+
+– Jesteś taki pewny siebie – powiedziała kiedyś. – To pociągające.
+
+Nie wiedział, że za piętnaście lat usłyszy od niej: "Jesteś taki... miękki. Nic nie decydujesz. Ciągle się wahasz."
+
+Ale wtedy, na początku, wszystko było łatwe. Wspólne plany, wspólne marzenia. Ona chciała założyć kancelarię. On chciał mieć firmę, która będzie coś znaczyła. Obydwoje chcieli dzieci. Obydwoje chcieli siebie.
+
+Zaręczyli się na drugim roku. Ślub był skromny – w urzędzie, potem kolacja w restauracji, którą wybrał on. Ona powiedziała wtedy: "Uwielbiam to, że zawsze wiesz, co chcesz." Potem urodziła się Zosia, potem Franek. Dom, kredyt, dwa samochody. I on, Marek, który codziennie wstawał o piątej rano, żeby zdążyć na siódmą do biura.
+
+Myślał, że tak to właśnie wygląda. Że miłość to stabilizacja. Że bycie dobrym mężem to dawanie, a nie branie. Że jeśli będzie pracował, zarabiał i starał się, to wszystko będzie dobrze.
+
+Nie wiedział, że gdzieś po drodze zgubi samego siebie.
+
+## ROZDZIAŁ II: ŚWIĘTY SPOKÓJ
+
+_Poznań, 2020 rok_
+
+– Czy ty zawsze musisz wszystko kwestionować? – zapytała Magda, opierając ręce na biodrach. – Ja cię pytam, jakie kafelki, a ty mówisz "zdecyduj sama". Ja pytam, gdzie pojedziemy na wakacje, a ty mówisz "gdzie chcesz". Od kiedy ty przestałeś mieć jakieś zdanie?
+
+Marek stał w kuchni, patrząc na niedopitą kawę. Wiedział, że powinien odpowiedzieć, ale nie miał siły. Kłótnie trwały od miesięcy. O kafelki, o wakacje, o to, że za późno wrócił z pracy, o to, że za mało rozmawia z dziećmi, o to, że Magda czuje się niewidzialna.
+
+– No? – naciskała. – Dlaczego nic nie mówisz?
+
+– Bo nie chcę się kłócić – odpowiedział cicho.
+
+– Więc wolisz milczeć? Wolisz siedzieć w swoim świecie i udawać, że mnie nie ma?
+
+Nie odpowiedział. Bo wiedział, że cokolwiek powie, będzie źle. Jeśli powie, że chce niebieskie kafelki, ona powie, że szare są ładniejsze. Jeśli powie, że chce jechać w góry, ona powie, że woli morze. Jeśli powie, że czuje się zmęczony, ona powie, że ona też.
+
+Więc przestał mówić. Zaczął odpuszczać dla świętego spokoju. I z każdym dniem oddalał się od niej o krok.
+
+## ROZDZIAŁ III: BIURO
+
+_Poznań, 2021 rok_
+
+Marek coraz częściej zostawał w biurze do późna. Mówił, że ma dużo pracy. Mówił, że projekt wymaga jego uwagi. Mówił, że zaraz wróci.
+
+Nie wracał.
+
+Siedział za biurkiem, patrząc w monitor, ale nie widząc nic. Myślał o domu, do którego nie chciał wracać. O żonie, która witała go pretensjami. O dzieciach, które już nauczyły się, że tata jest zmęczony. O tym, że w jego własnym domu czuł się jak intruz.
+
+Przypomniał sobie, co kiedyś powiedziała mu znajoma: "Moi rodzice też tak mieli. Tato zawsze mówił, że w firmie ma święty spokój."
+
+Wtedy się zaśmiał. Teraz rozumiał.
+
+W firmie wiedział, czego chce. Tam podejmował decyzje. Tam miał kontrolę. Tam był kimś. A w domu był tylko zmęczonym facetem, który nie potrafił powiedzieć, jakie kafelki chce.
+
+## ROZDZIAŁ IV: ZDRAJCA
+
+_Kraków, 2022 rok_
+
+Dowiedział się przypadkiem. Wrócił z delegacji dzień wcześniej, żeby zrobić jej niespodziankę. Znalazł ją w sypialni z telefonem w dłoni. Szybko schowała go pod poduszkę.
+
+– Co to było? – zapytał.
+
+– Nic. Tylko koleżanka.
+
+Nie uwierzył. Nie wiedział dlaczego – może po raz pierwszy od lat poczuł, że coś jest nie tak. Sprawdził jej telefon, kiedy spała.
+
+Wiadomości były tam od miesiąca. Świadomość, że ktoś inny mówi jej to, czego on od dawna nie potrafił powiedzieć. Że ona śmieje się z czegoś, co on nie słyszał. Że ona jest w kimś zakochana.
+
+Rano nic nie powiedział. Zebrał ubrania i wyszedł. Nie chciał się kłócić. Nie chciał wybuchnąć. Chciał świętego spokoju.
+
+A potem, przez kolejne tygodnie, udawał, że nic się nie stało. Aż któregoś dnia Magda sama powiedziała:
+
+– Musimy porozmawiać.
+
+Marek spojrzał na nią. Przez ułamek sekundy zobaczył dziewczynę, w której się zakochał. Potem zobaczył obcą kobietę.
+
+– Ja już nie chcę tak żyć – powiedziała. – Ja... poznałam kogoś.
+
+– Wiem.
+
+– Od dawna?
+
+– Odkąd sprawdziłem twój telefon.
+
+Zapadła cisza. Magda spuściła wzrok.
+
+– Dlaczego nic nie powiedziałeś? – zapytała.
+
+Bo nie chciałem się kłócić. Bo myślałem, że może to minie. Bo bałem się, że jeśli zacznę rozmowę, to się okaże, że to już koniec.
+
+A potem ona powiedziała coś, co zraniło go najbardziej:
+
+– Może gdybyś walczył... gdybyś chociaż raz powiedział, czego chcesz... to nie doszłoby do tego.
+
+Marek nic nie odpowiedział. Wstał, wyszedł z kuchni i pojechał do biura. Potrzebował świętego spokoju.
+
+## ROZDZIAŁ V: KLAUDIA
+
+_Poznań, 2026 rok_
+
+– Więc to ja mam być chujem? – powtórzył Marek, patrząc na Klaudię.
+
+– Co masz na myśli? – zapytała spokojnie.
+
+– Że powinienem być bardziej stanowczy, bardziej decyzyjny. Ale jak byłem stanowczy, to mówiła, że jestem dyktatorem. Jak odpuszczałem, to mówiła, że jestem miękki. Jak pracowałem, to było za dużo. Jak nie pracowałem, to było za mało. Cały czas byłem za coś krytykowany. Więc przestałem próbować.
+
+– I co się stało?
+
+– Stałem się kimś, kogo ona nie chciała. I kimś, kim ja sam nie chciałem być.
+
+Klaudia pochyliła się do przodu.
+
+– Marek, powiedz mi szczerze – zapytała. – Co ty czujesz, kiedy myślisz o rozstaniu? I co czujesz, kiedy myślisz o tym, żeby zostać?
+
+Zamknął oczy.
+
+– Kiedy myślę o rozstaniu – powiedział – czuję ulgę. I strach. Kiedy myślę o zostaniu... czuję tylko zmęczenie.
+
+– To może właśnie dlatego od osiemnastu miesięcy nie podpisałeś tych papierów.
+
+Spojrzał na nią.
+
+– Bo boję się, że będzie gorzej.
+
+– A co jeśli będzie lepiej?
+
+Nie odpowiedział. Ale po raz pierwszy od lat nie odwrócił wzroku.
+
+## ROZDZIAŁ VI: ZOSIA
+
+_Poznań, kilka dni później_
+
+Marek zabrał córkę na lody. Siedzieli w parku, patrząc na kaczki w stawie. Zosia miała dwanaście lat i pytające spojrzenie.
+
+– Tato – powiedziała. – Ty i mama... rozstaniecie się?
+
+Marek przełknął ślinę.
+
+– Nie wiem, Zosiu.
+
+– A dlaczego nie wiecie?
+
+– Bo to skomplikowane.
+
+Zosia spojrzała na niego poważnie.
+
+– Wiesz, tato – powiedziała – ja wiem, że ty nie jesteś szczęśliwy. A mama też nie.
+
+– Co ty mówisz?
+
+– Ja widzę. U nas w domu jest jak w zamrażarce. Jak jesteście razem, to nikt się nie śmieje. Ale jak ty wyjeżdżasz do biura, to mama ogląda seriale i jest smutna. A jak ona wychodzi z koleżankami, to ty siedzisz w fotelu i nic nie mówisz.
+
+Marek poczuł, że coś go ściska w gardle.
+
+– Zosiu... nie mów tak. My was kochamy.
+
+– Wiem, tato. Ale kochać to nie znaczy być nieszczęśliwym.
+
+Zamilkł. W głowie usłyszał słowa Klaudii: _"Ludzie myślą, że zostają w związku dla dzieci. A ja słyszę często: 'ja tylko czekałem, czekałam, kiedy moi rodzice się rozstaną'."_
+
+– Zosiu – powiedział. – A ty... ty byś chciała, żebyśmy się rozstali?
+
+Zosia pomyślała chwilę.
+
+– Nie chcę, żebyście się rozstali. Chcę, żebyście byli szczęśliwi. Nawet jeśli będziecie osobno.
+
+Marek wziął ją za rękę. I po raz pierwszy od lat poczuł, że wie, co ma zrobić.
+
+## ROZDZIAŁ VII: DECYZJA
+
+_Poznań, gabinet Klaudii, kolejny wtorek_
+
+Marek przyszedł na ostatnią sesję. Trzymał w ręce kopertę.
+
+– Podpisałem – powiedział.
+
+Klaudia spojrzała na niego.
+
+– Jak się czujesz?
+
+– Dziwnie. Z jednej strony – lżej. Z drugiej – boję się. Ale wiem, że to było dobre.
+
+– Co ci pomogło podjąć tę decyzję?
+
+Marek uśmiechnął się gorzko.
+
+– Moja córka. Powiedziała mi coś, czego nie chciałem usłyszeć. Że nie jesteśmy szczęśliwi. Że ona to widzi.
+
+– I miałeś odwagę to usłyszeć.
+
+– Miałem odwagę się zmienić. To znaczy... nie zmienić, tylko wrócić do siebie. Do faceta, który wiedział, czego chce. Który podejmował decyzje. Który nie bał się postawić granicy.
+
+Klaudia skinęła głową.
+
+– I co teraz?
+
+Marek odetchnął głęboko.
+
+– Zaczynam od nowa. Zosia mówiła, że chce być szczęśliwy. I chyba pierwszy raz od lat wiem, jak to zrobić.
+
+– Jak?
+
+– Przestaję odpuszczać dla świętego spokoju. Zaczynam walczyć. Tylko tym razem o siebie.
+
+## EPILOG
+
+_Poznań, rok później_
+
+Marek siedział w kawiarni na Starym Rynku. Naprzeciwko niego siedziała nowa koleżanka z pracy. Była spokojna, cicha, nie rzucała talerzami.
+
+– Wiesz – powiedziała – jesteś taki... decyzyjny. To pociągające.
+
+Uśmiechnął się.
+
+– Dziękuję. Nauczyłem się tego dopiero niedawno.
+
+– Czego?
+
+– Że czasami, żeby być dobrym facetem, trzeba przestać być miłym. I zacząć być sobą.
+
+Spojrzała na niego pytająco.
+
+– Brzmi jak motto.
+
+– Może takie powinno być.
+
+Wziął jej dłoń. Przez chwilę patrzył na nią i widział, że są szanse. Że można budować coś nowego na gruzach starego. Że święty spokój nie znaczy cisza – znaczy zrozumienie.
+
+I że czasami najlepszą rzeczą, jaką można zrobić dla innych, jest nie udawać, że wszystko jest w porządku.
+
+## POSŁOWIE
+
+Ta historia mogłaby wydarzyć się naprawdę. I pewnie wydarzyła się w setkach domów, w których faceci odpuszczają dla świętego spokoju, aż w końcu przestają być sobą.
+
+Marek nie jest złym człowiekiem. Jest mężczyzną, który zgubił siebie po drodze. I chociaż jego związek się rozpadł, to on sam się odrodził.
+
+Klaudia Bosek w swojej pracy z mężczyznami pokazuje, że kryzys może być początkiem czegoś dobrego. Że warto zadać sobie trudne pytania. Że warto walczyć – nie o kogoś, ale o siebie.
+
+Bo czasami najlepszą rzeczą, jaką można zrobić, jest przestać być "miłym facetem". I zacząć być sobą.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** U kogo jest gabinet w prologu?
+
+**Answers:**
+- A) Klaudii Bosek
+- B) Magdy z Krakowa
+- C) Niny Czyżewskiej
+- D) Kasi u lekarza
+
+**Correct:** A
+**Explanation:** Gabinet Klaudii Bosek w Poznaniu.
+**Text reference:** Bosek
+
+### Question 2
+
+**Question:** Ile lat ma Marek w prologu?
+
+**Answers:**
+- A) Trzydzieści pięć lat
+- B) Czterdzieści dwa lata
+- C) Pięćdziesiąt lat
+- D) Dwadzieścia osiem lat
+
+**Correct:** B
+**Explanation:** Miał czterdzieści dwa lata.
+**Text reference:** czterdzieści
+
+### Question 3
+
+**Question:** Kogo Marek poznał na studiach?
+
+**Answers:**
+- A) Ninę menadżerkę
+- B) Klaudię terapeutkę
+- C) Magdę prawniczkę
+- D) Ula wokalistkę
+
+**Correct:** C
+**Explanation:** Poznał Magdę na studiach prawniczych.
+**Text reference:** Magda
+
+### Question 4
+
+**Question:** Co leży w szufladzie od miesięcy?
+
+**Answers:**
+- A) Listy od dzieci
+- B) Stare zdjęcia ślubne
+- C) Klucze do firmy
+- D) Dokumenty rozwodowe
+
+**Correct:** D
+**Explanation:** Trzy dokumenty rozwodowe.
+**Text reference:** rozwodowe
+
+### Question 5
+
+**Question:** Co Marek pyta na początku sesji?
+
+**Answers:**
+- A) Czy mam być chujem
+- B) Czy mam odejść stąd
+- C) Czy mam wybaczyć jej
+- D) Czy mam milczeć tu
+
+**Correct:** B
+**Explanation:** To co, ja mam być chujem?
+**Text reference:** chujem
+

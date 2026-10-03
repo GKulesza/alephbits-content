@@ -1,0 +1,7 @@
+book_id: "tppadpm0"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_srebrny_grzebien_i_krysztalek_echa"
+legacy_slug: "srebrny-grzebien-i-krysztalek-echa"

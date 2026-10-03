@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Gniewko?",
+      "answers": [
+        "Dwanaście lat",
+        "Dziesięć lat",
+        "Piętnaście lat",
+        "Osiem lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gniewko miał dwanaście lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest ojciec Gniewka?",
+      "answers": [
+        "Drwal Bazyli",
+        "Król Mścisław",
+        "Woźny Kazimierz",
+        "Tkacz z wioski"
+      ],
+      "correctIndex": 1,
+      "explanation": "Król Mścisław."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd przychodzi list?",
+      "answers": [
+        "Klasztor na wzgórzu",
+        "Szkoła miejska",
+        "Akademia Guślarstwa",
+        "Port nad rzeką"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akademia Guślarstwa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto przynosi zaproszenie?",
+      "answers": [
+        "Orzeł",
+        "Gołąb",
+        "Sowa",
+        "Kruk"
+      ],
+      "correctIndex": 3,
+      "explanation": "List na skrzydłach kruka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiedy ma się stawić?",
+      "answers": [
+        "W zimę świąteczną",
+        "W przesilenie",
+        "W noc listopadową",
+        "Wiosną w maju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dzień przesilenia letniego."
+    }
+  ]
+}

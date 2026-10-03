@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się miasteczko?",
+      "answers": [
+        "Srebrne Wzgórze",
+        "Zielony Dębie",
+        "Miasto Biskupin",
+        "Miasto Skierniewice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miasteczko Srebrne Wzgórze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię chłopiec?",
+      "answers": [
+        "Daniel",
+        "Antoni",
+        "Szymon",
+        "Miłosz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antoni, jedenaście lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię dziewczynka?",
+      "answers": [
+        "Imię: Wiktoria",
+        "Imię: Helena",
+        "Imię: Pola",
+        "Imię: Otylia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wiktoria, jedenaście lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Antoni kocha najbardziej?",
+      "answers": [
+        "Grę na skrzypcach",
+        "Malowanie obrazów",
+        "Grę w szachy",
+        "Piłkę nożną"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kocha piłkę nożną."
+    },
+    {
+      "type": "single_choice",
+      "question": "Skąd ma korki Antoni?",
+      "answers": [
+        "Od trenera",
+        "Od dziadka",
+        "Ze sklepu sport",
+        "Od Wiktori"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stare korki od dziadka."
+    }
+  ]
+}

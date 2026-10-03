@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Stefan w prologu?",
+      "answers": [
+        "Dyrektor ds. zakupów",
+        "Komendant policji",
+        "Minister finansów",
+        "Lekarz na sorze miejskim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dyrektor ds. zakupów w instytucji."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co posypało się w ćwiczeniu?",
+      "answers": [
+        "Komunikacja między służbami",
+        "Brak mundurów w terenie",
+        "Awaria wozów pożarniczych",
+        "Zalanie centrum handlu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Radiostacje nie rozmawiały z ochroną."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto to Nina Czyżewska?",
+      "answers": [
+        "Lekarka na sorze",
+        "Szefowa policji",
+        "Menadżerka projektów",
+        "Dziennikarka z Onetu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Menadżerka projektów przy europejskich."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Stefan słyszy o PPBW?",
+      "answers": [
+        "Zamówienia przedkomercyjne",
+        "Gotowe produkty wojskowe",
+        "Zamknięte przetargi państw",
+        "Import bez procedur cel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Można zamówić badania przed rynkiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie rozgrywa się prolog?",
+      "answers": [
+        "Warszawa, sierpień 2026",
+        "Kraków, lato 2011 roku",
+        "Gdańsk, wiosna 2020 roku",
+        "Poznań, jesień 2024 roku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warszawa, sierpień 2026 roku."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+book_id: "vh4e9aa2"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_talerz_pustych_smakow"
+legacy_slug: "talerz-pustych-smakow"

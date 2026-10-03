@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak Karolina odpowiada kim jest?",
+      "answers": [
+        "Jestem Polką",
+        "Jestem Rosjanką",
+        "Jestem obywatelem świata",
+        "Jestem tylko gościem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpowiada: Jestem Polką."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie stoi Karolina w prologu?",
+      "answers": [
+        "Moskwa, centrum",
+        "Poznań, Wilda",
+        "Berlin, Kreuzberg",
+        "Wilno, starówka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mieszkanie na poznańskim Wildzie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię mąż Karoliny?",
+      "answers": [
+        "Marek",
+        "Andrzej",
+        "Anton",
+        "Wiktor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anton nalewa kawę w kuchni."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się córka?",
+      "answers": [
+        "Nina",
+        "Helena",
+        "Ula",
+        "Jasia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mała Jasia bawi się klockami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie pytanie słyszy całe życie?",
+      "answers": [
+        "Studentka czy artystka",
+        "Polka czy Rosjanka",
+        "Mama czy siostra",
+        "Pracownica czy szefowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polka czy Rosjanka?"
+    }
+  ]
+}

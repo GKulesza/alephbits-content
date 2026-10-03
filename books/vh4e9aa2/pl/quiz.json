@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię chłopiec?",
+      "answers": [
+        "Miłosz",
+        "Szymon",
+        "Gniewko",
+        "Błażej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miłosz, osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co uważa o brokułach?",
+      "answers": [
+        "Są najlepsze",
+        "Są podejrzane",
+        "Są jak cukier",
+        "Są jak woda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warzywa są podejrzane."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię mama?",
+      "answers": [
+        "Halina",
+        "Katarzyna",
+        "Iwona",
+        "Wanda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama Iwona."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się siostra?",
+      "answers": [
+        "Klara",
+        "Otylia",
+        "Helena",
+        "Pola"
+      ],
+      "correctIndex": 3,
+      "explanation": "Siostra Pola."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest tata Miłosza?",
+      "answers": [
+        "Michał",
+        "Robert",
+        "Julian",
+        "Anton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tata Robert."
+    }
+  ]
+}

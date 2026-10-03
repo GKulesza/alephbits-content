@@ -1,0 +1,323 @@
+# Niepokorni
+
+## Metadata
+
+**Pack ID:** iw6phccs
+**Book ID:** iw6phccs
+**Legacy Pack ID:** polish_niepokorni
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Niepokorni  
+**Subtitle:** *(none)*  
+**Blurb:** Siedziałem w swoim mieszkaniu na Pradze, słuchając starego radia. Za oknem upał, w pokoju duchota, a ja wpatrywałem się w ścianę, próbując zrozumieć, co się dzieje z tym krajem.
+
+**Genres:** ['article']  
+**Series:** Collection Fourteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Niepokorni — Collection Fourteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'article', 'niepokorni']  
+
+**Keywords:** Niepokorni, Collection Fourteen  
+
+**Cover family:** article
+
+**Editorial notes:** Collection Fourteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['city']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fourteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fourteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fourteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=4azI4UjYDp0  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-23  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/14 CollectionFourteen.md.
+
+---
+
+## Text
+
+**NIEPOKORNI**
+
+## PROLOG
+
+_Warszawa, lipiec 2026 roku_
+
+Siedziałem w swoim mieszkaniu na Pradze, słuchając starego radia. Za oknem upał, w pokoju duchota, a ja wpatrywałem się w ścianę, próbując zrozumieć, co się dzieje z tym krajem.
+
+Byłem historykiem z wykształcenia, ale od lat pracowałem jako archiwista w jednym z warszawskich instytutów. Codziennie dotykałem dokumentów, które mówiły o przeszłości. O tym, jak Polacy potrafili się jednoczyć, gdy było trzeba. O tym, jak potrafili stawiać opór. O tym, jak potrafili wygrywać mimo wszystko.
+
+A teraz? Teraz patrzyłem na to wszystko i czułem, że coś się popsuło.
+
+W radiu leciał program Leszka Żebrowskiego. Słuchałem go od lat – czasem się zgadzałem, czasem nie. Ale zawsze miał w sobie coś, co skłaniało do myślenia. Dziś mówił o nadchodzących wyborach. Mówił o tym, że mogą się nie odbyć. Że ci, którzy rządzą, nie oddadzą władzy dobrowolnie. Że Polska stoi na krawędzi, a my – społeczeństwo – śpimy.
+
+– To jest bal na Titanicu – powiedział w pewnym momencie. – Oni się bawią, a my płacimy.
+
+Zamknąłem radio. Usiadłem przy biurku i otworzyłem stary notes. Zapisane w nim były rozmowy, które odbyłem przez ostatnie miesiące. Z sąsiadami, z przyjaciółmi, z rodziną. I w każdej z nich pojawiało się coś, co mnie niepokoiło. Nie polityka. Nie podziały. Tylko obojętność.
+
+– Nie obchodzi mnie to – mówili. – I tak nic nie zmienię.
+
+A ja chciałem im powiedzieć, że to nieprawda. Że każdy głos ma znaczenie. Że każda postawa ma znaczenie. Że jeśli wszyscy odwrócimy wzrok, to rzeczywiście nic się nie zmieni.
+
+Wziąłem długopis. Zabrałem się do pisania.
+
+## ROZDZIAŁ I: CI, KTÓRZY RZĄDZĄ
+
+Kiedyś myślałem, że demokracja to coś naturalnego. Coś, co po prostu jest, jak powietrze czy woda. Dopiero później zrozumiałem, że to złudzenie. Demokracja nie jest dana raz na zawsze. Trzeba o nią walczyć. I to nie tylko przy urnie wyborczej, ale każdego dnia.
+
+Leszek Żebrowski mówił o "siłach ustanowionych". O instytucjach, które mają wpływ na nasze życie, a które nie są przez nas wybierane. Fundacje, organizacje pozarządowe, korporacje. Tworzą sieć wpływów, która owija się wokół społeczeństwa jak pajęczyna. I często są ważniejsze od naszego głosu.
+
+– My musimy słuchać i musimy się podporządkować – mówił.
+
+Kiedyś bym się z tym nie zgodził. Myślałem, że to przesada. Ale potem zacząłem czytać. O fundacjach finansowanych z zagranicy, które kształtowały politykę edukacyjną w Polsce. O korporacjach, które wpływały na prawo, płacąc lobbystom. O mediach, które decydowały, co jest ważne, a co nie.
+
+I zrozumiałem, że miał rację.
+
+Nie chodzi o to, że te instytucje są złe. Chodzi o to, że nie są kontrolowane. Że działają poza demokratycznym nadzorem. Że ich cele nie zawsze są naszymi celami.
+
+A my? My patrzymy, jak to się dzieje, i wzruszamy ramionami. Bo przecież i tak nic nie zmienimy.
+
+## ROZDZIAŁ II: CI, KTÓRZY KRADNĄ
+
+W 2023 roku Polska zmieniła rząd. Nowa koalicja obiecywała zmiany. Mówiła o rozliczeniach, o sprawiedliwości, o naprawie państwa.
+
+– Zrobimy bilans otwarcia – mówili. – Pokażemy, co zostało rozkradzione.
+
+I zrobili. 260 miliardów złotych – tyle według nich zniknęło z budżetu w czasie rządów poprzedników.
+
+A potem? Potem nic. Żadnych wniosków. Żadnych konsekwencji. Tylko kolejne obietnice i kolejne długi.
+
+– To jest jak złodziej, który gada o kradzieży, a sam ma ręce w kieszeni – powiedział ktoś, kogo spotkałem na spacerze. – My płacimy, oni biorą. I tak w kółko.
+
+Wiedziałem, że ma rację. Dług publiczny Polski rośnie w tempie, którego nie widzieliśmy od lat. Pieniądze z Unii Europejskiej, zamiast na rozwój, idą na cele, które trudno nazwać priorytetowymi. A ci, którzy rządzą, podróżują biznes klasą po całym świecie, organizują sobie wycieczki, inwestują w swoje firmy.
+
+– To jest dojarka – powiedział Żebrowski. – Odsysanie zasobów państwa na rzecz jednej partiuli.
+
+Słuchałem tego i czułem, że coś we mnie pęka. Nie dlatego, że byłem naiwny. Dlatego, że widziałem, jak to działa. I wiedziałem, że jeśli nic nie zrobimy, to będzie tylko gorzej.
+
+## ROZDZIAŁ III: CI, KTÓRZY MILCZĄ
+
+Najgorsze w tym wszystkim nie jest to, że politycy kradną. To, że my na to pozwalamy.
+
+– Ludzie są wkurzeni – mówił Żebrowski. – I słusznie. Ale czy ta złość przekłada się na działanie?
+
+Pamiętałem, jak kilka lat temu tysiące ludzi wyszło na ulice. Protestowali przeciwko zmianom w sądownictwie, przeciwko ograniczaniu wolności mediów, przeciwko łamaniu konstytucji. Było głośno, było emocjonalnie, było społecznie.
+
+A potem? Potem poszli do domu. Odwrócili się od polityki. Przestali interesować się tym, co dzieje się wokół nich.
+
+– Nie mam na to czasu – mówili. – Mam swoje problemy.
+
+Rozumiałem ich. Życie jest trudne. Praca, rodzina, kredyty, choroba. Kto ma siłę na politykę?
+
+Ale jednocześnie wiedziałem, że to właśnie ta postawa jest największym zagrożeniem. Bo ci, którzy rządzą, liczą na naszą bierność. Liczą na to, że odwrócimy wzrok. Liczą na to, że nie będziemy zadawać trudnych pytań.
+
+I póki co – wygrywają.
+
+## ROZDZIAŁ IV: CI, KTÓRZY WALCZĄ
+
+Ale są też inni. Tacy, którzy nie odwracają wzroku. Tacy, którzy zadają pytania. Tacy, którzy walczą.
+
+Leszek Żebrowski jest jednym z nich. Od lat mówi o tym, co dzieje się w Polsce. O korupcji, o kłamstwie, o manipulacji. Nie zawsze się z nim zgadzam – jego spojrzenie na świat bywa zbyt czarno-białe, jego język zbyt ostry. Ale doceniam to, że mówi. Że nie milczy. Że nie udaje, że wszystko jest w porządku.
+
+– Trzeba chodzić na zebrania – mówił. – Trzeba zabierać głos. Trzeba zadawać pytania. Nie pozwolić im spokojnie żyć.
+
+Pamiętał, jak w 1993 roku na wiecu SLD w Ciechanowie zadawał trudne pytania. Jak Cimoszewicz i inni aparatczycy próbowali go przekonać, żeby głosował na nich. A kiedy nie dał się przekonać, rzucili się na niego. Uciekł, plącząc się w kable, ale przeżył. I opowiedział o tym światu.
+
+– Można im psuć takie wiece – powiedział. – Tylko trzeba chcieć.
+
+I to jest właśnie sedno. Trzeba chcieć. Trzeba przestać być biernym obserwatorem. Trzeba zacząć działać.
+
+## ROZDZIAŁ V: CI, KTÓRZY PRZEGRYWAJĄ
+
+W wyborach w 2023 roku Polacy oddali głosy na obietnice zmian. Nowa koalicja wygrała. Mówiła o Europie, o wartościach, o demokracji. I przez pierwsze miesiące wydawało się, że coś się zmieni.
+
+Ale szybko okazało się, że nowi rządzący są tacy sami jak starzy. Te same układy, te same interesy, te same kłamstwa.
+
+– Tusk jest gotowy, żeby oddać władzę – powiedział Żebrowski. – Ale czy jego zwierzchnicy mu na to pozwolą?
+
+To pytanie, które powinno nas niepokoić. Bo jeśli władza przestaje być sprawowana w imieniu narodu, to przestaje być demokratyczna. A jeśli nie jest demokratyczna, to jest tylko formą dyktatury.
+
+W Polsce od lat toczy się walka między dwoma obozami. PiS i PO na przemian rządzą, ale oba są częścią tego samego systemu. Systemu, który nie służy obywatelom, tylko sobie.
+
+– To jest teatr – powiedział ktoś na spotkaniu, w którym uczestniczyłem. – Oni grają, że się nie znoszą, a tak naprawdę są dogadani. My patrzymy, oni rządzą.
+
+I to jest właśnie największy problem. Że nie mamy wyboru. Że wybieramy między jednym złem a drugim. Że nasz głos nic nie znaczy, bo i tak wszystko jest z góry ustalone.
+
+## ROZDZIAŁ VI: CI, KTÓRZY SIĘ BUDZĄ
+
+Ale może coś się zmienia. Może ludzie zaczynają rozumieć, że bierność to zgoda na wszystko.
+
+W ostatnich miesiącach widziałem coraz więcej osób, które zaczynają interesować się polityką. Które czytają, słuchają, analizują. Które zadają pytania. Które nie dają się zwieść pustym obietnicom.
+
+– Trzeba działać – mówił Żebrowski. – W rodzinie, w kręgu przyjaciół, w małych grupach. Rozmawiać, a następnie działać.
+
+I to jest nasza szansa. Nie w wielkich demonstracjach, które szybko się wypalają. Nie w radykalnych hasłach, które dzielą społeczeństwo. W codziennym, systematycznym działaniu.
+
+Bo to, co dzieje się w Polsce, nie jest dziełem przypadku. To efekt wieloletnich zaniedbań, błędów i celowych działań. I jeśli chcemy to zmienić, musimy działać systematycznie.
+
+Musimy chodzić na wybory. Musimy kontrolować, co robią nasi przedstawiciele. Musimy zadawać pytania i domagać się odpowiedzi. Musimy być świadomi i aktywni.
+
+Bo tylko wtedy możemy coś zmienić. Tylko wtedy możemy odzyskać kontrolę nad własnym życiem. Tylko wtedy możemy powiedzieć dość.
+
+## EPILOG
+
+_Warszawa, ta sama noc_
+
+Zamknąłem notes. Przez okno widziałem światła miasta. Tysiące okien, tysiące ludzi. Każdy z nich miał swoje problemy, swoje marzenia, swoje lęki. Każdy z nich był częścią tej historii.
+
+Nie wiedziałem, co przyniesie przyszłość. Nie wiedziałem, czy wybory się odbędą. Nie wiedziałem, czy zmiana będzie możliwa. Ale wiedziałem jedno – że nie mogę już patrzeć z boku.
+
+Wstałem od biurka, podszedłem do okna. Za szybą, w oddali, widać było Pałac Kultury. Symbol. Dla jednych – PRL-owskiej władzy. Dla innych – zwykłego budynku. Dla mnie – przypomnienia, że wszystko może się zmienić. Że to, co wydaje się trwałe, może runąć. Że nawet największa władza kończy się kiedyś.
+
+– Do pracy – powiedziałem cicho do swojego odbicia w szybie. – Do roboty.
+
+Wziąłem klucze, wyszedłem z mieszkania. Na zewnątrz było ciemno, ale nie zimno. Lipcowa noc była ciepła, jakby sama natura mówiła, że to jeszcze nie koniec.
+
+Ruszyłem przed siebie. Nie wiedziałem dokąd, ale wiedziałem po co.
+
+Żeby działać.
+
+Żeby nie pozwolić, żeby Polska stała się tym, czym nie powinna być.
+
+Żeby przypomnieć sobie i innym, że jeszcze nie wszystko stracone.
+
+## POSŁOWIE
+
+Ta historia nie jest o polityce. Jest o postawie. O tym, co robimy, gdy widzimy, że coś jest nie tak. Czy odwracamy wzrok, czy działamy?
+
+Leszek Żebrowski przez lata mówił o tym, co dzieje się w Polsce. Często ostro, często kontrowersyjnie. Ale zawsze z przekonaniem, że warto walczyć. Że warto mówić prawdę, nawet jeśli jest niewygodna. I że warto działać, nawet jeśli wydaje się, że to nic nie da.
+
+Bo to właśnie działanie – małe, codzienne, systematyczne – może zmienić rzeczywistość. Nie hasła, nie demonstracje. Systematyczna, cierpliwa praca.
+
+I w tym sensie Żebrowski ma rację. Nie chodzi o to, żeby wygrać wybory. Chodzi o to, żeby nie przegrać siebie. Żeby nie pozwolić, żeby obojętność stała się naszym największym wrogiem.
+
+A to, czy wybory się odbędą, czy nie – to już inna historia. Ważne, żebyśmy my byli gotowi.
+
+I żebyśmy pamiętali, że każdy głos ma znaczenie. Każde pytanie ma znaczenie. Każda postawa ma znaczenie.
+
+A jeśli wszyscy odwrócimy wzrok – to rzeczywiście nic się nie zmieni.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest narrator z wykształcenia?
+
+**Answers:**
+- A) Historyk, archiwista
+- B) Lekarz, chirurg
+- C) Prawnik, sędzia
+- D) Inżynier, budowlaniec
+
+**Correct:** A
+**Explanation:** Historyk, archiwista w instytucie.
+**Text reference:** historyk
+
+### Question 2
+
+**Question:** Gdzie mieszka narrator?
+
+**Answers:**
+- A) Kraków, Kazimierz
+- B) Warszawa, Praga
+- C) Gdańsk, Wrzeszcz
+- D) Wrocław, Nadodrze
+
+**Correct:** B
+**Explanation:** Mieszkanie na Pradze.
+**Text reference:** Praga
+
+### Question 3
+
+**Question:** Kogo słucha w radiu?
+
+**Answers:**
+- A) Wiktora Słojkowskiego
+- B) Marka Boronia
+- C) Leszka Żebrowskiego
+- D) Stefana Kowalskiego
+
+**Correct:** C
+**Explanation:** Program Leszka Żebrowskiego.
+**Text reference:** Żebrowski
+
+### Question 4
+
+**Question:** Jaką metaforę używa prowadzący?
+
+**Answers:**
+- A) Spacer po lesie
+- B) Lot w kosmos
+- C) Wyścig konny
+- D) Bal na Titanicu
+
+**Correct:** D
+**Explanation:** To jest bal na Titanicu.
+**Text reference:** Titanic
+
+### Question 5
+
+**Question:** O czym mówi radio o wyborach?
+
+**Answers:**
+- A) Że są już zakończone
+- B) Że mogą się nie
+- C) Że są tylko lokalne
+- D) Że są za granicą
+
+**Correct:** B
+**Explanation:** Mogą się nie odbyć.
+**Text reference:** wyborach
+

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie pracuje zespół Taito?",
+      "answers": [
+        "Tokio, wiosna 1986",
+        "Osaka, lato 1990",
+        "Kioto, jesień 1978",
+        "Hiroshima, zima 1984"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tokio, wiosna 1986 roku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Hiroshi Tsujino?",
+      "answers": [
+        "Prezes Nintendo",
+        "Artysta wizualny",
+        "Dziennikarz sportowy",
+        "Inżynier mostów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Artysta wizualny z SF."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką grę klonuje wcześniej Taito?",
+      "answers": [
+        "Gra Field Goal",
+        "Gra Pac-Man",
+        "Gra Mario Bros",
+        "Gra Pong"
+      ],
+      "correctIndex": 2,
+      "explanation": "Field Goal – klon Breakouta."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się finalna gra?",
+      "answers": [
+        "Pixel Shield",
+        "Dominate Hour",
+        "Space Knight",
+        "Arkanoid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Narodził się Arkanoid."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co łączy pomysły Fujity i Tsujino?",
+      "answers": [
+        "Kosmos i mechanika",
+        "Sport i muzyka",
+        "Film i teatr",
+        "Książki i komiks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kosmos Fujity i mechanika gry."
+    }
+  ]
+}

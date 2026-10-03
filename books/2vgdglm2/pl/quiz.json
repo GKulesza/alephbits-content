@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie rozgrywa się prolog?",
+      "answers": [
+        "Pola pod Grunwaldem",
+        "Wawel w Krakowie",
+        "Malbork nad Nogatem",
+        "Gdańsk przy porcie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pola pod Grunwaldem, 1410."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czyje ciało potwierdza rycerz?",
+      "answers": [
+        "Zawiszy Czarnego",
+        "Ulricha von",
+        "Jagiełły króla",
+        "Mszcjuja ze Skrzynna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wielki mistrz nie żyje."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co niesie rycerz jako dowód?",
+      "answers": [
+        "Pieczęć woskowa",
+        "Srebrny miecz",
+        "Złoty pektorał",
+        "Szarfa herbowa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pektorał Ulricha von Jungingen."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto zgłasza się jako sprawca?",
+      "answers": [
+        "Rycerz bez imienia",
+        "Jagiełło król",
+        "Zawisza rycerz",
+        "Mszczuj ze"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mszczuj ze Skrzynna, z rodu Łabędziów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto siedzi w namiocie króla?",
+      "answers": [
+        "Ulrich von Jungingen",
+        "Władysław Jagiełło",
+        "Henryk V Anglii",
+        "Jan Hus Czech"
+      ],
+      "correctIndex": 1,
+      "explanation": "Król Władysław Jagiełło."
+    }
+  ]
+}

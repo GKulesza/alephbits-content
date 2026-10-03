@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Helena?",
+      "answers": [
+        "Dziesięć lat",
+        "Siedem lat",
+        "Osiem lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena miała dziesięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zbiera Helena?",
+      "answers": [
+        "Kamienie",
+        "Puchatki",
+        "Znaczki",
+        "Muszelki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kieszenie pełne Puchatków."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile Puchatków ma już Helena?",
+      "answers": [
+        "Dwanaście sztuk",
+        "Trzy sztuki",
+        "Siedem sztuk",
+        "Jedną sztukę"
+      ],
+      "correctIndex": 2,
+      "explanation": "Miała ich już siedem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto dał białego Puchatka?",
+      "answers": [
+        "Sąsiadka Halina",
+        "Mama Iwona",
+        "Ciocia Zofia",
+        "Babcia Bogna"
+      ],
+      "correctIndex": 3,
+      "explanation": "Od babci Bogny na urodziny."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi biały Puchatek przy lampie?",
+      "answers": [
+        "Rośnie w rozmiarze",
+        "Zmienia kolor",
+        "Znika z półki",
+        "Śpiewa do Heleny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zmienia kolor naświetlany."
+    }
+  ]
+}

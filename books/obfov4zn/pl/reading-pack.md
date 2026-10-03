@@ -1,0 +1,355 @@
+# Bartek i Noc, w Której Oskar Zniknął
+
+## Metadata
+
+**Pack ID:** obfov4zn
+**Book ID:** obfov4zn
+**Legacy Pack ID:** polish_bartek_i_noc_w_ktorej_oskar_zniknal
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Bartek i Noc, w Której Oskar Zniknął  
+**Subtitle:** *(none)*  
+**Blurb:** W pewnym mieście, tam gdzie ulice pachniały świeżym pieczywem, a latarnie świeciły ciepłym, pomarańczowym światłem, stał sklep. Nie był duży. Nie był nowoczesny. Ale był ich — mieszkańców osiedla.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fourteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 5 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Bartek i Noc, w Której Oskar Zniknął — Collection Fourteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'bartek-i-noc-w-ktorej-oskar-zniknal']  
+
+**Keywords:** Bartek i Noc, w Której Oskar Zniknął, Collection Fourteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Collection Fourteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['shop']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fourteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fourteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fourteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=aJlFeLWFMF4  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2025-09-04  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/14 CollectionFourteen.md.
+
+---
+
+## Text
+
+**BARTEK I NOC, W KTÓREJ OSKAR ZNIKNĄŁ**
+
+## Wstęp
+
+W pewnym mieście, tam gdzie ulice pachniały świeżym pieczywem, a latarnie świeciły ciepłym, pomarańczowym światłem, stał sklep. Nie był duży. Nie był nowoczesny. Ale był **ich** — mieszkańców osiedla.
+
+Sklep nazywał się **Biedronka**. Prowadziła go pani **Krystyna** — kobieta o siwych włosach, okrągłych okularach i uśmiechu, który pamiętał każdego klienta.
+
+W dzień sklep był zwykłym sklepem. A nocą...
+
+Nocą sklep żył.
+
+Gdy ostatni klient wychodził, a pani Krystyna gasiła światło i zamykała drzwi na klucz, coś się zmieniało. Półki drgały. Słoiki szeptały. A produkty — te zwykłe, codzienne — otwierały oczy.
+
+Bo w Biedronce wszystko miało duszę.
+
+## Rozdział pierwszy: Trzej przyjaciele
+
+Najważniejszymi mieszkańcami sklepu byli:
+
+**Oskar** — słoik ogórków. Zielony, kwaśny, z poczuciem humoru. Był liderem. Nie dlatego, że chciał. Dlatego, że inni go słuchali. Ale Oskar miał sekret. Bał się, że pewnego dnia nikt go nie kupi. Że zostanie na półce tak długo, że jego ogórki staną się miękkie.
+
+**Bartek** — burger. Nowy w sklepie. Niepewny. Trochę się bał, że nikt go nie kupi. Bo był nowy. Bo był inny. Bo nie wiedział, czy pasuje.
+
+I **Rysia** — rybka w sosie. Cicha, spokojna, zawsze w cieniu. Nikt jej nie zauważał. A ona bardzo chciała być zauważona. Bo odkąd pamiętała, nikt nigdy jej nie kupił. Stała na tej samej półce tak długo, że zaczęła wierzyć, że jest niewidzialna.
+
+Pewnej nocy, gdy sklep był cichy, Rysia powiedziała:
+
+— Wiecie, dlaczego stoję w cieniu?
+
+— Dlaczego? — zapytał Bartek.
+
+— Bo nigdy nie byłam niczyja. Nikt mnie nie wybrał. Nikt nie powiedział: „O, rybka w sosie. Właśnie tego szukam". Zawsze byłam tłem. Dla innych. Dla lepszych.
+
+Oskar spojrzał na nią.
+
+— Rysiu — powiedział. — Jesteś naszym tłem. Ale nie dlatego, że jesteś gorsza. Dlatego, że jesteś najważniejsza. Bo tło sprawia, że reszta wygląda lepiej.
+
+Rysia uśmiechnęła się. Po raz pierwszy od dawna.
+
+## Rozdział drugi: Pożegnanie
+
+Pewnego dnia, tuż przed zamknięciem, do sklepu przyszła kobieta. Miała czerwony płaszcz i zmęczone oczy. Podeszła do półki z ogórkami. Wzięła słoik Oskara. Spojrzała na etykietkę. I włożyła go do koszyka.
+
+Oskar zamarł.
+
+— Nie — wyszeptał. — Nie, nie, nie.
+
+Ale nikt go nie usłyszał. Bo w dzień produkty nie mówią.
+
+Pani Krystyna zeskanowała słoik. Kobieta zapłaciła. I wyszła.
+
+Oskar zniknął.
+
+Tej nocy wszystkie produkty zebrały się na półce. Miejsce po Oskarze było puste. Nikt nie mówił. Nikt nie musiał.
+
+Pierwsza odezwała się **Rysia**.
+
+— Był dobrym przyjacielem — powiedziała cicho.
+
+— Był — zgodził się **Bartek**.
+
+— Pamiętam, jak opowiadał dowcipy o ogórkach — dodał **Kacper**, nowy słoik, który stanął obok Bartka. — Śmiałem się, choć ich nie rozumiałem.
+
+— Wszyscy się śmialiśmy — powiedziała **Lidia**, słoik miodu. — Bo Oskar umiał rozśmieszyć nawet w najciemniejszą noc.
+
+— A ja pamiętam, jak mnie pocieszał — powiedziała **Kornelia**, butelka soku. — Gdy myślałam, że nikt mnie nie kupi, powiedział: „Kornelio, jesteś jak słońce. Ktoś w końcu to zobaczy".
+
+— Mnie nauczył, że nie trzeba być dużym, żeby być ważnym — powiedział **Fabian**, mały serek.
+
+— A mnie, że strach nie jest wstydem — dodała **Oliwia**, słoik miodu, który nigdy nie czuł się potrzebny.
+
+Milczeli długo. A potem Bartek powiedział:
+
+— Nie wiem, co się z nim dzieje. Ale wiem, że gdzieś jest. I że ktoś go docenił.
+
+— Skąd wiesz? — zapytała Rysia.
+
+— Bo ja bym go docenił. A skoro ja, to ktoś inny też.
+
+## Rozdział trzeci: Pustka
+
+Minęły dni. Tygodnie.
+
+Na półce obok Bartka stanął nowy słoik. Ogórki. Ale nie Oskar.
+
+— Cześć — powiedział nowy. — Jestem **Kacper**.
+
+— Bartek.
+
+— Rysia.
+
+Kacper rozejrzał się.
+
+— Gdzie jest ten, którego tu wcześniej było? Ten Oskar?
+
+— Został kupiony — powiedziała Rysia.
+
+— I nie wrócił?
+
+— Nie.
+
+Kacper milczał.
+
+— To smutne — powiedział.
+
+— Tak — zgodził się Bartek. — Ale wiesz co? Myślałem, że bez niego będzie pusto. I było. Przez chwilę. A potem zrozumiałem, że on wciąż jest. W nas. W tym, co nam powiedział. W tym, jak nas nauczył patrzeć na siebie.
+
+Kacper spojrzał na niego.
+
+— Naprawdę?
+
+— Naprawdę.
+
+Kacper milczał przez chwilę. A potem powiedział cicho:
+
+— Boję się.
+
+— Czego? — zapytał Bartek.
+
+— Że mnie też ktoś kupi. I że was zostawię. I że zapomnicie o mnie.
+
+Bartek uśmiechnął się.
+
+— Nie zapomnimy. Bo ty też jesteś częścią tego miejsca. A miejsce to nie półka. To pamięć.
+
+Rysia skinęła głową.
+
+— Właśnie tak.
+
+## Rozdział czwarty: Paragon
+
+Pewnej nocy, gdy sklep był cichy, Bartek zauważył coś na podłodze. Mały, zmięty papier. Paragon.
+
+Podniósł go. Przeczytał.
+
+**„Dziękuję. Ogórek był pyszny. Wróciłam po więcej."**
+
+Bartek zamarł. A potem poczuł coś, czego nie czuł od dawna. Coś ciepłego. Coś, co ściskało go w środku. Łza spłynęła mu po policzku. Nie otarł jej.
+
+— Rysiu — wyszeptał. — Rysiu, patrz.
+
+Rysia przeczytała. A potem uśmiechnęła się.
+
+— Wróci — powiedziała. — Wróci po więcej.
+
+— Ale to nie on wróci. To my. Nowe słoiki. Nowe ogórki.
+
+— Wiem — powiedziała Rysia. — Ale to znaczy, że ktoś go docenił. Że nie był nic nieznaczący. Że był potrzebny.
+
+Bartek milczał. A potem powiedział cicho:
+
+— Wiesz co? Ja też się bałem, że o nim zapomnę. Że z czasem jego twarz zniknie. Że zostanie tylko puste miejsce.
+
+— I co? — zapytała Rysia.
+
+— I teraz wiem, że nie zapomnę. Bo on jest w tym paragonie. W tych słowach. W tym, że ktoś napisał „dziękuję".
+
+Rysia spojrzała na niego.
+
+— Może przyjaźń to nie tylko obecność — powiedziała. — Może to też pamięć. I to, co zostawiamy w innych.
+
+Bartek skinął głową.
+
+— Właśnie tak.
+
+## Rozdział piąty: Epilog — Oskar
+
+Daleko stąd, w małej kuchni, na stole, stał słoik ogórków.
+
+Oskar patrzył na talerz. Na talerzu leżały ogórki. Obok stał kubek herbaty. A przy stole siedziała kobieta w czerwonym płaszczu. Jadła. I uśmiechała się.
+
+— Dobre — powiedziała. — Naprawdę dobre.
+
+Oskar poczuł coś, czego nie czuł nigdy wcześniej. Coś ciepłego. Coś, co nie było dumą. Coś, co było spokojem.
+
+— Warto było — wyszeptał.
+
+Kobieta podniosła wzrok. Spojrzała na słoik.
+
+— Wrócę po więcej — powiedziała.
+
+Oskar uśmiechnął się.
+
+A w sklepie, na półce, Bartek i Rysia leżeli obok siebie. Patrzyli w sufit. Wiedzieli, że Oskar też gdzieś patrzy w sufit.
+
+I to wystarczyło.
+
+*Przyjaźń to nie miejsce, które można zająć.  
+To coś, co nosimy w sobie —  
+nawet gdy jesteśmy daleko.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak nazywa się sklep?
+
+**Answers:**
+- A) Biedronka
+- B) Pod Słonecznikiem
+- C) Pod Złotym Dzwonkiem
+- D) U Pani Zofii
+
+**Correct:** A
+**Explanation:** Sklep Biedronka.
+**Text reference:** Biedronka
+
+### Question 2
+
+**Question:** Kim jest Oskar?
+
+**Answers:**
+- A) Burger na półce
+- B) Słoik ogórków
+- C) Bochen chleba
+- D) Rybka w sosie
+
+**Correct:** B
+**Explanation:** Oskar – słoik ogórków.
+**Text reference:** ogórków
+
+### Question 3
+
+**Question:** Kim jest Bartek w sklepie?
+
+**Answers:**
+- A) Chłopiec z osiedla
+- B) Woźny szkoły
+- C) Burger, nowy
+- D) Pies sąsiada
+
+**Correct:** C
+**Explanation:** Bartek – burger, nowy.
+**Text reference:** Burger
+
+### Question 4
+
+**Question:** Kto prowadzi sklep?
+
+**Answers:**
+- A) Sklep prowadzi Krystyna
+- B) Sklep prowadzi Halina
+- C) Sklep prowadzi Zofia
+- D) Sklep prowadzi Iwona
+
+**Correct:** D
+**Explanation:** Pani Krystyna.
+**Text reference:** Krystyna
+
+### Question 5
+
+**Question:** Kim jest Rysia?
+
+**Answers:**
+- A) Słoik miodu
+- B) Rybka w sosie
+- C) Paczka herbaty
+- D) Torebka mąki
+
+**Correct:** B
+**Explanation:** Rysia – rybka w sosie.
+**Text reference:** Rybka
+

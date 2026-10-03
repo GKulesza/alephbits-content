@@ -1,0 +1,7 @@
+book_id: "fxui1lqt"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_drzwi_ktore_zostaly_zamkniete"
+legacy_slug: "drzwi-ktore-zostaly-zamkniete"

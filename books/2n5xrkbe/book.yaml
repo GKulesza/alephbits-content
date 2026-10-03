@@ -1,0 +1,7 @@
+book_id: "2n5xrkbe"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_miedzy_dwoma_ojczyznami"
+legacy_slug: "miedzy-dwoma-ojczyznami"

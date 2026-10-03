@@ -1,0 +1,7 @@
+book_id: "2vgdglm2"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_kto_zabil_mistrza"
+legacy_slug: "kto-zabil-mistrza"

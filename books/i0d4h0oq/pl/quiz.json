@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Kornelia?",
+      "answers": [
+        "Osiem lat",
+        "Dziesięć lat",
+        "Pięć lat",
+        "Dwanaście lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kornelia miała osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Fabian?",
+      "answers": [
+        "Osiem lat",
+        "Pięć lat",
+        "Dziesięć lat",
+        "Siedem lat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fabian miał pięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie pracuje tata?",
+      "answers": [
+        "Tata pracuje w szpitalu",
+        "Tata pracuje w szkole",
+        "Tata pracuje w sklepie",
+        "Tata pracuje na statku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tata Marcel w szpitalu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co kończy się w szafce?",
+      "answers": [
+        "Ryż i makaron",
+        "Chleb i masło",
+        "Herbata i cukier",
+        "Mleko i płatki"
+      ],
+      "correctIndex": 3,
+      "explanation": "Skończyło się mleko i płatki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi tata o pracy?",
+      "answers": [
+        "Liczy się tylko kasa",
+        "Zostawiasz coś po sobie",
+        "Trzeba uciekać szybko",
+        "Najważniejszy jest urlop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coś, co zostawiasz po sobie."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "packId": "1a0wqxkn:pl",
+  "bookId": "1a0wqxkn",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/14 CollectionFourteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "pEwSlgSeID4"
+    }
+  ],
+  "revisionNotes": "Collection Fourteen import — Polish only; quiz answers length-balanced."
+}

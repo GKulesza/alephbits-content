@@ -1,0 +1,7 @@
+book_id: "knikdkbd"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_gniewko_i_smok_ktory_mial_oczy_ze_wegla"
+legacy_slug: "gniewko-i-smok-ktory-mial-oczy-ze-wegla"

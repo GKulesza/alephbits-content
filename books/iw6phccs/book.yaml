@@ -1,0 +1,7 @@
+book_id: "iw6phccs"
+created: "2026-10-03"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_niepokorni"
+legacy_slug: "niepokorni"

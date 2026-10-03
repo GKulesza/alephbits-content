@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Helena?",
+      "answers": [
+        "Siedem lat",
+        "Dziesięć lat",
+        "Jedenasta lat",
+        "Osiem lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helena miała siedem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię przyjaciółka?",
+      "answers": [
+        "Otylia",
+        "Amelia",
+        "Liliana",
+        "Pola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amelia – najlepsza przyjaciółka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się pies Heleny?",
+      "answers": [
+        "Azor",
+        "Burek",
+        "Fafik",
+        "Reksio"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pies Fafik."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego boi się Helena w noc?",
+      "answers": [
+        "Złej oceny",
+        "Utraty plecaka",
+        "Braku kredki",
+        "Innej klasy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Że Amelia będzie w innej klasie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mają na sobie obie dziewczynki?",
+      "answers": [
+        "Czerwone peleryny z kapturem",
+        "Granatowe sukienki w kropki",
+        "Zielone kurtki na wiatr",
+        "Żółte bluzy z kapturem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Granatowe sukienki w kropki."
+    }
+  ]
+}

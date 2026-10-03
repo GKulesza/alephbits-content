@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest pan Kazimierz?",
+      "answers": [
+        "Woźny w szkole",
+        "Dyrektor szkoły",
+        "Nauczyciel muzyki",
+        "Kucharz stołówki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Woźny w Szkole nr 7."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię mop?",
+      "answers": [
+        "Mop ma na imię Florek",
+        "Mop ma na imię Bazyl",
+        "Mop ma na imię Oskar",
+        "Mop ma na imię Gips"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mop o imieniu Florek."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się żywiołowy uczeń?",
+      "answers": [
+        "Miłosz z klasy",
+        "Antek z podwórka",
+        "Tymek Wichura",
+        "Gniewko książę"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tymek Wichura."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mruczy pan Kazimierz?",
+      "answers": [
+        "Szybciej, szybciej",
+        "Praca, praca, praca",
+        "Cicho, cicho, cicho",
+        "Porządek, nie na"
+      ],
+      "correctIndex": 3,
+      "explanation": "Porządek, ale nie na pokaz."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się bez Wichury?",
+      "answers": [
+        "Szkoła się pali",
+        "Korytarze są ciche",
+        "Mop znika z szafy",
+        "Nikt nie przychodzi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Korytarze ciche jak nigdy."
+    }
+  ]
+}

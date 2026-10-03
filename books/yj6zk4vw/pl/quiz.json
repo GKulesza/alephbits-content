@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bazyli w tej baśni?",
+      "answers": [
+        "Drwal",
+        "Tkacz",
+        "Książę",
+        "Woźny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazyli był drwalem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się czarownica?",
+      "answers": [
+        "Dagmara",
+        "Jadwiga",
+        "Salomea",
+        "Grażyna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kobieta Jadwiga przy lesie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką cenę stawia Jadwiga?",
+      "answers": [
+        "Oddają konia",
+        "Oddają dom",
+        "Oddają córkę",
+        "Oddają las"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jeśli urodzi się córka – oddacie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak często mogą odwiedzać dziecko?",
+      "answers": [
+        "Nigdy więcej",
+        "Co tydzień",
+        "Co dziesięć lat",
+        "Raz w roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Raz w roku w dzień urodzin."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię córka?",
+      "answers": [
+        "Klara",
+        "Noemi",
+        "Liliana",
+        "Otylia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Noemi – główna bohaterka."
+    }
+  ]
+}

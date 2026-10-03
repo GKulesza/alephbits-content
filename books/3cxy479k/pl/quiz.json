@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazwał zespół Boroń?",
+      "answers": [
+        "Łowcy cieni",
+        "Wilki nocy",
+        "Straż graniczna",
+        "Zespół Alfa"
+      ],
+      "correctIndex": 0,
+      "explanation": "– Łowcy cieni – powiedział Boroń."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiedy powstaje koncepcja w prologu?",
+      "answers": [
+        "Warszawa, lipiec 2026",
+        "Warszawa, czerwiec",
+        "Kraków, maj 2005",
+        "Gdańsk, styczeń 2019"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warszawa, czerwiec 2011 roku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo zaprasia Wiktor Słojkowski?",
+      "answers": [
+        "Leszka Żebrowskiego",
+        "Marka Boronia",
+        "Piotra Halickiego",
+        "Andrzeja z PPBW"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piotra Halickiego – autora książki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką jednostkę opisuje tekst?",
+      "answers": [
+        "SG graniczną",
+        "Straż miejską",
+        "ABW kontrwywiadu",
+        "CBŚP pościgowych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wydział operacji pościgowych CBŚP."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki podcast prowadzi Wiktor?",
+      "answers": [
+        "Cień dnia",
+        "Kozaczek",
+        "Nocna fala",
+        "Łowca prawdy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Podcast Kozaczek."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywają się chłopcy?",
+      "answers": [
+        "Miłosz i Wiktor",
+        "Antek i Bartek",
+        "Szymon i Daniel",
+        "Gniewko i Fabian"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miłosz i Wiktor – nierozłączni."
+    },
+    {
+      "type": "single_choice",
+      "question": "W co grają wieczorem?",
+      "answers": [
+        "W piłkę nożną",
+        "W chowanego",
+        "W szachy",
+        "W warcaby"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wymknęli się, by grać w chowanego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest inne na polanie?",
+      "answers": [
+        "Złoty smok",
+        "Czerwony wilk",
+        "Większy świetlik",
+        "Stary niedźwiedź"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jeden świetlik był większy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co stoi na polanie?",
+      "answers": [
+        "Szkoła wiejska",
+        "Mała chata",
+        "Kamienny most",
+        "Stary dąb"
+      ],
+      "correctIndex": 3,
+      "explanation": "W środku polany stał stary dąb."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak opisują ich zapach w wiosce?",
+      "answers": [
+        "Pachną jak przygoda",
+        "Pachną jak deszcz",
+        "Pachną jak dym",
+        "Pachną jak miód"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pachnieliby jak przygoda."
+    }
+  ]
+}

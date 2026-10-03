@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie zaczyna się prolog?",
+      "answers": [
+        "Biskupin, po",
+        "Warszawa, w biurze",
+        "Kraków, na dworcu",
+        "Gdańsk, nad morzem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biskupin, dwa dni po pogrzebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego dziewczynka nie miała wstępu?",
+      "answers": [
+        "Do szkolnej biblioteki",
+        "Do dziadkowego",
+        "Do sąsiedniego lasu",
+        "Do miejskiego ratusza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Do warsztatu przez całe życie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dziadek robił w tajemnicy?",
+      "answers": [
+        "Listy do urzędu miasta",
+        "Złote monety dla sąsiadów",
+        "Drewniane zabawki dla",
+        "Obrazy na aukcje"
+      ],
+      "correctIndex": 2,
+      "explanation": "Robił zabawki dla obcych dzieci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co narratorka kładzie na grobie?",
+      "answers": [
+        "Zdjęcie w ramce",
+        "Srebrną filiżankę",
+        "Stary klucz do drzwi",
+        "Drewnianego konika"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mały drewniany konik."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi karteczka na grobie?",
+      "answers": [
+        "Proszę, otwórz te drzwi",
+        "Dokończyłam twoją pracę",
+        "Wrócę tu wiosną",
+        "Zawsze będę pamiętać"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dokończyłam twoją pracę."
+    }
+  ]
+}

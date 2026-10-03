@@ -1,0 +1,24 @@
+{
+  "packId": "ck58xn63:pl",
+  "bookId": "ck58xn63",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/15 CollectionFifteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "e8S4LX-8i00"
+    }
+  ],
+  "revisionNotes": "Collection Fifteen import — Polish only; quiz answers length-balanced."
+}

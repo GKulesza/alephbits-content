@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest narrator z wykształcenia?",
+      "answers": [
+        "Historyk, archiwista",
+        "Lekarz, chirurg",
+        "Prawnik, sędzia",
+        "Inżynier, budowlaniec"
+      ],
+      "correctIndex": 0,
+      "explanation": "Historyk, archiwista w instytucie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie mieszka narrator?",
+      "answers": [
+        "Kraków, Kazimierz",
+        "Warszawa, Praga",
+        "Gdańsk, Wrzeszcz",
+        "Wrocław, Nadodrze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mieszkanie na Pradze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo słucha w radiu?",
+      "answers": [
+        "Wiktora Słojkowskiego",
+        "Marka Boronia",
+        "Leszka Żebrowskiego",
+        "Stefana Kowalskiego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Program Leszka Żebrowskiego."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaką metaforę używa prowadzący?",
+      "answers": [
+        "Spacer po lesie",
+        "Lot w kosmos",
+        "Wyścig konny",
+        "Bal na Titanicu"
+      ],
+      "correctIndex": 3,
+      "explanation": "To jest bal na Titanicu."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym mówi radio o wyborach?",
+      "answers": [
+        "Że są już zakończone",
+        "Że mogą się nie",
+        "Że są tylko lokalne",
+        "Że są za granicą"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mogą się nie odbyć."
+    }
+  ]
+}

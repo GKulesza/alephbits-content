@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się planeta?",
+      "answers": [
+        "Harmonia",
+        "Melodia",
+        "Symfonia",
+        "Galaktyka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planeta Harmonia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się symfonia świata?",
+      "answers": [
+        "Wielka Symfonia",
+        "Mała Pieśń planety",
+        "Cicha Nuta planety",
+        "Stary Chór planety"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nazywali to Wielką Symfonią."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile oczu ma Miron?",
+      "answers": [
+        "Cztery oczy",
+        "Dwa oczy",
+        "Trzy oczy",
+        "Jedno oko"
+      ],
+      "correctIndex": 2,
+      "explanation": "Miron miał trzy oczy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Które oko widzi uczucia?",
+      "answers": [
+        "Czarne oko",
+        "Niebieskie oko",
+        "Zielone oko",
+        "Złote oko"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trzecie, złote oko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robią muszelki na plażach?",
+      "answers": [
+        "Śpią bez dźwięku",
+        "Dzwonią jak",
+        "Pękają od słońca",
+        "Topią się w piasku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muszelki dzwonią jak dzwoneczki."
+    }
+  ]
+}

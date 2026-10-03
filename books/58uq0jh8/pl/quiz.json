@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Ula Kowalska",
+        "Karolina Wilda",
+        "Magda prawniczka",
+        "Nina Czyżewska"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ula Kowalska."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na co choruje od dzieciństwa?",
+      "answers": [
+        "Astma ciężka",
+        "Cukrzyca typu",
+        "Alergia na pyłki",
+        "Anemia złośliwa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cukrzyca od siódmego roku."
+    },
+    {
+      "type": "single_choice",
+      "question": "W jakim programie występuje jako dwunastolatka?",
+      "answers": [
+        "The Voice Kids",
+        "Mam talent",
+        "Mali giganci",
+        "Szansa na sukces"
+      ],
+      "correctIndex": 2,
+      "explanation": "Program Mali giganci."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki cukier widzi przed koncertem?",
+      "answers": [
+        "Około 380 mg/dl",
+        "Około 120 mg/dl",
+        "Około 80 mg/dl",
+        "Około 400 mg/dl"
+      ],
+      "correctIndex": 3,
+      "explanation": "380 na wyświetlaczu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi nieznajomy w pociągu?",
+      "answers": [
+        "Córka dobrze tańczy",
+        "Córka ładnie śpiewa",
+        "Córka szybko biega",
+        "Córka maluje obraz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pani córka ładnie śpiewa."
+    }
+  ]
+}

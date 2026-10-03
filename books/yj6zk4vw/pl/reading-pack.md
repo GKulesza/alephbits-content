@@ -1,0 +1,600 @@
+# Noemi i Światło w Ciemności
+
+## Metadata
+
+**Pack ID:** yj6zk4vw
+**Book ID:** yj6zk4vw
+**Legacy Pack ID:** polish_noemi_i_swiatlo_w_ciemnosci
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Noemi i Światło w Ciemności  
+**Subtitle:** *(none)*  
+**Blurb:** W pewnej krainie, tam gdzie góry całowały chmury, a rzeki śpiewały stare pieśni, żyło małżeństwo o imionach Bazyli i Halina.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 13 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Noemi i Światło w Ciemności — Collection Fifteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'noemi-i-swiatlo-w-ciemnosci']  
+
+**Keywords:** Noemi i Światło w Ciemności, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Collection Fifteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['forest']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fifteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fifteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fifteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=jKirA4irKI8  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2021-01-28  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/15 CollectionFifteen.md.
+
+---
+
+## Text
+
+**NOEMI I ŚWIATŁO W CIEMNOŚCI**
+
+## Wstęp
+
+W pewnej krainie, tam gdzie góry całowały chmury, a rzeki śpiewały stare pieśni, żyło małżeństwo o imionach **Bazyli** i **Halina**.
+
+Bazyli był drwalem. Halina — ogrodniczką. Mieli niewiele, ale mieli siebie. I marzyli o dziecku.
+
+Pewnej zimy Halina zachorowała. Gorączka nie chciała odejść. Bazyli próbował wszystkiego — ziół, okładów, modlitw. Nic nie pomagało.
+
+Aż pewnego dnia usłyszał o kobiecie, która mieszkała na skraju zaczarowanego lasu. Nazywano ją **Jadwigą**. Mówiono, że leczy tych, których inni uznali za straconych. Ale mówiono też, że nigdy nie robi tego za darmo.
+
+Bazyli poszedł do niej.
+
+Jadwiga mieszkała w chacie oplecionej bluszczem. Miała oczy zimne jak lód i uśmiech, który nie sięgał serca. Ale w kącie izby, na parapecie, stał mały drewniany konik. Zabawka. Ktoś ją kiedyś wyrzeźbił z miłością.
+
+Bazyli tego nie zauważył. Był zbyt zajęty błaganiem.
+
+— Moja żona umiera — powiedział. — Słyszałem, że możesz pomóc.
+
+Jadwiga spojrzała na niego długo.
+
+— Mogę — powiedziała. — Ale moja pomoc ma cenę.
+
+— Jaką?
+
+— Jeśli urodzi się wam córka — oddacie mi ją. Będziecie mogli ją odwiedzać. Raz w roku. W dzień jej urodzin. To wszystko, o co proszę.
+
+Bazyli zamarł. Ale myślał o Halinie. O jej bladych ustach, o jej drżących dłoniach. O tym, że bez pomocy Jadwigi nie dożyje wiosny.
+
+— Zgadzam się — powiedział.
+
+Jadwiga skinęła głową. Dała mu garść nasion. Zasadził je w ogrodzie. Wyrosły z nich rośliny o srebrnych liściach. Halina jadła je codziennie. Po tygodniu wstała z łóżka. Po miesiącu była zdrowa.
+
+A po dziewięciu miesiącach urodziła córkę.
+
+Dali jej na imię **Noemi**.
+
+## Rozdział pierwszy: Obietnica, która pękła
+
+Noemi urodziła się w noc, gdy nad wioską świecił wielki, srebrny księżyc. Miała włosy jasne jak len i oczy, które patrzyły na świat z ciekawością, nie lękiem.
+
+Bazyli i Halina kochali ją od pierwszej chwili.
+
+Ale wiedzieli, że Jadwiga przyjdzie.
+
+Przyszła trzeciej nocy. Stanęła w progu, wyciągnęła ręce i powiedziała:
+
+— Oddajcie mi to, co moje.
+
+Halina płakała. Bazyli błagał.
+
+— Obiecałaś, że będziemy ją odwiedzać — przypomniał. — Raz w roku. W dzień jej urodzin.
+
+Jadwiga milczała przez chwilę. Potem skinęła głową.
+
+— Będziecie — powiedziała. — Ale nie wcześniej.
+
+I zniknęła razem z Noemi.
+
+Zabrała ją do ukrytej doliny, otoczonej mgłą tak gęstą, że nikt obcy nie mógł przez nią przejść. Tylko ci o czystym sercu widzieli ścieżkę.
+
+W dolinie stał dom. Nie wieża, nie zamek — dom. Ciepły, drewniany, pachnący ziołami.
+
+Jadwiga nie była zła. Była samotna. I bała się, że jeśli wypuści Noemi w świat, dziewczynka stanie się taka jak ona — zimna, twarda, nieufna.
+
+— Będziesz tu bezpieczna — mówiła. — Świat jest pełen wilków.
+
+Noemi rosła w dolinie. Uczyła się czytać z gwiazd, śpiewać z ptakami i słuchać, co mówią drzewa. Jej włosy rosły szybko — tak szybko, że Jadwiga musiała je splatać w warkocz, który sięgał ziemi.
+
+A włosy Noemi miały moc.
+
+Gdy dotknęła nimi zwiędłego kwiatu — kwiat ożywał. Gdy owinęła nimi chore zwierzę — zwierzę zdrowiało. Gdy Jadwiga bolała głowa, Noemi kładła jej warkocz na czole i ból znikał.
+
+— To dar — mówiła Jadwiga. — Ale nie możesz go używać dla każdego. Ludzie są chciwi. Wykorzystają cię.
+
+Noemi słuchała. Ale w jej sercu rosło coś, czego Jadwiga nie przewidziała — tęsknota za światem.
+
+A raz w roku, w dzień urodzin, przychodzili rodzice. Bazyli i Halina. Siadali na progu, przytulali córkę i opowiadali o wiosce. O tym, co się zmieniło. Kto się ożenił. Kto umarł. Kto zbudował nowy dom.
+
+Noemi słuchała zafascynowana. A potem patrzyła, jak odchodzą. I czekała cały rok na następne spotkanie.
+
+Pewnego dnia, gdy miała dwanaście lat, zapytała Jadwigę:
+
+— Dlaczego nie mogę iść z nimi? Choćby na tydzień?
+
+Jadwiga zmarszczyła brwi.
+
+— Bo świat jest niebezpieczny.
+
+— Ale oni wracają. I nic im się nie dzieje.
+
+— Mieli szczęście.
+
+— Mamo... — Noemi zawahała się. — Dlaczego boisz się, że wyjdę?
+
+Jadwiga milczała długo. A potem powiedziała cicho:
+
+— Bo ja kiedyś wyszłam. I już nie wróciłam.
+
+Noemi nie zrozumiała. Ale zapamiętała.
+
+## Rozdział drugi: Światło, które leczy
+
+Minęły trzy lata.
+
+Noemi miała piętnaście lat, gdy po raz pierwszy zobaczyła kogoś obcego w dolinie.
+
+Był ranek. Mgła była gęstsza niż zwykle. Noemi siedziała przed domem i plotła warkocz. A potem usłyszała kroki.
+
+Odwróciła się.
+
+Przed nią stał chłopiec. Młody, może siedemnastoletni. W podróżnym płaszczu, z oczami zmęczonymi, ale pełnymi nadziei.
+
+— Kim jesteś? — zapytała.
+
+— Julian. Syn królowej Krystyny. Szukam dziewczynki, której włosy leczą.
+
+Noemi cofnęła się.
+
+— Jadwiga mówiła, że nie mogę nikomu pomagać. Że ludzie są chciwi.
+
+— Moja matka umiera — powiedział cicho Julian. — Nie proszę dla siebie. Proszę dla niej.
+
+Noemi milczała. Patrzyła na niego długo. A potem podeszła bliżej.
+
+— Dotknij moich włosów — powiedziała. — Jeśli są w tobie złe zamiary, nic się nie stanie. Jeśli nie — poczujesz ciepło.
+
+Julian wyciągnął rękę. Dotknął warkocza.
+
+Poczuł ciepło. Jakby ktoś objął go miękkim kocem.
+
+— Wierzę ci — powiedziała Noemi.
+
+Tej nocy rozmawiali długo. Julian opowiadał o pałacu, o matce, o świecie. Noemi słuchała z szeroko otwartymi oczami. Po raz pierwszy słyszała o morzu, o górach, o ludziach, którzy się śmieją i tańczą.
+
+— Chciałabym to kiedyś zobaczyć — wyszeptała.
+
+— Więc chodź ze mną — powiedział Julian.
+
+Noemi zawahała się. Ale potem pomyślała o rodzicach. O ich twarzach, gdy odchodzili. O tym, że przez piętnaście lat widywała ich tylko raz w roku.
+
+— Muszę coś zostawić — powiedziała.
+
+Obcięła swój warkocz. Zostawiła go na progu jako prezent dla Jadwigi. A potem wzięła Juliana za rękę i wyszła z doliny.
+
+Mgła rozstąpiła się przed nimi.
+
+## Rozdział trzeci: Pałac i cień
+
+Julian i Noemi dotarli do pałacu. Królowa Krystyna była bliska śmierci. Noemi owinęła ją swoimi włosami — tym razem odrosły na nowo, jaśniejsze niż kiedykolwiek.
+
+Krystyna otworzyła oczy.
+
+— Kim jesteś? — zapytała.
+
+— Noemi.
+
+— Jesteś... światłem — wyszeptała królowa.
+
+Wieść o dziewczynce, która leczy, rozeszła się po całym królestwie. Ludzie zaczęli przychodzić do pałacu. Noemi pomagała wszystkim — dzieciom, starcom, zwierzętom. Jej włosy rosły i rosły, a ona nigdy nie odmawiała.
+
+Była dobra. Ale dobroć czasem bywa ślepa.
+
+Noemi ufała każdemu. Nie pytała, czy ktoś naprawdę potrzebuje pomocy, czy tylko chce wykorzystać jej dar. Nie zauważała, że niektórzy przychodzą z pustymi rękami, ale pełnymi kieszeniami. Nie widziała, że jej współczucie staje się towarem.
+
+Pewnego dnia przyszła do niej kobieta, która chciała, żeby Noemi uzdrowiła jej psa. Pies był stary, ślepy i chory. Noemi pomogła. A potem kobieta sprzedała psa kupcowi, który szukał „cudownie uzdrowionych zwierząt".
+
+Julian zauważył to pierwszy.
+
+— Noemi — powiedział — musisz uważać. Nie każdy, kto prosi, jest w potrzebie.
+
+— Ale jeśli mogę pomóc, powinnam — odpowiedziała Noemi.
+
+— Nawet jeśli ktoś cię wykorzystuje?
+
+Noemi nie odpowiedziała. Bo nie wiedziała, co powiedzieć.
+
+W pałacu była kobieta o imieniu **Grażyna**.
+
+Była ochmistrzynią. Niegdyś piękna, niegdyś uwielbiana. Ale lata minęły, a Grażyna nie mogła pogodzić się z tym, że młodość odeszła.
+
+Jej historia była długa i smutna. Przed dwudziestu laty Grażyna była żoną rycerza. Kochała go. Była pewna, że on też ją kocha. Ale gdy na dworze pojawiła się młodsza dziewczyna — córka kupca, z włosami jak złoto — rycerz odszedł. Bez słowa. Bez pożegnania.
+
+Grażyna została sama. Z goryczą, która z roku na rok rosła.
+
+Miała lustro. Nie zwykłe — magiczne. Kupiła je dawno temu od wędrownego kupca. Lustro odpowiadało na jedno pytanie:
+
+— Kto jest najpiękniejszy?
+
+I zawsze odpowiadało:
+
+— Ty, Grażyno.
+
+Ale pewnego dnia, gdy Noemi przechodziła obok, lustro szepnęło:
+
+— Noemi jest piękniejsza. Jej piękno nie gaśnie. Twoje — tak.
+
+Grażyna zamarła.
+
+— Co powiedziałeś?
+
+— Noemi jest piękniejsza — powtórzyło lustro.
+
+Grażyna poczuła, jak coś w niej pęka. Zazdrość — zimna, ostra — wbiła się w jej serce jak sztylet.
+
+Postanowiła zniszczyć Noemi.
+
+## Rozdział czwarty: Zatruty grzebień
+
+Grażyna przebrała się za staruszkę. Włożyła łachmany, przygarbiła się i poszła do ogrodu, gdzie Noemi codziennie siadała wśród kwiatów.
+
+— Moja droga — powiedziała drżącym głosem. — Jestem stara i biedna. Nie mam nic. Ale mam ten grzebień. Jest piękny. Chciałabym ci go dać.
+
+Noemi uśmiechnęła się.
+
+— Dziękuję. Ale nie potrzebuję grzebienia. Moje włosy same się rozczesują.
+
+— Weź go — nalegała staruszka. — Proszę. Zrób to dla mnie.
+
+Noemi nie chciała być nieuprzejma. Wzięła grzebień.
+
+Gdy tylko dotknął jej włosów, poczuła ukłucie. Jakby ktoś wbił jej igłę w skórę. Świat zawirował. Noemi upadła na trawę.
+
+Grażyna roześmiała się.
+
+— Teraz nikt nie będzie piękniejszy ode mnie!
+
+Odeszła, zostawiając Noemi leżącą wśród kwiatów.
+
+Ale Julian znalazł ją chwilę później. Zobaczył grzebień, zobaczył jej bladą twarz. I zrozumiał.
+
+Wyciągnął grzebień z jej włosów. Noemi otworzyła oczy.
+
+— Co się stało? — wyszeptała.
+
+— Ktoś cię skrzywdził — powiedział Julian. — Ale już po wszystkim.
+
+Noemi spojrzała na grzebień.
+
+— Ona chciała mnie zabić — powiedziała cicho. — Bo była zazdrosna.
+
+— Tak — przyznał Julian. — Zazdrość jest jak trucizna.
+
+Noemi wstała. Przez chwilę milczała. A potem powiedziała coś, czego Julian się nie spodziewał:
+
+— Może to moja wina.
+
+— Co?
+
+— Może gdybym nie była taka... widoczna. Gdybym nie leczyła wszystkich. Gdybym słuchała Jadwigi...
+
+— Noemi, to nie twoja wina.
+
+— A jeśli moje włosy to przekleństwo? — wyszeptała. — Jeśli przynoszą tylko nieszczęście?
+
+Julian wziął ją za ręce.
+
+— Twoje włosy nie są przekleństwem. Twoja dobroć nie jest przekleństwem. Przekleństwem jest to, że niektórzy nie potrafią znieść cudzego światła.
+
+Noemi milczała długo. A potem powiedziała:
+
+— Chcę z nią porozmawiać. Sama.
+
+## Rozdział piąty: Rozmowa
+
+Grażyna siedziała w swojej komnacie, gdy Noemi weszła bez pukania.
+
+— Wiedziałaś, że przyjdę — powiedziała Noemi.
+
+Grażyna nie odwróciła się.
+
+— Wiedziałam.
+
+— Dlaczego?
+
+— Bo jesteś dobra. Dobrzy zawsze chcą zrozumieć.
+
+Noemi usiadła na krześle naprzeciwko.
+
+— Powiedz mi.
+
+Grażyna milczała przez długą chwilę. A potem zaczęła mówić. O rycerzu. O złotowłosej dziewczynie. O tym, jak została sama. O tym, że od dwudziestu lat nikt na nią nie patrzy tak, jak kiedyś.
+
+— Kiedy zobaczyłam ciebie — powiedziała — pomyślałam, że historia się powtarza. Że znowu ktoś mnie zastąpi. I że znowu zostanę sama.
+
+Noemi słuchała. Nie przerywała.
+
+— Wiem, że to nie usprawiedliwia tego, co zrobiłam — dodała Grażyna. — Ale chciałam, żebyś wiedziała.
+
+Noemi milczała długo. A potem powiedziała:
+
+— Nie wybaczę ci od razu.
+
+Grażyna podniosła wzrok.
+
+— Próbowałaś mnie zabić. To bolało. I będę o tym pamiętać.
+
+— Rozumiem.
+
+— Ale chcę ci coś powiedzieć. — Noemi wstała. — Ty nie jesteś niewidzialna. Jesteś tylko... zagubiona. I może gdybyś przez te wszystkie lata nie patrzyła w lustro, tylko na ludzi wokół ciebie, zobaczyłabyś, że ktoś cię potrzebuje.
+
+Grażyna zamarła.
+
+— Kto?
+
+— Ja — powiedziała Noemi. — Potrzebuję kogoś, kto mi powie, kiedy jestem zbyt ufna. Kto mnie ostrzeże. Kto mnie nauczy, że dobroć bez mądrości to naiwność.
+
+Grażyna patrzyła na nią z niedowierzaniem.
+
+— Chcesz... mnie?
+
+— Chcę, żebyś została. Nie jako ochmistrzyni. Jako ktoś, kto rozumie, co to znaczy być samotnym. I kto wie, jak łatwo jest się zgubić.
+
+Grażyna nie odpowiedziała. Ale po jej policzkach popłynęły łzy.
+
+## Rozdział szósty: Powrót do domu
+
+Julian i Noemi wyruszyli w podróż do wioski, z której pochodziła Noemi. Chciała odnaleźć rodziców.
+
+Gdy dotarli na miejsce, zobaczyli dom na skraju lasu. Przed domem siedziała starsza kobieta. Obok niej — starszy mężczyzna.
+
+Noemi podeszła bliżej.
+
+— Czy wy jesteście Bazyli i Halina? — zapytała.
+
+Kobieta podniosła wzrok. Przez chwilę patrzyła na Noemi, jakby nie rozumiała. A potem w jej oczach pojawiły się łzy.
+
+— Noemi? — wyszeptała. — Moja córeczko?
+
+Halina wstała. Objęła Noemi. Bazyli dołączył do nich. Przez długą chwilę nikt nie mówił.
+
+— Tak długo cię szukaliśmy — powiedziała Halina. — Ale mgła nie chciała nas przepuścić.
+
+— Wiem — odparła Noemi. — Wiem, że próbowaliście.
+
+— Nie próbowaliśmy tylko raz w roku — powiedział Bazyli. — Próbowaliśmy co tydzień. Co miesiąc. Ale Jadwiga...
+
+Zamilkł.
+
+— Co Jadwiga?
+
+— Powiedziała, że jeśli będziemy przychodzić częściej, zabierze cię na zawsze. Że nie zobaczymy cię już nigdy.
+
+Noemi zamarła.
+
+— Obiecała wam, że będę was widywać raz w roku. Ale nie powiedziała, że to wszystko, na co możecie liczyć.
+
+— Tak — przyznała Halina. — Baliśmy się. Baliśmy się, że ją stracimy.
+
+Noemi milczała. Po raz pierwszy od dawna poczuła gniew. Nie na Grażynę. Na Jadwigę.
+
+— Muszę z nią porozmawiać — powiedziała.
+
+## Rozdział siódmy: Jadwiga
+
+Noemi wróciła do doliny sama.
+
+Mgła rozstąpiła się przed nią, jakby wciąż ją pamiętała. Dom stał tam, gdzie zawsze. A przed domem siedziała Jadwiga.
+
+Stara. Zmęczona. Z warkoczem Noemi na kolanach.
+
+— Wiedziałam, że przyjdziesz — powiedziała.
+
+— Dlaczego? — zapytała Noemi.
+
+— Bo jesteś dobra. Dobrzy zawsze wracają, żeby zrozumieć.
+
+Noemi usiadła obok niej.
+
+— Powiedziałaś moim rodzicom, że jeśli będą przychodzić częściej, zabierzesz mnie na zawsze.
+
+Jadwiga milczała.
+
+— To było kłamstwo — powiedziała w końcu. — Nie mogłabym cię zabrać. Ale bałam się, że mnie zostawisz. Że pójdziesz z nimi i nigdy nie wrócisz.
+
+— Więc mnie okłamałaś.
+
+— Tak.
+
+Noemi patrzyła na nią długo.
+
+— Dlaczego boisz się, że wszyscy cię zostawią?
+
+Jadwiga milczała przez chwilę. A potem zaczęła mówić. O swojej córce. O tym, że kiedyś miała dziecko. Dziewczynkę. Która zmarła na tę samą chorobę, którą Jadwiga umiała leczyć.
+
+— Byłam młoda — wyszeptała. — Nie umiałam jeszcze. Nie wiedziałam, co robić. A ona... odeszła.
+
+Noemi zamarła.
+
+— Dlatego mnie zabrałaś.
+
+— Tak. Myślałam, że jeśli wychowam cię z dala od świata, jeśli nauczę cię wszystkiego, czego nie wiedziałam wtedy... to cię ochronię.
+
+— Ale mnie nie chodziło o ochronę — powiedziała Noemi. — Chodziło o to, żebyś nie była sama.
+
+Jadwiga skinęła głową. Nie zaprzeczyła.
+
+— Nie wybaczę ci od razu — powiedziała Noemi. — Okłamałaś moich rodziców. Okłamałaś mnie. Ale rozumiem cię.
+
+Wstała.
+
+— Chcę, żebyś przyszła na mój ślub. Nie jako matka. Jako ktoś, kto mnie wychował. Kto mnie nauczył, jak słuchać drzew i gwiazd. Kto mnie kochał, nawet jeśli nie umiał tego okazać.
+
+Jadwiga podniosła wzrok.
+
+— Przyjdziesz?
+
+— Przyjdę.
+
+## Zakończenie
+
+Ślub Noemi i Juliana odbył się w wiosce, wśród drzew i śpiewu ptaków. Bazyli i Halina stali obok. Krystyna też przyszła — zdrowa, uśmiechnięta, dumna.
+
+Grażyna stała z boku. Nie jako ochmistrzyni. Jako ktoś, kto uczył się na nowo patrzeć na ludzi.
+
+Jadwiga przyszła. Stała z dala, pod drzewem. Nie podeszła do Noemi od razu. Ale gdy Noemi spojrzała w jej stronę, skinęła głową. I uśmiechnęła się. Po raz pierwszy od bardzo dawna.
+
+Noemi i Julian nie zamieszkali w pałacu. Wrócili do wioski. Noemi chciała być blisko rodziców. Julian przyjeżdżał, kiedy mógł. A gdy nie mógł — pisał listy. Długie, pełne słów, które nie zawsze były łatwe.
+
+Noemi nadal leczyła. Ale nauczyła się pytać. Pytać, czy ktoś naprawdę potrzebuje pomocy. Pytać, czy nie jest wykorzystywana. Pytać siebie, czy to, co robi, wynika z dobroci, czy z potrzeby bycia potrzebną.
+
+Pewnego wieczoru siedziała przed domem. Patrzyła na swoje włosy — długie, jasne, lśniące w świetle księżyca.
+
+Nie były już przekleństwem. Nie były już darem. Były tylko włosami.
+
+Moc nie tkwiła w nich. Moc tkwiła w niej — w jej oczach, które widziały dobro. W jej sercu, które umiało wybaczyć. W jej głowie, która nauczyła się myśleć.
+
+Noemi uśmiechnęła się. A potem wstała i poszła do domu. Julian czekał na nią przy stole. Bazyli i Halina rozmawiali o czymś cicho. A za oknem, w ciemności, świeciły gwiazdy.
+
+I to było wszystko, czego potrzebowała.
+
+## Morał
+
+**Prawdziwe światło nie tkwi w darze, który nosimy.  
+Tkwi w tym, jak go używamy — z mądrością, odwagą i sercem, które umie wybaczyć.**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest Bazyli w tej baśni?
+
+**Answers:**
+- A) Drwal
+- B) Tkacz
+- C) Książę
+- D) Woźny
+
+**Correct:** A
+**Explanation:** Bazyli był drwalem.
+**Text reference:** drwalem
+
+### Question 2
+
+**Question:** Jak nazywa się czarownica?
+
+**Answers:**
+- A) Dagmara
+- B) Jadwiga
+- C) Salomea
+- D) Grażyna
+
+**Correct:** B
+**Explanation:** Kobieta Jadwiga przy lesie.
+**Text reference:** Jadwiga
+
+### Question 3
+
+**Question:** Jaką cenę stawia Jadwiga?
+
+**Answers:**
+- A) Oddają konia
+- B) Oddają dom
+- C) Oddają córkę
+- D) Oddają las
+
+**Correct:** C
+**Explanation:** Jeśli urodzi się córka – oddacie.
+**Text reference:** córkę
+
+### Question 4
+
+**Question:** Jak często mogą odwiedzać dziecko?
+
+**Answers:**
+- A) Nigdy więcej
+- B) Co tydzień
+- C) Co dziesięć lat
+- D) Raz w roku
+
+**Correct:** D
+**Explanation:** Raz w roku w dzień urodzin.
+**Text reference:** roku
+
+### Question 5
+
+**Question:** Jak ma na imię córka?
+
+**Answers:**
+- A) Klara
+- B) Noemi
+- C) Liliana
+- D) Otylia
+
+**Correct:** B
+**Explanation:** Noemi – główna bohaterka.
+**Text reference:** Noemi
+

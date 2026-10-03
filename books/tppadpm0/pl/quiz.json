@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię dziewczynka?",
+      "answers": [
+        "Liliana",
+        "Dagmara",
+        "Klara",
+        "Noemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liliana z długimi włosami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zostaje po mamie?",
+      "answers": [
+        "Złoty pierścionek",
+        "Srebrny grzebień",
+        "Stary zegar",
+        "Czerwona peleryna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Srebrny grzebień."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Dagmara?",
+      "answers": [
+        "Sąsiadka z ogrodu",
+        "Nauczycielka w szkole",
+        "Nowa opiekunka domu",
+        "Kuzynka z miasta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elegancka opiekunka w domu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mama mówiła o prawdzie?",
+      "answers": [
+        "Mówi tylko po łacinie",
+        "Zawsze krzyczy głośno",
+        "Nigdy nie mówi nic",
+        "Mówi czasem szeptem"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prawda mówi czasem szeptem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się tata Liliany?",
+      "answers": [
+        "Michał",
+        "Julian",
+        "Robert",
+        "Marcel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tata Julian."
+    }
+  ]
+}

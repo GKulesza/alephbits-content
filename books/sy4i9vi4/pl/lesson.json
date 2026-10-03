@@ -1,0 +1,115 @@
+{
+  "id": "sy4i9vi4:pl",
+  "bookId": "sy4i9vi4",
+  "locale": "pl",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "legacyPackId": "polish_problem",
+  "legacySlug": "problem",
+  "title": "Problem",
+  "language": "pl",
+  "version": "1.0.0",
+  "editionVersion": "1.0.0",
+  "updated": "2026-10-03",
+  "description": "Stefan Kowalski, dyrektor ds. zakupów w jednej z polskich instytucji publicznych, siedział w swoim gabinecie i patrzył na pustą ścianę.",
+  "author": {
+    "name": "AlephBits Editorial"
+  },
+  "license": {
+    "name": "CC0 1.0 Universal",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "spdx": "CC0-1.0"
+  },
+  "recommendedWritingSystem": "glagolitic",
+  "recommendedProfile": "polish_default",
+  "recommendedLevel": "2",
+  "tags": [
+    "['polish'",
+    "'article'",
+    "'problem']"
+  ],
+  "difficulty": 3,
+  "estimatedReadingTime": 10,
+  "translation": "Problem — Collection Fourteen official reading pack (Polish).",
+  "text": "**PROBLEM**\n\n## PROLOG\n\n_Warszawa, sierpień 2026 roku_\n\nStefan Kowalski, dyrektor ds. zakupów w jednej z polskich instytucji publicznych, siedział w swoim gabinecie i patrzył na pustą ścianę.\n\nGodzina 17:45. Powinien już iść do domu, ale nie mógł. Przed nim leżał raport z ostatniego ćwiczenia kryzysowego. Sytuacja: zamach terrorystyczny w centrum handlowym. Służby zareagowały szybko, ale komunikacja między zespołami się posypała. Policyjne radiostacje nie rozmawiały z systemami ochrony obiektu. Służba medyczna nie wiedziała, gdzie są zgrupowani mundurowi. Straż pożarna nie miała dostępu do planów budynku.\n\nStefan wiedział, że problem leży nie w ludziach, tylko w systemach. Firma A dostarczyła jeden system łączności, firma B – inny, firma C – monitoring. Każdy działał osobno. Nikt nie pomyślał o integracji. A teraz, w sytuacji kryzysowej, cały ten ekosystem technologiczny legł w gruzach.\n\nZadzwonił do swojego współpracownika z innego departamentu.\n\n– Andrzej, znowu to samo. Mamy narzędzia, ale one nie współpracują.\n\n– Wiem – odpowiedział Andrzej. – Rozmawiałem dziś z ludźmi z PPBW. Podobno jest takie coś jak zamówienia przedkomercyjne. Można zamówić badania i rozwój, zanim produkt trafi na rynek.\n\n– I co, kupimy coś, czego jeszcze nie ma?\n\n– Właśnie o to chodzi.\n\nStefan zawahał się. W jego dwudziestoletniej karierze kupował tylko to, co już istniało. Systemy, które były gotowe, przetestowane, sprawdzone. Myśl o zakupie czegoś, czego jeszcze nie ma, wydawała mu się abstrakcyjna. Niemożliwa w polskich realiach. Przeciwna wszystkim procedurom, które znał na pamięć.\n\nA jednak – problemy nie znikały. A jego systemy wciąż nie współpracowały.\n\nSięgnął po telefon. Wybrał numer.\n\n– Dzień dobry, tu Stefan Kowalski. Chciałbym się dowiedzieć czegoś więcej o tych zamówieniach przedkomercyjnych.\n\n## ROZDZIAŁ I: DIAGNOZA\n\n_Spotkanie w Polskiej Platformie Bezpieczeństwa Wewnętrznego, wrzesień 2026_\n\nStefan siedział w sali konferencyjnej razem z kilkoma innymi urzędnikami. Przed nim stała Nina Czyżewska – menadżerka projektów, która przez lata pracowała przy europejskich inicjatywach związanych z bezpieczeństwem i innowacjami.\n\n– Zacznijmy od podstaw – powiedziała Nina. – Zamówienia przedkomercyjne, czyli PCP, to mechanizm, który pozwala zamawiać prace badawczo-rozwojowe. To odpowiedź na sytuację, w której na rynku nie ma gotowego rozwiązania na wasz problem.\n\nStefan podniósł rękę.\n\n– Czyli nie kupujemy produktu, tylko... co? Potencjał?\n\n– Kupujemy przyszłość – odpowiedziała Nina. – Definiujecie problem, a firmy rywalizują, kto zaproponuje najlepsze rozwiązanie. Wybieracie najlepsze pomysły, potem najlepsze prototypy, potem najlepsze rozwiązania przetestowane w rzeczywistych warunkach.\n\n– A jeśli żaden nie spełni oczekiwań?\n\n– To ryzyko rozkłada się po równo. Wy ponosicie część kosztów, firmy część. I nawet jeśli nie przejdą do ostatniego etapu, zdobywają doświadczenie i własność intelektualną. Nie wychodzą z pustymi rękami.\n\nStefan pomyślał o problemie, który go gnębił od lat. O systemach, które nie współpracowały. O tym, że każda nowa technologia była tylko kolejnym klockiem, który nie pasował do reszty.\n\n– A jeśli potrzebujemy czegoś, co musi współpracować z naszymi istniejącymi systemami?\n\n– Możecie to wpisać jako wymóg – odpowiedziała Nina. – Już na etapie definiowania problemu. Mówicie, że rozwiązanie musi być kompatybilne z tym i tym. I to staje się częścią konkursu.\n\nStefan skinął głową. To brzmiało sensownie. Nie kupowali kolejnego systemu – kupowali integrację. Rozwiązanie problemu, a nie kolejne narzędzie.\n\n## ROZDZIAŁ II: PROBLEM\n\n_Październik 2026_\n\nStefan wrócił do swojego biura i zaczął szukać informacji o PCP. Znalazł dokumentację projektu _SHIELD PCP_ – międzynarodowe konsorcjum, w którym uczestniczyły ministerstwa spraw wewnętrznych Francji, Hiszpanii i Słowacji, a także francuska kolej SNCF.\n\nPrzeczytał, że celem projektu jest zapewnienie ochrony w przestrzeni publicznej i sprawnej komunikacji między służbami w sytuacjach kryzysowych. Mieli testować rozwiązania na dwóch stadionach i jednym dworcu kolejowym.\n\n– To dokładnie nasz problem – powiedział do swojego zespołu podczas narady. – Oni chcą zintegrować systemy bezpieczeństwa w wielkich przestrzeniach publicznych. My chcemy to samo, tylko na mniejszą skalę.\n\n– Ale oni są w konsorcjum – zauważyła jedna z jego współpracownic. – Mają czterech zamawiających. My jesteśmy jedną instytucją.\n\n– Nina mówiła, że można działać samodzielnie – odpowiedział Stefan. – Albo dołączyć do już istniejącego projektu.\n\n– Kto poprowadzi proces? Kto napisze dokumentację przetargową?\n\n– My. Albo PPBW. Mają doświadczenie.\n\nZespół spojrzał na niego z niedowierzaniem. Przetarg na coś, czego jeszcze nie ma? To wykraczało poza wszystko, co robili do tej pory.\n\nStefan jednak wiedział, że nie ma odwrotu. Jego instytucja nie mogła już dłużej funkcjonować w systemie, w którym narzędzia nie współpracowały. Musiał znaleźć sposób na zakup integracji – a nie kolejnego odosobnionego systemu.\n\n## ROZDZIAŁ III: DIALOG\n\n_Listopad 2026_\n\nStefan wziął udział w spotkaniu organizowanym przez PPBW. Było to tzw. webinarium informacyjne, na którym eksperci tłumaczyli, jak działa PCP i jakie dokumenty trzeba przygotować, żeby wziąć udział w przetargu.\n\nSłuchał uważnie, robiąc notatki.\n\n– Pierwszy etap to składanie ofert – mówiła prelegentka. – Opisujecie rozwiązanie na papierze. Bez prototypów. Bez gotowego produktu. Tylko koncepcja.\n\n– Co potem? – zapytał ktoś z sali.\n\n– Potem przechodzicie do drugiego etapu, gdzie tworzycie prototypy i testujecie je w laboratorium. A na końcu – testy w środowisku operacyjnym. U prawdziwych użytkowników, w prawdziwych warunkach.\n\nStefan pomyślał o stadionach, o centrach handlowych, o dworcach. O tym, jak wyglądałoby testowanie narzędzi w takich miejscach. Jak wielkie wyzwanie logistyczne to by było.\n\n– Ile firm przechodzi do ostatniego etapu?\n\n– To zależy od projektu. W przypadku SHIELD PCP – dwie. Ale wcześniej było pięć, potem trzy. To proces konkurencyjny. Tylko najlepsi idą dalej.\n\n– A jeśli odpadniemy w połowie?\n\n– Wciąż macie prawo do własności intelektualnej. Możecie dalej rozwijać to, co stworzyliście. I aplikować w kolejnych projektach.\n\nStefan usłyszał coś, co go zaskoczyło. To nie była walka na śmierć i życie. To była szansa na rozwój, nawet jeśli nie wygrało się całego przetargu.\n\nZaczął widzieć w tym nie tylko szansę dla swojej instytucji, ale też dla polskich firm, które mogłyby zdobyć doświadczenie w międzynarodowych projektach.\n\n## ROZDZIAŁ IV: KONSORCJUM\n\n_Grudzień 2026_\n\nStefan spotkał się ponownie z Niną.\n\n– Chcemy dołączyć do projektu – powiedział. – Mamy problemy z integracją systemów bezpieczeństwa. Myślimy, że PCP to dla nas odpowiedź.\n\n– To świetnie – odpowiedziała Nina. – Mamy kilka możliwości. Możecie działać samodzielnie, w ramach polskiego przetargu. Albo dołączyć do jednego z międzynarodowych konsorcjów.\n\n– Co polecasz?\n\n– Zależy od waszych celów. Jeśli chcecie zdobyć doświadczenie i nie martwić się o prawne aspekty – konsorcjum jest lepsze. Ktoś inny prowadzi proces, wy tylko definiujecie potrzeby i testujecie rozwiązania.\n\n– A jeśli chcemy być bardziej niezależni?\n\n– Wtedy samodzielny przetarg. Ale to więcej pracy. Dokumentacja, procedury, negocjacje. PPBW może was wesprzeć, ale to wy będziecie głównym zamawiającym.\n\nStefan zastanowił się. Jego instytucja miała ograniczone zasoby ludzkie. Prowadzenie samodzielnego PCP wymagałoby zaangażowania kilku osób na co najmniej rok. W konsorcjum – mógłby się skupić na merytoryce, a ktoś inny zająłby się procedurami.\n\nZdecydował się na konsorcjum.\n\n## ROZDZIAŁ V: PRZETARG\n\n_Styczeń 2027_\n\nStefan siedział nad dokumentacją przetargową. Była obszerna – kilkadziesiąt stron wymagań technicznych, prawnych i finansowych. Ale nie czuł już takiego strachu jak na początku. Wiedział, czego potrzebuje. I wiedział, że firmy, które wezmą udział w konkursie, będą miały szansę zrozumieć jego problem lepiej niż ktokolwiek dotąd.\n\nW dokumentacji zapisał kilka kluczowych wymogów:\n\n- Rozwiązanie musi współpracować z istniejącymi systemami radiokomunikacji.\n\n- Musi zapewniać wymianę danych w czasie rzeczywistym między służbami.\n\n- Musi być testowane na rzeczywistym obiekcie – w centrum handlowym, na stadionie lub dworcu.\n\nNie opisywał, jak ma wyglądać produkt. Opisywał tylko, co ma robić. Resztę zostawiał dostawcom.\n\n– To uczciwe – powiedział do swojego zespołu. – Dajemy im wolną rękę, żeby zaproponowali najlepsze rozwiązanie. A my wybierzemy to, co najbardziej odpowiada naszym potrzebom.\n\n– A jeśli żadne nie będzie dobre? – zapytał młodszy pracownik.\n\n– To dowiemy się, czego jeszcze brakuje na rynku. I będziemy mogli lepiej sformułować kolejne zapytanie. PCP to proces. Nie jednorazowa transakcja.\n\n## ROZDZIAŁ VI: KONSORCJANCI\n\n_Luty 2027_\n\nPo kilku tygodniach ogłoszenia przetargu pojawiło się kilkanaście zapytań od firm. Niektóre były gotowe działać w pojedynkę. Inne szukały partnerów do konsorcjów.\n\nStefan zorganizował spotkanie matchmakingowe, na którym firmy mogły się poznać i wymienić doświadczeniami.\n\n– Chcemy pomóc wam zbudować konsorcja – powiedział na wstępie. – Wiemy, że rzadko która firma potrafi sama sprostać wszystkim wymaganiom. Łączcie siły. To zwiększy wasze szanse.\n\nPodczas spotkania poznał przedstawicieli małych polskich firm technologicznych, którzy nigdy wcześniej nie brali udziału w tak dużym projekcie. Byli pełni entuzjazmu, ale też niepewności.\n\n– Nie wiemy, czy damy radę – przyznał się jeden z nich. – To duże wyzwanie.\n\n– Macie kilka miesięcy na przygotowanie oferty – odpowiedział Stefan. – Możecie się konsultować, zadawać pytania. I pamiętajcie – nawet jeśli nie wygracie, zdobywacie doświadczenie. Kolejne przetargi będą łatwiejsze.\n\nZobaczył w ich oczach coś, co go zaskoczyło. Determinację.\n\n## ROZDZIAŁ VII: OFERTY\n\n_Marzec 2027_\n\nNadszedł termin składania ofert. Stefan i jego zespół otrzymali osiem kompletnych propozycji. Każda z nich była inna – od zaawansowanych systemów opartych na sztucznej inteligencji, po proste, ale skuteczne rozwiązania komunikacyjne.\n\nPrzez tydzień analizowali każdą ofertę, porównując je pod kątem technicznym i finansowym.\n\n– Ta jest najtańsza, ale ma najsłabszy aspekt integracji – zauważył jeden z członków zespołu.\n\n– A ta jest droższa, ale oferuje modułowość – odpowiedział inny. – Możemy dokupić tylko to, czego potrzebujemy.\n\nStefan słuchał uważnie. Nie chodziło o cenę. Chodziło o to, które rozwiązanie najlepiej odpowiadało na ich problem.\n\n– Zaprośmy trzech najlepszych na rozmowy – zdecydował. – Zobaczmy, jak argumentują swoje propozycje.\n\nW ciągu następnych dwóch tygodni spotkał się z trzema konsorcjami. Każde z nich miało inne podejście, inną filozofię. Ale wszystkie rozumiały jego problem.\n\n– Integracja to klucz – powiedział przedstawiciel jednego z konsorcjów. – Nie sprzedajemy wam systemu. Sprzedajemy wam most między systemami.\n\nStefan uśmiechnął się wewnętrznie. Właśnie to chciał usłyszeć.\n\n## ROZDZIAŁ VIII: DECYZJA\n\n_Kwiecień 2027_\n\nStefan ogłosił wyniki. Do pierwszego etapu PCP zakwalifikowało się pięć konsorcjów. Każde z nich otrzymało budżet na opracowanie koncepcji rozwiązania.\n\n– To dopiero początek – powiedział do swojego zespołu. – Teraz zaczyna się właściwa praca. Będziemy z nimi współpracować przez kilka miesięcy, rozwijać pomysły, testować prototypy.\n\n– A jeśli któryś z nich odpadnie?\n\n– To też część procesu. Konkurs. Tylko najlepsi przejdą do kolejnych etapów.\n\nSpojrzał na kalendarz. Przed nim było jeszcze półtora roku pracy. Testy w laboratoriach, potem w środowisku operacyjnym, potem finalizacja. Długa droga. Ale pierwszy krok został zrobiony.\n\nZadzwonił do Niny.\n\n– Udało się. Mamy pięć konsorcjów.\n\n– Gratuluję – odpowiedziała. – To dopiero początek, ale już jesteście na dobrej drodze.\n\n– Wiem. I wiem, że to była dobra decyzja.\n\n– Cieszę się, że to słyszę. Powodzenia.\n\nRozłączył się. Spojrzał na pustą ścianę w swoim gabinecie. Przez chwilę zastanawiał się, co przyniesie przyszłość. Ale nie czuł już niepokoju. Czuł, że w końcu zrobił coś, co miało sens.\n\nProblem, który przez lata spędzał mu sen z powiek, w końcu miał szansę zostać rozwiązany.\n\nNie przez gotowy produkt. Nie przez kolejny system. Przez proces, który pozwolił mu kupić przyszłość, której jeszcze nie było.\n\n## EPILOG\n\n_Warszawa, lipiec 2028 roku_\n\nStefan stał na dworcu kolejowym w Paryżu, obserwując testy końcowego rozwiązania. System łączności działał płynnie. Służby wymieniały się danymi w czasie rzeczywistym. Komunikacja między zespołami była bezbłędna.\n\nPrzy nim stała Nina Czyżewska.\n\n– Patrz – powiedziała. – To wasze rozwiązanie. Z waszego konsorcjum.\n\nStefan skinął głową. Przez ostatnie dwa lata jego instytucja była częścią europejskiego projektu SHIELD PCP. Wspólnie z francuską koleją, hiszpańskim MSW i słowackimi służbami przetestowali system, który łączył komunikację radiową, monitoring i systemy alarmowe w jedną spójną całość.\n\n– Kiedyś myślałem, że to niemożliwe – powiedział. – Że nie da się kupić czegoś, czego jeszcze nie ma.\n\n– A jednak się dało – odpowiedziała Nina. – Wystarczyło zdefiniować problem, a nie rozwiązanie. I pozwolić firmom znaleźć własną drogę.\n\nStefan spojrzał na ekran, na którym wyświetlały się dane z różnych systemów. Wszystko działało.\n\n– Wracamy do Polski – powiedział. – I zaczynamy własny proces. Na mniejszą skalę, ale z tym samym podejściem.\n\n– Jesteście gotowi?\n\n– Jesteśmy.\n\n## POSŁOWIE\n\nZamówienia przedkomercyjne to narzędzie, które w Polsce wciąż jest mało znane. A szkoda, bo daje instytucjom publicznym możliwość zakupu czegoś, co na rynku jeszcze nie istnieje – a czego bardzo potrzebują.\n\nNie chodzi o kupowanie gotowych produktów. Chodzi o kupowanie rozwiązań problemów. O to, żeby firmy nie sprzedawały tego, co mają, tylko tworzyły to, czego potrzebują.\n\nDla dostawców technologii to szansa na pracę z prawdziwymi użytkownikami końcowymi. Na dostosowanie rozwiązań do realnych potrzeb. Na zdobycie doświadczenia, które procentuje w kolejnych projektach.\n\nDla instytucji publicznych to sposób na ucieczkę z pułapki kupowania kolejnych systemów, które nie współpracują ze sobą. Na zbudowanie ekosystemu, który działa, zamiast zbioru narzędzi, które stoją obok siebie.\n\nA dla Polski – to szansa, żeby być częścią europejskiego wyścigu innowacji. Żeby nie czekać, aż ktoś inny rozwiąże nasze problemy. Żeby samemu definiować, czego potrzebujemy.\n\nBo czasem najlepszym sposobem na kupienie przyszłości jest zamówienie jej, zanim jeszcze powstanie.",
+  "quiz": {
+    "title": "Sprawdź zrozumienie",
+    "generatedBy": "compile_pack",
+    "generatedFrom": "reading-pack.md",
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "Kim jest Stefan w prologu?",
+        "answers": [
+          "Dyrektor ds. zakupów",
+          "Komendant policji",
+          "Minister finansów",
+          "Lekarz na sorze miejskim"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dyrektor ds. zakupów w instytucji."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co posypało się w ćwiczeniu?",
+        "answers": [
+          "Komunikacja między służbami",
+          "Brak mundurów w terenie",
+          "Awaria wozów pożarniczych",
+          "Zalanie centrum handlu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Radiostacje nie rozmawiały z ochroną."
+      },
+      {
+        "type": "single_choice",
+        "question": "Kto to Nina Czyżewska?",
+        "answers": [
+          "Lekarka na sorze",
+          "Szefowa policji",
+          "Menadżerka projektów",
+          "Dziennikarka z Onetu"
+        ],
+        "correctIndex": 2,
+        "explanation": "Menadżerka projektów przy europejskich."
+      },
+      {
+        "type": "single_choice",
+        "question": "Co Stefan słyszy o PPBW?",
+        "answers": [
+          "Zamówienia przedkomercyjne",
+          "Gotowe produkty wojskowe",
+          "Zamknięte przetargi państw",
+          "Import bez procedur cel"
+        ],
+        "correctIndex": 3,
+        "explanation": "Można zamówić badania przed rynkiem."
+      },
+      {
+        "type": "single_choice",
+        "question": "Gdzie rozgrywa się prolog?",
+        "answers": [
+          "Warszawa, sierpień 2026",
+          "Kraków, lato 2011 roku",
+          "Gdańsk, wiosna 2020 roku",
+          "Poznań, jesień 2024 roku"
+        ],
+        "correctIndex": 1,
+        "explanation": "Warszawa, sierpień 2026 roku."
+      }
+    ]
+  },
+  "coverFamily": "article",
+  "audience": "adult",
+  "trustClassification": "fiction",
+  "editorialHistory": {
+    "firstPublished": "2026-10-03",
+    "lastEditorialUpdate": "Editor"
+  },
+  "inspirationDates": [
+    "2026-07-16"
+  ],
+  "inspiredBy": {
+    "youtube": "jGu2zQ_V5EY"
+  }
+}

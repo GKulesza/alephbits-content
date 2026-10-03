@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię bohaterka?",
+      "answers": [
+        "Otylia",
+        "Helena",
+        "Liliana",
+        "Kornelia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia z ciemnymi lokami."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co kupują na deptaku?",
+      "answers": [
+        "Lody w rogu",
+        "Pudełka-niespod",
+        "Balony z helem",
+        "Mapy nad morzem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Puchate kluseczki w pudełkach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile pudełek kupuje tata?",
+      "answers": [
+        "Pięć pudełek",
+        "Jedno pudełko",
+        "Dwa pudełka",
+        "Żadnego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tata kupił jej dwa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki kolor ma pierwsza kluseczka?",
+      "answers": [
+        "Czarna",
+        "Niebieska",
+        "Zielona",
+        "Różowa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mięciutka, różowa kluseczka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie rodzina jest na wakacjach?",
+      "answers": [
+        "W górach",
+        "Nad morzem",
+        "Na pustyni",
+        "W stolicy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rodzice zabrali ją nad morze."
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+# Antek i Gips, Który Uczył Cierpliwości
+
+## Metadata
+
+**Pack ID:** emqm0wff
+**Book ID:** emqm0wff
+**Legacy Pack ID:** polish_antek_i_gips_ktory_uczyl_cierpliwosci
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Antek i Gips, Który Uczył Cierpliwości  
+**Subtitle:** *(none)*  
+**Blurb:** W pewnym miasteczku, tam gdzie zima nie bawiła się w półśrodki, a jezioro co roku zamieniało się w wielkie, lśniące lodowisko, mieszkał chłopiec o imieniu Antek.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fourteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Antek i Gips, Który Uczył Cierpliwości — Collection Fourteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'antek-i-gips-ktory-uczyl-cierpliwosci']  
+
+**Keywords:** Antek i Gips, Który Uczył Cierpliwości, Collection Fourteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Collection Fourteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['city']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fourteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fourteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fourteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=LAtUORyr72s  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-01-16  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/14 CollectionFourteen.md.
+
+---
+
+## Text
+
+**ANTEK I GIPS, KTÓRY UCZYŁ CIERPLIWOŚCI**
+
+## Wstęp
+
+W pewnym miasteczku, tam gdzie zima nie bawiła się w półśrodki, a jezioro co roku zamieniało się w wielkie, lśniące lodowisko, mieszkał chłopiec o imieniu **Antek**.
+
+Antek miał dziesięć lat i jedną cechę, która definiowała go lepiej niż kolor włosów czy ulubiona potrawa. Był **niecierpliwy**.
+
+Nie chodzi o to, że czasem nie mógł doczekać się urodzin. Antek nie mógł doczekać się **wszystkiego**. Jeśli światło na przejściu było czerwone, Antek już wzdychał. Jeśli gra się ładowała, Antek liczył sekundy na głos. Jeśli ktoś mówił: „Zaraz", Antek słyszał: „Nigdy".
+
+Jego przyjaciele z podwórka — **Kornelia**, **Bartosz**, **Lidia** i **Fabian** — żartowali, że Antek urodził się pół godziny za wcześnie i od tamtej pory próbuje nadrobić czas.
+
+Kornelia była spokojna. Zawsze. Nawet gdy świat się walił. Bo kiedyś sama złamała rękę. Wiedziała, co to znaczy czekać.
+
+Bartosz był żartownisiem. Ale w środku bał się, że Antek — jego najlepszy przyjaciel — już nigdy nie będzie taki sam. Że pośpiech ich rozdzieli.
+
+Lidia była wsparciem. Zawsze wiedziała, co powiedzieć. Ale sama bała się, że jej słowa to za mało.
+
+Fabian był najmłodszy. I najbardziej nieufny. Bał się, że Antek przestanie się z nim bawić, bo będzie zajęty swoim gipsem.
+
+— Antek, zwolnij! — wołała Kornelia, gdy biegł przez podwórko.
+
+— Nie mogę! — odkrzykiwał Antek. — Czas ucieka!
+
+I właśnie dlatego ta historia nie mogła wydarzyć się w bibliotece. Ani na ławce. Ani w kolejce po lody.
+
+Ta historia musiała wydarzyć się na lodowisku.
+
+## Rozdział pierwszy: Lód
+
+Był mroźny styczniowy poranek. Jezioro zamarzło tak mocno, że mieszkańcy miasteczka zrobili z niego wielkie lodowisko. Antek, Kornelia, Bartosz, Lidia i Fabian poszli tam razem.
+
+— Najpierw zakładamy łyżwy — powiedziała Kornelia. — Potem wchodzimy na lód.
+
+Antek słyszał tylko: „Wchodzimy na lód".
+
+Jedna łyżwa była zawiązana. Druga — prawie.
+
+— Antek, jeszcze sznurówki! — zawołał Bartosz.
+
+— Już są! — odpowiedział Antek, choć nie były.
+
+Pierwszy krok. Drugi krok. Trzeci krok.
+
+**Bach!**
+
+Antek zobaczył gwiazdy. Potem sufit nieba. Potem twarz Kornelii, bardzo spokojną.
+
+— Oddychaj — powiedziała.
+
+— Ja oddycham szybko! — jęknął Antek.
+
+Leżąc na lodzie, Antek pomyślał: „To miało być szybkie". Ale lód nie lubił pośpiechu. Lód lubił równowagę.
+
+— Widzisz — powiedział Bartosz, podając mu rękę. — Nie wszystko da się przyspieszyć.
+
+Antek nie odpowiedział. Bo ręka bolała. Bardzo.
+
+## Rozdział drugi: Gips
+
+W szpitalu zegar tykał wolniej niż gdziekolwiek indziej na świecie.
+
+— Proszę chwilkę poczekać — powiedziała pielęgniarka.
+
+— A to jest ile sekund? — zapytał Antek.
+
+Nikt nie odpowiedział. Pielęgniarka tylko uśmiechnęła się i podała mu czasopismo. Antek westchnął.
+
+Gips był ciężki. Biały. Absolutnie niewzruszony.
+
+— Rusz się — szepnął Antek.
+
+Gips nie ruszył się ani trochę.
+
+— On mnie ignoruje — powiedział Antek.
+
+— Bo on uczy — odpowiedziała Kornelia. Usiadła obok niego. — Ja też miałam gips. Dwa lata temu. Złamałam rękę na tym samym lodowisku.
+
+Antek spojrzał na nią.
+
+— Naprawdę?
+
+— Naprawdę. I wiem, co czujesz. Że chcesz wszystko przyspieszyć. Ale nie możesz. I to jest najgorsze.
+
+Antek milczał. Po raz pierwszy poczuł, że ktoś go rozumie.
+
+Przyjaciele przynieśli puzzle. Tysiąc elementów.
+
+— Tysiąc? — Antek złapał się za głowę.
+
+— Tysiąc — powiedział Bartosz. — Ale możemy układać razem.
+
+Pierwszy element. Drugi. Trzeci.
+
+Antek układał. Powoli. Coraz wolniej. Aż w końcu przestał liczyć elementy. Przestał liczyć sekundy. Po prostu układał.
+
+— Ej — powiedział zdziwiony. — Ja zapomniałem się spieszyć.
+
+Kornelia uśmiechnęła się.
+
+— Wiem. Też tak miałam.
+
+— I co zrobiłaś?
+
+— Nic. Po prostu układałam. Aż skończyłam. I poczułam, że to było... fajne.
+
+Antek spojrzał na puzzle. Zostało jeszcze dziewięćset. Ale to nie miało znaczenia. Ważne było to, że już nie bolało.
+
+## Rozdział trzeci: Dzień, w którym Antek był wściekły
+
+Był dzień, kiedy Antek był wściekły. Na gips. Na czas. Na wszystko.
+
+— Nie chcę się uczyć czekania! — krzyknął.
+
+Przyjaciele nie śmiali się.
+
+— My jesteśmy — powiedziała Lidia. — I to wystarczy.
+
+— A jeśli już nigdy nie będę szybki? — zapytał Antek cicho. — Jeśli już nigdy nie wygram wyścigu? Jeśli zostanę z tyłu?
+
+Bartosz usiadł obok niego.
+
+— Antek — powiedział. — Ja się boję czegoś innego. Boję się, że przestaniesz się ze mną bawić. Że będziesz zajęty swoim gipsem. Że już nie będziemy tak jak kiedyś.
+
+Antek spojrzał na niego.
+
+— Nigdy bym tego nie zrobił.
+
+— Wiem. Ale ja się bałem.
+
+Fabian przytulił się do Antka.
+
+— A ja się bałem, że mnie zostawisz. Bo jestem mały. I nie umiem jeszcze jeździć na łyżwach.
+
+— Nie zostawię cię — powiedział Antek. — Nigdy.
+
+I wtedy zrozumiał, że nie tylko on się boi. Wszyscy się boją. Każdy czegoś.
+
+— Może cierpliwość to nie czekanie — powiedział cicho. — Może to rozumienie, że inni też czekają. Na coś. Na kogoś.
+
+Lidia skinęła głową.
+
+— To trudniejsze niż bieganie.
+
+— I ważniejsze — dodał Bartosz.
+
+## Rozdział czwarty: Zdjęcie gipsu
+
+Nadszedł dzień zdejmowania gipsu.
+
+Antek siedział na krześle w gabinecie. Przed nim stał lekarz z małym, świecącym urządzeniem. Obok czekała Kornelia, Bartosz, Lidia i Fabian.
+
+— Gotowy? — zapytał lekarz.
+
+Antek wziął głęboki oddech. Spojrzał na gips, który przez ostatnie tygodnie był jego przyjacielem i wrogiem jednocześnie.
+
+— Tak. Ale spokojnie.
+
+**Klak. Klik.**
+
+Gips zaczął wydawać dziwne dźwięki. Antek patrzył, jak białe opony kruszą się pod ostrzem.
+
+— Ojej, to jak mini koncert — mruknął.
+
+— Koncert cierpliwości! — zawołał Bartosz.
+
+— Nie śmiej się — jęknął Antek, choć uśmiech sam wpełzł mu na twarz.
+
+Gips zaczął się kruszyć w kawałki, jakby sam chciał uciec.
+
+— Patrzcie! — krzyknął Antek. — Wygląda jak świeży śnieg.
+
+Kornelia podeszła bliżej.
+
+— Możesz go potrzymać, zanim wrzucimy do kosza.
+
+— Serio?
+
+Antek wziął kawałek gipsu i potrząsnął nim w dłoni.
+
+— Czuję się jak naukowiec eksperymentujący z materiałami nierealistycznymi.
+
+— Uważaj, żeby nie wystrzelił w powietrze! — zażartował Fabian.
+
+— Ha! — odpowiedział Antek. — To mój ostatni kontakt z tym gipsowym przyjacielem.
+
+W końcu cały gips został zdjęty. Antek potrząsnął ręką. Rozciągnął palce.
+
+— Wow — powiedział, patrząc na swoją wolną rękę. — Dałem radę. Bez pośpiechu.
+
+Przyjaciele klasnęli. Antek poczuł się jak bohater w kreskówce.
+
+— Superbohater gipsu pokonany! — krzyknął Bartosz.
+
+— I w dodatku nauczyłeś się cierpliwości — dodała Lidia.
+
+Antek przewrócił oczami, ale w środku uśmiechał się szeroko.
+
+— Może cierpliwość wcale nie jest taka straszna.
+
+## Rozdział piąty: Powrót na lód
+
+Nadszedł wyczekiwany dzień. Powrót na lodowisko.
+
+Antek stanął na lodzie. Wolną ręką łapał równowagę.
+
+— Gotowy? — zapytała Kornelia.
+
+— Gotowy! — odpowiedział Antek, choć w środku dudniło mu serce.
+
+Pierwszy krok był powolny. Drugi krok — jeszcze wolniejszy. Trzeci.
+
+— Hej, to działa! — wykrzyknął.
+
+Przyjaciele wiwatowali. Antek poczuł dumę jak nigdy.
+
+— Spokojnie, Antek — przypomniała Lidia. — Pamiętaj o równowadze.
+
+— Równowaga to nie tylko na lodzie — mruknął Antek, patrząc na swój plan dnia. — Chyba też w życiu.
+
+— A teraz wyścig! — zawołał Fabian.
+
+Antek początkowo chciał ruszyć jak torpeda.
+
+— Stop! — krzyknęła Kornelia. — Pamiętasz lekcje cierpliwości?
+
+Antek uśmiechnął się szeroko. Ruszył powoli. I nagle zrozumiał coś niesamowitego.
+
+— Można wygrać, nawet nie spiesząc się — stwierdził, gdy dotarł na metę obok przyjaciół.
+
+Potem spróbował trudniejszego ruchu. Upadł.
+
+— I co? — zapytał Bartosz.
+
+Antek wstał.
+
+— Nic. Wstałem.
+
+Przyjaciele zaczęli klaskać.
+
+A wtedy Antek usłyszał coś, czego się nie spodziewał.
+
+— Ale z ciebie niezdara! — zawołał chłopiec z boku. Stał z grupką innych dzieci. Śmiali się.
+
+Antek poczuł, że coś go boli. Nie ręka. Coś w środku.
+
+— Może — powiedział cicho. — Ale się uczę.
+
+Chłopiec przestał się śmiać. Spojrzał na Antka. A potem odwrócił wzrok.
+
+Antek ruszył dalej. Powoli. Ale do przodu.
+
+## Rozdział szósty: Pomocnik
+
+Antek zauważył, że cierpliwość to nie tylko umiejętność czekania. To także pomaganie innym.
+
+— Patrz — powiedział Bartosz. — Młodszy chłopiec boi się wejść na lód.
+
+Antek podszedł. Chłopiec miał może sześć lat. Drżał.
+
+— Chcesz? Pokażę ci, jak powoli i spokojnie.
+
+— Boję się — wyszeptał chłopiec.
+
+— Ja też się bałem — powiedział Antek. — Dalej się boję. Ale spróbuj. Powoli.
+
+Chłopiec skinął głową. Antek wziął go za rękę. Weszli na lód. Razem.
+
+— Widzisz? — powiedział Antek. — Można.
+
+Chłopiec uśmiechnął się. Po raz pierwszy od dawna.
+
+— Dzięki — powiedział.
+
+Antek poczuł dumę i radość jak nigdy wcześniej.
+
+— Nigdy nie myślałem, że to powiem — śmiał się — ale wolniej jest okej.
+
+Przyjaciele zorganizowali bitwę na śnieżki. Ale tym razem Antek nie rzucał od razu.
+
+— Najpierw patrzę. Potem planuję. I rzucam celnie.
+
+Śmiech rozbrzmiewał po lodowisku. Antek nauczył się, że powolne może być też zabawne.
+
+## Zakończenie
+
+Minęła zima.
+
+Antek nadal był szybki. Nadal biegał. Nadal się spieszył. Ale już nie uciekał przed czasem.
+
+Czasem szedł obok niego. I to była największa zmiana.
+
+Pewnego wieczoru Antek siedział z przyjaciółmi na podłodze. Jedli kanapki. Pili herbatę. Rozmawiali o wszystkim i o niczym.
+
+Dołączył do nich młodszy chłopiec. Ten, którego Antek uczył jeździć.
+
+— Dzięki, że mnie nauczyłeś — powiedział. — Już się nie boję.
+
+Antek uśmiechnął się.
+
+— Ja też się już nie boję — powiedział. — Przynajmniej nie tak bardzo.
+
+— Za co jesteśmy wdzięczni? — zapytała Kornelia.
+
+Antek odpowiedział po chwili:
+
+— Za przyjaciół. I za to, że nauczyłem się czekać bez krzyku.
+
+A potem dodał:
+
+— I za to, że czasem można wygrać, nawet nie spiesząc się.
+
+Przyjaciele uśmiechnęli się.
+
+Antek położył się spać. Spojrzał na sufit.
+
+— Dobranoc, czasie — wyszeptał. — Idziemy razem. Ale powoli.
+
+I zasnął.
+
+**Niecierpliwość to energia.  
+Cierpliwość to kierunek.  
+A prawdziwa przygoda to połączenie obu —  
+i odwaga, by czasem zwolnić.**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Ile lat ma Antek?
+
+**Answers:**
+- A) Dziesięć lat
+- B) Osiem lat
+- C) Dwanaście lat
+- D) Siedem lat
+
+**Correct:** A
+**Explanation:** Antek miał dziesięć lat.
+**Text reference:** dziesięć
+
+### Question 2
+
+**Question:** Jaka cecha definiuje Antka?
+
+**Answers:**
+- A) Strach przed wodą
+- B) Niecierpliwość
+- C) Nienawiść do zimy
+- D) Lęk przed psami
+
+**Correct:** B
+**Explanation:** Był niecierpliwy.
+**Text reference:** niecierpliwy
+
+### Question 3
+
+**Question:** Co zamienia jezioro zimą?
+
+**Answers:**
+- A) Park wodny
+- B) Pustynię
+- C) Lodowisko
+- D) Boisko piłkarskie
+
+**Correct:** C
+**Explanation:** Jezioro zamienia się w lodowisko.
+**Text reference:** lodowisko
+
+### Question 4
+
+**Question:** Kto jest spokojny w grupie?
+
+**Answers:**
+- A) Spokojna Kornelia
+- B) Spokojny Fabian
+- C) Spokojny Bartosz
+- D) Spokojna Lidia
+
+**Correct:** D
+**Explanation:** Kornelia była spokojna.
+**Text reference:** Kornelia
+
+### Question 5
+
+**Question:** Co słyszy, gdy ktoś mówi zaraz?
+
+**Answers:**
+- A) Zawsze
+- B) Nigdy
+- C) Może
+- D) Jutro
+
+**Correct:** B
+**Explanation:** Słyszał: Nigdy.
+**Text reference:** Nigdy
+

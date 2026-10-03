@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię chłopiec?",
+      "answers": [
+        "Szymon",
+        "Miłosz",
+        "Fabian",
+        "Daniel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Szymon, dziewięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się sklep pani Zofii?",
+      "answers": [
+        "Biedronka",
+        "Sklep Pani Zofii",
+        "Pod Dzwonkiem",
+        "Pod Słonecznikiem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sklep Pani Zofii."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieci dostają za zakupy?",
+      "answers": [
+        "Cukierki gratis",
+        "Złote monety",
+        "Kolorowe",
+        "Bilety do kina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kolorowe naklejki za zakupy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Na co wymieniają naklejki?",
+      "answers": [
+        "Na Sposobika",
+        "Na rower dziecięcy",
+        "Na książkę z sklepu",
+        "Na grę planszową"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wymieniają na Sposobika."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co pachnie w sklepie?",
+      "answers": [
+        "Tytoniem i drewnem",
+        "Wanilią i",
+        "Rybą i solą",
+        "Benzyną i metalem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pachniał wanilią i książkami."
+    }
+  ]
+}

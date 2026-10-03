@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię główna bohaterka?",
+      "answers": [
+        "Lindsey Shiver",
+        "Shannan Gilbert",
+        "Magda Bosek",
+        "Nina Czyżewska"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lindsey Shiver."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jakie dwa słowa wysyła na WhatsApp?",
+      "answers": [
+        "Help me / Ratuj mnie",
+        "Kill him / Zabij go",
+        "Call police / Dzwonić",
+        "Leave now / Uciekaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kill him. Zabij go."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie często bywa Lindsey?",
+      "answers": [
+        "Chata w Bieszczadach",
+        "Mieszkanie w Tokio",
+        "Dom wakacyjny na",
+        "Jacht na Bałtyku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wakacyjny dom na Bahamach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Do jakiego aresztu trafia?",
+      "answers": [
+        "Montel w Paryżu",
+        "Rikers w Nowym Jorku",
+        "Brixton w Londynie",
+        "Fox Hill na Bahamach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Areszt Fox Hill."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak zaczyna się prolog policyjny?",
+      "answers": [
+        "Warszawa, lipiec 2026",
+        "Thomasville, Georgia",
+        "Dothan, Alabama 1986",
+        "Poznań, wtorek 2011"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thomasville, Georgia, lipiec 2023."
+    }
+  ]
+}

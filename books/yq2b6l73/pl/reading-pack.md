@@ -1,0 +1,577 @@
+# Sposobik i Skarb, Który Nosimy w Kieszeni
+
+## Metadata
+
+**Pack ID:** yq2b6l73
+**Book ID:** yq2b6l73
+**Legacy Pack ID:** polish_sposobik_i_skarb_ktory_nosimy_w_kieszeni
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Sposobik i Skarb, Który Nosimy w Kieszeni  
+**Subtitle:** *(none)*  
+**Blurb:** W pewnym mieście, tam gdzie ulice pachniały świeżym pieczywem, a parki szumiały liśćmi przez całe lato, mieszkał chłopiec o imieniu Szymon.
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Fifteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 11 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Sposobik i Skarb, Który Nosimy w Kieszeni — Collection Fifteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'sposobik-i-skarb-ktory-nosimy-w-kieszeni']  
+
+**Keywords:** Sposobik i Skarb, Który Nosimy w Kieszeni, Collection Fifteen  
+
+**Cover family:** fairy_tale
+
+**Editorial notes:** Collection Fifteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['shop']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fifteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fifteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fifteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=hqi6PaHh9mQ  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-09-06  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/15 CollectionFifteen.md.
+
+---
+
+## Text
+
+**SPOSOBIK I SKARB, KTÓRY NOSIMY W KIESZENI**
+
+## Wstęp
+
+W pewnym mieście, tam gdzie ulice pachniały świeżym pieczywem, a parki szumiały liśćmi przez całe lato, mieszkał chłopiec o imieniu **Szymon**.
+
+Szymon miał dziewięć lat, włosy koloru kasztanów i kieszenie zawsze pełne skarbów: kamyków, sznurków, gumek, a czasem nawet starej baterii, która „mogła się jeszcze przydać".
+
+Rodzice Szymona — mama **Katarzyna** i tata **Michał** — często się śmiali, że ich syn jest jak sroka. Wszystko znosi do domu. Wszystko chowa. Bo wszystko może się kiedyś przydać.
+
+Ale w domu Szymona był jeszcze jeden skarb. Sklep **Pani Zofii**.
+
+To nie był zwykły sklep. Pachniał wanilią i starymi książkami. Na półkach stały słoiki z landrynkami, a za ladą — wielka księga, do której pani Zofia wpisywała coś, co nazywała „historiami klientów".
+
+Za każde zakupy dzieci dostawały kolorowe naklejki. A gdy uzbierały odpowiednią liczbę — mogły wymienić je na **Sposobika**.
+
+Sposobiki nie były zwykłymi maskotkami. Były małe, okrągłe, z wielkimi uszami i paskiem narzędziowym wokół brzucha. Każdy miał inny charakter. Jeden był cichy. Drugi — głośny. Trzeci — wiecznie głodny.
+
+Ale najważniejsze było to, że Sposobiki **ożywały**. Ale tylko dla tego, kto je wybrał. Tylko dla tego, kto naprawdę ich potrzebował.
+
+## Rozdział pierwszy: Naklejki
+
+Szymon zbierał naklejki od trzech miesięcy.
+
+Przyklejał je do specjalnego albumu. Czerwone, niebieskie, żółte, zielone. Każda miała inny kształt. Każda była krokiem do celu.
+
+Mama dawała mu swoje naklejki, gdy wracał ze sklepu. Tata też. Babcia **Halina** — najbardziej. Zawsze wsuwała mu je do kieszeni, gdy myślała, że nie patrzy.
+
+— Babciu, to oszustwo — śmiał się Szymon.
+
+— To nie oszustwo — odpowiadała babcia. — To inwestycja w twoją przyszłość.
+
+Szymon liczył naklejki codziennie. Przeliczał. Sprawdzał. Liczył jeszcze raz. A gdy brakowało jednej — sprawdzał album po raz trzeci.
+
+W końcu nadszedł ten dzień.
+
+— Szymon! — zawołała mama. — Mam dla ciebie ostatnią naklejkę. Idziemy do pani Zofii.
+
+Szymon zerwał się z łóżka tak szybko, że aż poduszka spadła na podłogę.
+
+## Rozdział drugi: Wybór
+
+Sklep pani Zofii pachniał tak samo jak zawsze. Wanilią. Starymi książkami. I czymś jeszcze — czymś, co Szymon nazywał „zapachem przygody".
+
+Pani Zofia stała za ladą. Miała siwe włosy spięte w kok i oczy, które widziały więcej niż inne.
+
+— Szymonie — powiedziała, zanim zdążył otworzyć usta. — Wiedziałam, że dziś przyjdziesz.
+
+— Skąd pani wiedziała?
+
+— Bo naklejki same mi powiedziały.
+
+Szymon roześmiał się. Pani Zofia zawsze tak mówiła. A jednak zawsze miała rację.
+
+Poprowadziła go do półki, na której stały Sposobiki. Było ich tak wiele. Każdy wyglądał inaczej.
+
+Szymon patrzył na nie długo. Za długo.
+
+— Nie możesz się zdecydować — zauważyła pani Zofia.
+
+— Nie.
+
+— To dobrze. To znaczy, że myślisz.
+
+Szymon przesuwał wzrokiem po półce. Aż nagle zobaczył jego.
+
+Mały, okrągły Sposobik. Brązowy, z wielkimi uszami i paskiem narzędziowym wokół brzucha. Na pasku wisiały: mały klucz, mały śrubokręt i mała latarka. Miał oczy szeroko otwarte i uśmiech, który mówił: „No nareszcie".
+
+Szymon wziął go do ręki. Był mięciutki. Ciepły. Jakby ktoś właśnie go przytulał.
+
+— Ciebie wybieram — powiedział cicho.
+
+I wtedy coś się stało.
+
+Sposobik drgnął.
+
+Szymon aż podskoczył.
+
+— No nareszcie — powiedział Sposobik. — Myślałem, że wybierzesz tamtego w gwiazdki. Wyglądał, jakby chciał być gwiazdą.
+
+Szymon zamarł.
+
+— Ty... mówisz?
+
+— Oczywiście, że mówię. Jestem Sposobikiem. Nazywam się **Sprycik**.
+
+— Sprycik?
+
+— Bo zawsze znajdę sposób. Na wszystko.
+
+Szymon rozejrzał się. Mama i tata stali przy kasie. Rozmawiali z panią Zofią. Nie słyszeli nic.
+
+— Tylko ty mnie słyszysz — wyjaśnił Sprycik.
+
+— To... dziwne.
+
+— Dziwne to jest wtedy, gdy ktoś ma Sposobika i go nie słucha. Wtedy Sposobik jest tylko pluszakiem. A ja nie chcę być tylko pluszakiem.
+
+Szymon uśmiechnął się.
+
+— Ja też nie.
+
+Pani Zofia podeszła do nich. Spojrzała na Szymona, potem na Sprycika.
+
+— Wiesz — powiedziała cicho — ja też kiedyś miałam Sposobika. Dawno temu, gdy byłam w twoim wieku. Nazywał się **Pomysłek**. Był trochę podobny do tego twojego. Też miał pasek narzędziowy. I też zawsze znajdował sposób.
+
+— Co się z nim stało? — zapytał Szymon.
+
+— Dorosłam. A gdy dorosłam, Pomysłek przestał mówić. Ale został. Na półce. Czasem na niego patrzę i myślę, że wciąż mi podpowiada. Tylko już nie słowami. Czynami.
+
+Szymon spojrzał na Sprycika.
+
+— To znaczy, że on też przestanie mówić?
+
+— Może. Kiedyś. Ale to nie znaczy, że przestanie być. Sposobiki nie znikają. Po prostu zmieniają sposób, w jaki mówią.
+
+## Rozdział trzeci: Bałagan
+
+Po powrocie do domu Szymon postawił Sprycika na biurku.
+
+Sprycik rozejrzał się. Jego wielkie uszy drgnęły.
+
+— Oho — powiedział. — Mamy problem.
+
+— Jaki problem?
+
+— Spójrz na to biurko.
+
+Szymon spojrzał. Na biurku leżały: zeszyty, kredki, książki, okruszki po ciastkach, gumka do mazania, trzy kamyki, sznurek i stara bateria.
+
+— To nie problem — powiedział Szymon. — To moje skarby.
+
+— Skarby? — Sprycik uniósł brew. — A dlaczego gumka jest w piórniku, a klocek leży na książce?
+
+— Bo... bo może się przydać.
+
+— Klasyczny przypadek — westchnął Sprycik. — Bałagan zwany „Przyda się".
+
+— Co to znaczy?
+
+— To taki stan, kiedy człowiek wkłada różne rzeczy do różnych miejsc, bo wydaje mu się, że kiedyś mogą się przydać. A potem nie może znaleźć niczego, gdy naprawdę tego potrzebuje.
+
+Szymon milczał. Bo Sprycik miał rację. Wczoraj szukał gumki przez pół godziny.
+
+— Co mam zrobić? — zapytał.
+
+— Nie wszystko na raz — powiedział Sprycik. — Najpierw zobacz, co masz. Potem wybierz, co zostawić, a co oddać. I ułóż to tak, żebyś wiedział, gdzie co jest.
+
+Szymon zaczął porządkować. Kredki wrzucił do kubka. Książki ustawił na półce. Kamyki włożył do pudełka. Sznurek — do szuflady. Baterię — do pojemnika na zużyte baterie.
+
+Po godzinie biurko wyglądało inaczej. Czyściej. Spokojniej.
+
+— No proszę — powiedział Sprycik. — Widzisz? Zaradność to nie tylko robienie czegoś. To też wiedza, gdzie to coś jest.
+
+Szymon uśmiechnął się.
+
+— To było łatwe.
+
+— Bo zacząłeś. Najtrudniejszy jest pierwszy krok. Zawsze.
+
+## Rozdział czwarty: Trudne zadanie
+
+Nazajutrz Szymon wrócił ze szkoły z ponurą miną.
+
+— Co się stało? — zapytał Sprycik.
+
+— Pani **Justyna** zadała nam projekt. O kosmosie. Trzeba zrobić plakat, napisać tekst i przygotować prezentację. Mam na to tydzień.
+
+— I co? — Sprycik przekrzywił głowę. — To brzmi jak coś, co można zrobić.
+
+— Nie można! — Szymon rzucił plecak na podłogę. — To za dużo. Nie umiem. Nie wiem od czego zacząć. Nigdy tego nie zrobię.
+
+Sprycik milczał przez chwilę. A potem powiedział cicho:
+
+— Wiesz, co robi się, kiedy coś jest trudne?
+
+— Odpoczywa? — mruknął Szymon.
+
+— Czasami. — Sprycik podszedł bliżej. — Prosi o pomoc?
+
+— Nie chcę prosić o pomoc. To znaczy, że jestem słaby.
+
+— Nie. To znaczy, że jesteś mądry.
+
+Szymon spojrzał na niego.
+
+— Posłuchaj — powiedział Sprycik. — Ja mam w pasku klucz, śrubokręt i latarkę. Ale nie umiem ich użyć, jeśli nie wiem, do czego. Ty masz mamę, tatę, panią Justynę i kolegów. To twoje narzędzia. Jeśli ich nie użyjesz, będziesz sam. A samemu jest trudniej.
+
+Szymon milczał.
+
+— Poproś mamę o pomoc w researchu — zaproponował Sprycik. — Poproś tatę o pomoc w drukowaniu. Zapytaj pani Justyny, czy dobrze rozumiesz temat. To nie słabość. To strategia.
+
+Szymon wziął głęboki oddech.
+
+— Dobra — powiedział. — Spróbuję.
+
+## Rozdział piąty: Pomoc
+
+Szymon poszedł do mamy.
+
+— Mamo, potrzebuję pomocy w projekcie o kosmosie.
+
+Mama spojrzała na niego zaskoczona. Zwykle Szymon nie prosił o pomoc. Zwykle mówił: „Poradzę sobie sam".
+
+— Oczywiście, kochanie — powiedziała. — Co mogę zrobić?
+
+— Możesz mi pomóc znaleźć informacje o planetach?
+
+— Jasne.
+
+Poszedł do taty.
+
+— Tato, możesz mi pomóc wydrukować zdjęcia?
+
+— Pewnie. Kiedy?
+
+— Może w sobotę?
+
+— W sobotę. Będzie zrobione.
+
+Poszedł do pani Justyny.
+
+— Proszę pani, czy ja dobrze rozumiem, że mam napisać o jednej planecie, czy o całym układzie?
+
+Pani Justyna uśmiechnęła się.
+
+— O jednej planecie. Wybierz tę, która cię najbardziej interesuje.
+
+Szymon wybrał Jowisza. Bo był największy. Bo miał burze. Bo był... no właśnie. Bo był interesujący.
+
+Tydzień później plakat był gotowy. Szymon stał przed klasą i mówił o Jowiszu. Mówił o jego pasach. O jego księżycach. O burzy, która jest większa niż Ziemia.
+
+Klasa słuchała. Pani Justyna kiwała głową.
+
+A gdy skończył, rozległy się brawa.
+
+Szymon wrócił do domu zmęczony, ale szczęśliwy.
+
+— Udało się — powiedział do Sprycika.
+
+— Wiem — odparł Sprycik. — Widziałem.
+
+— Jak to widziałeś? Byłeś w plecaku.
+
+— Sposobiki widzą więcej, niż myślisz.
+
+Szymon roześmiał się. A potem usiadł na łóżku.
+
+— Wiesz co? — powiedział. — Myślałem, że zaradność to robienie wszystkiego samemu. A to nieprawda.
+
+— Nieprawda — zgodził się Sprycik.
+
+— Zaradność to wiedza, kiedy zrobić samemu, a kiedy poprosić o pomoc.
+
+— I kiedy odłożyć coś na później — dodał Sprycik. — I kiedy odpuścić. I kiedy zacząć od nowa.
+
+Szymon spojrzał na niego.
+
+— Jesteś mądry.
+
+— Jestem Sposobikiem. To moja praca.
+
+## Rozdział szósty: Oskar
+
+Pewnego dnia w szkole Szymon zauważył coś, czego wcześniej nie widział.
+
+**Oskar** siedział sam na ławce pod ścianą. Nie jadł śniadania. Nie rozmawiał z nikim. Patrzył w okno.
+
+Szymon znał Oskara. Kiedyś grali razem w piłkę. Ale od jakiegoś czasu Oskar był cichy. Smutny. Inny.
+
+— Co mu jest? — zapytał Szymon Sprycika, gdy wrócił do domu.
+
+— Nie wiem — odparł Sprycik. — Ale widzę, że cię to martwi.
+
+— Trochę.
+
+— To dobrze.
+
+— Dlaczego dobrze?
+
+— Bo martwienie się o kogoś to pierwszy krok do zrobienia czegoś.
+
+Szymon milczał.
+
+— Chcesz mu pomóc? — zapytał Sprycik.
+
+— Nie wiem jak.
+
+— Czasem nie trzeba wiedzieć jak. Trzeba po prostu być.
+
+## Rozdział siódmy: Naklejki
+
+Minęło lato. Szymon nadal zbierał naklejki. Ale nie dla siebie.
+
+Zbierał je dla Oskara.
+
+Oskar miał trudny rok. Jego rodzice się rozwiedli. Tata wyprowadził się do innego miasta. Mama pracowała od rana do nocy. Oskar często był sam.
+
+Pewnego dnia Szymon przyniósł mu naklejki.
+
+Ale zanim je oddał, zatrzymał się.
+
+Trzymał je w dłoni. Czuł ich ciężar. Wiedział, ile ich jest. Wiedział, ile ich brakuje. Wiedział, że jeśli je odda, to on sam nigdy nie będzie miał drugiego Sposobika.
+
+A może będzie chciał. Może kiedyś. Może za rok. Może za dwa.
+
+Zawahał się.
+
+— Spryciku — powiedział cicho. — Jeśli mu je dam, to już nigdy nie będę miał drugiego.
+
+Sprycik spojrzał na niego.
+
+— Masz mnie — powiedział. — A on nie ma nikogo.
+
+Szymon milczał długo. A potem skinął głową.
+
+Podszedł do Oskara.
+
+— Masz — powiedział. — Może teraz starczy ci na Sposobika.
+
+Oskar spojrzał na niego.
+
+— Dlaczego mi je dajesz?
+
+— Bo sam ich nie potrzebuję. Mam Sprycika. A ty nie masz nikogo.
+
+Oskar wziął naklejki. Milczał długo. A potem powiedział cicho:
+
+— Dzięki.
+
+Szymon wrócił do domu. Sprycik siedział na biurku.
+
+— Wiem, co zrobiłeś — powiedział.
+
+— Wiem, że wiesz.
+
+— Dlaczego mu je dałeś?
+
+Szymon pomyślał chwilę.
+
+— Bo zaradność to nie tylko branie. To też dawanie. I wiedza, że komuś innemu może być trudniej.
+
+Sprycik uśmiechnął się. Po raz pierwszy od dawna — naprawdę szeroko.
+
+— Wiesz co? — powiedział. — Myślę, że już mnie nie potrzebujesz.
+
+Szymon zamarł.
+
+— Co?
+
+— Nie mówię, że mam zniknąć. Mówię, że umiesz już myśleć sam. Umiesz prosić o pomoc. Umiesz dawać. Umiesz być zaradny.
+
+Szymon przytulił Sprycika.
+
+— Nie chcę, żebyś znikał.
+
+— Nie zniknę. Będę siedział na biurku. I patrzył. I czasem mówił coś głupiego, żebyś się uśmiechnął.
+
+Szymon roześmiał się.
+
+A potem usiadł na łóżku i spojrzał na biurko. Było czyste. Uporządkowane.
+
+— Wiesz co, Spryciku? — powiedział. — Babcia miała rację.
+
+— W czym?
+
+— Powiedziała mi kiedyś: „Zaradność to nie wszystko robić samemu". Wtedy nie rozumiałem. A teraz rozumiem.
+
+— I co to znaczy? — zapytał Sprycik.
+
+— To znaczy, że trzeba wiedzieć, kiedy zrobić samemu, kiedy poprosić o pomoc, a kiedy dać coś komuś, kto potrzebuje tego bardziej.
+
+Sprycik kiwnął głową.
+
+— Twoja babcia jest mądra.
+
+— Wiem.
+
+## Zakończenie
+
+Wiele tygodni później Szymon wrócił ze szkoły i zobaczył, że na biurku leży mały kamyk. Ten sam, który kiedyś schował do pudełka.
+
+Obok kamyka stał Sprycik.
+
+— Co to? — zapytał Szymon.
+
+— To twój skarb — powiedział Sprycik. — Znalazłem go w pudełku. Pomyślałem, że może chcesz go zatrzymać.
+
+Szymon wziął kamyk do ręki. Był zwykły. Szary. Nie lśnił. Nie był magiczny.
+
+Ale Szymon go lubił.
+
+— Wiesz co? — powiedział. — Chyba go zatrzymam.
+
+— Dlaczego?
+
+— Bo przypomina mi, że nie wszystko musi być schowane. Nie wszystko musi być „na później". Czasem wystarczy po prostu wiedzieć, że jest.
+
+Szymon położył kamyk na parapecie. Odsunął się. Spojrzał na niego.
+
+A potem uśmiechnął się.
+
+Na zewnątrz świeciło słońce. Oskar szedł właśnie przez podwórko. Machnął do Szymona. Szymon machnął z powrotem.
+
+I wtedy zrozumiał, że to jest właśnie to. Ten moment. Ten kamyk. Ten uśmiech.
+
+Nie trzeba nic więcej.
+
+## Morał
+
+**Zaradność to nie wszystko robić samemu.  
+To wiedzieć, kiedy zrobić samemu, kiedy poprosić o pomoc,  
+a kiedy dać coś komuś, kto potrzebuje tego bardziej.**
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak ma na imię chłopiec?
+
+**Answers:**
+- A) Szymon
+- B) Miłosz
+- C) Fabian
+- D) Daniel
+
+**Correct:** A
+**Explanation:** Szymon, dziewięć lat.
+**Text reference:** Szymon
+
+### Question 2
+
+**Question:** Jak nazywa się sklep pani Zofii?
+
+**Answers:**
+- A) Biedronka
+- B) Sklep Pani Zofii
+- C) Pod Dzwonkiem
+- D) Pod Słonecznikiem
+
+**Correct:** B
+**Explanation:** Sklep Pani Zofii.
+**Text reference:** Zofii
+
+### Question 3
+
+**Question:** Co dzieci dostają za zakupy?
+
+**Answers:**
+- A) Cukierki gratis
+- B) Złote monety
+- C) Kolorowe
+- D) Bilety do kina
+
+**Correct:** C
+**Explanation:** Kolorowe naklejki za zakupy.
+**Text reference:** naklejki
+
+### Question 4
+
+**Question:** Na co wymieniają naklejki?
+
+**Answers:**
+- A) Na Sposobika
+- B) Na rower dziecięcy
+- C) Na książkę z sklepu
+- D) Na grę planszową
+
+**Correct:** D
+**Explanation:** Wymieniają na Sposobika.
+**Text reference:** Sposobika
+
+### Question 5
+
+**Question:** Co pachnie w sklepie?
+
+**Answers:**
+- A) Tytoniem i drewnem
+- B) Wanilią i
+- C) Rybą i solą
+- D) Benzyną i metalem
+
+**Correct:** B
+**Explanation:** Pachniał wanilią i książkami.
+**Text reference:** wanilią
+

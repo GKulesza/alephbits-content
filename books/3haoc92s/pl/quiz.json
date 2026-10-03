@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak ma na imię dziewczynka?",
+      "answers": [
+        "Kornelia z wioski",
+        "Helena z miasta",
+        "Liliana z lasu",
+        "Pola z sąsiedztwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kornelia, dziewięć lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto uszył czerwoną pelerynę?",
+      "answers": [
+        "Mama Halina",
+        "Babcia Salomea",
+        "Ciocia Iwona",
+        "Sąsiadka Zofia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Babcia Salomea uszyła pelerynę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mama prosi przy drodze?",
+      "answers": [
+        "Śpiewać głośno",
+        "Biec do lasu",
+        "Nie zbaczać ze",
+        "Zbierać grzyby"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nie zbaczaj ze ścieżki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co niesie Kornelia babci?",
+      "answers": [
+        "Koc i poduszkę",
+        "Wiaderko wody",
+        "Stary zegar",
+        "Koszyk z"
+      ],
+      "correctIndex": 3,
+      "explanation": "Koszyk: bułki, miód, zioła."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mówi babcia o czerwieni?",
+      "answers": [
+        "To magiczne zaklęcie",
+        "To przypomnienie wyboru",
+        "To znak wilka",
+        "To straż przed deszczem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czerwony to przypomnienie wyboru."
+    }
+  ]
+}

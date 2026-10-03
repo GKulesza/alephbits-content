@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywają się skarpetki?",
+      "answers": [
+        "Lewa i prawa",
+        "Góra i dół",
+        "Mała i duża",
+        "Niebieska i czerwona"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lewa i prawa w gwiazdki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto nosi skarpetki?",
+      "answers": [
+        "Tymek",
+        "Antek",
+        "Bartek",
+        "Miłosz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antek nosi je na zmianę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co znika w pralce?",
+      "answers": [
+        "Obie naraz",
+        "Lewa skarpetka",
+        "Prawa skarpetka",
+        "Cały kosz na pranie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prawa zniknęła po praniu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki refren je prowadzi?",
+      "answers": [
+        "Kto je, ten rośnie",
+        "Kto śpi, ten śni",
+        "Kto biega, ten pada",
+        "Kto szuka, ten"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kto szuka, ten znajdzie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie idzie lewa skarpetka?",
+      "answers": [
+        "Do szkolnej szafy",
+        "Tunel za pralką",
+        "Na strych domu",
+        "Pod podłogę kuchni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tunel między pralką a ścianą."
+    }
+  ]
+}

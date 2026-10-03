@@ -1,0 +1,381 @@
+# Zabij go
+
+## Metadata
+
+**Pack ID:** 1a0wqxkn
+**Book ID:** 1a0wqxkn
+**Legacy Pack ID:** polish_zabij_go
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Zabij go  
+**Subtitle:** *(none)*  
+**Blurb:** Słońce stało wysoko nad luksusową rezydencją, kiedy przed domem zatrzymał się radiowóz. Funkcjonariusze wysiedli, poprawili pasy i ruszyli w stronę wejścia. Na pierwszy rzut oka to miała być zwykła interwencja domowa. Kolejna kłótnia mał…
+
+**Genres:** ['article']  
+**Series:** Collection Fourteen  
+**Audience:** adult
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 12 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Zabij go — Collection Fourteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'article', 'zabij-go']  
+
+**Keywords:** Zabij go, Collection Fourteen  
+
+**Cover family:** article
+
+**Editorial notes:** Collection Fourteen — Polish original; balanced quizzes; import 2026-10-03.
+
+---
+
+**World:**
+{'places': ['city']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-03  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Fourteen import — Polish only; quiz answers length-balanced.
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-03 | Collection Fourteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-03 | AlephBits Editorial | Normalized manuscript; light copy-edit; quizzes with similar answer lengths. |
+
+---
+
+## Sources
+
+### Source 1: Collection Fourteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=pEwSlgSeID4  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-07-20  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/14 CollectionFourteen.md.
+
+---
+
+## Text
+
+**ZABIJ GO**
+
+## PROLOG
+
+_Thomasville, Georgia, 16 lipca 2023 roku_
+
+Słońce stało wysoko nad luksusową rezydencją, kiedy przed domem zatrzymał się radiowóz. Funkcjonariusze wysiedli, poprawili pasy i ruszyli w stronę wejścia. Na pierwszy rzut oka to miała być zwykła interwencja domowa. Kolejna kłótnia małżeńska w bogatej dzielnicy. Nic, czego by już nie widzieli.
+
+Ale to nagranie z kamer policyjnych miało stać się jednym z kluczowych elementów sprawy, która wstrząsnęła opinią publiczną. I choć wtedy nikt jeszcze o tym nie wiedział, ta interwencja była zaledwie początkiem czegoś znacznie większego.
+
+Kobieta w eleganckiej sukience stała przed domem, wyraźnie zdenerwowana. Za nią, w otwartych drzwiach garażu, widać było mężczyznę pakującego walizki do samochodu.
+
+– Co się dzieje? – zapytał policjant.
+
+– Złożyliśmy pozew o rozwód – odpowiedziała. – Mieszkamy w tym samym domu. To piekło na ziemi.
+
+Nikt nie przypuszczał, że ta historia – która zaczynała się jak kolejny odcinek sagi o rozpadzie bogatego małżeństwa – wciągnie w swoje sidła płatnego zabójcę, barmana z Bahamów i kobietę, która jedną wiadomością tekstową zniszczyła własne życie.
+
+A wszystko zaczęło się od dwóch słów: _"Zabij go."_
+
+## ROZDZIAŁ I: AMERYKAŃSKI SEN
+
+_Dothan, Alabama, 28 października 1986 roku_
+
+Lindsey Shiver urodziła się w rodzinie, która miała wszystko. Ojciec prowadził dobrze prosperujący biznes transportowy, matka zajmowała się domem i działalnością charytatywną. Dorastała z dwoma braćmi w luksusie i bezpieczeństwie, uczęszczała do prywatnych szkół, brała udział w konkursach piękności.
+
+Jako nastolatka zdobyła tytuł Miss Houston. Dwa lata później zajęła drugie miejsce w prestiżowym konkursie National Penal Festival. Wszyscy wokół mówili, że ma przed sobą świetlaną przyszłość. Nie zawodziła – ukończyła studia z zakresu edukacji wczesnoszkolnej, a potem zdobyła dyplom z marketingu.
+
+Była piękna, inteligentna i ambitna. A potem poznała Roberta Shivera.
+
+On był od niej dwa lata starszy, przystojny, wysportowany. Grał w futbol na Uniwersytecie Auburn, a jego ojciec przez ponad czterdzieści lat był dyrektorem generalnym firmy nieruchomości wycenianej na pięć miliardów dolarów. To było małżeństwo z bajki.
+
+Pobrali się w 2010 roku i wkrótce przeprowadzili do ogromnej rezydencji w Thomasville w Georgii. Dom miał siedem sypialni i był wyceniany na ponad dwa i pół miliona dolarów. Doczekali się trzech synów: Graysona, Landona i Reta.
+
+Na pierwszy rzut oka ich życie wyglądało jak spełnienie amerykańskiego snu. Często podróżowali, jeździli drogimi samochodami, latali prywatnym samolotem. Byli właścicielami posiadłości w ekskluzywnym ośrodku golfowym Bakers Bay na Bahamach – tam, gdzie sąsiadami mieli Michaela Jacksona i Justina Timberlake'a.
+
+Lindsey chętnie dzieliła się tym luksusowym życiem w mediach społecznościowych. Zdjęcia z wakacji, eleganckich wyjazdów i rodzinnych spotkań pokazywały życie pełne wygód – szczęśliwe, beztroskie, doskonałe.
+
+Ale ten idealny obraz miał swoją cenę.
+
+## ROZDZIAŁ II: PIERWSZE RYSY
+
+_Bakers Bay, Bahamy, 2022 rok_
+
+Lindsey coraz częściej wyjeżdżała do wakacyjnego domu na Bahamach. Początkowo Robert nie widział w tym nic dziwnego – w końcu to był ich ulubiony kierunek rodzinnych wyjazdów. Ale z czasem coś zaczęło mu przeszkadzać.
+
+Jego żona zmieniła się. Była bardziej roztargniona, częściej ukrywała telefon, unikała jego wzroku. Kiedy pytał, co się dzieje, odpowiadała wymijająco.
+
+W końcu Robert wynajął prywatnego detektywa.
+
+Wkrótce potwierdziły się jego najgorsze podejrzenia. Lindsey spotykała się z jednym z pracowników miejscowego baru – dwudziestoośmioletnim Terence'em Betelem, który był od niej o osiem lat młodszy. Ich znajomość przerodziła się w romans.
+
+Bliscy Lindsey od dawna podejrzewali, że jest znudzona małżeństwem. Robert dawał jej stabilne, wygodne życie, ale Lindsey pragnęła emocji, przygód, nowych wrażeń. Terence był dokładnie tym, czego szukała – młody, beztroski, zupełnie inny niż jej stateczny mąż.
+
+Kiedy Robert zdobył konkretne dowody, postanowił działać.
+
+5 kwietnia 2023 roku złożył pozew rozwodowy. W dokumentach jako główny powód wskazał cudzołóstwo i domagał się całkowitej opieki nad dziećmi, wyłącznego korzystania z domu oraz zatrzymania całego majątku.
+
+Lindsey odpowiedziała następnego dnia. Jej pozew był równie ostry. Oskarżyła Roberta o przemoc psychiczną i fizyczną, twierdziła, że czuła się w domu zagrożona. Przyznała, że miała romans, ale zapewniała, że związek ten rozpoczął się dopiero wtedy, gdy ich małżeństwo już faktycznie przestało istnieć.
+
+Rozpoczęła się burzliwa batalia rozwodowa. Spór dotyczył dosłownie wszystkiego – dzieci, majątku, pieniędzy. I mimo że oboje złożyli pozwy, nadal mieszkali pod jednym dachem.
+
+To miało doprowadzić do katastrofy.
+
+## ROZDZIAŁ III: DZIEŃ, W KTÓRYM WSZYSTKO SIĘ ZMIENIŁO
+
+_Thomasville, Georgia, 16 lipca 2023 roku_
+
+Tego ranka Robert zaplanował wyjazd na Bahamy razem z synami. Mieli polecieć prywatnym samolotem do ich rodzinnego domu na wyspie. Kiedy Lindsey dowiedziała się o planach, powiedziała, że też chce lecieć.
+
+Nie chodziło jednak o wspólne wakacje. Lindsey przyznała otwarcie, że chce polecieć na Bahamy, żeby spotkać się ze swoim chłopakiem.
+
+Doszło do ostrej kłótni.
+
+Robert nie zgadzał się na to, żeby jego żona wykorzystywała prywatny samolot, którego był współwłaścicielem, do spotkania z kochankiem. Lindsey upierała się, że ma do tego prawo.
+
+Konflikt eskalował do tego stopnia, że Lindsey chwyciła za telefon i wybrała numer alarmowy.
+
+Kiedy policjanci pojawili się przed domem, Lindsey czekała już na nich na podjeździe. Kamery policyjne zarejestrowały całe zdarzenie.
+
+– Co się dzieje? – zapytał funkcjonariusz.
+
+– Złożyliśmy pozew o rozwód – odpowiedziała. – Mieszkamy w tym samym domu. To piekło na ziemi. Dziś rano obudziłam się i on nagle postanowił, że nie mogę jechać na wakacje. Odsunął mnie, żeby dostać się do mojego samochodu. Zaczął wyjmować walizki.
+
+– Użył wobec ciebie przemocy?
+
+– Nie, poza tym, że mnie odepchnął.
+
+Funkcjonariusze rozmawiali także z Robertem. Jego wersja wydarzeń była zupełnie inna.
+
+– Lindsey od trzech tygodni planowała wyjazd do Key West, żeby spotkać się z chłopakiem – wyjaśniał. – Ja chciałem zabrać dzieci na Bahamy. Wczoraj zmieniła plany i powiedziała, że poleci z nami, a po przylocie pójdzie do swojego chłopaka. Powiedziałem, że się na to nie zgadzam. To może namieszać dzieciom w głowach.
+
+Funkcjonariusze próbowali załagodzić sytuację. Powiedzieli obojgu, że jeśli złożyli pozew rozwodowy, to nie powinni razem jechać na wakacje. Podkreślili, że nie ma dowodów na to, by doszło do przemocy.
+
+– Jeśli chcecie jakiegokolwiek rozstrzygnięcia, musicie mieć dowody – tłumaczyła policjantka. – Nagranie z monitoringu, zeznania świadków. Tymczasem to słowo przeciwko słowu.
+
+Ostatecznie Robert wsiadł do samolotu razem z dziećmi. Lindsey dotarła na Bahamy później, najprawdopodobniej zwykłym lotem. I choć mogłoby się wydawać, że to już koniec emocji, że sprawa zakończy się w miarę spokojnie, los miał zupełnie inny plan.
+
+Tego samego dnia Lindsey wysłała wiadomość, która zmieniła wszystko.
+
+## ROZDZIAŁ IV: WIADOMOŚĆ
+
+_Bahamy, 16 lipca 2023 roku_
+
+Tego samego dnia, w którym doszło do kłótni i policyjnej interwencji, Lindsey wysłała na WhatsAppie wiadomość na grupę, której członkami byli Terence Betel i Feron Newbold.
+
+Do wiadomości dołączyła zdjęcie. Przedstawiało Roberta stojącego przy barze z nieznajomą kobietą. Nie było widać niczego kompromitującego – po prostu dwóch ludzi rozmawiających. Ale Lindsey napisała pod nim tylko dwa słowa:
+
+_Kill him._
+
+_Zabij go._
+
+Kilka dni później, w nocy z 19 na 20 lipca, doszło do włamania do baru Grabers Bar and Grill na wyspie Great Guana. To właśnie tam pracował Terence. Sprawcy przecięli kable zasilające, wyłączyli generator, unieruchomili kamery monitoringu. Ich celem był sejf. Zniknęły pieniądze.
+
+Dla policji było jasne, że to nie był przypadkowy napad. Ktoś wiedział, gdzie są kamery, jak je wyłączyć, gdzie znajduje się sejf. Ktoś doskonale znał funkcjonowanie tego miejsca.
+
+Podejrzenia padły na Terence'a.
+
+Podczas przesłuchania policjanci zabezpieczyli jego telefon. Analizując rozmowy na WhatsAppie, trafili na wiadomości, które nie miały nic wspólnego z włamaniem. Odkryli grupę, na której Lindsey pisała o zabiciu męża.
+
+W czwartek 20 lipca 2023 roku, w toku śledztwa w sprawie włamania do baru, śledczy wykonali nakaz przeszukania telefonu. Ujawniono wiadomości zawierające opis spisku mającego na celu zabicie trzydziestoośmioletniego mieszkańca jednej z prywatnych willi w ekskluzywnym ośrodku golfowym.
+
+Feron Newbold, dwudziestodziewięcioletni syn miejscowego polityka, na co dzień spokojny, poukładany człowiek, nagle został opisany jako płatny zabójca.
+
+Cała trójka została aresztowana.
+
+## ROZDZIAŁ V: ARESZTOWANIE
+
+_Nassau, Bahamy, 21 lipca 2023 roku_
+
+Lindsey trafiła do aresztu śledczego Fox Hill – największego i najbardziej znanego więzienia na Bahamach. Placówka od lat krytykowana jest przez organizacje praw człowieka za przeludnienie, wysokie temperatury w celach i ograniczony dostęp do opieki medycznej. Sekcja kobiet, do której trafiła, uchodzi za nieco lepiej utrzymaną, ale warunki wciąż były dalekie od standardów znanych ze Stanów Zjednoczonych.
+
+Spędziła tam dziewiętnaście dni. Jak później relacjonowała, nie pozwolono jej nawet zmienić ubrania. Przez cały ten czas miała na ręce bransoletkę wartą sześć tysięcy dolarów – nikt w więzieniu nie potrafił jej zdjąć.
+
+Podczas przesłuchań Lindsey odpowiadała na pytania niemal wyłącznie "bez komentarza". Przy kolejnym spotkaniu przyznała, że wysłała tę wiadomość, ale twierdziła, że nie mówiła poważnie. Była zdenerwowana, sfrustrowana po kłótni z mężem. To był wybuch emocji, nie rzeczywisty zamiar.
+
+Terence i Feron również utrzymywali swoją niewinność. Terence przyznawał, że czuł złość wobec Roberta, szczególnie kiedy Lindsey opowiadała mu o rzekomej przemocy, ale zapewniał, że nigdy nie byłby zdolny skrzywdzić drugiego człowieka.
+
+– Planować jego morderstwo? – mówił podczas przesłuchania. – No nie.
+
+Jednak prawo na Bahamach różni się od amerykańskiego. W Stanach Zjednoczonych, żeby udowodnić spisek, potrzebne są dwa elementy: zgoda na popełnienie przestępstwa i konkretny krok wskazujący, że plan jest w toku. Na Bahamach wystarczy sama zgoda.
+
+Spisek w celu popełnienia morderstwa traktowany jest niemal tak samo jak samo morderstwo. Jeśli zostaną uznani za winnych, grozi im kara od trzydziestu do sześćdziesięciu lat więzienia, a w niektórych przypadkach nawet dożywocie.
+
+Kluczowe pytanie brzmiało: czy sama wiadomość "Kill him" dołączona do zdjęcia potencjalnej ofiary wystarczy, by uznać ich za winnych?
+
+Odpowiedź okazała się znacznie bardziej skomplikowana, niż ktokolwiek przypuszczał.
+
+## ROZDZIAŁ VI: WOLNOŚĆ I NOWE PROBLEMY
+
+*2023-2025*
+
+Podejrzanym pozwolono czekać na proces na wolności. Terence i Feron szybko uzyskali możliwość wyjścia z aresztu za kaucją w wysokości dwudziestu tysięcy dolarów. Musieli nosić elektroniczne opaski i regularnie meldować się służbom.
+
+Sytuacja Lindsey była trudniejsza. Jej kaucję ustalono na sto tysięcy dolarów. Początkowo nie była w stanie jej wpłacić – nie miała na Bahamach stałego miejsca zamieszkania. Dom na wyspie należał do rodziny Roberta. Z pomocą przyszli rodzice – wynajęli dla niej mieszkanie i zebrali potrzebną gotówkę.
+
+Warunki jej zwolnienia były znacznie bardziej restrykcyjne. Kobieta nie mogła opuszczać Bahamów, musiała nosić elektroniczną opaskę, miała godzinę policyjną od 20:00 do 5:00 rano. Nie mogła kontaktować się z Robertem ani z dziećmi bez zgody służb. Nie mogła także wypowiadać się w mediach na temat swojej sprawy.
+
+9 sierpnia 2023 roku Lindsey oficjalnie opuściła areszt.
+
+Nie trwało długo, zanim pojawiły się kolejne problemy. W mieszkaniu, w którym przebywała, doszło do włamania. Nie wiadomo, kto za tym stał, ale Lindsey wykorzystała to w sądzie, argumentując, że nie czuje się bezpiecznie na Bahamach.
+
+Ostatecznie sąd zgodził się zmienić warunki kaucji. Lindsey otrzymała pozwolenie na powrót do Stanów Zjednoczonych, gdzie mogła czekać na proces w domu rodziców w Alabamie. Nadal jednak musiała nosić elektroniczną opaskę.
+
+Po powrocie do Alabamy rozpoczęła nowy związek z Dorsetem Laffem. Szybko okazało się, że to nie była dobra decyzja. W sierpniu 2024 roku złożyła wniosek o nakaz ochrony, twierdząc, że nowy partner zaatakował ją w domu rodziców. Według jej relacji popchnął ją na łóżko, zaczął dusić i grozić pozbawieniem życia.
+
+Tymczasem Robert ułożył sobie życie z nową partnerką – Savaną Chrisley, amerykańską osobowością telewizyjną i influencerką. Ich związek rozpoczął się w listopadzie 2023 roku, kiedy Savannah napisała do Roberta wiadomość na Instagramie, gdy głośno było w mediach o spisku na jego życie. Związek zakończył się po niespełna dwóch latach.
+
+## ROZDZIAŁ VII: UPADEK
+
+_Październik 2024 roku_
+
+Jesienią 2024 roku Lindsey i Terence złamali jeden z warunków zwolnienia – nie wolno im było publicznie komentować postępowania. Tymczasem oboje udzielili głośnych wywiadów telewizyjnych.
+
+Sąd na Bahamach zareagował natychmiast. Lindsey została aresztowana i cofnięto jej zwolnienie za kaucją. Sędzia uznał, że takie działanie podważa powagę postępowania, a jej wystąpienie przed kamerami może być odebrane jako "plucie w twarz sprawiedliwości".
+
+W uzasadnieniu decyzji padły mocne słowa:
+
+_"Pozwana, paradując w niebieskiej letniej sukience w popularnej telewizji śniadaniowej, wypowiadała się bezpośrednio na temat dowodów w procesie. Sąd nie akceptuje tak rażącego lekceważenia prawa Bahamów."_
+
+Na jaw wyszło również złamanie kolejnych warunków – Lindsey zmieniła adres bez zgody sądu, opuszczając dom rodziców po incydencie z nowym partnerem. Jej opaska GPS potwierdziła, że przebywała w miejscach, w których nie powinna się znajdować.
+
+Ale prawdziwy szok nadszedł na początku 2025 roku. Kiedy sąd ponownie zgodził się na jej zwolnienie, Lindsey zaskoczyła wszystkich. Zwróciła się z wnioskiem o zdjęcie elektronicznej opaski, którą nazywała "żenującą". Twierdziła, że urządzenie powoduje dyskomfort, otarcia i problemy ze snem. Argumentowała, że opaska utrudnia jej rozwój kariery jako influencerki. Widoczne urządzenie na kostce mocno ją ograniczało.
+
+Sędzia odmówił.
+
+## EPILOG
+
+_Marzec 2026 roku_
+
+Proces w sprawie spisku dotyczącego morderstwa Roberta Shivera był wielokrotnie przekładany. Początkowo planowany na 2024 rok, potem przesunięty na 2025, według ostatnich publicznych informacji miał odbyć się w marcu 2026 roku.
+
+W chwili przygotowania tego opracowania w mediach nie pojawiły się żadne nowe informacje dotyczące przebiegu procesu ani jego rozstrzygnięcia. Postępowanie ponownie zostało odroczone.
+
+Do dziś cała trójka utrzymuje, że wszystko zostało wyolbrzymione. Twierdzą, że media przesadziły z interpretacją wydarzeń, a oni sami nigdy nie mieli rzeczywistego zamiaru skrzywdzenia Roberta.
+
+Ale jedno zdanie – dwa słowa napisane w gniewie – zmieniło życie czworga ludzi, trojga dzieci i całej rodziny. I choć do prawdziwego morderstwa nigdy nie doszło, konsekwencje tej jednej wiadomości będą ciągnąć się latami.
+
+Czy Lindsey Shiver rzeczywiście chciała śmierci swojego męża? Czy to był tylko wybuch gniewu, absurdalny żart, czy coś znacznie poważniejszego? Tego być może nigdy nie poznamy.
+
+Ale jedno jest pewne: w erze mediów społecznościowych, prywatnych detektywów i wszechobecnych wiadomości tekstowych, nasze słowa mogą mieć większą moc, niż kiedykolwiek sobie wyobrażamy. Mogą zniszczyć nie tylko nas samych, ale także wszystko, co kochamy.
+
+A czasem – nawet jeśli nie chcemy – mogą zabić.
+
+## POSŁOWIE
+
+Historia Lindsey Shiver to opowieść o tym, jak życie z pozoru idealne może runąć w ciągu kilku chwil. O tym, jak gniew, frustracja i poczucie krzywdy mogą popchnąć człowieka do rzeczy, których nigdy nie powinien zrobić.
+
+To także historia o systemie prawnym, który różni się w zależności od kraju – i o tym, że to, co w jednym miejscu jest żartem, w innym może być powodem do wieloletniego więzienia.
+
+Ale przede wszystkim to historia o słowach. O tym, że słowa mają moc. Że mogą budować, mogą ranić, a czasem – nawet jeśli nie chcemy – mogą zabić.
+
+I choć Lindsey Shiver nigdy nie wcieliła swoich gróźb w czyn, to jedno zdanie, jedna wiadomość tekstowa, dwa słowa – "Zabij go" – wystarczyły, by zniszczyć jej życie.
+
+Czy warto było ryzykować wszystko dla chwilowego wybuchu gniewu?
+
+Odpowiedź pozostawiamy wam.
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak ma na imię główna bohaterka?
+
+**Answers:**
+- A) Lindsey Shiver
+- B) Shannan Gilbert
+- C) Magda Bosek
+- D) Nina Czyżewska
+
+**Correct:** A
+**Explanation:** Lindsey Shiver.
+**Text reference:** Lindsey
+
+### Question 2
+
+**Question:** Jakie dwa słowa wysyła na WhatsApp?
+
+**Answers:**
+- A) Help me / Ratuj mnie
+- B) Kill him / Zabij go
+- C) Call police / Dzwonić
+- D) Leave now / Uciekaj
+
+**Correct:** B
+**Explanation:** Kill him. Zabij go.
+**Text reference:** Zabij
+
+### Question 3
+
+**Question:** Gdzie często bywa Lindsey?
+
+**Answers:**
+- A) Chata w Bieszczadach
+- B) Mieszkanie w Tokio
+- C) Dom wakacyjny na
+- D) Jacht na Bałtyku
+
+**Correct:** C
+**Explanation:** Wakacyjny dom na Bahamach.
+**Text reference:** Bahamy
+
+### Question 4
+
+**Question:** Do jakiego aresztu trafia?
+
+**Answers:**
+- A) Montel w Paryżu
+- B) Rikers w Nowym Jorku
+- C) Brixton w Londynie
+- D) Fox Hill na Bahamach
+
+**Correct:** D
+**Explanation:** Areszt Fox Hill.
+**Text reference:** Fox Hill
+
+### Question 5
+
+**Question:** Jak zaczyna się prolog policyjny?
+
+**Answers:**
+- A) Warszawa, lipiec 2026
+- B) Thomasville, Georgia
+- C) Dothan, Alabama 1986
+- D) Poznań, wtorek 2011
+
+**Correct:** B
+**Explanation:** Thomasville, Georgia, lipiec 2023.
+**Text reference:** Thomasville
+

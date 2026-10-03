@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Otylia?",
+      "answers": [
+        "Jedenastu lat",
+        "Siedmiu lat",
+        "Pięciu lat",
+        "Piętnastu lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia miała jedenaście lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co nie pada od trzech miesięcy?",
+      "answers": [
+        "Pada deszcz",
+        "Pada śnieg",
+        "Pada grad",
+        "Pada mgła"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie spadła kropla deszczu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co więdnie za domem?",
+      "answers": [
+        "Róża na płocie",
+        "Stary dąb",
+        "Stara jabłoń",
+        "Brzoza nad rzeką"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stara jabłoń z dziadkiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Z kim sadziła jabłoń?",
+      "answers": [
+        "Z nauczycielką",
+        "Z mamą",
+        "Z bratem",
+        "Z dziadkiem"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sadziła z dziadkiem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co widzi Otylia nad rzeką?",
+      "answers": [
+        "Jeden zamek",
+        "Trzy domki",
+        "Pięć mostów",
+        "Stado owiec"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tytuł: Trzy domki."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "packId": "vh4e9aa2:pl",
+  "bookId": "vh4e9aa2",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-03",
+  "lastReviewedAt": "2026-10-03",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/15 CollectionFifteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "yHIgrRdjySw"
+    }
+  ],
+  "revisionNotes": "Collection Fifteen import — Polish only; quiz answers length-balanced."
+}
