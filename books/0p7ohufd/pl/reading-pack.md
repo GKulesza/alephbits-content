@@ -401,7 +401,7 @@ Tym razem wiedział już, co to znaczy.
 - C) Mop ma na imię Oskar
 - D) Mop ma na imię Gips
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Mop o imieniu Florek.
 **Text reference:** Florek
 

@@ -363,7 +363,7 @@ mieszczą się w sercu, które potrafi się dzielić.**
 - C) Tata pracuje w sklepie
 - D) Tata pracuje na statku
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Tata Marcel w szpitalu.
 **Text reference:** szpitalu
 

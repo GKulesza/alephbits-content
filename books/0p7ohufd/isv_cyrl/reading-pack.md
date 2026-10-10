@@ -407,7 +407,7 @@
 - C) Моп именом Оскар
 - D) Моп именом Гипс
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Моп именом Флорек.
 **Text reference:** q2
 

@@ -407,7 +407,7 @@
 - C) Ⰿⱁⱂ ⰹⰿⰵⱀⱁⰿ Ⱁⱄⰽⰰⱃ
 - D) Ⰿⱁⱂ ⰹⰿⰵⱀⱁⰿ Ⰳⰹⱂⱄ
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Ⰿⱁⱂ ⰹⰿⰵⱀⱁⰿ Ⱇⰾⱁⱃⰵⰽ.
 **Text reference:** q2
 

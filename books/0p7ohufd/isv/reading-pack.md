@@ -407,7 +407,7 @@ Tutoj raz on uže znal je, čto to znači.
 - C) Mop imenom Oskar
 - D) Mop imenom Gips
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Mop imenom Florek.
 **Text reference:** q2
 

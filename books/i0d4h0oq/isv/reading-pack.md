@@ -369,7 +369,7 @@ poměščajut se v srcu, ktoro uměje se děliti.
 - C) Tata rabotaje v kramu
 - D) Tata rabotaje na korabju
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Tata Marcel v bolnici.
 **Text reference:** q3
 
