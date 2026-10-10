@@ -412,7 +412,7 @@ Lěči se ju prisutnostju — i odvagoju, da by ostati, kogda někto boji se, ž
 - C) Tiha Nota planety
 - D) Stary Hor planety
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Nazyvali to Velikoju Sinfonijoju.
 **Text reference:** q2
 

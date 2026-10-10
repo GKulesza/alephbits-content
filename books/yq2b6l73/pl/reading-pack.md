@@ -557,7 +557,7 @@ a kiedy dać coś komuś, kto potrzebuje tego bardziej.**
 - C) Na książkę z sklepu
 - D) Na grę planszową
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Wymieniają na Sposobika.
 **Text reference:** Sposobika
 

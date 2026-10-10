@@ -433,7 +433,7 @@ Sněg skripěl pod jihnymi stopami. Světla jolki migali. A kdesi v odaljenju, v
 - C) Ime: Pola
 - D) Ime: Otylia
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Viktorija, jedinnadcet lět.
 **Text reference:** q3
 

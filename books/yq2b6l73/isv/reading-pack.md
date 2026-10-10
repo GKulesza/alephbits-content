@@ -563,7 +563,7 @@ a kogda dati něčto někomu, kto to potrěbuje veče.
 - C) Na knigu iz trgoviny
 - D) Na stolovu igru
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Zaměnjajut na Sposobika.
 **Text reference:** q4
 

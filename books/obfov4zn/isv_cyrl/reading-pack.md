@@ -343,7 +343,7 @@
 - C) Склеп ведет Зофиа
 - D) Склеп ведет Иwона
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Пани Крыстына.
 **Text reference:** q4
 

@@ -422,7 +422,7 @@ Dostatočno pogledati v nebo — i vozpomniti sobě,
 - C) Boji se psov
 - D) Boji se burje
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Bojala se tmy.
 **Text reference:** q5
 

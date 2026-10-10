@@ -414,7 +414,7 @@ Wystarczy spojrzeć w niebo — i przypomnieć sobie,
 - C) Boi się psów
 - D) Boi się burzy
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Bała się ciemności.
 **Text reference:** ciemności
 

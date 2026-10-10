@@ -476,7 +476,7 @@
 - C) Ⱄⱂⱁⰽⱁⰺⱀⱐ Ⰱⰰⱃⱅⱁⱎ
 - D) Ⱄⱂⱁⰽⱁⰺⱀⰰ Ⰾⰹⰴⰹⰺⰰ
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Ⰽⱁⱃⱀⰵⰾⰹⰺⰰ ⰱⱐⰾⰰ ⱄⱂⱁⰽⱁⰺⱀⰰ.
 **Text reference:** q4
 

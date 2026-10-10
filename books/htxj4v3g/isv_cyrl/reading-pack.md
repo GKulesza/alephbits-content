@@ -422,7 +422,7 @@
 - C) Боји се псов
 - D) Боји се бурје
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Бојала се тмы.
 **Text reference:** q5
 

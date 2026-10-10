@@ -563,7 +563,7 @@
 - C) Ⱀⰰ ⰽⱀⰹⰳⱆ ⰹⰸ ⱅⱃⰳⱁⰲⰹⱀⱐ
 - D) Ⱀⰰ ⱄⱅⱁⰾⱁⰲⱆ ⰹⰳⱃⱆ
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Ⰸⰰⰿⱑⱘⰰⰺⱆⱅ ⱀⰰ Ⱄⱂⱁⱄⱁⰱⰹⰽⰰ.
 **Text reference:** q4
 

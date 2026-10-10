@@ -476,7 +476,7 @@
 - C) Спокојны Бартош
 - D) Спокојна Лидија
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Корнелија была спокојна.
 **Text reference:** q4
 

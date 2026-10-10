@@ -476,7 +476,7 @@ i hrabrost, da by se časami spomaliti.
 - C) Spokojny Bartoš
 - D) Spokojna Lidija
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Kornelija byla spokojna.
 **Text reference:** q4
 

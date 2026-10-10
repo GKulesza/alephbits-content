@@ -441,7 +441,7 @@ ne obok sebe, ne protiv sebe, ale pravdivo razem.
 - C) Pahnut kako dym
 - D) Pahnut kako med
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Pahnuli by kako priključenje.
 **Text reference:** q5
 

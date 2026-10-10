@@ -335,7 +335,7 @@ nawet gdy jesteśmy daleko.*
 - C) Sklep prowadzi Zofia
 - D) Sklep prowadzi Iwona
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Pani Krystyna.
 **Text reference:** Krystyna
 

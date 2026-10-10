@@ -381,7 +381,7 @@ I hoč cukrova bolězn ješče jest čestju jej života, to uže ne opreděljaje
 - C) Okolo 80 mg/dl
 - D) Okolo 400 mg/dl
 
-**Correct:** D
+**Correct:** A
 **Explanation:** 380 na displeju.
 **Text reference:** q4
 

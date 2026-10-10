@@ -404,7 +404,7 @@ Leczy się ją obecnością — i odwagą, by zostać, gdy ktoś boi się, że o
 - C) Cicha Nuta planety
 - D) Stary Chór planety
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Nazywali to Wielką Symfonią.
 **Text reference:** Symfonia
 

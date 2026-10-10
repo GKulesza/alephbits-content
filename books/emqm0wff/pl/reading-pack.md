@@ -468,7 +468,7 @@ i odwaga, by czasem zwolnić.**
 - C) Spokojny Bartosz
 - D) Spokojna Lidia
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Kornelia była spokojna.
 **Text reference:** Kornelia
 

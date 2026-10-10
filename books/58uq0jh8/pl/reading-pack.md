@@ -363,7 +363,7 @@ I choć cukrzyca wciąż jest częścią jej życia, to już nie definiuje jej c
 - C) Około 80 mg/dl
 - D) Około 400 mg/dl
 
-**Correct:** D
+**Correct:** A
 **Explanation:** 380 na wyświetlaczu.
 **Text reference:** 380
 

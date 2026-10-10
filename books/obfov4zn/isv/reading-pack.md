@@ -343,7 +343,7 @@ daže kogda jesmo daleko.*
 - C) Sklep vedet Zofia
 - D) Sklep vedet Iwona
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Pani Krystyna.
 **Text reference:** q4
 

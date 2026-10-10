@@ -425,7 +425,7 @@ nawet wtedy, gdy sami nie mają nic.**
 - C) Imię: Pola
 - D) Imię: Otylia
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Wiktoria, jedenaście lat.
 **Text reference:** Wiktoria
 

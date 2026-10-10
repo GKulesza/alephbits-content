@@ -563,7 +563,7 @@
 - C) На книгу из трговины
 - D) На столову игру
 
-**Correct:** D
+**Correct:** A
 **Explanation:** Замєњајут на Способика.
 **Text reference:** q4
 

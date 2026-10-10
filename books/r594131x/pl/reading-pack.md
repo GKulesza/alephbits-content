@@ -433,7 +433,7 @@ nie obok siebie, nie przeciwko sobie, ale naprawdę razem.**
 - C) Pachną jak dym
 - D) Pachną jak miód
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Pachnieliby jak przygoda.
 **Text reference:** przygoda
 
