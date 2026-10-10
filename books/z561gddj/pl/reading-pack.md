@@ -413,7 +413,7 @@ Bo czasami najlepszą rzeczą, jaką można zrobić, jest przestać być "miłym
 - C) Czy mam wybaczyć jej
 - D) Czy mam milczeć tu
 
-**Correct:** B
+**Correct:** A
 **Explanation:** To co, ja mam być chujem?
 **Text reference:** chujem
 

@@ -251,13 +251,13 @@ I trzeba pamiętać, że dziecko to nie kawałek metalu do kucia w ogniu. To cz�
 **Question:** Czego Maciek uczy się jako ojciec?
 
 **Answers:**
-- A) Kuć dziecko jak metal
-- B) Słuchać, przepraszać, być obecnym
-- C) Ignorować rysunki
-- D) Porównywać dzieci
+- A) Kuć dziecko jak kawałek metalu
+- B) Słuchać, przepraszać i być obecnym
+- C) Ignorować rysunki i milczeć dalej
+- D) Porównywać dzieci z innymi w klasie
 
 **Correct:** B
-**Explanation:** Słucha, jest obecny; dziecko to nie metal do kucia.
+**Explanation:** Ojciec ma słuchać, przepraszać i być obecny — dziecko to nie metal do kucia.
 **Text reference:** słuchać
 
 ### Question 3
@@ -265,13 +265,13 @@ I trzeba pamiętać, że dziecko to nie kawałek metalu do kucia w ogniu. To cz�
 **Question:** Co córka rysuje?
 
 **Answers:**
-- A) Samochód
-- B) Rodzinę: ja, ty i mama — wszyscy się uśmiechamy
-- C) Mapę Polski
-- D) Smoka
+- A) Samochód stojący przed domem
+- B) Rodzinę uśmiechniętą: ja, ty i mama
+- C) Mapę Polski na ścianie pokoju
+- D) Smoka z długim ogonem w chmurach
 
 **Correct:** B
-**Explanation:** Rysunek rodziny, która się uśmiecha.
+**Explanation:** Na rysunku jest uśmiechnięta rodzina: ja, ty i mama.
 **Text reference:** uśmiechamy
 
 ### Question 4
@@ -293,12 +293,12 @@ I trzeba pamiętać, że dziecko to nie kawałek metalu do kucia w ogniu. To cz�
 **Question:** Co Maciek robi po obejrzeniu rysunku?
 
 **Answers:**
-- A) Wychodzi z pokoju
-- B) Siada obok i prosi: Opowiesz mi o tym rysunku?
-- C) Krytykuje kolory
-- D) Wyłącza światło
+- A) Wychodzi z pokoju bez słowa
+- B) Siada obok i prosi o opowieść
+- C) Krytykuje kolory na kartce
+- D) Wyłącza światło w pokoju
 
 **Correct:** B
-**Explanation:** Siada obok i prosi o opowiedzenie rysunku.
+**Explanation:** Siada obok syna i prosi, by opowiedział o rysunku.
 **Text reference:** Opowiesz mi
 

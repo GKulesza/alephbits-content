@@ -419,7 +419,7 @@
 - C) Ⱍⰹ ⰹⰿⰰⰿ ⱂⱃⱁⱄⱅⰹ ⰺⰵⰺ
 - D) Ⱍⰹ ⰹⰿⰰⰿ ⰿⱁⰾⱍⰰⱅⰹ ⱅⱆ
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Ⱅⱁ ⱍⱁ, ⰺⰰ ⰹⰿⰰⰿ ⰱⱐⱅⰹ ⱈⱆⰺⰵⰿ?
 **Text reference:** q5
 

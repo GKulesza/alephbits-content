@@ -1,0 +1,510 @@
+# Klaudia i Dzwoneczek, Który Milczał
+
+## Metadata
+
+**Pack ID:** 7kebz30y
+**Book ID:** 7kebz30y
+**Legacy Pack ID:** polish_klaudia_i_dzwoneczek_ktory_milcza
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Klaudia i Dzwoneczek, Który Milczał  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp Dawno, dawno temu, w pewnej wiosce na skraju wielkiego lasu, żyła sobie wdowa o imieniu **Izabela**. Miała jedną córkę — **Klaudię**. Mąż Izabeli odszedł dawno temu. Nie umarł. Odszedł. Zostawił ich same z…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Nineteen  
+**Audience:** children
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 12 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Klaudia i Dzwoneczek, Który Milczał — Collection Nineteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Klaudia i Dzwoneczek, Który Milczał, Collection Nineteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Nineteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Nineteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nineteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=JMkFZjkSkPM  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/19 CollectionNineteen.md.
+
+---
+
+## Text
+
+**KLAUDIA I DZWONECZEK, KTÓRY MILCZAŁ**
+
+## Wstęp
+
+Dawno, dawno temu, w pewnej wiosce na skraju wielkiego lasu, żyła sobie wdowa o imieniu **Izabela**. Miała jedną córkę — **Klaudię**. Mąż Izabeli odszedł dawno temu. Nie umarł. Odszedł. Zostawił ich same z długami i z wstydem, który Izabela nosiła jak kamień w kieszeni.
+
+Klaudia miała trzynaście lat i ręce, które nie bały się pracy. Wstawała przed świtem. Nosiła wodę ze studni. Zbierała chrust w lesie. Pleła grządki. A gdy trzeba było, szyła koszyki z wikliny i sprzedawała je na targu.
+
+Była dobra. Ale była też **dumna**. Zbyt dumna, żeby prosić o pomoc. Zbyt dumna, żeby przyjmować. Gdy sąsiadka przynosiła im chleb, Klaudia dziękowała i oddawała go nazajutrz — bo nie chciała być niczyim dłużnikiem. Gdy nauczyciel oferował jej książki, odmawiała — bo wolała sama je sobie kupić. A gdy mama mówiła: „Klaudio, odpocznij", Klaudia odpowiadała: „Nie mogę. Muszę sobie radzić sama."
+
+Izabela patrzyła na to z bólem. Bo wiedziała, że jej córka nie umie być słaba. A każdy czasem musi być słaby.
+
+W ich wiosce mieszkał też **Błażej**. Stary, samotny drwal. Kiedyś — dawno temu — był pasterzem. I to on, wraz z dwoma innymi, znęcał się nad zwierzętami. Śmiał się, gdy ktoś płakał. Bił, gdy ktoś był słabszy. Aż pewnej zimy sam zachorował. I nikt mu nie pomógł. Bo nikt go nie lubił.
+
+Odtąd Błażej żył sam. Rąbał drzewo. Milczał. I czasem — gdy myślał, że nikt nie patrzy — płakał.
+
+## Rozdział pierwszy: Trzy psy
+
+Pewnego dnia Klaudia poszła do lasu po chrust.
+
+Wracała już, gdy usłyszała skowyt. Cichy. Przerażony.
+
+Podeszła bliżej. Zobaczyła Błażeja. Trzymał w ręce kij. A przed nim — mały, bury pies. Pies kulił się. Skomlał.
+
+— Zostaw go! — krzyknęła Klaudia.
+
+Błażej odwrócił się. Jego oczy były zmęczone. Puste.
+
+— A co ci do tego? — zapytał.
+
+— To żywe stworzenie.
+
+— To bezpański pies. Niczyj.
+
+— To nie znaczy, że można go bić.
+
+Błażej spojrzał na nią długo. A potem — opuścił kij. Odszedł. Bez słowa.
+
+Klaudia podeszła do psa. Był chudy. Wystraszony. Miał ranę na łapie.
+
+— Chodź — powiedziała. — Pomogę ci.
+
+Pies spojrzał na nią. A potem — polizał ją po ręce.
+
+Klaudia zabrała go do domu. Opatrzyła ranę. Nakarmiła resztką chleba. I nazwała go **Bury**.
+
+Nazajutrz poszła do lasu. Tym razem po wodę. I znów usłyszała krzyk.
+
+To był kot. Mały, szary. Błażej znów był tam. Tym razem z siatką.
+
+— Zostaw go! — zawołała Klaudia.
+
+— Znowu ty? — Błażej westchnął. — To dziki kot. Niczyj.
+
+— To nie znaczy, że można go krzywdzić.
+
+Błażej milczał. A potem — odszedł. Znowu. Bez słowa.
+
+Klaudia wzięła kota do domu. Nazwała go **Mruczek**.
+
+Trzeciego dnia Klaudia szła przez las z pustym koszem. Nie miała już nic. Ani chleba. Ani jagód. Tylko pusty kosz.
+
+I wtedy zobaczyła Błażeja. Tym razem trzymał wąża. Małą żmiję. Śliczną, z łuskami w kolorze miedzi.
+
+— Zostaw ją! — zawołała Klaudia.
+
+Błażej spojrzał na nią. A potem — puścił żmiję. Odeszła w trawę.
+
+— Dlaczego to robisz? — zapytała Klaudia.
+
+Błażej milczał długo. A potem powiedział cicho:
+
+— Bo nikt mi nigdy nie pomógł. Więc myślałem, że nikt nie pomoże nikomu.
+
+Klaudia zamarła. Spojrzała na niego. Na jego dłonie. Na jego oczy. I zobaczyła coś, czego wcześniej nie widziała.
+
+Samotność.
+
+— Ja ci pomogę — powiedziała.
+
+Błażej spojrzał na nią.
+
+— Jak?
+
+— Nie wiem. Ale spróbuję.
+
+## Rozdział drugi: Dzwoneczek
+
+Tej nocy Klaudia nie mogła zasnąć.
+
+Myślała o Błażeju. O jego słowach. O tym, że nikt mu nigdy nie pomógł. I o tym, że ona — Klaudia — też nie umiała przyjmować pomocy.
+
+— Może jesteśmy tacy sami — wyszeptała.
+
+Rano wstała. Poszła do lasu. Szukała żmii. Tej, którą Błażej wypuścił. Chciała ją znaleźć. Chciała się upewnić, że jest bezpieczna.
+
+Znalazła ją. Ale nie samą. Obok niej była druga żmija. Większa. Z łuskami w kolorze złota. Z oczami jak gwiazdy.
+
+— Kim jesteś? — zapytała Klaudia.
+
+— Jestem matką tej, którą uratowałaś — powiedziała żmija. — Dwa razy. Raz, gdy Błażej ją złapał. I raz, gdy ją wypuścił. Ale to ty sprawiłaś, że ją wypuścił.
+
+Klaudia milczała.
+
+— Czego chcesz w nagrodę? — zapytała żmija.
+
+Klaudia pomyślała. A potem powiedziała:
+
+— Nie chcę złota. Ani srebra. Chcę... chcę móc pomagać innym.
+
+Matka żmij uśmiechnęła się. A potem wypluła coś małego. Srebrnego. Błyszczącego.
+
+— To **Srebrny Dzwoneczek** — powiedziała. — Gdy w niego zadzwonisz, pojawi się siedmiu braci. Spełnią twoje życzenie. Ale pamiętaj: dzwoneczek działa tylko wtedy, gdy prosisz dla kogoś innego. Nigdy dla siebie.
+
+Klaudia wzięła dzwoneczek. Był zimny. Ciężki. I piękny.
+
+— Dziękuję — wyszeptała.
+
+## Rozdział trzecia: Bracia
+
+Klaudia wróciła do domu.
+
+Zastukała w dzwoneczek. I nagle — pojawiło się przed nią siedmiu braci. Mali. Ubrani na zielono. Z uśmiechami od ucha do ucha.
+
+Ale nie byli tacy sami. Jeden był wysoki i chudy — nazywał się **Cyprian**. Drugi był niski i gruby — **Damian**. Trzeci był wiecznie zmęczony — **Edgar**. Czwarty był wściekły — **Fabian**. Piąty był cichy — **Gabriel**. Szósty był ciekawski — **Hubert**. A siódmy był najmądrzejszy — **Igor**.
+
+— Czego żądasz, pani? — zapytali chórem.
+
+Klaudia pomyślała o mamie. O jej zmęczonych rękach. O pustej spiżarni.
+
+— Chcę jedzenie dla mojej mamy — powiedziała.
+
+I nagle — na stole pojawiły się pieczywo, ser, owoce i miód.
+
+Ale Igor — najmądrzejszy — spojrzał na Klaudię i powiedział:
+
+— A dla siebie? Nic nie chcesz?
+
+— Nie — powiedziała Klaudia. — Ja sobie poradzę.
+
+Igor zmarszczył brwi. Ale nic nie powiedział.
+
+Od tego dnia Klaudia używała dzwoneczka codziennie. Ale nigdy dla siebie.
+
+Prosiła o jedzenie dla sąsiadów. O drewno na opał dla starego **Macieja**. O lekarstwa dla chorej **Sary**. O kwiaty dla **Kingi**, córki króla **Aleksandra**, która była chora i smutna.
+
+A król — usłyszawszy o cudach — wezwał Klaudię do zamku.
+
+— Jeśli uleczysz moją córkę — powiedział — dam ci wszystko, czego zapragniesz.
+
+Klaudia podeszła do łóżka Kingi. Dotknęła jej czoła. I zadzwoniła dzwoneczkiem.
+
+— Chcę, żeby Kinga była zdrowa — powiedziała.
+
+I Kinga otworzyła oczy. Uśmiechnęła się. Po raz pierwszy od miesięcy.
+
+Ale potem — Kinga spojrzała na Klaudię. I powiedziała:
+
+— Dziękuję. Ale... czy ty sobie radzisz?
+
+Klaudia zamarła.
+
+— Jak to?
+
+— Wyglądasz na zmęczoną. I smutną. Jakbyś niosła coś ciężkiego.
+
+Klaudia milczała. Bo nie umiała odpowiedzieć.
+
+## Rozdział czwarty: Kradzież
+
+W zamku był ktoś, kto patrzył na dzwoneczek chciwym okiem. To był **Bernard** — król zza morza. Przybył z wizytą. I zapragnął dzwoneczka dla siebie.
+
+Ale Bernard nie był głupi. Wiedział, że dzwoneczek działa tylko wtedy, gdy prosisz dla kogoś innego. Więc pewnej nocy zakradł się do chatki Klaudii. Wziął dzwoneczek. I uciekł za morze.
+
+Klaudia obudziła się rano. Dzwoneczka nie było. Zniknął. A wraz z nim — siedmiu braci.
+
+— Co teraz? — zapytała mama.
+
+— Nie wiem — wyszeptała Klaudia. — Ale muszę go odzyskać.
+
+Wzięła psa Burego. Kota Mruczka. I poszła nad morze.
+
+## Rozdział piąty: Wyprawa
+
+Nad morzem Klaudia zobaczyła wyspę. A na wyspie — zamek Bernarda.
+
+— Jak się tam dostać? — zapytała.
+
+Bury spojrzał na wodę.
+
+— Ja nie umiem pływać — powiedział.
+
+— Ja umiem — powiedział Mruczek. — Ale nie umiem się wspinać.
+
+— Ja umiem się wspinać — powiedział Bury. — Wsiadaj na mnie. Popłyniemy razem. A potem ty wejdziesz na mur.
+
+I tak zrobili.
+
+Mruczek wspiął się na mur. Zakradł się do komnaty Bernarda. Znalazł dzwoneczek. Wziął go w zęby. I wrócił do Burego.
+
+Ale wtedy — Bernard ich zobaczył.
+
+— Łapać ich! — krzyknął.
+
+Mruczek i Bury uciekli. Skoczyli do morza. Popłynęli. Dotarli do brzegu.
+
+Ale Mruczek był ranny. Bernard rzucił w niego nożem. Kot krwawił.
+
+— Mruczek! — krzyknęła Klaudia.
+
+— Nic mi nie jest — wyszeptał kot. — Weź dzwoneczek.
+
+Klaudia wzięła dzwoneczek. Zadzwoniła. Pojawili się bracia.
+
+— Chcę, żeby Mruczek był zdrowy — powiedziała.
+
+I Mruczek był zdrowy.
+
+Ale Igor — najmądrzejszy — spojrzał na Klaudię i powiedział:
+
+— A dla siebie? Nic nie chcesz?
+
+— Nie — powiedziała Klaudia. — Ja sobie poradzę.
+
+Igor westchnął. Ale nic nie powiedział.
+
+## Rozdział szósty: Prawda
+
+Klaudia wróciła do wioski.
+
+Ale nie poszła do domu. Poszła do Błażeja.
+
+— Błażeju — powiedziała. — Chcę ci coś powiedzieć.
+
+Błażej spojrzał na nią.
+
+— Co?
+
+— Ja też nie umiem prosić o pomoc. Myślałam, że muszę sobie radzić sama. Ale to nieprawda. Bo nikt nie musi.
+
+Błażej milczał.
+
+— Wiem, że skrzywdziłeś zwierzęta — powiedziała Klaudia. — I wiem, że nikt ci nie pomógł, gdy byłeś chory. Ale to nie znaczy, że masz być sam. Ja... ja chcę ci pomóc.
+
+Błażej spojrzał na nią. Jego oczy były wilgotne.
+
+— Dlaczego?
+
+— Bo wiem, co to znaczy być samemu. I wiem, że to boli.
+
+Błażej milczał długo. A potem — po raz pierwszy — uśmiechnął się. Ledwo. Ale uśmiechnął się.
+
+— Dziękuję — wyszeptał.
+
+## Rozdział siódmy: Dzwoneczek, który milczał
+
+Minęły dni.
+
+Klaudia wróciła do domu. Usiadła na łóżku. Wzięła dzwoneczek do ręki.
+
+— Chcę... — zaczęła.
+
+I urwała.
+
+Bo pomyślała o sobie. O tym, że jest zmęczona. Że jest głodna. Że mama jest chora. Że chciałaby, żeby ktoś jej pomógł.
+
+Zadzwoniła dzwoneczkiem.
+
+— Chcę, żeby moja mama była zdrowa — powiedziała.
+
+Nic się nie stało.
+
+Dzwoneczek milczał.
+
+— Chcę, żebyśmy mieli jedzenie — powiedziała.
+
+Cisza.
+
+— Chcę... chcę, żeby ktoś mi pomógł — wyszeptała.
+
+Dzwoneczek nie zadzwonił.
+
+Klaudia spojrzała na niego. Na jego srebrną powierzchnię. Na jego milczenie.
+
+I zrozumiała.
+
+— Dzwoneczek działa tylko wtedy, gdy prosisz dla kogoś innego — powiedziała do siebie. — Nigdy dla siebie.
+
+A potem pomyślała: „Więc ja nigdy nie dostanę pomocy?"
+
+I wtedy — usłyszała kroki.
+
+To była mama. Niosła miskę zupy.
+
+— Klaudio — powiedziała. — Zrobiłam ci zupę. Z tego, co zostało.
+
+Klaudia spojrzała na nią.
+
+— Mamo... ja nie prosiłam.
+
+— Wiem — powiedziała mama. — Ale ja jestem twoją mamą. I nie musisz prosić. Ja po prostu wiem.
+
+Klaudia wzięła miskę. Była ciepła. Pachniała warzywami. I czymś jeszcze. Czymś, czego Klaudia nie umiała nazwać.
+
+Miłością.
+
+## Zakończenie
+
+Minęły lata.
+
+Klaudia nie używała już dzwoneczka tak często. Bo nauczyła się, że nie wszystko trzeba załatwiać czarami. Czasem wystarczy poprosić. Czasem wystarczy przyjąć.
+
+Błażej został jej przyjacielem. Nie mówił dużo. Ale przychodził. Rąbał drewno. Naprawiał dach. I czasem — gdy myślał, że nikt nie patrzy — uśmiechał się.
+
+Kinga, córka króla, często odwiedzała Klaudię. Piły razem herbatę. Śmiały się. Rozmawiały. I Kinga mówiła:
+
+— Wiesz co? Ty mnie uleczyłaś. Ale ja myślę, że ty też potrzebowałaś uleczenia.
+
+Klaudia kiwała głową.
+
+— Wiem — mówiła. — I wiem, że jeszcze długo będę się uczyć.
+
+Pewnego wieczoru Klaudia siedziała przed chatką. Obok niej leżał Bury. Na kolanach mruczał Mruczek. A w kieszeni — spoczywał Srebrny Dzwoneczek.
+
+Klaudia wyjęła go. Obejrzała. A potem — zadzwoniła. Cicho. Ledwo słyszalnie.
+
+Pojawili się bracia. Mali. Zieloni. Uśmiechnięci.
+
+— Czego żądasz, pani? — zapytali.
+
+Klaudia spojrzała na gwiazdy. A potem powiedziała:
+
+— Nic. Chciałam tylko, żebyście wiedzieli, że jesteście potrzebni.
+
+Bracia spojrzeli na siebie. A potem — po raz pierwszy — uśmiechnęli się. Naprawdę.
+
+I zniknęli.
+
+A Klaudia została. Na progu. Z dzwoneczkiem w dłoni. I z czymś nowym w sercu.
+
+Czymś, co nie było dumą. Czymś, co nie było siłą.
+
+Czymś, co było spokojem.
+
+*Dzwoneczek milczał, gdy proszono dla siebie.  
+Ale mama i tak przyniosła zupę.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest Klaudia na początku?
+
+**Answers:**
+- A) Trzynastolatką pracującą z dumą
+- B) Małą dziewczynką z zamku
+- C) Nauczycielką w wiejskiej szkole
+- D) Kupiecką handlującą na targu
+
+**Correct:** A
+**Explanation:** Klaudia ma trzynaście lat, dużo pracuje i jest zbyt dumna, by prosić o pomoc.
+**Text reference:** Wstęp
+
+### Question 2
+
+**Question:** Kogo Klaudia broni przed Błażejem?
+
+**Answers:**
+- A) Tylko sąsiadów z wioski
+- B) Zwierzęta bite i krzywdzone
+- C) Braci z dalekiego miasta
+- D) Kupców z porannego targu
+
+**Correct:** B
+**Explanation:** Broni zwierząt — m.in. psa Burego, kota i innych — przed krzywdą.
+**Text reference:** Rozdział pierwszy: Trzy psy
+
+### Question 3
+
+**Question:** Kiedy dzwoneczek milczy?
+
+**Answers:**
+- A) Gdy proszą o pogodę ładną
+- B) Gdy dzwonią o północy równo
+- C) Gdy proszą tylko dla siebie
+- D) Gdy wioska śpi bardzo głęboko
+
+**Correct:** C
+**Explanation:** Dzwoneczek milczy, gdy proszono tylko dla siebie.
+**Text reference:** Zakończenie
+
+### Question 4
+
+**Question:** Czego Klaudia uczy się przyjmować?
+
+**Answers:**
+- A) Tylko złoto i drogie dary
+- B) Tylko rozkazy od starszych braci
+- C) Tylko pochwały za ciężką pracę
+- D) Pomoc i troskę od innych ludzi
+
+**Correct:** D
+**Explanation:** Uczy się przyjmować pomoc — nie tylko dawać i być dumną.
+**Text reference:** Całość / puenta
+
+### Question 5
+
+**Question:** Co przynosi mama mimo milczącego dzwoneczka?
+
+**Answers:**
+- A) Zupę — troskę bez magicznego dźwięku
+- B) Złoto ukryte w starej skrzyni
+- C) List od ojca z dalekiego miasta
+- D) Nowy dzwoneczek z wielkiego targu
+
+**Correct:** A
+**Explanation:** Dzwoneczek milczał, ale mama i tak przyniosła zupę.
+**Text reference:** Zakończenie
+

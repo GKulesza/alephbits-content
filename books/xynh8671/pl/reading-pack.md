@@ -1,0 +1,538 @@
+# Nel i Promyk, Który Zgubił Światło
+
+## Metadata
+
+**Pack ID:** xynh8671
+**Book ID:** xynh8671
+**Legacy Pack ID:** polish_nel_i_promyk_ktory_zgubi_swiat_o
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Nel i Promyk, Który Zgubił Światło  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp W pewnym miasteczku, tam gdzie ulice pachniały świeżym pieczywem, a park szumiał starymi kasztanowcami, mieszkała dziewczynka o imieniu **Nel**. Nel miała osiem lat, jasne włosy i kieszenie pełne skarbów.…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Nineteen  
+**Audience:** children
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 10 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Nel i Promyk, Który Zgubił Światło — Collection Nineteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Nel i Promyk, Który Zgubił Światło, Collection Nineteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Nineteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Nineteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nineteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=JkuTPsdC7D0  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/19 CollectionNineteen.md.
+
+---
+
+## Text
+
+**NEL I PROMYK, KTÓRY ZGUBIŁ ŚWIATŁO**
+
+## Wstęp
+
+W pewnym miasteczku, tam gdzie ulice pachniały świeżym pieczywem, a park szumiał starymi kasztanowcami, mieszkała dziewczynka o imieniu **Nel**.
+
+Nel miała osiem lat, jasne włosy i kieszenie pełne skarbów. Zawsze coś w nich było: kamyk, sznurek, gumka, a czasem — o zgrozo — okruszki po ciastkach. Nel lubiła zbierać. Ale najbardziej lubiła pomagać.
+
+Jej brat, **Alan**, miał pięć lat. Był mały, rozczochrany i wiecznie głodny. Miał jedno ulubione słowo: „Dlaczego?". I zadawał je zawsze. O każdej porze. W każdej sytuacji.
+
+Ich mama, **Kamila**, była najcierpliwszą mamą na świecie. Pachniała wanilią i proszkiem do prania. Nuciła, gdy gotowała. A gdy trzeba było — mówiła rzeczy, które zostawały w głowie na długo.
+
+A tata, **Marcel**, pracował w warsztacie. Naprawiał wszystko: rowery, zegary, a nawet stare radia. Pachniał smarem i trocinami. Jego dłonie były szorstkie, popękane, ale ciepłe. Ale była jedna rzecz, której Marcel nie umiał naprawić. Stary zegar. Ten, który należał do jego ojca. Stał na półce. Cichy. Zepsuty. Marcel patrzył na niego czasem. I nic nie mówił. A obok zegara — stało zdjęcie. Mężczyzna z wąsami. Ojciec Marcela. Nel nigdy go nie poznała.
+
+Pewnego sobotniego poranka mama powiedziała:
+
+— Dzieci, idziemy do parku.
+
+— Będą motyle? — zapytała Nel.
+
+— Będą — powiedziała mama.
+
+— A dlaczego motyle mają kolorowe skrzydła? — zapytał Alan.
+
+Mama roześmiała się.
+
+— Bo lubią kolorować świat.
+
+I poszli.
+
+## Rozdział pierwszy: Kłębek
+
+Park był pełen słońca. Pachniał trawą i kwiatami. Motyle fruwały między drzewami. Nel biegła ścieżką. Alan biegł za nią. Mama szła z koszykiem.
+
+I wtedy — Nel usłyszała coś.
+
+Cichy pisk. Dochodził z krzaków.
+
+Nel zatrzymała się. Odsunęła liście. I zobaczyła.
+
+Małą, białą kulkę futra. Piesek. Brudny. Zmęczony. Miał wielkie, ciepłe oczy.
+
+— Mamo! — zawołała Nel. — Chodź! Zobacz!
+
+Mama podeszła. Przykucnęła.
+
+— Wygląda, jakby się zgubił — powiedziała.
+
+— Możemy go zabrać? — zapytała Nel.
+
+— Do weterynarza — powiedziała mama. — Sprawdzimy, czy ma właściciela.
+
+Alan już głaskał pieska po uszach.
+
+— Nazwijmy go Kłębek — powiedział.
+
+I tak się stało.
+
+## Rozdział drugi: Weterynarz
+
+W gabinecie weterynaryjnym pani doktor **Sylwia** zbadała Kłębka.
+
+— Zdrowy — powiedziała. — Tylko głodny i zmęczony.
+
+— Ma właściciela? — zapytała Nel.
+
+Pani Sylwia pokręciła głową.
+
+— Nie ma chipa. Nie ma obroży. Nikt go nie zgłosił.
+
+Nel spojrzała na mamę.
+
+— Może zostanie z nami?
+
+Mama uśmiechnęła się.
+
+— Może. Ale musicie o niego dbać.
+
+— Będziemy! — zawołali Nel i Alan.
+
+Wieczorem Kłębek chlapał się w wannie. Więcej wody było na podłodze niż w wannie. Ale pachniał jak mydło kokosowe. A potem spał. Na łóżku Nel. Z głową na poduszce.
+
+## Rozdział trzeci: Światło w wodzie
+
+Nazajutrz Nel wyszła z Kłębkiem na spacer.
+
+Szli parkiem. Kłębek węszył. Merdał ogonem. Aż nagle — zatrzymał się. Zaszczekał. I pobiegł w stronę stawu.
+
+— Kłębek! Stój! — zawołała Nel.
+
+Piesek biegł. Aż dotarł do małego mostku nad strumykiem. I zaczął szczekać. Głośno. Jakby wołał.
+
+Nel podbiegła. Spojrzała. I zobaczyła.
+
+Coś błyszczało w wodzie. Małe. Srebrne. Świeciło słabo. Jak gasnąca gwiazda.
+
+Nel podwinęła nogawki. Weszła do strumyka. Woda była zimna. Zanurzyła ręce. I wyciągnęła.
+
+Mały, srebrny przedmiot. Kostkę. Z migającym światełkiem. Ledwo widocznym.
+
+— Co to? — wyszeptała.
+
+A wtedy — usłyszała głos.
+
+Cienki. Metaliczny. Przestraszony.
+
+— To... moje światło.
+
+Nel odwróciła się.
+
+Przed nią stał mały robot. Był cały ubrudzony błotem. A z jego oczu kapały małe, błękitne krople. Świecił. Ale słabo. Coraz słabiej.
+
+— Kim jesteś? — zapytała Nel.
+
+— Jestem **Promyk** — powiedział robot. — Zgubiłem swoje światło. Bez niego nie mogę wrócić do domu. I... gaśnie we mnie.
+
+Kłębek szczeknął. Dwa razy. I zamachał ogonem.
+
+— Pomogę ci — powiedziała Nel.
+
+## Rozdział czwarty: Tata
+
+Nel wróciła do domu. Z Promykiem. Z modułem.
+
+— Tato! — zawołała. — Pomóż!
+
+Marcel wyszedł z warsztatu. Pachniał smarem. Spojrzał na robota. Na moduł.
+
+— Co to? — zapytał.
+
+— To Promyk — powiedziała Nel. — Zgubił światło. Musimy mu pomóc.
+
+Marcel wziął moduł. Obejrzał. Przekręcił. Zmarszczył brwi.
+
+— To nie jest zwykły moduł — powiedział. — To serce. Mały reaktor. Bez niego ten robot nie przetrwa.
+
+— Naprawisz go? — zapytała Nel.
+
+Marcel milczał. Spojrzał na moduł. A potem — na zegar. Ten stary. Zepsuty. Stał na półce. Cichy. Obok zdjęcia.
+
+— Wiem, co to znaczy — powiedział cicho. — Też mam coś, czego nie umiem naprawić.
+
+Nel spojrzała na zegar. A potem na tatę.
+
+— Ale tym razem spróbujesz? — zapytała.
+
+Marcel milczał długo. A potem — skinął głową.
+
+— Spróbuję.
+
+I zabrał się do pracy.
+
+## Rozdział piąty: Alan
+
+Alan patrzył na wszystko z boku.
+
+— Dlaczego Promyk gaśnie? — zapytał.
+
+— Bo stracił światło — powiedziała Nel.
+
+— A dlaczego stracił światło?
+
+— Bo je zgubił.
+
+— A dlaczego zgubił?
+
+Nel zamarła.
+
+— Nie wiem — powiedziała.
+
+Alan podszedł do Promyka. Spojrzał na niego.
+
+— Gdzie byłeś, kiedy zgubiłeś światło? — zapytał.
+
+Promyk milczał. A potem powiedział cicho:
+
+— W ogrodzie. Za fontanną. Byłem tam z innymi. I... i uciekłem.
+
+— Dlaczego?
+
+— Bo się bałem. Bo myślałem, że nie umiem świecić tak, jak oni. Że jestem za mały. Za słaby. Więc uciekłem. I wtedy... światło zgasło.
+
+Alan pokiwał głową.
+
+— Ja też się boję — powiedział. — Czasem. Ale mama mówi, że strach to nie koniec. To początek.
+
+Promyk spojrzał na niego.
+
+— Naprawdę?
+
+— Naprawdę.
+
+I wtedy — Promyk rozbłysnął. Ledwo. Ale rozbłysnął.
+
+## Rozdział szósty: Mama
+
+Nel nie mogła zasnąć.
+
+Leżała w łóżku. Myślała o Promyku. O jego świetle, które gasło. O tym, że może nie zdążą.
+
+Wstała. Poszła do kuchni. Mama tam była. Piła herbatę.
+
+— Nie śpisz? — zapytała mama.
+
+— Nie mogę — powiedziała Nel.
+
+— Myślisz o Promyku?
+
+— Tak. Boję się, że nie zdążymy. Że jego światło zgaśnie. I że to będzie moja wina.
+
+Mama odstawiła kubek. Popatrzyła na córkę.
+
+— Wiesz, co robi odważny człowiek? — zapytała.
+
+— Co?
+
+— Nie ten, który się nie boi. Ten, który się boi, ale i tak robi.
+
+Nel milczała.
+
+— Ja się boję — wyszeptała.
+
+— Wiem — powiedziała mama. — Ja też bym się bała. Ale spróbujesz?
+
+Nel skinęła głową.
+
+— Spróbuję.
+
+## Rozdział siódmy: Ogród
+
+Marcel naprawił moduł.
+
+— Gotowe — powiedział. — Ale to nie wszystko. Musisz wrócić tam, gdzie zgubiłeś światło. Do ogrodu. Tylko tam możesz je odzyskać.
+
+Poszli. Nel. Alan. Mama. Tata. Kłębek. I Promyk.
+
+Za fontanną. Porośniętą mchem. Promyk nacisnął kamień. Fontanna drgnęła. Odsunęła się. A pod nią — pojawiły się schody.
+
+Zeszli.
+
+Ogród był ciemny. Zniszczony. Kwiaty zwiędły. Drzewa milczały. Motyle nie latały. Pachniało starą ziemią i ciszą.
+
+— To tutaj — wyszeptał Promyk. — Tutaj było światło.
+
+— Co się stało? — zapytała Nel.
+
+— Ja uciekłem. I światło uciekło ze mną.
+
+Marcel spojrzał na ogród. A potem na robota.
+
+— Wiesz, co trzeba zrobić? — zapytał.
+
+— Co?
+
+— Wrócić. I zaświecić. Mimo strachu.
+
+Promyk zamknął oczy. Wziął oddech. I rozbłysnął.
+
+Ale światło zgasło.
+
+Otworzył oczy. Łzy napłynęły mu do oczu.
+
+— Nie umiem — wyszeptał.
+
+Nel podeszła. Uklękła.
+
+— Spróbuj jeszcze raz.
+
+Promyk spróbował. Nic.
+
+Alan podszedł. Wziął go za rękę.
+
+— Ja też się bałem — powiedział. — Ale ty mi pomogłeś. Teraz ja pomogę tobie.
+
+Promyk spojrzał na niego. A potem — na Nel. Na mamę. Na tatę. Na Kłębka. Na ogród.
+
+Wziął oddech. Głęboki. I rozbłysnął.
+
+Jasno. Ciepło. Jak małe słońce.
+
+I ogród — ożył.
+
+Kwiaty zakwitły. Drzewa zaszumiały. Motyle wyleciały z ciemności. Lśniące. Kolorowe. Pachnące.
+
+— Udało się — wyszeptała Nel.
+
+A Promyk — uśmiechnął się. Po raz pierwszy.
+
+## Rozdział ósmy: Pożegnanie
+
+Promyk musiał wracać.
+
+— Mój świat czeka — powiedział. — Muszę iść.
+
+Nel poczuła, że coś ściska ją w gardle.
+
+— Ale... wrócisz?
+
+— Wrócę. Kiedyś. Ale zawsze będę pamiętał.
+
+Nel chciała, żeby został. Chciała go zatrzymać. Ale mama podeszła do niej. I powiedziała cicho:
+
+— Czasem pomagamy komuś, żeby mógł odejść.
+
+Nel spojrzała na mamę. A potem na Promyka.
+
+— Idź — powiedziała. — Ale zostaw coś.
+
+Promyk wyciągnął dłoń. W środku — mała iskra. Świeciła.
+
+— To dla ciebie — powiedział. — Żebyś pamiętała.
+
+Nel wzięła iskrę. Była ciepła. Żywa.
+
+Promyk zniknął. W świetle. Jak mała gwiazda.
+
+Nel płakała. Kłębek lizał ją po ręce. Mama przytulała. A tata powiedział:
+
+— Wróci.
+
+— Skąd wiesz? — zapytała Nel.
+
+— Bo sam kiedyś wróciłem.
+
+## Rozdział dziewiąty: Zegar
+
+Tej nocy Marcel nie spał.
+
+Siedział w warsztacie. Przed nim — stary zegar. Ten po ojcu. Obok — zdjęcie. Mężczyzna z wąsami.
+
+Marcel patrzył na zegar. Długo.
+
+A potem — wziął narzędzia. I zaczął naprawiać.
+
+Nie wiedział, co robi. Ale próbował. Bo Promyk mu pokazał. Pokazał, co było zepsute.
+
+Godzinę później — zegar tyknął.
+
+Marcel zamarł. A potem — uśmiechnął się. Po raz pierwszy od lat.
+
+Spojrzał na zdjęcie.
+
+— Dzięki, tato — powiedział cicho.
+
+## Zakończenie
+
+Minęły dni.
+
+Nel wróciła do domu. Z iskrą. Z Kłębkiem. Z Alanem.
+
+Położyła iskrę na parapecie. Świeciła. Cicho. Ciepło.
+
+Tata naprawił stary zegar. Ten, po ojcu. Bo Promyk mu pomógł. Pokazał, co było zepsute.
+
+Pewnego wieczoru do drzwi zapukał mały robot. Inny. Nie Promyk. Ale podobny.
+
+— Zgubiłem się — powiedział. — Możecie mi pomóc?
+
+Nel spojrzała na Alana. Alan spojrzał na nią. A potem — wstał.
+
+— Zawsze — powiedział.
+
+I wyszedł. Z Kłębkiem. Z iskrą w kieszeni.
+
+Nel patrzyła. I uśmiechała się.
+
+Bo wiedziała, że dobro się nie kończy. Przechodzi dalej.
+
+A na parapecie — iskra świeciła. Cicho. Ciepło. Wiecznie.
+
+*Nie musisz świecić najjaśniej.  
+Wystarczy, że nie zgaśniesz.  
+A twoje światło —  
+znajdzie drogę.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak nazywa się bohaterka?
+
+**Answers:**
+- A) Nel
+- B) Kamila
+- C) Sylwia
+- D) Alan
+
+**Correct:** A
+**Explanation:** Bohaterką jest Nel.
+**Text reference:** Tytuł
+
+### Question 2
+
+**Question:** Kim jest Promyk?
+
+**Answers:**
+- A) Sąsiadem z domu naprzeciwko w opowieści
+- B) Istotą / światłem, które zgubiło blask
+- C) Nauczycielem z wieczorowej szkoły
+- D) Psem pilnującym bramy ogrodu
+
+**Correct:** B
+**Explanation:** Promyk to istota światła, która zgubiła swój blask.
+**Text reference:** Tytuł
+
+### Question 3
+
+**Question:** Co Nel chce zrobić dla Promyka?
+
+**Answers:**
+- A) Schować go w szufladzie na zawsze
+- B) Oddać go do sklepu z latarkami
+- C) Pomóc mu odnaleźć utracone światło
+- D) Zastąpić go nową lampką nocną
+
+**Correct:** C
+**Explanation:** Nel pomaga Promykowi odnaleźć zgubione światło.
+**Text reference:** Treść / puenta
+
+### Question 4
+
+**Question:** Kto pojawia się obok Nel?
+
+**Answers:**
+- A) Tylko król z dalekiego zamku
+- B) Tylko smok z jaskini w górach
+- C) Tylko listonosz z poranną pocztą
+- D) Między innymi Alan, Kamila i Marcel
+
+**Correct:** D
+**Explanation:** W historii pojawiają się m.in. Alan, Kamila, Marcel i Sylwia.
+**Text reference:** Treść
+
+### Question 5
+
+**Question:** Jaka jest główna myśl?
+
+**Answers:**
+- A) Zgubione światło wraca z pomocą bliskich
+- B) Światło raz zgubione nigdy więcej nie wraca
+- C) Tylko dorośli potrafią zapalać stare latarnie
+- D) Promyk powinien zostać w ciemności na zawsze
+
+**Correct:** A
+**Explanation:** Z pomocą bliskich można odzyskać zgubione światło.
+**Text reference:** Puenta
+

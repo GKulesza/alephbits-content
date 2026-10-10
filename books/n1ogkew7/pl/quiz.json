@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Matylda",
+        "Klaudia",
+        "Sabina",
+        "Leandra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Matylda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co rośnie razem z Matyldą?",
+      "answers": [
+        "Róże w ogrodzie zamkowym",
+        "Kasztany rosnące wraz z nią",
+        "Jabłka w sadzie sąsiada",
+        "Lawenda przy płocie szkoły"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasztany rosną razem z Matyldą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy motyw kasztanów?",
+      "answers": [
+        "Że rośliny rosną tylko w zamkach",
+        "Że dzieci nie powinny zbierać kasztanów",
+        "Że dojrzewanie trwa i dzieje się razem",
+        "Że kasztany trzeba sprzedać na targu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dojrzewanie trwa — Matylda i kasztany rosną razem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki charakter ma ta opowieść?",
+      "answers": [
+        "Kryminał o zaginionych kasztanach",
+        "Horror o mówiącej dziupli w nocy",
+        "Reportaż o zbiorach w wielkim mieście",
+        "Ciepła bajka o wzrastaniu i czasie"
+      ],
+      "correctIndex": 3,
+      "explanation": "To ciepła bajka o wzrastaniu razem z naturą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Rośniemy razem z tym, co pielęgnujemy",
+        "Kasztany rosną tylko dla dorosłych",
+        "Czas nie ma znaczenia dla dzieci",
+        "Drzewa nie potrzebują ludzkiej troski"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rośniemy razem z tym, co pielęgnujemy i o co dbamy."
+    }
+  ]
+}

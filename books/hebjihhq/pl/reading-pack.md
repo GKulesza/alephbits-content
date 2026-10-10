@@ -1,0 +1,452 @@
+# Renata i Drzewo, Które Pamiętało
+
+## Metadata
+
+**Pack ID:** hebjihhq
+**Book ID:** hebjihhq
+**Legacy Pack ID:** polish_renata_i_drzewo_ktore_pamieta_o
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Renata i Drzewo, Które Pamiętało  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp W pewnym lesie, tam gdzie strumień rozlewał się w małe jeziorko, a stare dęby pamiętały czasy, gdy mówiły do zwierząt, mieszkała lisica o imieniu **Renata**. Renata miała rude futro, bystre oczy i jeden wielki…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Eighteen  
+**Audience:** children
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 10 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Renata i Drzewo, Które Pamiętało — Collection Eighteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Renata i Drzewo, Które Pamiętało, Collection Eighteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Eighteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Eighteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Eighteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eighteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=5s-nYusLT9o  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/18 CollectionEithteen.md.
+
+---
+
+## Text
+
+**RENATA I DRZEWO, KTÓRE PAMIĘTAŁO**
+
+## Wstęp
+
+W pewnym lesie, tam gdzie strumień rozlewał się w małe jeziorko, a stare dęby pamiętały czasy, gdy mówiły do zwierząt, mieszkała lisica o imieniu **Renata**.
+
+Renata miała rude futro, bystre oczy i jeden wielki problem. Była **chciwa**.
+
+Nie tak, że kradła. Nie tak, że zabierała innym. Ale zawsze — zawsze — gdy coś robiła, myślała o tym, co z tego będzie miała. Jeśli pomagała, to za coś. Jeśli dawała, to po to, żeby dostać więcej. Pachniała lasem i deszczem, ale jej serce pachniało strachem — strachem, że jeśli nic nie będzie miała, to będzie nikim.
+
+Jej mama, **Beata**, była inna. Beata była starą lisicą o siwym pysku i oczach, które widziały wiele. Kiedyś — dawno temu — też była chciwa. Też myślała, że świat to targ. Ale pewnej zimy zgubiła się w ciemności. I nikt jej nie pomógł. Nikt, bo nikt jej nie ufał. Siedziała w jaskini przez trzy dni. Głodna. Zimna. I wtedy zrozumiała, że jeśli chce, żeby ktoś jej pomógł, sama musi pomagać. Bez pytania. Bez oczekiwania.
+
+— Renato — mówiła Beata — świat nie jest targiem. Nie wszystko można kupić.
+
+Ale Renata nie słuchała. Bo świat — jej świat — był targiem. I ona zawsze chciała wyjść na swoim.
+
+Jej przyjaciółmi byli: **Adrian** — zajączek, który był szybki jak wiatr, i **Kinga** — jeżyk, który był mądry jak stara sowa. Adrian lubił się śmiać. Kinga lubiła słuchać. A Renata lubiła... mieć.
+
+Pewnego dnia cała trójka poszła na polanę. Mieli ze sobą koc, kanapki i piłkę. Chcieli się bawić. Powietrze pachniało żywicą i mchem. Słońce przeciskało się przez gałęzie. A gdy dotarli na miejsce, zobaczyli coś, czego nie widzieli nigdy wcześniej.
+
+Na środku polany stało **Drzewo**.
+
+Nie było duże. Nie było stare. Ale miało liście w kolorze złota. A na każdej gałęzi wisiały małe, błyszczące **żołędzie**. Nie zwykłe. Złote. Lśniły jak małe słońca.
+
+— Co to? — wyszeptał Adrian.
+
+— Nie wiem — powiedziała Kinga. — Ale wygląda... magicznie.
+
+Renata podeszła bliżej. Wyciągnęła łapkę. Chciała zerwać złoty żołądź. Ale on nie chciał się oderwać. Był zimny. Śliski. Jakby był z lodu.
+
+— Dziwne — mruknęła.
+
+— Może trzeba coś zrobić — powiedziała Kinga. — Może drzewo czeka na coś.
+
+— Na co? — zapytała Renata.
+
+Kinga nie odpowiedziała. Ale jej oczy błysnęły.
+
+## Rozdział pierwszy: Pierwszy żołądź
+
+Tego dnia Adrian skaleczył się w łapkę. Kolec wbił mu się głęboko. Adrian syknął z bólu. Krew spłynęła na mech.
+
+— Pomogę ci — powiedziała Kinga. Podeszła do niego. Delikatnie wyjęła kolec. Opatrzyła ranę mchem. Owinęła liściem.
+
+— Dziękuję — wyszeptał Adrian.
+
+I wtedy — Drzewo drgnęło. Gałęzie zaszumiały. A jeden złoty żołądź oderwał się sam. Spadł prosto w łapki Kingi.
+
+— Co? — zdziwiła się Kinga.
+
+— Jak to zrobiłaś? — zapytała Renata.
+
+— Nie wiem — powiedziała Kinga. — Po prostu... pomogłam.
+
+Renata patrzyła na złoty żołądź. Był piękny. Lśniący. Cenny. Pachniał miodem.
+
+— Ja też chcę — powiedziała.
+
+## Rozdział drugi: Pomoc dla nagrody
+
+Nazajutrz Renata wstała wcześnie. Postanowiła, że pomoże komuś. Ale nie tak zwyczajnie. Pomoże tak, żeby Drzewo to zobaczyło.
+
+Poszła do lasu. Rozglądała się. Kogo by tu... komu pomóc?
+
+Zobaczyła **Panią Sarnę**, która niosła ciężką siatkę z zakupami. Siatka była wypchana. Pani Sarna dyszała.
+
+— Pani Sarno! — zawołała Renata. — Pomogę Pani!
+
+— Och, Renato — powiedziała Pani Sarna. — Jesteś kochana.
+
+— Pomogę, ale... — Renata zawahała się. — Co mi Pani da?
+
+Pani Sarna zamarła. Jej oczy zwęziły się.
+
+— Jak to... co dam?
+
+— No, za pomoc. Coś mi się należy.
+
+Pani Sarna milczała. A potem powiedziała cicho:
+
+— Nic ci nie dam. Bo pomoc to nie handel.
+
+I poszła dalej. Sama. Z ciężką siatką.
+
+Renata wzruszyła ramionami.
+
+— Trudno — powiedziała. — Znajdę kogoś innego.
+
+Znalazła **Starszego Jeża**, który nie mógł porąbać drewna. Siekiera była za ciężka. Drewno za twarde.
+
+— Pomogę ci — powiedziała Renata. — Ale za to dasz mi połowę swojego zapasu orzechów.
+
+Starszy Jeż spojrzał na nią. Jego oczy były stare. Zmęczone.
+
+— Renato — powiedział. — Ja cię nie prosiłem o pomoc. Poradzę sobie sam.
+
+I odszedł.
+
+Renata była zła. Poszła pod Drzewo. Stanęła przed nim. Czekała.
+
+— No? — powiedziała. — Pomogłam? Pomogłam. Gdzie mój żołądź?
+
+Drzewo nie drgnęło. Liście milczały. Żołędzie lśniły. Ale żaden nie spadł.
+
+— Co jest? — krzyknęła. — Przecież pomogłam!
+
+Ale Drzewo milczało. Jakby było z kamienia.
+
+## Rozdział trzeci: Złość
+
+Renata wróciła do domu wściekła. Trzasnęła drzwiami. Usiadła na podłodze. Koc był szorstki. Pachniał mokrą wełną.
+
+— To niesprawiedliwe! — krzyknęła do mamy. — Pomogłam! A Drzewo nic!
+
+Beata spojrzała na córkę. Oczy miała spokojne. Ale w nich było coś jeszcze. Coś, co Renata widziała pierwszy raz. Smutek.
+
+— Komu pomogłaś?
+
+— Pani Sarnie i Starszemu Jeżowi.
+
+— I co zrobiłaś?
+
+— Zaproponowałam pomoc. Ale oni nie chcieli mi nic dać. Więc... no to nie pomogłam.
+
+Beata milczała przez chwilę.
+
+— Renato — powiedziała cicho. — Ty nie pomogłaś. Ty chciałaś kupić.
+
+— Co?
+
+— Pomoc to nie transakcja. Nie możesz dać czegoś i oczekiwać, że dostaniesz coś w zamian. To nie pomoc. To handel.
+
+— Ale Kinga dostała żołądź!
+
+— Bo Kinga pomogła Adrianowi. Bez pytania. Bez oczekiwania. Po prostu pomogła.
+
+Renata milczała. A potem powiedziała cicho:
+
+— Więc co mam zrobić? Mam pomagać i nic nie dostać?
+
+Beata podeszła do niej. Usiadła obok. Objęła ją.
+
+— Wiesz, co mi powiedziała moja mama, gdy byłam mała?
+
+— Co?
+
+— Że prawdziwe szczęście nie przychodzi do tych, którzy liczą. Przychodzi do tych, którzy dają.
+
+Renata milczała.
+
+— Ale ja nie umiem — wyszeptała. — Ja nie umiem dawać.
+
+— Uczysz się — powiedziała Beata. — Każdy się uczy. Ja też się uczyłam.
+
+## Rozdział czwarty: Próba
+
+Renata nie spała całą noc.
+
+Myślała o tym, co powiedziała mama. O Klaudii. O Drzewie. O sobie.
+
+— Może ja nie umiem pomagać — wyszeptała. — Może jestem za bardzo chciwa. Może nigdy się nie nauczę.
+
+Rano wstała. Postanowiła, że spróbuje jeszcze raz. Ale tym razem — inaczej.
+
+Poszła do lasu. Rozejrzała się. Nikogo nie było.
+
+Aż zobaczyła **Małego Ptaszka**, który wypadł z gniazda. Leżał na ziemi. Piszczał. Był przestraszony.
+
+Renata podeszła bliżej.
+
+— Pomogę ci — powiedziała.
+
+I wtedy się zatrzymała. Bo przypomniała sobie słowa mamy. „Pomoc to nie transakcja."
+
+Zamknęła oczy. Wzięła głęboki oddech. I powiedziała do siebie:
+
+— Nie chcę nic w zamian. Chcę tylko, żeby ten ptaszek był bezpieczny.
+
+Wzięła ptaszka delikatnie. Wspięła się na drzewo. Włożyła go do gniazda.
+
+— Tam — powiedziała. — Jesteś bezpieczny.
+
+Ptaszek pisnął. A potem — ucichł. I zamknął oczy.
+
+Renata zeszła z drzewa. Nie poszła pod Drzewo. Nie czekała na żołądź. Po prostu poszła dalej.
+
+## Rozdział piąty: Ciemność
+
+Minęły dni.
+
+Renata pomagała. Codziennie. Ale już nie liczyła. Już nie czekała. Pomagała, bo chciała. Bo ktoś potrzebował. Bo to było dobre.
+
+Pomogła Pani Sarnie zanieść zakupy. Nie chciała nic w zamian. Pani Sarna uśmiechnęła się. I powiedziała: „Dziękuję."
+
+Pomogła Starszemu Jeżowi porąbać drewno. Nie chciała orzechów. Starszy Jeż powiedział: „Jesteś dobra, Renato."
+
+Pomogła mrówkom odbudować mrowisko. Pomogła wiewiórce znaleźć zgubione zapasy. Pomogła żabie przeskoczyć przez kamień.
+
+Aż pewnego dnia poszła na polanę. Razem z Adrianem i Kingą. Chcieli zobaczyć Drzewo.
+
+Gdy dotarli na miejsce, zobaczyli coś niezwykłego.
+
+Drzewo było **pełne** złotych żołędzi. Każda gałąź. Każdy listek. A pod drzewem leżał **jeden** żołądź. Największy. Najjaśniejszy.
+
+— Dla kogo? — zapytał Adrian.
+
+Kinga spojrzała na Renatę.
+
+— Dla niej — powiedziała.
+
+Renata podeszła bliżej. Wyciągnęła łapkę. Żołądź sam wpadł jej do dłoni.
+
+— Dlaczego? — zapytała. — Dlaczego teraz?
+
+A Drzewo — po raz pierwszy — odezwało się. Cichym, szeleszczącym głosem:
+
+— Bo teraz pomagasz. A nie kupujesz.
+
+## Rozdział szósty: Powrót
+
+Renata trzymała złoty żołądź.
+
+Był piękny. Lśniący. Cenny.
+
+— Co z nim zrobisz? — zapytał Adrian.
+
+Renata milczała. A potem powiedziała:
+
+— Podzielę się.
+
+— Jak to? — zdziwiła się Kinga.
+
+— No... no tak. Podzielę się z wami. I z Panią Sarną. I ze Starszym Jeżem. I z mrówkami. I z wiewiórką. I z żabą.
+
+Adrian spojrzał na nią.
+
+— Jesteś pewna?
+
+— Tak — powiedziała Renata. — Bo wiem już, że najcenniejsze rzeczy to te, którymi można się podzielić.
+
+I poszli. Całą trójką. Z żołędziem. Podzielili go na wiele małych kawałków. I rozdali wszystkim, którym Renata pomogła.
+
+A gdy wrócili na polanę — Drzewo znów było pełne złotych żołędzi. I znów jeden leżał pod nim.
+
+— Dla kogo teraz? — zapytał Adrian.
+
+Renata uśmiechnęła się.
+
+— Dla tego, kto potrzebuje.
+
+## Zakończenie
+
+Minęły lata.
+
+Renata nie była już chciwa. Nauczyła się, że pomoc to nie handel. Że dawanie to nie transakcja. Że największym skarbem jest to, co można dać innym.
+
+A Drzewo rosło. I wciąż dawało złote żołędzie. Ale nie tym, którzy chcieli. Tylko tym, którzy dawali.
+
+Pewnego dnia Renata usiadła pod Drzewem. Obok niej usiedli Adrian i Kinga.
+
+— Wiesz co? — powiedziała Renata. — Myślałam, że szczęście to mieć. A ono jest w dawać.
+
+Kinga skinęła głową.
+
+— Wiem — powiedziała. — Od zawsze.
+
+Adrian roześmiał się.
+
+— A ja myślałem, że szczęście to biegać szybko.
+
+Renata spojrzała na przyjaciół.
+
+— Szczęście to mieć kogoś, komu można pomóc — powiedziała. — I mieć kogoś, kto pomoże nam.
+
+I siedzieli tak. Pod Drzewem. A wokół nich lśniły złote żołędzie.
+
+Renata położyła głowę na ramieniu Kingi. A Kinga pogłaskała ją po rudym futrze.
+
+— Wiesz co? — wyszeptała Renata.
+
+— Co?
+
+— Ja już nie chcę nic mieć. Chcę tylko... być.
+
+I to wystarczyło.
+
+*Nie pomagaj, żeby dostać.  
+Pomagaj, żeby dać.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak nazywa się bohaterka?
+
+**Answers:**
+- A) Renata
+- B) Beata
+- C) Kinga
+- D) Adrian
+
+**Correct:** A
+**Explanation:** Bohaterką jest Renata.
+**Text reference:** Wstęp
+
+### Question 2
+
+**Question:** Co jest wyjątkowego w drzewie z tytułu?
+
+**Answers:**
+- A) Rodzi złote jabłka co jesień
+- B) Pamięta historie i ludzi
+- C) Chodzi nocą po całej wsi
+- D) Śpiewa tylko w pełnię księżyca
+
+**Correct:** B
+**Explanation:** Drzewo pamięta — przechowuje historie i ludzi.
+**Text reference:** Tytuł / treść
+
+### Question 3
+
+**Question:** Jaka wada zagraża Renacie w tej historii?
+
+**Answers:**
+- A) Lenistwo przy codziennych obowiązkach
+- B) Zapominalstwo o domowych sprawach
+- C) Chciwość wobec tego, co daje drzewo
+- D) Bojaźń przed wejściem do lasu
+
+**Correct:** C
+**Explanation:** Historia mierzy się z chciwością wobec darów drzewa.
+**Text reference:** Treść — motyw chciwości
+
+### Question 4
+
+**Question:** Czego uczy drzewo, które pamięta?
+
+**Answers:**
+- A) Że pamięć można sprzedać na targu
+- B) Że drzewa nie mają nic do powiedzenia
+- C) Że przeszłość trzeba zawsze wycinać
+- D) Że warto szanować pamięć i dawanie
+
+**Correct:** D
+**Explanation:** Uczy szacunku dla pamięci i tego, co się daje innym.
+**Text reference:** Puenta
+
+### Question 5
+
+**Question:** Jaka jest główna myśl?
+
+**Answers:**
+- A) Pamięć i hojność są cenniejsze od chciwości
+- B) Chciwość zawsze nagradza najszybciej
+- C) Drzewa służą tylko do wyrębu drewna w opowieści
+- D) Przeszłość nie powinna wracać do ludzi
+
+**Correct:** A
+**Explanation:** Pamięć i hojność znaczą więcej niż chciwość.
+**Text reference:** Puenta
+

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Renata",
+        "Beata",
+        "Kinga",
+        "Adrian"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Renata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest wyjątkowego w drzewie z tytułu?",
+      "answers": [
+        "Rodzi złote jabłka co jesień",
+        "Pamięta historie i ludzi",
+        "Chodzi nocą po całej wsi",
+        "Śpiewa tylko w pełnię księżyca"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drzewo pamięta — przechowuje historie i ludzi."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka wada zagraża Renacie w tej historii?",
+      "answers": [
+        "Lenistwo przy codziennych obowiązkach",
+        "Zapominalstwo o domowych sprawach",
+        "Chciwość wobec tego, co daje drzewo",
+        "Bojaźń przed wejściem do lasu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Historia mierzy się z chciwością wobec darów drzewa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy drzewo, które pamięta?",
+      "answers": [
+        "Że pamięć można sprzedać na targu",
+        "Że drzewa nie mają nic do powiedzenia",
+        "Że przeszłość trzeba zawsze wycinać",
+        "Że warto szanować pamięć i dawanie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uczy szacunku dla pamięci i tego, co się daje innym."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Pamięć i hojność są cenniejsze od chciwości",
+        "Chciwość zawsze nagradza najszybciej",
+        "Drzewa służą tylko do wyrębu drewna w opowieści",
+        "Przeszłość nie powinna wracać do ludzi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pamięć i hojność znaczą więcej niż chciwość."
+    }
+  ]
+}

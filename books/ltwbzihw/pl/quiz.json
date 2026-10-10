@@ -36,7 +36,7 @@
         "Gra Mario Bros",
         "Gra Pong"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Field Goal – klon Breakouta."
     },
     {
@@ -60,7 +60,7 @@
         "Film i teatr",
         "Książki i komiks"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Kosmos Fujity i mechanika gry."
     }
   ]

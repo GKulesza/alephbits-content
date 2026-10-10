@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie mieszka Marcelina na co dzień?",
+      "answers": [
+        "W mieście, na czwartym piętrze",
+        "Na wsi, w chatce przy lesie",
+        "Nad morzem, w domu z latarnią",
+        "W zamku, w wysokiej wieży"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marcelina mieszka w mieście, na czwartym piętrze."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Marcelina nie lubi?",
+      "answers": [
+        "Planów i jasnych rozkładów dnia",
+        "Niespodzianek, brudu i czekania",
+        "Hałasu miasta i świateł reklam",
+        "Widoku dachów z okna kuchni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie lubi niespodzianek, brudu, owadów i czekania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się ważka z historii?",
+      "answers": [
+        "Iskierka z miejskiego parku",
+        "Błyskawica znad wiejskiej łąki",
+        "Iskra, która chce zostać blisko",
+        "Gwiazdka z parapetu na dachu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ważka ma na imię Iskra."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy się Marcelina?",
+      "answers": [
+        "Że wszystko da się zaplanować idealnie",
+        "Że owady trzeba zawsze odganiać",
+        "Że miasto jest lepsze od wsi zawsze",
+        "Że czasem trzeba poczekać bez gwarancji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uczy się czekać bez gwarancji — nie wszystko wróci, ale czasem wraca."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Marcelina widzi po powrocie do miasta?",
+      "answers": [
+        "Ważkę na parapecie — podobną do Iskry",
+        "List od mamy z wiejskiego domu",
+        "Nową reklamę świecącą nocą mocno",
+        "Puste niebo bez żadnego owada w opowieści"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na parapecie siedzi ważka — niekoniecznie ta sama, ale podobna."
+    }
+  ]
+}

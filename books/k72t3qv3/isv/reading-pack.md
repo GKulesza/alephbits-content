@@ -236,13 +236,13 @@ I trěba pametati, že dětě to ne jest kusok metala do kovanja v ognju. To jes
 **Question:** Čego Maćek uči sę kako otec?
 
 **Answers:**
-- A) Kovati dítě kako metal
-- B) Sluhati, izvinjati sę, byti
-- C) Ignorovati risunky
-- D) Sravnjivati děti?
+- A) Kovati dítě kako kusok metala
+- B) Sluhati, izvinjati sę i byti
+- C) Ignorovati risunky i molčati
+- D) Sravnjivati děti s drugymi
 
 **Correct:** B
-**Explanation:** Sluha, jest prisutny; dítě ne jest metal za kovati.
+**Explanation:** Otec ima sluhati, izvinjati sę i byti prisutny — dítě ne jest metal za kovati.
 **Text reference:** q2
 
 ### Question 3
@@ -250,13 +250,13 @@ I trěba pametati, že dětě to ne jest kusok metala do kovanja v ognju. To jes
 **Question:** Čto dščeri risuje?
 
 **Answers:**
-- A) Avtomobil
-- B) Rodinu: ja, ty i mama — vsi sę
-- C) Kartu Poljsky
-- D) Zmaja?
+- A) Avtomobil stojęći pred domom
+- B) Rodinu smějuću: ja, ty i mama
+- C) Kartu Poljsky na stěně komnaty
+- D) Zmaja s dolgim hvostom v oblakah
 
 **Correct:** B
-**Explanation:** Risunek rodiny, ktora sę směje.
+**Explanation:** Na risunku jest smějuća rodina: ja, ty i mama.
 **Text reference:** q3
 
 ### Question 4
@@ -278,12 +278,12 @@ I trěba pametati, že dětě to ne jest kusok metala do kovanja v ognju. To jes
 **Question:** Čto Maćek čini po pogledu na risunek?
 
 **Answers:**
-- A) Odhodi iz komnaty
-- B) Sěda blizko i prosi: Opovědaš mi o tom
-- C) Kritikuje barvy
-- D) Vygaša svetlo?
+- A) Odhodi iz komnaty bez slova
+- B) Sěda blizko i prosi o pověst
+- C) Kritikuje barvy na kartě
+- D) Vygaša světlo v komnatě
 
 **Correct:** B
-**Explanation:** Sěda blizko i prosi o opovědanje risunka.
+**Explanation:** Sěda blizko syna i prosi, da by opověděl o risunku.
 **Text reference:** q5
 

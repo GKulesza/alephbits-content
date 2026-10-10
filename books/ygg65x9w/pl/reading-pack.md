@@ -1,0 +1,474 @@
+# Sebastian i Koparka, Która Chciała Kopać Razem
+
+## Metadata
+
+**Pack ID:** ygg65x9w
+**Book ID:** ygg65x9w
+**Legacy Pack ID:** polish_sebastian_i_koparka_ktora_chcia_a_kopac_razem
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Sebastian i Koparka, Która Chciała Kopać Razem  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp W pewnym przedszkolu, tam gdzie okna wychodziły na stary sad, a na parapecie stały doniczki z fasolką, do której dzieci mówiły po imieniu, był kącik, który **Sebastian** kochał najbardziej. To był **Plac…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Eighteen  
+**Audience:** children
+
+**Difficulty:** 3 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Sebastian i Koparka, Która Chciała Kopać Razem — Collection Eighteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Sebastian i Koparka, Która Chciała Kopać Razem, Collection Eighteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Eighteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Eighteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Eighteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Eighteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=w06gZmybqUo  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/18 CollectionEithteen.md.
+
+---
+
+## Text
+
+**SEBASTIAN I KOPARKA, KTÓRA CHCIAŁA KOPAĆ RAZEM**
+
+## Wstęp
+
+W pewnym przedszkolu, tam gdzie okna wychodziły na stary sad, a na parapecie stały doniczki z fasolką, do której dzieci mówiły po imieniu, był kącik, który **Sebastian** kochał najbardziej.
+
+To był **Plac Budowy**.
+
+Pachniał piaskiem i starym drewnem. Miał matę w kolorze ziemi, drewniane klocki, małe znaki drogowe i pojemniki z piaskiem. Ale najważniejsza była **Koparka**.
+
+Żółta. Lśniąca. Z ruchomym ramieniem i łyżką, która naprawdę kopała. Sebastian nazywał ją **Żółtkiem**. I uważał, że Żółtko jest tylko jego.
+
+Bo Sebastian miał sekret. Jego tata, **Mateusz**, pracował na budowie. Daleko. Wracał tylko na weekendy. A gdy wracał, opowiadał Sebastianowi o koparkach. O tym, jak kopią. Jak podnoszą. Jak budują.
+
+— Kiedyś cię tam zabiorę — mówił tata. — Zobaczysz prawdziwą koparkę.
+
+Sebastian czekał na to od zawsze. A Żółtko było jego namiastką. Jego sposobem na to, żeby być blisko taty, gdy taty nie było.
+
+Jego mama, **Dominika**, rozumiała to. Kiwała głową, gdy Sebastian opowiadał jej o koparce. A babcia **Irena**, która czasem odbierała go z przedszkola, mówiła:
+
+— Sebastian, pamiętaj, że zabawki lubią się bawić z wieloma dziećmi.
+
+Sebastian nie rozumiał. Dla niego Żółtko było szczęśliwe tylko wtedy, gdy on je trzymał.
+
+W przedszkolu była też **Karolina**. Karolina miała siedem lat, dwa warkocze i jeden wielki sekret. Kochała koparki. Naprawdę. Czytała o nich książki. Rysowała je w zeszytach. A gdy szła z mamą do przedszkola, zawsze zatrzymywała się przy placu budowy i patrzyła, jak koparki pracują.
+
+Jej tata też pracował na budowie. Daleko. I też wracał tylko na weekendy. Karolina rozumiała Sebastiana bardziej, niż on myślał.
+
+Ale Karolina nie bawiła się koparką w przedszkolu. Bo wiedziała, że Sebastian ją zawsze zabiera. I że się złości, gdy ktoś inny ją weźmie.
+
+Aż pewnego dnia Karolina postanowiła, że spróbuje.
+
+## Rozdział pierwszy: Złość
+
+Był poniedziałek. Sebastian wbiegł do sali. Jak zawsze. Jak co dzień. Rozejrzał się. I zamarł.
+
+Żółtko nie stało na półce.
+
+Sebastian poczuł, że coś ściska go w gardle. Rozejrzał się. I zobaczył.
+
+Karolina siedziała na macie. Na Placu Budowy. Trzymała Żółtko. Kopała nim w piasku. Jej warkocze podskakiwały, gdy się śmiała.
+
+Sebastian poczuł, że coś w nim pęka. Coś gorącego. Coś, co nie umiał nazwać.
+
+— To moje! — krzyknął.
+
+Podbiegł do Karoliny. Wyrwał jej koparkę z rąk. Piasek rozsypał się po całej macie. Karolina zamarła. Jej oczy zrobiły się wielkie. A potem — napłynęły do nich łzy.
+
+— Ja tylko chciałam się pobawić — wyszeptała.
+
+— To moja koparka! — krzyknął Sebastian. — Moja! Moja! Moja!
+
+Karolina wstała. Wzięła swojego pluszowego szczurka. I pobiegła do pani **Pauliny**.
+
+Sebastian został sam. Na Placu Budowy. Z Żółtkiem w dłoni. Ale nie czuł się dobrze. Czuł się... ciężko. Jakby coś go przygniatało.
+
+A w kąciku, przy stoliku, **Alan** — chłopiec, który zawsze mówił to, co myśli — zaśmiał się cicho.
+
+— Dobra robota, Sebastian — powiedział. — Ta koparka jest twoja. I tylko twoja. Nie dawaj jej nikomu.
+
+Sebastian spojrzał na Alana. I poczuł coś dziwnego. Coś, co nie było dumą. Coś, co było... zimne.
+
+## Rozdział drugi: Pani Paulina
+
+Pani Paulina podeszła do Sebastiana.
+
+Usiadła na macie. Obok niego. Nie krzyczała. Nie mówiła, że jest winny. Po prostu była.
+
+— Sebastian — powiedziała cicho. — Co się stało?
+
+— Ona... ona wzięła moją koparkę.
+
+— Twoją?
+
+— No... no tak. Zawsze się nią bawię.
+
+— A czy ona jest twoja?
+
+Sebastian milczał.
+
+— Nie — powiedział w końcu. — Jest przedszkolna.
+
+— Więc czyja jest?
+
+— Wszystkich.
+
+— Wszystkich — powtórzyła pani Paulina. — To znaczy także Karoliny.
+
+Sebastian spuścił wzrok.
+
+— Wiem — wyszeptał. — Ale ja się złościłem.
+
+— Wiem — powiedziała pani Paulina. — Złość to trudne uczucie. Jedno z najtrudniejszych. Ale wiesz, co jest ważne?
+
+— Co?
+
+— To, co robimy ze złością. Możemy krzyczeć. Możemy zabierać. Albo możemy... coś innego.
+
+— Co?
+
+— Możemy powiedzieć: „Jestem zły. I nie wiem, co zrobić."
+
+Sebastian milczał.
+
+— A wiesz, co jeszcze możemy zrobić? — zapytała pani Paulina.
+
+— Co?
+
+— Możemy zapytać: „Czy mogę się z tobą pobawić?"
+
+Sebastian podniósł wzrok.
+
+— Ale ona... ona nie wie, jak się bawić koparką.
+
+— A skąd wiesz?
+
+Sebastian nie odpowiedział. Bo nie wiedział.
+
+## Rozdział trzeci: Rozmowa
+
+Pani Paulina wstała. Podała Sebastianowi rękę.
+
+— Chodź — powiedziała. — Pójdziemy do Karoliny. Razem.
+
+Sebastian zawahał się.
+
+— A jeśli ona mnie nie polubi?
+
+— To się przekonasz.
+
+— A jeśli Alan ma rację? Że nie powinienem jej dawać?
+
+Pani Paulina spojrzała na niego.
+
+— A co ty myślisz?
+
+Sebastian milczał. A potem — cicho — powiedział:
+
+— Myślę, że Alan jest głupi.
+
+Pani Paulina uśmiechnęła się.
+
+— To idziemy.
+
+Karolina siedziała przy stoliku. Rysowała. Koparkę. Dużą. Żółtą. Z ruchomym ramieniem.
+
+Sebastian zamarł.
+
+— Karolina — powiedziała pani Paulina. — Sebastian chciałby ci coś powiedzieć.
+
+Sebastian milczał. A potem — cicho — powiedział:
+
+— Przepraszam. Że ci wyrwałem koparkę. I że krzyczałem.
+
+Karolina podniosła wzrok.
+
+— Naprawdę?
+
+— Naprawdę. Byłem zły. Ale to nie twoja wina.
+
+Karolina milczała. A potem powiedziała:
+
+— Ja też cię przepraszam. Że wzięłam bez pytania. Powinnam była zapytać.
+
+Sebastian pokiwał głową.
+
+— Wiesz co? — powiedział. — Ja myślałem, że tylko ja umiem się bawić koparką. Ale... ty też umiesz?
+
+Karolina uśmiechnęła się.
+
+— Umiem. Widziałam koparkę na budowie. I wiem, jak kopie.
+
+— Naprawdę?
+
+— Naprawdę. Mój tata pracuje na budowie. Daleko. I opowiada mi o koparkach.
+
+Sebastian zamarł.
+
+— Mój tata też — wyszeptał.
+
+Karolina spojrzała na niego.
+
+— Naprawdę?
+
+— Naprawdę. I wraca tylko na weekendy.
+
+Karolina milczała. A potem powiedziała:
+
+— Mój też.
+
+I nagle — coś się zmieniło. Coś, czego Sebastian nie umiał nazwać. Coś ciepłego.
+
+— Może... — powiedział Sebastian. — Może moglibyśmy się bawić razem? I opowiadać o naszych tatusiach?
+
+Karolina uśmiechnęła się.
+
+— Chcę.
+
+## Rozdział czwarty: Razem
+
+Sebastian i Karolina wrócili na Plac Budowy.
+
+Sebastian wziął Żółtko. A Karolina wzięła wywrotkę.
+
+— Ja będę kopać — powiedział Sebastian. — A ty będziesz wozić ziemię.
+
+— Dobrze — powiedziała Karolina. — Ale potem zamienimy się.
+
+— Zamienimy?
+
+— Tak. Bo ja też chcę kopać.
+
+Sebastian zawahał się. A potem — po raz pierwszy — powiedział:
+
+— Dobrze.
+
+I zaczęli się bawić. Sebastian kopał. Karolina woziła. A potem — zamienili się. Karolina kopała. Sebastian woził.
+
+I wtedy Sebastian zrozumiał coś, czego nie rozumiał wcześniej.
+
+Bawienie się razem było... lepsze. Bo Karolina wymyślała rzeczy, których on by nie wymyślił. Bo budowali razem. Bo się śmiali.
+
+— Wiesz co? — powiedział Sebastian.
+
+— Co?
+
+— Myślałem, że dzielenie się to strata. A to nieprawda.
+
+— A co to?
+
+— To... to jakby mieć więcej. Bo nagle jest nas dwoje. I mamy dwa pomysły. I dwie pary rąk.
+
+Karolina uśmiechnęła się.
+
+— Właśnie tak — powiedziała.
+
+A Alan, który patrzył z boku, nie powiedział już nic. Bo nie miał nic do powiedzenia.
+
+## Rozdział piąty: Kamila
+
+Minęły dni.
+
+Sebastian nie był już taki, jak wcześniej. Nadal lubił Żółtko. Nadal lubił kopać. Ale już nie złościł się, gdy ktoś inny chciał się bawić.
+
+Bo wiedział, że zabawa nie jest tylko jego. Że jest wszystkich. I że to dobrze.
+
+Pewnego dnia do przedszkola przyszła nowa dziewczynka. Miała na imię **Ewa**. Była mała. Nieśmiała. Stała przy drzwiach. Nie wiedziała, co robić.
+
+Sebastian podszedł do niej.
+
+— Cześć — powiedział. — Jestem Sebastian. Chcesz się pobawić?
+
+Ewa spojrzała na niego.
+
+— A mogę?
+
+— Jasne. Mamy koparkę. I wywrotkę. I buldożer.
+
+— Ale ja nie umiem...
+
+— To nic. Ja też nie umiałem. Nauczę cię.
+
+Ewa uśmiechnęła się. Po raz pierwszy od dawna.
+
+I poszli. Razem. Na Plac Budowy.
+
+Karolina już tam była. Czekała.
+
+— Ewo — powiedziała. — Będziesz wozić ziemię. A ja będę kopać. A Sebastian będzie... — zawahała się.
+
+— Ja będę patrzył — powiedział Sebastian. — I będę się uczył. Bo wy umiecie więcej niż ja.
+
+Karolina i Ewa spojrzały na niego.
+
+— Naprawdę? — zapytała Ewa.
+
+— Naprawdę. Bo dzielenie się to nie tylko dawanie. To też uczenie się od innych.
+
+I usiedli. Całą trójką. Na macie. A Sebastian patrzył, jak Karolina kopie, a Ewa wozi. I uśmiechał się.
+
+Bo wiedział już, że nie musi być pierwszy. Nie musi być najlepszy. Wystarczy, że jest. Z nimi.
+
+## Zakończenie
+
+Pani Paulina patrzyła na to z boku.
+
+— Widzisz? — powiedziała do pani **Moniki**, drugiej nauczycielki. — Sebastian się zmienił.
+
+— Widzę — powiedziała pani Monika. — I wiesz co? Myślę, że to nie koparka go zmieniła. To Karolina.
+
+— Nie — powiedziała pani Paulina. — To on sam. Bo zrozumiał, że dzielenie się to nie zabieranie. To dodawanie.
+
+A na Placu Budowy Sebastian, Karolina i Ewa kopali razem. Piasek latał. Wywrotka woziła. A oni się śmiali.
+
+I nikt nie był sam.
+
+Sebastian wziął do ręki mały kamyk. Znalazł go w piasku. Obejrzał go. A potem — położył na macie. Obok koparki.
+
+— To dla ciebie — powiedział do Karoliny.
+
+— Co to?
+
+— Kamyk. Z budowy. Prawdziwy.
+
+Karolina wzięła go. Schowała do kieszeni. I uśmiechnęła się.
+
+A Sebastian uśmiechnął się jeszcze szerzej. Bo wiedział już, że prawdziwe skarby to nie te, które się ma. To te, którymi można się podzielić.
+
+*Dzielenie się nie jest stratą.  
+Jest dodawaniem.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Jak nazywa się chłopiec z placu budowy?
+
+**Answers:**
+- A) Sebastian z placu budowy
+- B) Mateusz z sąsiedniej budowy
+- C) Żółtek z placu maszyn
+- D) Dominik z biura budowy
+
+**Correct:** A
+**Explanation:** Bohaterem jest Sebastian.
+**Text reference:** Wstęp
+
+### Question 2
+
+**Question:** Czego chce koparka w tej historii?
+
+**Answers:**
+- A) Pracować zawsze zupełnie sama
+- B) Kopać razem, nie w samotności
+- C) Wyjechać z placu do muzeum
+- D) Spać przez cały sezon budowy
+
+**Correct:** B
+**Explanation:** Koparka chce kopać razem — nie w samotności.
+**Text reference:** Tytuł / treść
+
+### Question 3
+
+**Question:** Gdzie toczy się akcja?
+
+**Answers:**
+- A) W szkole muzycznej na wzgórzu
+- B) W porcie pełnym starych statków
+- C) Na placu budowy wśród maszyn
+- D) W lesie za miastem przy rzece
+
+**Correct:** C
+**Explanation:** Akcja dzieje się na placu budowy.
+**Text reference:** Treść
+
+### Question 4
+
+**Question:** Czego uczy ta bajka?
+
+**Answers:**
+- A) Że maszyny nie potrzebują ludzi
+- B) Że plac budowy jest tylko dla dorosłych
+- C) Że najlepiej pracować zawsze osobno
+- D) Że wspólna praca daje więcej radości
+
+**Correct:** D
+**Explanation:** Wspólna praca i bycie razem dają więcej radości.
+**Text reference:** Puenta
+
+### Question 5
+
+**Question:** Jak kończy się historia o koparce?
+
+**Answers:**
+- A) Koparka kopie razem, nie sama
+- B) Koparka zostaje sprzedana daleko
+- C) Koparka rdzewieje na złomowisku
+- D) Koparka wygrywa wyścig z dźwigiem
+
+**Correct:** A
+**Explanation:** Koparka dostaje to, czego chciała — kopać razem.
+**Text reference:** Zakończenie
+

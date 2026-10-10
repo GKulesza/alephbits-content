@@ -1,0 +1,24 @@
+{
+  "packId": "i5w51r5h:pl",
+  "bookId": "i5w51r5h",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-10",
+  "lastReviewedAt": "2026-10-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/19 CollectionNineteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "yejK6P6uCq4"
+    }
+  ],
+  "revisionNotes": "Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated)."
+}

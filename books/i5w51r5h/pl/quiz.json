@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Diana?",
+      "answers": [
+        "Detektyw śledząca znikające kartki",
+        "Piekarka piekąca bułki o świcie",
+        "Nauczycielka matematyki w szkole",
+        "Zielarka z chatki za lasem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diana jest detektywem badającą znikające kartki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co znika w tej historii?",
+      "answers": [
+        "Klucze do szkolnej sali gimnastycznej",
+        "Kartki — tropy potrzebne do zagadki",
+        "Rowery z wiaty przed szkołą",
+        "Kredki z piórnika koleżanki Diany"
+      ],
+      "correctIndex": 1,
+      "explanation": "Znikają kartki — stąd tytuł i śledztwo."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki trop pojawia się w notatce?",
+      "answers": [
+        "Duży. Peleryna. Niebieska teczka.",
+        "Mały. Kapelusz. Zielona torba.",
+        "Mały. Kaptur. Czerwona teczka.",
+        "Wysoki. Szalik. Żółta teczką."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trop brzmi: „Mały. Kaptur. Czerwona teczka.”"
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta detektywistyczna bajka?",
+      "answers": [
+        "Że zagadki rozwiązuje tylko przypadek",
+        "Że kartki nigdy nie są ważne",
+        "Że detektyw pracuje zawsze samotnie",
+        "Że uważność i tropy prowadzą do prawdy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uważność, tropy i współpraca prowadzą do rozwiązania."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się w otoczeniu Diany?",
+      "answers": [
+        "Między innymi Gabriel, Andrzej i Krystian",
+        "Tylko smok z krakowskiej jaskini",
+        "Tylko królowa z dalekiego zamku w opowieści",
+        "Tylko listonosz z poranną pocztą"
+      ],
+      "correctIndex": 0,
+      "explanation": "W historii pojawiają się m.in. Gabriel, Andrzej, Krystian, Urszula."
+    }
+  ]
+}

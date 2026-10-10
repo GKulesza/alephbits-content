@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Klaudia na początku?",
+      "answers": [
+        "Trzynastolatką pracującą z dumą",
+        "Małą dziewczynką z zamku",
+        "Nauczycielką w wiejskiej szkole",
+        "Kupiecką handlującą na targu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klaudia ma trzynaście lat, dużo pracuje i jest zbyt dumna, by prosić o pomoc."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Klaudia broni przed Błażejem?",
+      "answers": [
+        "Tylko sąsiadów z wioski",
+        "Zwierzęta bite i krzywdzone",
+        "Braci z dalekiego miasta",
+        "Kupców z porannego targu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Broni zwierząt — m.in. psa Burego, kota i innych — przed krzywdą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kiedy dzwoneczek milczy?",
+      "answers": [
+        "Gdy proszą o pogodę ładną",
+        "Gdy dzwonią o północy równo",
+        "Gdy proszą tylko dla siebie",
+        "Gdy wioska śpi bardzo głęboko"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dzwoneczek milczy, gdy proszono tylko dla siebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Klaudia uczy się przyjmować?",
+      "answers": [
+        "Tylko złoto i drogie dary",
+        "Tylko rozkazy od starszych braci",
+        "Tylko pochwały za ciężką pracę",
+        "Pomoc i troskę od innych ludzi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uczy się przyjmować pomoc — nie tylko dawać i być dumną."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co przynosi mama mimo milczącego dzwoneczka?",
+      "answers": [
+        "Zupę — troskę bez magicznego dźwięku",
+        "Złoto ukryte w starej skrzyni",
+        "List od ojca z dalekiego miasta",
+        "Nowy dzwoneczek z wielkiego targu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dzwoneczek milczał, ale mama i tak przyniosła zupę."
+    }
+  ]
+}

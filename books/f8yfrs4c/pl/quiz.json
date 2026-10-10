@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czego nie chce żaba z tytułu?",
+      "answers": [
+        "Być księciem po pocałunku",
+        "Mieszkać w oczku wodnym",
+        "Rozmawiać z Mileną wieczorem",
+        "Jeść muchy nad brzegiem wody"
+      ],
+      "correctIndex": 0,
+      "explanation": "Żaba nie chce być księciem — chce zostać żabą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie zaczyna się przygoda?",
+      "answers": [
+        "W zamku na wysokim wzgórzu",
+        "Przy oczku wodnym w ogrodzie",
+        "Na targu w wielkim mieście",
+        "W szkole na lekcji przyrody"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akcja zaczyna się przy oczku wodnym."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta odwrócona bajka?",
+      "answers": [
+        "Że każdy musi zostać księciem",
+        "Że żaby istnieją tylko w legendach",
+        "Że można zostać sobą i być w porządku",
+        "Że pocałunek zawsze wszystko zmienia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Można zostać sobą — żaba nie musi być księciem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Które imię pojawia się w otoczeniu Mileny?",
+      "answers": [
+        "Tylko smok z wawelskiej jaskini",
+        "Tylko król z dalekiego zamku",
+        "Tylko rycerz z wielkim mieczem",
+        "Między innymi Gabriel i Kazimierz"
+      ],
+      "correctIndex": 3,
+      "explanation": "W historii pojawiają się m.in. Gabriel, Kazimierz, Benedykt, Estera."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Nie trzeba stawać się kimś innym, by mieć wartość",
+        "Każda żaba powinna zostać księciem od razu i na zawsze",
+        "Pocałunek jest jedyną drogą do trwałego szczęścia w życiu",
+        "Oczko wodne należy zasypać piaskiem oraz ciężkimi kamieniami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie trzeba stawać się kimś innym, żeby mieć wartość."
+    }
+  ]
+}

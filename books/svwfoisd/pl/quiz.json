@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "O czym jest ta bajka?",
+      "answers": [
+        "O Klaudii, która przestaje karmić cień",
+        "O Klaudii, która karmi tylko ptaki",
+        "O Klaudii, która boi się słońca w opowieści",
+        "O Klaudii, która buduje latarnię"
+      ],
+      "correctIndex": 0,
+      "explanation": "To opowieść o Klaudii, która przestaje karmić swój cień."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznacza „karmienie cienia” w tej historii?",
+      "answers": [
+        "Karmienie zwierząt po zmroku w lesie",
+        "Podawanie siły lękom i złym myślom",
+        "Gotowanie kolacji dla całej rodziny",
+        "Malowanie cieni na ścianie pokoju"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karmienie cienia to dawanie siły lękom i ciemnym myślom."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi Klaudia, by zmienić sytuację?",
+      "answers": [
+        "Ucieka z domu na zawsze w nocy w opowieści",
+        "Prosi cień, by zjadł jeszcze więcej",
+        "Przestaje karmić cień i odzyskuje siebie",
+        "Buduje mur między sobą a światłem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przestaje karmić cień — i odzyskuje siebie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki ton ma ta bajka?",
+      "answers": [
+        "Czysto przygodowy bez emocji wewnętrznych",
+        "Komediowy o zwierzętach z farmy",
+        "Historyczny o królach i bitwach",
+        "Psychologiczny — o lęku i wyborze"
+      ],
+      "correctIndex": 3,
+      "explanation": "To bajka o wewnętrznym lęku i decyzji, by nie karmić cienia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "To, czym karmisz strach, rośnie w tobie",
+        "Cień trzeba karmić trzy razy dziennie",
+        "Lęk znika tylko po ucieczce z domu",
+        "Światło nie ma znaczenia w nocy"
+      ],
+      "correctIndex": 0,
+      "explanation": "To, czym karmisz strach, rośnie — więc warto przestać go karmić."
+    }
+  ]
+}

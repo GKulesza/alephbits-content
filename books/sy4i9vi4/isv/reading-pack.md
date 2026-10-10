@@ -443,7 +443,7 @@ Bo inogda najboljši sposob kupiti budučnost je naručiti ju, prěde čem ona j
 - C) Gdańsk, vesna 2020 goda
 - D) Poznań, jesen 2024 goda
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Varšava, avgust 2026 goda.
 **Text reference:** q5
 

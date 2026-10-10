@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czym wyróżniają się włosy Otylii?",
+      "answers": [
+        "Są długie i koloru miodu",
+        "Są krótkie i zawsze czarne",
+        "Są kręcone i srebrzyste",
+        "Są czerwone jak jesienne liście"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia ma długie włosy koloru miodu, sięgające pasa."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto zaplata włosy Otylii każdego ranka?",
+      "answers": [
+        "Babcia Jadwiga przy stole w opowieści",
+        "Mama Halina na ławce przed domem",
+        "Przyjaciółka Pola w szkole",
+        "Amelia z sąsiedniej chatki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mama Halina zaplata je każdego ranka na ławce przed domem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Otylia odkrywa o mocy warkocza?",
+      "answers": [
+        "Że włosy zawsze spełniają każde życzenie",
+        "Że moc znika, gdy je zaplata",
+        "Że prawdziwa moc tkwi w niej samej",
+        "Że tylko babcia może używać mocy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Odkrywa, że moc nie tkwiła we włosach — tkwiła w niej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak Otylia czuje się po tej lekcji?",
+      "answers": [
+        "Słabsza niż kiedykolwiek wcześniej",
+        "Zła na mamę za warkocz w tej historii",
+        "Obojętna wobec własnych włosów",
+        "Silniejsza niż kiedykolwiek wcześniej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Czuje się silniejsza niż kiedykolwiek, choć włosy nie spełniają życzeń."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta?",
+      "answers": [
+        "Prawdziwa moc tkwi w tym, co nosimy w środku",
+        "Prawdziwa moc zawsze siedzi w długich włosach",
+        "Prawdziwa moc należy tylko do babci Jadwigi",
+        "Prawdziwa moc znika po obcięciu warkocza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prawdziwa moc nie tkwi w tym, co widzimy — tkwi w tym, co nosimy w środku."
+    }
+  ]
+}

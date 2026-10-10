@@ -19,25 +19,25 @@
       "type": "single_choice",
       "question": "Čego Maćek uči sę kako otec?",
       "answers": [
-        "Kovati dítě kako metal",
-        "Sluhati, izvinjati sę, byti",
-        "Ignorovati risunky",
-        "Sravnjivati děti?"
+        "Kovati dítě kako kusok metala",
+        "Sluhati, izvinjati sę i byti",
+        "Ignorovati risunky i molčati",
+        "Sravnjivati děti s drugymi"
       ],
       "correctIndex": 1,
-      "explanation": "Sluha, jest prisutny; dítě ne jest metal za kovati."
+      "explanation": "Otec ima sluhati, izvinjati sę i byti prisutny — dítě ne jest metal za kovati."
     },
     {
       "type": "single_choice",
       "question": "Čto dščeri risuje?",
       "answers": [
-        "Avtomobil",
-        "Rodinu: ja, ty i mama — vsi sę",
-        "Kartu Poljsky",
-        "Zmaja?"
+        "Avtomobil stojęći pred domom",
+        "Rodinu smějuću: ja, ty i mama",
+        "Kartu Poljsky na stěně komnaty",
+        "Zmaja s dolgim hvostom v oblakah"
       ],
       "correctIndex": 1,
-      "explanation": "Risunek rodiny, ktora sę směje."
+      "explanation": "Na risunku jest smějuća rodina: ja, ty i mama."
     },
     {
       "type": "single_choice",
@@ -55,13 +55,13 @@
       "type": "single_choice",
       "question": "Čto Maćek čini po pogledu na risunek?",
       "answers": [
-        "Odhodi iz komnaty",
-        "Sěda blizko i prosi: Opovědaš mi o tom",
-        "Kritikuje barvy",
-        "Vygaša svetlo?"
+        "Odhodi iz komnaty bez slova",
+        "Sěda blizko i prosi o pověst",
+        "Kritikuje barvy na kartě",
+        "Vygaša světlo v komnatě"
       ],
       "correctIndex": 1,
-      "explanation": "Sěda blizko i prosi o opovědanje risunka."
+      "explanation": "Sěda blizko syna i prosi, da by opověděl o risunku."
     }
   ]
 }

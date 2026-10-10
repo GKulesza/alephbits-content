@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Milena",
+        "Ignacy",
+        "Kacper",
+        "Sabina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Milena."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest szczególnego w świetle z tytułu?",
+      "answers": [
+        "Świeci tylko w pełnię księżyca",
+        "Mówi — ma swój stary język sygnałów",
+        "Gasnie zawsze o dokładnie północy",
+        "Zmienia kolor co każdą godzinę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Światło mówi — używa starego języka sygnałów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki sygnał pojawia się w historii?",
+      "answers": [
+        "Trzy długie i jedno krótkie zawsze",
+        "Jedno długie bez żadnej przerwy",
+        "Dwa krótkie, jeden długi, dwa krótkie",
+        "Cztery krótkie powtarzane bez końca"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pojawia się sygnał: dwa krótkie, jeden długi, dwa krótkie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta historia?",
+      "answers": [
+        "Że światło nigdy nic nie komunikuje",
+        "Że sygnały są tylko dla dorosłych w opowieści",
+        "Że milczenie jest jedyną odpowiedzią",
+        "Że warto uczyć się języka światła i pomocy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Warto słuchać i rozumieć język światła — to droga do pomocy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się obok Mileny?",
+      "answers": [
+        "Między innymi Ignacy i Kacper",
+        "Tylko król z dalekiego zamku",
+        "Tylko smok z jaskini w górach",
+        "Tylko listonosz z poranną pocztą"
+      ],
+      "correctIndex": 0,
+      "explanation": "W historii pojawiają się m.in. Ignacy i Kacper."
+    }
+  ]
+}

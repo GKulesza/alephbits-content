@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Grażyna na początku opowieści?",
+      "answers": [
+        "Zielarką mieszkającą przy klifach",
+        "Królową z zamku nad wysokim brzegiem",
+        "Nauczycielką śpiewu w dużym mieście",
+        "Kupiecką z targu w starym porcie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grażyna jest zielarką mieszkającą w chatce przy klifach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się dziewczynka z srebrnymi włosami?",
+      "answers": [
+        "Grażyna z chatki zielarki",
+        "Sylwana, córka Grażyny",
+        "Pamięć z wieży kamiennej",
+        "Fabian z lasu nad morzem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sylwana to córka Grażyny — dziewczynka o srebrnych włosach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo spotyka Sylwana i komu pomaga śpiewem?",
+      "answers": [
+        "Zielarce z sąsiedniej chatki",
+        "Królowi z zamku nad falami",
+        "Chłopcu Fabianowi tracącemu wzrok",
+        "Kobietom z targu w porcie w opowieści"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pomaga Fabianowi, chłopcu, który traci wzrok."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co oznaczają srebrne włosy według Sylwany?",
+      "answers": [
+        "Że dają jej magiczną moc czarów",
+        "Że trzeba je ukrywać przed ludźmi",
+        "Że są karą za życie w wieży",
+        "Że przypominają jej o mocy, którą ma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Włosy nie dają mocy — tylko przypominają, że ją ma."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta historii?",
+      "answers": [
+        "Wybaczenie otwiera drzwi zamknięte strachem",
+        "Wieża z kamienia jest jedyną ich ochroną",
+        "Klątwa zawsze pochodzi od złej czarownicy",
+        "Srebrne włosy trzeba ściąć natychmiast"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czasem wystarczy wybaczyć sobie i innym, by zobaczyć otwarte drzwi."
+    }
+  ]
+}

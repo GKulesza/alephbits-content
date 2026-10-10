@@ -419,7 +419,7 @@
 - C) Чи имам прости јеј
 - D) Чи имам молчати ту
 
-**Correct:** B
+**Correct:** A
 **Explanation:** То чо, ја имам быти хујем?
 **Text reference:** q5
 

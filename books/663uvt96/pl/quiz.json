@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się kraina z tej opowieści?",
+      "answers": [
+        "Królestwo Aromatów",
+        "Królestwo Pieprzu",
+        "Królestwo Lawendy",
+        "Królestwo Mięty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Akcja toczy się w królestwie Aromatów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim są rodzice Kornelii?",
+      "answers": [
+        "Kupiec Miron i zielarka Pola",
+        "Król Bazyli i królowa Jadwiga",
+        "Wędrowiec Radzimir i Goryczka",
+        "Ogrodnik Bazyli i piekarka Halina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rodzicami są król Bazyli i królowa Jadwiga."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Kornelia odkrywa w ogrodzie?",
+      "answers": [
+        "Że rośliny milczą zawsze",
+        "Że ogród jest tylko dekoracją",
+        "Że rośliny śpiewają i uczą",
+        "Że ogród należy zamknąć na klucz"
+      ],
+      "correctIndex": 2,
+      "explanation": "W ogrodzie rośliny śpiewają i uczą Kornelię patrzeć inaczej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się historia Kornelii?",
+      "answers": [
+        "Ucieka z królestwa na zawsze",
+        "Zamyka ogród przed wszystkimi",
+        "Sprzedaje zioła wędrowcom w opowieści",
+        "Siedzi z mamą w śpiewającym ogrodzie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kornelia siedzi z mamą w ogrodzie, w którym rośliny śpiewają."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl zakończenia?",
+      "answers": [
+        "Świat nie jest gorzki — czasem jeszcze nie zakwitł",
+        "Świat zawsze jest słodki i łatwy od razu w opowieści",
+        "Tylko królowie rozumieją smak ogrodów w tej historii",
+        "Gorycz trzeba ukrywać przed wszystkimi w tej historii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Puenta: świat nie jest gorzki — czasem po prostu jeszcze nie zakwitł."
+    }
+  ]
+}

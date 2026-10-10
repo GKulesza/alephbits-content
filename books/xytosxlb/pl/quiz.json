@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Patrycja",
+        "Nikola",
+        "Monika",
+        "Renata"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Patrycja."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym jest ta historia?",
+      "answers": [
+        "O wyścigu po złote gwiazdki w szkole",
+        "O gwiazdkach, które musiały poczekać",
+        "O podróży na Księżyc nocą",
+        "O konkursie rysunkowym w klasie"
+      ],
+      "correctIndex": 1,
+      "explanation": "To opowieść o gwiazdkach, które musiały poczekać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy motyw czekania na gwiazdki?",
+      "answers": [
+        "Że nagrody trzeba brać natychmiast",
+        "Że czekanie zawsze jest stratą czasu",
+        "Że niektóre rzeczy dojrzewają z czasem",
+        "Że gwiazdki należą tylko nauczycielom"
+      ],
+      "correctIndex": 2,
+      "explanation": "Niektóre rzeczy — jak gwiazdki — muszą dojrzeć, zanim przyjdą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się obok Patrycji?",
+      "answers": [
+        "Tylko nauczyciel z wielkiej sali",
+        "Tylko sąsiad z naprzeciwka domu w opowieści",
+        "Tylko listonosz z poranną pocztą",
+        "Między innymi Nikola, Monika i Kacper"
+      ],
+      "correctIndex": 3,
+      "explanation": "W historii pojawiają się m.in. Nikola, Monika, Kacper i Renata."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Czasem trzeba poczekać, by dostać to, co ważne",
+        "Czekanie nigdy nie przynosi żadnej nagrody",
+        "Gwiazdki trzeba zgarnąć przed innymi w opowieści",
+        "Tylko dorośli rozumieją wartość czasu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czasem trzeba poczekać, żeby dostać to, co naprawdę ważne."
+    }
+  ]
+}

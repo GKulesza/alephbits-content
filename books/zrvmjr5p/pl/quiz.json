@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Sabina?",
+      "answers": [
+        "Osiem lat",
+        "Pięć lat",
+        "Dwanaście lat",
+        "Piętnaście lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sabina ma osiem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Pod jaki numer Sabina ma zadzwonić w nagłej potrzebie?",
+      "answers": [
+        "Pod numer szkoły Sabiny",
+        "Pod numer alarmowy 112",
+        "Pod numer piekarni z parteru",
+        "Pod numer sąsiadki z góry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mama mówi, by dzwoniła pod 112."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co dzieje się z mamą Justyną?",
+      "answers": [
+        "Wyjeżdża na zawsze do innego miasta",
+        "Zapomina, jak gotować obiad w domu",
+        "Słabnie i potrzebuje szybkiej pomocy",
+        "Kupuje nową doniczkę z bazylią"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama słabnie / mdleje — Sabina musi wezwać pomoc."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co lśni na koszulce Sabiny?",
+      "answers": [
+        "Mały dzwoneczek z metalu",
+        "Naszyjnik z koralików mamy",
+        "Odznaka ze szkolnego konkursu",
+        "Gwiazda — znak odwagi i pomocy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Na koszulce Sabiny lśni gwiazda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta?",
+      "answers": [
+        "Czasem wystarczy jeden telefon i oddech",
+        "Dzieci nie powinny nigdy dzwonić po pomoc",
+        "Tylko dorośli mogą wzywać pogotowie",
+        "Gwiazda na koszulce nic nie znaczy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czasem wystarczy jeden telefon, jeden oddech — i ktoś wraca do domu."
+    }
+  ]
+}

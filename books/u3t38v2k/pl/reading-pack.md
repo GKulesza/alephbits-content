@@ -1,0 +1,456 @@
+# Marcelina i Ważka, Która Chciała Zostać
+
+## Metadata
+
+**Pack ID:** u3t38v2k
+**Book ID:** u3t38v2k
+**Legacy Pack ID:** polish_marcelina_i_wazka_ktora_chcia_a_zostac
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Marcelina i Ważka, Która Chciała Zostać  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp Marcelina miała siedem lat i mieszkała w mieście. Wysoko. Na czwartym piętrze. Z okna widziała dachy, kominy i niebo, które nigdy nie było całkiem ciemne. Bo w mieście nocą świeciły latarnie. I reklamy. I…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Nineteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 8 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Marcelina i Ważka, Która Chciała Zostać — Collection Nineteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Marcelina i Ważka, Która Chciała Zostać, Collection Nineteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Nineteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Nineteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nineteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=dKzm-VCgrZg  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/19 CollectionNineteen.md.
+
+---
+
+## Text
+
+**MARCELINA I WAŻKA, KTÓRA CHCIAŁA ZOSTAĆ**
+
+## Wstęp
+
+Marcelina miała siedem lat i mieszkała w mieście. Wysoko. Na czwartym piętrze. Z okna widziała dachy, kominy i niebo, które nigdy nie było całkiem ciemne. Bo w mieście nocą świeciły latarnie. I reklamy. I światła w oknach sąsiadów.
+
+Marcelina lubiła swoje miasto. Lubiła hałas. Lubiła szybkość. Lubiła, gdy wszystko było zaplanowane. Gdy wiedziała, co będzie. Kiedy. Jak.
+
+Nie lubiła niespodzianek. Nie lubiła brudu. Nie lubiła owadów. A najbardziej nie lubiła czekać.
+
+Pewnego lipca mama powiedziała:
+
+— Marcelino, jedziemy na wieś. Do cioci Stefanii i wujka Romana.
+
+Marcelina spojrzała na nią.
+
+— Na wieś? — zapytała. — A co tam jest?
+
+— Wszystko — powiedziała mama. — Kury. Króliki. Koń. Jezioro. I ważki.
+
+— Ważki? — Marcelina skrzywiła się. — To robale.
+
+— To nie robale. To ważki. Są piękne. I nie gryzą.
+
+— Skąd wiesz?
+
+— Bo byłam tam, kiedy byłam mała.
+
+Marcelina nie była przekonana. Ale spakowała plecak. Włożyła do niego: książkę, kredki, misia, latarkę i mały notes, w którym zapisywała, co ma się wydarzyć. Bo Marcelina lubiła wiedzieć.
+
+## Rozdział pierwszy: Droga
+
+Jechali samochodem długo.
+
+Marcelina patrzyła przez okno. Najpierw były domy. Potem domy i drzewa. Potem tylko drzewa. A potem — pola. Złote. Zielone. Pachnące.
+
+— Daleko jeszcze? — zapytała.
+
+— Niedaleko — powiedziała mama.
+
+— A teraz?
+
+— Marcelino, spójrz.
+
+Marcelina spojrzała. I zobaczyła mały, drewniany dom. Otoczony ogrodem. A przed domem — dwoje ludzi. Kobietę w sukience w kwiatki. I mężczyznę w koszuli w kratę.
+
+— To ciocia Stefania i wujek Roman — powiedziała mama.
+
+Marcelina wysiadła z samochodu. Powietrze było inne. Pachniało trawą. I czymś słodkim. I czymś, czego nie umiała nazwać. Czymś, co nie było spalinami.
+
+— Witaj, Marcelino! — zawołała ciocia Stefania. — Ależ wyrosłaś!
+
+Marcelina niepewnie wyciągnęła rękę. Nie znała cioci. Nie znała wujka. Byli dla niej obcy.
+
+— Chodź — powiedział wujek Roman. — Pokażę ci, co mamy.
+
+## Rozdział drugi: Kurnik
+
+Wujek Roman zaprowadził Marcelinę do drewnianego domku. Przed domkiem spacerowały kury. Duże. Pomarańczowe. Białe.
+
+Marcelina stanęła.
+
+— One mnie nie dziobią? — zapytała.
+
+— Nie — roześmiał się wujek. — Chyba że je przestraszysz.
+
+Marcelina podeszła bliżej. Kury spojrzały na nią. A potem — wróciły do swoich spraw.
+
+— Ta największa to Grace — powiedział wujek. — Jest najbardziej dostojną kurą w całej gromadce.
+
+Marcelina roześmiała się. Grace rzeczywiście szła dumnie. Jak królowa.
+
+— A te małe? — zapytała, wskazując na żółte kulki.
+
+— To kurczaczki. Wykluły się dwa tygodnie temu.
+
+Marcelina uklękła. Jedno kurczątko podeszło do niej. Blisko. A potem — wskoczyło jej na kolano.
+
+— Ojej! — wyszeptała. — Ono mnie lubi!
+
+— Widać — powiedział wujek. — Zwierzęta wiedzą, kto jest dobry.
+
+Marcelina uśmiechnęła się. Po raz pierwszy od przyjazdu.
+
+## Rozdział trzeci: Koń
+
+Potem poszli do stajni.
+
+Marcelina nigdy nie widziała konia z bliska. A ten był duży. Bardzo duży. Biały w popielate plamki. Miał wielkie oczy i miękkie nozdrza.
+
+— To Pegas — powiedział wujek. — Ma trzy lata. Jest spokojny.
+
+— Mogę go pogłaskać? — zapytała Marcelina. Ale jej głos drżał.
+
+— Możesz. Ale powoli.
+
+Marcelina wyciągnęła rękę. Pegas parsknął. Cicho. Dotknęła jego pyska. Był ciepły. Miękki.
+
+I wtedy — poczuła coś pod nogą. Coś miękkiego. I ciepłego.
+
+Spojrzała w dół.
+
+— Fuj! — krzyknęła. — Co to?!
+
+Mama i wujek roześmiali się.
+
+— To kupa — powiedziała mama. — Konie czasem zostawiają takie niespodzianki.
+
+— Ble! — Marcelina odskoczyła. — Dobrze, że w to nie wdepnęłam!
+
+Pegas parsknął głośniej. Jakby się śmiał. A Marcelina — po chwili — też się roześmiała.
+
+## Rozdział czwarty: Ważka
+
+Po obiedzie poszli nad staw.
+
+Wujek Roman wziął taczki.
+
+— Zamawiała pani taksówkę? — zapytał.
+
+Marcelina roześmiała się. Wsiadła do taczek. A wujek — powiózł ją. Szybko. Przez trawę. I wykrzykiwał:
+
+— Pipip! Z drogi!
+
+Nad stawem było cicho. Woda lśniła. Pachniała mułem i słońcem.
+
+I wtedy — coś przeleciało jej nad głową.
+
+Brzęcząc. Głośno. Szybko. Marcelina krzyknęła. Schowała się za mamę.
+
+— Co to?! — zawołała.
+
+— To ważka — powiedziała mama spokojnie.
+
+— Ważka?
+
+— Tak. Nie gryzie. Nie żądli. Po prostu lata.
+
+Marcelina spojrzała. Ważka usiadła na liściu. Miała przezroczyste skrzydła. Lśniące. Jak szkło.
+
+— Jest... piękna — wyszeptała Marcelina.
+
+I wtedy ważka zrobiła coś dziwnego. Przeleciała nad Marceliną. Nisko. A potem — usiadła na jej ramieniu.
+
+Marcelina zamarła. Serce biło jej szybko. Ale nie uciekła.
+
+Ważka przekrzywiła głowę. Jakby patrzyła.
+
+— Cześć — wyszeptała Marcelina.
+
+Ważka poruszyła skrzydłami. A potem — odleciała. Ale wróciła. Za chwilę. I usiadła znowu. Tym razem na jej dłoni.
+
+— Ona chce się zaprzyjaźnić — powiedziała ciocia Stefania.
+
+— Jak to?
+
+— Ważki są ciekawe. I mądre. Ta chyba cię polubiła.
+
+Marcelina patrzyła na ważkę. Na jej oczy. Na jej skrzydła. I poczuła coś, czego nie czuła nigdy wcześniej.
+
+Ciepło.
+
+## Rozdział piąty: Iskra
+
+Marcelina nazwała ważkę **Iskra**.
+
+Bo lśniła. I bo pojawiała się nagle. Jak iskra z ogniska.
+
+Codziennie rano Marcelina siadała na ławce nad stawem. I czekała. Iskra przylatywała. Zawsze. O tej samej porze. Siadała na jej ramieniu. Na dłoni. Na kolanie. A Marcelina — powoli — przestawała się bać.
+
+Pewnego dnia Iskra przyniosła coś w odnóżach. Mały, biały kamyk. Upuściła go na dłoń Marceliny.
+
+— Co to? — zapytała Marcelina.
+
+— Prezent — powiedziała ciocia Stefania. — Ważki czasem przynoszą rzeczy. Kamyki. Patyczki. Liście.
+
+Marcelina schowała kamyk do kieszeni. Był mały. Biały. Ciepły.
+
+— Będę go nosić — powiedziała.
+
+I nosiła. Codziennie.
+
+## Rozdział szósty: Niebezpieczeństwo
+
+Pewnego popołudnia Marcelina poszła nad staw sama.
+
+Iskra jeszcze nie przyleciała. Marcelina usiadła na ławce. Czekała.
+
+I wtedy usłyszała śmiech.
+
+Odwróciła się. Zobaczyła chłopca. Miał może dziewięć lat. Stał przy trzcinach. Trzymał słoik. A w słoiku — ważki. Trzy. Może cztery. Tłukły się o szkło. Bezradnie.
+
+— Co robisz?! — krzyknęła Marcelina.
+
+Chłopiec odwrócił się.
+
+— Łapię ważki — powiedział. — Będę je miał w domu. W słoiku. Będą ładne.
+
+— One umrą! — zawołała Marcelina. — Ważki nie mogą żyć w słoiku!
+
+— A co ci do tego? — Chłopiec wzruszył ramionami. — To moje ważki.
+
+— Nie! — Marcelina poczuła, że coś w niej pęka. Coś gorącego. — To nie są twoje! One żyją tutaj! Przy stawie! I mają rodziny! I przyjaciół!
+
+Chłopiec roześmiał się.
+
+— Ważki nie mają przyjaciół. Są głupie.
+
+I wtedy Marcelina zobaczyła. Iskra. Na trzcinie. Blisko. Bardzo blisko. Chłopiec wyciągnął rękę. Chciał ją złapać.
+
+— Nie! — krzyknęła Marcelina.
+
+Podbiegła. Potknęła się o korzeń. Upadła. W błoto. Mokra. Brudna. Ale wstała. Podbiegła do chłopca. I wyrwała mu słoik.
+
+— Oddaj! — zawołał chłopiec.
+
+— Nie! — Marcelina otworzyła słoik. Ważki wyleciały. Jedna po drugiej. Iskra też.
+
+Chłopiec patrzył na nią. Zły.
+
+— Jesteś głupia — powiedział. I odszedł.
+
+Marcelina stała w błocie. Mokra. Brudna. Drżała. Ale nie bała się.
+
+Po raz pierwszy od dawna — nie bała się.
+
+## Rozdział siódmy: Czekanie
+
+Nazajutrz Marcelina wróciła nad staw.
+
+Usiadła na ławce. Czekała. Iskra nie przyleciała.
+
+Marcelina czekała. Godzinę. Dwie.
+
+— Może już nie wróci — powiedziała mama, siadając obok.
+
+— Wróci — powiedziała Marcelina.
+
+— Skąd wiesz?
+
+— Nie wiem. Ale chcę poczekać.
+
+Mama nic nie powiedziała. Została.
+
+Aż nadszedł wieczór. Słońce schowało się za lasem. Marcelina wstała. Chciała iść do domu.
+
+I wtedy — usłyszała brzęczenie.
+
+Iskra przyleciała. Usiadła na jej dłoni. Zmęczona. Ale żywa.
+
+Marcelina uśmiechnęła się. Łzy napłynęły jej do oczu. Ale nie płakała.
+
+— Wróciłaś — wyszeptała.
+
+## Rozdział ósmy: Pożegnanie
+
+Minął tydzień.
+
+Marcelina wracała do miasta. Spakowała plecak. Kredki. Misia. Latarkę. I biały kamyk.
+
+Poszła nad staw. Ostatni raz. Iskra już czekała.
+
+— Muszę jechać — powiedziała Marcelina. — Do miasta. Tam, gdzie mieszkam.
+
+Iskra przekrzywiła głowę.
+
+— Wrócę — powiedziała Marcelina. — Za rok. Może wcześniej. Ale wrócę.
+
+Iskra poruszyła skrzydłami. A potem — odleciała. Wysoko. Nad staw. Nad las. I zniknęła.
+
+Marcelina patrzyła. Długo. A potem wsiadła do samochodu.
+
+## Zakończenie
+
+W mieście było głośno. Szybko. Pełno.
+
+Marcelina wróciła do swojego pokoju. Otworzyła okno. Spojrzała na dachy. Na kominy. Na niebo.
+
+I wtedy — zobaczyła coś.
+
+Na parapecie. Siedziała ważka. Nie Iskra. Inna. Ale podobna. Lśniła.
+
+Marcelina uśmiechnęła się.
+
+Nie musiała wiedzieć, czy to ta sama. Nie musiała mieć gwarancji.
+
+Wystarczyło, że była.
+
+*Nie wszystko można zaplanować.  
+Nie wszystko wróci.  
+Ale czasem wystarczy poczekać —  
+i zobaczyć, że wróciło.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Gdzie mieszka Marcelina na co dzień?
+
+**Answers:**
+- A) W mieście, na czwartym piętrze
+- B) Na wsi, w chatce przy lesie
+- C) Nad morzem, w domu z latarnią
+- D) W zamku, w wysokiej wieży
+
+**Correct:** A
+**Explanation:** Marcelina mieszka w mieście, na czwartym piętrze.
+**Text reference:** Wstęp
+
+### Question 2
+
+**Question:** Czego Marcelina nie lubi?
+
+**Answers:**
+- A) Planów i jasnych rozkładów dnia
+- B) Niespodzianek, brudu i czekania
+- C) Hałasu miasta i świateł reklam
+- D) Widoku dachów z okna kuchni
+
+**Correct:** B
+**Explanation:** Nie lubi niespodzianek, brudu, owadów i czekania.
+**Text reference:** Wstęp
+
+### Question 3
+
+**Question:** Jak nazywa się ważka z historii?
+
+**Answers:**
+- A) Iskierka z miejskiego parku
+- B) Błyskawica znad wiejskiej łąki
+- C) Iskra, która chce zostać blisko
+- D) Gwiazdka z parapetu na dachu
+
+**Correct:** C
+**Explanation:** Ważka ma na imię Iskra.
+**Text reference:** Rozdział piąty: Iskra
+
+### Question 4
+
+**Question:** Czego uczy się Marcelina?
+
+**Answers:**
+- A) Że wszystko da się zaplanować idealnie
+- B) Że owady trzeba zawsze odganiać
+- C) Że miasto jest lepsze od wsi zawsze
+- D) Że czasem trzeba poczekać bez gwarancji
+
+**Correct:** D
+**Explanation:** Uczy się czekać bez gwarancji — nie wszystko wróci, ale czasem wraca.
+**Text reference:** Zakończenie
+
+### Question 5
+
+**Question:** Co Marcelina widzi po powrocie do miasta?
+
+**Answers:**
+- A) Ważkę na parapecie — podobną do Iskry
+- B) List od mamy z wiejskiego domu
+- C) Nową reklamę świecącą nocą mocno
+- D) Puste niebo bez żadnego owada w opowieści
+
+**Correct:** A
+**Explanation:** Na parapecie siedzi ważka — niekoniecznie ta sama, ale podobna.
+**Text reference:** Zakończenie
+

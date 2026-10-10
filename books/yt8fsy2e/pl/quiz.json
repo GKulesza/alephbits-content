@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Irena",
+        "Kinga",
+        "Marta",
+        "Sabina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Irena."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego Irena nie lubi na początku?",
+      "answers": [
+        "Czytania bajek przed snem wieczorem",
+        "Mycia zębów — unika tej czynności",
+        "Zabawy z maleńkim rycerzem w dzień",
+        "Słuchania szumu szczoteczki rano"
+      ],
+      "correctIndex": 1,
+      "explanation": "Irena nie lubi myć zębów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest przeciwnik w tej bajce?",
+      "answers": [
+        "Smok z jaskini pod zamkiem",
+        "Piracki kapitan z morza w opowieści",
+        "Próchniak — wróg zdrowych zębów",
+        "Olbrzym z lasu za miastem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przeciwnikiem jest Próchniak."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pomaga Irenie w walce o zęby?",
+      "answers": [
+        "Tylko mama z łazienki domowej",
+        "Tylko dentysta z wielkiego miasta",
+        "Tylko nauczyciel z lekcji przyrody",
+        "Maleńki rycerz Maksymilian"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pomaga jej maleńki rycerz Maksymilian."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Dbanie o zęby to mała codzienna odwaga",
+        "Mycie zębów jest tylko dla dorosłych",
+        "Próchniak zawsze wygrywa z dziećmi",
+        "Rycerze nie zajmują się higieną jamy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dbanie o zęby to mała, codzienna odwaga — wart pomocy rycerza."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Klara w miasteczku?",
+      "answers": [
+        "Najmłodszą latarniczką w historii",
+        "Piekarką piekącą bułeczki rano",
+        "Nauczycielką w szkole muzycznej",
+        "Zielarką zbierającą zioła w lesie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klara jest najmłodszą latarniczką w historii miasteczka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co zaczyna się dziać z latarniami?",
+      "answers": [
+        "Zaczynają świecić zbyt jasno",
+        "Zaczynają gasnąć jednej nocy",
+        "Zostają sprzedane do miasta",
+        "Zmieniają kolor na zielony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pewnej nocy latarnie zaczynają gasnąć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto stoi za gaszeniem świateł?",
+      "answers": [
+        "Salomea z domu na wzgórzu",
+        "Pani z piekarni na rogu w opowieści",
+        "Cień, który chce zgasić światło",
+        "Błażej z sąsiedniego miasta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Za gaszeniem stoi Cień, który chce zgasić światło."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Klara robi razem z Błażejem na końcu?",
+      "answers": [
+        "Gaszą ostatnią latarnię w mieście",
+        "Uciekają z miasteczka przed Cieniem",
+        "Sprzedają zapalnik na targu",
+        "Razem zapalają ostatnią latarnię"
+      ],
+      "correctIndex": 3,
+      "explanation": "Razem zapalają ostatnią latarnię i stoją w jej świetle."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta o świetle?",
+      "answers": [
+        "Światło jest po to, żeby być widzianym",
+        "Światło służy tylko do czytania książek",
+        "Światło trzeba chować przed Cieniem",
+        "Światło należy tylko latarniczkom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Światło nie jest po to, żeby widzieć — jest po to, żeby być widzianym."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Nel",
+        "Kamila",
+        "Sylwia",
+        "Alan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Nel."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Promyk?",
+      "answers": [
+        "Sąsiadem z domu naprzeciwko w opowieści",
+        "Istotą / światłem, które zgubiło blask",
+        "Nauczycielem z wieczorowej szkoły",
+        "Psem pilnującym bramy ogrodu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Promyk to istota światła, która zgubiła swój blask."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Nel chce zrobić dla Promyka?",
+      "answers": [
+        "Schować go w szufladzie na zawsze",
+        "Oddać go do sklepu z latarkami",
+        "Pomóc mu odnaleźć utracone światło",
+        "Zastąpić go nową lampką nocną"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nel pomaga Promykowi odnaleźć zgubione światło."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się obok Nel?",
+      "answers": [
+        "Tylko król z dalekiego zamku",
+        "Tylko smok z jaskini w górach",
+        "Tylko listonosz z poranną pocztą",
+        "Między innymi Alan, Kamila i Marcel"
+      ],
+      "correctIndex": 3,
+      "explanation": "W historii pojawiają się m.in. Alan, Kamila, Marcel i Sylwia."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Zgubione światło wraca z pomocą bliskich",
+        "Światło raz zgubione nigdy więcej nie wraca",
+        "Tylko dorośli potrafią zapalać stare latarnie",
+        "Promyk powinien zostać w ciemności na zawsze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Z pomocą bliskich można odzyskać zgubione światło."
+    }
+  ]
+}

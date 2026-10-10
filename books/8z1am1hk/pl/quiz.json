@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bazyli?",
+      "answers": [
+        "Stolarzem mieszkającym przy warsztacie",
+        "Piekarzem piekącym bułki o świcie",
+        "Myśliwym z lasu za miastem w tej historii",
+        "Nauczycielem w szkole rzemiosła"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazyli jest starym stolarzem mieszkającym przy warsztacie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Bazyli wyrzeźbił z drewna?",
+      "answers": [
+        "Duży stół do jadalni",
+        "Małego drewnianego ptaszka",
+        "Łódkę do spływu rzeką",
+        "Skrzynię na stare narzędzia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyrzeźbił małego drewnianego ptaszka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy się drewniany ptaszek?",
+      "answers": [
+        "Że musi stać się żywym ptakiem",
+        "Że niebo jest tylko za oknem w opowieści",
+        "Że nie musi być kimś, kim nie jest",
+        "Że drewno jest gorsze od piór"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uczy się, że nie musi być kimś innym — jego niebo jest w środku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co ptaszek znajduje obok siebie na końcu?",
+      "answers": [
+        "Nowy warsztat pełen narzędzi",
+        "List od Bazylego z miasta",
+        "Klatkę zamkniętą na kłódkę",
+        "Małe prawdziwe piórko"
+      ],
+      "correctIndex": 3,
+      "explanation": "Obok niego leży małe, prawdziwe piórko."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta?",
+      "answers": [
+        "Wystarczy być sobą — niebo samo się otworzy",
+        "Trzeba zawsze udawać żywego ptaka",
+        "Tylko stolarze rozumieją prawdziwe niebo",
+        "Drewniane skrzydła trzeba wymienić na pióra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie musisz być kimś innym — wystarczy być sobą, a niebo się otworzy."
+    }
+  ]
+}

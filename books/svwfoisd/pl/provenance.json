@@ -1,0 +1,24 @@
+{
+  "packId": "svwfoisd:pl",
+  "bookId": "svwfoisd",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-10",
+  "lastReviewedAt": "2026-10-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/19 CollectionNineteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "17q-9oR3ups"
+    }
+  ],
+  "revisionNotes": "Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated)."
+}

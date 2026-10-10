@@ -309,7 +309,7 @@ I to jest najkrasnejše v igrah. Že daže ako grači nikogda ne poznajut tih hi
 - C) Igra Mario Bros
 - D) Igra Pong
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Field Goal – klon Breakouta.
 **Text reference:** q3
 
@@ -337,7 +337,7 @@ I to jest najkrasnejše v igrah. Že daže ako grači nikogda ne poznajut tih hi
 - C) Film i teatr
 - D) Knygy i komiks
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Kosmos Fudžity i mehanika igry.
 **Text reference:** q5
 

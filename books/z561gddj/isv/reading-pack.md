@@ -419,7 +419,7 @@ Bo někogda najlěpše, čto možno sdělati, jest prěstati byti "milym mužem"
 - C) Či imam prosti jej
 - D) Či imam molčati tu
 
-**Correct:** B
+**Correct:** A
 **Explanation:** To čo, ja imam byti hujem?
 **Text reference:** q5
 

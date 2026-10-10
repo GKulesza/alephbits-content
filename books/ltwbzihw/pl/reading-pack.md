@@ -287,7 +287,7 @@ I to jest najpiękniejsze w grach. Że nawet jeśli gracze nigdy nie poznają ty
 - C) Gra Mario Bros
 - D) Gra Pong
 
-**Correct:** C
+**Correct:** A
 **Explanation:** Field Goal – klon Breakouta.
 **Text reference:** Field Goal
 
@@ -315,7 +315,7 @@ I to jest najpiękniejsze w grach. Że nawet jeśli gracze nigdy nie poznają ty
 - C) Film i teatr
 - D) Książki i komiks
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Kosmos Fujity i mechanika gry.
 **Text reference:** kosmos
 

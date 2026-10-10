@@ -1,0 +1,7 @@
+book_id: "4j8iusev"
+created: "2026-10-10"
+status: "official"
+default_locale: "pl"
+legacy_pack_ids:
+  - "polish_pusta_karta"
+legacy_slug: "pusta-karta"

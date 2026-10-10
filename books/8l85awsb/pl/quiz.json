@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jaka jest największa słabość Judyty?",
+      "answers": [
+        "Uwielbia słodycze i cukierki",
+        "Boii się chodzić do szkoły",
+        "Nie lubi pieczywa mamy",
+        "Unika rozmów z babcią"
+      ],
+      "correctIndex": 0,
+      "explanation": "Judyta ma wielką słabość do słodyczy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest mama Judyty?",
+      "answers": [
+        "Nauczycielką w szkole podstawowej",
+        "Piekarką wstającą o świcie",
+        "Zielarką z chatki w lesie",
+        "Sprzedawczynią w sklepie spożywczym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mama Halina jest piekarką i wstaje o świcie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy się Judyta dzięki Księdze Smaków?",
+      "answers": [
+        "Że trzeba ukrywać wszystkie przekąski",
+        "Że cukier jest zawsze najlepszy",
+        "Że trzeba pisać prawdę o tym, co je",
+        "Że książki smakują jak czekolada"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uczy się pisać prawdę o tym, co naprawdę zjadła."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co mama mówi o zielonych ludzikach z rysunku?",
+      "answers": [
+        "Że trzeba je natychmiast zmazać",
+        "Że to tylko zwykłe plamy tuszu",
+        "Że nie powinna więcej rysować",
+        "Że też je widzi i są piękne"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mama mówi, że też widzi zielone ludziki i są piękne."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest puenta historii?",
+      "answers": [
+        "Nie musisz być idealny — musisz tylko patrzeć",
+        "Słodycze zawsze rozwiązują każdy problem",
+        "Tylko dorośli potrafią pisać prawdę w opowieści",
+        "Księga Smaków powinna zostać zamknięta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie musisz być idealny. Musisz tylko patrzeć — i wtedy możesz wybrać."
+    }
+  ]
+}

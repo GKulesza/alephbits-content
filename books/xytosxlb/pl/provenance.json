@@ -1,0 +1,24 @@
+{
+  "packId": "xytosxlb:pl",
+  "bookId": "xytosxlb",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "editorialStatus": "official",
+  "createdAt": "2026-10-10",
+  "lastReviewedAt": "2026-10-10",
+  "editors": [
+    "AlephBits Editorial"
+  ],
+  "aiAssistance": {
+    "used": true,
+    "tools": [],
+    "humanReview": "From AwesomeVault Books/18 CollectionEithteen.md."
+  },
+  "sources": [
+    {
+      "type": "youtube",
+      "videoId": "kUGKv3cmr0Y"
+    }
+  ],
+  "revisionNotes": "Collection Eighteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated)."
+}

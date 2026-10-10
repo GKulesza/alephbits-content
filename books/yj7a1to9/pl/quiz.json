@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się wyścig?",
+      "answers": [
+        "W Sosnowej Dolinie",
+        "W Krakowie na rynku",
+        "W Gdańsku nad morzem",
+        "W Warszawie na Starówce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Akcja dzieje się w Sosnowej Dolinie."
+    },
+    {
+      "type": "single_choice",
+      "question": "O co toczy się wyścig?",
+      "answers": [
+        "O srebrną podkowę z muzeum",
+        "O Złotą Podkowę",
+        "O koronę burmistrza Jerzego",
+        "O mapę do ukrytego skarbu"
+      ],
+      "correctIndex": 1,
+      "explanation": "To Wielki Wyścig o Złotą Podkowę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Stanisław?",
+      "answers": [
+        "Burmistrzem Sosnowej Doliny",
+        "Kowalem kuującym złote podkowy",
+        "Szeryfem dbającym o uczciwy wyścig",
+        "Jeźdźcem startującym po nagrodę dnia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stanisław jest szeryfem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta westernowa bajka?",
+      "answers": [
+        "Że wygrywa ten, kto oszukuje sprytniej",
+        "Że podkowa należy tylko burmistrzowi w opowieści",
+        "Że wyścigi są ważniejsze od przyjaźni",
+        "Że uczciwość i odwaga znaczą więcej niż pęd"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uczciwość i odwaga znaczą więcej niż samo wygranie wyścigu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto jest burmistrzem w tej historii?",
+      "answers": [
+        "Burmistrz Jerzy z Sosnowej Doliny",
+        "Szeryf Stanisław z urzędu gminy",
+        "Kowal Benedykt z kuźni na rogu",
+        "Helena z domu przy głównej ulicy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Burmistrzem jest Jerzy."
+    }
+  ]
+}

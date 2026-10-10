@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie Milena trzyma swoje karty?",
+      "answers": [
+        "W drewnianym organizerze przy oknie",
+        "W szufladzie biurka szkolnego jej",
+        "W pudełku pod łóżkiem na strychu",
+        "W plecaku schowanym w szafie sypialni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karty leżą w drewnianym organizerze w kąciku przy oknie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Ile lat ma Milena?",
+      "answers": [
+        "Pięć lat i lubi baśnie",
+        "Siedem lat i lubi karty",
+        "Dziewięć lat i lubi szkołę",
+        "Jedenaście lat i lubi teatr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milena ma siedem lat."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest szczególnego w Pustej Karcie?",
+      "answers": [
+        "Ma najpiękniejszą okładkę ze wszystkich",
+        "Opowiada tylko historie o smokach",
+        "Czeka na historię, którą sama opowie",
+        "Należy wyłącznie do brata Teodora"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pusta Karta czeka na historię, którą Milena sama opowie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego boi się Teodor?",
+      "answers": [
+        "Czytania cudzych książek na głos",
+        "Rysowania obrazków na kartach",
+        "Słuchania opowieści przed snem",
+        "Opowiadania własnych historii"
+      ],
+      "correctIndex": 3,
+      "explanation": "Teodor boi się opowiadać — aż Milena pomaga mu zacząć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Milena planuje na jutro?",
+      "answers": [
+        "Opowiedzieć kolejną własną historię",
+        "Schować Pustą Kartę na zawsze w opowieści",
+        "Oddać wszystkie karty Teodorowi",
+        "Kupić nowy organizer w sklepie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mówi, że jutro opowie kolejną historię."
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+# Detektyw Diana i Znikające Kartki
+
+## Metadata
+
+**Pack ID:** i5w51r5h
+**Book ID:** i5w51r5h
+**Legacy Pack ID:** polish_detektyw_diana_i_znikajace_kartki
+**Version:** 1.0.0  
+**Edition version:** 1.0.0  
+
+**Title:** Detektyw Diana i Znikające Kartki  
+**Subtitle:** *(none)*  
+**Blurb:** ## Wstęp Był poranek z błękitnym niebem. Mokry bruk jeszcze lśnił po deszczu, a niskie latarnie dawały ciepłe, bursztynowe światło. Na skwerze przy tablicy osiedlowej stała dziewczynka o imieniu **Diana**. Diana miała…
+
+**Genres:** ['fairy_tale']  
+**Series:** Collection Nineteen  
+**Audience:** children
+
+**Difficulty:** 2 (of 8)  
+**Reader difficulty:** ★★☆☆☆  
+**Estimated reading time:** 9 minutes
+
+**Publication date:** *(original — 2026)*  
+**Historical period:** contemporary  
+
+**Original language:** pl  
+**Translation summary:** Detektyw Diana i Znikające Kartki — Collection Nineteen official reading pack (Polish).  
+
+**Writing system:** glagolitic  
+**Recommended profile:** polish_default  
+**Recommended level:** 2  
+
+**Tags:** ['polish', 'fairy_tale', 'collection']  
+
+**Keywords:** Detektyw Diana i Znikające Kartki, Collection Nineteen  
+
+**Cover family:** fantasy
+
+**Editorial notes:** Collection Nineteen — Polish original; naturally length-balanced quizzes; import 2026-10-10.
+
+---
+
+**World:**
+{'places': ['home', 'nature']}
+
+## Editorial Transparency
+
+**Created by:** AlephBits Editorial  
+**Editor:** AlephBits Editorial  
+**LLM assisted:** yes  
+**LLM model:** Claude  
+**Human reviewed:** yes — 2026-10-10  
+**Trust classification:** Fiction  
+**License:** CC0 1.0 Universal (SPDX: CC0-1.0)  
+**License URL:** https://creativecommons.org/publicdomain/zero/1.0/  
+**Revision notes:** Collection Nineteen import — Polish only; quiz answers rewritten to matching grammatical shape (not truncated).
+
+### Revision history
+
+| Version | Date | Note |
+|---------|------|------|
+| 1.0.0 | 2026-10-10 | Collection Nineteen editorial import (PL). |
+
+### Editorial history
+
+| Date | Editor | Note |
+|------|--------|------|
+| 2026-10-10 | AlephBits Editorial | Normalized manuscript; quizzes with natural answer-length balance. |
+
+---
+
+## Sources
+
+### Source 1: Collection Nineteen manuscript
+
+**Author:** AlephBits Editorial (adaptation)  
+**URL:** https://www.youtube.com/watch?v=yejK6P6uCq4  
+**License:** CC0 1.0 Universal  
+**Retrieval date:** 2026-10-10  
+**Availability:** original  
+**Deprecated:** no  
+**Editor notes:** From AwesomeVault Books/19 CollectionNineteen.md.
+
+---
+
+## Text
+
+**DETEKTYW DIANA I ZNIKAJĄCE KARTKI**
+
+## Wstęp
+
+Był poranek z błękitnym niebem. Mokry bruk jeszcze lśnił po deszczu, a niskie latarnie dawały ciepłe, bursztynowe światło. Na skwerze przy tablicy osiedlowej stała dziewczynka o imieniu **Diana**.
+
+Diana miała jedenaście lat, jasne włosy spięte w kucyk i kieszenie pełne skrawków papieru. Zawsze nosiła przy sobie mały notatnik i ołówek. A na szyi — zawieszkę w kształcie lupy.
+
+Diana lubiła rozwiązywać zagadki, których nikt inny nie widział.
+
+Obok niej przeciągnął się kot o srebrzystej sierści. Miał na imię **Gabriel**. Był stary, mądry i zawsze wiedział, gdzie warto zajrzeć.
+
+— No dobrze, Gabrielu — powiedziała Diana. — Co dziś mamy?
+
+Gabriel zamiauczał. Cicho. I spojrzał na tablicę ogłoszeń.
+
+Diana spojrzała. I zamarła.
+
+Tablica była prawie pusta.
+
+## Rozdział pierwszy: Pusta tablica
+
+Jeszcze wczoraj tablica była pełna. Kolorowe kartki. Ogłoszenia. Rysunki dzieci. Naklejki. A dziś — została tylko jedna, samotna kartka. Z ogłoszeniem o zaginionym parasolu.
+
+Diana podeszła bliżej. Przesunęła palcem po drewnianej ramie. Była wilgotna. Pachniała deszczem i starym klejem.
+
+— Ktoś je zdjął — wyszeptała. — Wszystkie. Oprócz jednej.
+
+Gabriel wskoczył na ławkę obok. Zamruczał.
+
+— Wiem — powiedziała Diana. — To dziwne. Nikt nie zdejmuje wszystkich ogłoszeń. Chyba że...
+
+Nie dokończyła. Bo w brzuchu coś jej podskoczyło. To zawsze znaczyło, że zaczyna się coś ciekawego.
+
+## Rozdział drugi: Ślady
+
+Diana wyjęła notatnik. Zaczęła pisać.
+
+**„Tablica. Prawie pusta. Jedna kartka została. Kto? Dlaczego? Gdzie reszta?"**
+
+Rozejrzała się. Na ziemi — pod tablicą — leżały małe skrawki papieru. Kolorowe. Jakby ktoś je zdzierał. Pośpiesznie.
+
+Diana przykucnęła. Zebrała skrawki. Włożyła do kieszeni.
+
+— Gabrielu — powiedziała. — Idziemy.
+
+Gabriel zeskoczył z ławki. Ruszył przodem.
+
+## Rozdział trzeci: Pan Andrzej
+
+Pierwszy przystanek — pan **Andrzej**.
+
+Andrzej mieszkał na parterze. Miał rower i zawsze narzekał, że ktoś go przestawia. Diana wiedziała, że wczoraj wieczorem kręcił się przy tablicy.
+
+— Dzień dobry — powiedziała Diana. — Zniknęły kartki z tablicy.
+
+— Wiem — powiedział Andrzej. — Widziałem.
+
+— Kto je zdjął?
+
+Andrzej wzruszył ramionami.
+
+— Nie wiem. Ale ja tam tylko rower przypinałem. A te kartki to i tak były stare. Kto by je czytał?
+
+Diana zmarszczyła brwi. Pan Andrzej nie wyglądał na winnego. Ale nie wyglądał też na kogoś, kto mówi prawdę.
+
+Zapisała. **„Andrzej. Przy tablicy. Twierdzi, że nic nie widział. Ale coś wie."**
+
+## Rozdział czwarty: Fałszywy trop
+
+Diana poszła na plac zabaw.
+
+Tam — na ławce — siedział chłopiec. Starszy. Miał może dwanaście lat. W ręce trzymał kolorową kartkę. Rysunek.
+
+Diana podeszła.
+
+— Cześć — powiedziała. — Skąd masz ten rysunek?
+
+Chłopiec spojrzał na nią.
+
+— Znalazłem.
+
+— Gdzie?
+
+— Na ziemi.
+
+Diana przyjrzała się rysunkowi. Był na nim parasol. Ten sam, co na tablicy.
+
+— To z tablicy — powiedziała. — Ktoś go zdjął.
+
+Chłopiec wzruszył ramionami.
+
+— Nie ja. Znalazłem go rano.
+
+Diana nie wierzyła. Wyglądał na kogoś, kto mógłby zdjąć kartki. Może dla zabawy. Może na złość.
+
+— Jak się nazywasz? — zapytała.
+
+— **Krystian**.
+
+— Krystianie — powiedziała Diana. — Jeśli ty to zrobiłeś, lepiej się przyznaj. Wiem, że to ty.
+
+Krystian wstał. Był wyższy od niej. Spojrzał na nią z góry.
+
+— Nic nie zrobiłem — powiedział. — I przestań mnie oskarżać.
+
+Odszedł.
+
+Diana stała. Czuła, że coś zrobiła źle. Ale nie wiedziała co.
+
+Gabriel miauknął. Cicho. Jakby mówił: „Nie tak."
+
+## Rozdział piąty: Urszula
+
+Poszła do pani **Urszuli**.
+
+Urszula mieszkała na parterze. Miała ogródek pełen kwiatów i zawsze wiedziała, co się dzieje na osiedlu.
+
+— Dzień dobry — powiedziała Diana. — Zniknęły kartki z tablicy.
+
+Urszula zmarszczyła brwi.
+
+— Wszystkie? Oprócz tej o parasolu?
+
+— Tak. Skąd pani wie?
+
+— Bo ja ją tam wczoraj wieszałam. A potem widziałam kogoś. Małego. W kapturze. Stał przy tablicy. Długo.
+
+— Kto to był?
+
+— Nie wiem. Ale miał ze sobą teczkę. Czerwoną.
+
+Diana zapisała. **„Mały. Kaptur. Czerwona teczka."**
+
+— A może to była dziewczynka? — zapytała Diana.
+
+— Może. Nie wiem. Było ciemno.
+
+Diana podziękowała. Wyszła.
+
+Gabriel zamiauczał. Głośno. I pobiegł w stronę placu zabaw.
+
+— Gabrielu! — zawołała Diana. — Co ty robisz?
+
+Ale Gabriel nie słuchał. Biegł przed siebie.
+
+## Rozdział szósty: Gabriel
+
+Gabriel zatrzymał się przy ławce. Tej samej, gdzie siedział Krystian. Obok ławki leżała czerwona teczka.
+
+Diana podeszła. Zobaczyła teczkę. A obok — ślady małych stóp. W błocie.
+
+— Gabrielu — wyszeptała. — Ty coś wiesz.
+
+Gabriel wskoczył na ławkę. Zamruczał. I spojrzał na krzaki obok.
+
+Diana spojrzała. W krzakach — ktoś siedział. Mały. W kapturze.
+
+— Halo? — powiedziała Diana.
+
+Ktoś drgnął. A potem — wstał.
+
+To był chłopiec. Miał może osiem lat. Był przestraszony.
+
+— Cześć — powiedziała Diana. — Jestem Diana.
+
+Chłopiec milczał.
+
+— A ty?
+
+— **Beniamin** — wyszeptał.
+
+— Beniaminie — powiedziała Diana. — Czy to twoja teczka?
+
+Chłopiec skinął głową.
+
+— A co w niej jest?
+
+Beniamin milczał. A potem — zacisnął teczkę. Mocno.
+
+— Nic — powiedział. — Pusta.
+
+Diana spojrzała na niego. Na jego oczy. Na jego dłonie. Na teczkę, która była wypchana.
+
+— Beniaminie — powiedziała cicho. — Wiem, że to nieprawda.
+
+Chłopiec milczał.
+
+— Nie zrobię ci nic złego. Chcę tylko wiedzieć, co się stało.
+
+Beniamin milczał długo. A potem — otworzył teczkę.
+
+W środku były kartki. Wszystkie. Kolorowe. Z tablicy.
+
+## Rozdział siódmy: Prawda
+
+— Dlaczego je zabrałeś? — zapytała Diana.
+
+Beniamin spuścił wzrok.
+
+— Bo... bo chcę napisać list — wyszeptał.
+
+— Do kogo?
+
+— Do mamy. Wyjechała. Do pracy. Za granicę. I nie ma mnie z kim zostawić. Jestem u babci. I... i chcę jej napisać. Ale nie mam papieru.
+
+— Nie masz papieru?
+
+— Babcia nie ma. A ja... ja nie chciałem prosić. Bo pomyślałem, że to głupie. Wszyscy mają papier. Tylko ja nie.
+
+Diana milczała.
+
+— Wiem, że nie powinienem — powiedział Beniamin. — Wiem, że to były czyjeś kartki. Ale... ale ja tak tęsknię.
+
+Diana poczuła, że coś ściska ją w gardle. Bo ona też tęskniła. Za tatą. Który pracował w innym mieście. Który przyjeżdżał tylko na weekendy. Który pisał do niej listy. Krótkie. Ale pisał.
+
+— Beniaminie — powiedziała. — Rozumiem.
+
+— Naprawdę?
+
+— Naprawdę. Ja też mam kogoś, kto wyjechał. Tatę. I też piszę do niego listy.
+
+Beniamin spojrzał na nią.
+
+— To ty też masz papier?
+
+— Mam. Dużo. Mogę ci dać.
+
+— Naprawdę?
+
+— Naprawdę. Ale najpierw — powiesimy te kartki z powrotem.
+
+## Rozdział ósmy: Powrót
+
+Poszli razem.
+
+Beniamin niósł teczkę. Diana — skrawki, które zebrała. Gabriel szedł przodem.
+
+Na tablicy — wieszali kartki. Jedną po drugiej.
+
+Ludzie przechodzili. Patrzyli. Uśmiechali się.
+
+— O, mój rower! — zawołał pan Andrzej. — Myślałem, że już nikt nie odpowie.
+
+— A moje urodziny! — pisnęła mała **Nel**. — Myślałam, że nikt nie przyjdzie!
+
+Diana uśmiechnęła się. A Beniamin — po raz pierwszy od dawna — też.
+
+Podeszła starsza pani. **Salomea**. Trzymała kartkę. Tę o parasolu.
+
+— To moje — powiedziała cicho. — Zgubiłam parasol. W dniu rocznicy ślubu. Mój mąż... nie żyje. A parasol był jego.
+
+Diana spojrzała na nią.
+
+— Wieszamy go z powrotem — powiedziała.
+
+— Dziękuję.
+
+## Rozdział dziewiąty: List
+
+Poszli do Diany.
+
+Diana wyjęła papier. Kolorowy. Z gwiazdkami.
+
+— Proszę — powiedziała. — Napisz.
+
+Beniamin wziął ołówek. Usiadł przy stole. I zaczął pisać.
+
+**„Kochana Mamo. Tęsknię. Uczę się pisać. Diana mi pomaga. I kot Gabriel. Wszystko u mnie dobrze. Wróć, jak będziesz mogła. Twój Beniamin."**
+
+Skończył. Spojrzał na Dianę.
+
+— Myślisz, że się ucieszy?
+
+— Myślę, że bardzo — powiedziała Diana.
+
+Beniamin złożył list. Włożył do koperty. Zaadresował.
+
+— Wyślę go jutro — powiedział.
+
+— Ja ci pomogę — powiedziała Diana.
+
+Gabriel wskoczył na kolana Beniamina. Zwinął się w kłębek. Zamruczał.
+
+A Beniamin — po raz pierwszy od tygodni — poczuł, że jest dobrze.
+
+## Rozdział dziesiąty: Czekanie
+
+Minął tydzień.
+
+Beniamin przychodził na skwer codziennie. Patrzył na tablicę. I czekał.
+
+— Nie ma odpowiedzi — powiedział pewnego dnia.
+
+— Listy idą długo — powiedziała Diana.
+
+— A jeśli nie dojdzie?
+
+— Dojdzie.
+
+— A jeśli mama nie odpisze?
+
+— Odpisze.
+
+Beniamin milczał.
+
+— Wiesz co? — powiedziała Diana. — Czekanie też jest częścią pisania. Ja czekam na listy od taty. Czasem długo. Ale zawsze przychodzą.
+
+Beniamin spojrzał na nią.
+
+— Zawsze?
+
+— Zawsze.
+
+## Rozdział jedenasty: Odpowiedź
+
+Minęły dwa tygodnie.
+
+Pewnego ranka Beniamin przybiegł na skwer. Zdyszany. Trzymał kopertę.
+
+— Jest! — zawołał. — Odpisała!
+
+Diana uśmiechnęła się.
+
+Beniamin otworzył kopertę. Wyjął list. Przeczytał.
+
+**„Kochany Synku. Dziękuję za list. Tęsknię. Wrócę na wakacje. Ściskam Cię mocno. Mama."**
+
+Beniamin przeczytał jeszcze raz. A potem — spojrzał na Dianę.
+
+— Wróci — powiedział. — Na wakacje.
+
+— Wiem — powiedziała Diana.
+
+A potem — Beniamin zrobił coś, czego się nie spodziewała. Wyjął kartkę. Napisał coś. I powiesił na tablicy.
+
+**„Dziękuję, Diano. Dziękuję, Gabrielu. Mama odpisała. Wróci na wakacje."**
+
+## Zakończenie
+
+Diana przeczytała. Uśmiechnęła się.
+
+Gabriel zamiauczał. A potem — poszedł przodem. Bo miał jeszcze jedną sprawę do rozwiązania. Ale to już inna historia.
+
+Diana wróciła do domu. Usiadła przy biurku. Otworzyła notatnik.
+
+**„Sprawa zamknięta."**
+
+Zamknęła notatnik. Wstała. I poszła spać.
+
+*Nie wszystko, co znika, jest stracone.  
+Czasem trzeba tylko zrozumieć, dlaczego zniknęło.*
+
+---
+
+## Quiz
+
+**Quiz title:** Sprawdź zrozumienie
+
+### Question 1
+
+**Question:** Kim jest Diana?
+
+**Answers:**
+- A) Detektyw śledząca znikające kartki
+- B) Piekarka piekąca bułki o świcie
+- C) Nauczycielka matematyki w szkole
+- D) Zielarka z chatki za lasem
+
+**Correct:** A
+**Explanation:** Diana jest detektywem badającą znikające kartki.
+**Text reference:** Tytuł
+
+### Question 2
+
+**Question:** Co znika w tej historii?
+
+**Answers:**
+- A) Klucze do szkolnej sali gimnastycznej
+- B) Kartki — tropy potrzebne do zagadki
+- C) Rowery z wiaty przed szkołą
+- D) Kredki z piórnika koleżanki Diany
+
+**Correct:** B
+**Explanation:** Znikają kartki — stąd tytuł i śledztwo.
+**Text reference:** Tytuł / treść
+
+### Question 3
+
+**Question:** Jaki trop pojawia się w notatce?
+
+**Answers:**
+- A) Duży. Peleryna. Niebieska teczka.
+- B) Mały. Kapelusz. Zielona torba.
+- C) Mały. Kaptur. Czerwona teczka.
+- D) Wysoki. Szalik. Żółta teczką.
+
+**Correct:** C
+**Explanation:** Trop brzmi: „Mały. Kaptur. Czerwona teczka.”
+**Text reference:** Notatka w treści
+
+### Question 4
+
+**Question:** Czego uczy ta detektywistyczna bajka?
+
+**Answers:**
+- A) Że zagadki rozwiązuje tylko przypadek
+- B) Że kartki nigdy nie są ważne
+- C) Że detektyw pracuje zawsze samotnie
+- D) Że uważność i tropy prowadzą do prawdy
+
+**Correct:** D
+**Explanation:** Uważność, tropy i współpraca prowadzą do rozwiązania.
+**Text reference:** Puenta
+
+### Question 5
+
+**Question:** Kto pojawia się w otoczeniu Diany?
+
+**Answers:**
+- A) Między innymi Gabriel, Andrzej i Krystian
+- B) Tylko smok z krakowskiej jaskini
+- C) Tylko królowa z dalekiego zamku w opowieści
+- D) Tylko listonosz z poranną pocztą
+
+**Correct:** A
+**Explanation:** W historii pojawiają się m.in. Gabriel, Andrzej, Krystian, Urszula.
+**Text reference:** Treść
+

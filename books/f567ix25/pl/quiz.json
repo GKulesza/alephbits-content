@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Bartek na początku opowieści?",
+      "answers": [
+        "Wiewiórkiem mieszkającym pod dębem",
+        "Królikiem z sąsiedniej polany",
+        "Jeżem zbierającym kasztany",
+        "Ptaszkiem gniazdującym w sośnie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bartek to wiewiórek mieszkający w norce pod starym dębem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto wyrzeźbił drewniany uśmiech dla Bartka?",
+      "answers": [
+        "Mama Otylia przy stole",
+        "Dziadek Marcel przy oknie",
+        "Antek z polany leśnej",
+        "Sonia z sąsiedniej norki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uśmiech wyrzeźbił dziadek Marcel, gdy Bartek był mały."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co robi mama, gdy Bartek zgubił uśmiech?",
+      "answers": [
+        "Kupuje nowy w sklepie",
+        "Kara go za nieuważność",
+        "Proponuje zostać detektywem",
+        "Mówi, by zapomniał o tym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mama proponuje, żeby został detektywem zagubionych uśmiechów."
+    },
+    {
+      "type": "single_choice",
+      "question": "Komu Bartek ostatecznie oddaje uśmiech?",
+      "answers": [
+        "Antkowi znad strumyka",
+        "Lidii z polany leśnej",
+        "Mamie Otylii do kieszeni",
+        "Soni, która go potrzebuje"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bartek oddaje uśmiech Soni, żeby zrozumieć jego wartość."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy zakończenie historii?",
+      "answers": [
+        "Że czasem trzeba oddać, by zrozumieć wartość",
+        "Że zagubione rzeczy zawsze wracają same",
+        "Że drewno jest ważniejsze od przyjaźni",
+        "Że detektyw zawsze znajduje skarb pierwszy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najważniejsze rzeczy czasem trzeba komuś dać, by zrozumieć ich wartość."
+    }
+  ]
+}

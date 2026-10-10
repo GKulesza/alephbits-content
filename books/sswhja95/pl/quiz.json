@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się ta historia?",
+      "answers": [
+        "W Muszelkowie nad zatoką",
+        "W górach pod śnieżnym szczytem",
+        "W lesie za wielkim miastem",
+        "Na pustyni wśród wydm złotych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Akcja dzieje się w Muszelkowie / nad zatoką."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się foczka?",
+      "answers": [
+        "Muszelka z Zatoki Szeptów",
+        "Kropka — foczka z zatoki",
+        "Fala z domu Sandry i Norberta",
+        "Perła z sieci rybackiej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foczka ma na imię Kropka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim są Sandra i Norbert?",
+      "answers": [
+        "Rybakami z wielkiego portu tylko w tej historii",
+        "Nauczycielami w szkole nurkowania w opowieści",
+        "Dziećmi / bohaterami opiekującymi się foczką",
+        "Strażnikami latarni morskiej w nocy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sandra i Norbert to bohaterowie opiekujący się foczką Kropką."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta nadmorska bajka?",
+      "answers": [
+        "Że foczki nie potrzebują ludzkiej troski",
+        "Że morze jest tylko do zabawy latem",
+        "Że pytania Norberta nie mają sensu",
+        "Że opieka i uważność chronią słabszych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Opieka, pytania i uważność pomagają chronić Kropkę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się zatoka w tej historii?",
+      "answers": [
+        "Zatoka Muszli / Zatoka Szeptów",
+        "Zatoka Smoków spod Wawelu",
+        "Zatoka Burz z oceanu północy",
+        "Zatoka Lodowa spod biegunów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pojawia się Zatoka Muszli i Zatoka Szeptów."
+    }
+  ]
+}

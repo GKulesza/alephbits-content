@@ -416,7 +416,7 @@ Bo czasem najlepszym sposobem na kupienie przyszłości jest zamówienie jej, za
 - C) Gdańsk, wiosna 2020 roku
 - D) Poznań, jesień 2024 roku
 
-**Correct:** B
+**Correct:** A
 **Explanation:** Warszawa, sierpień 2026 roku.
 **Text reference:** Warszawa
 

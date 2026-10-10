@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się chłopiec z placu budowy?",
+      "answers": [
+        "Sebastian z placu budowy",
+        "Mateusz z sąsiedniej budowy",
+        "Żółtek z placu maszyn",
+        "Dominik z biura budowy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterem jest Sebastian."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego chce koparka w tej historii?",
+      "answers": [
+        "Pracować zawsze zupełnie sama",
+        "Kopać razem, nie w samotności",
+        "Wyjechać z placu do muzeum",
+        "Spać przez cały sezon budowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koparka chce kopać razem — nie w samotności."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się akcja?",
+      "answers": [
+        "W szkole muzycznej na wzgórzu",
+        "W porcie pełnym starych statków",
+        "Na placu budowy wśród maszyn",
+        "W lesie za miastem przy rzece"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akcja dzieje się na placu budowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta bajka?",
+      "answers": [
+        "Że maszyny nie potrzebują ludzi",
+        "Że plac budowy jest tylko dla dorosłych",
+        "Że najlepiej pracować zawsze osobno",
+        "Że wspólna praca daje więcej radości"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wspólna praca i bycie razem dają więcej radości."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak kończy się historia o koparce?",
+      "answers": [
+        "Koparka kopie razem, nie sama",
+        "Koparka zostaje sprzedana daleko",
+        "Koparka rdzewieje na złomowisku",
+        "Koparka wygrywa wyścig z dźwigiem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koparka dostaje to, czego chciała — kopać razem."
+    }
+  ]
+}

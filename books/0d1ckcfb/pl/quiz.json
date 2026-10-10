@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka tej opowieści?",
+      "answers": [
+        "Alicja, dziewczynka z latarnią",
+        "Gabriela, mama z latarnią w opowieści",
+        "Teodora, sąsiadka z portu",
+        "Alan, chłopiec z latarnią"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Alicja."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co szczególnego potrafi latarnia?",
+      "answers": [
+        "Świeci tylko w pełne księżyce",
+        "Opowiada historie, gdy się słucha",
+        "Zmienia kolor co każdą godzinę",
+        "Gasnie zawsze o północy równo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Latarnia opowiada — gdy ktoś naprawdę słucha."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kogo Alicja spotyka przy latarni?",
+      "answers": [
+        "Tylko mewy z portu morskiego",
+        "Tylko strażnika latarni morskiej",
+        "Alana i ludzi związanych z latarnią",
+        "Tylko kupców z pobliskiego targu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spotyka Alana i innych związanych z historią latarni."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta historia?",
+      "answers": [
+        "Że latarnie służą tylko do nawigacji",
+        "Że historie latarni trzeba ukrywać",
+        "Że dzieci nie powinny wchodzić do latarni",
+        "Że warto słuchać opowieści światła"
+      ],
+      "correctIndex": 3,
+      "explanation": "Warto słuchać — latarnia opowiada tym, którzy chcą usłyszeć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co jest sercem tej bajki?",
+      "answers": [
+        "Słuchanie historii zamiast ich gaszenia",
+        "Budowa nowej latarni w porcie w opowieści",
+        "Wyścig łodzi po wzburzonym morzu",
+        "Handel rybami na porannym targu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Serce bajki to słuchanie historii, które niesie światło latarni."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Kim jest Cyprian?",
+      "answers": [
+        "Starym psem mieszkającym z góralem",
+        "Młodym szczeniakiem z doliny",
+        "Kotem pilnującym chatki w górach",
+        "Koniem wożącym drewno na szczyt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cyprian to stary pies mieszkający z panem Donatem w górach."
+    },
+    {
+      "type": "single_choice",
+      "question": "Z kim mieszka Cyprian?",
+      "answers": [
+        "Z panią Nel z doliny",
+        "Z panem Donatem, góralem",
+        "Z pasterzem z sąsiedniej wsi",
+        "Z przewodnikiem turystycznym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mieszka z panem Donatem — góralem znającym każdą ścieżkę."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy góra Nel i Cypriana?",
+      "answers": [
+        "Że trzeba biec najszybciej pod szczyt",
+        "Że góry milczą i nie warto słuchać",
+        "Że kto słucha, ten słyszy i rośnie",
+        "Że tylko dorośli rozumieją wiatr"
+      ],
+      "correctIndex": 2,
+      "explanation": "Puenta: kto słucha, ten słyszy; kto czeka, ten rośnie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Nel usłyszała wyraźnie na końcu?",
+      "answers": [
+        "Rozkaz, by zejść z góry natychmiast",
+        "Piosenkę z radia w chatce Donata",
+        "Krzyk turystów z sąsiedniego szczytu",
+        "Że kto słucha, ten słyszy i rośnie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Usłyszała: kto słucha, ten słyszy; kto czeka, ten rośnie."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego Cyprian jest ważny w tej historii?",
+      "answers": [
+        "Bo uczy czekania i prawdziwego słuchania",
+        "Bo goni zwierzynę po całym szczycie",
+        "Bo pilnuje skarbu ukrytego w skale",
+        "Bo ciągnie sanki przez całą zimę w opowieści"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stary pies uczy Nel czekania i słuchania głosu góry."
+    }
+  ]
+}

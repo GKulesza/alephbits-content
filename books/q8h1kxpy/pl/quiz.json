@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Malwina",
+        "Gustaw",
+        "Pikuś",
+        "Nel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Malwina."
+    },
+    {
+      "type": "single_choice",
+      "question": "Z jakim miejscem związana jest Malwina?",
+      "answers": [
+        "Z portem pełnym starych statków",
+        "Z Kącikiem Lalkowym",
+        "Z kuźnią na skraju miasta",
+        "Z wieżą zamku królewskiego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pojawia się Kącik Lalkowy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki sekret odkrywa Malwina?",
+      "answers": [
+        "Sekret twardego pancerza bez uczuć",
+        "Sekret ukrytego skarbu pod podłogą",
+        "Sekret miękkiego serca i czułości",
+        "Sekret mapy do dalekiej wyspy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Odkrywa sekret miękkiego serca — czułości i wrażliwości."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta historia?",
+      "answers": [
+        "Że miękkie serce to zawsze słabość",
+        "Że lalki nie potrzebują ludzkiej troski",
+        "Że nieśmiałość trzeba ukrywać zawsze",
+        "Że wrażliwość może być prawdziwą siłą"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wrażliwość i miękkie serce mogą być siłą, nie wadą."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się w historii obok Malwiny?",
+      "answers": [
+        "Między innymi Gustaw i Pikuś",
+        "Tylko król z dalekiego zamku",
+        "Tylko smok z jaskini w górach",
+        "Tylko listonosz z poranną pocztą"
+      ],
+      "correctIndex": 0,
+      "explanation": "W historii pojawiają się m.in. Gustaw i Pikuś."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czym wyróżnia się Leandra?",
+      "answers": [
+        "Głosem, który pachnie miodem i deszczem",
+        "Siłą, z którą dźwiga worki z mąką",
+        "Szybkością w bieganiu po łące w opowieści",
+        "Wiedzą o wszystkich ziołach babci"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leandra ma głos, który — jak mówią — pachnie miodem i deszczem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kim jest Estera?",
+      "answers": [
+        "Królową z zamku na wzgórzu",
+        "Babcią Leandry, starą zielarką",
+        "Nauczycielką śpiewu w mieście",
+        "Sąsiadką z domu przy rzece"
+      ],
+      "correctIndex": 1,
+      "explanation": "Estera to babcia Leandry — stara zielarka."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dokąd Leandra wyjeżdża ze swoim darem?",
+      "answers": [
+        "Na wieś do zbierania jagód",
+        "Do szkoły muzycznej w dolinie",
+        "Do zamku po sławę i występy",
+        "Nad morze na długie wakacje"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jedzie do zamku — tam czeka sława i występy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Dlaczego melodia wraca do domu?",
+      "answers": [
+        "Bo zamek płaci lepiej za milczenie",
+        "Bo babcia każe sprzedać głos",
+        "Bo Leandra boi się śpiewać publicznie",
+        "Bo dar ma sens, gdy służy bliskim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dar nie jest tylko dla niej — ma sens, gdy wie, dla kogo go użyć."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co kwitnie przy końcu historii?",
+      "answers": [
+        "Jabłoń — znak powrotu i daru",
+        "Róża w ogrodzie zamkowym tylko",
+        "Lawenda na targu w mieście",
+        "Mięta w kuchni u sąsiadki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy końcu kwitnie jabłoń — symbol powrotu melodii do domu."
+    }
+  ]
+}

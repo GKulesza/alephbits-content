@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Eliza",
+        "Nel",
+        "Malwina",
+        "Milena"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Eliza."
+    },
+    {
+      "type": "single_choice",
+      "question": "O czym jest ta historia?",
+      "answers": [
+        "O kwiatach sprzedanych na targu",
+        "O kwiatach z drugiej strony",
+        "O ogrodzie zamkniętym na klucz",
+        "O suszeniu ziół na strychu"
+      ],
+      "correctIndex": 1,
+      "explanation": "To opowieść o kwiatach z drugiej strony."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy motyw „drugiej strony”?",
+      "answers": [
+        "Że warto patrzeć tylko na swoją stronę",
+        "Że kwiaty rosną wyłącznie w mieście",
+        "Że warto zobaczyć świat oczami innych",
+        "Że druga strona zawsze jest gorsza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Warto zobaczyć świat — i kwiaty — z drugiej strony."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki charakter ma ta bajka?",
+      "answers": [
+        "Kryminał o kradzieży kwiatów z parku",
+        "Horror o mówiących korzeniach w nocy",
+        "Reportaż o sprzedaży kwiatów w mieście",
+        "Poetycka opowieść o empatii i pięknie"
+      ],
+      "correctIndex": 3,
+      "explanation": "To poetycka bajka o empatii i patrzeniu inaczej."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Piękno rośnie, gdy spojrzysz z drugiej strony",
+        "Kwiaty należy zrywać tylko dla siebie samej",
+        "Druga strona ogrodu jest zawsze pusta całkiem",
+        "Empatia przeszkadza w zbieraniu kwiatów z grządek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piękno i zrozumienie rosną, gdy spojrzysz z drugiej strony."
+    }
+  ]
+}

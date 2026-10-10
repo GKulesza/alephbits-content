@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Czego boi się Otylia?",
+      "answers": [
+        "Ciemności w nocy",
+        "Głośnych autokarów",
+        "Zielonych dinozaurów",
+        "Pani Haliny z warzywniaka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otylia boi się ciemności — to jej wielka tajemnica."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie Otylia spotyka dinozaura Dino?",
+      "answers": [
+        "W piekarni na rogu",
+        "W tunelu w parku",
+        "Na boisku szkolnym",
+        "W domu u Justyny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spotyka Dino w tunelu podczas wycieczki w parku."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego boi się sam Dino?",
+      "answers": [
+        "Głośnych dzieci w grupie w opowieści",
+        "Jasnego słońca w południe",
+        "Ciemności tak samo jak Otylia",
+        "Mokrego deszczu jesienią"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dino też boi się ciemności — dlatego potrzebują siebie nawzajem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Co Otylia mówi mamie wieczorem?",
+      "answers": [
+        "Że już nigdy nie wyjdzie sama z domu",
+        "Że Dino zamieszka w ich małej kuchni",
+        "Że boi się tylko pani Haliny z sklepu",
+        "Że prawie się nie boi z przyjacielem"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mówi, że prawie się nie boi, bo w ciemności można znaleźć przyjaciela."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy zakończenie?",
+      "answers": [
+        "Strach bywa miejscem potrzebującym pomocy",
+        "Strach trzeba ukrywać przed wszystkimi",
+        "Tylko dorośli pokonują nocną ciemność",
+        "Dinozaury nie powinny spotykać dzieci"
+      ],
+      "correctIndex": 0,
+      "explanation": "Strach nie jest wrogiem — czasem ktoś w nim potrzebuje pomocy."
+    }
+  ]
+}

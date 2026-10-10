@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Brygida z tej opowieści",
+        "Dalia z sąsiedniej chatki",
+        "Racław z leśnej drogi",
+        "Halina z piekarni wsi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterką jest Brygida."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego szuka Brygida w tej historii?",
+      "answers": [
+        "Mapy do ukrytej jaskini w górach",
+        "Skarbu, który rośnie w sercu",
+        "Złota zakopanego pod starym dębem",
+        "Korony zgubionej przez króla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Szuka skarbu, który — jak się okazuje — rośnie w sercu."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się obok Brygidy w opowieści?",
+      "answers": [
+        "Tylko król z dalekiego zamku",
+        "Tylko kupiec z wielkiego miasta",
+        "Dalia i Racław bliscy jej drodze",
+        "Tylko smok strzegący jaskini"
+      ],
+      "correctIndex": 2,
+      "explanation": "W historii pojawiają się m.in. Dalia i Racław."
+    },
+    {
+      "type": "single_choice",
+      "question": "Gdzie naprawdę jest skarb z tytułu?",
+      "answers": [
+        "W skrzyni na dnie jeziora",
+        "W wieży strzeżonej przez smoka",
+        "W banku za siedmioma górami",
+        "W sercu — rośnie wraz z dobrocią"
+      ],
+      "correctIndex": 3,
+      "explanation": "Skarb rośnie w sercu, nie w skrzyni ze złotem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl bajki?",
+      "answers": [
+        "Najcenniejszy skarb rośnie w sercu",
+        "Najcenniejszy skarb to zawsze złoto",
+        "Najcenniejszy skarb trzeba ukryć",
+        "Najcenniejszy skarb należy królom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najcenniejszy skarb to ten, który rośnie w sercu."
+    }
+  ]
+}

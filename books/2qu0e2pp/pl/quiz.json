@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Gdzie toczy się ta historia?",
+      "answers": [
+        "W Krakowie i okolicach",
+        "W Gdańsku nad morzem",
+        "W Poznaniu na targu",
+        "W Warszawie na Starówce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Historia związana jest z Krakowem."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się bohaterka?",
+      "answers": [
+        "Urszula z zamku królewskiego",
+        "Matylda spotykająca smoka",
+        "Kinga z wawelskiego wzgórza",
+        "Halina z krakowskiego rynku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bohaterką jest Matylda."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego boi się smok w tej bajce?",
+      "answers": [
+        "Deszczu i zimnego wiatru",
+        "Ciemnych jaskiń pod Wawelem",
+        "Ludzi — nie odwrotnie",
+        "Głośnych dzwonów kościelnych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Smok boi się ludzi — to odwrócenie typowej legendy."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy spotkanie Matyldy ze smokiem?",
+      "answers": [
+        "Że smoki trzeba zawsze gonić",
+        "Że strach usprawiedliwia okrucieństwo",
+        "Że legenda ważniejsza od przyjaźni",
+        "Że strach można oswoić przez zrozumienie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Strach smoka można oswoić przez zrozumienie i odwagę serca."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaka jest główna myśl?",
+      "answers": [
+        "Smok też może bać się ludzi i potrzebować troski",
+        "Smoki zawsze są wrogami ludzkich miast i zamków",
+        "Tylko rycerze potrafią rozmawiać ze smokami nocą",
+        "Kraków nie potrzebuje żadnych legend ani smoków"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nawet smok może bać się ludzi i potrzebować życzliwości."
+    }
+  ]
+}

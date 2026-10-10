@@ -1,0 +1,67 @@
+{
+  "title": "Sprawdź zrozumienie",
+  "generatedBy": "compile_pack",
+  "generatedFrom": "reading-pack.md",
+  "questions": [
+    {
+      "type": "single_choice",
+      "question": "Jak nazywa się chłopiec z tej bajki?",
+      "answers": [
+        "Witold",
+        "Kacper",
+        "Ignacy",
+        "Marcel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bohaterem jest Witold."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego nie chce Kropelka?",
+      "answers": [
+        "Bawić się z Witoldem w dzień",
+        "Iść spać, gdy wypada pora snu",
+        "Spadać deszczem na parapet",
+        "Śpiewać „bul, bul” wieczorem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kropelka nie chce spać."
+    },
+    {
+      "type": "single_choice",
+      "question": "Jaki dźwięk kojarzy się z Kropelką?",
+      "answers": [
+        "Tick-tack zegara ściennego",
+        "Miauczenie kota za oknem",
+        "Bul, bul — odgłos kropelki",
+        "Szum aut z ulicy nocą"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pojawia się „Bul, bul, bul.” — głos kropelki."
+    },
+    {
+      "type": "single_choice",
+      "question": "Czego uczy ta bajka na dobranoc?",
+      "answers": [
+        "Że nikt nigdy nie powinien spać",
+        "Że deszcz przeszkadza w każdej zabawie",
+        "Że tylko dorośli potrzebują snu",
+        "Że sen przychodzi, gdy ktoś czule pomaga"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sen przychodzi łatwiej, gdy ktoś czule towarzyszy i pomaga."
+    },
+    {
+      "type": "single_choice",
+      "question": "Kto pojawia się w otoczeniu Witolda?",
+      "answers": [
+        "Między innymi Marta i Kinga",
+        "Tylko smok z jaskini w górach",
+        "Tylko król z dalekiego zamku",
+        "Tylko listonosz z poranną pocztą"
+      ],
+      "correctIndex": 0,
+      "explanation": "W historii pojawiają się m.in. Marta, Kinga (i motyw Kataru)."
+    }
+  ]
+}

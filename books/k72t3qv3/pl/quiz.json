@@ -19,25 +19,25 @@
       "type": "single_choice",
       "question": "Czego Maciek uczy się jako ojciec?",
       "answers": [
-        "Kuć dziecko jak metal",
-        "Słuchać, przepraszać, być obecnym",
-        "Ignorować rysunki",
-        "Porównywać dzieci"
+        "Kuć dziecko jak kawałek metalu",
+        "Słuchać, przepraszać i być obecnym",
+        "Ignorować rysunki i milczeć dalej",
+        "Porównywać dzieci z innymi w klasie"
       ],
       "correctIndex": 1,
-      "explanation": "Słucha, jest obecny; dziecko to nie metal do kucia."
+      "explanation": "Ojciec ma słuchać, przepraszać i być obecny — dziecko to nie metal do kucia."
     },
     {
       "type": "single_choice",
       "question": "Co córka rysuje?",
       "answers": [
-        "Samochód",
-        "Rodzinę: ja, ty i mama — wszyscy się uśmiechamy",
-        "Mapę Polski",
-        "Smoka"
+        "Samochód stojący przed domem",
+        "Rodzinę uśmiechniętą: ja, ty i mama",
+        "Mapę Polski na ścianie pokoju",
+        "Smoka z długim ogonem w chmurach"
       ],
       "correctIndex": 1,
-      "explanation": "Rysunek rodziny, która się uśmiecha."
+      "explanation": "Na rysunku jest uśmiechnięta rodzina: ja, ty i mama."
     },
     {
       "type": "single_choice",
@@ -55,13 +55,13 @@
       "type": "single_choice",
       "question": "Co Maciek robi po obejrzeniu rysunku?",
       "answers": [
-        "Wychodzi z pokoju",
-        "Siada obok i prosi: Opowiesz mi o tym rysunku?",
-        "Krytykuje kolory",
-        "Wyłącza światło"
+        "Wychodzi z pokoju bez słowa",
+        "Siada obok i prosi o opowieść",
+        "Krytykuje kolory na kartce",
+        "Wyłącza światło w pokoju"
       ],
       "correctIndex": 1,
-      "explanation": "Siada obok i prosi o opowiedzenie rysunku."
+      "explanation": "Siada obok syna i prosi, by opowiedział o rysunku."
     }
   ]
 }
